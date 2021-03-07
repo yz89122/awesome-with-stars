@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron:  '* * * * *'
+
+  workflow_dispatch:
+
+jobs:
+  update-awesome-go:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Git
+        run: |
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+
+      - name: Clone the repository and checkout to branch
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          REPOSITORY_URL="https://${GITHUB_ACTOR}:${ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone "$REPOSITORY_URL" repository
+          cd repository
+          git branch -a
+          git checkout markdowns
+        
+      - name: Update Awesome Go
+        run: |
+          curl -L 'https://raw.githubusercontent.com/avelino/awesome-go/master/README.md' > repository/awesome-go.md
+          python3 add_badges.py repository/awesome-go.md
+          cd repository
+          git pull
+          git add awesome-go.md
+          git commit -m 'updated awesome-go.md' && git push || true
+          
+  update-awesome-python:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Git
+        run: |
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+
+      - name: Clone the repository and checkout to branch
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          REPOSITORY_URL="https://${GITHUB_ACTOR}:${ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone "$REPOSITORY_URL" repository
+          cd repository
+          git branch -a
+          git checkout markdowns
+          
+      - name: Update Awesome Python
+        run: |
+          curl -L 'https://raw.githubusercontent.com/vinta/awesome-python/master/README.md' > repository/awesome-python.md
+          python3 add_badges.py repository/awesome-python.md
+          cd repository
+          git pull
+          git add awesome-python.md
+          git commit -m 'updated awesome-python.md' && git push || true
