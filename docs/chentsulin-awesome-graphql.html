@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>awesome-graphql | awesome-with-stars</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="awesome-graphql">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/chentsulin-awesome-graphql.html">
+<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/chentsulin-awesome-graphql.html">
+<meta property="og:site_name" content="awesome-with-stars">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="awesome-graphql">
+<script type="application/ld+json">
+{"headline":"awesome-graphql","url":"https://yz89122.github.io/awesome-with-stars/chentsulin-awesome-graphql.html","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=cb69fd0adee157160dd0964fd438c7a8a43e4b32">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://yz89122.github.io/awesome-with-stars/">awesome-with-stars</a></h1>
+      
+
+      <h1 id="awesome-graphql-">awesome-graphql <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a>
+</h1>
+
+<blockquote>
+  <p>Awesome list of GraphQL &amp; Relay</p>
+</blockquote>
+
+<p>If you want to contribute to this list (please do), send me a pull request.</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<!-- MarkdownTOC depth=4 -->
+
+<ul>
+  <li><a href="#spec">Specification</a></li>
+  <li><a href="#foundation">Foundation</a></li>
+  <li><a href="#community">Community</a></li>
+  <li>
+<a href="#lib">Libraries</a>
+    <ul>
+      <li><a href="#lib-js">Javascript</a></li>
+      <li><a href="#lib-ts">Typescript</a></li>
+      <li><a href="#lib-rb">Ruby</a></li>
+      <li><a href="#lib-php">PHP</a></li>
+      <li><a href="#lib-py">Python</a></li>
+      <li><a href="#lib-java">Java</a></li>
+      <li><a href="#lib-kotlin">Kotlin</a></li>
+      <li><a href="#lib-c">C/C++</a></li>
+      <li><a href="#lib-go">Go</a></li>
+      <li><a href="#lib-scala">Scala</a></li>
+      <li><a href="#lib-dotnet">.NET</a></li>
+      <li><a href="#lib-elixir">Elixir</a></li>
+      <li><a href="#lib-haskell">Haskell</a></li>
+      <li><a href="#lib-sql">SQL</a></li>
+      <li><a href="#lib-lua">Lua</a></li>
+      <li><a href="#lib-elm">Elm</a></li>
+      <li><a href="#lib-clojure">Clojure</a></li>
+      <li><a href="#lib-swift">Swift</a></li>
+      <li><a href="#lib-ocaml">OCaml</a></li>
+      <li><a href="#lib-android">Android</a></li>
+      <li><a href="#lib-ios">iOS</a></li>
+      <li><a href="#lib-clojurescript">ClojureScript</a></li>
+      <li><a href="#lib-reasonml">ReasonML</a></li>
+      <li><a href="#lib-dart">Dart</a></li>
+      <li><a href="#lib-rust">Rust</a></li>
+      <li><a href="#lib-d">D</a></li>
+      <li><a href="#lib-julia">Julia</a></li>
+      <li><a href="#lib-crystal">Crystal</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="#tools">Tools</a>
+    <ul>
+      <li><a href="#security-tools">Security</a></li>
+    </ul>
+  </li>
+  <li><a href="#services">Services</a></li>
+  <li><a href="#databases">Databases</a></li>
+  <li>
+<a href="#example">Examples</a>
+    <ul>
+      <li><a href="#example-js">Javascript</a></li>
+      <li><a href="#example-ts">Typescript</a></li>
+      <li><a href="#example-rb">Ruby</a></li>
+      <li><a href="#example-go">Go</a></li>
+      <li><a href="#example-scala">Scala</a></li>
+      <li><a href="#example-python">Python</a></li>
+      <li><a href="#example-elixir">Elixir</a></li>
+      <li><a href="#example-java">Java</a></li>
+      <li><a href="#example-android">Android</a></li>
+      <li><a href="#example-ios">iOS</a></li>
+      <li><a href="#example-clojure">Clojure</a></li>
+      <li><a href="#example-php">PHP</a></li>
+    </ul>
+  </li>
+  <li><a href="#book">Books</a></li>
+  <li><a href="#video">Videos</a></li>
+  <li>
+<a href="#blogs">Blogs</a>
+    <ul>
+      <li><a href="#security-blog">Security</a></li>
+    </ul>
+  </li>
+  <li><a href="#post">Posts</a></li>
+  <li><a href="#workshopper">Workshoppers</a></li>
+</ul>
+
+<!-- /MarkdownTOC -->
+
+<p><a name="spec"></a></p>
+
+<h2 id="specification">Specification</h2>
+
+<ul>
+  <li>
+<a href="https://facebook.github.io/graphql/">facebook/graphql</a> - Working Draft of the Specification for GraphQL created by Facebook.</li>
+</ul>
+
+<p><a name="foundation"></a></p>
+
+<h2 id="foundation">Foundation</h2>
+
+<ul>
+  <li>
+<a href="https://foundation.graphql.org/">GraphQL Foundation</a> - GraphQL Foundation under the Linux Foundation</li>
+</ul>
+
+<p><a name="community"></a></p>
+
+<h2 id="community">Community</h2>
+
+<ul>
+  <li>
+<a href="https://graphql.slack.com/messages/general/">Slack</a> - Share and help people on the chat. Get your invite <a href="https://graphql-slack.herokuapp.com/">here</a>
+</li>
+  <li>
+<a href="http://join.reactiflux.com/">Discord</a> - Join #graphql on the ReactiFlux Discord server</li>
+  <li>
+<a href="https://www.facebook.com/groups/795330550572866/">Facebook</a> - Group for discussions, articles and knowledge sharing</li>
+  <li>
+<a href="https://twitter.com/search?q=%23GraphQL">Twitter</a> - Use the hashtag #graphql</li>
+  <li>
+<a href="https://stackoverflow.com/questions/tagged/graphql">StackOverflow</a> - Questions and answers. Use the tag <a href="https://stackoverflow.com/questions/tagged/graphql">graphql</a>
+</li>
+  <li>
+<a href="https://github.com/APIs-guru/graphql-apis">GraphQL APIs <img src="https://img.shields.io/github/stars/APIs-guru/graphql-apis" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/APIs-guru/graphql-apis" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collective list of public GraphQL APIs</li>
+  <li>
+<a href="https://graphql-world.com">GraphQL World</a> - The fastest growing community of GraphQL developers</li>
+  <li>
+<a href="https://old.reddit.com/r/graphql/">/r/GraphQL</a> - A Subreddit for interesting and informative GraphQL content and discussions.</li>
+  <li>
+<a href="https://graphql.jobs">GraphQL Jobs</a> - A list of GraphQL-based jobs in startups all over the world.</li>
+  <li>
+<a href="https://www.bookmarks.dev/search?q=graphql">Bookmarks.dev</a> - Dev bookmarks. Use the tag <a href="https://www.bookmarks.dev/tagged/graphql">graphql</a>
+</li>
+  <li>
+<a href="https://www.graphqlweekly.com/">GraphQL Weekly</a> - A weekly newsletter highlighting resources and news from the GraphQL community</li>
+</ul>
+
+<p><a name="meetups"></a></p>
+
+<h2 id="graphql-meetups">GraphQL Meetups</h2>
+
+<ul>
+  <li><a href="https://www.meetup.com/Amsterdam-GraphQL-Meetup/">Amsterdam</a></li>
+  <li><a href="https://www.meetup.com/graphql-bangalore/">Bangalore</a></li>
+  <li><a href="https://www.meetup.com/graphql-berlin/">Berlin</a></li>
+  <li><a href="https://www.meetup.com/es-ES/GraphQL-BA/">Buenos Aires</a></li>
+  <li><a href="https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/">Copenhagen</a></li>
+  <li><a href="https://www.meetup.com/DFW-GraphQL-Meetup/">Dallas-Fort Worth</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-London/">London</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Manchester/">Manchester</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Melbourne/">Melbourne</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Montreal/">Montreal</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Munich/">Munich</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-NYC/">New York City</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-SF/">San Francisco</a></li>
+  <li><a href="https://www.meetup.com/Seattle-GraphQL/">Seattle</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Sydney/">Sydney</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-TLV/">Tel Aviv</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Toronto/">Toronto</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Wroclaw/">Wrocław</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-SG/">Singapore</a></li>
+  <li><a href="https://www.meetup.com/GraphQL-Zurich/">Zurich</a></li>
+</ul>
+
+<p><a name="lib"></a></p>
+
+<h2 id="libraries">Libraries</h2>
+
+<p><a name="lib-js"></a></p>
+
+<h3 id="javascript-libraries">JavaScript Libraries</h3>
+
+<h4 id="clients">Clients</h4>
+<ul>
+  <li>
+<a href="https://github.com/facebook/relay">relay <img src="https://img.shields.io/github/stars/facebook/relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/facebook/relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Relay is a JavaScript framework for building data-driven React applications.</li>
+  <li>
+<a href="https://github.com/apollographql/apollo-client">Apollo Client <img src="https://img.shields.io/github/stars/apollographql/apollo-client" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/apollo-client" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.</li>
+  <li>
+<a href="https://apolloelements.dev">Apollo Elements</a> - GraphQL web components that work in any frontend framework.</li>
+  <li>
+<a href="https://github.com/aws-amplify/amplify-js">aws-amplify <img src="https://img.shields.io/github/stars/aws-amplify/amplify-js" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aws-amplify/amplify-js" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.</li>
+  <li>
+<a href="https://github.com/nearform/graphql-hooks">graphql-hooks <img src="https://img.shields.io/github/stars/nearform/graphql-hooks" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nearform/graphql-hooks" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimal hooks-first GraphQL client with caching and server-side rendering support.</li>
+  <li>
+<a href="https://github.com/prisma/graphql-request">graphql-request <img src="https://img.shields.io/github/stars/prisma/graphql-request" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/prisma/graphql-request" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A minimal GraphQL client for Node and browsers.</li>
+  <li>
+<a href="https://github.com/gucheen/FetchQL">FetchQL <img src="https://img.shields.io/github/stars/gucheen/FetchQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gucheen/FetchQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple GraphQL query client using Fetch.</li>
+  <li>
+<a href="https://github.com/FormidableLabs/urql">urql <img src="https://img.shields.io/github/stars/FormidableLabs/urql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/FormidableLabs/urql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple caching GraphQL client for React.</li>
+  <li>
+<a href="https://github.com/arackaf/micro-graphql-react">micro-graphql-react <img src="https://img.shields.io/github/stars/arackaf/micro-graphql-react" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/arackaf/micro-graphql-react" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.</li>
+  <li>
+<a href="https://github.com/kadirahq/lokka">Lokka <img src="https://img.shields.io/github/stars/kadirahq/lokka" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kadirahq/lokka" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple JavaScript client for GraphQL, which you can use anywhere.</li>
+  <li>
+<a href="https://github.com/kennetpostigo/react-reach">react-reach <img src="https://img.shields.io/github/stars/kennetpostigo/react-reach" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kennetpostigo/react-reach" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A library to communicate with Graphql through Redux.</li>
+  <li>
+<a href="https://github.com/grafoojs/grafoo">Grafoo <img src="https://img.shields.io/github/stars/grafoojs/grafoo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/grafoojs/grafoo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A tiny yet fully fledged cache based GraphQL client</li>
+  <li>
+<a href="https://github.com/mobxjs/mst-gql">mst-gql <img src="https://img.shields.io/github/stars/mobxjs/mst-gql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mobxjs/mst-gql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Bindings for mobx-state-tree and GraphQL</li>
+  <li>
+<a href="https://github.com/addityasingh/graphql-pino-middleware">graphql-pino-middleware <img src="https://img.shields.io/github/stars/addityasingh/graphql-pino-middleware" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/addityasingh/graphql-pino-middleware" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL middleware to augment resolvers with pino logger</li>
+  <li>
+<a href="https://github.com/addityasingh/graphql-lightstep-middleware">graphql-lightstep-middleware <img src="https://img.shields.io/github/stars/addityasingh/graphql-lightstep-middleware" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/addityasingh/graphql-lightstep-middleware" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL middleware to instrument resolvers with <code class="language-plaintext highlighter-rouge">lightstep</code> traces</li>
+</ul>
+
+<h4 id="http-server-bindings">HTTP Server Bindings</h4>
+<ul>
+  <li>
+<a href="https://github.com/graphql/express-graphql">express-graphql <img src="https://img.shields.io/github/stars/graphql/express-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/express-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Express Middleware.</li>
+  <li>
+<a href="https://github.com/SimonDegraeve/hapi-graphql">hapi-graphql <img src="https://img.shields.io/github/stars/SimonDegraeve/hapi-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/SimonDegraeve/hapi-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Create a GraphQL HTTP server with Hapi.</li>
+  <li>
+<a href="https://github.com/rse/hapi-plugin-graphiql">hapi-plugin-graphiql <img src="https://img.shields.io/github/stars/rse/hapi-plugin-graphiql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rse/hapi-plugin-graphiql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - HAPI plugin for GraphiQL integration.</li>
+  <li>
+<a href="https://github.com/jaydenseric/graphql-api-koa">graphql-api-koa <img src="https://img.shields.io/github/stars/jaydenseric/graphql-api-koa" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jaydenseric/graphql-api-koa" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.</li>
+  <li>
+<a href="https://github.com/chentsulin/koa-graphql">koa-graphql <img src="https://img.shields.io/github/stars/chentsulin/koa-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/chentsulin/koa-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Koa Middleware.</li>
+</ul>
+
+<h4 id="database--orm">Database &amp; ORM</h4>
+<ul>
+  <li>
+<a href="https://github.com/brysgo/graphql-bookshelf">graphql-bookshelf <img src="https://img.shields.io/github/stars/brysgo/graphql-bookshelf" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/brysgo/graphql-bookshelf" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Some help defining GraphQL schema around BookshelfJS models.</li>
+  <li>
+<a href="https://github.com/mickhansen/graphql-sequelize">graphql-sequelize <img src="https://img.shields.io/github/stars/mickhansen/graphql-sequelize" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mickhansen/graphql-sequelize" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Sequelize helpers for GraphQL.</li>
+  <li>
+<a href="https://github.com/fenos/graphql-thinky">graphql-thinky <img src="https://img.shields.io/github/stars/fenos/graphql-thinky" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fenos/graphql-thinky" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Build an optimized GraphQL schema from Thinky RethinkDB models.</li>
+  <li>
+<a href="https://github.com/rse/graphql-tools-sequelize">graphql-tools-sequelize <img src="https://img.shields.io/github/stars/rse/graphql-tools-sequelize" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rse/graphql-tools-sequelize" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - OO-style schema definition functions and schema resolver functions for GraphQL-Tools using Sequelize ORM</li>
+  <li>
+<a href="https://github.com/larsbs/graysql-orm-loader">graysql-orm-loader <img src="https://img.shields.io/github/stars/larsbs/graysql-orm-loader" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/larsbs/graysql-orm-loader" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraysQL extension to load a GraphQL schema from an ORM.</li>
+  <li>
+<a href="https://github.com/Illuday/fireQL">fireQL <img src="https://img.shields.io/github/stars/Illuday/fireQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Illuday/fireQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL API for Firebase (Firestore database), auto-hosted on cloud functions.</li>
+</ul>
+
+<h4 id="miscellaneous">Miscellaneous</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql/graphql-js">GraphQL.js <img src="https://img.shields.io/github/stars/graphql/graphql-js" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/graphql-js" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A reference implementation of GraphQL for JavaScript.</li>
+  <li>
+<a href="https://github.com/prisma-labs/graphql-yoga">graphql-yoga <img src="https://img.shields.io/github/stars/prisma-labs/graphql-yoga" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/prisma-labs/graphql-yoga" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.</li>
+  <li>
+<a href="https://github.com/graphql/codemirror-graphql">codemirror-graphql <img src="https://img.shields.io/github/stars/graphql/codemirror-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/codemirror-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL mode and helpers for CodeMirror.</li>
+  <li>
+<a href="https://github.com/devknoll/graphql-schema">graphql-schema <img src="https://img.shields.io/github/stars/devknoll/graphql-schema" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/devknoll/graphql-schema" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Create GraphQL schemas with a fluent/chainable interface.</li>
+  <li>
+<a href="https://github.com/rse/graphql-tools-types">graphql-tools-types <img src="https://img.shields.io/github/stars/rse/graphql-tools-types" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rse/graphql-tools-types" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Custom GraphQL types for use with GraphQL-Tools (Void, Int, Float, String, Date, UUID, JSON)</li>
+  <li>
+<a href="https://github.com/monojack/graphql-normalizr">graphql-normalizr <img src="https://img.shields.io/github/stars/monojack/graphql-normalizr" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/monojack/graphql-normalizr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Normalize GraphQL responses for persisting in the client cache/state</li>
+  <li>
+<a href="https://github.com/ooflorent/babel-plugin-graphql">babel-plugin-graphql <img src="https://img.shields.io/github/stars/ooflorent/babel-plugin-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ooflorent/babel-plugin-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Babel plugin that compile GraphQL tagged template strings.</li>
+  <li>
+<a href="https://github.com/gyzerok/adrenaline">adrenaline <img src="https://img.shields.io/github/stars/gyzerok/adrenaline" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gyzerok/adrenaline" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - React bindings for Redux with Relay in mind.</li>
+  <li>
+<a href="https://github.com/matthewmueller/graph.ql">graph.ql <img src="https://img.shields.io/github/stars/matthewmueller/graph.ql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/matthewmueller/graph.ql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Faster and simpler technique for creating and querying GraphQL schemas.</li>
+  <li>
+<a href="https://strapi.io/documentation/graphql">Strapi</a> - Open-source Node.js framework that supports “GraphQL” out of the box.</li>
+  <li>
+<a href="https://github.com/larsbs/graysql">GraysQL <img src="https://img.shields.io/github/stars/larsbs/graysql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/larsbs/graysql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL manager and loader.</li>
+  <li>
+<a href="https://github.com/almilo/annotated-graphql">Annotated GraphQL <img src="https://img.shields.io/github/stars/almilo/annotated-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/almilo/annotated-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).</li>
+  <li>
+<a href="https://github.com/apollographql/graphql-tools">graphql-tools <img src="https://img.shields.io/github/stars/apollographql/graphql-tools" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/graphql-tools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool library for building and maintaining GraphQL-JS servers.</li>
+  <li>
+<a href="https://github.com/apollographql/graphql-anywhere">graphql-anywhere <img src="https://img.shields.io/github/stars/apollographql/graphql-anywhere" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/graphql-anywhere" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Run a GraphQL query anywhere, against any data, with no schema.</li>
+  <li>
+<a href="https://github.com/apollographql/graphql-tag">graphql-tag <img src="https://img.shields.io/github/stars/apollographql/graphql-tag" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/graphql-tag" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A JavaScript template literal tag that parses GraphQL queries.</li>
+  <li>
+<a href="https://github.com/julienvincent/modelizr">modelizr <img src="https://img.shields.io/github/stars/julienvincent/modelizr" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/julienvincent/modelizr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.</li>
+  <li>
+<a href="https://github.com/Akryum/vue-apollo">vue-apollo <img src="https://img.shields.io/github/stars/Akryum/vue-apollo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Akryum/vue-apollo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Vue integration for apollo.</li>
+  <li>
+<a href="https://github.com/MikeBild/graphql-pouch">graphql-pouch <img src="https://img.shields.io/github/stars/MikeBild/graphql-pouch" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/MikeBild/graphql-pouch" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL-API runtime on top of PouchDB created by GraphQL shorthand notation as a self contained service with CouchDB synchronization.</li>
+  <li>
+<a href="https://github.com/almilo/gql-tools">gql-tools <img src="https://img.shields.io/github/stars/almilo/gql-tools" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/almilo/gql-tools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool library with CLI for schema generation and manipulation.</li>
+  <li>
+<a href="https://github.com/excitement-engineer/graphql-iso-date">graphql-iso-date <img src="https://img.shields.io/github/stars/excitement-engineer/graphql-iso-date" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/excitement-engineer/graphql-iso-date" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.</li>
+  <li>
+<a href="https://github.com/graphql-compose/graphql-compose">graphql-compose <img src="https://img.shields.io/github/stars/graphql-compose/graphql-compose" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-compose/graphql-compose" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool which allows you to construct flexible graphql schema from different data sources via plugins.</li>
+  <li>
+<a href="https://github.com/mwilliamson/node-graphjoiner">node-graphjoiner <img src="https://img.shields.io/github/stars/mwilliamson/node-graphjoiner" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mwilliamson/node-graphjoiner" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Create GraphQL APIs using joins, SQL or otherwise.</li>
+  <li>
+<a href="https://github.com/acarl005/join-monster">Join Monster <img src="https://img.shields.io/github/stars/acarl005/join-monster" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/acarl005/join-monster" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL-to-SQL query execution layer for batch data fetching.</li>
+  <li>
+<a href="https://github.com/graphql-factory">graphql-factory</a> - Create GraphQL types from JSON definitions</li>
+  <li>
+<a href="https://github.com/stereobooster/type-o-rama">type-o-rama <img src="https://img.shields.io/github/stars/stereobooster/type-o-rama" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stereobooster/type-o-rama" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - JS type systems interportability.</li>
+  <li>
+<a href="https://github.com/graphitejs/server">GraphiteJS <img src="https://img.shields.io/github/stars/graphitejs/server" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphitejs/server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Framework NodeJS for GraphQl.</li>
+  <li>
+<a href="https://github.com/zhangkaiyulw/graphql-joker">GraphQL Joker <img src="https://img.shields.io/github/stars/zhangkaiyulw/graphql-joker" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zhangkaiyulw/graphql-joker" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The ultimate GraphQL scaffolding tool.</li>
+  <li>
+<a href="https://github.com/mesosphere/reactive-graphql">reactive-graphql <img src="https://img.shields.io/github/stars/mesosphere/reactive-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mesosphere/reactive-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Implementation of GraphQL based on RxJS and that supports live queries.</li>
+  <li>
+<a href="https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql">Preact-urql <img src="https://img.shields.io/github/stars/FormidableLabs/urql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/FormidableLabs/urql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Preact integration for urql.</li>
+  <li>
+<a href="https://github.com/piglovesyou/graphql-let">graphql-let <img src="https://img.shields.io/github/stars/piglovesyou/graphql-let" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/piglovesyou/graphql-let" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A webpack loader to import type-protected codegen results directly from GraphQL documents</li>
+  <li>
+<a href="https://www.npmjs.com/package/graphql-ably-pubsub">graphql-ably-pubsub</a> - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.</li>
+</ul>
+
+<h4 id="relay-related">Relay Related</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql/graphql-relay-js">graphql-relay-js <img src="https://img.shields.io/github/stars/graphql/graphql-relay-js" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/graphql-relay-js" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A library to help construct a graphql-js server supporting react-relay.</li>
+  <li>
+<a href="https://github.com/MattMcFarland/sequelize-relay">sequelize-relay <img src="https://img.shields.io/github/stars/MattMcFarland/sequelize-relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/MattMcFarland/sequelize-relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Serverside library that connects sequelize and graphql-relay-js together.</li>
+  <li>
+<a href="https://www.npmjs.com/package/babel-relay-plugin">babel-relay-plugin</a> - Babel Relay Plugin for transpiling GraphQL queries for use with Relay.</li>
+  <li>
+<a href="https://github.com/relay-tools/react-router-relay">react-router-relay <img src="https://img.shields.io/github/stars/relay-tools/react-router-relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/relay-tools/react-router-relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Relay integration for React Router.</li>
+  <li>
+<a href="https://github.com/relay-tools/relay-local-schema">relay-local-schema <img src="https://img.shields.io/github/stars/relay-tools/relay-local-schema" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/relay-tools/relay-local-schema" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Use Relay without a GraphQL server.</li>
+  <li>
+<a href="https://github.com/acdlite/relay-sink">relay-sink <img src="https://img.shields.io/github/stars/acdlite/relay-sink" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/acdlite/relay-sink" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Use Relay to fetch and store data outside of a React component.</li>
+  <li>
+<a href="https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay">recompose-relay <img src="https://img.shields.io/github/stars/acdlite/recompose" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/acdlite/recompose" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Recompose helpers for Relay.</li>
+  <li>
+<a href="https://github.com/larsbs/graysql#Graylay">Graylay <img src="https://img.shields.io/github/stars/larsbs/graysql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/larsbs/graysql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraysQL extension to create a Relay compatible Schema.</li>
+  <li>
+<a href="https://github.com/relay-tools/react-relay-network-layer">react-relay-network-layer <img src="https://img.shields.io/github/stars/relay-tools/react-relay-network-layer" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/relay-tools/react-relay-network-layer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).</li>
+  <li>
+<a href="https://github.com/relay-tools/relay-subscriptions">relay-subscriptions <img src="https://img.shields.io/github/stars/relay-tools/relay-subscriptions" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/relay-tools/relay-subscriptions" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Subscription support for Relay.</li>
+  <li>
+<a href="https://github.com/alex-cory/portfolio">Portfolio Relay Example <img src="https://img.shields.io/github/stars/alex-cory/portfolio" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/alex-cory/portfolio" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!</li>
+</ul>
+
+<p><a name="lib-ts"></a></p>
+
+<h3 id="typescript-libraries">TypeScript Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/prisma/nexus">GraphQL Nexus <img src="https://img.shields.io/github/stars/prisma/nexus" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/prisma/nexus" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript &amp; JavaScript.</li>
+</ul>
+
+<p><a name="lib-rb"></a></p>
+
+<h3 id="ruby-libraries">Ruby Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/rmosolgo/graphql-ruby">graphql-ruby <img src="https://img.shields.io/github/stars/rmosolgo/graphql-ruby" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Ruby implementation of Facebook’s GraphQL.</li>
+  <li>
+<a href="https://github.com/github/graphql-client">graphql-client <img src="https://img.shields.io/github/stars/github/graphql-client" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/github/graphql-client" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Ruby library for declaring, composing and executing GraphQL queries.</li>
+  <li>
+<a href="https://github.com/Shopify/graphql-batch">graphql-batch <img src="https://img.shields.io/github/stars/Shopify/graphql-batch" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Shopify/graphql-batch" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A query batching executor for the graphql gem.</li>
+  <li>
+<a href="https://github.com/o2web/graphql-auth">graphql-auth <img src="https://img.shields.io/github/stars/o2web/graphql-auth" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/o2web/graphql-auth" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A JWT auth wrapper working with devise.</li>
+  <li>
+<a href="https://github.com/ohler55/agoo">agoo <img src="https://img.shields.io/github/stars/ohler55/agoo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ohler55/agoo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Ruby web server that implements Facebook’s GraphQL.</li>
+  <li>
+<a href="https://github.com/contentful-labs/gqli.rb">GQLi <img src="https://img.shields.io/github/stars/contentful-labs/gqli.rb" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/contentful-labs/gqli.rb" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL client and DSL. Allowing to write queries in native Ruby.</li>
+</ul>
+
+<p><a name="lib-php"></a></p>
+
+<h3 id="php-libraries">PHP Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/webonyx/graphql-php">graphql-php <img src="https://img.shields.io/github/stars/webonyx/graphql-php" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/webonyx/graphql-php" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A PHP port of GraphQL reference implementation.</li>
+  <li>
+<a href="https://github.com/railt/railt">Railt <img src="https://img.shields.io/github/stars/railt/railt" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/railt/railt" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - High quality and loosely coupled framework for developing GraphQL applications using all the modern qualities of the language.</li>
+  <li>
+<a href="https://github.com/digiaonline/graphql-php">digiaonline <img src="https://img.shields.io/github/stars/digiaonline/graphql-php" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/digiaonline/graphql-php" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Yet another PHP port of GraphQL reference implementation.</li>
+  <li>
+<a href="https://github.com/youshido-php/GraphQL">GraphQL <img src="https://img.shields.io/github/stars/youshido-php/GraphQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/youshido-php/GraphQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> (<em>abandoned</em>) - Well documented PHP implementation with no dependencies.</li>
+  <li>
+<a href="https://github.com/ivome/graphql-relay-php">graphql-relay-php <img src="https://img.shields.io/github/stars/ivome/graphql-relay-php" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ivome/graphql-relay-php" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Relay helpers for webonyx/graphql-php implementation of GraphQL.</li>
+  <li>
+<a href="https://github.com/nuwave/lighthouse">lighthouse <img src="https://img.shields.io/github/stars/nuwave/lighthouse" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nuwave/lighthouse" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A PHP package that allows to serve a GraphQL endpoint from your Laravel application.</li>
+  <li>
+<a href="https://github.com/folkloreinc/laravel-graphql">laravel-graphql <img src="https://img.shields.io/github/stars/folkloreinc/laravel-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/folkloreinc/laravel-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> (<em>abandoned</em>) - Facebook GraphQL for Laravel 5.</li>
+  <li>
+<a href="https://github.com/nuwave/laravel-graphql-relay">laravel-graphql-relay <img src="https://img.shields.io/github/stars/nuwave/laravel-graphql-relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nuwave/laravel-graphql-relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Laravel library to help construct a server supporting react-relay.</li>
+  <li>
+<a href="https://github.com/4rthem/graphql-mapper">graphql-mapper <img src="https://img.shields.io/github/stars/4rthem/graphql-mapper" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/4rthem/graphql-mapper" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> (<em>abandoned</em>) - This library allows to build a GraphQL schema based on your model.</li>
+  <li>
+<a href="https://github.com/hoticeking/GraphQLBundle">graphql-bundle <img src="https://img.shields.io/github/stars/hoticeking/GraphQLBundle" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hoticeking/GraphQLBundle" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Bundle for Symfony 2.</li>
+  <li>
+<a href="https://github.com/overblog/GraphQLBundle">overblog/graphql-bundle <img src="https://img.shields.io/github/stars/overblog/GraphQLBundle" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/overblog/GraphQLBundle" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.</li>
+  <li>
+<a href="https://github.com/youshido-php/GraphQLBundle">GraphQL Symfony Bundle <img src="https://img.shields.io/github/stars/youshido-php/GraphQLBundle" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/youshido-php/GraphQLBundle" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Bundle for the Symfony 3 (supports 2.6+).</li>
+  <li>
+<a href="https://github.com/tim-field/graphql-wp">graphql-wp <img src="https://img.shields.io/github/stars/tim-field/graphql-wp" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tim-field/graphql-wp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - WordPress plugin that exposes a GraphQL endpoint.</li>
+  <li>
+<a href="https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms">eZ Platform GraphQL Bundle</a> - GraphQL Bundle for the eZ Platform Symfony CMS.</li>
+  <li>
+<a href="https://github.com/stefanorg/graphql-middleware">GraphQL Middleware <img src="https://img.shields.io/github/stars/stefanorg/graphql-middleware" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stefanorg/graphql-middleware" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Psr7 Middleware</li>
+  <li>
+<a href="https://github.com/stefanorg/zend-expressive-graphiql">Zend Expressive GraphiQL Extension <img src="https://img.shields.io/github/stars/stefanorg/zend-expressive-graphiql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stefanorg/zend-expressive-graphiql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphiQL extension for zend expressive</li>
+  <li>
+<a href="https://github.com/thecodingmachine/graphqlite">GraphQLite <img src="https://img.shields.io/github/stars/thecodingmachine/graphqlite" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/thecodingmachine/graphqlite" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.</li>
+  <li>
+<a href="https://github.com/leocavalcante/siler">Siler <img src="https://img.shields.io/github/stars/leocavalcante/siler" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leocavalcante/siler" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.</li>
+  <li>
+<a href="https://github.com/infinityloop-dev/graphpinator">GraPHPinator <img src="https://img.shields.io/github/stars/infinityloop-dev/graphpinator" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/infinityloop-dev/graphpinator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Easy-to-use GraphQL server implementation for modern PHP.</li>
+</ul>
+
+<p><a name="lib-py"></a></p>
+
+<h3 id="python-libraries">Python Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/tryolabs/graphql-parser">graphql-parser <img src="https://img.shields.io/github/stars/tryolabs/graphql-parser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tryolabs/graphql-parser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL parser for Python.</li>
+  <li>
+<a href="https://github.com/graphql-python/graphql-core">graphql-core <img src="https://img.shields.io/github/stars/graphql-python/graphql-core" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/graphql-core" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL implementation for Python based on GraphQL.js v0.6.0 reference implementation</li>
+  <li>
+<a href="https://github.com/graphql-python/graphql-core-next">graphql-core-next <img src="https://img.shields.io/github/stars/graphql-python/graphql-core-next" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/graphql-core-next" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Latest GraphQL implementation based on GraphQL.js v14.5.6 reference implementation</li>
+  <li>
+<a href="https://github.com/graphql-python/graphql-relay-py">graphql-relay-py <img src="https://img.shields.io/github/stars/graphql-python/graphql-relay-py" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/graphql-relay-py" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A library to help construct a graphql-py server supporting react-relay.</li>
+  <li>
+<a href="https://github.com/tallstreet/graphql-parser-python">graphql-parser-python <img src="https://img.shields.io/github/stars/tallstreet/graphql-parser-python" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tallstreet/graphql-parser-python" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A python wrapper around libgraphqlparser.</li>
+  <li>
+<a href="https://github.com/graphql-python/graphene">graphene <img src="https://img.shields.io/github/stars/graphql-python/graphene" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/graphene" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A package for creating GraphQL schemas/types in a Pythonic easy way.</li>
+  <li>
+<a href="https://github.com/graphql-python/graphene-gae">graphene-gae <img src="https://img.shields.io/github/stars/graphql-python/graphene-gae" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/graphene-gae" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Adds GraphQL support to Google AppEngine (GAE).</li>
+  <li>
+<a href="https://github.com/GraphQL-python-archive/django-graphiql">django-graphiql <img src="https://img.shields.io/github/stars/GraphQL-python-archive/django-graphiql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/GraphQL-python-archive/django-graphiql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Integrate GraphiQL easily into your Django project.</li>
+  <li>
+<a href="https://github.com/graphql-python/flask-graphql">flask-graphql <img src="https://img.shields.io/github/stars/graphql-python/flask-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/flask-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Adds GraphQL support to your Flask application.</li>
+  <li>
+<a href="https://github.com/prisma/python-graphql-client">python-graphql-client <img src="https://img.shields.io/github/stars/prisma/python-graphql-client" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/prisma/python-graphql-client" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple GraphQL client for Python 2.7+</li>
+  <li>
+<a href="https://github.com/healx/python-graphjoiner">python-graphjoiner <img src="https://img.shields.io/github/stars/healx/python-graphjoiner" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/healx/python-graphjoiner" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Create GraphQL APIs using joins, SQL or otherwise.</li>
+  <li>
+<a href="https://github.com/graphql-python/graphene-django">graphene-django <img src="https://img.shields.io/github/stars/graphql-python/graphene-django" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/graphene-django" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Django integration for Graphene.</li>
+  <li>
+<a href="https://github.com/callsign-viper/Flask-GraphQL-Auth">Flask-GraphQL-Auth <img src="https://img.shields.io/github/stars/callsign-viper/Flask-GraphQL-Auth" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/callsign-viper/Flask-GraphQL-Auth" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An authentication library for Flask inspired from flask-jwt-extended.</li>
+  <li>
+<a href="https://github.com/dailymotion/tartiflette">tartiflette <img src="https://img.shields.io/github/stars/dailymotion/tartiflette" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dailymotion/tartiflette" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Implementation, SDL First, for python 3.6+ / asyncio.</li>
+  <li>
+<a href="https://github.com/dailymotion/tartiflette-aiohttp">tartiflette-aiohttp <img src="https://img.shields.io/github/stars/dailymotion/tartiflette-aiohttp" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dailymotion/tartiflette-aiohttp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio, <a href="https://tartiflette.io/docs/tutorial/getting-started">official tutorial available on tartiflette.io</a>.</li>
+  <li>
+<a href="https://github.com/mirumee/ariadne">Ariadne <img src="https://img.shields.io/github/stars/mirumee/ariadne" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mirumee/ariadne" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - library for implementing GraphQL servers using schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular webframeworks, <a href="https://ariadnegraphql.org">fully documented</a>.</li>
+  <li>
+<a href="https://github.com/iashraful/pnp-graphql">pnp-graphql <img src="https://img.shields.io/github/stars/iashraful/pnp-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/iashraful/pnp-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Django integration for GraphQL with Graphene. It’s fully plug and play type. No extra code needed to expose basic api with filtering, pagination and mutations.</li>
+  <li>
+<a href="https://github.com/PedroBern/django-graphql-auth">django-graphql-auth <img src="https://img.shields.io/github/stars/PedroBern/django-graphql-auth" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/PedroBern/django-graphql-auth" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Django registration and authentication with GraphQL.</li>
+</ul>
+
+<p><a name="lib-java"></a></p>
+
+<h3 id="java-libraries">Java Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql-java/graphql-java">graphql-java <img src="https://img.shields.io/github/stars/graphql-java/graphql-java" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-java/graphql-java" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Java implementation.</li>
+  <li>
+<a href="https://github.com/graphql-java/graphql-java-type-generator">gaphql-java-type-generator <img src="https://img.shields.io/github/stars/graphql-java/graphql-java-type-generator" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-java/graphql-java-type-generator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Auto-generates types for use with GraphQL Java</li>
+  <li>
+<a href="https://github.com/bpatters/schemagen-graphql">schemagen-graphql <img src="https://img.shields.io/github/stars/bpatters/schemagen-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bpatters/schemagen-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Schema generation and execution package that turns POJO’s into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.</li>
+  <li>
+<a href="https://github.com/Enigmatis/graphql-java-annotations">graphql-java-annotations <img src="https://img.shields.io/github/stars/Enigmatis/graphql-java-annotations" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Enigmatis/graphql-java-annotations" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Provides annotations-based syntax for schema definition with GraphQL Java.</li>
+  <li>
+<a href="https://github.com/graphql-java-kickstart/graphql-java-tools">graphql-java-tools <img src="https://img.shields.io/github/stars/graphql-java-kickstart/graphql-java-tools" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-java-tools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers.  Inspired by <a href="https://github.com/apollographql/graphql-tools">graphql-tools <img src="https://img.shields.io/github/stars/apollographql/graphql-tools" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/graphql-tools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> for JS.</li>
+  <li>
+<a href="https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin">graphql-java-codegen-maven-plugin <img src="https://img.shields.io/github/stars/kobylynskyi/graphql-java-codegen-maven-plugin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kobylynskyi/graphql-java-codegen-maven-plugin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Schema-first maven plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by <a href="https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin">swagger-codegen-maven-plugin <img src="https://img.shields.io/github/stars/swagger-api/swagger-codegen" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swagger-api/swagger-codegen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</li>
+  <li>
+<a href="https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin">graphql-java-codegen-gradle-plugin <img src="https://img.shields.io/github/stars/kobylynskyi/graphql-java-codegen-gradle-plugin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kobylynskyi/graphql-java-codegen-gradle-plugin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Schema-first gradle plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by <a href="https://github.com/int128/gradle-swagger-generator-plugin">gradle-swagger-generator-plugin <img src="https://img.shields.io/github/stars/int128/gradle-swagger-generator-plugin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/int128/gradle-swagger-generator-plugin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</li>
+  <li>
+<a href="https://github.com/graphql-java-kickstart/graphql-java-servlet">graphql-java-servlet <img src="https://img.shields.io/github/stars/graphql-java-kickstart/graphql-java-servlet" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-java-servlet" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.</li>
+  <li>
+<a href="https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql">manifold-graphql <img src="https://img.shields.io/github/stars/manifold-systems/manifold" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/manifold-systems/manifold" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent <a href="http://manifold.systems/images/graphql.mp4">IDE support</a> with IntelliJ IDEA. See the <a href="#example-java">Java example</a> below.</li>
+  <li>
+<a href="https://github.com/oembedler/spring-graphql-common">spring-graphql-common <img src="https://img.shields.io/github/stars/oembedler/spring-graphql-common" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/oembedler/spring-graphql-common" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Spring Framework GraphQL Library.</li>
+  <li>
+<a href="https://github.com/oembedler/graphql-spring-boot">graphql-spring-boot <img src="https://img.shields.io/github/stars/oembedler/graphql-spring-boot" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/oembedler/graphql-spring-boot" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL and GraphiQL Spring Framework Boot Starters.</li>
+  <li>
+<a href="https://github.com/engagingspaces/vertx-graphql-service-discovery">vertx-graphql-service-discovery <img src="https://img.shields.io/github/stars/engagingspaces/vertx-graphql-service-discovery" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/engagingspaces/vertx-graphql-service-discovery" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Asynchronous GraphQL service discovery and querying for your microservices.</li>
+  <li>
+<a href="https://github.com/engagingspaces/vertx-dataloader">vertx-dataloader <img src="https://img.shields.io/github/stars/engagingspaces/vertx-dataloader" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/engagingspaces/vertx-dataloader" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments</li>
+  <li>
+<a href="https://github.com/leangen/GraphQL-SPQR">graphql-spqr <img src="https://img.shields.io/github/stars/leangen/GraphQL-SPQR" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leangen/GraphQL-SPQR" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Java 8+ API for rapid development of GraphQL services.</li>
+  <li>
+<a href="https://github.com/networknt/light-graphql-4j">Light Java GraphQL <img src="https://img.shields.io/github/stars/networknt/light-graphql-4j" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/networknt/light-graphql-4j" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>: A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.</li>
+  <li>
+<a href="https://elide.io">Elide</a>: A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.</li>
+</ul>
+
+<p><a name="lib-kotlin"></a></p>
+
+<h3 id="kotlin-libraries">Kotlin Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/ExpediaGroup/graphql-kotlin">graphql-kotlin <img src="https://img.shields.io/github/stars/ExpediaGroup/graphql-kotlin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ExpediaGroup/graphql-kotlin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Kotlin implementation.</li>
+</ul>
+
+<p><a name="lib-c"></a></p>
+
+<h3 id="cc-libraries">C/C++ Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql/libgraphqlparser">libgraphqlparser <img src="https://img.shields.io/github/stars/graphql/libgraphqlparser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/libgraphqlparser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL query parser in C++ with C and C++ APIs.</li>
+  <li>
+<a href="https://github.com/Microsoft/cppgraphqlgen">cppgraphqlgen <img src="https://img.shields.io/github/stars/Microsoft/cppgraphqlgen" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Microsoft/cppgraphqlgen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - C++ GraphQL schema service generator.</li>
+  <li>
+<a href="https://github.com/caffeinetv/CaffQL">CaffQL <img src="https://img.shields.io/github/stars/caffeinetv/CaffQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/caffeinetv/CaffQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generates C++ client types and request/response serialization from a GraphQL introspection query.</li>
+</ul>
+
+<p><a name="lib-go"></a></p>
+
+<h3 id="go-libraries">Go Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql-go/graphql">graphql <img src="https://img.shields.io/github/stars/graphql-go/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-go/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An implementation of GraphQL for Go follows graphql-js</li>
+  <li>
+<a href="https://github.com/graph-gophers/graphql-go">graphql-go <img src="https://img.shields.io/github/stars/graph-gophers/graphql-go" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graph-gophers/graphql-go" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server with a focus on ease of use.</li>
+  <li>
+<a href="https://github.com/99designs/gqlgen">GQLGen <img src="https://img.shields.io/github/stars/99designs/gqlgen" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/99designs/gqlgen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Go generate based graphql server library.</li>
+  <li>
+<a href="https://github.com/machinebox/graphql">machinebox/graphql <img src="https://img.shields.io/github/stars/machinebox/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/machinebox/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple low-level GraphQL client for Go</li>
+  <li>
+<a href="https://github.com/graphql-go/relay">graphql-relay-go <img src="https://img.shields.io/github/stars/graphql-go/relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-go/relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Go/Golang library to help construct a server supporting react-relay.</li>
+  <li>
+<a href="https://github.com/tmc/graphql">graphql <img src="https://img.shields.io/github/stars/tmc/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tmc/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL parser and server for Go.</li>
+  <li>
+<a href="https://github.com/tecbot/c-graphqlparser">c-graphqlparser <img src="https://img.shields.io/github/stars/tecbot/c-graphqlparser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tecbot/c-graphqlparser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.</li>
+  <li>
+<a href="https://github.com/tallstreet/graphql">tallstreet-graphql <img src="https://img.shields.io/github/stars/tallstreet/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tallstreet/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL parser and server for Go that leverages libgraphqlparser</li>
+  <li>
+<a href="https://github.com/playlyfe/go-graphql">go-graphql <img src="https://img.shields.io/github/stars/playlyfe/go-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/playlyfe/go-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A powerful GraphQL server implementation for Golang</li>
+  <li>
+<a href="https://supergraph.dev">Super Graph</a>: Fetch data without code! Super Graph gives you a high performance GraphQL API without you having to write any code. GraphQL is automagically compiled into an efficient SQL query. Use it either as a library or a standalone service.</li>
+</ul>
+
+<p><a name="lib-scala"></a></p>
+
+<h3 id="scala-libraries">Scala Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/sangria-graphql/sangria">sangria <img src="https://img.shields.io/github/stars/sangria-graphql/sangria" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sangria-graphql/sangria" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Scala GraphQL server implementation.</li>
+  <li>
+<a href="https://github.com/sangria-graphql/sangria-relay">sangria-relay <img src="https://img.shields.io/github/stars/sangria-graphql/sangria-relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sangria-graphql/sangria-relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Sangria Relay Support.</li>
+  <li>
+<a href="https://github.com/hrosenhorn/graphql-scala">graphql-scala <img src="https://img.shields.io/github/stars/hrosenhorn/graphql-scala" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hrosenhorn/graphql-scala" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An attempt to get GraphQL going with Scala.</li>
+  <li>
+<a href="https://github.com/ghostdogpr/caliban">caliban <img src="https://img.shields.io/github/stars/ghostdogpr/caliban" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ghostdogpr/caliban" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Caliban is a purely functional library for creating GraphQL backends in Scala.</li>
+</ul>
+
+<p><a name="lib-dotnet"></a></p>
+
+<h3 id="net-libraries">.NET Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql-dotnet/graphql-dotnet">graphql-dotnet <img src="https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-dotnet/graphql-dotnet" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL for .NET.</li>
+  <li>
+<a href="https://github.com/ckimes89/graphql-net">graphql-net <img src="https://img.shields.io/github/stars/ckimes89/graphql-net" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ckimes89/graphql-net" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL to IQueryable for .NET.</li>
+  <li>
+<a href="https://github.com/ChilliCream/hotchocolate">Hot Chocolate <img src="https://img.shields.io/github/stars/ChilliCream/hotchocolate" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ChilliCream/hotchocolate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server for .Net Core and .NET Framework.</li>
+</ul>
+
+<p><a name="lib-elixir"></a></p>
+
+<h3 id="elixir-libraries">Elixir Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/absinthe-graphql/absinthe">absinthe-graphql <img src="https://img.shields.io/github/stars/absinthe-graphql/absinthe" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/absinthe-graphql/absinthe" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Fully Featured Elixir GraphQL Library.</li>
+  <li>
+<a href="https://github.com/graphql-elixir/graphql">graphql-elixir <img src="https://img.shields.io/github/stars/graphql-elixir/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-elixir/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL Elixir. (No longer maintained)</li>
+  <li>
+<a href="https://github.com/graphql-elixir/plug_graphql">plug_graphql <img src="https://img.shields.io/github/stars/graphql-elixir/plug_graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-elixir/plug_graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Plug integration for GraphQL Elixir.</li>
+  <li>
+<a href="https://github.com/graphql-elixir/graphql_relay">graphql_relay <img src="https://img.shields.io/github/stars/graphql-elixir/graphql_relay" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-elixir/graphql_relay" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Relay helpers for GraphQL Elixir.</li>
+  <li>
+<a href="https://github.com/graphql-elixir/graphql_parser">graphql_parser <img src="https://img.shields.io/github/stars/graphql-elixir/graphql_parser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-elixir/graphql_parser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Elixir bindings for <a href="https://github.com/graphql/libgraphqlparser">libgraphqlparser <img src="https://img.shields.io/github/stars/graphql/libgraphqlparser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/libgraphqlparser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
+<a href="https://github.com/asonge/graphql">graphql <img src="https://img.shields.io/github/stars/asonge/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/asonge/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Elixir GraphQL parser.</li>
+  <li>
+<a href="https://github.com/peburrows/plot">plot <img src="https://img.shields.io/github/stars/peburrows/plot" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/peburrows/plot" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL parser and resolver for Elixir.</li>
+</ul>
+
+<p><a name="lib-haskell"></a></p>
+
+<h3 id="haskell-libraries">Haskell Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/jdnavarro/graphql-haskell">graphql-haskell <img src="https://img.shields.io/github/stars/jdnavarro/graphql-haskell" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jdnavarro/graphql-haskell" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL AST and parser for Haskell.</li>
+</ul>
+
+<p><a name="lib-sql"></a></p>
+
+<h3 id="sql-libraries">SQL Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/solidsnack/GraphpostgresQL">GraphpostgresQL <img src="https://img.shields.io/github/stars/solidsnack/GraphpostgresQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/solidsnack/GraphpostgresQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL for Postgres.</li>
+  <li>
+<a href="https://github.com/rexxars/sql-to-graphql">sql-to-graphql <img src="https://img.shields.io/github/stars/rexxars/sql-to-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rexxars/sql-to-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generate a GraphQL API based on your SQL database structure.</li>
+  <li>
+<a href="https://github.com/graphile/postgraphile">PostGraphile <img src="https://img.shields.io/github/stars/graphile/postgraphile" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphile/postgraphile" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.</li>
+  <li>
+<a href="https://github.com/hasura/graphql-engine">Hasura <img src="https://img.shields.io/github/stars/hasura/graphql-engine" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hasura/graphql-engine" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.</li>
+  <li>
+<a href="https://subzero.cloud/">subZero</a> - GraphQL &amp; REST API for your database</li>
+</ul>
+
+<p><a name="lib-lua"></a></p>
+
+<h3 id="lua-libraries">Lua Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/bjornbytes/graphql-lua">graphql-lua <img src="https://img.shields.io/github/stars/bjornbytes/graphql-lua" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bjornbytes/graphql-lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL for Lua.</li>
+</ul>
+
+<p><a name="lib-elm"></a></p>
+
+<h3 id="elm-libraries">Elm Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/dillonkearns/elm-graphql">elm-graphql <img src="https://img.shields.io/github/stars/dillonkearns/elm-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dillonkearns/elm-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL for Elm.</li>
+</ul>
+
+<p><a name="lib-clojure"></a></p>
+
+<h3 id="clojure-libraries">Clojure Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/tendant/graphql-clj">graphql-clj <img src="https://img.shields.io/github/stars/tendant/graphql-clj" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tendant/graphql-clj" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Clojure library designed to provide GraphQL implementation.</li>
+  <li>
+<a href="https://github.com/walmartlabs/lacinia">Lacinia <img src="https://img.shields.io/github/stars/walmartlabs/lacinia" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/walmartlabs/lacinia" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL implementation in pure Clojure.</li>
+  <li>
+<a href="https://github.com/district0x/graphql-query">graphql-query <img src="https://img.shields.io/github/stars/district0x/graphql-query" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/district0x/graphql-query" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Clojure(Script) GraphQL query generation.</li>
+</ul>
+
+<p><a name="lib-swift"></a></p>
+
+<h3 id="swift-libraries">Swift Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/GraphQLSwift/GraphQL">GraphQL <img src="https://img.shields.io/github/stars/GraphQLSwift/GraphQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/GraphQLSwift/GraphQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The Swift implementation for GraphQL.</li>
+</ul>
+
+<p><a name="lib-ocaml"></a></p>
+
+<h3 id="ocaml-libraries">OCaml Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/andreas/ocaml-graphql-server">ocaml-graphql-server <img src="https://img.shields.io/github/stars/andreas/ocaml-graphql-server" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/andreas/ocaml-graphql-server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL servers in OCaml.</li>
+</ul>
+
+<p><a name="lib-android"></a></p>
+
+<h3 id="android-libraries">Android Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/apollographql/apollo-android">apollo-android <img src="https://img.shields.io/github/stars/apollographql/apollo-android" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/apollo-android" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 📟 A strongly-typed, caching GraphQL client for Android, written in Java</li>
+</ul>
+
+<p><a name="lib-ios"></a></p>
+
+<h3 id="ios-libraries">iOS Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/apollographql/apollo-ios">apollo-ios <img src="https://img.shields.io/github/stars/apollographql/apollo-ios" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/apollo-ios" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift</li>
+  <li>
+<a href="https://github.com/manicmaniac/ApolloDeveloperKit">ApolloDeveloperKit <img src="https://img.shields.io/github/stars/manicmaniac/ApolloDeveloperKit" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/manicmaniac/ApolloDeveloperKit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Apollo Client Devtools bridge for [Apollo iOS].</li>
+</ul>
+
+<p><a name="lib-clojurescript"></a></p>
+
+<h3 id="clojurescript-libraries">ClojureScript Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/oliyh/re-graph">re-graph <img src="https://img.shields.io/github/stars/oliyh/re-graph" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/oliyh/re-graph" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL client for ClojureScript with bindings for re-frame applications.</li>
+  <li>
+<a href="https://github.com/district0x/graphql-query">graphql-query <img src="https://img.shields.io/github/stars/district0x/graphql-query" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/district0x/graphql-query" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Clojure(Script) GraphQL query generation.</li>
+</ul>
+
+<p><a name="lib-reasonml"></a></p>
+
+<h3 id="reasonml-libraries">ReasonML Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/apollographql/reason-apollo">reason-apollo <img src="https://img.shields.io/github/stars/apollographql/reason-apollo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/reason-apollo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - ReasonML binding for Apollo Client</li>
+  <li>
+<a href="https://github.com/sainthkh/reasonql">ReasonQL <img src="https://img.shields.io/github/stars/sainthkh/reasonql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sainthkh/reasonql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Type-safe and simple GraphQL Client for ReasonML developers.</li>
+  <li>
+<a href="https://github.com/FormidableLabs/reason-urql">reason-urql <img src="https://img.shields.io/github/stars/FormidableLabs/reason-urql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/FormidableLabs/reason-urql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - ReasonML binding for urql Client</li>
+</ul>
+
+<p><a name="lib-dart"></a></p>
+
+<h3 id="dart-libraries">Dart Libraries</h3>
+<ul>
+  <li>
+<a href="https://github.com/angel-dart/graphql">Angel GraphQL <img src="https://img.shields.io/github/stars/angel-dart/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/angel-dart/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server implementation with bindings
+for the Angel framework.</li>
+  <li>
+<a href="https://github.com/zino-app/graphql-flutter">graphql-flutter <img src="https://img.shields.io/github/stars/zino-app/graphql-flutter" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zino-app/graphql-flutter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL client for Flutter.</li>
+  <li>
+<a href="https://github.com/comigor/artemis">Artemis <img src="https://img.shields.io/github/stars/comigor/artemis" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/comigor/artemis" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL type and query generator for Dart/Flutter.</li>
+</ul>
+
+<p><a name="lib-rust"></a></p>
+
+<h3 id="rust-libraries">Rust Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/mhallin/juniper">juniper <img src="https://img.shields.io/github/stars/mhallin/juniper" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mhallin/juniper" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server library for Rust.</li>
+  <li>
+<a href="https://github.com/tomhoule/graphql-client">graphql-client <img src="https://img.shields.io/github/stars/tomhoule/graphql-client" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tomhoule/graphql-client" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL client library for Rust with WebAssembly (wasm) support.</li>
+  <li>
+<a href="https://github.com/graphql-rust/graphql-parser">graphql-parser <img src="https://img.shields.io/github/stars/graphql-rust/graphql-parser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-rust/graphql-parser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.</li>
+</ul>
+
+<p><a name="lib-d"></a></p>
+
+<h3 id="d-dlang-libraries">D (dlang) Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/burner/graphqld">graphqld <img src="https://img.shields.io/github/stars/burner/graphqld" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/burner/graphqld" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server library for D.</li>
+</ul>
+
+<p><a name="lib-julia"></a></p>
+
+<h3 id="julia-libraries">Julia Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/codeneomatrix/Diana.jl">Diana.jl <img src="https://img.shields.io/github/stars/codeneomatrix/Diana.jl" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/codeneomatrix/Diana.jl" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> -  A Julia GraphQL client/server implementation.</li>
+</ul>
+
+<p><a name="lib-crystal"></a></p>
+
+<h3 id="crystal-libraries">Crystal Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql-crystal/graphql">graphql <img src="https://img.shields.io/github/stars/graphql-crystal/graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-crystal/graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server library</li>
+  <li>
+<a href="https://github.com/ziprandom/graphql-crystal">graphql-crystal <img src="https://img.shields.io/github/stars/ziprandom/graphql-crystal" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ziprandom/graphql-crystal" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - library inspired by <a href="https://github.com/rmosolgo/graphql-ruby">graphql-ruby <img src="https://img.shields.io/github/stars/rmosolgo/graphql-ruby" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> &amp; <a href="https://github.com/playlyfe/go-graphql">go-graphql <img src="https://img.shields.io/github/stars/playlyfe/go-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/playlyfe/go-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> &amp; <a href="https://github.com/graphql-dotnet/parser">graphql-parser <img src="https://img.shields.io/github/stars/graphql-dotnet/parser" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-dotnet/parser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
+<a href="https://github.com/itsezc/crystal-gql">crystal-gql <img src="https://img.shields.io/github/stars/itsezc/crystal-gql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/itsezc/crystal-gql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL client shard inspired by Apollo client</li>
+  <li>
+<a href="https://github.com/garymardell/graphql.cr">graphql.cr <img src="https://img.shields.io/github/stars/garymardell/graphql.cr" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/garymardell/graphql.cr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL shard</li>
+</ul>
+
+<p><a name="tools"></a></p>
+
+<h2 id="tools">Tools</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql/graphiql">graphiql <img src="https://img.shields.io/github/stars/graphql/graphiql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/graphiql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An in-browser IDE for exploring GraphQL.</li>
+  <li>
+<a href="https://github.com/skevy/graphiql-app">GraphiQL.app <img src="https://img.shields.io/github/stars/skevy/graphiql-app" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/skevy/graphiql-app" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A light, Electron-based wrapper around GraphiQL.</li>
+  <li>
+<a href="https://github.com/Macroz/GraphQLviz">GraphQLviz <img src="https://img.shields.io/github/stars/Macroz/GraphQLviz" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Macroz/GraphQLviz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQLviz marries GraphQL (schemas) with Graphviz.</li>
+  <li>
+<a href="https://github.com/sheerun/graphqlviz">graphqlviz <img src="https://img.shields.io/github/stars/sheerun/graphqlviz" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sheerun/graphqlviz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL API visualizer in Node.js</li>
+  <li>
+<a href="http://dferber90.github.io/graphql-ast-explorer/">GraphQL AST Explorer</a> - Explore the AST of a GraphQL document interactively</li>
+  <li>
+<a href="https://www.graphqlhub.com/">GraphQLHub</a> - Query public API’s schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL</li>
+  <li>
+<a href="https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/">js-graphql-intellij-plugin <img src="https://img.shields.io/github/stars/jimkyndemeyer/js-graphql-intellij-plugin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jimkyndemeyer/js-graphql-intellij-plugin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.</li>
+  <li>
+<a href="https://github.com/syrusakbary/gdom">gdom <img src="https://img.shields.io/github/stars/syrusakbary/gdom" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/syrusakbary/gdom" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - DOM Traversing and Scraping using GraphQL.</li>
+  <li>
+<a href="https://github.com/almilo/annotated-graphql-server">Annotated GraphQL Server <img src="https://img.shields.io/github/stars/almilo/annotated-graphql-server" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/almilo/annotated-graphql-server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.</li>
+  <li>
+<a href="http://nathanrandal.com/graphql-visualizer/">Model Visualizer</a> - A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.</li>
+  <li>
+<a href="https://github.com/Ghirro/graphql-network">GraphQL Network <img src="https://img.shields.io/github/stars/Ghirro/graphql-network" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Ghirro/graphql-network" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A chrome dev-tools extension for debugging GraphQL network requests.</li>
+  <li>
+<a href="https://github.com/apollographql/eslint-plugin-graphql">eslint-plugin-graphql <img src="https://img.shields.io/github/stars/apollographql/eslint-plugin-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/eslint-plugin-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An ESLint plugin that checks your GraphQL strings against a schema.</li>
+  <li>
+<a href="https://astexplorer.net/">AST Explorer</a> - Select “GraphQL” at the top, explore the GraphQL AST and highlight different parts by clicking in the query.</li>
+  <li>
+<a href="https://github.com/jparise/vim-graphql">vim-graphql <img src="https://img.shields.io/github/stars/jparise/vim-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jparise/vim-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Vim plugin that provides GraphQL file detection and syntax highlighting.</li>
+  <li>
+<a href="https://github.com/sarkistlt/graphql-auto-generating-cms">GraphQL CMS <img src="https://img.shields.io/github/stars/sarkistlt/graphql-auto-generating-cms" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sarkistlt/graphql-auto-generating-cms" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Use your existing GraphQL schema to generate simple for use, fully functional CMS in a couple steps.</li>
+  <li>
+<a href="https://github.com/2fd/graphdoc">graphdoc <img src="https://img.shields.io/github/stars/2fd/graphdoc" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/2fd/graphdoc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Static page generator for documenting GraphQL Schema.</li>
+  <li>
+<a href="https://github.com/orionsoft/atom-graphql-autocomplete">graphql-autocomplete <img src="https://img.shields.io/github/stars/orionsoft/atom-graphql-autocomplete" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/orionsoft/atom-graphql-autocomplete" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Autocomplete and lint from a GraphQL endpoint in Atom.</li>
+  <li>
+<a href="https://github.com/dotansimha/graphql-code-generator">GraphQL Code Generator <img src="https://img.shields.io/github/stars/dotansimha/graphql-code-generator" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dotansimha/graphql-code-generator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL code generator based on schema and documents.</li>
+  <li>
+<a href="https://github.com/andev-software/graphql-ide">GraphQL IDE <img src="https://img.shields.io/github/stars/andev-software/graphql-ide" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/andev-software/graphql-ide" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An extensive IDE for exploring GraphQL API’s.</li>
+  <li>
+<a href="https://github.com/yarax/swagger-to-graphql">Swagger to GraphQL <img src="https://img.shields.io/github/stars/yarax/swagger-to-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/yarax/swagger-to-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes</li>
+  <li>
+<a href="https://github.com/APIs-guru/graphql-voyager">GraphQL Voyager <img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/APIs-guru/graphql-voyager" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Represent any GraphQL API as an interactive graph.</li>
+  <li>
+<a href="https://graphql-docs.com">GraphQL Docs</a> - Instantly create beautiful GraphQL API docs hosted online.</li>
+  <li>
+<a href="https://github.com/APIs-guru/graphql-faker">GraphQL Faker <img src="https://img.shields.io/github/stars/APIs-guru/graphql-faker" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/APIs-guru/graphql-faker" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 🎲 Mock or extend your GraphQL API with faked data. No coding required.</li>
+  <li>
+<a href="https://github.com/Quramy/ts-graphql-plugin">ts-graphql-plugin <img src="https://img.shields.io/github/stars/Quramy/ts-graphql-plugin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Quramy/ts-graphql-plugin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A language service plugin complete and validate GraphQL query in TypeScript template strings.</li>
+  <li>
+<a href="https://github.com/apollographql/apollo-tracing">Apollo Tracing <img src="https://img.shields.io/github/stars/apollographql/apollo-tracing" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/apollo-tracing" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.</li>
+  <li>
+<a href="https://github.com/imolorhe/altair">Altair GraphQL Client <img src="https://img.shields.io/github/stars/imolorhe/altair" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/imolorhe/altair" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A beautiful feature-rich GraphQL Client for all platforms.</li>
+  <li>
+<a href="https://github.com/abhiaiyer91/apollo-storybook-decorator">Apollo Storybook Decorator <img src="https://img.shields.io/github/stars/abhiaiyer91/apollo-storybook-decorator" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/abhiaiyer91/apollo-storybook-decorator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL</li>
+  <li>
+<a href="https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics">GraphQL Metrics <img src="https://img.shields.io/github/stars/Workpop/graphql-utils" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Workpop/graphql-utils" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.</li>
+  <li>
+<a href="https://github.com/Brbb/graphql-rover">GraphQL Rover <img src="https://img.shields.io/github/stars/Brbb/graphql-rover" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Brbb/graphql-rover" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.</li>
+  <li>
+<a href="https://github.com/marmelab/json-graphql-server">json-graphql-server <img src="https://img.shields.io/github/stars/marmelab/json-graphql-server" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/marmelab/json-graphql-server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.</li>
+  <li>
+<a href="https://insomnia.rest/">Insomnia</a> - An full-featured API client with first-party GraphQL query editor</li>
+  <li>
+<a href="https://github.com/prisma/prisma">Prisma <img src="https://img.shields.io/github/stars/prisma/prisma" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/prisma/prisma" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.</li>
+  <li>
+<a href="https://github.com/bradleyboy/tuql">tuql <img src="https://img.shields.io/github/stars/bradleyboy/tuql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bradleyboy/tuql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Automatically create a GraphQL server from any sqlite database.</li>
+  <li>
+<a href="https://github.com/teambit/bit">Bit <img src="https://img.shields.io/github/stars/teambit/bit" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/teambit/bit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Organize GraphQL API as components to be consumed with NPM or modified from any project (<a href="https://bit.dev/giladshoham/github-graphql">example</a>).</li>
+  <li>
+<a href="https://github.com/sly777/ran">RAN Toolkit <img src="https://img.shields.io/github/stars/sly777/ran" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sly777/ran" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.</li>
+  <li>
+<a href="https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo">Apollo GraphQL VSCode Extension</a> - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform</li>
+  <li>
+<a href="http://graphqldesigner.com/">GRAPHQL DESIGNER</a> - A developer’s web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.</li>
+  <li>
+<a href="https://graphql-inspector.com/">GraphQL Inspector</a> - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.</li>
+  <li>
+<a href="https://github.com/helios1138/graphql-typed-client">graphql-typed-client <img src="https://img.shields.io/github/stars/helios1138/graphql-typed-client" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/helios1138/graphql-typed-client" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)</li>
+  <li>
+<a href="https://github.com/ibm/openapi-to-graphql">OpenAPI-to-GraphQL <img src="https://img.shields.io/github/stars/ibm/openapi-to-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ibm/openapi-to-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - Two minute video and resources <a href="https://developer.ibm.com/open/projects/openapi-to-graphql/">here</a>
+</li>
+  <li>
+<a href="https://github.com/SwitchQL/SwitchQL">SwitchQL <img src="https://img.shields.io/github/stars/SwitchQL/SwitchQL" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/SwitchQL/SwitchQL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Automated transcription of database schemas into GraphQL schemas, resolvers, queries, and mutations</li>
+  <li>
+<a href="http://vulcanjs.org">VulcanJS</a> - The full-stack React+GraphQL framework</li>
+  <li>
+<a href="https://github.com/apollographql/apollo-client-devtools">Apollo Client Developer Tools <img src="https://img.shields.io/github/stars/apollographql/apollo-client-devtools" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/apollo-client-devtools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL debugging tools for Apollo Client in the Chrome developer console</li>
+  <li>
+<a href="https://birdseye.novvum.io">GraphQL Birdseye</a> – View any GraphQL schema as a dynamic and interactive graph.</li>
+</ul>
+
+<p><a name="security-tools"></a></p>
+
+<h3 id="tools---security">Tools - Security</h3>
+
+<ul>
+  <li>
+<a href="https://www.stackhawk.com/blog/automated-graphql-security-testing">StackHawk - GraphQL Vulnerability Scanner</a> - <a href="https://www.stackhawk.com">StackHawk</a>
+</li>
+  <li>
+<a href="https://www.tinfoilsecurity.com/blog/graphql-security-scanning">Tinfoil Security - GraphQL Security Scanner </a> - <a href="https://www.tinfoilsecurity.com/solutions/api-scanner">Tinfoil Security</a>
+</li>
+  <li>
+<a href="https://blog.graphqleditor.com/inql-graphql-security-scanner/">InQL Scanner</a> <a href="https://github.com/doyensec/inql">inql <img src="https://img.shields.io/github/stars/doyensec/inql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/doyensec/inql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
+<a href="https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6">GraphQL Raider</a> [BurpSuite](https://portswigger.net/burp</li>
+  <li>
+<a href="https://lab.wallarm.com/api-security-solution/">WAF for graphQL</a> - Web Application Firewall for graphQL APIs</li>
+  <li>
+<a href="https://github.com/davinerd/gql_intruder">GraphQL Intruder <img src="https://img.shields.io/github/stars/davinerd/gql_intruder" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/davinerd/gql_intruder" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Plugin based python script to perform GraphQL vulnerability assessment.</li>
+</ul>
+
+<p><a name="databases"></a></p>
+
+<h2 id="databases">Databases</h2>
+
+<ul>
+  <li>
+<a href="https://dgraph.io/">Dgraph</a> - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language</li>
+  <li>
+<a href="https://edgedb.com/">EdgeDB</a> - The next generation object-relational database with native GraphQL support.</li>
+  <li>
+<a href="https://fauna.com">FaunaDB</a> - Relational NoSQL database with <a href="https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema">GraphQL schema import.</a> Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.</li>
+  <li>
+<a href="https://arangodb.com/">ArangoDB</a> - Native multi-model database with <a href="https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html">GraphQL integration</a> via the built-in <a href="https://www.arangodb.com/docs/stable/foxx.html">Foxx Microservices Framework</a>.</li>
+  <li>
+<a href="https://github.com/semi-technologies/weaviate">Weaviate <img src="https://img.shields.io/github/stars/semi-technologies/weaviate" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/semi-technologies/weaviate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Weaviate is a cloud-native, modular, real-time vector search engine with a <a href="https://www.semi.technology/developers/weaviate/current/graphql-references/">GraphQL interface</a> built to scale your machine learning models.</li>
+</ul>
+
+<p><a name="services"></a></p>
+
+<h2 id="services">Services</h2>
+
+<ul>
+  <li>
+<a href="https://aws.amazon.com/appsync/">AWS AppSync</a> - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps</li>
+  <li>
+<a href="https://www.datocms.com/">DatoCMS</a> - CDN-based GraphQL based Headless Content Management System.</li>
+  <li>
+<a href="https://fastql.io/">FastQL</a> - CDN specifically for GraphQL applications</li>
+  <li>
+<a href="https://graphcms.com/">GraphCMS</a> - GraphQL based Headless Content Management System.</li>
+  <li>
+<a href="https://www.graph.cool/">Graphcool</a> - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.</li>
+  <li>
+<a href="https://fakeql.com/">FakeQL</a> - GraphQL API mocking as a service … because GraphQL API mocking should be easy!</li>
+  <li>
+<a href="https://www.moesif.com/features/graphql-analytics">Moesif API Analytics</a> - A GraphQL analaytics and monitoring service to find functional and performance issues.</li>
+  <li>
+<a href="https://booster.cloud/">Booster framework</a> - An open-source framework that makes you <em>completely</em> forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.</li>
+  <li>
+<a href="https://hypi.io/">Hypi</a> - Low-code, scalable, serverless backend as a service. Your GraphQL &amp; REST over GraphQL backend in minutes.</li>
+</ul>
+
+<p><a name="example"></a></p>
+
+<h2 id="examples">Examples</h2>
+
+<p><a name="example-js"></a></p>
+
+<h3 id="javascript-examples">JavaScript Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/kriasoft/react-starter-kit">react-starter-kit <img src="https://img.shields.io/github/stars/kriasoft/react-starter-kit" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kriasoft/react-starter-kit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Isomorphic web app boilerplate (Node.js/Express, GraphQL, React)</li>
+  <li>
+<a href="https://github.com/kriasoft/nodejs-api-starter">graphql-starter-kit <img src="https://img.shields.io/github/stars/kriasoft/nodejs-api-starter" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kriasoft/nodejs-api-starter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Project template for building a GraphQL server with Node.js v7+ and JavaScript</li>
+  <li>
+<a href="https://github.com/graphql/swapi-graphql">swapi-graphql <img src="https://img.shields.io/github/stars/graphql/swapi-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql/swapi-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL schema and server wrapping swapi.co.</li>
+  <li>
+<a href="https://github.com/RisingStack/graphql-server">graphql-server <img src="https://img.shields.io/github/stars/RisingStack/graphql-server" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/RisingStack/graphql-server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server with Mongoose (MongoDB) and Node.js.</li>
+  <li>
+<a href="https://github.com/clayallsopp/graphql-intro">graphql-intro <img src="https://img.shields.io/github/stars/clayallsopp/graphql-intro" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/clayallsopp/graphql-intro" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2</li>
+  <li>
+<a href="https://github.com/jonsharratt/graphql-aws">graphql-aws <img src="https://img.shields.io/github/stars/jonsharratt/graphql-aws" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jonsharratt/graphql-aws" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Amazon AWS GraphQL API Server.</li>
+  <li>
+<a href="https://github.com/RisingStack/graffiti-todo">graffiti-todo <img src="https://img.shields.io/github/stars/RisingStack/graffiti-todo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/RisingStack/graffiti-todo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example Relay TodoMVC application using graffiti-mongoose.  <strong>WARNING</strong> Graffiti is no longer actively maintained.  For hobbyist only.</li>
+  <li><a href="https://gist.github.com/devknoll/8b274f1c5d05230bfade">devknoll/gist:8b274f1c5d05230bfade</a></li>
+  <li>
+<a href="https://github.com/MachineAcuity/rebar">UniversalRelayBoilerplate <img src="https://img.shields.io/github/stars/MachineAcuity/rebar" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/MachineAcuity/rebar" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>
+Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.</li>
+  <li><a href="https://github.com/vslinko/ripster/tree/master/src/graphql">vslinko/ripster <img src="https://img.shields.io/github/stars/vslinko/ripster" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vslinko/ripster" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></li>
+  <li>
+<a href="https://github.com/fortruce/relay-skeleton">relay-skeleton <img src="https://img.shields.io/github/stars/fortruce/relay-skeleton" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fortruce/relay-skeleton" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - React, Relay, GraphQL project skeleton</li>
+  <li>
+<a href="https://github.com/mhart/simple-relay-starter">simple-relay-starter <img src="https://img.shields.io/github/stars/mhart/simple-relay-starter" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mhart/simple-relay-starter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A very simple starter for React Relay using Browserify.</li>
+  <li>
+<a href="https://github.com/transedward/relay-chat">relay-chat <img src="https://img.shields.io/github/stars/transedward/relay-chat" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/transedward/relay-chat" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - an chat example showing Relay with routing and pagination.</li>
+  <li>
+<a href="https://github.com/taion/relay-todomvc">relay-todomvc <img src="https://img.shields.io/github/stars/taion/relay-todomvc" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/taion/relay-todomvc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Relay TodoMVC with routing.</li>
+  <li>
+<a href="https://github.com/dgraph-io/dgraph-react-todomvc">dgraph-react-todomvc <img src="https://img.shields.io/github/stars/dgraph-io/dgraph-react-todomvc" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dgraph-io/dgraph-react-todomvc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Dgraph + React TodoMVC example.</li>
+  <li>
+<a href="https://github.com/mrblueblue/graphql-express-sqlite">graphql-express-sqlite <img src="https://img.shields.io/github/stars/mrblueblue/graphql-express-sqlite" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mrblueblue/graphql-express-sqlite" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL server with Sqlite and Express</li>
+  <li>
+<a href="https://github.com/chentsulin/koa-graphql-relay-example">koa-graphql-relay-example <img src="https://img.shields.io/github/stars/chentsulin/koa-graphql-relay-example" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/chentsulin/koa-graphql-relay-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example of <a href="https://github.com/chentsulin/koa-graphql">koa-graphql <img src="https://img.shields.io/github/stars/chentsulin/koa-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/chentsulin/koa-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
+<a href="https://github.com/lvarayut/relay-fullstack">relay-fullstack <img src="https://img.shields.io/github/stars/lvarayut/relay-fullstack" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lvarayut/relay-fullstack" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Relay Starter Kit integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.</li>
+  <li>
+<a href="https://github.com/serverless/serverless-graphql-blog">serverless-graphql-blog <img src="https://img.shields.io/github/stars/serverless/serverless-graphql-blog" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/serverless/serverless-graphql-blog" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint</li>
+  <li>
+<a href="https://github.com/soonlive/relay-cart">relay-cart <img src="https://img.shields.io/github/stars/soonlive/relay-cart" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/soonlive/relay-cart" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple shopping cart example leveraging relay &amp; GraphQL with routing and pagination.</li>
+  <li>
+<a href="https://github.com/applification/graphql-loader">graphql-loader <img src="https://img.shields.io/github/stars/applification/graphql-loader" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/applification/graphql-loader" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API</li>
+  <li>
+<a href="https://github.com/alvinthen/swapi-graphql-lambda">swapi-graphql-lambda <img src="https://img.shields.io/github/stars/alvinthen/swapi-graphql-lambda" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/alvinthen/swapi-graphql-lambda" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL schema hosted in AWS Lambda wrapping swapi.co</li>
+  <li>
+<a href="https://www.apollographql.com/react/">Apollo Client documentation</a> - Documentation and example for building GraphQL apps using apollo client</li>
+  <li>
+<a href="https://www.apollographql.com/docs/apollo-server/">Apollo Server tools documentation</a> - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.</li>
+  <li>
+<a href="https://github.com/nnance/f8app-apollo">f8-apollo <img src="https://img.shields.io/github/stars/nnance/f8app-apollo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nnance/f8app-apollo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.</li>
+  <li>
+<a href="https://github.com/fbsamples/f8app">f8app <img src="https://img.shields.io/github/stars/fbsamples/f8app" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fbsamples/f8app" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. <a href="https://makeitopen.com">makeitopen.com</a>
+</li>
+  <li>
+<a href="https://github.com/reindexio/reindex-examples">Reindex Examples <img src="https://img.shields.io/github/stars/reindexio/reindex-examples" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/reindexio/reindex-examples" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example projects for Reindex with using React Native and React.js for web.</li>
+  <li>
+<a href="https://julienvincent.io/modelizr/">Modelizr Documentation</a> - Documentation and Usage Examples for modelizr</li>
+  <li>
+<a href="https://github.com/Akryum/frontpage-vue-app">Vue Apollo Example <img src="https://img.shields.io/github/stars/Akryum/frontpage-vue-app" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Akryum/frontpage-vue-app" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Apollo example project for Vue 2.0.</li>
+  <li>
+<a href="https://github.com/kamilkisiela/angular2-graphql-rest">angular2-graphql-rest <img src="https://img.shields.io/github/stars/kamilkisiela/angular2-graphql-rest" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kamilkisiela/angular2-graphql-rest" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.</li>
+  <li>
+<a href="https://github.com/entria/graphql-dataloader-boilerplate">GraphQL-DataLoader-Boilerplate <img src="https://img.shields.io/github/stars/entria/graphql-dataloader-boilerplate" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/entria/graphql-dataloader-boilerplate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Boilerplate to start your GraphQL with DataLoader server</li>
+  <li>
+<a href="https://github.com/sibelius/graphql-cep">GraphQL-CEP <img src="https://img.shields.io/github/stars/sibelius/graphql-cep" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sibelius/graphql-cep" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Query address by CEP</li>
+  <li>
+<a href="https://github.com/katopz/react-apollo-graphql-github-example">Apollo React example for Github GraphQL API <img src="https://img.shields.io/github/stars/katopz/react-apollo-graphql-github-example" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/katopz/react-apollo-graphql-github-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Usage Examples Apollo React for Github GraphQL API with create-react-app</li>
+  <li>
+<a href="https://github.com/xpepermint/graphql-example">Intuitive GraphQL Resolver Example <img src="https://img.shields.io/github/stars/xpepermint/graphql-example" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xpepermint/graphql-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - GraphQL application example using <a href="https://github.com/rawmodel/framework">contextable.js <img src="https://img.shields.io/github/stars/rawmodel/framework" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rawmodel/framework" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</li>
+  <li>
+<a href="https://github.com/rse/graphql-tutorial">GraphQL Tutorial <img src="https://img.shields.io/github/stars/rse/graphql-tutorial" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rse/graphql-tutorial" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI</li>
+  <li>
+<a href="https://github.com/RishikeshDarandale/serverless-graphql-boilerplate">Serverless Apollo Graphql <img src="https://img.shields.io/github/stars/RishikeshDarandale/serverless-graphql-boilerplate" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/RishikeshDarandale/serverless-graphql-boilerplate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Boilerplate to start you Apollo graphql server in AWS using serverless framework</li>
+  <li>
+<a href="https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql">Next.js TypeScript and GraphQL Example <img src="https://img.shields.io/github/stars/zeit/next.js" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zeit/next.js" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A type-protected GraphQL example on Next.js running <a href="https://graphql-code-generator.com/">graphql-codegen</a> under the hood</li>
+</ul>
+
+<p><a name="example-ts"></a></p>
+
+<h3 id="typescript-examples">TypeScript Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/DxCx/webpack-graphql-server">Basic Apollo Server <img src="https://img.shields.io/github/stars/DxCx/webpack-graphql-server" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/DxCx/webpack-graphql-server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Basic Starter for Apollo Server, Using typescript and Webpack.</li>
+  <li>
+<a href="https://github.com/borisowsky/nextjs-apollo-ts-starter">Next.js Apollo TypeScript Starter <img src="https://img.shields.io/github/stars/borisowsky/nextjs-apollo-ts-starter" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/borisowsky/nextjs-apollo-ts-starter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Next.js starter project focused on developer experience.</li>
+  <li>
+<a href="https://github.com/cerino-ligutom/GraphQL-Starter">GraphQL Starter <img src="https://img.shields.io/github/stars/cerino-ligutom/GraphQL-Starter" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cerino-ligutom/GraphQL-Starter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.</li>
+</ul>
+
+<p><a name="example-rb"></a></p>
+
+<h3 id="ruby-examples">Ruby Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/rmosolgo/graphql-ruby-demo">graphql-ruby-demo <img src="https://img.shields.io/github/stars/rmosolgo/graphql-ruby-demo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby-demo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Use graphql-ruby to expose a Rails app.</li>
+  <li>
+<a href="https://github.com/github/github-graphql-rails-example">github-graphql-rails-example <img src="https://img.shields.io/github/stars/github/github-graphql-rails-example" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/github/github-graphql-rails-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example Rails app using GitHub’s GraphQL API.</li>
+  <li>
+<a href="https://github.com/nethsix/relay-on-rails">relay-on-rails <img src="https://img.shields.io/github/stars/nethsix/relay-on-rails" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nethsix/relay-on-rails" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Barebones starter kit for Relay application with Rails GraphQL server.</li>
+  <li>
+<a href="https://github.com/gauravtiwari/relay-rails-blog">relay-rails-blog <img src="https://img.shields.io/github/stars/gauravtiwari/relay-rails-blog" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gauravtiwari/relay-rails-blog" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A graphql, relay and standard rails application powered demo weblog.</li>
+  <li>[to_eat_app] (https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.</li>
+  <li>
+<a href="https://github.com/ohler55/agoo/tree/develop/example/graphql">agoo-demo <img src="https://img.shields.io/github/stars/ohler55/agoo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ohler55/agoo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Use of the Agoo server to demonstrate a simple GraphQL application.</li>
+  <li>
+<a href="https://github.com/zauberware/rails-devise-graphql">rails-devise-graphql <img src="https://img.shields.io/github/stars/zauberware/rails-devise-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zauberware/rails-devise-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A rails 6 boilerplate with devise, graphql &amp; JWT auth.</li>
+</ul>
+
+<p><a name="example-go"></a></p>
+
+<h3 id="go-examples">Go Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/sogko/golang-relay-starter-kit">golang-relay-starter-kit <img src="https://img.shields.io/github/stars/sogko/golang-relay-starter-kit" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sogko/golang-relay-starter-kit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Barebones starting point for a Relay application with Golang GraphQL server.</li>
+  <li>
+<a href="https://github.com/sogko/todomvc-relay-go">todomvc-relay-go <img src="https://img.shields.io/github/stars/sogko/todomvc-relay-go" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sogko/todomvc-relay-go" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.</li>
+</ul>
+
+<p><a name="example-scala"></a></p>
+
+<h3 id="scala-examples">Scala Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/sangria-graphql/sangria-akka-http-example">sangria-akka-http-example <img src="https://img.shields.io/github/stars/sangria-graphql/sangria-akka-http-example" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sangria-graphql/sangria-akka-http-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An example GraphQL server written with akka-http and <a href="https://sangria-graphql.org/">sangria</a>
+</li>
+  <li>
+<a href="https://github.com/sangria-graphql/sangria-playground">sangria-playground <img src="https://img.shields.io/github/stars/sangria-graphql/sangria-playground" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sangria-graphql/sangria-playground" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An example of GraphQL server written with Play and sangria.</li>
+</ul>
+
+<p><a name="example-python"></a></p>
+
+<h3 id="python-examples">Python Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql-python/swapi-graphene">swapi-graphene <img src="https://img.shields.io/github/stars/graphql-python/swapi-graphene" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-python/swapi-graphene" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GraphQL schema and server using <a href="https://graphene-python.org">Graphene</a>.</li>
+</ul>
+
+<p><a name="example-elixir"></a></p>
+
+<h3 id="elixir-examples">Elixir Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/graphql-elixir/hello_graphql_phoenix">hello_graphql_phoenix <img src="https://img.shields.io/github/stars/graphql-elixir/hello_graphql_phoenix" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/graphql-elixir/hello_graphql_phoenix" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - <a href="http://playground.graphql-elixir.org">View demo online</a>.</li>
+</ul>
+
+<p><a name="example-java"></a></p>
+
+<h3 id="java-examples">Java Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/networknt/light-example-4j/tree/master/graphql">light-java-graphql examples <img src="https://img.shields.io/github/stars/networknt/light-example-4j" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/networknt/light-example-4j" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Examples of Light Java GraphQL and tutorials.</li>
+  <li>
+<a href="https://github.com/leangen/graphql-spqr-samples">graphql-spqr-samples <img src="https://img.shields.io/github/stars/leangen/graphql-spqr-samples" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leangen/graphql-spqr-samples" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An example GraphQL server written with Spring MVC and GraphQL-SPQR</li>
+  <li>
+<a href="https://github.com/manifold-systems/manifold-sample-graphql-app">manifold-graphql sample <img src="https://img.shields.io/github/stars/manifold-systems/manifold-sample-graphql-app" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/manifold-systems/manifold-sample-graphql-app" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple application, both client and server, demonstrating the Manifold GraphQL library.</li>
+</ul>
+
+<p><a name="example-android"></a></p>
+
+<h3 id="android-examples">Android Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/rnitame/apollo-frontpage-android-app">apollo-frontpage-android-app <img src="https://img.shields.io/github/stars/rnitame/apollo-frontpage-android-app" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rnitame/apollo-frontpage-android-app" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 📄 Apollo “hello world” app, for Android</li>
+</ul>
+
+<p><a name="example-ios"></a></p>
+
+<h3 id="ios-examples">iOS Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/apollographql/frontpage-ios-app">frontpage-ios-app <img src="https://img.shields.io/github/stars/apollographql/frontpage-ios-app" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apollographql/frontpage-ios-app" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 📄 Apollo “hello world” app, for iOS</li>
+</ul>
+
+<p><a name="example-clojure"></a></p>
+
+<h3 id="clojure-examples">Clojure Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/walmartlabs/clojure-game-geek">Clojure Game Geek <img src="https://img.shields.io/github/stars/walmartlabs/clojure-game-geek" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/walmartlabs/clojure-game-geek" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example code for the Lacinia GraphQL framework tutorial.</li>
+</ul>
+
+<p><a name="example-php"></a></p>
+
+<h3 id="php-examples">PHP Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/leocavalcante/siler/tree/master/examples/graphql">siler-graphgl <img src="https://img.shields.io/github/stars/leocavalcante/siler" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leocavalcante/siler" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An example GraphQL server written with Siler</li>
+</ul>
+
+<p><a name="book"></a></p>
+
+<h2 id="books">Books</h2>
+
+<ul>
+  <li>
+<a href="https://graphql.guide">The GraphQL Guide</a> by John Resig and Loren Sands-Ramshaw</li>
+  <li>
+<a href="https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/">Learning GraphQL</a> by Eve Porcello and Alex Banks</li>
+  <li>
+<a href="https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe">Craft GraphQL APIs in Elixir with Absinthe</a> by Bruce Williams and Ben Wilson</li>
+  <li><a href="https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL">The Road to GraphQL</a></li>
+  <li>
+<a href="https://www.graphql.college/fullstack-graphql">Fullstack GraphQL</a> by Julian Mayorga</li>
+  <li>
+<a href="https://www.packtpub.com/web-development/learning-graphql-and-relay">Learning GraphQL and Relay</a> by Samer Buna</li>
+  <li>
+<a href="https://leanpub.com/book-graphql">Practical GraphQL</a> by Daniel Schmitz</li>
+  <li>
+<a href="https://book.productionreadygraphql.com">Production Ready GraphQL</a> by Marc-André Giroux</li>
+</ul>
+
+<p><a name="video"></a></p>
+
+<h2 id="videos">Videos</h2>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=783ccP__No8">GraphQL: The Documentary</a></li>
+  <li><a href="https://www.youtube.com/embed/UBGzsb2UkeY">Zero to GraphQL in 30 Minutes</a></li>
+  <li><a href="https://www.youtube.com/watch?v=9sc8Pyc51uU">Data fetching for React applications at Facebook</a></li>
+  <li><a href="https://www.youtube.com/watch?v=X6YbAKiLCLU">React Native &amp; Relay: Bringing Modern Web Techniques to Mobile</a></li>
+  <li><a href="https://www.youtube.com/watch?v=WQLzZf34FJ8">Exploring GraphQL</a></li>
+  <li><a href="https://www.youtube.com/watch?v=gY48GW87Feo">Creating a GraphQL Server</a></li>
+  <li><a href="https://www.youtube.com/watch?v=S0s935RKKB4">GraphQL at The Financial Times</a></li>
+  <li><a href="https://www.youtube.com/watch?v=IrgHurBjQbg">Relay: An Application Framework For React</a></li>
+  <li><a href="https://www.youtube.com/watch?t=643&amp;v=Pxdgu2XIAAg">Building and Deploying Relay with Facebook</a></li>
+  <li><a href="https://vimeo.com/144817545">Introduction to GraphQL</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_9RgHXqH8J0">Exploring GraphQL@Scale</a></li>
+  <li><a href="https://www.youtube.com/watch?v=IMUpYOc9z3c&amp;feature=youtu.be">What’s Next for Phoenix by Chris McCord</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Ed6oJXKt3-M">GraphQL with Nick Schrock</a></li>
+  <li><a href="https://www.youtube.com/watch?v=DNPVqK_woRQ">Build a GraphQL server for Node.js using PostgreSQL/MySQL</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PHabPhgRUuU">GraphQL server tutorial for Node.js with SQL, MongoDB and REST</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ENqDNIp1Nd8">JavaScript Air Episode 023: Transitioning from REST to GraphQL</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ViXL0YQnioU">GraphQL Future at react-europe 2016</a></li>
+  <li><a href="https://www.youtube.com/watch?v=etax3aEe2dA">GraphQL at Facebook at react-europe 2016</a></li>
+  <li><a href="https://www.youtube.com/watch?v=z5rz3saDPJ8">Building native mobile apps with GraphQL at react-europe 2016</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PEcJxkylcRM&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68">Build a GraphQL Server</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Y0lDGjwRYKw&amp;list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f">GraphQL Tutorial</a></li>
+</ul>
+
+<p><a name="blogs"></a></p>
+
+<h2 id="blogs">Blogs</h2>
+<ul>
+  <li><a href="https://graphql.org/blog/">Official GraphQL blog</a></li>
+  <li><a href="https://blog.apollographql.com/">Building Apollo</a></li>
+  <li><a href="https://medium.com/the-guild">The Guild blog</a></li>
+</ul>
+
+<p><a name="security-blog"></a></p>
+
+<h3 id="blogs---security">Blogs - Security</h3>
+
+<ul>
+  <li><a href="https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e">Discovering GraphQL Endpoints and SQLi Vulnerabilities</a></li>
+  <li><a href="https://lab.wallarm.com/securing-graphql-api/">Securing GraphQL API</a></li>
+  <li><a href="https://leapgraph.com/graphql-api-security">How to secure a GraphQL API (The Complete Vulnerability Checklist)</a></li>
+  <li><a href="https://nordicapis.com/security-points-to-consider-before-implementing-graphql/">Security Points to Consider Before Implementing GraphQL</a></li>
+</ul>
+
+<p><a name="post"></a></p>
+
+<h2 id="posts">Posts</h2>
+
+<ul>
+  <li><a href="https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433">Using DataLoader to batch GraphQL requests</a></li>
+  <li><a href="https://reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html">Introducing Relay and GraphQL</a></li>
+  <li><a href="https://reactjs.org/blog/2015/05/01/graphql-introduction.html">GraphQL Introduction</a></li>
+  <li><a href="https://gist.github.com/wincent/598fa75e22bdfa44cf47">Unofficial Relay FAQ</a></li>
+  <li><a href="https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2">Your First GraphQL Server</a></li>
+  <li><a href="https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/">GraphQL Overview - Getting Started with GraphQL and Node.js</a></li>
+  <li><a href="https://medium.freecodecamp.org/introduction-to-graphql-1d8011b80159">4 Reasons you should try out GraphQL</a></li>
+  <li><a href="https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247">Moving from REST to GraphQL</a></li>
+  <li><a href="http://davidandsuzi.com/writing-a-basic-api-with-graphql/">Writing a Basic API with GraphQL</a></li>
+  <li><a href="https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/">Building a GraphQL Server with Node.js and SQL</a></li>
+  <li><a href="https://www.slideshare.net/LondonReact/graph-ql">GraphQL at The Financial Times</a></li>
+  <li><a href="http://sgwilym.github.io/relay-visual-learners/">Relay for visual learners</a></li>
+  <li><a href="https://medium.com/@cpojer/relay-and-routing-36b5439bad9">Relay and Routing</a></li>
+  <li><a href="https://wehavefaces.net/learn-golang-graphql-relay-1-e59ea174a902">Learn Golang + GraphQL + Relay, Part 1: Your first Golang GraphQL server</a></li>
+  <li><a href="https://wehavefaces.net/learn-golang-graphql-relay-2-a56cbcc3e341">Learn Golang + GraphQL + Relay, Part 2: Your first Relay application</a></li>
+  <li><a href="https://jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b/">From REST to GraphQL</a></li>
+  <li><a href="https://graphql.org/blog/graphql-a-query-language/">GraphQL: A data query language</a></li>
+  <li><a href="https://graphql.org/blog/subscriptions-in-graphql-and-relay/">Subscriptions in GraphQL and Relay</a></li>
+  <li><a href="https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6">Relay 101: Building A Hacker News Client</a></li>
+  <li><a href="https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6">GraphQL Shorthand Notation Cheatsheet</a></li>
+  <li><a href="https://githubengineering.com/the-github-graphql-api/">The GitHub GraphQL API</a></li>
+  <li><a href="https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61">Github GraphQL API React Example</a></li>
+  <li><a href="https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e">Testing a GraphQL Server using Jest</a></li>
+  <li><a href="https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464">How to implement viewerCanSee in  GraphQL</a></li>
+  <li><a href="https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh">Create an infinite loading list with React and GraphQL</a></li>
+  <li><a href="https://www.moesif.com/blog/technical/graphql/REST-vs-GraphQL-APIs-the-good-the-bad-the-ugly/">REST vs GraphQL</a></li>
+  <li><a href="https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/">Authentication and Authorization for GraphQL APIs</a></li>
+  <li><a href="https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole">Build a GraphQL API with Siler on top of Swoole</a></li>
+  <li><a href="https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/">Fluent GraphQL clients: how to write queries like a boss</a></li>
+</ul>
+
+<p><a name="workshopper"></a></p>
+
+<h2 id="workshoppers">Workshoppers</h2>
+
+<ul>
+  <li>
+<a href="https://graphql-of-thrones.herokuapp.com/">GraphQL of Thrones</a> - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.</li>
+  <li>
+<a href="https://www.howtographql.com">How to GraphQL</a> - Fullstack Tutorial Website with Tracks for all Major Frameworks &amp; Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more</li>
+  <li>
+<a href="https://github.com/mugli/learning-graphql">learning-graphql <img src="https://img.shields.io/github/stars/mugli/learning-graphql" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mugli/learning-graphql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An attempt to learn GraphQL.</li>
+  <li>
+<a href="https://learngraphql.com">Let’s Learn GraphQL</a> - Lessons/walkthrough of GraphQL concepts.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p><a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC0" referrerpolicy="no-referrer" loading="lazy"></a></p>
+
+<p>To the extent possible under law, <a href="https://github.com/chentsulin">Chen-Tsu Lin</a> has waived all copyright and related or neighboring rights to this work.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>

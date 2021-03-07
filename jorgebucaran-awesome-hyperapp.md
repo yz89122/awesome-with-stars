@@ -1,0 +1,128 @@
+# Hyperawesome
+
+> I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
+
+
+A curated list of awesome [Hyperapp ![GitHub Repo stars](https://img.shields.io/github/stars/jorgebucaran/hyperapp?style=social)](https://github.com/jorgebucaran/hyperapp) resources.
+
+To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
+
+<!-- TOC -->
+
+* [Official Resources](#official-resources)
+* [Articles & Tutorials](#articles--tutorials)
+* [Utilities](#utilities)
+* [Examples](#examples)
+* [Starters](#starters)
+* [V1 list](#v1)
+
+<!-- /TOC -->
+
+## Official Resources
+
+* [Hyperapp GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/jorgebucaran/hyperapp?style=social)](https://github.com/jorgebucaran/hyperapp)
+* [Hyperapp Tutorial ![GitHub Repo stars](https://img.shields.io/github/stars/jorgebucaran/hyperapp?style=social)](https://github.com/jorgebucaran/hyperapp/blob/main/docs/tutorial.md)
+* [Hyperapp API Reference ![GitHub Repo stars](https://img.shields.io/github/stars/jorgebucaran/hyperapp?style=social)](https://github.com/jorgebucaran/hyperapp/blob/main/docs/reference.md)
+* [Hyperapp Community on Discord](https://discord.gg/5CtfCYEq8V)
+* [Hyperapp Twitter](https://twitter.com/hyperappjs)
+* [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
+
+
+## Articles & Tutorials
+
+* [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
+* [Hyperapp in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
+* [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) – A videos series from "Hello World" to full TodoMVC with some practical tips and ideas.
+
+## Utilities
+
+* [hyperapp-router ![GitHub Repo stars](https://img.shields.io/github/stars/mrozbarry/hyperapp-router?style=social)](https://github.com/mrozbarry/hyperapp-router) - A router for Hyperapp
+* [hyperapp-form ![GitHub Repo stars](https://img.shields.io/github/stars/zaceno/hyperapp-form?style=social)](https://github.com/zaceno/hyperapp-form) - Eases the pain of validating & submitting forms
+* [hyperapp-styled-components ![GitHub Repo stars](https://img.shields.io/github/stars/silentcicero/hyperapp-styled-components?style=social)](https://github.com/silentcicero/hyperapp-styled-components) - Component oriented CSS-in-JS system based on [styled-components](https://styled-components.com)
+* [hyperlit ![GitHub Repo stars](https://img.shields.io/github/stars/zaceno/hyperlit?style=social)](https://github.com/zaceno/hyperlit) - JSX-like tagged template literals for Hyperapp
+* [hypermdx ![GitHub Repo stars](https://img.shields.io/github/stars/talentlessguy/hypermdx?style=social)](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp
+
+## Examples
+
+* [RealWorld with Hyperapp ![GitHub Repo stars](https://img.shields.io/github/stars/kwasniew/hyperapp2-real-world-example?style=social)](https://github.com/kwasniew/hyperapp2-real-world-example)
+* [7GUIs with Hyperapp ![GitHub Repo stars](https://img.shields.io/github/stars/zaceno/sevenguis-hyperapp?style=social)](https://github.com/zaceno/sevenguis-hyperapp)
+
+## Starters
+
+* [bonniss/hyparcel ![GitHub Repo stars](https://img.shields.io/github/stars/bonniss/hyparcel?style=social)](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
+* [loteoo/hyperapp-starter ![GitHub Repo stars](https://img.shields.io/github/stars/loteoo/hyperapp-starter?style=social)](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
+
+
+---
+
+# V1
+
+These resources below only apply to V1 of Hyperapp
+
+## Articles & Tutorials V1
+
+* [An Introduction to Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
+* [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
+* [2018 年は Hyperapp の年だ - Qiita](https://qiita.com/JorgeBucaran/items/c48446babe0627e25ee6) (Japanese)
+* [新 Qiita で React をやめて Hyperapp を採用した背景 - Qiita](https://qiita.com/yuku_t/items/2839e57a1933507f36b4) (Japanase)
+* [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) (Japanese)
+* [Pure programming with Hyperapp - Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app)
+* [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
+* [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
+* [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source ![GitHub Repo stars](https://img.shields.io/github/stars/willin/hyperapp.js.cool?style=social)](https://github.com/willin/hyperapp.js.cool)）
+* [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
+
+## Boilerplates V1
+
+* [tzellman/hyperapp-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/tzellman/hyperapp-boilerplate?style=social)](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
+* [lukejacksonn/hyperapp-electron ![GitHub Repo stars](https://img.shields.io/github/stars/lukejacksonn/hyperapp-electron?style=social)](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
+* [selfup/hyperapp-one ![GitHub Repo stars](https://img.shields.io/github/stars/selfup/hyperapp-one?style=social)](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX.
+* [lukejacksonn/hyperapp-pwa ![GitHub Repo stars](https://img.shields.io/github/stars/lukejacksonn/hyperapp-pwa?style=social)](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
+* [marcusasplund/hyperapp-RxJS ![GitHub Repo stars](https://img.shields.io/github/stars/marcusasplund/hyperapp-RxJS?style=social)](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
+* [marcusasplund/hyperapp-todo ![GitHub Repo stars](https://img.shields.io/github/stars/marcusasplund/hyperapp-todo-simple?style=social)](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app built with Hyperapp.
+* [jdh2550/hyperapp-responsive-admin ![GitHub Repo stars](https://img.shields.io/github/stars/jdh2550/hyperapp-responsive-admin?style=social)](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
+* [joseluisq/hyperapp-starter ![GitHub Repo stars](https://img.shields.io/github/stars/joseluisq/hyperapp-starter?style=social)](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
+* [elisherer/hyperapp-less-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/elisherer/hyperapp-less-boilerplate?style=social)](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms.
+
+## Examples V1
+
+* [30 Seconds of Interviews ![GitHub Repo stars](https://img.shields.io/github/stars/fejes713/30-seconds-of-interviews?style=social)](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions.
+* [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
+* [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
+* [Type The Tao Te Ching ![GitHub Repo stars](https://img.shields.io/github/stars/callum-oakley/type-the-tao-te-ching?style=social)](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching.
+* [Serafeim's Hyperapp Tutorial ![GitHub Repo stars](https://img.shields.io/github/stars/spapas/hyperapp-tutorial?style=social)](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API.
+* [Home Away From Home](https://homeawayfromhome.online) - A social network for meeting foreigners and a resource for people living abroad.
+* [Repository Search](https://ricosmall.github.io/hyperapp-search) - A simple tool for searching Github repositories.
+
+
+## Utilities V1
+
+* [@hyperapp/html ![GitHub Repo stars](https://img.shields.io/github/stars/hyperapp/html?style=social)](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
+* [@hyperapp/logger ![GitHub Repo stars](https://img.shields.io/github/stars/hyperapp/logger?style=social)](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
+* [@hyperapp/router ![GitHub Repo stars](https://img.shields.io/github/stars/hyperapp/router?style=social)](https://github.com/hyperapp/router) - The official router for Hyperapp.
+* [@hyperapp/render ![GitHub Repo stars](https://img.shields.io/github/stars/hyperapp/render?style=social)](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support.
+* [andyrj/hyperapp-redux-devtools ![GitHub Repo stars](https://img.shields.io/github/stars/andyrj/hyperapp-redux-devtools?style=social)](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp.
+* [hyperstart/hyperapp-devtools ![GitHub Repo stars](https://img.shields.io/github/stars/hyperstart/hyperapp-devtools?style=social)](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp.
+* [zaceno/hyperapp-context ![GitHub Repo stars](https://img.shields.io/github/stars/zaceno/hyperapp-context?style=social)](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components
+* [zaceno/hyperapp-nestable ![GitHub Repo stars](https://img.shields.io/github/stars/zaceno/hyperapp-nestable?style=social)](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components.
+* [zaceno/hyperapp-transitions ![GitHub Repo stars](https://img.shields.io/github/stars/zaceno/hyperapp-transitions?style=social)](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
+* [selfup/hyperapp-moisturize ![GitHub Repo stars](https://img.shields.io/github/stars/selfup/hyperapp-moisturize?style=social)](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications.
+* [lukejacksonn/hyperapp-firebase-auth ![GitHub Repo stars](https://img.shields.io/github/stars/lukejacksonn/hyperapp-firebase-auth?style=social)](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
+* [okwolf/hyperapp-effects ![GitHub Repo stars](https://img.shields.io/github/stars/okwolf/hyperapp-effects?style=social)](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data.
+* [okwolf/hyperapp-freeze ![GitHub Repo stars](https://img.shields.io/github/stars/okwolf/hyperapp-freeze?style=social)](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.
+* [davidjamesstone/hyperapp-customelements ![GitHub Repo stars](https://img.shields.io/github/stars/davidjamesstone/hyperapp-customelements?style=social)](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp.
+* [davidjamesstone/hyperviews ![GitHub Repo stars](https://img.shields.io/github/stars/davidjamesstone/hyperviews?style=social)](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output.
+* [picostyle/picostyle ![GitHub Repo stars](https://img.shields.io/github/stars/picostyle/picostyle?style=social)](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
+* [shershen08/single-spa-hyperapp ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/single-spa-hyperapp?style=social)](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
+* [elisherer/hyperapp-forms ![GitHub Repo stars](https://img.shields.io/github/stars/elisherer/hyperapp-forms?style=social)](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
+* [johnkazer/hyperapp-pug ![GitHub Repo stars](https://img.shields.io/github/stars/johnkazer/hyperapp-pug?style=social)](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
+
+## Testing V1
+
+* [bahmutov/cypress-hyperapp-unit-test ![GitHub Repo stars](https://img.shields.io/github/stars/bahmutov/cypress-hyperapp-unit-test?style=social)](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress ![GitHub Repo stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social)](https://github.com/cypress-io/cypress) end-to-end test runner.
+
+## Other V1
+
+* [Deployable ![GitHub Repo stars](https://img.shields.io/github/stars/lukejacksonn/deployable?style=social)](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
+* [Linkcast ![GitHub Repo stars](https://img.shields.io/github/stars/ajaxtown/linkcast?style=social)](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
+

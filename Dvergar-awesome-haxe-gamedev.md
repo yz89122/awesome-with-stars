@@ -1,0 +1,165 @@
+<div align="center"><a href="https://haxe.org/"><img src="https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/haxe-logo.png" width="500"></a></div>
+
+# Awesome Haxe Game Development [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+A curated list of game development resources for **[Haxe 4](https://haxe.org/)**, a high level strictly typed programming language which is used to produce cross-platform native code.
+
+Feel free to update it.
+
+## Contents
+* [Game engines](#game-engines)
+* [Physics](#physics)
+* [Architecture](#architecture)
+* [Networking](#networking)
+* [Serialization and storage](#serialization-and-storage)
+* [Games](#games)
+* [Miscellaneous](#miscellaneous)
+* [Articles](#articles)
+* [Other haxe lists](#other-haxe-lists)
+
+## Game engines
+
+Those are Haxe 4 compatible game engines.
+
+|Engine                                                       |Target                        |                                                         Description|
+|-------------------------------------------------------------|------------------------------|--------------------------------------------------------------------|
+|[Armory (Kha) ![GitHub Repo stars](https://img.shields.io/github/stars/armory3d/armory) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/armory)](https://github.com/armory3d/armory)           |Web, Mobile, Desktop, Consoles|An open-source 3D game engine with full Blender integration.        |
+|[Away3D ![GitHub Repo stars](https://img.shields.io/github/stars/openfl/away3d) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/away3d)](https://github.com/openfl/away3d)                   |Web, Mobile, Desktop          |An open source, real-time 3D engine for OpenFL.                     |
+|[HaxeFlixel (OpenFL) ![GitHub Repo stars](https://img.shields.io/github/stars/HaxeFlixel/flixel) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/flixel)](https://github.com/HaxeFlixel/flixel)  |Web, Mobile, Desktop, Consoles|Free, cross-platform 2D game engine powered by OpenFL.              |
+|[Haxegon (OpenFL) ![GitHub Repo stars](https://img.shields.io/github/stars/haxegon/haxegon) ![GitHub last commit](https://img.shields.io/github/last-commit/haxegon/haxegon)](https://github.com/haxegon/haxegon)       |Web, Mobile, Desktop, Consoles|A programming library for beginners. Powered by OpenFL and Starling.|
+|[Heaps ![GitHub Repo stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps)                    |Web, Mobile, Desktop, Consoles|High Performance Game Framework.                                    |
+|[hxdefold ![GitHub Repo stars](https://img.shields.io/github/stars/hxdefold/hxdefold) ![GitHub last commit](https://img.shields.io/github/last-commit/hxdefold/hxdefold)](https://github.com/hxdefold/hxdefold)             |Web, Mobile, Desktop          |Haxe/Lua externs for Defold game engine.                            |
+|[OpenFL ![GitHub Repo stars](https://img.shields.io/github/stars/openfl/openfl) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/openfl)](https://github.com/openfl/openfl)                   |Web, Mobile, Desktop, Consoles|Interactive game and app development library.                       |
+|[Starling ![GitHub Repo stars](https://img.shields.io/github/stars/openfl/starling) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/starling)](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |The "Cross-Platform Game Engine", a popular Stage3D framework.      |
+|[Stencyl (OpenFL) ![GitHub Repo stars](https://img.shields.io/github/stars/Stencyl/stencyl-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Stencyl/stencyl-engine)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Create Flash, HTML5, iOS, Android, and desktop games with no code.  |
+|[unreal.hx ![GitHub Repo stars](https://img.shields.io/github/stars/proletariatgames/unreal.hx) ![GitHub last commit](https://img.shields.io/github/last-commit/proletariatgames/unreal.hx)](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Haxe Integration for Unreal.                                        |
+
+
+|Low-level Engine                                   |Target                       |Description                                                            |
+|---------------------------------------------------|-----------------------------|-----------------------------------------------------------------------|
+|[Kha ![GitHub Repo stars](https://img.shields.io/github/stars/Kode/Kha) ![GitHub last commit](https://img.shields.io/github/last-commit/Kode/Kha)](https://github.com/Kode/Kha)                 |Web, Mobile, Desktop, Console|Ultra-portable, high performance, open source multimedia framework.    |
+|[Lime ![GitHub Repo stars](https://img.shields.io/github/stars/openfl/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/lime)](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |A flexible, lightweight layer for Haxe cross-platform developers.      |
+|[linc_glfw ![GitHub Repo stars](https://img.shields.io/github/stars/Sunjammer/linc_glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/Sunjammer/linc_glfw)](https://github.com/Sunjammer/linc_glfw)|Desktop                      |GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).|
+|[NME ![GitHub Repo stars](https://img.shields.io/github/stars/haxenme/nme) ![GitHub last commit](https://img.shields.io/github/last-commit/haxenme/nme)](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend for Haxe projects.                     |
+
+
+
+
+## Physics
+|Library                                               |Description                                                                                                |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+|[echo ![GitHub Repo stars](https://img.shields.io/github/stars/AustinEast/echo) ![GitHub last commit](https://img.shields.io/github/last-commit/AustinEast/echo)](https://github.com/AustinEast/echo/)           |Simple Physics Library.                                                                                    |
+|[haxebullet ![GitHub Repo stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet)  |Bullet 3D Physics for Haxe.                                                                                |
+|[nape-haxe4 ![GitHub Repo stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4)|Physics Engine (the original Haxe3 version of nape can be found [here ![GitHub Repo stars](https://img.shields.io/github/stars/deltaluca/nape) ![GitHub last commit](https://img.shields.io/github/last-commit/deltaluca/nape)](https://github.com/deltaluca/nape)).|
+
+
+
+## Architecture
+```
+IoC == Inversion of Control  
+EC == Entity Component  
+ECS == Entity-Component-System
+FSM == Finite State Machine
+MVC == Model View Controller
+```
+
+|Library                                            |Architecture|                                        Description                           |
+|---------------------------------------------------|------------|------------------------------------------------------------------------------|
+|[awe6 ![GitHub Repo stars](https://img.shields.io/github/stars/hypersurge/awe6) ![GitHub last commit](https://img.shields.io/github/last-commit/hypersurge/awe6)](https://github.com/hypersurge/awe6)         |IoC, EC     |The inverted game framework, is a development tool focused on Future Proofing.|
+|[ecx ![GitHub Repo stars](https://img.shields.io/github/stars/eliasku/ecx) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasku/ecx)](https://github.com/eliasku/ecx)              |ECS         |An Entity Component System framework.                                         |
+|[hexMachina ![GitHub Repo stars](https://img.shields.io/github/stars/DoclerLabs/hexCore) ![GitHub last commit](https://img.shields.io/github/last-commit/DoclerLabs/hexCore)](https://github.com/DoclerLabs/hexCore)|MVC         |A powerful multi-modular MVC framework.                                       |
+|[OSIS ![GitHub Repo stars](https://img.shields.io/github/stars/Dvergar/OSIS) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/OSIS)](https://github.com/Dvergar/OSIS)            |ECS         |Entity Component System architecture with networking support.                 |
+
+
+## Networking
+|Library                                                             |             Description                      |
+|--------------------------------------------------------------------|----------------------------------------------|
+|[Anette ![GitHub Repo stars](https://img.shields.io/github/stars/Dvergar/Anette) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/Anette)](https://github.com/Dvergar/Anette)                         |Simple network library (no UDP).              |
+|[colyseus-hx ![GitHub Repo stars](https://img.shields.io/github/stars/colyseus/colyseus-hx) ![GitHub last commit](https://img.shields.io/github/last-commit/colyseus/colyseus-hx)](https://github.com/colyseus/colyseus-hx)              |Multiplayer Game Client.                      |
+|[haxe-simple-peer (js) ![GitHub Repo stars](https://img.shields.io/github/stars/melonin/haxe-simple-peer) ![GitHub last commit](https://img.shields.io/github/last-commit/melonin/haxe-simple-peer)](https://github.com/melonin/haxe-simple-peer)|Haxe externs for simple-peer.                 |
+|[hxWebSockets ![GitHub Repo stars](https://img.shields.io/github/stars/ianharrigan/hxWebSockets) ![GitHub last commit](https://img.shields.io/github/last-commit/ianharrigan/hxWebSockets)](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all Haxe platforms.            |
+|Built-in                                                            |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).|
+
+
+## Serialization and storage
+|Library                                          |        Description                                        |
+|-------------------------------------------------|-----------------------------------------------------------|
+|[Bits ![GitHub Repo stars](https://img.shields.io/github/stars/RealyUniqueName/Bits) ![GitHub last commit](https://img.shields.io/github/last-commit/RealyUniqueName/Bits)](https://github.com/RealyUniqueName/Bits)  |Binary bit flags with unlimited amount of bits.            |
+|[CastleDB ![GitHub Repo stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle)  |A structured static database easing collaboration.         |
+|[hxbit ![GitHub Repo stars](https://img.shields.io/github/stars/ncannasse/hxbit) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/hxbit)](https://github.com/ncannasse/hxbit)      |A binary serialization and network synchronization library.|
+|[PODStream ![GitHub Repo stars](https://img.shields.io/github/stars/Dvergar/PODStream) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/PODStream)](https://github.com/Dvergar/PODStream)|Plain Old Data serializer.                                 |
+
+
+
+## Games
+|Game                                                                       |Platform            |Engine             |Screenshot                                    |
+|---------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
+|**RELEASED**                                                               |                    |                   |                                              |
+|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop             |Heaps              |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/darksburg.jpg)           |
+|[Dead Cells](https://dead-cells.com/)                                      |Desktop, Consoles   |Heaps              |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/dead-cells.jpg)          |
+|[Defender's Quest](http://www.defendersquest.com/)                         |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/defenders-quest.jpg)     |
+|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/dicey-dungeons.jpg)      |
+|[Evoland](http://evoland.shirogames.com/)                                  |Desktop, Mobile     |Heaps              |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/evoland.jpg)             |
+|[Northgard](http://northgard.net/)                                         |Desktop             |Heaps              |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/northgard.jpg)           |
+|[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/papers-please.jpg)       |
+|[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/)|Desktop             |HaxePunk (OpenFL)  |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/pocket-kingdom.jpg)      |
+|[rymdkapsel](https://rymdkapsel.com/)                                      |Desktop, Mobile     |OpenFL             |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/rymdkapsel.jpg)          |
+|[Spellbreak](https://playspellbreak.com/)                                  |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/spellbreak.jpg)          |
+|[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/westport-independent.jpg)|
+|**IN DEVELOPMENT**                                                         |                    |                   |                                              |
+|[Frontier Story](https://twitter.com/jmw327)                               |Desktop             |Heaps              |![Screenshot](https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/frontier-story.jpg)      |
+
+More showcase :
+* [OpenFL showcase](https://www.openfl.org/showcase)
+* [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
+* [itch.io showcase](https://itch.io/games/made-with-haxe)
+* [HaxePunk showcase](https://haxepunk.com/games/)
+* [Flambe showcase ![GitHub Repo stars](https://img.shields.io/github/stars/aduros/flambe) ![GitHub last commit](https://img.shields.io/github/last-commit/aduros/flambe)](https://github.com/aduros/flambe/wiki/Showcase)
+* [Kha showcase ![GitHub Repo stars](https://img.shields.io/github/stars/Kode/Kha) ![GitHub last commit](https://img.shields.io/github/last-commit/Kode/Kha)](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
+
+## Miscellaneous
+|Type                 |Library                                                                    | Description                                                                                                                                                                     |
+|---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Animation            |[spine-hx ![GitHub Repo stars](https://img.shields.io/github/stars/jeremyfa/spine-hx) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyfa/spine-hx)](https://github.com/jeremyfa/spine-hx)                           |Spine runtime for Haxe automatically converted from the official Java/libgdx runtime.                                                                                            |
+|_                    |HaxeFlixel                                                                 |Spine parser.                                                                                                                                                                    |
+|_                    |[Heaps-Spine ![GitHub Repo stars](https://img.shields.io/github/stars/Beeblerox/Heaps-Spine) ![GitHub last commit](https://img.shields.io/github/last-commit/Beeblerox/Heaps-Spine)](https://github.com/Beeblerox/Heaps-Spine)                    |Spine player for heaps.                                                                                                                                                          |
+|_                    |[heaps-aseprite ![GitHub Repo stars](https://img.shields.io/github/stars/AustinEast/heaps-aseprite) ![GitHub last commit](https://img.shields.io/github/last-commit/AustinEast/heaps-aseprite)](https://github.com/AustinEast/heaps-aseprite)             |Load and render sprites and animations in Aseprite format.                                                                                                                       |
+|_                    |[openfl-aseprite ![GitHub Repo stars](https://img.shields.io/github/stars/miriti/openfl-aseprite) ![GitHub last commit](https://img.shields.io/github/last-commit/miriti/openfl-aseprite)](https://github.com/miriti/openfl-aseprite)               |Load and render sprites and animations in Aseprite format.                                                                                                                       |
+|_                    |[ase ![GitHub Repo stars](https://img.shields.io/github/stars/miriti/ase) ![GitHub last commit](https://img.shields.io/github/last-commit/miriti/ase)](https://github.com/miriti/ase)                                       |.ase/.aseprite file format loader written in Haxe without external dependencies.                                                                                                                       |
+|Color manipulation   |[nxColor ![GitHub Repo stars](https://img.shields.io/github/stars/oscarcs/nxColor) ![GitHub last commit](https://img.shields.io/github/last-commit/oscarcs/nxColor)](https://github.com/oscarcs/nxColor)                              |Color manipulation library.                                                                                                                                                      |
+|Collision            |[differ ![GitHub Repo stars](https://img.shields.io/github/stars/snowkit/differ) ![GitHub last commit](https://img.shields.io/github/last-commit/snowkit/differ)](https://github.com/snowkit/differ)                                |A separation axis theorem collision library.                                                                                                                                     |
+|Data structures      |[polygonal-ds ![GitHub Repo stars](https://img.shields.io/github/stars/polygonal/ds) ![GitHub last commit](https://img.shields.io/github/last-commit/polygonal/ds)](https://github.com/polygonal/ds)                            |Data structures for games.                                                                                                                                                       |
+|Editor               |[flixel-studio ![GitHub Repo stars](https://img.shields.io/github/stars/Dovyski/flixel-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/Dovyski/flixel-studio)](https://github.com/Dovyski/flixel-studio)                  |In-game editor for HaxeFlixel.                                                                                                                                                   |
+|Procedural generation|[Dungeon builder ![GitHub Repo stars](https://img.shields.io/github/stars/julsam/dungeon-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/julsam/dungeon-builder)](https://github.com/julsam/dungeon-builder)               |A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).                                                                                                           |
+|Localization         |[firetongue ![GitHub Repo stars](https://img.shields.io/github/stars/larsiusprime/firetongue) ![GitHub last commit](https://img.shields.io/github/last-commit/larsiusprime/firetongue)](https://github.com/larsiusprime/firetongue)                   |A translation/localization framework written in Haxe.                                                                                                                            |
+|Map parser           |[PyxelEdit Map Importer ![GitHub Repo stars](https://img.shields.io/github/stars/Dvergar/PyxelEdit-Map-Importer) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/PyxelEdit-Map-Importer)](https://github.com/Dvergar/PyxelEdit-Map-Importer)|Parser for maps generated by the editor PyxelEdit.                                                                                                                               |
+|_                    |Heaps                                                                      |Built-in parser for Tiled.                                                                                                                                                       |
+|_                    |HaxeFlixel                                                                 |Parser for Tiled & Ogmo.                                                                                                                                                         |
+|_                    |[LEd ![GitHub Repo stars](https://img.shields.io/github/stars/deepnight/led-haxe-api) ![GitHub last commit](https://img.shields.io/github/last-commit/deepnight/led-haxe-api)](https://github.com/deepnight/led-haxe-api)                           |2D level editor with a typed compile time loader.                                                                                                                                |
+|Math helpers         |[hxmath ![GitHub Repo stars](https://img.shields.io/github/stars/tbrosman/hxmath) ![GitHub last commit](https://img.shields.io/github/last-commit/tbrosman/hxmath)](https://github.com/tbrosman/hxmath)                               |A game-oriented math library for the Haxe language.                                                                                                                              |
+|_                    |[haxe-glm ![GitHub Repo stars](https://img.shields.io/github/stars/hamaluik/haxe-glm) ![GitHub last commit](https://img.shields.io/github/last-commit/hamaluik/haxe-glm)](https://github.com/hamaluik/haxe-glm)                           |A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.                                                                                        |
+|_                    |[hx-vector2d ![GitHub Repo stars](https://img.shields.io/github/stars/markknol/hx-vector2d) ![GitHub last commit](https://img.shields.io/github/last-commit/markknol/hx-vector2d)](https://github.com/markknol/hx-vector2d)                     |Worlds most complete Vector2d / Point class. With operator overloading.                                                                                                          |
+|Modding              |[polymod ![GitHub Repo stars](https://img.shields.io/github/stars/larsiusprime/polymod) ![GitHub last commit](https://img.shields.io/github/last-commit/larsiusprime/polymod)](https://github.com/larsiusprime/polymod)                         |An atomic modding framework for Haxe games/apps.                                                                                                                                 |
+|Particles            |[Sparkler ![GitHub Repo stars](https://img.shields.io/github/stars/RudenkoArts/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/RudenkoArts/sparkler)](https://github.com/RudenkoArts/sparkler)                        |Modular Particle System.                                                                                                                                                         |
+|Monetization         |[extension-iap ![GitHub Repo stars](https://img.shields.io/github/stars/charmdev/extension-iap) ![GitHub last commit](https://img.shields.io/github/last-commit/charmdev/extension-iap)](https://github.com/charmdev/extension-iap)                 |Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this ![GitHub Repo stars](https://img.shields.io/github/stars/HaxeExtension/extension-iap) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeExtension/extension-iap)](https://github.com/HaxeExtension/extension-iap).|
+|Pathfinding          |[pathfinder ![GitHub Repo stars](https://img.shields.io/github/stars/hypersurge/pathfinder) ![GitHub last commit](https://img.shields.io/github/last-commit/hypersurge/pathfinder)](https://github.com/hypersurge/pathfinder)                     |Easy A* pathfinding algorithm.                                                                                                                                                   |
+|Sprite               |[haxe-aseprite ![GitHub Repo stars](https://img.shields.io/github/stars/PongoEngine/haxe-aseprite) ![GitHub last commit](https://img.shields.io/github/last-commit/PongoEngine/haxe-aseprite)](https://github.com/PongoEngine/haxe-aseprite)              |Parser for .ase and .aseprite files.                                                                                                                                             |
+|Steam                |[SteamWrap ![GitHub Repo stars](https://img.shields.io/github/stars/larsiusprime/SteamWrap) ![GitHub last commit](https://img.shields.io/github/last-commit/larsiusprime/SteamWrap)](https://github.com/larsiusprime/SteamWrap)                     |Haxe native extension for the Steam API.                                                                                                                                         |
+|Texture Packer       |[hxpk ![GitHub Repo stars](https://img.shields.io/github/stars/bendmorris/hxpk) ![GitHub last commit](https://img.shields.io/github/last-commit/bendmorris/hxpk)](https://github.com/bendmorris/hxpk)                                 |Port of the libGDX Texture Packer.                                                                                                                                               |
+|Tweening             |[actuate ![GitHub Repo stars](https://img.shields.io/github/stars/jgranick/actuate) ![GitHub last commit](https://img.shields.io/github/last-commit/jgranick/actuate)](https://github.com/jgranick/actuate)                             |A flexible, fast "tween" library.                                                                                                                                                |
+|_                    |[YATL ![GitHub Repo stars](https://img.shields.io/github/stars/Yanrishatum/yatl) ![GitHub last commit](https://img.shields.io/github/last-commit/Yanrishatum/yatl)](https://github.com/Yanrishatum/yatl)                                |Yet Another (Haxe) Tweening Library.                                                                                                                                             |
+|UI                   |[domkit ![GitHub Repo stars](https://img.shields.io/github/stars/ncannasse/domkit) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/domkit)](https://github.com/ncannasse/domkit)                              |CSS Components based strictly typed UI framework.                                                                                                                                |
+|_                    |[flixel-ui ![GitHub Repo stars](https://img.shields.io/github/stars/HaxeFlixel/flixel-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/flixel-ui)](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.                                                                                                                                                      |
+|_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)                                                 |                                                                                                                                                   |
+
+## Articles
+* [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
+* [Flash is gone, what now?](https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/)
+* [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
+* [Building 42 games within a year — Insane game development](https://medium.com/@mknol/building-42-games-within-a-year-insane-game-development-5340d506068f)
+* [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
+
+## Other haxe lists
+* [awesome haxe ![GitHub Repo stars](https://img.shields.io/github/stars/nadako/awesome-haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/nadako/awesome-haxe)](https://github.com/nadako/awesome-haxe)
+* [awesome snowkit ![GitHub Repo stars](https://img.shields.io/github/stars/anissen/awesome-snowkit) ![GitHub last commit](https://img.shields.io/github/last-commit/anissen/awesome-snowkit)](https://github.com/anissen/awesome-snowkit)
+* [awesome haxe js ![GitHub Repo stars](https://img.shields.io/github/stars/MatthijsKamstra/awesome-haxe-js) ![GitHub last commit](https://img.shields.io/github/last-commit/MatthijsKamstra/awesome-haxe-js)](https://github.com/MatthijsKamstra/awesome-haxe-js)
