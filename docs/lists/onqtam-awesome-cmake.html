@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Awesome CMake | Awesome Lists with GitHub stars</title>
+<meta name="generator" content="Jekyll v3.9.3">
+<meta property="og:title" content="Awesome CMake">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/lists/onqtam-awesome-cmake.html">
+<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/lists/onqtam-awesome-cmake.html">
+<meta property="og:site_name" content="Awesome Lists with GitHub stars">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Awesome CMake">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome CMake","url":"https://yz89122.github.io/awesome-with-stars/lists/onqtam-awesome-cmake.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://yz89122.github.io/awesome-with-stars/">Awesome Lists with GitHub stars</a></h1>
+      
+
+      <h1 id="awesome-cmake-">Awesome CMake <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a>
+</h1>
+
+<p><a href="https://cmake.org/"><img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100" referrerpolicy="no-referrer" loading="lazy"></a></p>
+
+<blockquote>
+  <p>A curated list of awesome <a href="https://cmake.org/">CMake</a> scripts, modules, examples and others</p>
+</blockquote>
+
+<p>Your contributions are highly welcome (first see <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>).</p>
+
+<p>There is another file <a href="NonModernCMake.md"><code class="language-plaintext highlighter-rouge">NonModernCMake.md</code></a> with other links worth taking a look, but they use obsolete practices which are considered non-modern - like not using <code class="language-plaintext highlighter-rouge">target_*</code>-based dependency management - see <a href="https://github.com/onqtam/awesome-cmake/issues/16"><code class="language-plaintext highlighter-rouge">#16</code> <img src="https://img.shields.io/github/stars/onqtam/awesome-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/onqtam/awesome-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and <a href="https://github.com/onqtam/awesome-cmake/pull/42"><code class="language-plaintext highlighter-rouge">#42</code> <img src="https://img.shields.io/github/stars/onqtam/awesome-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/onqtam/awesome-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> for more details.</p>
+
+<h2 id="contents">Contents</h2>
+
+<ul>
+  <li><a href="#community">Community</a></li>
+  <li><a href="#resources">Resources</a></li>
+  <li><a href="#package-management--build-systems">Package Management / Build Systems</a></li>
+  <li><a href="#modules">Modules</a></li>
+  <li><a href="#utility-scripts">Utility Scripts</a></li>
+  <li><a href="#toolchains">Toolchains</a></li>
+  <li><a href="#examples--templates">Examples / Templates</a></li>
+  <li><a href="#other">Other</a></li>
+</ul>
+
+<h2 id="community">Community</h2>
+
+<ul>
+  <li><a href="http://webchat.freenode.net/?channels=cmake"><code class="language-plaintext highlighter-rouge">#cmake</code> on Freenode</a></li>
+  <li><a href="https://www.reddit.com/r/cmake/"><code class="language-plaintext highlighter-rouge">/r/cmake</code> on Reddit</a></li>
+  <li><a href="https://www.reddit.com/r/cpp/"><code class="language-plaintext highlighter-rouge">/r/cpp</code> on Reddit</a></li>
+  <li><a href="https://discourse.cmake.org/">Official Discourse Forum</a></li>
+  <li><a href="http://stackoverflow.com/questions/tagged/cmake">Stack Overflow</a></li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+
+<ul>
+  <li><a href="https://cmake.org/cmake/help/latest/">Latest Documentation</a></li>
+  <li><a href="https://gitlab.kitware.com/cmake/community/-/wikis/FAQ">FAQ</a></li>
+  <li><a href="https://gitlab.kitware.com/cmake/community/-/wikis/home">Wiki</a></li>
+  <li><a href="https://cmake.org/webinars/">Webinars</a></li>
+  <li>
+<a href="https://github.com/ruslo/CGold">Web Book <img src="https://img.shields.io/github/stars/ruslo/CGold" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruslo/CGold" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CGold: The Hitchhiker’s <a href="https://cgold.readthedocs.io">Guide</a> to the CMake. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/toeb/moderncmake">Modern CMake <img src="https://img.shields.io/github/stars/toeb/moderncmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/toeb/moderncmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Modern CMake <strong>PDF</strong> and samples by the creator of <a href="https://github.com/toeb/cmakepp">cmakepp <img src="https://img.shields.io/github/stars/toeb/cmakepp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/toeb/cmakepp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics">Tutorial</a> - Modern CMake tutorials part1: CMake basics</li>
+  <li>
+<a href="http://foonathan.net/blog/2016/03/03/cmake-install.html">Article</a> - Easily supporting CMake install and find_package().</li>
+  <li>
+<a href="http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html">Article</a> - Easy dependency management for C++ with CMake and Git.</li>
+  <li>
+<a href="https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/">Article</a> - Opt-in header-only libraries with CMake.</li>
+  <li>
+<a href="https://rix0r.nl/blog/2015/08/13/cmake-guide/">Article</a> - Ultimate Guide to Modern CMake.</li>
+  <li>
+<a href="https://web.archive.org/web/20190116071957/http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/">Article</a> - A list of common CMake antipatterns (from 2013 but still relevant).</li>
+  <li>
+<a href="http://preshing.com/20170511/how-to-build-a-cmake-based-project/">Article</a> - How to Build a CMake-Based Project.</li>
+  <li>
+<a href="http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/">Article</a> - Learn CMake’s Scripting Language in 15 Minutes.</li>
+  <li>
+<a href="http://aosabook.org/en/cmake.html">Article</a> - The architecture of CMake.</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=bsXLMQ6WgIk">Lecture</a> - Effective CMake - by Daniel Pfeifer, C++Now 2017.</li>
+  <li>
+<a href="https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/">Article</a> - Building Cross-Platform CUDA Applications with CMake.</li>
+  <li>
+<a href="https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake">Tutorial <img src="https://img.shields.io/github/stars/Wigner-GPU-Lab/Teaching" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Wigner-GPU-Lab/Teaching" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A step-by-step guide for understanding CMake.</li>
+  <li>
+<a href="https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/">Article + Lecture</a> - Embracing Modern CMake - by Stephen Kelly.</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=eC9-iRN2b04">Lecture</a> - Modern CMake for Modular Design - by Mathieu Ropert, CppCon 2017.</li>
+  <li>
+<a href="https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/">Article</a> - It’s Time To Do CMake Right (one of the best articles about CMake).</li>
+  <li>Articles - A series on CMake - by Martin Hořeňovský
+    <ul>
+      <li>
+<a href="https://codingnest.com/basic-cmake/">Basic CMake usage</a>.</li>
+      <li>
+<a href="https://codingnest.com/basic-cmake-part-2/">Basic CMake, part 2: libraries</a>.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://www.youtube.com/watch?v=jt3meXdP-QI">Lecture</a> - Introduction to CMake - by Florent Castelli, C++ Sweden 2018.</li>
+  <li>
+<a href="http://bastian.rieck.me/blog/posts/2018/cmake_tips/">Article</a> - Some nice and accurate CMake tips.</li>
+  <li>
+<a href="http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/">Article</a> - Modern CMake for Library Developers.</li>
+  <li>
+<a href="https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1">Article</a> - Effective Modern CMake: a great summary of most good practices - by Manuel Binna.</li>
+  <li>
+<a href="https://crascit.com/professional-cmake/">Book</a> - Professional CMake: A Practical Guide (paid).</li>
+  <li>
+<a href="https://leanpub.com/effective-cmake">Book</a> - Effective CMake: Practical Advice to Write Better CMake (not fully written yet).</li>
+  <li>
+<a href="https://cliutils.gitlab.io/modern-cmake/">Web Book</a> - An Introduction to Modern CMake.</li>
+  <li>
+<a href="https://vector-of-bool.github.io/2018/08/12/cmake-good.html">YouTube Series</a> - How to CMake Good. <a href="https://creativecommons.org/publicdomain/zero/1.0/"><code class="language-plaintext highlighter-rouge">[CC0-1.0]</code></a>
+</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=y7ndUhdQuU8">Lecture</a> - More Modern CMake (<a href="https://github.com/Bagira80/More-Modern-CMake">slides &amp; examples <img src="https://img.shields.io/github/stars/Bagira80/More-Modern-CMake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Bagira80/More-Modern-CMake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>)- by Deniz Bahadir, Meeting C++ 2018.</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=y9kSr5enrSk">Lecture</a> - Oh No! More Modern CMake (<a href="https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf">slides <img src="https://img.shields.io/github/stars/Bagira80/More-Modern-CMake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Bagira80/More-Modern-CMake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>)- by Deniz Bahadir, Meeting C++ 2019.</li>
+  <li>
+<a href="https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/">Article</a> - Modifying the default CMake build types/flags, toolchains and patches - Oh my! - by Cristian Adam.</li>
+  <li>
+<a href="https://github.com/schweitzer/modern-cmake-tutorial">Tutorial <img src="https://img.shields.io/github/stars/schweitzer/modern-cmake-tutorial" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/schweitzer/modern-cmake-tutorial" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tutorial and Example on How to Properly Use Modern CMake.</li>
+</ul>
+
+<h2 id="package-management--build-systems">Package Management / Build Systems</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/ruslo/hunter">hunter <img src="https://img.shields.io/github/stars/ruslo/hunter" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruslo/hunter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Cross-platform package manager for C++ (based on CMake ExternalProject). <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/pfultz2/cget">cget <img src="https://img.shields.io/github/stars/pfultz2/cget" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pfultz2/cget" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake package retrieval. This can be used to download and install CMake packages. <a href="http://www.boost.org/LICENSE_1_0.txt"><code class="language-plaintext highlighter-rouge">[BOOST]</code></a>
+</li>
+  <li>
+<a href="https://cppan.org/">cppan</a> - C++ Archive Network - C++ Package Manager based on CMake, implemented in C++14. <a href="http://www.apache.org/licenses/LICENSE-2.0"><code class="language-plaintext highlighter-rouge">[APACHE2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/iauns/cpm">cpm <img src="https://img.shields.io/github/stars/iauns/cpm" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/iauns/cpm" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - C++ Package Manager based on CMake and Git. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/conan-io/conan">conan <img src="https://img.shields.io/github/stars/conan-io/conan" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/conan-io/conan" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Conan C++ Package Manager, implemented in Python and has a CMake integration backend. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/floooh/fips">fips <img src="https://img.shields.io/github/stars/floooh/fips" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/floooh/fips" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - High-level build system/dependency management for distributed, multi-platform C/C++ projects. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/ninja-build/ninja">Ninja <img src="https://img.shields.io/github/stars/ninja-build/ninja" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ninja-build/ninja" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Build system that differs from others in two major respects: it is designed to have its input files generated by a higher-level build system (like CMake), and it is designed to run builds as fast as possible. <a href="http://www.apache.org/licenses/LICENSE-2.0"><code class="language-plaintext highlighter-rouge">[APACHE2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/Microsoft/vcpkg">vcpkg <img src="https://img.shields.io/github/stars/Microsoft/vcpkg" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Microsoft/vcpkg" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A tool to acquire and build C++ open source libraries. Uses CMake internally as a build script language. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/AnotherFoxGuy/pmm">pmm <img src="https://img.shields.io/github/stars/AnotherFoxGuy/pmm" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/AnotherFoxGuy/pmm" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - PMM is a module for CMake that manages… package managers. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/TheLartians/CPM">cpm <img src="https://img.shields.io/github/stars/TheLartians/CPM" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/TheLartians/CPM" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A setup-free CMake + git dependency manager. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/rpavlik/cmake-modules">cmake-modules <img src="https://img.shields.io/github/stars/rpavlik/cmake-modules" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rpavlik/cmake-modules" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - <a href="https://github.com/rpavlik">Ryan Pavlik</a>’s collection of CMake modules. There are a number of find modules, especially for virtual reality and physical simulation, some utility modules, and some patches or workarounds for CMake itself. <a href="http://www.boost.org/LICENSE_1_0.txt"><code class="language-plaintext highlighter-rouge">[BOOST]</code></a>
+</li>
+  <li>
+<a href="https://github.com/bilke/cmake-modules">cmake-modules <img src="https://img.shields.io/github/stars/bilke/cmake-modules" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bilke/cmake-modules" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - This is a collection of additional CMake modules. Most of them are from Ryan Pavlik. <a href="http://www.boost.org/LICENSE_1_0.txt"><code class="language-plaintext highlighter-rouge">[BOOST]</code></a>
+</li>
+  <li>
+<a href="https://github.com/Eyescale/CMake">CMake <img src="https://img.shields.io/github/stars/Eyescale/CMake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Eyescale/CMake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - <a href="https://github.com/Eyescale">Eyescale</a>’s common CMake modules. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/jedbrown/cmake-modules">cmake-modules <img src="https://img.shields.io/github/stars/jedbrown/cmake-modules" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jedbrown/cmake-modules" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake modules for some scientific libraries. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/chadmv/cgcmake">cgcmake <img src="https://img.shields.io/github/stars/chadmv/cgcmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/chadmv/cgcmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake modules for common applications related to computer graphics. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/sakra/FindMathematica">FindMathematica <img src="https://img.shields.io/github/stars/sakra/FindMathematica" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sakra/FindMathematica" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module for Mathematica. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/KDE/extra-cmake-modules">extra-cmake-modules <img src="https://img.shields.io/github/stars/KDE/extra-cmake-modules" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/KDE/extra-cmake-modules" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - <a href="https://github.com/KDE">KDE</a>’s extra modules and scripts for CMake. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/julp/FindICU.cmake">FindICU.cmake <img src="https://img.shields.io/github/stars/julp/FindICU.cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/julp/FindICU.cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module to find International Components for Unicode (ICU) Library. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/justusc/FindTBB">FindTBB <img src="https://img.shields.io/github/stars/justusc/FindTBB" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/justusc/FindTBB" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake find module for Intel Threading Building Blocks. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/apriorit/FindWiX">FindWiX <img src="https://img.shields.io/github/stars/apriorit/FindWiX" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apriorit/FindWiX" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module for building <a href="https://en.wikipedia.org/wiki/Windows_Installer">Windows Installer</a> packages with <a href="http://wixtoolset.org">WiX toolset</a>. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/apriorit/FindIDL">FindIDL <img src="https://img.shields.io/github/stars/apriorit/FindIDL" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apriorit/FindIDL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module for building <a href="https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file">IDL</a> files with MIDL and generating CLR DLL using <a href="https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer">Tlbimp</a>. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/hanjianwei/cmake-modules">cmake-modules <img src="https://img.shields.io/github/stars/hanjianwei/cmake-modules" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hanjianwei/cmake-modules" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - <a href="https://github.com/hanjianwei">hanjianwei</a>’s CMake module collection. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/robotology/ycm">YCM <img src="https://img.shields.io/github/stars/robotology/ycm" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/robotology/ycm" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Extra CMake Modules for <a href="https://github.com/robotology/yarp">Yet Another Robot Platform <img src="https://img.shields.io/github/stars/robotology/yarp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/robotology/yarp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and friends. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/AnotherFoxGuy/CMakeCM">CMakeCM <img src="https://img.shields.io/github/stars/AnotherFoxGuy/CMakeCM" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/AnotherFoxGuy/CMakeCM" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake Community Modules. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/ldionne/metabench">Metabench <img src="https://img.shields.io/github/stars/ldionne/metabench" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ldionne/metabench" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module for compile-time microbenchmarks. <a href="http://www.boost.org/LICENSE_1_0.txt"><code class="language-plaintext highlighter-rouge">[BOOST]</code></a>
+</li>
+  <li>
+<a href="https://github.com/benthevining/Oranges">Oranges <img src="https://img.shields.io/github/stars/benthevining/Oranges" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/benthevining/Oranges" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - <a href="https://github.com/benthevining">Ben Vining</a>’s library of CMake modules and toolchains <a href="https://www.gnu.org/licenses/gpl-3.0.html"><code class="language-plaintext highlighter-rouge">[GPL]</code></a>
+</li>
+</ul>
+
+<h2 id="utility-scripts">Utility Scripts</h2>
+
+<p>These provide a wide range of functionality - from dealing with compiler flags to using tools. Some also contain modules.</p>
+
+<ul>
+  <li>
+<a href="https://github.com/sakra/cotire">cotire <img src="https://img.shields.io/github/stars/sakra/cotire" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sakra/cotire" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/onqtam/ucm">ucm <img src="https://img.shields.io/github/stars/onqtam/ucm" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/onqtam/ucm" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/toeb/cmakepp">cmakepp <img src="https://img.shields.io/github/stars/toeb/cmakepp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/toeb/cmakepp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Enhancement Suite for the CMake Build System. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/ruslo/sugar">sugar <img src="https://img.shields.io/github/stars/ruslo/sugar" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruslo/sugar" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake tools and examples: collecting source files, warnings suppression, etc. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/Crascit/DownloadProject">DownloadProject <img src="https://img.shields.io/github/stars/Crascit/DownloadProject" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Crascit/DownloadProject" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module for downloading an external project’s source at configure time. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/janelia-flyem/buildem">buildem <img src="https://img.shields.io/github/stars/janelia-flyem/buildem" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/janelia-flyem/buildem" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Modular CMake-based system that leverages ExternalProject to simplify builds. <a href="https://github.com/janelia-flyem/buildem/blob/master/LICENSE.txt"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/JoakimSoderberg/coveralls-cmake">coveralls-cmake <img src="https://img.shields.io/github/stars/JoakimSoderberg/coveralls-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/JoakimSoderberg/coveralls-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Coveralls JSON coverage generator and uploader for CMake. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/foonathan/compatibility">compatibility <img src="https://img.shields.io/github/stars/foonathan/compatibility" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/foonathan/compatibility" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Improved version of cmake-compile-features. <a href="https://github.com/foonathan/compatibility/blob/master/LICENSE"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/Tronic/cmake-modules">cmake-modules <img src="https://img.shields.io/github/stars/Tronic/cmake-modules" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Tronic/cmake-modules" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - LibFindMacros development repository and other cool CMake stuff. <a href="https://github.com/Tronic/cmake-modules/blob/master/LibFindMacros.cmake#L2"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/UCL/GreatCMakeCookOff">GreatCMakeCookOff <img src="https://img.shields.io/github/stars/UCL/GreatCMakeCookOff" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/UCL/GreatCMakeCookOff" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - This is a repository of useful and less than useful CMake recipes. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/cppcheck-target-cmake">cppcheck-target-cmake <img src="https://img.shields.io/github/stars/polysquare/cppcheck-target-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/cppcheck-target-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Per-target CPPCheck for CMake. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/clang-tidy-target-cmake">clang-tidy-target-cmake <img src="https://img.shields.io/github/stars/polysquare/clang-tidy-target-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/clang-tidy-target-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Add clang-tidy checks to a target using CMake. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/cmake-unit">cmake-unit <img src="https://img.shields.io/github/stars/polysquare/cmake-unit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/cmake-unit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Unit testing framework for CMake. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/cmake-header-language">cmake-header-language <img src="https://img.shields.io/github/stars/polysquare/cmake-header-language" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/cmake-header-language" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake macro to determine the language of a header file. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/tooling-cmake-util">tooling-cmake-util <img src="https://img.shields.io/github/stars/polysquare/tooling-cmake-util" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/tooling-cmake-util" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Utility and common library for all polysquare CMake tools. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/iwyu-target-cmake">iwyu-target-cmake <img src="https://img.shields.io/github/stars/polysquare/iwyu-target-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/iwyu-target-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake integration for include-what-you-use. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/arsenm/sanitizers-cmake">sanitizers-cmake <img src="https://img.shields.io/github/stars/arsenm/sanitizers-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/arsenm/sanitizers-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake module to enable sanitizers for binary targets. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/larsch/cmake-precompiled-header">cmake-precompiled-header <img src="https://img.shields.io/github/stars/larsch/cmake-precompiled-header" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/larsch/cmake-precompiled-header" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Visual Studio and GCC precompiled header macro. <a href="https://github.com/larsch/cmake-precompiled-header/blob/master/PrecompiledHeader.cmake#L31"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/nanoant/CMakePCHCompiler">CMakePCHCompiler <img src="https://img.shields.io/github/stars/nanoant/CMakePCHCompiler" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nanoant/CMakePCHCompiler" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake precompiled headers via custom compiler extension - with reuse support! <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/RWTH-ELP/CMake-codecov">CMake-codecov <img src="https://img.shields.io/github/stars/RWTH-ELP/CMake-codecov" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/RWTH-ELP/CMake-codecov" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Enables code coverage and generates coverage reports with CMake targets. <a href="https://www.gnu.org/licenses/gpl-3.0.html"><code class="language-plaintext highlighter-rouge">[GPL]</code></a>
+</li>
+  <li>
+<a href="https://github.com/pfultz2/cmake-get">cmake-get <img src="https://img.shields.io/github/stars/pfultz2/cmake-get" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pfultz2/cmake-get" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Get dependencies in config or script mode. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/slurps-mad-rips/ixm">ixm <img src="https://img.shields.io/github/stars/slurps-mad-rips/ixm" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/slurps-mad-rips/ixm" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Make CMake less painful when trying to write Modern Flexible CMake.  <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/hakuch/CMakeCooking">CMakeCooking <img src="https://img.shields.io/github/stars/hakuch/CMakeCooking" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hakuch/CMakeCooking" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Flexible development environments for CMake projects with external dependencies
+. <a href="http://www.apache.org/licenses/LICENSE-2.0"><code class="language-plaintext highlighter-rouge">[APACHE2]</code></a>
+</li>
+</ul>
+
+<h2 id="toolchains">Toolchains</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/dockcross/dockcross">dockcross <img src="https://img.shields.io/github/stars/dockcross/dockcross" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dockcross/dockcross" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Cross compiling toolchains in Docker images. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/taka-no-me/android-cmake">android-cmake <img src="https://img.shields.io/github/stars/taka-no-me/android-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/taka-no-me/android-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake toolchain file and other scripts for the Android NDK. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/cristeab/ios-cmake">ios-cmake <img src="https://img.shields.io/github/stars/cristeab/ios-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cristeab/ios-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Toolchain file and examples using CMake for iOS development. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/LaurentGomila/qt-android-cmake">qt-android-cmake <img src="https://img.shields.io/github/stars/LaurentGomila/qt-android-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/LaurentGomila/qt-android-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - For building and deploying Qt based apps on Android without QtCreator. <a href="https://github.com/LaurentGomila/qt-android-cmake/blob/master/license.txt"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/lachs0r/mingw-w64-cmake">mingw-w64-cmake <img src="https://img.shields.io/github/stars/lachs0r/mingw-w64-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lachs0r/mingw-w64-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake-based MinGW-w64 Cross Toolchain - to build Windows binaries of mpv. <a href="https://opensource.org/licenses/ISC"><code class="language-plaintext highlighter-rouge">[ISC]</code></a>
+</li>
+  <li>
+<a href="https://github.com/mkleemann/cmake-avr">cmake-avr <img src="https://img.shields.io/github/stars/mkleemann/cmake-avr" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mkleemann/cmake-avr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake toolchain for AVR. <a href="https://github.com/mkleemann/cmake-avr/blob/master/LICENSE"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/francoiscampbell/arduino-cmake">arduino-cmake <img src="https://img.shields.io/github/stars/francoiscampbell/arduino-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/francoiscampbell/arduino-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - This is the CMake project settings for the Arduino platform. <a href="https://www.mozilla.org/en-US/MPL/2.0/"><code class="language-plaintext highlighter-rouge">[MPL]</code></a>
+</li>
+  <li>
+<a href="https://github.com/ruslo/polly">polly <img src="https://img.shields.io/github/stars/ruslo/polly" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruslo/polly" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Collection of CMake toolchain files and scripts for cross-platform build and CI testing. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/mosra/toolchains">toolchains <img src="https://img.shields.io/github/stars/mosra/toolchains" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mosra/toolchains" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/staticlibs/cmake/tree/master/toolchains">cmake <img src="https://img.shields.io/github/stars/staticlibs/cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/staticlibs/cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Collection of CMake toolchain files, mostly for static linking. <a href="http://www.apache.org/licenses/LICENSE-2.0"><code class="language-plaintext highlighter-rouge">[APACHE2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/a9183756-gh/Arduino-CMake-Toolchain">Arduino-CMake-Toolchain <img src="https://img.shields.io/github/stars/a9183756-gh/Arduino-CMake-Toolchain" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/a9183756-gh/Arduino-CMake-Toolchain" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake toolchain for all official and 3rd party Arduino platforms. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+</ul>
+
+<h2 id="examples--templates">Examples / Templates</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/cginternals/cmake-init">cmake-init <img src="https://img.shields.io/github/stars/cginternals/cmake-init" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cginternals/cmake-init" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Template for reliable, cross-platform C++ project setup using CMake. <a href="https://github.com/cginternals/cmake-init/blob/master/LICENSE"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/forexample/android-cmake">android-cmake <img src="https://img.shields.io/github/stars/forexample/android-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/forexample/android-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Examples of using <a href="https://github.com/ruslo/hunter">ruslo/hunter <img src="https://img.shields.io/github/stars/ruslo/hunter" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruslo/hunter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> package manager for an Android application. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/forexample/hunter-simple">hunter-simple <img src="https://img.shields.io/github/stars/forexample/hunter-simple" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/forexample/hunter-simple" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example of downloading/installing dependencies using <a href="https://github.com/ruslo/hunter">ruslo/hunter <img src="https://img.shields.io/github/stars/ruslo/hunter" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruslo/hunter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> package manager. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/forexample/package-example">package-example <img src="https://img.shields.io/github/stars/forexample/package-example" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/forexample/package-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Config mode of find_package (examples for <a href="http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an">this</a> Stack Overflow question). <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/krux02/minimal_cmake_example">minimal_cmake_example <img src="https://img.shields.io/github/stars/krux02/minimal_cmake_example" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/krux02/minimal_cmake_example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimal CMake example, that covers dependencies and packaging. <a href="https://creativecommons.org/publicdomain/zero/1.0/"><code class="language-plaintext highlighter-rouge">[CC0-1.0]</code></a>
+</li>
+  <li>
+<a href="https://github.com/bast/cmake-example">cmake-example <img src="https://img.shields.io/github/stars/bast/cmake-example" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bast/cmake-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Example project which demonstrates various CMake features. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/ttroy50/cmake-examples">cmake-examples <img src="https://img.shields.io/github/stars/ttroy50/cmake-examples" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ttroy50/cmake-examples" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Useful CMake examples in a tutorial format. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/euler0/mini-cmake-qt">mini-cmake-qt <img src="https://img.shields.io/github/stars/euler0/mini-cmake-qt" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/euler0/mini-cmake-qt" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimal CMake template for Qt 5 projects. <a href="https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/cmake-basis/BASIS">BASIS <img src="https://img.shields.io/github/stars/cmake-basis/BASIS" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cmake-basis/BASIS" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake <a href="https://cmake-basis.github.io">BASIS</a> makes it easy to create sharable software and libraries that work together. <a href="https://opensource.org/licenses/BSD-2-Clause"><code class="language-plaintext highlighter-rouge">[BSD2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/Lectem/cpp-boilerplate">cpp-boilerplate <img src="https://img.shields.io/github/stars/Lectem/cpp-boilerplate" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Lectem/cpp-boilerplate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Template that aims to be a reference for modern CMake and CI. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/robotology/how-to-export-cpp-library">how-to-export-cpp-library <img src="https://img.shields.io/github/stars/robotology/how-to-export-cpp-library" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/robotology/how-to-export-cpp-library" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/pabloariasal/modern-cmake-sample">modern-cmake-sample <img src="https://img.shields.io/github/stars/pabloariasal/modern-cmake-sample" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pabloariasal/modern-cmake-sample" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Best practices and proper usage of CMake by using targets. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/DeveloperPaul123/CMakeInstallExample">CMakeInstallExample <img src="https://img.shields.io/github/stars/DeveloperPaul123/CMakeInstallExample" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/DeveloperPaul123/CMakeInstallExample" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Installation example for a C++ project (Windows) with Cmake. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/arnavb/cpp14-project-template">cpp14-project-template <img src="https://img.shields.io/github/stars/arnavb/cpp14-project-template" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/arnavb/cpp14-project-template" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A C++14 template with CI, tests, code coverage, docs and static analysis integration. <a href="https://creativecommons.org/publicdomain/zero/1.0/"><code class="language-plaintext highlighter-rouge">[CC0-1.0]</code></a>
+</li>
+  <li>
+<a href="https://github.com/acdemiralp/cmake_templates">cmake_templates <img src="https://img.shields.io/github/stars/acdemiralp/cmake_templates" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/acdemiralp/cmake_templates" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Templates for creating C++ libraries and executables (including conan). <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/adishavit/cmake_snippets">cmake_snippets <img src="https://img.shields.io/github/stars/adishavit/cmake_snippets" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/adishavit/cmake_snippets" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Short copy-pasteable CMake snippets. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/dev-cafe/cmake-cookbook">cmake-cookbook <img src="https://img.shields.io/github/stars/dev-cafe/cmake-cookbook" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dev-cafe/cmake-cookbook" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A huge CMake cookbook full of recipes. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/joshpeterson/cpp-template">cpp-template <img src="https://img.shields.io/github/stars/joshpeterson/cpp-template" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/joshpeterson/cpp-template" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A template C++ repository, using CMake and Catch. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/vector-of-bool/pitchfork">pitchfork <img src="https://img.shields.io/github/stars/vector-of-bool/pitchfork" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vector-of-bool/pitchfork" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A set of conventions for native C and C++ projects. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/pr0g/cmake-examples">cmake-examples <img src="https://img.shields.io/github/stars/pr0g/cmake-examples" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pr0g/cmake-examples" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collection of as simple as possible, modern CMake projects. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/bsamseth/cpp-project">cpp-project <img src="https://img.shields.io/github/stars/bsamseth/cpp-project" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bsamseth/cpp-project" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Boiler plate for C++ projects - tests, CI, coverage, docs. <a href="https://unlicense.org/"><code class="language-plaintext highlighter-rouge">[UNLICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/TheLartians/ModernCppStarter">ModernCppStarter <img src="https://img.shields.io/github/stars/TheLartians/ModernCppStarter" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/TheLartians/ModernCppStarter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using <a href="https://github.com/onqtam/doctest">doctest <img src="https://img.shields.io/github/stars/onqtam/doctest" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/onqtam/doctest" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and much more. <a href="https://unlicense.org/"><code class="language-plaintext highlighter-rouge">[UNLICENSE]</code></a>
+</li>
+</ul>
+
+<h2 id="other">Other</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/coderefinery/autocmake">autocmake <img src="https://img.shields.io/github/stars/coderefinery/autocmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/coderefinery/autocmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Using a autocmake.yml file <a href="http://autocmake.readthedocs.io/en/latest/">Autocmake</a> composes CMake building blocks into a CMake project and generates CMakeLists.txt as well as a setup script, which serves as a front-end to CMakeLists.txt. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://gitlab.kitware.com/kmorel/UseLATEX">UseLATEX</a> - Collection of CMake macros to simplify building LaTeX files. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/scikit-build/scikit-build">scikit-build <img src="https://img.shields.io/github/stars/scikit-build/scikit-build" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/scikit-build/scikit-build" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Improved build system generator for CPython C extensions. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/cjntaylor/node-cmake">node-cmake <img src="https://img.shields.io/github/stars/cjntaylor/node-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cjntaylor/node-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake-based build system for node.js native modules. <a href="https://opensource.org/licenses/ISC"><code class="language-plaintext highlighter-rouge">[ISC]</code></a>
+</li>
+  <li>
+<a href="https://github.com/Lindydancer/cmake-font-lock">cmake-font-lock <img src="https://img.shields.io/github/stars/Lindydancer/cmake-font-lock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Lindydancer/cmake-font-lock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Advanced syntax coloring support for CMake scripts inside Emacs. <a href="https://www.gnu.org/licenses/gpl-3.0.html"><code class="language-plaintext highlighter-rouge">[GPL]</code></a>
+</li>
+  <li>
+<a href="https://github.com/rastersoft/autovala">autovala <img src="https://img.shields.io/github/stars/rastersoft/autovala" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rastersoft/autovala" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Program that automatically generates CMake configuration files for your Vala project. <a href="https://www.gnu.org/licenses/gpl-3.0.html"><code class="language-plaintext highlighter-rouge">[GPL]</code></a>
+</li>
+  <li>
+<a href="https://github.com/ros/catkin">catkin <img src="https://img.shields.io/github/stars/ros/catkin" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ros/catkin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake-based build system that is used to build all packages in Robot Operating System (ROS). <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/jlblancoc/suitesparse-metis-for-windows">suitesparse-metis-for-windows <img src="https://img.shields.io/github/stars/jlblancoc/suitesparse-metis-for-windows" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jlblancoc/suitesparse-metis-for-windows" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake scripts for painless usage of SuiteSparse+METIS. <a href="https://opensource.org/licenses/BSD-3-Clause"><code class="language-plaintext highlighter-rouge">[BSD3]</code></a>
+</li>
+  <li>
+<a href="https://github.com/bjornblissing/osg-3rdparty-cmake">osg-3rdparty-cmake <img src="https://img.shields.io/github/stars/bjornblissing/osg-3rdparty-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bjornblissing/osg-3rdparty-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake scripts for building OpenSceneGraph third party libraries. <code class="language-plaintext highlighter-rouge">[MIXED LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/dcarp/cmake-d">cmake-d <img src="https://img.shields.io/github/stars/dcarp/cmake-d" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dcarp/cmake-d" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake for D2. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/h4tr3d/cmakeprojectmanager2">cmakeprojectmanager2 <img src="https://img.shields.io/github/stars/h4tr3d/cmakeprojectmanager2" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h4tr3d/cmakeprojectmanager2" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Enhanced CMake Project Manager plugin for Qt Creator. <code class="language-plaintext highlighter-rouge">[NO LICENSE]</code>
+</li>
+  <li>
+<a href="https://github.com/richq/cmake-lint">cmake-lint <img src="https://img.shields.io/github/stars/richq/cmake-lint" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/richq/cmake-lint" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Check for coding style issues in CMake files. cmakelint requires Python. <a href="http://www.apache.org/licenses/LICENSE-2.0"><code class="language-plaintext highlighter-rouge">[APACHE2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/kbenzie/git-cmake-format">git-cmake-format <img src="https://img.shields.io/github/stars/kbenzie/git-cmake-format" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kbenzie/git-cmake-format" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Integrate clang-format into your CMake project hosted in a git repository. <a href="https://github.com/kbenzie/git-cmake-format/blob/master/license.txt"><code class="language-plaintext highlighter-rouge">[LICENSE]</code></a>
+</li>
+  <li>
+<a href="https://github.com/nemequ/configure-cmake">configure-cmake <img src="https://img.shields.io/github/stars/nemequ/configure-cmake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nemequ/configure-cmake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - configure-cmake is an autotools-style configure script for CMake-based projects. <a href="https://creativecommons.org/publicdomain/zero/1.0/"><code class="language-plaintext highlighter-rouge">[CC0-1.0]</code></a>
+</li>
+  <li>
+<a href="https://github.com/polysquare/cmake-ast">cmake-ast <img src="https://img.shields.io/github/stars/polysquare/cmake-ast" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/polysquare/cmake-ast" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Python module to reduce a CMake file to an AST. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/cristianadam/cmake-checks-cache">cmake-checks-cache <img src="https://img.shields.io/github/stars/cristianadam/cmake-checks-cache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cristianadam/cmake-checks-cache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake checks cache helper modules. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/DaelDe/cmake_check">cmake_check <img src="https://img.shields.io/github/stars/DaelDe/cmake_check" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/DaelDe/cmake_check" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/regen100/cmake-language-server">cmake-language-server <img src="https://img.shields.io/github/stars/regen100/cmake-language-server" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/regen100/cmake-language-server" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake Language Server Protocol Implementation. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+  <li>
+<a href="https://github.com/cmake-maven-project/cmake-maven-project">cmake-maven-plugin <img src="https://img.shields.io/github/stars/cmake-maven-project/cmake-maven-project" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cmake-maven-project/cmake-maven-project" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CMake integration for Maven builds. <a href="http://www.apache.org/licenses/LICENSE-2.0"><code class="language-plaintext highlighter-rouge">[APACHE2]</code></a>
+</li>
+  <li>
+<a href="https://github.com/MhmRhm/version-from-git">version-from-git <img src="https://img.shields.io/github/stars/MhmRhm/version-from-git" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/MhmRhm/version-from-git" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Bake git information into your binary. <a href="https://opensource.org/licenses/MIT"><code class="language-plaintext highlighter-rouge">[MIT]</code></a>
+</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This is released under the <a href="http://creativecommons.org/licenses/by/4.0/"><strong><code class="language-plaintext highlighter-rouge">Creative Commons Attribution 4.0 International</code></strong></a> License <code class="language-plaintext highlighter-rouge">(CC BY 4.0)</code>.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

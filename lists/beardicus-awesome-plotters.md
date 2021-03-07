@@ -1,0 +1,309 @@
+# Awesome Plotters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
+
+## Contents
+
+- [Hardware](#hardware)
+  - [Plotters](#plotters)
+  - [Motor Controllers](#motor-controllers)
+  - [Accessories and Adapters](#accessories-and-adapters)
+  - [Pens](#pens)
+- [Software](#software)
+  - [HPGL](#hpgl)
+  - [G-code](#g-code)
+  - [Plotter Control](#plotter-control)
+  - [Vector Creation](#vector-creation)
+  - [Vector Utilities](#vector-utilities)
+  - [Fonts](#fonts)
+- [Inspiration, Instruction, and Research](#inspiration-instruction-and-research)
+- [Manuals and Ephemera](#manuals-and-ephemera)
+  - [Manuals](#manuals)
+  - [Ephemera](#ephemera)
+- [Community](#community)
+- [Plotter Art For Sale](#plotter-art-for-sale)
+- [Other Awesomes](#other-awesomes)
+
+## Hardware
+
+### Plotters
+
+- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
+- [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
+- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - Yet another 3d-printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
+- [WaterColorBot](https://watercolorbot.com) - XY art robot and software to plot with watercolor paints.
+- [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
+- [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) - Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
+- [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) - Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
+- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
+- [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
+
+### Motor Controllers
+
+- [grblShield ![GitHub Repo Stars](https://img.shields.io/github/stars/synthetos/grblShield) ![GitHub last commit](https://img.shields.io/github/last-commit/synthetos/grblShield)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+- [TinyG ![GitHub Repo Stars](https://img.shields.io/github/stars/synthetos/TinyG) ![GitHub last commit](https://img.shields.io/github/last-commit/synthetos/TinyG)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
+- [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
+- [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - USB-based dual stepper motor controller board, originally designed for the EggBot.
+
+### Accessories and Adapters
+
+- [WiFi232](http://biosrhythm.com/?page_id=1453) - Wifi to RS-232 serial via a DB25 plug. Control your serial plotter wirelessly.
+- [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf) - Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for `DB9 to DB25 Serial Null Modem Cable` or similar to find them for sale.
+- [PlotAdapter ![GitHub Repo Stars](https://img.shields.io/github/stars/rhalkyard/plotadapter) ![GitHub last commit](https://img.shields.io/github/last-commit/rhalkyard/plotadapter)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
+
+### Pens
+
+- [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter.
+- [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - Adjustable model to print adapters for various pens.
+- [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
+- [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - List of pens suitable for general plotter abuse.
+- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - Egg- and glass-focused pen recommendations but still generally applicable information.
+- [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
+
+## Software
+
+### HPGL
+
+HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
+
+- [Chiplotle ![GitHub Repo Stars](https://img.shields.io/github/stars/drepetto/chiplotle) ![GitHub last commit](https://img.shields.io/github/last-commit/drepetto/chiplotle)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
+- [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
+- [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
+- [djipco/hpgl ![GitHub Repo Stars](https://img.shields.io/github/stars/djipco/hpgl) ![GitHub last commit](https://img.shields.io/github/last-commit/djipco/hpgl)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+- [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
+- [vec ![GitHub Repo Stars](https://img.shields.io/github/stars/anachrocomputer/vec) ![GitHub last commit](https://img.shields.io/github/last-commit/anachrocomputer/vec)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
+- [d3-hpgl ![GitHub Repo Stars](https://img.shields.io/github/stars/aubergene/d3-hpgl) ![GitHub last commit](https://img.shields.io/github/last-commit/aubergene/d3-hpgl)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
+- [HPGL Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/drskullster/HPGLViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/drskullster/HPGLViewer)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
+- [HPGL Sender ![GitHub Repo Stars](https://img.shields.io/github/stars/LgHS/hpgl-sender) ![GitHub last commit](https://img.shields.io/github/last-commit/LgHS/hpgl-sender)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
+- [HPGLGraphics ![GitHub Repo Stars](https://img.shields.io/github/stars/ciaron/HPGLGraphics) ![GitHub last commit](https://img.shields.io/github/last-commit/ciaron/HPGLGraphics)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+
+### G-code
+
+G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
+
+- [grbl ![GitHub Repo Stars](https://img.shields.io/github/stars/grbl/grbl) ![GitHub last commit](https://img.shields.io/github/last-commit/grbl/grbl)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+- [cncjs ![GitHub Repo Stars](https://img.shields.io/github/stars/cncjs/cncjs) ![GitHub last commit](https://img.shields.io/github/last-commit/cncjs/cncjs)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+- [node-gcode ![GitHub Repo Stars](https://img.shields.io/github/stars/ryansturmer/node-gcode) ![GitHub last commit](https://img.shields.io/github/last-commit/ryansturmer/node-gcode)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
+- [svg2gcode ![GitHub Repo Stars](https://img.shields.io/github/stars/em/svg2gcode) ![GitHub last commit](https://img.shields.io/github/last-commit/em/svg2gcode)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
+- [svg2gcode ![GitHub Repo Stars](https://img.shields.io/github/stars/vishpat/svg2gcode) ![GitHub last commit](https://img.shields.io/github/last-commit/vishpat/svg2gcode)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+- [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
+- [Universal-G-Code-Sender ![GitHub Repo Stars](https://img.shields.io/github/stars/winder/Universal-G-Code-Sender) ![GitHub last commit](https://img.shields.io/github/last-commit/winder/Universal-G-Code-Sender)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+- [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
+- [gcode-generative-for-processing ![GitHub Repo Stars](https://img.shields.io/github/stars/o0morgan0o/gcode-generative-for-processing) ![GitHub last commit](https://img.shields.io/github/last-commit/o0morgan0o/gcode-generative-for-processing)](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
+- [gcodeplot ![GitHub Repo Stars](https://img.shields.io/github/stars/arpruss/gcodeplot) ![GitHub last commit](https://img.shields.io/github/last-commit/arpruss/gcodeplot)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+
+### Plotter Control
+
+Software for controlling plotter hardware.
+
+- [axidraw ![GitHub Repo Stars](https://img.shields.io/github/stars/evil-mad/axidraw) ![GitHub last commit](https://img.shields.io/github/last-commit/evil-mad/axidraw)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+- [axi ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/axi) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/axi)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+- [xy ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/xy) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/xy)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
+- [LaserGRBL ![GitHub Repo Stars](https://img.shields.io/github/stars/arkypita/LaserGRBL) ![GitHub last commit](https://img.shields.io/github/last-commit/arkypita/LaserGRBL)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+- [Line-us Inkscape Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Line-us/Inkscape-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Line-us/Inkscape-Plugin)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
+- [Line-us API Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/Line-us/Line-us-Programming) ![GitHub last commit](https://img.shields.io/github/last-commit/Line-us/Line-us-Programming)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+- [@beardicus/line-us ![GitHub Repo Stars](https://img.shields.io/github/stars/beardicus/line-us) ![GitHub last commit](https://img.shields.io/github/last-commit/beardicus/line-us)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
+- [PenPlotter ![GitHub Repo Stars](https://img.shields.io/github/stars/RickMcConney/PenPlotter) ![GitHub last commit](https://img.shields.io/github/last-commit/RickMcConney/PenPlotter)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+- [Makelangelo-firmware ![GitHub Repo Stars](https://img.shields.io/github/stars/MarginallyClever/Makelangelo-firmware) ![GitHub last commit](https://img.shields.io/github/last-commit/MarginallyClever/Makelangelo-firmware)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+- [RoboPaint ![GitHub Repo Stars](https://img.shields.io/github/stars/evil-mad/robopaint) ![GitHub last commit](https://img.shields.io/github/last-commit/evil-mad/robopaint)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+- [AxiTurtle ![GitHub Repo Stars](https://img.shields.io/github/stars/ralphcrutzen/AxiTurtle) ![GitHub last commit](https://img.shields.io/github/last-commit/ralphcrutzen/AxiTurtle)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
+- [GRBL-Plotter ![GitHub Repo Stars](https://img.shields.io/github/stars/svenhb/GRBL-Plotter) ![GitHub last commit](https://img.shields.io/github/last-commit/svenhb/GRBL-Plotter)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+- [saxi ![GitHub Repo Stars](https://img.shields.io/github/stars/nornagon/saxi) ![GitHub last commit](https://img.shields.io/github/last-commit/nornagon/saxi)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+- [MP2300-Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Jan--Henrik/MP2300-Tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Jan--Henrik/MP2300-Tools)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
+- [Inkcut ![GitHub Repo Stars](https://img.shields.io/github/stars/inkcut/inkcut) ![GitHub last commit](https://img.shields.io/github/last-commit/inkcut/inkcut)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+
+### Vector Creation
+
+Tools to create vector artwork from scratch or by conversion from other formats.
+
+- [Inkscape](https://inkscape.org) - Popular cross-platform open source vector graphics editor.
+- [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
+- [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
+- [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
+- [autotrace ![GitHub Repo Stars](https://img.shields.io/github/stars/autotrace/autotrace) ![GitHub last commit](https://img.shields.io/github/last-commit/autotrace/autotrace)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+- [stipplegen ![GitHub Repo Stars](https://img.shields.io/github/stars/evil-mad/stipplegen) ![GitHub last commit](https://img.shields.io/github/last-commit/evil-mad/stipplegen)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+- [SquiggleDraw ![GitHub Repo Stars](https://img.shields.io/github/stars/gwygonik/SquiggleDraw) ![GitHub last commit](https://img.shields.io/github/last-commit/gwygonik/SquiggleDraw)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+- [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
+- [maptrace ![GitHub Repo Stars](https://img.shields.io/github/stars/mzucker/maptrace) ![GitHub last commit](https://img.shields.io/github/last-commit/mzucker/maptrace)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
+- [Drawbot_image_to_gcode_v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Scott-Cooper/Drawbot_image_to_gcode_v2) ![GitHub last commit](https://img.shields.io/github/last-commit/Scott-Cooper/Drawbot_image_to_gcode_v2)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+- [blackstripes ![GitHub Repo Stars](https://img.shields.io/github/stars/fullscreennl/blackstripes-python-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/fullscreennl/blackstripes-python-extensions)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+- [Ribbon ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ribbon) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ribbon)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
+- [penplot ![GitHub Repo Stars](https://img.shields.io/github/stars/mattdesl/penplot) ![GitHub last commit](https://img.shields.io/github/last-commit/mattdesl/penplot)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
+- [penkit ![GitHub Repo Stars](https://img.shields.io/github/stars/paulgb/penkit) ![GitHub last commit](https://img.shields.io/github/last-commit/paulgb/penkit)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+- [generativeExamples ![GitHub Repo Stars](https://img.shields.io/github/stars/digitalcoleman/generativeExamples) ![GitHub last commit](https://img.shields.io/github/last-commit/digitalcoleman/generativeExamples)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
+- [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
+- [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
+- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
+- [scribbleplot ![GitHub Repo Stars](https://img.shields.io/github/stars/bleeptrack/scribbleplot) ![GitHub last commit](https://img.shields.io/github/last-commit/bleeptrack/scribbleplot)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+- [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
+- [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
+- [cozyvec ![GitHub Repo Stars](https://img.shields.io/github/stars/brubsby/cozyvec) ![GitHub last commit](https://img.shields.io/github/last-commit/brubsby/cozyvec)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
+- [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - An [Observable](https://observablehq.com/) notebook collection full of plotter-oriented work.
+- [PlotterFun](https://mitxela.com/plotterfun/) - Browser-based Image to SVG converter similar to SquiggleDraw.
+- [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
+- [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
+- [DrawingBotV3 ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSonic/DrawingBotV3) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSonic/DrawingBotV3)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+- [linedraw ![GitHub Repo Stars](https://img.shields.io/github/stars/LingDong-/linedraw) ![GitHub last commit](https://img.shields.io/github/last-commit/LingDong-/linedraw)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+- [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
+
+### Vector Utilities
+
+Tools to manipulate and optimize vector-based file formats.
+
+- [svgsort ![GitHub Repo Stars](https://img.shields.io/github/stars/inconvergent/svgsort) ![GitHub last commit](https://img.shields.io/github/last-commit/inconvergent/svgsort)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+- [svgo ![GitHub Repo Stars](https://img.shields.io/github/stars/svg/svgo) ![GitHub last commit](https://img.shields.io/github/last-commit/svg/svgo)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
+- [Polargraph Optimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/ezheidtmann/polargraph-optimizer) ![GitHub last commit](https://img.shields.io/github/last-commit/ezheidtmann/polargraph-optimizer)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
+- [penkit-optimize ![GitHub Repo Stars](https://img.shields.io/github/stars/paulgb/penkit) ![GitHub last commit](https://img.shields.io/github/last-commit/paulgb/penkit)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+- [svg-crowbar ![GitHub Repo Stars](https://img.shields.io/github/stars/NYTimes/svg-crowbar) ![GitHub last commit](https://img.shields.io/github/last-commit/NYTimes/svg-crowbar)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+- [vpype ![GitHub Repo Stars](https://img.shields.io/github/stars/abey79/vpype) ![GitHub last commit](https://img.shields.io/github/last-commit/abey79/vpype)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
+
+### Fonts
+
+Single-line vector fonts or "engraving fonts".
+
+- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
+- [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
+- [hershey-fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/kamalmostafa/hershey-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/kamalmostafa/hershey-fonts)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+- [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
+- [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
+
+## Inspiration, Instruction, and Research
+
+Blog posts, articles, tutorials, galleries, videos, et cetera.
+
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
+- [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - Another getting started article with modern pen plotters.
+- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
+- [On Generative Algorithms](https://inconvergent.net/generative) - Nice 13-part walkthrough of interesting algorithms.
+- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
+- [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - Detailed explanation and examples of an interesting algorithm.
+- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - OG plotter artist.
+- [Hektor](http://juerglehni.com/works/hektor) - The original cable-based drawbot from 2002.
+- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
+- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
+- [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - Techniques for creating line-based fractal graphics.
+- [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
+- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
+- [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
+- [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
+- [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
+- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
+- [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
+- [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - Nice video showing an HP 7470A operated from an HP 85 computer.
+- [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - Video of an HP 7475A plotting some demos.
+- [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - Video showing how to open, clean, and refill vintage HP plotter pens.
+- [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Video of the Commodore 1520 plotter in action, including a cover-off shot of the mechanism.
+- [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
+- [Tech Tangents: Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ) - Video with some HPGL and plotter history, plus operating an HP 7475A from an IBM 5160 microcomputer.
+- [curiousmarc.com: HP 7475A Plotter](https://www.curiousmarc.com/computing/hp-7475a-plotter) - A great collection of info, ephemera, plot files, three YouTube videos, and a 3d-printable replacement part for the HP 7475A.
+
+## Manuals and Ephemera
+
+Scanned plotter manuals and marketing ephemera, mostly from the [Internet Archive](https://archive.org)
+
+### Manuals
+
+- [Apple Color Plotter User's Manual](https://archive.org/details/AppleColorPlotter)
+- [Atari 1020 Color Printer Owner's Guide (1982)](https://archive.org/details/atari-1020-color-printer)
+- [Atari 1020 Color Printer Field Service Manual (1983)](https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari)
+- [Programming CalComp Pen Plotters (1968)](https://archive.org/details/bitsavers_calcompProlottersJun68_2464236)
+- [Commodore 1520 Printer Plotter Manual (1983)](https://archive.org/details/1520PrinterPlotterUsersManualStyleA)
+- [Commodore 1520 Printer Plotter Manual](https://archive.org/details/1520PrinterPlotterusersManualStyleB)
+- [Control Data 165/165-2 Plotter Manual](https://archive.org/details/bitsavers_cdc160139c_4086972)
+- [Gerber GS750 Plus User Manual (1995) (manualslib)](https://www.manualslib.com/manual/465193/Gerber-Gs750-Plus.html)
+- [Gerber Signmaker IVB User's Manual (1983) (manualslib)](https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html)
+- [Houston Instrument DMP-160 Plotter Operation Manual](https://archive.org/details/houston-instrument-dmp-160-series-plotters-operation-manual)
+- [Houston Instrument DM/PL Command Language (1984)](https://archive.org/details/hi-dmpl-command-language)
+- [Houston Instrument DMP-40V Operation Manual (1988)](https://archive.org/details/dmp-40v)
+- [Houston Instrument HIPLOT DMP-51/52 Operation Manual (1985)](https://archive.org/details/hi-dmp-51-52-operation-manual)
+- [Houston Instrument Interface Notes for DM/PL Intelligent Plotters (1983)](https://archive.org/details/hi-interface-notes-dm-pl-plotters)
+- [Houston Instrument Stand Assembly Procedure DMP-50 Series Plotter](https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter)
+- [HP 7470A Interconnection Guide](https://archive.org/details/manualzilla-id-7029812)
+- [HP 7470A Operator's Manual (manualslib)](https://www.manualslib.com/manual/1089592/Hp-7470a.html)
+- [HP 7475A Graphics Plotter Operation and Interconnection Manual](https://archive.org/details/HP7475AOperationManual)
+- [HP 7570A DraftPro Plotter Hardware Support Manual](https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86)
+- [HP 7585B Drafting Plotter Service Manual (1983)](https://archive.org/details/bitsavers_hpplotter0_18190273)
+- [HP DraftPro Plotter User's Guide (1986)](https://archive.org/details/draftproplotterusersguide0757090017163pagesmay86)
+- [HP DraftPro Plotter Programmers Reference (1986)](https://archive.org/details/draftproprogrammersreference0757090001387pagessep86)
+- [Olivetti PL10 Microplotter User Guide (1983)](https://archive.org/details/olivettipl10microplotter)
+- [Radio Shack TRS-80 Plotter Printer Manual](https://archive.org/details/Plotter_Printer_19xx_Radio_Shack)
+- [Radio Shack TRS-80 Color Graphic Printer Operation Manual](https://archive.org/details/cgp-115_operation_manual)
+- [Radio Shack TRS-80 Color Graphic Printer Service Manual](https://archive.org/details/cgp-115-service-manual)
+- [Roland DXY-880 Operation Manual (1984)](https://archive.org/details/RolandDXY880PlotterOperationManual)
+- [Roland DXY-980 Operation Manual (1985)](https://archive.org/details/rolanddxy980operationmanual)
+- [Roland DXY-990 Operation Manual (1986)](https://archive.org/details/roland-dxy-990)
+- [Roland DXY-1300 -1200 -1100 Command Reference Manual](https://archive.org/details/rolanddxy130012001100commandreferencemanualaf)
+- [Roland DXY-1350A -1150A User's Manual (1997) (manualslib)](https://www.manualslib.com/manual/884553/Roland-Dxy_1350.html)
+- [Roland DPX-2000 User's Manual](https://archive.org/details/roland-dpx-2000-manual)
+- [Roland DPX-3300 Operation Manual (GitHub) ![GitHub Repo Stars](https://img.shields.io/github/stars/sismoke/Roland-DPX-3300) ![GitHub last commit](https://img.shields.io/github/last-commit/sismoke/Roland-DPX-3300)](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
+- [Roland DPX-3300 Service Notes (1987)](https://archive.org/details/dpx-3300-service-manual)
+- [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
+- [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf)
+- [Rotring Tubular Plotter Points Practical Tips and Information](https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation)
+- [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
+- [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
+- [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
+- [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
+- [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
+- [[Unknown Brand] LP 2002 Photo Plotter Attachment Operating Manual (German)](https://archive.org/details/lp-2002-betriebsanleitung/) - Also see [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) with pictures of this device.
+
+### Ephemera
+
+- [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
+- [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - Multiple articles about the development of the HP Model 9872A and 7221A pen plotters.
+- [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
+- [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
+- [CalComp Precision Graphics System 900/728 Brochure (1970)](https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196)
+- [Digital Plotting Newsletter (1967)](https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114)
+- [Versatec Printers and Plotters Brochure (1977)](https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009)
+- [Versatec Printer/Plotters, Plotters and Output Systems (1981)](https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057)
+- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - _Computers and Plotters Take the Place of Drafting Tables and Pencils_ article on page 36 (PDF page 40).
+- [Omega-t Systems FasPlot Plotter Brochure](https://archive.org/details/TNM_Omega-t_Systems_-_FasPlot_Plotter_20170630_0254)
+- [Commodore Computer Plotter CBM 8075 Brochure (German)](https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE)
+- [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)
+- [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
+- [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - A book about plotters and digitizers.
+- [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
+- [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
+- [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
+- [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
+- [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
+
+## Community
+
+Where to find other plotter and drawbot friends.
+
+- [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
+- [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
+- [Generative Art Subreddit](https://www.reddit.com/r/generative)
+- [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
+- [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
+- #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
+
+## Plotter Art For Sale
+
+- [Paul Rickards](https://shop.paulrickards.com)
+- [Michael Fogleman](https://www.michaelfogleman.com/plotter)
+- [inconvergent](http://buy.inconvergent.net)
+- [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
+- [EmergentDesign](https://emergentdesign.bigcartel.com/products)
+- [BustBright](https://mkt.com/bustbright)
+- [Martin O'Leary](https://shop.mewo2.com)
+- [Geoffrey Bradway](https://www.chromatocosmos.com/)
+- [brubsby](http://shop.brubsby.com/)
+- [Arjan van der Meij](https://dutchplottr.nl/en/)
+- [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
+- [Michelle Chandra](https://www.dirtalleydesign.com/)
+- [Pedro Alcocer](https://store.pedroalcocer.com/)
+- [AndyMakes](https://shop.andymakes.com/)
+- [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
+
+## Other Awesomes
+
+- [awesome-generative-art ![GitHub Repo Stars](https://img.shields.io/github/stars/kosmos/awesome-generative-art) ![GitHub last commit](https://img.shields.io/github/last-commit/kosmos/awesome-generative-art)](https://github.com/kosmos/awesome-generative-art)
+- [awesome-creative-coding ![GitHub Repo Stars](https://img.shields.io/github/stars/terkelg/awesome-creative-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/terkelg/awesome-creative-coding)](https://github.com/terkelg/awesome-creative-coding)
+- [awesome-3d-engines-for-plotters ![GitHub Repo Stars](https://img.shields.io/github/stars/msurguy/awesome-3d-engines-for-plotters) ![GitHub last commit](https://img.shields.io/github/last-commit/msurguy/awesome-3d-engines-for-plotters)](https://github.com/msurguy/awesome-3d-engines-for-plotters)

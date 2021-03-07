@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Awesome Lua | Awesome Lists with GitHub stars</title>
+<meta name="generator" content="Jekyll v3.9.3">
+<meta property="og:title" content="Awesome Lua">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/lists/LewisJEllis-awesome-lua.html">
+<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/lists/LewisJEllis-awesome-lua.html">
+<meta property="og:site_name" content="Awesome Lists with GitHub stars">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Awesome Lua">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome Lua","url":"https://yz89122.github.io/awesome-with-stars/lists/LewisJEllis-awesome-lua.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://yz89122.github.io/awesome-with-stars/">Awesome Lists with GitHub stars</a></h1>
+      
+
+      <h1 id="awesome-lua-">Awesome Lua <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a>
+</h1>
+
+<blockquote>
+  <p>A curated list of quality Lua <a href="#packages">packages</a> and <a href="#resources">resources</a>.</p>
+</blockquote>
+
+<p>Inspired by the lists <a href="https://github.com/sindresorhus/awesome">awesome <img src="https://img.shields.io/github/stars/sindresorhus/awesome" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sindresorhus/awesome" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>, <a href="https://github.com/bayandin/awesome-awesomeness">awesome-awesomeness <img src="https://img.shields.io/github/stars/bayandin/awesome-awesomeness" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>, and <a href="https://github.com/sindresorhus/awesome-nodejs">awesome-nodejs <img src="https://img.shields.io/github/stars/sindresorhus/awesome-nodejs" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sindresorhus/awesome-nodejs" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</p>
+
+<h2 id="packages">Packages</h2>
+<ul>
+  <li><a href="#implementations-interpreters-and-bindings">Implementations, Interpreters, and Bindings</a></li>
+  <li><a href="#package-managers">Package Managers</a></li>
+  <li><a href="#build-tools-and-standalone-makers">Build Tools and Standalone Makers</a></li>
+  <li><a href="#debugging-and-profiling">Debugging and Profiling</a></li>
+  <li><a href="#ides-and-plugins">IDEs and Plugins</a></li>
+  <li><a href="#utility-belts">Utility Belts</a></li>
+  <li><a href="#game-engines">Game Engines</a></li>
+  <li><a href="#game-development">Game Development</a></li>
+  <li><a href="#logging">Logging</a></li>
+  <li><a href="#webnetworking-platforms">Web/Networking Platforms</a></li>
+  <li><a href="#openresty">OpenResty</a></li>
+  <li><a href="#command-line-utilities">Command-line Utilities</a></li>
+  <li><a href="#concurrency-and-multithreading">Concurrency and Multithreading</a></li>
+  <li><a href="#templating">Templating</a></li>
+  <li><a href="#documentation">Documentation</a></li>
+  <li><a href="#object-oriented-programming">Object-oriented Programming</a></li>
+  <li><a href="#file-system-and-os">File system and OS</a></li>
+  <li><a href="#time-and-date">Time and Date</a></li>
+  <li><a href="#image-manipulation">Image Manipulation</a></li>
+  <li><a href="#digital-signal-processing">Digital Signal Processing</a></li>
+  <li><a href="###hardware-and-embedded-systems">Hardware and Embedded Systems</a></li>
+  <li><a href="#math-and-scientific-computing">Math and Scientific Computing</a></li>
+  <li><a href="#parsing-and-serialization">Parsing and Serialization</a></li>
+  <li><a href="#humanize">Humanize</a></li>
+  <li><a href="#compression">Compression</a></li>
+  <li><a href="#cryptography">Cryptography</a></li>
+  <li><a href="#network">Network</a></li>
+  <li><a href="#data-stores">Data Stores</a></li>
+  <li><a href="#message-brokers">Message Brokers</a></li>
+  <li><a href="#testing">Testing</a></li>
+  <li><a href="#foreign-function-interfaces">Foreign Function Interfaces</a></li>
+  <li><a href="#analysis-tools-and-asts">Analysis Tools and ASTs</a></li>
+  <li><a href="#experimental-etc">Experimental, etc</a></li>
+  <li><a href="#scriptable-by-lua">Scriptable by Lua</a></li>
+  <li><a href="#miscellaneous">Miscellaneous</a></li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+<ul>
+  <li><a href="#community">Community</a></li>
+  <li><a href="#references">References</a></li>
+  <li><a href="#style-guides">Style Guides</a></li>
+  <li><a href="#tutorials">Tutorials</a></li>
+  <li><a href="#articles">Articles</a></li>
+  <li><a href="#talks--slides">Talks &amp; Slides</a></li>
+  <li><a href="#books">Books</a></li>
+  <li><a href="#other-lists">Other Lists</a></li>
+</ul>
+
+<h3 id="implementations-interpreters-and-bindings">Implementations, Interpreters, and Bindings</h3>
+<ul>
+  <li>
+<a href="http://www.lua.org/download.html">Lua</a> - Lua’s original ANSI C interpreter.
+    <ul>
+      <li>
+<a href="https://github.com/lua/lua">Lua Repo <img src="https://img.shields.io/github/stars/lua/lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lua/lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The official Lua repo, as seen by the Lua team, mirrored to GitHub.</li>
+    </ul>
+  </li>
+  <li>
+<a href="http://luajit.org/luajit.html">LuaJIT</a> - High-performance Just-In-Time compiler for Lua.</li>
+  <li>
+<a href="https://github.com/neopallium/llvm-lua">LLVM-Lua <img src="https://img.shields.io/github/stars/neopallium/llvm-lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/neopallium/llvm-lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Compiles Lua to LLVM.</li>
+  <li>
+<a href="https://github.com/daurnimator/lua.vm.js">lua.vm.js <img src="https://img.shields.io/github/stars/daurnimator/lua.vm.js" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/daurnimator/lua.vm.js" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.</li>
+  <li>
+<a href="https://github.com/gamesys/moonshine">Moonshine <img src="https://img.shields.io/github/stars/gamesys/moonshine" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gamesys/moonshine" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.</li>
+  <li>
+<a href="https://fengari.io/">Fengari</a> - The Lua VM rewritten in Javascript with seamless JS and DOM interoperability.</li>
+  <li>
+<a href="https://github.com/xanathar/moonsharp">MoonSharp <img src="https://img.shields.io/github/stars/xanathar/moonsharp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xanathar/moonsharp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.</li>
+  <li>
+<a href="https://github.com/xebecnan/UniLua">UniLua <img src="https://img.shields.io/github/stars/xebecnan/UniLua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xebecnan/UniLua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.</li>
+  <li>
+<a href="https://github.com/scoder/lupa">lupa <img src="https://img.shields.io/github/stars/scoder/lupa" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/scoder/lupa" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Python bindings to LuaJIT2.</li>
+  <li>
+<a href="https://github.com/aarzilli/golua">golua <img src="https://img.shields.io/github/stars/aarzilli/golua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aarzilli/golua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Golang bindings to the Lua C API.</li>
+  <li>
+<a href="https://github.com/yuin/gopher-lua">GopherLua <img src="https://img.shields.io/github/stars/yuin/gopher-lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/yuin/gopher-lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua 5.1 VM and compiler implemented in Go with Go APIs.</li>
+  <li>
+<a href="https://github.com/vinniefalco/LuaBridge">LuaBridge <img src="https://img.shields.io/github/stars/vinniefalco/LuaBridge" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vinniefalco/LuaBridge" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua.</li>
+</ul>
+
+<p>Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees performance drop by roughly a factor of 6 with each hop.</p>
+
+<h3 id="package-managers">Package Managers</h3>
+<ul>
+  <li>
+<a href="https://luarocks.org/">LuaRocks</a> - De-facto tool for installing Lua modules as packages called “rocks”, plus public rock repository and website.  Much like npm or pip.</li>
+</ul>
+
+<h3 id="build-tools-and-standalone-makers">Build Tools and Standalone Makers</h3>
+<ul>
+  <li>
+<a href="https://github.com/stevedonovan/Lake">Lake <img src="https://img.shields.io/github/stars/stevedonovan/Lake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stevedonovan/Lake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A build engine written in Lua, similar to Ruby’s rake.</li>
+  <li>
+<a href="https://github.com/stevedonovan/luabuild">Luabuild <img src="https://img.shields.io/github/stars/stevedonovan/luabuild" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stevedonovan/luabuild" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Highly customizable Lua 5.2 build system.</li>
+  <li>
+<a href="https://github.com/ers35/luastatic">luastatic <img src="https://img.shields.io/github/stars/ers35/luastatic" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ers35/luastatic" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple tool for turning Lua programs into standalone executables.</li>
+  <li>
+<a href="https://github.com/tongson/omnia">omnia <img src="https://img.shields.io/github/stars/tongson/omnia" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tongson/omnia" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A batteries-included creator of standalone executables, built on top of luastatic.</li>
+</ul>
+
+<h3 id="debugging-and-profiling">Debugging and Profiling</h3>
+<ul>
+  <li>
+<a href="https://gist.github.com/perky/2838755">ProFi</a> - Simple profiler that works with LuaJIT and produces a report file.</li>
+  <li>
+<a href="https://github.com/geoffleyland/luatrace">luatrace <img src="https://img.shields.io/github/stars/geoffleyland/luatrace" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/geoffleyland/luatrace" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Toolset for tracing/analyzing/profiling script execution and generating detailed reports.</li>
+  <li>
+<a href="https://github.com/ignacio/StackTracePlus">StackTracePlus <img src="https://img.shields.io/github/stars/ignacio/StackTracePlus" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ignacio/StackTracePlus" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Drop-in upgrade to Lua’s stack traces which adds local context and improves readability.</li>
+  <li>
+<a href="https://github.com/pkulchenko/MobDebug">MobDebug <img src="https://img.shields.io/github/stars/pkulchenko/MobDebug" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pkulchenko/MobDebug" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio.</li>
+  <li>
+<a href="https://github.com/rxi/lovebird">lovebird <img src="https://img.shields.io/github/stars/rxi/lovebird" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rxi/lovebird" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Browser-based debug console. Originally made for LÖVE, but works in any project with LuaSocket support.</li>
+</ul>
+
+<h3 id="ides-and-plugins">IDEs and Plugins</h3>
+<ul>
+  <li>
+<a href="https://eclipse.org/ldt/">Lua Development Tools</a> - Eclipse plugin which provides code completion, debugging, and more. Built on Metalua.</li>
+  <li>
+<a href="https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home">Lua for IDEA</a> - IntelliJ IDEA plugin which, among other things, provides code completion, smart highlighting, and experimental debugging.</li>
+  <li>
+<a href="https://studio.zerobrane.com/">ZeroBraneStudio</a> - Lightweight, customizable, cross-platform Lua-dedicated IDE with code completion and analysis, written in Lua. Has broad debugging support for numerous Lua engines.</li>
+  <li>
+<a href="https://archive.codeplex.com/?p=babelua">BabeLua</a> - Lua editor/debugger extension for VS2012-13 with highlighting, auto-completion, linting, and formatting capabilities.</li>
+  <li>
+<a href="https://github.com/immerrr/lua-mode">lua-mode <img src="https://img.shields.io/github/stars/immerrr/lua-mode" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/immerrr/lua-mode" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Emacs major mode for editing Lua.</li>
+  <li>
+<a href="https://github.com/trixnz/vscode-lua">vscode-lua <img src="https://img.shields.io/github/stars/trixnz/vscode-lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/trixnz/vscode-lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - VSCode intellisense and linting.</li>
+</ul>
+
+<h3 id="utility-belts">Utility Belts</h3>
+<ul>
+  <li>
+<a href="https://github.com/luafun/luafun">Lua Fun <img src="https://img.shields.io/github/stars/luafun/luafun" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/luafun/luafun" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - High-performance functional programming library designed for LuaJIT.</li>
+  <li>
+<a href="https://github.com/Yonaba/Moses">Moses <img src="https://img.shields.io/github/stars/Yonaba/Moses" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Yonaba/Moses" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Functional programming utility belt, inspired by Underscore.js.</li>
+  <li>
+<a href="https://github.com/stevedonovan/Penlight">Penlight <img src="https://img.shields.io/github/stars/stevedonovan/Penlight" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stevedonovan/Penlight" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Broad, heavyweight utility library, inspired by Python’s standard libs. Provides the batteries that Lua doesn’t.</li>
+  <li>
+<a href="https://github.com/lua-stdlib/lua-stdlib">lua-stdlib <img src="https://img.shields.io/github/stars/lua-stdlib/lua-stdlib" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lua-stdlib/lua-stdlib" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.</li>
+  <li>
+<a href="https://github.com/stevedonovan/Microlight">Microlight <img src="https://img.shields.io/github/stars/stevedonovan/Microlight" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stevedonovan/Microlight" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A little library of useful Lua functions; the ‘extra light’ version of Penlight.</li>
+  <li>
+<a href="https://luarocks.org/modules/siffiejoe/compat53">compat53</a> - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1.</li>
+  <li>
+<a href="https://github.com/bjornbytes/RxLua">RxLua <img src="https://img.shields.io/github/stars/bjornbytes/RxLua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bjornbytes/RxLua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Reactive Extensions, Observables, etc.</li>
+</ul>
+
+<h3 id="game-engines">Game Engines</h3>
+<ul>
+  <li>
+<a href="http://love2d.org/">LÖVE 2D</a> - Desktop game development platform. Cross-platform, feature-complete, well-adopted.</li>
+  <li>
+<a href="https://coronalabs.com/">Corona SDK</a> - Development platform for iOS and Android. Proprietary, but used by numerous top games and apps, totaling over 150 million downloads.</li>
+  <li>
+<a href="http://getmoai.com/">MOAI</a> - Open source, cross-platform, mobile game development framework. Minimalist C++ engine powered by Lua scripting.</li>
+  <li>
+<a href="https://drystal.github.io/">Drystal</a> - Open source, games can run on Linux or on any platform with a recent web browser.</li>
+  <li>
+<a href="http://www.amulet.xyz/">Amulet</a> - Open source, audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.</li>
+  <li>
+<a href="https://lovr.org">LÖVR</a> - 3D framework for creating virtual reality experiences, inspired by LÖVE 2D.</li>
+</ul>
+
+<h3 id="game-development">Game Development</h3>
+<ul>
+  <li>Corona
+    <ul>
+      <li>
+<a href="https://develephant.github.io/coronium-core-docs/">Coronium</a> - Simple cloud platform supporting analytics, data objects, user management, and more.</li>
+    </ul>
+  </li>
+  <li>LÖVE
+    <ul>
+      <li>
+<a href="https://github.com/love2d-community/awesome-love2d">awesome-love2d <img src="https://img.shields.io/github/stars/love2d-community/awesome-love2d" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/love2d-community/awesome-love2d" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A list like this one, but focused on game dev and the LÖVE platform.</li>
+      <li>
+<a href="https://github.com/rxi/lurker">lurker <img src="https://img.shields.io/github/stars/rxi/lurker" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rxi/lurker" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.</li>
+      <li>
+<a href="http://vrld.github.io/hump/">HUMP</a> - A set of lightweight helpers for LÖVE; a game-oriented utility belt.</li>
+    </ul>
+  </li>
+  <li>MOAI
+    <ul>
+      <li>
+<a href="https://moaifiddle.com">moaifiddle</a> - Edit and share short scripts for the MOAI game engine and run them in the browser using WebGL.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/Yonaba/Jumper">Jumper <img src="https://img.shields.io/github/stars/Yonaba/Jumper" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Yonaba/Jumper" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Fast, lightweight, and easy-to-use pathfinding library for grid-based games.</li>
+  <li>
+<a href="https://github.com/rxi/lume/">lume <img src="https://img.shields.io/github/stars/rxi/lume" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rxi/lume" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Utility belt library geared toward game development.</li>
+  <li>
+<a href="https://github.com/Overtorment/NoobHub">NoobHub <img src="https://img.shields.io/github/stars/Overtorment/NoobHub" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Overtorment/NoobHub" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.</li>
+  <li>Collision detection
+    <ul>
+      <li>
+<a href="https://github.com/kikito/bump.lua">bump.lua <img src="https://img.shields.io/github/stars/kikito/bump.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/bump.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimal rectangle-based collision detection which handles tunnelling and basic collision resolution.</li>
+      <li>
+<a href="http://vrld.github.io/HardonCollider/">HardonCollider</a> - Detect collisions between arbitrarily positioned and rotated shapes of any type.</li>
+    </ul>
+  </li>
+  <li>Tweening
+    <ul>
+      <li>
+<a href="https://github.com/rxi/flux">flux <img src="https://img.shields.io/github/stars/rxi/flux" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rxi/flux" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A fast, lightweight tweening library for Lua with easing functions and the ability to group tweens together.</li>
+      <li>
+<a href="https://github.com/kikito/tween.lua">tween.lua <img src="https://img.shields.io/github/stars/kikito/tween.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/tween.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Small library for tweening, with several easing functions.</li>
+    </ul>
+  </li>
+  <li>Examples
+    <ul>
+      <li>
+<a href="https://github.com/tylerneylon/termtris">termtris <img src="https://img.shields.io/github/stars/tylerneylon/termtris" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tylerneylon/termtris" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A tetris clone, written in literate style with “an emphasis on learn-from-ability”.</li>
+      <li>
+<a href="https://github.com/tylerneylon/pacpac">PacPac <img src="https://img.shields.io/github/stars/tylerneylon/pacpac" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tylerneylon/pacpac" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Pac-man clone, made with LÖVE.</li>
+      <li>
+<a href="https://github.com/Stabyourself/mari0">Mari0 <img src="https://img.shields.io/github/stars/Stabyourself/mari0" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Stabyourself/mari0" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Fusion of Mario and Portal, made with LÖVE. See also its <a href="https://en.wikipedia.org/wiki/Mari0">wikipedia entry</a>.</li>
+      <li>
+<a href="https://github.com/hawkthorne/hawkthorne-journey">Journey to the Center of Hawkthorne <img src="https://img.shields.io/github/stars/hawkthorne/hawkthorne-journey" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hawkthorne/hawkthorne-journey" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 2D platformer based on Community’s <a href="https://en.wikipedia.org/wiki/Digital_Estate_Planning">Digital Estate Planning</a> episode, made with LÖVE.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="logging">Logging</h3>
+<ul>
+  <li>
+<a href="https://github.com/moteus/lua-log">lua-log <img src="https://img.shields.io/github/stars/moteus/lua-log" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/moteus/lua-log" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Asynchronous logging library with pluggable writers for file system, network, ZeroMQ, and more.</li>
+  <li>
+<a href="https://github.com/Neopallium/lualogging">LuaLogging <img src="https://img.shields.io/github/stars/Neopallium/lualogging" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Neopallium/lualogging" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Log4j-inspired logging library supporting various appenders.</li>
+  <li>
+<a href="https://luarocks.org/modules/luarocks/luasyslog">luasyslog</a> - Log to syslog, based on LuaLogging.</li>
+</ul>
+
+<h3 id="webnetworking-platforms">Web/Networking Platforms</h3>
+<ul>
+  <li>
+<a href="http://openresty.org/en/">OpenResty</a> - A fast and scalable web application platform created by extending Nginx with Lua. Today’s de-facto Lua web platform, used heavily by Cloudflare, Taobao, Tencent, and others.</li>
+  <li>
+<a href="https://turbo.readthedocs.io/en/latest/">turbo</a> - Event-driven, non-blocking, LuaJIT-based networking suite and framework, inspired by Tornado.</li>
+  <li>
+<a href="https://github.com/keplerproject">Kepler Project</a> - A collection of web-oriented projects using a common set of standards and components.</li>
+  <li>
+<a href="https://github.com/EvandroLG/pegasus.lua">Pegasus.lua <img src="https://img.shields.io/github/stars/EvandroLG/pegasus.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/EvandroLG/pegasus.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Pegasus.lua is a http server to work with web applications written in Lua language.</li>
+</ul>
+
+<h3 id="openresty">OpenResty</h3>
+<ul>
+  <li>
+<a href="https://github.com/bungle/awesome-resty">awesome-resty <img src="https://img.shields.io/github/stars/bungle/awesome-resty" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bungle/awesome-resty" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A list like this one, but focused on OpenResty.</li>
+  <li>Core platform
+    <ul>
+      <li>
+<a href="https://www.nginx.com/resources/wiki/modules/lua/">ngx_lua</a> - The core piece of OpenResty. Embeds Lua in Nginx and exposes, among other things, the cosocket API for non-blocking sockets (compatible with LuaSocket’s API).</li>
+      <li>
+<a href="https://github.com/openresty">OpenResty GitHub Organization</a> - Home of the repositories for ngx_lua, ngx_openresty, and many related modules.</li>
+    </ul>
+  </li>
+  <li>Third-party modules
+    <ul>
+      <li>
+<a href="https://github.com/pintsized/lua-resty-http">lua-resty-http <img src="https://img.shields.io/github/stars/pintsized/lua-resty-http" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pintsized/lua-resty-http" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua HTTP client driver, built on the cosocket API.</li>
+    </ul>
+  </li>
+  <li>Frameworks &amp; tools
+    <ul>
+      <li>
+<a href="http://leafo.net/lapis/">Lapis</a> - Full-stack framework for Lua and OpenResty. Like the Django or Rails of Lua. Supports Moonscript.</li>
+      <li>
+<a href="https://github.com/pintsized/ledge">ledge <img src="https://img.shields.io/github/stars/pintsized/ledge" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pintsized/ledge" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua module providing scriptable, RFC-compliant HTTP cache functionality.</li>
+      <li>
+<a href="https://github.com/sailorproject/sailor">Sailor <img src="https://img.shields.io/github/stars/sailorproject/sailor" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sailorproject/sailor" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — An MVC web framework compatible with OpenResty, Apache and other webservers.</li>
+      <li>
+<a href="https://github.com/Kong/kong">Kong <img src="https://img.shields.io/github/stars/Kong/kong" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Kong/kong" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Microservice &amp; API Management Layer.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Search this page for ‘OpenResty’ to find related packages under other categories (data stores in particular).</p>
+
+<h3 id="command-line-utilities">Command-line Utilities</h3>
+<ul>
+  <li>
+<a href="https://github.com/kikito/ansicolors.lua">ansicolors <img src="https://img.shields.io/github/stars/kikito/ansicolors.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/ansicolors.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple function for printing to the console in color.</li>
+  <li>
+<a href="https://github.com/amireh/lua_cliargs">cliargs <img src="https://img.shields.io/github/stars/amireh/lua_cliargs" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/amireh/lua_cliargs" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple command-line argument parsing module.</li>
+  <li>
+<a href="https://github.com/hoelzro/lua-term">lua-term <img src="https://img.shields.io/github/stars/hoelzro/lua-term" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hoelzro/lua-term" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Terminal operations and manipulations.</li>
+  <li>
+<a href="https://github.com/mpeterv/argparse">argparse <img src="https://img.shields.io/github/stars/mpeterv/argparse" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mpeterv/argparse" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A feature-rich command line parser inspired by argparse for Python.</li>
+</ul>
+
+<h3 id="concurrency-and-multithreading">Concurrency and Multithreading</h3>
+<ul>
+  <li>Coroutine-based multitasking:
+    <ul>
+      <li>
+<a href="https://github.com/xopxe/Lumen">Lumen <img src="https://img.shields.io/github/stars/xopxe/Lumen" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xopxe/Lumen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple concurrent task scheduling.</li>
+      <li>
+<a href="https://github.com/lefcha/concurrentlua">ConcurrentLua <img src="https://img.shields.io/github/stars/lefcha/concurrentlua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lefcha/concurrentlua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Implements an Erlang-style message-passing concurrency model.</li>
+      <li>
+<a href="http://25thandclement.com/~william/projects/cqueues.html">cqueues</a> - Library for managing sockets, signals, and threads based on an event loop with coroutines.</li>
+    </ul>
+  </li>
+  <li>Multithreading:
+    <ul>
+      <li>
+<a href="https://github.com/Neopallium/lua-llthreads">llthreads <img src="https://img.shields.io/github/stars/Neopallium/lua-llthreads" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Neopallium/lua-llthreads" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple wrapper for low-level pthreads &amp; WIN32 threads.</li>
+      <li>
+<a href="https://github.com/moteus/lua-llthreads2">llthreads2 <img src="https://img.shields.io/github/stars/moteus/lua-llthreads2" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/moteus/lua-llthreads2" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Newer rewrite of llthreads.</li>
+      <li>
+<a href="https://github.com/LuaLanes/lanes">lanes <img src="https://img.shields.io/github/stars/LuaLanes/lanes" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/LuaLanes/lanes" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Library implementing a message passing model with one OS thread per Lua thread.</li>
+      <li>
+<a href="https://github.com/askyrme/luaproc">luaproc <img src="https://img.shields.io/github/stars/askyrme/luaproc" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/askyrme/luaproc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Message-passing model which allows multiple threads per OS thread and easily generalizes across a network. See also <a href="http://www.inf.puc-rio.br/~roberto/docs/ry08-05.pdf">the paper</a> where it originated.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>For more on the differences (particularly between <code class="language-plaintext highlighter-rouge">lanes</code> and <code class="language-plaintext highlighter-rouge">luaproc</code>), see this <a href="http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_For_Windows/lanes/comparison.html">comparison</a> of options; somewhat dated, but covers how each one works and the significant differences.</p>
+
+<h3 id="templating">Templating</h3>
+<ul>
+  <li>
+<a href="http://olivinelabs.com/lustache/">lustache</a> - Mustache template implementation.</li>
+  <li>
+<a href="https://github.com/leafo/etlua">etlua <img src="https://img.shields.io/github/stars/leafo/etlua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leafo/etlua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Embedded Lua templates, ERB-style.</li>
+  <li>
+<a href="https://github.com/bungle/lua-resty-template">lua-resty-template <img src="https://img.shields.io/github/stars/bungle/lua-resty-template" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bungle/lua-resty-template" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua-oriented template engine for OpenResty, somewhat Jinja-like.</li>
+</ul>
+
+<h3 id="documentation">Documentation</h3>
+<ul>
+  <li>
+<a href="http://stevedonovan.github.io/ldoc/">LDoc</a> - Documentation generator which modernizes and extends <a href="http://keplerproject.github.io/luadoc/">LuaDoc</a>.</li>
+  <li>
+<a href="http://rgieseke.github.io/locco/">Locco</a> - Lua port of <a href="http://ashkenas.com/docco/">Docco</a>, the “quick-and-dirty, hundred-line-long, literate-programming-style documentation generator”.</li>
+  <li>
+<a href="https://github.com/bjornbytes/docroc">docroc <img src="https://img.shields.io/github/stars/bjornbytes/docroc" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bjornbytes/docroc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Parse comments into a Lua table to generate documentation.</li>
+</ul>
+
+<h3 id="object-oriented-programming">Object-oriented Programming</h3>
+<ul>
+  <li>
+<a href="https://github.com/Yonaba/30log">30log <img src="https://img.shields.io/github/stars/Yonaba/30log" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Yonaba/30log" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimalist OOP library with basic classes, inheritance, and mixins in 30 lines.</li>
+  <li>
+<a href="https://github.com/kikito/middleclass">middleclass <img src="https://img.shields.io/github/stars/kikito/middleclass" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/middleclass" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.</li>
+</ul>
+
+<h3 id="file-system-and-os">File system and OS</h3>
+<ul>
+  <li>
+<a href="http://keplerproject.github.io/luafilesystem/">LuaFileSystem</a> - Extends and complements Lua’s built-in set of file system functions.</li>
+  <li>
+<a href="https://github.com/luaposix/luaposix">luaposix <img src="https://img.shields.io/github/stars/luaposix/luaposix" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/luaposix/luaposix" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Bindings for POSIX APIs, including curses.</li>
+  <li>
+<a href="http://25thandclement.com/~william/projects/lunix.html">lunix</a> - Bindings to common Unix system APIs, striving for thread-safety.</li>
+  <li>
+<a href="https://github.com/moteus/lua-path">lua-path <img src="https://img.shields.io/github/stars/moteus/lua-path" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/moteus/lua-path" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - File system path manipulation library.</li>
+</ul>
+
+<h3 id="time-and-date">Time and Date</h3>
+<ul>
+  <li>
+<a href="https://github.com/Tieske/date">LuaDate <img src="https://img.shields.io/github/stars/Tieske/date" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Tieske/date" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support.</li>
+  <li>
+<a href="https://github.com/kikito/cron.lua">cron.lua <img src="https://img.shields.io/github/stars/kikito/cron.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/cron.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Time-related functions for Lua, inspired by JavaScript’s setTimeout and setInterval.</li>
+  <li>
+<a href="https://github.com/daurnimator/luatz">luatx <img src="https://img.shields.io/github/stars/daurnimator/luatz" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/daurnimator/luatz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Time, date, and timezone library.</li>
+</ul>
+
+<h3 id="image-manipulation">Image Manipulation</h3>
+<ul>
+  <li>
+<a href="https://github.com/leafo/magick">magick <img src="https://img.shields.io/github/stars/leafo/magick" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leafo/magick" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua bindings to ImageMagick for LuaJIT using FFI.</li>
+</ul>
+
+<h3 id="digital-signal-processing">Digital Signal Processing</h3>
+<ul>
+  <li>
+<a href="https://github.com/h4rm/luafft">LuaFFT <img src="https://img.shields.io/github/stars/h4rm/luafft" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h4rm/luafft" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An easy to use Fast Fourier Transformation package in pure Lua.</li>
+  <li>
+<a href="http://worp.zevv.nl/about.html">Worp</a> - Sound/music/DSP engine written for LuaJIT.</li>
+</ul>
+
+<h3 id="hardware-and-embedded-systems">Hardware and Embedded Systems</h3>
+<ul>
+  <li>
+<a href="http://www.eluaproject.net/">eLua</a> - Lua, extended with optimizations and specific features for efficient and portable embedded software development.</li>
+</ul>
+
+<h3 id="math-and-scientific-computing">Math and Scientific Computing</h3>
+<ul>
+  <li>
+<a href="http://scilua.org/">SciLua</a> - Numerical/scientific computing framework built on LuaJIT, with an interface to R.</li>
+  <li>
+<a href="http://torch.ch/">Torch7</a> - Scientific computing framework with wide support for machine learning algorithms, used by Facebook, Google, and more.</li>
+  <li>
+<a href="http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/">lhf’s Lua Tools</a> - Assorted libraries and tools, many math- or data-related.</li>
+</ul>
+
+<h3 id="parsing-and-serialization">Parsing and Serialization</h3>
+<ul>
+  <li>JSON
+    <ul>
+      <li>
+<a href="https://github.com/mpx/lua-cjson/">lua-cjson <img src="https://img.shields.io/github/stars/mpx/lua-cjson" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mpx/lua-cjson" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Blazing fast JSON encoding/decoding implemented in C and exposed to Lua.</li>
+      <li>
+<a href="https://github.com/harningt/luajson">luajson <img src="https://img.shields.io/github/stars/harningt/luajson" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/harningt/luajson" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - JSON encoder/decoder implemented in Lua on top of LPeg.</li>
+      <li>
+<a href="http://dkolf.de/src/dkjson-lua.fsl/home">dkjson</a> - JSON encoder/decoder implemented in pure Lua.</li>
+      <li>
+<a href="https://github.com/rxi/json.lua">json.lua <img src="https://img.shields.io/github/stars/rxi/json.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rxi/json.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A fast and tiny JSON library in pure Lua.</li>
+    </ul>
+  </li>
+  <li>XML
+    <ul>
+      <li>
+<a href="https://matthewwild.co.uk/projects/luaexpat/">LuaExpat</a> - SAX XML parser via binding to the Expat library.</li>
+      <li>
+<a href="https://github.com/Phrogz/SLAXML">SLAXML <img src="https://img.shields.io/github/stars/Phrogz/SLAXML" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Phrogz/SLAXML" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Pure Lua SAX-like streaming XML parser.</li>
+    </ul>
+  </li>
+  <li>MessagePack
+    <ul>
+      <li>
+<a href="https://github.com/fperrad/lua-MessagePack">lua-MessagePack <img src="https://img.shields.io/github/stars/fperrad/lua-MessagePack" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fperrad/lua-MessagePack" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Pure Lua implementation of MessagePack.</li>
+      <li>
+<a href="https://github.com/antirez/lua-cmsgpack">lua-cmsgpack <img src="https://img.shields.io/github/stars/antirez/lua-cmsgpack" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/antirez/lua-cmsgpack" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A MessagePack C implementation with Lua bindings, as used by Redis.=</li>
+    </ul>
+  </li>
+  <li>LPeg
+    <ul>
+      <li>
+<a href="http://www.inf.puc-rio.br/~roberto/lpeg/">LPeg</a> - A pattern-matching library for Lua, based on Parsing Expression Grammars.</li>
+      <li>
+<a href="https://github.com/daurnimator/lpeg_patterns">lpeg_patterns <img src="https://img.shields.io/github/stars/daurnimator/lpeg_patterns" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/daurnimator/lpeg_patterns" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collection of LPeg patterns.</li>
+      <li>
+<a href="https://github.com/pygy/LuLPeg">LuLPeg <img src="https://img.shields.io/github/stars/pygy/LuLPeg" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pygy/LuLPeg" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A pure Lua implementation of LPeg v0.12.</li>
+      <li>
+<a href="https://github.com/sacek/LPegLJ">LPegLJ <img src="https://img.shields.io/github/stars/sacek/LPegLJ" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sacek/LPegLJ" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A pure LuaJIT implementation of LPeg v1.0.</li>
+      <li>
+<a href="https://github.com/sqmedeiros/lpeglabel">LPegLabel <img src="https://img.shields.io/github/stars/sqmedeiros/lpeglabel" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sqmedeiros/lpeglabel" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An extension of LPeg adding support for labeled failures.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/gvvaughan/lyaml">lyaml <img src="https://img.shields.io/github/stars/gvvaughan/lyaml" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gvvaughan/lyaml" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - YAML encoding/decoding via binding to LibYAML.</li>
+  <li>
+<a href="https://github.com/jgm/lunamark">lunamark <img src="https://img.shields.io/github/stars/jgm/lunamark" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jgm/lunamark" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Converts Markdown to other textual formats including HTML and LaTeX. Uses LPeg for fast parsing.</li>
+  <li>
+<a href="https://github.com/xolox/lua-lxsh">LXSH <img src="https://img.shields.io/github/stars/xolox/lua-lxsh" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xolox/lua-lxsh" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collection of lexers and syntax highlighters written with LPeg.</li>
+  <li>
+<a href="https://github.com/Neopallium/lua-pb">lua-pb <img src="https://img.shields.io/github/stars/Neopallium/lua-pb" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Neopallium/lua-pb" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Protocol Buffers implementation.</li>
+</ul>
+
+<h3 id="humanize">Humanize</h3>
+<ul>
+  <li>
+<a href="https://github.com/kikito/i18n.lua">i18n.lua <img src="https://img.shields.io/github/stars/kikito/i18n.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/i18n.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Internationalization library with locales, formatting, and pluralization.</li>
+  <li>
+<a href="https://github.com/kikito/inspect.lua">inspect.lua <img src="https://img.shields.io/github/stars/kikito/inspect.lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/inspect.lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Human-readable representation of Lua tables.</li>
+  <li>
+<a href="https://github.com/pkulchenko/serpent">serpent <img src="https://img.shields.io/github/stars/pkulchenko/serpent" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pkulchenko/serpent" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Serializer and pretty printer.</li>
+  <li>
+<a href="https://github.com/gvx/Ser">Ser <img src="https://img.shields.io/github/stars/gvx/Ser" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gvx/Ser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Dead simple serializer with good performance.</li>
+  <li>
+<a href="https://github.com/Olivine-Labs/say">say <img src="https://img.shields.io/github/stars/Olivine-Labs/say" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Olivine-Labs/say" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple string key-value store for i18n.</li>
+</ul>
+
+<h3 id="compression">Compression</h3>
+<ul>
+  <li>
+<a href="https://github.com/brimworks/lua-zlib">lua-zlib <img src="https://img.shields.io/github/stars/brimworks/lua-zlib" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/brimworks/lua-zlib" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple streaming interface to zlib for gzip/gunzip.</li>
+  <li>
+<a href="https://github.com/brimworks/lua-zip">lua-zip <img src="https://img.shields.io/github/stars/brimworks/lua-zip" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/brimworks/lua-zip" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua binding to libzip. Reads and writes zip files.</li>
+</ul>
+
+<h3 id="cryptography">Cryptography</h3>
+<ul>
+  <li>
+<a href="https://github.com/mkottman/luacrypto">LuaCrypto <img src="https://img.shields.io/github/stars/mkottman/luacrypto" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mkottman/luacrypto" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua bindings to OpenSSL.</li>
+  <li>
+<a href="https://github.com/somesocks/lua-lockbox">lua-lockbox <img src="https://img.shields.io/github/stars/somesocks/lua-lockbox" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/somesocks/lua-lockbox" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collection of cryptographic primitives written in pure Lua.</li>
+  <li>
+<a href="https://github.com/philanc/luatweetnacl">luatweetnacl <img src="https://img.shields.io/github/stars/philanc/luatweetnacl" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/philanc/luatweetnacl" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Bindings to tweetnacl, modern high-security cryptographic library.</li>
+  <li>
+<a href="https://github.com/wahern/luaossl">luaossl <img src="https://img.shields.io/github/stars/wahern/luaossl" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/wahern/luaossl" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - “Most comprehensive OpenSSL module in the Lua universe” - used by lapis, kong, and lua-http.</li>
+</ul>
+
+<h3 id="network">Network</h3>
+<ul>
+  <li>
+<a href="https://github.com/diegonehab/luasocket">LuaSocket <img src="https://img.shields.io/github/stars/diegonehab/luasocket" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/diegonehab/luasocket" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Networking extension which provides a socket API for TCP and UDP, and implements HTTP, FTP, and SMTP.</li>
+  <li>
+<a href="https://github.com/lipp/lua-websockets">lua-websockets <img src="https://img.shields.io/github/stars/lipp/lua-websockets" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lipp/lua-websockets" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - WebSocket client and server modules. Webserver-agnostic, implemented in Lua on top of LuaSocket.</li>
+  <li>
+<a href="https://github.com/Lua-cURL/Lua-cURLv3">lua-cURLv3 <img src="https://img.shields.io/github/stars/Lua-cURL/Lua-cURLv3" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Lua-cURL/Lua-cURLv3" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua binding to libcurl.</li>
+  <li>
+<a href="https://github.com/daurnimator/lua-http">lua-http <img src="https://img.shields.io/github/stars/daurnimator/lua-http" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/daurnimator/lua-http" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Asynchronous HTTP and WebSocket library with client and server APIs, TLS, and HTTP/2; based on cqueues.</li>
+</ul>
+
+<h3 id="data-stores">Data Stores</h3>
+<ul>
+  <li>
+<a href="http://keplerproject.github.io/luasql/">LuaSQL</a> - Simple interface for connecting to ODBC, ADO, Oracle, MySQL, SQLite and PostgreSQL.</li>
+  <li>
+<a href="https://github.com/leafo/pgmoon">pgmoon <img src="https://img.shields.io/github/stars/leafo/pgmoon" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leafo/pgmoon" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua PostgreSQL driver for OpenResty, LuaSocket, and cqueues.</li>
+  <li>
+<a href="https://github.com/openresty/lua-resty-mysql">lua-resty-mysql <img src="https://img.shields.io/github/stars/openresty/lua-resty-mysql" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/openresty/lua-resty-mysql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua MySQL driver for OpenResty.</li>
+  <li>
+<a href="https://github.com/jbochi/lua-resty-cassandra">lua-resty-cassandra <img src="https://img.shields.io/github/stars/jbochi/lua-resty-cassandra" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jbochi/lua-resty-cassandra" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua Cassandra client driver for OpenResty and others.</li>
+  <li>Redis
+    <ul>
+      <li>
+<a href="https://github.com/nrk/redis-lua">redis-lua <img src="https://img.shields.io/github/stars/nrk/redis-lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nrk/redis-lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Pure Lua client library for Redis.</li>
+      <li>
+<a href="https://github.com/openresty/lua-resty-redis">lua-resty-redis <img src="https://img.shields.io/github/stars/openresty/lua-resty-redis" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/openresty/lua-resty-redis" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua Redis client driver for OpenResty.</li>
+      <li>
+<a href="https://github.com/daurnimator/lredis">lredis <img src="https://img.shields.io/github/stars/daurnimator/lredis" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/daurnimator/lredis" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Asynchronous Redis client with pipelining and Pub/Sub support; based on cqueues.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="message-brokers">Message Brokers</h3>
+<ul>
+  <li>
+<a href="https://github.com/Neopallium/lua-zmq">lua-zmq <img src="https://img.shields.io/github/stars/Neopallium/lua-zmq" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Neopallium/lua-zmq" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua bindings to ZeroMQ.</li>
+  <li>
+<a href="https://github.com/zeromq/lzmq">lzmq <img src="https://img.shields.io/github/stars/zeromq/lzmq" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zeromq/lzmq" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A newer Lua binding to ZeroMQ.</li>
+  <li>
+<a href="https://github.com/doujiang24/lua-resty-kafka">lua-resty-kafka <img src="https://img.shields.io/github/stars/doujiang24/lua-resty-kafka" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/doujiang24/lua-resty-kafka" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Kafka client driver based on OpenResty cosockets.</li>
+  <li>
+<a href="https://github.com/wingify/lua-resty-rabbitmqstomp">lua-resty-rabbitmqstomp <img src="https://img.shields.io/github/stars/wingify/lua-resty-rabbitmqstomp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/wingify/lua-resty-rabbitmqstomp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - RabbitMQ client library based on OpenResty cosockets.</li>
+</ul>
+
+<h3 id="testing">Testing</h3>
+<ul>
+  <li>
+<a href="http://olivinelabs.com/busted/">busted</a> - BDD-style unit testing framework with great docs and Moonscript support.</li>
+  <li>
+<a href="https://github.com/norman/telescope">telescope <img src="https://img.shields.io/github/stars/norman/telescope" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/norman/telescope" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Flexible and highly customizable testing library.</li>
+  <li>
+<a href="https://github.com/Olivine-Labs/luassert">luassert <img src="https://img.shields.io/github/stars/Olivine-Labs/luassert" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Olivine-Labs/luassert" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Assertion library extending Lua’s built-in assertions.</li>
+  <li>
+<a href="https://github.com/bjornbytes/lust">lust <img src="https://img.shields.io/github/stars/bjornbytes/lust" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bjornbytes/lust" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimal test framework.</li>
+</ul>
+
+<h3 id="foreign-function-interfaces">Foreign Function Interfaces</h3>
+<ul>
+  <li>
+<a href="http://luajit.org/ext_ffi.html">LuaJIT FFI</a> - LuaJIT’s mechanism for calling external C functions and using C data structures from pure Lua code.</li>
+  <li>
+<a href="https://github.com/jmckaskill/luaffi">luaffi <img src="https://img.shields.io/github/stars/jmckaskill/luaffi" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jmckaskill/luaffi" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Standalone FFI library, compatible with the LuaJIT FFI interface.</li>
+</ul>
+
+<h3 id="analysis-tools-and-asts">Analysis Tools and ASTs</h3>
+<ul>
+  <li>
+<a href="https://github.com/sztupy/luadec51">luadec51 <img src="https://img.shields.io/github/stars/sztupy/luadec51" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sztupy/luadec51" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua Decompiler for Lua version 5.1.</li>
+  <li>
+<a href="http://keplerproject.github.io/luacov/">luacov</a> - Simple coverage analyzer, used by busted and telescope for checking test coverage.
+    <ul>
+      <li>
+<a href="https://github.com/moteus/luacov-coveralls">luacov-coveralls <img src="https://img.shields.io/github/stars/moteus/luacov-coveralls" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/moteus/luacov-coveralls" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - LuaCov reporter for coveralls.io.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/mpeterv/luacheck">luacheck <img src="https://img.shields.io/github/stars/mpeterv/luacheck" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mpeterv/luacheck" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple static analyzer which detects accidental globals and undefined or shadowed locals.</li>
+  <li>
+<a href="https://github.com/fab13n/metalua">Metalua <img src="https://img.shields.io/github/stars/fab13n/metalua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fab13n/metalua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.</li>
+  <li>
+<a href="https://github.com/davidm/lua-inspect">LuaInspect <img src="https://img.shields.io/github/stars/davidm/lua-inspect" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/davidm/lua-inspect" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua’s most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.</li>
+  <li>
+<a href="https://github.com/stravant/LuaMinify">LuaMinify <img src="https://img.shields.io/github/stars/stravant/LuaMinify" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stravant/LuaMinify" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minifier which also brings its own static analysis tools, lexer, and parser.</li>
+  <li>
+<a href="https://github.com/andremm/typedlua">Typed Lua <img src="https://img.shields.io/github/stars/andremm/typedlua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/andremm/typedlua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A typed superset of Lua that compiles to plain Lua.</li>
+  <li>
+<a href="https://github.com/andremm/lua-parser">lua-parser <img src="https://img.shields.io/github/stars/andremm/lua-parser" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/andremm/lua-parser" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Lua 5.3 parser written using LPegLabel, with improved error messages.</li>
+</ul>
+
+<h3 id="experimental-etc">Experimental, etc</h3>
+<ul>
+  <li>
+<a href="https://github.com/TannerRogalsky/punchdrunk">punchdrunk.js <img src="https://img.shields.io/github/stars/TannerRogalsky/punchdrunk" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/TannerRogalsky/punchdrunk" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.</li>
+  <li>
+<a href="https://github.com/luvit/luvit">luvit <img src="https://img.shields.io/github/stars/luvit/luvit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/luvit/luvit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Node.js’s underlying architecture (libUV) with Lua on top instead of JavaScript.</li>
+  <li>
+<a href="https://github.com/bjornbytes/graphql-lua">graphql-lua <img src="https://img.shields.io/github/stars/bjornbytes/graphql-lua" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bjornbytes/graphql-lua" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lua implementation of <a href="http://graphql.org/">GraphQL</a>.</li>
+</ul>
+
+<h3 id="scriptable-by-lua">Scriptable by Lua</h3>
+<ul>
+  <li>
+<a href="https://luakit.github.io/luakit/">luakit</a> - Fast, small, webkit based browser framework extensible by Lua.</li>
+  <li>
+<a href="http://www.hammerspoon.org">Hammerspoon</a> - A powerful, extensible OS X automation tool. A community-maintained fork of <a href="http://www.mjolnir.io/">Mjolnir</a>.</li>
+  <li>
+<a href="https://github.com/skx/kpie">kpie <img src="https://img.shields.io/github/stars/skx/kpie" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/skx/kpie" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A scripting utility to juggle windows.</li>
+  <li>
+<a href="https://lumail.org/">lumail</a> - A console-based mail client, with extensive scripting capabilities.</li>
+  <li>
+<a href="https://awesomewm.org/">AwesomeWM</a> - A highly configurable and extensible window manager for X, scripted and configured by Lua.</li>
+  <li>
+<a href="https://foicica.com/textadept/">Textadept</a> - Extremely lightweight, customizable, cross-platform editor, written (mostly) in (and scripted by) Lua.</li>
+  <li>
+<a href="https://github.com/koreader/koreader">KoReader <img src="https://img.shields.io/github/stars/koreader/koreader" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/koreader/koreader" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.</li>
+</ul>
+
+<h3 id="miscellaneous">Miscellaneous</h3>
+<ul>
+  <li>
+<a href="http://moonscript.org/">MoonScript</a> - Moonscript is a dynamic scripting language that compiles to Lua. It reduces verbosity and provides a rich set of features like comprehensions and classes. Its author calls it ‘CoffeeScript for Lua’.</li>
+  <li>
+<a href="http://leafo.net/sitegen/">sitegen</a> - A static site generator which uses MoonScript and supports HTML and Markdown, page grouping, and plugins.</li>
+</ul>
+
+<h2 id="resources-1">Resources</h2>
+
+<h3 id="community">Community</h3>
+<ul>
+  <li>
+<a href="http://www.lua.org/lua-l.html">lua-l</a> - The official Lua mailing list, and one of the focal points of the Lua community.</li>
+  <li>
+<a href="http://lua.space/">Lua.Space</a> - The Lua community blog.</li>
+  <li>
+<a href="https://github.com/lua-users-foundation">Lua Users Foundation</a> - An association of individuals with the mission of supporting and promoting Lua and its community and ecosystems.</li>
+  <li>
+<a href="http://lua-users.org/">lua-users.org</a> - A site for and by users of Lua, featuring an IRC channel, a web archive of lua-l, and a large wiki.</li>
+  <li>Conferences/Meetups
+    <ul>
+      <li>
+<a href="https://www.lua.org/community.html#workshop">Lua Workshop</a> - Annual 2-day meeting of the Lua community, in rotating locations.</li>
+      <li>
+<a href="http://luaconf.com/">Lua Conf</a> - Annual 1-day Lua conference in Brazil.</li>
+      <li>
+<a href="https://fosdem.org/">FOSDEM</a> - Annual 2-day gathering of F/OSS developers in Brussels which sometimes has a “Lua devroom”.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="references">References</h3>
+<ul>
+  <li>
+<a href="http://www.lua.org/manual/5.3/">Reference Manual</a> - The official definition of the Lua language.</li>
+  <li>
+<a href="http://lua-users.org/wiki/">lua-users wiki</a> - A large community-maintained collection of Lua information and resources, supplementing the official website.</li>
+  <li>
+<a href="http://www.luafaq.org/">Lua Unofficial FAQ</a> - Answers all sorts of Lua-related questions, including many of the form ‘How to ___?’.</li>
+</ul>
+
+<h3 id="glossaries">Glossaries</h3>
+<ul>
+  <li>
+<a href="https://rawgit.com/dlaurie/lua-notes/master/glossary.html">Lua 5.3 Glossary</a> - A glossary of some essential Lua terms.</li>
+</ul>
+
+<h3 id="style-guides">Style Guides</h3>
+<ul>
+  <li>
+<a href="http://lua-users.org/wiki/LuaStyleGuide">Lua-users style guide</a> - A general, high-level style guide; unopinionated, easily agreed on.</li>
+  <li>
+<a href="https://github.com/Olivine-Labs/lua-style-guide">Olivine style guide <img src="https://img.shields.io/github/stars/Olivine-Labs/lua-style-guide" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Olivine-Labs/lua-style-guide" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A more opinionated and specific, and therefore more rigorous, guide.</li>
+</ul>
+
+<h3 id="tutorials">Tutorials</h3>
+<ul>
+  <li>
+<a href="http://www.coppeliarobotics.com/helpFiles/en/luaCrashCourse.htm">Lua Crash Course</a> - Short crash course readover, or reference for when you forget the basics.</li>
+  <li>
+<a href="http://tylerneylon.com/a/learn-lua/">Learn Lua in 15 Minutes</a> - A well-commented example file which covers the basics.</li>
+  <li>
+<a href="http://phrogz.net/lua/LearningLua_FromJS.html">Learning Lua from JS</a> - An overview of the similarities and differences between Lua and JS; a great start for JavaScript folks looking to pick up Lua.</li>
+  <li>
+<a href="http://lua-users.org/wiki/LuaTutorial">lua-users tutorial</a> - In-depth collection of tutorials aimed at newcomers.</li>
+  <li>
+<a href="https://github.com/kikito/lua_missions">Lua Missions <img src="https://img.shields.io/github/stars/kikito/lua_missions" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kikito/lua_missions" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A series of ‘Missions’ to work through which are designed to teach aspects of Lua along the way.</li>
+  <li>
+<a href="http://leafo.net/posts/creating_an_image_server.html">Creating an Image Server</a> - Walks through setting up and using OpenResty to build a simple image processing server; a great starting point for playing with OpenResty.</li>
+</ul>
+
+<h3 id="articles">Articles</h3>
+<ul>
+  <li>
+<a href="https://debian-administration.org/article/264/Embedding_a_scripting_language_inside_your_C/C_code">Embedding Lua in C</a> - An introductory walkthrough of embedding Lua in a C program. A bit dated, but still a great walkthrough.</li>
+  <li>
+<a href="http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts">Lua: Good, bad, and ugly parts</a> - A thorough summary of the good, different, bad, and ugly aspects of Lua, including many subtle quirks, by the author of ZeroBraneStudio.</li>
+  <li>
+<a href="http://www.thijsschreijer.nl/blog/?p=693">Lua states, libraries, coroutines and memory</a> - Diagrams and explains some more advanced concepts of the Lua VM, particularly when interfacing with C.</li>
+</ul>
+
+<h3 id="talks--slides">Talks &amp; Slides</h3>
+<ul>
+  <li>
+<a href="http://www.inf.puc-rio.br/~roberto/talks/index.html">Roberto’s Talks</a> - History of talks given by Lua’s chief architect, with slides for each.</li>
+  <li>
+<a href="http://www.lua.org/wshop14.html#abstracts">Lua Workshop Talks</a> - High-quality talks are given at each ~annual Lua Workshop, and a history of them is online, slides included.</li>
+</ul>
+
+<h3 id="books">Books</h3>
+<ul>
+  <li>
+<a href="http://www.lua.org/pil/">Programming in Lua</a> - The authoritative intro to all aspects of Lua programming, written by Lua’s chief architect. Three editions released; first edition available online.</li>
+  <li>
+<a href="https://foicica.com/lua/">Lua Quick Reference</a> - A quick reference on how to program in and embed Lua 5.1 through 5.3, by the creator of Textadept.</li>
+  <li>
+<a href="http://www.lua.org/gems/">Programming Gems</a> - A collection of articles covering existing wisdom and practices on programming well in Lua, in a broad variety of use cases.</li>
+  <li>
+<a href="https://en.wikibooks.org/wiki/Lua_Programming">Lua Programming</a> - A shorter overview of the language, up to date for Lua 5.2, and available online.</li>
+</ul>
+
+<h3 id="other-lists">Other Lists</h3>
+<ul>
+  <li>
+<a href="https://github.com/bungle/awesome-resty">awesome-resty <img src="https://img.shields.io/github/stars/bungle/awesome-resty" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bungle/awesome-resty" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A list like this one, but focused on OpenResty.</li>
+  <li>
+<a href="https://github.com/love2d-community/awesome-love2d">awesome-love2d <img src="https://img.shields.io/github/stars/love2d-community/awesome-love2d" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/love2d-community/awesome-love2d" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A list like this one, but focused on game dev and the LÖVE platform.</li>
+  <li>
+<a href="https://sites.google.com/site/marbux/home/where-lua-is-used">Where Lua is Used</a> - A comprehensive list of stand-alone programs written in or extensible using Lua.</li>
+</ul>
+
+<h2 id="contribute">Contribute</h2>
+
+<p>Contributions welcome and wanted! Read the <a href="contributing.md">contribution guidelines</a> first.</p>
+
+<h2 id="license">License</h2>
+
+<p><a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC0" referrerpolicy="no-referrer" loading="lazy"></a></p>
+
+<p>To the extent possible under law, Lewis Ellis has waived all copyright and related or neighboring rights to this work.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

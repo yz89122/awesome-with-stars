@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Awesome CLI | Awesome Lists with GitHub stars</title>
+<meta name="generator" content="Jekyll v3.9.3">
+<meta property="og:title" content="Awesome CLI">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/lists/umutphp-awesome-cli.html">
+<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/lists/umutphp-awesome-cli.html">
+<meta property="og:site_name" content="Awesome Lists with GitHub stars">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Awesome CLI">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome CLI","url":"https://yz89122.github.io/awesome-with-stars/lists/umutphp-awesome-cli.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://yz89122.github.io/awesome-with-stars/">Awesome Lists with GitHub stars</a></h1>
+      
+
+      <h1 id="awesome-cli">Awesome CLI</h1>
+
+<p>Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into <a href="https://github.com/sindresorhus/awesome">Awesome <img src="https://img.shields.io/github/stars/sindresorhus/awesome" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sindresorhus/awesome" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> lists.</p>
+
+<p><img src="https://github.com/umutphp/awesome-cli/raw/master/assets/images/awesome-cli-banner.png" alt="AWESOME CLI" referrerpolicy="no-referrer" loading="lazy"></p>
+
+<p><img src="https://github.com/umutphp/awesome-cli/workflows/Test%20&amp;%20Build/badge.svg" alt="Build" referrerpolicy="no-referrer" loading="lazy"> <img src="https://github.com/umutphp/awesome-cli/workflows/WOSPM%20Checker/badge.svg" alt="WOSPM Checker" referrerpolicy="no-referrer" loading="lazy"></p>
+
+<hr>
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+<ul>
+  <li><a href="#introduction">Introduction</a></li>
+  <li>
+<a href="#how-to-use">How To Use</a>
+    <ul>
+      <li><a href="#interactive-mode">Interactive Mode</a></li>
+      <li><a href="#random-mode">Random Mode</a></li>
+      <li><a href="#surprise-mode">Surprise Mode</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="#how-to-install">How To Install</a>
+    <ul>
+      <li><a href="#basic">Basic</a></li>
+      <li><a href="#build-as-binary">Build as binary</a></li>
+      <li><a href="#download-and-use-official-binary">Download and use official binary</a></li>
+      <li><a href="#cli-options">CLI Options</a></li>
+      <li><a href="#sample-execution">Sample Execution</a></li>
+    </ul>
+  </li>
+  <li><a href="#how-to-contribute">How To Contribute</a></li>
+</ul>
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<hr>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>The CLI starts with the root repository <a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome <img src="https://img.shields.io/github/stars/sindresorhus/awesome" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sindresorhus/awesome" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and guides to to the final repo according to your choices. It fetches Readme files of the repositories and parses them to create the select lists. So, the CLI needs a working network :). It also uses file caches to cache the Readme file contents. You can find the cache folder with name “.awesomecache” under your home folder.</p>
+
+<p><img src="https://github.com/umutphp/awesome-cli/raw/master/assets/images/awesome-cli.gif" alt="Avesome-cli Sample" referrerpolicy="no-referrer" loading="lazy"></p>
+
+<h2 id="how-to-use">How To Use</h2>
+
+<h3 id="interactive-mode">Interactive Mode</h3>
+
+<p>In order to use awesome-cli interactively, just execute it without giving any option. You will walk through the categories and repositories by using “↓ ↑ → ←” buttons. Your choices will be saved to use them in <a href="#surprise-mode">surprise mode</a>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli
+Use the arrow keys to navigate: ↓ ↑ → ← 
+? Select from <span class="s1">'Awesome'</span> list: 
+  ▸ Platforms
+    Programming Languages
+    Front-End Development
+    Back-End Development
+    Computer Science
+    Big Data
+    Theory
+    Books
+    Editors
+↓   Gaming
+</code></pre></div></div>
+
+<h3 id="random-mode">Random Mode</h3>
+
+<p>You can use “random” option to go a random awesome repository under a random category.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli random
+aweome-cli Version 0.3.0
+✔ Programming Languages
+✔ Eta
+✔ Community
+✔ IRC
+https://kiwiirc.com/client/irc.freenode.net/#eta-lang
+</code></pre></div></div>
+
+<h3 id="surprise-mode">Surprise Mode</h3>
+
+<p>When you use “surprise” option, awesome-cli will use your previous selections in <a href="#interactive-mode">interactive mode</a> to find a random repository for you.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli surprise
+aweome-cli Version 0.3.0
+✔ Back-End Development
+✔ Docker
+✔ Videos
+✔ From Local Docker Development to Production Deployments
+https://www.youtube.com/watch?v<span class="o">=</span>7CZFpHUPqXw
+</code></pre></div></div>
+
+<h2 id="how-to-install">How To Install</h2>
+
+<h3 id="basic">Basic</h3>
+
+<p>Follow the steps;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>git clone git@github.com:umutphp/awesome-cli.git
+<span class="o">&gt;</span> <span class="nv">$ </span><span class="nb">cd </span>awesome-cli
+<span class="o">&gt;</span> <span class="nv">$ </span>go run main.go
+</code></pre></div></div>
+
+<h3 id="build-as-binary">Build as binary</h3>
+
+<p>Follow the steps;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>git clone git@github.com:umutphp/awesome-cli.git
+<span class="o">&gt;</span> <span class="nv">$ </span><span class="nb">cd </span>awesome-cli
+<span class="o">&gt;</span> <span class="nv">$ </span><span class="nb">sudo </span>go build <span class="nt">-o</span> /usr/local/bin/awesome-cli <span class="nb">.</span>
+<span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli
+</code></pre></div></div>
+
+<h3 id="download-and-use-official-binary">Download and use official binary</h3>
+
+<p>Visit the <a href="https://github.com/umutphp/awesome-cli/releases/latest">latest release <img src="https://img.shields.io/github/stars/umutphp/awesome-cli" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/umutphp/awesome-cli" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> page, download the zip correspondingly and extract the zip. You can used the binary in the zip file.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span><span class="nb">cp</span> /path/to/zip/extract/awesome-cli /usr/local/bin/awesome-cli
+<span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli
+</code></pre></div></div>
+
+<h3 id="cli-options">CLI Options</h3>
+
+<p>The CLI works in interactive mode without any given option. But, It can be also called some options described below;</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli <span class="nb">help
+</span>awesome-cli Version 0.6.0
+
+Options of awesome-cli:
+  <span class="nb">help      </span>To print this screen.
+  random    To go to a random awesome content.
+  surprise  To go to a surprise awesome content according to your previos choices.
+  profile   To see your previous choices.
+  reset     To clean your choices to start from the beginning.
+  update    Update awesome-cli to the latest version.
+</code></pre></div></div>
+
+<h3 id="sample-execution">Sample Execution</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nv">$ </span>awesome-cli random
+aweome-cli Version 0.2.0
+✔ Platforms
+✔ Linux
+✔ Applications
+✔ Gedit
+https://wiki.gnome.org/Apps/Gedit
+</code></pre></div></div>
+
+<h2 id="how-to-contribute">How To Contribute</h2>
+<p>Please follow the instructions in <a href="CONTRIBUTING.md">CONTRIBUTING</a> file and beware of <a href="CODE_OF_CONDUCT">CODE_OF_CONDUCT</a>.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

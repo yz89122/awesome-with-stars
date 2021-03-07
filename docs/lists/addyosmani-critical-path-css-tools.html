@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Critical-path (Above-the-fold) CSS Tools | Awesome Lists with GitHub stars</title>
+<meta name="generator" content="Jekyll v3.9.3">
+<meta property="og:title" content="Critical-path (Above-the-fold) CSS Tools">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/lists/addyosmani-critical-path-css-tools.html">
+<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/lists/addyosmani-critical-path-css-tools.html">
+<meta property="og:site_name" content="Awesome Lists with GitHub stars">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Critical-path (Above-the-fold) CSS Tools">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Critical-path (Above-the-fold) CSS Tools","url":"https://yz89122.github.io/awesome-with-stars/lists/addyosmani-critical-path-css-tools.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://yz89122.github.io/awesome-with-stars/">Awesome Lists with GitHub stars</a></h1>
+      
+
+      <h1 id="critical-path-above-the-fold-css-tools-">Critical-path (Above-the-fold) CSS Tools <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a>
+</h1>
+
+<blockquote>
+  <p>Tools to help prioritize above-the-fold CSS</p>
+</blockquote>
+
+<h3 id="prioritize-above-the-fold-content-first">Prioritize above-the-fold content first.</h3>
+
+<p>For best performance, PageSpeed Insights <a href="https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent">recommends</a> inlining the critical (above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips and allows the browser to paint the above-fold experience to your user’s screen sooner. The main idea is:</p>
+
+<ul>
+  <li>Determine the above-the-fold styles for a page and write them between <code class="language-plaintext highlighter-rouge">&lt;style&gt;</code> tags in the head.</li>
+  <li>Load all other stylesheets in the footer, ideally asynchronously.</li>
+</ul>
+
+<p>The following is a list of tools to help generate, inline and report on critical-path CSS.</p>
+
+<h2 id="node-modules">Node modules</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/pocketjoso/penthouse">Penthouse <img src="https://img.shields.io/github/stars/pocketjoso/penthouse" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pocketjoso/penthouse" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - by Jonas Ohlsson generates critical-path CSS</li>
+  <li>
+<a href="https://github.com/addyosmani/critical">Critical <img src="https://img.shields.io/github/stars/addyosmani/critical" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/addyosmani/critical" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - by Addy Osmani generates &amp; inlines critical-path CSS (uses Penthouse, <a href="https://github.com/addyosmani/oust">Oust <img src="https://img.shields.io/github/stars/addyosmani/oust" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/addyosmani/oust" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and inline-styles)</li>
+  <li>
+<a href="https://github.com/filamentgroup/criticalcss">CriticalCSS <img src="https://img.shields.io/github/stars/filamentgroup/criticalcss" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/filamentgroup/criticalcss" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - by FilamentGroup finds &amp; outputs critical CSS</li>
+</ul>
+
+<h2 id="server-side-modules">Server-side modules</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/pagespeed/mod_pagespeed">mod_pagespeed <img src="https://img.shields.io/github/stars/pagespeed/mod_pagespeed" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pagespeed/mod_pagespeed" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Apache module for automatic PageSpeed optimization</li>
+  <li>
+<a href="https://github.com/pagespeed/ngx_pagespeed">ngx_pagespeed <img src="https://img.shields.io/github/stars/pagespeed/ngx_pagespeed" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pagespeed/ngx_pagespeed" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Nginx module for automatic PageSpeed optimization</li>
+</ul>
+
+<h2 id="grunt-tasks">Grunt tasks</h2>
+
+<ul>
+  <li><a href="https://github.com/fatso83/grunt-penthouse">grunt-penthouse <img src="https://img.shields.io/github/stars/fatso83/grunt-penthouse" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fatso83/grunt-penthouse" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></li>
+  <li><a href="https://github.com/filamentgroup/grunt-criticalcss">grunt-critical-css <img src="https://img.shields.io/github/stars/filamentgroup/grunt-criticalcss" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/filamentgroup/grunt-criticalcss" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></li>
+  <li><a href="https://github.com/bezoerb/grunt-critical">grunt-critical <img src="https://img.shields.io/github/stars/bezoerb/grunt-critical" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bezoerb/grunt-critical" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></li>
+</ul>
+
+<h2 id="casperjs">CasperJS</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/ibrennan/critical-css-casperjs">critical-css-casperjs <img src="https://img.shields.io/github/stars/ibrennan/critical-css-casperjs" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ibrennan/critical-css-casperjs" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - CasperJS script to pull critical CSS information from pages</li>
+</ul>
+
+<h2 id="phantomjs">PhantomJS</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/drdk/dr-css-inliner">dr-css-inliner <img src="https://img.shields.io/github/stars/drdk/dr-css-inliner" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/drdk/dr-css-inliner" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - PhantomJS script to inline above-the-fold CSS on a page.</li>
+</ul>
+
+<h2 id="inline-sources-styles-scripts">Inline sources (styles, scripts)</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/maxogden/inline-styles">inline-styles <img src="https://img.shields.io/github/stars/maxogden/inline-styles" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/maxogden/inline-styles" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - by Max Ogden, replaces <code class="language-plaintext highlighter-rouge">&lt;link&gt;</code> tags with inline <code class="language-plaintext highlighter-rouge">&lt;style&gt;</code> tags + inlines CSS url() calls with data URIs</li>
+  <li>
+<a href="https://github.com/fmal/gulp-inline-source">gulp-inline-source <img src="https://img.shields.io/github/stars/fmal/gulp-inline-source" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fmal/gulp-inline-source" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - by Filip Malinowski, replaces <code class="language-plaintext highlighter-rouge">&lt;link&gt;</code> tags with inline <code class="language-plaintext highlighter-rouge">&lt;style&gt;</code> tags, and replaces <code class="language-plaintext highlighter-rouge">&lt;script src=""&gt;</code> tags with their inline content</li>
+  <li>
+<a href="https://github.com/bezoerb/inline-critical">inline-critical <img src="https://img.shields.io/github/stars/bezoerb/inline-critical" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bezoerb/inline-critical" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - by Ben Zörb, inline critical path CSS and load existing stylesheets with <code class="language-plaintext highlighter-rouge">loadCSS</code>
+</li>
+  <li>
+<a href="https://github.com/kriasoft/isomorphic-style-loader/">isomorphic-style-loader <img src="https://img.shields.io/github/stars/kriasoft/isomorphic-style-loader" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kriasoft/isomorphic-style-loader" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See <a href="https://github.com/kriasoft/react-starter-kit">React Starter Kit <img src="https://img.shields.io/github/stars/kriasoft/react-starter-kit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kriasoft/react-starter-kit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> as an example.</li>
+</ul>
+
+<h2 id="async-load-css">Async load CSS</h2>
+
+<p>Async loading should be used to fetch the rest of your site-wide styles after you’ve inlined your critical-path CSS.</p>
+
+<ul>
+  <li>
+<a href="https://github.com/filamentgroup/loadCSS">loadCSS <img src="https://img.shields.io/github/stars/filamentgroup/loadCSS" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/filamentgroup/loadCSS" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - loads CSS asynchronously using JS. <a href="https://gist.github.com/scottjehl/87176715419617ae6994">Research</a> that led to this is also available.</li>
+  <li>
+<a href="https://gist.github.com/matt-bailey/602b40c77a5d3381ff26">async &amp; conditional loading</a> - POC script for loading CSS files asynchronously and conditionally based on body tag classes</li>
+  <li>
+<a href="https://github.com/n0mad01/asyncLoader">asyncLoader <img src="https://img.shields.io/github/stars/n0mad01/asyncLoader" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/n0mad01/asyncLoader" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - async script/stylesheet loader</li>
+  <li>
+<a href="http://addyosmani.github.io/basket.js/">basket.js</a> - async script/resource loader with support for localStorage caching. Can be <a href="https://github.com/andrewwakeling/basket-css-example">extended <img src="https://img.shields.io/github/stars/andrewwakeling/basket-css-example" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/andrewwakeling/basket-css-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> to load stylesheets.</li>
+</ul>
+
+<p>Note: The Guardian currently also cache their global styles into localStorage for subsequent page loads. More info in this <a href="https://gist.github.com/scottjehl/87176715419617ae6994">comment</a>.</p>
+
+<h2 id="online-tools">Online tools</h2>
+
+<ul>
+  <li><a href="https://jonassebastianohlsson.com/criticalpathcssgenerator/">Penthouse online</a></li>
+</ul>
+
+<h2 id="bookmarkletsextensions">Bookmarklets/Extensions</h2>
+
+<ul>
+  <li>
+<a href="https://gist.github.com/PaulKinlan/6284142">Snippet</a> by Paul Kinlan. Patrick Hamann has an <a href="http://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_2.html">exercise</a> using the snippet you can try out.</li>
+  <li>
+<a href="https://gist.github.com/scottjehl/b6129da04733e4e0f9a4">Snippet</a> by Scott Jehl</li>
+  <li>
+<a href="https://github.com/ndreckshage/CSSVacuum">CSSVacuum <img src="https://img.shields.io/github/stars/ndreckshage/CSSVacuum" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ndreckshage/CSSVacuum" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> by ndreckshage</li>
+</ul>
+
+<h2 id="render-blocking-issues-detection">Render-blocking issues detection</h2>
+
+<ul>
+  <li>
+<a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Insights</a> - Online tool that measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent.</li>
+  <li>
+<a href="https://github.com/addyosmani/psi">PSI <img src="https://img.shields.io/github/stars/addyosmani/psi" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/addyosmani/psi" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use <a href="https://github.com/jrcryer/grunt-pagespeed">grunt-pagespeed <img src="https://img.shields.io/github/stars/jrcryer/grunt-pagespeed" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jrcryer/grunt-pagespeed" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> if a Grunt user. For local testing, a write-up using this task and <a href="http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/">ngrok</a> is available.</li>
+  <li>
+<a href="https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en">PageSpeed Insights DevTools extension</a> - Chrome extension for running PageSpeed tests from inside the browser.</li>
+  <li>
+<a href="https://chrome.google.com/webstore/detail/pagespeed-insights-checke/mkjmodmicmpjedhoekkmafdgpocdkbna?hl=en">PageSpeed Insights Checker for mobile extension</a> - checks Mobile PageSpeed score for every page and gives you a handy preview.</li>
+</ul>
+
+<h2 id="supplementary-tools">Supplementary tools</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/giakki/uncss">UnCSS <img src="https://img.shields.io/github/stars/giakki/uncss" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/giakki/uncss" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for <a href="https://github.com/addyosmani/grunt-uncss">Grunt <img src="https://img.shields.io/github/stars/addyosmani/grunt-uncss" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/addyosmani/grunt-uncss" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>, <a href="https://github.com/ben-eb/gulp-uncss">Gulp <img src="https://img.shields.io/github/stars/ben-eb/gulp-uncss" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ben-eb/gulp-uncss" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and <a href="https://addyosmani.com/blog/removing-unused-css/">other</a> build tools.</li>
+</ul>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

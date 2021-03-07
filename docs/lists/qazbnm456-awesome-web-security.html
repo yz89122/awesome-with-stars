@@ -1,0 +1,1579 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Awesome Web Security | Awesome Lists with GitHub stars</title>
+<meta name="generator" content="Jekyll v3.9.3">
+<meta property="og:title" content="Awesome Web Security">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/lists/qazbnm456-awesome-web-security.html">
+<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/lists/qazbnm456-awesome-web-security.html">
+<meta property="og:site_name" content="Awesome Lists with GitHub stars">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Awesome Web Security">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome Web Security","url":"https://yz89122.github.io/awesome-with-stars/lists/qazbnm456-awesome-web-security.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://yz89122.github.io/awesome-with-stars/">Awesome Lists with GitHub stars</a></h1>
+      
+
+      <h1 id="awesome-web-security-">Awesome Web Security <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a>
+</h1>
+
+<p><a href="https://www.w3.org/TR/html5/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" align="right" width="70" referrerpolicy="no-referrer" loading="lazy"></a></p>
+
+<blockquote>
+  <p>🐶 Curated list of Web Security materials and resources.</p>
+</blockquote>
+
+<p>Needless to say, most websites suffer from various types of bugs which may eventually lead to vulnerabilities. Why would this happen so often? There can be many factors involved including misconfiguration, shortage of engineers’ security skills, etc. To combat this, here is a curated list of Web Security materials and resources for learning cutting edge penetration techniques, and I highly encourage you to read this article “<a href="https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher">So you want to be a web security researcher?</a>” first.</p>
+
+<p><em>Please read the <a href="CONTRIBUTING.md">contribution guidelines</a> before contributing.</em></p>
+
+<hr>
+
+<p align="center"><b>🌈 Want to strengthen your penetration skills?</b><br>I would recommend playing some <a href="https://github.com/apsdehal/awesome-ctf" target="_blank">awesome-ctf</a>s.</p>
+
+<hr>
+
+<p>If you enjoy this awesome list and would like to support it, check out my <a href="https://www.patreon.com/boik">Patreon</a> page :)<br>Also, don’t forget to check out my <a href="https://github.com/qazbnm456">repos</a> 🐾 or say <em>hi</em> on my <a href="https://twitter.com/qazbnm456">Twitter</a>!</p>
+
+<h2 id="contents">Contents</h2>
+
+<ul>
+  <li><a href="#digests">Digests</a></li>
+  <li><a href="#forums">Forums</a></li>
+  <li>
+<a href="#intro">Introduction</a>
+    <ul>
+      <li><a href="#xss---cross-site-scripting">XSS</a></li>
+      <li><a href="#prototype-pollution">Prototype Pollution</a></li>
+      <li><a href="#csv-injection">CSV Injection</a></li>
+      <li><a href="#sql-injection">SQL Injection</a></li>
+      <li><a href="#command-injection">Command Injection</a></li>
+      <li><a href="#orm-injection">ORM Injection</a></li>
+      <li><a href="#ftp-injection">FTP Injection</a></li>
+      <li><a href="#xxe---xml-external-entity">XXE</a></li>
+      <li><a href="#csrf---cross-site-request-forgery">CSRF</a></li>
+      <li><a href="#clickjacking">Clickjacking</a></li>
+      <li><a href="#ssrf---server-side-request-forgery">SSRF</a></li>
+      <li><a href="#web-cache-poisoning">Web Cache Poisoning</a></li>
+      <li><a href="#relative-path-overwrite">Relative Path Overwrite</a></li>
+      <li><a href="#open-redirect">Open Redirect</a></li>
+      <li><a href="#saml">SAML</a></li>
+      <li><a href="#upload">Upload</a></li>
+      <li><a href="#rails">Rails</a></li>
+      <li><a href="#angularjs">AngularJS</a></li>
+      <li><a href="#reactjs">ReactJS</a></li>
+      <li><a href="#ssltls">SSL/TLS</a></li>
+      <li><a href="#webmail">Webmail</a></li>
+      <li><a href="#nfs">NFS</a></li>
+      <li><a href="#aws">AWS</a></li>
+      <li><a href="#azure">Azure</a></li>
+      <li><a href="#fingerprint">Fingerprint</a></li>
+      <li><a href="#sub-domain-enumeration">Sub Domain Enumeration</a></li>
+      <li><a href="#crypto">Crypto</a></li>
+      <li><a href="#web-shell">Web Shell</a></li>
+      <li><a href="#osint">OSINT</a></li>
+      <li><a href="#dns-rebinding">DNS Rebinding</a></li>
+      <li><a href="#deserialization">Deserialization</a></li>
+      <li><a href="#oauth">OAuth</a></li>
+      <li><a href="#jwt">JWT</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="#evasions">Evasions</a>
+    <ul>
+      <li><a href="#evasions-xxe">XXE</a></li>
+      <li><a href="#evasions-csp">CSP</a></li>
+      <li><a href="#evasions-waf">WAF</a></li>
+      <li><a href="#evasions-jsmvc">JSMVC</a></li>
+      <li><a href="#evasions-authentication">Authentication</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="#tricks">Tricks</a>
+    <ul>
+      <li><a href="#tricks-csrf">CSRF</a></li>
+      <li><a href="#tricks-clickjacking">Clickjacking</a></li>
+      <li><a href="#tricks-rce">Remote Code Execution</a></li>
+      <li><a href="#tricks-xss">XSS</a></li>
+      <li><a href="#tricks-sql-injection">SQL Injection</a></li>
+      <li><a href="#tricks-nosql-injection">NoSQL Injection</a></li>
+      <li><a href="#tricks-ftp-injection">FTP Injection</a></li>
+      <li><a href="#tricks-xxe">XXE</a></li>
+      <li><a href="#tricks-ssrf">SSRF</a></li>
+      <li><a href="#tricks-web-cache-poisoning">Web Cache Poisoning</a></li>
+      <li><a href="#tricks-header-injection">Header Injection</a></li>
+      <li><a href="#tricks-url">URL</a></li>
+      <li><a href="#tricks-deserialization">Deserialization</a></li>
+      <li><a href="#tricks-oauth">OAuth</a></li>
+      <li><a href="#tricks-others">Others</a></li>
+    </ul>
+  </li>
+  <li><a href="#browser-exploitation">Browser Exploitation</a></li>
+  <li>
+<a href="#pocs">PoCs</a>
+    <ul>
+      <li><a href="#pocs-database">Database</a></li>
+    </ul>
+  </li>
+  <li><a href="#cheetsheets">Cheetsheets</a></li>
+  <li>
+<a href="#tools">Tools</a>
+    <ul>
+      <li><a href="#tools-auditing">Auditing</a></li>
+      <li><a href="#tools-command-injection">Command Injection</a></li>
+      <li>
+<a href="#tools-reconnaissance">Reconnaissance</a>
+        <ul>
+          <li><a href="#tools-osint">OSINT</a></li>
+          <li><a href="#tools-sub-domain-enumeration">Sub Domain Enumeration</a></li>
+        </ul>
+      </li>
+      <li><a href="#tools-code-generating">Code Generating</a></li>
+      <li><a href="#tools-fuzzing">Fuzzing</a></li>
+      <li><a href="#tools-scanning">Scanning</a></li>
+      <li><a href="#tools-penetration-testing">Penetration Testing</a></li>
+      <li><a href="#tools-leaking">Leaking</a></li>
+      <li>
+<a href="#tools-offensive">Offensive</a>
+        <ul>
+          <li><a href="#tools-xss">XSS</a></li>
+          <li><a href="#tools-sql-injection">SQL Injection</a></li>
+          <li><a href="#tools-template-injection">Template Injection</a></li>
+          <li><a href="#tools-xxe">XXE</a></li>
+          <li><a href="#tools-csrf">CSRF</a></li>
+          <li><a href="#tools-ssrf">SSRF</a></li>
+        </ul>
+      </li>
+      <li><a href="#tools-detecting">Detecting</a></li>
+      <li><a href="#tools-preventing">Preventing</a></li>
+      <li><a href="#tools-proxy">Proxy</a></li>
+      <li><a href="#tools-webshell">Webshell</a></li>
+      <li><a href="#tools-disassembler">Disassembler</a></li>
+      <li><a href="#tools-decompiler">Decompiler</a></li>
+      <li><a href="#tools-dns-rebinding">DNS Rebinding</a></li>
+      <li><a href="#tools-others">Others</a></li>
+    </ul>
+  </li>
+  <li><a href="#social-engineering-database">Social Engineering Database</a></li>
+  <li><a href="#blogs">Blogs</a></li>
+  <li><a href="#twitter-users">Twitter Users</a></li>
+  <li>
+<a href="#practices">Practices</a>
+    <ul>
+      <li><a href="#practices-application">Application</a></li>
+      <li><a href="#practices-aws">AWS</a></li>
+      <li><a href="#practices-xss">XSS</a></li>
+      <li><a href="#practices-modsecurity">ModSecurity / OWASP ModSecurity Core Rule Set</a></li>
+    </ul>
+  </li>
+  <li><a href="#community">Community</a></li>
+  <li><a href="#miscellaneous">Miscellaneous</a></li>
+</ul>
+
+<h2 id="digests">Digests</h2>
+
+<ul>
+  <li>
+<a href="https://www.hacker101.com/">Hacker101</a> - Written by <a href="https://www.hackerone.com/start-hacking">hackerone</a>.</li>
+  <li>
+<a href="https://portswigger.net/daily-swig">The Daily Swig - Web security digest</a> - Written by <a href="https://portswigger.net/">PortSwigger</a>.</li>
+  <li>
+<a href="https://www.netsparker.com/blog/web-security/">Web Application Security Zone by Netsparker</a> - Written by <a href="https://www.netsparker.com/">Netsparker</a>.</li>
+  <li>
+<a href="https://www.sneakymonkey.net/2017/04/23/infosec-newbie/">Infosec Newbie</a> - Written by <a href="https://www.sneakymonkey.net/">Mark Robinson</a>.</li>
+  <li>
+<a href="https://bitvijays.github.io/">The Magic of Learning</a> - Written by <a href="https://bitvijays.github.io/aboutme.html">@bitvijays</a>.</li>
+  <li>
+<a href="https://trailofbits.github.io/ctf/">CTF Field Guide</a> - Written by <a href="https://www.trailofbits.com/">Trail of Bits</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/">PayloadsAllTheThings <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+  <li>
+<a href="https://tldrsec.com/">tl;dr sec</a> - Weekly summary of top security tools, blog posts, and security research.</li>
+</ul>
+
+<h2 id="forums">Forums</h2>
+
+<ul>
+  <li>
+<a href="http://www.phrack.org/">Phrack Magazine</a> - Ezine written by and for hackers.</li>
+  <li>
+<a href="https://thehackernews.com/">The Hacker News</a> - Security in a serious way.</li>
+  <li>
+<a href="https://securityweekly.com/">Security Weekly</a> - The security podcast network.</li>
+  <li>
+<a href="http://www.theregister.co.uk/">The Register</a> - Biting the hand that feeds IT.</li>
+  <li>
+<a href="https://www.darkreading.com/Default.asp">Dark Reading</a> - Connecting The Information Security Community.</li>
+  <li>
+<a href="http://en.hackdig.com/">HackDig</a> - Dig high-quality web security articles for hacker.</li>
+</ul>
+
+<p><a name="intro"></a></p>
+<h2 id="introduction">Introduction</h2>
+
+<p><a name="xss"></a></p>
+<h3 id="xss---cross-site-scripting">XSS - Cross-Site Scripting</h3>
+
+<ul>
+  <li>
+<a href="https://www.google.com/intl/sw/about/appsecurity/learning/xss/">Cross-Site Scripting – Application Security – Google</a> - Written by <a href="https://www.google.com/">Google</a>.</li>
+  <li>
+<a href="https://github.com/cure53/H5SC">H5SC <img src="https://img.shields.io/github/stars/cure53/H5SC" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cure53/H5SC" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/cure53">@cure53</a>.</li>
+  <li>
+<a href="https://github.com/s0md3v/AwesomeXSS">AwesomeXSS <img src="https://img.shields.io/github/stars/s0md3v/AwesomeXSS" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/s0md3v/AwesomeXSS" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/s0md3v">@s0md3v</a>.</li>
+  <li>
+<a href="https://github.com/LucaBongiorni/XSS.png">XSS.png <img src="https://img.shields.io/github/stars/LucaBongiorni/XSS.png" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/LucaBongiorni/XSS.png" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by @jackmasa.</li>
+  <li>
+<a href="https://excess-xss.com/">C.XSS Guide</a> - Written by <a href="https://github.com/JakobKallin">@JakobKallin</a> and <a href="https://www.linkedin.com/in/irenelobovalbuena/">Irene Lobo Valbuena</a>.</li>
+  <li>
+<a href="http://www.paulosyibelo.com/2018/06/the-big-bad-wolf-xss-and-maintaining.html">THE BIG BAD WOLF - XSS AND MAINTAINING ACCESS</a> - Written by <a href="http://www.paulosyibelo.com/">Paulos Yibelo</a>.</li>
+  <li>
+<a href="https://github.com/payloadbox/xss-payload-list">payloadbox/xss-payload-list <img src="https://img.shields.io/github/stars/payloadbox/xss-payload-list" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/payloadbox/xss-payload-list" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/payloadbox">@payloadbox</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection">PayloadsAllTheThings - XSS Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="prototype-pollution"></a></p>
+<h3 id="prototype-pollution">Prototype Pollution</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf">Prototype pollution attack in NodeJS application <img src="https://img.shields.io/github/stars/HoLyVieR/prototype-pollution-nsec18" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/HoLyVieR/prototype-pollution-nsec18" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/HoLyVieR">@HoLyVieR</a>.</li>
+  <li>
+<a href="https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/">Exploiting prototype pollution – RCE in Kibana (CVE-2019-7609)</a> - Written by <a href="https://twitter.com/securitymb">@securitymb</a>.</li>
+  <li>
+<a href="https://blog.p6.is/Real-World-JS-1/">Real-world JS - 1</a> - Written by <a href="https://twitter.com/po6ix">@po6ix</a>.</li>
+</ul>
+
+<p><a name="csv-injection"></a></p>
+<h3 id="csv-injection">CSV Injection</h3>
+
+<ul>
+  <li>
+<a href="https://news.webamooz.com/wp-content/uploads/bot/offsecmag/147.pdf">CSV Injection -&gt; Meterpreter on Pornhub</a> - Written by <a href="https://blog.zsec.uk/">Andy</a>.</li>
+  <li>
+<a href="http://georgemauer.net/2017/10/07/csv-injection.html">The Absurdly Underestimated Dangers of CSV Injection</a> - Written by <a href="http://georgemauer.net/">George Mauer</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection">PayloadsAllTheThings - CSV Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="sql-injection"></a></p>
+<h3 id="sql-injection">SQL Injection</h3>
+
+<ul>
+  <li>
+<a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/">SQL Injection Cheat Sheet</a> - Written by <a href="https://twitter.com/netsparker">@netsparker</a>.</li>
+  <li>
+<a href="https://sqlwiki.netspi.com/">SQL Injection Wiki</a> - Written by <a href="https://www.netspi.com/">NETSPI</a>.</li>
+  <li>
+<a href="https://websec.ca/kb/sql_injection">SQL Injection Pocket Reference</a> - Written by <a href="https://twitter.com/LightOS">@LightOS</a>.</li>
+  <li>
+<a href="https://github.com/payloadbox/sql-injection-payload-list">payloadbox/sql-injection-payload-list <img src="https://img.shields.io/github/stars/payloadbox/sql-injection-payload-list" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/payloadbox/sql-injection-payload-list" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/payloadbox">@payloadbox</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection">PayloadsAllTheThings - SQL Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="command-injection"></a></p>
+<h3 id="command-injection">Command Injection</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/ruby/ruby/pull/1777">Potential command injection in resolv.rb <img src="https://img.shields.io/github/stars/ruby/ruby" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ruby/ruby" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/drigg3r">@drigg3r</a>.</li>
+  <li>
+<a href="https://github.com/payloadbox/command-injection-payload-list">payloadbox/command-injection-payload-list <img src="https://img.shields.io/github/stars/payloadbox/command-injection-payload-list" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/payloadbox/command-injection-payload-list" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/payloadbox">@payloadbox</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection">PayloadsAllTheThings - Command Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="orm-injection"></a></p>
+<h3 id="orm-injection">ORM Injection</h3>
+
+<ul>
+  <li>
+<a href="http://blog.h3xstream.com/2014/02/hql-for-pentesters.html">HQL for pentesters</a> - Written by <a href="https://twitter.com/h3xstream/">@h3xstream</a>.</li>
+  <li>
+<a href="https://www.synacktiv.com/ressources/hql2sql_sstic_2015_en.pdf">HQL : Hyperinsane Query Language (or how to access the whole SQL API within a HQL injection ?)</a> - Written by <a href="https://twitter.com/_m0bius">@_m0bius</a>.</li>
+  <li>
+<a href="https://www.slideshare.net/0ang3el/orm2pwn-exploiting-injections-in-hibernate-orm">ORM2Pwn: Exploiting injections in Hibernate ORM</a> - Written by <a href="https://0ang3el.blogspot.tw/">Mikhail Egorov</a>.</li>
+  <li>
+<a href="https://www.slideshare.net/simone.onofri/orm-injection">ORM Injection</a> - Written by <a href="https://onofri.org/">Simone Onofri</a>.</li>
+</ul>
+
+<p><a name="ftp-injection"></a></p>
+<h3 id="ftp-injection">FTP Injection</h3>
+
+<ul>
+  <li>
+<a href="http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html">Advisory: Java/Python FTP Injections Allow for Firewall Bypass</a> - Written by <a href="https://plus.google.com/105917618099766831589">Timothy Morgan</a>.</li>
+  <li>
+<a href="https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/">SMTP over XXE − how to send emails using Java’s XML parser</a> - Written by <a href="https://shiftordie.de/">Alexander Klink</a>.</li>
+</ul>
+
+<p><a name="xxe"></a></p>
+<h3 id="xxe---xml-external-entity">XXE - XML eXternal Entity</h3>
+
+<ul>
+  <li>
+<a href="https://phonexicum.github.io/infosec/xxe.html">XXE</a> - Written by <a href="https://twitter.com/phonexicum">@phonexicum</a>.</li>
+  <li>
+<a href="https://portswigger.net/web-security/xxe">XML external entity (XXE) injection</a> - Written by <a href="https://portswigger.net/">portswigger</a>.</li>
+  <li>
+<a href="https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf">XML Schema, DTD, and Entity Attacks</a> - Written by <a href="https://twitter.com/ecbftw">Timothy D. Morgan</a> and Omar Al Ibrahim.</li>
+  <li>
+<a href="https://github.com/payloadbox/xxe-injection-payload-list">payloadbox/xxe-injection-payload-list <img src="https://img.shields.io/github/stars/payloadbox/xxe-injection-payload-list" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/payloadbox/xxe-injection-payload-list" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/payloadbox">@payloadbox</a>
+</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection">PayloadsAllTheThings - XXE Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by various contributors.</li>
+</ul>
+
+<p><a name="csrf"></a></p>
+<h3 id="csrf---cross-site-request-forgery">CSRF - Cross-Site Request Forgery</h3>
+
+<ul>
+  <li>
+<a href="https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f">Wiping Out CSRF</a> - Written by <a href="https://medium.com/@jrozner">@jrozner</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection">PayloadsAllTheThings - CSRF Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="clickjacking"></a></p>
+<h3 id="clickjacking">Clickjacking</h3>
+
+<ul>
+  <li>
+<a href="https://www.imperva.com/learn/application-security/clickjacking/">Clickjacking</a> - Written by <a href="https://www.imperva.com/">Imperva</a>.</li>
+  <li>
+<a href="https://github.com/cure53/Publications/blob/master/xfo-clickjacking.pdf?raw=true">X-Frame-Options: All about Clickjacking? <img src="https://img.shields.io/github/stars/cure53/Publications" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cure53/Publications" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="http://www.slideshare.net/x00mario">Mario Heiderich</a>.</li>
+</ul>
+
+<p><a name="ssrf"></a></p>
+<h3 id="ssrf---server-side-request-forgery">SSRF - Server-Side Request Forgery</h3>
+
+<ul>
+  <li>
+<a href="https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit">SSRF bible. Cheatsheet</a> - Written by <a href="https://wallarm.com/">Wallarm</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery">PayloadsAllTheThings - Server-Side Request Forgery <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="web-cache-poisoning"></a></p>
+<h3 id="web-cache-poisoning">Web Cache Poisoning</h3>
+
+<ul>
+  <li>
+<a href="https://portswigger.net/blog/practical-web-cache-poisoning">Practical Web Cache Poisoning</a> - Written by <a href="https://twitter.com/albinowax">@albinowax</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception">PayloadsAllTheThings - Web Cache Deception <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="relative-path-overwrite"></a></p>
+<h3 id="relative-path-overwrite">Relative Path Overwrite</h3>
+
+<ul>
+  <li>
+<a href="https://blog.acolyer.org/2018/05/28/large-scale-analysis-of-style-injection-by-relative-path-overwrite/">Large-scale analysis of style injection by relative path overwrite</a> - Written by <a href="https://blog.acolyer.org/">The Morning Paper</a>.</li>
+  <li>
+<a href="https://www.mbsd.jp/Whitepaper/rpo.pdf">MBSD Technical Whitepaper - A few RPO exploitation techniques</a> - Written by <a href="https://www.mbsd.jp/">Mitsui Bussan Secure Directions, Inc.</a>.</li>
+</ul>
+
+<p><a name="open-redirect"></a></p>
+<h3 id="open-redirect">Open Redirect</h3>
+
+<ul>
+  <li>
+<a href="https://s0cket7.com/open-redirect-vulnerability/">Open Redirect Vulnerability</a> - Written by <a href="https://s0cket7.com/">s0cket7</a>.</li>
+  <li>
+<a href="https://github.com/payloadbox/open-redirect-payload-list">payloadbox/open-redirect-payload-list <img src="https://img.shields.io/github/stars/payloadbox/open-redirect-payload-list" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/payloadbox/open-redirect-payload-list" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/payloadbox">@payloadbox</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect">PayloadsAllTheThings - Open Redirect <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="saml"></a></p>
+<h3 id="security-assertion-markup-language-saml">Security Assertion Markup Language (SAML)</h3>
+
+<ul>
+  <li>
+<a href="https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/">How to Hunt Bugs in SAML; a Methodology - Part I</a> - Written by <a href="https://epi052.gitlab.io/notes-to-self/">epi</a>.</li>
+  <li>
+<a href="https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/">How to Hunt Bugs in SAML; a Methodology - Part II</a> - Written by <a href="https://epi052.gitlab.io/notes-to-self/">epi</a>.</li>
+  <li>
+<a href="https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/">How to Hunt Bugs in SAML; a Methodology - Part III</a> - Written by <a href="https://epi052.gitlab.io/notes-to-self/">epi</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection">PayloadsAllTheThings - SAML Injection <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="upload"></a></p>
+<h3 id="upload">Upload</h3>
+
+<ul>
+  <li>
+<a href="https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf">File Upload Restrictions Bypass</a> - Written by <a href="https://www.exploit-db.com/author/?a=9381">Haboob Team</a>.</li>
+  <li>
+<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files">PayloadsAllTheThings - Upload Insecure Files <img src="https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/swisskyrepo">@swisskyrepo</a>.</li>
+</ul>
+
+<p><a name="rails"></a></p>
+<h3 id="rails">Rails</h3>
+
+<ul>
+  <li>
+<a href="https://hackmd.io/s/SkuTVw5O-">Rails Security - First part</a> - Written by <a href="https://github.com/qazbnm456">@qazbnm456</a>.</li>
+  <li>
+<a href="https://github.com/brunofacca/zen-rails-security-checklist">Zen Rails Security Checklist <img src="https://img.shields.io/github/stars/brunofacca/zen-rails-security-checklist" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/brunofacca/zen-rails-security-checklist" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/brunofacca">@brunofacca</a>.</li>
+  <li>
+<a href="https://rails-sqli.org">Rails SQL Injection</a> - Written by <a href="https://github.com/presidentbeef">@presidentbeef</a>.</li>
+  <li>
+<a href="http://guides.rubyonrails.org/security.html">Official Rails Security Guide</a> - Written by <a href="https://rubyonrails.org/">Rails team</a>.</li>
+</ul>
+
+<p><a name="angularjs"></a></p>
+<h3 id="angularjs">AngularJS</h3>
+
+<ul>
+  <li>
+<a href="http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html">XSS without HTML: Client-Side Template Injection with AngularJS</a> - Written by <a href="https://www.blogger.com/profile/10856178524811553475">Gareth Heyes</a>.</li>
+  <li>
+<a href="http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html">DOM based Angular sandbox escapes</a> - Written by <a href="https://twitter.com/garethheyes">@garethheyes</a>
+</li>
+</ul>
+
+<p><a name="reactjs"></a></p>
+<h3 id="reactjs">ReactJS</h3>
+
+<ul>
+  <li>
+<a href="http://danlec.com/blog/xss-via-a-spoofed-react-element">XSS via a spoofed React element</a> - Written by <a href="http://danlec.com/">Daniel LeCheminant</a>.</li>
+</ul>
+
+<p><a name="ssl-tls"></a></p>
+<h3 id="ssltls">SSL/TLS</h3>
+
+<ul>
+  <li>
+<a href="https://www.aptive.co.uk/blog/tls-ssl-security-testing/">SSL &amp; TLS Penetration Testing</a> - Written by <a href="https://www.aptive.co.uk/">APTIVE</a>.</li>
+  <li>
+<a href="https://github.com/Hakky54/mutual-tls-ssl">Practical introduction to SSL/TLS <img src="https://img.shields.io/github/stars/Hakky54/mutual-tls-ssl" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Hakky54/mutual-tls-ssl" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/Hakky54">@Hakky54</a>.</li>
+</ul>
+
+<p><a name="webmail"></a></p>
+<h3 id="webmail">Webmail</h3>
+
+<ul>
+  <li>
+<a href="https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/">Why mail() is dangerous in PHP</a> - Written by <a href="https://www.ripstech.com/">Robin Peraglie</a>.</li>
+</ul>
+
+<p><a name="nfs"></a></p>
+<h3 id="nfs">NFS</h3>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[NFS</td>
+          <td>PENETRATION TESTING ACADEMY](https://pentestacademy.wordpress.com/2017/09/20/nfs/?t=1&amp;cn=ZmxleGlibGVfcmVjc18y&amp;refsrc=email&amp;iid=b34422ce15164e99a193fea0ccc7a02f&amp;uid=1959680352&amp;nid=244+289476616) - Written by <a href="https://pentestacademy.wordpress.com/">PENETRATION ACADEMY</a>.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><a name="aws"></a></p>
+<h3 id="aws">AWS</h3>
+
+<ul>
+  <li>
+<a href="https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/">PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET</a> - Written by Dwight Hohnstein from <a href="https://rhinosecuritylabs.com/">Rhino Security Labs</a>.</li>
+  <li>
+<a href="https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/">AWS PENETRATION TESTING PART 1. S3 BUCKETS</a> - Written by <a href="https://www.virtuesecurity.com/">VirtueSecurity</a>.</li>
+  <li>
+<a href="https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/">AWS PENETRATION TESTING PART 2. S3, IAM, EC2</a> - Written by <a href="https://www.virtuesecurity.com/">VirtueSecurity</a>.</li>
+  <li>
+<a href="https://labs.f-secure.com/blog/misadventures-in-aws">Misadventures in AWS</a> - Written by Christian Demko</li>
+</ul>
+
+<p><a name="azure"></a></p>
+<h3 id="azure">Azure</h3>
+
+<ul>
+  <li>
+<a href="https://rhinosecuritylabs.com/cloud-security/common-azure-security-vulnerabilities/">Common Azure Security Vulnerabilities and Misconfigurations</a> - Written by <a href="https://twitter.com/rhinobenjamin">@rhinobenjamin</a>.</li>
+  <li>
+<a href="https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/">Cloud Security Risks (Part 1): Azure CSV Injection Vulnerability</a> - Written by <a href="https://twitter.com/spengietz">@spengietz</a>.</li>
+</ul>
+
+<p><a name="fingerprint"></a></p>
+<h3 id="fingerprint">Fingerprint</h3>
+
+<p><a name="sub-domain-enumeration"></a></p>
+<h3 id="sub-domain-enumeration">Sub Domain Enumeration</h3>
+
+<ul>
+  <li>
+<a href="https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6">A penetration tester’s guide to sub-domain enumeration</a> - Written by <a href="https://blog.appsecco.com/@yamakira_">Bharath</a>.</li>
+  <li>
+<a href="https://blog.sweepatic.com/art-of-subdomain-enumeration/">The Art of Subdomain Enumeration</a> - Written by <a href="https://blog.sweepatic.com/author/patrik/">Patrik Hudak</a>.</li>
+</ul>
+
+<p><a name="crypto"></a></p>
+<h3 id="crypto">Crypto</h3>
+
+<ul>
+  <li>
+<a href="https://bettercrypto.org/">Applied Crypto Hardening</a> - Written by <a href="https://bettercrypto.org/">The bettercrypto.org Team</a>.</li>
+  <li>
+<a href="https://www.csoonline.com/article/3388647/what-is-a-side-channel-attack-how-these-end-runs-around-encryption-put-everyone-at-risk.html">What is a Side-Channel Attack ?</a> - Written by <a href="https://www.csoonline.com/author/J.M.-Porup/">J.M Porup</a>.</li>
+</ul>
+
+<p><a name="web-shell"></a></p>
+<h3 id="web-shell">Web Shell</h3>
+
+<ul>
+  <li>
+<a href="https://www.tenable.com/blog/hunting-for-web-shells">Hunting for Web Shells</a> - Written by <a href="https://www.tenable.com/profile/jacob-baines">Jacob Baines</a>.</li>
+  <li>
+<a href="https://blog.netspi.com/hacking-with-jsp-shells/">Hacking with JSP Shells</a> - Written by <a href="https://twitter.com/_nullbind">@_nullbind</a>.</li>
+</ul>
+
+<p><a name="osint"></a></p>
+<h3 id="osint">OSINT</h3>
+
+<ul>
+  <li>
+<a href="https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157">Hacking Cryptocurrency Miners with OSINT Techniques</a> - Written by <a href="https://medium.com/@s3yfullah">@s3yfullah</a>.</li>
+  <li>
+<a href="https://www.slideshare.net/miaoski/osint-x-uccu-workshop-on-open-source-intelligence">OSINT x UCCU Workshop on Open Source Intelligence</a> - Written by <a href="https://www.slideshare.net/miaoski">Philippe Lin</a>.</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=fzd3zkAI_o4">102 Deep Dive in the Dark Web OSINT Style Kirby Plessas</a> - Presented by <a href="https://twitter.com/kirbstr">@kirbstr</a>.</li>
+  <li>
+<a href="https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email">The most complete guide to finding anyone’s email</a> - Written by <a href="https://www.blurbiz.io/">Timur Daudpota</a>.</li>
+</ul>
+
+<p><a name="dns-rebinding"></a></p>
+<h3 id="dns-rebinding">DNS Rebinding</h3>
+
+<ul>
+  <li>
+<a href="https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325">Attacking Private Networks from the Internet with DNS Rebinding</a> - Written by <a href="https://medium.com/@brannondorsey">@brannondorsey</a>
+</li>
+  <li>
+<a href="https://medium.com/@radekk/hackers-can-get-access-to-your-home-router-1ddadd12a7a7">Hacking home routers from the Internet</a> - Written by <a href="https://medium.com/@radekk">@radekk</a>
+</li>
+</ul>
+
+<p><a name="deserialization"></a></p>
+<h3 id="deserialization">Deserialization</h3>
+
+<ul>
+  <li>
+<a href="https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/">What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.</a> - Written by <a href="https://twitter.com/breenmachine">@breenmachine</a>.</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=eDfGpu3iE4Q">Attacking .NET deserialization</a> - Written by <a href="https://twitter.com/pwntester">@pwntester</a>.</li>
+  <li>
+<a href="https://www.youtube.com/watch?v=--6PiuvBGAU">.NET Roulette: Exploiting Insecure Deserialization in Telerik UI</a> - Written by <a href="https://twitter.com/noperator">@noperator</a>.</li>
+  <li>
+<a href="https://pentest-tools.com/blog/exploit-dotnetnuke-cookie-deserialization/">How to exploit the DotNetNuke Cookie Deserialization</a> - Written by <a href="https://pentest-tools.com/blog/author/pentest-cristian/">CRISTIAN CORNEA</a>.</li>
+  <li>
+<a href="https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html">HOW TO EXPLOIT LIFERAY CVE-2020-7961 : QUICK JOURNEY TO POC</a> - Written by <a href="https://twitter.com/synacktiv">@synacktiv</a>.</li>
+</ul>
+
+<p><a name="oauth"></a></p>
+<h3 id="oauth">OAuth</h3>
+
+<ul>
+  <li>
+<a href="https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html">Introduction to OAuth 2.0 and OpenID Connect</a> - Written by <a href="https://twitter.com/PhilippeDeRyck">@PhilippeDeRyck</a>.</li>
+  <li>
+<a href="https://medium.com/securing/what-is-going-on-with-oauth-2-0-and-why-you-should-not-use-it-for-authentication-5f47597b2611">What is going on with OAuth 2.0? And why you should not use it for authentication.</a> - Written by <a href="https://medium.com/@damianrusinek">@damianrusinek</a>.</li>
+</ul>
+
+<p><a name="jwt"></a></p>
+<h3 id="jwt">JWT</h3>
+
+<ul>
+  <li>
+<a href="https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/">Hardcoded secrets, unverified tokens, and other common JWT mistakes</a> - Written by <a href="https://twitter.com/ermil0v">@ermil0v</a>.</li>
+</ul>
+
+<h2 id="evasions">Evasions</h2>
+
+<p><a name="evasions-xxe"></a></p>
+<h3 id="xxe">XXE</h3>
+
+<ul>
+  <li>
+<a href="https://twitter.com/SpiderSec/status/1191375472690528256">Bypass Fix of OOB XXE Using Different encoding</a> - Written by <a href="https://twitter.com/SpiderSec">@SpiderSec</a>.</li>
+</ul>
+
+<p><a name="evasions-csp"></a></p>
+<h3 id="csp">CSP</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/w3c/webappsec-csp/issues/243">Any protection against dynamic module import? <img src="https://img.shields.io/github/stars/w3c/webappsec-csp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/w3c/webappsec-csp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://twitter.com/@shhnjk">@shhnjk</a>.</li>
+  <li>
+<a href="https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/">CSP: bypassing form-action with reflected XSS</a> - Written by <a href="https://labs.detectify.com/">Detectify Labs</a>.</li>
+  <li>
+<a href="http://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html">TWITTER XSS + CSP BYPASS</a> - Written by <a href="http://www.paulosyibelo.com/">Paulos Yibelo</a>.</li>
+  <li>
+<a href="https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa">Neatly bypassing CSP</a> - Written by <a href="https://wallarm.com/">Wallarm</a>.</li>
+  <li>
+<a href="https://portswigger.net/blog/evading-csp-with-dom-based-dangling-markup">Evading CSP with DOM-based dangling markup</a> - Written by <a href="https://portswigger.net/">portswigger</a>.</li>
+  <li>
+<a href="https://githubengineering.com/githubs-csp-journey/">GitHub’s CSP journey</a> - Written by <a href="https://github.com/ptoomey3">@ptoomey3</a>.</li>
+  <li>
+<a href="https://githubengineering.com/githubs-post-csp-journey/">GitHub’s post-CSP journey</a> - Written by <a href="https://github.com/ptoomey3">@ptoomey3</a>.</li>
+</ul>
+
+<p><a name="evasions-waf"></a></p>
+<h3 id="waf">WAF</h3>
+
+<ul>
+  <li>
+<a href="https://medium.com/secjuice/waf-evasion-techniques-718026d693d8">Web Application Firewall (WAF) Evasion Techniques</a> - Written by <a href="https://twitter.com/secjuice">@secjuice</a>.</li>
+  <li>
+<a href="https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0">Web Application Firewall (WAF) Evasion Techniques #2</a> - Written by <a href="https://twitter.com/secjuice">@secjuice</a>.</li>
+  <li>
+<a href="https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/">Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities</a> - Written by <a href="https://twitter.com/bbuerhaus">@Brett Buerhaus</a>.</li>
+  <li>
+<a href="https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f">How to bypass libinjection in many WAF/NGWAF</a> - Written by <a href="https://medium.com/@d0znpp">@d0znpp</a>.</li>
+</ul>
+
+<p><a name="evasions-jsmvc"></a></p>
+<h3 id="jsmvc">JSMVC</h3>
+
+<ul>
+  <li>
+<a href="http://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks">JavaScript MVC and Templating Frameworks</a> - Written by <a href="http://www.slideshare.net/x00mario">Mario Heiderich</a>.</li>
+</ul>
+
+<p><a name="evasions-authentication"></a></p>
+<h3 id="authentication">Authentication</h3>
+
+<ul>
+  <li>
+<a href="http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html">Trend Micro Threat Discovery Appliance - Session Generation Authentication Bypass (CVE-2016-8584)</a> - Written by <a href="https://twitter.com/malerisch">@malerisch</a> and <a href="https://twitter.com/steventseeley">@steventseeley</a>.</li>
+</ul>
+
+<h2 id="tricks">Tricks</h2>
+
+<p><a name="tricks-csrf"></a></p>
+<h3 id="csrf">CSRF</h3>
+
+<ul>
+  <li>
+<a href="https://zhuanlan.zhihu.com/p/32716181">Neat tricks to bypass CSRF-protection</a> - Written by <a href="https://twosecurity.io/">Twosecurity</a>.</li>
+  <li>
+<a href="https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b">Exploiting CSRF on JSON endpoints with Flash and redirects</a> - Written by <a href="https://blog.appsecco.com/@riyazwalikar">@riyazwalikar</a>.</li>
+  <li>
+<a href="https://github.com/dxa4481/cssInjection">Stealing CSRF tokens with CSS injection (without iFrames) <img src="https://img.shields.io/github/stars/dxa4481/cssInjection" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dxa4481/cssInjection" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/dxa4481">@dxa4481</a>.</li>
+  <li>
+<a href="https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2">Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters</a> - Written by <a href="https://blog.securityevaluators.com/@rramgattie">@rramgattie</a>.</li>
+  <li>
+<a href="https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443">If HttpOnly You Could Still CSRF… Of CORS you can!</a> - Written by <a href="https://twitter.com/GraphX">@GraphX</a>.</li>
+</ul>
+
+<p><a name="tricks-clickjacking"></a></p>
+<h3 id="clickjacking-1">Clickjacking</h3>
+
+<ul>
+  <li>
+<a href="https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a">Clickjackings in Google worth 14981.7$</a> - Written by <a href="https://medium.com/@raushanraj_65039">@raushanraj_65039</a>.</li>
+</ul>
+
+<p><a name="tricks-rce"></a></p>
+<h3 id="remote-code-execution">Remote Code Execution</h3>
+
+<ul>
+  <li>
+<a href="https://www.thezdi.com/blog/2019/10/23/cve-2019-1306-are-you-my-index">CVE-2019-1306: ARE YOU MY INDEX?</a> - Written by <a href="https://twitter.com/yu5k3">@yu5k3</a>.</li>
+  <li>
+<a href="https://paper.seebug.org/910/">WebLogic RCE (CVE-2019-2725) Debug Diary</a> - Written by Badcode@Knownsec 404 Team.</li>
+  <li>
+<a href="https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/">What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.</a> - Written by <a href="https://twitter.com/@breenmachine">@breenmachine</a>.</li>
+  <li>
+<a href="https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/">Exploiting Node.js deserialization bug for Remote Code Execution</a> - Written by <a href="https://opsecx.com/index.php/author/ajinabraham/">OpSecX</a>.</li>
+  <li>
+<a href="https://www.ambionics.io/blog/drupal-services-module-rce">DRUPAL 7.X SERVICES MODULE UNSERIALIZE() TO RCE</a> - Written by <a href="https://www.ambionics.io/">Ambionics Security</a>.</li>
+  <li>
+<a href="https://capacitorset.github.io/mathjs/">How we exploited a remote code execution vulnerability in math.js</a> - Written by <a href="https://github.com/capacitorset">@capacitorset</a>.</li>
+  <li>
+<a href="http://exablue.de/blog/2017-03-15-github-enterprise-remote-code-execution.html">GitHub Enterprise Remote Code Execution</a> - Written by <a href="https://github.com/iblue">@iblue</a>.</li>
+  <li>
+<a href="https://blog.ripstech.com/2018/moodle-remote-code-execution/">Evil Teacher: Code Injection in Moodle</a> - Written by <a href="https://www.ripstech.com/">RIPS Technologies</a>.</li>
+  <li>
+<a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!</a> - Written by <a href="http://blog.orange.tw/">Orange</a>.</li>
+  <li>
+<a href="https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce">$36k Google App Engine RCE</a> - Written by <a href="https://sites.google.com/site/testsitehacking/">Ezequiel Pereira</a>.</li>
+  <li>
+<a href="https://codewhitesec.blogspot.com/2018/05/poor-richfaces.html">Poor RichFaces</a> - Written by <a href="https://www.code-white.com/">CODE WHITE</a>.</li>
+  <li>
+<a href="https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/">Remote Code Execution on a Facebook server</a> - Written by <a href="https://twitter.com/blaklis_">@blaklis_</a>.</li>
+</ul>
+
+<p><a name="tricks-xss"></a></p>
+<h3 id="xss">XSS</h3>
+
+<ul>
+  <li>
+<a href="https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html">Exploiting XSS with 20 characters limitation</a> - Written by <a href="https://jlajara.gitlab.io/">Jorge Lajara</a>.</li>
+  <li>
+<a href="https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html">Upgrade self XSS to Exploitable XSS an 3 Ways Technic</a> - Written by <a href="https://www.hahwul.com/">HAHWUL</a>.</li>
+  <li>
+<a href="https://portswigger.net/blog/xss-without-parentheses-and-semi-colons">XSS without parentheses and semi-colons</a> - Written by <a href="https://twitter.com/garethheyes">@garethheyes</a>.</li>
+  <li>
+<a href="https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b">XSS-Auditor — the protector of unprotected and the deceiver of protected.</a> - Written by <a href="https://medium.com/@terjanq">@terjanq</a>.</li>
+  <li>
+<a href="https://hackerone.com/reports/293689">Query parameter reordering causes redirect page to render unsafe URL</a> - Written by <a href="https://hackerone.com/kenziy">kenziy</a>.</li>
+  <li>
+<a href="http://www.slideshare.net/x00mario/es6-en">ECMAScript 6 from an Attacker’s Perspective - Breaking Frameworks, Sandboxes, and everything else</a> - Written by <a href="http://www.slideshare.net/x00mario">Mario Heiderich</a>.</li>
+  <li>
+<a href="https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.u50nrzhas">How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)</a> - Written by <a href="https://medium.com/@marin_m">@marin_m</a>.</li>
+  <li>
+<a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf">DON’T TRUST THE DOM: BYPASSING XSS MITIGATIONS VIA SCRIPT GADGETS</a> - Written by <a href="https://twitter.com/slekies">Sebastian Lekies</a>, <a href="https://twitter.com/kkotowicz">Krzysztof Kotowicz</a>, and <a href="https://twitter.com/sirdarckcat">Eduardo Vela</a>.</li>
+  <li>
+<a href="http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/">Uber XSS via Cookie</a> - Written by <a href="http://zhchbin.github.io/">zhchbin</a>.</li>
+  <li>
+<a href="http://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html">DOM XSS – auth.uber.com</a> - Written by <a href="http://stamone-bug-bounty.blogspot.tw/">StamOne_</a>.</li>
+  <li>
+<a href="https://opnsec.com/2018/03/stored-xss-on-facebook/">Stored XSS on Facebook</a> - Written by <a href="https://opnsec.com/">Enguerran Gillier</a>.</li>
+  <li>
+<a href="https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html">XSS in Google Colaboratory + CSP bypass</a> - Written by <a href="https://blog.bentkowski.info/">Michał Bentkowski</a>.</li>
+  <li>
+<a href="https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html">Another XSS in Google Colaboratory</a> - Written by <a href="https://blog.bentkowski.info/">Michał Bentkowski</a>.</li>
+  <li>
+<a href="https://twitter.com/strukt93/status/931586377665331200">&lt;/script&gt; is filtered ?</a> - Written by <a href="https://twitter.com/strukt93">@strukt93</a>.</li>
+  <li>
+<a href="https://vinothkumar.me/20000-facebook-dom-xss/">$20000 Facebook DOM XSS</a> - Written by <a href="https://twitter.com/vinodsparrow">@vinodsparrow</a>.</li>
+</ul>
+
+<p><a name="tricks-sql-injection"></a></p>
+<h3 id="sql-injection-1">SQL Injection</h3>
+
+<ul>
+  <li>
+<a href="https://www.exploit-db.com/docs/english/37953-mysql-error-based-sql-injection-using-exp.pdf">MySQL Error Based SQL Injection Using EXP</a> - Written by <a href="https://twitter.com/osandamalith">@osandamalith</a>.</li>
+  <li>
+<a href="http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html">SQL injection in an UPDATE query - a bug bounty story!</a> - Written by <a href="http://zombiehelp54.blogspot.jp/">Zombiehelp54</a>.</li>
+  <li>
+<a href="http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html">GitHub Enterprise SQL Injection</a> - Written by <a href="http://blog.orange.tw/">Orange</a>.</li>
+  <li>
+<a href="https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8">Making a Blind SQL Injection a little less blind</a> - Written by <a href="https://twitter.com/TomNomNom">TomNomNom</a>.</li>
+  <li>
+<a href="https://www.tarlogic.com/en/blog/red-team-tales-0x01/">Red Team Tales 0x01: From MSSQL to RCE</a> - Written by <a href="https://www.tarlogic.com/en/cybersecurity-blog/">Tarlogic</a>.</li>
+  <li>
+<a href="https://pulsesecurity.co.nz/articles/postgres-sqli">SQL INJECTION AND POSTGRES - AN ADVENTURE TO EVENTUAL RCE</a> - Written by <a href="https://github.com/denandz">@denandz</a>.</li>
+</ul>
+
+<p><a name="tricks-nosql-injection"></a></p>
+<h3 id="nosql-injection">NoSQL Injection</h3>
+
+<ul>
+  <li>
+<a href="http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/">GraphQL NoSQL Injection Through JSON Types</a> - Written by <a href="http://www.petecorey.com/work/">Pete</a>.</li>
+</ul>
+
+<p><a name="tricks-ftp-injection"></a></p>
+<h3 id="ftp-injection-1">FTP Injection</h3>
+
+<ul>
+  <li>
+<a href="https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf">XML Out-Of-Band Data Retrieval</a> - Written by <a href="https://twitter.com/a66at">@a66at</a> and Alexey Osipov.</li>
+  <li>
+<a href="http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html">XXE OOB exploitation at Java 1.7+</a> - Written by <a href="http://lab.onsec.ru/">Ivan Novikov</a>.</li>
+</ul>
+
+<p><a name="tricks-xxe"></a></p>
+<h3 id="xxe-1">XXE</h3>
+
+<ul>
+  <li>
+<a href="https://mohemiv.com/all/evil-xml/">Evil XML with two encodings</a> - Written by <a href="https://mohemiv.com/">Arseniy Sharoglazov</a>.</li>
+  <li>
+<a href="http://seclists.org/fulldisclosure/2018/Jul/3">XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)</a> - Written by <a href="https://twitter.com/codeshtool">Rose Jackcode</a>.</li>
+  <li>
+<a href="https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf">XML Out-Of-Band Data Retrieval</a> - Written by Timur Yunusov and Alexey Osipov.</li>
+  <li>
+<a href="http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html">XXE OOB exploitation at Java 1.7+ (2014)</a>: Exfiltration using FTP protocol - Written by <a href="https://twitter.com/d0znpp/">Ivan Novikov</a>.</li>
+  <li>
+<a href="https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/">XXE OOB extracting via HTTP+FTP using single opened port</a> - Written by <a href="https://skavans.ru/">skavans</a>.</li>
+  <li>
+<a href="https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf">What You Didn’t Know About XML External Entities Attacks</a> - Written by <a href="https://twitter.com/ecbftw">Timothy D. Morgan</a>.</li>
+  <li>
+<a href="https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf">Pre-authentication XXE vulnerability in the Services Drupal module</a> -  Written by <a href="https://twitter.com/_m0bius">Renaud Dubourguais</a>.</li>
+  <li>
+<a href="https://blog.netspi.com/forcing-xxe-reflection-server-error-messages/">Forcing XXE Reflection through Server Error Messages</a> - Written by <a href="https://blog.netspi.com/author/antti-rantasaari/">Antti Rantasaari</a>.</li>
+  <li>
+<a href="https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/">Exploiting XXE with local DTD files</a> - Written by <a href="https://twitter.com/_mohemiv">Arseniy Sharoglazov</a>.</li>
+  <li>
+<a href="https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation">Automating local DTD discovery for XXE exploitation</a> - Written by <a href="https://twitter.com/h3xstream">Philippe Arteau</a>.</li>
+</ul>
+
+<p><a name="tricks-ssrf"></a></p>
+<h3 id="ssrf">SSRF</h3>
+
+<ul>
+  <li>
+<a href="http://10degres.net/aws-takeover-through-ssrf-in-javascript/">AWS takeover through SSRF in JavaScript</a> - Written by <a href="http://10degres.net/">Gwen</a>.</li>
+  <li>
+<a href="https://hackerone.com/reports/341876">SSRF in Exchange leads to ROOT access in all instances</a> - Written by <a href="https://twitter.com/0xacb">@0xacb</a>.</li>
+  <li>
+<a href="https://hackerone.com/reports/341876">SSRF to ROOT Access</a> - A $25k bounty for SSRF leading to ROOT Access in all instances by <a href="https://hackerone.com/0xacb">0xacb</a>.</li>
+  <li>
+<a href="https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51">PHP SSRF Techniques</a> - Written by <a href="https://medium.com/@themiddleblue">@themiddleblue</a>.</li>
+  <li>
+<a href="https://hackerone.com/reports/115748">SSRF in https://imgur.com/vidgif/url</a> - Written by <a href="https://hackerone.com/aesteral">aesteral</a>.</li>
+  <li>
+<a href="https://www.auxy.xyz/web%20security/2017/07/06/all-ssrf-knowledge.html">All you need to know about SSRF and how may we write tools to do auto-detect</a> - Written by <a href="https://twitter.com/Auxy233">@Auxy233</a>.</li>
+  <li>
+<a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!</a> - Written by <a href="http://blog.orange.tw/">Orange</a>.</li>
+  <li>
+<a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/">SSRF Tips</a> - Written by <a href="http://blog.safebuff.com/">xl7dev</a>.</li>
+  <li>
+<a href="https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/">Into the Borg – SSRF inside Google production network</a> - Written by <a href="https://opnsec.com/">opnsec</a>.</li>
+  <li>
+<a href="https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a">Piercing the Veil: Server Side Request Forgery to NIPRNet access</a> - Written by <a href="https://medium.com/@alyssa.o.herrera">Alyssa Herrera</a>.</li>
+</ul>
+
+<p><a name="tricks-web-cache-poisoning"></a></p>
+<h3 id="web-cache-poisoning-1">Web Cache Poisoning</h3>
+
+<ul>
+  <li>
+<a href="https://portswigger.net/blog/bypassing-web-cache-poisoning-countermeasures">Bypassing Web Cache Poisoning Countermeasures</a> - Written by <a href="https://twitter.com/albinowax">@albinowax</a>.</li>
+  <li>
+<a href="https://lab.wallarm.com/cache-poisoning-and-other-dirty-tricks-120468f1053f">Cache poisoning and other dirty tricks</a> - Written by <a href="https://wallarm.com/">Wallarm</a>.</li>
+</ul>
+
+<p><a name="tricks-header-injection"></a></p>
+<h3 id="header-injection">Header Injection</h3>
+
+<ul>
+  <li>
+<a href="http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html">Java/Python FTP Injections Allow for Firewall Bypass</a> - Written by <a href="https://plus.google.com/105917618099766831589">Timothy Morgan</a>.</li>
+</ul>
+
+<p><a name="tricks-url"></a></p>
+<h3 id="url">URL</h3>
+
+<ul>
+  <li>
+<a href="https://noncombatant.org/2017/11/07/problems-of-urls/">Some Problems Of URLs</a> - Written by <a href="https://noncombatant.org/about/">Chris Palmer</a>.</li>
+  <li>
+<a href="https://www.xudongz.com/blog/2017/idn-phishing/">Phishing with Unicode Domains</a> - Written by <a href="https://www.xudongz.com/">Xudong Zheng</a>.</li>
+  <li>
+<a href="https://www.vgrsec.com/post20170219.html">Unicode Domains are bad and you should feel bad for supporting them</a> - Written by <a href="https://www.vgrsec.com/">VRGSEC</a>.</li>
+  <li>
+<a href="http://blog.blackfan.ru/2017/09/devtwittercom-xss.html">[dev.twitter.com] XSS</a> - Written by <a href="http://blog.blackfan.ru/">Sergey Bobrov</a>.</li>
+</ul>
+
+<p><a name="tricks-deserialization"></a></p>
+<h3 id="deserialization-1">Deserialization</h3>
+
+<ul>
+  <li>
+<a href="https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/">ASP.NET resource files (.RESX) and deserialisation issues</a> - Written by <a href="https://twitter.com/irsdl">@irsdl</a>.</li>
+</ul>
+
+<p><a name="tricks-oauth"></a></p>
+<h3 id="oauth-1">OAuth</h3>
+
+<ul>
+  <li>
+<a href="https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/">Facebook OAuth Framework Vulnerability</a> - Written by <a href="https://twitter.com/AmolBaikar">@AmolBaikar</a>.</li>
+</ul>
+
+<p><a name="tricks-others"></a></p>
+<h3 id="others">Others</h3>
+
+<ul>
+  <li>
+<a href="https://medium.com/free-code-camp/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5">How I hacked Google’s bug tracking system itself for $15,600 in bounties</a> - Written by <a href="https://medium.com/@alex.birsan">@alex.birsan</a>.</li>
+  <li>
+<a href="https://www.leavesongs.com/SHARE/some-tricks-from-my-secret-group.html">Some Tricks From My Secret Group</a> - Written by <a href="https://www.leavesongs.com/">phithon</a>.</li>
+  <li>
+<a href="https://github.com/epidemics-scepticism/writing/blob/master/onion-dns-leaks.md">Inducing DNS Leaks in Onion Web Services <img src="https://img.shields.io/github/stars/epidemics-scepticism/writing" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/epidemics-scepticism/writing" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/epidemics-scepticism">@epidemics-scepticism</a>.</li>
+  <li>
+<a href="https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html">Stored XSS, and SSRF in Google using the Dataset Publishing Language</a> - Written by <a href="https://twitter.com/signalchaos">@signalchaos</a>.</li>
+</ul>
+
+<h2 id="browser-exploitation">Browser Exploitation</h2>
+
+<h3 id="frontend-like-sop-bypass-url-spoofing-and-something-like-that">Frontend (like SOP bypass, URL spoofing, and something like that)</h3>
+
+<ul>
+  <li>
+<a href="https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer">The world of Site Isolation and compromised renderer</a> - Written by <a href="https://twitter.com/shhnjk">@shhnjk</a>.</li>
+  <li>
+<a href="https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers">The Cookie Monster in Your Browsers</a> - Written by <a href="https://twitter.com/filedescriptor">@filedescriptor</a>.</li>
+  <li>
+<a href="https://www.blackhat.com/docs/asia-16/materials/asia-16-Baloch-Bypassing-Browser-Security-Policies-For-Fun-And-Profit-wp.pdf">Bypassing Mobile Browser Security For Fun And Profit</a> - Written by <a href="https://twitter.com/@rafaybaloch">@rafaybaloch</a>.</li>
+  <li>
+<a href="https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/">The inception bar: a new phishing method</a> - Written by <a href="https://jameshfisher.com/">jameshfisher</a>.</li>
+  <li>
+<a href="http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html">JSON hijacking for the modern web</a> - Written by <a href="https://portswigger.net/">portswigger</a>.</li>
+  <li>
+<a href="https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&amp;theater">IE11 Information disclosure - local file detection</a> - Written by James Lee.</li>
+  <li>
+<a href="https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/">SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)</a> - Written by <a href="https://twitter.com/magicmac2000">Manuel</a>.</li>
+  <li>
+<a href="https://bo0om.ru/safari-client-side">Особенности Safari в client-side атаках</a> - Written by <a href="https://bo0om.ru/author/admin">Bo0oM</a>.</li>
+  <li>
+<a href="https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/">How do we Stop Spilling the Beans Across Origins?</a> - Written by <a href="aaj@google.com">aaj at google.com</a> and <a href="mkwst@google.com">mkwst at google.com</a>.</li>
+  <li>
+<a href="https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html">Setting arbitrary request headers in Chromium via CRLF injection</a> - Written by <a href="https://blog.bentkowski.info/">Michał Bentkowski</a>.</li>
+  <li>
+<a href="https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how.</a> - Written by <a href="https://hackernoon.com/@david.gilbertson">David Gilbertson</a>.</li>
+  <li>
+<a href="https://hackerone.com/reports/188086">Sending arbitrary IPC messages via overriding Function.prototype.apply</a> - Written by <a href="https://twitter.com/kinugawamasato">@kinugawamasato</a>.</li>
+  <li>
+<a href="https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/">Take Advantage of Out-of-Scope Domains in Bug Bounty Programs</a> - Written by <a href="https://twitter.com/Abdulahhusam">@Abdulahhusam</a>.</li>
+</ul>
+
+<h3 id="backend-core-of-browser-implementation-and-often-refers-to-c-or-c-part">Backend (core of Browser implementation, and often refers to C or C++ part)</h3>
+
+<ul>
+  <li>
+<a href="https://habr.com/en/company/drweb/blog/452076/">Breaking UC Browser</a> - Written by <a href="https://www.drweb.ru/">Доктор Веб</a>.</li>
+  <li>
+<a href="http://www.phrack.org/papers/attacking_javascript_engines.html">Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622</a> - Written by <a href="phrack@saelo.net">phrack@saelo.net</a>.</li>
+  <li>
+<a href="http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/">Three roads lead to Rome</a> - Written by <a href="https://twitter.com/holynop">@holynop</a>.</li>
+  <li>
+<a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">Exploiting a V8 OOB write.</a> - Written by <a href="https://twitter.com/halbecaf">@halbecaf</a>.</li>
+  <li>
+<a href="https://blogs.securiteam.com/index.php/archives/3379">SSD Advisory – Chrome Turbofan Remote Code Execution</a> - Written by <a href="https://blogs.securiteam.com/">SecuriTeam Secure Disclosure (SSD)</a>.</li>
+  <li>
+<a href="https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf">Look Mom, I don’t use Shellcode - Browser Exploitation Case Study for Internet Explorer 11</a> - Written by <a href="http://twitter.com/moritzj">@moritzj</a>.</li>
+  <li>
+<a href="https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit">PUSHING WEBKIT’S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT</a> - Written by <a href="https://twitter.com/wanderingglitch">@wanderingglitch</a>.</li>
+  <li>
+<a href="https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/">A Methodical Approach to Browser Exploitation</a> - Written by <a href="https://blog.ret2.io/">RET2 SYSTEMS, INC</a>.</li>
+  <li>
+<a href="https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/">CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.</a> - Written by <a href="https://doar-e.github.io/">Diary of a reverse-engineer</a>.</li>
+  <li>
+<a href="https://theori.io/research/escaping-chrome-sandbox">CLEANLY ESCAPING THE CHROME SANDBOX</a> - Written by <a href="https://twitter.com/tjbecker_">@tjbecker_</a>.</li>
+  <li>
+<a href="https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/">A Methodical Approach to Browser Exploitation</a> - Written by <a href="https://twitter.com/PatrickBiernat">@PatrickBiernat</a>, <a href="https://twitter.com/gaasedelen">@gaasedelen</a> and <a href="https://twitter.com/itszn13">@itszn13</a>.</li>
+</ul>
+
+<h2 id="pocs">PoCs</h2>
+
+<p><a name="pocs-database"></a></p>
+<h3 id="database">Database</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/tunz/js-vuln-db">js-vuln-db <img src="https://img.shields.io/github/stars/tunz/js-vuln-db" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tunz/js-vuln-db" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Collection of JavaScript engine CVEs with PoCs by <a href="https://github.com/tunz">@tunz</a>.</li>
+  <li>
+<a href="https://github.com/qazbnm456/awesome-cve-poc">awesome-cve-poc <img src="https://img.shields.io/github/stars/qazbnm456/awesome-cve-poc" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/qazbnm456/awesome-cve-poc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Curated list of CVE PoCs by <a href="https://github.com/qazbnm456">@qazbnm456</a>.</li>
+  <li>
+<a href="https://github.com/coffeehb/Some-PoC-oR-ExP">Some-PoC-oR-ExP <img src="https://img.shields.io/github/stars/coffeehb/Some-PoC-oR-ExP" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/coffeehb/Some-PoC-oR-ExP" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - 各种漏洞poc、Exp的收集或编写 by <a href="https://github.com/coffeehb">@coffeehb</a>.</li>
+  <li>
+<a href="https://github.com/Metnew/uxss-db">uxss-db <img src="https://img.shields.io/github/stars/Metnew/uxss-db" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Metnew/uxss-db" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Collection of UXSS CVEs with PoCs by <a href="https://github.com/Metnew">@Metnew</a>.</li>
+  <li>
+<a href="https://sploitus.com/">SPLOITUS</a> - Exploits &amp; Tools Search Engine by <a href="https://twitter.com/i_bo0om">@i_bo0om</a>.</li>
+  <li>
+<a href="https://www.exploit-db.com/">Exploit Database</a> - ultimate archive of Exploits, Shellcode, and Security Papers by <a href="https://www.offensive-security.com/">Offensive Security</a>.</li>
+</ul>
+
+<h2 id="cheetsheets">Cheetsheets</h2>
+
+<ul>
+  <li>
+<a href="https://leanpub.com/xss">XSS Cheat Sheet - 2018 Edition</a> - Written by <a href="https://twitter.com/brutelogic">@brutelogic</a>.</li>
+  <li>
+<a href="https://github.com/uppusaikiran/awesome-ctf-cheatsheet">Capture the Flag CheatSheet <img src="https://img.shields.io/github/stars/uppusaikiran/awesome-ctf-cheatsheet" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/uppusaikiran/awesome-ctf-cheatsheet" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Written by <a href="https://github.com/uppusaikiran">@uppusaikiran</a>.</li>
+</ul>
+
+<h2 id="tools">Tools</h2>
+
+<p><a name="tools-auditing"></a></p>
+<h3 id="auditing">Auditing</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/Alfresco/prowler">prowler <img src="https://img.shields.io/github/stars/Alfresco/prowler" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Alfresco/prowler" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for AWS security assessment, auditing and hardening by <a href="https://github.com/Alfresco">@Alfresco</a>.</li>
+  <li>
+<a href="https://github.com/hehnope/slurp">slurp <img src="https://img.shields.io/github/stars/hehnope/slurp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hehnope/slurp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Evaluate the security of S3 buckets by <a href="https://github.com/hehnope">@hehnope</a>.</li>
+  <li>
+<a href="https://github.com/hahwul/a2sv">A2SV <img src="https://img.shields.io/github/stars/hahwul/a2sv" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hahwul/a2sv" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Auto Scanning to SSL Vulnerability by <a href="https://github.com/hahwul">@hahwul</a>.</li>
+</ul>
+
+<p><a name="tools-command-injection"></a></p>
+<h3 id="command-injection-1">Command Injection</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/commixproject/commix">commix <img src="https://img.shields.io/github/stars/commixproject/commix" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/commixproject/commix" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Automated All-in-One OS command injection and exploitation tool by <a href="https://github.com/commixproject">@commixproject</a>.</li>
+</ul>
+
+<p><a name="tools-reconnaissance"></a></p>
+<h3 id="reconnaissance">Reconnaissance</h3>
+
+<p><a name="tools-osint"></a></p>
+<h4 id="osint---open-source-intelligence">OSINT - Open-Source Intelligence</h4>
+
+<ul>
+  <li>
+<a href="https://www.shodan.io/">Shodan</a> - Shodan is the world’s first search engine for Internet-connected devices by <a href="https://twitter.com/shodanhq">@shodanhq</a>.</li>
+  <li>
+<a href="https://censys.io/">Censys</a> - Censys is a search engine that allows computer scientists to ask questions about the devices and networks that compose the Internet by <a href="https://umich.edu/">University of Michigan</a>.</li>
+  <li>
+<a href="https://urlscan.io/">urlscan.io</a> - Service which analyses websites and the resources they request by <a href="https://twitter.com/heipei">@heipei</a>.</li>
+  <li>
+<a href="https://www.zoomeye.org/">ZoomEye</a> - Cyberspace Search Engine by <a href="https://twitter.com/zoomeye_team">@zoomeye_team</a>.</li>
+  <li>
+<a href="https://fofa.so/?locale=en">FOFA</a> - Cyberspace Search Engine by <a href="http://baimaohui.net/">BAIMAOHUI</a>.</li>
+  <li>
+<a href="https://nti.nsfocus.com/">NSFOCUS</a> - THREAT INTELLIGENCE PORTAL by NSFOCUS GLOBAL.</li>
+  <li>
+<a href="https://github.com/s0md3v/Photon">Photon <img src="https://img.shields.io/github/stars/s0md3v/Photon" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/s0md3v/Photon" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Incredibly fast crawler designed for OSINT by <a href="https://github.com/s0md3v">@s0md3v</a>.</li>
+  <li>
+<a href="https://github.com/ElevenPaths/FOCA">FOCA <img src="https://img.shields.io/github/stars/ElevenPaths/FOCA" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ElevenPaths/FOCA" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - FOCA (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans by <a href="https://www.elevenpaths.com/index.html">ElevenPaths</a>.</li>
+  <li>
+<a href="http://www.spiderfoot.net/">SpiderFoot</a> - Open source footprinting and intelligence-gathering tool by <a href="https://twitter.com/binarypool">@binarypool</a>.</li>
+  <li>
+<a href="https://github.com/evilsocket/xray">xray <img src="https://img.shields.io/github/stars/evilsocket/xray" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/evilsocket/xray" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - XRay is a tool for recon, mapping and OSINT gathering from public networks by <a href="https://github.com/evilsocket">@evilsocket</a>.</li>
+  <li>
+<a href="https://github.com/michenriksen/Gitrob">gitrob <img src="https://img.shields.io/github/stars/michenriksen/Gitrob" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/michenriksen/Gitrob" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Reconnaissance tool for GitHub organizations by <a href="https://github.com/michenriksen">@michenriksen</a>.</li>
+  <li>
+<a href="https://github.com/FeeiCN/GSIL">GSIL <img src="https://img.shields.io/github/stars/FeeiCN/GSIL" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/FeeiCN/GSIL" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Github Sensitive Information Leakage（Github敏感信息泄露）by <a href="https://github.com/FeeiCN">@FeeiCN</a>.</li>
+  <li>
+<a href="https://github.com/0x09AL/raven">raven <img src="https://img.shields.io/github/stars/0x09AL/raven" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/0x09AL/raven" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - raven is a Linkedin information gathering tool that can be used by pentesters to gather information about an organization employees using Linkedin by <a href="https://github.com/0x09AL">@0x09AL</a>.</li>
+  <li>
+<a href="https://github.com/s0md3v/ReconDog">ReconDog <img src="https://img.shields.io/github/stars/s0md3v/ReconDog" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/s0md3v/ReconDog" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Reconnaissance Swiss Army Knife by <a href="https://github.com/s0md3v">@s0md3v</a>.</li>
+  <li>
+<a href="https://start.me/p/QRENnO/databases">Databases - start.me</a> - Various databases which you can use for your OSINT research by <a href="https://twitter.com/technisette">@technisette</a>.</li>
+  <li>
+<a href="https://peoplefindthor.dk/">peoplefindThor</a> - the easy way to find people on Facebook by <a href="mailto:postkassen@oejvind.dk?subject=peoplefindthor.dk%20comments">postkassen</a>.</li>
+  <li>
+<a href="https://github.com/vaguileradiaz/tinfoleak">tinfoleak <img src="https://img.shields.io/github/stars/vaguileradiaz/tinfoleak" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vaguileradiaz/tinfoleak" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The most complete open-source tool for Twitter intelligence analysis by <a href="https://github.com/vaguileradiaz">@vaguileradiaz</a>.</li>
+  <li>
+<a href="https://github.com/evyatarmeged/Raccoon">Raccoon <img src="https://img.shields.io/github/stars/evyatarmeged/Raccoon" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/evyatarmeged/Raccoon" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - High performance offensive security tool for reconnaissance and vulnerability scanning by <a href="https://github.com/evyatarmeged">@evyatarmeged</a>.</li>
+  <li>
+<a href="https://github.com/SpiderLabs/social_mapper">Social Mapper <img src="https://img.shields.io/github/stars/SpiderLabs/social_mapper" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/SpiderLabs/social_mapper" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Social Media Enumeration &amp; Correlation Tool by Jacob Wilkin(Greenwolf) by <a href="https://github.com/SpiderLabs">@SpiderLabs</a>.</li>
+  <li>
+<a href="https://github.com/espi0n/Dockerfiles">espi0n/Dockerfiles <img src="https://img.shields.io/github/stars/espi0n/Dockerfiles" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/espi0n/Dockerfiles" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Dockerfiles for various OSINT tools by <a href="https://github.com/espi0n">@espi0n</a>.</li>
+</ul>
+
+<p><a name="tools-sub-domain-enumeration"></a></p>
+<h4 id="sub-domain-enumeration-1">Sub Domain Enumeration</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/aboul3la/Sublist3r">Sublist3r <img src="https://img.shields.io/github/stars/aboul3la/Sublist3r" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aboul3la/Sublist3r" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Sublist3r is a multi-threaded sub-domain enumeration tool for penetration testers by <a href="https://github.com/aboul3la">@aboul3la</a>.</li>
+  <li>
+<a href="https://github.com/ChrisTruncer/EyeWitness">EyeWitness <img src="https://img.shields.io/github/stars/ChrisTruncer/EyeWitness" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ChrisTruncer/EyeWitness" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible by <a href="https://github.com/ChrisTruncer">@ChrisTruncer</a>.</li>
+  <li>
+<a href="https://github.com/lijiejie/subDomainsBrute">subDomainsBrute <img src="https://img.shields.io/github/stars/lijiejie/subDomainsBrute" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lijiejie/subDomainsBrute" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple and fast sub domain brute tool for pentesters by <a href="https://github.com/lijiejie">@lijiejie</a>.</li>
+  <li>
+<a href="https://github.com/michenriksen/aquatone">AQUATONE <img src="https://img.shields.io/github/stars/michenriksen/aquatone" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/michenriksen/aquatone" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for Domain Flyovers by <a href="https://github.com/michenriksen">@michenriksen</a>.</li>
+  <li>
+<a href="https://github.com/eldraco/domain_analyzer">domain_analyzer <img src="https://img.shields.io/github/stars/eldraco/domain_analyzer" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/eldraco/domain_analyzer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Analyze the security of any domain by finding all the information possible by <a href="https://github.com/eldraco">@eldraco</a>.</li>
+  <li>
+<a href="https://www.virustotal.com/en/documentation/searching/#getting-domain-information">VirusTotal domain information</a> - Searching for domain information by <a href="https://www.virustotal.com/">VirusTotal</a>.</li>
+  <li>
+<a href="https://github.com/google/certificate-transparency">Certificate Transparency <img src="https://img.shields.io/github/stars/google/certificate-transparency" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/google/certificate-transparency" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Google’s Certificate Transparency project fixes several structural flaws in the SSL certificate system by <a href="https://github.com/google">@google</a>.</li>
+  <li>
+<a href="https://crt.sh/">Certificate Search</a> - Enter an Identity (Domain Name, Organization Name, etc), a Certificate Fingerprint (SHA-1 or SHA-256) or a crt.sh ID to search certificate(s) by <a href="https://github.com/crtsh">@crtsh</a>.</li>
+  <li>
+<a href="https://github.com/We5ter/GSDF">GSDF <img src="https://img.shields.io/github/stars/We5ter/GSDF" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/We5ter/GSDF" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Domain searcher named GoogleSSLdomainFinder by <a href="https://github.com/We5ter">@We5ter</a>.</li>
+</ul>
+
+<p><a name="tools-code-generating"></a></p>
+<h3 id="code-generating">Code Generating</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/qazbnm456/VWGen">VWGen <img src="https://img.shields.io/github/stars/qazbnm456/VWGen" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/qazbnm456/VWGen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Vulnerable Web applications Generator by <a href="https://github.com/qazbnm456">@qazbnm456</a>.</li>
+</ul>
+
+<p><a name="tools-fuzzing"></a></p>
+<h3 id="fuzzing">Fuzzing</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/xmendez/wfuzz">wfuzz <img src="https://img.shields.io/github/stars/xmendez/wfuzz" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xmendez/wfuzz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Web application bruteforcer by <a href="https://github.com/xmendez">@xmendez</a>.</li>
+  <li>
+<a href="https://github.com/hack-all-the-things/charsetinspect">charsetinspect <img src="https://img.shields.io/github/stars/hack-all-the-things/charsetinspect" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hack-all-the-things/charsetinspect" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Script that inspects multi-byte character sets looking for characters with specific user-defined properties by <a href="https://github.com/hack-all-the-things">@hack-all-the-things</a>.</li>
+  <li>
+<a href="https://github.com/OsandaMalith/IPObfuscator">IPObfuscator <img src="https://img.shields.io/github/stars/OsandaMalith/IPObfuscator" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/OsandaMalith/IPObfuscator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple tool to convert the IP to a DWORD IP by <a href="https://github.com/OsandaMalith">@OsandaMalith</a>.</li>
+  <li>
+<a href="https://github.com/google/domato">domato <img src="https://img.shields.io/github/stars/google/domato" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/google/domato" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - DOM fuzzer by <a href="https://github.com/google">@google</a>.</li>
+  <li>
+<a href="https://github.com/fuzzdb-project/fuzzdb">FuzzDB <img src="https://img.shields.io/github/stars/fuzzdb-project/fuzzdb" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fuzzdb-project/fuzzdb" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</li>
+  <li>
+<a href="https://github.com/Nekmo/dirhunt">dirhunt <img src="https://img.shields.io/github/stars/Nekmo/dirhunt" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Nekmo/dirhunt" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Web crawler optimized for searching and analyzing the directory structure of a site by <a href="https://github.com/Nekmo">@nekmo</a>.</li>
+  <li>
+<a href="https://www.ssllabs.com/ssltest/">ssltest</a> - Online service that performs a deep analysis of the configuration of any SSL web server on the public internet. Provided by <a href="https://www.ssllabs.com">Qualys SSL Labs</a>.</li>
+  <li>
+<a href="https://github.com/Bo0oM/fuzz.txt">fuzz.txt <img src="https://img.shields.io/github/stars/Bo0oM/fuzz.txt" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Bo0oM/fuzz.txt" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Potentially dangerous files by <a href="https://github.com/Bo0oM">@Bo0oM</a>.</li>
+</ul>
+
+<p><a name="tools-scanning"></a></p>
+<h3 id="scanning">Scanning</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/wpscanteam/wpscan">wpscan <img src="https://img.shields.io/github/stars/wpscanteam/wpscan" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/wpscanteam/wpscan" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - WPScan is a black box WordPress vulnerability scanner by <a href="https://github.com/wpscanteam">@wpscanteam</a>.</li>
+  <li>
+<a href="https://github.com/drego85/JoomlaScan">JoomlaScan <img src="https://img.shields.io/github/stars/drego85/JoomlaScan" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/drego85/JoomlaScan" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by <a href="https://github.com/drego85">@drego85</a>.</li>
+  <li>
+<a href="https://github.com/m4ll0k/WAScan">WAScan <img src="https://img.shields.io/github/stars/m4ll0k/WAScan" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/m4ll0k/WAScan" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Is an open source web application security scanner that uses “black-box” method, created by <a href="https://github.com/m4ll0k">@m4ll0k</a>.</li>
+  <li>
+<a href="https://github.com/projectdiscovery/nuclei">Nuclei <img src="https://img.shields.io/github/stars/projectdiscovery/nuclei" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/projectdiscovery/nuclei" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by <a href="https://github.com/projectdiscovery">@projectdiscovery</a>.</li>
+</ul>
+
+<p><a name="tools-penetration-testing"></a></p>
+<h3 id="penetration-testing">Penetration Testing</h3>
+
+<ul>
+  <li>
+<a href="https://portswigger.net/burp/">Burp Suite</a> - Burp Suite is an integrated platform for performing security testing of web applications by <a href="https://portswigger.net/">portswigger</a>.</li>
+  <li>
+<a href="https://github.com/theInfectedDrake/TIDoS-Framework">TIDoS-Framework <img src="https://img.shields.io/github/stars/theInfectedDrake/TIDoS-Framework" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/theInfectedDrake/TIDoS-Framework" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A comprehensive web application audit framework to cover up everything from Reconnaissance and OSINT to Vulnerability Analysis by <a href="https://github.com/theInfectedDrake">@_tID</a>.</li>
+  <li>
+<a href="https://github.com/flipkart-incubator/astra">Astra <img src="https://img.shields.io/github/stars/flipkart-incubator/astra" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/flipkart-incubator/astra" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Automated Security Testing For REST API’s by <a href="https://github.com/flipkart-incubator">@flipkart-incubator</a>.</li>
+  <li>
+<a href="https://github.com/dagrz/aws_pwn">aws_pwn <img src="https://img.shields.io/github/stars/dagrz/aws_pwn" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dagrz/aws_pwn" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collection of AWS penetration testing junk by <a href="https://github.com/dagrz">@dagrz</a>.</li>
+  <li>
+<a href="https://buckets.grayhatwarfare.com/">grayhatwarfare</a> - Public buckets by <a href="http://www.grayhatwarfare.com/">grayhatwarfare</a>.</li>
+</ul>
+
+<p><a name="tools-offensive"></a></p>
+<h3 id="offensive">Offensive</h3>
+
+<p><a name="tools-xss"></a></p>
+<h4 id="xss---cross-site-scripting-1">XSS - Cross-Site Scripting</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/beefproject/beef">beef <img src="https://img.shields.io/github/stars/beefproject/beef" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/beefproject/beef" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The Browser Exploitation Framework Project by <a href="https://beefproject.com">beefproject</a>.</li>
+  <li>
+<a href="https://github.com/s0md3v/JShell">JShell <img src="https://img.shields.io/github/stars/s0md3v/JShell" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/s0md3v/JShell" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Get a JavaScript shell with XSS by <a href="https://github.com/s0md3v">@s0md3v</a>.</li>
+  <li>
+<a href="https://github.com/s0md3v/XSStrike">XSStrike <img src="https://img.shields.io/github/stars/s0md3v/XSStrike" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/s0md3v/XSStrike" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by <a href="https://github.com/s0md3v">@s0md3v</a>.</li>
+  <li>
+<a href="https://github.com/evilcos/xssor2">xssor2 <img src="https://img.shields.io/github/stars/evilcos/xssor2" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/evilcos/xssor2" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - XSS’OR - Hack with JavaScript by <a href="https://github.com/evilcos">@evilcos</a>.</li>
+  <li>
+<a href="https://csper.io/evaluator">csp evaluator</a> - A tool for evaluating content-security-policies by <a href="http://csper.io">Csper</a>.</li>
+</ul>
+
+<p><a name="tools-sql-injection"></a></p>
+<h4 id="sql-injection-2">SQL Injection</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/sqlmapproject/sqlmap">sqlmap <img src="https://img.shields.io/github/stars/sqlmapproject/sqlmap" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sqlmapproject/sqlmap" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Automatic SQL injection and database takeover tool.</li>
+</ul>
+
+<p><a name="tools-template-injection"></a></p>
+<h4 id="template-injection">Template Injection</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/epinna/tplmap">tplmap <img src="https://img.shields.io/github/stars/epinna/tplmap" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/epinna/tplmap" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Code and Server-Side Template Injection Detection and Exploitation Tool by <a href="https://github.com/epinna">@epinna</a>.</li>
+</ul>
+
+<p><a name="tools-xxe"></a></p>
+<h4 id="xxe-2">XXE</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/GoSecure/dtd-finder">dtd-finder <img src="https://img.shields.io/github/stars/GoSecure/dtd-finder" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/GoSecure/dtd-finder" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - List DTDs and generate XXE payloads using those local DTDs by <a href="https://github.com/GoSecure">@GoSecure</a>.</li>
+</ul>
+
+<p><a name="tools-csrf"></a></p>
+<h4 id="cross-site-request-forgery">Cross Site Request Forgery</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/0xInfection/XSRFProbe">XSRFProbe <img src="https://img.shields.io/github/stars/0xInfection/XSRFProbe" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/0xInfection/XSRFProbe" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The Prime CSRF Audit &amp; Exploitation Toolkit by <a href="https://github.com/0xinfection">@0xInfection</a>.</li>
+</ul>
+
+<p><a name="tools-ssrf"></a></p>
+<h4 id="server-side-request-forgery">Server-Side Request Forgery</h4>
+
+<ul>
+  <li>
+<a href="https://tools.intigriti.io/redirector/">Open redirect/SSRF payload generator</a> - Open redirect/SSRF payload generator by <a href="https://www.intigriti.com/">intigriti</a>.</li>
+</ul>
+
+<p><a name="tools-leaking"></a></p>
+<h3 id="leaking">Leaking</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/cure53/HTTPLeaks">HTTPLeaks <img src="https://img.shields.io/github/stars/cure53/HTTPLeaks" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cure53/HTTPLeaks" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - All possible ways, a website can leak HTTP requests by <a href="https://github.com/cure53">@cure53</a>.</li>
+  <li>
+<a href="https://github.com/kost/dvcs-ripper">dvcs-ripper <img src="https://img.shields.io/github/stars/kost/dvcs-ripper" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kost/dvcs-ripper" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Rip web accessible (distributed) version control systems: SVN/GIT/HG… by <a href="https://github.com/kost">@kost</a>.</li>
+  <li>
+<a href="https://github.com/evilpacket/DVCS-Pillage">DVCS-Pillage <img src="https://img.shields.io/github/stars/evilpacket/DVCS-Pillage" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/evilpacket/DVCS-Pillage" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Pillage web accessible GIT, HG and BZR repositories by <a href="https://github.com/evilpacket">@evilpacket</a>.</li>
+  <li>
+<a href="https://github.com/UnkL4b/GitMiner">GitMiner <img src="https://img.shields.io/github/stars/UnkL4b/GitMiner" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/UnkL4b/GitMiner" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for advanced mining for content on Github by <a href="https://github.com/UnkL4b">@UnkL4b</a>.</li>
+  <li>
+<a href="https://github.com/zricethezav/gitleaks">gitleaks <img src="https://img.shields.io/github/stars/zricethezav/gitleaks" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zricethezav/gitleaks" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Searches full repo history for secrets and keys by <a href="https://github.com/zricethezav">@zricethezav</a>.</li>
+  <li>
+<a href="https://github.com/maxchehab/CSS-Keylogging">CSS-Keylogging <img src="https://img.shields.io/github/stars/maxchehab/CSS-Keylogging" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/maxchehab/CSS-Keylogging" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Chrome extension and Express server that exploits keylogging abilities of CSS by <a href="https://github.com/maxchehab">@maxchehab</a>.</li>
+  <li>
+<a href="https://github.com/allyshka/pwngitmanager">pwngitmanager <img src="https://img.shields.io/github/stars/allyshka/pwngitmanager" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/allyshka/pwngitmanager" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Git manager for pentesters by <a href="https://github.com/allyshka">@allyshka</a>.</li>
+  <li>
+<a href="https://github.com/hannob/snallygaster">snallygaster <img src="https://img.shields.io/github/stars/hannob/snallygaster" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hannob/snallygaster" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool to scan for secret files on HTTP servers by <a href="https://github.com/hannob">@hannob</a>.</li>
+  <li>
+<a href="https://github.com/GerbenJavado/LinkFinder">LinkFinder <img src="https://img.shields.io/github/stars/GerbenJavado/LinkFinder" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/GerbenJavado/LinkFinder" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Python script that finds endpoints in JavaScript files by <a href="https://github.com/GerbenJavado">@GerbenJavado</a>.</li>
+</ul>
+
+<p><a name="tools-detecting"></a></p>
+<h3 id="detecting">Detecting</h3>
+
+<ul>
+  <li>
+<a href="https://sqlchop.chaitin.cn/">sqlchop</a> - SQL injection detection engine by <a href="http://chaitin.com">chaitin</a>.</li>
+  <li>
+<a href="https://xsschop.chaitin.cn/">xsschop</a> - XSS detection engine by <a href="http://chaitin.com">chaitin</a>.</li>
+  <li>
+<a href="https://github.com/RetireJS/retire.js">retire.js <img src="https://img.shields.io/github/stars/RetireJS/retire.js" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/RetireJS/retire.js" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Scanner detecting the use of JavaScript libraries with known vulnerabilities by <a href="https://github.com/RetireJS">@RetireJS</a>.</li>
+  <li>
+<a href="https://github.com/HynekPetrak/malware-jail">malware-jail <img src="https://img.shields.io/github/stars/HynekPetrak/malware-jail" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/HynekPetrak/malware-jail" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by <a href="https://github.com/HynekPetrak">@HynekPetrak</a>.</li>
+  <li>
+<a href="https://github.com/auth0/repo-supervisor">repo-supervisor <img src="https://img.shields.io/github/stars/auth0/repo-supervisor" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/auth0/repo-supervisor" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Scan your code for security misconfiguration, search for passwords and secrets.</li>
+  <li>
+<a href="https://github.com/LewisArdern/bXSS">bXSS <img src="https://img.shields.io/github/stars/LewisArdern/bXSS" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/LewisArdern/bXSS" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - bXSS is a simple Blind XSS application adapted from <a href="https://cure53.de/m">cure53.de/m</a> by <a href="https://github.com/LewisArdern">@LewisArdern</a>.</li>
+  <li>
+<a href="https://github.com/baidu/openrasp">OpenRASP <img src="https://img.shields.io/github/stars/baidu/openrasp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/baidu/openrasp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.</li>
+  <li>
+<a href="https://github.com/apps/guardrails">GuardRails <img src="https://img.shields.io/github/stars/apps/guardrails" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/apps/guardrails" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A GitHub App that provides security feedback in Pull Requests.</li>
+</ul>
+
+<p><a name="tools-preventing"></a></p>
+<h3 id="preventing">Preventing</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/cure53/DOMPurify">DOMPurify <img src="https://img.shields.io/github/stars/cure53/DOMPurify" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cure53/DOMPurify" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by <a href="https://cure53.de/">Cure53</a>.</li>
+  <li>
+<a href="https://github.com/leizongmin/js-xss">js-xss <img src="https://img.shields.io/github/stars/leizongmin/js-xss" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/leizongmin/js-xss" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by <a href="https://github.com/leizongmin">@leizongmin</a>.</li>
+  <li>
+<a href="https://github.com/cossacklabs/acra">Acra <img src="https://img.shields.io/github/stars/cossacklabs/acra" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cossacklabs/acra" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by <a href="https://www.cossacklabs.com/">@cossacklabs</a>.</li>
+  <li>
+<a href="https://csper.io">Csper</a> - A set of tools for building/evaluating/monitoring content-security-policy to prevent/detect cross site scripting by <a href="https://csper.io">Csper</a>.</li>
+</ul>
+
+<p><a name="tools-proxy"></a></p>
+<h3 id="proxy">Proxy</h3>
+
+<ul>
+  <li>
+<a href="https://www.charlesproxy.com/">Charles</a> - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.</li>
+  <li>
+<a href="https://github.com/mitmproxy/mitmproxy">mitmproxy <img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by <a href="https://github.com/mitmproxy">@mitmproxy</a>.</li>
+</ul>
+
+<p><a name="tools-webshell"></a></p>
+<h3 id="webshell">Webshell</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/s0md3v/nano">nano <img src="https://img.shields.io/github/stars/s0md3v/nano" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/s0md3v/nano" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Family of code golfed PHP shells by <a href="https://github.com/s0md3v">@s0md3v</a>.</li>
+  <li>
+<a href="https://github.com/tennc/webshell">webshell <img src="https://img.shields.io/github/stars/tennc/webshell" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tennc/webshell" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - This is a webshell open source project by <a href="https://github.com/tennc">@tennc</a>.</li>
+  <li>
+<a href="https://github.com/epinna/weevely3">Weevely <img src="https://img.shields.io/github/stars/epinna/weevely3" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/epinna/weevely3" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Weaponized web shell by <a href="https://github.com/epinna">@epinna</a>.</li>
+  <li>
+<a href="https://github.com/WangYihang/Webshell-Sniper">Webshell-Sniper <img src="https://img.shields.io/github/stars/WangYihang/Webshell-Sniper" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/WangYihang/Webshell-Sniper" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Manage your website via terminal by <a href="https://github.com/WangYihang">@WangYihang</a>.</li>
+  <li>
+<a href="https://github.com/WangYihang/Reverse-Shell-Manager">Reverse-Shell-Manager <img src="https://img.shields.io/github/stars/WangYihang/Reverse-Shell-Manager" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/WangYihang/Reverse-Shell-Manager" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Reverse Shell Manager via Terminal <a href="https://github.com/WangYihang">@WangYihang</a>.</li>
+  <li>
+<a href="https://github.com/lukechilds/reverse-shell">reverse-shell <img src="https://img.shields.io/github/stars/lukechilds/reverse-shell" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/lukechilds/reverse-shell" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Reverse Shell as a Service by <a href="https://github.com/lukechilds">@lukechilds</a>.</li>
+  <li>
+<a href="https://github.com/nil0x42/phpsploit">PhpSploit <img src="https://img.shields.io/github/stars/nil0x42/phpsploit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nil0x42/phpsploit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner by <a href="https://github.com/nil0x42">@nil0x42</a>.</li>
+</ul>
+
+<p><a name="tools-disassembler"></a></p>
+<h3 id="disassembler">Disassembler</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/plasma-disassembler/plasma">plasma <img src="https://img.shields.io/github/stars/plasma-disassembler/plasma" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/plasma-disassembler/plasma" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Plasma is an interactive disassembler for x86/ARM/MIPS by <a href="https://github.com/plasma-disassembler">@plasma-disassembler</a>.</li>
+  <li>
+<a href="https://github.com/radare/radare2">radare2 <img src="https://img.shields.io/github/stars/radare/radare2" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/radare/radare2" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Unix-like reverse engineering framework and commandline tools by <a href="https://github.com/radare">@radare</a>.</li>
+  <li>
+<a href="https://github.com/hteso/iaito">Iaitō <img src="https://img.shields.io/github/stars/hteso/iaito" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hteso/iaito" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Qt and C++ GUI for radare2 reverse engineering framework by <a href="https://github.com/hteso">@hteso</a>.</li>
+</ul>
+
+<p><a name="tools-decompiler"></a></p>
+<h3 id="decompiler">Decompiler</h3>
+
+<ul>
+  <li>
+<a href="http://www.benf.org/other/cfr/">CFR</a> - Another java decompiler by <a href="https://twitter.com/LeeAtBenf">@LeeAtBenf</a>.</li>
+</ul>
+
+<p><a name="tools-dns-rebinding"></a></p>
+<h3 id="dns-rebinding-1">DNS Rebinding</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/brannondorsey/dns-rebind-toolkit">DNS Rebind Toolkit <img src="https://img.shields.io/github/stars/brannondorsey/dns-rebind-toolkit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/brannondorsey/dns-rebind-toolkit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - DNS Rebind Toolkit is a frontend JavaScript framework for developing DNS Rebinding exploits against vulnerable hosts and services on a local area network (LAN) by <a href="https://github.com/brannondorsey">@brannondorsey</a>
+</li>
+  <li>
+<a href="https://github.com/mwrlabs/dref">dref <img src="https://img.shields.io/github/stars/mwrlabs/dref" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mwrlabs/dref" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - DNS Rebinding Exploitation Framework. Dref does the heavy-lifting for DNS rebinding by <a href="https://github.com/mwrlabs">@mwrlabs</a>
+</li>
+  <li>
+<a href="https://github.com/nccgroup/singularity">Singularity of Origin <img src="https://img.shields.io/github/stars/nccgroup/singularity" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/nccgroup/singularity" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - It includes the necessary components to rebind the IP address of the attack server DNS name to the target machine’s IP address and to serve attack payloads to exploit vulnerable software on the target machine by <a href="https://github.com/nccgroup">@nccgroup</a>
+</li>
+  <li>
+<a href="https://github.com/brannondorsey/whonow">Whonow DNS Server <img src="https://img.shields.io/github/stars/brannondorsey/whonow" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/brannondorsey/whonow" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A malicious DNS server for executing DNS Rebinding attacks on the fly by <a href="https://github.com/brannondorsey">@brannondorsey</a>
+</li>
+</ul>
+
+<p><a name="tools-others"></a></p>
+<h3 id="others-1">Others</h3>
+
+<ul>
+  <li>
+<a href="https://wiki.skullsecurity.org/index.php?title=Dnslogger">Dnslogger</a> - DNS Logger by <a href="https://github.com/iagox86">@iagox86</a>.</li>
+  <li>
+<a href="https://github.com/gchq/CyberChef">CyberChef <img src="https://img.shields.io/github/stars/gchq/CyberChef" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gchq/CyberChef" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis - by <a href="https://github.com/gchq">@GCHQ</a>.</li>
+  <li>
+<a href="https://github.com/b17zr/ntlm_challenger">ntlm_challenger <img src="https://img.shields.io/github/stars/b17zr/ntlm_challenger" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/b17zr/ntlm_challenger" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Parse NTLM over HTTP challenge messages by <a href="https://github.com/b17zr">@b17zr</a>.</li>
+  <li>
+<a href="https://github.com/taviso/cefdebug">cefdebug <img src="https://img.shields.io/github/stars/taviso/cefdebug" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/taviso/cefdebug" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Minimal code to connect to a CEF debugger by <a href="https://github.com/taviso">@taviso</a>.</li>
+  <li>
+<a href="https://github.com/taviso/ctftool">ctftool <img src="https://img.shields.io/github/stars/taviso/ctftool" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/taviso/ctftool" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Interactive CTF Exploration Tool by <a href="https://github.com/taviso">@taviso</a>.</li>
+</ul>
+
+<h2 id="social-engineering-database">Social Engineering Database</h2>
+
+<ul>
+  <li>
+<a href="https://haveibeenpwned.com/">haveibeenpwned</a> - Check if you have an account that has been compromised in a data breach by <a href="https://www.troyhunt.com/">Troy Hunt</a>.</li>
+</ul>
+
+<h2 id="blogs">Blogs</h2>
+
+<ul>
+  <li>
+<a href="http://blog.orange.tw/">Orange</a> - Taiwan’s talented web penetrator.</li>
+  <li>
+<a href="https://www.leavesongs.com/">leavesongs</a> - China’s talented web penetrator.</li>
+  <li>
+<a href="http://albinowax.skeletonscribe.net/">James Kettle</a> - Head of Research at <a href="https://portswigger.net/">PortSwigger Web Security</a>.</li>
+  <li>
+<a href="https://www.brokenbrowser.com/">Broken Browser</a> - Fun with Browser Vulnerabilities.</li>
+  <li>
+<a href="https://datarift.blogspot.tw/">Scrutiny</a> - Internet Security through Web Browsers by Dhiraj Mishra.</li>
+  <li>
+<a href="https://buer.haus/">BRETT BUERHAUS</a> - Vulnerability disclosures and rambles on application security.</li>
+  <li>
+<a href="https://www.n0tr00t.com/">n0tr00t</a> - ~# n0tr00t Security Team.</li>
+  <li>
+<a href="https://opnsec.com/">OpnSec</a> - Open Mind Security!</li>
+  <li>
+<a href="https://blog.ripstech.com/tags/security/">RIPS Technologies</a> - Write-ups for PHP vulnerabilities.</li>
+  <li>
+<a href="http://blog.0daylabs.com/">0Day Labs</a> - Awesome bug-bounty and challenges writeups.</li>
+  <li>
+<a href="https://osandamalith.com/">Blog of Osanda</a> - Security Researching and Reverse Engineering.</li>
+</ul>
+
+<h2 id="twitter-users">Twitter Users</h2>
+
+<ul>
+  <li>
+<a href="https://twitter.com/HackwithGithub">@HackwithGitHub</a> - Initiative to showcase open source hacking tools for hackers and pentesters</li>
+  <li>
+<a href="https://twitter.com/filedescriptor">@filedescriptor</a> - Active penetrator often tweets and writes useful articles</li>
+  <li>
+<a href="https://twitter.com/cure53berlin">@cure53berlin</a> - <a href="https://cure53.de/">Cure53</a> is a German cybersecurity firm.</li>
+  <li>
+<a href="https://twitter.com/XssPayloads">@XssPayloads</a> - The wonderland of JavaScript unexpected usages, and more.</li>
+  <li>
+<a href="https://twitter.com/kinugawamasato">@kinugawamasato</a> - Japanese web penetrator.</li>
+  <li>
+<a href="https://twitter.com/h3xstream/">@h3xstream</a> - Security Researcher, interested in web security, crypto, pentest, static analysis but most of all, samy is my hero.</li>
+  <li>
+<a href="https://twitter.com/garethheyes">@garethheyes</a> - English web penetrator.</li>
+  <li>
+<a href="https://twitter.com/hasegawayosuke">@hasegawayosuke</a> - Japanese javascript security researcher.</li>
+  <li>
+<a href="https://twitter.com/shhnjk">@shhnjk</a> - Web and Browsers Security Researcher.</li>
+</ul>
+
+<h2 id="practices">Practices</h2>
+
+<p><a name="practices-application"></a></p>
+<h3 id="application">Application</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/bkimminich/juice-shop">OWASP Juice Shop <img src="https://img.shields.io/github/stars/bkimminich/juice-shop" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bkimminich/juice-shop" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Probably the most modern and sophisticated insecure web application - Written by <a href="https://github.com/bkimminich">@bkimminich</a> and the <a href="https://twitter.com/owasp_juiceshop">@owasp_juiceshop</a> team.</li>
+  <li>
+<a href="https://github.com/SecureSkyTechnology/BadLibrary">BadLibrary <img src="https://img.shields.io/github/stars/SecureSkyTechnology/BadLibrary" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/SecureSkyTechnology/BadLibrary" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Vulnerable web application for training - Written by <a href="https://github.com/SecureSkyTechnology">@SecureSkyTechnology</a>.</li>
+  <li>
+<a href="http://hackxor.net/">Hackxor</a> - Realistic web application hacking game - Written by <a href="https://twitter.com/albinowax">@albinowax</a>.</li>
+  <li>
+<a href="http://selinuxgame.org/">SELinux Game</a> - Learn SELinux by doing. Solve Puzzles, show skillz - Written by <a href="https://twitter.com/selinuxgame">@selinuxgame</a>.</li>
+  <li>
+<a href="https://portswigger.net/web-security">Portswigger Web Security Academy</a> - Free trainings and labs - Written by <a href="https://portswigger.net/">PortSwigger</a>.</li>
+</ul>
+
+<p><a name="practices-aws"></a></p>
+<h3 id="aws-1">AWS</h3>
+
+<ul>
+  <li>
+<a href="http://flaws.cloud/">FLAWS</a> - Amazon AWS CTF challenge - Written by <a href="https://twitter.com/0xdabbad00">@0xdabbad00</a>.</li>
+  <li>
+<a href="https://github.com/RhinoSecurityLabs/cloudgoat">CloudGoat <img src="https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/RhinoSecurityLabs/cloudgoat" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Rhino Security Labs’ “Vulnerable by Design” AWS infrastructure setup tool  - Written by <a href="https://github.com/RhinoSecurityLabs">@RhinoSecurityLabs</a>.</li>
+</ul>
+
+<p><a name="practices-xss"></a></p>
+<h3 id="xss-1">XSS</h3>
+
+<ul>
+  <li>
+<a href="https://xss-game.appspot.com/">XSS game</a> - Google XSS Challenge - Written by Google.</li>
+  <li>
+<a href="http://prompt.ml/">prompt(1) to win</a> - Complex 16-Level XSS Challenge held in summer 2014 (+4 Hidden Levels) - Written by <a href="https://github.com/cure53">@cure53</a>.</li>
+  <li>
+<a href="https://alf.nu/alert1">alert(1) to win</a> - Series of XSS challenges - Written by <a href="https://twitter.com/steike">@steike</a>.</li>
+  <li>
+<a href="http://xss-quiz.int21h.jp/">XSS Challenges</a> - Series of XSS challenges - Written by yamagata21.</li>
+</ul>
+
+<p><a name="practices-modsecurity"></a></p>
+<h3 id="modsecurity--owasp-modsecurity-core-rule-set">ModSecurity / OWASP ModSecurity Core Rule Set</h3>
+
+<ul>
+  <li>
+<a href="https://www.netnea.com/cms/apache-tutorials/">ModSecurity / OWASP ModSecurity Core Rule Set</a> - Series of tutorials to install, configure and tune ModSecurity and the Core Rule Set - Written by <a href="https://twitter.com/ChrFolini">@ChrFolini</a>.</li>
+</ul>
+
+<h2 id="community">Community</h2>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/websecurity/">Reddit</a></li>
+  <li><a href="http://stackoverflow.com/questions/tagged/security">Stack Overflow</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/djadmin/awesome-bug-bounty">awesome-bug-bounty <img src="https://img.shields.io/github/stars/djadmin/awesome-bug-bounty" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/djadmin/awesome-bug-bounty" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Comprehensive curated list of available Bug Bounty &amp; Disclosure Programs and write-ups by <a href="https://github.com/djadmin">@djadmin</a>.</li>
+  <li>
+<a href="https://github.com/ngalongc/bug-bounty-reference">bug-bounty-reference <img src="https://img.shields.io/github/stars/ngalongc/bug-bounty-reference" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ngalongc/bug-bounty-reference" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - List of bug bounty write-up that is categorized by the bug nature by <a href="https://github.com/ngalongc">@ngalongc</a>.</li>
+  <li>
+<a href="https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns">Google VRP and Unicorns</a> - Written by <a href="https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/">Daniel Stelter-Gliese</a>.</li>
+  <li>
+<a href="http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html">Brute Forcing Your Facebook Email and Phone Number</a> - Written by <a href="http://pwndizzle.blogspot.jp/">PwnDizzle</a>.</li>
+  <li>
+<a href="http://i.imgur.com/Mr9pvq9.jpg">Pentest + Exploit dev Cheatsheet wallpaper</a> - Penetration Testing and Exploit Dev CheatSheet.</li>
+  <li>
+<a href="http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/">The Definitive Security Data Science and Machine Learning Guide</a> - Written by JASON TROS.</li>
+  <li>
+<a href="https://github.com/x0rz/EQGRP">EQGRP <img src="https://img.shields.io/github/stars/x0rz/EQGRP" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/x0rz/EQGRP" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Decrypted content of eqgrp-auction-file.tar.xz by <a href="https://github.com/x0rz">@x0rz</a>.</li>
+  <li>
+<a href="https://github.com/ChALkeR/notes">notes <img src="https://img.shields.io/github/stars/ChALkeR/notes" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ChALkeR/notes" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Some public notes by <a href="https://github.com/ChALkeR">@ChALkeR</a>.</li>
+  <li>
+<a href="https://githubengineering.com/githubs-bug-bounty-workflow/">A glimpse into GitHub’s Bug Bounty workflow</a> - Written by <a href="https://github.com/gregose">@gregose</a>.</li>
+  <li>
+<a href="https://www.belfercenter.org/CyberPlaybook">Cybersecurity Campaign Playbook</a> - Written by <a href="https://www.belfercenter.org/">Belfer Center for Science and International Affairs</a>.</li>
+  <li>
+<a href="https://github.com/rmusser01/Infosec_Reference">Infosec_Reference <img src="https://img.shields.io/github/stars/rmusser01/Infosec_Reference" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rmusser01/Infosec_Reference" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Information Security Reference That Doesn’t Suck by <a href="https://github.com/rmusser01">@rmusser01</a>.</li>
+  <li>
+<a href="http://iotscanner.bullguard.com/">Internet of Things Scanner</a> - Check if your internet-connected devices at home are public on Shodan by <a href="https://www.bullguard.com/">BullGuard</a>.</li>
+  <li>
+<a href="https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing">The Bug Hunters Methodology v2.1</a> - Written by <a href="https://twitter.com/jhaddix">@jhaddix</a>.</li>
+  <li>
+<a href="https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up">$7.5k Google services mix-up</a> - Written by <a href="https://sites.google.com/site/testsitehacking/">Ezequiel Pereira</a>.</li>
+  <li>
+<a href="https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/">How I exploited ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting</a> - Written by <a href="https://twitter.com/fransrosen">@fransrosen</a>.</li>
+  <li>
+<a href="https://voidsec.com/vpn-leak/">TL:DR: VPN leaks users’ IPs via WebRTC. I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%)</a> - Written by <a href="https://voidsec.com/">voidsec</a>.</li>
+  <li>
+<a href="https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks">Escape and Evasion Egressing Restricted Networks</a> - Written by <a href="info@optiv.com">Chris Patten, Tom Steele</a>.</li>
+  <li>
+<a href="https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66">Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters</a> - Written by <a href="https://medium.com/@umpox">@umpox</a>.</li>
+  <li>
+<a href="https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals">Domato Fuzzer’s Generation Engine Internals</a> - Written by <a href="https://www.sigpwn.io/">sigpwn</a>.</li>
+  <li>
+<a href="https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/">CSS Is So Overpowered It Can Deanonymize Facebook Users</a> - Written by <a href="https://www.evonide.com/">Ruslan Habalov</a>.</li>
+  <li>
+<a href="https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018">Introduction to Web Application Security</a> - Written by <a href="https://twitter.com/itsC0rg1">@itsC0rg1</a>, <a href="https://twitter.com/jmkeads">@jmkeads</a> and <a href="https://twitter.com/matir">@matir</a>.</li>
+  <li>
+<a href="https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/">Finding The Real Origin IPs Hiding Behind CloudFlare or TOR</a> - Written by <a href="https://www.secjuice.com/author/paul-dannewitz/">Paul Dannewitz</a>.</li>
+  <li>
+<a href="https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob">Why Facebook’s api starts with a for loop</a> - Written by <a href="https://twitter.com/AntoGarand">@AntoGarand</a>.</li>
+  <li>
+<a href="https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/">How I could have stolen your photos from Google - my first 3 bug bounty writeups</a> - Written by <a href="https://twitter.com/gergoturcsanyi">@gergoturcsanyi</a>.</li>
+  <li>
+<a href="https://0day.work/an-example-why-nat-is-not-security/">An example why NAT is NOT security</a> - Written by <a href="https://twitter.com/@0daywork">@0daywork</a>.</li>
+  <li>
+<a href="https://techvomit.net/web-application-penetration-testing-notes/">WEB APPLICATION PENETRATION TESTING NOTES</a> - Written by <a href="https://techvomit.net/">Jayson</a>.</li>
+  <li>
+<a href="https://segment.com/blog/hacking-with-a-heads-up-display/">Hacking with a Heads Up Display</a> - Written by <a href="https://segment.com/blog/authors/david-scrobonia/">David Scrobonia</a>.</li>
+  <li>
+<a href="https://slashcrypto.org/data/itsecx2018.pdf">Alexa Top 1 Million Security - Hacking the Big Ones</a> - Written by <a href="https://twitter.com/slashcrypto">@slashcrypto</a>.</li>
+  <li>
+<a href="http://10degres.net/the-bug-bounty-program-that-changed-my-life/">The bug bounty program that changed my life</a> - Written by <a href="http://10degres.net/">Gwen</a>.</li>
+  <li>
+<a href="https://pentester.land/list-of-bug-bounty-writeups.html">List of bug bounty writeups</a> - Written by <a href="https://pentester.land/">Mariem</a>.</li>
+  <li>
+<a href="https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html">Implications of Loading .NET Assemblies</a> - Written by <a href="https://threatvector.cylance.com/en_us/contributors/brian-wallace.html">Brian Wallace</a>.</li>
+  <li>
+<a href="https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf">WCTF2019: Gyotaku The Flag</a> - Written by <a href="https://twitter.com/t0nk42">@t0nk42</a>.</li>
+  <li>
+<a href="https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/">How we abused Slack’s TURN servers to gain access to internal services</a> - Written by <a href="https://twitter.com/sandrogauci">@sandrogauci</a>.</li>
+  <li>
+<a href="https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa">DOS File Path Magic Tricks</a> - Written by <a href="https://medium.com/@clr2of8">@clr2of8</a>.</li>
+  <li>
+<a href="https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d">How I got my first big bounty payout with Tesla</a> - Written by <a href="https://medium.com/@cj.fairhead">@cj.fairhead</a>.</li>
+</ul>
+
+<h2 id="code-of-conduct">Code of Conduct</h2>
+
+<p>Please note that this project is released with a <a href="code-of-conduct.md">Contributor Code of Conduct</a>. By participating in this project you agree to abide by its terms.</p>
+
+<h2 id="license">License</h2>
+
+<p><a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0" referrerpolicy="no-referrer" loading="lazy"></a></p>
+
+<p>To the extent possible under law, <a href="https://qazbnm456.github.io/">@qazbnm456</a> has waived all copyright and related or neighboring rights to this work.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
