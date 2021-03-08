@@ -7,51 +7,35 @@ on:
     branches: [ main ]
   schedule:
     - cron:  '* * * * *'
-
   workflow_dispatch:
 
 jobs:
-  update-awesome-go:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ./.github/workflows/default-update
-        with:
-          name: Awesome Go
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          markdown_url: 'https://raw.githubusercontent.com/avelino/awesome-go/master/README.md'
-          filename: 'awesome-go.md'
-               
-  update-awesome-python:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: ./.github/workflows/default-update
-        with:
-          name: Awesome Python
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          markdown_url: 'https://raw.githubusercontent.com/vinta/awesome-python/master/README.md'
-          filename: 'awesome-python.md'
-      
-  update-awesome-php:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: ./.github/workflows/default-update
-        with:
-          name: Awesome PHP
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          markdown_url: 'https://raw.githubusercontent.com/ziadoz/awesome-php/master/README.md'
-          filename: 'awesome-php.md'
-      
-  update-awesome-selfhosted:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: ./.github/workflows/default-update
-        with:
-          name: Awesome Selfhosted
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          markdown_url: 'https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/README.md'
-          filename: 'awesome-selfhosted.md'
-     
+
+      - name: Setup Git
+        run: |
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+
+      - name: Clone the repository and checkout to the branch
+        run: |
+          REPOSITORY_URL="https://${GITHUB_ACTOR}:${{ secrets.ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone "${REPOSITORY_URL}" repository
+          cd repository
+          git branch -a
+          git checkout markdowns
+
+      - name: Update
+        run: |
+          set -eux
+          FILENAMES=`node index.js repository`
+          cd repository
+          for FILENAME in $FILENAMES
+          do
+            git add "$FILENAME"
+            git commit -m "[bot] updated $FILENAME" || true
+          done
+          git push || true
