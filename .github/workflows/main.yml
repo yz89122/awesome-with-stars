@@ -13,7 +13,6 @@ on:
 jobs:
   update-awesome-go:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: ./.github/workflows/default-update
@@ -25,7 +24,6 @@ jobs:
                
   update-awesome-python:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: ./.github/workflows/default-update
@@ -37,7 +35,6 @@ jobs:
       
   update-awesome-php:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: ./.github/workflows/default-update
@@ -46,4 +43,15 @@ jobs:
           access_token: ${{ secrets.ACCESS_TOKEN }}
           markdown_url: 'https://raw.githubusercontent.com/ziadoz/awesome-php/master/README.md'
           filename: 'awesome-php.md'
+      
+  update-awesome-selfhosted:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./.github/workflows/default-update
+        with:
+          name: Awesome Selfhosted
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          markdown_url: 'https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/README.md'
+          filename: 'awesome-selfhosted.md'
      
