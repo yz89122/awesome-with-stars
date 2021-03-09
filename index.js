@@ -1,11 +1,12 @@
 const https = require("https");
 const fs = require("fs/promises");
 
-const outputDir = process.argv[2];
-if (!outputDir) {
+if (process.argv.length < 3) {
   console.error("output directory not specified");
-  process.exit(1);
+  console.error(`Usage: ${process.argv[0]} ${process.argv[1]} <output_directory>`);
+  return process.exit(1);
 }
+const outputDir = process.argv[2];
 
 const AWESOME = {
   owner: "sindresorhus",
@@ -40,6 +41,7 @@ const getReadme = async ({ owner, name, branch = null }) => {
                   owner,
                   name,
                   branch,
+                  filename,
                   statusCode: res.statusCode,
                 })
               );
