@@ -127,7 +127,7 @@ const getReadmeImageAbsoluteUrl = (src, { owner, name, branch }) => {
         .replaceMarkdownImage()
         .markdown.replace(
           /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi,
-          "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)](./$4-$5.md) [origin]($2)"
+          "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)](./$4-$5.md) [*Origin*]($2)"
         )
     );
     console.log("README.md");
