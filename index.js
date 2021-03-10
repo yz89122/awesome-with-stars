@@ -30,7 +30,13 @@ const getReadme = async ({ owner, name, branch = null }) => {
       return await getReadme({ owner, name, branch: "master" });
     }
   }
-  for (const filename of ["readme.md", "README.md", "README.MD", "readme.MD"]) {
+  for (const filename of [
+    "readme.md",
+    "README.md",
+    "README.MD",
+    "Readme.md",
+    "readme.MD",
+  ]) {
     try {
       return await new Promise(async (resolve, reject) => {
         const data = { owner, name, branch, filename };
