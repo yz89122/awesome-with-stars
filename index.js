@@ -34,13 +34,14 @@ const getReadme = async ({ owner, name, branch = null }) => {
     try {
       return await new Promise(async (resolve, reject) => {
         const data = { owner, name, branch, filename };
+        // use native https.request in order to make this script dependency-less
         const req = https.request(
           {
             hostname: "raw.githubusercontent.com",
             port: 443,
             path: `/${owner}/${name}/${branch}/${filename}`,
             method: "GET",
-            headers: { "user-agent": "node" },
+            headers: { "user-agent": "node" }, // github server required user-agent
           },
           (res) => {
             let markdown = "";
@@ -65,40 +66,38 @@ const getReadme = async ({ owner, name, branch = null }) => {
 };
 
 /** @param {{ owner: string, name: string, branch: string, filename: string, markdown: string }} */
-const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => {
-  return {
-    owner,
-    name,
-    branch,
-    filename,
-    markdown,
-    replaceHtmlImage() {
-      this.markdown = this.markdown.replace(
-        /(<img\s+.*?)src=(('|")?)([^ \t\r\n]+|.*?)\2(.*?\/?>)/gi,
-        (match, g1, g2, g3, g4, g5) =>
-          g4 ? `${g1}src="${getReadmeImageAbsoluteUrl(g4, this)}"${g5}` : match
-      );
-      return this;
-    },
-    replaceMarkdownImage() {
-      this.markdown = this.markdown.replace(
-        /(!\[.*?\]\(\s*)(.*?)(\s*\))/gi,
-        (match, g1, g2, g3) =>
-          g2 ? `${g1}${getReadmeImageAbsoluteUrl(g2, this)}${g3}` : match
-      );
-      return this;
-    },
-    addGithubStarsBadges() {
-      this.markdown = this.markdown.replace(
-        /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/([^\/]+?)\/([^\/#]+?)(#.*?)?(\/[^\/)]*)*)\)/gi,
-        "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)]($2)"
-      );
-      return this;
-    },
-  };
-};
+const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
+  owner,
+  name,
+  branch,
+  filename,
+  markdown,
+  replaceHtmlImage() {
+    this.markdown = this.markdown.replace(
+      /(<img\s+.*?)src=(('|")?)([^ \t\r\n]+|.*?)\2(.*?\/?>)/gi,
+      (match, g1, g2, g3, g4, g5) =>
+        g4 ? `${g1}src="${getReadmeImageAbsoluteUrl(g4, this)}"${g5}` : match
+    );
+    return this;
+  },
+  replaceMarkdownImage() {
+    this.markdown = this.markdown.replace(
+      /(!\[.*?\]\(\s*)(.*?)(\s*\))/gi,
+      (match, g1, g2, g3) =>
+        g2 ? `${g1}${getReadmeImageAbsoluteUrl(g2, this)}${g3}` : match
+    );
+    return this;
+  },
+  addGithubStarsBadges() {
+    this.markdown = this.markdown.replace(
+      /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/([^\/]+?)\/([^\/#]+?)(#.*?)?(\/[^\/)]*)*)\)/gi,
+      "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)]($2)"
+    );
+    return this;
+  },
+});
 
-/** @type {( src: string, { owner: string, name: string, branch: string } ) => string}) => string} */
+/** @type {( src: string, { owner: string, name: string, branch: string } ) => string} */
 const getReadmeImageAbsoluteUrl = (src, { owner, name, branch }) => {
   const url = new URL(src, "protocol://hostname");
   if (url.hostname != "hostname") return src;
@@ -136,25 +135,22 @@ const getReadmeImageAbsoluteUrl = (src, { owner, name, branch }) => {
     console.warn(`${awesomeRepositories.length} awesome repositories`);
 
     await Promise.all(
-      awesomeRepositories.map((repository) =>
-        (async () => {
-          try {
-            const readme = wrapReadmeObject(await getReadme(repository));
-            await fs.writeFile(
-              `${outputDir}/${repository.owner}-${repository.name}.md`,
-              readme
-                .replaceHtmlImage()
-                .replaceMarkdownImage()
-                .addGithubStarsBadges().markdown
-            );
-            console.log(`${repository.owner}-${repository.name}.md`);
-          } catch (err) {
-            return console.error(
-              `failed to get README.md of ${repository.owner}/${repository.name}: ${err}`
-            );
-          }
-        })()
-      )
+      awesomeRepositories.map(async (repository) => {
+        try {
+          await fs.writeFile(
+            `${outputDir}/${repository.owner}-${repository.name}.md`,
+            wrapReadmeObject(await getReadme(repository))
+              .replaceHtmlImage()
+              .replaceMarkdownImage()
+              .addGithubStarsBadges().markdown
+          );
+          console.log(`${repository.owner}-${repository.name}.md`);
+        } catch (err) {
+          return console.error(
+            `failed to get README.md of ${repository.owner}/${repository.name}: ${err}`
+          );
+        }
+      })
     );
   } catch (err) {
     console.error(err);
