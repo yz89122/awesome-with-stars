@@ -76,7 +76,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => {
       this.markdown = this.markdown.replace(
         /(<img\s+.*?)src=(('|")?)([^ \t\r\n]+|.*?)\2(.*?\/?>)/gi,
         (match, g1, g2, g3, g4, g5) =>
-          `${g1}src="${getReadmeImageAbsoluteUrl(g4, this)}"${g5}`
+          g4 ? `${g1}src="${getReadmeImageAbsoluteUrl(g4, this)}"${g5}` : match
       );
       return this;
     },
@@ -84,7 +84,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => {
       this.markdown = this.markdown.replace(
         /(!\[.*?\]\(\s*)(.*?)(\s*\))/gi,
         (match, g1, g2, g3) =>
-          `${g1}${getReadmeImageAbsoluteUrl(g2, this)}${g3}`
+          g2 ? `${g1}${getReadmeImageAbsoluteUrl(g2, this)}${g3}` : match
       );
       return this;
     },
