@@ -35,7 +35,7 @@ const getReadme = async ({ owner, name, branch = null }) => {
     "README.md",
     "README.MD",
     "Readme.md",
-    "readme.MD",
+    "docs/README.md",
   ]) {
     try {
       return await new Promise(async (resolve, reject) => {
