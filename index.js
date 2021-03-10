@@ -3,7 +3,9 @@ const fs = require("fs/promises");
 
 if (process.argv.length < 3) {
   console.error("output directory not specified");
-  console.error(`Usage: ${process.argv[0]} ${process.argv[1]} <output_directory>`);
+  console.error(
+    `Usage: ${process.argv[0]} ${process.argv[1]} <output_directory>`
+  );
   return process.exit(1);
 }
 const outputDir = process.argv[2];
@@ -13,18 +15,25 @@ const AWESOME = {
   name: "awesome",
 };
 
-/** @type {({ owner: string, name: string, branch: string? }) => Promise<string>} */
+/**
+ * @param {{ owner: string, name: string, branch: string? }}
+ * @return {Promise<{ owner: string, name: string, branch: string, filename: string, markdown: string }>}
+ */
 const getReadme = async ({ owner, name, branch = null }) => {
   if (!branch) {
     try {
-      return await getReadme({ owner, name, branch: "master" });
-    } catch {
+      // If the default branch is main, request on branch master
+      // will get the result, the opposite is not.
+      // So we try on branch main first to get the correct branch name.
       return await getReadme({ owner, name, branch: "main" });
+    } catch {
+      return await getReadme({ owner, name, branch: "master" });
     }
   }
   for (const filename of ["readme.md", "README.md", "README.MD", "readme.MD"]) {
     try {
       return await new Promise(async (resolve, reject) => {
+        const data = { owner, name, branch, filename };
         const req = https.request(
           {
             hostname: "raw.githubusercontent.com",
@@ -34,22 +43,20 @@ const getReadme = async ({ owner, name, branch = null }) => {
             headers: { "user-agent": "node" },
           },
           (res) => {
-            let data = "";
+            let markdown = "";
             if (res.statusCode != 200)
-              reject(
-                JSON.stringify({
-                  owner,
-                  name,
-                  branch,
-                  filename,
-                  statusCode: res.statusCode,
-                })
+              return reject(
+                new Error(
+                  JSON.stringify({ ...data, status_code: res.statusCode })
+                )
               );
-            res.on("data", (chunk) => (data += chunk));
-            res.on("end", () => resolve(data));
+            res.on("data", (chunk) => (markdown += chunk));
+            res.on("end", () => resolve({ ...data, markdown }));
           }
         );
-        req.on("error", (e) => reject(e));
+        req.on("error", (error) =>
+          reject(new Error(JSON.stringify({ ...data, error })))
+        );
         req.end();
       });
     } catch {}
@@ -57,38 +64,88 @@ const getReadme = async ({ owner, name, branch = null }) => {
   throw new Error("README.md not found");
 };
 
+/** @param {{ owner: string, name: string, branch: string, filename: string, markdown: string }} */
+const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => {
+  return {
+    owner,
+    name,
+    branch,
+    filename,
+    markdown,
+    replaceHtmlImage() {
+      this.markdown = this.markdown.replace(
+        /(<img\s+.*?)src=(('|")?)([^ \t\r\n]+|.*?)\2(.*?\/?>)/gi,
+        (match, g1, g2, g3, g4, g5) =>
+          `${g1}src="${getReadmeImageAbsoluteUrl(g4, this)}"${g5}`
+      );
+      return this;
+    },
+    replaceMarkdownImage() {
+      this.markdown = this.markdown.replace(
+        /(!\[.*?\]\(\s*)(.*?)(\s*\))/gi,
+        (match, g1, g2, g3) =>
+          `${g1}${getReadmeImageAbsoluteUrl(g2, this)}${g3}`
+      );
+      return this;
+    },
+    addGithubStarsBadges() {
+      this.markdown = this.markdown.replace(
+        /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/([^\/]+?)\/([^\/#]+?)(#.*?)?(\/[^\/)]*)*)\)/gi,
+        "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)]($2)"
+      );
+      return this;
+    },
+  };
+};
+
+/** @type {( src: string, { owner: string, name: string, branch: string } ) => string}) => string} */
+const getReadmeImageAbsoluteUrl = (src, { owner, name, branch }) => {
+  const url = new URL(src, "protocol://hostname");
+  if (url.hostname != "hostname") return src;
+  return new URL(
+    url.pathname.replace(
+      /^\/*/,
+      `https://github.com/${owner}/${name}/raw/${branch}/`
+    )
+  ).href;
+};
+
 (async () => {
   try {
     await fs.mkdir(outputDir, { recursive: true });
-    const awesomeMarkdown = await getReadme(AWESOME);
+    const awesomeReadme = wrapReadmeObject(await getReadme(AWESOME));
     const awesomeRepositories = Array.from(
-      awesomeMarkdown.matchAll(
-        /\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi
+      awesomeReadme.markdown.matchAll(
+        /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi
       ),
       (match) => ({ owner: match[4], name: match[5] })
     );
 
     await fs.writeFile(
       `${outputDir}/README.md`,
-      awesomeMarkdown.replace(
-        /\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi,
-        "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)](./$4-$5.md) [origin]($2)"
-      )
+      awesomeReadme
+        .replaceHtmlImage()
+        .replaceMarkdownImage()
+        .markdown.replace(
+          /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi,
+          "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)](./$4-$5.md) [origin]($2)"
+        )
     );
     console.log("README.md");
 
-    console.error(`${awesomeRepositories.length} awesome repositories`);
+    console.warn(`${awesomeRepositories.length} awesome repositories`);
 
     await Promise.all(
       awesomeRepositories.map((repository) =>
         (async () => {
           try {
+            const readme = wrapReadmeObject(await getReadme(repository));
             await fs.writeFile(
               `${outputDir}/${repository.owner}-${repository.name}.md`,
-              (await getReadme(repository)).replace(
-                /\[(.*?)\]\(((https?:\/\/)?github\.com\/([^/]+?)\/([^/#]+?)(#.*?)?(\/[^/)]*)*)\)/gi,
-                "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)]($2)"
-              )
+              readme
+                .replaceHtmlImage()
+                .replaceMarkdownImage()
+                .addGithubStarsBadges().markdown
             );
             console.log(`${repository.owner}-${repository.name}.md`);
           } catch (err) {
