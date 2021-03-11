@@ -81,41 +81,47 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
   replaceHtmlImage() {
     this.markdown = this.markdown.replace(
       // best effort matching
-      /(<img\s+.*?src\s*=\s*(('|")?))([^ \t\r\n>]+|.*?)(\2.*?\/?>)/gi,
+      /(<img\s+.*?src\s*=\s*(('|")?))([^\s>]+|.*?)(\2.*?\/?>)/gi,
       (match, g1, g2, g3, g4, g5) =>
-        g4 ? `${g1}${getReadmeImageAbsoluteUrl(g4, this)}${g5}` : match
+        g4 ? `${g1}${this.getResourceAbsoluteURL(g4)}${g5}` : match
     );
     return this;
   },
   replaceMarkdownImage() {
     this.markdown = this.markdown.replace(
       // syntax: ![alt](src "title")
-      /(!\[.*?\]\(\s*)([^ \t\r\n]*?)(\s*(((["'])(?:[^\6\\]|\\.)*?\6)|(\((?:[^\\)]|\\.)*?\)))?\))/gi,
+      /(!\[[^\]]*?\]\(\s*)([^\s]*?)(\s*(\s((["'])(?:[^\6\\]|\\.)*?\6|\((?:[^\\)]|\\.)*?\)))?\))/gi,
       (match, g1, g2, g3) =>
-        g2 ? `${g1}${getReadmeImageAbsoluteUrl(g2, this)}${g3}` : match
+        g2 ? `${g1}${this.getResourceAbsoluteURL(g2)}${g3}` : match
+    );
+    this.markdown = this.markdown.replace(
+      // syntax: [key]: href "title"
+      /(\[(?:[^\\\]]|\\\.)*?\]:\s)([^\s]*)/gi,
+      (match, g1, g2) =>
+        g2 ? `${g1}${this.getResourceAbsoluteURL(g2)}` : match
     );
     return this;
   },
   addGithubStarsBadges() {
     this.markdown = this.markdown.replace(
-      /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/([^\/]+?)\/([^\/#]+?)(#.*?)?(\/[^\/)]*)*)\)/gi,
-      "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)]($2)"
+      // syntax: [text](href "title")
+      /(?<!!)(\[[^\]]*?)(\]\((((https?:)?\/\/)?github\.com\/([^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
+      "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7?style=social)$2"
     );
     return this;
   },
+  /** @type {(src: string) => string)} */
+  getResourceAbsoluteURL(src) {
+    const url = new URL(src, "protocol://hostname");
+    if (url.hostname != "hostname") return src;
+    return new URL(
+      url.pathname.replace(
+        /^\/*/,
+        `https://github.com/${this.owner}/${this.name}/raw/${this.branch}/`
+      )
+    ).href;
+  },
 });
-
-/** @type {( src: string, { owner: string, name: string, branch: string } ) => string} */
-const getReadmeImageAbsoluteUrl = (src, { owner, name, branch }) => {
-  const url = new URL(src, "protocol://hostname");
-  if (url.hostname != "hostname") return src;
-  return new URL(
-    url.pathname.replace(
-      /^\/*/,
-      `https://github.com/${owner}/${name}/raw/${branch}/`
-    )
-  ).href;
-};
 
 (async () => {
   try {
