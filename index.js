@@ -106,7 +106,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
     this.markdown = this.markdown.replace(
       // syntax: [text](href "title")
       /(?<!!)(\[[^\]]*?)(\]\((((https?:)?\/\/)?github\.com\/([^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
-      "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7?style=social)![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7?style=social)$2"
+      "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7?style=social)$2"
     );
     return this;
   },
@@ -141,7 +141,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
         .replaceMarkdownImage()
         .markdown.replace(
           /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi,
-          "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social)![GitHub last commit](https://img.shields.io/github/last-commit/$4/$5?style=social)](./$4-$5.md) [*Origin*]($2)"
+          "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/$4/$5?style=social)](./$4-$5.md) [*Origin*]($2)"
         )
     );
     console.log("README.md");
