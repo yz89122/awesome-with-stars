@@ -22,7 +22,7 @@ jobs:
 
       - name: Clone the repository and checkout to the branch
         run: |
-          REPOSITORY_URL="https://${GITHUB_ACTOR}:${{ secrets.ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          REPOSITORY_URL="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git clone "${REPOSITORY_URL}" repository
           cd repository
           git branch -a
