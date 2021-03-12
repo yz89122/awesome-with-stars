@@ -1,4 +1,4 @@
-name: CI
+name: Update Awesome List
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '* * * * *'
   workflow_dispatch:
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
           cd repository
           for FILENAME in $FILENAMES
           do
-            git add "$FILENAME"
-            git commit -m "[bot] updated $FILENAME" || true
+            git add "$FILENAME" >/dev/null
+            git commit -m "[bot] updated $FILENAME" >/dev/null || true
           done
-          git push || true
+          git push >/dev/null || true
