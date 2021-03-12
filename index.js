@@ -90,13 +90,13 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
   replaceMarkdownImage() {
     this.markdown = this.markdown.replace(
       // syntax: ![alt](src "title")
-      /(!\[[^\]]*?\]\(\s*)([^\s]*?)(\s*(\s((["'])(?:[^\6\\]|\\.)*?\6|\((?:[^\\)]|\\.)*?\)))?\))/gi,
+      /(!\[(?:[^\\\]]|\\.)*?\]\(\s*)([^\s]*?)(\s*(\s((["'])(?:[^\6\\]|\\.)*?\6|\((?:[^\\)]|\\.)*?\)))?\))/gi,
       (match, g1, g2, g3) =>
         g2 ? `${g1}${this.getResourceAbsoluteURL(g2)}${g3}` : match
     );
     this.markdown = this.markdown.replace(
       // syntax: [key]: href "title"
-      /(\[(?:[^\\\]]|\\\.)*?\]:\s)([^\s]*)/gi,
+      /(\[(?:[^\\\]]|\\.)*?\]:\s)([^\s]*)/gi,
       (match, g1, g2) =>
         g2 ? `${g1}${this.getResourceAbsoluteURL(g2)}` : match
     );
@@ -105,7 +105,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
   addGithubBadges() {
     this.markdown = this.markdown.replace(
       // syntax: [text](href "title")
-      /(?<!!)(\[[^\]]*?)(\]\((((https?:)?\/\/)?github\.com\/([^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
+      /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/([^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
       "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)$2"
     );
     return this;
@@ -129,9 +129,9 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
     const awesomeReadme = wrapReadmeObject(await getReadme(AWESOME));
     const awesomeRepositories = Array.from(
       awesomeReadme.markdown.matchAll(
-        /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi
+        /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/((?!topics)[^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi
       ),
-      (match) => ({ owner: match[4], name: match[5] })
+      (match) => ({ owner: match[6], name: match[7] })
     );
 
     await fs.writeFile(
@@ -140,8 +140,8 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
         .replaceHtmlImage()
         .replaceMarkdownImage()
         .markdown.replace(
-          /(?<!!)\[(.*?)\]\(((https?:\/\/)?github\.com\/((?!topics)[^/]+?)\/([^/#]*?)(#.*?)?(\/[^/)]*)*)\)/gi,
-          "[$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$4/$5) ![GitHub last commit](https://img.shields.io/github/last-commit/$4/$5)](./$4-$5.md) [*Origin*]($2)"
+          /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/((?!topics)[^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
+          "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)](./$6-$7.md) [*Origin*]($3)"
         )
     );
     console.log("README.md");
