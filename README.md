@@ -1,4 +1,4 @@
-# [Awesome with Stars](https://github.com/yz89122/awesome-with-stars/tree/gh-pages#readme)
+# [Awesome with Stars](https://yz89122.github.io/awesome-with-stars)
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/yz89122/awesome-with-stars/Update%20Awesome%20List?label=Update)
 
