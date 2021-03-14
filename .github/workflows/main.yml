@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  update-awesome-list:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -25,8 +25,7 @@ jobs:
           REPOSITORY_URL="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git clone "${REPOSITORY_URL}" repository
           cd repository
-          git branch -a
-          git checkout markdowns
+          git checkout 'gh-pages'
 
       - name: Update
         run: |
@@ -39,3 +38,39 @@ jobs:
             git commit -m "[bot] updated $FILENAME" >/dev/null || true
           done
           git push >/dev/null || true
+
+  update-github-pages:
+    needs: update-awesome-list
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Git
+        run: |
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+
+      - name: Clone the repository and checkout to the branch
+        run: |
+          REPOSITORY_URL="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone "${REPOSITORY_URL}" repository
+          cd repository
+          git checkout 'gh-pages'
+
+      - name: Build GitHub Pages
+        env:
+          BUNDLE_PATH: vendor/bundle
+          JEKYLL_ENV: production
+          JEKYLL_GITHUB_TOKEN: ${{ github.token }}
+          PAGES_REPO_NWO: ${{ github.repository }}
+        run: |
+          set -eux
+          bundle install
+          rm -fr repository/docs
+          bundle exec jekyll build --config _config.yml --source repository --destination repository/docs
+
+      - name: Git Commit
+        run: |
+          cd repository
+          git add docs
+          git commit -m '[bot] Updated GitHub Pages' && git push || true
