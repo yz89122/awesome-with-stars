@@ -1,3 +1,4 @@
+const http = require("http");
 const https = require("https");
 const fs = require("fs/promises");
 
@@ -13,6 +14,26 @@ const outputDir = process.argv[2];
 const AWESOME = {
   owner: "sindresorhus",
   name: "awesome",
+};
+
+/** @type {(options: https.RequestOptions) => Promise<http.IncomingMessage>} */
+const request = (options) => {
+  return new Promise((resolve, reject) => {
+    // use native https.request in order to make this script dependency-less
+    const req = https.request(
+      {
+        headers: { "user-agent": "node" },
+        ...options,
+      },
+      (res) => {
+        res.data = Buffer.alloc(0);
+        res.on("data", (chunk) => (res.data += chunk));
+        res.on("end", () => resolve(res));
+      }
+    );
+    req.on("error", reject);
+    req.end();
+  });
 };
 
 /**
@@ -31,41 +52,19 @@ const getReadme = async ({ owner, name, branch = null }) => {
     }
   }
   for (const filename of [
-    "readme.md",
     "README.md",
+    "readme.md",
     "README.MD",
     "Readme.md",
     "docs/README.md",
   ]) {
     try {
-      return await new Promise(async (resolve, reject) => {
-        const data = { owner, name, branch, filename };
-        // use native https.request in order to make this script dependency-less
-        const req = https.request(
-          {
-            hostname: "raw.githubusercontent.com",
-            port: 443,
-            path: `/${owner}/${name}/${branch}/${filename}`,
-            method: "GET",
-            headers: { "user-agent": "node" }, // github server required user-agent
-          },
-          (res) => {
-            let markdown = "";
-            if (res.statusCode != 200)
-              return reject(
-                new Error(
-                  JSON.stringify({ ...data, status_code: res.statusCode })
-                )
-              );
-            res.on("data", (chunk) => (markdown += chunk));
-            res.on("end", () => resolve({ ...data, markdown }));
-          }
-        );
-        req.on("error", (error) =>
-          reject(new Error(JSON.stringify({ ...data, error })))
-        );
-        req.end();
+      const { data, statusCode } = await request({
+        hostname: "raw.githubusercontent.com",
+        path: `/${owner}/${name}/${branch}/${filename}`,
       });
+      if (statusCode != 200) continue;
+      return { owner, name, branch, filename, markdown: data.toString() };
     } catch {}
   }
   throw new Error("README.md not found");
