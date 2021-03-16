@@ -30,14 +30,10 @@ jobs:
       - name: Update
         run: |
           set -eux
-          FILENAMES=`node index.js repository`
+          node index.js repository
           cd repository
-          for FILENAME in $FILENAMES
-          do
-            git add "$FILENAME" >/dev/null
-            git commit -m "[bot] updated $FILENAME" >/dev/null || true
-          done
-          git push >/dev/null || true
+          git add .
+          git commit -m '[bot] Updated' && git push || true
 
   update-github-pages:
     needs: update-awesome-list
