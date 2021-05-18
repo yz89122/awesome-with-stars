@@ -68,6 +68,7 @@ Guides how to learn LaTeX
 - [mathTeX](https://ctan.org/pkg/mathtex) - mathTeX is the successor of mimeTeX: it produces nicer-looking images but it requires LaTeX to be installed on your server. ![foss]
 - [KaTeX](https://khan.GitHub.io/KaTeX/) - KaTeX is a math rendering library made by Khan Academy focusing on fast load times. All output is processed as plain HTML instead of fixed images. ![foss]
 - [Franklin.jl](https://franklinjl.org/) - Static site generator with KaTeX support, code evaluation, LaTeX-like commands and optional pre-rendering, in Julia. ![foss]
+- [Purple Pi ![GitHub Repo stars](https://img.shields.io/github/stars/nschloe/purple-pi) ![GitHub last commit](https://img.shields.io/github/last-commit/nschloe/purple-pi)](https://github.com/nschloe/purple-pi) - Browser extension that lets you use LaTeX in GitHub pages, StackOverflow etc. ![foss]
 
 ## Editors
 
