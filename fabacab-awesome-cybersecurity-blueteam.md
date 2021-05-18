@@ -182,7 +182,9 @@ See also [Awesome-Fuzzing ![GitHub Repo stars](https://img.shields.io/github/sta
 
 ### Supply chain security
 
+- [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
 - [Helm GPG (GnuPG) Plugin ![GitHub Repo stars](https://img.shields.io/github/stars/technosophos/helm-gpg) ![GitHub last commit](https://img.shields.io/github/last-commit/technosophos/helm-gpg)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
+- [Notary ![GitHub Repo stars](https://img.shields.io/github/stars/theupdateframework/notary) ![GitHub last commit](https://img.shields.io/github/last-commit/theupdateframework/notary)](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 
 ## Honeypots
 
