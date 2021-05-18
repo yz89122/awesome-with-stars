@@ -3180,7 +3180,7 @@ _Integrate with services or other frameworks_
 - [vue-cli-template-dev-server ![GitHub Repo stars](https://img.shields.io/github/stars/eliranmal/vue-cli-template-dev-server) ![GitHub last commit](https://img.shields.io/github/last-commit/eliranmal/vue-cli-template-dev-server)](https://github.com/eliranmal/vue-cli-template-dev-server) - A development server for building vue-cli custom templates.
 - [vue-codemods ![GitHub Repo stars](https://img.shields.io/github/stars/SergioCrisostomo/vue-codemods) ![GitHub last commit](https://img.shields.io/github/last-commit/SergioCrisostomo/vue-codemods)](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files.
 - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development.
-- [vue-dom-hints ![GitHub Repo stars](https://img.shields.io/github/stars/privatenumber/vue-dom-hints) ![GitHub last commit](https://img.shields.io/github/last-commit/privatenumber/vue-dom-hints)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
+- [vue-dom-hints ![GitHub Repo stars](https://img.shields.io/github/stars/privatenumber/vue-dom-hints) ![GitHub last commit](https://img.shields.io/github/last-commit/privatenumber/vue-dom-hints)](https://github.com/privatenumber/vue-dom-hints) - �� Get hints in the DOM. Minimal Vue devtool alternative.
 
 #### Inspect
 
