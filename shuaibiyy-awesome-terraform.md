@@ -102,6 +102,10 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) - Azure Automation.
 - [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) - Deploy PaaS Resources on Azure.
 
+### AWS
+
+- [AWS Lambda the Terraform Way ![GitHub Repo stars](https://img.shields.io/github/stars/nsriram/lambda-the-terraform-way) ![GitHub last commit](https://img.shields.io/github/last-commit/nsriram/lambda-the-terraform-way)](https://github.com/nsriram/lambda-the-terraform-way) - Understand AWS Lambda in-depth, beyond executing functions, using Terraform. Also includes guides for integration with S3, API Gateway, DynamoDB, Kinesis, SQS.
+
 ### Miscellaneous
 
 - [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
@@ -239,6 +243,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terrafile ![GitHub Repo stars](https://img.shields.io/github/stars/coretech/terrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/coretech/terrafile)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 - [terrafile ![GitHub Repo stars](https://img.shields.io/github/stars/dxw/terrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/dxw/terrafile)](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 - [terraform-bundle ![GitHub Repo stars](https://img.shields.io/github/stars/hashicorp/terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/terraform)](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+- [terraform-cdk ![GitHub Repo stars](https://img.shields.io/github/stars/hashicorp/terraform-cdk) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/terraform-cdk)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
 - [terraform-docs ![GitHub Repo stars](https://img.shields.io/github/stars/segmentio/terraform-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/segmentio/terraform-docs)](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
 - [terraform-graph-beautifier ![GitHub Repo stars](https://img.shields.io/github/stars/pcasteran/terraform-graph-beautifier) ![GitHub last commit](https://img.shields.io/github/last-commit/pcasteran/terraform-graph-beautifier)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 - [terraform-landscape ![GitHub Repo stars](https://img.shields.io/github/stars/coinbase/terraform-landscape) ![GitHub last commit](https://img.shields.io/github/last-commit/coinbase/terraform-landscape)](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
