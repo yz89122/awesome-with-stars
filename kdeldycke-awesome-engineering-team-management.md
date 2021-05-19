@@ -901,7 +901,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 - [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” So from this angle, the only reason to join a startup is for future money windfall.
 
-- [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes���a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
+- [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 
 - “Public RSUs for stock you can sell immediately on the open market are fantastic.” ([source](https://news.ycombinator.com/item?id=22386728)).
 
