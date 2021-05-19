@@ -10,6 +10,19 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
 
+Sponsors
+========
+
+## 🪐 Deta – The free cloud for hackers
+
+
+> [Deta](https://deta.sh/?ref=freedev) is a 100% free cloud provider from Germany 🇩🇪. Deta offers friendly & fast support on Slack & Discord as well.  
+> __Deta Micros__: Unlimited & 0-downtime Node.js and Python hosting.  
+> __Deta Base__: Unlimited production-ready NoSQL databases for your next project.  
+> __Deta Drive__: Scalable cloud file storage for all of your apps.
+
+
+
 Table of Contents
 =================
 
@@ -1155,7 +1168,7 @@ Table of Contents
    * [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
    * [livesession.io](https://livesession.io/) — 1,000 sessions/month free for 1 website
-   * [mouseflow.com](https://mouseflow.com/) — 100 sessions/month free for 1 website
+   * [mouseflow.com](https://mouseflow.com/) �� 100 sessions/month free for 1 website
    * [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
    * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1-month data history
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
