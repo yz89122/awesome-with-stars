@@ -74,8 +74,6 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Atom ![GitHub Repo stars](https://img.shields.io/github/stars/ivangabriele/atom-qsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/ivangabriele/atom-qsharp)](https://github.com/ivangabriele/atom-qsharp)
 - [Vim ![GitHub Repo stars](https://img.shields.io/github/stars/gootorov/q-sharp.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/gootorov/q-sharp.vim)](https://github.com/gootorov/q-sharp.vim)
 
-## Planets
-
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018 ![GitHub Repo stars](https://img.shields.io/github/stars/Djohnnie/QuantumComputingQSharpIntroduction2018) ![GitHub last commit](https://img.shields.io/github/last-commit/Djohnnie/QuantumComputingQSharpIntroduction2018)](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 - [A implementation of Shor's algorithm written in Python calling Q# for the quantum part ![GitHub Repo stars](https://img.shields.io/github/stars/Michaelvll/myQShor) ![GitHub last commit](https://img.shields.io/github/last-commit/Michaelvll/myQShor)](https://github.com/Michaelvll/myQShor)
@@ -92,8 +90,3 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
 - [Q# Community](https://qsharp.community)
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
