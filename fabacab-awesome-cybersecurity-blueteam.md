@@ -177,6 +177,7 @@ See also [Awesome-Fuzzing ![GitHub Repo stars](https://img.shields.io/github/sta
 
 ### Policy enforcement
 
+- [Conftest](https://conftest.dev/) - Utility to help you write tests against structured configuration data.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
 - [Tang ![GitHub Repo stars](https://img.shields.io/github/stars/latchset/tang) ![GitHub last commit](https://img.shields.io/github/last-commit/latchset/tang)](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 
