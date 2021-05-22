@@ -742,9 +742,9 @@ _APIs that handle the persistence of objects._
 - [EclipseLink](https://www.eclipse.org/eclipselink/) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
 - [Hibernate](http://hibernate.org/orm/) - Robust and widely used, with an active community. (LGPL-2.1-only)
 - [MyBatis ![GitHub Repo stars](https://img.shields.io/github/stars/mybatis/mybatis-3) ![GitHub last commit](https://img.shields.io/github/last-commit/mybatis/mybatis-3)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
+- [ObjectiveSql ![GitHub Repo stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql) ![GitHub last commit](https://img.shields.io/github/last-commit/braisdom/ObjectiveSql)](https://github.com/braisdom/ObjectiveSql) - ActiveRecord ORM for rapid development and convention over configuration.
 - [Permazen ![GitHub Repo stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 - [SimpleFlatMapper ![GitHub Repo stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper) - Simple database and CSV mapper.
-- [ObjectiveSql ![GitHub Repo stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql) ![GitHub last commit](https://img.shields.io/github/last-commit/braisdom/ObjectiveSql)](https://github.com/braisdom/ObjectiveSql) - ActiveRecord ORM for rapid development and convention over configuration.
 
 ### PaaS
 
