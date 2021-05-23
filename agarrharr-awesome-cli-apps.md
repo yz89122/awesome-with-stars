@@ -46,6 +46,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
   - [Theming and Customization](#theming-and-customization)
   - [Shell Utilities](#shell-utilities)
   - [System Interaction Utilities](#system-interaction-utilities)
+  - [Markdown](#markdown)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -56,6 +57,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
   - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
+  - [File Sync/Sharing](#file-syncsharing)
   - [Directory Listing](#directory-listing)
   - [Directory Navigation](#directory-navigation)
   - [Search](#search)
@@ -141,10 +143,10 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [legit ![GitHub Repo stars](https://img.shields.io/github/stars/captainsafia/legit) ![GitHub last commit](https://img.shields.io/github/last-commit/captainsafia/legit)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense ![GitHub Repo stars](https://img.shields.io/github/stars/cezaraugusto/mklicense) ![GitHub last commit](https://img.shields.io/github/last-commit/cezaraugusto/mklicense)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/rebound) ![GitHub last commit](https://img.shields.io/github/last-commit/shobrook/rebound)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
-- [grip ![GitHub Repo stars](https://img.shields.io/github/stars/joeyespo/grip) ![GitHub last commit](https://img.shields.io/github/last-commit/joeyespo/grip)](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 - [bitwise ![GitHub Repo stars](https://img.shields.io/github/stars/mellowcandle/bitwise) ![GitHub last commit](https://img.shields.io/github/last-commit/mellowcandle/bitwise)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 - [foy ![GitHub Repo stars](https://img.shields.io/github/stars/zaaack/foy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaaack/foy)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just ![GitHub Repo stars](https://img.shields.io/github/stars/casey/just) ![GitHub last commit](https://img.shields.io/github/last-commit/casey/just)](https://github.com/casey/just) - Modern `make`-like command runner.
+- [grex ![GitHub Repo stars](https://img.shields.io/github/stars/pemistahl/grex) ![GitHub last commit](https://img.shields.io/github/last-commit/pemistahl/grex)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
 ### Text Editors
 
@@ -200,6 +202,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [flog ![GitHub Repo stars](https://img.shields.io/github/stars/mingrammer/flog) ![GitHub last commit](https://img.shields.io/github/last-commit/mingrammer/flog)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit ![GitHub Repo stars](https://img.shields.io/github/stars/autofitcloud/isitfit) ![GitHub last commit](https://img.shields.io/github/last-commit/autofitcloud/isitfit)](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 - [k9s ![GitHub Repo stars](https://img.shields.io/github/stars/derailed/k9s) ![GitHub last commit](https://img.shields.io/github/last-commit/derailed/k9s)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
+- [PingMe ![GitHub Repo stars](https://img.shields.io/github/stars/kha7iq/pingme) ![GitHub last commit](https://img.shields.io/github/last-commit/kha7iq/pingme)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 
 ### Docker
 
@@ -306,7 +309,6 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [carbon-now-cli ![GitHub Repo stars](https://img.shields.io/github/stars/mixn/carbon-now-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mixn/carbon-now-cli)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder ![GitHub Repo stars](https://img.shields.io/github/stars/mingrammer/awesome-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/mingrammer/awesome-finder)](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
-- [mdv ![GitHub Repo stars](https://img.shields.io/github/stars/axiros/terminal_markdown_viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/axiros/terminal_markdown_viewer)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [shallow-backup ![GitHub Repo stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### macOS
@@ -373,6 +375,12 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [neofetch ![GitHub Repo stars](https://img.shields.io/github/stars/dylanaraps/neofetch) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanaraps/neofetch)](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 
+### Markdown
+
+- [DocToc ![GitHub Repo stars](https://img.shields.io/github/stars/thlorenz/doctoc) ![GitHub last commit](https://img.shields.io/github/last-commit/thlorenz/doctoc)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
+- [grip ![GitHub Repo stars](https://img.shields.io/github/stars/joeyespo/grip) ![GitHub last commit](https://img.shields.io/github/last-commit/joeyespo/grip)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
+- [mdv ![GitHub Repo stars](https://img.shields.io/github/stars/axiros/terminal_markdown_viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/axiros/terminal_markdown_viewer)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
@@ -414,7 +422,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 ### Text
 
 - [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
-- [stegcloak ![GitHub Repo stars](https://img.shields.io/github/stars/kurolabs/stegcloak) ![GitHub last commit](https://img.shields.io/github/last-commit/kurolabs/stegcloak)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
+- [stegcloak ![GitHub Repo stars](https://img.shields.io/github/stars/kurolabs/stegcloak) ![GitHub last commit](https://img.shields.io/github/last-commit/kurolabs/stegcloak)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ## Files and Directories
 
@@ -422,8 +430,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 
 - [ranger ![GitHub Repo stars](https://img.shields.io/github/stars/ranger/ranger) ![GitHub last commit](https://img.shields.io/github/last-commit/ranger/ranger)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander ![GitHub Repo stars](https://img.shields.io/github/stars/MidnightCommander/mc) ![GitHub last commit](https://img.shields.io/github/last-commit/MidnightCommander/mc)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
-- [organize-cli ![GitHub Repo stars](https://img.shields.io/github/stars/ManrajGrover/organize-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/organize-cli)](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
-- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
+- [Vifm](https://vifm.info/) - VI influnced file manager.
 - [nnn ![GitHub Repo stars](https://img.shields.io/github/stars/jarun/nnn) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/nnn)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf ![GitHub Repo stars](https://img.shields.io/github/stars/gokcehan/lf) ![GitHub last commit](https://img.shields.io/github/last-commit/gokcehan/lf)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [fff ![GitHub Repo stars](https://img.shields.io/github/stars/dylanaraps/fff) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanaraps/fff)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
@@ -434,25 +441,30 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [empty-trash-cli ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/empty-trash-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/empty-trash-cli)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [del-cli ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/del-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/del-cli)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/cpy-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/cpy-cli)](https://github.com/sindresorhus/cpy-cli) - Copies files.
-- [rename-cli ![GitHub Repo stars](https://img.shields.io/github/stars/jhotmann/node-rename-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jhotmann/node-rename-cli)](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
+- [rename-cli ![GitHub Repo stars](https://img.shields.io/github/stars/jhotmann/node-rename-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jhotmann/node-rename-cli)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils) - Mass renaming in your editor.
+- [diskonaut ![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/diskonaut) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/diskonaut)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files
 
 - [chokidar-cli ![GitHub Repo stars](https://img.shields.io/github/stars/kimmobrunfeldt/chokidar-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kimmobrunfeldt/chokidar-cli)](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/file-type-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/file-type-cli)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-- [DocToc ![GitHub Repo stars](https://img.shields.io/github/stars/thlorenz/doctoc) ![GitHub last commit](https://img.shields.io/github/last-commit/thlorenz/doctoc)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 - [bat ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
-- [unix-permissions ![GitHub Repo stars](https://img.shields.io/github/stars/ehmicky/unix-permissions) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/unix-permissions)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
-- [rclone ![GitHub Repo stars](https://img.shields.io/github/stars/ncw/rclone) ![GitHub last commit](https://img.shields.io/github/last-commit/ncw/rclone)](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
+- [unix-permissions ![GitHub Repo stars](https://img.shields.io/github/stars/ehmicky/unix-permissions) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/unix-permissions)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
-- [ffsend ![GitHub Repo stars](https://img.shields.io/github/stars/timvisee/ffsend) ![GitHub last commit](https://img.shields.io/github/last-commit/timvisee/ffsend)](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli ![GitHub Repo stars](https://img.shields.io/github/stars/feross/webtorrent-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/webtorrent-cli)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+- [entr ![GitHub Repo stars](https://img.shields.io/github/stars/eradman/entr) ![GitHub last commit](https://img.shields.io/github/last-commit/eradman/entr)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+- [organize-cli ![GitHub Repo stars](https://img.shields.io/github/stars/ManrajGrover/organize-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/organize-cli)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+
+### File Sync/Sharing
+
+- [rclone ![GitHub Repo stars](https://img.shields.io/github/stars/ncw/rclone) ![GitHub last commit](https://img.shields.io/github/last-commit/ncw/rclone)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+- [ffsend ![GitHub Repo stars](https://img.shields.io/github/stars/timvisee/ffsend) ![GitHub last commit](https://img.shields.io/github/last-commit/timvisee/ffsend)](https://github.com/timvisee/ffsend) - Quick file share.
 - [share-cli ![GitHub Repo stars](https://img.shields.io/github/stars/marionebl/share-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/marionebl/share-cli)](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload ![GitHub Repo stars](https://img.shields.io/github/stars/labbots/google-drive-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/labbots/google-drive-upload)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 - [gdrive-downloader ![GitHub Repo stars](https://img.shields.io/github/stars/Akianonymus/gdrive-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/Akianonymus/gdrive-downloader)](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
-- [entr ![GitHub Repo stars](https://img.shields.io/github/stars/eradman/entr) ![GitHub last commit](https://img.shields.io/github/last-commit/eradman/entr)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 
 ### Directory Listing
 
