@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
+	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
 ---
@@ -218,6 +218,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [clog ![GitHub Repo stars](https://img.shields.io/github/stars/clog-tool/clog-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/clog-tool/clog-cli)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 - [np ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/np) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/np)](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release ![GitHub Repo stars](https://img.shields.io/github/stars/zeit/release) ![GitHub last commit](https://img.shields.io/github/last-commit/zeit/release)](https://github.com/zeit/release) - Generate changelogs with a single command.
+- [semantic-release ![GitHub Repo stars](https://img.shields.io/github/stars/semantic-release/semantic-release) ![GitHub last commit](https://img.shields.io/github/last-commit/semantic-release/semantic-release)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ### Npm
 
@@ -308,6 +309,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [getnews.tech ![GitHub Repo stars](https://img.shields.io/github/stars/omgimanerd/getnews.tech) ![GitHub last commit](https://img.shields.io/github/last-commit/omgimanerd/getnews.tech)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [carbon-now-cli ![GitHub Repo stars](https://img.shields.io/github/stars/mixn/carbon-now-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mixn/carbon-now-cli)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [pass](https://www.passwordstore.org) - Password manager.
+- [gopass ![GitHub Repo stars](https://img.shields.io/github/stars/gopasspw/gopass) ![GitHub last commit](https://img.shields.io/github/last-commit/gopasspw/gopass)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [awesome-finder ![GitHub Repo stars](https://img.shields.io/github/stars/mingrammer/awesome-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/mingrammer/awesome-finder)](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup ![GitHub Repo stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
