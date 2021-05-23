@@ -292,6 +292,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [gcalcli ![GitHub Repo stars](https://img.shields.io/github/stars/insanum/gcalcli) ![GitHub last commit](https://img.shields.io/github/last-commit/insanum/gcalcli)](https://github.com/insanum/gcalcli) - Google calendar client.
 - [khal ![GitHub Repo stars](https://img.shields.io/github/stars/pimutils/khal) ![GitHub last commit](https://img.shields.io/github/last-commit/pimutils/khal)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 - [vdirsyncer ![GitHub Repo stars](https://img.shields.io/github/stars/pimutils/vdirsyncer) ![GitHub last commit](https://img.shields.io/github/last-commit/pimutils/vdirsyncer)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+- [remind](https://dianne.skoll.ca/projects/remind) - A sophisticated calendar and alarm program.
 
 ## Utilities
 
