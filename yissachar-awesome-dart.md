@@ -46,8 +46,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Server Frameworks
 
 * [Jaguar ![GitHub Repo stars](https://img.shields.io/github/stars/Jaguar-dart/jaguar) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaguar-dart/jaguar)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
-* [Angel ![GitHub Repo stars](https://img.shields.io/github/stars/angel-dart/angel) ![GitHub last commit](https://img.shields.io/github/last-commit/angel-dart/angel)](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve.
-* [Aqueduct ![GitHub Repo stars](https://img.shields.io/github/stars/stablekernel/aqueduct) ![GitHub last commit](https://img.shields.io/github/last-commit/stablekernel/aqueduct)](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
 * [Start ![GitHub Repo stars](https://img.shields.io/github/stars/lvivski/start) ![GitHub last commit](https://img.shields.io/github/last-commit/lvivski/start)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_).
