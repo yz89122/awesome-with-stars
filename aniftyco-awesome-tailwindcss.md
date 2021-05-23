@@ -217,10 +217,11 @@
 - 🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
 - 🌍 [Tailwind Cheat Sheet ![GitHub Repo stars](https://img.shields.io/github/stars/LeCoupa/awesome-cheatsheets) ![GitHub last commit](https://img.shields.io/github/last-commit/LeCoupa/awesome-cheatsheets)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
+- 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
 
 ## UI Libraries, Components & Templates
 
-**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
+**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · ���� Templates
 
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI ![GitHub Repo stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
@@ -321,7 +322,7 @@
 - 🧪 [Acquia ![GitHub Repo stars](https://img.shields.io/github/stars/opdavies/rebuilding-acquia) ![GitHub last commit](https://img.shields.io/github/last-commit/opdavies/rebuilding-acquia)](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 - 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
 - 🧪 [Toggle switch ![GitHub Repo stars](https://img.shields.io/github/stars/TowelSoftware/tailwindcss-toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/TowelSoftware/tailwindcss-toggle)](https://github.com/TowelSoftware/tailwindcss-toggle) - Switch using Tailwind CSS.
-- ���� [“Open” landing page ![GitHub Repo stars](https://img.shields.io/github/stars/michelegera/tailwindcss-open-template) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/tailwindcss-open-template)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
+- 🧪 [“Open” landing page ![GitHub Repo stars](https://img.shields.io/github/stars/michelegera/tailwindcss-open-template) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/tailwindcss-open-template)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
 - 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
 - 🔧 [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - How to setup Tailwind CSS with PostCSS and Webpack.
 - 🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
