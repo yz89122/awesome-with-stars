@@ -870,6 +870,8 @@
 - [Yacht ![GitHub Repo stars](https://img.shields.io/github/stars/Selfhostedpro/Yacht) ![GitHub last commit](https://img.shields.io/github/last-commit/Selfhostedpro/Yacht)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 - [Antares SQL ![GitHub Repo stars](https://img.shields.io/github/stars/Fabio286/antares) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabio286/antares)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 - [Bagisto ![GitHub Repo stars](https://img.shields.io/github/stars/bagisto/bagisto) ![GitHub last commit](https://img.shields.io/github/last-commit/bagisto/bagisto)](https://github.com/bagisto/bagisto) -  A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+- [Samaya ![GitHub Repo stars](https://img.shields.io/github/stars/bibhuticoder/samaya) ![GitHub last commit](https://img.shields.io/github/last-commit/bibhuticoder/samaya)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+- [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 
 ### Commercial Products
 
@@ -891,7 +893,7 @@
 - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
 - [ScaleChamp](https://www.scalechamp.com) - multi-cloud managed databases provider with Hetzner, AWS, Linode, IBM, Azure, Scaleway, Alibaba Cloud, DigitalOcean, GCP and UpCloud support
 - [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare and many more.
-- [NxShell ![GitHub Repo stars](https://img.shields.io/github/stars/nxshell/nxshell) ![GitHub last commit](https://img.shields.io/github/last-commit/nxshell/nxshell)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS. 
+- [NxShell ![GitHub Repo stars](https://img.shields.io/github/stars/nxshell/nxshell) ![GitHub last commit](https://img.shields.io/github/last-commit/nxshell/nxshell)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 
 ### Apps/Websites
 
@@ -1261,6 +1263,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [vue-toaster ![GitHub Repo stars](https://img.shields.io/github/stars/MeForma/vue-toaster) ![GitHub last commit](https://img.shields.io/github/last-commit/MeForma/vue-toaster)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 - [vue-notification-ui ![GitHub Repo stars](https://img.shields.io/github/stars/HELMAB/vue-notification-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/HELMAB/vue-notification-ui)](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
 - [vue-my-toasts ![GitHub Repo stars](https://img.shields.io/github/stars/Tahul/vue-my-toasts) ![GitHub last commit](https://img.shields.io/github/last-commit/Tahul/vue-my-toasts)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+- [@kyvg/vue3-notification ![GitHub Repo stars](https://img.shields.io/github/stars/kyvg/vue3-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/kyvg/vue3-notification)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 
 #### Loader
 
@@ -2257,6 +2260,7 @@ _Layout for the overall / main view_
 - [vue-responsive-dash ![GitHub Repo stars](https://img.shields.io/github/stars/bensladden/vue-responsive-dash) ![GitHub last commit](https://img.shields.io/github/last-commit/bensladden/vue-responsive-dash)](https://github.com/bensladden/vue-responsive-dash) - A Responsive, Draggable & Resizable Dashboard (grid) made with vue and typescript.
 - [vue-masonry-wall ![GitHub Repo stars](https://img.shields.io/github/stars/fuxingloh/vue-masonry-wall) ![GitHub last commit](https://img.shields.io/github/last-commit/fuxingloh/vue-masonry-wall)](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.
 - [vue-horizontal-list ![GitHub Repo stars](https://img.shields.io/github/stars/fuxingloh/vue-horizontal-list) ![GitHub last commit](https://img.shields.io/github/last-commit/fuxingloh/vue-horizontal-list)](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
+- [vue-layout-system ![GitHub Repo stars](https://img.shields.io/github/stars/leeboyin/vue-layout-system) ![GitHub last commit](https://img.shields.io/github/last-commit/leeboyin/vue-layout-system)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ### Frameworks
 
@@ -2536,6 +2540,7 @@ _Detect when components enter viewport_
 - [vue2-scrollspy ![GitHub Repo stars](https://img.shields.io/github/stars/ibufu/vue2-scrollspy) ![GitHub last commit](https://img.shields.io/github/last-commit/ibufu/vue2-scrollspy)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 - [vue-trip-wire ![GitHub Repo stars](https://img.shields.io/github/stars/lorrenrules/vue-trip-wire) ![GitHub last commit](https://img.shields.io/github/last-commit/lorrenrules/vue-trip-wire)](https://github.com/lorrenrules/vue-trip-wire) - A custom directive for firing functions when an element reaches a designated point in the viewport, with option to import module with globally accessible functions.
 - [v-intersect ![GitHub Repo stars](https://img.shields.io/github/stars/kholid060/v-intersect) ![GitHub last commit](https://img.shields.io/github/last-commit/kholid060/v-intersect)](https://github.com/kholid060/v-intersect) - A Vue directive and component that detect element when it's visible or hidden on viewport
+- [vue-scrollama ![GitHub Repo stars](https://img.shields.io/github/stars/vgshenoy/vue-scrollama) ![GitHub last commit](https://img.shields.io/github/last-commit/vgshenoy/vue-scrollama)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 _Customize the scroll behavior_
 
@@ -2868,7 +2873,7 @@ _LocalStorage etc._
 - [VueFort ![GitHub Repo stars](https://img.shields.io/github/stars/SeregPie/VueFort) ![GitHub last commit](https://img.shields.io/github/last-commit/SeregPie/VueFort)](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3.
 - [@korijn/vue-store ![GitHub Repo stars](https://img.shields.io/github/stars/Korijn/vue-store) ![GitHub last commit](https://img.shields.io/github/last-commit/Korijn/vue-store)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
 - [vuex-light ![GitHub Repo stars](https://img.shields.io/github/stars/js-cosmos/vuex-light) ![GitHub last commit](https://img.shields.io/github/last-commit/js-cosmos/vuex-light)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
-- [vue-object-state ![GitHub Repo stars](https://img.shields.io/github/stars/crashkonijn/vue-object-state) ![GitHub last commit](https://img.shields.io/github/last-commit/crashkonijn/vue-object-state)](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking 
+- [vue-object-state ![GitHub Repo stars](https://img.shields.io/github/stars/crashkonijn/vue-object-state) ![GitHub last commit](https://img.shields.io/github/last-commit/crashkonijn/vue-object-state)](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 - [vue-datatable-url-sync ![GitHub Repo stars](https://img.shields.io/github/stars/socotecio/vue-datatable-url-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/socotecio/vue-datatable-url-sync)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 
 ##### Redux
@@ -3006,7 +3011,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/samturrell/vue-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/samturrell/vue-breadcrumbs)](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
 - [vue-2-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/Scrum/vue-2-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/Scrum/vue-2-breadcrumbs)](https://github.com/Scrum/vue-2-breadcrumbs) - breadcrumb together with vue-router for Vue 2.x. and Bootstrap 4
 - [vs-crumbs ![GitHub Repo stars](https://img.shields.io/github/stars/NxtChg/pieces) ![GitHub last commit](https://img.shields.io/github/last-commit/NxtChg/pieces)](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs) - Vue breadcrumbs in 40 lines of code that allows nested paths without child views.
-- [vue-nav ![GitHub Repo stars](https://img.shields.io/github/stars/nearspears/vue-nav) ![GitHub last commit](https://img.shields.io/github/last-commit/nearspears/vue-nav)](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航管理器，支持手机原生应用的所有导航功能。
+- [vue-nav ![GitHub Repo stars](https://img.shields.io/github/stars/nearspears/vue-nav) ![GitHub last commit](https://img.shields.io/github/last-commit/nearspears/vue-nav)](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航���理器，支持手机原生应用的所有导航功能。
 - [vue-2-crumbs ![GitHub Repo stars](https://img.shields.io/github/stars/Suruat/vue-2-crumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/Suruat/vue-2-crumbs)](https://github.com/Suruat/vue-2-crumbs) - Breadcrumbs plugin for Vue.js 2 framework that allows to select parent route in route meta object with no need of sub-routing. Also allows using dynamic data.
 - [vue-pesdk ![GitHub Repo stars](https://img.shields.io/github/stars/imgly/pesdk-wrapper-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/imgly/pesdk-wrapper-vuejs)](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/vue-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/vue-resolve)](https://github.com/javisperez/vue-resolve)
