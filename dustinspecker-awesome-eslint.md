@@ -294,6 +294,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [esprint ![GitHub Repo stars](https://img.shields.io/github/stars/pinterest/esprint) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/esprint)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
 - [generator-eslint ![GitHub Repo stars](https://img.shields.io/github/stars/eslint/generator-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint/generator-eslint)](https://github.com/eslint/generator-eslint) - Generate ESLint
   plugin and rules with [Yeoman](http://yeoman.io/).
+- [editor-info ![GitHub Repo stars](https://img.shields.io/github/stars/fisker/editor-info) ![GitHub last commit](https://img.shields.io/github/last-commit/fisker/editor-info)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 
 ## Developing for ESLint
 
