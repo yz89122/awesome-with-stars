@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1055 | April 18, 2021
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1054 | May 24, 2021
 
 ### Contents
 
@@ -167,7 +167,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - Official Swift API design guidelines.
-* [Apple eBook](https://books.apple.com/us/book/the-swift-programming-language-swift-5-3/id881256329) - Official Apple eBook for Swift beginners.
+* [Apple eBook](https://books.apple.com/us/book/the-swift-programming-language-swift-5-4/id881256329) - Official Apple eBook for Swift beginners.
 * [Getting Started](https://swift.org/getting-started/) - Find information about the how to use the Swift programming language.
 
 ### Style Guides
@@ -199,7 +199,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ## Boilerplates
 
 * [iOS project template ![GitHub Repo stars](https://img.shields.io/github/stars/messeb/ios-project-template) ![GitHub last commit](https://img.shields.io/github/last-commit/messeb/ios-project-template)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
-* [Swift 3 VIPER Module Template ![GitHub Repo stars](https://img.shields.io/github/stars/Juanpe/Swift-VIPER-Module) ![GitHub last commit](https://img.shields.io/github/last-commit/Juanpe/Swift-VIPER-Module)](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture.
 * [Swift Module Template ![GitHub Repo stars](https://img.shields.io/github/stars/fulldecent/swift5-module-template) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/swift5-module-template)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ## REPL
