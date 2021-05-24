@@ -210,6 +210,7 @@
 - 💼🔧 [Tailwind Config Viewer ![GitHub Repo stars](https://img.shields.io/github/stars/rogden/tailwind-config-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/rogden/tailwind-config-viewer)](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 - 💼🔧 [Laravel Form Components ![GitHub Repo stars](https://img.shields.io/github/stars/pascalbaljetmedia/laravel-form-components) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalbaljetmedia/laravel-form-components)](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 - 💼 [@ngneat/tailwind ![GitHub Repo stars](https://img.shields.io/github/stars/ngneat/tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/tailwind)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+- 💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 - 🔧 [re-tailwind ![GitHub Repo stars](https://img.shields.io/github/stars/phthhieu/re-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/phthhieu/re-tailwind)](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🔧 [create-tailwind-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/Landish/create-tailwind-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Landish/create-tailwind-plugin)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
@@ -221,7 +222,7 @@
 
 ## UI Libraries, Components & Templates
 
-**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · ���� Templates
+**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI ![GitHub Repo stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
@@ -357,7 +358,7 @@
 - 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
 - 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
-- 🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
+- ���� [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
