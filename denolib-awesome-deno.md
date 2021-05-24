@@ -137,6 +137,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [lazy ![GitHub Repo stars](https://img.shields.io/github/stars/luvies/lazy) ![GitHub last commit](https://img.shields.io/github/last-commit/luvies/lazy)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log ![GitHub Repo stars](https://img.shields.io/github/stars/denoland/deno_std) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno_std)](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked ![GitHub Repo stars](https://img.shields.io/github/stars/denolib/marked) ![GitHub last commit](https://img.shields.io/github/last-commit/denolib/marked)](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
+- [maxminddb ![GitHub Repo stars](https://img.shields.io/github/stars/josh-hemphill/maxminddb-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/josh-hemphill/maxminddb-deno)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 - [maze_generator ![GitHub Repo stars](https://img.shields.io/github/stars/mjrlowe/maze_generator) ![GitHub last commit](https://img.shields.io/github/last-commit/mjrlowe/maze_generator)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 - [merlin ![GitHub Repo stars](https://img.shields.io/github/stars/crewdevio/merlin) ![GitHub last commit](https://img.shields.io/github/last-commit/crewdevio/merlin)](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
 - [microraptor ![GitHub Repo stars](https://img.shields.io/github/stars/matteocrippa/microraptor) ![GitHub last commit](https://img.shields.io/github/last-commit/matteocrippa/microraptor)](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
@@ -170,6 +171,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [terminal_images ![GitHub Repo stars](https://img.shields.io/github/stars/mjrlowe/terminal_images) ![GitHub last commit](https://img.shields.io/github/last-commit/mjrlowe/terminal_images)](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal. 
 - [textproto ![GitHub Repo stars](https://img.shields.io/github/stars/denoland/deno_std) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno_std)](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts ![GitHub Repo stars](https://img.shields.io/github/stars/burhanahmeed/time.ts) ![GitHub last commit](https://img.shields.io/github/last-commit/burhanahmeed/time.ts)](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
+- [tincan ![GitHub Repo stars](https://img.shields.io/github/stars/gcaptn/tincan) ![GitHub last commit](https://img.shields.io/github/last-commit/gcaptn/tincan)](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
 - [ts-prometheus ![GitHub Repo stars](https://img.shields.io/github/stars/marcopacini/ts-prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/marcopacini/ts-prometheus)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 - [type-fest ![GitHub Repo stars](https://img.shields.io/github/stars/denoserverless/type-fest) ![GitHub last commit](https://img.shields.io/github/last-commit/denoserverless/type-fest)](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unexpected ![GitHub Repo stars](https://img.shields.io/github/stars/unexpectedjs/unexpected) ![GitHub last commit](https://img.shields.io/github/last-commit/unexpectedjs/unexpected)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
@@ -264,7 +266,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
-
+- [Runtime permissions in Deno](https://findthedifficult.com/runtime-permissions-in-deno/)
+- [Using Webstorage in Deno](https://findthedifficult.com/deno-1-10-released-support-for-webstorage/)
 ## Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
