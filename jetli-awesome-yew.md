@@ -96,6 +96,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-feather ![GitHub Repo stars](https://img.shields.io/github/stars/pedrodesu/yew-feather) ![GitHub last commit](https://img.shields.io/github/last-commit/pedrodesu/yew-feather)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 - [tailwind-yew-builder ![GitHub Repo stars](https://img.shields.io/github/stars/matiu2/tailwind-yew-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/matiu2/tailwind-yew-builder)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 - [yew-components ![GitHub Repo stars](https://img.shields.io/github/stars/angular-rust/yew-components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-rust/yew-components)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+- [material-yew ![GitHub Repo stars](https://img.shields.io/github/stars/hamza1311/material-yew) ![GitHub last commit](https://img.shields.io/github/last-commit/hamza1311/material-yew)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ### Components
 
