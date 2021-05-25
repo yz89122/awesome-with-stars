@@ -59,9 +59,10 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.
 * [Orca](https://hundredrabbits.itch.io/orca) - Livecoding environment to quickly create procedural audio sequencers.
+* [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
+* [RASEL ![GitHub Repo stars](https://img.shields.io/github/stars/Nakilon/rasel) ![GitHub last commit](https://img.shields.io/github/last-commit/Nakilon/rasel)](https://github.com/Nakilon/rasel) - Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.
 * [reMorse](http://esolangs.org/wiki/reMorse) - Morse-styled language.
 * [Rockstar ![GitHub Repo stars](https://img.shields.io/github/stars/dylanbeattie/rockstar) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanbeattie/rockstar)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
-* [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
 * [Spooky](https://spookylang.com) - The scariest programming language  :jack_o_lantern: :skull:.
 * [Suzy ![GitHub Repo stars](https://img.shields.io/github/stars/gvx/suzy) ![GitHub last commit](https://img.shields.io/github/last-commit/gvx/suzy)](https://github.com/gvx/suzy) - 3D language inspired in Befunge.

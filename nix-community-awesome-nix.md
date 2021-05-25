@@ -117,6 +117,7 @@
 * [stack2nix ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/stack2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/input-output-hk/stack2nix)](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
 * [nix-haskell-mode ![GitHub Repo stars](https://img.shields.io/github/stars/matthewbauer/nix-haskell-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewbauer/nix-haskell-mode)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [haskell.nix ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/haskell.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/input-output-hk/haskell.nix)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+* [nixkell ![GitHub Repo stars](https://img.shields.io/github/stars/pwm/nixkell) ![GitHub last commit](https://img.shields.io/github/last-commit/pwm/nixkell)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Node.js
 
