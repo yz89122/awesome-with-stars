@@ -1590,7 +1590,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-  ✔ | ���| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
+  ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
 ### Oakland, CA <a id="oakland-ca"></a>
 
