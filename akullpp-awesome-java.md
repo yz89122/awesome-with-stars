@@ -72,6 +72,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Version Managers](#version-managers)
   - [Web Crawling](#web-crawling)
   - [Web Frameworks](#web-frameworks)
+  - [Workflow Orchestration Engines](#workflow-orchestration-engines)
 - [Resources](#resources)
   - [Awesome Lists](#awesome-lists)
   - [Communities](#communities)
@@ -180,6 +181,7 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 
 - [ADT4J ![GitHub Repo stars](https://img.shields.io/github/stars/sviperll/adt4j) ![GitHub last commit](https://img.shields.io/github/last-commit/sviperll/adt4j)](https://github.com/sviperll/adt4j) - JSR-269 code generator for algebraic data types.
 - [Auto ![GitHub Repo stars](https://img.shields.io/github/stars/google/auto) ![GitHub last commit](https://img.shields.io/github/last-commit/google/auto)](https://github.com/google/auto) - Generates factory, service, and value classes.
+- [Bootify ![c]](https://bootify.io) - Browser-based Spring Boot app generation with JPA model and REST API.
 - [FreeBuilder ![GitHub Repo stars](https://img.shields.io/github/stars/inferred/FreeBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/inferred/FreeBuilder)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 - [Immutables](https://immutables.github.io) - Annotation processors to generate simple, safe and consistent value objects.
 - [JavaPoet ![GitHub Repo stars](https://img.shields.io/github/stars/square/javapoet) ![GitHub last commit](https://img.shields.io/github/last-commit/square/javapoet)](https://github.com/square/javapoet) - API to generate source files.
@@ -287,7 +289,6 @@ _Everything that simplifies interactions with the database._
 - [Redisson ![GitHub Repo stars](https://img.shields.io/github/stars/redisson/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/redisson/redisson)](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 - [requery ![GitHub Repo stars](https://img.shields.io/github/stars/requery/requery) ![GitHub last commit](https://img.shields.io/github/last-commit/requery/requery)](https://github.com/requery/requery) - Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 - [Speedment ![GitHub Repo stars](https://img.shields.io/github/stars/speedment/speedment) ![GitHub last commit](https://img.shields.io/github/last-commit/speedment/speedment)](https://github.com/speedment/speedment) - Database access library that utilizes Java 8's Stream API for querying.
-- [sql2o](https://www.sql2o.org) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 - [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
 - [Xodus ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/xodus) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/xodus)](https://github.com/JetBrains/xodus) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
 
@@ -718,6 +719,7 @@ _Libraries that specialize in processing text._
 
 _Libraries for building network servers._
 
+- [Commons-networking ![GitHub Repo stars](https://img.shields.io/github/stars/CiscoSE/commons-networking) ![GitHub last commit](https://img.shields.io/github/last-commit/CiscoSE/commons-networking)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
 - [Comsat ![GitHub Repo stars](https://img.shields.io/github/stars/puniverse/comsat) ![GitHub last commit](https://img.shields.io/github/last-commit/puniverse/comsat)](https://github.com/puniverse/comsat) - Integrates standard Java web-related APIs with Quasar fibers and actors.
 - [Dubbo ![GitHub Repo stars](https://img.shields.io/github/stars/apache/dubbo) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/dubbo)](https://github.com/apache/dubbo) - High-performance RPC framework.
 - [Grizzly](https://javaee.github.io/grizzly/) - NIO framework. Used as a network layer in Glassfish.
@@ -971,6 +973,7 @@ _Tools that substitute expressions in a template._
 - [Jtwig ![GitHub Repo stars](https://img.shields.io/github/stars/jtwig/jtwig) ![GitHub last commit](https://img.shields.io/github/last-commit/jtwig/jtwig)](https://github.com/jtwig/jtwig) - Modular, configurable and fully tested template engine.
 - [Pebble](https://pebbletemplates.io) - Inspired by Twig and separates itself with its inheritance feature and its easy-to-read syntax. It ships with built-in autoescaping for security and it includes integrated support for internationalization.
 - [Rocker ![GitHub Repo stars](https://img.shields.io/github/stars/fizzed/rocker) ![GitHub last commit](https://img.shields.io/github/last-commit/fizzed/rocker)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+- [StringTemplate ![GitHub Repo stars](https://img.shields.io/github/stars/antlr/stringtemplate4) ![GitHub last commit](https://img.shields.io/github/last-commit/antlr/stringtemplate4)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
 - [Thymeleaf](https://www.thymeleaf.org) - Aims to be a substitute for JSP and works for XML files.
 
 ### Testing
@@ -1112,6 +1115,11 @@ _Frameworks that handle the communication between the layers of a web applicatio
 - [Ratpack](https://ratpack.io) - Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
 - [Takes ![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/takes) ![GitHub last commit](https://img.shields.io/github/last-commit/yegor256/takes)](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 - [Vaadin](https://vaadin.com) - Event-driven framework that uses standard web components. Server-side architecture with Ajax on the client side.
+
+### Workflow Orchestration Engines
+
+- [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
+- [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
 ## Resources
 
