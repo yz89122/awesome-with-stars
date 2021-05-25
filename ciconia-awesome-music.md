@@ -124,6 +124,7 @@ Thanks to all [contributors ![GitHub Repo stars](https://img.shields.io/github/s
 * [Overtone ![GitHub Repo stars](https://img.shields.io/github/stars/overtone/overtone) ![GitHub last commit](https://img.shields.io/github/last-commit/overtone/overtone)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
+* [py-modular](http://py-modular.readthedocs.io/) - a modular and experimental programming environment with basic DSP routines in python.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
