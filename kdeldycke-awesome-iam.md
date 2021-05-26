@@ -116,8 +116,6 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Kratos ![GitHub Repo stars](https://img.shields.io/github/stars/ory/kratos) ![GitHub last commit](https://img.shields.io/github/last-commit/ory/kratos)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
 
-- [Zitadel ![GitHub Repo stars](https://img.shields.io/github/stars/caos/zitadel) ![GitHub last commit](https://img.shields.io/github/last-commit/caos/zitadel)](https://github.com/caos/zitadel) - An open-source solution in Go to manage all your systems, users and service accounts together with their roles, permissions, login flows and metadata.
-
 - [Conjur ![GitHub Repo stars](https://img.shields.io/github/stars/cyberark/conjur) ![GitHub last commit](https://img.shields.io/github/last-commit/cyberark/conjur)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
 ## Cryptography
@@ -317,6 +315,8 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 - [IdentityServer ![GitHub Repo stars](https://img.shields.io/github/stars/IdentityServer/IdentityServer4) ![GitHub last commit](https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4)](https://github.com/IdentityServer/IdentityServer4) - Free, open source OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
 
 - [authentik](https://goauthentik.io/?#correctness) - Open-source Identity Provider similar to Keycloak.
+
+- [ZITADEL ![GitHub Repo stars](https://img.shields.io/github/stars/caos/zitadel) ![GitHub last commit](https://img.shields.io/github/last-commit/caos/zitadel)](https://github.com/caos/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
 ### SAML
 
