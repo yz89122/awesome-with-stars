@@ -67,7 +67,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 #### Self-hosted
 
-- [Convos](https://convos.by) - Always online web IRC client. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/Nordaaker/convos) ![GitHub last commit](https://img.shields.io/github/last-commit/Nordaaker/convos)](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)) `Perl` `JavaScript` `Web`
+- [Convos](https://convos.chat) - Always online web IRC client. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/convos-chat/convos) ![GitHub last commit](https://img.shields.io/github/last-commit/convos-chat/convos)](https://github.com/convos-chat/convos), [demo](https://demo.convos.chat)) `Perl` `JavaScript` `Web`
 - [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/znc/znc) ![GitHub last commit](https://img.shields.io/github/last-commit/znc/znc)](https://github.com/znc/znc)) `C++`
 - [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/thelounge/thelounge) ![GitHub last commit](https://img.shields.io/github/last-commit/thelounge/thelounge)](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
