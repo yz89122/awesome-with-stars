@@ -114,10 +114,10 @@
 ### Haskell
 
 * [cabal2nix ![GitHub Repo stars](https://img.shields.io/github/stars/NixOS/cabal2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/cabal2nix)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-* [stack2nix ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/stack2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/input-output-hk/stack2nix)](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
-* [nix-haskell-mode ![GitHub Repo stars](https://img.shields.io/github/stars/matthewbauer/nix-haskell-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewbauer/nix-haskell-mode)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [haskell.nix ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/haskell.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/input-output-hk/haskell.nix)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+* [nix-haskell-mode ![GitHub Repo stars](https://img.shields.io/github/stars/matthewbauer/nix-haskell-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewbauer/nix-haskell-mode)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [nixkell ![GitHub Repo stars](https://img.shields.io/github/stars/pwm/nixkell) ![GitHub last commit](https://img.shields.io/github/last-commit/pwm/nixkell)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+* [stack2nix ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/stack2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/input-output-hk/stack2nix)](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
 
 ### Node.js
 
@@ -163,8 +163,8 @@
 
 ## Community
 
-* [#nix:matrix.org (Unofficial)](https://matrix.to/#/#nix:matrix.org)
-* [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
+* [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
+* [#nixos on Libera.Chat](ircs://irc.libera.chat:6697/nixos/nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
