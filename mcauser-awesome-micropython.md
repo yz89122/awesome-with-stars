@@ -298,7 +298,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-tm1638 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-tm1638) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-tm1638)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 * [micropython-tm1640 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-tm1640) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-tm1640)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.
-
+* [TM74HC595 ![GitHub Repo stars](https://img.shields.io/github/stars/Sakartu/TM74HC595) ![GitHub last commit](https://img.shields.io/github/last-commit/Sakartu/TM74HC595)](https://github.com/Sakartu/TM74HC595) - Driver for shift register controlled 5 pin display modules.
 #### LEDs
 
 * [micropython-morsecode ![GitHub Repo stars](https://img.shields.io/github/stars/mampersat/micropython-morsecode) ![GitHub last commit](https://img.shields.io/github/last-commit/mampersat/micropython-morsecode)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with morse coded message.
