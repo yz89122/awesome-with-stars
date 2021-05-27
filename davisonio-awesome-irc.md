@@ -190,6 +190,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Items that belong on the list but defy classification.*
 
+- [superseriousstats ![GitHub Repo stars](https://img.shields.io/github/stars/tommyrot/superseriousstats) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyrot/superseriousstats)](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
+
 ## Use
 
 The best ways to use this list are:
