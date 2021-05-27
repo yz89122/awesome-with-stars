@@ -180,6 +180,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - Testing in Cloud
   - Kubernetes
     - [jmeter-kubernetes ![GitHub Repo stars](https://img.shields.io/github/stars/kubernauts/jmeter-kubernetes) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernauts/jmeter-kubernetes)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
+    - [jmeter-k8s-starterkit ![GitHub Repo stars](https://img.shields.io/github/stars/Rbillon59/jmeter-k8s-starterkit) ![GitHub last commit](https://img.shields.io/github/last-commit/Rbillon59/jmeter-k8s-starterkit)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starterkit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
     - [kangal ![GitHub Repo stars](https://img.shields.io/github/stars/hellofresh/kangal) ![GitHub last commit](https://img.shields.io/github/last-commit/hellofresh/kangal)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
   - Amazon Web Services
     - [jmeter-ec2 ![GitHub Repo stars](https://img.shields.io/github/stars/oliverlloyd/jmeter-ec2) ![GitHub last commit](https://img.shields.io/github/last-commit/oliverlloyd/jmeter-ec2)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
