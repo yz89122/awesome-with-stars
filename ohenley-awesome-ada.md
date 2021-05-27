@@ -265,6 +265,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Continuous Integration
 - [continuous-verification ![GitHub Repo stars](https://img.shields.io/github/stars/jklmnn/continuous-verification) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/continuous-verification)](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
+- [ada-actions ![GitHub Repo stars](https://img.shields.io/github/stars/ada-actions/toolchain) ![GitHub last commit](https://img.shields.io/github/last-commit/ada-actions/toolchain)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
 
 ## Runtimes
 - [bb-runtimes ![GitHub Repo stars](https://img.shields.io/github/stars/AdaCore/bb-runtimes) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/bb-runtimes)](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
