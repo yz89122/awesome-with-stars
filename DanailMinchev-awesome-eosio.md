@@ -155,6 +155,8 @@ All about development on EOSIO platform.
 - [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
   - [eosnewyork/eos-transit ![GitHub Repo stars](https://img.shields.io/github/stars/eosnewyork/eos-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/eosnewyork/eos-transit)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
+- [greymass/eosio ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-core) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-core)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
+- [greymass/swift-eosio ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/swift-eosio) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/swift-eosio)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
 
 #### Authentication and Signing libraries
 
@@ -166,6 +168,11 @@ All about development on EOSIO platform.
   - [EOSIO Labs™ Release: iOS and Chrome Extension Authenticator Reference Applications](https://eos.io/news/eosio-labs-release-ios-and-chrome-extension-authenticator-reference-applications/) - Article.
 - [EOSIO/eosio-reference-ios-authenticator-app ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio-reference-ios-authenticator-app) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio-reference-ios-authenticator-app)](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
 - [EOSIO/ual-scatter ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/ual-scatter) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/ual-scatter)](https://github.com/EOSIO/ual-scatter) - Authenticator meant to be used with Scatter and Universal Authenticator Library.
+- [greymass/ual-anchor ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/ual-anchor) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/ual-anchor)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
+- [greymass/anchor-link ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/anchor-link) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/anchor-link)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
+- [greymass/eosio-signing-request ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-signing-request) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-signing-request)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
+- [greymass/eosio-signing-request-java ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-signing-request-java) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-signing-request-java)](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
+
 
 #### Frameworks
 
@@ -187,6 +194,8 @@ All about development on EOSIO platform.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSEssentials/EOSDrops ![GitHub Repo stars](https://img.shields.io/github/stars/EOSEssentials/EOSDrops) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSEssentials/EOSDrops)](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 - [Octopus ![GitHub Repo stars](https://img.shields.io/github/stars/pventuzelo/octopus) ![GitHub last commit](https://img.shields.io/github/last-commit/pventuzelo/octopus)](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
+- [greymass/eosio-resources ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-resources)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
+- [greymass/abi2core ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/abi2core) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/abi2core)](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
 
 ### Testnets
 
@@ -206,6 +215,10 @@ All about development on EOSIO platform.
 - [ping-eos ![GitHub Repo stars](https://img.shields.io/github/stars/eosasia/ping-eos) ![GitHub last commit](https://img.shields.io/github/last-commit/eosasia/ping-eos)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
 - [ipfs-eos-demo ![GitHub Repo stars](https://img.shields.io/github/stars/wpuricz/ipfs-eos-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/wpuricz/ipfs-eos-demo)](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 - [eosnewyork/erp ![GitHub Repo stars](https://img.shields.io/github/stars/eosnewyork/erp) ![GitHub last commit](https://img.shields.io/github/last-commit/eosnewyork/erp)](https://github.com/eosnewyork/erp) - EOS Resource Planner.
+- [greymass/anchor-link-demo ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/anchor-link-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/anchor-link-demo)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
+- [greymass/anchor-link-demo-multipass ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/anchor-link-demo-multipass) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/anchor-link-demo-multipass)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
+- [greymass/ual-anchor-demo ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/ual-anchor-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/ual-anchor-demo)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
+- [greymass/eosio-signing-request-demo ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-signing-request-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-signing-request-demo)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
 
 ### Block Producer tools
 
