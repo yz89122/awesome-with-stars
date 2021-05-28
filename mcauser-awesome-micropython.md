@@ -299,6 +299,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-tm1640 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-tm1640) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-tm1640)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.
 * [TM74HC595 ![GitHub Repo stars](https://img.shields.io/github/stars/Sakartu/TM74HC595) ![GitHub last commit](https://img.shields.io/github/last-commit/Sakartu/TM74HC595)](https://github.com/Sakartu/TM74HC595) - Driver for shift register controlled 5 pin display modules.
+
 #### LEDs
 
 * [micropython-morsecode ![GitHub Repo stars](https://img.shields.io/github/stars/mampersat/micropython-morsecode) ![GitHub last commit](https://img.shields.io/github/last-commit/mampersat/micropython-morsecode)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with morse coded message.
@@ -337,6 +338,7 @@ Other places you can look for MicroPython Libraries:
 #### DAC
 
 * [micropython-mcp4725 ![GitHub Repo stars](https://img.shields.io/github/stars/wayoda/micropython-mcp4725) ![GitHub last commit](https://img.shields.io/github/last-commit/wayoda/micropython-mcp4725)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+* [mcp4728 ![GitHub Repo stars](https://img.shields.io/github/stars/openfablab/mcp4728) ![GitHub last commit](https://img.shields.io/github/last-commit/openfablab/mcp4728)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
 
 #### GPIO
 
@@ -352,6 +354,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-pcf8574 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-pcf8574) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-pcf8574)](https://github.com/mcauser/micropython-pcf8574) - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.
 * [micropython-pcf8575 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-pcf8575) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-pcf8575)](https://github.com/mcauser/micropython-pcf8575) - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.
 * [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 8-Bit I2C I/O Expander.
+* [micropython-74hc595 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-74hc595) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-74hc595)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
 
 #### Joystick
 
@@ -365,6 +368,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-rotary ![GitHub Repo stars](https://img.shields.io/github/stars/miketeachman/micropython-rotary) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-rotary)](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 * [uencoder](https://gitlab.com/WiLED-Project/uencoder) - A MicroPython library for reading from a rotary encoder.
+* [encodermenu ![GitHub Repo stars](https://img.shields.io/github/stars/sgall17a/encodermenu) ![GitHub last commit](https://img.shields.io/github/last-commit/sgall17a/encodermenu)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for micropython using a rotary encoder and basic display.
 
 #### Waveform Generator
 
@@ -475,6 +479,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-mpu6886 ![GitHub Repo stars](https://img.shields.io/github/stars/tuupola/micropython-mpu6886) ![GitHub last commit](https://img.shields.io/github/last-commit/tuupola/micropython-mpu6886)](https://github.com/tuupola/micropython-mpu6886) - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
 * [micropython-fusion](https://gitlab.com/nnayo/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 
+#### Pressure
+
+* [ms5803-micropython ![GitHub Repo stars](https://img.shields.io/github/stars/minyiky/ms5803-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/minyiky/ms5803-micropython)](https://github.com/minyiky/ms5803-micropython) - A micropython implimentation of the driver for an MS5803 pressure & temperature sensor.
+
 #### Soil Moisture
 
 * [micropython-chirp ![GitHub Repo stars](https://img.shields.io/github/stars/robberwick/micropython-chirp) ![GitHub last commit](https://img.shields.io/github/last-commit/robberwick/micropython-chirp)](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
@@ -561,6 +569,9 @@ Other places you can look for MicroPython Libraries:
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537) - By Donald Norris. ISBN 9781259644535.
 * [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937) - By Yury Magda. ISBN 9781090900937.
 * [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects) - By Jacob Beningo. ISBN 9781789958034.
+* [Get Started with MicroPython on Raspberry Pi Pico](https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico) - By Gareth Halfacree and Ben Everard. ISBN 9781912047864.
+* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book) - By Günter Spanner. ISBN 9783895764370.
+* [MicroPython For Everyone: How To Use ESP32 And ESP8266: Micropython Mqtt](https://www.amazon.com/MicroPython-Everyone-ESP32-ESP8266-Micropython/dp/B094281XK1) - By Mason Milette. ISBN 9798748248822.
 
 ## Frameworks
 
