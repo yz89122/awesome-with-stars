@@ -58,7 +58,7 @@ them.
 ## Finite Elements
 
 - [FEniCS](https://fenicsproject.org) - Computing platform for solving PDEs in Python and C++.
-  (C++/Python, LGPL 3, [Bitbucket](https://bitbucket.org/fenics-project/))
+  (C++/Python, LGPL 3, [GitHub](https://github.com/FEniCS)/[Bitbucket](https://bitbucket.org/fenics-project/))
 - [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
   (C++, LGPL 2.1, [GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/libMesh/libmesh) ![GitHub last commit](https://img.shields.io/github/last-commit/libMesh/libmesh)](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
@@ -212,6 +212,8 @@ them.
   (Python, GPL 3, [GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/DedalusProject/dedalus) ![GitHub last commit](https://img.shields.io/github/last-commit/DedalusProject/dedalus)](https://github.com/DedalusProject/dedalus))
 - [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
   (Python/C++, MPL 2, [GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/esa/pygmo2) ![GitHub last commit](https://img.shields.io/github/last-commit/esa/pygmo2)](https://github.com/esa/pygmo2))
+- [shenfun](https://shenfun.readthedocs.io/en/latest/) - High-performance Python library for the spectral Galerkin method.
+  (Python, BSD-2, [GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/spectralDNS/shenfun) ![GitHub last commit](https://img.shields.io/github/last-commit/spectralDNS/shenfun)](https://github.com/spectralDNS/shenfun))
 
 ## Community
 
