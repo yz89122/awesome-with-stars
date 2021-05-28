@@ -882,7 +882,7 @@ Table of Contents
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
   * [commons.host](https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.
-  * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
+  * [pantheon.io](https://pantheon.io/) �� Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
   * [pony.icu](https://pony.icu/) — Free Web Hosting with Unlimited Disk Space, Unlimited Bandwidth and Unlimited Websites from PonyICU. PHP and MySQL included.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
