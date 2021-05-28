@@ -139,7 +139,6 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mqtt ![GitHub Repo stars](https://img.shields.io/github/stars/peterhinch/micropython-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-mqtt)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
 * [MQBoard ![GitHub Repo stars](https://img.shields.io/github/stars/tve/mqboard) ![GitHub last commit](https://img.shields.io/github/last-commit/tve/mqboard)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
-* [micropython-mqtt ![GitHub Repo stars](https://img.shields.io/github/stars/tve/micropython-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/tve/micropython-mqtt)](https://github.com/tve/micropython-mqtt) - MQTT libraries and tools for MicroPython.
 * [pysmartnode ![GitHub Repo stars](https://img.shields.io/github/stars/kevinkk525/pysmartnode) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinkk525/pysmartnode)](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smarthome framework.
 * [umqtt_aws_iot ![GitHub Repo stars](https://img.shields.io/github/stars/juwul/umqtt_aws_iot) ![GitHub last commit](https://img.shields.io/github/last-commit/juwul/umqtt_aws_iot)](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 * [sonoff-mqtt by davea ![GitHub Repo stars](https://img.shields.io/github/stars/davea/sonoff-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/davea/sonoff-mqtt)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
@@ -231,7 +230,7 @@ Other places you can look for MicroPython Libraries:
 #### E-Paper
 
 * [micropython-epaper ![GitHub Repo stars](https://img.shields.io/github/stars/peterhinch/micropython-epaper) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-epaper)](https://github.com/peterhinch/micropython-epaper) - Pyboard driver for Embedded Artists 2.7 inch e-paper display.
-* [micropython-ili9341](https://bitbucket.org/thesheep/micropython-ili9341) - SSD1606 active matrix epaper display 128x180.
+* [micropython-ili9341 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-ili9341) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-ili9341)](https://github.com/mcauser/deshipu-micropython-ili9341) - SSD1606 active matrix epaper display 128x180.
 * [micropython-waveshare-epaper ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-waveshare-epaper) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-waveshare-epaper)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare e-paper modules.
 * [micropython-waveshare-epd ![GitHub Repo stars](https://img.shields.io/github/stars/ayoy/micropython-waveshare-epd) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoy/micropython-waveshare-epd)](https://github.com/ayoy/micropython-waveshare-epd) - Waveshare E-Paper Display driver for devices running Pycom-flavored MicroPython.
 * [ssd1675a ![GitHub Repo stars](https://img.shields.io/github/stars/mattytrentini/ssd1675a) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/ssd1675a)](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675 based E-Paper displays.
@@ -249,7 +248,6 @@ Other places you can look for MicroPython Libraries:
 * [lcdi2c ![GitHub Repo stars](https://img.shields.io/github/stars/slothyrulez/lcdi2c) ![GitHub last commit](https://img.shields.io/github/last-commit/slothyrulez/lcdi2c)](https://github.com/slothyrulez/lcdi2c) - Driver for HD44780 compatible dot matrix LCDs.
 * [micropython-charlcd ![GitHub Repo stars](https://img.shields.io/github/stars/rdagger/micropython-charlcd) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-charlcd)](https://github.com/rdagger/micropython-charlcd) - Driver for HD44780 compatible LCDs.
 * [micropython-i2c-lcd ![GitHub Repo stars](https://img.shields.io/github/stars/Bucknalla/micropython-i2c-lcd) ![GitHub last commit](https://img.shields.io/github/last-commit/Bucknalla/micropython-i2c-lcd)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
-* [micropython_grove_rgb_lcd_driver ![GitHub Repo stars](https://img.shields.io/github/stars/KidVizious/micropython_grove_rgb_lcd_driver) ![GitHub last commit](https://img.shields.io/github/last-commit/KidVizious/micropython_grove_rgb_lcd_driver)](https://github.com/KidVizious/micropython_grove_rgb_lcd_driver) - Driver for SeeedStudio's Grove RGB LCD.
 * [pyboard-LCD-character-display ![GitHub Repo stars](https://img.shields.io/github/stars/scitoast/pyboard-LCD-character-display) ![GitHub last commit](https://img.shields.io/github/last-commit/scitoast/pyboard-LCD-character-display)](https://github.com/scitoast/pyboard-LCD-character-display) - PyBoard driver for HDD44780 compatible 1602 LCDs.
 * [python_lcd ![GitHub Repo stars](https://img.shields.io/github/stars/dhylands/python_lcd) ![GitHub last commit](https://img.shields.io/github/last-commit/dhylands/python_lcd)](https://github.com/dhylands/python_lcd) - Driver for HD44780 compatible dot matrix LCDs.
 * [micropython-lcd ![GitHub Repo stars](https://img.shields.io/github/stars/wjdp/micropython-lcd) ![GitHub last commit](https://img.shields.io/github/last-commit/wjdp/micropython-lcd)](https://github.com/wjdp/micropython-lcd) - Class for controlling the HD44780 from a MicroPython pyboard.
@@ -266,12 +264,12 @@ Other places you can look for MicroPython Libraries:
 
 #### LCD TFT
 
-* [micropython-ili9341](https://bitbucket.org/thesheep/micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
+* [micropython-ili9341 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-ili9341) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-ili9341)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
 * [micropython-ili934x ![GitHub Repo stars](https://img.shields.io/github/stars/tuupola/micropython-ili934x) ![GitHub last commit](https://img.shields.io/github/last-commit/tuupola/micropython-ili934x)](https://github.com/tuupola/micropython-ili934x) - SPI driver for ILI934X series based TFT / LCD displays.
 * [MicroPython-ST7735 ![GitHub Repo stars](https://img.shields.io/github/stars/boochow/MicroPython-ST7735) ![GitHub last commit](https://img.shields.io/github/last-commit/boochow/MicroPython-ST7735)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 * [micropython-st7735 ![GitHub Repo stars](https://img.shields.io/github/stars/hosaka/micropython-st7735) ![GitHub last commit](https://img.shields.io/github/last-commit/hosaka/micropython-st7735)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 * [MicroPython_ST7735 ![GitHub Repo stars](https://img.shields.io/github/stars/AnthonyKNorman/MicroPython_ST7735) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyKNorman/MicroPython_ST7735)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
-* [SSD1963-TFT-Library-for-PyBoard ![GitHub Repo stars](https://img.shields.io/github/stars/robert-hh/SSD1963-TFT-Library-for-PyBoard) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/SSD1963-TFT-Library-for-PyBoard)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard) - Driver for SSD1963 864x480 TFT LCDs.
+* [SSD1963-TFT-Library-for-PyBoard-and-RP2040 ![GitHub Repo stars](https://img.shields.io/github/stars/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for PyBoard and Raspberry Pi PICO.
 * [ST7735 ![GitHub Repo stars](https://img.shields.io/github/stars/GuyCarver/MicroPython) ![GitHub last commit](https://img.shields.io/github/last-commit/GuyCarver/MicroPython)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 * [micropython-ili9341 ![GitHub Repo stars](https://img.shields.io/github/stars/rdagger/micropython-ili9341) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-ili9341)](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
 * [st7789_mpy ![GitHub Repo stars](https://img.shields.io/github/stars/devbis/st7789_mpy) ![GitHub last commit](https://img.shields.io/github/last-commit/devbis/st7789_mpy)](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
@@ -316,7 +314,7 @@ Other places you can look for MicroPython Libraries:
 #### OLED
 
 * [Grove_OLED ![GitHub Repo stars](https://img.shields.io/github/stars/dda/MicroPython) ![GitHub last commit](https://img.shields.io/github/last-commit/dda/MicroPython)](https://github.com/dda/MicroPython/blob/master/Grove_OLED.py) - Driver for SSD1327 used by SeeedStudio's Grove OLED Display 1.12" v1.0.
-* [micropython-oled](https://bitbucket.org/thesheep/micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
+* [micropython-oled ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-oled) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-oled)](https://github.com/mcauser/deshipu-micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
 * [micropython-ssd1327 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/micropython-ssd1327) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-ssd1327)](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
 * [micropython-ssd1351 ![GitHub Repo stars](https://img.shields.io/github/stars/rdagger/micropython-ssd1351) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-ssd1351)](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
 * [MicroPython_SSD1306 ![GitHub Repo stars](https://img.shields.io/github/stars/AnthonyKNorman/MicroPython_SSD1306) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyKNorman/MicroPython_SSD1306)](https://github.com/AnthonyKNorman/MicroPython_SSD1306) - ESP8266 driver for SSD1306 OLED 128x64 displays.
@@ -328,7 +326,7 @@ Other places you can look for MicroPython Libraries:
 #### ADC
 
 * [ads1x15 ![GitHub Repo stars](https://img.shields.io/github/stars/robert-hh/ads1x15) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/ads1x15)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
-* [micropython-ads1015](https://bitbucket.org/thesheep/micropython-ads1015) - ADS1015 12-Bit and ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
+* [micropython-ads1015 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-ads1015) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-ads1015)](https://github.com/mcauser/deshipu-micropython-ads1015) - ADS1015 12-Bit and ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [Micropython_ADS1115 ![GitHub Repo stars](https://img.shields.io/github/stars/AnthonyKNorman/Micropython_ADS1115) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyKNorman/Micropython_ADS1115)](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [ADS7818 ![GitHub Repo stars](https://img.shields.io/github/stars/robert-hh/ADS7818) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/ADS7818)](https://github.com/robert-hh/ADS7818) - Python class interfacing the ADS7818 AD-converter.
 * [micropython-ads1219 ![GitHub Repo stars](https://img.shields.io/github/stars/miketeachman/micropython-ads1219) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-ads1219)](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
@@ -382,7 +380,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Servo
 
-* [micropython-pca9685](https://bitbucket.org/thesheep/micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
+* [micropython-pca9685 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-pca9685) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-pca9685)](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
 
 #### Stepper
 
@@ -414,7 +412,6 @@ Other places you can look for MicroPython Libraries:
 * [micropython-bme280 ![GitHub Repo stars](https://img.shields.io/github/stars/kevbu/micropython-bme280) ![GitHub last commit](https://img.shields.io/github/last-commit/kevbu/micropython-bme280)](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 * [micropython-bmp180 ![GitHub Repo stars](https://img.shields.io/github/stars/micropython-IMU/micropython-bmp180) ![GitHub last commit](https://img.shields.io/github/last-commit/micropython-IMU/micropython-bmp180)](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
 * [mpy_bme280_esp8266 ![GitHub Repo stars](https://img.shields.io/github/stars/catdog2/mpy_bme280_esp8266) ![GitHub last commit](https://img.shields.io/github/last-commit/catdog2/mpy_bme280_esp8266)](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
-* [wipy_bme280](https://bitbucket.org/oscarBravo/wipy_bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 * [BME280 ![GitHub Repo stars](https://img.shields.io/github/stars/robert-hh/BME280) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/BME280)](https://github.com/robert-hh/BME280) - MicroPython driver for the BME280 sensor, target platform Pycom devices.
 * [micropython-bmp280 ![GitHub Repo stars](https://img.shields.io/github/stars/dafvid/micropython-bmp280) ![GitHub last commit](https://img.shields.io/github/last-commit/dafvid/micropython-bmp280)](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
 
@@ -436,12 +433,12 @@ Other places you can look for MicroPython Libraries:
 
 #### Distance IR
 
-* [micropython-gp2y0e03](https://bitbucket.org/thesheep/micropython-gp2y0e03) - IR-LED distance measuring sensor using Sharp GP2Y0E03.
-* [micropython-vl6180](https://bitbucket.org/thesheep/micropython-vl6180) - Time-of-Flight sensor, ambient light sensor & IR emitter.
+* [micropython-gp2y0e03 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-gp2y0e03) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-gp2y0e03)](https://github.com/mcauser/deshipu-micropython-gp2y0e03) - IR-LED distance measuring sensor using Sharp GP2Y0E03.
+* [micropython-vl6180 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-vl6180) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-vl6180)](https://github.com/mcauser/deshipu-micropython-vl6180) - Time-of-Flight sensor, ambient light sensor & IR emitter.
 
 #### Distance Laser
 
-* [micropython-vl53l0x](https://bitbucket.org/thesheep/micropython-vl53l0x) - Time-of-Flight laser-ranging sensor.
+* [micropython-vl53l0x ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-vl53l0x) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-vl53l0x)](https://github.com/mcauser/deshipu-micropython-vl53l0x) - Time-of-Flight laser-ranging sensor.
 * [Qwiic_TOF_Module_RFD77402 ![GitHub Repo stars](https://img.shields.io/github/stars/ZIOCC/Qwiic_TOF_Module_RFD77402) ![GitHub last commit](https://img.shields.io/github/last-commit/ZIOCC/Qwiic_TOF_Module_RFD77402)](https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402) - Qwiic TOF Module (RFD77402) time-of-flight rangefinding module.
 
 #### Distance Ultrasonic
@@ -490,7 +487,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Temperature Analog
 
-* [micropython-max31855](https://bitbucket.org/thesheep/micropython-max31855) - Thermocouple amplifier, SPI interface.
+* [micropython-max31855 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-max31855) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-max31855)](https://github.com/mcauser/deshipu-micropython-max31855) - Thermocouple amplifier, SPI interface.
 * [max31856 ![GitHub Repo stars](https://img.shields.io/github/stars/alinbaltaru/max31856) ![GitHub last commit](https://img.shields.io/github/last-commit/alinbaltaru/max31856)](https://github.com/alinbaltaru/max31856) - Precision thermocouple to digital converter with linearization, SPI interface.
 
 #### Temperature Digital
@@ -505,13 +502,12 @@ Other places you can look for MicroPython Libraries:
 * [micropython-sht30 ![GitHub Repo stars](https://img.shields.io/github/stars/rsc1975/micropython-sht30) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc1975/micropython-sht30)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
 * [micropython-sht31 ![GitHub Repo stars](https://img.shields.io/github/stars/kfricke/micropython-sht31) ![GitHub last commit](https://img.shields.io/github/last-commit/kfricke/micropython-sht31)](https://github.com/kfricke/micropython-sht31) - Driver for the SHT31 temperature and humidity sensor.
 * [micropython-Si7005 ![GitHub Repo stars](https://img.shields.io/github/stars/Smrtokvitek/micropython-Si7005) ![GitHub last commit](https://img.shields.io/github/last-commit/Smrtokvitek/micropython-Si7005)](https://github.com/Smrtokvitek/micropython-Si7005) - Driver for Si7005 relative humidity and temperature sensor.
-* [micropython-si7021](https://bitbucket.org/thesheep/micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
+* [micropython-si7021 ![GitHub Repo stars](https://img.shields.io/github/stars/mcauser/deshipu-micropython-si7021) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/deshipu-micropython-si7021)](https://github.com/mcauser/deshipu-micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
 * [micropython-si7021 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisbalmer/micropython-si7021) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisbalmer/micropython-si7021)](https://github.com/chrisbalmer/micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
 * [micropython-Si705x ![GitHub Repo stars](https://img.shields.io/github/stars/billyrayvalentine/micropython-Si705x) ![GitHub last commit](https://img.shields.io/github/last-commit/billyrayvalentine/micropython-Si705x)](https://github.com/billyrayvalentine/micropython-Si705x) - Silicon Labs Si705x series of temperature sensors, I2C interface.
 * [micropython-Si70xx ![GitHub Repo stars](https://img.shields.io/github/stars/billyrayvalentine/micropython-Si70xx) ![GitHub last commit](https://img.shields.io/github/last-commit/billyrayvalentine/micropython-Si70xx)](https://github.com/billyrayvalentine/micropython-Si70xx) - Silicon Labs Si70xx series of relative humidity and temperature sensors, I2C interface.
 * [micropython-tmp102 ![GitHub Repo stars](https://img.shields.io/github/stars/khoulihan/micropython-tmp102) ![GitHub last commit](https://img.shields.io/github/last-commit/khoulihan/micropython-tmp102)](https://github.com/khoulihan/micropython-tmp102) - Driver for TMP102 digital temperature sensor.
 * [Official DHT11+DHT12 ![GitHub Repo stars](https://img.shields.io/github/stars/micropython/micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/micropython/micropython)](https://github.com/micropython/micropython/blob/master/drivers/dht/dht.py) - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
-* [SHT10_uPython ![GitHub Repo stars](https://img.shields.io/github/stars/Omgitskillah/SHT10_uPython) ![GitHub last commit](https://img.shields.io/github/last-commit/Omgitskillah/SHT10_uPython)](https://github.com/Omgitskillah/SHT10_uPython) - Driver for SHT10 temperature and humidity sensor.
 * [sht25-micropython ![GitHub Repo stars](https://img.shields.io/github/stars/Miceuz/sht25-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/Miceuz/sht25-micropython)](https://github.com/Miceuz/sht25-micropython) - Driver for SHT25 temperature and humidity sensor.
 * [micropython-tmp1075 ![GitHub Repo stars](https://img.shields.io/github/stars/mattytrentini/micropython-tmp1075) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-tmp1075)](https://github.com/mattytrentini/micropython-tmp1075) - Driver for the TI TMP1075 temperature sensor.
 * [micropython-sht11 ![GitHub Repo stars](https://img.shields.io/github/stars/2black0/micropython-sht11) ![GitHub last commit](https://img.shields.io/github/last-commit/2black0/micropython-sht11)](https://github.com/2black0/micropython-sht11) - Driver for Sensirion SHT11 temperature and humidity sensor.
