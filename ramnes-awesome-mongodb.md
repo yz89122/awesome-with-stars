@@ -167,6 +167,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 
 ### Python
  - [Beanie ![GitHub Repo stars](https://img.shields.io/github/stars/roman-right/beanie) ![GitHub last commit](https://img.shields.io/github/last-commit/roman-right/beanie)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+ - [Djongo ![GitHub Repo stars](https://img.shields.io/github/stars/nesdis/djongo) ![GitHub last commit](https://img.shields.io/github/last-commit/nesdis/djongo)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
  - [Flask-Stupe ![GitHub Repo stars](https://img.shields.io/github/stars/numberly/flask-stupe) ![GitHub last commit](https://img.shields.io/github/last-commit/numberly/flask-stupe)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [Mongo-Thingy ![GitHub Repo stars](https://img.shields.io/github/stars/numberly/mongo-thingy) ![GitHub last commit](https://img.shields.io/github/last-commit/numberly/mongo-thingy)](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
  - [MongoEngine ![GitHub Repo stars](https://img.shields.io/github/stars/MongoEngine/mongoengine) ![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
