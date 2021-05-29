@@ -90,6 +90,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
   * [ForceCode ![GitHub Repo stars](https://img.shields.io/github/stars/celador/ForceCode) ![GitHub last commit](https://img.shields.io/github/last-commit/celador/ForceCode)](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
   * [xysfdx ![GitHub Repo stars](https://img.shields.io/github/stars/exiahuang/xysfdx) ![GitHub last commit](https://img.shields.io/github/last-commit/exiahuang/xysfdx)](https://github.com/exiahuang/xysfdx) is a Visual Studio Code extension for Salesforce SFDX Development.
+  * [Salesforce Snippets](https://marketplace.visualstudio.com/items?itemName=ajinkya-hingne.salesforce-snippets) is a VS Code Extension which provides useful Salesforce snippets to speed up writing code for Salesforce platform
 * [ApexMate ![GitHub Repo stars](https://img.shields.io/github/stars/superfell/ApexMate) ![GitHub last commit](https://img.shields.io/github/last-commit/superfell/ApexMate)](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
@@ -164,7 +165,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Apex Chainable Batch ![GitHub Repo stars](https://img.shields.io/github/stars/rsoesemann/apex-chainable-batch) ![GitHub last commit](https://img.shields.io/github/last-commit/rsoesemann/apex-chainable-batch)](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
 
-
+* [Apex Test Kit ![GitHub Repo stars](https://img.shields.io/github/stars/apexfarm/ApexTestKit) ![GitHub last commit](https://img.shields.io/github/last-commit/apexfarm/ApexTestKit)](https://github.com/apexfarm/ApexTestKit) - Apex Test Kit can help generate massive sObject data for Apex test classes. It is can help establish arbitrary levels of many-to-one, one-to-many relationships, and also generate field values based on simple rules automatically.
 
 ### Developer Utilities
 
