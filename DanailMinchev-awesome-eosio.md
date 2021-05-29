@@ -15,18 +15,19 @@
 
 - [Official](#official)
 - [EdenOS](#edenos)
-- [Learning resources](#learning-resources)
+- [Learn](#learn)
   - [Websites](#websites)
-  - [Courses, workshops, webinars and books](#courses-workshops-webinars-and-books)
+  - [Courses, workshops, webinars, videos and others](#courses-workshops-webinars-videos-and-others)
 - [Tools](#tools)
   - [Wallets and Toolkits](#wallets-and-toolkits)
   - [Account services](#account-services)
   - [Block explorers, Voting portals](#block-explorers-voting-portals)
 - [Block Producers](#block-producers)
 - [Developers](#developers)
+  - [Environment](#environment)
+  - [Testnets](#testnets)
   - [Libraries and Frameworks](#libraries-and-frameworks)
   - [Developer Tools](#developer-tools)
-  - [Testnets](#testnets)
   - [Code examples](#code-examples)
   - [Block Producer tools](#block-producer-tools)
   - [Other in Developers](#other-in-developers)
@@ -45,7 +46,7 @@
 Official resources.
 
 - [EOS Community](https://eoscommunity.org/)
-- [GitHub](https://github.com/eosio)
+- [GitHub](https://github.com/EOSIO)
 - [Technical White Paper ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/Documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/Documentation)](https://github.com/EOSIO/Documentation)
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
@@ -60,24 +61,26 @@ EdenOS resources.
 
 - [Website](http://edeneos.org/) - Official Website.
 - [eoscommunity/Eden ![GitHub Repo stars](https://img.shields.io/github/stars/eoscommunity/Eden) ![GitHub last commit](https://img.shields.io/github/last-commit/eoscommunity/Eden)](https://github.com/eoscommunity/Eden) - Official GitHub.
+- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
 
-## Learning resources
+## Learn
 
 EOSIO learning resources.
 
 ### Websites
 
-- [Elemental Battles](https://battles.eos.io/)
+- [Elemental Battles](https://battles.eos.io/) - Build a blockchain game. Learn EOSIO.
   - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
 - [EOS GO](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
 
-### Courses, workshops, webinars and books
+### Courses, workshops, webinars, videos and others
 
+- [EOSIO Training & Certification](https://training.eos.io/) - Official EOSIO Training & Certification.
 - [EOSIO Webinars](https://eos.io/event-category/webinar/) - Official EOSIO Webinars.
-- [EOSIO Training & Certification](https://eos.io/for-business/training-certification/) - Official EOSIO Training & Certification.
+- [EOSIO Resource Library](https://eos.io/resources/) - Official EOSIO Resources. Videos, case studies, and other resources to help you learn and grow with EOSIO.
 - [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
 - [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop) - Workshop.
@@ -121,7 +124,9 @@ Various software and tools.
 - [EOS Tracker](https://eostracker.io/) - Open Source block explorer includes producers information and account information.
   - [EOSEssentials/EOSTracker ![GitHub Repo stars](https://img.shields.io/github/stars/EOSEssentials/EOSTracker) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSEssentials/EOSTracker)](https://github.com/EOSEssentials/EOSTracker) - Official GitHub.
 - [Bloks](https://bloks.io/) - Fast block explorer, can be used for voting. Includes information about block producers and tokens.
-- [X](https://www.eosx.io/) - Block explorer. Various side chains are supported.
+<!--lint disable awesome-spell-check-->
+- [EOSX](https://www.eosx.io/) - Block explorer. Various side chains are supported.
+<!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
 
 ## Block Producers
@@ -135,6 +140,18 @@ Block Producers related software and resources.
 ## Developers
 
 All about development on EOSIO platform.
+
+### Environment
+
+- [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
+- [EOSIO Web IDE ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio-web-ide) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio-web-ide)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
+- [Helm charts for EOSIO ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio.helm) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio.helm)](https://github.com/EOSIO/eosio.helm) - EOSIO Nodeos Helm Charts.
+
+### Testnets
+
+- [The EOSIO Testnet](https://testnet.eos.io/) - Block.one's official EOSIO Testnet. Test on fully-featured EOSIO stable releases.
+- [Jungle Testnet](https://jungletestnet.io/) - The Jungle TestNet was initiated by and has served as sandbox for many development teams and EOS Block Producers since the birth of EOSIO.
+- [CryptoKylin Testnet](https://www.cryptokylin.io/) - CryptoKylin Testnet is a developer-friendly testnet maintained by a group of EOS Mainnet Block Producers.
 
 ### Libraries and Frameworks
 
@@ -173,7 +190,6 @@ All about development on EOSIO platform.
 - [greymass/eosio-signing-request ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-signing-request) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-signing-request)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 - [greymass/eosio-signing-request-java ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-signing-request-java) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-signing-request-java)](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
 
-
 #### Frameworks
 
 - [Demux ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/demux-js) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/demux-js)](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
@@ -188,21 +204,12 @@ All about development on EOSIO platform.
 - [EOSIO/eosio.cdt ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio.cdt) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio.cdt)](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
 - [EOSIO/ricardian-template-toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/ricardian-template-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/ricardian-template-toolkit)](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
 - [EOSIO Ethereum Virtual Machine (EVM) ![GitHub Repo stars](https://img.shields.io/github/stars/jafri/eosio.evm) ![GitHub last commit](https://img.shields.io/github/last-commit/jafri/eosio.evm)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
-- [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
-- [eos-helm ![GitHub Repo stars](https://img.shields.io/github/stars/activeeos/eos-helm) ![GitHub last commit](https://img.shields.io/github/last-commit/activeeos/eos-helm)](https://github.com/activeeos/eos-helm) - Kubernetes Helm charts for the EOS smart contracts platform.
 - [Elliptic curve cryptography functions (ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosjs-ecc) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosjs-ecc)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSEssentials/EOSDrops ![GitHub Repo stars](https://img.shields.io/github/stars/EOSEssentials/EOSDrops) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSEssentials/EOSDrops)](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 - [Octopus ![GitHub Repo stars](https://img.shields.io/github/stars/pventuzelo/octopus) ![GitHub last commit](https://img.shields.io/github/last-commit/pventuzelo/octopus)](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
 - [greymass/eosio-resources ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/eosio-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/eosio-resources)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
 - [greymass/abi2core ![GitHub Repo stars](https://img.shields.io/github/stars/greymass/abi2core) ![GitHub last commit](https://img.shields.io/github/last-commit/greymass/abi2core)](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
-
-### Testnets
-
-- [The EOSIO Testnet](https://testnet.eos.io/)
-  - [EOSIO Testnet Launch](https://eos.io/news/eosio-testnet-launch/) - Article.
-- [EOS Jungle Testnet](http://jungle.cryptolions.io/)
-  - [CryptoLions/EOS-Jungle-Testnet ![GitHub Repo stars](https://img.shields.io/github/stars/CryptoLions/EOS-Jungle-Testnet) ![GitHub last commit](https://img.shields.io/github/last-commit/CryptoLions/EOS-Jungle-Testnet)](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Official GitHub.
 
 ### Code examples
 
