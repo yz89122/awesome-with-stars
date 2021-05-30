@@ -61,6 +61,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [FlaxVision ![GitHub Repo stars](https://img.shields.io/github/stars/rolandgvc/flaxvision) ![GitHub last commit](https://img.shields.io/github/last-commit/rolandgvc/flaxvision)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 - [Oryx ![GitHub Repo stars](https://img.shields.io/github/stars/tensorflow/probability) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/probability)](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
 - [Optimal Transport Tools ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/ott) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/ott)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
+- [delta PV ![GitHub Repo stars](https://img.shields.io/github/stars/romanodev/deltapv) ![GitHub last commit](https://img.shields.io/github/last-commit/romanodev/deltapv)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 <a name="models-and-projects" />
 
