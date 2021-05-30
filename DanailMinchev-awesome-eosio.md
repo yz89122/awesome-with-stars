@@ -60,7 +60,7 @@ Official resources.
 EdenOS resources.
 
 - [Website](http://edeneos.org/) - Official Website.
-- [eoscommunity/Eden ![GitHub Repo stars](https://img.shields.io/github/stars/eoscommunity/Eden) ![GitHub last commit](https://img.shields.io/github/last-commit/eoscommunity/Eden)](https://github.com/eoscommunity/Eden) - Official GitHub.
+- [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
 - [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
 
 ## Learn
@@ -155,6 +155,11 @@ All about development on EOSIO platform.
 
 ### Libraries and Frameworks
 
+#### Core
+
+- [EOSIO/eos ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eos) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eos)](https://github.com/EOSIO/eos) - Official EOSIO GitHub repository.
+- [EOSIO/eos-vm ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eos-vm) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eos-vm)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
+
 #### API libraries
 
 - [EOSIO/eosjs ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosjs) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosjs)](https://github.com/EOSIO/eosjs) - Official JavaScript SDK.
@@ -213,7 +218,7 @@ All about development on EOSIO platform.
 
 ### Code examples
 
-- [eosio.contracts ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio.contracts) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio.contracts)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
+- [EOSIO/eosio.contracts ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio.contracts) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio.contracts)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
 - [Eosfinex Custody Smart Contract ![GitHub Repo stars](https://img.shields.io/github/stars/bitfinexcom/eosfinex-custody-contract) ![GitHub last commit](https://img.shields.io/github/last-commit/bitfinexcom/eosfinex-custody-contract)](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
   - [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - Article.
 - [EOSIO/eosio-java-android-example-app ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio-java-android-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio-java-android-example-app)](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
