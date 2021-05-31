@@ -138,6 +138,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [unexpected ![GitHub Repo stars](https://img.shields.io/github/stars/unexpectedjs/unexpected) ![GitHub last commit](https://img.shields.io/github/last-commit/unexpectedjs/unexpected)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
+- [buckets ![GitHub Repo stars](https://img.shields.io/github/stars/jacoborus/deno-buckets) ![GitHub last commit](https://img.shields.io/github/last-commit/jacoborus/deno-buckets)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 - [bytes_formater ![GitHub Repo stars](https://img.shields.io/github/stars/manyuanrong/bytes_formater) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/bytes_formater)](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [coffee ![GitHub Repo stars](https://img.shields.io/github/stars/irandeno/coffee) ![GitHub last commit](https://img.shields.io/github/last-commit/irandeno/coffee)](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [computed_types ![GitHub Repo stars](https://img.shields.io/github/stars/neuledge/computed-types) ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/computed-types)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
@@ -378,7 +379,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Spanish
 
-- [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
+- [Hola Deno! . ����](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 - [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
