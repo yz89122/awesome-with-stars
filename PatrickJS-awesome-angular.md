@@ -129,6 +129,7 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
+* [Top rated Angular stackoverflow questions Dashboard] (https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 
 #### Angular Team on twitter
 
@@ -751,6 +752,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-avatar ![GitHub Repo stars](https://img.shields.io/github/stars/HaithemMosbahi/ngx-avatar) ![GitHub last commit](https://img.shields.io/github/last-commit/HaithemMosbahi/ngx-avatar)](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 * [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
 * [ngx-countdown ![GitHub Repo stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
+* [@ngneat/transloco ![GitHub Repo stars](https://img.shields.io/github/stars/ngneat/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
 * [ngx-i18n-router ![GitHub Repo stars](https://img.shields.io/github/stars/fulls1z3/ngx-i18n-router) ![GitHub last commit](https://img.shields.io/github/last-commit/fulls1z3/ngx-i18n-router)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
 * [ngx-linkifyjs ![GitHub Repo stars](https://img.shields.io/github/stars/AnthonyNahas/ngx-linkifyjs) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyNahas/ngx-linkifyjs)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
 * [ngx-meta ![GitHub Repo stars](https://img.shields.io/github/stars/fulls1z3/ngx-meta) ![GitHub last commit](https://img.shields.io/github/last-commit/fulls1z3/ngx-meta)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
