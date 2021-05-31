@@ -17,6 +17,7 @@
 - [EdenOS](#edenos)
 - [Learn](#learn)
   - [Websites](#websites)
+  - [Books](#books)
   - [Courses, workshops, webinars, videos and others](#courses-workshops-webinars-videos-and-others)
 - [Tools](#tools)
   - [Wallets and Toolkits](#wallets-and-toolkits)
@@ -71,10 +72,13 @@ EOSIO learning resources.
 
 - [Elemental Battles](https://battles.eos.io/) - Build a blockchain game. Learn EOSIO.
   - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
-- [EOS GO](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
+
+### Books
+
+- [Learn EOS Development](https://learneos.dev/) - The up-to-date, in-depth, complete guide to dapps on the EOS blockchain.
 
 ### Courses, workshops, webinars, videos and others
 
@@ -128,6 +132,7 @@ Various software and tools.
 - [EOSX](https://www.eosx.io/) - Block explorer. Various side chains are supported.
 <!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
+- [EOS GO](https://www.eosgo.io/)
 
 ## Block Producers
 
@@ -144,7 +149,7 @@ All about development on EOSIO platform.
 ### Environment
 
 - [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
-- [EOSIO Web IDE ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio-web-ide) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio-web-ide)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
+- [EOSIO Web IDE ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio-web-ide) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio-web-ide)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud ��� and accessible from your web browser.
 - [Helm charts for EOSIO ![GitHub Repo stars](https://img.shields.io/github/stars/EOSIO/eosio.helm) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSIO/eosio.helm)](https://github.com/EOSIO/eosio.helm) - EOSIO Nodeos Helm Charts.
 
 ### Testnets
@@ -253,8 +258,9 @@ All about development on EOSIO platform.
 ### Blogs
 
 - [Daniel Larimer](https://moreequalanimals.com/) - Blog of Daniel Larimer, founder of EOSIO.
-- [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 - [cc32d9](https://medium.com/@cc32d9) - cc32d9 blog, EOSIO developer related publications.
+- [cmichel](https://cmichel.io/categories/EOS) - Christoph Michel blog, EOSIO developer related publications.
+- [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 - [Dallas Rushing](https://steemit.com/@dallasrushing) - Blog of Dallas Rushing, EOSIO user related content.
 - [Iang](https://steemit.com/@iang) - Blog of Iang, EOSIO user and developer related content.
 - [EOS Canada](https://steemit.com/@eos-canada) - EOS Canada blog, user related content and videos.
