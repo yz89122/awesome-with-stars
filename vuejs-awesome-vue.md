@@ -87,6 +87,7 @@
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
+    - [Data Masking](#data-masking)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1341,7 +1342,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-dialog-drag ![GitHub Repo stars](https://img.shields.io/github/stars/emiliorizzo/vue-dialog-drag) ![GitHub last commit](https://img.shields.io/github/last-commit/emiliorizzo/vue-dialog-drag)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 - [vue-ya-semantic-modal ![GitHub Repo stars](https://img.shields.io/github/stars/qgp9/vue-ya-semantic-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/qgp9/vue-ya-semantic-modal)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 - [vue-pure-lightbox ![GitHub Repo stars](https://img.shields.io/github/stars/DCzajkowski/vue-pure-lightbox) ![GitHub last commit](https://img.shields.io/github/last-commit/DCzajkowski/vue-pure-lightbox)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
-- [v-viewer ![GitHub Repo stars](https://img.shields.io/github/stars/mirari/v-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/mirari/v-viewer)](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js ![GitHub Repo stars](https://img.shields.io/github/stars/fengyuanchen/viewerjs) ![GitHub last commit](https://img.shields.io/github/last-commit/fengyuanchen/viewerjs)](https://github.com/fengyuanchen/viewerjs)
+- [v-viewer ![GitHub Repo stars](https://img.shields.io/github/stars/mirari/v-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/mirari/v-viewer)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js ![GitHub Repo stars](https://img.shields.io/github/stars/fengyuanchen/viewerjs) ![GitHub last commit](https://img.shields.io/github/last-commit/fengyuanchen/viewerjs)](https://github.com/fengyuanchen/viewerjs)
 - [vue-messagebox ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiang958/vue-messageBox) ![GitHub last commit](https://img.shields.io/github/last-commit/zhangxiang958/vue-messageBox)](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
 - [vuejs-dialog ![GitHub Repo stars](https://img.shields.io/github/stars/Godofbrowser/vuejs-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/Godofbrowser/vuejs-dialog)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 - [@hscmap/vue-window ![GitHub Repo stars](https://img.shields.io/github/stars/michitaro/vue-window) ![GitHub last commit](https://img.shields.io/github/last-commit/michitaro/vue-window)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
@@ -1922,6 +1923,7 @@ _Date / datetime / time Picker_
 - [material-vue-daterange-picker ![GitHub Repo stars](https://img.shields.io/github/stars/ly525/material-vue-daterange-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/ly525/material-vue-daterange-picker)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 - [vue-datepicker ![GitHub Repo stars](https://img.shields.io/github/stars/mathieustan/vue-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/mathieustan/vue-datepicker)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [@alireza-ab/vue-persian-datepicker ![GitHub Repo stars](https://img.shields.io/github/stars/alireza-ab/vue-persian-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/alireza-ab/vue-persian-datepicker)](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
+- [vue-easy-range-date-picker ![GitHub Repo stars](https://img.shields.io/github/stars/HC200ok/vue-easy-range-date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/HC200ok/vue-easy-range-date-picker)](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 
 ##### Select
 
@@ -2219,6 +2221,10 @@ _Display images_
 
 - [vue-tour ![GitHub Repo stars](https://img.shields.io/github/stars/pulsardev/vue-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/pulsardev/vue-tour)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide ![GitHub Repo stars](https://img.shields.io/github/stars/sschandi/vue-page-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/sschandi/vue-page-guide)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+
+#### Data Masking
+
+- [vue-manual-data-masking ![GitHub Repo stars](https://img.shields.io/github/stars/HC200ok/vue-manual-data-masking) ![GitHub last commit](https://img.shields.io/github/last-commit/HC200ok/vue-manual-data-masking)](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
 ### UI Layout
 
@@ -3011,7 +3017,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/samturrell/vue-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/samturrell/vue-breadcrumbs)](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
 - [vue-2-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/Scrum/vue-2-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/Scrum/vue-2-breadcrumbs)](https://github.com/Scrum/vue-2-breadcrumbs) - breadcrumb together with vue-router for Vue 2.x. and Bootstrap 4
 - [vs-crumbs ![GitHub Repo stars](https://img.shields.io/github/stars/NxtChg/pieces) ![GitHub last commit](https://img.shields.io/github/last-commit/NxtChg/pieces)](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs) - Vue breadcrumbs in 40 lines of code that allows nested paths without child views.
-- [vue-nav ![GitHub Repo stars](https://img.shields.io/github/stars/nearspears/vue-nav) ![GitHub last commit](https://img.shields.io/github/last-commit/nearspears/vue-nav)](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航���理器，支持手机原生应用的所有导航功能。
+- [vue-nav ![GitHub Repo stars](https://img.shields.io/github/stars/nearspears/vue-nav) ![GitHub last commit](https://img.shields.io/github/last-commit/nearspears/vue-nav)](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航管理器，支持手机原生应用的所有导航功能。
 - [vue-2-crumbs ![GitHub Repo stars](https://img.shields.io/github/stars/Suruat/vue-2-crumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/Suruat/vue-2-crumbs)](https://github.com/Suruat/vue-2-crumbs) - Breadcrumbs plugin for Vue.js 2 framework that allows to select parent route in route meta object with no need of sub-routing. Also allows using dynamic data.
 - [vue-pesdk ![GitHub Repo stars](https://img.shields.io/github/stars/imgly/pesdk-wrapper-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/imgly/pesdk-wrapper-vuejs)](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/vue-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/vue-resolve)](https://github.com/javisperez/vue-resolve)
