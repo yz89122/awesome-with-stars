@@ -242,6 +242,7 @@ All about development on EOSIO platform.
 
 ### Other in Developers
 
+- [Community Developer Tools](https://developers.eos.io/welcome/latest/community-developer-tools/index) - Official EOSIO "Community Developer Tools" page.
 - [cleos-auto-completion ![GitHub Repo stars](https://img.shields.io/github/stars/hexlant/cleos-auto-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/hexlant/cleos-auto-completion)](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
 - [EOS-Sync ![GitHub Repo stars](https://img.shields.io/github/stars/EOSpace/eos-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/EOSpace/eos-sync)](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
 - [OracleChain/EOSBenchTool ![GitHub Repo stars](https://img.shields.io/github/stars/OracleChain/EOSBenchTool) ![GitHub last commit](https://img.shields.io/github/last-commit/OracleChain/EOSBenchTool)](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
