@@ -1351,6 +1351,7 @@ be
 * [metaworld ![GitHub Repo stars](https://img.shields.io/github/stars/rlworkgroup/metaworld) ![GitHub last commit](https://img.shields.io/github/last-commit/rlworkgroup/metaworld)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 * [acme](https://deepmind.com/research/publications/Acme) - An Open Source Distributed Framework for Reinforcement Learning that makes build and train your agents easily.
 * [Spinning Up](https://spinningup.openai.com) - An educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning
+* [Maze ![GitHub Repo stars](https://img.shields.io/github/stars/enlite-ai/maze) ![GitHub last commit](https://img.shields.io/github/last-commit/enlite-ai/maze)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 <a name="ruby"></a>
 ## Ruby

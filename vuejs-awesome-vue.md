@@ -1375,6 +1375,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-final-modal ![GitHub Repo stars](https://img.shields.io/github/stars/hunterliu1003/vue-final-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/hunterliu1003/vue-final-modal)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 - [vuesence-modal-window ![GitHub Repo stars](https://img.shields.io/github/stars/altrusl/vuesence-modal-window) ![GitHub last commit](https://img.shields.io/github/last-commit/altrusl/vuesence-modal-window)](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only.
 - [vue-it-bigger ![GitHub Repo stars](https://img.shields.io/github/stars/haiafara/vue-it-bigger) ![GitHub last commit](https://img.shields.io/github/last-commit/haiafara/vue-it-bigger)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
+- [v3confirm ![GitHub Repo stars](https://img.shields.io/github/stars/malekim/v3confirm) ![GitHub last commit](https://img.shields.io/github/last-commit/malekim/v3confirm)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 
 #### Parallax
 
@@ -2718,7 +2719,7 @@ _Move a DOM node to a target DOM node_
 
 #### Fullscreen
 
-- [vue-fullscreen ![GitHub Repo stars](https://img.shields.io/github/stars/mirari/vue-fullscreen) ![GitHub last commit](https://img.shields.io/github/last-commit/mirari/vue-fullscreen)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen.
+- [vue-fullscreen ![GitHub Repo stars](https://img.shields.io/github/stars/mirari/vue-fullscreen) ![GitHub last commit](https://img.shields.io/github/last-commit/mirari/vue-fullscreen)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 #### Page visibility
 
