@@ -547,6 +547,9 @@ Bringing the speed of Static Dispatch to CLOS. [LLGPL][8].
 * [static-dispatch ![GitHub Repo stars](https://img.shields.io/github/stars/alex-gutev/static-dispatch) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-gutev/static-dispatch)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT][200].
 * [dynamic-mixins ![GitHub Repo stars](https://img.shields.io/github/stars/rpav/dynamic-mixins) ![GitHub last commit](https://img.shields.io/github/last-commit/rpav/dynamic-mixins)](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD_2Clause][17].
 * [fast-generic-functions ![GitHub Repo stars](https://img.shields.io/github/stars/marcoheisig/fast-generic-functions) ![GitHub last commit](https://img.shields.io/github/last-commit/marcoheisig/fast-generic-functions)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT][200].
+* [polymorphic functions ![GitHub Repo stars](https://img.shields.io/github/stars/digikar99/polymorphic-functions) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/polymorphic-functions)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT][200].
+  - polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
+  - for differences with specialization-store and fast-generic-functions, see its README.
 
 And also:
 

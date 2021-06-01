@@ -89,6 +89,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typing_inspect ![GitHub Repo stars](https://img.shields.io/github/stars/ilevkivskyi/typing_inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/ilevkivskyi/typing_inspect)](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 - [com2ann ![GitHub Repo stars](https://img.shields.io/github/stars/ilevkivskyi/com2ann) ![GitHub last commit](https://img.shields.io/github/last-commit/ilevkivskyi/com2ann)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations in Python.
+- [mypy-silent ![GitHub Repo stars](https://img.shields.io/github/stars/whtsky/mypy-silent) ![GitHub last commit](https://img.shields.io/github/last-commit/whtsky/mypy-silent)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments. 
 
 ### Helper tools to add annotations to existing code
 
