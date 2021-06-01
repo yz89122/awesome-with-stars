@@ -21,6 +21,7 @@ A collection of android security related resources.
 15. [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build and manifest information. 3 Analysis/day free quota.
 16. [BitBaan](https://malab.bitbaan.com/)
 17. [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malwares with Yara rules. More [here](https://beta.pithus.org/about/).
+18. [Approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.
 15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) - sunsetting on Oct 31, 2019~~
 4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
 6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free~~
@@ -40,6 +41,7 @@ A collection of android security related resources.
 26. ~~[Dexter](https://dexter.dexlabs.org/)~~
 27. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 28. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
+
 
 ### Static Analysis Tools
 
@@ -110,6 +112,7 @@ A collection of android security related resources.
 32. [Android Malware Sandbox ![GitHub Repo stars](https://img.shields.io/github/stars/Areizen/Android-Malware-Sandbox) ![GitHub last commit](https://img.shields.io/github/last-commit/Areizen/Android-Malware-Sandbox)](https://github.com/Areizen/Android-Malware-Sandbox)
 33. [AndroPyTool ![GitHub Repo stars](https://img.shields.io/github/stars/alexMyG/AndroPyTool) ![GitHub last commit](https://img.shields.io/github/last-commit/alexMyG/AndroPyTool)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
 34. [Runtime Mobile Security (RMS) ![GitHub Repo stars](https://img.shields.io/github/stars/m0bilesecurity/RMS-Runtime-Mobile-Security) ![GitHub last commit](https://img.shields.io/github/last-commit/m0bilesecurity/RMS-Runtime-Mobile-Security)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+35. [PAPIMonitor ![GitHub Repo stars](https://img.shields.io/github/stars/Dado1513/PAPIMonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/Dado1513/PAPIMonitor)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a python tool based on Frida for monitoring user-select APIs during the app execution.
 3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -149,6 +152,8 @@ A collection of android security related resources.
 33. [Andromeda ![GitHub Repo stars](https://img.shields.io/github/stars/secrary/Andromeda) ![GitHub last commit](https://img.shields.io/github/last-commit/secrary/Andromeda)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 34. [apk-mitm ![GitHub Repo stars](https://img.shields.io/github/stars/shroudedcode/apk-mitm) ![GitHub last commit](https://img.shields.io/github/last-commit/shroudedcode/apk-mitm)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 35. [Noia ![GitHub Repo stars](https://img.shields.io/github/stars/0x742/noia) ![GitHub last commit](https://img.shields.io/github/last-commit/0x742/noia)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+36. [Obfuscapk ![GitHub Repo stars](https://img.shields.io/github/stars/ClaudiuGeorgiu/Obfuscapk) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudiuGeorgiu/Obfuscapk)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
+37. [ARMANDroid ![GitHub Repo stars](https://img.shields.io/github/stars/Mobile-IoT-Security-Lab/ARMANDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/Mobile-IoT-Security-Lab/ARMANDroid)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 36. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 35. ~~[ZjDroid ![GitHub Repo stars](https://img.shields.io/github/stars/BaiduSecurityLabs/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/BaiduSecurityLabs/ZjDroid)](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror ![GitHub Repo stars](https://img.shields.io/github/stars/yangbean9/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/yangbean9/ZjDroid)](https://github.com/yangbean9/ZjDroid)~~
@@ -175,6 +180,7 @@ A collection of android security related resources.
 4. [Aptoide downloader (Node) ![GitHub Repo stars](https://img.shields.io/github/stars/dweinstein/node-aptoide) ![GitHub last commit](https://img.shields.io/github/last-commit/dweinstein/node-aptoide)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 5. [Appland downloader (Node) ![GitHub Repo stars](https://img.shields.io/github/stars/dweinstein/node-appland) ![GitHub last commit](https://img.shields.io/github/last-commit/dweinstein/node-appland)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 6. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
+7. [PlaystoreDownloader ![GitHub Repo stars](https://img.shields.io/github/stars/ClaudiuGeorgiu/PlaystoreDownloader) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudiuGeorgiu/PlaystoreDownloader)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
 ### Misc Tools
 
