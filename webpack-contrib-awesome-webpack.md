@@ -55,8 +55,8 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 
 ### Documentation
 
-- [Webpack 1.x](http://webpack.github.io/docs/) - Webpack 1.x Documentation
-- [Webpack 2.x](https://webpack.js.org//) - Webpack 2.x Documentation
+- [Webpack 4.x](https://v4.webpack.js.org) - Webpack 4.x Documentation
+- [Webpack 5.x](https://webpack.js.org) - Webpack 5.x Documentation
 
 ### Community
 
