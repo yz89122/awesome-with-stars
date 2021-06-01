@@ -34,6 +34,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [MongooseOS ![GitHub Repo stars](https://img.shields.io/github/stars/cesanta/mongoose-os) ![GitHub last commit](https://img.shields.io/github/last-commit/cesanta/mongoose-os)](https://github.com/cesanta/mongoose-os) - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
 - [DeviceHive](https://devicehive.com/) - A firmware made as a client for DeviceHive's IoT data platform, only for the 8266.
 - [RT-Thread ![GitHub Repo stars](https://img.shields.io/github/stars/RT-Thread/rt-thread) ![GitHub last commit](https://img.shields.io/github/last-commit/RT-Thread/rt-thread)](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
+- [Sming Framework ![GitHub Repo stars](https://img.shields.io/github/stars/SmingHub/Sming) ![GitHub last commit](https://img.shields.io/github/last-commit/SmingHub/Sming)](https://github.com/SmingHub/Sming) - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.  
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
