@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="https://github.com/craftcms/awesome/raw/master/awesome-craft.svg" alt="Awesome Craft CMS">
+  <img width="400" src="https://github.com/craftcms/awesome/raw/main/awesome-craft.svg" alt="Awesome Craft CMS">
   <br><br>
 </div>
 
