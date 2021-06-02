@@ -32,6 +32,7 @@ Table of contents:
 * [EasyAdminBundle ![GitHub Repo stars](https://img.shields.io/github/stars/javiereguiluz/EasyAdminBundle) ![GitHub last commit](https://img.shields.io/github/last-commit/javiereguiluz/EasyAdminBundle)](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 * [SonataAdminBundle ![GitHub Repo stars](https://img.shields.io/github/stars/sonata-project/SonataAdminBundle) ![GitHub last commit](https://img.shields.io/github/last-commit/sonata-project/SonataAdminBundle)](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 * [AdminLTEBundle ![GitHub Repo stars](https://img.shields.io/github/stars/kevinpapst/AdminLTEBundle) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinpapst/AdminLTEBundle)](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
+* [Umbrella framework ![GitHub Repo stars](https://img.shields.io/github/stars/acantepie/umbrella) ![GitHub last commit](https://img.shields.io/github/last-commit/acantepie/umbrella)](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
 
 ## Certification
 * [CLI tool to train certifications ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/certificationy-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/certificationy/certificationy-cli)](https://github.com/certificationy/certificationy-cli)
