@@ -496,6 +496,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [fselect ![GitHub Repo stars](https://img.shields.io/github/stars/jhspetersson/fselect) ![GitHub last commit](https://img.shields.io/github/last-commit/jhspetersson/fselect)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fd ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/fd)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot ![GitHub Repo stars](https://img.shields.io/github/stars/Canop/broot) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+- [rare ![GitHub Repo stars](https://img.shields.io/github/stars/zix99/rare) ![GitHub last commit](https://img.shields.io/github/last-commit/zix99/rare)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## Version Control
 
