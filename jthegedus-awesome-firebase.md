@@ -156,6 +156,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) <!-- · [�
 - 🔧 [Firetable ![GitHub Repo stars](https://img.shields.io/github/stars/AntlerVC/firetable) ![GitHub last commit](https://img.shields.io/github/last-commit/AntlerVC/firetable)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - 🔧 [VSFire ![GitHub Repo stars](https://img.shields.io/github/stars/toba/vsfire) ![GitHub last commit](https://img.shields.io/github/last-commit/toba/vsfire)](https://github.com/toba/vsfire) - Deprecated ~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~
 - 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
+- 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
 
 ## Other
 
