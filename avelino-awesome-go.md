@@ -1086,6 +1086,7 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 * [kazaam ![GitHub Repo stars](https://img.shields.io/github/stars/Qntfy/kazaam) ![GitHub last commit](https://img.shields.io/github/last-commit/Qntfy/kazaam)](https://github.com/Qntfy/kazaam) - API for arbitrary transformation of JSON documents.
 * [mapslice-json ![GitHub Repo stars](https://img.shields.io/github/stars/mickep76/mapslice-json) ![GitHub last commit](https://img.shields.io/github/last-commit/mickep76/mapslice-json)](https://github.com/mickep76/mapslice-json) - Go MapSlice for ordered marshal/ unmarshal of maps in JSON.
 * [mp ![GitHub Repo stars](https://img.shields.io/github/stars/sanbornm/mp) ![GitHub last commit](https://img.shields.io/github/last-commit/sanbornm/mp)](https://github.com/sanbornm/mp) - Simple cli email parser. It currently takes stdin and outputs JSON.
+* [ujson ![GitHub Repo stars](https://img.shields.io/github/stars/olvrng/ujson) ![GitHub last commit](https://img.shields.io/github/last-commit/olvrng/ujson)](https://github.com/olvrng/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 
 ## Logging
 
