@@ -183,6 +183,7 @@ The definition of developer-first for this repo is:
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+* [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 
 ## Repo
 
@@ -225,4 +226,3 @@ The definition of developer-first for this repo is:
 ## Contributing
 
 See here: [CONTRIBUTING.md ![GitHub Repo stars](https://img.shields.io/github/stars/agamm/awesome-developer-first) ![GitHub last commit](https://img.shields.io/github/last-commit/agamm/awesome-developer-first)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
-
