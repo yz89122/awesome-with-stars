@@ -45,6 +45,7 @@ Code meant become part of the extension.
 - [mozilla/webextension-polyfill ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla/webextension-polyfill) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/webextension-polyfill)](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 - [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) - Supplies TypeScript types for the `browser` namespace.
 - [redux-webext ![GitHub Repo stars](https://img.shields.io/github/stars/ivantsov/redux-webext) ![GitHub last commit](https://img.shields.io/github/last-commit/ivantsov/redux-webext)](https://github.com/ivantsov/redux-webext) - Uses [redux ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/redux) ![GitHub last commit](https://img.shields.io/github/last-commit/reactjs/redux)](https://github.com/reactjs/redux) for managing the state of your WebExtension.
+- [ExtPay ![GitHub Repo stars](https://img.shields.io/github/stars/Glench/ExtPay) ![GitHub last commit](https://img.shields.io/github/last-commit/Glench/ExtPay)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 
 ## Tools
 
