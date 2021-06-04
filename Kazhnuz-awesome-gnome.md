@@ -57,7 +57,6 @@
 - [Font Downloader ![GitHub Repo stars](https://img.shields.io/github/stars/GustavoPeredo/font-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/GustavoPeredo/font-downloader)](https://github.com/GustavoPeredo/font-downloader) - Get fonts from Google Font. ![GNOME Circle][GNOME Circle]
 - [Tangram ![GitHub Repo stars](https://img.shields.io/github/stars/sonnyp/Tangram) ![GitHub last commit](https://img.shields.io/github/last-commit/sonnyp/Tangram)](https://github.com/sonnyp/Tangram) - Group your webapps into a single application. ![GNOME Circle][GNOME Circle]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
-- [Midori](https://www.midori-browser.org/) - Lightweight and fast web browser.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
