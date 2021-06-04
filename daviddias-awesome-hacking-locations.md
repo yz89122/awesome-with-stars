@@ -60,6 +60,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Portugal 🇵🇹](#portugal-)
   - [Aveiro](#aveiro)
   - [Braga](#braga)
+  - [Guimarães](#guimarães)
   - [Lisbon](#lisbon)
   - [Porto](#porto)
   - [Viana do Castelo](#viana-do-castelo)
@@ -405,7 +406,7 @@ Webpage: https://www.facebook.com/CafeShopSouthPigalle
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | �� | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
+✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
 
 #### Le Progrès
 
@@ -969,6 +970,18 @@ Webpage: http://www.novaarcada.pt/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
+
+## Guimarães
+
+#### Espaço Guimarães
+
+> Shopping mall just outside Guimarães. There is free WiFi provided by the mall, you just need to re-login once in a while. There is a big offer in power outlets on the restaurant zone. There is also a free shuttle between the shopping and the city (currently suspended due to the pandemic).
+
+Webpage: https://espaco-guimaraes.klepierre.pt
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. 25 de Abril 210, 4835-400 Silvares](https://goo.gl/maps/nQwiW3qHkvUkJz46A) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
 
 ## Lisbon
 
