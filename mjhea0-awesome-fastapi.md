@@ -36,7 +36,7 @@
 
 ### Admin
 
-- [FastAPI Admin ![GitHub Repo stars](https://img.shields.io/github/stars/long2ice/fastapi-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/long2ice/fastapi-admin)](https://github.com/long2ice/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data.
+- [FastAPI Admin ![GitHub Repo stars](https://img.shields.io/github/stars/fastapi-admin/fastapi-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi-admin/fastapi-admin)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data.
 
 ### Auth
 
@@ -54,10 +54,7 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy ![GitHub Repo stars](https://img.shields.io/github/stars/mfreeborn/fastapi-sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/mfreeborn/fastapi-sqlalchemy)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
-- [Tortoise ORM](https://tortoise-orm.readthedocs.io/en/latest/index.html) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
-  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
-  - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-  - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM migrations tools.
+- [FastAPIwee ![GitHub Repo stars](https://img.shields.io/github/stars/Ignisor/FastAPIwee) ![GitHub last commit](https://img.shields.io/github/last-commit/Ignisor/FastAPIwee)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee ![GitHub Repo stars](https://img.shields.io/github/stars/coleifer/peewee) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee) models.
 - [GINO ![GitHub Repo stars](https://img.shields.io/github/stars/python-gino/gino) ![GitHub last commit](https://img.shields.io/github/last-commit/python-gino/gino)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   - [FastAPI Example ![GitHub Repo stars](https://img.shields.io/github/stars/leosussan/fastapi-gino-arq-uvicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/leosussan/fastapi-gino-arq-uvicorn)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM ![GitHub Repo stars](https://img.shields.io/github/stars/encode/orm) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm) - An async ORM.
@@ -65,7 +62,10 @@
 - [Piccolo ![GitHub Repo stars](https://img.shields.io/github/stars/piccolo-orm/piccolo) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
   - [FastAPI Examples ![GitHub Repo stars](https://img.shields.io/github/stars/piccolo-orm/piccolo_examples) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo_examples)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
   - [Piccolo Admin ![GitHub Repo stars](https://img.shields.io/github/stars/piccolo-orm/piccolo_admin) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo_admin)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
-
+- [Tortoise ORM](https://tortoise-orm.readthedocs.io/en/latest/index.html) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
+  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
+  - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
+  - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM migrations tools.
 
 #### Query Builders
 
@@ -103,8 +103,10 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 ### Utils
 
 - [FastAPI Cache ![GitHub Repo stars](https://img.shields.io/github/stars/comeuplater/fastapi_cache) ![GitHub last commit](https://img.shields.io/github/last-commit/comeuplater/fastapi_cache)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
+- [FastAPI Chameleon ![GitHub Repo stars](https://img.shields.io/github/stars/mikeckennedy/fastapi-chameleon) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeckennedy/fastapi-chameleon)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
 - [FastAPI Contrib ![GitHub Repo stars](https://img.shields.io/github/stars/identixone/fastapi_contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/identixone/fastapi_contrib)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
 - [FastAPI CRUDRouter ![GitHub Repo stars](https://img.shields.io/github/stars/awtkns/fastapi-crudrouter) ![GitHub last commit](https://img.shields.io/github/last-commit/awtkns/fastapi-crudrouter)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
+- [FastAPI Jinja ![GitHub Repo stars](https://img.shields.io/github/stars/AGeekInside/fastapi-jinja) ![GitHub last commit](https://img.shields.io/github/last-commit/AGeekInside/fastapi-jinja)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 - [FastAPI Limiter ![GitHub Repo stars](https://img.shields.io/github/stars/long2ice/fastapi-limiter) ![GitHub last commit](https://img.shields.io/github/last-commit/long2ice/fastapi-limiter)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
 - [FastAPI MQTT ![GitHub Repo stars](https://img.shields.io/github/stars/sabuhish/fastapi-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/sabuhish/fastapi-mqtt)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
 - [FastAPI Pagination ![GitHub Repo stars](https://img.shields.io/github/stars/uriyyo/fastapi-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/uriyyo/fastapi-pagination)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
@@ -114,6 +116,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 - [FastAPI Utilities ![GitHub Repo stars](https://img.shields.io/github/stars/dmontagu/fastapi-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/dmontagu/fastapi-utils)](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 - [FastAPI Websocket Pub/Sub ![GitHub Repo stars](https://img.shields.io/github/stars/authorizon/fastapi_websocket_pubsub) ![GitHub last commit](https://img.shields.io/github/last-commit/authorizon/fastapi_websocket_pubsub)](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
 - [FastAPI Websocket RPC ![GitHub Repo stars](https://img.shields.io/github/stars/authorizon/fastapi_websocket_rpc) ![GitHub last commit](https://img.shields.io/github/last-commit/authorizon/fastapi_websocket_rpc)](https://github.com/authorizon/fastapi_websocket_rpc) - RPC (bidirectional JSON RPC) over Websockets made easy, robust, and production ready.
+- [OpenTelemetry FastAPI Instrumentation ![GitHub Repo stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-python-contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/open-telemetry/opentelemetry-python-contrib)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 - [Prerender Python Starlette ![GitHub Repo stars](https://img.shields.io/github/stars/BeeMyDesk/prerender-python-starlette) ![GitHub last commit](https://img.shields.io/github/last-commit/BeeMyDesk/prerender-python-starlette)](https://github.com/BeeMyDesk/prerender-python-starlette) - Starlette middleware for Prerender.
 - [Prometheus FastAPI Instrumentator ![GitHub Repo stars](https://img.shields.io/github/stars/trallnag/prometheus-fastapi-instrumentator) ![GitHub last commit](https://img.shields.io/github/last-commit/trallnag/prometheus-fastapi-instrumentator)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 - [SlowApi ![GitHub Repo stars](https://img.shields.io/github/stars/laurents/slowapi) ![GitHub last commit](https://img.shields.io/github/last-commit/laurents/slowapi)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
@@ -147,6 +150,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 
 ### Tutorials
 
+- [Async SQLAlchemy with FastAPI](https://stribny.name/blog/fastapi-asyncalchemy/) - Learn how to use SQLAlchemy asynchronously.
 - [Demystifying Authentication with FastAPI and a Frontend](https://kernelpanic.io/demystifying-authentication-with-fastapi-and-a-frontend/) - Add token-based authentication.
 - [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
@@ -161,12 +165,14 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
   - [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - Deploy a machine learning model via a web-based API.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
-- [Implementing FastAPI Services �� Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) - Getting started with a complete FastAPI web application stack.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - Quick intro to FastAPI.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Comparison of Flask vs FastAPI.
 - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/) - Learn how to stream data from FastAPI directly into a real-time chart.
+- [Running FastAPI applications in production](https://stribny.name/blog/fastapi-production/) - Use Gunicorn with systemd for production deployments.
 - [Serving Machine Learning Models with FastAPI in Python](https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459) - Use FastAPI to quickly and easily deploy and serve machine learning models in Python as a RESTful API.
+- [Streaming video with FastAPI](https://stribny.name/blog/fastapi-video/) - Learn how to serve video streams.
 - [Using Hypothesis and Schemathesis to Test FastAPI](https://testdriven.io/blog/fastapi-hypothesis/) - Apply property-based testing to FastAPI.
 
 ### Talks
