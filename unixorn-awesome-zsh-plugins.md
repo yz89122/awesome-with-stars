@@ -37,6 +37,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [pz](#pz)
   - [sheldon](#sheldon)
   - [Toasty](#toasty)
+  - [tzpm](#tzpm)
   - [uz](#uz)
   - [yazt](#yazt)
   - [zapack](#zapack)
@@ -190,6 +191,10 @@ A fast, configurable, shell plugin manager.
 ### [Toasty ![GitHub Repo stars](https://img.shields.io/github/stars/5paceToast/toasty-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/5paceToast/toasty-zsh)](https://github.com/5paceToast/toasty-zsh)
 
 **Toasty** is a ZSH framework made to facilitate management, not dictate it.
+
+### [tzpm ![GitHub Repo stars](https://img.shields.io/github/stars/notusknot/tzpm) ![GitHub last commit](https://img.shields.io/github/last-commit/notusknot/tzpm)](https://github.com/notusknot/tzpm)
+
+The tiniest ZSH plugin manager. Still under development.
 
 ### [uz ![GitHub Repo stars](https://img.shields.io/github/stars/maxrodrigo/uz) ![GitHub last commit](https://img.shields.io/github/last-commit/maxrodrigo/uz)](https://github.com/maxrodrigo/uz)
 
