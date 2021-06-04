@@ -270,6 +270,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Security
 - [Acra ![GitHub Repo stars](https://img.shields.io/github/stars/cossacklabs/acra) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/acra)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
+- [Databunker ![GitHub Repo stars](https://img.shields.io/github/stars/securitybunker/databunker) ![GitHub last commit](https://img.shields.io/github/last-commit/securitybunker/databunker)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
 
 ## Code formatters
