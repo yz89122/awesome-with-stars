@@ -250,7 +250,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Playground ![GitHub Repo stars](https://img.shields.io/github/stars/jorge07/ddd-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jorge07/ddd-playground)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
 - [Eric Evans DDD Cargo Sample ![GitHub Repo stars](https://img.shields.io/github/stars/codeliner/php-ddd-cargo-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/codeliner/php-ddd-cargo-sample)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 - [Shop Cart in PHP ![GitHub Repo stars](https://img.shields.io/github/stars/simara-svatopluk/cart) ![GitHub last commit](https://img.shields.io/github/last-commit/simara-svatopluk/cart)](https://github.com/simara-svatopluk/cart) - Sample project that demonstrates how simple shop cart can look like. Domain objects,Doctrine integration.,TDD,layers,unit testing
-
+- [Symfony 5 DDD ES CQRS backend ![GitHub Repo stars](https://img.shields.io/github/stars/jorge07/symfony-5-es-cqrs-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/jorge07/symfony-5-es-cqrs-boilerplate)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
 
 ## Libraries and Frameworks
 
