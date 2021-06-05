@@ -32,7 +32,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Libraries](#libraries)
 - [Boilerplates](#Boilerplates)
 - [Terraform Enterprise](#terraform-enterprise)
-- [Talks](#talks)
+- [Videos](#videos)
 - [Editor Plugins](#editor-plugins)
 
 ## Legend
@@ -281,6 +281,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfwrapper ![GitHub Repo stars](https://img.shields.io/github/stars/manheim/tfwrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/manheim/tfwrapper)](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
 - [tgf ![GitHub Repo stars](https://img.shields.io/github/stars/coveo/tgf) ![GitHub last commit](https://img.shields.io/github/last-commit/coveo/tgf)](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 - [xterrafile ![GitHub Repo stars](https://img.shields.io/github/stars/devopsmakers/xterrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/devopsmakers/xterrafile)](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git or local directories for use in Terraform (written in Go).
+- [yor ![GitHub Repo stars](https://img.shields.io/github/stars/bridgecrewio/yor) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/yor)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
 
 ## Libraries
 
