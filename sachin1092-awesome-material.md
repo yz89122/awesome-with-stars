@@ -45,6 +45,7 @@ CSS
   - [material-framework ![GitHub Repo stars](https://img.shields.io/github/stars/nt1m/material-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/nt1m/material-framework)](https://github.com/nt1m/material-framework) — An easy to use material design based framework.
   - [mui ![GitHub Repo stars](https://img.shields.io/github/stars/muicss/mui) ![GitHub last commit](https://img.shields.io/github/last-commit/muicss/mui)](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
   - [material-foundation ![GitHub Repo stars](https://img.shields.io/github/stars/eucalyptuss/material-foundation) ![GitHub last commit](https://img.shields.io/github/last-commit/eucalyptuss/material-foundation)](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
+  - [Tronic247 Material](https://www.tronic247.com/material/) - A material design framework based on jQuery and CSS
 
 JS
 ==
