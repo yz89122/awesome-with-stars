@@ -677,7 +677,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-table ![GitHub Repo stars](https://img.shields.io/github/stars/valor-software/ng2-table) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-table)](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [ngfb-sortable-table ![GitHub Repo stars](https://img.shields.io/github/stars/NodeArt/Angular-Firebase-Sortable-Table) ![GitHub last commit](https://img.shields.io/github/last-commit/NodeArt/Angular-Firebase-Sortable-Table)](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
 * [ngx-datatable ![GitHub Repo stars](https://img.shields.io/github/stars/swimlane/ngx-datatable) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-datatable)](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
-
+* [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular ![GitHub Repo stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/IgniteUI/igniteui-angular)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 
 #### UI Libraries
 
