@@ -35,6 +35,9 @@
 	- Common/Utilities
 		- [Basic](#basic)
 		- [Containers](#containers)
+	- Continuous Integration
+		- [GitHub Actions](#github-actions)
+		- [Testing Frameworks](#testing-frameworks)
 	- Networking/Web Related
 		- [Networking](#networking-library)
 		- [Web Frameworks](#web-frameworks)
@@ -69,7 +72,6 @@
 		- [Logging](#logging)
 		- [Configuration](#configuration)
 		- [BlogEngine](#blog-engine)
-		- [Testing](#testing)
 		
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -261,6 +263,19 @@
 - [memutils ![GitHub Repo stars](https://img.shields.io/github/stars/etcimon/memutils) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/memutils)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 - [dlib.container ![GitHub Repo stars](https://img.shields.io/github/stars/gecko0307/dlib) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dlib)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 - [std.rcstring ![GitHub Repo stars](https://img.shields.io/github/stars/burner/std.rcstring) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/std.rcstring)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
+
+## GitHub Actions
+
+- [setup-dlang ![GitHub Repo stars](https://img.shields.io/github/stars/dlang-community/setup-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/setup-dlang)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+- [dub-upgrade ![GitHub Repo stars](https://img.shields.io/github/stars/WebFreak001/dub-upgrade) ![GitHub last commit](https://img.shields.io/github/last-commit/WebFreak001/dub-upgrade)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+
+<a name="testing"></a>
+
+## Testing Frameworks
+
+- [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+- [dunit ![GitHub Repo stars](https://img.shields.io/github/stars/nomad-software/dunit) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad-software/dunit)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+- [unit-threaded ![GitHub Repo stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Web Frameworks
 
@@ -503,11 +518,6 @@
 *Hosting blogs yourself*
 
 - [mood ![GitHub Repo stars](https://img.shields.io/github/stars/mihails-strasuns/mood) ![GitHub last commit](https://img.shields.io/github/last-commit/mihails-strasuns/mood)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
-
-## Testing
-
-- [dunit ![GitHub Repo stars](https://img.shields.io/github/stars/nomad-software/dunit) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad-software/dunit)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-- [unit-threaded ![GitHub Repo stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome ![GitHub Repo stars](https://img.shields.io/github/stars/emijrp/awesome-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/emijrp/awesome-awesome)](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ![GitHub Repo stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness) ![GitHub last commit](https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness)](https://github.com/bayandin/awesome-awesomeness) projects.
