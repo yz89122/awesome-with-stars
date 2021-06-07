@@ -124,7 +124,7 @@ _UI frameworks for mobile._
 ## UI Libraries
 
 - [Svelte Materialify ![GitHub Repo stars](https://img.shields.io/github/stars/TheComputerM/svelte-materialify) ![GitHub last commit](https://img.shields.io/github/last-commit/TheComputerM/svelte-materialify)](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library heavily inspired by vuetify.
-- [Sveltestrap ![GitHub Repo stars](https://img.shields.io/github/stars/bestguy/sveltestrap) ![GitHub last commit](https://img.shields.io/github/last-commit/bestguy/sveltestrap)](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components.
+- [Sveltestrap ![GitHub Repo stars](https://img.shields.io/github/stars/bestguy/sveltestrap) ![GitHub last commit](https://img.shields.io/github/last-commit/bestguy/sveltestrap)](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 - [Smelte ![GitHub Repo stars](https://img.shields.io/github/stars/matyunya/smelte) ![GitHub last commit](https://img.shields.io/github/last-commit/matyunya/smelte)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI ![GitHub Repo stars](https://img.shields.io/github/stars/hperrin/svelte-material-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/hperrin/svelte-material-ui)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte ![GitHub Repo stars](https://img.shields.io/github/stars/IBM/carbon-components-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/IBM/carbon-components-svelte)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
