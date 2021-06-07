@@ -83,6 +83,7 @@
 
 ## Advanced datastructures
 
+  * [specter ![GitHub Repo stars](https://img.shields.io/github/stars/redplanetlabs/specter) ![GitHub last commit](https://img.shields.io/github/last-commit/redplanetlabs/specter)](https://github.com/redplanetlabs/specter): an elegant API for querying and transforming nested and recursive data
   * [Persistent AVL trees ![GitHub Repo stars](https://img.shields.io/github/stars/clojure/data.avl) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/data.avl)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
   * [Finger Tree ![GitHub Repo stars](https://img.shields.io/github/stars/clojure/data.finger-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/data.finger-tree)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
   * [Hitchhiker Tree ![GitHub Repo stars](https://img.shields.io/github/stars/datacrypt-project/hitchhiker-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/datacrypt-project/hitchhiker-tree)](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
@@ -430,6 +431,7 @@ anylysis and visualization.*
   * [rainbow_parentheses.vim (Vim) ![GitHub Repo stars](https://img.shields.io/github/stars/junegunn/rainbow_parentheses.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/rainbow_parentheses.vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [vim-iced (Vim) ![GitHub Repo stars](https://img.shields.io/github/stars/liquidz/vim-iced) ![GitHub last commit](https://img.shields.io/github/last-commit/liquidz/vim-iced)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
+  * [proto-repl (Atom)](https://atom.io/packages/proto-repl)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode) ![GitHub Repo stars](https://img.shields.io/github/stars/avli/clojureVSCode) ![GitHub last commit](https://img.shields.io/github/last-commit/avli/clojureVSCode)](https://github.com/avli/clojureVSCode)
