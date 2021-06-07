@@ -873,6 +873,7 @@
 - [Bagisto ![GitHub Repo stars](https://img.shields.io/github/stars/bagisto/bagisto) ![GitHub last commit](https://img.shields.io/github/last-commit/bagisto/bagisto)](https://github.com/bagisto/bagisto) -  A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 - [Samaya ![GitHub Repo stars](https://img.shields.io/github/stars/bibhuticoder/samaya) ![GitHub last commit](https://img.shields.io/github/last-commit/bibhuticoder/samaya)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
+- [GrandNode 2.0 ![GitHub Repo stars](https://img.shields.io/github/stars/grandnode/grandnode2) ![GitHub last commit](https://img.shields.io/github/last-commit/grandnode/grandnode2)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 
 ### Commercial Products
 
