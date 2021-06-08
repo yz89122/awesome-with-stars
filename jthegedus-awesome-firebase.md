@@ -12,7 +12,7 @@ The most **up to date** list of Firebase docs, talks, tools, examples & articles
 <!-- image -->
 
 <a href="https://firebase.google.com/docs/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/jthegedus/awesome-firebase/raw/main/images/firebase-services.gif" />
+  <img src="https://github.com/jthegedus/awesome-firebase/raw/master/images/firebase-services.gif" />
 </a>
 
 <!-- translations -->

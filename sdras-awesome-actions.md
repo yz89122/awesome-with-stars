@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="https://github.com/sdras/awesome-actions/raw/main/awesome-actions.png" width="150"/>
+    <img src="https://github.com/sdras/awesome-actions/raw/master/awesome-actions.png" width="150"/>
   <br>
 </p>
 
