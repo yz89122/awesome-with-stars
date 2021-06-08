@@ -219,6 +219,7 @@
 - [Inapptics](https://inapptics.com) - Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays.
 - [Matomo ![GitHub Repo stars](https://img.shields.io/github/stars/matomo-org/matomo-sdk-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/matomo-org/matomo-sdk-ios)](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 - [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+- [Shake](https://www.shakebugs.com/) - In-app feedback and bug reporting tool. Fix app bugs up to 50x faster with detailed device data, repro steps, video recording, black box data, network requests and custom logging.
 
 ## App Routing
 
@@ -1505,7 +1506,7 @@ Most of these are paid services, some have free tiers.
 - [TipJarViewController ![GitHub Repo stars](https://img.shields.io/github/stars/lionheart/TipJarViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/lionheart/TipJarViewController)](https://github.com/lionheart/TipJarViewController) - Easy, drop-in tip jar for iOS apps.
 - [FramesIos ![GitHub Repo stars](https://img.shields.io/github/stars/checkout/frames-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/checkout/frames-ios)](https://github.com/checkout/frames-ios) - Payment Form UI and Utilities in Swift.
 - [YRPayment ![GitHub Repo stars](https://img.shields.io/github/stars/yassram/YRPayment) ![GitHub last commit](https://img.shields.io/github/last-commit/yassram/YRPayment)](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift.
-- [AnimatedCardInput ![GitHub Repo stars](https://img.shields.io/github/stars/netguru/AnimatedCardInput) ![GitHub last commit](https://img.shields.io/github/last-commit/netguru/AnimatedCardInput)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
+- [AnimatedCardInput ![GitHub Repo stars](https://img.shields.io/github/stars/netguru/AnimatedCardInput) ![GitHub last commit](https://img.shields.io/github/last-commit/netguru/AnimatedCardInput)](https://github.com/netguru/AnimatedCardInput) ��� Easy to use library with customisable components for input of Credit Card data.
 
 ## Permissions
 - [Proposer ![GitHub Repo stars](https://img.shields.io/github/stars/nixzhu/Proposer) ![GitHub last commit](https://img.shields.io/github/last-commit/nixzhu/Proposer)](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location).
