@@ -3,7 +3,7 @@
 <p align="center">
   <br />
   <a href="https://inertiajs.com/">
-    <img width="100" src="https://github.com/innocenzi/awesome-inertiajs/raw/master/assets/logo.svg" alt="logo of awesome-inertiajs repository">
+    <img width="100" src="https://github.com/innocenzi/awesome-inertiajs/raw/main/assets/logo.svg" alt="logo of awesome-inertiajs repository">
   </a>
   <br />
   <br />

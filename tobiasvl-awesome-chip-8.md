@@ -1,6 +1,6 @@
 # Awesome CHIP-8 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[<img src="https://github.com/tobiasvl/awesome-chip-8/raw/master/c8.png" align="right" width="100">](https://chip-8.github.io)
+[<img src="https://github.com/tobiasvl/awesome-chip-8/raw/main/c8.png" align="right" width="100">](https://chip-8.github.io)
 
 > Virtual computer game machine from the 70s 
 
