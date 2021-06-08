@@ -32,6 +32,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Python Modules](#python-modules)
     - [Data](#data)
     - [Tools](#tools)
+  - [Assembly](#assembly)
+  - [Annotation](#annotation)
 - [Visualization](#visualization)
   - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
@@ -111,6 +113,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[Bactopia ![GitHub Repo stars](https://img.shields.io/github/stars/bactopia/bactopia) ![GitHub last commit](https://img.shields.io/github/last-commit/bactopia/bactopia)](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ [web](https://bactopia.github.io/) ]
 - **[bcbio-nextgen ![GitHub Repo stars](https://img.shields.io/github/stars/chapmanb/bcbio-nextgen) ![GitHub last commit](https://img.shields.io/github/last-commit/chapmanb/bcbio-nextgen)](https://github.com/chapmanb/bcbio-nextgen)** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
 - **[R-Peridot ![GitHub Repo stars](https://img.shields.io/github/stars/pentalpha/r-peridot) ![GitHub last commit](https://img.shields.io/github/last-commit/pentalpha/r-peridot)](https://github.com/pentalpha/r-peridot)** - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
+- **[ngs-preprocess ![GitHub Repo stars](https://img.shields.io/github/stars/fmalmeida/ngs-preprocess) ![GitHub last commit](https://img.shields.io/github/last-commit/fmalmeida/ngs-preprocess)](https://github.com/fmalmeida/ngs-preprocess)** - A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ [web](https://ngs-preprocess.readthedocs.io/en/latest/?badge=latest) ]
 
 ### Sequence Processing
 
@@ -191,6 +194,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 ### GFF BED File Utilities
 
+- **[AGAT ![GitHub Repo stars](https://img.shields.io/github/stars/NBISweden/AGAT) ![GitHub last commit](https://img.shields.io/github/last-commit/NBISweden/AGAT)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. [ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 - **[gffutils ![GitHub Repo stars](https://img.shields.io/github/stars/daler/gffutils) ![GitHub last commit](https://img.shields.io/github/last-commit/daler/gffutils)](https://github.com/daler/gffutils)** - GFF and GTF file manipulation and interconversion. [ [web](http://daler.github.io/gffutils) ]
 - **[BEDOPS](https://bedops.readthedocs.io/en/latest/index.html)** - The fast, highly scalable and easily-parallelizable genome analysis toolkit. [ [paper-2012](https://academic.oup.com/bioinformatics/article/28/14/1919/218826) ]
 - **[Bedtools2 ![GitHub Repo stars](https://img.shields.io/github/stars/arq5x/bedtools2) ![GitHub last commit](https://img.shields.io/github/last-commit/arq5x/bedtools2)](https://github.com/arq5x/bedtools2)** - A Swiss Army knife for genome arithmetic. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20110278) | [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25199790) | [web](https://bedtools.readthedocs.io) ]
@@ -221,6 +225,14 @@ The following items allow for scalable genomic analysis by introducing specializ
 - **[pyfaidx ![GitHub Repo stars](https://img.shields.io/github/stars/mdshw5/pyfaidx) ![GitHub last commit](https://img.shields.io/github/last-commit/mdshw5/pyfaidx)](https://github.com/mdshw5/pyfaidx)** - Pythonic access to FASTA files.
 - **[pysam ![GitHub Repo stars](https://img.shields.io/github/stars/pysam-developers/pysam) ![GitHub last commit](https://img.shields.io/github/last-commit/pysam-developers/pysam)](https://github.com/pysam-developers/pysam)** - Python wrapper for [samtools ![GitHub Repo stars](https://img.shields.io/github/stars/samtools/samtools) ![GitHub last commit](https://img.shields.io/github/last-commit/samtools/samtools)](https://github.com/samtools/samtools). [ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 - **[pyVCF ![GitHub Repo stars](https://img.shields.io/github/stars/jamescasbon/PyVCF) ![GitHub last commit](https://img.shields.io/github/last-commit/jamescasbon/PyVCF)](https://github.com/jamescasbon/PyVCF)** - A VCF Parser for Python. [ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
+
+### Assembly
+- **[SPAdes ![GitHub Repo stars](https://img.shields.io/github/stars/ablab/spades) ![GitHub last commit](https://img.shields.io/github/last-commit/ablab/spades)](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
+- **[SKESA ![GitHub Repo stars](https://img.shields.io/github/stars/ncbi/SKESA) ![GitHub last commit](https://img.shields.io/github/last-commit/ncbi/SKESA)](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
+
+### Annotation
+- **[Prokka ![GitHub Repo stars](https://img.shields.io/github/stars/tseemann/prokka) ![GitHub last commit](https://img.shields.io/github/last-commit/tseemann/prokka)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
+- **[Bakta ![GitHub Repo stars](https://img.shields.io/github/stars/oschwengers/bakta) ![GitHub last commit](https://img.shields.io/github/last-commit/oschwengers/bakta)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
 ## Visualization
 
