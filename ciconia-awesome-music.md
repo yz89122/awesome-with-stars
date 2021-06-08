@@ -95,6 +95,7 @@ Thanks to all [contributors ![GitHub Repo stars](https://img.shields.io/github/s
 * [MusicKit ![GitHub Repo stars](https://img.shields.io/github/stars/venturemedia/musickit) ![GitHub last commit](https://img.shields.io/github/last-commit/venturemedia/musickit)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib ![GitHub Repo stars](https://img.shields.io/github/stars/openlilylib/snippets) ![GitHub last commit](https://img.shields.io/github/last-commit/openlilylib/snippets)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+* [OpenSheetMusicDisplay ![GitHub Repo stars](https://img.shields.io/github/stars/opensheetmusicdisplay/opensheetmusicdisplay) ![GitHub last commit](https://img.shields.io/github/last-commit/opensheetmusicdisplay/opensheetmusicdisplay)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
 * [Ripple ![GitHub Repo stars](https://img.shields.io/github/stars/ciconia/ripple) ![GitHub last commit](https://img.shields.io/github/last-commit/ciconia/ripple)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
