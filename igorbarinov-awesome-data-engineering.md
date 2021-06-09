@@ -48,6 +48,7 @@ List of content
 	* [AWS Redshift](https://aws.amazon.com/redshift/) A fast, fully managed, petabyte-scale data warehouse that makes it simple and cost-effective to analyze all your data using your existing business intelligence tools.
 	* [FiloDB ![GitHub Repo stars](https://img.shields.io/github/stars/filodb/FiloDB) ![GitHub last commit](https://img.shields.io/github/last-commit/filodb/FiloDB)](https://github.com/filodb/FiloDB) Distributed. Columnar. Versioned. Streaming. SQL.
 	* [Vertica](https://www.vertica.com) Distributed, MPP columnar database with extensive analytics SQL.
+	* [ClickHouse](https://clickhouse.tech) Distributed columnar DBMS for OLAP. SQL.
 - Document
 	* [MongoDB](https://www.mongodb.com) An open-source, document database designed for ease of development and scaling. 
 		* [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) Percona Server for MongoDB® is a free, enhanced, fully compatible, open source, drop-in replacement for the MongoDB® Community Edition that includes enterprise-grade features and functionality.
@@ -69,6 +70,7 @@ List of content
 - Timeseries
 	* [InfluxDB ![GitHub Repo stars](https://img.shields.io/github/stars/influxdata/influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/influxdata/influxdb)](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics.
 	* [OpenTSDB ![GitHub Repo stars](https://img.shields.io/github/stars/OpenTSDB/opentsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenTSDB/opentsdb)](https://github.com/OpenTSDB/opentsdb) A scalable, distributed Time Series Database.
+	* [QuestDB](https://questdb.io/) A relational column-oriented database designed for real-time analytics on time series and event data.
 	* [kairosdb ![GitHub Repo stars](https://img.shields.io/github/stars/kairosdb/kairosdb) ![GitHub last commit](https://img.shields.io/github/last-commit/kairosdb/kairosdb)](https://github.com/kairosdb/kairosdb) Fast scalable time series database.
 	* [Heroic ![GitHub Repo stars](https://img.shields.io/github/stars/spotify/heroic) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/heroic)](https://github.com/spotify/heroic) A scalable time series database based on Cassandra and Elasticsearch, by Spotify
 	* [Druid ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-druid) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-druid)](https://github.com/apache/incubator-druid) Column oriented distributed data store ideal for powering interactive applications
@@ -202,7 +204,7 @@ multi-processor, multi-core machines
 * [Oozie](https://oozie.apache.org/) Oozie is a workflow scheduler system to manage Apache Hadoop jobs
 * [Pinball ![GitHub Repo stars](https://img.shields.io/github/stars/pinterest/pinball) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/pinball)](https://github.com/pinterest/pinball) DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
 * [Dagster ![GitHub Repo stars](https://img.shields.io/github/stars/dagster-io/dagster) ![GitHub last commit](https://img.shields.io/github/last-commit/dagster-io/dagster)](https://github.com/dagster-io/dagster) Dagster is an open-source Python library for building data applications.
-* [Dataform] (https://dataform.co/) is an open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
+* [Dataform](https://dataform.co/) is an open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
 * [Census](https://getcensus.com/) is a reverse-ETL  tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.
 * [dbt](https://getdbt.com/) is a command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
 
@@ -252,7 +254,7 @@ multi-processor, multi-core machines
 * [/r/etl](https://www.reddit.com/r/ETL/) Subreddit focused on ETL
 
 ## Conferences
-* [DataEngConf](https://www.datacouncil.ai/about) DataEngConf is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
+* [Data Council](https://www.datacouncil.ai/about) Data Council is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
 
 ## Podcasts
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.
