@@ -296,6 +296,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [visidata ![GitHub Repo stars](https://img.shields.io/github/stars/saulpw/visidata) ![GitHub last commit](https://img.shields.io/github/last-commit/saulpw/visidata)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 * [xidel ![GitHub Repo stars](https://img.shields.io/github/stars/benibela/xidel) ![GitHub last commit](https://img.shields.io/github/last-commit/benibela/xidel)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+* [yq ![GitHub Repo stars](https://img.shields.io/github/stars/mikefarah/yq) ![GitHub last commit](https://img.shields.io/github/last-commit/mikefarah/yq)](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 
 ## Applications
 
@@ -404,6 +405,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shellcheck ![GitHub Repo stars](https://img.shields.io/github/stars/koalaman/shellcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/koalaman/shellcheck)](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire ![GitHub Repo stars](https://img.shields.io/github/stars/shellfire-dev/shellfire) ![GitHub last commit](https://img.shields.io/github/last-commit/shellfire-dev/shellfire)](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shellspec ![GitHub Repo stars](https://img.shields.io/github/stars/shellspec/shellspec) ![GitHub last commit](https://img.shields.io/github/last-commit/shellspec/shellspec)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
+* [shfmt ![GitHub Repo stars](https://img.shields.io/github/stars/mvdan/sh) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/sh)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 * [shpec ![GitHub Repo stars](https://img.shields.io/github/stars/rylnd/shpec) ![GitHub last commit](https://img.shields.io/github/last-commit/rylnd/shpec)](https://github.com/rylnd/shpec) - A shell testing framework
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub ![GitHub Repo stars](https://img.shields.io/github/stars/basecamp/sub) ![GitHub last commit](https://img.shields.io/github/last-commit/basecamp/sub)](https://github.com/basecamp/sub) - A delicious way to organize programs
