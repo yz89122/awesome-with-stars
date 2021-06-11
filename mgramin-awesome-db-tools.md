@@ -63,6 +63,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## GUI Managers/Clients
 - [Adminer ![GitHub Repo stars](https://img.shields.io/github/stars/vrana/adminer) ![GitHub last commit](https://img.shields.io/github/last-commit/vrana/adminer)](https://github.com/vrana/adminer) - Database management in a single PHP file.
+- [Beekeeper Studio ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/beekeeper-studio/beekeeper-studio)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
 - [HouseOps ![GitHub Repo stars](https://img.shields.io/github/stars/HouseOps/HouseOps) ![GitHub last commit](https://img.shields.io/github/last-commit/HouseOps/HouseOps)](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
