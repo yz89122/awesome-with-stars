@@ -158,6 +158,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Patchwork ![GitHub Repo stars](https://img.shields.io/github/stars/thomasp85/patchwork) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasp85/patchwork)](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 * [plot3D](http://www.rforscience.com/rpackages/visualisation/plot3d/) - Plotting Multi-Dimensional Data
 * [plot3Drgl](https://cran.r-project.org/web/packages/plot3Drgl/index.html) - Plotting Multi-Dimensional Data - Using 'rgl'
+* [httpgd ![GitHub Repo stars](https://img.shields.io/github/stars/nx10/httpgd) ![GitHub last commit](https://img.shields.io/github/last-commit/nx10/httpgd)](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
@@ -222,6 +223,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Rfacebook ![GitHub Repo stars](https://img.shields.io/github/stars/pablobarbera/Rfacebook) ![GitHub last commit](https://img.shields.io/github/last-commit/pablobarbera/Rfacebook)](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
 * [RSiteCatalyst ![GitHub Repo stars](https://img.shields.io/github/stars/randyzwitch/RSiteCatalyst) ![GitHub last commit](https://img.shields.io/github/last-commit/randyzwitch/RSiteCatalyst)](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
 * [plumber ![GitHub Repo stars](https://img.shields.io/github/stars/trestletech/plumber) ![GitHub last commit](https://img.shields.io/github/last-commit/trestletech/plumber)](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
+* [golem](https://thinkr-open.github.io/golem/) - A framework for building production-grade Shiny apps.
 
 ## Parallel Computing
 *Packages for parallel computing.*
@@ -423,6 +425,7 @@ Angle Regression
 * [MonkeyLearn ![GitHub Repo stars](https://img.shields.io/github/stars/masalmon/monkeylearn) ![GitHub last commit](https://img.shields.io/github/last-commit/masalmon/monkeylearn)](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
 * [tidytext](http://tidytextmining.com/index.html) - Implementing tidy principles of Hadley Wickham to text mining.
 * [utf8 ![GitHub Repo stars](https://img.shields.io/github/stars/patperry/r-utf8) ![GitHub last commit](https://img.shields.io/github/last-commit/patperry/r-utf8)](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [corporaexplorer](https://kgjerde.github.io/corporaexplorer/) - Dynamic exploration of text collections
 
 ## Bayesian
 *Packages for Bayesian Inference.*
