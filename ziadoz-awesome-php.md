@@ -383,6 +383,7 @@ Please see [CONTRIBUTING ![GitHub Repo stars](https://img.shields.io/github/star
 
 * [Better Reflection ![GitHub Repo stars](https://img.shields.io/github/stars/Roave/BetterReflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Roave/BetterReflection)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
+* [GrumPHP ![GitHub Repo stars](https://img.shields.io/github/stars/phpro/grumphp) ![GitHub last commit](https://img.shields.io/github/last-commit/phpro/grumphp)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 * [PHP Parser ![GitHub Repo stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Semantic Versioning Checker ![GitHub Repo stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [Phpactor ![GitHub Repo stars](https://img.shields.io/github/stars/phpactor/phpactor) ![GitHub last commit](https://img.shields.io/github/last-commit/phpactor/phpactor)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
@@ -595,8 +596,7 @@ Libraries to help manage database schemas and migrations.
 * [Elastica ![GitHub Repo stars](https://img.shields.io/github/stars/ruflin/Elastica) ![GitHub last commit](https://img.shields.io/github/last-commit/ruflin/Elastica)](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 * [ElasticSearch PHP ![GitHub Repo stars](https://img.shields.io/github/stars/elastic/elasticsearch-php) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-php)](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://lucene.apache.org/solr/).
-* [Sphinx Search ![GitHub Repo stars](https://img.shields.io/github/stars/ripaclub/sphinxsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/ripaclub/sphinxsearch)](https://github.com/ripaclub/sphinxsearch) - Sphinx Search library provides SphinxQL indexing and searching features
-* [SphinxQL query builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) search engine.
+* [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
 ### Command Line
 *Libraries related to the command line.*
