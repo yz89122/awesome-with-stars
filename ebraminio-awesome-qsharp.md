@@ -34,7 +34,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Quantum Classification ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MLADS2020-QuantumClassification) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/MLADS2020-QuantumClassification)](https://github.com/microsoft/MLADS2020-QuantumClassification) - Materials for self-paced "Introduction to Quantum Classification" lab presented at MLADS 2020.
 
 ## Books
-- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, 2021, [Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
 
 ## Videos
 <!--lint ignore double-link-->
@@ -73,6 +73,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Emacs ![GitHub Repo stars](https://img.shields.io/github/stars/forked-from-1kasper/emacs-qsharp-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/forked-from-1kasper/emacs-qsharp-mode)](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 - [Atom ![GitHub Repo stars](https://img.shields.io/github/stars/ivangabriele/atom-qsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/ivangabriele/atom-qsharp)](https://github.com/ivangabriele/atom-qsharp)
 - [Vim ![GitHub Repo stars](https://img.shields.io/github/stars/gootorov/q-sharp.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/gootorov/q-sharp.vim)](https://github.com/gootorov/q-sharp.vim)
+- [Jupyter Notebook](https://docs.microsoft.com/en-us/azure/quantum/install-jupyter-qdk)
 
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018 ![GitHub Repo stars](https://img.shields.io/github/stars/Djohnnie/QuantumComputingQSharpIntroduction2018) ![GitHub last commit](https://img.shields.io/github/last-commit/Djohnnie/QuantumComputingQSharpIntroduction2018)](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
