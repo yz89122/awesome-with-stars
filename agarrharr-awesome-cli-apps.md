@@ -257,7 +257,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 
 ### Time Tracking
 
-- [Timetrap ![GitHub Repo stars](https://img.shields.io/github/stars/samg/timetrap) ![GitHub last commit](https://img.shields.io/github/last-commit/samg/timetrap)](https://github.com/samg/timetrap) - Simple command-line timetracker.
+- [Timetrap ![GitHub Repo stars](https://img.shields.io/github/stars/samg/timetrap) ![GitHub last commit](https://img.shields.io/github/last-commit/samg/timetrap)](https://github.com/samg/timetrap) - Simple timetracker.
 - [moro ![GitHub Repo stars](https://img.shields.io/github/stars/omidfi/moro) ![GitHub last commit](https://img.shields.io/github/last-commit/omidfi/moro)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior ![GitHub Repo stars](https://img.shields.io/github/stars/GothenburgBitFactory/timewarrior) ![GitHub last commit](https://img.shields.io/github/last-commit/GothenburgBitFactory/timewarrior)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson ![GitHub Repo stars](https://img.shields.io/github/stars/TailorDev/Watson) ![GitHub last commit](https://img.shields.io/github/last-commit/TailorDev/Watson)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
@@ -267,9 +267,9 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 
 - [idea ![GitHub Repo stars](https://img.shields.io/github/stars/IonicaBizau/idea) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/idea)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote ![GitHub Repo stars](https://img.shields.io/github/stars/VitaliyRodnenko/geeknote) ![GitHub last commit](https://img.shields.io/github/last-commit/VitaliyRodnenko/geeknote)](https://github.com/VitaliyRodnenko/geeknote) - Evernote client.
-- [Taskwarrior](http://taskwarrior.org) - Manage your TODO list from your command-line.
-- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the terminal.
-- [eureka ![GitHub Repo stars](https://img.shields.io/github/stars/simeg/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/simeg/eureka)](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
+- [Taskwarrior](http://taskwarrior.org) - Manage your TODO list.
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
+- [eureka ![GitHub Repo stars](https://img.shields.io/github/stars/simeg/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/simeg/eureka)](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli ![GitHub Repo stars](https://img.shields.io/github/stars/insanum/sncli) ![GitHub last commit](https://img.shields.io/github/last-commit/insanum/sncli)](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli ![GitHub Repo stars](https://img.shields.io/github/stars/darrikonn/td-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/darrikonn/td-cli)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskell ![GitHub Repo stars](https://img.shields.io/github/stars/smallhadroncollider/taskell) ![GitHub last commit](https://img.shields.io/github/last-commit/smallhadroncollider/taskell)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
@@ -385,14 +385,14 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 
 ## Command Line Learning
 
-- [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
-- [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
-- [howdoi ![GitHub Repo stars](https://img.shields.io/github/stars/gleitz/howdoi) ![GitHub last commit](https://img.shields.io/github/last-commit/gleitz/howdoi)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-- [how2 ![GitHub Repo stars](https://img.shields.io/github/stars/santinic/how2) ![GitHub last commit](https://img.shields.io/github/last-commit/santinic/how2)](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
+- [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
+- [explainshell](http://www.explainshell.com) - Type a snippet to see the help text for each argument.
+- [howdoi ![GitHub Repo stars](https://img.shields.io/github/stars/gleitz/howdoi) ![GitHub last commit](https://img.shields.io/github/last-commit/gleitz/howdoi)](https://github.com/gleitz/howdoi) - Instant coding answers.
+- [how2 ![GitHub Repo stars](https://img.shields.io/github/stars/santinic/how2) ![GitHub last commit](https://img.shields.io/github/last-commit/santinic/how2)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck ![GitHub Repo stars](https://img.shields.io/github/stars/nvbn/thefuck) ![GitHub last commit](https://img.shields.io/github/last-commit/nvbn/thefuck)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr ![GitHub Repo stars](https://img.shields.io/github/stars/tldr-pages/tldr) ![GitHub last commit](https://img.shields.io/github/last-commit/tldr-pages/tldr)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat ![GitHub Repo stars](https://img.shields.io/github/stars/dthree/wat) ![GitHub last commit](https://img.shields.io/github/last-commit/dthree/wat)](https://github.com/dthree/wat) - Instant, central, community-built docs.
-- [teachcode ![GitHub Repo stars](https://img.shields.io/github/stars/madlabsinc/teachcode) ![GitHub last commit](https://img.shields.io/github/last-commit/madlabsinc/teachcode)](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
+- [teachcode ![GitHub Repo stars](https://img.shields.io/github/stars/madlabsinc/teachcode) ![GitHub last commit](https://img.shields.io/github/last-commit/madlabsinc/teachcode)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi ![GitHub Repo stars](https://img.shields.io/github/stars/denisidoro/navi) ![GitHub last commit](https://img.shields.io/github/last-commit/denisidoro/navi)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ## Data Manipulation
