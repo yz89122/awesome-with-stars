@@ -23,6 +23,7 @@
     * [Elm](#elm)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
+    * [PHP](#php)
     * [PureScript](#purescript)
     * [Python](#python)
     * [Ruby](#ruby)
@@ -124,6 +125,12 @@
 * [Napalm ![GitHub Repo stars](https://img.shields.io/github/stars/nmattia/napalm) ![GitHub last commit](https://img.shields.io/github/last-commit/nmattia/napalm)](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
 * [node2nix ![GitHub Repo stars](https://img.shields.io/github/stars/svanderburg/node2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/svanderburg/node2nix)](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a `package.lock` npm file.
 * [yarn2nix ![GitHub Repo stars](https://img.shields.io/github/stars/nix-community/yarn2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/yarn2nix)](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
+
+### PHP
+
+* [composer2nix ![GitHub Repo stars](https://img.shields.io/github/stars/svanderburg/composer2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/svanderburg/composer2nix)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+* [composition-c4 ![GitHub Repo stars](https://img.shields.io/github/stars/fossar/composition-c4) ![GitHub last commit](https://img.shields.io/github/last-commit/fossar/composition-c4)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
+* [nix-phps ![GitHub Repo stars](https://img.shields.io/github/stars/fossar/nix-phps) ![GitHub last commit](https://img.shields.io/github/last-commit/fossar/nix-phps)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ### PureScript
 
