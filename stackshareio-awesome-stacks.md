@@ -422,7 +422,7 @@ Build, test, and deploy pipelines are configured by default.
 Build a simple and robust RESTful API.
 
 - [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 ![GitHub Repo stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
-- [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [���� ![GitHub Repo stars](https://img.shields.io/github/stars/gradle/gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/gradle/gradle)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
+- [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 ![GitHub Repo stars](https://img.shields.io/github/stars/gradle/gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/gradle/gradle)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 - [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
 #### Resources
@@ -453,7 +453,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.
 
 - [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/UnityCsReference) ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/UnityCsReference)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
-- [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
+- [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [�� ![GitHub Repo stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 - [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 
 ##### Resources
