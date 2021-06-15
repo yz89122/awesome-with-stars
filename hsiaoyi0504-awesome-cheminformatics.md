@@ -106,6 +106,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [chainer-chemistry ![GitHub Repo stars](https://img.shields.io/github/stars/pfnet-research/chainer-chemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/pfnet-research/chainer-chemistry)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 * [chemmodlab ![GitHub Repo stars](https://img.shields.io/github/stars/jrash/ChemModLab) ![GitHub last commit](https://img.shields.io/github/last-commit/jrash/ChemModLab)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
+* [Summit ![GitHub Repo stars](https://img.shields.io/github/stars/sustainable-processes/summit) ![GitHub last commit](https://img.shields.io/github/last-commit/sustainable-processes/summit)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
 <a id="lib-web"></a>
 ### Web APIs
