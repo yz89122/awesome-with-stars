@@ -1,3 +1,4 @@
+<!--lint ignore double-link-->
 # Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
@@ -113,6 +114,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Ruby-JMeter ![GitHub Repo stars](https://img.shields.io/github/stars/flood-io/ruby-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/flood-io/ruby-jmeter)](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
 - [jmeter-java-dsl ![GitHub Repo stars](https://img.shields.io/github/stars/abstracta/jmeter-java-dsl) ![GitHub last commit](https://img.shields.io/github/last-commit/abstracta/jmeter-java-dsl)](https://github.com/abstracta/jmeter-java-dsl) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
 - [jmeter-groovy-dsl ![GitHub Repo stars](https://img.shields.io/github/stars/smicyk/groovy-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/smicyk/groovy-jmeter)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+- [jmeter-as-code ![GitHub Repo stars](https://img.shields.io/github/stars/anasoid/jmeter-as-code) ![GitHub last commit](https://img.shields.io/github/last-commit/anasoid/jmeter-as-code)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
 ### Packages
 
