@@ -70,6 +70,7 @@
 - [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 - [Excel Ansible Inventory ![GitHub Repo stars](https://img.shields.io/github/stars/KeyboardInterrupt/ansible_xlsx_inventory) ![GitHub last commit](https://img.shields.io/github/last-commit/KeyboardInterrupt/ansible_xlsx_inventory)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 - [terraform.py ![GitHub Repo stars](https://img.shields.io/github/stars/mantl/terraform.py) ![GitHub last commit](https://img.shields.io/github/last-commit/mantl/terraform.py)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+- [ansible-navigator ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible-navigator) ![GitHub last commit](https://img.shields.io/github/last-commit/ansible/ansible-navigator)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## Blog posts and opinions
 
