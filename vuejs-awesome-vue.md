@@ -2198,7 +2198,7 @@ _Display images_
 
 ##### Comment System
 
-- [vue-comment-grid ![GitHub Repo stars](https://img.shields.io/github/stars/TugayYaldiz/vue-comment-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/TugayYaldiz/vue-comment-grid)](https://github.com/TugayYaldiz/vue-comment-grid) - ��� Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+- [vue-comment-grid ![GitHub Repo stars](https://img.shields.io/github/stars/TugayYaldiz/vue-comment-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/TugayYaldiz/vue-comment-grid)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 - [fastcomments-vue ![GitHub Repo stars](https://img.shields.io/github/stars/fastcomments/fastcomments-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/fastcomments/fastcomments-vue)](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.
 
 #### Canvas
