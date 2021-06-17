@@ -317,6 +317,7 @@ Additional lists you might find useful:
 - :strawberry: [Muffin/Webservices ORM plugin ![GitHub Repo stars](https://img.shields.io/github/stars/usemuffin/webservice) ![GitHub last commit](https://img.shields.io/github/last-commit/usemuffin/webservice)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 - :strawberry: [Connehito/CakephpMasterReplica plugin ![GitHub Repo stars](https://img.shields.io/github/stars/Connehito/cakephp-master-replica) ![GitHub last commit](https://img.shields.io/github/last-commit/Connehito/cakephp-master-replica)](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 - :strawberry: [Itosho/EasyQuery plugin ![GitHub Repo stars](https://img.shields.io/github/stars/itosho/easy-query) ![GitHub last commit](https://img.shields.io/github/last-commit/itosho/easy-query)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
+- :strawberry: [Icings/Partitionable plugin ![GitHub Repo stars](https://img.shields.io/github/stars/icings/partitionable) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/partitionable)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## PDF
 *Plugins and software for working with PDF files.*
