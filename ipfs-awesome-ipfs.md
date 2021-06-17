@@ -131,6 +131,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Watchit ![GitHub Repo stars](https://img.shields.io/github/stars/ZorrillosDev/watchit-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/ZorrillosDev/watchit-desktop)](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source ![GitHub Repo stars](https://img.shields.io/github/stars/smwa/wistfulbooks) ![GitHub last commit](https://img.shields.io/github/last-commit/smwa/wistfulbooks)](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support ![GitHub Repo stars](https://img.shields.io/github/stars/amar-laksh/xfce-screenshooter-ipfs-support) ![GitHub last commit](https://img.shields.io/github/last-commit/amar-laksh/xfce-screenshooter-ipfs-support)](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
+- [youtube2ipfs](https://pypi.org/project/youtube2ipfs/) - Download videos from YouTube (and similar video platforms) and add them to IPFS. [Source ![GitHub Repo stars](https://img.shields.io/github/stars/dokterbob/youtube2ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/dokterbob/youtube2ipfs)](https://github.com/dokterbob/youtube2ipfs)
 
 ## Articles
 
