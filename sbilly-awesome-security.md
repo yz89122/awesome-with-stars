@@ -72,6 +72,7 @@ Thanks to all [contributors ![GitHub Repo stars](https://img.shields.io/github/s
 - [RustScan ![GitHub Repo stars](https://img.shields.io/github/stars/RustScan/RustScan) ![GitHub last commit](https://img.shields.io/github/last-commit/RustScan/RustScan)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 - [Boofuzz ![GitHub Repo stars](https://img.shields.io/github/stars/jtpereyda/boofuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/jtpereyda/boofuzz)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 - [monsoon ![GitHub Repo stars](https://img.shields.io/github/stars/RedTeamPentesting/monsoon) ![GitHub last commit](https://img.shields.io/github/last-commit/RedTeamPentesting/monsoon)](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
+- [Netz ![GitHub Repo stars](https://img.shields.io/github/stars/spectralops/netz) ![GitHub last commit](https://img.shields.io/github/last-commit/spectralops/netz)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ### Monitoring / Logging
 
@@ -219,6 +220,7 @@ Thanks to all [contributors ![GitHub Repo stars](https://img.shields.io/github/s
 - [hardened_malloc ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/hardened_malloc) ![GitHub last commit](https://img.shields.io/github/last-commit/GrapheneOS/hardened_malloc)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 - [AMExtractor ![GitHub Repo stars](https://img.shields.io/github/stars/ir193/AMExtractor) ![GitHub last commit](https://img.shields.io/github/last-commit/ir193/AMExtractor)](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
 - [frida ![GitHub Repo stars](https://img.shields.io/github/stars/frida/frida) ![GitHub last commit](https://img.shields.io/github/last-commit/frida/frida)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [UDcide ![GitHub Repo stars](https://img.shields.io/github/stars/UDcide/udcide) ![GitHub last commit](https://img.shields.io/github/last-commit/UDcide/udcide)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 
 ### Forensics
 
@@ -265,6 +267,7 @@ Thanks to all [contributors ![GitHub Repo stars](https://img.shields.io/github/s
 - [NAXSI ![GitHub Repo stars](https://img.shields.io/github/stars/nbs-system/naxsi) ![GitHub last commit](https://img.shields.io/github/last-commit/nbs-system/naxsi)](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
 - [sql_firewall ![GitHub Repo stars](https://img.shields.io/github/stars/uptimejp/sql_firewall) ![GitHub last commit](https://img.shields.io/github/last-commit/uptimejp/sql_firewall)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 - [ironbee ![GitHub Repo stars](https://img.shields.io/github/stars/ironbee/ironbee) ![GitHub last commit](https://img.shields.io/github/last-commit/ironbee/ironbee)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+- [Curiefense ![GitHub Repo stars](https://img.shields.io/github/stars/curiefense/curiefense) ![GitHub last commit](https://img.shields.io/github/last-commit/curiefense/curiefense)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
 
 ### Scanning / Pentesting
 
@@ -296,6 +299,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [OWASP ZAP Node API ![GitHub Repo stars](https://img.shields.io/github/stars/zaproxy/zap-api-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zap-api-nodejs)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 - [GuardRails ![GitHub Repo stars](https://img.shields.io/github/stars/apps/guardrails) ![GitHub last commit](https://img.shields.io/github/last-commit/apps/guardrails)](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Checkov ![GitHub Repo stars](https://img.shields.io/github/stars/bridgecrewio/checkov) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
+- [TFSec ![GitHub Repo stars](https://img.shields.io/github/stars/tfsec/tfsec) ![GitHub last commit](https://img.shields.io/github/last-commit/tfsec/tfsec)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 - [KICS ![GitHub Repo stars](https://img.shields.io/github/stars/Checkmarx/kics) ![GitHub last commit](https://img.shields.io/github/last-commit/Checkmarx/kics)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Insider CLI ![GitHub Repo stars](https://img.shields.io/github/stars/insidersec/insider) ![GitHub last commit](https://img.shields.io/github/last-commit/insidersec/insider)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
@@ -328,6 +332,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [ansible-os-hardening ![GitHub Repo stars](https://img.shields.io/github/stars/dev-sec/ansible-os-hardening) ![GitHub last commit](https://img.shields.io/github/last-commit/dev-sec/ansible-os-hardening)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 - [bunkerized-nginx ![GitHub Repo stars](https://img.shields.io/github/stars/bunkerity/bunkerized-nginx) ![GitHub last commit](https://img.shields.io/github/last-commit/bunkerity/bunkerized-nginx)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
 - [Trivy ![GitHub Repo stars](https://img.shields.io/github/stars/aquasecurity/trivy) ![GitHub last commit](https://img.shields.io/github/last-commit/aquasecurity/trivy)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI. 
+- [Preflight ![GitHub Repo stars](https://img.shields.io/github/stars/spectralops/preflight) ![GitHub last commit](https://img.shields.io/github/last-commit/spectralops/preflight)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+- [Teller ![GitHub Repo stars](https://img.shields.io/github/stars/spectralops/teller) ![GitHub last commit](https://img.shields.io/github/last-commit/spectralops/teller)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
 ## Operating Systems
 
@@ -335,7 +341,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
 - [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
-- [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship. 
+- [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
 
 ### Online resources
 
@@ -346,6 +352,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Datastores
 
+- [databunker](https://databunker.org/) - Databunker is an address book on steroids for storing personal data. GDPR and encryption are out of the box.
 - [acra ![GitHub Repo stars](https://img.shields.io/github/stars/cossacklabs/acra) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/acra)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 - [blackbox ![GitHub Repo stars](https://img.shields.io/github/stars/StackExchange/blackbox) ![GitHub last commit](https://img.shields.io/github/last-commit/StackExchange/blackbox)](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 - [confidant ![GitHub Repo stars](https://img.shields.io/github/stars/lyft/confidant) ![GitHub last commit](https://img.shields.io/github/last-commit/lyft/confidant)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
@@ -405,7 +412,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Crypto Papers ![GitHub Repo stars](https://img.shields.io/github/stars/pFarb/awesome-crypto-papers) ![GitHub last commit](https://img.shields.io/github/last-commit/pFarb/awesome-crypto-papers)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [Awesome Shodan Search Queries ![GitHub Repo stars](https://img.shields.io/github/stars/jakejarvis/awesome-shodan-queries) ![GitHub last commit](https://img.shields.io/github/last-commit/jakejarvis/awesome-shodan-queries)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics ![GitHub Repo stars](https://img.shields.io/github/stars/remiflavien1/awesome-anti-forensic) ![GitHub last commit](https://img.shields.io/github/last-commit/remiflavien1/awesome-anti-forensic)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
-- [Awesome Security Talks & Videos ![GitHub Repo stars](https://img.shields.io/github/stars/PaulSec/awesome-sec-talks) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulSec/awesome-sec-talks)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
+- [Awesome Security Talks & Videos ![GitHub Repo stars](https://img.shields.io/github/stars/PaulSec/awesome-sec-talks) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulSec/awesome-sec-talks)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
 ### Other Common Awesome Lists
 
