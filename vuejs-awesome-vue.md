@@ -1587,6 +1587,7 @@ _Display non-editable events in a Calendar_
 - [vue-jquery-calendar ![GitHub Repo stars](https://img.shields.io/github/stars/Parthfaladu/vue-jquery-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/Parthfaladu/vue-jquery-calendar)](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board ![GitHub Repo stars](https://img.shields.io/github/stars/jinfang134/vue-schedule-board) ![GitHub last commit](https://img.shields.io/github/last-commit/jinfang134/vue-schedule-board)](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
 - [vue-lunar-calendar-pro ![GitHub Repo stars](https://img.shields.io/github/stars/wangdaodao/vue-lunar-calendar-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/wangdaodao/vue-lunar-calendar-pro)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+- [vue-sweet-calendar ![GitHub Repo stars](https://img.shields.io/github/stars/maryayi/vue-sweet-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/maryayi/vue-sweet-calendar)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 
 #### Map
 
@@ -1802,7 +1803,7 @@ _Display non-editable events in a Calendar_
 - [vue-dynamic-star-rating ![GitHub Repo stars](https://img.shields.io/github/stars/JonathanDn/vue-stars-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanDn/vue-stars-rating)](https://github.com/JonathanDn/vue-stars-rating) - A highly dynamic vue stars rating component, like google play rating ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 - [vue-katex ![GitHub Repo stars](https://img.shields.io/github/stars/lucpotage/vue-katex) ![GitHub last commit](https://img.shields.io/github/last-commit/lucpotage/vue-katex)](https://github.com/lucpotage/vue-katex) - Simple plugin for math typsetting using KaTeX in Vue.js
 - [vue-baberrage ![GitHub Repo stars](https://img.shields.io/github/stars/superhos/vue-baberrage) ![GitHub last commit](https://img.shields.io/github/last-commit/superhos/vue-baberrage)](https://github.com/superhos/vue-baberrage) - A simple Barrage plugin Base on Vue.js😎
-- [vue-terminal-ui ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/vue-terminal-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shershen08/vue-terminal-ui)](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
+- [vue-terminal-ui ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/vue-terminal-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shershen08/vue-terminal-ui)](https://github.com/shershen08/vue-terminal-ui) - ���Terminal UI emulator Vue: custom and basic commands
 - [vue-command ![GitHub Repo stars](https://img.shields.io/github/stars/ndabAP/vue-command) ![GitHub last commit](https://img.shields.io/github/last-commit/ndabAP/vue-command)](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-ribbon ![GitHub Repo stars](https://img.shields.io/github/stars/P3trur0/vue-ribbon) ![GitHub last commit](https://img.shields.io/github/last-commit/P3trur0/vue-ribbon)](https://github.com/P3trur0/vue-ribbon) - Vue component for GitHub ribbons
 - [avatio-avatar ![GitHub Repo stars](https://img.shields.io/github/stars/trunda/avatio-avatar) ![GitHub last commit](https://img.shields.io/github/last-commit/trunda/avatio-avatar)](https://github.com/trunda/avatio-avatar) - Vue component for illustrated avatars - used by [Avatio](https://avatio.cool)
@@ -2197,7 +2198,7 @@ _Display images_
 
 ##### Comment System
 
-- [vue-comment-grid ![GitHub Repo stars](https://img.shields.io/github/stars/TugayYaldiz/vue-comment-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/TugayYaldiz/vue-comment-grid)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+- [vue-comment-grid ![GitHub Repo stars](https://img.shields.io/github/stars/TugayYaldiz/vue-comment-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/TugayYaldiz/vue-comment-grid)](https://github.com/TugayYaldiz/vue-comment-grid) - ��� Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 - [fastcomments-vue ![GitHub Repo stars](https://img.shields.io/github/stars/fastcomments/fastcomments-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/fastcomments/fastcomments-vue)](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.
 
 #### Canvas
