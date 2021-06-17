@@ -1621,7 +1621,6 @@ _See also [Documentation Generators](#documentation-generators), [Wikimatrix](ht
 
 **[`^        back to top        ^`](#)**
 
-- [1Backend ![GitHub Repo stars](https://img.shields.io/github/stars/1backend/1backend) ![GitHub last commit](https://img.shields.io/github/last-commit/1backend/1backend)](https://github.com/1backend/1backend) - Self-host web apps, microservices and lambdas on your server. Advanced features enable service reuse and composition. `AGPL-3.0` `Go`
 - [Ansible-NAS ![GitHub Repo stars](https://img.shields.io/github/stars/DaveStephens/ansible-nas) ![GitHub last commit](https://img.shields.io/github/last-commit/DaveStephens/ansible-nas)](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`
 - [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt. ([Source Code](https://gitlab.com/edgii/BBridge)) `MPL-2.0` `Java/Other`
 - [DietPi](http://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Fourdee/DietPi) ![GitHub last commit](https://img.shields.io/github/last-commit/Fourdee/DietPi)](https://github.com/Fourdee/DietPi)) `GPL-2.0` `Shell`
