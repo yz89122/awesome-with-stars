@@ -62,6 +62,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme_ru.md) · [🇰�
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 - 🔧 [Stripe Firebase Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/stripe/stripe-firebase-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-firebase-extensions)](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
+- 🔧 [Firebase Extension for Full-Text Search ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/firestore-typesense-search) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/firestore-typesense-search)](https://github.com/typesense/firestore-typesense-search/) - Extension to add full-text search in Firestore, by syncing the data to [Typesense ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/typesense) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/typesense)](https://github.com/typesense/typesense) - an OSS alternative to Algolia.
 
 ## Web
 
