@@ -204,8 +204,8 @@
 - [Vue Mastery](https://www.vuemastery.com/) - The ultimate learning resource for Vue developers
 - [Vue 3 Video Playlist](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) - Amazing Vue 3 tutorials and experiments
 - [Vue.js Workshops](https://public.vuejsworkshops.com) - Learn Vue 2, in browser, by building 3 applications: Landing page, Todos App and Podcasts aggregator.( Vue.js, Vue-Router, Vuex, Vue-Axios, Vue-Apollo )
- - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
- - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
+- [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
+- [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
 
 
 ### Job Portal
@@ -462,6 +462,7 @@
 - [Building an E-Commerce app with Vue.js, Vuex & Axios](https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/) by Deven Rathore ( November 2020)
 - [Vue.js Debugging: A Guide to Fixing Your Frontend](https://snipcart.com/blog/vuejs-debugging) - Learn the basics of Vue.js debugging. This guide will walk you through a tutorial on how to fix your application's frontend.
 - [Help you learn more efficiently vue3 source code - mini-vue ![GitHub Repo stars](https://img.shields.io/github/stars/cuixiaorui/mini-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/cuixiaorui/mini-vue)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+- [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
 
 ### Examples
 
@@ -1803,7 +1804,7 @@ _Display non-editable events in a Calendar_
 - [vue-dynamic-star-rating ![GitHub Repo stars](https://img.shields.io/github/stars/JonathanDn/vue-stars-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanDn/vue-stars-rating)](https://github.com/JonathanDn/vue-stars-rating) - A highly dynamic vue stars rating component, like google play rating ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 - [vue-katex ![GitHub Repo stars](https://img.shields.io/github/stars/lucpotage/vue-katex) ![GitHub last commit](https://img.shields.io/github/last-commit/lucpotage/vue-katex)](https://github.com/lucpotage/vue-katex) - Simple plugin for math typsetting using KaTeX in Vue.js
 - [vue-baberrage ![GitHub Repo stars](https://img.shields.io/github/stars/superhos/vue-baberrage) ![GitHub last commit](https://img.shields.io/github/last-commit/superhos/vue-baberrage)](https://github.com/superhos/vue-baberrage) - A simple Barrage plugin Base on Vue.js😎
-- [vue-terminal-ui ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/vue-terminal-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shershen08/vue-terminal-ui)](https://github.com/shershen08/vue-terminal-ui) - ���Terminal UI emulator Vue: custom and basic commands
+- [vue-terminal-ui ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/vue-terminal-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shershen08/vue-terminal-ui)](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
 - [vue-command ![GitHub Repo stars](https://img.shields.io/github/stars/ndabAP/vue-command) ![GitHub last commit](https://img.shields.io/github/last-commit/ndabAP/vue-command)](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-ribbon ![GitHub Repo stars](https://img.shields.io/github/stars/P3trur0/vue-ribbon) ![GitHub last commit](https://img.shields.io/github/last-commit/P3trur0/vue-ribbon)](https://github.com/P3trur0/vue-ribbon) - Vue component for GitHub ribbons
 - [avatio-avatar ![GitHub Repo stars](https://img.shields.io/github/stars/trunda/avatio-avatar) ![GitHub last commit](https://img.shields.io/github/last-commit/trunda/avatio-avatar)](https://github.com/trunda/avatio-avatar) - Vue component for illustrated avatars - used by [Avatio](https://avatio.cool)
@@ -2198,7 +2199,7 @@ _Display images_
 
 ##### Comment System
 
-- [vue-comment-grid ![GitHub Repo stars](https://img.shields.io/github/stars/TugayYaldiz/vue-comment-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/TugayYaldiz/vue-comment-grid)](https://github.com/TugayYaldiz/vue-comment-grid) - ��� Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+- [vue-comment-grid ![GitHub Repo stars](https://img.shields.io/github/stars/TugayYaldiz/vue-comment-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/TugayYaldiz/vue-comment-grid)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 - [fastcomments-vue ![GitHub Repo stars](https://img.shields.io/github/stars/fastcomments/fastcomments-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/fastcomments/fastcomments-vue)](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.
 
 #### Canvas
@@ -2320,6 +2321,7 @@ _Set of components + responsive layout system_
 - [superBVue ![GitHub Repo stars](https://img.shields.io/github/stars/superbvue/SuperBVue) ![GitHub last commit](https://img.shields.io/github/last-commit/superbvue/SuperBVue)](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap v5
 - [Qui ![GitHub Repo stars](https://img.shields.io/github/stars/Qvant-lab/qui) ![GitHub last commit](https://img.shields.io/github/last-commit/Qvant-lab/qui)](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
 - [Mijin ![GitHub Repo stars](https://img.shields.io/github/stars/lecoueyl/mijin) ![GitHub last commit](https://img.shields.io/github/last-commit/lecoueyl/mijin)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+- [vuestic-ui ![GitHub Repo stars](https://img.shields.io/github/stars/epicmaxco/vuestic-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/epicmaxco/vuestic-ui)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 
 
 #### Mobile
@@ -2356,7 +2358,6 @@ _Set of components without layout system_
 - [jsmod-vue-pc ![GitHub Repo stars](https://img.shields.io/github/stars/chaogao/jsmod-pc-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/chaogao/jsmod-pc-vue)](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
 - [guilhermewaess/SemVue ![GitHub Repo stars](https://img.shields.io/github/stars/guilhermewaess/SemVue) ![GitHub last commit](https://img.shields.io/github/last-commit/guilhermewaess/SemVue)](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
 - [office-ui-fabric-vue ![GitHub Repo stars](https://img.shields.io/github/stars/aidewoode/office-ui-fabric-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/aidewoode/office-ui-fabric-vue)](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
-- [vuestic-admin ![GitHub Repo stars](https://img.shields.io/github/stars/epicmaxco/vuestic-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/epicmaxco/vuestic-admin)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard with collection of custom components. Built with Vue 2 and Bootstrap 4
 - [Semantic UI Vue ![GitHub Repo stars](https://img.shields.io/github/stars/Semantic-UI-Vue/Semantic-UI-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-UI-Vue/Semantic-UI-Vue)](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue
 - [vuesax ![GitHub Repo stars](https://img.shields.io/github/stars/lusaxweb/vuesax) ![GitHub last commit](https://img.shields.io/github/last-commit/lusaxweb/vuesax)](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
@@ -2390,6 +2391,7 @@ _Set of admin template_
 - [vue-admin-next ![GitHub Repo stars](https://img.shields.io/github/stars/openfext/vue-admin-next) ![GitHub last commit](https://img.shields.io/github/last-commit/openfext/vue-admin-next)](https://github.com/openfext/vue-admin-next) - Professional enterprise application with Multi-Module Design, Vue Composition API and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query)
 - [vue-pro-sidebar ![GitHub Repo stars](https://img.shields.io/github/stars/boussadjra/vue-pro-sidebar) ![GitHub last commit](https://img.shields.io/github/last-commit/boussadjra/vue-pro-sidebar)](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your prefered colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
 - [Stellar Admin Boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/BootstrapDash/stellar-admin-vue-free) ![GitHub last commit](https://img.shields.io/github/last-commit/BootstrapDash/stellar-admin-vue-free)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
+- [vuestic-admin ![GitHub Repo stars](https://img.shields.io/github/stars/epicmaxco/vuestic-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/epicmaxco/vuestic-admin)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
 
 #### Server-side rendering
 
