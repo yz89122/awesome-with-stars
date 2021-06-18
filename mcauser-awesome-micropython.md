@@ -75,6 +75,7 @@ Other places you can look for MicroPython Libraries:
 #### Bluetooth
 
 * [PyBoard-HC05-Android ![GitHub Repo stars](https://img.shields.io/github/stars/KipCrossing/PyBoard-HC05-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/KipCrossing/PyBoard-HC05-Android)](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
+* [uble ![GitHub Repo stars](https://img.shields.io/github/stars/dmazzella/uble) ![GitHub last commit](https://img.shields.io/github/last-commit/dmazzella/uble)](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure python for micropython.
 
 #### CAN
 
@@ -84,6 +85,8 @@ Other places you can look for MicroPython Libraries:
 
 * [mpyaes ![GitHub Repo stars](https://img.shields.io/github/stars/iyassou/mpyaes) ![GitHub last commit](https://img.shields.io/github/last-commit/iyassou/mpyaes)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
 * [micropython-aes ![GitHub Repo stars](https://img.shields.io/github/stars/piaca/micropython-aes) ![GitHub last commit](https://img.shields.io/github/last-commit/piaca/micropython-aes)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+* [ucrypto ![GitHub Repo stars](https://img.shields.io/github/stars/dmazzella/ucrypto) ![GitHub last commit](https://img.shields.io/github/last-commit/dmazzella/ucrypto)](https://github.com/dmazzella/ucrypto) - Micropython package for doing fast elliptic curve cryptography, specifically digital signatures. API design inspired from fastecdsa and implementation based on tomsfastmath.
+* [ucryptoauthlib ![GitHub Repo stars](https://img.shields.io/github/stars/dmazzella/ucryptoauthlib) ![GitHub last commit](https://img.shields.io/github/last-commit/dmazzella/ucryptoauthlib)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for micropython.
 
 #### DNS
 
@@ -358,6 +361,10 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-nunchuck ![GitHub Repo stars](https://img.shields.io/github/stars/kfricke/micropython-nunchuck) ![GitHub last commit](https://img.shields.io/github/last-commit/kfricke/micropython-nunchuck)](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 
+#### Potentiometers
+
+* [micropython-ad840x ![GitHub Repo stars](https://img.shields.io/github/stars/dsiggi/micropython-ad840x) ![GitHub last commit](https://img.shields.io/github/last-commit/dsiggi/micropython-ad840x)](https://github.com/dsiggi/micropython-ad840x) - Micropython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
+ 
 #### PWM
 
 * [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - A MicroPython library for controlling PWM outputs in an asyncio loop, with features including fading and blinking.
