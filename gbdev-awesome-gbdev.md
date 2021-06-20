@@ -210,7 +210,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 
 ## Software Development
 
-The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d615409fd) essay  gives an overview of the Game Boy's capabilities, discussing the pros and cons of the available development tools, and providing tips to write more efficient code.
+The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html) essay provides an overview of the available development tools for Game Boy.
 
 ### Assemblers
 
@@ -221,9 +221,9 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 ### Compilers
 
 - [GBDK ![GitHub Repo stars](https://img.shields.io/github/stars/gbdk-2020/gbdk-2020) ![GitHub last commit](https://img.shields.io/github/last-commit/gbdk-2020/gbdk-2020)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries. 
-   - [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
-   - [Examples ![GitHub Repo stars](https://img.shields.io/github/stars/mrombout/gbdk_playground) ![GitHub last commit](https://img.shields.io/github/last-commit/mrombout/gbdk_playground)](https://github.com/mrombout/gbdk_playground)
-   - [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
+  - [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
+  - [Examples ![GitHub Repo stars](https://img.shields.io/github/stars/mrombout/gbdk_playground) ![GitHub last commit](https://img.shields.io/github/last-commit/mrombout/gbdk_playground)](https://github.com/mrombout/gbdk_playground)
+  - [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - Complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers, including the Game Boy and Game Boy Color.
 
 #### Experimental/Proof of Concepts
@@ -459,7 +459,7 @@ Complete and open source games.
 ## Reverse Engineering
 
 - [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-- [pokemontools ![GitHub Repo stars](https://img.shields.io/github/stars/pret/pokemon-reverse-engineering-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokemon-reverse-engineering-tools)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
+- [pokemontools ![GitHub Repo stars](https://img.shields.io/github/stars/pret/pokemon-reverse-engineering-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokemon-reverse-engineering-tools)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pok��mon games.
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 - [Reverse Engineering the GameBoy Tetris ![GitHub Repo stars](https://img.shields.io/github/stars/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
@@ -508,6 +508,9 @@ Methods to improve and/or manipulate the camera's quality and behavior:
 
 ## Related projects
 
+- [GB Studio](https://www.gbstudio.dev/) - Drag and drop game creator with simple, no knowledge required, visual scripting.
+  - [Resources to get started](https://gbstudiocentral.com/resources/)
+  - [Dedicated Discord](https://discord.gg/knRryZWGcm)
 - [ArduinoBoy ![GitHub Repo stars](https://img.shields.io/github/stars/trash80/Arduinoboy) ![GitHub last commit](https://img.shields.io/github/last-commit/trash80/Arduinoboy)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 - [papiGB ![GitHub Repo stars](https://img.shields.io/github/stars/diegovalverde/papiGB) ![GitHub last commit](https://img.shields.io/github/last-commit/diegovalverde/papiGB)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
 - [fpgaboy ![GitHub Repo stars](https://img.shields.io/github/stars/trun/fpgaboy) ![GitHub last commit](https://img.shields.io/github/last-commit/trun/fpgaboy)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
@@ -541,7 +544,6 @@ Methods to improve and/or manipulate the camera's quality and behavior:
 - [GBCamcorder ![GitHub Repo stars](https://img.shields.io/github/stars/furrtek/GBCamcorder) ![GitHub last commit](https://img.shields.io/github/last-commit/furrtek/GBCamcorder)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 - [GBCartRead ![GitHub Repo stars](https://img.shields.io/github/stars/insidegadgets/GBCartRead) ![GitHub last commit](https://img.shields.io/github/last-commit/insidegadgets/GBCartRead)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
 - [GBxCart-RW ![GitHub Repo stars](https://img.shields.io/github/stars/insidegadgets/GBxCart-RW) ![GitHub last commit](https://img.shields.io/github/last-commit/insidegadgets/GBxCart-RW)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
-- [GB Studio](https://www.gbstudio.dev/) - Drag and drop game creator with simple, no knowledge required, visual scripting.
 - [Dumping the Super Game Boy Boot ROM](http://www.its.caltech.edu/~costis/sgb_hack/)
 
 ### Directories
