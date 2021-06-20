@@ -476,7 +476,7 @@ Complete and open source games.
 - [pokegold-spaceworld ![GitHub Repo stars](https://img.shields.io/github/stars/pret/pokegold-spaceworld) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokegold-spaceworld)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
 - [Link's Awakening DX ![GitHub Repo stars](https://img.shields.io/github/stars/mojobojo/LADX-Disassembly) ![GitHub last commit](https://img.shields.io/github/last-commit/mojobojo/LADX-Disassembly)](https://github.com/mojobojo/LADX-Disassembly)
 - [Oracle of Ages ![GitHub Repo stars](https://img.shields.io/github/stars/drenn1/ages-disasm) ![GitHub last commit](https://img.shields.io/github/last-commit/drenn1/ages-disasm)](https://github.com/drenn1/ages-disasm)
-- [Tetris ![GitHub Repo stars](https://img.shields.io/github/stars/osnr/tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/osnr/tetris)](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly.
+- [Tetris ![GitHub Repo stars](https://img.shields.io/github/stars/vinheim3/tetris-gb-disasm) ![GitHub last commit](https://img.shields.io/github/last-commit/vinheim3/tetris-gb-disasm)](https://github.com/vinheim3/tetris-gb-disasm) - Complete Tetris disassembly.
 - [FX Hammer ![GitHub Repo stars](https://img.shields.io/github/stars/DevEd2/FXHammer-Disasm) ![GitHub last commit](https://img.shields.io/github/last-commit/DevEd2/FXHammer-Disasm)](https://github.com/DevEd2/FXHammer-Disasm)
 - [Harvest Moon 3 ![GitHub Repo stars](https://img.shields.io/github/stars/sanqui/hm3) ![GitHub last commit](https://img.shields.io/github/last-commit/sanqui/hm3)](https://github.com/sanqui/hm3)
 
