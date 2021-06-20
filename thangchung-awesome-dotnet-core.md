@@ -846,6 +846,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ## Sample Projects
 * Microservices & Service Mesh
+  * [clean-architecture-dotnet ![GitHub Repo stars](https://img.shields.io/github/stars/thangchung/clean-architecture-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/thangchung/clean-architecture-dotnet)](https://github.com/thangchung/clean-architecture-dotnet) - Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain
   * [coolstore-microservices  ![GitHub Repo stars](https://img.shields.io/github/stars/vietnam-devs/coolstore-microservices) ![GitHub last commit](https://img.shields.io/github/last-commit/vietnam-devs/coolstore-microservices)](https://github.com/vietnam-devs/coolstore-microservices) - A Kubernetes-based polyglot microservices application with Istio service mesh
   * [distributed-playground ![GitHub Repo stars](https://img.shields.io/github/stars/jvandevelde/distributed-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jvandevelde/distributed-playground)](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
   * [DNC-DShop](https://github.com/devmentors) - Distributed .NET Core project and free course. (DDD, CQRS, RabbitMQ, MongoDB, Redis, Monitoring, Logging, CI, CD)
