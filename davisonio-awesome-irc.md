@@ -81,7 +81,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/inspircd/inspircd) ![GitHub last commit](https://img.shields.io/github/last-commit/inspircd/inspircd)](https://github.com/inspircd/inspircd))
 - [miniircd ![GitHub Repo stars](https://img.shields.io/github/stars/jrosdahl/miniircd) ![GitHub last commit](https://img.shields.io/github/last-commit/jrosdahl/miniircd)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
 - [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/ngircd/ngircd) ![GitHub last commit](https://img.shields.io/github/last-commit/ngircd/ngircd)](https://github.com/ngircd/ngircd))
-- [Oragono](https://oragono.io) - Modern, experimental server that's portable and designed around specifications. ([source ![GitHub Repo stars](https://img.shields.io/github/stars/oragono/oragono) ![GitHub last commit](https://img.shields.io/github/last-commit/oragono/oragono)](https://github.com/oragono/oragono))
+- [Ergo ![GitHub Repo stars](https://img.shields.io/github/stars/ergochat/ergo) ![GitHub last commit](https://img.shields.io/github/last-commit/ergochat/ergo)](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source ![GitHub Repo stars](https://img.shields.io/github/stars/ergochat/ergo) ![GitHub last commit](https://img.shields.io/github/last-commit/ergochat/ergo)](https://github.com/ergochat/ergo))
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits.
 
 ### Services
@@ -158,6 +158,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
 - [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
+- [LibertaCasa](https://liberta.casa) - Privacy endorsing community serving as a safe and open space for the discussion of various topics.
 
 ### Articles
 
