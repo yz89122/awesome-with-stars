@@ -887,7 +887,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   [Editing a Normal Science Journal in Social Science](https://journals.openedition.org/bms/595) - Reflections on the _Social Networks_ journal by its founding editor.
 -   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven H. Strogatz and many others.
--   From [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
+-   From [Albert-László Barabási��s review articles](http://barabasi.com/publications/1/review-articles):
     -   [Taming Complexity](http://barabasi.com/f/182.pdf).
     -   [The Network Takeover](http://barabasi.com/f/362.pdf).
 -   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
