@@ -110,9 +110,13 @@ More info [here](http://tensorflow.org).
 * [Kubeflow ![GitHub Repo stars](https://img.shields.io/github/stars/kubeflow/kubeflow) ![GitHub last commit](https://img.shields.io/github/last-commit/kubeflow/kubeflow)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 * [TensorNets ![GitHub Repo stars](https://img.shields.io/github/stars/taehoonlee/tensornets) ![GitHub last commit](https://img.shields.io/github/last-commit/taehoonlee/tensornets)](https://github.com/taehoonlee/tensornets) - 40+ Popular Computer Vision Models With Pre-trained Weights.
 * [Ladder Network ![GitHub Repo stars](https://img.shields.io/github/stars/divamgupta/ladder_network_keras) ![GitHub last commit](https://img.shields.io/github/last-commit/divamgupta/ladder_network_keras)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
-<a name="github-powered-by" />
 * [TF-Unet ![GitHub Repo stars](https://img.shields.io/github/stars/juniorxsound/TF-Unet) ![GitHub last commit](https://img.shields.io/github/last-commit/juniorxsound/TF-Unet)](https://github.com/juniorxsound/TF-Unet) - General purpose U-Network implemented in Keras for image segmentation
 * [Sarus TF2 Models ![GitHub Repo stars](https://img.shields.io/github/stars/sarus-tech/tf2-published-models) ![GitHub last commit](https://img.shields.io/github/last-commit/sarus-tech/tf2-published-models)](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
+* [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
+
+
+
+<a name="github-powered-by" />
 
 ## Powered by TensorFlow
 
