@@ -298,12 +298,12 @@ Table of Contents
   * [cally.com](https://cally.com/) — Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
   * [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.
   * [Discord](https://discordapp.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
+  * [Duckly](https://duckly.com/) — Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams. 
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
   * [Fibery](https://fibery.io/) — Connected workspace platform. Free for single user, up to 2 GB disk space.
   * [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
   * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
-  * [GitDuck](https://gitduck.com/) — Private live coding and remote pair programming for distributed teams. Open-source tool
   * [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
   * [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
   * [HeySpace](https://hey.space) - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.
@@ -1082,7 +1082,7 @@ Table of Contents
    * [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline  with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression.
    * [imagekit.io](https://imagekit.io) – Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. Free plan includes up to 20GB bandwidth per month.
 
-**[��� back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Design and UI
 
@@ -1384,7 +1384,7 @@ Table of Contents
 
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
+  * [getawesomeness](https://getawesomeness.herokuapp.com) �� Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev ![GitHub Repo stars](https://img.shields.io/github/stars/tvvocold/FOSS-for-Dev) ![GitHub last commit](https://img.shields.io/github/last-commit/tvvocold/FOSS-for-Dev)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
   * [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.

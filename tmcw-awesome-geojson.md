@@ -118,7 +118,7 @@ GeoJSON utilities that will make your life easier.
 * [rust-geojson ![GitHub Repo stars](https://img.shields.io/github/stars/georust/rust-geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/georust/rust-geojson)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 * [geojson-jackson ![GitHub Repo stars](https://img.shields.io/github/stars/opendatalab-de/geojson-jackson) ![GitHub last commit](https://img.shields.io/github/last-commit/opendatalab-de/geojson-jackson)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java ![GitHub Repo stars](https://img.shields.io/github/stars/mapbox/mapbox-java) ![GitHub last commit](https://img.shields.io/github/last-commit/mapbox/mapbox-java)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson ![GitHub Repo stars](https://img.shields.io/github/stars/google/gson) ![GitHub last commit](https://img.shields.io/github/last-commit/google/gson)](https://github.com/google/gson))
-* [geojson-serializer ![GitHub Repo stars](https://img.shields.io/github/stars/dtap-gmbh/geojson-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/dtap-gmbh/geojson-serializer)](https://github.com/dtap-gmbh/geojson-serializer): serialize Java with annotations as GeoJSON
+* [geojson-serializer ![GitHub Repo stars](https://img.shields.io/github/stars/ancore/geojson-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/ancore/geojson-serializer)](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
 
 ### resources
 
