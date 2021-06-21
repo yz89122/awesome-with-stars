@@ -75,6 +75,7 @@
 
 - [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
+- [Sodium (for Fabric) ![GitHub Repo stars](https://img.shields.io/github/stars/CaffeineMC/sodium-fabric) ![GitHub last commit](https://img.shields.io/github/last-commit/CaffeineMC/sodium-fabric)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ### Skins And Capes
 
