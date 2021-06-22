@@ -771,7 +771,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Scrolls ![GitHub Repo stars](https://img.shields.io/github/stars/asenchi/scrolls) ![GitHub last commit](https://img.shields.io/github/last-commit/asenchi/scrolls)](https://github.com/asenchi/scrolls) - Simple logging.
 * [Semantic Logger](https://logger.rocketjob.io/) - Scalable, next generation enterprise logging for Ruby.
 * [Syslogger ![GitHub Repo stars](https://img.shields.io/github/stars/crohr/syslogger) ![GitHub last commit](https://img.shields.io/github/last-commit/crohr/syslogger)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
-* [Timber ![GitHub Repo stars](https://img.shields.io/github/stars/timberio/timber-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/timberio/timber-ruby)](https://github.com/timberio/timber-ruby) - Simple structured logging with context.
 * [Yell ![GitHub Repo stars](https://img.shields.io/github/stars/rudionrails/yell) ![GitHub last commit](https://img.shields.io/github/last-commit/rudionrails/yell)](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
 ## Machine Learning
