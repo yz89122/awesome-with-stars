@@ -876,6 +876,7 @@
 - [Samaya ![GitHub Repo stars](https://img.shields.io/github/stars/bibhuticoder/samaya) ![GitHub last commit](https://img.shields.io/github/last-commit/bibhuticoder/samaya)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 - [GrandNode 2.0 ![GitHub Repo stars](https://img.shields.io/github/stars/grandnode/grandnode2) ![GitHub last commit](https://img.shields.io/github/last-commit/grandnode/grandnode2)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
+- [Aimeos ![GitHub Repo stars](https://img.shields.io/github/stars/aimeos/aimeos) ![GitHub last commit](https://img.shields.io/github/last-commit/aimeos/aimeos)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ### Commercial Products
 
@@ -947,7 +948,7 @@
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
 - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
-- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future’ bring learning everywhere :rocket:
+- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future��� bring learning everywhere :rocket:
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 - [n2ex ![GitHub Repo stars](https://img.shields.io/github/stars/OrangeXC/n2ex) ![GitHub last commit](https://img.shields.io/github/last-commit/OrangeXC/n2ex)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 - [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
@@ -1477,7 +1478,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-netflix-slider ![GitHub Repo stars](https://img.shields.io/github/stars/fanyeh/vue-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/fanyeh/vue-slider)](https://github.com/fanyeh/vue-slider) - A Netflix like slider.
 - [vue-pswipe ![GitHub Repo stars](https://img.shields.io/github/stars/GuoQichen/vue-pswipe) ![GitHub last commit](https://img.shields.io/github/last-commit/GuoQichen/vue-pswipe)](https://github.com/GuoQichen/vue-pswipe) - Easy to use, no need to set the size, support rotation, photoswipe based vue swipe plugin
 - [vue-cat-carousel ![GitHub Repo stars](https://img.shields.io/github/stars/hanssagita/vue-cat-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/hanssagita/vue-cat-carousel)](https://github.com/hanssagita/vue-cat-carousel) - Lightweight, simple and customizable for Vue Js
-- [@egjs/vue-flicking ![GitHub Repo stars](https://img.shields.io/github/stars/naver/egjs-flicking) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-flicking)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2.
+- [@egjs/vue-flicking ![GitHub Repo stars](https://img.shields.io/github/stars/naver/egjs-flicking) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-flicking)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
 - [slither-slider ![GitHub Repo stars](https://img.shields.io/github/stars/dolbex/slither-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/dolbex/slither-slider)](https://github.com/dolbex/slither-slider) - Carousel for images, videos, or components. Throw pretty much anything you want at it.
 - [vue-slick-carousel ![GitHub Repo stars](https://img.shields.io/github/stars/gs-shop/vue-slick-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/gs-shop/vue-slick-carousel)](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay
 - [@jfm/vue-carousel ![GitHub Repo stars](https://img.shields.io/github/stars/jiangfengming/vue-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/jiangfengming/vue-carousel)](https://github.com/jiangfengming/vue-carousel) - A Vue carousel component.
