@@ -894,7 +894,7 @@ Table of Contents
   * [commons.host](https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
-  * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
+  * [render.com](https://render.com) ��� A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [Stormkit](https://stormkit.io/) — Integrate building, deploying and hosting seamlessly with your git flow of your JAMStack or Node.JS app. 50 GB bandwith and 10m requests for free per month including free SSL.
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
@@ -1026,7 +1026,7 @@ Table of Contents
    * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
    * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for 2 users with 10 customers and 500MB Storage
-   * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
+   * [planitpoker.com](https://www.planitpoker.com/) ��� Free online planning poker (estimation tool)
    * [saas.zentao.pm](https://saas.zentao.pm/) - An Application Lifecycle Management solution for Issue Tracking and Project Management, on-premise and open source version are available as well.
    * [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
    * [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
@@ -1129,7 +1129,7 @@ Table of Contents
   * [Updrafts.app](https://updrafts.app) - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
-  * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
+  * [Pixelixe](https://pixelixe.com/) �� Create and edit engaging and unique graphics and images online.
   * [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
   * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
   * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)
