@@ -232,6 +232,7 @@ Services:
  - [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
+ - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub ![GitHub Repo stars](https://img.shields.io/github/stars/jeromelebel/MongoHub-Mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromelebel/MongoHub-Mac)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
