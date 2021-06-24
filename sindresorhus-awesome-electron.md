@@ -8,14 +8,6 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 **You can now [discuss and ask Electron-related questions ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-electron)](https://github.com/sindresorhus/awesome-electron/discussions) right in this repo.**
 
-<div align="center">
-	<hr>
-	<br>
-	<h2>
-		<a href="https://www.producthunt.com/posts/system-color-picker">My color picker app is on Product Hunt</a>
-	</h2>
-</div>
-
 <br>
 
 ---

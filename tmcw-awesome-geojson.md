@@ -45,6 +45,8 @@ GeoJSON utilities that will make your life easier.
 
 * [geojsonhint ![GitHub Repo stars](https://img.shields.io/github/stars/mapbox/geojsonhint) ![GitHub last commit](https://img.shields.io/github/last-commit/mapbox/geojsonhint)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
+* [gjf ![GitHub Repo stars](https://img.shields.io/github/stars/yazeed44/gjf) ![GitHub last commit](https://img.shields.io/github/last-commit/yazeed44/gjf)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+
 
 ### services
 
