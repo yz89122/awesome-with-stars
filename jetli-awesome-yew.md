@@ -74,6 +74,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Oxfeed ![GitHub Repo stars](https://img.shields.io/github/stars/sanpii/oxfeed) ![GitHub last commit](https://img.shields.io/github/last-commit/sanpii/oxfeed)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 - [Flow.er ![GitHub Repo stars](https://img.shields.io/github/stars/LighghtEeloo/flow.er) ![GitHub last commit](https://img.shields.io/github/last-commit/LighghtEeloo/flow.er)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 - [Fullstack-Rust ![GitHub Repo stars](https://img.shields.io/github/stars/vascokk/fullstack-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/vascokk/fullstack-rust)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
+- [Sea_battle ![GitHub Repo stars](https://img.shields.io/github/stars/MAE664128/sea_battle) ![GitHub last commit](https://img.shields.io/github/last-commit/MAE664128/sea_battle)](https://github.com/MAE664128/sea_battle) - A simple example of a sea battle game. Rust + Yew.
 
 ## Templates
 
