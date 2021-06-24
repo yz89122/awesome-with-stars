@@ -3160,6 +3160,7 @@ _Integrate with services or other frameworks_
 - [vue-ld ![GitHub Repo stars](https://img.shields.io/github/stars/dashhudson/vue-ld) ![GitHub last commit](https://img.shields.io/github/last-commit/dashhudson/vue-ld)](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 - [Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/sherl0g/prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/sherl0g/prisma)](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 - [vuetube ![GitHub Repo stars](https://img.shields.io/github/stars/webistomin/vuetube) ![GitHub last commit](https://img.shields.io/github/last-commit/webistomin/vuetube)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
+- [vue-tweet ![GitHub Repo stars](https://img.shields.io/github/stars/DannyFeliz/vue-tweet) ![GitHub last commit](https://img.shields.io/github/last-commit/DannyFeliz/vue-tweet)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 #### Vue CLI Plugins
 
