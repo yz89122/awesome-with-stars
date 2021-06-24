@@ -948,7 +948,7 @@
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
 - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
-- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future��� bring learning everywhere :rocket:
+- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future’ bring learning everywhere :rocket:
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 - [n2ex ![GitHub Repo stars](https://img.shields.io/github/stars/OrangeXC/n2ex) ![GitHub last commit](https://img.shields.io/github/last-commit/OrangeXC/n2ex)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 - [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
@@ -1093,7 +1093,7 @@
 - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
 - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
-- [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能生成啦!
+- [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能��成啦!
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
 - [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
@@ -1911,7 +1911,7 @@ _Date / datetime / time Picker_
 - [vue-date-picker ![GitHub Repo stars](https://img.shields.io/github/stars/ridewn/vue-date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/ridewn/vue-date-picker)](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 - [vue-monthly-picker ![GitHub Repo stars](https://img.shields.io/github/stars/ittus/vue-monthly-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/ittus/vue-monthly-picker)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
 - [vue-hotel-datepicker ![GitHub Repo stars](https://img.shields.io/github/stars/krystalcampioni/vue-hotel-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/krystalcampioni/vue-hotel-datepicker)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
-- [vue2-persian-datepicker ![GitHub Repo stars](https://img.shields.io/github/stars/dyonir/vue2-persian-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dyonir/vue2-persian-datepicker)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
+- [vue2-persian-datepicker ![GitHub Repo stars](https://img.shields.io/github/stars/dyonir/vue2-persian-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dyonir/vue2-persian-datepicker)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپو��نت انتخاب تاریخ برای ویو.
 - [vue-datetime ![GitHub Repo stars](https://img.shields.io/github/stars/mariomka/vue-datetime) ![GitHub last commit](https://img.shields.io/github/last-commit/mariomka/vue-datetime)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 - [vue-rangedate-picker ![GitHub Repo stars](https://img.shields.io/github/stars/bliblidotcom/vue-rangedate-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/bliblidotcom/vue-rangedate-picker)](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
 - [v2-datepicker ![GitHub Repo stars](https://img.shields.io/github/stars/dwqs/v2-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dwqs/v2-datepicker)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
