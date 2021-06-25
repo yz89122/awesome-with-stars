@@ -782,7 +782,7 @@ Table of Contents
     * Firewall rules and pagerules
     * Analytics
     * [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) — Expose local HTTP servers through Argo Tunnel to public.
-    * [Cloudflare Pages](https://pages.cloudflare.com/) �� Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
+    * [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
     * [Cloudflare Workers](https://workers.cloudflare.com/) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
@@ -1350,7 +1350,7 @@ Table of Contents
   * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.
 
-**[�� back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Miscellaneous
 
