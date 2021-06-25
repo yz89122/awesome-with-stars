@@ -297,6 +297,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ListBox ![GitHub Repo stars](https://img.shields.io/github/stars/darkmetalic/ListBox) ![GitHub last commit](https://img.shields.io/github/last-commit/darkmetalic/ListBox)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [YALG ![GitHub Repo stars](https://img.shields.io/github/stars/sasszem/yalg) ![GitHub last commit](https://img.shields.io/github/last-commit/sasszem/yalg)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
+* [Helium ![GitHub Repo stars](https://img.shields.io/github/stars/qeffects/helium) ![GitHub last commit](https://img.shields.io/github/last-commit/qeffects/helium)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 
 ## Utilities
 *Non-Game specific libraries and tools*
