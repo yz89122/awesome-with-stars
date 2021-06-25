@@ -170,11 +170,12 @@
 - 🎨🌍🔧 [Grayscale Design](https://grayscale.design/) - A Luminance-based color palette generator.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of pre-configured Tailwind CSS gradients with directional options.
 - 🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
+- 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 - 🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
 - 🎨🔧💼 [Colorkraken ![GitHub Repo stars](https://img.shields.io/github/stars/Bouhoum/colorkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/Bouhoum/colorkraken)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 - 🎨🔧💼 [babel-plugin-tailwind-dark ![GitHub Repo stars](https://img.shields.io/github/stars/wowlusitong/babel-plugin-tailwind-dark) ![GitHub last commit](https://img.shields.io/github/last-commit/wowlusitong/babel-plugin-tailwind-dark)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 - 🌍🔧💼 [Twind ![GitHub Repo stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
-- 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
+- 🌍���� [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
 - 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 - 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
@@ -339,7 +340,7 @@
 - 🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
-- 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
+- �� [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
