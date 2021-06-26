@@ -570,7 +570,7 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 > A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and _Lord Jim_. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, _Hard-Boiled Wonderland and the End of the World_ is the tour de force that expanded Haruki Murakami’s international following. Tracking one man’s descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.
 
-#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) _by [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)_ [3.9] 🌟 ��
+#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) _by [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)_ [3.9] 🌟 🔥
 
 > The Matrix is a world within the world, a global consensus hallucination, the representation of every byte of data in cyberspace…
 >
