@@ -196,9 +196,9 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [traceroute-circl ![GitHub Repo stars](https://img.shields.io/github/stars/CIRCL/traceroute-circl) ![GitHub last commit](https://img.shields.io/github/last-commit/CIRCL/traceroute-circl)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
-
 ### Playbooks
 
+* [AWS Incident Response Runbook Samples ![GitHub Repo stars](https://img.shields.io/github/stars/aws-samples/aws-incident-response-runbooks) ![GitHub last commit](https://img.shields.io/github/last-commit/aws-samples/aws-incident-response-runbooks)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 * [Counteractive Playbooks ![GitHub Repo stars](https://img.shields.io/github/stars/counteractive/incident-response-plan-template) ![GitHub last commit](https://img.shields.io/github/last-commit/counteractive/incident-response-plan-template)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
 * [GuardSIght Playbook Battle Cards ![GitHub Repo stars](https://img.shields.io/github/stars/guardsight/gsvsoc_cirt-playbook-battle-cards) ![GitHub last commit](https://img.shields.io/github/last-commit/guardsight/gsvsoc_cirt-playbook-battle-cards)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
 * [IRM ![GitHub Repo stars](https://img.shields.io/github/stars/certsocietegenerale/IRM) ![GitHub last commit](https://img.shields.io/github/last-commit/certsocietegenerale/IRM)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
@@ -240,7 +240,6 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Morgue ![GitHub Repo stars](https://img.shields.io/github/stars/etsy/morgue) ![GitHub last commit](https://img.shields.io/github/last-commit/etsy/morgue)](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
 * [Plaso ![GitHub Repo stars](https://img.shields.io/github/stars/log2timeline/plaso) ![GitHub last commit](https://img.shields.io/github/last-commit/log2timeline/plaso)](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline.
 * [Timesketch ![GitHub Repo stars](https://img.shields.io/github/stars/google/timesketch) ![GitHub last commit](https://img.shields.io/github/last-commit/google/timesketch)](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
-
 
 ### Videos
 
