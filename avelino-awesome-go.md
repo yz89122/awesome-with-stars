@@ -2681,7 +2681,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [Golang Singapore](https://www.meetup.com/golangsg/)
 * [Golang Stockholm](https://www.meetup.com/Go-Stockholm/)
 * [Golang Sydney, AU](https://www.meetup.com/golang-syd/)
-* [Golang São Paulo - Brazil](https://www.meetup.com/golangbr/)
+* [Golang S��o Paulo - Brazil](https://www.meetup.com/golangbr/)
 * [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 * [Golang Turkey](https://kommunity.com/goturkiye)
 * [Golang Vancouver, BC](https://www.meetup.com/golangvan/)
