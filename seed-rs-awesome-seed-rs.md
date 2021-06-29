@@ -77,6 +77,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Savory](https://gitlab.com/MAlrusayni/savory) - Library for building user interface based on Seed.
 - [seed-icons](https://crates.io/crates/seed-icons) - Library with collections of icons to include in Seed-based application.
 - [Seed Bootstrap ![GitHub Repo stars](https://img.shields.io/github/stars/panoptix-za/seed-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/panoptix-za/seed-bootstrap)](https://github.com/panoptix-za/seed-bootstrap) - A collection of the [Bootstrap](https://getbootstrap.com/) CSS components.
+- [seed_heroicons ![GitHub Repo stars](https://img.shields.io/github/stars/mh84/seed_heroicons) ![GitHub last commit](https://img.shields.io/github/last-commit/mh84/seed_heroicons)](https://github.com/mh84/seed_heroicons) - Library providing [Heroicons](https://heroicons.com/) to include into Seed-based applications.
 
 ## Contribute
 
