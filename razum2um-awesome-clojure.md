@@ -494,6 +494,7 @@ anylysis and visualization.*
   * [triki ![GitHub Repo stars](https://img.shields.io/github/stars/lambdaisland/trikl) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdaisland/trikl)](https://github.com/lambdaisland/trikl)
   * [zaffre ![GitHub Repo stars](https://img.shields.io/github/stars/aaron-santos/zaffre) ![GitHub last commit](https://img.shields.io/github/last-commit/aaron-santos/zaffre)](https://github.com/aaron-santos/zaffre)
   * [closh ![GitHub Repo stars](https://img.shields.io/github/stars/dundalek/closh) ![GitHub last commit](https://img.shields.io/github/last-commit/dundalek/closh)](https://github.com/dundalek/closh)
+  * [piotr-yuxuan/malli-cli ![GitHub Repo stars](https://img.shields.io/github/stars/piotr-yuxuan/malli-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/piotr-yuxuan/malli-cli)](https://github.com/piotr-yuxuan/malli-cli)
   
 ## Graphviz
 

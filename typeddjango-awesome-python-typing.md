@@ -94,6 +94,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Helper tools to add annotations to existing code
 
+- [autotyper ![GitHub Repo stars](https://img.shields.io/github/stars/JelleZijlstra/autotyper) ![GitHub last commit](https://img.shields.io/github/last-commit/JelleZijlstra/autotyper)](https://github.com/JelleZijlstra/autotyper) - Automatically add simple return type annotations for functions (bool, None, Optional).
 - [MonkeyType ![GitHub Repo stars](https://img.shields.io/github/stars/instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/instagram/MonkeyType)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
 - [pytest-monkeytype ![GitHub Repo stars](https://img.shields.io/github/stars/mariusvniekerk/pytest-monkeytype) ![GitHub last commit](https://img.shields.io/github/last-commit/mariusvniekerk/pytest-monkeytype)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 - [pyannotate ![GitHub Repo stars](https://img.shields.io/github/stars/dropbox/pyannotate) ![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/pyannotate)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
