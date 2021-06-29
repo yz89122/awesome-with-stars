@@ -93,11 +93,13 @@
 - [p8 ![GitHub Repo stars](https://img.shields.io/github/stars/jozanza/p8) ![GitHub last commit](https://img.shields.io/github/last-commit/jozanza/p8)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 - [MIDI to PICO-8 ![GitHub Repo stars](https://img.shields.io/github/stars/andmatand/midi-to-pico8) ![GitHub last commit](https://img.shields.io/github/last-commit/andmatand/midi-to-pico8)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 - [midi2pico ![GitHub Repo stars](https://img.shields.io/github/stars/gamax92/midi2pico) ![GitHub last commit](https://img.shields.io/github/last-commit/gamax92/midi2pico)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
+- [Denote](https://bikibird.itch.io/denote) - Converts MIDI files into SFX data-- interactive and web based.
 - [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) - A simple and clean template, that fixes issues with fullscreen, mouse and just looks nice.
 - [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - A simple helper tool for generating fillp patterns.
 - [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 - [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 - [pico8-deploy ![GitHub Repo stars](https://img.shields.io/github/stars/tducasse/pico8-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/tducasse/pico8-deploy)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
+- [yap8b ![GitHub Repo stars](https://img.shields.io/github/stars/Enerccio/yap8b) ![GitHub last commit](https://img.shields.io/github/last-commit/Enerccio/yap8b)](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 
 ## Text Editors Language Support
 
