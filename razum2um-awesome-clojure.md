@@ -21,6 +21,7 @@
   - [Braid ![GitHub Repo stars](https://img.shields.io/github/stars/braidchat/braid) ![GitHub last commit](https://img.shields.io/github/last-commit/braidchat/braid)](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
   - [Atea ![GitHub Repo stars](https://img.shields.io/github/stars/pkamenarsky/atea) ![GitHub last commit](https://img.shields.io/github/last-commit/pkamenarsky/atea)](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
   - [Accelerated Text ![GitHub Repo stars](https://img.shields.io/github/stars/tokenmill/accelerated-text) ![GitHub last commit](https://img.shields.io/github/last-commit/tokenmill/accelerated-text)](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
+  - [Ziggurat ![GitHub Repo stars](https://img.shields.io/github/stars/gojek/ziggurat) ![GitHub last commit](https://img.shields.io/github/last-commit/gojek/ziggurat)](https://github.com/gojek/ziggurat): a framework built to simplify Stream processing on Kafka
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank ![GitHub Repo stars](https://img.shields.io/github/stars/jeaye/jank) ![GitHub last commit](https://img.shields.io/github/last-commit/jeaye/jank)](https://github.com/jeaye/jank)
   - [lux ![GitHub Repo stars](https://img.shields.io/github/stars/LuxLang/lux) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxLang/lux)](https://github.com/LuxLang/lux)
