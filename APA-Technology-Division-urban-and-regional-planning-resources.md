@@ -227,6 +227,8 @@ Python Libraries & Related Resources.
 
 - [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
  
+- [UrbanSim ![GitHub Repo stars](https://img.shields.io/github/stars/udst/urbansim) ![GitHub last commit](https://img.shields.io/github/last-commit/udst/urbansim)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
+ 
 - [Geosnap ![GitHub Repo stars](https://img.shields.io/github/stars/spatialucr/geosnap) ![GitHub last commit](https://img.shields.io/github/last-commit/spatialucr/geosnap)](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 
 - [OSMnx ![GitHub Repo stars](https://img.shields.io/github/stars/gboeing/osmnx) ![GitHub last commit](https://img.shields.io/github/last-commit/gboeing/osmnx)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
