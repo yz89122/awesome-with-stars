@@ -948,7 +948,7 @@
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
 - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
-- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future��� bring learning everywhere :rocket:
+- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future’ bring learning everywhere :rocket:
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 - [n2ex ![GitHub Repo stars](https://img.shields.io/github/stars/OrangeXC/n2ex) ![GitHub last commit](https://img.shields.io/github/last-commit/OrangeXC/n2ex)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 - [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
@@ -3431,7 +3431,7 @@ _Scaffold parts of the app_
 - [Rendora ![GitHub Repo stars](https://img.shields.io/github/stars/rendora/rendora) ![GitHub last commit](https://img.shields.io/github/last-commit/rendora/rendora)](https://github.com/rendora/rendora) - dynamic SSR (server-side rendering) using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [pre-vue ![GitHub Repo stars](https://img.shields.io/github/stars/mtlynch/pre-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/mtlynch/pre-vue)](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt.
 - [ssr-vuejs-nodejs ![GitHub Repo stars](https://img.shields.io/github/stars/gustavoSoriano/ssr-vuejs-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/gustavoSoriano/ssr-vuejs-nodejs)](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
-- [vue-genesis ![GitHub Repo stars](https://img.shields.io/github/stars/fmfe/genesis) ![GitHub last commit](https://img.shields.io/github/last-commit/fmfe/genesis)](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+- [vue-genesis ![GitHub Repo stars](https://img.shields.io/github/stars/fmfe/genesis) ![GitHub last commit](https://img.shields.io/github/last-commit/fmfe/genesis)](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR����
   <!-- md-parser-end -->
   <br/>
   <br/>
