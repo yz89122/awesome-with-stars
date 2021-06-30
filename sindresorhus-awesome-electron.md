@@ -226,6 +226,7 @@ Made with Electron.
 - [Graviton Editor ![GitHub Repo stars](https://img.shields.io/github/stars/Graviton-Code-Editor/Graviton-App) ![GitHub last commit](https://img.shields.io/github/last-commit/Graviton-Code-Editor/Graviton-App)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 - [Yana ![GitHub Repo stars](https://img.shields.io/github/stars/lukasbach/yana) ![GitHub last commit](https://img.shields.io/github/last-commit/lukasbach/yana)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 - [SpaceEye ![GitHub Repo stars](https://img.shields.io/github/stars/KYDronePilot/SpaceEye) ![GitHub last commit](https://img.shields.io/github/last-commit/KYDronePilot/SpaceEye)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+- [Heroic Games Launcher ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) ![GitHub last commit](https://img.shields.io/github/last-commit/Heroic-Games-Launcher/HeroicGamesLauncher)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 
 ### Closed Source
 
@@ -368,6 +369,7 @@ Made with Electron.
 - [electronmon ![GitHub Repo stars](https://img.shields.io/github/stars/catdad/electronmon) ![GitHub last commit](https://img.shields.io/github/last-commit/catdad/electronmon)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electron-create-menu ![GitHub Repo stars](https://img.shields.io/github/stars/kilian/electron-create-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/kilian/electron-create-menu)](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 - [electronegativity ![GitHub Repo stars](https://img.shields.io/github/stars/doyensec/electronegativity) ![GitHub last commit](https://img.shields.io/github/last-commit/doyensec/electronegativity)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+- [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
 
 ### Using Electron
 
