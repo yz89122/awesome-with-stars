@@ -262,6 +262,7 @@ drm/kms.
 *  [PasVulkan ![GitHub Repo stars](https://img.shields.io/github/stars/BeRo1985/pasvulkan) ![GitHub last commit](https://img.shields.io/github/last-commit/BeRo1985/pasvulkan)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal [Zlib]
 *  [vulkan-zig ![GitHub Repo stars](https://img.shields.io/github/stars/Snektron/vulkan-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/Snektron/vulkan-zig)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig [MIT]
 *  [VK² ![GitHub Repo stars](https://img.shields.io/github/stars/kotlin-graphics/vkk) ![GitHub last commit](https://img.shields.io/github/last-commit/kotlin-graphics/vkk)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power [Apache License 2.0]
+*  [Vortice.Vulkan ![GitHub Repo stars](https://img.shields.io/github/stars/amerkoleci/Vortice.Vulkan) ![GitHub last commit](https://img.shields.io/github/last-commit/amerkoleci/Vortice.Vulkan)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings [MIT]
 
 
 ## Tools
