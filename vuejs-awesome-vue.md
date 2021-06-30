@@ -948,7 +948,7 @@
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
 - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
-- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future��� bring learning everywhere :rocket:
+- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future’ bring learning everywhere :rocket:
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 - [n2ex ![GitHub Repo stars](https://img.shields.io/github/stars/OrangeXC/n2ex) ![GitHub last commit](https://img.shields.io/github/last-commit/OrangeXC/n2ex)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 - [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
@@ -2294,7 +2294,7 @@ _Set of components + responsive layout system_
 - [element-ui ![GitHub Repo stars](https://img.shields.io/github/stars/ElemeFE/element) ![GitHub last commit](https://img.shields.io/github/last-commit/ElemeFE/element)](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
 - [vue-bulma-components ![GitHub Repo stars](https://img.shields.io/github/stars/vouill/vue-bulma-components) ![GitHub last commit](https://img.shields.io/github/last-commit/vouill/vue-bulma-components)](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
 - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
-- [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
+- [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with �� by Vue.js 2.0
 - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
 - [BootstrapVue ![GitHub Repo stars](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/bootstrap-vue/bootstrap-vue)](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.
 - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
