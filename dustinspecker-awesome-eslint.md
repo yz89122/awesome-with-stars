@@ -82,8 +82,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
-- [Radar ![GitHub Repo stars](https://img.shields.io/github/stars/es-joy/eslint-plugin-radar) ![GitHub last commit](https://img.shields.io/github/last-commit/es-joy/eslint-plugin-radar)](https://github.com/es-joy/eslint-plugin-radar) - Rules detecting bugs and suspicious patterns (Fork of SonarJS).
-- [SonarJS ![GitHub Repo stars](https://img.shields.io/github/stars/SonarSource/eslint-plugin-sonarjs) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/eslint-plugin-sonarjs)](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns. See also a currently maintained fork, [Radar ![GitHub Repo stars](https://img.shields.io/github/stars/es-joy/eslint-plugin-radar) ![GitHub last commit](https://img.shields.io/github/last-commit/es-joy/eslint-plugin-radar)](https://github.com/es-joy/eslint-plugin-radar).
+- [SonarJS ![GitHub Repo stars](https://img.shields.io/github/stars/SonarSource/eslint-plugin-sonarjs) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/eslint-plugin-sonarjs)](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 - [Unicorn ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/eslint-plugin-unicorn)](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 
 ### Compatiblity
