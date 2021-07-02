@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
 
 > A curated list of awesome things related to Vue.js
 
@@ -921,7 +921,7 @@
 - [octimine](https://www.octimine.com/) - A patent search engine.
 - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
-- [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
+- [滚���吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
@@ -948,7 +948,7 @@
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
 - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
-- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future��� bring learning everywhere :rocket:
+- [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future’ bring learning everywhere :rocket:
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 - [n2ex ![GitHub Repo stars](https://img.shields.io/github/stars/OrangeXC/n2ex) ![GitHub last commit](https://img.shields.io/github/last-commit/OrangeXC/n2ex)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 - [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
@@ -1760,7 +1760,7 @@ _Display non-editable events in a Calendar_
 - [vue-drag-verify ![GitHub Repo stars](https://img.shields.io/github/stars/AshleyLv/vue-drag-verify) ![GitHub last commit](https://img.shields.io/github/last-commit/AshleyLv/vue-drag-verify)](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
 - [vue-balloon ![GitHub Repo stars](https://img.shields.io/github/stars/kevinwarne/vue-balloon) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinwarne/vue-balloon)](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
 - [vue-sticker ![GitHub Repo stars](https://img.shields.io/github/stars/KamilOcean/vue-sticker) ![GitHub last commit](https://img.shields.io/github/last-commit/KamilOcean/vue-sticker)](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
-- [v-rating ![GitHub Repo stars](https://img.shields.io/github/stars/vinayakkulkarni/v-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-rating)](https://github.com/vinayakkulkarni/v-rating) - ⭐️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
+- [v-rating ![GitHub Repo stars](https://img.shields.io/github/stars/vinayakkulkarni/v-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-rating)](https://github.com/vinayakkulkarni/v-rating) - ���️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
 - [vue-content-placeholders ![GitHub Repo stars](https://img.shields.io/github/stars/michalsnik/vue-content-placeholders) ![GitHub last commit](https://img.shields.io/github/last-commit/michalsnik/vue-content-placeholders)](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [vue-page-designer ![GitHub Repo stars](https://img.shields.io/github/stars/fireyy/vue-page-designer) ![GitHub last commit](https://img.shields.io/github/last-commit/fireyy/vue-page-designer)](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
 - [vue-creativecommons ![GitHub Repo stars](https://img.shields.io/github/stars/julon/vue-creativecommons) ![GitHub last commit](https://img.shields.io/github/last-commit/julon/vue-creativecommons)](https://github.com/julon/vue-creativecommons) - CreativeCommons.org Vue.js components library.
@@ -2756,7 +2756,7 @@ _Utilities not directly related to the UI_
 - [vue-use ![GitHub Repo stars](https://img.shields.io/github/stars/openfext/vue-use) ![GitHub last commit](https://img.shields.io/github/last-commit/openfext/vue-use)](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
 - [vue-concurrency ![GitHub Repo stars](https://img.shields.io/github/stars/MartinMalinda/vue-concurrency) ![GitHub last commit](https://img.shields.io/github/last-commit/MartinMalinda/vue-concurrency)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 - [vue-ics ![GitHub Repo stars](https://img.shields.io/github/stars/evildvl/vue-ics) ![GitHub last commit](https://img.shields.io/github/last-commit/evildvl/vue-ics)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
-- [vue-use-switch-map ![GitHub Repo stars](https://img.shields.io/github/stars/jfet97/vue-use-switch-map) ![GitHub last commit](https://img.shields.io/github/last-commit/jfet97/vue-use-switch-map)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
+- [vue-use-switch-map ![GitHub Repo stars](https://img.shields.io/github/stars/jfet97/vue-use-switch-map) ![GitHub last commit](https://img.shields.io/github/last-commit/jfet97/vue-use-switch-map)](https://github.com/jfet97/vue-use-switch-map) - �� The power of the RxJS switchMap operator injected into the Vue composition world.
 - [vue-use-infinite-scroll ![GitHub Repo stars](https://img.shields.io/github/stars/jfet97/vue-use-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/jfet97/vue-use-infinite-scroll)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
 - [vue-with-wrapper ![GitHub Repo stars](https://img.shields.io/github/stars/zWingz/vue-with-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/zWingz/vue-with-wrapper)](https://github.com/zWingz/vue-with-wrapper) - A object deconstruction used in `template`
 - [vesselize ![GitHub Repo stars](https://img.shields.io/github/stars/vesselize/vesselize) ![GitHub last commit](https://img.shields.io/github/last-commit/vesselize/vesselize)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
