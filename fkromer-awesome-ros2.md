@@ -290,6 +290,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Autoware Course Lecture 10: State Estimation for Localization](https://www.youtube.com/watch?v=g2YURb-d9vY)
   - [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
   - [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
+- [ROS2-Industrial training material ![GitHub Repo stars](https://img.shields.io/github/stars/ros-industrial/ros2_i_training) ![GitHub last commit](https://img.shields.io/github/last-commit/ros-industrial/ros2_i_training)](https://github.com/ros-industrial/ros2_i_training)
 
 ## Presentations
 
