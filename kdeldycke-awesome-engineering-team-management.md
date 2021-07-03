@@ -189,7 +189,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 
-- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) -“*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
+- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) - “*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
 
 - [“That's usually about the time I nope right out of the interview”](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 
@@ -489,7 +489,7 @@ You shouldn't spend your time coding. Leave that to the engineers: your value li
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 
-- [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don't even come close to mattering as much as the boss' technical competence.”
+- [If Your Boss Could Do Your Job, You're More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don't even come close to mattering as much as the boss' technical competence.”
 
 - “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.” ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
 
@@ -979,7 +979,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - “Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.” This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
 
-- ��When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.” ([source](https://news.ycombinator.com/item?id=21395557)).
+- “When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.” ([source](https://news.ycombinator.com/item?id=21395557)).
 
 - [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “Few folks understand probability, and most executives don't care about the data, regardless of what it says.”
 
