@@ -952,7 +952,7 @@ Table of Contents
 
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [Astra](https://astra.datastax.com/register) — Cloud Native Cassandra as a Service with 5GB free tier
-   * [cloudamqp.com](https://www.cloudamqp.com/) ��� RabbitMQ as a Service, up to 1M messages/month and 20 connections free
+   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
    * [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB
    * [HarperDb](https://harperdb.io/) — Serverless cloud database, with dynamic schema based on JSON, 3000 IOPS with 1GB storage
@@ -1082,7 +1082,7 @@ Table of Contents
    * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
    * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
    * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
-   * [redbooth.com](https://redbooth.com) ��� P2P file syncing, free for up to 2 users
+   * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [Storj](https://storj.io) — Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 3 Projects, 50 GB storage per project/month , 50 GB bandwidth per project/month.
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
