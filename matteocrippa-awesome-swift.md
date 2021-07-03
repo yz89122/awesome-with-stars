@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1055 | May 26, 2021
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1057 | July 03, 2021
 
 ### Contents
 
@@ -105,6 +105,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
   - [Network](#network)
     - [HTML](#html)
     - [Messaging Protocol](#messaging-protocol)
+    - [SOAP](#soap)
     - [Socket](#socket)
     - [Webserver](#webserver)
   - [OCR](#ocr)
@@ -160,7 +161,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
-* [Swift Newsletter by Natasha the Robot (discontinued, look the archive)](https://www.natashatherobot.com) - Curated newsletter.
 * [Swift Weekly Brief](https://swiftweeklybrief.com/) - A multi author curated newsletter.
 
 ### Official Guides
@@ -252,6 +252,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Reactant ![GitHub Repo stars](https://img.shields.io/github/stars/Brightify/Reactant) ![GitHub last commit](https://img.shields.io/github/last-commit/Brightify/Reactant)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 * [Spin ![GitHub Repo stars](https://img.shields.io/github/stars/Spinners/Spin.Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/Spinners/Spin.Swift)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
 * [StateViewController ![GitHub Repo stars](https://img.shields.io/github/stars/davidask/StateViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/davidask/StateViewController)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
+* [The Composable Architecture ![GitHub Repo stars](https://img.shields.io/github/stars/pointfreeco/swift-composable-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/pointfreeco/swift-composable-architecture)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 * [Viperit ![GitHub Repo stars](https://img.shields.io/github/stars/ferranabello/Viperit) ![GitHub last commit](https://img.shields.io/github/last-commit/ferranabello/Viperit)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## Misc
@@ -833,6 +834,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CTPanoramaView ![GitHub Repo stars](https://img.shields.io/github/stars/scihant/CTPanoramaView) ![GitHub last commit](https://img.shields.io/github/last-commit/scihant/CTPanoramaView)](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [DTPhotoViewerController ![GitHub Repo stars](https://img.shields.io/github/stars/tungvoduc/DTPhotoViewerController) ![GitHub last commit](https://img.shields.io/github/last-commit/tungvoduc/DTPhotoViewerController)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 * [FacebookImagePicker ![GitHub Repo stars](https://img.shields.io/github/stars/floriangbh/FacebookImagePicker) ![GitHub last commit](https://img.shields.io/github/last-commit/floriangbh/FacebookImagePicker)](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
+* [FaceCrop ![GitHub Repo stars](https://img.shields.io/github/stars/Ancestry/FaceCrop) ![GitHub last commit](https://img.shields.io/github/last-commit/Ancestry/FaceCrop)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
 * [FlexibleImage ![GitHub Repo stars](https://img.shields.io/github/stars/kawoou/FlexibleImage) ![GitHub last commit](https://img.shields.io/github/last-commit/kawoou/FlexibleImage)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 * [FMPhotoPicker ![GitHub Repo stars](https://img.shields.io/github/stars/congnd/FMPhotoPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/congnd/FMPhotoPicker)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 * [gifu ![GitHub Repo stars](https://img.shields.io/github/stars/kaishin/gifu) ![GitHub last commit](https://img.shields.io/github/last-commit/kaishin/gifu)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
@@ -857,6 +859,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Rough ![GitHub Repo stars](https://img.shields.io/github/stars/bakhtiyork/Rough) ![GitHub last commit](https://img.shields.io/github/last-commit/bakhtiyork/Rough)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 * [Sharaku ![GitHub Repo stars](https://img.shields.io/github/stars/makomori/Sharaku) ![GitHub last commit](https://img.shields.io/github/last-commit/makomori/Sharaku)](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake ![GitHub Repo stars](https://img.shields.io/github/stars/onmyway133/Snowflake) ![GitHub last commit](https://img.shields.io/github/last-commit/onmyway133/Snowflake)](https://github.com/onmyway133/Snowflake) - Work with SVG.
+* [SwiftDraw ![GitHub Repo stars](https://img.shields.io/github/stars/swhitty/SwiftDraw) ![GitHub last commit](https://img.shields.io/github/last-commit/swhitty/SwiftDraw)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
 * [SwiftGen-Assets ![GitHub Repo stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen) ![GitHub last commit](https://img.shields.io/github/last-commit/SwiftGen/SwiftGen)](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
 * [SwiftGif ![GitHub Repo stars](https://img.shields.io/github/stars/swiftgif/SwiftGif) ![GitHub last commit](https://img.shields.io/github/last-commit/swiftgif/SwiftGif)](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with GIF support.
 * [SwiftSVG ![GitHub Repo stars](https://img.shields.io/github/stars/mchoe/SwiftSVG) ![GitHub last commit](https://img.shields.io/github/last-commit/mchoe/SwiftSVG)](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
@@ -1037,6 +1040,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [CocoaMQTT ![GitHub Repo stars](https://img.shields.io/github/stars/emqx/CocoaMQTT) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/CocoaMQTT)](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X.
 * [Perfect-Notifications ![GitHub Repo stars](https://img.shields.io/github/stars/PerfectlySoft/Perfect-Notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfectlySoft/Perfect-Notifications)](https://github.com/PerfectlySoft/Perfect-Notifications) - iOS Notifications for Linux and OS X.
+
+#### SOAP
+[back to top](#readme) 
+
+* [SOAPEngine ![GitHub Repo stars](https://img.shields.io/github/stars/priore/SOAPEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/priore/SOAPEngine)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
 
 #### Socket
 [back to top](#readme) 
@@ -1323,7 +1331,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Toaster ![GitHub Repo stars](https://img.shields.io/github/stars/devxoul/Toaster) ![GitHub last commit](https://img.shields.io/github/last-commit/devxoul/Toaster)](https://github.com/devxoul/Toaster) - Notification toasts.
 * [TouchVisualizer ![GitHub Repo stars](https://img.shields.io/github/stars/morizotter/TouchVisualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/morizotter/TouchVisualizer)](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle ![GitHub Repo stars](https://img.shields.io/github/stars/piemonte/Twinkle) ![GitHub last commit](https://img.shields.io/github/last-commit/piemonte/Twinkle)](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
-* [TZSignalBarStrength ![GitHub Repo stars](https://img.shields.io/github/stars/TrianglZ/TZSignalBarStrength) ![GitHub last commit](https://img.shields.io/github/last-commit/TrianglZ/TZSignalBarStrength)](https://github.com/TrianglZ/TZSignalBarStrength) - TZSignalStrengthView is an easy to use UI component to help display a signal bar with an added customizable fill animation.
 * [UIPheonix ![GitHub Repo stars](https://img.shields.io/github/stars/MKGitHub/UIPheonix) ![GitHub last commit](https://img.shields.io/github/last-commit/MKGitHub/UIPheonix)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 * [UltraDrawerView ![GitHub Repo stars](https://img.shields.io/github/stars/super-ultra/UltraDrawerView) ![GitHub last commit](https://img.shields.io/github/last-commit/super-ultra/UltraDrawerView)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 * [URLEmbeddedView ![GitHub Repo stars](https://img.shields.io/github/stars/marty-suzuki/URLEmbeddedView) ![GitHub last commit](https://img.shields.io/github/last-commit/marty-suzuki/URLEmbeddedView)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
