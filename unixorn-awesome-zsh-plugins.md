@@ -52,6 +52,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [znap](#znap)
   - [zoppo](#zoppo)
   - [zpacker](#zpacker)
+  - [zpico](#zpico)
   - [zplug](#zplug)
   - [zpm](#zpm)
   - [zr](#zr)
@@ -139,7 +140,7 @@ You can find some interesting performance timing comparisons of various framewor
 
 **fresh** is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files. We also support files such as ackrc and gitconfig. Think of it as Bundler for your dot files.
 
-### [miniplug ![GitHub Repo stars](https://img.shields.io/github/stars/YerinAlexey/miniplug) ![GitHub last commit](https://img.shields.io/github/last-commit/YerinAlexey/miniplug)](https://github.com/YerinAlexey/miniplug)
+### [miniplug](https://sr.ht/~yerinalexey/miniplug)
 
 **miniplug** is a minimalistic plugin manager for ZSH.
 
@@ -287,6 +288,10 @@ Znap can:
 ### [zpacker ![GitHub Repo stars](https://img.shields.io/github/stars/happyslowly/zpacker) ![GitHub last commit](https://img.shields.io/github/last-commit/happyslowly/zpacker)](https://github.com/happyslowly/zpacker)
 
 **Zpacker** is a lightweight ZSH plugin & theme management framework.
+
+### [zpico ![GitHub Repo stars](https://img.shields.io/github/stars/thornjad/zpico) ![GitHub last commit](https://img.shields.io/github/last-commit/thornjad/zpico)](https://github.com/thornjad/zpico)
+
+The minuscule ZSH package manager. No frills, no bloat, just 2 kB of 100% ZSH code, providing complete package management for your ZSH environment.
 
 ### [zplug ![GitHub Repo stars](https://img.shields.io/github/stars/zplug/zplug) ![GitHub last commit](https://img.shields.io/github/last-commit/zplug/zplug)](https://github.com/zplug/zplug)
 
