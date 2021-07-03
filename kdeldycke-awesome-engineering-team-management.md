@@ -247,11 +247,15 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [StaffEng](https://staffeng.com) - Once you've reached the Senior Software Engineer level, you're at the crossroad. Either you pursue engineering management or continue down the path of technical excellence to become a Staff Engineer. This isa collection of guides about the later position.
 
+- [10 Admirable Attributes of a Great Technical Lead](https://betterprogramming.pub/10-admirable-attributes-of-a-great-technical-lead-251d13a8843b) - “They are smart yet kind. Knowledgeable, yet humble. Busy, yet approachable.”
+
 ### Consultants
 
 - “A consultant is someone 4 pages ahead in the manual” ([source](https://news.ycombinator.com/item?id=20786286)).
 
 - “The value that most orgs get from a consultant (…) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes” ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
+
+- [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - This article let you understand how an independent consultant operates.
 
 ## Recruitment
 
@@ -288,6 +292,9 @@ High-growth company will all need to industrialize the hiring process at one poi
 List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
 
 - [The Technical Interview is an Ego Trip](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicule to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
+
+- [The Intangible Skills You Can't Interview For](https://staysaasy.com/leadership/2021/04/12/the-intangible-skills-you-cant-interview-for.html) - “1) Cut-Through on Crappy Tasks; 2) Knowing How to Finish;
+3) Knowing How to Start; 4) Giving (And Receiving) Diagonal Feedback; 5) Harnessing the Value of Intangibles.”
 
 - [Back-End Developer Interview Questions ![GitHub Repo stars](https://img.shields.io/github/stars/arialdomartini/Back-End-Developer-Interview-Questions) ![GitHub last commit](https://img.shields.io/github/last-commit/arialdomartini/Back-End-Developer-Interview-Questions)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 
@@ -665,6 +672,8 @@ But don't worry too much, every company has its own definition of the two roles,
 
 - [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
 
+- [Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57) - “Why do so many software projects fail? Software development is much closer to creating a new factory than running an existing factory. (…) Software development is made up of many unknown duration tasks, this fundamentally unpredictable nature makes traditional management's predictive planning techniques particularly unsuited for software projects.”
+
 ### Specifications
 
 - “Walking on water and developing software from a specification are easy if both are frozen.” Edward V. Berard - [Essays on object-oriented software engineering](https://amzn.com/0132888955/?tag=kevideld-20).
@@ -967,6 +976,8 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - “This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (…) It never works.” ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
 
+- [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/) - “If you know what problem you’re solving and you know how to solve it, a bureaucratic organization will do. Stick with what you know. If you’re writing software, that’s a generative activity. You need a high-resilience org chart. Fewer boxes, more flexibility.”
+
 - [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - “Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.” This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
 
 - “When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.” ([source](https://news.ycombinator.com/item?id=21395557)).
@@ -1007,11 +1018,15 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - “In my experience extreme workaholism can often be a way to avoid or defer major life decisions that someone doesn't want to make or even consciously recognize. (…) Eventually the debt comes due but sometimes not until many decades later.” ([source](https://news.ycombinator.com/item?id=21900054))
 
+- [Burnout From an Organizational Perspective](https://ssir.org/articles/entry/burnout_from_an_organizational_perspective) - “Extensive research by the military on sustainable performance in stressful conditions teaches that leaders should become champions of health, rather than taskmasters.” Describe the symptoms of toxic organizations and how managers can protect their teams from systemic burnout.
+
 - [Avoiding burnout as an ambitious developer](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/) - “Be willing to say no; Know what you don't want; Use your energy level realistically; Be kind to your future self”.
 
 - [Psychology Today: How Programmers Can Avoid Burnout](https://www.psychologytoday.com/us/blog/dear-life-please-improve/202008/how-does-your-tech-job-burn-you-out) - “Veteran software developers often recommend to: 1. Work at a place where you can grow; 2. Build transferable skills; 3. Have creative outlets and create a space to focus on yourself, switch off, and relax; 4. Of course, there's always the nuclear option: make your money and get out.”
 
 - [Average tenure of a CISO is just 26 months due to high stress and burnout](https://www.zdnet.com/article/average-tenure-of-a-ciso-is-just-26-months-due-to-high-stress-and-burnout/) - “Today, CISO jobs come with low budgets, long working hours, a lack of power on executive boards, a diminishing pool of trained professionals they can hire, but also a constant stress of not having done enough to secure the company's infrastructure against cyber-attacks, continuous pressure due to newly arising threats, and little thanks for the good work done, but all the blame if everything goes wrong.”
+
+- [What makes you resilient?](https://www.skylyte.io/self-assessment) - A quick test to profile your energy source, the way you deal with stress, and how it impact your team.
 
 ## Setbacks and Failures
 
