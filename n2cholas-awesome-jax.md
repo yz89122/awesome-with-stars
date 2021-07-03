@@ -86,6 +86,8 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Normalizer-Free Networks ![GitHub Repo stars](https://img.shields.io/github/stars/deepmind/deepmind-research) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/deepmind-research)](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [NFNets](https://arxiv.org/abs/2102.06171).
 - [Distributed Shampoo ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/google-research) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/google-research)](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
 - [JAX (Flax) RL ![GitHub Repo stars](https://img.shields.io/github/stars/ikostrikov/jax-rl) ![GitHub last commit](https://img.shields.io/github/last-commit/ikostrikov/jax-rl)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
+- [MLP Mixer (Flax) ![GitHub Repo stars](https://img.shields.io/github/stars/SauravMaheshkar/MLP-Mixer) ![GitHub last commit](https://img.shields.io/github/last-commit/SauravMaheshkar/MLP-Mixer)](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal Implementation of [MlP Mixer](https://arxiv.org/abs/2105.01601)
+- [gMLP ![GitHub Repo stars](https://img.shields.io/github/stars/SauravMaheshkar/gMLP) ![GitHub last commit](https://img.shields.io/github/last-commit/SauravMaheshkar/gMLP)](https://github.com/SauravMaheshkar/gMLP) - Implementation of [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050).
 
 <a name="videos" />
 
