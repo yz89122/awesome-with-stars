@@ -45,6 +45,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 <h1 id="table-of-contents">Table of Contents</h1>
 
 <ul>
+  <li><a href="#table-of-contents">Table of Contents</a></li>
   <li><a href="#official">Official</a></li>
   <li><a href="#syntax">Syntax</a></li>
   <li>
@@ -55,7 +56,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
       <li><a href="#migrating-from-sublime-text">Migrating from Sublime Text</a></li>
       <li><a href="#migrating-from-visual-studio">Migrating from Visual Studio</a></li>
       <li><a href="#migrating-from-intellij-idea">Migrating from Intellij IDEA</a></li>
-      <li><a href="#camel-humps">Camel humps</a></li>
+      <li><a href="#camel-humps">Camel Humps</a></li>
     </ul>
   </li>
   <li><a href="#using-vs-code-with-particular-technologies">Using VS Code with particular technologies</a></li>
@@ -63,7 +64,12 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 <a href="#lint-and-intellisense">Lint and IntelliSense</a>
     <ul>
       <li><a href="#1c">1C</a></li>
-      <li><a href="#AutoHotkey">AutoHotkey</a></li>
+      <li>
+<a href="#autohotkey">AutoHotkey</a>
+        <ul>
+          <li><a href="#autohotkey-plus">AutoHotkey Plus</a></li>
+        </ul>
+      </li>
       <li>
 <a href="#bash">Bash</a>
         <ul>
@@ -72,22 +78,46 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
           <li><a href="#shellman">Shellman</a></li>
         </ul>
       </li>
-      <li><a href="#c">C++</a></li>
-      <li><a href="#c-asp-net-and-net-core">C#</a></li>
-      <li><a href="#clojure">Clojure</a></li>
-      <li><a href="#css">CSS</a></li>
+      <li>
+<a href="#c">C++</a>
+        <ul>
+          <li><a href="#more">More</a></li>
+        </ul>
+      </li>
+      <li><a href="#c-asp-net-and-net-core">C#, ASP .NET and .NET Core</a></li>
+      <li>
+<a href="#clojure">Clojure</a>
+        <ul>
+          <li><a href="#calva">Calva</a></li>
+        </ul>
+      </li>
+      <li>
+<a href="#css">CSS</a>
+        <ul>
+          <li><a href="#css-peek">CSS Peek</a></li>
+        </ul>
+      </li>
       <li><a href="#go">Go</a></li>
       <li><a href="#groovy">Groovy</a></li>
       <li><a href="#haskell">Haskell</a></li>
       <li><a href="#shell">Shell</a></li>
       <li><a href="#java">Java</a></li>
-      <li><a href="#javascript">JavaScript</a></li>
-      <li><a href="#typescript">Typescript</a></li>
+      <li>
+<a href="#javascript">JavaScript</a>
+        <ul>
+          <li><a href="#linters">Linters</a></li>
+          <li><a href="#framework-specific">Framework-specific</a></li>
+          <li><a href="#debugger-for-chrome">Debugger for Chrome</a></li>
+          <li><a href="#facebook-flow">Facebook Flow</a></li>
+          <li><a href="#typescript">TypeScript</a></li>
+          <li><a href="#debugger-for-chrome-1">Debugger for Chrome</a></li>
+        </ul>
+      </li>
       <li>
 <a href="#markdown">Markdown</a>
         <ul>
           <li><a href="#markdownlint">markdownlint</a></li>
-          <li><a href="#markdown-all-in-one">Markdown All in one</a></li>
+          <li><a href="#markdown-all-in-one">Markdown All in One</a></li>
           <li><a href="#markdown-emoji">Markdown Emoji</a></li>
         </ul>
       </li>
@@ -97,7 +127,12 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
           <li><a href="#intellisense">IntelliSense</a></li>
           <li><a href="#laravel">Laravel</a></li>
           <li><a href="#twig">Twig</a></li>
-          <li><a href="#smarty">Smarty</a></li>
+          <li>
+<a href="#smarty">Smarty</a>
+            <ul>
+              <li><a href="#smarty-template-support">Smarty Template Support</a></li>
+            </ul>
+          </li>
           <li><a href="#other-extensions">Other extensions</a></li>
           <li><a href="#read-more">Read more</a></li>
         </ul>
@@ -126,8 +161,12 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
       <li><a href="#deploy">Deploy</a></li>
       <li><a href="#duplicate-action">Duplicate Action</a></li>
       <li><a href="#error-lens">Error Lens</a></li>
-      <li><a href="#es7-reactreduxgraphqlreact-native-snippets">ES7 React/Redux/GraphQL/React-Native snippets</a></li>
-      <li><a href="#gi">Gi</a></li>
+      <li>
+<a href="#es7-reactreduxgraphqlreact-native-snippets">ES7 React/Redux/GraphQL/React-Native snippets</a>
+        <ul>
+          <li><a href="#gi">Gi</a></li>
+        </ul>
+      </li>
       <li><a href="#gistpad">GistPad</a></li>
       <li><a href="#git-history">Git History</a></li>
       <li><a href="#git-project-manager">Git Project Manager</a></li>
@@ -136,8 +175,12 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
       <li><a href="#git-indicators">Git Indicators</a></li>
       <li><a href="#github">GitHub</a></li>
       <li><a href="#github-pull-request-monitor">GitHub Pull Request Monitor</a></li>
-      <li><a href="#gitlab-workflow">GitLab Workflow</a></li>
-      <li><a href="#gradle-tasks">Gradle Tasks</a></li>
+      <li>
+<a href="#gitlab-workflow">GitLab Workflow</a>
+        <ul>
+          <li><a href="#gradle-tasks">Gradle Tasks</a></li>
+        </ul>
+      </li>
       <li><a href="#icon-fonts">Icon Fonts</a></li>
       <li><a href="#import-cost">Import Cost</a></li>
       <li><a href="#jira-and-bitbucket">Jira and Bitbucket</a></li>
@@ -152,19 +195,22 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
       <li><a href="#instant-markdown">Instant Markdown</a></li>
       <li><a href="#npm-intellisense">npm Intellisense</a></li>
       <li><a href="#parameter-hints">Parameter Hints</a></li>
-      <li><a href="#partial-diff">Partial Diff</a></li>
-      <li><a href="#paste-json-as-code">Paste JSON as Code</a></li>
+      <li>
+<a href="#partial-diff">Partial Diff</a>
+        <ul>
+          <li><a href="#paste-json-as-code">Paste JSON as Code</a></li>
+        </ul>
+      </li>
       <li><a href="#path-autocomplete">Path Autocomplete</a></li>
       <li><a href="#path-intellisense">Path IntelliSense</a></li>
       <li><a href="#power-tools">Power Tools</a></li>
       <li><a href="#printcode">PrintCode</a></li>
-      <li><a href="#project-dashboard">Project Dashboard</a></li>
       <li><a href="#project-manager">Project Manager</a></li>
-      <li><a href="#rest-client">REST Client</a></li>
+      <li><a href="#project-dashboard">Project Dashboard</a></li>
       <li><a href="#rainbow-csv">Rainbow CSV</a></li>
       <li><a href="#remote-development">Remote Development</a></li>
       <li><a href="#remote-vscode">Remote VSCode</a></li>
-      <li><a href="#settings-sync">Settings Sync</a></li>
+      <li><a href="#rest-client">REST Client</a></li>
       <li><a href="#text-power-tools">Text Power Tools</a></li>
       <li><a href="#todo-tree">Todo Tree</a></li>
       <li><a href="#toggle-quotes">Toggle Quotes</a></li>
@@ -175,13 +221,17 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     </ul>
   </li>
   <li>
-<a href="#formatting--beautification">Formatting/Beautification</a>
+<a href="#formatting--beautification">Formatting &amp; Beautification</a>
     <ul>
       <li><a href="#better-align">Better Align</a></li>
       <li><a href="#auto-close-tag">Auto Close Tag</a></li>
       <li><a href="#auto-rename-tag">Auto Rename Tag</a></li>
-      <li><a href="#beautify">beautify</a></li>
-      <li><a href="#html2pug">html2pug</a></li>
+      <li>
+<a href="#beautify">beautify</a>
+        <ul>
+          <li><a href="#html2pug">html2pug</a></li>
+        </ul>
+      </li>
       <li><a href="#ecmascript-quotes-transformer">ECMAScript Quotes Transformer</a></li>
       <li><a href="#paste-and-indent">Paste and Indent</a></li>
       <li><a href="#sort-lines">Sort Lines</a></li>
@@ -192,31 +242,27 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
       <li><a href="#auto-import">Auto Import</a></li>
       <li><a href="#shell-format">shell-format</a></li>
       <li><a href="#vscode-google-translate">Vscode Google Translate</a></li>
-    </ul>
-  </li>
-  <li>
+      <li>
 <a href="#explorer-icons">Explorer Icons</a>
-    <ul>
-      <li><a href="#city-lights-icons">City Lights Icons</a></li>
-      <li><a href="#vscode-icons">VSCode Icons</a></li>
-      <li><a href="#seti-icons">Seti-UI</a></li>
-      <li><a href="#material-icon-theme">Material-Icon-Theme</a></li>
+        <ul>
+          <li><a href="#city-lights-icons">City Lights Icons</a></li>
+          <li><a href="#vscode-icons">VSCode Icons</a></li>
+          <li><a href="#seti-icons">Seti Icons</a></li>
+          <li><a href="#material-icon-theme">Material Icon Theme</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li>
 <a href="#uncategorized">Uncategorized</a>
     <ul>
-      <li><a href="#ascii-tree-generator">Ascii Tree Generator</a></li>
       <li><a href="#browser-preview">Browser Preview</a></li>
-      <li><a href="#carbon-now-sh">Carbon-now-sh</a></li>
       <li><a href="#coderoad">CodeRoad</a></li>
       <li><a href="#code-runner">Code Runner</a></li>
       <li><a href="#code-time">Code Time</a></li>
       <li><a href="#color-highlight">Color Highlight</a></li>
       <li><a href="#output-colorizer">Output Colorizer</a></li>
       <li><a href="#dash">Dash</a></li>
-      <li><a href="#debugger-for-chrome">Debugger for Chrome</a></li>
-      <li><a href="#ecmascript-quotes-transformer">ECMAScript Quotes Transformer</a></li>
       <li><a href="#edit-with-shell-command">Edit with Shell Command</a></li>
       <li><a href="#editor-config-for-vs-code">Editor Config for VS Code</a></li>
       <li><a href="#ftp-sync">ftp-sync</a></li>
@@ -226,8 +272,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
       <li><a href="#password-generator">Password Generator</a></li>
       <li><a href="#platformio">PlatformIO</a></li>
       <li><a href="#polacode">Polacode</a></li>
+      <li><a href="#carbon-now-sh">carbon-now-sh</a></li>
       <li><a href="#quokka">Quokka</a></li>
-      <li><a href="#remote-workspace">Remote Workspace</a></li>
       <li><a href="#runner">Runner</a></li>
       <li><a href="#slack">Slack</a></li>
       <li><a href="#smoothtype">SmoothType</a></li>
@@ -242,36 +288,41 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   <li>
 <a href="#themes">Themes</a>
     <ul>
-      <li><a href="#2077-theme-by-endormi">2077 Theme by Endormi</a></li>
-      <li><a href="#an-old-hope-theme-by-dustin-sanders">An Old Hope Theme by Dustin Sanders</a></li>
-      <li><a href="#ariake-dark-by-wart">Ariake Dark by wart</a></li>
-      <li><a href="#atom-one-dark-theme-by-mahmoud-ali">Atom One Dark Theme by Mahmoud Ali</a></li>
-      <li><a href="#atomize-by-emroussel">Atomize by emroussel</a></li>
-      <li><a href="#ayu-by-teabyii">Ayu by teabyii</a></li>
-      <li><a href="#borealis-theme-by-alexander-eckert">Borealis Theme by Alexander Eckert</a></li>
-      <li><a href="#captain-sweetheart-by-ultradracula">Captain Sweetheart by ultradracula</a></li>
-      <li><a href="#city-lights-by-yummygum">City Lights Theme by Yummygum</a></li>
-      <li><a href="#cobalt2-theme-official-by-wes-bos">Cobalt2 Theme Official by Wes Bos</a></li>
-      <li><a href="#dracula-official-by-dracula-theme">Dracula Official by Dracula Theme</a></li>
-      <li><a href="#edge-by-bogdan-lazar">Edge by Bogdan Lazar</a></li>
-      <li><a href="#eva-theme-by-fisheva">Eva Theme by fisheva</a></li>
-      <li><a href="#fairy-floss-by-nopjmp-and-sailorhg">Fairyfloss by nopjmp and sailorhg</a></li>
-      <li><a href="#github-theme-by-thomas-pink">GitHub Theme by Thomas Pink</a></li>
-      <li><a href="#jellybeans-theme-by-dimitar-nonov">Jellybeans Theme by Dimitar Nonov</a></li>
-      <li><a href="#material-palenight-theme-by-whizkydee">Material Palenight Theme by whizkydee</a></li>
-      <li><a href="#material-theme-by-mattia-astorino">Material Theme by Mattia Astorino</a></li>
-      <li><a href="#mno-by-u29dc">Mno by u29dc</a></li>
-      <li><a href="#monokai-oblique-by-pushqrdx">Monokai Oblique</a></li>
-      <li><a href="#monokai-pro-by-monokai-commercial">Monokai Pro by monokai (commercial)</a></li>
-      <li><a href="#night-owl-by-sarah-drasner">Night Owl by Sarah Drasner</a></li>
-      <li><a href="#plastic-by-will-stone">Plastic by Will Stone</a></li>
-      <li><a href="#niketa-theme-by-dejan-toteff">Niketa Theme by Dejan Toteff</a></li>
-      <li><a href="#nord-by-arcticicestudio">Nord by arcticicestudio</a></li>
-      <li><a href="#rainglow-by-dayle-rees">Rainglow by Dayle Rees</a></li>
-      <li><a href="#relaxed-theme-by-michael-k%C3%BChnel">Relaxed Theme by Michael Kühnel</a></li>
-      <li><a href="#shades-of-purple-by-ahmad-awais">Shades of Purple by Ahmad Awais</a></li>
-      <li><a href="#slime-theme-by-smlombardi">Slime Theme by smlombardi</a></li>
-      <li><a href="#tinacious-design-syntax-by-tinacious">Tinacious design syntax by Tinacious</a></li>
+      <li><a href="#ui">UI</a></li>
+      <li>
+<a href="#syntax-1">Syntax</a>
+        <ul>
+          <li><a href="#2077-theme-by-endormi">2077 theme by Endormi</a></li>
+          <li><a href="#an-old-hope-theme-by-dustin-sanders">An Old Hope Theme by Dustin Sanders</a></li>
+          <li><a href="#ariake-dark-by-wart">Ariake Dark by wart</a></li>
+          <li><a href="#atom-one-dark-theme-by-mahmoud-ali">Atom One Dark Theme by Mahmoud Ali</a></li>
+          <li><a href="#atomize-by-emroussel">Atomize by emroussel</a></li>
+          <li><a href="#ayu-by-teabyii">Ayu by teabyii</a></li>
+          <li><a href="#borealis-theme-by-alexander-eckert">Borealis Theme by Alexander Eckert</a></li>
+          <li><a href="#captain-sweetheart-by-ultradracula">Captain Sweetheart by ultradracula</a></li>
+          <li><a href="#city-lights-by-yummygum">City Lights by Yummygum</a></li>
+          <li><a href="#cobalt2-theme-official-by-wes-bos">Cobalt2 Theme Official by Wes Bos</a></li>
+          <li><a href="#dracula-official-by-dracula-theme">Dracula Official by Dracula Theme</a></li>
+          <li><a href="#edge-by-bogdan-lazar">Edge by Bogdan Lazar</a></li>
+          <li><a href="#eva-theme-by-fisheva">Eva Theme by fisheva</a></li>
+          <li><a href="#fairy-floss-by-nopjmp-and-sailorhg">Fairy Floss by nopjmp and sailorhg</a></li>
+          <li><a href="#github-theme-by-thomas-pink">GitHub Theme by Thomas Pink</a></li>
+          <li><a href="#jellybeans-theme-by-dimitar-nonov">Jellybeans Theme by Dimitar Nonov</a></li>
+          <li><a href="#material-palenight-theme-by-whizkydee">Material Palenight Theme by whizkydee</a></li>
+          <li><a href="#material-theme-by-mattia-astorino">Material Theme by Mattia Astorino</a></li>
+          <li><a href="#mno-by-u29dc">Mno by u29dc</a></li>
+          <li><a href="#monokai-oblique-by-pushqrdx">Monokai Oblique by pushqrdx</a></li>
+          <li><a href="#monokai-pro-by-monokai-commercial">Monokai Pro by monokai (commercial)</a></li>
+          <li><a href="#night-owl-by-sarah-drasner">Night Owl by Sarah Drasner</a></li>
+          <li><a href="#plastic-by-will-stone">Plastic by Will Stone</a></li>
+          <li><a href="#nord-by-arcticicestudio">Nord by arcticicestudio</a></li>
+          <li><a href="#rainglow-by-dayle-rees">Rainglow by Dayle Rees</a></li>
+          <li><a href="#relaxed-theme-by-michael-k%C3%BChnel">Relaxed Theme by Michael Kühnel</a></li>
+          <li><a href="#shades-of-purple-by-ahmad-awais">Shades of Purple by Ahmad Awais</a></li>
+          <li><a href="#slime-theme-by-smlombardi">Slime Theme by smlombardi</a></li>
+          <li><a href="#niketa-theme-by-dejan-toteff">Niketa Theme by Dejan Toteff</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li><a href="#people-to-follow">People to Follow</a></li>
@@ -532,9 +583,12 @@ Parse CSS,SCSS, LESS and add vendor prefixes automatically.
 <ul>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter">haskell-linter</a></li>
   <li>
-<a href="https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server">Haskell IDE engine</a> - provides <a href="https://github.com/haskell/haskell-ide-engine">language server <img src="https://img.shields.io/github/stars/haskell/haskell-ide-engine" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/haskell/haskell-ide-engine" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> for stack and cabal projects.
-    <h2 id="shell">Shell</h2>
-  </li>
+<a href="https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server">Haskell IDE engine</a> - provides <a href="https://github.com/haskell/haskell-ide-engine">language server <img src="https://img.shields.io/github/stars/haskell/haskell-ide-engine" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/haskell/haskell-ide-engine" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> for stack and cabal projects.</li>
+</ul>
+
+<h2 id="shell">Shell</h2>
+
+<ul>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell">autocomplate-shell</a></li>
 </ul>
 
@@ -561,9 +615,11 @@ Parse CSS,SCSS, LESS and add vendor prefixes automatically.
 
 <p>See the difference between these two <a href="https://github.com/michaelgmcd/vscode-language-babel/issues/1">here <img src="https://img.shields.io/github/stars/michaelgmcd/vscode-language-babel" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/michaelgmcd/vscode-language-babel" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
 
+<h3 id="linters">Linters</h3>
+
 <ul>
   <li>
-<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin">tslint</a> - TSLint for Visual Studio Code (with <code class="language-plaintext highlighter-rouge">"tslint.jsEnable": true</code>).</li>
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin">tslint (deprecated)</a> - TSLint for Visual Studio Code (with <code class="language-plaintext highlighter-rouge">"tslint.jsEnable": true</code>).</li>
   <li>
 <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">eslint</a> - Linter for <a href="https://eslint.org/">eslint</a>.</li>
   <li>
@@ -573,12 +629,13 @@ Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   <li>
 <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a> - Linter, Formatter and Pretty printer for <a href="https://github.com/prettier/prettier-vscode">Prettier <img src="https://img.shields.io/github/stars/prettier/prettier-vscode" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/prettier/prettier-vscode" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</li>
   <li>
-<a href="https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org">Schema.org Snippets</a> - Snippets for <a href="https://schema.org/">Schema.org</a>.</li>
+    <p><a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">Code Spell Checker</a> - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.</p>
+  </li>
   <li>
-<a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">Code Spell Checker</a> - Spelling Checker for Visual Studio Code.</li>
+<a href="https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org">Schema.org Snippets</a> - Snippets for <a href="https://schema.org/">Schema.org</a>.</li>
 </ul>
 
-<p>Framework-specific:</p>
+<h3 id="framework-specific">Framework-specific</h3>
 
 <ul>
   <li>
@@ -606,7 +663,7 @@ Parse CSS,SCSS, LESS and add vendor prefixes automatically.
 
 <ul>
   <li>
-<a href="https://marketplace.visualstudio.com/items?itemName=eg2.tslint">tslint</a> - TSLint for Visual Studio Code</li>
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin">tslint (deprecated)</a> - TSLint for Visual Studio Code.</li>
   <li>
 <a href="https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero">TypeScript Hero</a> - Code outline view of your open TS, sort and organize your imports.</li>
 </ul>
@@ -1137,14 +1194,6 @@ Have a look at the <a href="https://github.com/KnisterPeter/vscode-github/blob/m
 </blockquote>
 
 <p><img src="https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif" alt="Send HTTP request and view response animation" referrerpolicy="no-referrer" loading="lazy"></p>
-
-<h2 id="settings-sync"><a href="https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync">Settings Sync</a></h2>
-
-<blockquote>
-  <p>Synchronize settings, snippets, themes, file icons, launch, key bindings, workspaces and extensions across multiple machines using GitHub Gist</p>
-</blockquote>
-
-<p><img src="https://i.imgur.com/QZtaBca.gif" alt="Settings Sync" referrerpolicy="no-referrer" loading="lazy"></p>
 
 <h2 id="text-power-tools"><a href="https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools">Text Power Tools</a></h2>
 
@@ -1839,17 +1888,13 @@ Have a look at the <a href="https://github.com/KnisterPeter/vscode-github/blob/m
   <li>
 <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a> - The Better Comments extension will help you create more human-friendly comments in your code.</li>
   <li>
-<a href="https://code.visualstudio.com/docs/extensions/overview">Extending Visual Studio Code</a> section of <a href="https://code.visualstudio.com/docs">Official Documentation</a>
+<a href="https://code.visualstudio.com/api">Visual Studio Code API</a> section of <a href="https://code.visualstudio.com/docs">Official Documentation</a>
 </li>
 </ul>
 
 <h2 id="libraries">Libraries</h2>
 
 <ul>
-  <li>
-<a href="https://github.com/Microsoft/vscode-extension-vscode">vscode-extension-vscode <img src="https://img.shields.io/github/stars/Microsoft/vscode-extension-vscode" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Microsoft/vscode-extension-vscode" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The vscode.d.ts node module</li>
-  <li>
-<a href="https://github.com/samverschueren/vscode-set-text">vscode-set-text <img src="https://img.shields.io/github/stars/samverschueren/vscode-set-text" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/samverschueren/vscode-set-text" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An easy-to-use VS Code <code class="language-plaintext highlighter-rouge">#setText()</code> method.</li>
   <li>
 <a href="https://github.com/mlewand-org/vscode-test-content">vscode-test-content <img src="https://img.shields.io/github/stars/mlewand-org/vscode-test-content" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mlewand-org/vscode-test-content" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A method to set/get editor content, and it’s selection. Especially useful for unit tests.</li>
 </ul>
