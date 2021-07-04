@@ -921,7 +921,7 @@
 - [octimine](https://www.octimine.com/) - A patent search engine.
 - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
-- [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
+- [滚���吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
@@ -1760,7 +1760,7 @@ _Display non-editable events in a Calendar_
 - [vue-drag-verify ![GitHub Repo stars](https://img.shields.io/github/stars/AshleyLv/vue-drag-verify) ![GitHub last commit](https://img.shields.io/github/last-commit/AshleyLv/vue-drag-verify)](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
 - [vue-balloon ![GitHub Repo stars](https://img.shields.io/github/stars/kevinwarne/vue-balloon) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinwarne/vue-balloon)](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
 - [vue-sticker ![GitHub Repo stars](https://img.shields.io/github/stars/KamilOcean/vue-sticker) ![GitHub last commit](https://img.shields.io/github/last-commit/KamilOcean/vue-sticker)](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
-- [v-rating ![GitHub Repo stars](https://img.shields.io/github/stars/vinayakkulkarni/v-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-rating)](https://github.com/vinayakkulkarni/v-rating) - ⭐️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
+- [v-rating ![GitHub Repo stars](https://img.shields.io/github/stars/vinayakkulkarni/v-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-rating)](https://github.com/vinayakkulkarni/v-rating) - ���️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
 - [vue-content-placeholders ![GitHub Repo stars](https://img.shields.io/github/stars/michalsnik/vue-content-placeholders) ![GitHub last commit](https://img.shields.io/github/last-commit/michalsnik/vue-content-placeholders)](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [vue-page-designer ![GitHub Repo stars](https://img.shields.io/github/stars/fireyy/vue-page-designer) ![GitHub last commit](https://img.shields.io/github/last-commit/fireyy/vue-page-designer)](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
 - [vue-creativecommons ![GitHub Repo stars](https://img.shields.io/github/stars/julon/vue-creativecommons) ![GitHub last commit](https://img.shields.io/github/last-commit/julon/vue-creativecommons)](https://github.com/julon/vue-creativecommons) - CreativeCommons.org Vue.js components library.
