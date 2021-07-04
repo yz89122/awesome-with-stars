@@ -346,6 +346,7 @@
 - [Svelte ![GitHub Repo stars](https://img.shields.io/github/stars/TheComputerM/awesome-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/TheComputerM/awesome-svelte)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 - [Design systems ![GitHub Repo stars](https://img.shields.io/github/stars/klaufel/awesome-design-systems) ![GitHub last commit](https://img.shields.io/github/last-commit/klaufel/awesome-design-systems)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js ![GitHub Repo stars](https://img.shields.io/github/stars/innocenzi/awesome-inertiajs) ![GitHub last commit](https://img.shields.io/github/last-commit/innocenzi/awesome-inertiajs)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+- [MDBootstrap ![GitHub Repo stars](https://img.shields.io/github/stars/mdbootstrap/awesome-mdbootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/mdbootstrap/awesome-mdbootstrap)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
 ## Back-End Development
 
