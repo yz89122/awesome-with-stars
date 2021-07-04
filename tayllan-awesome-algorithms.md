@@ -144,6 +144,8 @@ If you want to contribute, please read the [contribution guidelines ![GitHub Rep
     * [by @evandrolg ![GitHub Repo stars](https://img.shields.io/github/stars/EvandroLG/computer_science_in_lua) ![GitHub last commit](https://img.shields.io/github/last-commit/EvandroLG/computer_science_in_lua)](https://github.com/EvandroLG/computer_science_in_lua)
 * Objective-C
     * [by @ EvgenyKarkan ![GitHub Repo stars](https://img.shields.io/github/stars/EvgenyKarkan/EKAlgorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/EvgenyKarkan/EKAlgorithms)](https://github.com/EvgenyKarkan/EKAlgorithms)
+* PHP
+    * [by @TheAlgorithms ![GitHub Repo stars](https://img.shields.io/github/stars/TheAlgorithms/PHP) ![GitHub last commit](https://img.shields.io/github/last-commit/TheAlgorithms/PHP)](https://github.com/TheAlgorithms/PHP)
 * Python
     * [by @nryoung ![GitHub Repo stars](https://img.shields.io/github/stars/nryoung/algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/nryoung/algorithms)](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ![GitHub Repo stars](https://img.shields.io/github/stars/prakhar1989/Algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/prakhar1989/Algorithms)](https://github.com/prakhar1989/Algorithms)
