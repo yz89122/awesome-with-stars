@@ -2330,6 +2330,7 @@ _Set of components + responsive layout system_
 - [Mijin ![GitHub Repo stars](https://img.shields.io/github/stars/lecoueyl/mijin) ![GitHub last commit](https://img.shields.io/github/last-commit/lecoueyl/mijin)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 - [vuestic-ui ![GitHub Repo stars](https://img.shields.io/github/stars/epicmaxco/vuestic-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/epicmaxco/vuestic-ui)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 - [Qui-max ![GitHub Repo stars](https://img.shields.io/github/stars/Qvant-lab/qui-max) ![GitHub last commit](https://img.shields.io/github/last-commit/Qvant-lab/qui-max)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+- [Naive UI ![GitHub Repo stars](https://img.shields.io/github/stars/TuSimple/naive-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TuSimple/naive-ui)](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 
 
 #### Mobile
