@@ -60,6 +60,11 @@
 - [vcc ![GitHub Repo stars](https://img.shields.io/github/stars/lemoncmd/vcc) ![GitHub last commit](https://img.shields.io/github/last-commit/lemoncmd/vcc)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork ![GitHub Repo stars](https://img.shields.io/github/stars/Itay2805/Vork) ![GitHub last commit](https://img.shields.io/github/last-commit/Itay2805/Vork)](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
+
+### Operating systems/Kernels
+
+- [Vinix ![GitHub Repo stars](https://img.shields.io/github/stars/vlang/vinix) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vinix)](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+
 ### Package managers
 
 - [vpm ![GitHub Repo stars](https://img.shields.io/github/stars/yue-best-practices/vpm) ![GitHub last commit](https://img.shields.io/github/last-commit/yue-best-practices/vpm)](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
