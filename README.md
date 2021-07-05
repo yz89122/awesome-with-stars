@@ -650,6 +650,7 @@
 - [Corda ![GitHub Repo stars](https://img.shields.io/github/stars/chainstack/awesome-corda) ![GitHub last commit](https://img.shields.io/github/last-commit/chainstack/awesome-corda)](./chainstack-awesome-corda.md) [*Origin*](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 - [Waves ![GitHub Repo stars](https://img.shields.io/github/stars/msmolyakov/awesome-waves) ![GitHub last commit](https://img.shields.io/github/last-commit/msmolyakov/awesome-waves)](./msmolyakov-awesome-waves.md) [*Origin*](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate ![GitHub Repo stars](https://img.shields.io/github/stars/substrate-developer-hub/awesome-substrate) ![GitHub last commit](https://img.shields.io/github/last-commit/substrate-developer-hub/awesome-substrate)](./substrate-developer-hub-awesome-substrate.md) [*Origin*](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Golem ![GitHub Repo stars](https://img.shields.io/github/stars/golemfactory/awesome-golem) ![GitHub last commit](https://img.shields.io/github/last-commit/golemfactory/awesome-golem)](./golemfactory-awesome-golem.md) [*Origin*](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 
 ## Higher Education
 
@@ -806,3 +807,4 @@
 - [StumbleUponAwesome ![GitHub Repo stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome) ![GitHub last commit](https://img.shields.io/github/last-commit/basharovV/StumbleUponAwesome)](./basharovV-StumbleUponAwesome.md) [*Origin*](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI ![GitHub Repo stars](https://img.shields.io/github/stars/umutphp/awesome-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/umutphp/awesome-cli)](./umutphp-awesome-cli.md) [*Origin*](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](http://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
+- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
