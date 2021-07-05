@@ -197,7 +197,7 @@ Tools and libraries to test your Elm applications
 
 * [Elm test ![GitHub Repo stars](https://img.shields.io/github/stars/elm-explorations/test) ![GitHub last commit](https://img.shields.io/github/last-commit/elm-explorations/test)](https://github.com/elm-explorations/test) - Unit and fuzz tests
 * [Elm Program test ![GitHub Repo stars](https://img.shields.io/github/stars/avh4/elm-program-test) ![GitHub last commit](https://img.shields.io/github/last-commit/avh4/elm-program-test)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
-* [Elmer ![GitHub Repo stars](https://img.shields.io/github/stars/brian-watkins/elmer) ![GitHub last commit](https://img.shields.io/github/last-commit/brian-watkins/elmer)](https://github.com/brian-watkins/elmer) - Describe the behavior of Elm HTML applications
+* [Elm Spec ![GitHub Repo stars](https://img.shields.io/github/stars/brian-watkins/elm-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/brian-watkins/elm-spec)](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
 
 **[:top: back to top](#table-of-contents)**
 
