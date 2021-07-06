@@ -1312,7 +1312,7 @@ Table of Contents
   * [app.vagrantup.com](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
-**[⬆ back to top](#table-of-contents)**
+**[�� back to top](#table-of-contents)**
 
 ## Dev Blogging Sites
 
