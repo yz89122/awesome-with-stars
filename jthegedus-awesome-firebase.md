@@ -17,7 +17,7 @@ The most **up to date** list of Firebase docs, talks, tools, examples & articles
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰🇷 ko](readme-ko.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
+Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷🇺 ru](readme-ru.md) <!-- · [🇪🇸 es](readme-es.md) · [🇮🇩 id](readme-id.md) · [🇯🇵 ja](readme-ja.md) · [🇵🇹 pt](readme-pt.md) · [🇨🇳 zh](readme-zh.md) -->
 
 [Firebase](https://firebase.google.com) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs!
 
@@ -44,11 +44,11 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 
 ## Featured (new releases)
 
-- 🔌 [GeoFirestore ![GitHub Repo stars](https://img.shields.io/github/stars/MichaelSolati/geofirestore-js) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelSolati/geofirestore-js)](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
-- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - All Firebase talks @ the Firebase Summit 2020.
-- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
-- 🔌 [Pyrebase ![GitHub Repo stars](https://img.shields.io/github/stars/thisbejim/Pyrebase) ![GitHub last commit](https://img.shields.io/github/last-commit/thisbejim/Pyrebase)](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
-- 🔧 [asdf-firebase ![GitHub Repo stars](https://img.shields.io/github/stars/jthegedus/asdf-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/jthegedus/asdf-firebase)](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
+- 📖 [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - Emulator suite is now complete!
+- 📖 [App Check](https://firebase.google.com/docs/app-check) - Protect your backend resources from abuse, such as billing fraud or phishing.
+- 📖 [Firestore Data Bundles](https://firebase.google.com/docs/firestore/bundles) - Data Bundles are static query results for CDN caching to speed first page loads.
+- 📖 [Modular Web SDK (v9)](https://firebase.google.com/docs/web/learn-more#modular-version) - Import only what you need reducing SDK size up to 80%.
+- 📝 [App Distribution App Bundles](https://firebase.googleblog.com/2021/05/app-distribution-adds-support-to-android-app-bundles.html) - Support for Android App Bundles (AAB) is officially supported in App Distribution.
 
 ## Official Docs & Quickstarts
 
@@ -61,8 +61,12 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 ## Firebase Extensions
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
-- 🔧 [Stripe Firebase Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/stripe/stripe-firebase-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-firebase-extensions)](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
-- 🔧 [Firebase Extension for Full-Text Search ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/firestore-typesense-search) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/firestore-typesense-search)](https://github.com/typesense/firestore-typesense-search/) - Extension to add full-text search in Firestore, by syncing the data to [Typesense ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/typesense) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/typesense)](https://github.com/typesense/typesense) - an OSS alternative to Algolia.
+- 🔧 [Experimental Firebase Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/FirebaseExtended/experimental-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/experimental-extensions)](https://github.com/FirebaseExtended/experimental-extensions) -  laboratory for new extensions created by Firebase.
+- 🔧 [Stripe Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/stripe/stripe-firebase-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-firebase-extensions)](https://github.com/stripe/stripe-firebase-extensions) - Official Stripe subscriptions and invoices extensions.
+- 🔧 [MessageBird Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/messagebird/firestore-send-msg) ![GitHub last commit](https://img.shields.io/github/last-commit/messagebird/firestore-send-msg)](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
+- 🔧 [Algolia Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/algolia/firestore-algolia-search) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/firestore-algolia-search)](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
+- 🔧 [Mailchimp Extensions ![GitHub Repo stars](https://img.shields.io/github/stars/mailchimp/Firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Firebase)](https://github.com/mailchimp/Firebase) - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
+- 🔧 [Typesense Extension for Full-Text Search ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/firestore-typesense-search) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/firestore-typesense-search)](https://github.com/typesense/firestore-typesense-search) - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/typesense) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/typesense)](https://github.com/typesense/typesense), an OSS alternative to Algolia.
 
 ## Web
 
@@ -92,6 +96,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 - 💡 [Nextbase ![GitHub Repo stars](https://img.shields.io/github/stars/martyan/nextbase) ![GitHub last commit](https://img.shields.io/github/last-commit/martyan/nextbase)](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 - 🔧 [Typesaurus ![GitHub Repo stars](https://img.shields.io/github/stars/kossnocorp/typesaurus) ![GitHub last commit](https://img.shields.io/github/last-commit/kossnocorp/typesaurus)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 - 🔌 [firebase-kotlin-sdk ![GitHub Repo stars](https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/GitLiveApp/firebase-kotlin-sdk)](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
+- 🔌 [GeoFirestore ![GitHub Repo stars](https://img.shields.io/github/stars/MichaelSolati/geofirestore-js) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelSolati/geofirestore-js)](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
 
 ## Mobile
 
@@ -140,6 +145,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 - 🔌 [Integrify ![GitHub Repo stars](https://img.shields.io/github/stars/anishkny/integrify) ![GitHub last commit](https://img.shields.io/github/last-commit/anishkny/integrify)](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - How to do behavioral & segmentation analysis on Firebase event data via BigQuery Export and Rakam.
 - 🔌 [Firestore Queue System ![GitHub Repo stars](https://img.shields.io/github/stars/sbarbat/firestore-queuer) ![GitHub last commit](https://img.shields.io/github/last-commit/sbarbat/firestore-queuer)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
+- 🔌 [Pyrebase ![GitHub Repo stars](https://img.shields.io/github/stars/thisbejim/Pyrebase) ![GitHub last commit](https://img.shields.io/github/last-commit/thisbejim/Pyrebase)](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 
 ## CLI & Editor
 
@@ -158,6 +164,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 - 🔧 [VSFire ![GitHub Repo stars](https://img.shields.io/github/stars/toba/vsfire) ![GitHub last commit](https://img.shields.io/github/last-commit/toba/vsfire)](https://github.com/toba/vsfire) - Deprecated ~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~
 - 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
+- 🔧 [asdf-firebase ![GitHub Repo stars](https://img.shields.io/github/stars/jthegedus/asdf-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/jthegedus/asdf-firebase)](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
 ## Other
 
@@ -178,6 +185,7 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 - 📹 [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) - All Firebase talks @ Google IO 2019.
 - 📹 [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - All Firebase talks @ the Firebase Summit 2019.
 - 📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.
+- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - All Firebase talks @ the Firebase Summit 2020.
 
 <!-- END content -->
 
@@ -185,7 +193,12 @@ Translations: [🇬🇧 en](readme.md) · [🇷🇺 ru](readme-ru.md) · [🇰�
 
 ### Official
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase Blog](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase) 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+- 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
+- 📝 [Firebase Blog](https://firebase.googleblog.com/)
+- 🐦 [@firebase](https://twitter.com/firebase)
+- 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)
+- 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
 
 ### Community
 
