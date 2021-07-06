@@ -284,6 +284,7 @@ A curated list of cryptography resources and links.
 - [PolyCrypt ![GitHub Repo stars](https://img.shields.io/github/stars/polycrypt/polycrypt) ![GitHub last commit](https://img.shields.io/github/last-commit/polycrypt/polycrypt)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 - [rusha ![GitHub Repo stars](https://img.shields.io/github/stars/srijs/rusha) ![GitHub last commit](https://img.shields.io/github/last-commit/srijs/rusha)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl ![GitHub Repo stars](https://img.shields.io/github/stars/bitwiseshiftleft/sjcl) ![GitHub last commit](https://img.shields.io/github/last-commit/bitwiseshiftleft/sjcl)](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
+- [TweetNaCl.js ![GitHub Repo stars](https://img.shields.io/github/stars/dchest/tweetnacl-js) ![GitHub last commit](https://img.shields.io/github/last-commit/dchest/tweetnacl-js)](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
 - [URSA ![GitHub Repo stars](https://img.shields.io/github/stars/quartzjer/ursa) ![GitHub last commit](https://img.shields.io/github/last-commit/quartzjer/ursa)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 
