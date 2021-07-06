@@ -229,6 +229,7 @@
 - 💙📚 [Headless UI ![GitHub Repo stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 📚 [VueTailwind ![GitHub Repo stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 - 📚 [Tailwind Elements](https://tailwind-elements.com/) - Huge collection of free components, mobile-friendly thanks to Bootstrap 5.
+- 📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 - 📁 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
@@ -340,7 +341,7 @@
 - 🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
-- �� [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
+- 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
