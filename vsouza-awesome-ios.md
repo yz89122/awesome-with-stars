@@ -3355,7 +3355,7 @@ Most of these are paid services, some have free tiers.
 - [Awesome list of open source applications for macOS ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps) - List of awesome open source applications for macOS.
 - [Awesome iOS Interview question list ![GitHub Repo stars](https://img.shields.io/github/stars/dashvlas/awesome-ios-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/dashvlas/awesome-ios-interview)](https://github.com/dashvlas/awesome-ios-interview) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
 - [Top App Developers ![GitHub Repo stars](https://img.shields.io/github/stars/app-developers/top) ![GitHub last commit](https://img.shields.io/github/last-commit/app-developers/top)](https://github.com/app-developers/top) - A list of top iOS app developers.
-
+- [awesome-ios-developer ![GitHub Repo stars](https://img.shields.io/github/stars/jphong1111/awesome-ios-developer) ![GitHub last commit](https://img.shields.io/github/last-commit/jphong1111/awesome-ios-developer)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
 
 ## Contributing and License
 - [See the guide ![GitHub Repo stars](https://img.shields.io/github/stars/vsouza/awesome-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/vsouza/awesome-ios)](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
