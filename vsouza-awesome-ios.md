@@ -946,6 +946,7 @@
 - [EEStackLayout ![GitHub Repo stars](https://img.shields.io/github/stars/efekanegeli/EEStackLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/efekanegeli/EEStackLayout)](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
 - [RKAutoLayout ![GitHub Repo stars](https://img.shields.io/github/stars/daskioff/RKAutoLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/daskioff/RKAutoLayout)](https://github.com/daskioff/RKAutoLayout) - Simple wrapper over AutoLayout.
 - [Grid ![GitHub Repo stars](https://img.shields.io/github/stars/exyte/Grid) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/Grid)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+- [MondrianLayout ![GitHub Repo stars](https://img.shields.io/github/stars/muukii/MondrianLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/muukii/MondrianLayout)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 
 ## Localization
 
@@ -2132,6 +2133,7 @@ Most of these are paid services, some have free tiers.
 - [Disintegrate ![GitHub Repo stars](https://img.shields.io/github/stars/dbukowski/Disintegrate) ![GitHub last commit](https://img.shields.io/github/last-commit/dbukowski/Disintegrate)](https://github.com/dbukowski/Disintegrate) - Disintegration animation inspired by THAT thing Thanos did at the end of Avengers: Infinity War.
 - [Wobbly ![GitHub Repo stars](https://img.shields.io/github/stars/sagaya/wobbly) ![GitHub last commit](https://img.shields.io/github/last-commit/sagaya/wobbly)](https://github.com/sagaya/wobbly) - Wobbly is a Library of predefined, easy to use iOS animations.
 - [LoadingShimmer ![GitHub Repo stars](https://img.shields.io/github/stars/jogendra/LoadingShimmer) ![GitHub last commit](https://img.shields.io/github/last-commit/jogendra/LoadingShimmer)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
+- [SPPerspective ![GitHub Repo stars](https://img.shields.io/github/stars/ivanvorobei/SPPerspective) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanvorobei/SPPerspective)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
 
 ### Transition
 - [BlurryModalSegue ![GitHub Repo stars](https://img.shields.io/github/stars/Citrrus/BlurryModalSegue) ![GitHub last commit](https://img.shields.io/github/last-commit/Citrrus/BlurryModalSegue)](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.

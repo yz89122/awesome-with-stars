@@ -415,6 +415,7 @@
 - [Static Analysis & Code Quality ![GitHub Repo stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/analysis-tools-dev/static-analysis)](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval) ![GitHub last commit](https://img.shields.io/github/last-commit/harpribot/awesome-information-retrieval)](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing ![GitHub Repo stars](https://img.shields.io/github/stars/desireevl/awesome-quantum-computing) ![GitHub last commit](https://img.shields.io/github/last-commit/desireevl/awesome-quantum-computing)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Theoretical Computer Science ![GitHub Repo stars](https://img.shields.io/github/stars/mostafatouny/awesome-theoretical-computer-science) ![GitHub last commit](https://img.shields.io/github/last-commit/mostafatouny/awesome-theoretical-computer-science)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## Big Data
 
