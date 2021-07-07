@@ -921,7 +921,7 @@
 - [octimine](https://www.octimine.com/) - A patent search engine.
 - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
-- [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
+- [滚���吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
