@@ -331,7 +331,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) - Syntactic and semantic analysis similar to the Go compiler.
 - [ineffassign ![GitHub Repo stars](https://img.shields.io/github/stars/gordonklaus/ineffassign) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/ineffassign)](https://github.com/gordonklaus/ineffassign) - Detect ineffectual assignments in Go code.
 - [interfacer ![GitHub Repo stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: - Suggest narrower interfaces that can be used.
-- [lll ![GitHub Repo stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: - Report long lines.
+- [lll ![GitHub Repo stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) - Report long lines.
 - [maligned ![GitHub Repo stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) - Detect structs that would take less memory if their fields were sorted.
 - [misspell ![GitHub Repo stars](https://img.shields.io/github/stars/client9/misspell) ![GitHub last commit](https://img.shields.io/github/last-commit/client9/misspell)](https://github.com/client9/misspell) - Finds commonly misspelled English words.
 - [nakedret ![GitHub Repo stars](https://img.shields.io/github/stars/alexkohler/nakedret) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nakedret)](https://github.com/alexkohler/nakedret) - Finds naked returns.
@@ -342,7 +342,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [staticcheck](https://staticcheck.io) - Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 - [structcheck](https://gitlab.com/opennota/check) - Find unused struct fields.
 - [test](http://golang.org/pkg/testing) - Show location of test failures from the stdlib testing module.
-- [unconvert ![GitHub Repo stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) :warning: - Detect redundant type conversions.
+- [unconvert ![GitHub Repo stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
 - [unparam ![GitHub Repo stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) - Find unused function parameters.
 - [varcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.
 - [wsl ![GitHub Repo stars](https://img.shields.io/github/stars/bombsimon/wsl) ![GitHub last commit](https://img.shields.io/github/last-commit/bombsimon/wsl)](https://github.com/bombsimon/wsl) - Enforces empty lines at the right places.
@@ -385,7 +385,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [JBMC](https://www.cprover.org/jbmc) - Bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses.
 - [NullAway ![GitHub Repo stars](https://img.shields.io/github/stars/uber/NullAway) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/NullAway)](https://github.com/uber/NullAway) - Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) - Checks dependencies for known, publicly disclosed, vulnerabilities.
-- [qulice](https://www.qulice.com) :warning: - Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
+- [qulice](https://www.qulice.com) - Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
 - [Soot](https://soot-oss.github.io/soot) - A framework for analyzing and transforming Java and Android applications.
 - [Spoon](http://spoon.gforge.inria.fr) - Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.
 - [SpotBugs](https://spotbugs.github.io) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
@@ -429,7 +429,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 <h2 id="lua">Lua</h2>
 
-- [luacheck ![GitHub Repo stars](https://img.shields.io/github/stars/mpeterv/luacheck) ![GitHub last commit](https://img.shields.io/github/last-commit/mpeterv/luacheck)](https://github.com/mpeterv/luacheck) :warning: - A tool for linting and static analysis of Lua code.
+- [luacheck ![GitHub Repo stars](https://img.shields.io/github/stars/mpeterv/luacheck) ![GitHub last commit](https://img.shields.io/github/last-commit/mpeterv/luacheck)](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
 - [lualint ![GitHub Repo stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) - lualint performs luac-based static analysis of global variable usage in Lua source code.
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) - An IDE for statically typed Lua development.
 
@@ -461,13 +461,13 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) - Combine [PHP_CodeSniffer ![GitHub Repo stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ![GitHub Repo stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/PHP-CS-Fixer)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 - [GrumPHP ![GitHub Repo stars](https://img.shields.io/github/stars/phpro/grumphp) ![GitHub last commit](https://img.shields.io/github/last-commit/phpro/grumphp)](https://github.com/phpro/grumphp) - Checks code on every commit.
 - [larastan](hhttps://github.com/nunomaduro/larastan) - Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
-- [Mondrian](http://trismegiste.github.io/Mondrian) :warning: - A set of static analysis and refactoring tools which use graph theory.
+- [Mondrian](http://trismegiste.github.io/Mondrian) - A set of static analysis and refactoring tools which use graph theory.
 - [parallel-lint ![GitHub Repo stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - This tool checks syntax of PHP files faster than serial check with a fancier output.
 - [Parse ![GitHub Repo stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) - A Static Security Scanner.
 - [pdepend](https://pdepend.org) - Calculates software metrics like cyclomatic complexity for PHP code.
 - [phan ![GitHub Repo stars](https://img.shields.io/github/stars/phan/phan) ![GitHub last commit](https://img.shields.io/github/last-commit/phan/phan)](https://github.com/phan/phan/wiki) - A modern static analyzer from etsy.
 - [PHP Architecture Tester ![GitHub Repo stars](https://img.shields.io/github/stars/carlosas/phpat) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosas/phpat)](https://github.com/carlosas/phpat) - Easy to use architecture testing tool for PHP.
-- [PHP Assumptions ![GitHub Repo stars](https://img.shields.io/github/stars/rskuipers/php-assumptions) ![GitHub last commit](https://img.shields.io/github/last-commit/rskuipers/php-assumptions)](https://github.com/rskuipers/php-assumptions) :warning: - Checks for weak assumptions.
+- [PHP Assumptions ![GitHub Repo stars](https://img.shields.io/github/stars/rskuipers/php-assumptions) ![GitHub last commit](https://img.shields.io/github/last-commit/rskuipers/php-assumptions)](https://github.com/rskuipers/php-assumptions) - Checks for weak assumptions.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 - [PHP Insights](https://phpinsights.com) - Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) - A Static Code Analyzer for PHP.
@@ -475,14 +475,14 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [PHP Semantic Versioning Checker ![GitHub Repo stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) - Suggests a next version according to semantic versioning.
 - [PHP-Parser ![GitHub Repo stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 - [php-speller ![GitHub Repo stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) - PHP spell check library.
-- [PHP-Token-Reflection ![GitHub Repo stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: - Library emulating the PHP internal reflection.
+- [PHP-Token-Reflection ![GitHub Repo stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection.
 - [php7cc ![GitHub Repo stars](https://img.shields.io/github/stars/sstalle/php7cc) ![GitHub last commit](https://img.shields.io/github/last-commit/sstalle/php7cc)](https://github.com/sstalle/php7cc) :warning: - PHP 7 Compatibility Checker.
 - [php7mar ![GitHub Repo stars](https://img.shields.io/github/stars/Alexia/php7mar) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexia/php7mar)](https://github.com/Alexia/php7mar) :warning: - Assist developers in porting their code quickly to PHP 7.
 - [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) - Detects violations of a defined set of coding standards.
-- [phpca ![GitHub Repo stars](https://img.shields.io/github/stars/wapmorgan/PhpCodeAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpCodeAnalyzer)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: - Finds usage of non-built-in extensions.
+- [phpca ![GitHub Repo stars](https://img.shields.io/github/stars/wapmorgan/PhpCodeAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpCodeAnalyzer)](https://github.com/wapmorgan/PhpCodeAnalyzer) - Finds usage of non-built-in extensions.
 - [phpcpd ![GitHub Repo stars](https://img.shields.io/github/stars/sebastianbergmann/phpcpd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpcpd)](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector for PHP code.
 - [phpdcd ![GitHub Repo stars](https://img.shields.io/github/stars/sebastianbergmann/phpdcd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpdcd)](https://github.com/sebastianbergmann/phpdcd) :warning: - Dead Code Detector (DCD) for PHP code.
-- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: - Builds a dependency graph for a project.
+- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) - Builds a dependency graph for a project.
 - [PhpDeprecationDetector ![GitHub Repo stars](https://img.shields.io/github/stars/wapmorgan/PhpDeprecationDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpDeprecationDetector)](https://github.com/wapmorgan/PhpDeprecationDetector) - Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
 - [phpdoc-to-typehint ![GitHub Repo stars](https://img.shields.io/github/stars/dunglas/phpdoc-to-typehint) ![GitHub last commit](https://img.shields.io/github/last-commit/dunglas/phpdoc-to-typehint)](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
 - [phpDocumentor](https://www.phpdoc.org) - Analyzes PHP source code to generate documentation.
@@ -493,11 +493,11 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [PHPQA](https://edgedesigncz.github.io/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 - [phpqa - jakzal ![GitHub Repo stars](https://img.shields.io/github/stars/jakzal/phpqa) ![GitHub last commit](https://img.shields.io/github/last-commit/jakzal/phpqa)](https://github.com/jakzal/phpqa) - Many tools for PHP static analysis in one container.
 - [phpqa - jmolivas ![GitHub Repo stars](https://img.shields.io/github/stars/jmolivas/phpqa) ![GitHub last commit](https://img.shields.io/github/last-commit/jmolivas/phpqa)](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool.
-- [phpsa ![GitHub Repo stars](https://img.shields.io/github/stars/ovr/phpsa) ![GitHub last commit](https://img.shields.io/github/last-commit/ovr/phpsa)](https://github.com/ovr/phpsa) :warning: - Static analysis tool for PHP.
+- [phpsa ![GitHub Repo stars](https://img.shields.io/github/stars/ovr/phpsa) ![GitHub last commit](https://img.shields.io/github/last-commit/ovr/phpsa)](https://github.com/ovr/phpsa) - Static analysis tool for PHP.
 - [PHPStan](https://phpstan.org) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [Progpilot ![GitHub Repo stars](https://img.shields.io/github/stars/designsecurity/progpilot) ![GitHub last commit](https://img.shields.io/github/last-commit/designsecurity/progpilot)](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 - [Psalm](https://psalm.dev) - Static analysis tool for finding type errors in PHP applications.
-- [Qafoo Quality Analyzer ![GitHub Repo stars](https://img.shields.io/github/stars/Qafoo/QualityAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/Qafoo/QualityAnalyzer)](https://github.com/Qafoo/QualityAnalyzer) :warning: - Visualizes metrics and source code.
+- [Qafoo Quality Analyzer ![GitHub Repo stars](https://img.shields.io/github/stars/Qafoo/QualityAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/Qafoo/QualityAnalyzer)](https://github.com/Qafoo/QualityAnalyzer) - Visualizes metrics and source code.
 - [Tuli ![GitHub Repo stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 - [twig-lint ![GitHub Repo stars](https://img.shields.io/github/stars/asm89/twig-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/asm89/twig-lint)](https://github.com/asm89/twig-lint) - twig-lint is a lint tool for your twig files.
 - [WAP](https://securityonline.info/owasp-wap-web-application-protection-project) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.
@@ -549,7 +549,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 <h2 id="r">R</h2>
 
-- [cyclocomp ![GitHub Repo stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) :warning: - Quantifies the cyclomatic complexity of R functions / expressions.
+- [cyclocomp ![GitHub Repo stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) - Quantifies the cyclomatic complexity of R functions / expressions.
 - [goodpractice](http://mangothecat.github.io/goodpractice) - Analyses the source code for R packages and provides best-practice recommendations.
 - [lintr ![GitHub Repo stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) - Static Code Analysis for R.
 - [styler](https://styler.r-lib.org) - Formatting of R source code files and pretty-printing of R code.
@@ -564,7 +564,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [laser ![GitHub Repo stars](https://img.shields.io/github/stars/michaeledgar/laser) ![GitHub last commit](https://img.shields.io/github/last-commit/michaeledgar/laser)](https://github.com/michaeledgar/laser) :warning: - Static analysis and style linter for Ruby code.
 - [pelusa ![GitHub Repo stars](https://img.shields.io/github/stars/codegram/pelusa) ![GitHub last commit](https://img.shields.io/github/last-commit/codegram/pelusa)](https://github.com/codegram/pelusa) - Static analysis Lint-type tool to improve your OO Ruby code.
 - [Querly ![GitHub Repo stars](https://img.shields.io/github/stars/soutaro/querly) ![GitHub last commit](https://img.shields.io/github/last-commit/soutaro/querly)](https://github.com/soutaro/querly) - Pattern Based Checking Tool for Ruby.
-- [Railroader](https://railroader.org) :warning: - An open source static analysis security vulnerability scanner for Ruby on Rails applications.
+- [Railroader](https://railroader.org) - An open source static analysis security vulnerability scanner for Ruby on Rails applications.
 - [rails_best_practices](https://rails-bestpractices.com) - A code metric tool for Rails projects
 - [reek ![GitHub Repo stars](https://img.shields.io/github/stars/troessner/reek) ![GitHub last commit](https://img.shields.io/github/last-commit/troessner/reek)](https://github.com/troessner/reek) - Code smell detector for Ruby.
 - [RuboCop](https://docs.rubocop.org/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
@@ -572,7 +572,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: - Static code analysis for Ruby.
 - [rubycritic ![GitHub Repo stars](https://img.shields.io/github/stars/whitesmith/rubycritic) ![GitHub last commit](https://img.shields.io/github/last-commit/whitesmith/rubycritic)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 - [rufo ![GitHub Repo stars](https://img.shields.io/github/stars/ruby-formatter/rufo) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby-formatter/rufo)](https://github.com/ruby-formatter/rufo) - An opinionated ruby formatter, intended to be used via the command line as a text-editor plugin, to autoformat files on save or on demand.
-- [Saikuro](https://metricfu.github.io/Saikuro) :warning: - A Ruby cyclomatic complexity analyzer.
+- [Saikuro](https://metricfu.github.io/Saikuro) - A Ruby cyclomatic complexity analyzer.
 - [SandiMeter](https://rubygems.org/gems/sandi_meter) :warning: - Static analysis tool for checking Ruby code for Sandi Metz' rules.
 - [Sorbet](https://sorbet.org) - A fast, powerful type checker designed for Ruby.
 - [Standard Ruby ![GitHub Repo stars](https://img.shields.io/github/stars/testdouble/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/testdouble/standard)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
@@ -594,6 +594,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [herbie ![GitHub Repo stars](https://img.shields.io/github/stars/mcarton/rust-herbie-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/mcarton/rust-herbie-lint)](https://github.com/mcarton/rust-herbie-lint) :warning: - Adds warnings or errors to your crate when using a numerically unstable floating point expression.
 - [linter-rust ![GitHub Repo stars](https://img.shields.io/github/stars/AtomLinter/linter-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/AtomLinter/linter-rust)](https://github.com/AtomLinter/linter-rust) :warning: - Linting your Rust-files in Atom, using rustc and cargo.
 - [MIRAI ![GitHub Repo stars](https://img.shields.io/github/stars/facebookexperimental/MIRAI) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/MIRAI)](https://github.com/facebookexperimental/MIRAI) - And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.
+- [prae ![GitHub Repo stars](https://img.shields.io/github/stars/teenjuna/prae) ![GitHub last commit](https://img.shields.io/github/last-commit/teenjuna/prae)](https://github.com/teenjuna/prae) - Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified. 
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 - [Rust Language Server ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang-nursery/rls) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang-nursery/rls)](https://github.com/rust-lang-nursery/rls) - Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 - [rust-analyzer](https://rust-analyzer.github.io) - Supports functionality such as 'goto definition', type inference, symbol search, reformatting, and code completion, and enables renaming and refactorings.
@@ -606,11 +607,12 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 <h2 id="sql">SQL</h2>
 
+- [dbcritic ![GitHub Repo stars](https://img.shields.io/github/stars/channable/dbcritic) ![GitHub last commit](https://img.shields.io/github/last-commit/channable/dbcritic)](https://github.com/channable/dbcritic) - dbcritic finds problems in a database schema, such as a missing primary key constraint in a table.
 - [sqlcheck ![GitHub Repo stars](https://img.shields.io/github/stars/jarulraj/sqlcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jarulraj/sqlcheck)](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries.
 - [SQLFluff](https://www.sqlfluff.com/) - Multiple dialect SQL linter and formatter.
 - [sqlint ![GitHub Repo stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) - Simple SQL linter.
 - [tsqllint ![GitHub Repo stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) - T-SQL-specific linter.
-- [TSqlRules ![GitHub Repo stars](https://img.shields.io/github/stars/ashleyglee/TSqlRules) ![GitHub last commit](https://img.shields.io/github/last-commit/ashleyglee/TSqlRules)](https://github.com/ashleyglee/TSqlRules) :warning: - TSQL Static Code Analysis Rules for SQL Server.
+- [TSqlRules ![GitHub Repo stars](https://img.shields.io/github/stars/ashleyglee/TSqlRules) ![GitHub last commit](https://img.shields.io/github/last-commit/ashleyglee/TSqlRules)](https://github.com/ashleyglee/TSqlRules) - TSQL Static Code Analysis Rules for SQL Server.
 - [Visual Expert](https://www.visual-expert.com) :copyright: - Code analysis for PowerBuilder, Oracle, and SQL Server Explores, analyzes, and documents Code 
 
 
@@ -743,7 +745,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [ocular](https://www.shiftleft.io/ocular/) :copyright: - Enables code auditors and security teams to interactively investigate their unique code bases  to find business logic flaws and technical vulnerabilities that traditional SASTs cannot. This is done by enabling the analyst to write their own custom queries. Can find hard-coded secrets, authentication issues, and malicious code like rootkits and backdoors.
 - [Offensive 360](https://offensive360.com/) :copyright: - Commercial Static Code Analysis system doesn't require building the source code or pre-compilation.
 - [parasoft](https://www.parasoft.com/) :copyright: - Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
-- [pfff ![GitHub Repo stars](https://img.shields.io/github/stars/facebookarchive/pfff) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookarchive/pfff)](https://github.com/facebookarchive/pfff/wiki/Main) - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
+- [pfff ![GitHub Repo stars](https://img.shields.io/github/stars/facebookarchive/pfff) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookarchive/pfff)](https://github.com/facebookarchive/pfff/wiki/Main) :warning: - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
 - [PMD](https://pmd.github.io) - A source code analyzer for Java, Salesforce Apex, Javascript, PLSQL, XML, XSL and others.
 - [Polymer-analyzer ![GitHub Repo stars](https://img.shields.io/github/stars/Polymer/tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Polymer/tools)](https://github.com/Polymer/tools/tree/master/packages/analyzer) - A static analysis framework for Web Components.
 - [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -755,7 +757,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [pylama](https://pylama.readthedocs.io/en/latest/) - Code audit tool for Python and JavaScript. Wraps pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, and more
 - [quality ![GitHub Repo stars](https://img.shields.io/github/stars/apiology/quality) ![GitHub last commit](https://img.shields.io/github/last-commit/apiology/quality)](https://github.com/apiology/quality) - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 - [QuantifiedCode ![GitHub Repo stars](https://img.shields.io/github/stars/quantifiedcode/quantifiedcode) ![GitHub last commit](https://img.shields.io/github/last-commit/quantifiedcode/quantifiedcode)](https://github.com/quantifiedcode/quantifiedcode) :warning: - Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
-- [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) :warning: - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
+- [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 - [relint ![GitHub Repo stars](https://img.shields.io/github/stars/codingjoe/relint) ![GitHub last commit](https://img.shields.io/github/last-commit/codingjoe/relint)](https://github.com/codingjoe/relint) - A static file linter that allows you to write custom rules using regular expressions (RegEx).
 - [ReSharper](https://www.jetbrains.com/resharper) :copyright: - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 - [Reshift](https://www.reshiftsecurity.com) :copyright: - A source code analysis tool for detecting and managing Java security vulnerabilities.
@@ -849,11 +851,11 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [CSSLint](http://csslint.net) - Does basic syntax checking and finds problematic patterns or signs of inefficiency.
 - [GraphMyCSS.com](https://graphmycss.com) - CSS Specificity Graph Generator.
 - [Nu Html Checker](https://validator.github.io/validator/) - Helps you catch problems in your HTML/CSS/SVG
-- [Parker ![GitHub Repo stars](https://img.shields.io/github/stars/katiefenn/parker) ![GitHub last commit](https://img.shields.io/github/last-commit/katiefenn/parker)](https://github.com/katiefenn/parker) :warning: - Stylesheet analysis tool.
+- [Parker ![GitHub Repo stars](https://img.shields.io/github/stars/katiefenn/parker) ![GitHub last commit](https://img.shields.io/github/last-commit/katiefenn/parker)](https://github.com/katiefenn/parker) - Stylesheet analysis tool.
 - [PostCSS](https://postcss.org) - A tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
 - [Project Wallace CSS Analyzer](https://www.projectwallace.com) - Analytics for CSS, part of [Project Wallace](https://www.projectwallace.com).
 - [sass-lint ![GitHub Repo stars](https://img.shields.io/github/stars/sasstools/sass-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/sasstools/sass-lint)](https://github.com/sasstools/sass-lint) :warning: - A Node-only Sass linter for both sass and scss syntax.
-- [scsslint ![GitHub Repo stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) - Linter for SCSS files.
+- [scsslint ![GitHub Repo stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) :warning: - Linter for SCSS files.
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) - CSS Specificity Graph Generator.
 - [Stylelint](http://stylelint.io) - Linter for SCSS/CSS files.
 
@@ -967,8 +969,8 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [FlowDroid ![GitHub Repo stars](https://img.shields.io/github/stars/secure-software-engineering/FlowDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/secure-software-engineering/FlowDroid)](https://github.com/secure-software-engineering/FlowDroid) - Static taint analysis tool for Android applications.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) - iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 - [Oversecured](https://oversecured.com) :copyright: - A mobile app vulnerability scanner, designed for security researchers and bug bounty hackers. It also allows integrations into the DevOps process for businesses.
-- [paprika ![GitHub Repo stars](https://img.shields.io/github/stars/GeoffreyHecht/paprika) ![GitHub last commit](https://img.shields.io/github/last-commit/GeoffreyHecht/paprika)](https://github.com/GeoffreyHecht/paprika) :warning: - A toolkit to detect some code smells in analyzed Android applications.
-- [qark ![GitHub Repo stars](https://img.shields.io/github/stars/linkedin/qark) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/qark)](https://github.com/linkedin/qark) :warning: - Tool to look for several security related Android application vulnerabilities.
+- [paprika ![GitHub Repo stars](https://img.shields.io/github/stars/GeoffreyHecht/paprika) ![GitHub last commit](https://img.shields.io/github/last-commit/GeoffreyHecht/paprika)](https://github.com/GeoffreyHecht/paprika) - A toolkit to detect some code smells in analyzed Android applications.
+- [qark ![GitHub Repo stars](https://img.shields.io/github/stars/linkedin/qark) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/qark)](https://github.com/linkedin/qark) - Tool to look for several security related Android application vulnerabilities.
 - [redex](https://fbredex.com) - Redex provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes  that use this framework to improve the bytecode. An APK optimized by Redex should be smaller and faster.
 
 
