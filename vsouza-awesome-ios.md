@@ -966,6 +966,7 @@
 - [Localize ![GitHub Repo stars](https://img.shields.io/github/stars/andresilvagomez/Localize) ![GitHub last commit](https://img.shields.io/github/last-commit/andresilvagomez/Localize)](https://github.com/andresilvagomez/Localize) - Easy tool to localize apps using JSON or Strings and of course IBDesignables with extensions for UI components.
 - [CrowdinSDK ![GitHub Repo stars](https://img.shields.io/github/stars/crowdin/mobile-sdk-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/crowdin/mobile-sdk-ios)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
 - [attranslate ![GitHub Repo stars](https://img.shields.io/github/stars/fkirc/attranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/fkirc/attranslate)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+- [Respresso Localization Converter](https://respresso.io/localization-converter) - Multiplatform localization converter for iOS (.strings + Objective-C getters), Android (strings.xml) and Web (.json).
 
 ## Logging
 
@@ -1506,7 +1507,7 @@ Most of these are paid services, some have free tiers.
 - [TipJarViewController ![GitHub Repo stars](https://img.shields.io/github/stars/lionheart/TipJarViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/lionheart/TipJarViewController)](https://github.com/lionheart/TipJarViewController) - Easy, drop-in tip jar for iOS apps.
 - [FramesIos ![GitHub Repo stars](https://img.shields.io/github/stars/checkout/frames-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/checkout/frames-ios)](https://github.com/checkout/frames-ios) - Payment Form UI and Utilities in Swift.
 - [YRPayment ![GitHub Repo stars](https://img.shields.io/github/stars/yassram/YRPayment) ![GitHub last commit](https://img.shields.io/github/last-commit/yassram/YRPayment)](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift.
-- [AnimatedCardInput ![GitHub Repo stars](https://img.shields.io/github/stars/netguru/AnimatedCardInput) ![GitHub last commit](https://img.shields.io/github/last-commit/netguru/AnimatedCardInput)](https://github.com/netguru/AnimatedCardInput) ��� Easy to use library with customisable components for input of Credit Card data.
+- [AnimatedCardInput ![GitHub Repo stars](https://img.shields.io/github/stars/netguru/AnimatedCardInput) ![GitHub last commit](https://img.shields.io/github/last-commit/netguru/AnimatedCardInput)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
 
 ## Permissions
 - [Proposer ![GitHub Repo stars](https://img.shields.io/github/stars/nixzhu/Proposer) ![GitHub last commit](https://img.shields.io/github/last-commit/nixzhu/Proposer)](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location).
@@ -3054,6 +3055,7 @@ Most of these are paid services, some have free tiers.
 - [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard -> SwiftUI Converter is a converter to convert .storyboard and .xib to SwiftUI.
 - [Swift Package Index](https://swiftpackageindex.com) - Swift packages list with many information about quality and compatiblity of package.
 - [Xcodes.app ![GitHub Repo stars](https://img.shields.io/github/stars/RobotsAndPencils/XcodesApp) ![GitHub last commit](https://img.shields.io/github/last-commit/RobotsAndPencils/XcodesApp)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+- [Respresso Image Converter](https://respresso.io/image-converter) - Multiplatform image converter for iOS, Android, and Web that supports pdf, svg, vector drawable, jpg, png, and webp formats.
 
 ## Rapid Development
 
