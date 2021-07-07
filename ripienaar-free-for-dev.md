@@ -578,6 +578,7 @@ Table of Contents
   * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
   * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
   * [localazy.com](https://localazy.com) - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals
+  * [Localeum](https://localeum.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
   * [localizely.com](https://localizely.com/) — Free for Open Source
   * [Loco](https://localise.biz/) — Free up to 2000 translations, Unlimited translators, 10 languages/project, 1000 translatable assets/project
   * [oneskyapp.com](https://www.oneskyapp.com/) — Limited free edition for up to 5 users, free for Open Source
@@ -909,6 +910,7 @@ Table of Contents
   * [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
   * [Qovery](https://www.qovery.com) — Qovery is the simplest way to deploy your full-stack apps on AWS, GCP and Azure. It is free web hosting for developers with Database, SSL, a global CDN, and auto deploys from Git.
+  * [FlashDrive.io](https://flashdrive.io) - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1019,7 +1021,7 @@ Table of Contents
    * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.
    * [Issue Embed](https://issueembed.dev/) - A bug reporting tool for websites to go directly into your Github Issues. Free plan for personal repositories with up to 500 issues/month and 10,000 page views/month.
    * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.
-   * [kanbanflow.com](https://kanbanflow.com/) — Board-based project management. Free, premium version with more options
+   * [kanbanflow.com](https://kanbanflow.com/) �� Board-based project management. Free, premium version with more options
    * [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
    * [Kitemaker.co](https://kitemaker.co) - Collaborate through all phases of the product development process and keep track of work across Slack, Discord, Figma, and Github. Unlimited users, unlimited spaces. Free plan up to 250 work items.
    * [kanrails.com](https://kanrails.com/) — Kanban board-based project management. Free for 3 collaborators, 2 projects and 5 tracks. Paid plans available for unlimited collaborators, projects and tracks.
@@ -1082,7 +1084,7 @@ Table of Contents
    * [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface combined with our IPFS API makes Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free along with access to API.
    * [placeholder.com](https://placeholder.com/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
-   * [plot.ly](https://plot.ly/) ��� Graph and share your data. Free tier includes unlimited public files and 10 private files
+   * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
    * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
    * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
    * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
@@ -1153,7 +1155,7 @@ Table of Contents
    * [Foursquare](https://developer.foursquare.com/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
    * [geocod.io](https://www.geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day.
    * [geocodify.com](https://geocodify.com/) — Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
-   * [giscloud.com](https://www.giscloud.com/) �� Visualize, analyze and share geo data online.
+   * [giscloud.com](https://www.giscloud.com/) — Visualize, analyze and share geo data online.
    * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data.
    * [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
    * [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
