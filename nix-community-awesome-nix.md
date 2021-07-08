@@ -123,7 +123,8 @@
 ### Node.js
 
 * [Napalm ![GitHub Repo stars](https://img.shields.io/github/stars/nmattia/napalm) ![GitHub last commit](https://img.shields.io/github/last-commit/nmattia/napalm)](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
-* [node2nix ![GitHub Repo stars](https://img.shields.io/github/stars/svanderburg/node2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/svanderburg/node2nix)](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a `package.lock` npm file.
+* [node2nix ![GitHub Repo stars](https://img.shields.io/github/stars/svanderburg/node2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/svanderburg/node2nix)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package-lock.json` (to be stored as files).
+* [npmlock2nix ![GitHub Repo stars](https://img.shields.io/github/stars/tweag/npmlock2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/tweag/npmlock2nix)](https://github.com/tweag/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 * [yarn2nix ![GitHub Repo stars](https://img.shields.io/github/stars/nix-community/yarn2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/yarn2nix)](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
 
 ### PHP
