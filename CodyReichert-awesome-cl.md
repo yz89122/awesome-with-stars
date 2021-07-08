@@ -427,7 +427,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [Varjo ![GitHub Repo stars](https://img.shields.io/github/stars/cbaggers/varjo) ![GitHub last commit](https://img.shields.io/github/last-commit/cbaggers/varjo)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD_2Clause][17].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
-* [pngload-fast ![GitHub Repo stars](https://img.shields.io/github/stars/mfiano/pngload-fast) ![GitHub last commit](https://img.shields.io/github/last-commit/mfiano/pngload-fast)](https://github.com/mfiano/pngload-fast) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
+* [pngload-fast](https://git.mfiano.net/mfiano/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
 * [cl-cuda ![GitHub Repo stars](https://img.shields.io/github/stars/takagi/cl-cuda) ![GitHub last commit](https://img.shields.io/github/last-commit/takagi/cl-cuda)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
 
 
@@ -952,7 +952,7 @@ Service (S3) and CloudFront service. [BSD][15].
 * [cl-pushover ![GitHub Repo stars](https://img.shields.io/github/stars/TeMPOraL/cl-pushover) ![GitHub last commit](https://img.shields.io/github/last-commit/TeMPOraL/cl-pushover)](https://github.com/TeMPOraL/cl-pushover) -  Common Lisp bindings to Pushover. [MIT][200].
 * [humbler ![GitHub Repo stars](https://img.shields.io/github/stars/Shinmera/humbler) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/humbler)](https://github.com/Shinmera/humbler) - A Tumblr API interface. [zlib][33].
 * [multiposter ![GitHub Repo stars](https://img.shields.io/github/stars/Shinmera/multiposter) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/multiposter)](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib][33].
-* [stripe ![GitHub Repo stars](https://img.shields.io/github/stars/mfiano/stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/mfiano/stripe)](https://github.com/mfiano/stripe) - a client for the Stripe payment system. [MIT][200].
+* [stripe](https://git.mfiano.net/mfiano/stripe) - a client for the Stripe payment system. [MIT][200].
 
 Others
 ------
