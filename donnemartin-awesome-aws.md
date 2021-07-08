@@ -266,7 +266,7 @@ Related Repos:
 Related Repos:
 
 * [boto3 :fire::fire::fire::fire::fire: ![GitHub Repo stars](https://img.shields.io/github/stars/boto/boto3) ![GitHub last commit](https://img.shields.io/github/last-commit/boto/boto3)](https://github.com/boto/boto3)
-* [botocore :fire::fire::fire: ![GitHub Repo stars](https://img.shields.io/github/stars/boto/botocore) ![GitHub last commit](https://img.shields.io/github/last-commit/boto/botocore)](https://github.com/boto/botocore)
+* [botocore :fire::fire::fire::fire: ![GitHub Repo stars](https://img.shields.io/github/stars/boto/botocore) ![GitHub last commit](https://img.shields.io/github/last-commit/boto/botocore)](https://github.com/boto/botocore)
 
 ### Ruby SDK
 
