@@ -86,7 +86,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
 - [eslint-plugin-replyguy ![GitHub Repo stars](https://img.shields.io/github/stars/jlengstorf/eslint-plugin-replyguy) ![GitHub last commit](https://img.shields.io/github/last-commit/jlengstorf/eslint-plugin-replyguy)](https://github.com/jlengstorf/eslint-plugin-replyguy) - The ESLint plugin you definitely didn’t ask for.
 - [HTPL Compiler ![GitHub Repo stars](https://img.shields.io/github/stars/roveroniandrea/HTPLcompiler) ![GitHub last commit](https://img.shields.io/github/last-commit/roveroniandrea/HTPLcompiler)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
-
+- [redond-it ![GitHub Repo stars](https://img.shields.io/github/stars/jazcarate/redond-it) ![GitHub last commit](https://img.shields.io/github/last-commit/jazcarate/redond-it)](https://github.com/jazcarate/redond-it) - Remove the sharp edges of your website.
 
 ## PHP
 
