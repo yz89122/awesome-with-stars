@@ -56,6 +56,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [example-data-generation ![GitHub Repo stars](https://img.shields.io/github/stars/k6io/example-data-generation) ![GitHub last commit](https://img.shields.io/github/last-commit/k6io/example-data-generation)](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
 - [bounded-disturbances ![GitHub Repo stars](https://img.shields.io/github/stars/bjartwolf/bounded-disturbances) ![GitHub last commit](https://img.shields.io/github/last-commit/bjartwolf/bounded-disturbances)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 - [continuous-k6k8s ![GitHub Repo stars](https://img.shields.io/github/stars/lreimer/continuous-k6k8s) ![GitHub last commit](https://img.shields.io/github/last-commit/lreimer/continuous-k6k8s)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+- [k6-multiscenario-template ![GitHub Repo stars](https://img.shields.io/github/stars/SwissLife-OSS/K6-MultiScenario-template) ![GitHub last commit](https://img.shields.io/github/last-commit/SwissLife-OSS/K6-MultiScenario-template)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template
 
 ## Tools
 
