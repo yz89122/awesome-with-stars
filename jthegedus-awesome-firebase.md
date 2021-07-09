@@ -44,6 +44,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Featured (new releases)
 
+- 🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 - 📖 [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - Emulator suite is now complete!
 - 📖 [App Check](https://firebase.google.com/docs/app-check) - Protect your backend resources from abuse, such as billing fraud or phishing.
 - 📖 [Firestore Data Bundles](https://firebase.google.com/docs/firestore/bundles) - Data Bundles are static query results for CDN caching to speed first page loads.
@@ -144,7 +145,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase](https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html) - Firebase-native Cron triggers for Firebase Cloud Functions.
 - 🔌 [Integrify ![GitHub Repo stars](https://img.shields.io/github/stars/anishkny/integrify) ![GitHub last commit](https://img.shields.io/github/last-commit/anishkny/integrify)](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - How to do behavioral & segmentation analysis on Firebase event data via BigQuery Export and Rakam.
-- 🔌 [Firestore Queue System ![GitHub Repo stars](https://img.shields.io/github/stars/sbarbat/firestore-queuer) ![GitHub last commit](https://img.shields.io/github/last-commit/sbarbat/firestore-queuer)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
+- ��� [Firestore Queue System ![GitHub Repo stars](https://img.shields.io/github/stars/sbarbat/firestore-queuer) ![GitHub last commit](https://img.shields.io/github/last-commit/sbarbat/firestore-queuer)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 - 🔌 [Pyrebase ![GitHub Repo stars](https://img.shields.io/github/stars/thisbejim/Pyrebase) ![GitHub last commit](https://img.shields.io/github/last-commit/thisbejim/Pyrebase)](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 - 🔌 [Firecode ![GitHub Repo stars](https://img.shields.io/github/stars/kafkas/firecode) ![GitHub last commit](https://img.shields.io/github/last-commit/kafkas/firecode)](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
 
