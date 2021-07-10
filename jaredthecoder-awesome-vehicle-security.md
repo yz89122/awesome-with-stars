@@ -36,6 +36,8 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [Applications](#applications)
   - [Libraries and Tools](#libraries-and-tools)
     - [C](#c)
+    - [Java](#java)
+    - [C++](#c++)
     - [Python](#python)
     - [Go](#go)
     - [JavaScript](#javascript)
@@ -94,7 +96,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [智能汽车安全攻防大揭秘](https://www.amazon.cn/dp/B075QZXY7W)This book first introduced some basic knowledge of security for automotive R&D personnel, such as encryption and decryption, security authentication, digital signatures, common attack types, and methods. Then it introduced the working principles of some smart cars for security researchers, such as the automotive intranet. Protocol, network architecture, principle of X-By-Wire remote control system, common potential attack surface, etc. Finally, a detailed analysis of some actual automotive attack or security test cases, and defense analysis of the loopholes involved in the case during the analysis process.
 - [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - This book guides you through prototyping CAN applications on Arduinos, which can help when working with CAN on your own car.
 - [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - From 2003, this book fills in gaps in CAN literature and will educate you further on CAN networks and working with embedded systems.
-- [Inside Radio: An Attack and Defense Guide](https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide)This book discusses the security issues in a wide range of wireless devices and systems,Chapter 4 433/315MHz Communication (4.3　4.4 4.5 is about car keys Security)
+- [Inside Radio: An Attack and Defense Guide](https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide)This book discusses the security issues in a wide range of wireless devices and systems,Chapter 4 433/315MHz Communication (4.3���4.4 4.5 is about car keys Security)
 
 ## Research Papers
 
@@ -183,6 +185,9 @@ CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
 - Ian Tabor / mintynet: Car Hacker, Car Hacking Village staff
     - [Twitter](https://twitter.com/mintynet)
     - [Website](https://www.mintynet.com/)    
+- Daniel Öster: Dala's EV Repair, electric vehicle CAN hacking/upgrading
+    - [Youtube](https://www.youtube.com/channel/UCc3g-KhOBoicgOrB4KkMeew)
+    - [Website](https://dalasevrepair.fi/)
 
 ## Podcasts and Episodes
 
@@ -279,7 +284,10 @@ Libraries and tools that don't fall under the larger class of applications above
 
 - [High Level ViWi Service ![GitHub Repo stars](https://img.shields.io/github/stars/iotbzh/high-level-viwi-service) ![GitHub last commit](https://img.shields.io/github/last-commit/iotbzh/high-level-viwi-service)](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
 - [CanCat ![GitHub Repo stars](https://img.shields.io/github/stars/atlas0fd00m/CanCat) ![GitHub last commit](https://img.shields.io/github/last-commit/atlas0fd00m/CanCat)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+- [CANdevStudio ![GitHub Repo stars](https://img.shields.io/github/stars/GENIVI/CANdevStudio) ![GitHub last commit](https://img.shields.io/github/last-commit/GENIVI/CANdevStudio)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer. 
 
+### Java
+- [ITS Geonetworking ![GitHub Repo stars](https://img.shields.io/github/stars/alexvoronov/geonetworking) ![GitHub last commit](https://img.shields.io/github/last-commit/alexvoronov/geonetworking)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking 
 
 ### Python
 
@@ -310,6 +318,7 @@ Companies and job opportunities in the vehicle security field.
 - [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
+- [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
 
 ## Coordinated disclosure
 
