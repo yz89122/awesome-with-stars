@@ -446,6 +446,7 @@ for the Angel framework.
 
 ### Rust Libraries
 
+* [async-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/async-graphql/async-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/async-graphql/async-graphql)](https://github.com/async-graphql/async-graphql) - High-performance server-side library that supports all GraphQL specifications.
 * [juniper ![GitHub Repo stars](https://img.shields.io/github/stars/mhallin/juniper) ![GitHub last commit](https://img.shields.io/github/last-commit/mhallin/juniper)](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client ![GitHub Repo stars](https://img.shields.io/github/stars/tomhoule/graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/tomhoule/graphql-client)](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-rust/graphql-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-rust/graphql-parser)](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
