@@ -121,9 +121,9 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#)**
 
-_For personal analytics/dashboards, see [Personal Dashboards](#personal-dashboards)_
+**Please visit [Awesome Analytics ![GitHub Repo stars](https://img.shields.io/github/stars/0xnr/awesome-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/0xnr/awesome-analytics)](https://github.com/0xnr/awesome-analytics)**
 
-_For everything else, see [Awesome Analytics ![GitHub Repo stars](https://img.shields.io/github/stars/0xnr/awesome-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/0xnr/awesome-analytics)](https://github.com/0xnr/awesome-analytics)_
+_Related: [Personal Dashboards](#personal-dashboards)_
 
 
 ### Archiving and Digital Preservation (DP)
@@ -144,7 +144,7 @@ _Some [Content Management System](#content-management-systems-cms) solutions als
 
 **[`^        back to top        ^`](#)**
 
-_See also [Internet of Things (IoT)](#internet-of-things-iot)_
+_Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 - [Accelerated Text ![GitHub Repo stars](https://img.shields.io/github/stars/tokenmill/accelerated-text) ![GitHub last commit](https://img.shields.io/github/last-commit/tokenmill/accelerated-text)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. `Apache-2.0` `Java`
 - [Actionsflow ![GitHub Repo stars](https://img.shields.io/github/stars/actionsflow/actionsflow) ![GitHub last commit](https://img.shields.io/github/last-commit/actionsflow/actionsflow)](https://github.com/actionsflow/actionsflow) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. `MIT` `Docker/Nodejs`
@@ -192,7 +192,9 @@ _See also [Internet of Things (IoT)](#internet-of-things-iot)_
 
 **[`^        back to top        ^`](#)**
 
-_See also [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms) and [WeblogMatrix](http://www.weblogmatrix.org/)_
+_Related: [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms)_
+
+_See also: [WeblogMatrix](http://www.weblogmatrix.org/)_
 
 - [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/antville/antville) ![GitHub last commit](https://img.shields.io/github/last-commit/antville/antville)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 - [Blog ![GitHub Repo stars](https://img.shields.io/github/stars/m1k1o/blog) ![GitHub last commit](https://img.shields.io/github/last-commit/m1k1o/blog)](https://github.com/m1k1o/blog) - Facebook-styled blog. Free, extremely lightweight, single-user and easy to install. ([Demo](https://blog.m1k1o.net/)) `GPL-3.0` `PHP`
@@ -241,9 +243,10 @@ _See also [Static Site Generators](#static-site-generators), [Content Management
 
 **[`^        back to top        ^`](#)**
 
-_Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization._
+_Related: [Groupware](#groupware)_
 
-_See https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations_
+_See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations)_
+
 
 ### Calendar & Contacts - CalDAV or CardDAV Servers
 
@@ -538,7 +541,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 **[`^        back to top        ^`](#)**
 
-_CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Blogging Platforms](#blogging-platforms) and [Static Site Generators](#static-site-generators)_
+_CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs._
+
+_Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators)_
 
 - [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://hub.alfresco.com/t5/alfresco-content-services-hub/project-overview-repository/ba-p/290502)) `LGPL-3.0` `Java`
 - [Apostrophe](http://apostrophecms.org/) - CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophecms.org/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/apostrophecms/apostrophe) ![GitHub last commit](https://img.shields.io/github/last-commit/apostrophecms/apostrophe)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
@@ -627,7 +632,7 @@ _CMS are a practical way to setup a website with many features. CMS often come w
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/awesome-foss/awesome-sysadmin#dns_
+_See also: [awesome-sysadmin/DNS ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#dns)_
 
 - [blocky ![GitHub Repo stars](https://img.shields.io/github/stars/0xERR0R/blocky) ![GitHub last commit](https://img.shields.io/github/last-commit/0xERR0R/blocky)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 - [CoreDNS](https://coredns.io/) - Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/coredns/coredns) ![GitHub last commit](https://img.shields.io/github/last-commit/coredns/coredns)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
@@ -666,7 +671,7 @@ _See https://github.com/awesome-foss/awesome-sysadmin#dns_
 
 ### Document Management - Integrated Library Systems (ILS)
 
-_Some [Content Management System](#content-management-systems-cms) and [Archiving and Digital Preservation](#archiving-and-digital-preservation-dp) solutions also overlap with library and institutional repository software._
+_Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
 
 - [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/evergreen-library-system/Evergreen) ![GitHub last commit](https://img.shields.io/github/last-commit/evergreen-library-system/Evergreen)](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
 - [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Koha-Community/Koha) ![GitHub last commit](https://img.shields.io/github/last-commit/Koha-Community/Koha)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
@@ -684,7 +689,7 @@ _Some [Content Management System](#content-management-systems-cms) and [Archivin
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/awesome-foss/awesome-sysadmin#identity-management_
+**Please visit [awesome-sysadmin/Identity Management ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
 
 
 ### Feed Readers
@@ -733,13 +738,12 @@ _RSS/Atom automation_
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems_
+**Please visit [awesome-sysadmin/Distributed Filesystems ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
 
 
 ### File Transfer & Synchronization
 
-_Some [Groupware](#groupware) solutions also feature file sharing and synchronization._
-
+_Related: [Groupware](#groupware)_
 
 - [Git Annex](https://git-annex.branchable.com/) - File synchronization between computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
 - [Kinto](https://kinto.readthedocs.org) - Kinto is a minimalist JSON storage service with synchronisation and sharing abilities. ([Source Code](https://github.com/Kinto)) `Apache-2.0` `Python`
@@ -974,7 +978,7 @@ _Games, game servers and control panels._
 
 **[`^        back to top        ^`](#)**
 
-_See also [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars/sshuair/awesome-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis)._
+_See also: [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars/sshuair/awesome-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis)._
 
 - [Geo2tz ![GitHub Repo stars](https://img.shields.io/github/stars/noandrea/geo2tz) ![GitHub last commit](https://img.shields.io/github/last-commit/noandrea/geo2tz)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 - [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/graphhopper/graphhopper) ![GitHub last commit](https://img.shields.io/github/last-commit/graphhopper/graphhopper)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
@@ -998,7 +1002,7 @@ _See also [awesome-gis ![GitHub Repo stars](https://img.shields.io/github/stars/
 
 **[`^        back to top        ^`](#)**
 
-_See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems>_
+_See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [Comparison of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_
 
 
 ### Media Streaming - Multimedia Streaming
@@ -1133,7 +1137,7 @@ _See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <http
 
 **[`^        back to top        ^`](#)**
 
-_See also https://github.com/awesome-foss/awesome-sysadmin#it-asset-management_
+_See also: [awesome-sysadmin/IT Asset Management ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)_
 
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/akaunting/akaunting) ![GitHub last commit](https://img.shields.io/github/last-commit/akaunting/akaunting)](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
 - [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
@@ -1168,14 +1172,14 @@ _See also https://github.com/awesome-foss/awesome-sysadmin#it-asset-management_
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/awesome-foss/awesome-sysadmin#monitoring and https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection_
+**Please visit [awesome-sysadmin/Monitoring ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metric and Metric Collection ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection)**
 
 
 ### Note-taking & Editors
 
 **[`^        back to top        ^`](#)**
 
-_See also [Wikis](#wikis)_
+_Related: [Wikis](#wikis)_
 
 - [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
 - [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/BoostIO/Boostnote) ![GitHub last commit](https://img.shields.io/github/last-commit/BoostIO/Boostnote)](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `Javascript`
@@ -1281,7 +1285,7 @@ _See also [Wikis](#wikis)_
 
 **[`^        back to top        ^`](#)**
 
-_See also [Monitoring](#monitoring)_
+_Related: [Monitoring](#monitoring)_
 
 - [Baby Buddy ![GitHub Repo stars](https://img.shields.io/github/stars/babybuddy/babybuddy) ![GitHub last commit](https://img.shields.io/github/last-commit/babybuddy/babybuddy)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://babybuddy.herokuapp.com/)) `BSD-2-Clause` `Python`
 - [Dashboard ![GitHub Repo stars](https://img.shields.io/github/stars/phntxx/dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/phntxx/dashboard)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
@@ -1402,6 +1406,8 @@ _See also [Monitoring](#monitoring)_
 
 ### Resource Planning - Enterprise Resource Planning
 
+**[`^        back to top        ^`](#)**
+
 - [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Dolibarr/dolibarr) ![GitHub last commit](https://img.shields.io/github/last-commit/Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
 - [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/frappe/erpnext) ![GitHub last commit](https://img.shields.io/github/last-commit/frappe/erpnext)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
 - [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB) ![GitHub last commit](https://img.shields.io/github/last-commit/ledgersmb/LedgerSMB)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
@@ -1431,7 +1437,9 @@ _See also [Monitoring](#monitoring)_
 
 ### Software Development - Project Management
 
-_See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists), [awesome-sysadmin/Code Review ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
+_Related: [Ticketing](#ticketing), [Task management & To-do lists](#task-management--to-do-lists)_
+
+_See also: [awesome-sysadmin/Code Review ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
 
 - [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jakubgarfield/Bonobo-Git-Server) ![GitHub last commit](https://img.shields.io/github/last-commit/jakubgarfield/Bonobo-Git-Server)](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
 - [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
@@ -1470,7 +1478,8 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
 
 ### Software Development - Bug Trackers
 
-_See [Ticketing](#ticketing)_
+**Please visit [Ticketing](#ticketing)**
+
 
 ### Software Development - IDE & Tools
 
@@ -1496,7 +1505,8 @@ _See [Ticketing](#ticketing)_
 
 ### Software Development - Continuous Integration & Deployment
 
-_See [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)_
+**Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
+
 
 ### Software Development - UX Testing
 
@@ -1506,7 +1516,7 @@ _See [awesome-sysadmin/Continuous Integration & Continuous Deployment ![GitHub R
 
 ### Software Development - FaaS & Serverless
 
-_[Serverless computing on Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
+_[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)_
 
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
 - [fx ![GitHub Repo stars](https://img.shields.io/github/stars/metrue/fx) ![GitHub last commit](https://img.shields.io/github/last-commit/metrue/fx)](https://github.com/metrue/fx) - fx is a tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
@@ -1533,7 +1543,7 @@ _[Serverless computing on Wikipedia](https://en.wikipedia.org/wiki/Serverless_co
 
 ### Software Development - Documentation Generators
 
-_See also [Static site generators](#static-site-generators)_
+_Related: [Static site generators](#static-site-generators)_
 
 - [Docstore](http://haldean.org/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/haldean/docstore) ![GitHub last commit](https://img.shields.io/github/last-commit/haldean/docstore)](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
 - [Flatdoc](http://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
@@ -1555,14 +1565,14 @@ _See also [Static site generators](#static-site-generators)_
 
 **[`^        back to top        ^`](#)**
 
-_See https://staticsitegenerators.net and https://www.staticgen.com_
+**Please visit [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
 
 ### Task Management & To-do Lists
 
 **[`^        back to top        ^`](#)**
 
-_See also [Project Management](#project-management) and [Ticketing](#ticketing)._
+_Related: [Software Development - Project Management](#software-development---project-management), [Ticketing](#ticketing)._
 
 - [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/focalboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mattermost/focalboard)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
 - [Kanbana ![GitHub Repo stars](https://img.shields.io/github/stars/SrGMC/kanbana) ![GitHub last commit](https://img.shields.io/github/last-commit/SrGMC/kanbana)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
@@ -1590,7 +1600,7 @@ _See also [Project Management](#project-management) and [Ticketing](#ticketing).
 
 **[`^        back to top        ^`](#)**
 
-_See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)_
+_Related: [Task management & To-do lists](#task-management--to-do-lists), [Software Development - Project Management](#software-development---project-management)_
 
 - [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPL-2.0` `Perl`
 - [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - Simple, responsive and highly customizable PHP bug tracking system. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/piero-la-lune/Bumpy-Booby) ![GitHub last commit](https://img.shields.io/github/last-commit/piero-la-lune/Bumpy-Booby)](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
@@ -1638,21 +1648,23 @@ _Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/awesome-foss/awesome-sysadmin#vpn_
+**Please visit [awesome-sysadmin/VPN ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
 
 ### Web Servers
 
 **[`^        back to top        ^`](#)**
 
-_See https://github.com/awesome-foss/awesome-sysadmin#web_
+**Please visit [awesome-sysadmin/Web ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#web)**
 
 
 ### Wikis
 
 **[`^        back to top        ^`](#)**
 
-_See also [Documentation Generators](#documentation-generators), [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines on WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software on wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software on wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)._
+_Related: [Software Development - Documentation Generators](#software-development---documentation-generators)_
+
+_See also: [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines - WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)._
 
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack) ![GitHub last commit](https://img.shields.io/github/last-commit/BookStackApp/BookStack)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP`
 - [Cowyo ![GitHub Repo stars](https://img.shields.io/github/stars/schollz/cowyo) ![GitHub last commit](https://img.shields.io/github/last-commit/schollz/cowyo)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
