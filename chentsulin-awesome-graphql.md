@@ -72,6 +72,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Specification
 
 * [facebook/graphql](https://facebook.github.io/graphql/) - Working Draft of the Specification for GraphQL created by Facebook.
+* [OpenCRUD ![GitHub Repo stars](https://img.shields.io/github/stars/opencrud/opencrud) ![GitHub last commit](https://img.shields.io/github/last-commit/opencrud/opencrud)](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases by Prisma.
 
 <a name="foundation" />
 
@@ -189,6 +190,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphiteJS ![GitHub Repo stars](https://img.shields.io/github/stars/graphitejs/server) ![GitHub last commit](https://img.shields.io/github/last-commit/graphitejs/server)](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 * [GraphQL Joker ![GitHub Repo stars](https://img.shields.io/github/stars/zhangkaiyulw/graphql-joker) ![GitHub last commit](https://img.shields.io/github/last-commit/zhangkaiyulw/graphql-joker)](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
 * [reactive-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/mesosphere/reactive-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/mesosphere/reactive-graphql)](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
+* [graphql-shield ![GitHub Repo stars](https://img.shields.io/github/stars/maticzav/graphql-shield) ![GitHub last commit](https://img.shields.io/github/last-commit/maticzav/graphql-shield)](https://github.com/maticzav/graphql-shield) - A library that helps creating a permission layer for a graphql api.
 * [Preact-urql ![GitHub Repo stars](https://img.shields.io/github/stars/FormidableLabs/urql) ![GitHub last commit](https://img.shields.io/github/last-commit/FormidableLabs/urql)](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
 * [graphql-let ![GitHub Repo stars](https://img.shields.io/github/stars/piglovesyou/graphql-let) ![GitHub last commit](https://img.shields.io/github/last-commit/piglovesyou/graphql-let)](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
 * [Graphback ![GitHub Repo stars](https://img.shields.io/github/stars/aerogear/graphback) ![GitHub last commit](https://img.shields.io/github/last-commit/aerogear/graphback)](https://github.com/aerogear/graphback/) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
