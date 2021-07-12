@@ -384,7 +384,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [redux](#redux) - Predictable State Container for JavaScript Apps
 - [mobx ![GitHub Repo stars](https://img.shields.io/github/stars/mobxjs/mobx) ![GitHub last commit](https://img.shields.io/github/last-commit/mobxjs/mobx)](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [react-query ![GitHub Repo stars](https://img.shields.io/github/stars/tannerlinsley/react-query) ![GitHub last commit](https://img.shields.io/github/last-commit/tannerlinsley/react-query)](https://github.com/tannerlinsley/react-query)
+- [react-query ![GitHub Repo stars](https://img.shields.io/github/stars/tannerlinsley/react-query) ![GitHub last commit](https://img.shields.io/github/last-commit/tannerlinsley/react-query)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 - [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 - [recoil ![GitHub Repo stars](https://img.shields.io/github/stars/facebookexperimental/Recoil) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/Recoil)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [xstate-react ![GitHub Repo stars](https://img.shields.io/github/stars/davidkpiano/xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/davidkpiano/xstate)](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
