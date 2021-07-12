@@ -91,6 +91,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## PHP
 
 - [Phpunit VW ![GitHub Repo stars](https://img.shields.io/github/stars/hmlb/phpunit-vw) ![GitHub last commit](https://img.shields.io/github/last-commit/hmlb/phpunit-vw)](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [Assert true ![GitHub Repo stars](https://img.shields.io/github/stars/joubertredrat/assert-true) ![GitHub last commit](https://img.shields.io/github/last-commit/joubertredrat/assert-true)](https://github.com/joubertredrat/assert-true) - A lot of ways to you set your assert as true.
 
 
 ## Python
