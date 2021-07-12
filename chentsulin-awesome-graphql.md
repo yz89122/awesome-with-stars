@@ -112,6 +112,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Montreal](https://www.meetup.com/GraphQL-Montreal/)
 * [Munich](https://www.meetup.com/GraphQL-Munich/)
 * [New York City](https://www.meetup.com/GraphQL-NYC/)
+* [Portland](https://www.meetup.com/GraphQLPDX/)
 * [San Francisco](https://www.meetup.com/GraphQL-SF/)
 * [Seattle](https://www.meetup.com/Seattle-GraphQL/)
 * [Sydney](https://www.meetup.com/GraphQL-Sydney/)
@@ -506,7 +507,7 @@ for the Angel framework.
 * [GraphQL Metrics ![GitHub Repo stars](https://img.shields.io/github/stars/Workpop/graphql-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Workpop/graphql-utils)](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover ![GitHub Repo stars](https://img.shields.io/github/stars/Brbb/graphql-rover) ![GitHub last commit](https://img.shields.io/github/last-commit/Brbb/graphql-rover)](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
 * [json-graphql-server ![GitHub Repo stars](https://img.shields.io/github/stars/marmelab/json-graphql-server) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/json-graphql-server)](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
-* [Insomnia](https://insomnia.rest/) - An full-featured API client with first-party GraphQL query editor
+* [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor
 * [Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/prisma/prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/prisma/prisma)](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql ![GitHub Repo stars](https://img.shields.io/github/stars/bradleyboy/tuql) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyboy/tuql)](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 * [Bit ![GitHub Repo stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bit.dev/giladshoham/github-graphql)).
@@ -577,7 +578,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [vslinko/ripster ![GitHub Repo stars](https://img.shields.io/github/stars/vslinko/ripster) ![GitHub last commit](https://img.shields.io/github/last-commit/vslinko/ripster)](https://github.com/vslinko/ripster/tree/master/src/graphql)
 * [relay-skeleton ![GitHub Repo stars](https://img.shields.io/github/stars/fortruce/relay-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/fortruce/relay-skeleton)](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton
 * [simple-relay-starter ![GitHub Repo stars](https://img.shields.io/github/stars/mhart/simple-relay-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhart/simple-relay-starter)](https://github.com/mhart/simple-relay-starter) - A very simple starter for React Relay using Browserify.
-* [relay-chat ![GitHub Repo stars](https://img.shields.io/github/stars/transedward/relay-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/transedward/relay-chat)](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
+* [relay-chat ![GitHub Repo stars](https://img.shields.io/github/stars/transedward/relay-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/transedward/relay-chat)](https://github.com/transedward/relay-chat) - a chat example showing Relay with routing and pagination.
 * [relay-todomvc ![GitHub Repo stars](https://img.shields.io/github/stars/taion/relay-todomvc) ![GitHub last commit](https://img.shields.io/github/last-commit/taion/relay-todomvc)](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
 * [dgraph-react-todomvc ![GitHub Repo stars](https://img.shields.io/github/stars/dgraph-io/dgraph-react-todomvc) ![GitHub last commit](https://img.shields.io/github/last-commit/dgraph-io/dgraph-react-todomvc)](https://github.com/dgraph-io/dgraph-react-todomvc) - Dgraph + React TodoMVC example.
 * [graphql-express-sqlite ![GitHub Repo stars](https://img.shields.io/github/stars/mrblueblue/graphql-express-sqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/mrblueblue/graphql-express-sqlite)](https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
