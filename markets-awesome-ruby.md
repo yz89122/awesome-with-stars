@@ -194,6 +194,7 @@ Thanks to all [contributors ![GitHub Repo stars](https://img.shields.io/github/s
 * [Sprockets ![GitHub Repo stars](https://img.shields.io/github/stars/rails/sprockets) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/sprockets)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 * [Torba ![GitHub Repo stars](https://img.shields.io/github/stars/torba-rb/torba) ![GitHub last commit](https://img.shields.io/github/last-commit/torba-rb/torba)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 * [Webpacker ![GitHub Repo stars](https://img.shields.io/github/stars/rails/webpacker) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/webpacker)](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
+* [Vite Ruby ![GitHub Repo stars](https://img.shields.io/github/stars/elmassimo/vite_ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/elmassimo/vite_ruby)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ## Authentication and OAuth
 
