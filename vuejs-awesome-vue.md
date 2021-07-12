@@ -877,6 +877,7 @@
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 - [GrandNode 2.0 ![GitHub Repo stars](https://img.shields.io/github/stars/grandnode/grandnode2) ![GitHub last commit](https://img.shields.io/github/last-commit/grandnode/grandnode2)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 - [Aimeos ![GitHub Repo stars](https://img.shields.io/github/stars/aimeos/aimeos) ![GitHub last commit](https://img.shields.io/github/last-commit/aimeos/aimeos)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+- [XIV ToDo ![GitHub Repo stars](https://img.shields.io/github/stars/bourgeoisor/xivtodo) ![GitHub last commit](https://img.shields.io/github/last-commit/bourgeoisor/xivtodo)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Commercial Products
 
@@ -921,7 +922,7 @@
 - [octimine](https://www.octimine.com/) - A patent search engine.
 - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
-- [滚���吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
+- [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
