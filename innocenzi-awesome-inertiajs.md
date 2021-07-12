@@ -75,6 +75,11 @@
 - [WordPress ![GitHub Repo stars](https://img.shields.io/github/stars/boxybird/wordpress-inertia-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/boxybird/wordpress-inertia-plugin)](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask ![GitHub Repo stars](https://img.shields.io/github/stars/j0ack/flask-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/j0ack/flask-inertia)](https://github.com/j0ack/flask-inertia)
 - [Adonis ![GitHub Repo stars](https://img.shields.io/github/stars/eidellev/inertiajs-adonisjs) ![GitHub last commit](https://img.shields.io/github/last-commit/eidellev/inertiajs-adonisjs)](https://github.com/eidellev/inertiajs-adonisjs)
+- [CanJS ![GitHub Repo stars](https://img.shields.io/github/stars/cherifGsoul/inertia-can) ![GitHub last commit](https://img.shields.io/github/last-commit/cherifGsoul/inertia-can)](https://github.com/cherifGsoul/inertia-can)
+- [Clojure ![GitHub Repo stars](https://img.shields.io/github/stars/prestancedesign/inertia-clojure) ![GitHub last commit](https://img.shields.io/github/last-commit/prestancedesign/inertia-clojure)](https://github.com/prestancedesign/inertia-clojure)
+- [CodeIgniter ![GitHub Repo stars](https://img.shields.io/github/stars/amiranagram/inertia-codeigniter-4) ![GitHub last commit](https://img.shields.io/github/last-commit/amiranagram/inertia-codeigniter-4)](https://github.com/amiranagram/inertia-codeigniter-4)
+- [Go ![GitHub Repo stars](https://img.shields.io/github/stars/petaki/inertia-go) ![GitHub last commit](https://img.shields.io/github/last-commit/petaki/inertia-go)](https://github.com/petaki/inertia-go)
+- [PSR-15 ![GitHub Repo stars](https://img.shields.io/github/stars/cherifGsoul/inertia-psr15) ![GitHub last commit](https://img.shields.io/github/last-commit/cherifGsoul/inertia-psr15)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## Resources
 
