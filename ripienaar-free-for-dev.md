@@ -489,7 +489,7 @@ Table of Contents
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
   * [Authress](https://authress.io/) — Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. First 1000 API calls are free.
   * [Authy](https://authy.com) - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.
-  * [bitninja.io](https://bitninja.io/) ��� Botnet protection through a blacklist, free plan only reports limited information on each attack
+  * [bitninja.io](https://bitninja.io/) — Botnet protection through a blacklist, free plan only reports limited information on each attack
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
   * [Cmd](https://cmd.com/) — Security platform providing real-time access control and dynamic policy enforcement on every Linux instance in your cloud or datacenter
   * [CodeNotary.io](https://www.codenotary.io/) — Open Source platform with indelible proof to notarize code, files, directories or container
@@ -1005,7 +1005,7 @@ Table of Contents
    * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
    * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
-   * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
+   * [clickup.com](https://clickup.com/) ��� Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too.
    * [Clubhouse](https://clubhouse.io/) - Project management platform. Free for up to 10 users forever
    * [Codegiant](https://codegiant.io) — Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.
@@ -1272,7 +1272,7 @@ Table of Contents
    * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1-month data history
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
-   * [UXtweak.com](https://www.uxtweak.com/) ��� Record and watch how visitors use your web site or app. Free unlimited time for small projects
+   * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1401,7 +1401,7 @@ Table of Contents
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-  * [getawesomeness](https://getawesomeness.herokuapp.com) �� Retrieve all amazing awesomeness from GitHub... a must see
+  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev ![GitHub Repo stars](https://img.shields.io/github/stars/tvvocold/FOSS-for-Dev) ![GitHub last commit](https://img.shields.io/github/last-commit/tvvocold/FOSS-for-Dev)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
   * [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
