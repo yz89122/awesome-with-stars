@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1057 | July 03, 2021
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1058 | July 12, 2021
 
 ### Contents
 
@@ -1167,6 +1167,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [DVR ![GitHub Repo stars](https://img.shields.io/github/stars/venmo/DVR) ![GitHub last commit](https://img.shields.io/github/last-commit/venmo/DVR)](https://github.com/venmo/DVR) - A simple network testing framework.
 * [Erik ![GitHub Repo stars](https://img.shields.io/github/stars/phimage/Erik) ![GitHub last commit](https://img.shields.io/github/last-commit/phimage/Erik)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 * [Fakery ![GitHub Repo stars](https://img.shields.io/github/stars/vadymmarkov/Fakery) ![GitHub last commit](https://img.shields.io/github/last-commit/vadymmarkov/Fakery)](https://github.com/vadymmarkov/Fakery) - Fake data generator.
+* [Mussel ![GitHub Repo stars](https://img.shields.io/github/stars/UrbanCompass/Mussel) ![GitHub last commit](https://img.shields.io/github/last-commit/UrbanCompass/Mussel)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 * [Nimble ![GitHub Repo stars](https://img.shields.io/github/stars/Quick/Nimble) ![GitHub last commit](https://img.shields.io/github/last-commit/Quick/Nimble)](https://github.com/Quick/Nimble) - A matcher framework.
 * [OHHTTPStubs ![GitHub Repo stars](https://img.shields.io/github/stars/AliSoftware/OHHTTPStubs) ![GitHub last commit](https://img.shields.io/github/last-commit/AliSoftware/OHHTTPStubs)](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 * [PinpointKit ![GitHub Repo stars](https://img.shields.io/github/stars/Lickability/PinpointKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Lickability/PinpointKit)](https://github.com/Lickability/PinpointKit) - Lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.
