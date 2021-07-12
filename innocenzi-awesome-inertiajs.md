@@ -81,8 +81,8 @@
 ### Presets
 
 - ⭐ [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js.
+- ⭐ [Inertia Preset ![GitHub Repo stars](https://img.shields.io/github/stars/use-preset/laravel-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-inertia)](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Vite, Inertia.js and Vue.js.
 - ⭐ [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
-- [Laravel preset ![GitHub Repo stars](https://img.shields.io/github/stars/use-preset/laravel-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-inertia)](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Laravel front-end preset ![GitHub Repo stars](https://img.shields.io/github/stars/laravel-frontend-presets/inertiajs) ![GitHub last commit](https://img.shields.io/github/last-commit/laravel-frontend-presets/inertiajs)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 - [Laravel Moonlight ![GitHub Repo stars](https://img.shields.io/github/stars/TitasGailius/laravel-moonlight) ![GitHub last commit](https://img.shields.io/github/last-commit/TitasGailius/laravel-moonlight)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Titanium ![GitHub Repo stars](https://img.shields.io/github/stars/usetitanium/inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/usetitanium/inertia)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
