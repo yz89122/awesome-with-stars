@@ -22,7 +22,7 @@ Thanks for those who are supporting my work via [GitHub Sponsors ![GitHub Repo s
 
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
-### [Advanced GitHub Notifier ![GitHub Repo stars](https://img.shields.io/github/stars/freaktechnik/advanced-github-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/freaktechnik/advanced-github-notifier)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Advanced GitHub Notifier ![GitHub Repo stars](https://img.shields.io/github/stars/freaktechnik/advanced-github-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/freaktechnik/advanced-github-notifier)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
@@ -40,7 +40,7 @@ Next level code navigation for GitHub.
 
 Installs: 119 | Stars: 17 | Last update: 25 Mar 2021
 
-### [Codeflower ![GitHub Repo stars](https://img.shields.io/github/stars/code-flower/chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/code-flower/chrome)](https://github.com/code-flower/chrome) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Codeflower ![GitHub Repo stars](https://img.shields.io/github/stars/code-flower/chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/code-flower/chrome)](https://github.com/code-flower/chrome) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
 
@@ -52,13 +52,13 @@ The CoderStats link for GitHub Chrome extension displays a link to the CoderStat
 
 Installs: 630 | Stars: 13 | Last update: 20 Nov 2020
 
-### [Enhanced GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/softvar/enhanced-github) ![GitHub last commit](https://img.shields.io/github/last-commit/softvar/enhanced-github)](https://github.com/softvar/enhanced-github) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/enhanced-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+### [Enhanced GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/softvar/enhanced-github) ![GitHub last commit](https://img.shields.io/github/last-commit/softvar/enhanced-github)](https://github.com/softvar/enhanced-github) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/enhanced-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
 Installs: 40243 | Stars: 1164 | Last update: 23 Mar 2021
 
-### [GIFs for GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/N1ck/gifs-for-github) ![GitHub last commit](https://img.shields.io/github/last-commit/N1ck/gifs-for-github)](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GIFs for GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/N1ck/gifs-for-github) ![GitHub last commit](https://img.shields.io/github/last-commit/N1ck/gifs-for-github)](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Easily search GIPHY to add a GIF into any GitHub comment box.
 
@@ -70,7 +70,7 @@ Find the best GIFs for your awesome pull requests.
 
 Installs: 180 | Stars: 16 | Last update: 4 Aug 2019
 
-### [Git History ![GitHub Repo stars](https://img.shields.io/github/stars/pomber/git-history) ![GitHub last commit](https://img.shields.io/github/last-commit/pomber/git-history)](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Git History ![GitHub Repo stars](https://img.shields.io/github/stars/pomber/git-history) ![GitHub last commit](https://img.shields.io/github/last-commit/pomber/git-history)](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Quickly browse the history of a file from any git repository.
 
@@ -88,7 +88,7 @@ GitHub provides a page that only shows diffs with a .diff at the end of the URL 
 
 Installs: n/a | Stars: n/a | Last update: n/a
 
-### [GitHub Code Folding ![GitHub Repo stars](https://img.shields.io/github/stars/noam3127/github-code-folding) ![GitHub last commit](https://img.shields.io/github/last-commit/noam3127/github-code-folding)](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Code Folding ![GitHub Repo stars](https://img.shields.io/github/stars/noam3127/github-code-folding) ![GitHub last commit](https://img.shields.io/github/last-commit/noam3127/github-code-folding)](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
@@ -106,7 +106,7 @@ Easily navigate through the changes in a file that has been edited on GitHub.
 
 Installs: 202 | Stars: 13 | Last update: 7 Sep 2018
 
-### [GitHub File Icon ![GitHub Repo stars](https://img.shields.io/github/stars/homerchen19/github-file-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/homerchen19/github-file-icons)](https://github.com/homerchen19/github-file-icons) <a href="https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub File Icon ![GitHub Repo stars](https://img.shields.io/github/stars/homerchen19/github-file-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/homerchen19/github-file-icons)](https://github.com/homerchen19/github-file-icons) <a href="https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-file-icon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 A browser extension which gives different filetypes different icons on GitHub.
 
@@ -124,7 +124,7 @@ Neat hovercards for GitHub.
 
 Installs: 21291 | Stars: 1573 | Last update: 14 Jan 2021
 
-### [GitHub Issue Link Status ![GitHub Repo stars](https://img.shields.io/github/stars/fregante/github-issue-link-status) ![GitHub last commit](https://img.shields.io/github/last-commit/fregante/github-issue-link-status)](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Issue Link Status ![GitHub Repo stars](https://img.shields.io/github/stars/fregante/github-issue-link-status) ![GitHub last commit](https://img.shields.io/github/last-commit/fregante/github-issue-link-status)](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Colorize issue and PR links to see their status (open, closed, merged).
 
@@ -142,7 +142,7 @@ Automatically adds repository size to GitHub's repository summary.
 
 Installs: 10000 | Stars: 866 | Last update: 26 Jun 2020
 
-### [GitHub Story Points ![GitHub Repo stars](https://img.shields.io/github/stars/banyan/github-story-points) ![GitHub last commit](https://img.shields.io/github/last-commit/banyan/github-story-points)](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-story-points/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Story Points ![GitHub Repo stars](https://img.shields.io/github/stars/banyan/github-story-points) ![GitHub last commit](https://img.shields.io/github/last-commit/banyan/github-story-points)](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-story-points/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Chrome extension to see story points in GitHub projects.
 
@@ -154,13 +154,13 @@ Generates a pie chart on user profile pages displaying a breakdown of what langu
 
 Installs: 494 | Stars: 36 | Last update: 19 Jul 2019
 
-### [GitHub Writer ![GitHub Repo stars](https://img.shields.io/github/stars/ckeditor/github-writer) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/github-writer)](https://github.com/ckeditor/github-writer) <a href="https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-writer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Writer ![GitHub Repo stars](https://img.shields.io/github/stars/ckeditor/github-writer) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/github-writer)](https://github.com/ckeditor/github-writer) <a href="https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-writer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.
 
 Installs: 1103 | Stars: 221 | Last update: 27 Jan 2021
 
-### [GitHub vscode-icons ![GitHub Repo stars](https://img.shields.io/github/stars/dderevjanik/github-vscode-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/dderevjanik/github-vscode-icons)](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub vscode-icons ![GitHub Repo stars](https://img.shields.io/github/stars/dderevjanik/github-vscode-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/dderevjanik/github-vscode-icons)](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Show [vscode-icons ![GitHub Repo stars](https://img.shields.io/github/stars/vscode-icons/vscode-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/vscode-icons/vscode-icons)](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
@@ -172,7 +172,7 @@ Create, save, edit, pin, search and delete filters that you commonly use on the 
 
 Installs: 84 | Stars: n/a | Last update: 27 Jan 2021
 
-### [GithubOriginalStreak ![GitHub Repo stars](https://img.shields.io/github/stars/Naramsim/GithubOriginalStreak) ![GitHub last commit](https://img.shields.io/github/last-commit/Naramsim/GithubOriginalStreak)](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+### [GithubOriginalStreak ![GitHub Repo stars](https://img.shields.io/github/stars/Naramsim/GithubOriginalStreak) ![GitHub last commit](https://img.shields.io/github/last-commit/Naramsim/GithubOriginalStreak)](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Extension to get back current and longest streak.
 
@@ -184,7 +184,7 @@ Replace browser new tab screen with GitHub trending projects.
 
 Installs: 3000 | Stars: 292 | Last update: 21 Jun 2020
 
-### [Hide files on GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/hide-files-on-github) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/hide-files-on-github)](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/hide-files-on-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+### [Hide files on GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/hide-files-on-github) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/hide-files-on-github)](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/hide-files-on-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Hide dotfiles from the GitHub file browser.
 
@@ -208,7 +208,7 @@ See forks with the most stars under the names of repositories.
 
 Installs: 1241 | Stars: 368 | Last update: 26 Dec 2020
 
-### [Module Linker ![GitHub Repo stars](https://img.shields.io/github/stars/fiatjaf/module-linker) ![GitHub last commit](https://img.shields.io/github/last-commit/fiatjaf/module-linker)](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/en-US/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Module Linker ![GitHub Repo stars](https://img.shields.io/github/stars/fiatjaf/module-linker) ![GitHub last commit](https://img.shields.io/github/last-commit/fiatjaf/module-linker)](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
 
@@ -220,7 +220,7 @@ Chrome extension which helps you not to miss important changes in your news thre
 
 Installs: 18 | Stars: 11 | Last update: 1 Oct 2018
 
-### [Notifications Preview for GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/tanmayrajani/notifications-preview-github) ![GitHub last commit](https://img.shields.io/github/last-commit/tanmayrajani/notifications-preview-github)](https://github.com/tanmayrajani/notifications-preview-github) <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Notifications Preview for GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/tanmayrajani/notifications-preview-github) ![GitHub last commit](https://img.shields.io/github/last-commit/tanmayrajani/notifications-preview-github)](https://github.com/tanmayrajani/notifications-preview-github) <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
 
@@ -276,19 +276,19 @@ This browser extension allows you to open files in your IDE directly from GitHub
 
 Installs: 228 | Stars: 13 | Last update: 20 Mar 2021
 
-### [PR Monitor ![GitHub Repo stars](https://img.shields.io/github/stars/fwouts/prmonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/fwouts/prmonitor)](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [PR Monitor ![GitHub Repo stars](https://img.shields.io/github/stars/fwouts/prmonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/fwouts/prmonitor)](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
 
 Installs: 521 | Stars: 46 | Last update: 5 Jun 2020
 
-### [Potential changes for GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/dzhavat/potential-changes-for-github) ![GitHub last commit](https://img.shields.io/github/last-commit/dzhavat/potential-changes-for-github)](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Potential changes for GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/dzhavat/potential-changes-for-github) ![GitHub last commit](https://img.shields.io/github/last-commit/dzhavat/potential-changes-for-github)](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension that shows which pull requests contain changes related to a file.
 
 Installs: 51 | Stars: 92 | Last update: 15 Oct 2020
 
-### [Refined GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/refined-github) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/refined-github)](https://github.com/sindresorhus/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/refined-github) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/refined-github)](https://github.com/sindresorhus/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
@@ -336,7 +336,7 @@ ZenHub is the first and only project management suite that works natively within
 
 Installs: 70000 | Stars: n/a | Last update: 29 Mar 2021
 
-### [gitako - github file tree ![GitHub Repo stars](https://img.shields.io/github/stars/enixcoda/gitako) ![GitHub last commit](https://img.shields.io/github/last-commit/enixcoda/gitako)](https://github.com/enixcoda/gitako) <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-us/firefox/addon/gitako-github-file-tree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+### [gitako - github file tree ![GitHub Repo stars](https://img.shields.io/github/stars/enixcoda/gitako) ![GitHub last commit](https://img.shields.io/github/last-commit/enixcoda/gitako)](https://github.com/enixcoda/gitako) <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 file tree for github, and more than that.
 
@@ -348,7 +348,7 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 Installs: 2000 | Stars: 122 | Last update: 24 Jul 2020
 
-### [gitpod - dev environments in a browser tab ![GitHub Repo stars](https://img.shields.io/github/stars/gitpod-io/browser-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/gitpod-io/browser-extension)](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/tr/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [gitpod - dev environments in a browser tab ![GitHub Repo stars](https://img.shields.io/github/stars/gitpod-io/browser-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/gitpod-io/browser-extension)](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
 
