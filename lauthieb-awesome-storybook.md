@@ -78,6 +78,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
 - [Shared React Components Boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/shared-components/shared-react-components-example) ![GitHub last commit](https://img.shields.io/github/last-commit/shared-components/shared-react-components-example)](https://github.com/shared-components/shared-react-components-example)
 - [Apideck Components](https://www.apideck.design/)
+- [Qui - Vue 2/3 Design system ![GitHub Repo stars](https://img.shields.io/github/stars/Qvant-lab/qui-max) ![GitHub last commit](https://img.shields.io/github/last-commit/Qvant-lab/qui-max)](https://github.com/Qvant-lab/qui-max)
 
 ## Addons
 
