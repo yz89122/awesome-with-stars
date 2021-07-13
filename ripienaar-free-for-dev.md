@@ -1,4 +1,4 @@
-# free-for.dev 
+# free-for.dev
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
@@ -11,19 +11,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
-
-Sponsors
-========
-
-## 🪐 Deta – The free cloud for hackers
-
-
-> [Deta](https://deta.sh/?ref=freedev) is a 100% free cloud provider from Germany 🇩🇪. Deta offers friendly & fast support on Slack & Discord as well.  
-> __Deta Micros__: Unlimited & 0-downtime Node.js and Python hosting.  
-> __Deta Base__: Unlimited production-ready NoSQL databases for your next project.  
-> __Deta Drive__: Scalable cloud file storage for all of your apps.
-
-
 
 Table of Contents
 =================
@@ -161,7 +148,7 @@ Table of Contents
   * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :
        - [CI/CD ![GitHub Repo stars](https://img.shields.io/github/stars/features/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/features/actions)](https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free)
-       - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)  
+       - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
        - [Package Hosting & Container Registry ![GitHub Repo stars](https://img.shields.io/github/stars/features/packages) ![GitHub last commit](https://img.shields.io/github/last-commit/features/packages)](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
        - Project Management & Issue Tracking.
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators. Also offers the following features :
@@ -265,7 +252,7 @@ Table of Contents
   * [ScrapingNinja](https://www.scrapingninja.co/) — Handle JS rendering, Chrome Headless, Proxy rotation and CAPTCHAs solving all in one place. The first 1000 are free of charge, no credit card required.
   * [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
   * [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
-  * [Similar Words API](https://word-simi.herokuapp.com/) ��� An API to find similar words, has vocabulary of about 4Million words.
+  * [Similar Words API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Time Door](https://timedoor.io) - A time series analysis API.
@@ -729,7 +716,7 @@ Table of Contents
      - [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session upto 5 attendees.
      - [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
      - [Wiki](https://zoho.com/wiki) — Free for 3 users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customisable CSS.
-     - [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored
+     - [Subscriptions](https://zoho.com/subscriptions) ��� Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored
      - [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
      - [Desk](https://zoho.com/desk) — Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.
      - [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
@@ -1005,7 +992,7 @@ Table of Contents
    * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
    * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
-   * [clickup.com](https://clickup.com/) ��� Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
+   * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too.
    * [Clubhouse](https://clubhouse.io/) - Project management platform. Free for up to 10 users forever
    * [Codegiant](https://codegiant.io) — Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.
@@ -1380,7 +1367,7 @@ Table of Contents
   * [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
   * [JWT Decoder](https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token) and verifying it's signature.
-  * [Base64 decoder/encoder](https://devpal.co/base64-decode/) �� Online free tool for decoding & encoding data.
+  * [Base64 decoder/encoder](https://devpal.co/base64-decode/) — Online free tool for decoding & encoding data.
   * [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
   * [PDFMonkey](https://www.pdfmonkey.io/) — Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 1000 free documents per month.
   * [readme.com](https://readme.com/) — Beautiful documentation made easy, free for Open Source.
