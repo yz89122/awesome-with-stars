@@ -72,7 +72,9 @@
 - [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
+- [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 
+*For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
 
 ## No-Code Platforms
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
@@ -106,6 +108,7 @@
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 - [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
+- [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
