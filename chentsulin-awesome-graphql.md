@@ -85,7 +85,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Community
 
 * [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
-* [Discord](http://join.reactiflux.com/) - Join #graphql on the ReactiFlux Discord server
+* [Discord](http://join.reactiflux.com/) - Join #help-graphql on the Reactiflux Discord server
 * [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing
 * [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag #graphql
 * [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](https://stackoverflow.com/questions/tagged/graphql)
@@ -106,6 +106,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Copenhagen](https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/)
 * [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
+* [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 * [London](https://www.meetup.com/GraphQL-London/)
 * [Manchester](https://www.meetup.com/GraphQL-Manchester/)
 * [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
@@ -419,6 +420,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [apollo-ios ![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-ios)](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
 * [ApolloDeveloperKit ![GitHub Repo stars](https://img.shields.io/github/stars/manicmaniac/ApolloDeveloperKit) ![GitHub last commit](https://img.shields.io/github/last-commit/manicmaniac/ApolloDeveloperKit)](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
+* [Graphaello ![GitHub Repo stars](https://img.shields.io/github/stars/nerdsupremacist/Graphaello) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdsupremacist/Graphaello)](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI
 
 <a name="lib-clojurescript" />
 
