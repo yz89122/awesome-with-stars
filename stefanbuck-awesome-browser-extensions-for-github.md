@@ -336,11 +336,23 @@ ZenHub is the first and only project management suite that works natively within
 
 Installs: 70000 | Stars: n/a | Last update: 29 Mar 2021
 
+### [gitako - github file tree ![GitHub Repo stars](https://img.shields.io/github/stars/enixcoda/gitako) ![GitHub last commit](https://img.shields.io/github/last-commit/enixcoda/gitako)](https://github.com/enixcoda/gitako) <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-us/firefox/addon/gitako-github-file-tree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+file tree for github, and more than that.
+
+Installs: n/a | Stars: n/a | Last update: n/a
+
 ### [github.expandinizr ![GitHub Repo stars](https://img.shields.io/github/stars/thecodejunkie/github.expandinizr) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodejunkie/github.expandinizr)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
 Installs: 2000 | Stars: 122 | Last update: 24 Jul 2020
+
+### [gitpod - dev environments in a browser tab ![GitHub Repo stars](https://img.shields.io/github/stars/gitpod-io/browser-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/gitpod-io/browser-extension)](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/tr/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
+
+Installs: n/a | Stars: n/a | Last update: n/a
 
 ### [npmhub ![GitHub Repo stars](https://img.shields.io/github/stars/npmhub/npmhub) ![GitHub last commit](https://img.shields.io/github/last-commit/npmhub/npmhub)](https://github.com/npmhub/npmhub) <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/npm-hub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/npmhub/id1542090429"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
