@@ -393,6 +393,7 @@ to successfully design systems architecture.
 * [Unity-Robotics-Hub ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/Unity-Robotics-Hub) ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/Unity-Robotics-Hub)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 * [BlueSky ![GitHub Repo stars](https://img.shields.io/github/stars/TUDelft-CNS-ATM/bluesky) ![GitHub last commit](https://img.shields.io/github/last-commit/TUDelft-CNS-ATM/bluesky)](https://github.com/TUDelft-CNS-ATM/bluesky) - The goal of BlueSky is to provide everybody who wants to visualize, analyze or simulate air traffic with a tool to do so without any restrictions, licenses or limitations.
 * [Cloe ![GitHub Repo stars](https://img.shields.io/github/stars/eclipse/cloe) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse/cloe)](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
+* [Dynamic_logistics_Warehouse ![GitHub Repo stars](https://img.shields.io/github/stars/belal-ibrahim/dynamic_logistics_warehouse) ![GitHub last commit](https://img.shields.io/github/last-commit/belal-ibrahim/dynamic_logistics_warehouse)](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses
 
 
 ## Electronics and Mechanics
