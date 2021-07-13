@@ -60,6 +60,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 * [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
+* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
 ## Deployment Tools
 
@@ -91,6 +92,8 @@
 * [Arion ![GitHub Repo stars](https://img.shields.io/github/stars/hercules-ci/arion) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/arion)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [cached-nix-shell ![GitHub Repo stars](https://img.shields.io/github/stars/xzfc/cached-nix-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/xzfc/cached-nix-shell)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 * [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
+* [devshell ![GitHub Repo stars](https://img.shields.io/github/stars/numtide/devshell) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/devshell)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+* [flake-utils ![GitHub Repo stars](https://img.shields.io/github/stars/numtide/flake-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/flake-utils)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 * [gitignore.nix ![GitHub Repo stars](https://img.shields.io/github/stars/hercules-ci/gitignore.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/gitignore.nix)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [lorri ![GitHub Repo stars](https://img.shields.io/github/stars/target/lorri) ![GitHub last commit](https://img.shields.io/github/last-commit/target/lorri)](https://github.com/target/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [niv ![GitHub Repo stars](https://img.shields.io/github/stars/nmattia/niv) ![GitHub last commit](https://img.shields.io/github/last-commit/nmattia/niv)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
@@ -151,7 +154,9 @@
 
 * [fenix ![GitHub Repo stars](https://img.shields.io/github/stars/nix-community/fenix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/fenix)](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
 * [naersk ![GitHub Repo stars](https://img.shields.io/github/stars/nmattia/naersk) ![GitHub last commit](https://img.shields.io/github/last-commit/nmattia/naersk)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+* [nixpkgs-mozilla ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla/nixpkgs-mozilla) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/nixpkgs-mozilla)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [rust-nix-templater ![GitHub Repo stars](https://img.shields.io/github/stars/yusdacra/rust-nix-templater) ![GitHub last commit](https://img.shields.io/github/last-commit/yusdacra/rust-nix-templater)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+* [rust-overlay ![GitHub Repo stars](https://img.shields.io/github/stars/oxalica/rust-overlay) ![GitHub last commit](https://img.shields.io/github/last-commit/oxalica/rust-overlay)](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
 
 ## NixOS Modules
 
@@ -165,7 +170,6 @@
 * [Home Manager ![GitHub Repo stars](https://img.shields.io/github/stars/nix-community/home-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/home-manager)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-bitcoin ![GitHub Repo stars](https://img.shields.io/github/stars/fort-nix/nix-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/fort-nix/nix-bitcoin)](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin ![GitHub Repo stars](https://img.shields.io/github/stars/LnL7/nix-darwin) ![GitHub last commit](https://img.shields.io/github/last-commit/LnL7/nix-darwin)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
-* [nixpkgs-mozilla ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla/nixpkgs-mozilla) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/nixpkgs-mozilla)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [nixpkgs-wayland ![GitHub Repo stars](https://img.shields.io/github/stars/colemickens/nixpkgs-wayland) ![GitHub last commit](https://img.shields.io/github/last-commit/colemickens/nixpkgs-wayland)](https://github.com/colemickens/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR ![GitHub Repo stars](https://img.shields.io/github/stars/nix-community/NUR) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NUR)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 
