@@ -109,6 +109,7 @@ A curated list of bitcoin services and tools for software developers
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange ![GitHub Repo stars](https://img.shields.io/github/stars/knowm/XChange) ![GitHub last commit](https://img.shields.io/github/last-commit/knowm/XChange)](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [Bitcoin Spring Boot Starter ![GitHub Repo stars](https://img.shields.io/github/stars/theborakompanioni/bitcoin-spring-boot-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/theborakompanioni/bitcoin-spring-boot-starter)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## Scala libraries
 > Note that you can also use [Java libraries](#java-libraries) in Scala.
