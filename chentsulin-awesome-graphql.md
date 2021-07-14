@@ -148,6 +148,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [mst-gql ![GitHub Repo stars](https://img.shields.io/github/stars/mobxjs/mst-gql) ![GitHub last commit](https://img.shields.io/github/last-commit/mobxjs/mst-gql)](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL
 * [graphql-pino-middleware ![GitHub Repo stars](https://img.shields.io/github/stars/addityasingh/graphql-pino-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/addityasingh/graphql-pino-middleware)](https://github.com/addityasingh/graphql-pino-middleware) - GraphQL middleware to augment resolvers with pino logger
 * [graphql-lightstep-middleware ![GitHub Repo stars](https://img.shields.io/github/stars/addityasingh/graphql-lightstep-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/addityasingh/graphql-lightstep-middleware)](https://github.com/addityasingh/graphql-lightstep-middleware) - GraphQL middleware to instrument resolvers with `lightstep` traces
+* [gqless ![GitHub Repo stars](https://img.shields.io/github/stars/samdenty/gqless) ![GitHub last commit](https://img.shields.io/github/last-commit/samdenty/gqless)](https://github.com/samdenty/gqless) - A GraphQL client without queries ✨
+* [GraphQL Zeus ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-editor/graphql-zeus) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-editor/graphql-zeus)](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus creates autocomplete client library for `JavaScript` or `TypeScript` which provides autocompletion for strongly typed queries.
 
 #### HTTP Server Bindings
 * [express-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/graphql/express-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql/express-graphql)](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
@@ -534,6 +536,7 @@ for the Angel framework.
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
 * [gqldoc ![GitHub Repo stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
+* [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation
 
 <a name="security-tools" />
 
