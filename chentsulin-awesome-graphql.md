@@ -94,6 +94,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 * [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 * [Bookmarks.dev](https://www.bookmarks.dev/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.bookmarks.dev/tagged/graphql)
+* [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - A Discord server dedicated to GraphQL
 * [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community
 
 <a name="meetups" />
@@ -298,14 +299,16 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-servlet ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-kickstart/graphql-java-servlet) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-java-servlet)](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
 * [manifold-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA. See the [Java example](#example-java) below.
 * [spring-graphql-common ![GitHub Repo stars](https://img.shields.io/github/stars/oembedler/spring-graphql-common) ![GitHub last commit](https://img.shields.io/github/last-commit/oembedler/spring-graphql-common)](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
-* [graphql-spring-boot ![GitHub Repo stars](https://img.shields.io/github/stars/oembedler/graphql-spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/oembedler/graphql-spring-boot)](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
+* [graphql-spring-boot ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-kickstart/graphql-spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-spring-boot)](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery ![GitHub Repo stars](https://img.shields.io/github/stars/engagingspaces/vertx-graphql-service-discovery) ![GitHub last commit](https://img.shields.io/github/last-commit/engagingspaces/vertx-graphql-service-discovery)](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader ![GitHub Repo stars](https://img.shields.io/github/stars/engagingspaces/vertx-dataloader) ![GitHub last commit](https://img.shields.io/github/last-commit/engagingspaces/vertx-dataloader)](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [graphql-spqr ![GitHub Repo stars](https://img.shields.io/github/stars/leangen/GraphQL-SPQR) ![GitHub last commit](https://img.shields.io/github/last-commit/leangen/GraphQL-SPQR)](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL ![GitHub Repo stars](https://img.shields.io/github/stars/networknt/light-graphql-4j) ![GitHub last commit](https://img.shields.io/github/last-commit/networknt/light-graphql-4j)](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
 * [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 * [federation-jvm ![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/federation-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/federation-jvm)](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM
-
+* [graphql-java-datetime ![GitHub Repo stars](https://img.shields.io/github/stars/donbeave/graphql-java-datetime) ![GitHub last commit](https://img.shields.io/github/last-commit/donbeave/graphql-java-datetime)](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
+* [graphql-java-extended-validation ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java/graphql-java-extended-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java/graphql-java-extended-validation)](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java
+* [graphql-java-extended-scalars ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java/graphql-java-extended-scalars) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java/graphql-java-extended-scalars)](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java
 
 <a name="lib-kotlin" />
 
@@ -530,6 +533,7 @@ for the Angel framework.
 * [Apollo Client Developer Tools ![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-client-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client-devtools)](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
 * [gqldoc ![GitHub Repo stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
+* [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 
 <a name="security-tools" />
 
@@ -668,6 +672,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [light-java-graphql examples ![GitHub Repo stars](https://img.shields.io/github/stars/networknt/light-example-4j) ![GitHub last commit](https://img.shields.io/github/last-commit/networknt/light-example-4j)](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
 * [graphql-spqr-samples ![GitHub Repo stars](https://img.shields.io/github/stars/leangen/graphql-spqr-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/leangen/graphql-spqr-samples)](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
 * [manifold-graphql sample ![GitHub Repo stars](https://img.shields.io/github/stars/manifold-systems/manifold-sample-graphql-app) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold-sample-graphql-app)](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
+* [graphql-java-kickstart_samples ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-java-kickstart/samples) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/samples)](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects
+* [spring-boot-federation-example ![GitHub Repo stars](https://img.shields.io/github/stars/setchy/spring-boot-federation-example) ![GitHub last commit](https://img.shields.io/github/last-commit/setchy/spring-boot-federation-example)](https://github.com/setchy/spring-boot-federation-example) - A GraphQL Java Kickstart federation example
 
 <a name="example-android" />
 
