@@ -534,6 +534,7 @@ for the Angel framework.
 * [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [Apollo Client Developer Tools ![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-client-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client-devtools)](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
+* [GraphQL Inspector ![GitHub Repo stars](https://img.shields.io/github/stars/kamilkisiela/graphql-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/graphql-inspector)](https://github.com/kamilkisiela/graphql-inspector): Compare schemas, validate documents, find breaking changes, find similar types, schema coverage, and more.
 * [gqldoc ![GitHub Repo stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 * [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation
