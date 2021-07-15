@@ -360,6 +360,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-dotnet ![GitHub Repo stars](https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-dotnet/graphql-dotnet)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 * [graphql-net ![GitHub Repo stars](https://img.shields.io/github/stars/ckimes89/graphql-net) ![GitHub last commit](https://img.shields.io/github/last-commit/ckimes89/graphql-net)](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
 * [Hot Chocolate ![GitHub Repo stars](https://img.shields.io/github/stars/ChilliCream/hotchocolate) ![GitHub last commit](https://img.shields.io/github/last-commit/ChilliCream/hotchocolate)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+* [Snowflaqe ![GitHub Repo stars](https://img.shields.io/github/stars/Zaid-Ajaj/Snowflaqe) ![GitHub last commit](https://img.shields.io/github/last-commit/Zaid-Ajaj/Snowflaqe)](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable ![GitHub Repo stars](https://img.shields.io/github/stars/fable-compiler/Fable) ![GitHub last commit](https://img.shields.io/github/last-commit/fable-compiler/Fable)](https://github.com/fable-compiler/Fable)
 
 <a name="lib-elixir" />
 
