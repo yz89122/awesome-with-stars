@@ -67,6 +67,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
 - [HouseOps ![GitHub Repo stars](https://img.shields.io/github/stars/HouseOps/HouseOps) ![GitHub last commit](https://img.shields.io/github/last-commit/HouseOps/HouseOps)](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
+- [Jailer ![GitHub Repo stars](https://img.shields.io/github/stars/Wisser/Jailer) ![GitHub last commit](https://img.shields.io/github/last-commit/Wisser/Jailer)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 - [OmniDB ![GitHub Repo stars](https://img.shields.io/github/stars/OmniDB/OmniDB) ![GitHub last commit](https://img.shields.io/github/last-commit/OmniDB/OmniDB)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [Pgweb ![GitHub Repo stars](https://img.shields.io/github/stars/sosedoff/pgweb) ![GitHub last commit](https://img.shields.io/github/last-commit/sosedoff/pgweb)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
