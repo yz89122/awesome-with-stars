@@ -904,7 +904,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > Links focused on (analogues to) [Stanley Milgram’s small-world experiment](https://en.wikipedia.org/wiki/Small-world_experiment).
 
 -   [The Erdös Number Project](http://wwwp.oakland.edu/enp/) - Research project on the collaborative ties and network distance between mathematicians.
--   [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - Discussion of ��_x_ degrees of separation” small-world experiments.
+-   [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - Discussion of “_x_ degrees of separation” small-world experiments.
 -   [The Oracle of Bacon](https://oracleofbacon.org/) - Based on an [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) that resulted in a [charity](http://www.sixdegrees.org/).
 -   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan J. Watts, Steven H. Strogatz, Jon Kleinberg and other speakers.
 -   [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - Example of a two-mode network analysis based on metal artists and bands.
