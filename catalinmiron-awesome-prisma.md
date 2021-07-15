@@ -61,6 +61,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma ERD Visualizer ![GitHub Repo stars](https://img.shields.io/github/stars/skn0tt/prisma-erd) ![GitHub last commit](https://img.shields.io/github/last-commit/skn0tt/prisma-erd)](https://github.com/skn0tt/prisma-erd)
 - [prisma-uml ![GitHub Repo stars](https://img.shields.io/github/stars/emyann/prisma-uml) ![GitHub last commit](https://img.shields.io/github/last-commit/emyann/prisma-uml)](https://github.com/emyann/prisma-uml)
 - [DBML Generator ![GitHub Repo stars](https://img.shields.io/github/stars/notiz-dev/prisma-dbml-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/notiz-dev/prisma-dbml-generator)](https://github.com/notiz-dev/prisma-dbml-generator)
+- [Prisma ERD Generator ![GitHub Repo stars](https://img.shields.io/github/stars/keonik/prisma-erd-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/keonik/prisma-erd-generator)](https://github.com/keonik/prisma-erd-generator)
 
 ## :thinking: How Tos
 
