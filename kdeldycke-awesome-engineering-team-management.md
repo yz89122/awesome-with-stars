@@ -671,7 +671,7 @@ But don't worry too much, every company has its own definition of the two roles,
 
 - [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
 
-- [Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57) - “Why do so many software projects fail? Software development is much closer to creating a new factory than running an existing factory. (…) Software development is made up of many unknown duration tasks, this fundamentally unpredictable nature makes traditional management's predictive planning techniques particularly unsuited for software projects.”
+- [Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57) - ���Why do so many software projects fail? Software development is much closer to creating a new factory than running an existing factory. (…) Software development is made up of many unknown duration tasks, this fundamentally unpredictable nature makes traditional management's predictive planning techniques particularly unsuited for software projects.”
 
 ### Specifications
 
@@ -719,7 +719,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - “The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.” ([source](https://news.ycombinator.com/item?id=20326074))
 
-- [Failed \#SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
+- [Failed \#SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change��.
 
 ## Key Performance Indicator (KPI)
 
