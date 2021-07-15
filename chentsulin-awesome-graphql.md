@@ -539,6 +539,7 @@ for the Angel framework.
 * [gqldoc ![GitHub Repo stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 * [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation
+* [GraphQL '98 ![GitHub Repo stars](https://img.shields.io/github/stars/marcello3d/graphql-98) ![GitHub last commit](https://img.shields.io/github/last-commit/marcello3d/graphql-98)](https://github.com/marcello3d/graphql-98) - A visual GraphQL data browser, like a SQL GUI for GraphQL
 
 <a name="security-tools" />
 
