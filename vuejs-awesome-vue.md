@@ -878,6 +878,7 @@
 - [GrandNode 2.0 ![GitHub Repo stars](https://img.shields.io/github/stars/grandnode/grandnode2) ![GitHub last commit](https://img.shields.io/github/last-commit/grandnode/grandnode2)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 - [Aimeos ![GitHub Repo stars](https://img.shields.io/github/stars/aimeos/aimeos) ![GitHub last commit](https://img.shields.io/github/last-commit/aimeos/aimeos)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 - [XIV ToDo ![GitHub Repo stars](https://img.shields.io/github/stars/bourgeoisor/xivtodo) ![GitHub last commit](https://img.shields.io/github/last-commit/bourgeoisor/xivtodo)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+- [QuickTok ![GitHub Repo stars](https://img.shields.io/github/stars/statickidz/quicktok) ![GitHub last commit](https://img.shields.io/github/last-commit/statickidz/quicktok)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ### Commercial Products
 
