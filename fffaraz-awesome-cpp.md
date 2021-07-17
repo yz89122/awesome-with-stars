@@ -777,6 +777,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Reflection
 
+* [config-loader ![GitHub Repo stars](https://img.shields.io/github/stars/netcan/config-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/netcan/config-loader)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. [MIT]
 * [Better Enums ![GitHub Repo stars](https://img.shields.io/github/stars/aantron/better-enums) ![GitHub last commit](https://img.shields.io/github/last-commit/aantron/better-enums)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
 * [clReflect ![GitHub Repo stars](https://img.shields.io/github/stars/Celtoys/clReflect) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtoys/clReflect)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. [MIT]
 * [CPFG ![GitHub Repo stars](https://img.shields.io/github/stars/cpgf/cpgf) ![GitHub last commit](https://img.shields.io/github/last-commit/cpgf/cpgf)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
