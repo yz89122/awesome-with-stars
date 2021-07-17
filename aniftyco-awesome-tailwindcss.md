@@ -108,6 +108,7 @@
 - 💼 [Downwind CSS Easings ![GitHub Repo stars](https://img.shields.io/github/stars/downwindcss/easings) ![GitHub last commit](https://img.shields.io/github/last-commit/downwindcss/easings)](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
 - 💼 [Content Placeholder ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/tailwindcontentplaceholder) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/tailwindcontentplaceholder)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 - 💼 [No Scrollbar ![GitHub Repo stars](https://img.shields.io/github/stars/redwebcreation/tailwindcss-no-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/redwebcreation/tailwindcss-no-scrollbar)](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
+- 💼 [Scroll Behavior ![GitHub Repo stars](https://img.shields.io/github/stars/lukewarlow/tailwind-scroll-behavior) ![GitHub last commit](https://img.shields.io/github/last-commit/lukewarlow/tailwind-scroll-behavior)](https://github.com/lukewarlow/tailwind-scroll-behavior) - Adds `scroll-smooth` and `scroll-auto` classes to control smooth scrolling.
 - 💼 [Accent Color ![GitHub Repo stars](https://img.shields.io/github/stars/lukewarlow/tailwind-accent-color) ![GitHub last commit](https://img.shields.io/github/last-commit/lukewarlow/tailwind-accent-color)](https://github.com/lukewarlow/tailwind-accent-color) - Adds accent color utilities.
 - 💼 [Downwind CSS Text Decoration ![GitHub Repo stars](https://img.shields.io/github/stars/downwindcss/text-decoration) ![GitHub last commit](https://img.shields.io/github/last-commit/downwindcss/text-decoration)](https://github.com/downwindcss/text-decoration) - Adds composable `text-decoration` utilities.
 - 🧬 [Pseudo ![GitHub Repo stars](https://img.shields.io/github/stars/Log1x/tailwindcss-pseudo) ![GitHub last commit](https://img.shields.io/github/last-commit/Log1x/tailwindcss-pseudo)](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
@@ -175,7 +176,7 @@
 - 🎨🔧💼 [Colorkraken ![GitHub Repo stars](https://img.shields.io/github/stars/Bouhoum/colorkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/Bouhoum/colorkraken)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 - 🎨🔧💼 [babel-plugin-tailwind-dark ![GitHub Repo stars](https://img.shields.io/github/stars/wowlusitong/babel-plugin-tailwind-dark) ![GitHub last commit](https://img.shields.io/github/last-commit/wowlusitong/babel-plugin-tailwind-dark)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 - 🌍🔧💼 [Twind ![GitHub Repo stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
-- 🌍���� [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
+- 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
 - 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 - 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
@@ -339,7 +340,7 @@
 - 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
 - 🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
-- 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
+- �� [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
 - 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
