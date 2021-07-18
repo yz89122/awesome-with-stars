@@ -207,6 +207,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [SOFA ![GitHub Repo stars](https://img.shields.io/github/stars/Urigo/sofa) ![GitHub last commit](https://img.shields.io/github/last-commit/Urigo/sofa)](https://github.com/Urigo/sofa): Generate REST API from your GraphQL API.
 * [Graphback ![GitHub Repo stars](https://img.shields.io/github/stars/aerogear/graphback) ![GitHub last commit](https://img.shields.io/github/last-commit/aerogear/graphback)](https://github.com/aerogear/graphback/) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
 * [graphql-ably-pubsub](https://www.npmjs.com/package/graphql-ably-pubsub) - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.
+* [graphql-middleware ![GitHub Repo stars](https://img.shields.io/github/stars/maticzav/graphql-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/maticzav/graphql-middleware)](https://github.com/maticzav/graphql-middleware) - Split up your GraphQL resolvers in middleware functions.
 
 #### Relay Related
 
