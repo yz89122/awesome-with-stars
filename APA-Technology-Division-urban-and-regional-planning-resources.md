@@ -46,9 +46,10 @@ This repository contains curated list of different urban & regional planning dat
   - [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
   - [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
   - [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
-- [Educational & Informational Resources](#educational-&-informational-resources)
+- [Educational and Informational Resources](#educational-and-informational-resources)
 
   - [AICP Resources](#aicp-resources)
+  - [Literature Resources](#literature-resources)
 - [Other Resources](#other-resources)
 
   - [Other Technology Resource Aggregators](#other-technology-resource-aggregators)
@@ -264,10 +265,11 @@ A a high-level category to classify the resource into related groups. Census dat
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
 
-## Educational & Informational Resources
+## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
 
 ---
+
 
 ### AICP Resources
 Resources pertaining to AICP certification test preparation, continuing education, and other resources.
@@ -275,6 +277,11 @@ Resources pertaining to AICP certification test preparation, continuing educatio
 - [AICP Get Certified! Webpage](https://www.planning.org/certification/) - The American Institute of Certified Planners's (AICP) offical resource repository that provides details on eligibility, registration, and preparation. Important dates for upcoming AICP "Certification Cycles" are also listed.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
 - [PlanningPrep](https://www.planningprep.com/) - A free web-based study resource to help planners prepare for the American Institute of Certified Planners' certification exam. As of summer 2021, the site contains 1668 practice questions and 12 practice exams.
+
+### Literature Resources
+Resources linking to peer-reviewed journals or federal research aggregators of interest. These are not specific papers, but their curators. 
+
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
 
 ## Other Resources
 Other types of planning data & technology resources. 
