@@ -398,6 +398,8 @@ Tools and resources exclusively targetting the [AWS IAM policies](http://docs.aw
 
 - [IAM Floyd ![GitHub Repo stars](https://img.shields.io/github/stars/udondan/iam-floyd) ![GitHub last commit](https://img.shields.io/github/last-commit/udondan/iam-floyd)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
 
+- [ConsoleMe ![GitHub Repo stars](https://img.shields.io/github/stars/Netflix/consoleme) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/consoleme)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
+
 ### Macaroons
 
 A clever curiosity to distribute and delegate authorization.
