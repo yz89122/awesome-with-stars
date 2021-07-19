@@ -1384,7 +1384,7 @@ Table of Contents
   * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
   * [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
 
-**[⬆ back to top](#table-of-contents)**
+**[�� back to top](#table-of-contents)**
 
 ## Other Free Resources
 
