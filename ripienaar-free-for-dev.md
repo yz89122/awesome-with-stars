@@ -933,7 +933,7 @@ Table of Contents
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
   * [F5](https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service) – Free Anycast DNS hosting for primary zones. And free for secondary zones up to 1 domain and 3 million requests per month.
 
-**[⬆ back to top](#table-of-contents)**
+**[��� back to top](#table-of-contents)**
 
 ## IaaS
 
