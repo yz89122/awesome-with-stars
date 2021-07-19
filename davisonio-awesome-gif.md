@@ -84,6 +84,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Node-gif ![GitHub Repo stars](https://img.shields.io/github/stars/pkrumins/node-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/pkrumins/node-gif)](https://github.com/pkrumins/node-gif) - C++ library to make GIF
 - [Gif-h ![GitHub Repo stars](https://img.shields.io/github/stars/charlietangora/gif-h) ![GitHub last commit](https://img.shields.io/github/last-commit/charlietangora/gif-h)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs
 - [OfxGifEncoder ![GitHub Repo stars](https://img.shields.io/github/stars/jesusgollonet/ofxGifEncoder) ![GitHub last commit](https://img.shields.io/github/last-commit/jesusgollonet/ofxGifEncoder)](https://github.com/jesusgollonet/ofxGifEncoder) - C++ openframeworks addon to export animated GIFs
+- [msf_gif ![GitHub Repo stars](https://img.shields.io/github/stars/notnullnotvoid/msf_gif) ![GitHub last commit](https://img.shields.io/github/last-commit/notnullnotvoid/msf_gif)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs
 
 <h3 id="c-sharp">C#</h2>
 
