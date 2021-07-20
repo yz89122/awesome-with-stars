@@ -570,7 +570,7 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 > A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and _Lord Jim_. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, _Hard-Boiled Wonderland and the End of the World_ is the tour de force that expanded Haruki Murakami’s international following. Tracking one man’s descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.
 
-#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) _by [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)_ [3.9] 🌟 ���
+#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) _by [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)_ [3.9] 🌟 🔥
 
 > The Matrix is a world within the world, a global consensus hallucination, the representation of every byte of data in cyberspace…
 >
@@ -726,7 +726,7 @@ This book is AWESOME. It's so AWESOME that it makes me want to go back and play 
 >
 > And then Wade stumbles upon the first puzzle.
 >
-> Suddenly the whole world is watching, and thousands of competitors join the hunt—among them certain powerful players who are willing to commit very real murder to beat Wade to this prize. Now the only way for Wade to survive and preserve everything he knows is to win. But to do so, he may have to leave behind his oh-so-perfect virtual existence and face up to life—and love—in the real world he’s always been so desperate to escape.
+> Suddenly the whole world is watching, and thousands of competitors join the hunt��among them certain powerful players who are willing to commit very real murder to beat Wade to this prize. Now the only way for Wade to survive and preserve everything he knows is to win. But to do so, he may have to leave behind his oh-so-perfect virtual existence and face up to life—and love—in the real world he’s always been so desperate to escape.
 >
 > A world at stake.
 > A quest for the ultimate prize.
@@ -1266,7 +1266,7 @@ What amazes me most about Ted Chiang’s stories is their _richness_—the level
 
 > Ted Chiang’s first published story, “_Tower of Babylon_,” won the Nebula Award in 1990. Subsequent stories have won the Asimov’s SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF.
 >
-> What if men built a tower from Earth to Heaven—and broke through to Heaven’s other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life… and others.
+> What if men built a tower from Earth to Heaven��and broke through to Heaven’s other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life… and others.
 
 > Contents: _Tower of Babylon_ (1990), _Understand_ (1991), _Division by Zero_ (1991), _Story of Your Life_ (1998), _Seventy-Two Letters_ (2000), _The Evolution of Human Science_ (2000), _Hell Is the Absence of God_ (2001), _Liking What You See: A Documentary_ (2002)
 
