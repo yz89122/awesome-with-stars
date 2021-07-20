@@ -1025,7 +1025,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftyOAuth ![GitHub Repo stars](https://img.shields.io/github/stars/delba/SwiftyOAuth) ![GitHub last commit](https://img.shields.io/github/last-commit/delba/SwiftyOAuth)](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.
 * [TermiNetwork ![GitHub Repo stars](https://img.shields.io/github/stars/billp/TermiNetwork) ![GitHub last commit](https://img.shields.io/github/last-commit/billp/TermiNetwork)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 * [TRON ![GitHub Repo stars](https://img.shields.io/github/stars/MLSDev/TRON) ![GitHub last commit](https://img.shields.io/github/last-commit/MLSDev/TRON)](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire.
-* [Wormholy ![GitHub Repo stars](https://img.shields.io/github/stars/pmusolino/Wormholy) ![GitHub last commit](https://img.shields.io/github/last-commit/pmusolino/Wormholy)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard ��‍.
+* [Wormholy ![GitHub Repo stars](https://img.shields.io/github/stars/pmusolino/Wormholy) ![GitHub last commit](https://img.shields.io/github/last-commit/pmusolino/Wormholy)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
 #### HTML
 *Need to manipulate contents from html easily?* [back to top](#readme) 
