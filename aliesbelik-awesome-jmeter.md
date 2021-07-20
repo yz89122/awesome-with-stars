@@ -1,4 +1,3 @@
-<!--lint ignore double-link-->
 # Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
@@ -11,7 +10,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 > [Apache JMeter](https://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
 <!--lint ignore double-link-->
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://awesome.re) project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -295,9 +294,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Plugins
 
-- [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - List of available plugins and extensions.
 - [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
 - [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
+- GitHub Topics: [jmeter-plugin ![GitHub Repo stars](https://img.shields.io/github/stars/topics/jmeter-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/jmeter-plugin)](https://github.com/topics/jmeter-plugin), [jmeter-plugins ![GitHub Repo stars](https://img.shields.io/github/stars/topics/jmeter-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/jmeter-plugins)](https://github.com/topics/jmeter-plugins) - Explore JMeter plugins tagged with the `jmeter-plugin` or `jmeter-plugins` labels.
 
 ### Correlation
 
@@ -377,7 +376,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
 - [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
-- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) - By ABSoft Trainings.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
 - [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - By QAInsights.
@@ -434,7 +432,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Related
 
 ### Awesome Lists
-
+<!--lint ignore double-link-->
 - [Awesome ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
 - [Awesome Awesomeness ![GitHub Repo stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness) ![GitHub last commit](https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness)](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality ![GitHub Repo stars](https://img.shields.io/github/stars/ligurio/software-quality-wiki) ![GitHub last commit](https://img.shields.io/github/last-commit/ligurio/software-quality-wiki)](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
@@ -446,7 +444,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Awesome inspectIT ![GitHub Repo stars](https://img.shields.io/github/stars/inspectit-labs/awesome-inspectit) ![GitHub last commit](https://img.shields.io/github/last-commit/inspectit-labs/awesome-inspectit)](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
 - [Awesome Tsung ![GitHub Repo stars](https://img.shields.io/github/stars/aliesbelik/awesome-tsung) ![GitHub last commit](https://img.shields.io/github/last-commit/aliesbelik/awesome-tsung)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 - [Awesome Gatling ![GitHub Repo stars](https://img.shields.io/github/stars/aliesbelik/awesome-gatling) ![GitHub last commit](https://img.shields.io/github/last-commit/aliesbelik/awesome-gatling)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
-- [Awesome k6 ![GitHub Repo stars](https://img.shields.io/github/stars/k6io/awesome-k6) ![GitHub last commit](https://img.shields.io/github/last-commit/k6io/awesome-k6)](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Awesome k6 ![GitHub Repo stars](https://img.shields.io/github/stars/grafana/awesome-k6) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/awesome-k6)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Awesome Locust ![GitHub Repo stars](https://img.shields.io/github/stars/aliesbelik/awesome-locust) ![GitHub last commit](https://img.shields.io/github/last-commit/aliesbelik/awesome-locust)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load-testing framework written in Python.
 
 ## Contributing
