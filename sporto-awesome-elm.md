@@ -18,12 +18,18 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [News](#news)
 - [Podcasts](#podcasts)
 - [Testing](#testing)
-- [Tools](#tools)
-- [Editor plugins](#editor-plugins)
+- [Code generators](#code-generators)
 - [Package managers](#package-managers)
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
+- [Static analysis](#static-analysis)
+- [Static site generators](#static-site-generators)
+- [Showcase generators](#showcase-generators)
+- [Run Elm](#run-elm)
+- [Compile and bundle](#compile-and-bundle)
+- [Other tools](#other-tools)
+- [Editor plugins](#editor-plugins)
 - [Examples](#examples)
 - [Community and Support](#community-and-support)
 - [Conferences](#conferences)
@@ -203,26 +209,7 @@ Tools and libraries to test your Elm applications
 
 ---
 
-## Tools
-
-*Useful tools related to Elm.*
-
-* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools. 
-* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
-* [Elm Analyse ![GitHub Repo stars](https://img.shields.io/github/stars/stil4m/elm-analyse) ![GitHub last commit](https://img.shields.io/github/last-commit/stil4m/elm-analyse)](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-* [Elm Doc Preview ![GitHub Repo stars](https://img.shields.io/github/stars/dmy/elm-doc-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/dmy/elm-doc-preview)](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
-* [Elm Format ![GitHub Repo stars](https://img.shields.io/github/stars/avh4/elm-format) ![GitHub last commit](https://img.shields.io/github/last-commit/avh4/elm-format)](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm JSON ![GitHub Repo stars](https://img.shields.io/github/stars/zwilias/elm-json) ![GitHub last commit](https://img.shields.io/github/last-commit/zwilias/elm-json)](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
-* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
-* [Elm Oracle ![GitHub Repo stars](https://img.shields.io/github/stars/ElmCast/elm-oracle) ![GitHub last commit](https://img.shields.io/github/last-commit/ElmCast/elm-oracle)](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
-* [Elm Review ![GitHub Repo stars](https://img.shields.io/github/stars/jfmengels/elm-review) ![GitHub last commit](https://img.shields.io/github/last-commit/jfmengels/elm-review)](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
-* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
-* [type-o-rama ![GitHub Repo stars](https://img.shields.io/github/stars/stereobooster/type-o-rama) ![GitHub last commit](https://img.shields.io/github/last-commit/stereobooster/type-o-rama)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
-* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
-
-### Code Generators
+## Code generators
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [OpenApi Generator ![GitHub Repo stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenAPITools/openapi-generator)](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
@@ -234,7 +221,95 @@ Tools and libraries to test your Elm applications
 * [haskell-to-elm ![GitHub Repo stars](https://img.shields.io/github/stars/folq/haskell-to-elm) ![GitHub last commit](https://img.shields.io/github/last-commit/folq/haskell-to-elm)](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
 * [PostCSS Elm Tailwind ![GitHub Repo stars](https://img.shields.io/github/stars/monty5811/postcss-elm-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/monty5811/postcss-elm-tailwind)](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
-### Run Elm
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Package managers
+
+*Place to share Elm libraries.*
+
+* [elm-package ![GitHub Repo stars](https://img.shields.io/github/stars/elm-lang/elm-package) ![GitHub last commit](https://img.shields.io/github/last-commit/elm-lang/elm-package)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Libraries
+
+You can find hundreds of high quality packages at:
+
+* [Elm packages](https://package.elm-lang.org/) - The official registry
+* [Elm Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
+* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Boilerplates
+
+*Good starting point for a new Elm project.*
+
+* [create-elm-app ![GitHub Repo stars](https://img.shields.io/github/stars/halfzebra/create-elm-app) ![GitHub last commit](https://img.shields.io/github/last-commit/halfzebra/create-elm-app)](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [elm-boil ![GitHub Repo stars](https://img.shields.io/github/stars/GioPat/elm-boil) ![GitHub last commit](https://img.shields.io/github/last-commit/GioPat/elm-boil)](https://github.com/GioPat/elm-boil) - Command Line Utility for creating an Elm boilerplate project easy to run, build and get deployed
+* [elm-live ![GitHub Repo stars](https://img.shields.io/github/stars/wking-io/elm-live) ![GitHub last commit](https://img.shields.io/github/last-commit/wking-io/elm-live)](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
+* [elm-webpack-4-starter ![GitHub Repo stars](https://img.shields.io/github/stars/romariolopezc/elm-webpack-4-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/romariolopezc/elm-webpack-4-starter)](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
+* [example-elm-hot-webpack ![GitHub Repo stars](https://img.shields.io/github/stars/klazuka/example-elm-hot-webpack) ![GitHub last commit](https://img.shields.io/github/last-commit/klazuka/example-elm-hot-webpack)](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
+* [Elm Batteries ![GitHub Repo stars](https://img.shields.io/github/stars/cedricss/elm-batteries) ![GitHub last commit](https://img.shields.io/github/last-commit/cedricss/elm-batteries)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+* [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
+
+### Outdated Boilerplates
+
+* [elm-webpack-starter ![GitHub Repo stars](https://img.shields.io/github/stars/moarwick/elm-webpack-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/moarwick/elm-webpack-starter)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+* [elm-app-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/gkubisa/elm-app-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/gkubisa/elm-app-boilerplate)](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
+* [elmkit ![GitHub Repo stars](https://img.shields.io/github/stars/khusnetdinov/elmkit) ![GitHub last commit](https://img.shields.io/github/last-commit/khusnetdinov/elmkit)](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
+* [elm-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/guillaumearm/elm-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumearm/elm-boilerplate)](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app.
+* [elm-init ![GitHub Repo stars](https://img.shields.io/github/stars/JustusAdam/elm-init) ![GitHub last commit](https://img.shields.io/github/last-commit/JustusAdam/elm-init)](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
+* [elm-new ![GitHub Repo stars](https://img.shields.io/github/stars/simonewebdesign/elm-new) ![GitHub last commit](https://img.shields.io/github/last-commit/simonewebdesign/elm-new)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
+* [elm-webpack-starter-kid ![GitHub Repo stars](https://img.shields.io/github/stars/FranzSkuffka/elm-webpack-starter-kid) ![GitHub last commit](https://img.shields.io/github/last-commit/FranzSkuffka/elm-webpack-starter-kid)](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Frameworks
+
+*Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
+
+- [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
+- [Spades ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/spades) ![GitHub last commit](https://img.shields.io/github/last-commit/rogeriochaves/spades)](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+
+---
+
+## Static analysis
+
+* [Elm Analyse ![GitHub Repo stars](https://img.shields.io/github/stars/stil4m/elm-analyse) ![GitHub last commit](https://img.shields.io/github/last-commit/stil4m/elm-analyse)](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [Elm Review ![GitHub Repo stars](https://img.shields.io/github/stars/jfmengels/elm-review) ![GitHub last commit](https://img.shields.io/github/last-commit/jfmengels/elm-review)](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Static site generators
+
+* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Showcase generators
+
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
+* [Elm UI Explorer ![GitHub Repo stars](https://img.shields.io/github/stars/kalutheo/elm-ui-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/kalutheo/elm-ui-explorer)](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
 * [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
@@ -242,13 +317,37 @@ Tools and libraries to test your Elm applications
 * [run-elm ![GitHub Repo stars](https://img.shields.io/github/stars/jfairbank/run-elm) ![GitHub last commit](https://img.shields.io/github/last-commit/jfairbank/run-elm)](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 
-### Compile and bundle
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Compile and bundle
 
 * [elm-compiler ![GitHub Repo stars](https://img.shields.io/github/stars/elm/compiler) ![GitHub last commit](https://img.shields.io/github/last-commit/elm/compiler)](https://github.com/elm/compiler) - Compiler for the Elm programming language.
 * [elm-webpack-loader ![GitHub Repo stars](https://img.shields.io/github/stars/elm-community/elm-webpack-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/elm-community/elm-webpack-loader)](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
 * [grunt-elm ![GitHub Repo stars](https://img.shields.io/github/stars/rtfeldman/grunt-elm) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfeldman/grunt-elm)](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Other tools
+
+*Useful tools related to Elm.*
+
+* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
+* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
+* [Elm Doc Preview ![GitHub Repo stars](https://img.shields.io/github/stars/dmy/elm-doc-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/dmy/elm-doc-preview)](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elm Format ![GitHub Repo stars](https://img.shields.io/github/stars/avh4/elm-format) ![GitHub last commit](https://img.shields.io/github/last-commit/avh4/elm-format)](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON ![GitHub Repo stars](https://img.shields.io/github/stars/zwilias/elm-json) ![GitHub last commit](https://img.shields.io/github/last-commit/zwilias/elm-json)](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+* [Elm Oracle ![GitHub Repo stars](https://img.shields.io/github/stars/ElmCast/elm-oracle) ![GitHub last commit](https://img.shields.io/github/last-commit/ElmCast/elm-oracle)](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [type-o-rama ![GitHub Repo stars](https://img.shields.io/github/stars/stereobooster/type-o-rama) ![GitHub last commit](https://img.shields.io/github/last-commit/stereobooster/type-o-rama)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
+* [elm-posix ![GitHub Repo stars](https://img.shields.io/github/stars/albertdahlin/elm-posix) ![GitHub last commit](https://img.shields.io/github/last-commit/albertdahlin/elm-posix)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+* [Litvis ![GitHub Repo stars](https://img.shields.io/github/stars/gicentre/litvis) ![GitHub last commit](https://img.shields.io/github/last-commit/gicentre/litvis)](https://github.com/gicentre/litvis) - Literate Visualization with Elm
 
 **[:top: back to top](#table-of-contents)**
 
@@ -300,73 +399,6 @@ Tools and libraries to test your Elm applications
 * [elm-light-table ![GitHub Repo stars](https://img.shields.io/github/stars/rundis/elm-light) ![GitHub last commit](https://img.shields.io/github/last-commit/rundis/elm-light)](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
 **[:top: back to top](#table-of-contents)**
-
----
-
-## Package managers
-
-*Place to share Elm libraries.*
-
-* [elm-package ![GitHub Repo stars](https://img.shields.io/github/stars/elm-lang/elm-package) ![GitHub last commit](https://img.shields.io/github/last-commit/elm-lang/elm-package)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
-
-**[:top: back to top](#table-of-contents)**
-
----
-
-## Libraries
-
-You can find hundreds of high quality packages at:
-
-* [Elm packages](https://package.elm-lang.org/) - The official registry
-* [Elm Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
-* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
-
-Here are some notable ones:
-
-* [core ![GitHub Repo stars](https://img.shields.io/github/stars/elm/core) ![GitHub last commit](https://img.shields.io/github/last-commit/elm/core)](https://github.com/elm/core) - Elm Core Libraries.
-* [html ![GitHub Repo stars](https://img.shields.io/github/stars/elm/html) ![GitHub last commit](https://img.shields.io/github/last-commit/elm/html)](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test ![GitHub Repo stars](https://img.shields.io/github/stars/elm-explorations/test) ![GitHub last commit](https://img.shields.io/github/last-commit/elm-explorations/test)](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
-* [http ![GitHub Repo stars](https://img.shields.io/github/stars/elm/http) ![GitHub last commit](https://img.shields.io/github/last-commit/elm/http)](https://github.com/elm/http) - Make HTTP requests in Elm.
-* [elm-ui ![GitHub Repo stars](https://img.shields.io/github/stars/mdgriffith/elm-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mdgriffith/elm-ui)](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
-* [elm-css ![GitHub Repo stars](https://img.shields.io/github/stars/rtfeldman/elm-css) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfeldman/elm-css)](https://github.com/rtfeldman/elm-css) - CSS in Elm.
-* [dillonkearns/elm-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/dillonkearns/elm-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/dillonkearns/elm-graphql)](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
-
-**[:top: back to top](#table-of-contents)**
-
----
-
-## Boilerplates
-
-*Good starting point for a new Elm project.*
-
-* [create-elm-app ![GitHub Repo stars](https://img.shields.io/github/stars/halfzebra/create-elm-app) ![GitHub last commit](https://img.shields.io/github/last-commit/halfzebra/create-elm-app)](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
-* [elm-boil ![GitHub Repo stars](https://img.shields.io/github/stars/GioPat/elm-boil) ![GitHub last commit](https://img.shields.io/github/last-commit/GioPat/elm-boil)](https://github.com/GioPat/elm-boil) - Command Line Utility for creating an Elm boilerplate project easy to run, build and get deployed
-* [elm-live ![GitHub Repo stars](https://img.shields.io/github/stars/wking-io/elm-live) ![GitHub last commit](https://img.shields.io/github/last-commit/wking-io/elm-live)](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
-* [elm-webpack-4-starter ![GitHub Repo stars](https://img.shields.io/github/stars/romariolopezc/elm-webpack-4-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/romariolopezc/elm-webpack-4-starter)](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
-* [example-elm-hot-webpack ![GitHub Repo stars](https://img.shields.io/github/stars/klazuka/example-elm-hot-webpack) ![GitHub last commit](https://img.shields.io/github/last-commit/klazuka/example-elm-hot-webpack)](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
-* [Elm Batteries ![GitHub Repo stars](https://img.shields.io/github/stars/cedricss/elm-batteries) ![GitHub last commit](https://img.shields.io/github/last-commit/cedricss/elm-batteries)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
-* [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
-
-### Outdated Boilerplates
-
-* [elm-webpack-starter ![GitHub Repo stars](https://img.shields.io/github/stars/moarwick/elm-webpack-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/moarwick/elm-webpack-starter)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
-* [elm-app-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/gkubisa/elm-app-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/gkubisa/elm-app-boilerplate)](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
-* [elmkit ![GitHub Repo stars](https://img.shields.io/github/stars/khusnetdinov/elmkit) ![GitHub last commit](https://img.shields.io/github/last-commit/khusnetdinov/elmkit)](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
-* [elm-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/guillaumearm/elm-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumearm/elm-boilerplate)](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app.
-* [elm-init ![GitHub Repo stars](https://img.shields.io/github/stars/JustusAdam/elm-init) ![GitHub last commit](https://img.shields.io/github/last-commit/JustusAdam/elm-init)](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
-* [elm-new ![GitHub Repo stars](https://img.shields.io/github/stars/simonewebdesign/elm-new) ![GitHub last commit](https://img.shields.io/github/last-commit/simonewebdesign/elm-new)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
-* [elm-webpack-starter-kid ![GitHub Repo stars](https://img.shields.io/github/stars/FranzSkuffka/elm-webpack-starter-kid) ![GitHub last commit](https://img.shields.io/github/last-commit/FranzSkuffka/elm-webpack-starter-kid)](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
-
-**[:top: back to top](#table-of-contents)**
-
----
-
-## Frameworks
-
-*Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
-
-- [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
-- [Spades ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/spades) ![GitHub last commit](https://img.shields.io/github/last-commit/rogeriochaves/spades)](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
 
 ---
 
