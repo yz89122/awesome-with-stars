@@ -1426,7 +1426,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Peripherals
 
 * Serial Port
-  * [Susurrus/serialport-rs ![GitHub Repo stars](https://img.shields.io/github/stars/Susurrus/serialport-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/Susurrus/serialport-rs)](https://github.com/Susurrus/serialport-rs) [[serialport](https://docs.rs/serialport/3.0.0/serialport/)] — A cross-platform library that provides access to a serial port
+  * [Susurrus/serialport-rs ![GitHub Repo stars](https://img.shields.io/github/stars/Susurrus/serialport-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/Susurrus/serialport-rs)](https://github.com/Susurrus/serialport-rs) [[serialport](https://docs.rs/serialport/3.0.0/serialport/)] ��� A cross-platform library that provides access to a serial port
 
 ### Platform specific
 
