@@ -193,7 +193,7 @@ work on Common Music shifted to (scheme-based) cm3.
 * [Mégra ![GitHub Repo stars](https://img.shields.io/github/stars/the-drunk-coder/megra) ![GitHub last commit](https://img.shields.io/github/last-commit/the-drunk-coder/megra)](https://github.com/the-drunk-coder/megra) - A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. [GPL3][2].
 * [Music ![GitHub Repo stars](https://img.shields.io/github/stars/MegaLoler/Music) ![GitHub last commit](https://img.shields.io/github/last-commit/MegaLoler/Music)](https://github.com/MegaLoler/Music) - A framework for musical expression in Lisp with a focus on music theory (built from scratch, unrelated to Common Music).
 * [rq ![GitHub Repo stars](https://img.shields.io/github/stars/openmusic-project/RQ) ![GitHub last commit](https://img.shields.io/github/last-commit/openmusic-project/RQ)](https://github.com/openmusic-project/RQ) - A library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
-* [scheduler ![GitHub Repo stars](https://img.shields.io/github/stars/byulparan/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/byulparan/scheduler)](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][51].
+* [scheduler ![GitHub Repo stars](https://img.shields.io/github/stars/byulparan/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/byulparan/scheduler)](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][89].
 * [mixalot ![GitHub Repo stars](https://img.shields.io/github/stars/ahefner/mixalot) ![GitHub last commit](https://img.shields.io/github/last-commit/ahefner/mixalot)](https://github.com/ahefner/mixalot) - Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the [Shuffletron music player ![GitHub Repo stars](https://img.shields.io/github/stars/ahefner/shuffletron) ![GitHub last commit](https://img.shields.io/github/last-commit/ahefner/shuffletron)](https://github.com/ahefner/shuffletron).
 * [osc ![GitHub Repo stars](https://img.shields.io/github/stars/zzkt/osc) ![GitHub last commit](https://img.shields.io/github/last-commit/zzkt/osc)](https://github.com/zzkt/osc) - an implementation of the Open Sound Protocol. [LGPL2.1][11].
 * [Harmony](https://shirakumo.github.io/harmony) - A real-time sound processing and playback system. [Artistic License 2.0][51].
@@ -794,7 +794,7 @@ HTTP Servers
 * [clath ![GitHub Repo stars](https://img.shields.io/github/stars/BnMcGn/clath) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/clath)](https://github.com/BnMcGn/clath) - a single sign-on
   middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
   and OpenID. At the time of writing, it supports authentication from
-  Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0][51].
+  Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0][89].
 * [clack-pretend ![GitHub Repo stars](https://img.shields.io/github/stars/BnMcGn/clack-pretend) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/clack-pretend)](https://github.com/BnMcGn/clack-pretend) - a testing
   and debugging tool for clack. [Apache2.0][89].
 * [hermetic ![GitHub Repo stars](https://img.shields.io/github/stars/eudoxia0/hermetic) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/hermetic)](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
@@ -1114,7 +1114,7 @@ Shells, shells interfaces
 
 * [Lish ![GitHub Repo stars](https://img.shields.io/github/stars/nibbula/lish) ![GitHub last commit](https://img.shields.io/github/last-commit/nibbula/lish)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3][2].
   * supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
-* [shcl ![GitHub Repo stars](https://img.shields.io/github/stars/bradleyjensen/shcl) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyjensen/shcl)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][51].
+* [shcl ![GitHub Repo stars](https://img.shields.io/github/stars/bradleyjensen/shcl) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyjensen/shcl)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][89].
 * [Shelly ![GitHub Repo stars](https://img.shields.io/github/stars/fukamachi/shelly) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/shelly)](https://github.com/fukamachi/shelly) - execute Common Lisp
   functions like a shell command, without the need to write a command
   line arguments parser. And it also can be used as a Make-like
@@ -1272,6 +1272,11 @@ Unit Testing
 * [Check-it ![GitHub Repo stars](https://img.shields.io/github/stars/DalekBaldwin/check-it) ![GitHub last commit](https://img.shields.io/github/last-commit/DalekBaldwin/check-it)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL][8].
 * [cl-coveralls ![GitHub Repo stars](https://img.shields.io/github/stars/fukamachi/cl-coveralls) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-coveralls)](https://github.com/fukamachi/cl-coveralls) - a helper
   library to post test coverage to Coveralls. See [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD][39].
+
+Editor utilities:
+
+* [Slite ![GitHub Repo stars](https://img.shields.io/github/stars/tdrhq/slite) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/slite)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0][89]
+  - Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 
 Utilities
