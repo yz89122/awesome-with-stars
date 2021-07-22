@@ -38,6 +38,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Dart](#lib-dart)
 	- [Rust](#lib-rust)
 	- [D](#lib-d)
+	- [R](#lib-r)
 	- [Julia](#lib-julia)
 	- [Crystal](#lib-crystal)
 - [Tools](#tools)
@@ -475,6 +476,14 @@ for the Angel framework.
 ### D (dlang) Libraries
 
 * [graphqld ![GitHub Repo stars](https://img.shields.io/github/stars/burner/graphqld) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/graphqld)](https://github.com/burner/graphqld) - GraphQL server library for D.
+
+<a name="lib-r" />
+
+### R (Rstat) Libraries
+
+* [ghql ![GitHub Repo stars](https://img.shields.io/github/stars/ropensci/ghql) ![GitHub last commit](https://img.shields.io/github/last-commit/ropensci/ghql)](https://github.com/ropensci/ghql) - General purpose GraphQL R client
+* [graphql ![GitHub Repo stars](https://img.shields.io/github/stars/ropensci/graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/ropensci/graphql)](https://github.com/ropensci/graphql) - Bindings to the 'libgraphqlparser' C++ library. Parses GraphQL syntax and exports the AST in JSON format.
+* [gqlr ![GitHub Repo stars](https://img.shields.io/github/stars/schloerke/gqlr) ![GitHub last commit](https://img.shields.io/github/last-commit/schloerke/gqlr)](https://github.com/schloerke/gqlr) - R GraphQL Implementation
 
 <a name="lib-julia" />
 
