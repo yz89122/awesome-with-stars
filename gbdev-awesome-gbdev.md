@@ -323,7 +323,7 @@ Guides, tutorials and tools to develop software for Game Boy using the developme
 - [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 - [GameBoy programming tutorial: Hello World!](https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/) - Step by step tutorial.
 - [DMGreport ![GitHub Repo stars](https://img.shields.io/github/stars/lancekindle/DMGreport) ![GitHub last commit](https://img.shields.io/github/last-commit/lancekindle/DMGreport)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
-- [OAM DMA tutorial](https://exez.in/gameboy-dma) - Example of how to use OAM DMA in assembly.
+- [OAM DMA tutorial](https://gbdev.gg8.se/wiki/articles/OAM_DMA_tutorial) - Example of how to use OAM DMA in assembly.
 - [Game Boy Assembly Programming for the Modern Game Developer ![GitHub Repo stars](https://img.shields.io/github/stars/ahrnbom/gbapfomgd) ![GitHub last commit](https://img.shields.io/github/last-commit/ahrnbom/gbapfomgd)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
 
 #### Sources
@@ -344,7 +344,6 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 
 #### Boilerplates and libraries
 
-- [gb-template ![GitHub Repo stars](https://img.shields.io/github/stars/exezin/gb-template) ![GitHub last commit](https://img.shields.io/github/last-commit/exezin/gb-template)](https://github.com/exezin/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
 - [rgbds-template ![GitHub Repo stars](https://img.shields.io/github/stars/nezticle/rgbds-template) ![GitHub last commit](https://img.shields.io/github/last-commit/nezticle/rgbds-template)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 - [bootstrap.gb ![GitHub Repo stars](https://img.shields.io/github/stars/yenatch/bootstrap.gb) ![GitHub last commit](https://img.shields.io/github/last-commit/yenatch/bootstrap.gb)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
@@ -353,6 +352,7 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 - [gb-vwf ![GitHub Repo stars](https://img.shields.io/github/stars/ISSOtm/gb-vwf) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gb-vwf)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 - [gb-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/ISSOtm/gb-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gb-boilerplate)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
 - [gb-starter-kit ![GitHub Repo stars](https://img.shields.io/github/stars/ISSOtm/gb-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gb-starter-kit)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+- [gb-template ![GitHub Repo stars](https://img.shields.io/github/stars/gb-archive/gb-template) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/gb-template)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
 
 #### Syntax highlighting packages
 
@@ -391,7 +391,6 @@ Complete and open source games.
 - [Tuff ![GitHub Repo stars](https://img.shields.io/github/stars/BonsaiDen/Tuff.gb) ![GitHub last commit](https://img.shields.io/github/last-commit/BonsaiDen/Tuff.gb)](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb ![GitHub Repo stars](https://img.shields.io/github/stars/Sanqui/2048-gb) ![GitHub last commit](https://img.shields.io/github/last-commit/Sanqui/2048-gb)](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
-- [PlantBoy ![GitHub Repo stars](https://img.shields.io/github/stars/siObyte/PlantBoy) ![GitHub last commit](https://img.shields.io/github/last-commit/siObyte/PlantBoy)](https://github.com/siObyte/PlantBoy)
 - [Lazerpong ![GitHub Repo stars](https://img.shields.io/github/stars/huderlem/lazerpong) ![GitHub last commit](https://img.shields.io/github/last-commit/huderlem/lazerpong)](https://github.com/huderlem/lazerpong)
 - [Geometrix ![GitHub Repo stars](https://img.shields.io/github/stars/AntonioND/geometrix) ![GitHub last commit](https://img.shields.io/github/last-commit/AntonioND/geometrix)](https://github.com/AntonioND/geometrix)
 - [µCity ![GitHub Repo stars](https://img.shields.io/github/stars/AntonioND/ucity) ![GitHub last commit](https://img.shields.io/github/last-commit/AntonioND/ucity)](https://github.com/AntonioND/ucity)
@@ -415,6 +414,7 @@ Complete and open source games.
 - [Libbet and the Magic Floor ![GitHub Repo stars](https://img.shields.io/github/stars/pinobatch/libbet) ![GitHub last commit](https://img.shields.io/github/last-commit/pinobatch/libbet)](https://github.com/pinobatch/libbet)
 - [waveform-gb ![GitHub Repo stars](https://img.shields.io/github/stars/dannye/waveform-gb) ![GitHub last commit](https://img.shields.io/github/last-commit/dannye/waveform-gb)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
 - [vectroid.gb](https://gitlab.com/BonsaiDen/vectroid.gb) - Developed with gbasm.
+- [PlantBoy ![GitHub Repo stars](https://img.shields.io/github/stars/gb-archive/plantboy) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/plantboy)](https://github.com/gb-archive/plantboy)
 
 ### C
 
@@ -459,11 +459,11 @@ Complete and open source games.
 ## Reverse Engineering
 
 - [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-- [pokemontools ![GitHub Repo stars](https://img.shields.io/github/stars/pret/pokemon-reverse-engineering-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokemon-reverse-engineering-tools)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pok��mon games.
+- [pokemontools ![GitHub Repo stars](https://img.shields.io/github/stars/pret/pokemon-reverse-engineering-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokemon-reverse-engineering-tools)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 - [Reverse Engineering the GameBoy Tetris ![GitHub Repo stars](https://img.shields.io/github/stars/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
-- [DMA hijacking ![GitHub Repo stars](https://img.shields.io/github/stars/avivace/awesome-gbdev) ![GitHub last commit](https://img.shields.io/github/last-commit/avivace/awesome-gbdev)](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit.
+- [DMA hijacking](https://gbdev.io/articles/dma_hijacking) - A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit.
 
 ### Game Disassemblies
 
