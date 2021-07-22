@@ -1232,7 +1232,7 @@ Table of Contents
    * [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
    * [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. 100 snapshots/day (max capacity: 300). 3 snapshot heatmaps which can be stored for 365 days. Unlimited Team Members.
    * [imprace.com](https://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
-   * [keen.io](https://keen.io/) �� Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
+   * [keen.io](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
    * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
    * [mixpanel.com](https://mixpanel.com/) — 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
