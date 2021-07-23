@@ -127,6 +127,7 @@
 - [crayon ![GitHub Repo stars](https://img.shields.io/github/stars/thecodrr/crayon) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/crayon)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson ![GitHub Repo stars](https://img.shields.io/github/stars/lydiandy/cjson) ![GitHub last commit](https://img.shields.io/github/last-commit/lydiandy/cjson)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot ![GitHub Repo stars](https://img.shields.io/github/stars/Delta456/ascii_robot) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/ascii_robot)](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
+- [iconv ![GitHub Repo stars](https://img.shields.io/github/stars/fanlia/iconv) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/iconv)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 
 ### Graphics
 
