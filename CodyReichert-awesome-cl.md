@@ -163,6 +163,7 @@ sellers who aren't evil for physical resources.
     - [Markdown](#markdown)
     - [PDF](#pdf)
     - [Plotting](#plotting)
+    - [Project skeletons](#project-skeletons)
     - [Security](#security)
     - [Other](#other)
 - [XML](#xml)
@@ -1251,10 +1252,7 @@ Tools
 
 These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.
 
-* [quickapp][188] - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser. [3-clause BSD][15].
-* [quickapp-cli ![GitHub Repo stars](https://img.shields.io/github/stars/triclops200/quickapp-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/triclops200/quickapp-cli)](https://github.com/triclops200/quickapp-cli) - [quickapp][188] as a command-line utility. [3-clause BSD][15].
 * [quicksearch ![GitHub Repo stars](https://img.shields.io/github/stars/tkych/quicksearch) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/quicksearch)](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat][14].
-* [cl-project ![GitHub Repo stars](https://img.shields.io/github/stars/fukamachi/cl-project) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-project)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
 * [lake ![GitHub Repo stars](https://img.shields.io/github/stars/takagi/lake) ![GitHub last commit](https://img.shields.io/github/last-commit/takagi/lake)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT][200].
 
 
@@ -1460,6 +1458,14 @@ Plotting
 * [cl-spark ![GitHub Repo stars](https://img.shields.io/github/stars/tkych/cl-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/cl-spark)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT][200].
 
 See also the chart facilities of IUP and ltk-plotchart (GUI section).
+
+Project skeletons
+-----------------
+
+* [cl-project ![GitHub Repo stars](https://img.shields.io/github/stars/fukamachi/cl-project) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-project)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
+* [cl-project-with-docs ![GitHub Repo stars](https://img.shields.io/github/stars/40ants/cl-project-with-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-project-with-docs)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD][15].
+* [cl-cookieproject ![GitHub Repo stars](https://img.shields.io/github/stars/vindarel/cl-cookieproject) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-cookieproject)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD_3Clause][15].
+  * test definitions, entry point to run from sources, build a binary, Roswell integration…
 
 Security
 --------
