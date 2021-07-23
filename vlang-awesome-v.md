@@ -98,6 +98,7 @@
 - [runner ![GitHub Repo stars](https://img.shields.io/github/stars/Naheel-Azawy/runner) ![GitHub last commit](https://img.shields.io/github/last-commit/Naheel-Azawy/runner)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [vcredits ![GitHub Repo stars](https://img.shields.io/github/stars/zakuro9715/vcredits) ![GitHub last commit](https://img.shields.io/github/last-commit/zakuro9715/vcredits)](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 - [vspect ![GitHub Repo stars](https://img.shields.io/github/stars/zakuro9715/vspect) ![GitHub last commit](https://img.shields.io/github/last-commit/zakuro9715/vspect)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
+- [vinit ![GitHub Repo stars](https://img.shields.io/github/stars/pranavbaburaj/vinit) ![GitHub last commit](https://img.shields.io/github/last-commit/pranavbaburaj/vinit)](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 
 ### Project management
 
