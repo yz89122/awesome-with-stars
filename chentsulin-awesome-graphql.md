@@ -160,6 +160,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-api-koa ![GitHub Repo stars](https://img.shields.io/github/stars/jaydenseric/graphql-api-koa) ![GitHub last commit](https://img.shields.io/github/last-commit/jaydenseric/graphql-api-koa)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
 * [koa-graphql ![GitHub Repo stars](https://img.shields.io/github/stars/chentsulin/koa-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/chentsulin/koa-graphql)](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 * [gql ![GitHub Repo stars](https://img.shields.io/github/stars/deno-libs/gql) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/gql)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
+* [mercurius ![GitHub Repo stars](https://img.shields.io/github/stars/mercurius-js/mercurius) ![GitHub last commit](https://img.shields.io/github/last-commit/mercurius-js/mercurius)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify
 
 #### Database & ORM
 * [graphql-bookshelf ![GitHub Repo stars](https://img.shields.io/github/stars/brysgo/graphql-bookshelf) ![GitHub last commit](https://img.shields.io/github/last-commit/brysgo/graphql-bookshelf)](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
