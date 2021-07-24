@@ -767,7 +767,7 @@ Featured playlists: `Events and Talks`, `Research Releases`, `Robotics`. \
 Content about: Machine Learning and AI Research, Scientific Papers \
 Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simulations`, `AI and Deep Learning`, `Light Transport, Ray Tracing and Global Illumination`.
 
-[🔼 Back to the top](#contents)
+[���� Back to the top](#contents)
 
 ## Game development
 
