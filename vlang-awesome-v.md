@@ -60,6 +60,7 @@
 - [monkey_v ![GitHub Repo stars](https://img.shields.io/github/stars/Delta456/monkey_v) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/monkey_v)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [vcc ![GitHub Repo stars](https://img.shields.io/github/stars/lemoncmd/vcc) ![GitHub last commit](https://img.shields.io/github/last-commit/lemoncmd/vcc)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork ![GitHub Repo stars](https://img.shields.io/github/stars/Itay2805/Vork) ![GitHub last commit](https://img.shields.io/github/last-commit/Itay2805/Vork)](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
+- [Foxil ![GitHub Repo stars](https://img.shields.io/github/stars/StunxFS/foxil) ![GitHub last commit](https://img.shields.io/github/last-commit/StunxFS/foxil)](https://github.com/StunxFS/foxil) - An intermediate language designed to facilitate compiler code generation.
 
 
 ### Operating systems/Kernels
