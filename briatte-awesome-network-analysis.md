@@ -823,7 +823,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
 -   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
 -   [Blog Posts About Networks by Cosma R. Shalizi](http://bactra.org/weblog/cat_networks.html).
--   [Blog Posts About Networks by Fran��ois Briatte](http://politbistro.hypotheses.org/tag/reseaux), in French.
+-   [Blog Posts About Networks by François Briatte](http://politbistro.hypotheses.org/tag/reseaux), in French.
 -   [Blog Posts About Networks by Katya Ognyanova](http://kateto.net/networks).
 -   [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
 -   [Blog Posts About Networks on the Bad Hessian Blog](http://badhessian.org/category/networks/), by various contributors.
