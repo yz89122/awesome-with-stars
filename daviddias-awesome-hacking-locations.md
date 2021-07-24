@@ -1813,7 +1813,7 @@ Webpage: http://www.diesel-cafe.com/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-paying | ��� | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
+paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
 
 Notes:
 * Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
