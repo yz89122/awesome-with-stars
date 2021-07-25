@@ -2901,6 +2901,7 @@ _LocalStorage etc._
 - [vuex-light ![GitHub Repo stars](https://img.shields.io/github/stars/js-cosmos/vuex-light) ![GitHub last commit](https://img.shields.io/github/last-commit/js-cosmos/vuex-light)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
 - [vue-object-state ![GitHub Repo stars](https://img.shields.io/github/stars/crashkonijn/vue-object-state) ![GitHub last commit](https://img.shields.io/github/last-commit/crashkonijn/vue-object-state)](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 - [vue-datatable-url-sync ![GitHub Repo stars](https://img.shields.io/github/stars/socotecio/vue-datatable-url-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/socotecio/vue-datatable-url-sync)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
+- [vue-path-store ![GitHub Repo stars](https://img.shields.io/github/stars/kouts/vue-path-store) ![GitHub last commit](https://img.shields.io/github/last-commit/kouts/vue-path-store)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
 
 ##### Redux
 
