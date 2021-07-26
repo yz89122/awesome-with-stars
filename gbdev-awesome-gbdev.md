@@ -41,6 +41,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 - [Homebrews](#homebrews)
   - [ASM](#asm-1)
   - [C](#c-1)
+  - [GB Studio](#gb-studio) 
   - [Demos](#demos)
 - [Reverse Engineering](#reverse-engineering)
   - [Game Disassemblies](#game-disassemblies)
@@ -415,6 +416,9 @@ Complete and open source games.
 - [waveform-gb ![GitHub Repo stars](https://img.shields.io/github/stars/dannye/waveform-gb) ![GitHub last commit](https://img.shields.io/github/last-commit/dannye/waveform-gb)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
 - [vectroid.gb](https://gitlab.com/BonsaiDen/vectroid.gb) - Developed with gbasm.
 - [PlantBoy ![GitHub Repo stars](https://img.shields.io/github/stars/gb-archive/plantboy) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/plantboy)](https://github.com/gb-archive/plantboy)
+- [Death Planet](https://makrill.itch.io/death-planet)
+- [Quartet](https://makrill.itch.io/quartet) - Puzzle game for the Game Boy (Color) and Super Game Boy.
+- [Dangan](https://snorpung.itch.io/dangan-gb)
 
 ### C
 
@@ -425,7 +429,7 @@ Complete and open source games.
 - [Squishy the Turtle ![GitHub Repo stars](https://img.shields.io/github/stars/cppchriscpp/SquishyTheTurtle) ![GitHub last commit](https://img.shields.io/github/last-commit/cppchriscpp/SquishyTheTurtle)](https://github.com/cppchriscpp/SquishyTheTurtle)
 - [Quadratino ![GitHub Repo stars](https://img.shields.io/github/stars/avivace/quadratino) ![GitHub last commit](https://img.shields.io/github/last-commit/avivace/quadratino)](https://github.com/avivace/quadratino)
 - [Doctor How ![GitHub Repo stars](https://img.shields.io/github/stars/elfgames/doctorhow) ![GitHub last commit](https://img.shields.io/github/last-commit/elfgames/doctorhow)](https://github.com/elfgames/doctorhow)
-- [Super Princess' 2092 Exodus ![GitHub Repo stars](https://img.shields.io/github/stars/Zal0/gbjam2016) ![GitHub last commit](https://img.shields.io/github/last-commit/Zal0/gbjam2016)](https://github.com/Zal0/gbjam2016)
+- [Super Princess' 2092 Exodus ![GitHub Repo stars](https://img.shields.io/github/stars/Zal0/gbjam2016) ![GitHub last commit](https://img.shields.io/github/last-commit/Zal0/gbjam2016)](https://github.com/Zal0/gbjam2016) - ([ZGB engine ![GitHub Repo stars](https://img.shields.io/github/stars/Zal0/ZGB) ![GitHub last commit](https://img.shields.io/github/last-commit/Zal0/ZGB)](https://github.com/Zal0/ZGB/)).
 - [GBsnake ![GitHub Repo stars](https://img.shields.io/github/stars/brovador/GBsnake) ![GitHub last commit](https://img.shields.io/github/last-commit/brovador/GBsnake)](https://github.com/brovador/GBsnake)
 - [gb-mines ![GitHub Repo stars](https://img.shields.io/github/stars/andreasjhkarlsson/gb-mines) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasjhkarlsson/gb-mines)](https://github.com/andreasjhkarlsson/gb-mines)
 - [oranges](http://www.atari2600land.com/gameboy/oranges.html)
@@ -435,7 +439,7 @@ Complete and open source games.
 - [Bubble Factory ![GitHub Repo stars](https://img.shields.io/github/stars/DonaldHays/bubblefactory) ![GitHub last commit](https://img.shields.io/github/last-commit/DonaldHays/bubblefactory)](https://github.com/DonaldHays/bubblefactory) - *Vanilla- SDCC (no gbdk).
 - [GBC Atari Boxing ![GitHub Repo stars](https://img.shields.io/github/stars/rubfi/gbc-atari-boxing) ![GitHub last commit](https://img.shields.io/github/last-commit/rubfi/gbc-atari-boxing)](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
 - [GB raycaster, Vision-8 ![GitHub Repo stars](https://img.shields.io/github/stars/haroldo-ok/really-old-stuff) ![GitHub last commit](https://img.shields.io/github/last-commit/haroldo-ok/really-old-stuff)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
-- [Tobu Tobu Girl ![GitHub Repo stars](https://img.shields.io/github/stars/SimonLarsen/tobutobugirl) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonLarsen/tobutobugirl)](https://github.com/SimonLarsen/tobutobugirl) - An arcade platformer for the Game Boy.
+- [Tobu Tobu Girl Deluxe ![GitHub Repo stars](https://img.shields.io/github/stars/SimonLarsen/tobutobugirl-dx) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonLarsen/tobutobugirl-dx)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
 - [Burly Bear vs. The Mean Foxes](http://sebastianmihai.com/main.php?t=18&) ([GBC](http://sebastianmihai.com/main.php?t=55&n=Gameboy-Color-development-Burly-Bear-vs-The-Mean-Foxes-GBC-version) port)
 - [PostBot ![GitHub Repo stars](https://img.shields.io/github/stars/MasterIV/PostBot) ![GitHub last commit](https://img.shields.io/github/last-commit/MasterIV/PostBot)](https://github.com/MasterIV/PostBot)
 - [Guns & Riders ![GitHub Repo stars](https://img.shields.io/github/stars/kanfor/gunsridersgameboy) ![GitHub last commit](https://img.shields.io/github/last-commit/kanfor/gunsridersgameboy)](https://github.com/kanfor/gunsridersgameboy)
@@ -444,6 +448,21 @@ Complete and open source games.
 - [Evoland.gb ![GitHub Repo stars](https://img.shields.io/github/stars/flozz/evoland.gb) ![GitHub last commit](https://img.shields.io/github/last-commit/flozz/evoland.gb)](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
 - [Petris ![GitHub Repo stars](https://img.shields.io/github/stars/bbbbbr/Petris) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbr/Petris)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 - [Infinity ![GitHub Repo stars](https://img.shields.io/github/stars/gb-archive/infinity-gbc) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/infinity-gbc)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
+- [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Side scrolling platformer for the Game Boy ([itch.io](https://user0x7f.itch.io/black-castle)).
+- [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Shmup for the Game Boy ([itch.io](https://user0x7f.itch.io/genesis)).
+- [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
+- [Super JetPak DX](https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html)
+- [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine ![GitHub Repo stars](https://img.shields.io/github/stars/Zal0/ZGB) ![GitHub last commit](https://img.shields.io/github/last-commit/Zal0/ZGB)](https://github.com/Zal0/ZGB/)).
+- [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine ![GitHub Repo stars](https://img.shields.io/github/stars/Zal0/ZGB) ![GitHub last commit](https://img.shields.io/github/last-commit/Zal0/ZGB)](https://github.com/Zal0/ZGB/)).
+- [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine ![GitHub Repo stars](https://img.shields.io/github/stars/Zal0/ZGB) ![GitHub last commit](https://img.shields.io/github/last-commit/Zal0/ZGB)](https://github.com/Zal0/ZGB/)).
+- [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
+- [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
+
+### GB Studio
+
+- [Soul Void](https://kadabura.itch.io/soul-void) - Interactive horror fiction.
+- [Deadeus](https://izma.itch.io/deadeus)
+- [SUPER IMPOSTOR BROS.](https://lumpytouch.itch.io/super-impostor-bros)
 
 ### Demos
 
