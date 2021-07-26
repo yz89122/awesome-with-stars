@@ -3,7 +3,6 @@
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [Penpot](https://penpot.app/): design and prototyping platform
   - [LightTable (IDE)](http://lighttable.com/)
-  - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
@@ -15,14 +14,15 @@
   - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite) ![GitHub Repo stars](https://img.shields.io/github/stars/maitria/avi) ![GitHub last commit](https://img.shields.io/github/last-commit/maitria/avi)](https://github.com/maitria/avi)
   - [Liquid (Text Editor) ![GitHub Repo stars](https://img.shields.io/github/stars/mogenslund/liquid) ![GitHub last commit](https://img.shields.io/github/last-commit/mogenslund/liquid)](https://github.com/mogenslund/liquid)
-  - [Nightlight (Text Editor) ![GitHub Repo stars](https://img.shields.io/github/stars/oakes/Nightlight) ![GitHub last commit](https://img.shields.io/github/last-commit/oakes/Nightlight)](https://github.com/oakes/Nightlight)
   - [Clojupyter ![GitHub Repo stars](https://img.shields.io/github/stars/clojupyter/clojupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/clojupyter/clojupyter)](https://github.com/clojupyter/clojupyter)
   - [meins ![GitHub Repo stars](https://img.shields.io/github/stars/matthiasn/meins) ![GitHub last commit](https://img.shields.io/github/last-commit/matthiasn/meins)](https://github.com/matthiasn/meins)
   - [Jepsen ![GitHub Repo stars](https://img.shields.io/github/stars/jepsen-io/jepsen) ![GitHub last commit](https://img.shields.io/github/last-commit/jepsen-io/jepsen)](https://github.com/jepsen-io/jepsen)
   - [Braid ![GitHub Repo stars](https://img.shields.io/github/stars/braidchat/braid) ![GitHub last commit](https://img.shields.io/github/last-commit/braidchat/braid)](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
-  - [Atea ![GitHub Repo stars](https://img.shields.io/github/stars/pkamenarsky/atea) ![GitHub last commit](https://img.shields.io/github/last-commit/pkamenarsky/atea)](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
   - [Accelerated Text ![GitHub Repo stars](https://img.shields.io/github/stars/tokenmill/accelerated-text) ![GitHub last commit](https://img.shields.io/github/last-commit/tokenmill/accelerated-text)](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
   - [Ziggurat ![GitHub Repo stars](https://img.shields.io/github/stars/gojek/ziggurat) ![GitHub last commit](https://img.shields.io/github/last-commit/gojek/ziggurat)](https://github.com/gojek/ziggurat): a framework built to simplify Stream processing on Kafka
+  - [Nightcode ![GitHub Repo stars](https://img.shields.io/github/stars/oakes/Nightcode) ![GitHub last commit](https://img.shields.io/github/last-commit/oakes/Nightcode)](https://github.com/oakes/Nightcode): An IDE for Clojure (archived)
+  - [Nightlight ![GitHub Repo stars](https://img.shields.io/github/stars/oakes/Nightlight) ![GitHub last commit](https://img.shields.io/github/last-commit/oakes/Nightlight)](https://github.com/oakes/Nightlight): text editor (archived)
+  - [Atea ![GitHub Repo stars](https://img.shields.io/github/stars/pkamenarsky/atea) ![GitHub last commit](https://img.shields.io/github/last-commit/pkamenarsky/atea)](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS (legacy, requires jvm 1.6)
 - [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
   - [Logseq ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) ![GitHub last commit](https://img.shields.io/github/last-commit/logseq/logseq)](https://github.com/logseq/logseq): knowledge management and collaboration (open frontend)
 - [Languages written with Clojure](#languages-written-with-clojure)
@@ -66,7 +66,6 @@
   - [Computer Vision](#computer-vision)
   - [Text Processing](#text-processing)
   - [Parsing](#parsing)
-  - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
   - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
@@ -94,7 +93,7 @@
   * [Hierarchical set ![GitHub Repo stars](https://img.shields.io/github/stars/llasram/hier-set) ![GitHub last commit](https://img.shields.io/github/last-commit/llasram/hier-set)](https://github.com/llasram/hier-set)
   * [Ordered ![GitHub Repo stars](https://img.shields.io/github/stars/amalloy/ordered) ![GitHub last commit](https://img.shields.io/github/last-commit/amalloy/ordered)](https://github.com/amalloy/ordered): ordered sets and maps
   * [Lazy Map ![GitHub Repo stars](https://img.shields.io/github/stars/Malabarba/lazy-map-clojure) ![GitHub last commit](https://img.shields.io/github/last-commit/Malabarba/lazy-map-clojure)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-  * [Duratom ![GitHub Repo stars](https://img.shields.io/github/stars/jimpil/duratom) ![GitHub last commit](https://img.shields.io/github/last-commit/jimpil/duratom)](https://github.com/jimpil/duratom), [enduro ![GitHub Repo stars](https://img.shields.io/github/stars/alandipert/enduro) ![GitHub last commit](https://img.shields.io/github/last-commit/alandipert/enduro)](https://github.com/alandipert/enduro), [perdure ![GitHub Repo stars](https://img.shields.io/github/stars/pesterhazy/perdure) ![GitHub last commit](https://img.shields.io/github/last-commit/pesterhazy/perdure)](https://github.com/pesterhazy/perdure): atoms persisted on disk
+  * [Duratom ![GitHub Repo stars](https://img.shields.io/github/stars/jimpil/duratom) ![GitHub last commit](https://img.shields.io/github/last-commit/jimpil/duratom)](https://github.com/jimpil/duratom): persisted atoms
   * [Durable Queue ![GitHub Repo stars](https://img.shields.io/github/stars/Factual/durable-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/Factual/durable-queue)](https://github.com/Factual/durable-queue): queue persisted on disk
   * [bifurcan ![GitHub Repo stars](https://img.shields.io/github/stars/lacuna/bifurcan) ![GitHub last commit](https://img.shields.io/github/last-commit/lacuna/bifurcan)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure ![GitHub Repo stars](https://img.shields.io/github/stars/lacuna/bifurcan) ![GitHub last commit](https://img.shields.io/github/last-commit/lacuna/bifurcan)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
@@ -103,10 +102,7 @@
 *Actually don't search rails/django here, but compose them by yourself*
   * [Compojure ![GitHub Repo stars](https://img.shields.io/github/stars/weavejester/compojure) ![GitHub last commit](https://img.shields.io/github/last-commit/weavejester/compojure)](https://github.com/weavejester/compojure)
   * [Compojure-api ![GitHub Repo stars](https://img.shields.io/github/stars/metosin/compojure-api) ![GitHub last commit](https://img.shields.io/github/last-commit/metosin/compojure-api)](https://github.com/metosin/compojure-api)
-  * [Web Non-Framework ![GitHub Repo stars](https://img.shields.io/github/stars/webnf/webnf) ![GitHub last commit](https://img.shields.io/github/last-commit/webnf/webnf)](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
-  * [Joodo ![GitHub Repo stars](https://img.shields.io/github/stars/slagyr/joodoweb) ![GitHub last commit](https://img.shields.io/github/last-commit/slagyr/joodoweb)](https://github.com/slagyr/joodoweb)
-  * [Coils ![GitHub Repo stars](https://img.shields.io/github/stars/l4u/coils) ![GitHub last commit](https://img.shields.io/github/last-commit/l4u/coils)](https://github.com/l4u/coils)
   * [Duct ![GitHub Repo stars](https://img.shields.io/github/stars/weavejester/duct) ![GitHub last commit](https://img.shields.io/github/last-commit/weavejester/duct)](https://github.com/weavejester/duct)
   * [Pedestal ![GitHub Repo stars](https://img.shields.io/github/stars/pedestal/pedestal) ![GitHub last commit](https://img.shields.io/github/last-commit/pedestal/pedestal)](https://github.com/pedestal/pedestal)
   * [Datsys ![GitHub Repo stars](https://img.shields.io/github/stars/metasoarous/datsys) ![GitHub last commit](https://img.shields.io/github/last-commit/metasoarous/datsys)](https://github.com/metasoarous/datsys)
@@ -134,8 +130,6 @@
 
   * [Leiningen ![GitHub Repo stars](https://img.shields.io/github/stars/technomancy/leiningen) ![GitHub last commit](https://img.shields.io/github/last-commit/technomancy/leiningen)](https://github.com/technomancy/leiningen)
   * [Boot ![GitHub Repo stars](https://img.shields.io/github/stars/boot-clj/boot) ![GitHub last commit](https://img.shields.io/github/last-commit/boot-clj/boot)](https://github.com/boot-clj/boot)
-  * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
-  * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
   * [clojurephant ![GitHub Repo stars](https://img.shields.io/github/stars/clojurephant/clojurephant) ![GitHub last commit](https://img.shields.io/github/last-commit/clojurephant/clojurephant)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
   * [shadow-cljs ![GitHub Repo stars](https://img.shields.io/github/stars/thheller/shadow-cljs) ![GitHub last commit](https://img.shields.io/github/last-commit/thheller/shadow-cljs)](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
@@ -143,7 +137,7 @@
 
 *Code utilities for interacting with VCS software*
 
-  * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
+  * [clj-jgit ![GitHub Repo stars](https://img.shields.io/github/stars/clj-jgit/clj-jgit) ![GitHub last commit](https://img.shields.io/github/last-commit/clj-jgit/clj-jgit)](https://github.com/clj-jgit/clj-jgit)
 
 ## Date and Time
 
@@ -156,9 +150,9 @@
 
 ## GUI
 
-  * [fx-clj ![GitHub Repo stars](https://img.shields.io/github/stars/aaronc/fx-clj) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronc/fx-clj)](https://github.com/aaronc/fx-clj)
   * [seesaw ![GitHub Repo stars](https://img.shields.io/github/stars/daveray/seesaw) ![GitHub last commit](https://img.shields.io/github/last-commit/daveray/seesaw)](https://github.com/daveray/seesaw)
   * [trikl ![GitHub Repo stars](https://img.shields.io/github/stars/lambdaisland/trikl) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdaisland/trikl)](https://github.com/lambdaisland/trikl)
+  * [fx-clj ![GitHub Repo stars](https://img.shields.io/github/stars/aaronc/fx-clj) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronc/fx-clj)](https://github.com/aaronc/fx-clj)
 
 ## Audio
 
@@ -183,19 +177,19 @@
   * [Datahike ![GitHub Repo stars](https://img.shields.io/github/stars/replikativ/datahike) ![GitHub last commit](https://img.shields.io/github/last-commit/replikativ/datahike)](https://github.com/replikativ/datahike)
   * [Datascript ![GitHub Repo stars](https://img.shields.io/github/stars/tonsky/datascript) ![GitHub last commit](https://img.shields.io/github/last-commit/tonsky/datascript)](https://github.com/tonsky/datascript)
   * [Datalevin ![GitHub Repo stars](https://img.shields.io/github/stars/juji-io/datalevin) ![GitHub last commit](https://img.shields.io/github/last-commit/juji-io/datalevin)](https://github.com/juji-io/datalevin)
-  * [Cassandra ![GitHub Repo stars](https://img.shields.io/github/stars/mpenet/alia) ![GitHub last commit](https://img.shields.io/github/last-commit/mpenet/alia)](https://github.com/mpenet/alia)
   * [next.jdbc ![GitHub Repo stars](https://img.shields.io/github/stars/seancorfield/next-jdbc) ![GitHub last commit](https://img.shields.io/github/last-commit/seancorfield/next-jdbc)](https://github.com/seancorfield/next-jdbc)
   * [clojure.java.jdbc ![GitHub Repo stars](https://img.shields.io/github/stars/clojure/java.jdbc) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/java.jdbc)](https://github.com/clojure/java.jdbc)
   * [clojure.jdbc ![GitHub Repo stars](https://img.shields.io/github/stars/funcool/clojure.jdbc) ![GitHub last commit](https://img.shields.io/github/last-commit/funcool/clojure.jdbc)](https://github.com/funcool/clojure.jdbc)
   * [cravendb ![GitHub Repo stars](https://img.shields.io/github/stars/robashton/cravendb) ![GitHub last commit](https://img.shields.io/github/last-commit/robashton/cravendb)](https://github.com/robashton/cravendb)
-  * [Mongo](http://clojuremongodb.info/)
-  * [Monglorious](https://baumandm.github.io/monglorious/)
-  * [RethinkDB ![GitHub Repo stars](https://img.shields.io/github/stars/apa512/clj-rethinkdb) ![GitHub last commit](https://img.shields.io/github/last-commit/apa512/clj-rethinkdb)](https://github.com/apa512/clj-rethinkdb)
-  * [Revise (RethinkDB) ![GitHub Repo stars](https://img.shields.io/github/stars/bitemyapp/revise) ![GitHub last commit](https://img.shields.io/github/last-commit/bitemyapp/revise)](https://github.com/bitemyapp/revise)
-  * [Spandex (ElasticSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/mpenet/spandex) ![GitHub last commit](https://img.shields.io/github/last-commit/mpenet/spandex)](https://github.com/mpenet/spandex)
-  * [Elastisch](http://clojureelasticsearch.info/)
-  * [Neo4j](http://clojureneo4j.info/)
-  * [Aerospike ![GitHub Repo stars](https://img.shields.io/github/stars/AppsFlyer/aerospike-clj) ![GitHub last commit](https://img.shields.io/github/last-commit/AppsFlyer/aerospike-clj)](https://github.com/AppsFlyer/aerospike-clj)
+  * [Monger](http://clojuremongodb.info/): for MongoDB
+  * [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
+  * [clj-rethinkdb ![GitHub Repo stars](https://img.shields.io/github/stars/apa512/clj-rethinkdb) ![GitHub last commit](https://img.shields.io/github/last-commit/apa512/clj-rethinkdb)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
+  * [Revise ![GitHub Repo stars](https://img.shields.io/github/stars/bitemyapp/revise) ![GitHub last commit](https://img.shields.io/github/last-commit/bitemyapp/revise)](https://github.com/bitemyapp/revise): for RethinkDB
+  * [Spandex ![GitHub Repo stars](https://img.shields.io/github/stars/mpenet/spandex) ![GitHub last commit](https://img.shields.io/github/last-commit/mpenet/spandex)](https://github.com/mpenet/spandex): for ElasticSearch
+  * [Elastisch](http://clojureelasticsearch.info/): for ElasticSearch
+  * [neocons](http://clojureneo4j.info/): for Neo4j
+  * [Alia ![GitHub Repo stars](https://img.shields.io/github/stars/mpenet/alia) ![GitHub last commit](https://img.shields.io/github/last-commit/mpenet/alia)](https://github.com/mpenet/alia): for Cassandra
+  * [aerospike-clj ![GitHub Repo stars](https://img.shields.io/github/stars/AppsFlyer/aerospike-clj) ![GitHub last commit](https://img.shields.io/github/last-commit/AppsFlyer/aerospike-clj)](https://github.com/AppsFlyer/aerospike-clj): for Aerospike
 
 ## Connection pools
 
@@ -245,8 +239,8 @@
   * [Buddy ![GitHub Repo stars](https://img.shields.io/github/stars/funcool/buddy) ![GitHub last commit](https://img.shields.io/github/last-commit/funcool/buddy)](https://github.com/funcool/buddy)
   * [caesium ![GitHub Repo stars](https://img.shields.io/github/stars/lvh/caesium) ![GitHub last commit](https://img.shields.io/github/last-commit/lvh/caesium)](https://github.com/lvh/caesium) (libsodium bindings)
   * [Friend ![GitHub Repo stars](https://img.shields.io/github/stars/cemerick/friend) ![GitHub last commit](https://img.shields.io/github/last-commit/cemerick/friend)](https://github.com/cemerick/friend)
-  * [bolt ![GitHub Repo stars](https://img.shields.io/github/stars/juxt/bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/bolt)](https://github.com/juxt/bolt)
   * [secrets.clj ![GitHub Repo stars](https://img.shields.io/github/stars/lk-geimfari/secrets.clj) ![GitHub last commit](https://img.shields.io/github/last-commit/lk-geimfari/secrets.clj)](https://github.com/lk-geimfari/secrets.clj)
+  * [bolt ![GitHub Repo stars](https://img.shields.io/github/stars/juxt/bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/bolt)](https://github.com/juxt/bolt)
 
 ## RESTful API
 
@@ -284,11 +278,11 @@
 
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema ![GitHub Repo stars](https://img.shields.io/github/stars/plumatic/schema) ![GitHub last commit](https://img.shields.io/github/last-commit/plumatic/schema)](https://github.com/plumatic/schema)
-  * [domaintypes ![GitHub Repo stars](https://img.shields.io/github/stars/friemen/domaintypes) ![GitHub last commit](https://img.shields.io/github/last-commit/friemen/domaintypes)](https://github.com/friemen/domaintypes)
   * [Bouncer ![GitHub Repo stars](https://img.shields.io/github/stars/leonardoborges/bouncer) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardoborges/bouncer)](https://github.com/leonardoborges/bouncer)
   * [clova ![GitHub Repo stars](https://img.shields.io/github/stars/markwoodhall/clova) ![GitHub last commit](https://img.shields.io/github/last-commit/markwoodhall/clova)](https://github.com/markwoodhall/clova)
   * [Orchestra ![GitHub Repo stars](https://img.shields.io/github/stars/jeaye/orchestra) ![GitHub last commit](https://img.shields.io/github/last-commit/jeaye/orchestra)](https://github.com/jeaye/orchestra)
   * [struct ![GitHub Repo stars](https://img.shields.io/github/stars/funcool/struct) ![GitHub last commit](https://img.shields.io/github/last-commit/funcool/struct)](https://github.com/funcool/struct)
+  * [domaintypes ![GitHub Repo stars](https://img.shields.io/github/stars/friemen/domaintypes) ![GitHub last commit](https://img.shields.io/github/last-commit/friemen/domaintypes)](https://github.com/friemen/domaintypes)
 
 ## Type System
 *Optional type system for Clojure*
@@ -298,11 +292,11 @@
 ## Pattern Matching
 
   * [core.match ![GitHub Repo stars](https://img.shields.io/github/stars/clojure/core.match) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/core.match)](https://github.com/clojure/core.match)
-  * [Verbal-Exprejon ![GitHub Repo stars](https://img.shields.io/github/stars/GuillaumeBadi/Verbal-Exprejon) ![GitHub last commit](https://img.shields.io/github/last-commit/GuillaumeBadi/Verbal-Exprejon)](https://github.com/GuillaumeBadi/Verbal-Exprejon)
   * [defun ![GitHub Repo stars](https://img.shields.io/github/stars/killme2008/defun) ![GitHub last commit](https://img.shields.io/github/last-commit/killme2008/defun)](https://github.com/killme2008/defun)
   * [cats.match ![GitHub Repo stars](https://img.shields.io/github/stars/zalando/cats.match) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/cats.match)](https://github.com/zalando/cats.match)
   * [Akar ![GitHub Repo stars](https://img.shields.io/github/stars/missingfaktor/akar) ![GitHub last commit](https://img.shields.io/github/last-commit/missingfaktor/akar)](https://github.com/missingfaktor/akar)
   * [Meander ![GitHub Repo stars](https://img.shields.io/github/stars/noprompt/meander) ![GitHub last commit](https://img.shields.io/github/last-commit/noprompt/meander)](https://github.com/noprompt/meander)
+  * [Verbal-Exprejon ![GitHub Repo stars](https://img.shields.io/github/stars/WeshGuillaume/Verbal-Exprejon) ![GitHub last commit](https://img.shields.io/github/last-commit/WeshGuillaume/Verbal-Exprejon)](https://github.com/WeshGuillaume/Verbal-Exprejon)
 
 ## Async processing
 
@@ -326,7 +320,6 @@
 
   * [Expectations ![GitHub Repo stars](https://img.shields.io/github/stars/clojure-expectations/expectations) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure-expectations/expectations)](https://github.com/clojure-expectations/expectations)
   * [Midje ![GitHub Repo stars](https://img.shields.io/github/stars/marick/Midje) ![GitHub last commit](https://img.shields.io/github/last-commit/marick/Midje)](https://github.com/marick/Midje)
-  * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
   * [test-doubles ![GitHub Repo stars](https://img.shields.io/github/stars/GreenPowerMonitor/test-doubles) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenPowerMonitor/test-doubles)](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha ![GitHub Repo stars](https://img.shields.io/github/stars/lambdaisland/kaocha) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdaisland/kaocha)](https://github.com/lambdaisland/kaocha)
 
@@ -339,7 +332,6 @@
   * [Slamhound ![GitHub Repo stars](https://img.shields.io/github/stars/technomancy/slamhound) ![GitHub last commit](https://img.shields.io/github/last-commit/technomancy/slamhound)](https://github.com/technomancy/slamhound)
   * [eastwood ![GitHub Repo stars](https://img.shields.io/github/stars/jonase/eastwood) ![GitHub last commit](https://img.shields.io/github/last-commit/jonase/eastwood)](https://github.com/jonase/eastwood)
   * [kibit ![GitHub Repo stars](https://img.shields.io/github/stars/jonase/kibit) ![GitHub last commit](https://img.shields.io/github/last-commit/jonase/kibit)](https://github.com/jonase/kibit)
-  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
   * [yagni ![GitHub Repo stars](https://img.shields.io/github/stars/venantius/yagni) ![GitHub last commit](https://img.shields.io/github/last-commit/venantius/yagni)](https://github.com/venantius/yagni)
   * [lein-bikeshed ![GitHub Repo stars](https://img.shields.io/github/stars/dakrone/lein-bikeshed) ![GitHub last commit](https://img.shields.io/github/last-commit/dakrone/lein-bikeshed)](https://github.com/dakrone/lein-bikeshed)
   * [spectrum ![GitHub Repo stars](https://img.shields.io/github/stars/arohner/spectrum) ![GitHub last commit](https://img.shields.io/github/last-commit/arohner/spectrum)](https://github.com/arohner/spectrum)
@@ -357,7 +349,6 @@ anylysis and visualization.*
   * [sparklling ![GitHub Repo stars](https://img.shields.io/github/stars/gorillalabs/sparkling) ![GitHub last commit](https://img.shields.io/github/last-commit/gorillalabs/sparkling)](https://github.com/gorillalabs/sparkling)
   * [flambo ![GitHub Repo stars](https://img.shields.io/github/stars/yieldbot/flambo) ![GitHub last commit](https://img.shields.io/github/last-commit/yieldbot/flambo)](https://github.com/yieldbot/flambo)
   * [Neanderthal ![GitHub Repo stars](https://img.shields.io/github/stars/uncomplicate/neanderthal) ![GitHub last commit](https://img.shields.io/github/last-commit/uncomplicate/neanderthal)](https://github.com/uncomplicate/neanderthal)
-  * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms ![GitHub Repo stars](https://img.shields.io/github/stars/bigmlcom/histogram) ![GitHub last commit](https://img.shields.io/github/last-commit/bigmlcom/histogram)](https://github.com/bigmlcom/histogram)
   * [Gorilla REPL](http://gorilla-repl.org/)  
   * [Bayadera - Bayesian Data Analysis on the GPU ![GitHub Repo stars](https://img.shields.io/github/stars/uncomplicate/bayadera) ![GitHub last commit](https://img.shields.io/github/last-commit/uncomplicate/bayadera)](https://github.com/uncomplicate/bayadera)
@@ -368,25 +359,30 @@ anylysis and visualization.*
 
 ## Machine Learning
 
-  * [clj-ml ![GitHub Repo stars](https://img.shields.io/github/stars/antoniogarrote/clj-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniogarrote/clj-ml)](https://github.com/antoniogarrote/clj-ml)
+  * [neanderthal ![GitHub Repo stars](https://img.shields.io/github/stars/uncomplicate/neanderthal) ![GitHub last commit](https://img.shields.io/github/last-commit/uncomplicate/neanderthal)](https://github.com/uncomplicate/neanderthal): fast matrix library
+  * [clojurecuda ![GitHub Repo stars](https://img.shields.io/github/stars/uncomplicate/clojurecuda) ![GitHub last commit](https://img.shields.io/github/last-commit/uncomplicate/clojurecuda)](https://github.com/uncomplicate/clojurecuda)
+  * [clojurecl ![GitHub Repo stars](https://img.shields.io/github/stars/uncomplicate/clojurecl) ![GitHub last commit](https://img.shields.io/github/last-commit/uncomplicate/clojurecl)](https://github.com/uncomplicate/clojurecl)
+  * [bayadera ![GitHub Repo stars](https://img.shields.io/github/stars/uncomplicate/bayadera) ![GitHub last commit](https://img.shields.io/github/last-commit/uncomplicate/bayadera)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
   * [cortex ![GitHub Repo stars](https://img.shields.io/github/stars/originrose/cortex) ![GitHub last commit](https://img.shields.io/github/last-commit/originrose/cortex)](https://github.com/originrose/cortex)
+  * [Flare ![GitHub Repo stars](https://img.shields.io/github/stars/aria42/flare) ![GitHub last commit](https://img.shields.io/github/last-commit/aria42/flare)](https://github.com/aria42/flare)
+  * [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
   * [clj-bigml ![GitHub Repo stars](https://img.shields.io/github/stars/bigmlcom/clj-bigml) ![GitHub last commit](https://img.shields.io/github/last-commit/bigmlcom/clj-bigml)](https://github.com/bigmlcom/clj-bigml)
-  * [Clatern ![GitHub Repo stars](https://img.shields.io/github/stars/rinuboney/clatern) ![GitHub last commit](https://img.shields.io/github/last-commit/rinuboney/clatern)](https://github.com/rinuboney/clatern)
   * [Deeplearning4j ![GitHub Repo stars](https://img.shields.io/github/stars/deeplearning4j/deeplearning4j) ![GitHub last commit](https://img.shields.io/github/last-commit/deeplearning4j/deeplearning4j)](https://github.com/deeplearning4j/deeplearning4j)
   * [Enclog ![GitHub Repo stars](https://img.shields.io/github/stars/jimpil/enclog) ![GitHub last commit](https://img.shields.io/github/last-commit/jimpil/enclog)](https://github.com/jimpil/enclog)
-  * [Infer ![GitHub Repo stars](https://img.shields.io/github/stars/aria42/infer) ![GitHub last commit](https://img.shields.io/github/last-commit/aria42/infer)](https://github.com/aria42/infer)
-  * [k9 ![GitHub Repo stars](https://img.shields.io/github/stars/gigasquid/k9) ![GitHub last commit](https://img.shields.io/github/last-commit/gigasquid/k9)](https://github.com/gigasquid/k9)
   * [lambda-ml ![GitHub Repo stars](https://img.shields.io/github/stars/cloudkj/lambda-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudkj/lambda-ml)](https://github.com/cloudkj/lambda-ml)
-  * [Statistiker ![GitHub Repo stars](https://img.shields.io/github/stars/clojurewerkz/statistiker) ![GitHub last commit](https://img.shields.io/github/last-commit/clojurewerkz/statistiker)](https://github.com/clojurewerkz/statistiker)
-  * [Synaptic ![GitHub Repo stars](https://img.shields.io/github/stars/japonophile/synaptic) ![GitHub last commit](https://img.shields.io/github/last-commit/japonophile/synaptic)](https://github.com/japonophile/synaptic)
   * [clojure-tensorflow ![GitHub Repo stars](https://img.shields.io/github/stars/kieranbrowne/clojure-tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/kieranbrowne/clojure-tensorflow)](https://github.com/kieranbrowne/clojure-tensorflow)
   * [dl4clj (deeplearning4j to clojure) ![GitHub Repo stars](https://img.shields.io/github/stars/yetanalytics/dl4clj) ![GitHub last commit](https://img.shields.io/github/last-commit/yetanalytics/dl4clj)](https://github.com/yetanalytics/dl4clj)
   * [Anglican](https://probprog.github.io/anglican/)
-  * [Flare ![GitHub Repo stars](https://img.shields.io/github/stars/aria42/flare) ![GitHub last commit](https://img.shields.io/github/last-commit/aria42/flare)](https://github.com/aria42/flare)
-  * [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
+  * [clj-ml ![GitHub Repo stars](https://img.shields.io/github/stars/antoniogarrote/clj-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniogarrote/clj-ml)](https://github.com/antoniogarrote/clj-ml)
+  * [Clatern ![GitHub Repo stars](https://img.shields.io/github/stars/rinuboney/clatern) ![GitHub last commit](https://img.shields.io/github/last-commit/rinuboney/clatern)](https://github.com/rinuboney/clatern)
+  * [k9 ![GitHub Repo stars](https://img.shields.io/github/stars/gigasquid/k9) ![GitHub last commit](https://img.shields.io/github/last-commit/gigasquid/k9)](https://github.com/gigasquid/k9)
+  * [Statistiker ![GitHub Repo stars](https://img.shields.io/github/stars/clojurewerkz/statistiker) ![GitHub last commit](https://img.shields.io/github/last-commit/clojurewerkz/statistiker)](https://github.com/clojurewerkz/statistiker)
+  * [Synaptic ![GitHub Repo stars](https://img.shields.io/github/stars/japonophile/synaptic) ![GitHub last commit](https://img.shields.io/github/last-commit/japonophile/synaptic)](https://github.com/japonophile/synaptic)
+  * [Infer ![GitHub Repo stars](https://img.shields.io/github/stars/aria42/infer) ![GitHub last commit](https://img.shields.io/github/last-commit/aria42/infer)](https://github.com/aria42/infer)
 
 ## Computer Vision
 
+  * [origami ![GitHub Repo stars](https://img.shields.io/github/stars/hellonico/origami) ![GitHub last commit](https://img.shields.io/github/last-commit/hellonico/origami)](https://github.com/hellonico/origami): OpenCV 4 wrapper
   * [clj-tesseract ![GitHub Repo stars](https://img.shields.io/github/stars/antoniogarrote/clj-tesseract) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniogarrote/clj-tesseract)](https://github.com/antoniogarrote/clj-tesseract)
   * [vision](http://nakkaya.com/vision.html)
 
@@ -408,13 +404,6 @@ anylysis and visualization.*
   * [Ex ![GitHub Repo stars](https://img.shields.io/github/stars/mpenet/ex) ![GitHub last commit](https://img.shields.io/github/last-commit/mpenet/ex)](https://github.com/mpenet/ex)
   * [Perseverance ![GitHub Repo stars](https://img.shields.io/github/stars/grammarly/perseverance) ![GitHub last commit](https://img.shields.io/github/last-commit/grammarly/perseverance)](https://github.com/grammarly/perseverance)
   * [Dire ![GitHub Repo stars](https://img.shields.io/github/stars/MichaelDrogalis/dire) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelDrogalis/dire)](https://github.com/MichaelDrogalis/dire)
-  
-## Reflection
-*Libraries for improved code reflection and object introspection
-
-  * [hara.reflect](docs.caudate.me/hara/hara-reflect.html)
-  * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
-  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
 
 ## Rule-based Programming
   * [Clara Rules ![GitHub Repo stars](https://img.shields.io/github/stars/cerner/clara-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/cerner/clara-rules)](https://github.com/cerner/clara-rules)
@@ -441,12 +430,13 @@ anylysis and visualization.*
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode) ![GitHub Repo stars](https://img.shields.io/github/stars/avli/clojureVSCode) ![GitHub last commit](https://img.shields.io/github/last-commit/avli/clojureVSCode)](https://github.com/avli/clojureVSCode)
+  * [Notepad++ ![GitHub Repo stars](https://img.shields.io/github/stars/linpengcheng/ClojureBoxNpp) ![GitHub last commit](https://img.shields.io/github/last-commit/linpengcheng/ClojureBoxNpp)](https://github.com/linpengcheng/ClojureBoxNpp): modified config files of Lisp
 
 ## Documentation
 
 *Utilities and libraries for (non-LP) code and project documentation*
 
- * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
+ * [codox ![GitHub Repo stars](https://img.shields.io/github/stars/weavejester/codox) ![GitHub last commit](https://img.shields.io/github/last-commit/weavejester/codox)](https://github.com/weavejester/codox)
 
 ## Literate Programming
 
@@ -462,7 +452,6 @@ anylysis and visualization.*
  * [potemkin ![GitHub Repo stars](https://img.shields.io/github/stars/ztellman/potemkin) ![GitHub last commit](https://img.shields.io/github/last-commit/ztellman/potemkin)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
  * [clj-tuple ![GitHub Repo stars](https://img.shields.io/github/stars/ztellman/clj-tuple) ![GitHub last commit](https://img.shields.io/github/last-commit/ztellman/clj-tuple)](https://github.com/ztellman/clj-tuple)
  * [slingshot ![GitHub Repo stars](https://img.shields.io/github/stars/scgilardi/slingshot) ![GitHub last commit](https://img.shields.io/github/last-commit/scgilardi/slingshot)](https://github.com/scgilardi/slingshot)
- * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
  * [virgil ![GitHub Repo stars](https://img.shields.io/github/stars/ztellman/virgil) ![GitHub last commit](https://img.shields.io/github/last-commit/ztellman/virgil)](https://github.com/ztellman/virgil)
  * [javastar ![GitHub Repo stars](https://img.shields.io/github/stars/tailrecursion/javastar) ![GitHub last commit](https://img.shields.io/github/last-commit/tailrecursion/javastar)](https://github.com/tailrecursion/javastar)
  * [riddley ![GitHub Repo stars](https://img.shields.io/github/stars/ztellman/riddley) ![GitHub last commit](https://img.shields.io/github/last-commit/ztellman/riddley)](https://github.com/ztellman/riddley)
@@ -495,7 +484,7 @@ anylysis and visualization.*
 
 ## Terminal UI
 
-  * [clojure-lanterna](https://sjl.bitbucket.io/clojure-lanterna/)
+  * [clojure-lanterna ![GitHub Repo stars](https://img.shields.io/github/stars/MultiMUD/clojure-lanterna) ![GitHub last commit](https://img.shields.io/github/last-commit/MultiMUD/clojure-lanterna)](https://github.com/MultiMUD/clojure-lanterna)
   * [triki ![GitHub Repo stars](https://img.shields.io/github/stars/lambdaisland/trikl) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdaisland/trikl)](https://github.com/lambdaisland/trikl)
   * [zaffre ![GitHub Repo stars](https://img.shields.io/github/stars/aaron-santos/zaffre) ![GitHub last commit](https://img.shields.io/github/last-commit/aaron-santos/zaffre)](https://github.com/aaron-santos/zaffre)
   * [closh ![GitHub Repo stars](https://img.shields.io/github/stars/dundalek/closh) ![GitHub last commit](https://img.shields.io/github/last-commit/dundalek/closh)](https://github.com/dundalek/closh)
@@ -545,10 +534,8 @@ anylysis and visualization.*
 
 ## Exercises
 
+  * [rich4clojure ![GitHub Repo stars](https://img.shields.io/github/stars/PEZ/rich4clojure) ![GitHub last commit](https://img.shields.io/github/last-commit/PEZ/rich4clojure)](https://github.com/PEZ/rich4clojure)
   * [Clojure Koans](http://clojurekoans.com)
-  * [Wonderland Clojure Katas ![GitHub Repo stars](https://img.shields.io/github/stars/gigasquid/wonderland-clojure-katas) ![GitHub last commit](https://img.shields.io/github/last-commit/gigasquid/wonderland-clojure-katas)](https://github.com/gigasquid/wonderland-clojure-katas)
   * [Clojure Katas](http://clojurekatas.org)
-  * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
-  * [Clojurecademy](https://clojurecademy.com)
   * [Codewars](https://www.codewars.com/kata/search/clojure)
