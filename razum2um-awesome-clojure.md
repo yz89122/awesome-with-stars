@@ -456,6 +456,7 @@ anylysis and visualization.*
  * [javastar ![GitHub Repo stars](https://img.shields.io/github/stars/tailrecursion/javastar) ![GitHub last commit](https://img.shields.io/github/last-commit/tailrecursion/javastar)](https://github.com/tailrecursion/javastar)
  * [riddley ![GitHub Repo stars](https://img.shields.io/github/stars/ztellman/riddley) ![GitHub last commit](https://img.shields.io/github/last-commit/ztellman/riddley)](https://github.com/ztellman/riddley)
  * [kezban ![GitHub Repo stars](https://img.shields.io/github/stars/ertugrulcetin/kezban) ![GitHub last commit](https://img.shields.io/github/last-commit/ertugrulcetin/kezban)](https://github.com/ertugrulcetin/kezban)
+ * [clj-grpc ![GitHub Repo stars](https://img.shields.io/github/stars/otwieracz/clj-grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/otwieracz/clj-grpc)](https://github.com/otwieracz/clj-grpc)
 
 ## Debugging
 
