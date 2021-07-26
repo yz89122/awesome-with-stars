@@ -197,7 +197,7 @@ Table of Contents
   * [Disease.sh](https://disease.sh/) — A free API providing accurate data for building the Covid-19 related useful Apps.
   * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, MATLAB and others.
   * [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
-  * [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.  
+  * [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
   * [FreeGeoIP.app](https://freegeoip.app/) - Completely free Geo IP information (JSON, CSV, XML). No registration required, 15000 queries per hour rate limit.
@@ -279,7 +279,7 @@ Table of Contents
  * [cloudrepo.io](https://cloudrepo.io) - Cloud based, private and public, Maven and PyPi repositories. Free for open source projects.
  * [cloudsmith.io](https://cloudsmith.io) — Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
- * [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
+ * [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) ��� Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
  * [repsy.io](https://repsy.io) — 1 GB Free private/public Maven Repository.
 
 **[⬆ back to top](#table-of-contents)**
@@ -916,7 +916,6 @@ Table of Contents
   * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
   * [fosshost.org](https://fosshost.org/) - Free open source hosting VPS, web, storage and mirror hosting
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting. Also provide free subdomain based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from "Subdomains" menu after signing up.
-  * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [luadns.com](https://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
   * [nextdns.io](https://nextdns.io) - DNS based firewall, 300K free queries monthly
@@ -1154,7 +1153,7 @@ Table of Contents
    * [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
    * [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
    * [mapbox.com](https://www.mapbox.com/) — Maps, geospatial services and SDKs for displaying map data.
-   * [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
+   * [maptiler.com](https://www.maptiler.com/cloud/) ��� Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
    * [opencagedata.com](https://opencagedata.com) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day.
    * [osmnames](https://osmnames.org/) — Geocoding, search results ranked by the popularity of related Wikipedia page.
    * [positionstack](https://positionstack.com/) - Free geocoding for global places and coordinates. 25.000 Requests per month for personal use.
@@ -1168,7 +1167,7 @@ Table of Contents
 
    * [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc).
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
-   * [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
+   * [help.launchpad.net](https://help.launchpad.net/Packaging) ��� Ubuntu and Debian build service.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1254,7 +1253,7 @@ Table of Contents
 
    * [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking
    * [LogRocket.com](https://www.logrocket.com) - 1,000 sessions/month with 30 day retention, error tracking, live mode
-   * [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
+   * [FullStory.com](https://www.fullstory.com) ��� 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
    * [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
    * [livesession.io](https://livesession.io/) — 1,000 sessions/month free for 1 website
@@ -1333,7 +1332,7 @@ Table of Contents
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 250 reqs/day every day free.
   * [ScreenshotAPI.net](https://screenshotapi.net/) - Screenshot API use one simple API call to generate screenshots of any website. Build to scale and hosted on Google Cloud. Offers 100 free screenshots per month.
   * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
-  * [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
+  * [screenshotmachine.com](https://www.screenshotmachine.com/) ��� Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
   * [PhantomJsCloud](https://PhantomJsCloud.com) — Browser automation and page rendering.  Free Tier offers up to 500 pages/day.  Free Tier since 2017.
   * [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
 
@@ -1392,7 +1391,7 @@ Table of Contents
 
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
-  * [pp.ua](https://nic.ua/) — Free pp.ua domain. 
+  * [pp.ua](https://nic.ua/) — Free pp.ua domain.
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev ![GitHub Repo stars](https://img.shields.io/github/stars/tvvocold/FOSS-for-Dev) ![GitHub last commit](https://img.shields.io/github/last-commit/tvvocold/FOSS-for-Dev)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
