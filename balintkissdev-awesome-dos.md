@@ -2,7 +2,7 @@
 
 Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
-[<img src="https://github.com/balintkissdev/awesome-dos/raw/master/logo.svg" align="right" width="100"> ![GitHub Repo stars](https://img.shields.io/github/stars/balintkissdev/awesome-dos) ![GitHub last commit](https://img.shields.io/github/last-commit/balintkissdev/awesome-dos)](https://github.com/balintkissdev/awesome-dos)
+[<img src="https://github.com/balintkissdev/awesome-dos/raw/main/logo.svg" align="right" width="100"> ![GitHub Repo stars](https://img.shields.io/github/stars/balintkissdev/awesome-dos) ![GitHub last commit](https://img.shields.io/github/last-commit/balintkissdev/awesome-dos)](https://github.com/balintkissdev/awesome-dos)
 
 A curated list of references for development of DOS applications and learning about the system itself. This includes
 list of compilers, tutorials, videos, links to free and paid books and source code to DOS games. The goal of this list
