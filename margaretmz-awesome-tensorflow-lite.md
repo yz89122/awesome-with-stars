@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/margaretmz/awesome-tensorflow-lite/raw/main/images/awesome-tflite.png" alt="awesome tflite" width="500">
+    <img src="https://github.com/margaretmz/awesome-tensorflow-lite/raw/master/images/awesome-tflite.png" alt="awesome tflite" width="500">
 </p>
 
 # Awesome TensorFlow Lite [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter](https://img.shields.io/badge/Twitter-%40margaretmz-blue)](https://twitter.com/margaretmz)
@@ -34,7 +34,7 @@ Please submit a PR if you would like to contribute and follow the guidelines [he
   * [MOOCs](#moocs)
 
 ## What is new
-Here are the new features and tools of TensorFlow Lite: <img src="https://github.com/margaretmz/awesome-tensorflow-lite/raw/main/images/icons/new.png" width='32' height='32'/>
+Here are the new features and tools of TensorFlow Lite: <img src="https://github.com/margaretmz/awesome-tensorflow-lite/raw/master/images/icons/new.png" width='32' height='32'/>
 * [Announcement of the new converter](https://groups.google.com/a/tensorflow.org/d/msg/tflite/Z_h7706dt8Q/sNrjPj4yGgAJ) - [MLIR](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)-based and enables conversion of new classes of models such as Mask R-CNN and Mobile BERT etc., supports functional control flow and better error handling during conversion. Enabled by default in the nightly builds\.
 * [Android Support Library ![GitHub Repo stars](https://img.shields.io/github/stars/tensorflow/tflite-support) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tflite-support)](https://github.com/tensorflow/tflite-support/tree/master/tensorflow_lite_support/java) - Makes mobile development easier ([Android ![GitHub Repo stars](https://img.shields.io/github/stars/tensorflow/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/examples)](https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/EXPLORE_THE_CODE.md) sample code).
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - Create your custom [image & text ![GitHub Repo stars](https://img.shields.io/github/stars/tensorflow/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/examples)](https://github.com/tensorflow/examples/tree/master/tensorflow_examples/lite/model_maker) classification models easily in a few lines of code. See below the Icon Classifier for a tutorial by the community.
