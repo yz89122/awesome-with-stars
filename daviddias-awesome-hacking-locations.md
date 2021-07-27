@@ -1025,7 +1025,7 @@ Webpage: http://copenhagencoffeelab.com/cafe-at-rua-nova-da-piedade/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ��� | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
+✔ | ✘ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
 
 ![](http://www.speedtest.net/result/6156014466.png)
 
@@ -1813,7 +1813,7 @@ Webpage: http://www.diesel-cafe.com/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-paying | �� | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
+paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
 
 Notes:
 * Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
