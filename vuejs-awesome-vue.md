@@ -1058,7 +1058,7 @@
 - [Remote-Access-SSH ![GitHub Repo stars](https://img.shields.io/github/stars/mritunjaygoutam12/Remote-host) ![GitHub last commit](https://img.shields.io/github/last-commit/mritunjaygoutam12/Remote-host)](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
 - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
-- [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
+- [前站导航](https://www.frontendjs.com/) - 前��社区、文档收录.
 - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
 - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces.
 - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
@@ -3034,7 +3034,7 @@ _Utilities for building / compiling / bundling / loading assets_
 
 #### Page Navigation
 
-- [vue-navigation ![GitHub Repo stars](https://img.shields.io/github/stars/zack24q/vue-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/zack24q/vue-navigation)](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生 APP 导航一样。
+- [vue-navigation ![GitHub Repo stars](https://img.shields.io/github/stars/zack24q/vue-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/zack24q/vue-navigation)](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库���记录路由并缓存页面，像原生 APP 导航一样。
 - [vue-acl ![GitHub Repo stars](https://img.shields.io/github/stars/leonardovilarinho/vue-acl) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardovilarinho/vue-acl)](https://github.com/leonardovilarinho/vue-acl) - Access Control List for VueJS 2.
 - [vue-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/samturrell/vue-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/samturrell/vue-breadcrumbs)](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
 - [vue-2-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/Scrum/vue-2-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/Scrum/vue-2-breadcrumbs)](https://github.com/Scrum/vue-2-breadcrumbs) - breadcrumb together with vue-router for Vue 2.x. and Bootstrap 4
