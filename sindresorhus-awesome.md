@@ -637,6 +637,7 @@
 - [Social Enterprise ![GitHub Repo stars](https://img.shields.io/github/stars/RayBB/awesome-social-enterprise) ![GitHub last commit](https://img.shields.io/github/last-commit/RayBB/awesome-social-enterprise)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management ![GitHub Repo stars](https://img.shields.io/github/stars/kdeldycke/awesome-engineering-team-management) ![GitHub last commit](https://img.shields.io/github/last-commit/kdeldycke/awesome-engineering-team-management)](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products ![GitHub Repo stars](https://img.shields.io/github/stars/agamm/awesome-developer-first) ![GitHub last commit](https://img.shields.io/github/last-commit/agamm/awesome-developer-first)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+- [Billing ![GitHub Repo stars](https://img.shields.io/github/stars/kdeldycke/awesome-billing) ![GitHub last commit](https://img.shields.io/github/last-commit/kdeldycke/awesome-billing)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ## Work
 
