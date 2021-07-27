@@ -21,6 +21,17 @@
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=cb69fd0adee157160dd0964fd438c7a8a43e4b32">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -28,7 +39,7 @@
       <h1><a href="https://yz89122.github.io/awesome-with-stars/">awesome-with-stars</a></h1>
       
 
-      <h1 id="awesome-rust-">Awesome Rust <a href="https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml"><img src="https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=master" alt="build badge ![GitHub Repo stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)" referrerpolicy="no-referrer" loading="lazy"></a>
+      <h1 id="awesome-rust--">Awesome Rust <a href="https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml"><img src="https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=master" alt="build badge ![GitHub Repo stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://www.trackawesomelist.com/rust-unofficial/awesome-rust/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" referrerpolicy="no-referrer" loading="lazy"></a>
 </h1>
 
 <p>A curated list of Rust code and resources.</p>
@@ -106,6 +117,7 @@
       <li><a href="#cryptography">Cryptography</a></li>
       <li><a href="#database-1">Database</a></li>
       <li><a href="#data-processing">Data processing</a></li>
+      <li><a href="#data-streaming">Data streaming</a></li>
       <li><a href="#data-structures">Data structures</a></li>
       <li><a href="#data-visualization">Data visualization</a></li>
       <li><a href="#date-and-time">Date and time</a></li>
@@ -287,6 +299,9 @@
 <a href="https://github.com/Limeth/ethaddrgen">ethaddrgen <img src="https://img.shields.io/github/stars/Limeth/ethaddrgen" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Limeth/ethaddrgen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Custom Ethereum vanity address generator made in Rust <a href="https://travis-ci.org/Limeth/ethaddrgen"><img src="https://api.travis-ci.org/Limeth/ethaddrgen.svg?branch=master" alt="build badge" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
   <li>
+<a href="https://github.com/ChainSafe/forest">Forest <img src="https://img.shields.io/github/stars/ChainSafe/forest" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ChainSafe/forest" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Rust Filecoin implementation <a href="https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main"><img src="https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master" alt="Build Status" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
 <a href="https://github.com/mimblewimble/grin/">Grin <img src="https://img.shields.io/github/stars/mimblewimble/grin" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mimblewimble/grin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Evolution of the MimbleWimble protocol</li>
   <li>
 <a href="https://github.com/jjyr/hdwallet">hdwallet <img src="https://img.shields.io/github/stars/jjyr/hdwallet" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jjyr/hdwallet" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — BIP-32 HD wallet related key derivation utilities.</li>
@@ -329,6 +344,8 @@
 </li>
   <li>
 <a href="https://github.com/input-output-hk/rust-cardano">rust-cardano <img src="https://img.shields.io/github/stars/input-output-hk/rust-cardano" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/input-output-hk/rust-cardano" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Rust implementation of Cardano primitives, helpers, and related applications</li>
+  <li>
+<a href="https://github.com/solana-labs/solana">Solana <img src="https://img.shields.io/github/stars/solana-labs/solana" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/solana-labs/solana" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Incredibly fast, highly scalable blockchain using Proof-of-History.</li>
   <li>
 <a href="https://github.com/paritytech/substrate">Substrate <img src="https://img.shields.io/github/stars/paritytech/substrate" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/paritytech/substrate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Generic modular blockchain template written in Rust</li>
   <li>
@@ -571,6 +588,8 @@
   <li>
 <a href="https://crates.io/crates/opentelemetry">OpenTelemetry</a> — OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools. <a href="https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster"><img src="https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master" alt="GitHub Actions CI ![GitHub Repo stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/open-telemetry/opentelemetry-rust)" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
+  <li>
+<a href="https://github.com/hubblo-org/scaphandre">Scaphandre <img src="https://img.shields.io/github/stars/hubblo-org/scaphandre" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hubblo-org/scaphandre" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann…).</li>
 </ul>
 
 <h3 id="operating-systems">Operating systems</h3>
@@ -804,6 +823,9 @@
 <a href="https://github.com/dmerejkowsky/ruplacer">dmerejkowsky/ruplacer <img src="https://img.shields.io/github/stars/dmerejkowsky/ruplacer" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dmerejkowsky/ruplacer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Find and replace text in source files <a href="https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml"><img src="https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml/badge.svg?branch=master" alt="Run tests ![GitHub Repo stars](https://img.shields.io/github/stars/dmerejkowsky/ruplacer) ![GitHub last commit](https://img.shields.io/github/last-commit/dmerejkowsky/ruplacer)" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
   <li>
+<a href="https://github.com/sstadick/hck">sstadick/hck <img src="https://img.shields.io/github/stars/sstadick/hck" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/sstadick/hck" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A faster and more featureful drop in replacement for <code class="language-plaintext highlighter-rouge">cut</code>  <a href="https://github.com/sstadick/hck"><img src="https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master" alt="build badge ![GitHub Repo stars](https://img.shields.io/github/stars/sstadick/hck) ![GitHub last commit](https://img.shields.io/github/last-commit/sstadick/hck)" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
 <a href="https://crates.io/crates/ripgrep">ripgrep</a> — combines the usability of The Silver Searcher with the raw speed of grep <a href="https://travis-ci.org/BurntSushi/ripgrep"><img src="https://api.travis-ci.org/BurntSushi/ripgrep.svg?branch=master" alt="build badge" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
   <li>
@@ -861,7 +883,7 @@
 <a href="https://github.com/arthrp/consoleTimer">arthrp/consoletimer <img src="https://img.shields.io/github/stars/arthrp/consoleTimer" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/arthrp/consoleTimer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Simple timer for your terminal. <a href="https://travis-ci.org/arthrp/consoleTimer"><img src="https://api.travis-ci.org/arthrp/consoleTimer.svg?branch=master" alt="build badge" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
   <li>
-<a href="https://github.com/tversteeg/emplace">tversteeg/emplace <img src="https://img.shields.io/github/stars/tversteeg/emplace" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tversteeg/emplace" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> ��� Synchronize installed packages on multiple machines</li>
+<a href="https://github.com/tversteeg/emplace">tversteeg/emplace <img src="https://img.shields.io/github/stars/tversteeg/emplace" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tversteeg/emplace" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Synchronize installed packages on multiple machines</li>
   <li>
 <a href="https://github.com/unrelentingtech/freepass">unrelentingtech/freepass <img src="https://img.shields.io/github/stars/unrelentingtech/freepass" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/unrelentingtech/freepass" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — The free password manager for power users.</li>
   <li>
@@ -908,6 +930,8 @@
 
 <ul>
   <li>
+<a href="https://github.com/dertuxmalwieder/yaydl">dertuxmalwieder/yaydl <img src="https://img.shields.io/github/stars/dertuxmalwieder/yaydl" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dertuxmalwieder/yaydl" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> [<a href="https://crates.io/crates/yaydl">yaydl</a>] - A simple video downloader</li>
+  <li>
 <a href="https://github.com/Phate6660/rsmpv">Phate6660/rsmpv <img src="https://img.shields.io/github/stars/Phate6660/rsmpv" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Phate6660/rsmpv" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A controller for MPV, requires IPC to be enabled in MPV.</li>
   <li>
 <a href="https://github.com/tgotwig/vidmerger">tgotwig/vidmerger <img src="https://img.shields.io/github/stars/tgotwig/vidmerger" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tgotwig/vidmerger" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> —  A wrapper around ffmpeg which simplifies merging multiple videos 🎞</li>
@@ -932,6 +956,9 @@
 </li>
   <li>
 <a href="https://github.com/tailhook/vagga">tailhook/vagga <img src="https://img.shields.io/github/stars/tailhook/vagga" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tailhook/vagga" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A containerization tool without daemons <a href="https://travis-ci.org/tailhook/vagga"><img src="https://api.travis-ci.org/tailhook/vagga.svg?branch=master" alt="build badge" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
+  <li>
+<a href="https://github.com/containers/youki">containers/youki <img src="https://img.shields.io/github/stars/containers/youki" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/containers/youki" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A container runtime in Rust <a href="https://github.com/containers/youki/actions"><img src="https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main" alt="build badge ![GitHub Repo stars](https://img.shields.io/github/stars/containers/youki) ![GitHub last commit](https://img.shields.io/github/last-commit/containers/youki)" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
 </ul>
 
@@ -1660,6 +1687,9 @@
 <ul>
   <li>
 <a href="https://github.com/Phate6660/nixinfo">Phate6660/nixinfo <img src="https://img.shields.io/github/stars/Phate6660/nixinfo" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Phate6660/nixinfo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> [<a href="https://crates.io/crates/nixinfo">crate</a>] — A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.</li>
+  <li>
+<a href="https://github.com/larksuite/perf-monitor-rs">perf-monitor-rs <img src="https://img.shields.io/github/stars/larksuite/perf-monitor-rs" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/larksuite/perf-monitor-rs" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A toolkit designed to be a foundation for applications to monitor their performance. <a href="https://crates.io/crates/perf_monitor"><img src="https://img.shields.io/crates/v/perf_monitor.svg" alt="crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
 </ul>
 
 <h3 id="artificial-intelligence">Artificial Intelligence</h3>
@@ -1923,6 +1953,9 @@
 <ul>
   <li>Argument parsing
     <ul>
+      <li>
+<a href="https://github.com/google/argh">google/argh <img src="https://img.shields.io/github/stars/google/argh" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/google/argh" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> [<a href="https://crates.io/crates/argh">argh</a>] — An opinionated Derive-based argument parser optimized for code size <a href="https://github.com/google/argh/actions"><img src="https://github.com/google/argh/workflows/Argh/badge.svg?branch=master" alt="build badge ![GitHub Repo stars](https://img.shields.io/github/stars/google/argh) ![GitHub last commit](https://img.shields.io/github/last-commit/google/argh)" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
       <li>
 <a href="https://github.com/clap-rs/clap">clap-rs <img src="https://img.shields.io/github/stars/clap-rs/clap" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/clap-rs/clap" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> [<a href="https://crates.io/crates/clap">clap</a>] — A simple to use, full featured command-line argument parser <a href="https://travis-ci.org/clap-rs/clap"><img src="https://api.travis-ci.org/clap-rs/clap.svg?branch=master" alt="build badge" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
@@ -2368,7 +2401,7 @@
       <li>Crux [<a href="https://crates.io/keywords/crux">crux</a>]
         <ul>
           <li>
-<a href="https://github.com/naomijub/transistor">naomijub/transistor <img src="https://img.shields.io/github/stars/naomijub/transistor" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/naomijub/transistor" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> ��� A Crux Database Client. <a href="https://travis-ci.org/naomijub/transistor"><img src="https://api.travis-ci.org/naomijub/transistor.svg?branch=master" alt="Build Status" referrerpolicy="no-referrer" loading="lazy"></a>
+<a href="https://github.com/naomijub/transistor">naomijub/transistor <img src="https://img.shields.io/github/stars/naomijub/transistor" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/naomijub/transistor" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A Crux Database Client. <a href="https://travis-ci.org/naomijub/transistor"><img src="https://api.travis-ci.org/naomijub/transistor.svg?branch=master" alt="Build Status" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
         </ul>
       </li>
@@ -2558,6 +2591,14 @@
 </li>
   <li>
 <a href="https://github.com/weld-project/weld">weld-project/weld <img src="https://img.shields.io/github/stars/weld-project/weld" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/weld-project/weld" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — High-performance runtime for data analytics applications</li>
+</ul>
+
+<h3 id="data-streaming">Data streaming</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/infinyon/fluvio">infinyon/fluvio <img src="https://img.shields.io/github/stars/infinyon/fluvio" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/infinyon/fluvio" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Programmable data streaming platform <a href="https://github.com/infinyon/fluvio/actions"><img src="https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable" alt="CI ![GitHub Repo stars](https://img.shields.io/github/stars/infinyon/fluvio) ![GitHub last commit](https://img.shields.io/github/last-commit/infinyon/fluvio)" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
 </ul>
 
 <h3 id="data-structures">Data structures</h3>
@@ -3019,7 +3060,7 @@
   <li>Game Engines
     <ul>
       <li>
-<a href="https://amethyst.rs">Amethyst</a> — Data-oriented game engine - <a href="https://crates.io/crates/amethyst"><img src="https://img.shields.io/crates/v/amethyst" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/amethyst/amethyst/blob/main/COPYING"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" referrerpolicy="no-referrer" loading="lazy"></a>
+<a href="https://amethyst.rs">Amethyst</a> — Data-oriented game engine - <a href="https://crates.io/crates/amethyst"><img src="https://img.shields.io/crates/v/amethyst" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/amethyst/amethyst/blob/main/COPYING"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://crates.io/crates/amethyst"><img src="https://img.shields.io/crates/d/amethyst.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
       <li>
 <a href="https://github.com/bevyengine/bevy">Bevy <img src="https://img.shields.io/github/stars/bevyengine/bevy" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bevyengine/bevy" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> is a refreshingly simple data-driven game engine built in Rust. - <a href="https://crates.io/crates/bevy"><img src="https://img.shields.io/crates/v/bevy.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
@@ -3027,16 +3068,17 @@
 <a href="https://crates.io/crates/bevy"><img src="https://img.shields.io/crates/d/bevy.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
       <li>
-<a href="https://github.com/ggez/ggez">ggez <img src="https://img.shields.io/github/stars/ggez/ggez" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ggez/ggez" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A lightweight game framework for making 2D games with minimum friction - <a href="https://crates.io/crates/ggez"><img src="https://img.shields.io/crates/v/ggez.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/ggez/ggez/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" referrerpolicy="no-referrer" loading="lazy"></a>
+<a href="https://github.com/ggez/ggez">ggez <img src="https://img.shields.io/github/stars/ggez/ggez" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ggez/ggez" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A lightweight game framework for making 2D games with minimum friction - <a href="https://crates.io/crates/ggez"><img src="https://img.shields.io/crates/v/ggez.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/ggez/ggez/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://crates.io/crates/ggez"><img src="https://img.shields.io/crates/d/ggez.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
       <li>
 <a href="https://github.com/StarArawn/harmony">harmony <img src="https://img.shields.io/github/stars/StarArawn/harmony" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/StarArawn/harmony" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A modern 3D/2D game engine that uses wgpu</li>
       <li>
-<a href="http://kiss3d.org">Kiss3d</a> — A Keep It Simple, Stupid 3d graphics engine written with Rust</li>
+<a href="http://kiss3d.org">Kiss3d</a> — A Keep It Simple, Stupid 3d graphics engine written with Rust <a href="https://crates.io/crates/kiss3d"><img src="https://img.shields.io/crates/d/kiss3d.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
       <li>
 <a href="https://github.com/Ruddle/oxidator">oxidator <img src="https://img.shields.io/github/stars/Ruddle/oxidator" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Ruddle/oxidator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — A real time strategy game/engine written with Rust and WebGPU</li>
       <li>
-<a href="https://www.piston.rs/">Piston</a> — <a href="https://crates.io/crates/piston"><img src="https://img.shields.io/crates/v/piston.svg?style=flat-square" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/PistonDevelopers/piston/blob/master/LICENSE"><img src="https://img.shields.io/crates/l/piston.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
+<a href="https://www.piston.rs/">Piston</a> — <a href="https://crates.io/crates/piston"><img src="https://img.shields.io/crates/v/piston.svg?style=flat-square" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/PistonDevelopers/piston/blob/master/LICENSE"><img src="https://img.shields.io/crates/l/piston.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://crates.io/crates/piston"><img src="https://img.shields.io/crates/d/piston.svg" alt="Crates.io" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
       <li>
 <a href="https://github.com/unrust/unrust">Unrust <img src="https://img.shields.io/github/stars/unrust/unrust" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/unrust/unrust" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — unrust — A pure rust based (webgl 2.0 / native) game engine</li>
@@ -3308,7 +3350,10 @@
 <a href="https://github.com/ivanceras/sauron-native">ivanceras/sauron-native <img src="https://img.shields.io/github/stars/ivanceras/sauron-native" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ivanceras/sauron-native" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI. <a href="https://travis-ci.com/github/ivanceras/sauron-native"><img src="https://api.travis-ci.com/ivanceras/sauron-native.svg?branch=master" alt="Build Status" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
   <li>
-<a href="https://github.com/tauri-apps/tauri">tauri-apps/tauri <img src="https://img.shields.io/github/stars/tauri-apps/tauri" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tauri-apps/tauri" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Toolchain for building highly secure native apps that have tiny binaries and are very fast from HTML, JS and CSS layer, powered by <a href="https://github.com/webview/webview">webview <img src="https://img.shields.io/github/stars/webview/webview" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/webview/webview" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>. <a href="https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22"><img src="https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library" alt="test library" referrerpolicy="no-referrer" loading="lazy"></a>
+<a href="https://github.com/tauri-apps/wry">tauri-apps/wry <img src="https://img.shields.io/github/stars/tauri-apps/wry" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tauri-apps/wry" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Webview Rendering librarY.</li>
+  <li>
+<a href="https://github.com/tauri-apps/tauri">tauri-apps/tauri <img src="https://img.shields.io/github/stars/tauri-apps/tauri" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tauri-apps/tauri" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Build smaller, faster, and more secure
+desktop applications with a web frontend, powered by <a href="https://github.com/tauri-apps/wry">WRY <img src="https://img.shields.io/github/stars/tauri-apps/wry" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tauri-apps/wry" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>. <a href="https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22"><img src="https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library" alt="test library" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
 </ul>
 
@@ -3639,11 +3684,10 @@
   <li>
 <a href="https://github.com/freestrings/jsonpath">freestrings/jsonpath <img src="https://img.shields.io/github/stars/freestrings/jsonpath" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/freestrings/jsonpath" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — <a href="https://goessner.net/articles/JsonPath/">JsonPath</a> engine written in Rust. Webassembly and Javascript support too <a href="https://travis-ci.org/freestrings/jsonpath"><img src="https://api.travis-ci.org/freestrings/jsonpath.svg?branch=master" alt="Build Status" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
-</ul>
-
-<h3 id="packaging-formats">Packaging formats</h3>
-
-<ul>
+  <li>
+<a href="https://github.com/softdevteam/grmtools/">softdevteam/grmtools <img src="https://img.shields.io/github/stars/softdevteam/grmtools" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/softdevteam/grmtools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A LR parser with better error correction
+    <h3 id="packaging-formats">Packaging formats</h3>
+  </li>
   <li>
 <a href="https://github.com/pop-os/debarchive">pop-os/debarchive <img src="https://img.shields.io/github/stars/pop-os/debarchive" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pop-os/debarchive" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> Library for reading and extracting debian archives</li>
 </ul>
@@ -3754,7 +3798,8 @@
     <h3 id="task-scheduling">Task scheduling</h3>
   </li>
   <li>
-<a href="https://github.com/BinChengZhao/delay-timer">BinChengZhao/delay-timer <img src="https://img.shields.io/github/stars/BinChengZhao/delay-timer" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/BinChengZhao/delay-timer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — delay-timer is a task manager based on a time wheel algorithm, which makes it easy to manage timed tasks, or to periodically execute arbitrary tasks such as closures. <a href="https://crates.io/crates/delay_timer"><img src="https://img.shields.io/crates/v/delay_timer.svg" alt="Cargo" referrerpolicy="no-referrer" loading="lazy"></a>
+<a href="https://github.com/BinChengZhao/delay-timer">delay-timer <img src="https://img.shields.io/github/stars/BinChengZhao/delay-timer" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/BinChengZhao/delay-timer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible. 
+<a href="https://github.com/BinChengZhao/delay-timer/actions"><img src="https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg" alt="Build ![GitHub Repo stars](https://img.shields.io/github/stars/BinChengZhao/delay-timer) ![GitHub last commit](https://img.shields.io/github/last-commit/BinChengZhao/delay-timer)" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
 </ul>
 
@@ -3807,6 +3852,9 @@
 <h3 id="text-processing-1">Text processing</h3>
 
 <ul>
+  <li>
+<a href="https://github.com/becheran/wildmatch">becheran/wildmatch <img src="https://img.shields.io/github/stars/becheran/wildmatch" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/becheran/wildmatch" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> [<a href="https://crates.io/crates/wildmatch">wildmatch</a>] — Simple string matching with questionmark- and star-wildcard operator <a href="https://github.com/becheran/wildmatch/actions"><img src="https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master" alt="Actions Status ![GitHub Repo stars](https://img.shields.io/github/stars/becheran/wildmatch) ![GitHub last commit](https://img.shields.io/github/last-commit/becheran/wildmatch)" referrerpolicy="no-referrer" loading="lazy"></a>
+</li>
   <li>
 <a href="https://github.com/BurntSushi/suffix">BurntSushi/suffix <img src="https://img.shields.io/github/stars/BurntSushi/suffix" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/BurntSushi/suffix" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — Linear time suffix array construction (with Unicode support) <a href="https://travis-ci.org/BurntSushi/suffix"><img src="https://api.travis-ci.org/BurntSushi/suffix.svg?branch=master" alt="build badge" referrerpolicy="no-referrer" loading="lazy"></a>
 </li>
@@ -4151,6 +4199,8 @@
 <a href="https://www.reddit.com/r/rust/">Rust Subreddit</a> — A subreddit(forum) where rust related questions, articles and resources are posted and discussed</li>
   <li>
 <a href="https://www.manning.com/books/rust-servers-services-and-apps">Rust Servers, Services and Apps - MEAP</a> - Build backend servers, services, and front-ends in Rust to get fast, reliable, and maintainable applications.</li>
+  <li>
+<a href="https://github.com/rustviz/rustviz">RustViz <img src="https://img.shields.io/github/stars/rustviz/rustviz" alt="GitHub Repo stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rustviz/rustviz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.</li>
 </ul>
 
 <h2 id="license">License</h2>
@@ -4162,6 +4212,5 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    
   </body>
 </html>
