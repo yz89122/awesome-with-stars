@@ -351,7 +351,7 @@
 ## Command Line Utilities
 
 - [Awesome macOS Command Line ![GitHub Repo stars](https://img.shields.io/github/stars/herrbischoff/awesome-osx-command-line) ![GitHub last commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-osx-command-line)](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
-- [m-cli ![GitHub Repo stars](https://img.shields.io/github/stars/rgcr/m-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rgcr/m-cli)](https://github.com/rgcr/m-cli) - ��� Swiss Army Knife for macOS.
+- [m-cli ![GitHub Repo stars](https://img.shields.io/github/stars/rgcr/m-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rgcr/m-cli)](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI ![GitHub Repo stars](https://img.shields.io/github/stars/guarinogabriel/Mac-CLI) ![GitHub last commit](https://img.shields.io/github/last-commit/guarinogabriel/Mac-CLI)](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [mas ![GitHub Repo stars](https://img.shields.io/github/stars/mas-cli/mas) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-cli/mas)](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 
