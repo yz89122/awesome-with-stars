@@ -51,6 +51,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## FPS
 - [Allegiance ![GitHub Repo stars](https://img.shields.io/github/stars/FreeAllegiance/Allegiance) ![GitHub last commit](https://img.shields.io/github/last-commit/FreeAllegiance/Allegiance)](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
+- [BetterSpades ![GitHub Repo stars](https://img.shields.io/github/stars/xtreme8000/BetterSpades) ![GitHub last commit](https://img.shields.io/github/last-commit/xtreme8000/BetterSpades)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 - [BStone ![GitHub Repo stars](https://img.shields.io/github/stars/bibendovsky/bstone) ![GitHub last commit](https://img.shields.io/github/last-commit/bibendovsky/bstone)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL ![GitHub Repo stars](https://img.shields.io/github/stars/ArnoAnsems/CatacombGL) ![GitHub last commit](https://img.shields.io/github/last-commit/ArnoAnsems/CatacombGL)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom ![GitHub Repo stars](https://img.shields.io/github/stars/chocolate-doom/chocolate-doom) ![GitHub last commit](https://img.shields.io/github/last-commit/chocolate-doom/chocolate-doom)](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
@@ -77,6 +78,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Tyrquake ![GitHub Repo stars](https://img.shields.io/github/stars/libretro/tyrquake) ![GitHub last commit](https://img.shields.io/github/last-commit/libretro/tyrquake)](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
 - [Yamagi Quake II ![GitHub Repo stars](https://img.shields.io/github/stars/yquake2/yquake2) ![GitHub last commit](https://img.shields.io/github/last-commit/yquake2/yquake2)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 - [vkQuake ![GitHub Repo stars](https://img.shields.io/github/stars/Novum/vkQuake) ![GitHub last commit](https://img.shields.io/github/last-commit/Novum/vkQuake)](https://github.com/Novum/vkQuake) - Quake port using Vulkan instead of OpenGL for rendering.
+- [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
 ## Online
 - [2006rebotted ![GitHub Repo stars](https://img.shields.io/github/stars/dginovker/2006rebotted) ![GitHub last commit](https://img.shields.io/github/last-commit/dginovker/2006rebotted)](https://github.com/dginovker/2006rebotted) - A 2006 Runescape Emulation Server.
