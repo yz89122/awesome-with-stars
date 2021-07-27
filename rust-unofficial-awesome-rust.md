@@ -1059,7 +1059,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Data visualization
 
 * [saresend/gust ![GitHub Repo stars](https://img.shields.io/github/stars/saresend/Gust) ![GitHub last commit](https://img.shields.io/github/last-commit/saresend/Gust)](https://github.com/saresend/Gust) — [![build badge](https://api.travis-ci.org/saresend/Gust.svg?branch=master)](https://travis-ci.org/saresend/Gust)
-* [milliams/plotlib ![GitHub Repo stars](https://img.shields.io/github/stars/milliams/plotlib) ![GitHub last commit](https://img.shields.io/github/last-commit/milliams/plotlib)](https://github.com/milliams/plotlib) ��� [![build badge](https://api.travis-ci.org/milliams/plotlib.svg?branch=master)](https://travis-ci.org/milliams/plotlib)
+* [milliams/plotlib ![GitHub Repo stars](https://img.shields.io/github/stars/milliams/plotlib) ![GitHub last commit](https://img.shields.io/github/last-commit/milliams/plotlib)](https://github.com/milliams/plotlib) — [![build badge](https://api.travis-ci.org/milliams/plotlib.svg?branch=master)](https://travis-ci.org/milliams/plotlib)
 * [igiagkiozis/plotly ![GitHub Repo stars](https://img.shields.io/github/stars/igiagkiozis/plotly) ![GitHub last commit](https://img.shields.io/github/last-commit/igiagkiozis/plotly)](https://github.com/igiagkiozis/plotly) — Plotly for Rust.
 * [38/plotters ![GitHub Repo stars](https://img.shields.io/github/stars/38/plotters) ![GitHub last commit](https://img.shields.io/github/last-commit/38/plotters)](https://github.com/38/plotters) — [![build badge](https://api.travis-ci.org/38/plotters.svg?branch=master)](https://travis-ci.org/38/plotters)
 
