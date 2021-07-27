@@ -43,6 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Tools and frameworks
 
+- [OSnap ![GitHub Repo stars](https://img.shields.io/github/stars/eWert-Online/osnap) ![GitHub last commit](https://img.shields.io/github/last-commit/eWert-Online/osnap)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 - [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 - [AyeSpy ![GitHub Repo stars](https://img.shields.io/github/stars/newsuk/ayespy) ![GitHub last commit](https://img.shields.io/github/last-commit/newsuk/ayespy)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 - [Wraith ![GitHub Repo stars](https://img.shields.io/github/stars/BBC-News/wraith) ![GitHub last commit](https://img.shields.io/github/last-commit/BBC-News/wraith)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
