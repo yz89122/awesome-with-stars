@@ -1058,7 +1058,7 @@
 - [Remote-Access-SSH ![GitHub Repo stars](https://img.shields.io/github/stars/mritunjaygoutam12/Remote-host) ![GitHub last commit](https://img.shields.io/github/last-commit/mritunjaygoutam12/Remote-host)](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
 - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
-- [前站导航](https://www.frontendjs.com/) - 前���社区、文档收录.
+- [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
 - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
 - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces.
 - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
@@ -1770,7 +1770,7 @@ _Display non-editable events in a Calendar_
 - [vue-creativecommons ![GitHub Repo stars](https://img.shields.io/github/stars/julon/vue-creativecommons) ![GitHub last commit](https://img.shields.io/github/last-commit/julon/vue-creativecommons)](https://github.com/julon/vue-creativecommons) - CreativeCommons.org Vue.js components library.
 - [vue-status-indicator ![GitHub Repo stars](https://img.shields.io/github/stars/coderdiaz/vue-status-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/coderdiaz/vue-status-indicator)](https://github.com/coderdiaz/vue-status-indicator) - A Vue.js component to show status indicator as colored dots.
 - [vue-google-adsense ![GitHub Repo stars](https://img.shields.io/github/stars/mazipan/vue-google-adsense) ![GitHub last commit](https://img.shields.io/github/last-commit/mazipan/vue-google-adsense)](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
-- [emoji-vue ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/emoji-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/shershen08/emoji-vue)](https://github.com/shershen08/emoji-vue) - Emoji 😎��🏻 dropdown for Vue.js project
+- [emoji-vue ![GitHub Repo stars](https://img.shields.io/github/stars/shershen08/emoji-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/shershen08/emoji-vue)](https://github.com/shershen08/emoji-vue) - Emoji 😎👌🏻 dropdown for Vue.js project
 - [vue-chessboard ![GitHub Repo stars](https://img.shields.io/github/stars/vitogit/vue-chessboard) ![GitHub last commit](https://img.shields.io/github/last-commit/vitogit/vue-chessboard)](https://github.com/vitogit/vue-chessboard) - Chessboard vue component to load positions, create positions and see threats.
 - [vue-mindmap ![GitHub Repo stars](https://img.shields.io/github/stars/anteriovieira/vue-mindmap) ![GitHub last commit](https://img.shields.io/github/last-commit/anteriovieira/vue-mindmap)](https://github.com/anteriovieira/vue-mindmap) - Vue component for mindnode maps.
 - [v-currency ![GitHub Repo stars](https://img.shields.io/github/stars/ignoreintuition/v-currency) ![GitHub last commit](https://img.shields.io/github/last-commit/ignoreintuition/v-currency)](https://github.com/ignoreintuition/v-currency) - Vue component for formatting currency.
