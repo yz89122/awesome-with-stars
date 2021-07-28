@@ -507,7 +507,7 @@ Table of Contents
   * [reCAPTCHAMe](https://recaptchame.com/) — free reCAPTCHA and hCAPTCHA backend service. No Server-Side coding needed. Works for static websites.
   * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
-  * [snyk.io](https://snyk.io) ��� Can find and fix known security vulnerabilities in your open source dependencies. Unlimited tests and remediation for open source projects. Limited to 200 tests/month for your private projects.
+  * [snyk.io](https://snyk.io) — Can find and fix known security vulnerabilities in your open source dependencies. Unlimited tests and remediation for open source projects. Limited to 200 tests/month for your private projects.
   * [Sqreen](https://www.sqreen.com/) — Application security monitoring and protection (RASP, WAF and more) for web applications and APIs. Free for 1 app and 3 million requests.
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) — Very deep analysis of the configuration of any SSL web server
   * [StackHawk](https://www.stackhawk.com/) Automate application scanning throughout your pipeline to find and fix security bugs before they hit production. Unlimited scans and environments for a single app.
@@ -1002,7 +1002,7 @@ Table of Contents
    * [Codegiant](https://codegiant.io) — Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.
    * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
-   * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
+   * [draw.io](https://www.draw.io/) ��� Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users and files storage.
    * [easyretro.io](https://www.easyretro.io/) — Free simple and intuitive sprint retrospective tool
    * [GForge](https://gforge.com) — Project Management & Issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers first 5 users free & free for Open Source Projects.
@@ -1011,7 +1011,7 @@ Table of Contents
    * [GraphQL Inspector ![GitHub Repo stars](https://img.shields.io/github/stars/marketplace/graphql-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/graphql-inspector)](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector ouputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
-   * [Ilograph](https://www.ilograph.com/)  �� interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.
+   * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.
    * [Issue Embed](https://issueembed.dev/) - A bug reporting tool for websites to go directly into your Github Issues. Free plan for personal repositories with up to 500 issues/month and 10,000 page views/month.
    * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.
    * [kanbanflow.com](https://kanbanflow.com/) — Board-based project management. Free, premium version with more options
@@ -1280,7 +1280,7 @@ Table of Contents
 
 ## Payment and Billing Integration
 
-  * [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
+  * [CurrencyFreaks](https://currencyfreaks.com/) �� Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
   * [currencyapi.net](https://currencyapi.net/) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
