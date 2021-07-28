@@ -566,6 +566,7 @@
 - [FFmpeg ![GitHub Repo stars](https://img.shields.io/github/stars/transitive-bullshit/awesome-ffmpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-ffmpeg)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons ![GitHub Repo stars](https://img.shields.io/github/stars/notlmn/awesome-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/notlmn/awesome-icons)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual ![GitHub Repo stars](https://img.shields.io/github/stars/stingalleman/awesome-audiovisual) ![GitHub last commit](https://img.shields.io/github/last-commit/stingalleman/awesome-audiovisual)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [VLC ![GitHub Repo stars](https://img.shields.io/github/stars/mfkl/awesome-vlc) ![GitHub last commit](https://img.shields.io/github/last-commit/mfkl/awesome-vlc)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ## Learn
 
