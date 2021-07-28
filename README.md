@@ -649,6 +649,7 @@
 - [Programming Interviews ![GitHub Repo stars](https://img.shields.io/github/stars/DopplerHQ/awesome-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/DopplerHQ/awesome-interview-questions)](./DopplerHQ-awesome-interview-questions.md) [*Origin*](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review ![GitHub Repo stars](https://img.shields.io/github/stars/joho/awesome-code-review) ![GitHub last commit](https://img.shields.io/github/last-commit/joho/awesome-code-review)](./joho-awesome-code-review.md) [*Origin*](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology ![GitHub Repo stars](https://img.shields.io/github/stars/j0hnm4r5/awesome-creative-technology) ![GitHub last commit](https://img.shields.io/github/last-commit/j0hnm4r5/awesome-creative-technology)](./j0hnm4r5-awesome-creative-technology.md) [*Origin*](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Internships ![GitHub Repo stars](https://img.shields.io/github/stars/lodthe/awesome-internships) ![GitHub last commit](https://img.shields.io/github/last-commit/lodthe/awesome-internships)](./lodthe-awesome-internships.md) [*Origin*](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ## Networking
 
