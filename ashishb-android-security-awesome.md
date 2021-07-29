@@ -153,10 +153,11 @@ A collection of android security related resources.
 35. [Noia ![GitHub Repo stars](https://img.shields.io/github/stars/0x742/noia) ![GitHub last commit](https://img.shields.io/github/last-commit/0x742/noia)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 36. [Obfuscapk ![GitHub Repo stars](https://img.shields.io/github/stars/ClaudiuGeorgiu/Obfuscapk) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudiuGeorgiu/Obfuscapk)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
 37. [ARMANDroid ![GitHub Repo stars](https://img.shields.io/github/stars/Mobile-IoT-Security-Lab/ARMANDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/Mobile-IoT-Security-Lab/ARMANDroid)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
-36. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
-34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
-35. ~~[ZjDroid ![GitHub Repo stars](https://img.shields.io/github/stars/BaiduSecurityLabs/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/BaiduSecurityLabs/ZjDroid)](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror ![GitHub Repo stars](https://img.shields.io/github/stars/yangbean9/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/yangbean9/ZjDroid)](https://github.com/yangbean9/ZjDroid)~~
-36. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
+38. [MVT (Mobile Verification Toolkit) ![GitHub Repo stars](https://img.shields.io/github/stars/mvt-project/mvt) ![GitHub last commit](https://img.shields.io/github/last-commit/mvt-project/mvt)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+39. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
+40. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
+41. ~~[ZjDroid ![GitHub Repo stars](https://img.shields.io/github/stars/BaiduSecurityLabs/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/BaiduSecurityLabs/ZjDroid)](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror ![GitHub Repo stars](https://img.shields.io/github/stars/yangbean9/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/yangbean9/ZjDroid)](https://github.com/yangbean9/ZjDroid)~~
+42. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
 
 ### Fuzz Testing
 
