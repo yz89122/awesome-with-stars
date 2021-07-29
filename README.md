@@ -672,6 +672,7 @@
 - [Waves ![GitHub Repo stars](https://img.shields.io/github/stars/msmolyakov/awesome-waves) ![GitHub last commit](https://img.shields.io/github/last-commit/msmolyakov/awesome-waves)](./msmolyakov-awesome-waves.md) [*Origin*](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate ![GitHub Repo stars](https://img.shields.io/github/stars/substrate-developer-hub/awesome-substrate) ![GitHub last commit](https://img.shields.io/github/last-commit/substrate-developer-hub/awesome-substrate)](./substrate-developer-hub-awesome-substrate.md) [*Origin*](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem ![GitHub Repo stars](https://img.shields.io/github/stars/golemfactory/awesome-golem) ![GitHub last commit](https://img.shields.io/github/last-commit/golemfactory/awesome-golem)](./golemfactory-awesome-golem.md) [*Origin*](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+- [Stacks ![GitHub Repo stars](https://img.shields.io/github/stars/friedger/awesome-stacks-chain) ![GitHub last commit](https://img.shields.io/github/last-commit/friedger/awesome-stacks-chain)](./friedger-awesome-stacks-chain.md) [*Origin*](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ## Higher Education
 
@@ -819,6 +820,7 @@
 - [QR Code ![GitHub Repo stars](https://img.shields.io/github/stars/aureooms/awesome-qr-code) ![GitHub last commit](https://img.shields.io/github/last-commit/aureooms/awesome-qr-code)](./aureooms-awesome-qr-code.md) [*Origin*](https://github.com/aureooms/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism ![GitHub Repo stars](https://img.shields.io/github/stars/sdassow/awesome-veganism) ![GitHub last commit](https://img.shields.io/github/last-commit/sdassow/awesome-veganism)](./sdassow-awesome-veganism.md) [*Origin*](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations ![GitHub Repo stars](https://img.shields.io/github/stars/mbiesiad/awesome-translations) ![GitHub last commit](https://img.shields.io/github/last-commit/mbiesiad/awesome-translations)](./mbiesiad-awesome-translations.md) [*Origin*](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+- [Scriptable ![GitHub Repo stars](https://img.shields.io/github/stars/dersvenhesse/awesome-scriptable) ![GitHub last commit](https://img.shields.io/github/last-commit/dersvenhesse/awesome-scriptable)](./dersvenhesse-awesome-scriptable.md) [*Origin*](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## Related
 

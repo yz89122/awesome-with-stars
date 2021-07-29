@@ -233,6 +233,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-bulma ![GitHub Repo stars](https://img.shields.io/github/stars/kulakowka/react-bulma) ![GitHub last commit](https://img.shields.io/github/last-commit/kulakowka/react-bulma)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [trunx ![GitHub Repo stars](https://img.shields.io/github/stars/fibo/trunx) ![GitHub last commit](https://img.shields.io/github/last-commit/fibo/trunx)](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [bumbag-ui ![GitHub Repo stars](https://img.shields.io/github/stars/bumbag/bumbag-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/bumbag/bumbag-ui)](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
+- [Mantine ![GitHub Repo stars](https://img.shields.io/github/stars/mantinedev/mantine) ![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine)](https://github.com/mantinedev/mantine) – A fully featured React library with 100+ hooks and components with native dark theme support
 
 ##### React Awesome Components
 
