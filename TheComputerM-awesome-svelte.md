@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="200" src="https://github.com/TheComputerM/awesome-svelte/raw/main/awesome-svelte.svg" alt="awesome-svelte logo">
+  <img width="200" src="https://github.com/TheComputerM/awesome-svelte/raw/master/awesome-svelte.svg" alt="awesome-svelte logo">
   <br>
   <br>
 </p>
