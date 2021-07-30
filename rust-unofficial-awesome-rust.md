@@ -960,6 +960,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [sfackler/rust-openssl ![GitHub Repo stars](https://img.shields.io/github/stars/sfackler/rust-openssl) ![GitHub last commit](https://img.shields.io/github/last-commit/sfackler/rust-openssl)](https://github.com/sfackler/rust-openssl) — [OpenSSL](https://www.openssl.org/) bindings [![build badge](https://api.travis-ci.org/sfackler/rust-openssl.svg?branch=master)](https://travis-ci.org/sfackler/rust-openssl)
 * [kornelski/rust-security-framework ![GitHub Repo stars](https://img.shields.io/github/stars/kornelski/rust-security-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/kornelski/rust-security-framework)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
 * [steffengy/schannel-rs ![GitHub Repo stars](https://img.shields.io/github/stars/steffengy/schannel-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/steffengy/schannel-rs)](https://github.com/steffengy/schannel-rs) — Bindings for Schannel (Windows native TLS)
+* [w3f/schnorrkel ![GitHub Repo stars](https://img.shields.io/github/stars/w3f/schnorrkel) ![GitHub last commit](https://img.shields.io/github/last-commit/w3f/schnorrkel)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 * [zebradil/rustotpony ![GitHub Repo stars](https://img.shields.io/github/stars/zebradil/rustotpony) ![GitHub last commit](https://img.shields.io/github/last-commit/zebradil/rustotpony)](https://github.com/zebradil/rustotpony) — CLI manager of one-time password generators aka Google Authenticator (TOTP)
 
 ### Database
@@ -1324,7 +1325,7 @@ desktop applications with a web frontend, powered by [WRY ![GitHub Repo stars](h
 
 ### Language specification
 
-* [shnewto/bnf ![GitHub Repo stars](https://img.shields.io/github/stars/shnewto/bnf) ![GitHub last commit](https://img.shields.io/github/last-commit/shnewto/bnf)](https://github.com/shnewto/bnf) — A library for parsing Backus–Naur form context-free grammars. [![build badge](https://api.travis-ci.org/shnewto/bnf.svg?branch=master)](https://travis-ci.org/shnewto/bnf)
+* [shnewto/bnf ![GitHub Repo stars](https://img.shields.io/github/stars/shnewto/bnf) ![GitHub last commit](https://img.shields.io/github/last-commit/shnewto/bnf)](https://github.com/shnewto/bnf) �� A library for parsing Backus–Naur form context-free grammars. [![build badge](https://api.travis-ci.org/shnewto/bnf.svg?branch=master)](https://travis-ci.org/shnewto/bnf)
 
 ### Logging
 
@@ -1416,6 +1417,8 @@ desktop applications with a web frontend, powered by [WRY ![GitHub Repo stars](h
   * [libp2p/rust-libp2p ![GitHub Repo stars](https://img.shields.io/github/stars/libp2p/rust-libp2p) ![GitHub last commit](https://img.shields.io/github/last-commit/libp2p/rust-libp2p)](https://github.com/libp2p/rust-libp2p) — The Rust Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
 * NATS
   * [nats-io/nats.rs ![GitHub Repo stars](https://img.shields.io/github/stars/nats-io/nats.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.rs)](https://github.com/nats-io/nats.rs) — Rust client for NATS, the cloud native messaging system. [![Build Status ![GitHub Repo stars](https://img.shields.io/github/stars/nats-io/nats.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.rs)](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions)
+* Tor
+  * [Arti](https://gitlab.torproject.org/tpo/core/arti) - Official implementation of the Tor anonymity protocols.
 
 ### Parsing
 
