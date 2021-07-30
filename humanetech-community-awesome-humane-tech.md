@@ -366,7 +366,8 @@ Deaf and Hard of Hearing accessibility resources:
 ## Censorship
 
 - [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/> ![GitHub Repo stars](https://img.shields.io/github/stars/ooni/probe) ![GitHub last commit](https://img.shields.io/github/last-commit/ooni/probe)](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
-- [Green Tunnel ![GitHub Repo stars](https://img.shields.io/github/stars/SadeghHayeri/GreenTunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/SadeghHayeri/GreenTunnel)](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites. 
+- [Green Tunnel ![GitHub Repo stars](https://img.shields.io/github/stars/SadeghHayeri/GreenTunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/SadeghHayeri/GreenTunnel)](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites.
+- [Wikiless](https://wikiless.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/orenom/Wikiless)  - Alternative Wikipedia front-end focused on privacy and anti-censorship.
 
 ## Unmaintained
 
