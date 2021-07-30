@@ -248,6 +248,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [MOS-connection ![GitHub Repo stars](https://img.shields.io/github/stars/nrkno/tv-automation-mos-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/tv-automation-mos-connection)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
+* [TallyArbiter](http://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
 * [Teleprompter ![GitHub Repo stars](https://img.shields.io/github/stars/ImaginarySense/Imaginary-Teleprompter) ![GitHub last commit](https://img.shields.io/github/last-commit/ImaginarySense/Imaginary-Teleprompter)](https://github.com/ImaginarySense/Imaginary-Teleprompter) - Web browser and standalone Electron app prompter.
 
 ## Streaming
