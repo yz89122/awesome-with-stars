@@ -972,7 +972,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
   * [ArangoDB](https://www.arangodb.com)
      * [Rincon ![GitHub Repo stars](https://img.shields.io/github/stars/innoave/rincon) ![GitHub last commit](https://img.shields.io/github/last-commit/innoave/rincon)](https://github.com/innoave/rincon) — An ArangoDB (NoSQL and Graph store) driver for Rust
-  * [Cassandra](https://cassandra.apache.org) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
+  * [Cassandra](https://cassandra.apache.org/_/index.html) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
     * [AlexPikalov/cdrs ![GitHub Repo stars](https://img.shields.io/github/stars/AlexPikalov/cdrs) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexPikalov/cdrs)](https://github.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust [![build badge](https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master)](https://travis-ci.org/AlexPikalov/cdrs)
     * [Metaswitch/cassandra-rs ![GitHub Repo stars](https://img.shields.io/github/stars/Metaswitch/cassandra-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/Metaswitch/cassandra-rs)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client [![build badge](https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master)](https://travis-ci.org/Metaswitch/cassandra-rs)
   * CouchDB [[couchdb](https://crates.io/keywords/couchdb)]
