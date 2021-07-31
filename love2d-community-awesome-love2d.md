@@ -256,6 +256,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *GLSL related Libraries*
 
 * [LoveShaderConverter ![GitHub Repo stars](https://img.shields.io/github/stars/tsteinholz/LoveShaderConverter) ![GitHub last commit](https://img.shields.io/github/last-commit/tsteinholz/LoveShaderConverter)](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
+* [ngrading ![GitHub Repo stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [Moonshine ![GitHub Repo stars](https://img.shields.io/github/stars/vrld/moonshine) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/moonshine)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
@@ -289,6 +290,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveFrames Fork ![GitHub Repo stars](https://img.shields.io/github/stars/linux-man/LoveFrames) ![GitHub last commit](https://img.shields.io/github/last-commit/linux-man/LoveFrames)](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library
 * [Love Imgui ![GitHub Repo stars](https://img.shields.io/github/stars/slages/love-imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/slages/love-imgui)](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Löve-Nuklear ![GitHub Repo stars](https://img.shields.io/github/stars/keharriso/love-nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/keharriso/love-nuklear)](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
+* [NLay ![GitHub Repo stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 * [Patchy ![GitHub Repo stars](https://img.shields.io/github/stars/excessive/patchy) ![GitHub last commit](https://img.shields.io/github/last-commit/excessive/patchy)](https://github.com/excessive/patchy) - 9patch library
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord ![GitHub Repo stars](https://img.shields.io/github/stars/josefnpat/safeword) ![GitHub last commit](https://img.shields.io/github/last-commit/josefnpat/safeword)](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
