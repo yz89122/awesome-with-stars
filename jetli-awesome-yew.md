@@ -107,7 +107,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Utils
 
-- [yew-state ![GitHub Repo stars](https://img.shields.io/github/stars/intendednull/yew-state) ![GitHub last commit](https://img.shields.io/github/last-commit/intendednull/yew-state)](https://github.com/intendednull/yew-state) - Ergonomic shared state for Yew components with optionally persistent local and session storage.
+- [Yewdux ![GitHub Repo stars](https://img.shields.io/github/stars/intendednull/yewdux) ![GitHub last commit](https://img.shields.io/github/last-commit/intendednull/yewdux)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 - [reacty_yew ![GitHub Repo stars](https://img.shields.io/github/stars/hobofan/reacty_yew) ![GitHub last commit](https://img.shields.io/github/last-commit/hobofan/reacty_yew)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 - [styled-yew ![GitHub Repo stars](https://img.shields.io/github/stars/IcyDefiance/styled-yew) ![GitHub last commit](https://img.shields.io/github/last-commit/IcyDefiance/styled-yew)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
