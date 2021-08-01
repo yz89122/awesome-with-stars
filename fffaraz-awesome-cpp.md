@@ -394,6 +394,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
 * [dbg-macro ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/dbg-macro) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/dbg-macro)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. [MIT]
+* [DebugViewPP ![GitHub Repo stars](https://img.shields.io/github/stars/CobaltFusion/DebugViewPP) ![GitHub last commit](https://img.shields.io/github/last-commit/CobaltFusion/DebugViewPP)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [BSL]
 * [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 * [fff ![GitHub Repo stars](https://img.shields.io/github/stars/meekrosoft/fff) ![GitHub last commit](https://img.shields.io/github/last-commit/meekrosoft/fff)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock ![GitHub Repo stars](https://img.shields.io/github/stars/google/googletest) ![GitHub last commit](https://img.shields.io/github/last-commit/google/googletest)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
