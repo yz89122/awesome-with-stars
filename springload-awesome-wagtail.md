@@ -162,6 +162,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Simple Captcha ![GitHub Repo stars](https://img.shields.io/github/stars/acarasimon96/wagtail-django-simple-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/acarasimon96/wagtail-django-simple-captcha)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha ![GitHub Repo stars](https://img.shields.io/github/stars/mbi/django-simple-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/mbi/django-simple-captcha)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 - [wagtailstreamforms ![GitHub Repo stars](https://img.shields.io/github/stars/AccentDesign/wagtailstreamforms) ![GitHub last commit](https://img.shields.io/github/last-commit/AccentDesign/wagtailstreamforms)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
 - [wagtail-contact-reply ![GitHub Repo stars](https://img.shields.io/github/stars/KalobTaulien/wagtail-contact-reply) ![GitHub last commit](https://img.shields.io/github/last-commit/KalobTaulien/wagtail-contact-reply)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
+- [Wagtail JotForm ![GitHub Repo stars](https://img.shields.io/github/stars/kevinhowbrook/wagtail-jotform) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinhowbrook/wagtail-jotform)](https://github.com/kevinhowbrook/wagtail-jotform) - Embeddable Jotform forms for Wagtail pages.
 
 ### Testing
 
@@ -266,7 +267,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) by Geert jan Hoogeslag.
 - [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
-- [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
+- [Wagtail Performance ��� Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code ![GitHub Repo stars](https://img.shields.io/github/stars/specialunderwear/haunted-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/haunted-wagtail)](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
@@ -282,7 +283,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
 - [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
 - [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
-- [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
+- [Wagtail: когда хочется чего-то приятнее, ��ем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
 - [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057) by Chris Adams. Code.
 - [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) by Coen van der Kamp.
