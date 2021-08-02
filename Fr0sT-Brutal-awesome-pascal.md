@@ -195,6 +195,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Mundus ![GitHub Repo stars](https://img.shields.io/github/stars/Memnarch/Mundus) ![GitHub last commit](https://img.shields.io/github/last-commit/Memnarch/Mundus)](https://github.com/Memnarch/Mundus). `[Delphi]` Software renderer written in Delphi. Currently supports only Win32 as it makes use of some inline assembler.
 
+* [Image32](https://sourceforge.net/projects/image32). `[Delphi]` `[FPC]` ([Website](http://www.angusj.com/delphi/image32/Docs/_Body.htm)) 2D graphics library written in Delphi Pascal. It provides an extensive range of image manipulation functions and includes a line and polygon renderer supporting a wide range of brush filling options.
+
 ## Game dev ##
 *There are also some drawing engines suitable for game dev in [Graphic](#graphic) section*
 
@@ -417,6 +419,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [ATSynEdit ![GitHub Repo stars](https://img.shields.io/github/stars/Alexey-T/ATSynEdit) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATSynEdit)](https://github.com/Alexey-T/ATSynEdit). `[FPC]` Multi-line editor control for Lazarus including syntax highlighting.
 
+* [QDSEquations ![GitHub Repo stars](https://img.shields.io/github/stars/karser/QDSEquations) ![GitHub last commit](https://img.shields.io/github/last-commit/karser/QDSEquations)](https://github.com/karser/QDSEquations). `[Delphi]` Equation editor for Delphi and Lazarus that allows you to enter and display math formulas of any complexity, from simple Greek symbols to matrixes and complex integral expressions.
 
 ## Viewers
 
@@ -582,7 +585,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 ## Encryption
 
-* [Delphi Encryption Compendium (DEC) ![GitHub Repo stars](https://img.shields.io/github/stars/MHumm/DelphiEncryptionCompendium) ![GitHub last commit](https://img.shields.io/github/last-commit/MHumm/DelphiEncryptionCompendium)](https://github.com/MHumm/DelphiEncryptionCompendium). `[Delphi]` Cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
+* [Delphi Encryption Compendium (DEC) ![GitHub Repo stars](https://img.shields.io/github/stars/MHumm/DelphiEncryptionCompendium) ![GitHub last commit](https://img.shields.io/github/last-commit/MHumm/DelphiEncryptionCompendium)](https://github.com/MHumm/DelphiEncryptionCompendium). `[Delphi]` `[FPC]` Cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA224, SHA256, SHA384, SHA512, SHA3-224, SHA3-256, SHA3-384, SHA3-512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, WhirlpoolT, Square, Snefru128, Snefru256, Sapphire.
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest ![GitHub Repo stars](https://img.shields.io/github/stars/TurboPack/LockBox3) ![GitHub last commit](https://img.shields.io/github/last-commit/TurboPack/LockBox3)](https://github.com/TurboPack/LockBox3) and maintained version for recent compiler version only). `[Delphi]` Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
 // *Check out [this ![GitHub Repo stars](https://img.shields.io/github/stars/jarto/lockbox2) ![GitHub last commit](https://img.shields.io/github/last-commit/jarto/lockbox2)](https://github.com/jarto/lockbox2) page as well for alternative version.*
