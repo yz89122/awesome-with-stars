@@ -129,11 +129,12 @@ Additional lists you might find useful:
 ## Code Analysis
 *Plugins for analysing, parsing and manipulation codebases.*
 
+- :strawberry: [CakeDC/PHPStan ![GitHub Repo stars](https://img.shields.io/github/stars/CakeDC/cakephp-phpstan) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/cakephp-phpstan)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 - :strawberry: [IdeHelper plugin ![GitHub Repo stars](https://img.shields.io/github/stars/dereuromark/cakephp-ide-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ide-helper)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 - :strawberry: [TestHelper plugin ![GitHub Repo stars](https://img.shields.io/github/stars/dereuromark/cakephp-test-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-test-helper)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ## Debugging
-*Plugins for debugging.*
+*Plugins for debugging and local development.*
 
 - [Airbrake plugin ![GitHub Repo stars](https://img.shields.io/github/stars/chrisShick/AirbrakeCake) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisShick/AirbrakeCake)](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [AssociationsDebugger plugin ![GitHub Repo stars](https://img.shields.io/github/stars/zunnu/associations-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/zunnu/associations-debugger)](https://github.com/zunnu/associations-debugger) - A plugin that draws your model associations as diagram.

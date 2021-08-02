@@ -1908,6 +1908,7 @@ If you're using [Antigen ![GitHub Repo stars](https://img.shields.io/github/star
 * [zshred ![GitHub Repo stars](https://img.shields.io/github/stars/redxtech/zshred) ![GitHub last commit](https://img.shields.io/github/last-commit/redxtech/zshred)](https://github.com/redxtech/zshred) - Shows current directory, `git` decorations, exit status of last command and time.
 * [zwsh ![GitHub Repo stars](https://img.shields.io/github/stars/naens/zwsh) ![GitHub last commit](https://img.shields.io/github/last-commit/naens/zwsh)](https://github.com/naens/zwsh) - A Zpm3/Wordstar mode/theme for ZSH.
 * [zys ![GitHub Repo stars](https://img.shields.io/github/stars/ZYSzys/zys-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/ZYSzys/zys-zsh-theme)](https://github.com/ZYSzys/zys-zsh-theme) - Similar to [Agnoster ![GitHub Repo stars](https://img.shields.io/github/stars/agnoster/agnoster-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/agnoster/agnoster-zsh-theme)](https://github.com/agnoster/agnoster-zsh-theme), designed to disclose information contextually, with a powerline aesthetic.
+* [zzshell ![GitHub Repo stars](https://img.shields.io/github/stars/thezzisu/zzshell) ![GitHub last commit](https://img.shields.io/github/last-commit/thezzisu/zzshell)](https://github.com/thezzisu/zzshell) - Inspired by the default [Oh-My-Zsh](http://ohmyz.sh/) theme. Displays exit code and `git` status decorations. Doesn't require Powerline fonts.
 
 ## Fonts
 

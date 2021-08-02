@@ -266,6 +266,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
   - [justjavac/dvm ![GitHub Repo stars](https://img.shields.io/github/stars/justjavac/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/justjavac/dvm)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
   - [axetroy/dvm ![GitHub Repo stars](https://img.shields.io/github/stars/axetroy/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/axetroy/dvm)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
   - [dvm.cmd ![GitHub Repo stars](https://img.shields.io/github/stars/MarkTiedemann/dvm.cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/MarkTiedemann/dvm.cmd)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
+  - [ghosind/dvm ![GitHub Repo stars](https://img.shields.io/github/stars/ghosind/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/ghosind/dvm)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 - [elm-live-reload ![GitHub Repo stars](https://img.shields.io/github/stars/jinjor/deno-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jinjor/deno-playground)](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [kopo-cli ![GitHub Repo stars](https://img.shields.io/github/stars/littletof/kopo-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/littletof/kopo-cli)](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
 - [lume ![GitHub Repo stars](https://img.shields.io/github/stars/lumeland/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lumeland/lume)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
@@ -342,7 +343,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 - [《Deno进阶开发笔记》 ![GitHub Repo stars](https://img.shields.io/github/stars/chenshenhai/deno_note) ![GitHub last commit](https://img.shields.io/github/last-commit/chenshenhai/deno_note)](https://github.com/chenshenhai/deno_note/)
-- [Deno中文社区](https://denocn.org)
 - [Deno 手册 ![GitHub Repo stars](https://img.shields.io/github/stars/Nugine/deno-manual-cn) ![GitHub last commit](https://img.shields.io/github/last-commit/Nugine/deno-manual-cn)](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
 
@@ -379,7 +379,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Spanish
 
-- [Hola Deno! . ����](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
+- [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 - [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
