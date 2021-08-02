@@ -165,6 +165,7 @@ The definition of developer-first for this repo is:
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
+* [Dashbird](https://dashbird.io/) - Serverless realtime monitoring.
 
 ## Natural Language Processing
 *Interactions with natural language.*
@@ -189,6 +190,7 @@ The definition of developer-first for this repo is:
 * [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
+* [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
 ## Search
 *Index and search your content as a service API.*
