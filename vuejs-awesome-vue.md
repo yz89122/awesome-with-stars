@@ -2772,6 +2772,7 @@ _Utilities not directly related to the UI_
 - [vuse-rx ![GitHub Repo stars](https://img.shields.io/github/stars/Raiondesu/vuse-rx) ![GitHub last commit](https://img.shields.io/github/last-commit/Raiondesu/vuse-rx)](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
 - [vue-props-validation ![GitHub Repo stars](https://img.shields.io/github/stars/rubnvp/vue-props-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/rubnvp/vue-props-validation)](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
 - [vue-next-rx ![GitHub Repo stars](https://img.shields.io/github/stars/NOPR9D/vue-next-rx) ![GitHub last commit](https://img.shields.io/github/last-commit/NOPR9D/vue-next-rx)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+- [fontawesome-autogen ![GitHub Repo stars](https://img.shields.io/github/stars/GTANAdam/fontawesome-autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/GTANAdam/fontawesome-autogen)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
 
 #### Typescript
 
