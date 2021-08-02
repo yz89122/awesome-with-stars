@@ -280,6 +280,11 @@ _Scaffolding_
 - [Crowducate Platform ![GitHub Repo stars](https://img.shields.io/github/stars/Crowducate/crowducate-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/Crowducate/crowducate-platform)](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by Meteor.
 - [Nosqlclient ![GitHub Repo stars](https://img.shields.io/github/stars/nosqlclient/nosqlclient) ![GitHub last commit](https://img.shields.io/github/last-commit/nosqlclient/nosqlclient)](https://github.com/nosqlclient/nosqlclient) - MongoDB management tool.
 
+## Internationalization
+
+- [Meteor-Internationalization ![GitHub Repo stars](https://img.shields.io/github/stars/veliovgroup/Meteor-Internationalization) ![GitHub last commit](https://img.shields.io/github/last-commit/veliovgroup/Meteor-Internationalization)](https://github.com/veliovgroup/Meteor-Internationalization) - Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.
+- [meteor-accounts-t9n ![GitHub Repo stars](https://img.shields.io/github/stars/softwarerero/meteor-accounts-t9n) ![GitHub last commit](https://img.shields.io/github/last-commit/softwarerero/meteor-accounts-t9n)](https://github.com/softwarerero/meteor-accounts-t9n/) - Translations for meteor account's error messages.
+
 ## Front End Frameworks
 
 _Alternative Front End Frameworks to Blaze_
