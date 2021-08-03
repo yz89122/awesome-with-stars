@@ -1674,7 +1674,7 @@ _Display non-editable events in a Calendar_
 #### PDF
 
 - [vue-pdf ![GitHub Repo stars](https://img.shields.io/github/stars/FranckFreiburger/vue-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/FranckFreiburger/vue-pdf)](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
-- [pdfvuer ![GitHub Repo stars](https://img.shields.io/github/stars/arkokoley/pdfvuer) ![GitHub last commit](https://img.shields.io/github/last-commit/arkokoley/pdfvuer)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)
+- [pdfvuer ![GitHub Repo stars](https://img.shields.io/github/stars/arkokoley/pdfvuer) ![GitHub last commit](https://img.shields.io/github/last-commit/arkokoley/pdfvuer)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
 - [vue-pdf-embed ![GitHub Repo stars](https://img.shields.io/github/stars/hrynko/vue-pdf-embed) ![GitHub last commit](https://img.shields.io/github/last-commit/hrynko/vue-pdf-embed)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 #### Tree
