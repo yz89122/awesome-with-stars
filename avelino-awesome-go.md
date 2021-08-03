@@ -1259,7 +1259,7 @@ See [go-hardware ![GitHub Repo stars](https://img.shields.io/github/stars/rakyll
 
 *Libraries for working with Microsoft Excel.*
 
-* [excelize ![GitHub Repo stars](https://img.shields.io/github/stars/360EntSecGroup-Skylar/excelize) ![GitHub last commit](https://img.shields.io/github/last-commit/360EntSecGroup-Skylar/excelize)](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+* [excelize ![GitHub Repo stars](https://img.shields.io/github/stars/xuri/excelize) ![GitHub last commit](https://img.shields.io/github/last-commit/xuri/excelize)](https://github.com/xuri/excelize) - Golang library for reading and writing Microsoft Excel&trade; (XLSX) files.
 * [go-excel ![GitHub Repo stars](https://img.shields.io/github/stars/szyhf/go-excel) ![GitHub last commit](https://img.shields.io/github/last-commit/szyhf/go-excel)](https://github.com/szyhf/go-excel) - A simple and light reader to read a relate-db-like excel as a table.
 * [goxlsxwriter ![GitHub Repo stars](https://img.shields.io/github/stars/fterrag/goxlsxwriter) ![GitHub last commit](https://img.shields.io/github/last-commit/fterrag/goxlsxwriter)](https://github.com/fterrag/goxlsxwriter) - Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel) files.
 * [xlsx ![GitHub Repo stars](https://img.shields.io/github/stars/tealeg/xlsx) ![GitHub last commit](https://img.shields.io/github/last-commit/tealeg/xlsx)](https://github.com/tealeg/xlsx) - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
