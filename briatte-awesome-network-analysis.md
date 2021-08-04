@@ -325,7 +325,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
-    -   [‘R��seaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
+    -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
 -   [Redes-Sociales](http://www.redes-sociales.net/), in Spanish - Information network based at the Universitat Autònoma de Barcelona.
 -   [RES-HIST : Réseaux et histoire](https://reshist.hypotheses.org/), in French - Blog posts from a research group on historical networks.
     -   [RES-HIST Conferences](https://reshist.hypotheses.org/?s=res-hist).
