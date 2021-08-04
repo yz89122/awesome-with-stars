@@ -137,7 +137,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Tools
 
-* [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
+* [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
 * [js2dart ![GitHub Repo stars](https://img.shields.io/github/stars/vojtajina/js2dart) ![GitHub last commit](https://img.shields.io/github/last-commit/vojtajina/js2dart)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
 * [Stagehand ![GitHub Repo stars](https://img.shields.io/github/stars/dart-lang/stagehand) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/stagehand)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
@@ -148,6 +148,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [json2dart](https://javiercbk.github.io/json_to_dart) - Given a json, it generates the dart classes to parse and generate json with given structure.
 * [webdev_proxy ![GitHub Repo stars](https://img.shields.io/github/stars/Workiva/webdev_proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/Workiva/webdev_proxy)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev ![GitHub Repo stars](https://img.shields.io/github/stars/dart-lang/webdev) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/webdev)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [Dart Code Metrics ![GitHub Repo stars](https://img.shields.io/github/stars/dart-code-checker/dart-code-metrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-code-checker/dart-code-metrics)](https://github.com/dart-code-checker/dart-code-metrics) - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
+* [m2cgen ![GitHub Repo stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 
 ## Tutorials
 

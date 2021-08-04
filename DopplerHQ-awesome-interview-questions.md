@@ -275,6 +275,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ### Java
 
+* [List of Java programs for interview Categoriwise](https://onurdesk.com/category/interview/interview-program-java/)
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
 * [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 * [21 Essential Java Interview Questions](http://www.toptal.com/java/interview-questions)
@@ -416,7 +417,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [This quiz intends to test your understanding of ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
-* [Toptal's 13 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
+* [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [19 Essential ReactJs Interview Questions](https://www.educba.com/reactjs-interview-questions/)
 
 ### Ruby
