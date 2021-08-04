@@ -62,7 +62,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Spark](#spark)
   - [Swift](#swift)
+  - [Vue.js](#vuejs)
   - [Wordpress](#wordpress)
   - [TypeScript](#typescript)
 
@@ -109,6 +111,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics ![GitHub Repo stars](https://img.shields.io/github/stars/anitaa1990/Android-Cheat-sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/anitaa1990/Android-Cheat-sheet)](https://github.com/anitaa1990/Android-Cheat-sheet)
 * [Android Interview Questions And Answers From Beginner To Advanced](https://www.andreasschrade.com/2017/02/23/android-interview-questions/)
 * [Interview Questions for Senior Android Developers ![GitHub Repo stars](https://img.shields.io/github/stars/mohsenoid/Android-Interview-Questions) ![GitHub last commit](https://img.shields.io/github/last-commit/mohsenoid/Android-Interview-Questions)](https://github.com/mohsenoid/Android-Interview-Questions)
+* [35+ Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
 ### AngularJS
 
@@ -210,6 +213,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [DOCKER (SOFTWARE) INTERVIEW QUESTIONS & ANSWERS](https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html)
 * [30 Docker Interview Questions and Answers in 2019](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 * [Docker Interview Questions & Answers](https://www.interviewbit.com/docker-interview-questions/)
+* [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
 
 ### EmberJS
 
@@ -378,6 +382,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
 * [Cracking PHP Interviews Questions ebook 300+ Q&A](https://bootsity.com/books)
 * [PHP Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-php-interview-questions-answers/)
+* [30+ PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
 
 ### Python
 
@@ -396,7 +401,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
-* [Top 100 Python Interview Questions from Edureka (2020)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+* [Top 100 Python Interview Questions from Edureka (2021)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
 ### Ruby on Rails
 
@@ -459,6 +464,10 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [Top 50 Shell Scripting Interview Questions from Career Guru](http://career.guru99.com/shell-scripting-interview-questions/)
 
+### Spark
+
+* [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) ![GitHub Repo stars](https://img.shields.io/github/stars/ankurchavda/SparkLearning) ![GitHub last commit](https://img.shields.io/github/last-commit/ankurchavda/SparkLearning)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
+
 ### Swift
 
 * [10 Essential Swift Interview Questions from Toptal](http://www.toptal.com/swift/interview-questions)
@@ -468,6 +477,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 * [Dynamic keyword in Swift](https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3)
+
+### Vue.js
+* [List of 300 VueJS Interview Questions ![GitHub Repo stars](https://img.shields.io/github/stars/sudheerj/vuejs-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/sudheerj/vuejs-interview-questions)](https://github.com/sudheerj/vuejs-interview-questions)
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
@@ -573,6 +585,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Linux System Administrator/DevOps Interview Questions ![GitHub Repo stars](https://img.shields.io/github/stars/chassing/linux-sysadmin-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/chassing/linux-sysadmin-interview-questions)](https://github.com/chassing/linux-sysadmin-interview-questions)
 * [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 * [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
+* [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies ![GitHub Repo stars](https://img.shields.io/github/stars/rishabh115/Interview-Questions) ![GitHub last commit](https://img.shields.io/github/last-commit/rishabh115/Interview-Questions)](https://github.com/rishabh115/Interview-Questions)
@@ -623,6 +636,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ## Networks
 
 * [Top 100 Networking Interview Questions & Answers from Career Guru](http://career.guru99.com/top-100-networking-interview-questions-answers/)
+* [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
 ## Security
 
@@ -635,7 +649,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
-* [Top 45 Data Science Interview Questions You Must Prepare In 2019](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [Top 30 data science interview questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 * [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
