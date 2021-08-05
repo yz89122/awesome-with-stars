@@ -1696,7 +1696,7 @@ _Display non-editable events in a Calendar_
 - [vue-json-component ![GitHub Repo stars](https://img.shields.io/github/stars/tylerkrupicka/vue-json-component) ![GitHub last commit](https://img.shields.io/github/last-commit/tylerkrupicka/vue-json-component)](https://github.com/tylerkrupicka/vue-json-component) - JSON tree view with no dependencies, TypeScript support, and easy customization.
 - [vue-tree-list ![GitHub Repo stars](https://img.shields.io/github/stars/ParadeTo/vue-tree-list) ![GitHub last commit](https://img.shields.io/github/last-commit/ParadeTo/vue-tree-list)](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure
 - [vue-finder ![GitHub Repo stars](https://img.shields.io/github/stars/jledentu/vue-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/jledentu/vue-finder)](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
-- [vue3-router-tree ![GitHub Repo stars](https://img.shields.io/github/stars/boussadjra/vue3-router-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/boussadjra/vue3-router-tree)](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view ���.
+- [vue3-router-tree ![GitHub Repo stars](https://img.shields.io/github/stars/boussadjra/vue3-router-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/boussadjra/vue3-router-tree)](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view 🌲.
 - [object-visualizer ![GitHub Repo stars](https://img.shields.io/github/stars/iendeavor/object-visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/iendeavor/object-visualizer)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 - [vue-virtual-tree ![GitHub Repo stars](https://img.shields.io/github/stars/lycHub/vue-virtual-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/lycHub/vue-virtual-tree)](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
 
@@ -3048,7 +3048,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-pesdk ![GitHub Repo stars](https://img.shields.io/github/stars/imgly/pesdk-wrapper-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/imgly/pesdk-wrapper-vuejs)](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/vue-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/vue-resolve)](https://github.com/javisperez/vue-resolve)
   Resolve routes data before entering / rendering the component for that route.
-- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
+- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管��器
 
 #### Miscellaneous
 
