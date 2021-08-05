@@ -250,6 +250,7 @@
 - [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
 - [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
 - [VueJS Uzbekistan - Telegram Group [Uzbek]](https://t.me/vuejsuzbekcommunity)
+- [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
 
 ### Conferences
 
@@ -1306,6 +1307,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-ultimate-skeleton-cards ![GitHub Repo stars](https://img.shields.io/github/stars/neelansh15/vue-ultimate-skeleton-cards) ![GitHub last commit](https://img.shields.io/github/last-commit/neelansh15/vue-ultimate-skeleton-cards)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 - [vue-wait-for ![GitHub Repo stars](https://img.shields.io/github/stars/MeForma/vue-wait-for) ![GitHub last commit](https://img.shields.io/github/last-commit/MeForma/vue-wait-for)](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 - [vue-content-loader ![GitHub Repo stars](https://img.shields.io/github/stars/egoist/vue-content-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/egoist/vue-content-loader)](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
+- [vue3-circle-progress ![GitHub Repo stars](https://img.shields.io/github/stars/delowardev/vue3-circle-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/delowardev/vue3-circle-progress)](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
 
 ##### Progress Bar
 
@@ -3046,7 +3048,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-pesdk ![GitHub Repo stars](https://img.shields.io/github/stars/imgly/pesdk-wrapper-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/imgly/pesdk-wrapper-vuejs)](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/vue-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/vue-resolve)](https://github.com/javisperez/vue-resolve)
   Resolve routes data before entering / rendering the component for that route.
-- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
+- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管��器
 
 #### Miscellaneous
 
