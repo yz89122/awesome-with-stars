@@ -2107,7 +2107,7 @@ _Switch / on/off toggle / checkbox_
 - [element-tiptap ![GitHub Repo stars](https://img.shields.io/github/stars/Leecason/element-tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/Leecason/element-tiptap)](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg ![GitHub Repo stars](https://img.shields.io/github/stars/mycurelabs/vue-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/mycurelabs/vue-wysiwyg)](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 - [ckeditor4-vue ![GitHub Repo stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-vue)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️��� A Vue 3 rich text editor component based on Quill Editor.
+- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ##### Image Manipulation
 
@@ -3040,7 +3040,7 @@ _Utilities for building / compiling / bundling / loading assets_
 
 #### Page Navigation
 
-- [vue-navigation ![GitHub Repo stars](https://img.shields.io/github/stars/zack24q/vue-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/zack24q/vue-navigation)](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生 APP 导航一样。
+- [vue-navigation ![GitHub Repo stars](https://img.shields.io/github/stars/zack24q/vue-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/zack24q/vue-navigation)](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记���路由并缓存页面，像原生 APP 导航一样。
 - [vue-acl ![GitHub Repo stars](https://img.shields.io/github/stars/leonardovilarinho/vue-acl) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardovilarinho/vue-acl)](https://github.com/leonardovilarinho/vue-acl) - Access Control List for VueJS 2.
 - [vue-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/samturrell/vue-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/samturrell/vue-breadcrumbs)](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
 - [vue-2-breadcrumbs ![GitHub Repo stars](https://img.shields.io/github/stars/Scrum/vue-2-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/Scrum/vue-2-breadcrumbs)](https://github.com/Scrum/vue-2-breadcrumbs) - breadcrumb together with vue-router for Vue 2.x. and Bootstrap 4
