@@ -251,6 +251,9 @@
 - [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
 - [VueJS Uzbekistan - Telegram Group [Uzbek]](https://t.me/vuejsuzbekcommunity)
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
+- [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
+- [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
+
 
 ### Conferences
 
@@ -1595,13 +1598,13 @@ _Display non-editable events in a Calendar_
 - [vue-cal ![GitHub Repo stars](https://img.shields.io/github/stars/antoniandre/vue-cal) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniandre/vue-cal)](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. 🤘.
 - [vue-material-year-calendar ![GitHub Repo stars](https://img.shields.io/github/stars/nono1526/vue-material-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/nono1526/vue-material-year-calendar)](https://github.com/nono1526/vue-material-year-calendar) - A full year (12 months on a page) calendar for Vue2. Uses dayjs.
 - [vuelendar ![GitHub Repo stars](https://img.shields.io/github/stars/codesthq/vuelendar) ![GitHub last commit](https://img.shields.io/github/last-commit/codesthq/vuelendar)](https://github.com/codesthq/vuelendar) - Simple and clean calendar written in VueJS
-- [vue-datepicker-ui ![GitHub Repo stars](https://img.shields.io/github/stars/edisdev/vue-datepicker-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/edisdev/vue-datepicker-ui)](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue
 - [vue-date-tools ![GitHub Repo stars](https://img.shields.io/github/stars/misterfresh/vue-date-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/misterfresh/vue-date-tools)](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 - [vue-spring-calendar ![GitHub Repo stars](https://img.shields.io/github/stars/boussadjra/vue-spring-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/boussadjra/vue-spring-calendar)](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
 - [vue-jquery-calendar ![GitHub Repo stars](https://img.shields.io/github/stars/Parthfaladu/vue-jquery-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/Parthfaladu/vue-jquery-calendar)](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board ![GitHub Repo stars](https://img.shields.io/github/stars/jinfang134/vue-schedule-board) ![GitHub last commit](https://img.shields.io/github/last-commit/jinfang134/vue-schedule-board)](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
 - [vue-lunar-calendar-pro ![GitHub Repo stars](https://img.shields.io/github/stars/wangdaodao/vue-lunar-calendar-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/wangdaodao/vue-lunar-calendar-pro)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 - [vue-sweet-calendar ![GitHub Repo stars](https://img.shields.io/github/stars/maryayi/vue-sweet-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/maryayi/vue-sweet-calendar)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
+- [vue-datepicker-ui ![GitHub Repo stars](https://img.shields.io/github/stars/edisdev/vue-datepicker-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/edisdev/vue-datepicker-ui)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 
 #### Map
 
@@ -3048,7 +3051,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-pesdk ![GitHub Repo stars](https://img.shields.io/github/stars/imgly/pesdk-wrapper-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/imgly/pesdk-wrapper-vuejs)](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/vue-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/vue-resolve)](https://github.com/javisperez/vue-resolve)
   Resolve routes data before entering / rendering the component for that route.
-- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管��器
+- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
 
 #### Miscellaneous
 
