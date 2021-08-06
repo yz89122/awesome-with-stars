@@ -390,6 +390,7 @@ See also [awesome-tor ![GitHub Repo stars](https://img.shields.io/github/stars/a
 - [MITMEngine ![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/mitmengine) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/mitmengine)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
 - [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
+- [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
 ## macOS-based defenses
 
