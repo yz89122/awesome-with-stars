@@ -3048,7 +3048,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-pesdk ![GitHub Repo stars](https://img.shields.io/github/stars/imgly/pesdk-wrapper-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/imgly/pesdk-wrapper-vuejs)](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve ![GitHub Repo stars](https://img.shields.io/github/stars/javisperez/vue-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/javisperez/vue-resolve)](https://github.com/javisperez/vue-resolve)
   Resolve routes data before entering / rendering the component for that route.
-- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
+- [vue-page-stack ![GitHub Repo stars](https://img.shields.io/github/stars/hezhongfeng/vue-page-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/hezhongfeng/vue-page-stack)](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管��器
 
 #### Miscellaneous
 
