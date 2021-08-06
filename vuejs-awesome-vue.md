@@ -1507,7 +1507,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 - [vue-morris ![GitHub Repo stars](https://img.shields.io/github/stars/bbonnin/vue-morris) ![GitHub last commit](https://img.shields.io/github/last-commit/bbonnin/vue-morris)](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.
 - [vue-chartjs ![GitHub Repo stars](https://img.shields.io/github/stars/apertureless/vue-chartjs) ![GitHub last commit](https://img.shields.io/github/last-commit/apertureless/vue-chartjs)](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
-- [hchs-vue-charts ![GitHub Repo stars](https://img.shields.io/github/stars/hchstera/vue-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/hchstera/vue-charts)](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.
 - [vue-echarts ![GitHub Repo stars](https://img.shields.io/github/stars/Justineo/vue-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/Justineo/vue-echarts)](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
 - [vuetrend ![GitHub Repo stars](https://img.shields.io/github/stars/QingWei-Li/vue-trend) ![GitHub last commit](https://img.shields.io/github/last-commit/QingWei-Li/vue-trend)](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.
 - [vue-highcharts ![GitHub Repo stars](https://img.shields.io/github/stars/weizhenye/vue-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/weizhenye/vue-highcharts)](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
@@ -2108,7 +2107,7 @@ _Switch / on/off toggle / checkbox_
 - [element-tiptap ![GitHub Repo stars](https://img.shields.io/github/stars/Leecason/element-tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/Leecason/element-tiptap)](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg ![GitHub Repo stars](https://img.shields.io/github/stars/mycurelabs/vue-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/mycurelabs/vue-wysiwyg)](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 - [ckeditor4-vue ![GitHub Repo stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-vue)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️��� A Vue 3 rich text editor component based on Quill Editor.
 
 ##### Image Manipulation
 

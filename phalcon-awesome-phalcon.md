@@ -81,6 +81,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [Padlock ![GitHub Repo stars](https://img.shields.io/github/stars/tegaphilip/padlock) ![GitHub last commit](https://img.shields.io/github/last-commit/tegaphilip/padlock)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 * [phalcon-authmiddleware ![GitHub Repo stars](https://img.shields.io/github/stars/SidRoberts/phalcon-authmiddleware) ![GitHub last commit](https://img.shields.io/github/last-commit/SidRoberts/phalcon-authmiddleware)](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
+* [Phalcon Auth ![GitHub Repo stars](https://img.shields.io/github/stars/sinbadxiii/phalcon-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/sinbadxiii/phalcon-auth)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
 
 
 ## CMS & Blogs
