@@ -2107,7 +2107,7 @@ _Switch / on/off toggle / checkbox_
 - [element-tiptap ![GitHub Repo stars](https://img.shields.io/github/stars/Leecason/element-tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/Leecason/element-tiptap)](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg ![GitHub Repo stars](https://img.shields.io/github/stars/mycurelabs/vue-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/mycurelabs/vue-wysiwyg)](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 - [ckeditor4-vue ![GitHub Repo stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-vue)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️��� A Vue 3 rich text editor component based on Quill Editor.
+- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ##### Image Manipulation
 
