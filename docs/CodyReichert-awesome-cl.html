@@ -184,6 +184,8 @@ sellers who aren’t evil for physical resources.</p>
       <li><a href="#deployment">Deployment</a></li>
       <li><a href="#monitoring">Monitoring</a></li>
       <li><a href="#third-party-apis">Third-party APIs</a></li>
+      <li><a href="#web-project-skeletons-and-generators">Web project skeletons and generators</a></li>
+      <li><a href="#web-applications-examples">Web applications examples</a></li>
       <li><a href="#others">Others</a></li>
     </ul>
   </li>
@@ -418,7 +420,12 @@ work on Common Music shifted to (scheme-based) cm3.</li>
 
 <ul>
   <li>
-<a href="https://github.com/hanshuebner/bknr-datastore">bknr.datastore <img src="https://img.shields.io/github/stars/hanshuebner/bknr-datastore" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hanshuebner/bknr-datastore" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a CLOS-based lisp-only database in RAM with transaction logging persistence. <a href="https://www.common-lisp.net/project/bknr/html/documentation.html">Manual</a>. <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">licence</a>. (see also chap. 21 of “Common Lisp Recipes”)</li>
+<a href="https://github.com/hanshuebner/bknr-datastore">bknr.datastore <img src="https://img.shields.io/github/stars/hanshuebner/bknr-datastore" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hanshuebner/bknr-datastore" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a CLOS-based lisp-only database in RAM with transaction logging persistence. <a href="https://www.common-lisp.net/project/bknr/html/documentation.html">Manual</a>. <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">licence</a>.
+    <ul>
+      <li>see also this <a href="https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f">good introductory blog post</a>
+</li>
+    </ul>
+  </li>
   <li>
 <a href="https://github.com/Shinmera/ubiquitous">ubiquitous <img src="https://img.shields.io/github/stars/Shinmera/ubiquitous" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Shinmera/ubiquitous" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A library providing easy-to-use persistent configuration storage. <a href="https://directory.fsf.org/wiki/License:Zlib">zlib</a>.</li>
   <li>
@@ -1129,6 +1136,8 @@ programming library in the style of Eiffel’s Design by Contract ™. Public 
 
 <ul>
   <li>
+<a href="https://github.com/tdrhq/quick-patch/">quick-patch <img src="https://img.shields.io/github/stars/tdrhq/quick-patch" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/tdrhq/quick-patch" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  easily override quicklisp projects without using git submodules. MPL-2.0.</li>
+  <li>
 <a href="https://github.com/vindarel/print-licenses">print-licenses <img src="https://img.shields.io/github/stars/vindarel/print-licenses" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/vindarel/print-licenses" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - print licenses used by a project and its dependencies. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 
@@ -1472,6 +1481,53 @@ Service (S3) and CloudFront service. <a href="https://directory.fsf.org/wiki/Lic
 <a href="https://git.mfiano.net/mfiano/stripe">stripe</a> - a client for the Stripe payment system. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 
+<h2 id="web-project-skeletons-and-generators">Web project skeletons and generators</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/vindarel/cl-cookieweb">cl-cookieweb <img src="https://img.shields.io/github/stars/vindarel/cl-cookieweb" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/vindarel/cl-cookieweb" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a  Cookiecutter template to start a web project. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>. Not in Quicklisp.
+    <ul>
+      <li>Provides a working toy web app with the Hunchentoot web server, easy-routes, Djula templates, styled with Bulma, based on SQLite, with migrations, an example table definition and a test suite using FiveAM.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/container-lisp/make-like">make-like <img src="https://img.shields.io/github/stars/container-lisp/make-like" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/container-lisp/make-like" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. <a href="https://directory.fsf.org/wiki/License:ArtisticLicense2.0">Apache2.0</a>.
+    <ul>
+      <li>Makefile, podman support, GitHub Actions, Prometheus metrics support, TOML-style config.ini, easy-route preconfigured with health-check and more.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/rajasegar/cl-webapp-seed">cl-webapp-seed <img src="https://img.shields.io/github/stars/rajasegar/cl-webapp-seed" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rajasegar/cl-webapp-seed" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a simple web application boilerplate. Uses Hunchentoot, cl-who, deploys easily to Heroku. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+</ul>
+
+<h2 id="web-applications-examples">Web applications examples</h2>
+
+<p>These examples should stand out for something and have a unique
+feature hardly created with web project generators or existing
+libraries.</p>
+
+<ul>
+  <li>
+<a href="https://github.com/screenshotbot/screenshotbot-oss">screenshotbot-oss <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a Screenshot Testing service. This code powers https://screenshotbot.io.
+    <ul>
+      <li>uses Bknr.datastore as the datastore. Heavy use of their <a href="https://github.com/moderninterpreters/markup">markup <img src="https://img.shields.io/github/stars/moderninterpreters/markup" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/moderninterpreters/markup" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> library (JSX-like).</li>
+      <li>Closures as URLs (<a href="https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/nibble/nibble.asd">nibble <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>, not yet a standalone library). “Essentially, it allows me to create “anonymous” HTTP endpoints that evaluate a lambda. We integrate it with markup to make it pleasant to write multi-page web forms and flows. e.g. <a href="https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/screenshotbot/dashboard/api-keys.lisp#L84">Here’s a flow <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> that lets you delete an API key, but before deleting it it asks you for a confirmation.”</li>
+      <li>user auth and sessions.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Smaller demos:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/rajasegar/cl-trello-clone">cl-trello-clone <img src="https://img.shields.io/github/stars/rajasegar/cl-trello-clone" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rajasegar/cl-trello-clone" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a Trello clone demo app in Common Lisp. Built with HTMX and HyperScript. Caveman and Djula templates.
+    <ul>
+      <li>by the same author, see also <a href="https://github.com/rajasegar/cl-warehouse">cl-warehouse <img src="https://img.shields.io/github/stars/rajasegar/cl-warehouse" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rajasegar/cl-warehouse" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> and many more small demos.</li>
+    </ul>
+  </li>
+</ul>
+
 <h2 id="others">Others</h2>
 
 <ul>
@@ -1486,6 +1542,10 @@ Service (S3) and CloudFront service. <a href="https://directory.fsf.org/wiki/Lic
 <a href="https://github.com/eudoxia0/postmaster">Postmaster <img src="https://img.shields.io/github/stars/eudoxia0/postmaster" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/eudoxia0/postmaster" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A simple, easy-to-use SMTP/IMAP library. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
   <li>
 <a href="https://github.com/TatriX/cl-selenium-webdriver/">cl-selenium-webdriver <img src="https://img.shields.io/github/stars/TatriX/cl-selenium-webdriver" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/TatriX/cl-selenium-webdriver" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a binding library to Selenium 2.0.</li>
+  <li>
+<a href="https://github.com/cl-wget/cl-wget">cl-wget <img src="https://img.shields.io/github/stars/cl-wget/cl-wget" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cl-wget/cl-wget" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Makes retrieving large files or mirroring entire websites easy. <a href="https://directory.fsf.org/wiki/License:ArtisticLicense2.0">AGPL-3.0</a>.</li>
+  <li>
+<a href="https://github.com/eudoxia0/trivial-download">trivial-download <img src="https://img.shields.io/github/stars/eudoxia0/trivial-download" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/eudoxia0/trivial-download" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Download files. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 
 <h1 id="numerical-and-scientific">Numerical and Scientific</h1>
@@ -1659,7 +1719,12 @@ installer) and more. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/sharplispers/clawk">clawk <img src="https://img.shields.io/github/stars/sharplispers/clawk" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sharplispers/clawk" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.</li>
   <li>
-<a href="https://github.com/rpav/ScriptL">ScriptL <img src="https://img.shields.io/github/stars/rpav/ScriptL" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rpav/ScriptL" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+<a href="https://github.com/rpav/ScriptL">ScriptL <img src="https://img.shields.io/github/stars/rpav/ScriptL" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rpav/ScriptL" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.
+    <ul>
+      <li>similar and maybe simpler: <a href="https://notabug.org/quasus/lserver/">lserver</a>
+</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="command-line-options-parsers">Command-line options parsers</h2>
@@ -1668,8 +1733,7 @@ installer) and more. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>👍 <a href="https://github.com/mrkkrp/unix-opts">Unix-opts <img src="https://img.shields.io/github/stars/mrkkrp/unix-opts" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mrkkrp/unix-opts" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a command line
 options parser with a concise declaration of options. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
-<a href="https://github.com/didierverna/clon">CLON <img src="https://img.shields.io/github/stars/didierverna/clon" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/didierverna/clon" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a Command Line Options
-Nuker, with lots of options. <a href="https://github.com/didierverna/clon/blob/master/LICENSE">ISC <img src="https://img.shields.io/github/stars/didierverna/clon" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/didierverna/clon" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</li>
+<a href="https://github.com/sjl/adopt/">Adopt <img src="https://img.shields.io/github/stars/sjl/adopt" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sjl/adopt" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A Damn OPTion parsing library. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 
 <h2 id="readline-ncurses-and-other-graphical-helpers">Readline, ncurses and other graphical helpers</h2>
