@@ -117,6 +117,7 @@
 - [Ping CRM / CakePHP ![GitHub Repo stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-pingcrm) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephp-pingcrm)](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 - [Ping CRM / Masonite ![GitHub Repo stars](https://img.shields.io/github/stars/girardinsamuel/pingcrm-masonite) ![GitHub last commit](https://img.shields.io/github/last-commit/girardinsamuel/pingcrm-masonite)](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
 - [Ping CRM / React ![GitHub Repo stars](https://img.shields.io/github/stars/Landish/pingcrm-react) ![GitHub last commit](https://img.shields.io/github/last-commit/Landish/pingcrm-react)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+- [Ping CRM / Clojure ![GitHub Repo stars](https://img.shields.io/github/stars/prestancedesign/pingcrm-clojure) ![GitHub last commit](https://img.shields.io/github/last-commit/prestancedesign/pingcrm-clojure)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ### Other 
 
