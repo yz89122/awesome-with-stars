@@ -111,6 +111,8 @@ sellers who aren't evil for physical resources.
     - [Deployment](#deployment)
     - [Monitoring](#monitoring)
     - [Third-party APIs](#third-party-apis)
+    - [Web project skeletons and generators](#web-project-skeletons-and-generators)
+    - [Web applications examples](#web-applications-examples)
     - [Others](#others)
 - [Numerical and Scientific](#numerical-and-scientific)
     - [Matrix libraries](#matrix-libraries)
@@ -267,7 +269,8 @@ ORMs
 Persistent object databases
 ---------------------------
 
-* [bknr.datastore ![GitHub Repo stars](https://img.shields.io/github/stars/hanshuebner/bknr-datastore) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshuebner/bknr-datastore)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence][208]. (see also chap. 21 of "Common Lisp Recipes")
+* [bknr.datastore ![GitHub Repo stars](https://img.shields.io/github/stars/hanshuebner/bknr-datastore) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshuebner/bknr-datastore)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence][208]. 
+  * see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
 * [ubiquitous ![GitHub Repo stars](https://img.shields.io/github/stars/Shinmera/ubiquitous) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/ubiquitous)](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork ![GitHub Repo stars](https://img.shields.io/github/stars/40ants/cl-prevalence) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-prevalence)](https://github.com/40ants/cl-prevalence). [LLGPL][8]. See also [cl-prevalence-multimaster ![GitHub Repo stars](https://img.shields.io/github/stars/40ants/cl-prevalence-multimaster) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-prevalence-multimaster)](https://github.com/40ants/cl-prevalence-multimaster), to syncronize multiple cl-prevalence systems state.
 
@@ -726,6 +729,7 @@ Library Manager
 
 might help:
 
+* [quick-patch ![GitHub Repo stars](https://img.shields.io/github/stars/tdrhq/quick-patch) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/quick-patch)](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. MPL-2.0.
 * [print-licenses ![GitHub Repo stars](https://img.shields.io/github/stars/vindarel/print-licenses) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/print-licenses)](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT][200].
 
 ### Interfaces to other package managers
@@ -955,6 +959,33 @@ Service (S3) and CloudFront service. [BSD][15].
 * [multiposter ![GitHub Repo stars](https://img.shields.io/github/stars/Shinmera/multiposter) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/multiposter)](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib][33].
 * [stripe](https://git.mfiano.net/mfiano/stripe) - a client for the Stripe payment system. [MIT][200].
 
+Web project skeletons and generators
+------------------------------------
+
+* [cl-cookieweb ![GitHub Repo stars](https://img.shields.io/github/stars/vindarel/cl-cookieweb) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-cookieweb)](https://github.com/vindarel/cl-cookieweb) - a  Cookiecutter template to start a web project. [BSD_3Clause][15]. Not in Quicklisp.
+  * Provides a working toy web app with the Hunchentoot web server, easy-routes, Djula templates, styled with Bulma, based on SQLite, with migrations, an example table definition and a test suite using FiveAM.
+* [make-like ![GitHub Repo stars](https://img.shields.io/github/stars/container-lisp/make-like) ![GitHub last commit](https://img.shields.io/github/last-commit/container-lisp/make-like)](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0][51].
+  * Makefile, podman support, GitHub Actions, Prometheus metrics support, TOML-style config.ini, easy-route preconfigured with health-check and more.
+* [cl-webapp-seed ![GitHub Repo stars](https://img.shields.io/github/stars/rajasegar/cl-webapp-seed) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-webapp-seed)](https://github.com/rajasegar/cl-webapp-seed) - a simple web application boilerplate. Uses Hunchentoot, cl-who, deploys easily to Heroku. [MIT][200].
+
+Web applications examples
+-------------------------
+
+These examples should stand out for something and have a unique
+feature hardly created with web project generators or existing
+libraries.
+
+* [screenshotbot-oss ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss) - a Screenshot Testing service. This code powers https://screenshotbot.io.
+  * uses Bknr.datastore as the datastore. Heavy use of their [markup ![GitHub Repo stars](https://img.shields.io/github/stars/moderninterpreters/markup) ![GitHub last commit](https://img.shields.io/github/last-commit/moderninterpreters/markup)](https://github.com/moderninterpreters/markup) library (JSX-like).
+  * Closures as URLs ([nibble ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/nibble/nibble.asd), not yet a standalone library). "Essentially, it allows me to create "anonymous" HTTP endpoints that evaluate a lambda. We integrate it with markup to make it pleasant to write multi-page web forms and flows. e.g. [Here's a flow ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/screenshotbot/dashboard/api-keys.lisp#L84) that lets you delete an API key, but before deleting it it asks you for a confirmation."
+  * user auth and sessions.
+
+Smaller demos:
+
+* [cl-trello-clone ![GitHub Repo stars](https://img.shields.io/github/stars/rajasegar/cl-trello-clone) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-trello-clone)](https://github.com/rajasegar/cl-trello-clone) - a Trello clone demo app in Common Lisp. Built with HTMX and HyperScript. Caveman and Djula templates.
+  * by the same author, see also [cl-warehouse ![GitHub Repo stars](https://img.shields.io/github/stars/rajasegar/cl-warehouse) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-warehouse)](https://github.com/rajasegar/cl-warehouse) and many more small demos.
+
+
 Others
 ------
 
@@ -964,6 +995,8 @@ Others
 * [find-port ![GitHub Repo stars](https://img.shields.io/github/stars/eudoxia0/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/find-port)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
 * [Postmaster ![GitHub Repo stars](https://img.shields.io/github/stars/eudoxia0/postmaster) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/postmaster)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [cl-selenium-webdriver ![GitHub Repo stars](https://img.shields.io/github/stars/TatriX/cl-selenium-webdriver) ![GitHub last commit](https://img.shields.io/github/last-commit/TatriX/cl-selenium-webdriver)](https://github.com/TatriX/cl-selenium-webdriver/) - a binding library to Selenium 2.0.
+* [cl-wget ![GitHub Repo stars](https://img.shields.io/github/stars/cl-wget/cl-wget) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-wget/cl-wget)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
+* [trivial-download ![GitHub Repo stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT][200].
 
 Numerical and Scientific
 ========================
@@ -1080,14 +1113,14 @@ Writing, running scripts
 * [cl-all ![GitHub Repo stars](https://img.shields.io/github/stars/shinmera/cl-all) ![GitHub last commit](https://img.shields.io/github/last-commit/shinmera/cl-all)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib][33].
 * [clawk ![GitHub Repo stars](https://img.shields.io/github/stars/sharplispers/clawk) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/clawk)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 * [ScriptL ![GitHub Repo stars](https://img.shields.io/github/stars/rpav/ScriptL) ![GitHub last commit](https://img.shields.io/github/last-commit/rpav/ScriptL)](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL][8].
+  * similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
 
 Command-line options parsers
 ----------------------------
 
 * 👍 [Unix-opts ![GitHub Repo stars](https://img.shields.io/github/stars/mrkkrp/unix-opts) ![GitHub last commit](https://img.shields.io/github/last-commit/mrkkrp/unix-opts)](https://github.com/mrkkrp/unix-opts) - a command line
   options parser with a concise declaration of options. [MIT][200].
-* [CLON ![GitHub Repo stars](https://img.shields.io/github/stars/didierverna/clon) ![GitHub last commit](https://img.shields.io/github/last-commit/didierverna/clon)](https://github.com/didierverna/clon) - a Command Line Options
-  Nuker, with lots of options. [ISC ![GitHub Repo stars](https://img.shields.io/github/stars/didierverna/clon) ![GitHub last commit](https://img.shields.io/github/last-commit/didierverna/clon)](https://github.com/didierverna/clon/blob/master/LICENSE).
+* [Adopt ![GitHub Repo stars](https://img.shields.io/github/stars/sjl/adopt) ![GitHub last commit](https://img.shields.io/github/last-commit/sjl/adopt)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT][200].
 
 Readline, ncurses and other graphical helpers
 --------------------------------------------
