@@ -511,6 +511,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo stars](
 * [skeema ![GitHub Repo stars](https://img.shields.io/github/stars/skeema/skeema) ![GitHub last commit](https://img.shields.io/github/last-commit/skeema/skeema)](https://github.com/skeema/skeema) - Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools.
 * [soda ![GitHub Repo stars](https://img.shields.io/github/stars/gobuffalo/pop) ![GitHub last commit](https://img.shields.io/github/last-commit/gobuffalo/pop)](https://github.com/gobuffalo/pop/tree/master/soda) - Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.
 * [sql-migrate ![GitHub Repo stars](https://img.shields.io/github/stars/rubenv/sql-migrate) ![GitHub last commit](https://img.shields.io/github/last-commit/rubenv/sql-migrate)](https://github.com/rubenv/sql-migrate) - Database migration tool. Allows embedding migrations into the application using go-bindata.
+* [sqlize ![GitHub Repo stars](https://img.shields.io/github/stars/sunary/sqlize) ![GitHub last commit](https://img.shields.io/github/last-commit/sunary/sqlize)](https://github.com/sunary/sqlize) - Database migration generator. Allows generate sql migration from model and existing sql by differ them.
 
 *Database tools.*
 
