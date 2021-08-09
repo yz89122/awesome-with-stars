@@ -1706,6 +1706,7 @@ _Display non-editable events in a Calendar_
 
 - [vue-pipeline ![GitHub Repo stars](https://img.shields.io/github/stars/jinfang134/vue-pipeline) ![GitHub last commit](https://img.shields.io/github/last-commit/jinfang134/vue-pipeline)](https://github.com/jinfang134/vue-pipeline) - A easy-to-use component to show beautiful responsive pipeline like jenkins blue ocean plugin.
 - [vnodes ![GitHub Repo stars](https://img.shields.io/github/stars/txlabs/vnodes) ![GitHub last commit](https://img.shields.io/github/last-commit/txlabs/vnodes)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+- [v-network-graph ![GitHub Repo stars](https://img.shields.io/github/stars/dash14/v-network-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/dash14/v-network-graph)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 
 #### Social Sharing
 
@@ -1858,6 +1859,7 @@ _Display non-editable events in a Calendar_
 - [vue-advanced-chat ![GitHub Repo stars](https://img.shields.io/github/stars/antoine92190/vue-advanced-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/antoine92190/vue-advanced-chat)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-visual-filter ![GitHub Repo stars](https://img.shields.io/github/stars/obadakhalili/vue-visual-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/obadakhalili/vue-visual-filter)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 - [vue-easter-egg-trigger ![GitHub Repo stars](https://img.shields.io/github/stars/webdevnerdstuff/vue-easter-egg-trigger) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vue-easter-egg-trigger)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site.
+- [vue-word-highlighter ![GitHub Repo stars](https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter) ![GitHub last commit](https://img.shields.io/github/last-commit/kawamataryo/vue-word-highlighter)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 
 #### Tabs
 
@@ -2107,7 +2109,7 @@ _Switch / on/off toggle / checkbox_
 - [element-tiptap ![GitHub Repo stars](https://img.shields.io/github/stars/Leecason/element-tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/Leecason/element-tiptap)](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg ![GitHub Repo stars](https://img.shields.io/github/stars/mycurelabs/vue-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/mycurelabs/vue-wysiwyg)](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 - [ckeditor4-vue ![GitHub Repo stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-vue)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️��� A Vue 3 rich text editor component based on Quill Editor.
+- [vue-quill ![GitHub Repo stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ##### Image Manipulation
 

@@ -80,6 +80,7 @@
 - [CodeIgniter ![GitHub Repo stars](https://img.shields.io/github/stars/amiranagram/inertia-codeigniter-4) ![GitHub last commit](https://img.shields.io/github/last-commit/amiranagram/inertia-codeigniter-4)](https://github.com/amiranagram/inertia-codeigniter-4)
 - [Go ![GitHub Repo stars](https://img.shields.io/github/stars/petaki/inertia-go) ![GitHub last commit](https://img.shields.io/github/last-commit/petaki/inertia-go)](https://github.com/petaki/inertia-go)
 - [PSR-15 ![GitHub Repo stars](https://img.shields.io/github/stars/cherifGsoul/inertia-psr15) ![GitHub last commit](https://img.shields.io/github/last-commit/cherifGsoul/inertia-psr15)](https://github.com/cherifGsoul/inertia-psr15)
+- [Rust ![GitHub Repo stars](https://img.shields.io/github/stars/stuarth/inertia-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/stuarth/inertia-rs)](https://github.com/stuarth/inertia-rs)
 
 ## Resources
 
