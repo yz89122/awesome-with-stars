@@ -321,7 +321,12 @@ work on Common Music shifted to (scheme-based) cm3.</li>
 <h1 id="build-systems">Build Systems</h1>
 
 <ul>
-  <li>:star: <a href="https://common-lisp.net/project/asdf/">ASDF</a> - Another System Definition Facility; a build system for Common Lisp. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
+  <li>:star: <a href="https://common-lisp.net/project/asdf/">ASDF</a> - Another System Definition Facility; a build system for Common Lisp. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>. Quicklisp (see <a href="#library-manager">library manager</a>) uses ASDF under the hood.
+    <ul>
+      <li>
+<a href="https://common-lisp.net/project/asdf/#extensions">known ASDF extensions</a>, such as <code class="language-plaintext highlighter-rouge">asdf-system-connections</code>, that lets you specify systems that are automatically loaded when two other systems are loaded, to connect them.</li>
+    </ul>
+  </li>
   <li>
 <a href="https://github.com/eudoxia0/asdf-linguist">asdf-linguist <img src="https://img.shields.io/github/stars/eudoxia0/asdf-linguist" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/eudoxia0/asdf-linguist" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Extensions for ASDF. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
   <li>
