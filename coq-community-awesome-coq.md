@@ -75,12 +75,13 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Package and Build Management
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - Build tool distributed with Coq and based on generating a makefile.
+- [Coq Nix Toolbox ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-nix-toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-nix-toolbox)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and CI for Coq.
 - [Coq Package Index](https://coq.inria.fr/packages.html) - OPAM-based collection of Coq packages.
-- [Coq Platform ![GitHub Repo stars](https://img.shields.io/github/stars/MSoegtropIMC/coq-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/MSoegtropIMC/coq-platform)](https://github.com/MSoegtropIMC/coq-platform) - Experimental curated collection of packages to support Coq use in industry, education, and research.
-- [Coq-community Templates ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/templates)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
+- [Coq platform ![GitHub Repo stars](https://img.shields.io/github/stars/coq/platform) ![GitHub last commit](https://img.shields.io/github/last-commit/coq/platform)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
+- [coq-community Templates ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/templates)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
 - [Docker-Coq ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/docker-coq) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/docker-coq)](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
 - [Docker-MathComp ![GitHub Repo stars](https://img.shields.io/github/stars/math-comp/docker-mathcomp) ![GitHub last commit](https://img.shields.io/github/last-commit/math-comp/docker-mathcomp)](https://github.com/math-comp/docker-mathcomp) - Docker images for many combinations of versions of Coq and the Mathematical Components library.
-- [Docker-Coq-action ![GitHub Repo stars](https://img.shields.io/github/stars/marketplace/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/actions)](https://github.com/marketplace/actions/docker-coq-action) - GitHub container action that can be used with Docker-Coq or Docker-MathComp.
+- [Docker-Coq GitHub Action ![GitHub Repo stars](https://img.shields.io/github/stars/marketplace/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/actions)](https://github.com/marketplace/actions/docker-coq-action) - GitHub container action that can be used with Docker-Coq or Docker-MathComp.
 - [Dune](https://dune.build) - Composable and opinionated build system for Coq and OCaml (former jbuilder).
 - [Nix](https://nixos.org/nix/) - Package manager for Linux and other Unix systems, supporting atomic upgrades and rollbacks.
 - [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Collection of Coq-related packages for Nix.
@@ -104,6 +105,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Tools
 
+- [Alectryon ![GitHub Repo stars](https://img.shields.io/github/stars/cpitclaudel/alectryon) ![GitHub last commit](https://img.shields.io/github/last-commit/cpitclaudel/alectryon)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [coq2html ![GitHub Repo stars](https://img.shields.io/github/stars/xavierleroy/coq2html) ![GitHub last commit](https://img.shields.io/github/last-commit/xavierleroy/coq2html)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 - [CoqOfOCaml ![GitHub Repo stars](https://img.shields.io/github/stars/clarus/coq-of-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/clarus/coq-of-ocaml)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
@@ -131,6 +133,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Four Color Theorem ![GitHub Repo stars](https://img.shields.io/github/stars/math-comp/fourcolor) ![GitHub last commit](https://img.shields.io/github/last-commit/math-comp/fourcolor)](https://github.com/math-comp/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 - [Gaia ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/gaia) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/gaia)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 - [GeoCoq ![GitHub Repo stars](https://img.shields.io/github/stars/GeoCoq/GeoCoq) ![GitHub last commit](https://img.shields.io/github/last-commit/GeoCoq/GeoCoq)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+- [Goedel ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/goedel) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/goedel)](https://github.com/coq-community/goedel) - Constructive proof of the Gödel-Rosser incompleteness theorem.
 - [Graph Theory ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/graph-theory) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/graph-theory)](https://github.com/coq-community/graph-theory) - Formalized graph theory results.
 - [Homotopy Type Theory ![GitHub Repo stars](https://img.shields.io/github/stars/HoTT/HoTT) ![GitHub last commit](https://img.shields.io/github/last-commit/HoTT/HoTT)](https://github.com/HoTT/HoTT) - Development of homotopy-theoretic ideas.
 - [Infotheo ![GitHub Repo stars](https://img.shields.io/github/stars/affeldt-aist/infotheo) ![GitHub last commit](https://img.shields.io/github/last-commit/affeldt-aist/infotheo)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
@@ -143,6 +146,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Verified Software
 
 - [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
+- [Ceramist ![GitHub Repo stars](https://img.shields.io/github/stars/certichain/ceramist) ![GitHub last commit](https://img.shields.io/github/last-commit/certichain/ceramist)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
 - [Fiat-Crypto ![GitHub Repo stars](https://img.shields.io/github/stars/mit-plv/fiat-crypto) ![GitHub last commit](https://img.shields.io/github/last-commit/mit-plv/fiat-crypto)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - Verified OCaml implementation of an algorithm for incremental cycle detection in graphs.
 - [JSCert ![GitHub Repo stars](https://img.shields.io/github/stars/jscert/jscert) ![GitHub last commit](https://img.shields.io/github/last-commit/jscert/jscert)](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
@@ -162,6 +166,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
 - [Official Coq wiki ![GitHub Repo stars](https://img.shields.io/github/stars/coq/coq) ![GitHub last commit](https://img.shields.io/github/last-commit/coq/coq)](https://github.com/coq/coq/wiki)
 - [Official Coq Twitter](https://twitter.com/CoqLang)
+- [100 famous theorems proved using Coq ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-100-theorems) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-100-theorems)](https://github.com/coq-community/coq-100-theorems)
 - [coq-community package maintenance project ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/manifesto) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/manifesto)](https://github.com/coq-community/manifesto)
 - [Coq subreddit](https://www.reddit.com/r/coq/)
 - [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
@@ -203,6 +208,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - Online proving challenges.
 - [Coq'Art Exercises and Tutorials ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-art) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-art)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
+- [Hydra battles and Cie ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/hydra-battles) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/hydra-battles)](https://github.com/coq-community/hydra-battles) - Variations on Kirby and Paris' hydra battles and other entertaining math in Coq, including documentation and exercises.
 - [Lemma Overloading ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/lemma-overloading) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/lemma-overloading)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
+- [MathComp Tutorial Materials ![GitHub Repo stars](https://img.shields.io/github/stars/math-comp/tutorial_material) ![GitHub last commit](https://img.shields.io/github/last-commit/math-comp/tutorial_material)](https://github.com/math-comp/tutorial_material) - Source code for Mathematical Components tutorials.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 - [Tricks in Coq ![GitHub Repo stars](https://img.shields.io/github/stars/tchajed/coq-tricks) ![GitHub last commit](https://img.shields.io/github/last-commit/tchajed/coq-tricks)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
