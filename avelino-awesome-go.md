@@ -1511,7 +1511,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
-* [beego orm ![GitHub Repo stars](https://img.shields.io/github/stars/astaxie/beego) ![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/beego)](https://github.com/astaxie/beego/tree/master/orm) - Powerful orm framework for go. Support: pq/mysql/sqlite3.
+* [beego orm ![GitHub Repo stars](https://img.shields.io/github/stars/beego/beego) ![GitHub last commit](https://img.shields.io/github/last-commit/beego/beego)](https://github.com/beego/beego) - Powerful orm framework for go. Support: pq/mysql/sqlite3.
 * [ent ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/ent) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/ent)](https://github.com/facebook/ent) - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
 * [go-firestorm ![GitHub Repo stars](https://img.shields.io/github/stars/jschoedt/go-firestorm) ![GitHub last commit](https://img.shields.io/github/last-commit/jschoedt/go-firestorm)](https://github.com/jschoedt/go-firestorm) - A simple ORM for Google/Firebase Cloud Firestore.
 * [go-pg ![GitHub Repo stars](https://img.shields.io/github/stars/go-pg/pg) ![GitHub last commit](https://img.shields.io/github/last-commit/go-pg/pg)](https://github.com/go-pg/pg) - PostgreSQL ORM with focus on PostgreSQL specific features and performance.
