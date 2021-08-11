@@ -137,6 +137,7 @@
 * [next-deploy ![GitHub Repo stars](https://img.shields.io/github/stars/lone-cloud/next-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/lone-cloud/next-deploy)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 * [next-joi ![GitHub Repo stars](https://img.shields.io/github/stars/codecoolture/next-joi) ![GitHub last commit](https://img.shields.io/github/last-commit/codecoolture/next-joi)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 * [next-transpile-modules ![GitHub Repo stars](https://img.shields.io/github/stars/martpie/next-transpile-modules) ![GitHub last commit](https://img.shields.io/github/last-commit/martpie/next-transpile-modules)](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
+* [Destack for Next.js ![GitHub Repo stars](https://img.shields.io/github/stars/liveduo/destack) ![GitHub last commit](https://img.shields.io/github/last-commit/liveduo/destack)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## Apps
 * [CourseLit ![GitHub Repo stars](https://img.shields.io/github/stars/codelit/courselit) ![GitHub last commit](https://img.shields.io/github/last-commit/codelit/courselit)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
