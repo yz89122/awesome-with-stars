@@ -75,7 +75,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Package and Build Management
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - Build tool distributed with Coq and based on generating a makefile.
-- [Coq Nix Toolbox ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-nix-toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-nix-toolbox)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and CI for Coq.
+- [Coq Nix Toolbox ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/coq-nix-toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/coq-nix-toolbox)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 - [Coq Package Index](https://coq.inria.fr/packages.html) - OPAM-based collection of Coq packages.
 - [Coq platform ![GitHub Repo stars](https://img.shields.io/github/stars/coq/platform) ![GitHub last commit](https://img.shields.io/github/last-commit/coq/platform)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 - [coq-community Templates ![GitHub Repo stars](https://img.shields.io/github/stars/coq-community/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/templates)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
@@ -106,6 +106,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Tools
 
 - [Alectryon ![GitHub Repo stars](https://img.shields.io/github/stars/cpitclaudel/alectryon) ![GitHub last commit](https://img.shields.io/github/last-commit/cpitclaudel/alectryon)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+- [Autosubst 2 ![GitHub Repo stars](https://img.shields.io/github/stars/uds-psl/autosubst2) ![GitHub last commit](https://img.shields.io/github/last-commit/uds-psl/autosubst2)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [coq2html ![GitHub Repo stars](https://img.shields.io/github/stars/xavierleroy/coq2html) ![GitHub last commit](https://img.shields.io/github/last-commit/xavierleroy/coq2html)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 - [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool generating LaTeX or HTML files from Coq code.
