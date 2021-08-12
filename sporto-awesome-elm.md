@@ -70,6 +70,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Codings hints ![GitHub Repo stars](https://img.shields.io/github/stars/elm/compiler) ![GitHub last commit](https://img.shields.io/github/last-commit/elm/compiler)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
 * [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 * [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
+* [Awesome Elm PLTD ![GitHub Repo stars](https://img.shields.io/github/stars/pd-andy/awesome-elm-pltd) ![GitHub last commit](https://img.shields.io/github/last-commit/pd-andy/awesome-elm-pltd)](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -313,7 +314,6 @@ You can find hundreds of high quality packages at:
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
 * [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
-* [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
 * [run-elm ![GitHub Repo stars](https://img.shields.io/github/stars/jfairbank/run-elm) ![GitHub last commit](https://img.shields.io/github/last-commit/jfairbank/run-elm)](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
@@ -493,6 +493,7 @@ You can find hundreds of high quality packages at:
 * [iOS ![GitHub Repo stars](https://img.shields.io/github/stars/pzp1997/elm-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/pzp1997/elm-ios)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 * [elmish-wasm ![GitHub Repo stars](https://img.shields.io/github/stars/Chadtech/elmish-wasm) ![GitHub last commit](https://img.shields.io/github/last-commit/Chadtech/elmish-wasm)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless ![GitHub Repo stars](https://img.shields.io/github/stars/ktonon/elm-serverless) ![GitHub last commit](https://img.shields.io/github/last-commit/ktonon/elm-serverless)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+* [elm-posix ![GitHub Repo stars](https://img.shields.io/github/stars/albertdahlin/elm-posix) ![GitHub last commit](https://img.shields.io/github/last-commit/albertdahlin/elm-posix)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
 **[:top: back to top](#table-of-contents)**
 
