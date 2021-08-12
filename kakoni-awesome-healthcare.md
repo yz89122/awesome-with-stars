@@ -77,7 +77,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Cornerstone ![GitHub Repo stars](https://img.shields.io/github/stars/cornerstonejs/cornerstone) ![GitHub last commit](https://img.shields.io/github/last-commit/cornerstonejs/cornerstone)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Drishti ![GitHub Repo stars](https://img.shields.io/github/stars/nci/drishti) ![GitHub last commit](https://img.shields.io/github/last-commit/nci/drishti)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
-  * [DICOMcloud ![GitHub Repo stars](https://img.shields.io/github/stars/DICOMcloud/DICOMcloud) ![GitHub last commit](https://img.shields.io/github/last-commit/DICOMcloud/DICOMcloud)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services
+  * [DICOMcloud ![GitHub Repo stars](https://img.shields.io/github/stars/DICOMcloud/DICOMcloud) ![GitHub last commit](https://img.shields.io/github/last-commit/DICOMcloud/DICOMcloud)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+  * [DICOM Server ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/dicom-server) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/dicom-server)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
   * [Fiji](https://imagej.net/Fiji) - Open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
@@ -105,6 +106,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [CareKit ![GitHub Repo stars](https://img.shields.io/github/stars/carekit-apple/CareKit) ![GitHub last commit](https://img.shields.io/github/last-commit/carekit-apple/CareKit)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
   * [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
+  * [FHIR Proxy ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/fhir-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fhir-proxy)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
   * [FHIR Works on AWS ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/fhir-works-on-aws-deployment) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/fhir-works-on-aws-deployment)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
   * [FHIR Server for Azure ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/fhir-server) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/fhir-server)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
   * [IBM FHIR Server ![GitHub Repo stars](https://img.shields.io/github/stars/IBM/FHIR) ![GitHub last commit](https://img.shields.io/github/last-commit/IBM/FHIR)](https://github.com/IBM/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
@@ -150,6 +152,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LabKey Server](https://www.labkey.org) - Platform for Translational Research.
 
 ### Integration
+  * [FHIR Converter ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/FHIR-Converter) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/FHIR-Converter)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
   * [NextGen Connect Integration Engine ![GitHub Repo stars](https://img.shields.io/github/stars/nextgenhealthcare/connect) ![GitHub last commit](https://img.shields.io/github/last-commit/nextgenhealthcare/connect)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [OpenHIM](http://openhim.org/) - Health information mediator.
   * [Open Source Mirth Transforms ![GitHub Repo stars](https://img.shields.io/github/stars/daticahealth/Mirth-Transforms) ![GitHub last commit](https://img.shields.io/github/last-commit/daticahealth/Mirth-Transforms)](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
