@@ -36,7 +36,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EHRServer ![GitHub Repo stars](https://img.shields.io/github/stars/ppazos/cabolabs-ehrserver) ![GitHub last commit](https://img.shields.io/github/last-commit/ppazos/cabolabs-ehrserver)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
   * [ERPNext](https://erpnext.com/open-source-healthcare) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
   * [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository.
-  * [FreeHealth EHR](https://freehealth.io) - Electronic Health Record software.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
   * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
@@ -80,7 +79,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DICOMcloud ![GitHub Repo stars](https://img.shields.io/github/stars/DICOMcloud/DICOMcloud) ![GitHub last commit](https://img.shields.io/github/last-commit/DICOMcloud/DICOMcloud)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
   * [DICOM Server ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/dicom-server) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/dicom-server)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
-  * [Fiji](https://imagej.net/Fiji) - Open-source platform for biological-image analysis.
+  * [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https://horosproject.org) - Medical image viewer.
   * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
@@ -158,7 +157,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Open Source Mirth Transforms ![GitHub Repo stars](https://img.shields.io/github/stars/daticahealth/Mirth-Transforms) ![GitHub last commit](https://img.shields.io/github/last-commit/daticahealth/Mirth-Transforms)](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
 
 ### Hardware
-  * [echOpen](http://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
+  * [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
   * [Gluco ![GitHub Repo stars](https://img.shields.io/github/stars/nebulabio/gluco) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulabio/gluco)](https://github.com/nebulabio/gluco) - Glucometer.
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
@@ -176,7 +175,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Inferno ![GitHub Repo stars](https://img.shields.io/github/stars/onc-healthit/inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/onc-healthit/inferno)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
-  * [OpenSAFELY](https://opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
+  * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl ![GitHub Repo stars](https://img.shields.io/github/stars/b2ihealthcare/snow-owl) ![GitHub last commit](https://img.shields.io/github/last-commit/b2ihealthcare/snow-owl)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator ![GitHub Repo stars](https://img.shields.io/github/stars/synthetichealth/synthea) ![GitHub last commit](https://img.shields.io/github/last-commit/synthetichealth/synthea)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
