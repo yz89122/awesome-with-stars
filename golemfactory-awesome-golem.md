@@ -116,6 +116,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### RNG
 - [Gandom ![GitHub Repo stars](https://img.shields.io/github/stars/rezahsnz/gandom) ![GitHub last commit](https://img.shields.io/github/last-commit/rezahsnz/gandom)](https://github.com/rezahsnz/gandom) - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
+- [Entropythief ![GitHub Repo stars](https://img.shields.io/github/stars/krunch3r76/entropythief) ![GitHub last commit](https://img.shields.io/github/last-commit/krunch3r76/entropythief)](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 
 ### Password Recovery
 - [Golem-JTR ![GitHub Repo stars](https://img.shields.io/github/stars/hhio618/golem-jtr) ![GitHub last commit](https://img.shields.io/github/last-commit/hhio618/golem-jtr)](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
