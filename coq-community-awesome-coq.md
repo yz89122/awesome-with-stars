@@ -121,7 +121,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [mCoq ![GitHub Repo stars](https://img.shields.io/github/stars/EngineeringSoftware/mcoq) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineeringSoftware/mcoq)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
 - [Ott ![GitHub Repo stars](https://img.shields.io/github/stars/ott-lang/ott) ![GitHub last commit](https://img.shields.io/github/last-commit/ott-lang/ott)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 - [Roosterize ![GitHub Repo stars](https://img.shields.io/github/stars/EngineeringSoftware/roosterize) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineeringSoftware/roosterize)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
-- [SerAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ejgallego/coq-serapi) ![GitHub last commit](https://img.shields.io/github/last-commit/ejgallego/coq-serapi)](https://github.com/ejgallego/coq-serapi) - Library and tools for (de)serialization of Coq code to and from JSON and S-expressions.
+- [SerAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ejgallego/coq-serapi) ![GitHub last commit](https://img.shields.io/github/last-commit/ejgallego/coq-serapi)](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
 
 ### Type Theory and Mathematics
 
@@ -205,7 +205,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Course Material
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - Introduction to using separation logic to reason about sequential imperative programs in Coq.
-- [Introduction to Computational Logic](https://courses.ps.uni-saarland.de/icl_20/2/Resources) - Introduction to basic logic principles, constructive type theory, and interactive theorem proving with Coq.
+- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - Introduction to basic logic principles, constructive type theory, and interactive theorem proving with Coq.
 
 ### Tutorials and Hints
 
