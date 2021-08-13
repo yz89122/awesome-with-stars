@@ -1,4 +1,4 @@
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
@@ -1004,6 +1004,7 @@ be
 * [lightly ![GitHub Repo stars](https://img.shields.io/github/stars/lightly-ai/lightly) ![GitHub last commit](https://img.shields.io/github/last-commit/lightly-ai/lightly)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 * [Learnergy ![GitHub Repo stars](https://img.shields.io/github/stars/gugarosa/learnergy) ![GitHub last commit](https://img.shields.io/github/last-commit/gugarosa/learnergy)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 * [OpenVisionAPI](https://github.com/openvisionapi) - Open source computer vision API based on open source models.
+* [IoT Owl ![GitHub Repo stars](https://img.shields.io/github/stars/Ret2Me/IoT-Owl) ![GitHub last commit](https://img.shields.io/github/last-commit/Ret2Me/IoT-Owl)](https://github.com/Ret2Me/IoT-Owl) - Light face detection and recognition system with huge possibilities, based on Microsoft Face API and TensorFlow made for small IoT devices like raspberry pi.
 
 <a name="python-natural-language-processing"></a>
 #### Natural Language Processing
