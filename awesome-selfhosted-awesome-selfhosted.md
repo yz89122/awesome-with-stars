@@ -10,6 +10,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 --------------------
 
+
 ## Table of contents
 
 Click on the menu icon next to [README.md](#readme) for a list of sections
@@ -235,6 +236,7 @@ _Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 - [homebox ![GitHub Repo stars](https://img.shields.io/github/stars/progmaticltd/homebox) ![GitHub last commit](https://img.shields.io/github/last-commit/progmaticltd/homebox)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 - [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Inboxen/Inboxen) ![GitHub last commit](https://img.shields.io/github/last-commit/Inboxen/Inboxen)](https://github.com/Inboxen/Inboxen)) `GPL-3.0` `Python`
 - [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/iredmail/iRedMail) ![GitHub last commit](https://img.shields.io/github/last-commit/iredmail/iRedMail)](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`
+- [Maddy Mail Server ![GitHub Repo stars](https://img.shields.io/github/stars/foxcpp/maddy) ![GitHub last commit](https://img.shields.io/github/last-commit/foxcpp/maddy)](https://github.com/foxcpp/maddy) - All-in-one mail server that implements SMTP (both MTA and MX) and IMAP. Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon. `GPL-3.0` `Go`
 - [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mail-in-a-box/mailinabox) ![GitHub last commit](https://img.shields.io/github/last-commit/mail-in-a-box/mailinabox)](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
 - [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized) ![GitHub last commit](https://img.shields.io/github/last-commit/mailcow/mailcow-dockerized)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
 - [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Demo ![GitHub Repo stars](https://img.shields.io/github/stars/Mailu/Mailu) ![GitHub last commit](https://img.shields.io/github/last-commit/Mailu/Mailu)](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/Mailu/Mailu) ![GitHub last commit](https://img.shields.io/github/last-commit/Mailu/Mailu)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
@@ -431,6 +433,23 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/jsxc/jsxc) ![GitHub last commit](https://img.shields.io/github/last-commit/jsxc/jsxc)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 - [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi. ([Source Code](http://repos.goffi.org/libervia)) `AGPL-3.0` `Python`
 - [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend, libre and decentralized communication tool. ([Source Code](http://repos.goffi.org/sat)) `AGPL-3.0` `Python`
+
+
+### Community-Supported Agriculture (CSA)
+
+**[`^        back to top        ^`](#)**
+
+_Management and administration tools for community supported agriculture and food cooperatives_
+
+- [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/acp-admin/acp-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/acp-admin/acp-admin)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
+- [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a "foodhub" : A mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/CagetteNet/cagette) ![GitHub last commit](https://img.shields.io/github/last-commit/CagetteNet/cagette)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
+- [Foodcoopshop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/foodcoopshop/foodcoopshop) ![GitHub last commit](https://img.shields.io/github/last-commit/foodcoopshop/foodcoopshop)](https://github.com/foodcoopshop/foodcoopshop)) `MIT` `PHP`
+- [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/foodcoops/foodsoft) ![GitHub last commit](https://img.shields.io/github/last-commit/foodcoops/foodsoft)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
+- [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/juntagrico/juntagrico) ![GitHub last commit](https://img.shields.io/github/last-commit/juntagrico/juntagrico)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
+- [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
+- [Open Food Network](https://www.openfoodnetwork.org/) - Connect suppliers, distributors and consumers to trade local produce. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/openfoodfoundation/openfoodnetwork) ![GitHub last commit](https://img.shields.io/github/last-commit/openfoodfoundation/openfoodnetwork)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
+- [OpenOlitor](https://openolitor.org/) - Administration platform for Community Supported Agriculture groups. ([Source Code](https://github.com/OpenOlitor)) `AGPL-3.0` `Scala`
+- [teikei ![GitHub Repo stars](https://img.shields.io/github/stars/teikei/teikei) ![GitHub last commit](https://img.shields.io/github/last-commit/teikei/teikei)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
 
 
 ### Conference Management
@@ -1118,7 +1137,7 @@ _Related: [Wikis](#wikis)_
 - [Paperwork](https://paperwork.cloud) - OpenSource note-taking and archiving alternative to Evernote, Microsoft OneNote and Google Keep. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/paperwork/paperwork) ![GitHub last commit](https://img.shields.io/github/last-commit/paperwork/paperwork)](https://github.com/paperwork/paperwork)) `MIT` `PHP`
 - [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/alextselegidis/plainpad) ![GitHub last commit](https://img.shields.io/github/last-commit/alextselegidis/plainpad)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 - [savepad ![GitHub Repo stars](https://img.shields.io/github/stars/shelltr/textpad) ![GitHub last commit](https://img.shields.io/github/last-commit/shelltr/textpad)](https://github.com/shelltr/textpad) - Minimalist notepad based on notepad.cc. `MIT` `PHP`
-- [Standard Notes](https://standardnotes.org) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPL-3.0` `Ruby`
+- [Standard Notes](https://standardnotes.com) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPL-3.0` `Ruby`
 - [Trilium Notes ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) ![GitHub last commit](https://img.shields.io/github/last-commit/zadam/trilium)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 - [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code ![GitHub Repo stars](https://img.shields.io/github/stars/mixmark-io/turndown) ![GitHub last commit](https://img.shields.io/github/last-commit/mixmark-io/turndown)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
 - [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`
