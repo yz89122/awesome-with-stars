@@ -850,6 +850,7 @@ Some data mining competition platforms
 - [Awesome Game Datasets ![GitHub Repo stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets) ![GitHub last commit](https://img.shields.io/github/last-commit/leomaurodesenv/game-datasets)](https://github.com/leomaurodesenv/game-datasets#readme)
 - [Data Science Interviews Questions ![GitHub Repo stars](https://img.shields.io/github/stars/alexeygrigorev/data-science-interviews) ![GitHub last commit](https://img.shields.io/github/last-commit/alexeygrigorev/data-science-interviews)](https://github.com/alexeygrigorev/data-science-interviews)
 - [Awesome Explainable Graph Reasoning ![GitHub Repo stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning) ![GitHub last commit](https://img.shields.io/github/last-commit/AstraZeneca/awesome-explainable-graph-reasoning)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
+- [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
