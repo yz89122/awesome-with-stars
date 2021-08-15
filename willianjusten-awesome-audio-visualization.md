@@ -26,7 +26,7 @@
 
 ## Books
 
-- [Web Audio API by Boris Smus](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+- [Web Audio API by Boris Smus](https://webaudioapi.com/book/)
 
 ## Downloads
 
@@ -177,7 +177,7 @@
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render ![GitHub Repo stars](https://img.shields.io/github/stars/audio-lab/render) ![GitHub last commit](https://img.shields.io/github/last-commit/audio-lab/render)](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 - [Octavian ![GitHub Repo stars](https://img.shields.io/github/stars/stevekinney/octavian) ![GitHub last commit](https://img.shields.io/github/last-commit/stevekinney/octavian)](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
-- [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
+- [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API ��� resample, offset and segment waveform data in JavaScript.
 - [audiowaveform ![GitHub Repo stars](https://img.shields.io/github/stars/bbc/audiowaveform) ![GitHub last commit](https://img.shields.io/github/last-commit/bbc/audiowaveform)](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 - [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
 - [audio ![GitHub Repo stars](https://img.shields.io/github/stars/go-audio/audio) ![GitHub last commit](https://img.shields.io/github/last-commit/go-audio/audio)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
