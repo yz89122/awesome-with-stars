@@ -141,6 +141,8 @@
   * "Open Source and Supercomputers (Spack)" ([interview](https://changelog.com/rfc/13))
 * [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
   * "Maintainer Stories: Tim Graham" ([interview ![GitHub Repo stars](https://img.shields.io/github/stars/open-source/stories) ![GitHub last commit](https://img.shields.io/github/last-commit/open-source/stories)](https://github.com/open-source/stories/timgraham))
+* [@Trott](https://github.com/Trott), [slug ![GitHub Repo stars](https://img.shields.io/github/stars/Trott/slug) ![GitHub last commit](https://img.shields.io/github/last-commit/Trott/slug)](https://github.com/Trott/slug)
+  * "Slugging It Out In Open Source" ([audio](https://soundcloud.com/rich-trott/slugging-it-out-in-open-source), [transcript](https://medium.com/@Trott/slugging-it-out-in-open-source-a62f554b6e2))
 * [@vjeux](https://github.com/vjeux), [React Native ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native), [Prettier ![GitHub Repo stars](https://img.shields.io/github/stars/prettier/prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/prettier)](https://github.com/prettier/prettier)
   * "Being Successful at Open Source" ([video](https://www.youtube.com/watch?v=nRF0OVQL9Nw))
 * [@withoutboats](https://github.com/withoutboats), [Rust](https://github.com/rust-lang)
