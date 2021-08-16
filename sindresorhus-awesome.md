@@ -487,7 +487,7 @@
 
 - [Game Development ![GitHub Repo stars](https://img.shields.io/github/stars/ellisonleao/magictools) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/magictools)](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks ![GitHub Repo stars](https://img.shields.io/github/stars/hzoo/awesome-gametalks) ![GitHub last commit](https://img.shields.io/github/last-commit/hzoo/awesome-gametalks)](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot ![GitHub Repo stars](https://img.shields.io/github/stars/Calinou/awesome-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/Calinou/awesome-godot)](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/awesome-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/awesome-godot)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games ![GitHub Repo stars](https://img.shields.io/github/stars/leereilly/games) ![GitHub last commit](https://img.shields.io/github/last-commit/leereilly/games)](https://github.com/leereilly/games#readme)
 - [Unity ![GitHub Repo stars](https://img.shields.io/github/stars/RyanNielson/awesome-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/RyanNielson/awesome-unity)](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess ![GitHub Repo stars](https://img.shields.io/github/stars/hkirat/awesome-chess) ![GitHub last commit](https://img.shields.io/github/last-commit/hkirat/awesome-chess)](https://github.com/hkirat/awesome-chess#readme)
