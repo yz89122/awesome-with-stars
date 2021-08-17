@@ -282,6 +282,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [moeda ![GitHub Repo stars](https://img.shields.io/github/stars/thompsonemerson/moeda) ![GitHub last commit](https://img.shields.io/github/last-commit/thompsonemerson/moeda)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli ![GitHub Repo stars](https://img.shields.io/github/stars/xxczaki/cash-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/xxczaki/cash-cli)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop ![GitHub Repo stars](https://img.shields.io/github/stars/miguelmota/cointop) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelmota/cointop)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [ticker ![GitHub Repo stars](https://img.shields.io/github/stars/achannarasappa/ticker) ![GitHub last commit](https://img.shields.io/github/last-commit/achannarasappa/ticker)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ### Presentations
 
