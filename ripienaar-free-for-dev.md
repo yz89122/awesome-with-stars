@@ -318,7 +318,7 @@ Table of Contents
   * [Rocket.Chat](https://rocket.chat/) - Shared inbox for teams, secure, unlimited and open source.
   * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
   * [Slab](https://slab.com/) — A modern knowledge management service for teams. Free for up to 10 users.
-  * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
+  * [slack.com](https://slack.com/) ��� Free for unlimited users with some feature limitations
   * [Spectrum](https://spectrum.chat/) - Create public or private communities for free.
   * [StatusPile](https://www.statuspile.com/) - A status page of status pages. Track the status pages of your upstream providers.
   * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
