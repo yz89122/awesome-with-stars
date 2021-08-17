@@ -313,6 +313,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [gopass ![GitHub Repo stars](https://img.shields.io/github/stars/gopasspw/gopass) ![GitHub last commit](https://img.shields.io/github/last-commit/gopasspw/gopass)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [awesome-finder ![GitHub Repo stars](https://img.shields.io/github/stars/mingrammer/awesome-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/mingrammer/awesome-finder)](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup ![GitHub Repo stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [ots ![GitHub Repo stars](https://img.shields.io/github/stars/sniptt-official/ots) ![GitHub last commit](https://img.shields.io/github/last-commit/sniptt-official/ots)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### macOS
 
