@@ -55,6 +55,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Multi-tenancy with Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/errorname/prisma-multi-tenant) ![GitHub last commit](https://img.shields.io/github/last-commit/errorname/prisma-multi-tenant)](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/fivethree-team/nestjs-prisma-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/fivethree-team/nestjs-prisma-starter)](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection ![GitHub Repo stars](https://img.shields.io/github/stars/devoxa/prisma-relay-cursor-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/devoxa/prisma-relay-cursor-connection)](https://github.com/devoxa/prisma-relay-cursor-connection)
+- [prettier-plugin-prisma ![GitHub Repo stars](https://img.shields.io/github/stars/umidbekk/prettier-plugin-prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/umidbekk/prettier-plugin-prisma)](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ### :gear: Schema Visualization Tools
 
@@ -108,6 +109,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
 - [NestJS Crud Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/silicon-hills/nestjs-crud-prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/silicon-hills/nestjs-crud-prisma)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD ![GitHub Repo stars](https://img.shields.io/github/stars/nestjsx/crud) ![GitHub last commit](https://img.shields.io/github/last-commit/nestjsx/crud)](https://github.com/nestjsx/crud))
+- [tRPC Prisma Starter ![GitHub Repo stars](https://img.shields.io/github/stars/trpc/examples-next-prisma-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/examples-next-prisma-starter)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
 ## Prisma 1
 
