@@ -55,6 +55,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Multi-tenancy with Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/errorname/prisma-multi-tenant) ![GitHub last commit](https://img.shields.io/github/last-commit/errorname/prisma-multi-tenant)](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/fivethree-team/nestjs-prisma-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/fivethree-team/nestjs-prisma-starter)](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection ![GitHub Repo stars](https://img.shields.io/github/stars/devoxa/prisma-relay-cursor-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/devoxa/prisma-relay-cursor-connection)](https://github.com/devoxa/prisma-relay-cursor-connection)
+- [Caching Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/joellefkowitz/cached-prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/joellefkowitz/cached-prisma)](https://github.com/joellefkowitz/cached-prisma)
 - [prettier-plugin-prisma ![GitHub Repo stars](https://img.shields.io/github/stars/umidbekk/prettier-plugin-prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/umidbekk/prettier-plugin-prisma)](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ### :gear: Schema Visualization Tools
