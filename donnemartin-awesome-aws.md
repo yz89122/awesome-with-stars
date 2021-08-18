@@ -906,7 +906,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-data-wrangler :fire::fire::fire::fire: ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
+* [aws-data-wrangler :fire::fire::fire::fire::fire: ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
 Community Repos:
 
