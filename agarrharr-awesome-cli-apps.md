@@ -266,7 +266,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 ### Note Taking and Lists
 
 - [idea ![GitHub Repo stars](https://img.shields.io/github/stars/IonicaBizau/idea) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/idea)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-- [geeknote ![GitHub Repo stars](https://img.shields.io/github/stars/VitaliyRodnenko/geeknote) ![GitHub last commit](https://img.shields.io/github/last-commit/VitaliyRodnenko/geeknote)](https://github.com/VitaliyRodnenko/geeknote) - Evernote client.
+- [geeknote ![GitHub Repo stars](https://img.shields.io/github/stars/jeffkowalski/geeknote) ![GitHub last commit](https://img.shields.io/github/last-commit/jeffkowalski/geeknote)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 - [Taskwarrior](http://taskwarrior.org) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka ![GitHub Repo stars](https://img.shields.io/github/stars/simeg/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/simeg/eureka)](https://github.com/simeg/eureka) - Input and store your ideas.
