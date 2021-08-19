@@ -661,7 +661,7 @@ Libraries to help manage database schemas and migrations.
 * [VObject ![GitHub Repo stars](https://img.shields.io/github/stars/sabre-io/vobject) ![GitHub last commit](https://img.shields.io/github/last-commit/sabre-io/vobject)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### JSON
-*Libraries for working with JSON.
+*Libraries for working with JSON.*
 
 * [JSON Lint ![GitHub Repo stars](https://img.shields.io/github/stars/Seldaek/jsonlint) ![GitHub last commit](https://img.shields.io/github/last-commit/Seldaek/jsonlint)](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 
