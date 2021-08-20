@@ -42,6 +42,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Form](#form-1)
   - [WebGL](#webgl)
   - [Portal](#portal)
+  - [Fonts](#fonts)
+  - [Internationalisation](#internationalisation)
 - [Routers](#routers)
 - [Frameworks](#frameworks)
 - [Dev Tools](#dev-tools)
@@ -225,6 +227,10 @@ _SSR framework._
 
 - [svelte-portal ![GitHub Repo stars](https://img.shields.io/github/stars/romkor/svelte-portal) ![GitHub last commit](https://img.shields.io/github/last-commit/romkor/svelte-portal)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 - [svelte-teleport ![GitHub Repo stars](https://img.shields.io/github/stars/nasso/svelte-teleport) ![GitHub last commit](https://img.shields.io/github/last-commit/nasso/svelte-teleport)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+
+### Fonts
+
+- [svelte-web-fonts/google ![GitHub Repo stars](https://img.shields.io/github/stars/svelte-web-fonts/google) ![GitHub last commit](https://img.shields.io/github/last-commit/svelte-web-fonts/google)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
 ### Internationalisation
 
