@@ -31,6 +31,7 @@
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
   - [Open Source Projects](#open-source-projects)
+- [Sponsors](#sponsors)
 
 ## Third-Party Extensions
 
@@ -41,6 +42,7 @@
 ### Auth
 
 - [FastAPI Auth ![GitHub Repo stars](https://img.shields.io/github/stars/dmontagu/fastapi-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/dmontagu/fastapi-auth)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
+- [FastAPI Azure auth ![GitHub Repo stars](https://img.shields.io/github/stars/Intility/fastapi-azure-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/Intility/fastapi-azure-auth)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your FastAPI.
 - [FastAPI Cloud Auth ![GitHub Repo stars](https://img.shields.io/github/stars/tokusumi/fastapi-cloudauth) ![GitHub last commit](https://img.shields.io/github/last-commit/tokusumi/fastapi-cloudauth)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Login ![GitHub Repo stars](https://img.shields.io/github/stars/MushroomMaula/fastapi_login) ![GitHub last commit](https://img.shields.io/github/last-commit/MushroomMaula/fastapi_login)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login ![GitHub Repo stars](https://img.shields.io/github/stars/maxcountryman/flask-login) ![GitHub last commit](https://img.shields.io/github/last-commit/maxcountryman/flask-login)](https://github.com/maxcountryman/flask-login)).
 - [FastAPI JWT Auth ![GitHub Repo stars](https://img.shields.io/github/stars/IndominusByte/fastapi-jwt-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/IndominusByte/fastapi-jwt-auth)](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended ![GitHub Repo stars](https://img.shields.io/github/stars/vimalloc/flask-jwt-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/vimalloc/flask-jwt-extended)](https://github.com/vimalloc/flask-jwt-extended)).
@@ -79,7 +81,7 @@
 and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and schema migrations out of the box.
 - [MongoEngine](http://mongoengine.org/) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
 - [Motor](https://motor.readthedocs.io/) - Asynchronous Python driver for MongoDB.
-- [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM integrated with [Pydantic](https://pydantic-docs.helpmanual.io/). 
+- [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM integrated with [Pydantic](https://pydantic-docs.helpmanual.io/).
 
 #### Other Tools
 
@@ -168,7 +170,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - Deploy a machine learning model via a web-based API.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
-- [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) - Getting started with a complete FastAPI web application stack.
+- [Introducing FARM Stack - FastAPI, React, and MongoDB](https://www.mongodb.com/developer/how-to/FARM-Stack-FastAPI-React-MongoDB/) - Getting started with a complete FastAPI web application stack.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - Quick intro to FastAPI.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Comparison of Flask vs FastAPI.
 - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/) - Learn how to stream data from FastAPI directly into a real-time chart.
@@ -187,7 +189,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 - [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - A you build a web-based stock screener with FastAPI, you'll be introduced to many of FastAPI's features, including pydantic models, dependency injection, background tasks, and SQLAlchemy integration.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - Use FastAPI to build a web application programming interface (RESTful API).
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - See how to do numeric validations with FastAPI.
-- [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs) - Which framework is best for Python in 2020? Which uses async/await the best? Which is the fastest? 
+- [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs) - Which framework is best for Python in 2020? Which uses async/await the best? Which is the fastest?
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) - Build a machine learning API with FastAPI.
 
 ### Courses
@@ -275,8 +277,10 @@ Compute:
 - [TermPair ![GitHub Repo stars](https://img.shields.io/github/stars/cs01/termpair) ![GitHub last commit](https://img.shields.io/github/last-commit/cs01/termpair)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities ![GitHub Repo stars](https://img.shields.io/github/stars/ycd/universities) ![GitHub last commit](https://img.shields.io/github/last-commit/ycd/universities)](https://github.com/ycd/universities) -  API service for obtaining information about +9600 universities worldwide.
 
----
+## Sponsors
 
-<br>
+Please support this open source project by checking out our sponsors:
 
-> **NOTE**: This project is powered by **[TestDriven.io](https://testdriven.io/)**. Please support this open source project by purchasing our FastAPI course: [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).
+<a href="https://www.deta.sh/?ref=awesome-fastapi" target="_blank" title="The launchpad for all your (team's) ideas"><img src="https://github.com/mjhea0/awesome-fastapi/raw/master/images/deta.svg"></a>
+
+<a href="https://testdriven.io/courses/tdd-fastapi/?ref=awesome-fastapi" target="_blank" title="Learn to build high-quality web apps with best practices"><img src="https://github.com/mjhea0/awesome-fastapi/raw/master/images/testdriven.svg"></a>
