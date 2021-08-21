@@ -1427,6 +1427,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [oh-vue-icons ![GitHub Repo stars](https://img.shields.io/github/stars/Renovamen/oh-vue-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/Renovamen/oh-vue-icons)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 - [vue-feather-icons ![GitHub Repo stars](https://img.shields.io/github/stars/egoist/vue-feather-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/egoist/vue-feather-icons)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [vue-feather ![GitHub Repo stars](https://img.shields.io/github/stars/fengyuanchen/vue-feather) ![GitHub last commit](https://img.shields.io/github/last-commit/fengyuanchen/vue-feather)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
+- [eos-icons-vue ![GitHub Repo stars](https://img.shields.io/github/stars/EOS-uiux-Solutions/eos-icons-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/EOS-uiux-Solutions/eos-icons-vue)](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2 ![GitHub Repo stars](https://img.shields.io/github/stars/EOS-uiux-Solutions/eos-icons-vue2) ![GitHub last commit](https://img.shields.io/github/last-commit/EOS-uiux-Solutions/eos-icons-vue2)](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
 
 #### Marquee
 
