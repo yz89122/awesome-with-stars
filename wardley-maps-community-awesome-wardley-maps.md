@@ -11,6 +11,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Reading](#reading)
 - [Videos](#videos)
 - [Courses](#courses)
+- [Certifications](#certifications)
 - [Maps in the Wild](#maps-in-the-wild)
 - [Research Papers](#research-papers)
 - [Apps](#apps)
@@ -62,6 +63,10 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
 - [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
 - [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
+
+## Certifications
+
+- [GCATI](https://gcati.org/certificate/foundation-wardley-mapping) - Foundation in Wardley Mapping. For those who need to know and understand the basics of Strategy using Wardley Mapping either with a view to becoming a Practitioner or with a need to work effectively with Practitioners. A certified Foundation in using Wardley Mapping candidate has proficiency in reading and understanding Wardley Maps.
 
 ## Maps in the Wild
 
