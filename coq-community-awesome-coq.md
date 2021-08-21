@@ -36,6 +36,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [FCF ![GitHub Repo stars](https://img.shields.io/github/stars/adampetcher/fcf) ![GitHub last commit](https://img.shields.io/github/last-commit/adampetcher/fcf)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
 - [Fiat ![GitHub Repo stars](https://img.shields.io/github/stars/mit-plv/fiat) ![GitHub last commit](https://img.shields.io/github/last-commit/mit-plv/fiat)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 - [FreeSpec ![GitHub Repo stars](https://img.shields.io/github/stars/lthms/FreeSpec) ![GitHub last commit](https://img.shields.io/github/last-commit/lthms/FreeSpec)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+- [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 - [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
 - [Q\*cert ![GitHub Repo stars](https://img.shields.io/github/stars/querycert/qcert) ![GitHub last commit](https://img.shields.io/github/last-commit/querycert/qcert)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
 - [Verdi ![GitHub Repo stars](https://img.shields.io/github/stars/uwplse/verdi) ![GitHub last commit](https://img.shields.io/github/last-commit/uwplse/verdi)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
@@ -202,6 +203,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Programs and Proofs](https://ilyasergey.net/pnp/) - Book that gives a brief and practically-oriented introduction to interactive proofs in Coq which emphasizes the computational nature of inductive reasoning about decidable propositions via a small set of primitives from the SSReflect proof language.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) - Book oriented towards mathematically inclined users, focusing on the Mathematical Components library and the SSReflect proof language.
+- [Modeling and Proving in Computational Type Theory ![GitHub Repo stars](https://img.shields.io/github/stars/uds-psl/MPCTT) ![GitHub last commit](https://img.shields.io/github/last-commit/uds-psl/MPCTT)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ### Course Material
 
