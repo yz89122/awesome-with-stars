@@ -621,6 +621,7 @@
 - [Coinchartsvue ![GitHub Repo stars](https://img.shields.io/github/stars/okandas/coinchartsvue) ![GitHub last commit](https://img.shields.io/github/last-commit/okandas/coinchartsvue)](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 - [Vue 3 Shopping Cart ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/vue-cart) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/vue-cart)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 - [vuemoji-picker ![GitHub Repo stars](https://img.shields.io/github/stars/wobsoriano/vuemoji-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/vuemoji-picker)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
+- [Maxim Web Chat ![GitHub Repo stars](https://img.shields.io/github/stars/maxim-top/maxim-web) ![GitHub last commit](https://img.shields.io/github/last-commit/maxim-top/maxim-web)](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天App 示例.
 
 ### Books
 
