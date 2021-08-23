@@ -124,6 +124,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Migration tools
 - [2bass ![GitHub Repo stars](https://img.shields.io/github/stars/CourseOrchestra/2bass) ![GitHub last commit](https://img.shields.io/github/last-commit/CourseOrchestra/2bass)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
+- [Bytebase ![GitHub Repo stars](https://img.shields.io/github/stars/bytebase/bytebase) ![GitHub last commit](https://img.shields.io/github/last-commit/bytebase/bytebase)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 - [flyway ![GitHub Repo stars](https://img.shields.io/github/stars/flyway/flyway) ![GitHub last commit](https://img.shields.io/github/last-commit/flyway/flyway)](https://github.com/flyway/flyway) - Database migration tool.
 - [gh-ost ![GitHub Repo stars](https://img.shields.io/github/stars/github/gh-ost) ![GitHub last commit](https://img.shields.io/github/last-commit/github/gh-ost)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 - [liquibase ![GitHub Repo stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
