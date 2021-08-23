@@ -24,7 +24,7 @@ Pull requests very welcome.
 ## Engines
 
 * [Adobe ColdFusion](http://www.adobe.com/products/coldfusion-family.html)
-* [Lucee](http://lucee.org/) - Free, Open Source CFML Engine, Fork of [Railo](http://www.getrailo.org/)
+* [Lucee](http://lucee.org/) - Free, Open Source CFML Engine
 
 ## Application Frameworks
 
@@ -103,7 +103,6 @@ Pull requests very welcome.
 
 ## References
 
-* [CF Live](http://cflive.net) - Realtime CFML testing console
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [ColdFusion Koans ![GitHub Repo stars](https://img.shields.io/github/stars/nodoherty/ColdFusion-Koans) ![GitHub last commit](https://img.shields.io/github/last-commit/nodoherty/ColdFusion-Koans)](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
