@@ -382,6 +382,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo stars]
 ### Video
 
 * [dertuxmalwieder/yaydl ![GitHub Repo stars](https://img.shields.io/github/stars/dertuxmalwieder/yaydl) ![GitHub last commit](https://img.shields.io/github/last-commit/dertuxmalwieder/yaydl)](https://github.com/dertuxmalwieder/yaydl) [[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+* [harlanc/xiu ![GitHub Repo stars](https://img.shields.io/github/stars/harlanc/xiu) ![GitHub last commit](https://img.shields.io/github/last-commit/harlanc/xiu)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 * [xiph/rav1e ![GitHub Repo stars](https://img.shields.io/github/stars/xiph/rav1e) ![GitHub last commit](https://img.shields.io/github/last-commit/xiph/rav1e)](https://github.com/xiph/rav1e) — The fastest and safest AV1 encoder. [![build badge](https://api.travis-ci.org/xiph/rav1e.svg?branch=master)](https://travis-ci.org/xiph/rav1e)
 
 ### Virtualization
