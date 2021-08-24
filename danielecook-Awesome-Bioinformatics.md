@@ -70,6 +70,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[Rust-Bio ![GitHub Repo stars](https://img.shields.io/github/stars/rust-bio/rust-bio) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-bio/rust-bio)](https://github.com/rust-bio/rust-bio)** - Rust implementations of algorithms and data structures useful for bioinformatics. [ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
 - **[SeqAn ![GitHub Repo stars](https://img.shields.io/github/stars/seqan/seqan3) ![GitHub last commit](https://img.shields.io/github/last-commit/seqan/seqan3)](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
 - **[(Poly)merase ![GitHub Repo stars](https://img.shields.io/github/stars/TimothyStiles/poly) ![GitHub last commit](https://img.shields.io/github/last-commit/TimothyStiles/poly)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
+- **[Biocaml ![GitHub Repo stars](https://img.shields.io/github/stars/biocaml/biocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/biocaml/biocaml)](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 
 ## Data Tools
 
