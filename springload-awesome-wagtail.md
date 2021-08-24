@@ -54,14 +54,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Blogging/news
 
 - [Puput](https://puput.readthedocs.org/) - Puput is a powerful and simple Django app to manage a blog. It uses the awesome Wagtail CMS as content management system.
-- [wagtail_blog ![GitHub Repo stars](https://img.shields.io/github/stars/thelabnyc/wagtail_blog) ![GitHub last commit](https://img.shields.io/github/last-commit/thelabnyc/wagtail_blog)](https://github.com/thelabnyc/wagtail_blog) - A WordPress-like blog app implemented in Wagtail.
+- [wagtail_blog](https://gitlab.com/thelabnyc/wagtail_blog) - A WordPress-like blog app implemented in Wagtail.
 - [wagtailnews ![GitHub Repo stars](https://img.shields.io/github/stars/takeflight/wagtailnews) ![GitHub last commit](https://img.shields.io/github/last-commit/takeflight/wagtailnews)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 - [wagtail-blog-app ![GitHub Repo stars](https://img.shields.io/github/stars/Tivix/wagtail-blog-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Tivix/wagtail-blog-app)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
 - [Django Wagtail Feeds ![GitHub Repo stars](https://img.shields.io/github/stars/chrisdev/django-wagtail-feeds) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisdev/django-wagtail-feeds)](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
-- [CodeRed CMS ![GitHub Repo stars](https://img.shields.io/github/stars/coderedcorp/coderedcms) ![GitHub last commit](https://img.shields.io/github/last-commit/coderedcorp/coderedcms)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
 - [Snotra_RSS ![GitHub Repo stars](https://img.shields.io/github/stars/olopost/snotra_rss) ![GitHub last commit](https://img.shields.io/github/last-commit/olopost/snotra_rss)](https://github.com/olopost/snotra_rss) - Snotra_RSS is an Atom and RSS news aggregator app for Wagtail.
-- [Wagtail bootstrap blog ![GitHub Repo stars](https://img.shields.io/github/stars/AccordBox/wagtail-bootstrap-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/AccordBox/wagtail-bootstrap-blog)](https://github.com/AccordBox/wagtail-bootstrap-blog) - A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.
-- [Wagtail react blog ![GitHub Repo stars](https://img.shields.io/github/stars/AccordBox/wagtail-react-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/AccordBox/wagtail-react-blog)](https://github.com/AccordBox/wagtail-react-blog) - SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.
 
 ### Rich text editor extensions
 
@@ -148,6 +145,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail-Lazyimages ![GitHub Repo stars](https://img.shields.io/github/stars/ptrck/wagtail-lazyimages) ![GitHub last commit](https://img.shields.io/github/last-commit/ptrck/wagtail-lazyimages)](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
 - [Wagtail Image Import ![GitHub Repo stars](https://img.shields.io/github/stars/jacobtoppm/wagtail-image-import) ![GitHub last commit](https://img.shields.io/github/last-commit/jacobtoppm/wagtail-image-import)](https://github.com/jacobtoppm/wagtail-image-import) - A plugin for importing images from Google Drive. 
 - [Wagtail SVG ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksi44/wagtailsvg) ![GitHub last commit](https://img.shields.io/github/last-commit/Aleksi44/wagtailsvg)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
+- [Wagtail Makeup ![GitHub Repo stars](https://img.shields.io/github/stars/kevinhowbrook/wagtail-makeup) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinhowbrook/wagtail-makeup)](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
 
 ### Translations
 
@@ -196,8 +194,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Resume ![GitHub Repo stars](https://img.shields.io/github/stars/adinhodovic/wagtail-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/adinhodovic/wagtail-resume)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 - [Wagtail Content Import ![GitHub Repo stars](https://img.shields.io/github/stars/torchbox/wagtail-content-import) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-content-import)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 - [Wagtail Trash ![GitHub Repo stars](https://img.shields.io/github/stars/Frojd/wagtail-trash) ![GitHub last commit](https://img.shields.io/github/last-commit/Frojd/wagtail-trash)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
+- [Wagtail PDF View ![GitHub Repo stars](https://img.shields.io/github/stars/donhauser/wagtail-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/donhauser/wagtail-pdf)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## Tools
+
+### Templates & Starter Kits
 
 - [Wagtail Cookiecutter Foundation ![GitHub Repo stars](https://img.shields.io/github/stars/chrisdev/wagtail-cookiecutter-foundation) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisdev/wagtail-cookiecutter-foundation)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 - [Beginner Wagtail Cookiecutter ![GitHub Repo stars](https://img.shields.io/github/stars/heymonkeyriot/beginner-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/heymonkeyriot/beginner-wagtail)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
@@ -205,6 +206,9 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Pipit ![GitHub Repo stars](https://img.shields.io/github/stars/Frojd/Wagtail-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/Frojd/Wagtail-Boilerplate)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 - [Django Cookiecutter Wagtail ![GitHub Repo stars](https://img.shields.io/github/stars/Jean-Zombie/cookiecutter-django-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/Jean-Zombie/cookiecutter-django-wagtail)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 - [wagtail-webpack-dokku ![GitHub Repo stars](https://img.shields.io/github/stars/helixsoftco/wagtail-webpack-dokku) ![GitHub last commit](https://img.shields.io/github/last-commit/helixsoftco/wagtail-webpack-dokku)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
+- [Wagtail bootstrap blog ![GitHub Repo stars](https://img.shields.io/github/stars/AccordBox/wagtail-bootstrap-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/AccordBox/wagtail-bootstrap-blog)](https://github.com/AccordBox/wagtail-bootstrap-blog) - A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.
+- [Wagtail react blog ![GitHub Repo stars](https://img.shields.io/github/stars/AccordBox/wagtail-react-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/AccordBox/wagtail-react-blog)](https://github.com/AccordBox/wagtail-react-blog) - SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.
+- [CodeRed CMS ![GitHub Repo stars](https://img.shields.io/github/stars/coderedcorp/coderedcms) ![GitHub last commit](https://img.shields.io/github/last-commit/coderedcorp/coderedcms)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
 
 ## Resources
 
@@ -267,7 +271,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) by Geert jan Hoogeslag.
 - [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
-- [Wagtail Performance ��� Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
+- [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code ![GitHub Repo stars](https://img.shields.io/github/stars/specialunderwear/haunted-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/haunted-wagtail)](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
@@ -283,7 +287,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
 - [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
 - [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
-- [Wagtail: когда хочется чего-то приятнее, ��ем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
+- [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
 - [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057) by Chris Adams. Code.
 - [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) by Coen van der Kamp.
