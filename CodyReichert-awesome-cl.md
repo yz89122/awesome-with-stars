@@ -112,7 +112,6 @@ sellers who aren't evil for physical resources.
     - [Monitoring](#monitoring)
     - [Third-party APIs](#third-party-apis)
     - [Web project skeletons and generators](#web-project-skeletons-and-generators)
-    - [Web applications examples](#web-applications-examples)
     - [Others](#others)
 - [Numerical and Scientific](#numerical-and-scientific)
     - [Matrix libraries](#matrix-libraries)
@@ -270,8 +269,9 @@ ORMs
 Persistent object databases
 ---------------------------
 
-* [bknr.datastore ![GitHub Repo stars](https://img.shields.io/github/stars/hanshuebner/bknr-datastore) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshuebner/bknr-datastore)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence][208]. 
+* [bknr.datastore ![GitHub Repo stars](https://img.shields.io/github/stars/hanshuebner/bknr-datastore) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshuebner/bknr-datastore)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence][208].
   * see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
+  * an example web application using bknr.datastore: [screenshotbot-oss ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss).
 * [ubiquitous ![GitHub Repo stars](https://img.shields.io/github/stars/Shinmera/ubiquitous) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/ubiquitous)](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork ![GitHub Repo stars](https://img.shields.io/github/stars/40ants/cl-prevalence) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-prevalence)](https://github.com/40ants/cl-prevalence). [LLGPL][8]. See also [cl-prevalence-multimaster ![GitHub Repo stars](https://img.shields.io/github/stars/40ants/cl-prevalence-multimaster) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-prevalence-multimaster)](https://github.com/40ants/cl-prevalence-multimaster), to syncronize multiple cl-prevalence systems state.
 
@@ -452,6 +452,7 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
 * [cl-cffi-gtk ![GitHub Repo stars](https://img.shields.io/github/stars/Ferada/cl-cffi-gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/Ferada/cl-cffi-gtk)](https://github.com/Ferada/cl-cffi-gtk/) - Binding for GTK+3. [GNU LGPL2.1][11].
 * [cl-gtk2 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryvk/cl-gtk2) ![GitHub last commit](https://img.shields.io/github/last-commit/dmitryvk/cl-gtk2)](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL][8].
 * [ceramic](https://ceramic.github.io/) - Desktop web apps with Electron. [Expat][14].
+  * [Electron-lisp-boilerplate ![GitHub Repo stars](https://img.shields.io/github/stars/mikelevins/electron-lisp-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mikelevins/electron-lisp-boilerplate)](https://github.com/mikelevins/electron-lisp-boilerplate) - A rudimentary boilerplate for building Electron apps with embedded Lisp helper processes.
   * Electron app skeleton: [electron-sbcl-sqlite ![GitHub Repo stars](https://img.shields.io/github/stars/mikelevins/electron-sbcl-sqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/mikelevins/electron-sbcl-sqlite)](https://github.com/mikelevins/electron-sbcl-sqlite/)
 * [CocoaInterface ![GitHub Repo stars](https://img.shields.io/github/stars/plkrueger/CocoaInterface) ![GitHub last commit](https://img.shields.io/github/last-commit/plkrueger/CocoaInterface)](https://github.com/plkrueger/CocoaInterface/) -
 Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
@@ -969,23 +970,6 @@ Web project skeletons and generators
   * Makefile, podman support, GitHub Actions, Prometheus metrics support, TOML-style config.ini, easy-route preconfigured with health-check and more.
 * [cl-webapp-seed ![GitHub Repo stars](https://img.shields.io/github/stars/rajasegar/cl-webapp-seed) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-webapp-seed)](https://github.com/rajasegar/cl-webapp-seed) - a simple web application boilerplate. Uses Hunchentoot, cl-who, deploys easily to Heroku. [MIT][200].
 
-Web applications examples
--------------------------
-
-These examples should stand out for something and have a unique
-feature hardly created with web project generators or existing
-libraries.
-
-* [screenshotbot-oss ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss) - a Screenshot Testing service. This code powers https://screenshotbot.io.
-  * uses Bknr.datastore as the datastore. Heavy use of their [markup ![GitHub Repo stars](https://img.shields.io/github/stars/moderninterpreters/markup) ![GitHub last commit](https://img.shields.io/github/last-commit/moderninterpreters/markup)](https://github.com/moderninterpreters/markup) library (JSX-like).
-  * Closures as URLs ([nibble ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/nibble/nibble.asd), not yet a standalone library). "Essentially, it allows me to create "anonymous" HTTP endpoints that evaluate a lambda. We integrate it with markup to make it pleasant to write multi-page web forms and flows. e.g. [Here's a flow ![GitHub Repo stars](https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss)](https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/screenshotbot/dashboard/api-keys.lisp#L84) that lets you delete an API key, but before deleting it it asks you for a confirmation."
-  * user auth and sessions.
-
-Smaller demos:
-
-* [cl-trello-clone ![GitHub Repo stars](https://img.shields.io/github/stars/rajasegar/cl-trello-clone) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-trello-clone)](https://github.com/rajasegar/cl-trello-clone) - a Trello clone demo app in Common Lisp. Built with HTMX and HyperScript. Caveman and Djula templates.
-  * by the same author, see also [cl-warehouse ![GitHub Repo stars](https://img.shields.io/github/stars/rajasegar/cl-warehouse) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-warehouse)](https://github.com/rajasegar/cl-warehouse) and many more small demos.
-
 
 Others
 ------
@@ -1066,6 +1050,10 @@ Parallelism and Concurrency
 * [cl-coroutine ![GitHub Repo stars](https://img.shields.io/github/stars/takagi/cl-coroutine) ![GitHub last commit](https://img.shields.io/github/last-commit/takagi/cl-coroutine)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT][200].
 * [STMX ![GitHub Repo stars](https://img.shields.io/github/stars/cosmos72/stmx) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos72/stmx)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL][8].
 
+See also:
+
+* [cl-etcd ![GitHub Repo stars](https://img.shields.io/github/stars/atgreen/cl-etcd) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-etcd)](https://github.com/atgreen/cl-etcd) - Run etcd as an asynchronous inferior process.  [etcd](https://etcd.io/) is a strongly consistent, distributed key-value store. [AGPL-3.0][agpl3].
+
 Actors pattern
 --------------
 
@@ -1119,9 +1107,12 @@ Writing, running scripts
 Command-line options parsers
 ----------------------------
 
-* 👍 [Unix-opts ![GitHub Repo stars](https://img.shields.io/github/stars/mrkkrp/unix-opts) ![GitHub last commit](https://img.shields.io/github/last-commit/mrkkrp/unix-opts)](https://github.com/mrkkrp/unix-opts) - a command line
+* 👍 [Unix-opts ![GitHub Repo stars](https://img.shields.io/github/stars/libre-man/unix-opts) ![GitHub last commit](https://img.shields.io/github/last-commit/libre-man/unix-opts)](https://github.com/libre-man/unix-opts) - a command line
   options parser with a concise declaration of options. [MIT][200].
 * [Adopt ![GitHub Repo stars](https://img.shields.io/github/stars/sjl/adopt) ![GitHub last commit](https://img.shields.io/github/last-commit/sjl/adopt)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT][200].
+* [Clingon ![GitHub Repo stars](https://img.shields.io/github/stars/dnaeon/clingon) ![GitHub last commit](https://img.shields.io/github/last-commit/dnaeon/clingon)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+  * newer, it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
+
 
 Readline, ncurses and other graphical helpers
 --------------------------------------------
