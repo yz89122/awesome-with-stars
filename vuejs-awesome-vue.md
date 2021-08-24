@@ -2293,6 +2293,7 @@ _Layout for the overall / main view_
 - [vue-masonry-wall ![GitHub Repo stars](https://img.shields.io/github/stars/fuxingloh/vue-masonry-wall) ![GitHub last commit](https://img.shields.io/github/last-commit/fuxingloh/vue-masonry-wall)](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.
 - [vue-horizontal-list ![GitHub Repo stars](https://img.shields.io/github/stars/fuxingloh/vue-horizontal-list) ![GitHub last commit](https://img.shields.io/github/last-commit/fuxingloh/vue-horizontal-list)](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
 - [vue-layout-system ![GitHub Repo stars](https://img.shields.io/github/stars/leeboyin/vue-layout-system) ![GitHub last commit](https://img.shields.io/github/last-commit/leeboyin/vue-layout-system)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+- [simple-vue-grid ![GitHub Repo stars](https://img.shields.io/github/stars/harmyderoman/simple-vue-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/harmyderoman/simple-vue-grid)](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
 
 ### Frameworks
 
