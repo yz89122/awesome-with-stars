@@ -185,7 +185,6 @@ sellers who aren’t evil for physical resources.</p>
       <li><a href="#monitoring">Monitoring</a></li>
       <li><a href="#third-party-apis">Third-party APIs</a></li>
       <li><a href="#web-project-skeletons-and-generators">Web project skeletons and generators</a></li>
-      <li><a href="#web-applications-examples">Web applications examples</a></li>
       <li><a href="#others">Others</a></li>
     </ul>
   </li>
@@ -429,6 +428,7 @@ work on Common Music shifted to (scheme-based) cm3.</li>
     <ul>
       <li>see also this <a href="https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f">good introductory blog post</a>
 </li>
+      <li>an example web application using bknr.datastore: <a href="https://github.com/screenshotbot/screenshotbot-oss">screenshotbot-oss <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</li>
     </ul>
   </li>
   <li>
@@ -722,6 +722,8 @@ ASDF, Qlot and Roswell.</li>
   <li>
 <a href="https://ceramic.github.io/">ceramic</a> - Desktop web apps with Electron. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.
     <ul>
+      <li>
+<a href="https://github.com/mikelevins/electron-lisp-boilerplate">Electron-lisp-boilerplate <img src="https://img.shields.io/github/stars/mikelevins/electron-lisp-boilerplate" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mikelevins/electron-lisp-boilerplate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A rudimentary boilerplate for building Electron apps with embedded Lisp helper processes.</li>
       <li>Electron app skeleton: <a href="https://github.com/mikelevins/electron-sbcl-sqlite/">electron-sbcl-sqlite <img src="https://img.shields.io/github/stars/mikelevins/electron-sbcl-sqlite" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mikelevins/electron-sbcl-sqlite" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>
 </li>
     </ul>
@@ -1505,34 +1507,6 @@ Service (S3) and CloudFront service. <a href="https://directory.fsf.org/wiki/Lic
 <a href="https://github.com/rajasegar/cl-webapp-seed">cl-webapp-seed <img src="https://img.shields.io/github/stars/rajasegar/cl-webapp-seed" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rajasegar/cl-webapp-seed" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a simple web application boilerplate. Uses Hunchentoot, cl-who, deploys easily to Heroku. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 
-<h2 id="web-applications-examples">Web applications examples</h2>
-
-<p>These examples should stand out for something and have a unique
-feature hardly created with web project generators or existing
-libraries.</p>
-
-<ul>
-  <li>
-<a href="https://github.com/screenshotbot/screenshotbot-oss">screenshotbot-oss <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a Screenshot Testing service. This code powers https://screenshotbot.io.
-    <ul>
-      <li>uses Bknr.datastore as the datastore. Heavy use of their <a href="https://github.com/moderninterpreters/markup">markup <img src="https://img.shields.io/github/stars/moderninterpreters/markup" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/moderninterpreters/markup" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> library (JSX-like).</li>
-      <li>Closures as URLs (<a href="https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/nibble/nibble.asd">nibble <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>, not yet a standalone library). “Essentially, it allows me to create “anonymous” HTTP endpoints that evaluate a lambda. We integrate it with markup to make it pleasant to write multi-page web forms and flows. e.g. <a href="https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/screenshotbot/dashboard/api-keys.lisp#L84">Here’s a flow <img src="https://img.shields.io/github/stars/screenshotbot/screenshotbot-oss" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/screenshotbot/screenshotbot-oss" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> that lets you delete an API key, but before deleting it it asks you for a confirmation.”</li>
-      <li>user auth and sessions.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Smaller demos:</p>
-
-<ul>
-  <li>
-<a href="https://github.com/rajasegar/cl-trello-clone">cl-trello-clone <img src="https://img.shields.io/github/stars/rajasegar/cl-trello-clone" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rajasegar/cl-trello-clone" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a Trello clone demo app in Common Lisp. Built with HTMX and HyperScript. Caveman and Djula templates.
-    <ul>
-      <li>by the same author, see also <a href="https://github.com/rajasegar/cl-warehouse">cl-warehouse <img src="https://img.shields.io/github/stars/rajasegar/cl-warehouse" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rajasegar/cl-warehouse" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> and many more small demos.</li>
-    </ul>
-  </li>
-</ul>
-
 <h2 id="others">Others</h2>
 
 <ul>
@@ -1663,6 +1637,13 @@ informed when one any of them crash and die. <a href="https://opensource.org/lic
 <a href="https://github.com/cosmos72/stmx">STMX <img src="https://img.shields.io/github/stars/cosmos72/stmx" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cosmos72/stmx" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  High performance Transactional Memory for Common Lisp. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 </ul>
 
+<p>See also:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/atgreen/cl-etcd">cl-etcd <img src="https://img.shields.io/github/stars/atgreen/cl-etcd" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/atgreen/cl-etcd" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Run etcd as an asynchronous inferior process.  <a href="https://etcd.io/">etcd</a> is a strongly consistent, distributed key-value store. <a href="https://directory.fsf.org/wiki/License:AGPL-3.0">AGPL-3.0</a>.</li>
+</ul>
+
 <h2 id="actors-pattern">Actors pattern</h2>
 
 <ul>
@@ -1735,10 +1716,16 @@ installer) and more. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <h2 id="command-line-options-parsers">Command-line options parsers</h2>
 
 <ul>
-  <li>👍 <a href="https://github.com/mrkkrp/unix-opts">Unix-opts <img src="https://img.shields.io/github/stars/mrkkrp/unix-opts" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mrkkrp/unix-opts" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a command line
+  <li>👍 <a href="https://github.com/libre-man/unix-opts">Unix-opts <img src="https://img.shields.io/github/stars/libre-man/unix-opts" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/libre-man/unix-opts" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a command line
 options parser with a concise declaration of options. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/sjl/adopt/">Adopt <img src="https://img.shields.io/github/stars/sjl/adopt" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sjl/adopt" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A Damn OPTion parsing library. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+  <li>
+<a href="https://github.com/dnaeon/clingon">Clingon <img src="https://img.shields.io/github/stars/dnaeon/clingon" alt="GitHub Repo stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dnaeon/clingon" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a rich command-line options parser system.
+    <ul>
+      <li>newer, it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="readline-ncurses-and-other-graphical-helpers">Readline, ncurses and other graphical helpers</h2>
