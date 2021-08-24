@@ -1036,7 +1036,7 @@ _Fantasy books which contain elements of science fiction. For pure fantasy, see 
 
 This is my favorite book. It is science fiction and, to a certain extent, fantasy, but at places reads more like a philosophical tract of a collection of stories. The plot is minimal, but the character of Severian is fascinating; he forgets nothing, but lies to you. As you read along, it becomes clear that earlier chapters were wrong or lacked important details, which heavily contributes to a sense of wonder and enchantment. Or, in my case, aw at Gene Wolfe's writing abilities. Highly suggested. - [@RichardLitt](https://github.com/RichardLitt)
 
-> _The Book of the New Sun_ is unanimously acclaimed as Gene Wolfe’s most remarkable work, hailed as “a masterpiece of science fantasy comparable in importance to the major works of Tolkien and Lewis” by _Publishers Weekly_, and “one of the most ambitious works of speculative fiction in the twentieth century” by _The Magazine of Fantasy and Science Fiction_.
+> _The Book of the New Sun_ is unanimously acclaimed as Gene Wolfe’s most remarkable work, hailed as “a masterpiece of science fantasy comparable in importance to the major works of Tolkien and Lewis” by _Publishers Weekly_, and ���one of the most ambitious works of speculative fiction in the twentieth century” by _The Magazine of Fantasy and Science Fiction_.
 >
 > Young Severian, an apprentice in the Guild of Torturers on the world called Urth, has been exiled for committing the ultimate sin of his profession—showing mercy toward his victim.
 
