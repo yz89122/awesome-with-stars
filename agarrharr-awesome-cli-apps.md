@@ -614,7 +614,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [awesome-shell ![GitHub Repo stars](https://img.shields.io/github/stars/alebcay/awesome-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy ![GitHub Repo stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy) ![GitHub last commit](https://img.shields.io/github/last-commit/k4m4/terminals-are-sexy)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins ![GitHub Repo stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-- [awesome-nodejs clis ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-nodejs)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) ��� Node.js modules and resources.
+- [awesome-nodejs clis ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-nodejs)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## License
 
