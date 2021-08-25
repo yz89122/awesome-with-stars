@@ -485,7 +485,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Data
 
-- [Graphql ![GitHub Repo stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) [2664⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
+- [Graphql ![GitHub Repo stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) [2664��] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
 - [GeoFlutterFire ![GitHub Repo stars](https://img.shields.io/github/stars/DarshanGowda0/GeoFlutterFire) ![GitHub last commit](https://img.shields.io/github/last-commit/DarshanGowda0/GeoFlutterFire)](https://github.com/DarshanGowda0/GeoFlutterFire) [227⭐] - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/).
 - [Ferry ![GitHub Repo stars](https://img.shields.io/github/stars/gql-dart/ferry) ![GitHub last commit](https://img.shields.io/github/last-commit/gql-dart/ferry)](https://github.com/gql-dart/ferry) [262⭐] - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa).
 
