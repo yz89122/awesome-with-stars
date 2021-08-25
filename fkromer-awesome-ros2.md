@@ -65,6 +65,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/Unity-Robotics-Hub) ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/Unity-Robotics-Hub)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 - [Foxglove Studio ![GitHub Repo stars](https://img.shields.io/github/stars/foxglove/studio) ![GitHub last commit](https://img.shields.io/github/last-commit/foxglove/studio)](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
+- [ROS2 For Unity ![GitHub Repo stars](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/RobotecAI/ros2-for-unity)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Interactivity
 
@@ -175,6 +176,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rclc ![GitHub Repo stars](https://img.shields.io/github/stars/ros2/rclc) ![GitHub last commit](https://img.shields.io/github/last-commit/ros2/rclc)](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
 - [ros2_rust ![GitHub Repo stars](https://img.shields.io/github/stars/ros2-rust/ros2_rust) ![GitHub last commit](https://img.shields.io/github/last-commit/ros2-rust/ros2_rust)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 - [ros2_dotnet ![GitHub Repo stars](https://img.shields.io/github/stars/esteve/ros2_dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/esteve/ros2_dotnet)](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+- [ros2cs ![GitHub Repo stars](https://img.shields.io/github/stars/RobotecAI/ros2cs) ![GitHub last commit](https://img.shields.io/github/last-commit/RobotecAI/ros2cs)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ### Client libraries common
 

@@ -109,6 +109,7 @@
 
 - [vproto ![GitHub Repo stars](https://img.shields.io/github/stars/emily33901/vproto) ![GitHub last commit](https://img.shields.io/github/last-commit/emily33901/vproto)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 - [v-toxml ![GitHub Repo stars](https://img.shields.io/github/stars/radare/v-toxml) ![GitHub last commit](https://img.shields.io/github/last-commit/radare/v-toxml)](https://github.com/radare/v-toxml) - XML Serialization library for V.
+- [vlang-yaml ![GitHub Repo stars](https://img.shields.io/github/stars/jdonnerstag/vlang-yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-yaml)](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 
 ## Libraries
 
@@ -120,8 +121,6 @@
 - [termtable ![GitHub Repo stars](https://img.shields.io/github/stars/serkonda7/termtable) ![GitHub last commit](https://img.shields.io/github/last-commit/serkonda7/termtable)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs ![GitHub Repo stars](https://img.shields.io/github/stars/nedpals/vargs) ![GitHub last commit](https://img.shields.io/github/last-commit/nedpals/vargs)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 
-
-
 ### Text processing
 
 - [v-regex ![GitHub Repo stars](https://img.shields.io/github/stars/spytheman/v-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/spytheman/v-regex)](https://github.com/spytheman/v-regex) - A simple regex library for V.
@@ -130,6 +129,7 @@
 - [cjson ![GitHub Repo stars](https://img.shields.io/github/stars/lydiandy/cjson) ![GitHub last commit](https://img.shields.io/github/last-commit/lydiandy/cjson)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot ![GitHub Repo stars](https://img.shields.io/github/stars/Delta456/ascii_robot) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/ascii_robot)](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [iconv ![GitHub Repo stars](https://img.shields.io/github/stars/fanlia/iconv) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/iconv)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
+- [Rosie-RPL ![GitHub Repo stars](https://img.shields.io/github/stars/jdonnerstag/vlang-rosie) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-rosie)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation 
 
 ### Graphics
 
@@ -163,13 +163,14 @@
 ### Audio
 
 - [vave ![GitHub Repo stars](https://img.shields.io/github/stars/thecodrr/vave) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vave)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
-- [vspeech ![GitHub Repo stars](https://img.shields.io/github/stars/thecodrr/vspeech) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vspeech)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
+- [vspeech ![GitHub Repo stars](https://img.shields.io/github/stars/thecodrr/vspeech) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vspeech)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. ����📜
 - [v-miniaudio ![GitHub Repo stars](https://img.shields.io/github/stars/Larpon/v-miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/Larpon/v-miniaudio)](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
 
 ### Operating system
 
 - [clipboard ![GitHub Repo stars](https://img.shields.io/github/stars/vlang/v) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/v)](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [vlipboard ![GitHub Repo stars](https://img.shields.io/github/stars/asvvvad/vlipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/asvvvad/vlipboard)](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
+- [mmap ![GitHub Repo stars](https://img.shields.io/github/stars/jdonnerstag/vlang-mmap) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-mmap)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows
 
 ### Automation
 

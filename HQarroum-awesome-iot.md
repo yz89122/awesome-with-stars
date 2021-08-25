@@ -123,6 +123,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
  - [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
  - [NanoMQ ![GitHub Repo stars](https://img.shields.io/github/stars/nanomq/nanomq) ![GitHub last commit](https://img.shields.io/github/last-commit/nanomq/nanomq)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
  - [Kuiper ![GitHub Repo stars](https://img.shields.io/github/stars/emqx/kuiper) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/kuiper)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+ - [t6 ![GitHub Repo stars](https://img.shields.io/github/stars/mathcoll/t6) ![GitHub last commit](https://img.shields.io/github/last-commit/mathcoll/t6)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 
 #### Libraries and Tools
 
