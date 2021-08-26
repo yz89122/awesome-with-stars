@@ -23,7 +23,7 @@ document**.
   - [Presentations](#presentations)
   - [Books](#books)
 - [Tutorials](#tutorials)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Lists](#other-lists)
 
 ## Word Processors
 
@@ -189,11 +189,12 @@ How to generate articles and presentations for scientific purposes.
    tutorial on authoring a paper by seamlessly integrating with LaTeX
    commands within Org-mode.
 
-## Other Awesome Lists
+## Other Lists
 
-- [Jupyter ![GitHub Repo stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/markusschanta/awesome-jupyter)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-- [LaTeX ![GitHub Repo stars](https://img.shields.io/github/stars/egeerardyn/awesome-LaTeX) ![GitHub last commit](https://img.shields.io/github/last-commit/egeerardyn/awesome-LaTeX)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-- [Markdown ![GitHub Repo stars](https://img.shields.io/github/stars/BubuAnabelas/awesome-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/BubuAnabelas/awesome-markdown)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+- [Awesome Jupyter ![GitHub Repo stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/markusschanta/awesome-jupyter)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+- [Awesome LaTeX ![GitHub Repo stars](https://img.shields.io/github/stars/egeerardyn/awesome-LaTeX) ![GitHub last commit](https://img.shields.io/github/last-commit/egeerardyn/awesome-LaTeX)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
+- [Awesome Markdown ![GitHub Repo stars](https://img.shields.io/github/stars/BubuAnabelas/awesome-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/BubuAnabelas/awesome-markdown)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+- [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
 
