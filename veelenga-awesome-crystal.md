@@ -40,6 +40,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [HTTP](#http)
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
+  * [Internationalization](#internationalization)
   * [Logging and monitoring](#logging-and-monitoring)
   * [Machine Learning](#machine-learning)
   * [Markdown/Text Processors](#markdowntext-processors)
@@ -303,6 +304,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
+## Internationalization
+
+ * [crystal-i18n ![GitHub Repo stars](https://img.shields.io/github/stars/crystal-i18n/i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-i18n/i18n)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+ * [i18n.cr ![GitHub Repo stars](https://img.shields.io/github/stars/vladfaust/i18n.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/vladfaust/i18n.cr)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
+
 ## Logging and monitoring
  * [crafana ![GitHub Repo stars](https://img.shields.io/github/stars/spoved/crafana.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/spoved/crafana.cr)](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
  * [Log](https://crystal-lang.org/api/Log.html) - logging utility (Crystal stdlib)
@@ -331,7 +337,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crz ![GitHub Repo stars](https://img.shields.io/github/stars/dhruvrajvanshi/crz) ![GitHub last commit](https://img.shields.io/github/last-commit/dhruvrajvanshi/crz)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr ![GitHub Repo stars](https://img.shields.io/github/stars/veelenga/emoji.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/veelenga/emoji.cr)](https://github.com/veelenga/emoji.cr) - Emoji library
  * [gphoto2-web.cr ![GitHub Repo stars](https://img.shields.io/github/stars/Sija/gphoto2-web.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/Sija/gphoto2-web.cr)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
- * [i18n.cr ![GitHub Repo stars](https://img.shields.io/github/stars/vladfaust/i18n.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/vladfaust/i18n.cr)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable ![GitHub Repo stars](https://img.shields.io/github/stars/lucaong/immutable) ![GitHub last commit](https://img.shields.io/github/last-commit/lucaong/immutable)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [iterm2 ![GitHub Repo stars](https://img.shields.io/github/stars/toddsundsted/iterm2) ![GitHub last commit](https://img.shields.io/github/last-commit/toddsundsted/iterm2)](https://github.com/toddsundsted/iterm2) - Display images within the terminal using the ITerm2 Inline Images Protocol
  * [monads ![GitHub Repo stars](https://img.shields.io/github/stars/alex-lairan/monads) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-lairan/monads)](https://github.com/alex-lairan/monads) - Monad implementation
