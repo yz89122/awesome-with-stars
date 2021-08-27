@@ -461,6 +461,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
 - [entr ![GitHub Repo stars](https://img.shields.io/github/stars/eradman/entr) ![GitHub last commit](https://img.shields.io/github/last-commit/eradman/entr)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 - [organize-cli ![GitHub Repo stars](https://img.shields.io/github/stars/ManrajGrover/organize-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/organize-cli)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+- [RecoverPy ![GitHub Repo stars](https://img.shields.io/github/stars/PabloLec/RecoverPy) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/RecoverPy)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ### File Sync/Sharing
 

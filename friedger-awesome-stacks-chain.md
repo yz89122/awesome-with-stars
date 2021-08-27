@@ -42,7 +42,8 @@
 
 - [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) - An application for reviewing transactions on the Stacks blockchain.
 - [Boom.money](https://boom.money) - A web wallet focused on NFTs, and custom tokens.
-- [Send Many](https://stacks-send-many.pages.dev/) - An application to send STX to many recipients in one transaction.
+- [Send Many](https://sendstx.com/) - An application to send STX to many recipients in one transaction.
+- [MIA Block explorer](http://miamining.com/) - A web application to exolore MIA coin transactions for all and personal accounts.
 - [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source ![GitHub Repo stars](https://img.shields.io/github/stars/friedger/speed-spend) ![GitHub last commit](https://img.shields.io/github/last-commit/friedger/speed-spend)](https://github.com/friedger/speed-spend)).
 
 ## Clarity Resources
@@ -61,6 +62,7 @@
 
 ### Contracts
 
+- [CityCoin ![GitHub Repo stars](https://img.shields.io/github/stars/citycoins/citycoin) ![GitHub last commit](https://img.shields.io/github/last-commit/citycoins/citycoin)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 - [SWAPR ![GitHub Repo stars](https://img.shields.io/github/stars/psq/swapr) ![GitHub last commit](https://img.shields.io/github/last-commit/psq/swapr)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 - [FLEXR ![GitHub Repo stars](https://img.shields.io/github/stars/psq/flexr) ![GitHub last commit](https://img.shields.io/github/last-commit/psq/flexr)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
 - [ClarityDAO ![GitHub Repo stars](https://img.shields.io/github/stars/friedger/clarity-dao) ![GitHub last commit](https://img.shields.io/github/last-commit/friedger/clarity-dao)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.

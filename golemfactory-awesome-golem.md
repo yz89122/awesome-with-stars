@@ -120,7 +120,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Password Recovery
 - [Golem-JTR ![GitHub Repo stars](https://img.shields.io/github/stars/hhio618/golem-jtr) ![GitHub last commit](https://img.shields.io/github/last-commit/hhio618/golem-jtr)](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
-- [Yacat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - Hashcat password-recovery step-by-step.
+- [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
 ### DeFi
 
