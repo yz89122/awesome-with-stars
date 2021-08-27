@@ -97,6 +97,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [postgres ![GitHub Repo stars](https://img.shields.io/github/stars/denodrivers/postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/postgres)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 - [sql-builder ![GitHub Repo stars](https://img.shields.io/github/stars/manyuanrong/sql-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/sql-builder)](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [maxminddb ![GitHub Repo stars](https://img.shields.io/github/stars/josh-hemphill/maxminddb-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/josh-hemphill/maxminddb-deno)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
+- [cotton ![GitHub Repo stars](https://img.shields.io/github/stars/rahmanfadhil/cotton) ![GitHub last commit](https://img.shields.io/github/last-commit/rahmanfadhil/cotton)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 
 ### Frontend development
 - [postcss ![GitHub Repo stars](https://img.shields.io/github/stars/postcss/postcss-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/postcss/postcss-deno)](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
@@ -124,6 +125,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dejs ![GitHub Repo stars](https://img.shields.io/github/stars/syumai/dejs) ![GitHub last commit](https://img.shields.io/github/last-commit/syumai/dejs)](https://github.com/syumai/dejs) - Ejs template engine for deno.
 - [deno_tiny_templates ![GitHub Repo stars](https://img.shields.io/github/stars/zekth/deno_tiny_templates) ![GitHub last commit](https://img.shields.io/github/last-commit/zekth/deno_tiny_templates)](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
 - [eta ![GitHub Repo stars](https://img.shields.io/github/stars/eta-dev/eta) ![GitHub last commit](https://img.shields.io/github/last-commit/eta-dev/eta)](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
+- [handlebars ![GitHub Repo stars](https://img.shields.io/github/stars/alosaur/handlebars) ![GitHub last commit](https://img.shields.io/github/last-commit/alosaur/handlebars)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+- [mustache ![GitHub Repo stars](https://img.shields.io/github/stars/alosaur/mustache) ![GitHub last commit](https://img.shields.io/github/last-commit/alosaur/mustache)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ### Testing
 - [deno-pretty-assert ![GitHub Repo stars](https://img.shields.io/github/stars/bokuweb/deno-pretty-assert) ![GitHub last commit](https://img.shields.io/github/last-commit/bokuweb/deno-pretty-assert)](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
