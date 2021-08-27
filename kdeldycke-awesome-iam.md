@@ -70,7 +70,6 @@ This knowledge base expose all the technologies, protocols and jargon of the dom
   - [Anonymization](#anonymization)
   - [GDPR](#gdpr)
 - [UX/UI](#uxui)
-- [Commercial Solutions](#commercial-solutions)
 - [Competitive Analysis](#competitive-analysis)
 - [History](#history)
 
@@ -339,6 +338,8 @@ Typical SAML identity provider is an institution or a big corporation's internal
 - [Web Single Sign-On, the SAML 2.0 perspective](https://blog.theodo.com/2019/06/web-single-sign-on-the-saml-2-0-perspective/) - Another naive explanation of SAML workflow in the context of corporate SSO implementation.
 
 - [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml) - SAML is arcane at times. A another analogy might helps get more sense out of it.
+
+- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
 
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues) - On the technical and UX issues of single logout implementations.
 
@@ -673,10 +674,6 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 - [Remove password masking](http://passwordmasking.com) - Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221) - Notifications are hard. Really hard.
-
-## Commercial Solutions
-
-- [Rippling IDM](https://www.rippling.com/idm/) - Identity management, SSO.
 
 ## Competitive Analysis
 
