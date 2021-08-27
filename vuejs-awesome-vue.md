@@ -8,7 +8,6 @@
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
 
 > A curated list of awesome things related to Vue.js
-
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -740,7 +739,7 @@
 - [Goldfish ![GitHub Repo stars](https://img.shields.io/github/stars/Caiyeon/goldfish) ![GitHub last commit](https://img.shields.io/github/last-commit/Caiyeon/goldfish)](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 - [promptie ![GitHub Repo stars](https://img.shields.io/github/stars/alicin/promptie) ![GitHub last commit](https://img.shields.io/github/last-commit/alicin/promptie)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
 - [Hare ![GitHub Repo stars](https://img.shields.io/github/stars/clarkdo/hare) ![GitHub last commit](https://img.shields.io/github/last-commit/clarkdo/hare)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
-- [Paper-Dashboard ![GitHub Repo stars](https://img.shields.io/github/stars/cristijora/vue-paper-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/cristijora/vue-paper-dashboard)](https://github.com/cristijora/vue-paper-dashboard) -Creative Tim Paper Dashboard made for Vue
+- [Paper-Dashboard ![GitHub Repo stars](https://img.shields.io/github/stars/creativetimofficial/vue-paper-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/vue-paper-dashboard)](https://github.com/creativetimofficial/vue-paper-dashboard) -Creative Tim Paper Dashboard made for Vue
 - [AdminLTE-VueJS2 ![GitHub Repo stars](https://img.shields.io/github/stars/otezz/AdminLTE-VueJS2) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/AdminLTE-VueJS2)](https://github.com/otezz/AdminLTE-VueJS2) - An open source project that implements VueJS (v2.x) on AdminLTE.
 - [Material Dashboard ![GitHub Repo stars](https://img.shields.io/github/stars/lucduong/vue-material-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/lucduong/vue-material-dashboard)](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
 - [Explore-Github ![GitHub Repo stars](https://img.shields.io/github/stars/mazipan/explore-github) ![GitHub last commit](https://img.shields.io/github/last-commit/mazipan/explore-github)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
@@ -1570,7 +1569,8 @@ _Display time / date / age_
 - [v-idle ![GitHub Repo stars](https://img.shields.io/github/stars/malekim/v-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/malekim/v-idle)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 - [v-digital-time-picker ![GitHub Repo stars](https://img.shields.io/github/stars/runyasak/v-digital-time-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/runyasak/v-digital-time-picker)](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 - [vue-horizontal-timeline ![GitHub Repo stars](https://img.shields.io/github/stars/guastallaigor/vue-horizontal-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/guastallaigor/vue-horizontal-timeline)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
-
+- [vue-timer-hook ![GitHub Repo stars](https://img.shields.io/github/stars/riderx/vue-timer-hook) ![GitHub last commit](https://img.shields.io/github/last-commit/riderx/vue-timer-hook)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+ 
 #### Calendar
 
 _Display non-editable events in a Calendar_
