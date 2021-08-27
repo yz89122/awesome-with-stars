@@ -151,6 +151,10 @@ Zero trust network security operates under the principle “never trust, always 
 
 Protocols and technologies to verify that you are who you pretend to be.
 
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
+
+- [A Child’s Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - In the same spirit as above, but this time at the service level.
+
 - [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc) - How-to in a nutshell: 1. Small root of trust; 2. TLS isn't enough; 3. Certificate-based tokens; 4. Crypto Auth Tokens (CATs). See the [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) for more details.
 
 ### Password-based
@@ -380,6 +384,8 @@ Collection of open-source projects if you're looking to roll your own policy imp
 - [Gubernator ![GitHub Repo stars](https://img.shields.io/github/stars/mailgun/gubernator) ![GitHub last commit](https://img.shields.io/github/last-commit/mailgun/gubernator)](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
+
+- [Oso ![GitHub Repo stars](https://img.shields.io/github/stars/osohq/oso) ![GitHub last commit](https://img.shields.io/github/last-commit/osohq/oso)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ### AWS policy tools
 
