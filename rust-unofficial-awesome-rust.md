@@ -690,7 +690,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[audio](https://crates.io/keywords/audio)]
 
-* [hound](https://crates.io/crates/hound) — A WAV encoding and decoding library [![build badge](https://api.travis-ci.org/ruuda/hound.svg?branch=master)](https://travis-ci.org/ruuda/hound)
+* [hound](https://crates.io/crates/hound) ��� A WAV encoding and decoding library [![build badge](https://api.travis-ci.org/ruuda/hound.svg?branch=master)](https://travis-ci.org/ruuda/hound)
 * [jhasse/ears ![GitHub Repo stars](https://img.shields.io/github/stars/jhasse/ears) ![GitHub last commit](https://img.shields.io/github/last-commit/jhasse/ears)](https://github.com/jhasse/ears) — A simple library to play Sounds and Musics, on top of OpenAL and libsndfile [![build badge](https://api.travis-ci.org/jhasse/ears.svg?branch=master)](https://travis-ci.org/jhasse/ears)
 * [jpernst/alto ![GitHub Repo stars](https://img.shields.io/github/stars/jpernst/alto) ![GitHub last commit](https://img.shields.io/github/last-commit/jpernst/alto)](https://github.com/jpernst/alto) — OpenAL 1.1 bindings [![build badge](https://api.travis-ci.org/jpernst/alto.svg?branch=master)](https://travis-ci.org/jpernst/alto)
 * [musitdev/portmidi-rs ![GitHub Repo stars](https://img.shields.io/github/stars/musitdev/portmidi-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/musitdev/portmidi-rs)](https://github.com/musitdev/portmidi-rs) — [PortMidi](http://portmedia.sourceforge.net/portmidi/) bindings [![build badge](https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master)](https://travis-ci.org/musitdev/portmidi-rs)

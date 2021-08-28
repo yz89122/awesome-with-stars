@@ -388,7 +388,9 @@ See also [awesome-tor ![GitHub Repo stars](https://img.shields.io/github/stars/a
 ## Transport-layer defenses
 
 - [Certbot](https://certbot.eff.org/) - Free tool to automate the issuance and renewal of TLS certificates from the [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
+- [Innernet ![GitHub Repo stars](https://img.shields.io/github/stars/tonarino/innernet) ![GitHub last commit](https://img.shields.io/github/last-commit/tonarino/innernet)](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood.
 - [MITMEngine ![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/mitmengine) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/mitmengine)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+- [Nebula ![GitHub Repo stars](https://img.shields.io/github/stars/slackhq/nebula) ![GitHub last commit](https://img.shields.io/github/last-commit/slackhq/nebula)](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security.
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
 - [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
 - [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
