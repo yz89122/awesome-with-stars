@@ -138,6 +138,7 @@ Inspired by the [awesome ![GitHub Repo stars](https://img.shields.io/github/star
  - [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
  - [SmartObject ![GitHub Repo stars](https://img.shields.io/github/stars/PeterEB/smartobject) ![GitHub last commit](https://img.shields.io/github/last-commit/PeterEB/smartobject)](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [United Manufacturing Hub ![GitHub Repo stars](https://img.shields.io/github/stars/united-manufacturing-hub/united-manufacturing-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/united-manufacturing-hub/united-manufacturing-hub)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+ - [QuestDB ![GitHub Repo stars](https://img.shields.io/github/stars/questdb/questdb) ![GitHub last commit](https://img.shields.io/github/last-commit/questdb/questdb)](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applciations. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 
 #### Miscellaneous
 
