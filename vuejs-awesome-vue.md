@@ -2447,6 +2447,7 @@ _Set of admin template_
 - [Vue-Low-Code ![GitHub Repo stars](https://img.shields.io/github/stars/KlausSchaefers/vue-low-code) ![GitHub last commit](https://img.shields.io/github/last-commit/KlausSchaefers/vue-low-code)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 - [Figma-Low-Code ![GitHub Repo stars](https://img.shields.io/github/stars/KlausSchaefers/figma-low-code) ![GitHub last commit](https://img.shields.io/github/last-commit/KlausSchaefers/figma-low-code)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 - [vue-notion ![GitHub Repo stars](https://img.shields.io/github/stars/janniks/vue-notion) ![GitHub last commit](https://img.shields.io/github/last-commit/janniks/vue-notion)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+- [Fes.js ![GitHub Repo stars](https://img.shields.io/github/stars/WeBankFinTech/fes.js) ![GitHub last commit](https://img.shields.io/github/last-commit/WeBankFinTech/fes.js)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
 ### UI Utilities
 
