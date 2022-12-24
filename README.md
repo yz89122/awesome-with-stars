@@ -1,6 +1,6 @@
 # [Awesome with Stars](https://yz89122.github.io/awesome-with-stars)
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/yz89122/awesome-with-stars/Update%20Awesome%20List?label=Update)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yz89122/awesome-with-stars/main.yml?label=Update&branch=main)
 
 See [GitHub Pages](https://yz89122.github.io/awesome-with-stars) or [branch `gh-pages`](https://github.com/yz89122/awesome-with-stars/tree/gh-pages#readme)(contents are auto-generated).
 
