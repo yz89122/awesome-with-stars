@@ -1,3 +1,5 @@
+// TODO: rewrite with TS
+
 const http = require("http");
 const https = require("https");
 const fs = require("fs/promises");
@@ -10,6 +12,8 @@ if (process.argv.length < 3) {
   return process.exit(1);
 }
 const outputDir = process.argv[2];
+const awesomeListsDirName = 'lists';
+const awesomeListsDir = `${outputDir}/${awesomeListsDirName}`;
 
 const AWESOME = {
   owner: "sindresorhus",
@@ -105,7 +109,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
     this.markdown = this.markdown.replace(
       // syntax: [text](href "title")
       /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/([^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
-      "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)$2"
+      "$1 ![GitHub Repo Stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)$2"
     );
     return this;
   },
@@ -140,18 +144,20 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
         .replaceMarkdownImage()
         .markdown.replace(
           /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/((?!topics)[^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
-          "$1 ![GitHub Repo stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)](./$6-$7.md) [*Origin*]($3)"
+          `$1 ![GitHub Repo Stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)](./${awesomeListsDirName}/$6-$7.md) [*Origin*]($3)`
         )
     );
     console.log("README.md");
 
-    console.warn(`${awesomeRepositories.length} awesome repositories`);
+    console.log(`${awesomeRepositories.length} awesome repositories`);
+
+    await fs.mkdir(awesomeListsDir, { recursive: true });
 
     await Promise.all(
       awesomeRepositories.map(async (repository) => {
         try {
           await fs.writeFile(
-            `${outputDir}/${repository.owner}-${repository.name}.md`,
+            `${awesomeListsDir}/${repository.owner}-${repository.name}.md`,
             wrapReadmeObject(await getReadme(repository))
               .replaceHtmlImage()
               .replaceMarkdownImage()
