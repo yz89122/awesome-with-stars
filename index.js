@@ -81,6 +81,10 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
   branch,
   filename,
   markdown,
+  fix() {
+    this.markdown = this.markdown.replace(/^---\n/s, '---\n---\n');
+    return this;
+  },
   replaceHtmlImage() {
     this.markdown = this.markdown.replace(
       // best effort matching
@@ -159,6 +163,7 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
           await fs.writeFile(
             `${awesomeListsDir}/${repository.owner}-${repository.name}.md`,
             wrapReadmeObject(await getReadme(repository))
+              .fix()
               .replaceHtmlImage()
               .replaceMarkdownImage()
               .addGithubBadges().markdown
