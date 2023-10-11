@@ -10,4 +10,4 @@ See [GitHub Pages](https://yz89122.github.io/awesome-with-stars) or [branch `gh-
 
 It's caused by loading too many badges at once, this problem is fixed by adding [`loading=lazy`](https://web.dev/browser-level-image-lazy-loading/) on `<img>` in [GitHub Pages](https://yz89122.github.io/awesome-with-stars).
 
-[Lazy loading](https://web.dev/browser-level-image-lazy-loading/) is not supported in all browsers. If you're seeing too many request, please check the [supported browsers](https://caniuse.com/loading-lazy-attr) and use one of them to visit [GitHub Pages](https://yz89122.github.io/awesome-with-stars)
+[Lazy loading](https://web.dev/browser-level-image-lazy-loading/) is not supported by all browsers. If you're seeing too many request error, please check the [supported browsers](https://caniuse.com/loading-lazy-attr) and use one of them to visit [GitHub Pages](https://awesome.imyz.dev)
