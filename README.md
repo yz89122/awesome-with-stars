@@ -4,7 +4,7 @@
 
 See [GitHub Pages](https://yz89122.github.io/awesome-with-stars) or [branch `gh-pages`](https://github.com/yz89122/awesome-with-stars/tree/gh-pages#readme)(contents are auto-generated).
 
-The awesome list is from [sindresorhus/awesome ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=social)](https://github.com/sindresorhus/awesome#readme).
+[The Awesome List (sindresorhus/awesome) ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=social)](https://github.com/sindresorhus/awesome#readme) with showing number of GitHub stars for each tool or library.
 
 ## Too Many Requests(429) or Server Error(5xx) on some pages
 
