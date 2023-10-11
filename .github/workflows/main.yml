@@ -66,10 +66,10 @@ jobs:
         run: |
           set -eux
           bundle install
-          CNAME="$(cat repository/docs/cname || true)"
+          CNAME="$(cat repository/docs/CNAME || true)"
           rm -fr repository/docs
           bundle exec jekyll build --config _config.yml --source repository --destination repository/docs
-          echo "${CNAME}" > repository/docs/cname
+          echo "${CNAME}" > repository/docs/CNAME
 
       - name: Git Commit
         run: |
