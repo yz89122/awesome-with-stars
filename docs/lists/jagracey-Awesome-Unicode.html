@@ -11,17 +11,17 @@
 <meta name="generator" content="Jekyll v3.9.3">
 <meta property="og:title" content="Awesome Lists with GitHub stars">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://yz89122.github.io/awesome-with-stars/lists/jagracey-Awesome-Unicode.html">
-<meta property="og:url" content="https://yz89122.github.io/awesome-with-stars/lists/jagracey-Awesome-Unicode.html">
+<link rel="canonical" href="https://awesome.imyz.dev/lists/jagracey-Awesome-Unicode.html">
+<meta property="og:url" content="https://awesome.imyz.dev/lists/jagracey-Awesome-Unicode.html">
 <meta property="og:site_name" content="Awesome Lists with GitHub stars">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Awesome Lists with GitHub stars">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome Lists with GitHub stars","url":"https://yz89122.github.io/awesome-with-stars/lists/jagracey-Awesome-Unicode.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome Lists with GitHub stars","url":"https://awesome.imyz.dev/lists/jagracey-Awesome-Unicode.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/awesome-with-stars/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <link rel="stylesheet" href="/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -29,7 +29,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/awesome-with-stars/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -37,7 +37,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://yz89122.github.io/awesome-with-stars/">Awesome Lists with GitHub stars</a></h1>
+      <h1><a href="https://awesome.imyz.dev/">Awesome Lists with GitHub stars</a></h1>
       
 
       <p><img src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg" alt="" referrerpolicy="no-referrer" loading="lazy"></p>
@@ -272,7 +272,7 @@ Forms.) – <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47">
 
 <h2 id="calculating-surrogate-pairs">Calculating Surrogate Pairs</h2>
 
-<p>The Unicode character <strong>���� Pile of Poo (U+1F4A9)</strong> in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we’re using hexidecimal notation.</p>
+<p>The Unicode character <strong>💩 Pile of Poo (U+1F4A9)</strong> in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we’re using hexidecimal notation.</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="kd">var</span> <span class="nx">High_Surrogate</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">Code_Point</span><span class="p">){</span> <span class="k">return</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">((</span><span class="nx">Code_Point</span> <span class="o">-</span> <span class="mh">0x10000</span><span class="p">)</span> <span class="o">/</span> <span class="mh">0x400</span><span class="p">)</span> <span class="o">+</span> <span class="mh">0xD800</span> <span class="p">};</span>
  <span class="kd">var</span> <span class="nx">Low_Surrogate</span>  <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">Code_Point</span><span class="p">){</span> <span class="k">return</span> <span class="p">(</span><span class="nx">Code_Point</span> <span class="o">-</span> <span class="mh">0x10000</span><span class="p">)</span> <span class="o">%</span> <span class="mh">0x400</span> <span class="o">+</span> <span class="mh">0xDC00</span> <span class="p">};</span>
