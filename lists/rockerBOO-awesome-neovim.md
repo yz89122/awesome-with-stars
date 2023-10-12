@@ -603,6 +603,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [RutaTang/quicknote.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/RutaTang/quicknote.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/RutaTang/quicknote.nvim)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 - [serenevoid/kiwi.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/serenevoid/kiwi.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/serenevoid/kiwi.nvim)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 - [ada0l/obsidian/ ![GitHub Repo Stars](https://img.shields.io/github/stars/ada0l/obsidian) ![GitHub last commit](https://img.shields.io/github/last-commit/ada0l/obsidian)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
+- [gsuuon/note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gsuuon/note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gsuuon/note.nvim)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ### Utility
 
