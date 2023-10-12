@@ -2,11 +2,11 @@ name: Update Awesome List
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
   schedule:
-    - cron:  '0 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,13 +27,14 @@ jobs:
           cd repository
           git checkout 'gh-pages'
 
-      - name: Update
+      - name: Update Awesome Lists
+        run: node index.js repository
+
+      - name: Git Commit & Push
         run: |
-          set -eux
-          node index.js repository
           cd repository
           git add .
-          git commit -m '[bot] Updated' && git push || true
+          git commit -m '[bot] Updated Awesome Lists' && git push || true
 
   update-github-pages:
     needs: update-awesome-list
@@ -66,12 +67,11 @@ jobs:
         run: |
           set -eux
           bundle install
-          CNAME="$(cat repository/docs/CNAME || true)"
           rm -fr repository/docs
           bundle exec jekyll build --config _config.yml --source repository --destination repository/docs
-          echo "${CNAME}" > repository/docs/CNAME
+          cp docs/CNAME repository/docs/CNAME
 
-      - name: Git Commit
+      - name: Git Commit & Push
         run: |
           cd repository
           git add docs

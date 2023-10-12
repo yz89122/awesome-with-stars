@@ -1,23 +1,24 @@
 // TODO: rewrite with TS
 
-const http = require("http");
-const https = require("https");
-const fs = require("fs/promises");
+const http = require('http');
+const https = require('https');
+const path = require('path');
+const fs = require('fs/promises');
 
 if (process.argv.length < 3) {
-  console.error("output directory not specified");
+  console.error('output directory not specified');
   console.error(
     `Usage: ${process.argv[0]} ${process.argv[1]} <output_directory>`
   );
   return process.exit(1);
 }
 const outputDir = process.argv[2];
-const awesomeListsDirName = 'lists';
-const awesomeListsDir = `${outputDir}/${awesomeListsDirName}`;
+const listsDirName = 'lists';
+const listsDir = path.join(outputDir, listsDirName);
 
-const AWESOME = {
-  owner: "sindresorhus",
-  name: "awesome",
+const rootRepo = {
+  owner: 'sindresorhus',
+  name: 'awesome',
 };
 
 /** @type {(options: https.RequestOptions) => Promise<http.IncomingMessage>} */
@@ -26,19 +27,48 @@ const request = (options) => {
     // use native https.request in order to make this script dependency-less
     const req = https.request(
       {
-        headers: { "user-agent": "node" },
+        headers: { 'user-agent': 'node' },
         ...options,
       },
       (res) => {
         res.data = Buffer.alloc(0);
-        res.on("data", (chunk) => (res.data += chunk));
-        res.on("end", () => resolve(res));
+        res.on('data', (chunk) => (res.data += chunk));
+        res.on('end', () => resolve(res));
       }
     );
-    req.on("error", reject);
+    req.on('error', reject);
     req.end();
   });
 };
+
+/**
+ * @param {string[][]} components
+ * @return {string[]}
+ */
+const combination = (components) => {
+  if (components.length < 1) {
+    return [];
+  }
+  /** @type {string[]} */
+  const result = [];
+  /**
+   * @param {string} prefix
+   * @param {number} index
+   */
+  const recurse = (prefix, index) => {
+    if (index >= components.length) {
+      result.push(prefix);
+      return;
+    }
+    for (const element of components[index]) {
+      recurse(prefix+element, index+1)
+    }
+  };
+  recurse('', 0)
+  return result;
+};
+
+const readmeCombination = combination([['', 'docs/'], ['README', 'readme', 'Readme'], ['.md', '.MD']]);
 
 /**
  * @param {{ owner: string, name: string, branch: string? }}
@@ -50,28 +80,22 @@ const getReadme = async ({ owner, name, branch = null }) => {
       // If the default branch is main, request on branch master
       // will get the result, the opposite is not.
       // So we try on branch main first to get the correct branch name.
-      return await getReadme({ owner, name, branch: "main" });
+      return await getReadme({ owner, name, branch: 'main' });
     } catch {
-      return await getReadme({ owner, name, branch: "master" });
+      return await getReadme({ owner, name, branch: 'master' });
     }
   }
-  for (const filename of [
-    "README.md",
-    "readme.md",
-    "README.MD",
-    "Readme.md",
-    "docs/README.md",
-  ]) {
+  for (const filename of readmeCombination) {
     try {
       const { data, statusCode } = await request({
-        hostname: "raw.githubusercontent.com",
+        hostname: 'raw.githubusercontent.com',
         path: `/${owner}/${name}/${branch}/${filename}`,
       });
       if (statusCode != 200) continue;
       return { owner, name, branch, filename, markdown: data.toString() };
     } catch {}
   }
-  throw new Error("README.md not found");
+  throw new Error('README.md not found');
 };
 
 /** @param {{ owner: string, name: string, branch: string, filename: string, markdown: string }} */
@@ -133,9 +157,9 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
 (async () => {
   try {
     await fs.mkdir(outputDir, { recursive: true });
-    const awesomeReadme = wrapReadmeObject(await getReadme(AWESOME));
-    const awesomeRepositories = Array.from(
-      awesomeReadme.markdown.matchAll(
+    const rootReadme = wrapReadmeObject(await getReadme(rootRepo));
+    const repositories = Array.from(
+      rootReadme.markdown.matchAll(
         /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/((?!topics)[^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi
       ),
       (match) => ({ owner: match[6], name: match[7] })
@@ -143,25 +167,26 @@ const wrapReadmeObject = ({ owner, name, branch, filename, markdown }) => ({
 
     await fs.writeFile(
       `${outputDir}/README.md`,
-      awesomeReadme
+      rootReadme
         .replaceHtmlImage()
         .replaceMarkdownImage()
-        .markdown.replace(
+        .markdown
+        .replace(
           /(?<!!)(\[(?:[^\\\]]|\\.)*?)(\]\((((https?:)?\/\/)?github\.com\/((?!topics)[^\s\/?#)]+?)\/([^\s\/?#)]+)([^\s)]*?))\s*(\s((["'])(?:[^\11\\]|\\.)*?\11|\((?:[^\\)]|\\.)*?\)))?\))/gi,
-          `$1 ![GitHub Repo Stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)](./${awesomeListsDirName}/$6-$7.md) [*Origin*]($3)`
+          `$1 ![GitHub Repo Stars](https://img.shields.io/github/stars/$6/$7) ![GitHub last commit](https://img.shields.io/github/last-commit/$6/$7)](./${listsDirName}/$6-$7.md) [*Origin*]($3)`
         )
     );
     console.log("README.md");
 
-    console.log(`${awesomeRepositories.length} awesome repositories`);
+    console.log(`${repositories.length} awesome repositories`);
 
-    await fs.mkdir(awesomeListsDir, { recursive: true });
+    await fs.mkdir(listsDir, { recursive: true });
 
     await Promise.all(
-      awesomeRepositories.map(async (repository) => {
+      repositories.map(async (repository) => {
         try {
           await fs.writeFile(
-            `${awesomeListsDir}/${repository.owner}-${repository.name}.md`,
+            `${listsDir}/${repository.owner}-${repository.name}.md`,
             wrapReadmeObject(await getReadme(repository))
               .fix()
               .replaceHtmlImage()
