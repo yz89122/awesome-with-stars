@@ -1,5 +1,4 @@
-site:
-  title: Awesome Lists with GitHub stars
+title: Awesome Lists with GitHub stars
 include:
   - README.md
 optional_front_matter:
