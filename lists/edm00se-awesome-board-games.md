@@ -40,6 +40,20 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  10m |
 
+### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
+
+> Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
+> 
+> You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth:
+> - Gain food tokens via custom dice in a birdfeeder dice tower
+> - Lay eggs using egg miniatures in a variety of colors
+
+![Wingspan game image](https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep/img/DR7181wU4sHT6gn6Q1XccpPxNHg=/fit-in/246x300/filters:strip_icc()/pic4458123.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |        10 | 40-70m |
+
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
 > Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
@@ -91,6 +105,20 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 5 |       10 |  45m |
+
+### [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)
+
+> Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host—you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?
+> 
+> Everdell is a game of dynamic tableau building and worker placement.
+> 
+> On their turn a player can take one of three actions:
+
+![Everdell game image](https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep/img/nyVhVuXdmw-1sigbocTKG81UInM=/fit-in/246x300/filters:strip_icc()/pic3918905.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        13 | 40-80m |
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
@@ -398,6 +426,17 @@
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
+### [Azul](https://boardgamegeek.com/boardgame/230802/azul)
+
+> Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.
+> 
+> In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.
+
+![Azul game image](https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30-45m |
 
 ### [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
 
@@ -410,6 +449,18 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 |        8 | 15-30m |
+
+### [Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)
+
+> Queen Gimnax has ordered the reclamation of the northern lands. As a cartographer in her service, you are sent to map this territory, claiming it for the Kingdom of Nalos. Through official edicts, the queen announces which lands she prizes most, and you will increase your reputation by meeting her demands. But you are not alone in this wilderness. The Dragul contest your claims with their outposts, so you must draw your lines carefully to reduce their influence. Reclaim the greatest share of the queen’s desired lands and you will be declared the greatest cartographer in the kingdom.
+> 
+> In Cartographers: A Roll Player Tale, players compete to earn the most reputation stars by the time four seasons have passed. Each season, players draw on their map sheets and earn reputation by carrying out the queen's edicts before the season is over. The player with the most reputation stars at the end of winter wins!
+
+![Cartographers game image](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 100 |        10 | 30-45m |
 
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
