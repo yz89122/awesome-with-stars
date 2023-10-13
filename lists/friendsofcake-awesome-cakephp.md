@@ -257,7 +257,7 @@ Additional lists you might find useful:
 ## PDF
 *Plugins and software for working with PDF files.*
 
-- [CakePdf plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/CakePdf) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/CakePdf)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+- 🍰 [CakePdf plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/CakePdf) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/CakePdf)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ## Queue
 *Plugins for working with event and task queues.*
@@ -330,7 +330,7 @@ Additional lists you might find useful:
 - 🍰 [CakephpFixtureFactories plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/pakacuda/cakephp-fixture-factories) ![GitHub last commit](https://img.shields.io/github/last-commit/pakacuda/cakephp-fixture-factories)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintainance of your tests.
 - [Faker plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/gourmet/faker) ![GitHub last commit](https://img.shields.io/github/last-commit/gourmet/faker)](https://github.com/gourmet/faker) - [Faker ![GitHub Repo Stars](https://img.shields.io/github/stars/fzaninotto/Faker) ![GitHub last commit](https://img.shields.io/github/last-commit/fzaninotto/Faker)](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 - [Fixtures plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/LubosRemplik/CakePHP-Fixtures) ![GitHub last commit](https://img.shields.io/github/last-commit/LubosRemplik/CakePHP-Fixtures)](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
-- [FriendsOfCake/Fixturize plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/fixturize) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/fixturize)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
+- 🍰 [FriendsOfCake/Fixturize plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/fixturize) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/fixturize)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
