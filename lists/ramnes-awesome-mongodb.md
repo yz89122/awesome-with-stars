@@ -166,6 +166,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [CASL Mongoose ![GitHub Repo Stars](https://img.shields.io/github/stars/stalniy/casl) ![GitHub last commit](https://img.shields.io/github/last-commit/stalniy/casl)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration ![GitHub Repo Stars](https://img.shields.io/github/stars/awapps/mongration) ![GitHub last commit](https://img.shields.io/github/last-commit/awapps/mongration)](https://github.com/awapps/mongration) - Node.js migration framework
  - [Moonridge ![GitHub Repo Stars](https://img.shields.io/github/stars/capaj/Moonridge) ![GitHub last commit](https://img.shields.io/github/last-commit/capaj/Moonridge)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
+ - [Neuledge ![GitHub Repo Stars](https://img.shields.io/github/stars/neuledge/engine-js) ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/engine-js)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/node-mongodb-native) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/node-mongodb-native)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Julia
