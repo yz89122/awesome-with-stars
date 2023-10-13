@@ -259,6 +259,7 @@ For the latest additions [click here ![GitHub Repo Stars](https://img.shields.io
 
 ## Monitoring
 *Monitoring your production application.*
+* [Airbrake](https://airbrake.io) - Error monitoring in production.
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
