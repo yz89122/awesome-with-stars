@@ -220,7 +220,7 @@ Additional lists you might find useful:
 - 🍰 [Calendar plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-calendar)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - 🍰 [Feedback plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-feedback) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-feedback)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 - 🍰 [Flash plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-flash) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-flash)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-- [OPCache Preloader ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-preloader) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-preloader)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP 4.x applications. 
+- 🍰 [OPCache Preloader ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-preloader) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-preloader)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP 4.x|5.x applications. 
 - 🍰 [Setup:Maintenance ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - 🍰 [Shim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-shim) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-shim)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - 🍰 [Tools plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
@@ -304,7 +304,6 @@ Additional lists you might find useful:
 *Plugins and repositories around app skeletons.*
 
 - [App template ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/app) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/app)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
-- [MixerApi/Bake ![GitHub Repo Stars](https://img.shields.io/github/stars/mixerapi/bake) ![GitHub last commit](https://img.shields.io/github/last-commit/mixerapi/bake)](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
 
 ## Social
 *Plugins around social features.*
@@ -342,7 +341,7 @@ Additional lists you might find useful:
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
 
-- [CakePHP Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-docker)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
+- 🍰 [CakePHP Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-docker)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
 - [CakePHP Vagrant Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/cpierce/cakephp-vagrant-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/cpierce/cakephp-vagrant-setup)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
 - [Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanvangastel/docker-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanvangastel/docker-cakephp)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
