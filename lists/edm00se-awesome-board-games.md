@@ -588,6 +588,18 @@
 
 ## Strategy
 
+### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
+
+> "Life is Battle; Battle is Glory; Glory is ALL"
+> In Blood Rage, each player controls their own Viking clan’s warriors, leader, and ship. Ragnarök has come, and it’s the end of the world! It’s the Vikings’ last chance to go down in a blaze of glory and secure their place in Valhalla at Odin’s side! For a Viking there are many pathways to glory. You can invade and pillage the land for its rewards, crush your opponents in epic battles, fulfill quests, increase your clan's stats, or even die gloriously either in battle or from Ragnarök, the ultimate inescapable doom.
+> Most player strategies are guided by the cards drafted at the beginning of each of the three game rounds (or Ages). These “Gods’ Gifts” grant you numerous boons for your clan including: increased Viking strength and devious battle strategies, upgrades to your clan, or even the aid of legendary creatures from Norse mythology. They may also include various quests, from dominating specific provinces, to having lots of your Vikings sent to Valhalla. Most of these cards are aligned with one of the Norse gods, hinting at the kind of strategy they support. For example, Thor gives more glory for victory in battle, Heimdall grants you foresight and surprises, Tyr strengthens you in battle, while the trickster Loki actually rewards you for losing battles, or punishes the winner.
+
+![Blood Rage game image](https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__itemrep/img/ZSJhCapvtPoiIQZ1XdfO-qgUuFY=/fit-in/246x300/filters:strip_icc()/pic2439223.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14 | 60–90 Min |
+
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
 
 > It is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
@@ -607,6 +619,21 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
+
+
+
+### [Puerto Rico](https://boardgamegeek.com/boardgame/3076/puerto-rico)
+
+> In Puerto Rico, players assume the roles of colonial governors on the island of Puerto Rico. The aim of the game is to amass victory points by shipping goods to Europe or by constructing buildings.
+> Each player uses a separate small board with spaces for city buildings, plantations, and resources. Shared between the players are three ships, a trading house, and a supply of resources and doubloons.
+> The resource cycle of the game is that players grow crops which they exchange for points or doubloons. Doubloons can then be used to buy buildings, which allow players to produce more crops or give them other abilities. Buildings and plantations do not work unless they are manned by colonists.
+
+![Puerto Rico game image](https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3–5 |        12 | 90–150 Min |
+
 
 ### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
 
@@ -628,6 +655,18 @@
 | ------: | -------: | ---: |
 |       2 |       10 |  30m |
 
+### [Barrage](https://boardgamegeek.com/boardgame/251247/barrage)
+
+> In the dystopic 1930s, the industrial revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.
+> Barrage is a resource management strategic game in which players compete to build their majestic dams, raise them to increase their storing capacity, and deliver all the potential power through pressure tunnels connected to the energy turbines of their powerhouses.
+> Each player represents one of the four international companies who are gathering machinery, innovative patents and brilliant engineers to claim the best locations to collect and exploit the water of a contested Alpine region crossed by rivers.
+
+![Barrage game image](https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__itemrep/img/-s65MFZDOx3Uf0Ec8Nol2nTBl5g=/fit-in/246x300/filters:strip_icc()/pic4336469.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 60–120 Min |
+
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
 > Antike Duellum – previewed at Spiel 2011 under the name Casus Belli – is a two-player strategy game based on modified rules from Mac Gerdts' Antike. The game includes two scenarios: Punic Wars (Rome vs. Carthago) on one side of the board, and Persian Wars (Greeks vs. Persians) on the other. The goal of the game is to be the first to gain nine ancient personages (Kings, Scholars, Generals, Citizens, Navigators).
@@ -637,6 +676,17 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |       13 |  75m |
+
+### [Too Many Bones](https://boardgamegeek.com/boardgame/192135/too-many-bones)
+
+> Too Many Bones comes loaded for bear by breaking into a new genre: the dice-builder RPG. This game takes everything you think you know about dice-rolling and turns it on its head. Dripping with strategy, this fantasy-based RPG puts you in the skin of a new race and takes you on an adventure to the northern territories to root out and defeat growing enemy forces and of course the infamous "baddie" responsible.
+> Team up or go it alone in a 1-4 player Coop or Solo play campaign. With over 100+ unique skill dice and 4-7 classes to choose from, every battle is its own mini challenge to figure out. Your adventure will consist of 8-12 battles before you reach your final destination and face off against one of a number of possible kingpins in order to win. Along the way, you will be faced with storyline decisions that will quickly have you weighing risk/reward, odds, and logic - with dice woven into every aspect! Your party will also be faced with other decisions: when to rest, when to explore, or even which fights to pursue! The Encounter cards offer fun plot twists and some comic relief, all while setting the stage for your next battle.
+
+![Too Many Bones game image](https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__itemrep/img/xKVF_SqBoULptBCjVdvHmpdsP0o=/fit-in/246x300/filters:strip_icc()/pic6624445.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 60–120 Min |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
@@ -710,6 +760,18 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       13 | 90-120m |
 
+
+### [Orléans](https://boardgamegeek.com/boardgame/164928/orleans)
+
+> During the medieval goings-on around Orléans, you must assemble a following of farmers, merchants, knights, monks, etc. to gain supremacy through trade, construction and science in medieval France.
+> In Orléans, you will recruit followers and put them to work to make use of their abilities. Farmers and Boatmen supply you with money and goods; Knights expand your scope of action and secure your mercantile expeditions; Craftsmen build trading stations and tools to facilitate work; Scholars make progress in science; Traders open up new locations for you to use your followers; and last but not least, it cannot hurt to get active in monasteries since with Monks on your side you are much less likely to fall prey to fate.
+
+![Orléans game image](https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__itemrep/img/oYYWKekDiHllrWnFNef7En3gP4c=/fit-in/246x300/filters:strip_icc()/pic6228507.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        12 | 90 Min |
+
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
 > A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
@@ -759,6 +821,19 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |       2 |        5 | 5-120m |
+
+
+
+### [Pandemic Legacy: Season 0](https://boardgamegeek.com/boardgame/314040/pandemic-legacy-season-0)
+
+> 1962 — The Cold War continues as a new threat looms on the horizon, a deadly new Soviet bioweapon, something called "Project MEDUSA". You and your fellow medical graduates have been recruited by the CIA for the critical mission of investigating and preventing its development. Travel the world using carefully constructed aliases to move swiftly between Allied, Neutral, and Soviet cities. Your missions will require you to neutralize enemy agents, acquire specific targets, and set up other CIA agents on location to execute your operations without a hitch. As you complete objectives over the course of twelve months, each success or failure will bring you closer to the truth.
+> Combatting this dangerous new pathogen is of utmost importance, but it's not the only threat you'll encounter in the field. Enemy agents are taking root in all parts of the world, and it's critical to your mission that you keep them contained before they can escalate international tensions. Luckily for you, you won't be without backup. Coordinate with other covert operatives for assistance and make strategic use of these teams at different locations to clean up the board and keep your eye on your main objectives.
+
+![Pandemic Legacy: Season 0 game image](https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__itemrep/img/jkXL5CPHgbwGPoahpK73KV7ohJA=/fit-in/246x300/filters:strip_icc()/pic5581457.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14 | 45–60 Min |
 
 ### [Commonspoly](https://commonspoly.cc/)
 
@@ -901,6 +976,19 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        7 | 20-30m |
 
+### [Agricola](https://boardgamegeek.com/boardgame/31260/agricola)
+
+> Description from BoardgameNews
+> In Agricola, you're a farmer in a wooden shack with your spouse and little else. On a turn, you get to take only two actions, one for you and one for the spouse, from all the possibilities you'll find on a farm: collecting clay, wood, or stone; building fences; and so on. You might think about having kids in order to get more work accomplished, but first you need to expand your house. And what are you going to feed all the little rugrats?
+> The game supports many levels of complexity, mainly through the use (or non-use) of two of its main types of cards, Minor Improvements and Occupations. In the beginner's version (called the Family Variant in the U.S. release), these cards are not used at all. For advanced play, the U.S. release includes three levels of both types of cards; Basic (E-deck), Interactive (I-deck), and Complex (K-deck), and the rulebook encourages players to experiment with the various decks and mixtures thereof. Aftermarket decks such as the Z-Deck and the L-Deck also exist.
+
+![Agricola game image](https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__itemrep/img/DzC9cA0TNmWUO7WLdl4-uFHfO_k=/fit-in/246x300/filters:strip_icc()/pic831744.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–5 |        12 | 30–150 Min |
+
+
 ### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
 
 > Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
@@ -1001,6 +1089,20 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       12 | 60-150m |
 
+
+
+### [Pax Pamir: Second Edition](https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition)
+
+> In Pax Pamir, players assume the role of nineteenth century Afghan leaders attempting to forge a new state after the collapse of the Durrani Empire. Western histories often call this period "The Great Game" because of the role played by the Europeans who attempted to use central Asia as a theater for their own rivalries. In this game, those empires are viewed strictly from the perspective of the Afghans who sought to manipulate the interloping ferengi (foreigners) for their own purposes.
+> In terms of game play, Pax Pamir is a pretty straightforward tableau builder. Players spend most of their turns purchasing cards from a central market, then playing those cards in front of them in a single row called a court. Playing cards adds units to the game's map and grants access to additional actions that can be taken to disrupt other players and influence the course of the game. That last point is worth emphasizing. Though everyone is building their own row of cards, the game offers many ways for players to interfere with each other directly and indirectly.
+
+![Pax Pamir: Second Edition game image](https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__itemrep/img/4yTV5vAsuDi8MZP6wWysZA8tmQg=/fit-in/246x300/filters:strip_icc()/pic4503733.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–5 |        13 | 45–120 Min |
+
+
 ### [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 
 > Twilight Struggle is a compelling two-player board game that encapsulates the forty-five-year geopolitical struggle between the Soviet Union and the United States, characterized by intrigue, prestige, and the occasional outbreak of warfare. Set against the backdrop of post-World War II Europe and spanning until 1989, the game delves into the complex dynamics of the Cold War. Players engage in a dance of influence, intelligence, and diplomatic maneuvering, representing the two superpowers' efforts to shape the world according to their ideologies. Based on the renowned card-driven game tradition, Twilight Struggle presents a low-complexity, quick-playing experience in which players use cards and units strategically on a world map to gain allies and control key regions. Historical events, from the Arab-Israeli conflicts to the Cuban Missile Crisis, are vividly portrayed through Event cards, and players must navigate nuclear tensions and the Space Race while avoiding the looming threat of nuclear war. Twilight Struggle offers an immersive journey through one of the most critical periods in modern history.
@@ -1030,6 +1132,17 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   2 - 4 |       14 |    120m |
+
+### [Kanban EV](https://boardgamegeek.com/boardgame/284378/kanban-ev)
+
+> Electric vehicles (EVs) have become more common since 2014 and are the future of the automobile industry. They are superior vehicles due to them being more efficient, easier to maintain, cleaner, and cheaper to run. They are computerized machines that use AI to improve safety and in the near future will provide autonomous driving. They receive software upgrades during their lifetime and are constantly improving, unlike their traditional combustion-engine counterparts, which start to become obsolete as soon as you start using them.
+> You will be overseeing the production of these vehicles in Kanban EV, with "kanban" (看板) being the name for a scheduling system that supports an efficient assembly line, just-in-time production, and a smooth workflow process. Over the course of the game, players take on the role of rookie employees who are trying to secure their career. You need to manage suppliers and supplies, improve and innovate automobile parts, and get your hands greasy on the assembly line in order to boost production and impress the factory manager.
+
+![Kanban EV game image](https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__itemrep/img/S_mg665DznHuiuvxvOIPk2mYwHM=/fit-in/246x300/filters:strip_icc()/pic4924232.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 60–180 Min |
 
 ### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
 
@@ -1061,6 +1174,17 @@
 | ------: | -------: | ------: |
 |   2 - 6 |       14 | 60-200m |
 
+### [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)
+
+> The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction! In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own. In cooperative scenarios, the players win or lose as a group. Solo rules are also included.
+> Combining elements of RPGs, deck-building, and traditional board games the Mage Knight board game captures the rich history of the Mage Knight universe in a self-contained gaming experience.
+
+![Mage Knight Board Game game image](https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__itemrep/img/6OmGo3bidk3ma7U1v-oq_2pEJZI=/fit-in/246x300/filters:strip_icc()/pic1083380.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 60–240 Min |
+
 ### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
 
 > Android: Netrunner is a strategic asymmetrical Living Card Game for two players set in a cyberpunk future. One player represents a powerful megacorporation aiming to score agendas by advancing them, protected by a web of security ice programs, while the other player assumes the role of a lone hacker, or runner, attempting to infiltrate and disrupt the corporation's plans by acquiring resources, hardware, and ice-breaker programs. With a goal of reaching seven points, players face high-stakes risks, including brain damage and bad publicity, in their quest for victory in this futuristic battle for control and information.
@@ -1071,6 +1195,16 @@
 | ------: | -------: | ------: |
 |   2     |       14 | 45m     |
 
+### [Underwater Cities](https://boardgamegeek.com/boardgame/247763/underwater-cities)
+
+> In Underwater Cities, which takes about 30-45 minutes per player, players represent the most powerful brains in the world, brains nominated due to the overpopulation of Earth to establish the best and most livable underwater areas possible.
+> The main principle of the game is card placement. Three colored cards are placed along the edge of the main board into 3 x 5 slots, which are also colored. Ideally players can place cards into slots of the same color. Then they can take both actions and advantages: the action depicted in the slot on the main board and also the advantage of the card. Actions and advantages can allow players to intake raw materials; to build and upgrade city domes, tunnels and production buildings such as farms, desalination devices and laboratories in their personal underwater area; to move their marker on the initiative track (which is important for player order in the next turn); to activate the player's "A-cards"; and to collect cards, both special ones and basic ones that allow for better decision possibilities during gameplay.
+
+![Underwater Cities game image](https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__itemrep/img/CHpbozXB266LtImU0nze5uXJ-HI=/fit-in/246x300/filters:strip_icc()/pic4837710.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 80–150 Min |
 ### [Agon | Queen Guard | Royal Guard](https://boardgamegeek.com/boardgame/5168/queens-guard)
 
 > Queen's Guard, also known as Agon, is a strategic board game played on a hexagonal board consisting of 91 smaller hexagons, with a central hexagon known as the throne. The board features alternating colors of hexagons in rings, radiating from the throne. Each player has one queen piece and six guard pieces, which start in alternating positions along the outer ring of the board. Players take turns moving their pieces towards the center of the board, either forward or laterally. A player's piece can be captured by an opponent if it is surrounded on two sides in a straight line, and the captured piece must then be relocated to the outer ring. To win the game, a player must successfully maneuver their queen onto the throne while also surrounding it with all six of their guard pieces. Queen's Guard is a strategic game that requires careful planning and tactical thinking to achieve victory.
@@ -1296,6 +1430,19 @@
 | ------: | -------: | -----: |
 |  3 - 10 |       18 | 30-90m |
 
+
+### [On Mars](https://boardgamegeek.com/boardgame/184267/mars)
+
+> Following the success of unmanned rover missions, the United Nations established the Department of Operations and Mars Exploration (D.O.M.E.). The first settlers arrived on Mars in the year 2037 and in the decades after establishment Mars Base Camp, private exploration companies began work on the creation of a self-sustaining colony. As chief astronaut for one of these enterprises, you want to be a pioneer in the development of the biggest, most advanced colony on Mars by achieving both D.O.M.E. mission goals as well as your company’s private agenda.
+> In the beginning, you will be dependent on supplies from Earth and will have to travel often between the Mars Space Station and the planet's surface. As the colony expands over time, you will shift your activities to construct mines, power generators, water extractors, greenhouses, oxygen factories, and shelters. Your goal is to develop a self-sustaining colony independent of any terrestrial organization. This will require understanding the importance of water, air, power, and food — the necessities for survival.
+
+![On Mars game image](https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__itemrep/img/xTjuZwi_7iS6FpZIISWTk7SAZ5o=/fit-in/246x300/filters:strip_icc()/pic4357658.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 90–150 Min |
+
+
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
 > At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
@@ -1315,6 +1462,17 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
+
+
+### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
+
+> Food Chain Magnate is a heavy strategy game about building a fast food chain. The focus is on building your company using a card-driven (human) resource management system. Players compete on a variable city map through purchasing, marketing and sales, and on a job market for key staff members. The game can be played by 2-5 serious gamers in 2-4 hours.
+
+![Food Chain Magnate game image](https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__itemrep/img/Bl9o9eur7lveoZUYwAl9LL9NSJo=/fit-in/246x300/filters:strip_icc()/pic2649434.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–5 |        14 | 120–240 Min |
 
 ### [Terraforming Mars](<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
@@ -1366,6 +1524,18 @@
 | ------: | -------: | ---: |
 |   4 - 8 |       12 |  30m |
 
+
+### [Root](https://boardgamegeek.com/boardgame/237182/root)
+
+> Root is a game of adventure and war in which 2 to 4 (1 to 6 with the 'Riverfolk' expansion) players battle for control of a vast wilderness.
+> The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance’s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.
+
+![Root game image](https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep/img/sQgkl-_hydBVvQHAMLt2Zk_3dwI=/fit-in/246x300/filters:strip_icc()/pic4254509.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        10 | 60–90 Min |
+
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
 > Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabotage other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
@@ -1387,6 +1557,19 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
+
+
+### [Viticulture Essential Edition](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition)
+
+> In Viticulture, the players find themselves in the roles of people in rustic, pre-modern Tuscany who have inherited meager vineyards. They have a few plots of land, an old crushpad, a tiny cellar, and three workers. They each have a dream of being the first to call their winery a true success.
+> The players are in the position of determining how they want to allocate their workers throughout the year. Every season is different on a vineyard, so the workers have different tasks they can take care of in the summer and winter. There's competition over those tasks, and often the first worker to get to the job has an advantage over subsequent workers.
+> Fortunately for the vineyard owners, people love to visit wineries, and it just so happens that many of those visitors are willing to help out around the vineyard when they visit as long as you assign a worker to take care of them. Their visits (in the form of cards) are brief but can be very helpful.
+
+![Viticulture Essential Edition game image](https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__itemrep/img/rfRBuKUlSgnnNpbRfy_osB9xrsM=/fit-in/246x300/filters:strip_icc()/pic6500949.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–6 |        13 | 45–90 Min |
 
 ### [SuperFight](https://boardgamegeek.com/boardgame/139443/superfight)
 
@@ -1521,6 +1704,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 4 |      10+  |      90m |
 
+
+
+### [Caverna: The Cave Farmers](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers)
+
+> Following along the same lines as its predecessor (Agricola), Caverna: The Cave Farmers is a worker-placement game at heart, with a focus on farming. In the game, you are the bearded leader of a small dwarf family that lives in a little cave in the mountains. You begin the game with a farmer and his spouse, and each member of the farming family represents an action that the player can take each turn. Together, you cultivate the forest in front of your cave and dig deeper into the mountain. You furnish the caves as dwellings for your offspring as well as working spaces for small enterprises.
+> It's up to you how much ore you want to mine. You will need it to forge weapons that allow you to go on expeditions to gain bonus items and actions. While digging through the mountain, you may come across water sources and find ore and ruby mines that help you increase your wealth. Right in front of your cave, you can increase your wealth even further with agriculture: You can cut down the forest to sow fields and fence in pastures to hold your animals. You can also expand your family while running your ever-growing farm. In the end, the player with the most efficiently developed home board wins.
+
+![Caverna: The Cave Farmers game image](https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc()/pic1790789.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–7 |        12 | 30–210 Min |
+
+
 ### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
 
 > Be unanimous on 6 words!
@@ -1531,6 +1728,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time     |
 | ------: | -------: | --------:|
 |  3 - 12 |     10+  |      30m |
+
+
+### [Maracaibo](https://boardgamegeek.com/boardgame/276025/maracaibo)
+
+> Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.
+> The players sail on a round course through the Caribbean, e.g., you have city tiles where you are able to perform various actions or deliver goods to. One special feature is an implemented quest mode over more and various tiles, which tells the player, who chase after it, a little story.
+> As a player, you move with your ship around the course, managing it by using cards like in other games from Alexander Pfister.
+
+![Maracaibo game image](https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__itemrep/img/VO-J8Vei6K6SFQSJO-WuHjsLYbY=/fit-in/246x300/filters:strip_icc()/pic4917407.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 30–120 Min |
 
 ### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
 
@@ -1620,6 +1830,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 6 |        14 | around 45m |
+
+
+
+
+### [Lisboa](https://boardgamegeek.com/boardgame/161533/lisboa)
+
+> Lisboa is a game about the reconstruction of Lisboa after the great earthquake of 1755.
+> On November 1, 1755, Lisbon suffered an earthquake of an estimated magnitude of 8.5–9.0, followed by a tsunami and three days of fires. The city was almost totally destroyed. The Marques of Pombal — Sebastião José de Carvalho e Melo — was the then Minister of Foreign Affairs and the King put him in charge of the reconstruction of Lisbon. The Marques of Pombal gathered a team of engineers and architects and you, the players, are members of the nobility; members who will use your influence in the reconstruction and business development of the new city. You will work with the architects to build Lisbon anew, with the Marquis to develop commerce and with the King to open all the buildings, but the true reason you do all this is not for greatness or fame or even fortune, but for the most important thing of all in that time: wigs.
+
+![Lisboa game image](https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__itemrep/img/3OmJPCYr0wEQQD5dIgW9YxY5hxQ=/fit-in/246x300/filters:strip_icc()/pic3209553.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 60–120 Min |
 
 
 ### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
