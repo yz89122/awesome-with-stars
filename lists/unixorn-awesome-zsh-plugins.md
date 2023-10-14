@@ -36,7 +36,6 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [sheldon](#sheldon)
   - [shplug](#shplug)
   - [Toasty](#toasty)
-  - [tzpm](#tzpm)
   - [uz](#uz)
   - [yazt](#yazt)
   - [yzsh](#yzsh)
@@ -214,10 +213,6 @@ An easy solution for managing your shell environments. Works with both `bash` an
 ### [Toasty ![GitHub Repo Stars](https://img.shields.io/github/stars/5paceToast/toasty-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/5paceToast/toasty-zsh)](https://github.com/5paceToast/toasty-zsh)
 
 **Toasty** is a ZSH framework made to facilitate management, not dictate it.
-
-### [tzpm ![GitHub Repo Stars](https://img.shields.io/github/stars/notusknot/tzpm) ![GitHub last commit](https://img.shields.io/github/last-commit/notusknot/tzpm)](https://github.com/notusknot/tzpm)
-
-The tiniest ZSH plugin manager. Still under development.
 
 ### [uz ![GitHub Repo Stars](https://img.shields.io/github/stars/maxrodrigo/uz) ![GitHub last commit](https://img.shields.io/github/last-commit/maxrodrigo/uz)](https://github.com/maxrodrigo/uz)
 
@@ -1484,7 +1479,8 @@ These plugins add tab completions without adding extra functions or aliases.
 - [git-annex ![GitHub Repo Stars](https://img.shields.io/github/stars/Schnouki/git-annex-zsh-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/Schnouki/git-annex-zsh-completion)](https://github.com/Schnouki/git-annex-zsh-completion) - Allows tab completion for most git-annex commands.
 - [git-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/bobthecow/git-flow-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/bobthecow/git-flow-completion)](https://github.com/bobthecow/git-flow-completion) - ZSH completion support for [git-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/nvie/gitflow) ![GitHub last commit](https://img.shields.io/github/last-commit/nvie/gitflow)](http://github.com/nvie/gitflow).
 - [git-fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/alexiszamanidis/zsh-git-fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/alexiszamanidis/zsh-git-fzf)](https://github.com/alexiszamanidis/zsh-git-fzf) - ZSH plugin that wraps `git` operations for simplicity and productivity. It also contains completions and combines support for [fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/junegunn/fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/fzf)](https://github.com/junegunn/fzf).
-- [git-profiles ![GitHub Repo Stars](https://img.shields.io/github/stars/baliestri/git-profiles.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/baliestri/git-profiles.plugin.zsh)](https://github.com/baliestri/git-profiles.plugin.zsh) - managing multiple git users in a single `.gitconfig` file.
+- [git-profiles ![GitHub Repo Stars](https://img.shields.io/github/stars/baliestri/git-profiles.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/baliestri/git-profiles.plugin.zsh)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
+- [git-recent-branches ![GitHub Repo Stars](https://img.shields.io/github/stars/Zacharyjlo/git-recent-branches) ![GitHub last commit](https://img.shields.io/github/last-commit/Zacharyjlo/git-recent-branches)](https://github.com/Zacharyjlo/git-recent-branches) - Makes it easy to check view and checkout recently checked-out branches.
 - [github-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sudosubin/zsh-github-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sudosubin/zsh-github-cli)](https://github.com/sudosubin/zsh-github-cli) - Tab completions for the GitHub cli.
 - [gitlab-runner ![GitHub Repo Stars](https://img.shields.io/github/stars/pseyfert/zsh-gitlab-runner-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/pseyfert/zsh-gitlab-runner-completion)](https://github.com/pseyfert/zsh-gitlab-runner-completion) - ZSH completions for gitlab-ci-multi-runner.
 - [gradle-completion (gradle) ![GitHub Repo Stars](https://img.shields.io/github/stars/gradle/gradle-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/gradle/gradle-completion)](https://github.com/gradle/gradle-completion) - Bash and ZSH completion support for gradle.
