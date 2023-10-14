@@ -1995,6 +1995,7 @@ _Display non-editable events in a Calendar_
 - [@kolirt/vue-web3-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/kolirt/vue-web3-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/kolirt/vue-web3-auth)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-mrz-scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/tony-xlh/vue-mrz-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/tony-xlh/vue-mrz-scanner)](https://github.com/tony-xlh/vue-mrz-scanner) - A Vue component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
+- [vue-surf ![GitHub Repo Stars](https://img.shields.io/github/stars/f820602h/vue-surf) ![GitHub last commit](https://img.shields.io/github/last-commit/f820602h/vue-surf)](https://github.com/f820602h/vue-surf) - A very customized animated svg wave Vue component. [Online Demo](https://f820602h.github.io/vue-surf/)
 
 #### Tabs
 
@@ -2114,6 +2115,7 @@ _Date / datetime / time Picker_
 - [vue-selectize ![GitHub Repo Stars](https://img.shields.io/github/stars/isneezy/vue-selectize) ![GitHub last commit](https://img.shields.io/github/last-commit/isneezy/vue-selectize)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 - [@vueform/multiselect ![GitHub Repo Stars](https://img.shields.io/github/stars/vueform/multiselect) ![GitHub last commit](https://img.shields.io/github/last-commit/vueform/multiselect)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 - [vue-country-code ![GitHub Repo Stars](https://img.shields.io/github/stars/hantrongbinh/vue-country-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hantrongbinh/vue-country-code)](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country Code Select
+- [vue-cool-box-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/hassan-jahan/vue-cool-box-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/hassan-jahan/vue-cool-box-selector)](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ ~1KB
 
 ##### Slider
 
@@ -2400,6 +2402,7 @@ _Display images_
 
 - [vue-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/pulsardev/vue-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/pulsardev/vue-tour)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide ![GitHub Repo Stars](https://img.shields.io/github/stars/sschandi/vue-page-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/sschandi/vue-page-guide)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+- [vue-stage-play ![GitHub Repo Stars](https://img.shields.io/github/stars/f820602h/vue-stage-play) ![GitHub last commit](https://img.shields.io/github/last-commit/f820602h/vue-stage-play)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
 
 #### Data Masking
 
