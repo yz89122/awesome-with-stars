@@ -40,6 +40,16 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  10m |
 
+### [That's Pretty Clever](https://boardgamegeek.com/boardgame/244522/s-pretty-clever)
+
+> Choose your dice cleverly in Ganz schön clever (German for "That's Pretty Clever") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.
+
+![That's Pretty Clever! game image](https://cf.geekdo-images.com/3-unuy5JW1cC8C6EUBNiOA__itemrep/img/6BcSS0mLm9nJBIXTcz0HQ5SKJmI=/fit-in/246x300/filters:strip_icc()/pic4410877.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 – 4 |        8 | 30m |
+
 ### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
 
 > Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
@@ -53,6 +63,20 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   1 - 5 |        10 | 40-70m |
+
+### [Clank!: Catacombs](https://boardgamegeek.com/boardgame/365717/clank-catacombs)
+
+> The catacombs of the skeletal dragon Umbrok Vessna are mysterious and dangerous. Portals transport you all around the dungeon depths. Wayshrines offer vast riches to intrepid explorers. Prisoners are counting on you to free them. Ghosts, once disturbed, may haunt you to death. Despite all that, it's time to leave the board behind with Clank! Catacombs, a standalone deck-building adventure.
+> 
+> Each trip into the catacombs is unique since you lay tiles to create the dungeon. You can play using only the all-new dungeon deck, or you can include cards from previous Clank! expansions.
+> 
+> Find your fortune (and escape the dragon!) in Clank! Catacombs.
+
+![Clank!: Catacombs game image](https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__itemrep/img/A1D0c966kaxlKRgGMPakzgeupmU=/fit-in/246x300/filters:strip_icc()/pic6937913.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 – 4 |        13 | 45–90m |
 
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
@@ -75,6 +99,18 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   1 - 4 |      12 | 30-120 |
+
+### [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
+
+> There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
+> 
+> In Istanbul, you lead a group of one merchant and four assistants through 16 locations in the bazaar. At each such location, you can carry out a specific action. The challenge, though, is that to take an action, you must move your merchant and an assistant there, then leave the assistant behind (to handle all the details while you focus on larger matters). If you want to use that assistant again later, your merchant must return to that location to pick him up. Thus, you must plan ahead carefully to avoid being left with no assistants and thus unable to do anything...
+
+![Istanbul game image](https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__itemrep/img/3-96MTKIPtgjJ8inH9DWDxCf0no=/fit-in/246x300/filters:strip_icc()/pic1885326.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 – 5 |        10 | 40–60m |
 
 ### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
@@ -166,6 +202,18 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30m |
+
+### [Welcome To](https://boardgamegeek.com/boardgame/233867/welcome)
+
+> As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.
+> 
+> Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
+
+![Welcome To... game image](https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc()/pic3761012.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 – 100 |        10 | 25m |
 
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
@@ -438,6 +486,18 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-45m |
 
+### [Azul: Summer Pavilion](https://boardgamegeek.com/boardgame/287954/azul-summer-pavilion)
+
+> At the turn of the 16th Century, King Manuel I commissioned Portugal's greatest artisans to construct grandiose buildings. After completing the Palaces of Evora and Sintra, the king sought to build a summer pavilion to honor the most famous members of the royal family. This construction was intended for the most talented artisans — whose skills meet the splendor that the royal family deserves. Sadly, King Manuel I died before construction ever began.
+> 
+> In Azul: Summer Pavilion, players return to Portugal to accomplish the task that never began. As a master artisan, you must use the finest materials to create the summer pavilion while carefully avoiding wasting supplies. Only the best will rise to the challenge to honor the Portuguese royal family.
+
+![Azul: Summer Pavilion game image](https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__itemrep/img/zOE89_4aCHOqoYITnbMSxAVR_UA=/fit-in/246x300/filters:strip_icc()/pic4930887.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 – 4 |        8 | 30–45m |
+
 ### [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
 
 > In Patchwork, two players compete to build the most aesthetic (and high-scoring) patchwork quilt on a personal 9x9 game board. To start play, lay out all of the patches at random in a circle and place a marker directly clockwise of the 2-1 patch. Each player takes five buttons — the currency/points in the game — and someone is chosen as the start player.
@@ -659,6 +719,16 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
+
+### [Shogi](https://en.wikipedia.org/wiki/Shogi)
+
+> Shogi, also known as Game of Generals, is a Japanese board game similar to chess, played on a 9x9 grid with 20 pieces per player. The objective is to checkmate the opponent's king, but pieces can be promoted upon reaching the enemy's promotion zone. Shogi offers a dynamic and strategic gameplay experience with unique piece movements and captures. It is much more complex than international chess. 
+
+![Shogi image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shogi_Ban_Koma.jpg/250px-Shogi_Ban_Koma.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       2 |        8 | 30-120m |
 
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
@@ -1052,6 +1122,16 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   2 - 6 |       12 |    120m |
+
+### [Blue and Gray](https://boardgamegeek.com/boardgame/19254/blue-and-gray)
+
+> In Blue and Gray, each player begins with 17 guards and one captain set up on the line intersections of a 9 × 9 grid board. The object of the game is to advance the captain to the center of the board following an outlined path of 17 steps. However, the captain can only advance if the next step along the path is unoccupied by friendly or opposing guards. Guards can move along lines in any direction (except over the central point) and can capture each other by jumping, as in checkers.
+
+![Blue and Gray](https://cf.geekdo-images.com/HuNHalxx1iLEDID94UhvGg__itemrep/img/Eiqc98uK6pGm7ne5BgaQvPcnYZU=/fit-in/246x300/filters:strip_icc()/pic1525635.png)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 |       8 |    20m |
 
 ## Party
 
@@ -1643,6 +1723,66 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 |--------:|---------:|-------:|
 |  3 - 10 |       10 | 20-30m |
+
+### [Bagh Chal](https://en.wikipedia.org/wiki/Bagh-Chal)
+
+> Bagh Chal (tiger game) is a strategic, two-player board game that originated in Nepal. The game is asymmetric in that one player controls four tigers and the other player controls up to twenty goats. The tigers hunt the goats while the goats attempt to block the tiger's movements. This game is also seen in southern India with a different board, but the rules are same. The game is played on a 5×5 point grid. Pieces are positioned at the intersection of the lines. Gameplay takes place in two phases. In the first phase the goats are placed on the board while the tigers are moved. In the second phase both the tigers and the goats are moved. For the tigers the goal is to capture five goats to win. A goat can be captured by jumping over it, although capturing is not obligatory. The goats win by blocking all of tiger's leagal moves.
+
+![Bagh Chal image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brass_goat_tiger_game_board.jpg/250px-Brass_goat_tiger_game_board.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        6 |  60m |
+
+### [Kragmortha](https://boardgamegeek.com/boardgame/26859/kragmortha)
+
+> Oh clever goblins, will you be able to avoid the wrath of the Dark Lord (Rigor Mortis, the Master of all Evils) while he wanders in his study? Terrible spells will be cast upon those who are hit by the glances of the Dark Lord! Kragmortha is a party game for 2-8 players that will be afflicted by exhilarating penances. No one will resist its humor! BEWARE! This game produces physical penances and is nocive (definition of nocive is : Hurtful or injurious) to the health! Kragmortha shares artwork with Aye, Dark Overlord! The Red Box
+ 
+![Kragmortha image](https://cf.geekdo-images.com/wTGi8HXbSeproPHaFizchw__itemrep/img/3wKW83dlMsWHc7CqIxMrxd66JsY=/fit-in/246x300/filters:strip_icc()/pic1703109.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  2 - 8  |       8  | 30-45m |
+
+### [Animocrazy](https://boardgamegeek.com/boardgame/542/animocrazy)
+
+> How can the Jolly Pets resist the big bag of candies right in front of them? Everything goes well at the beginning when they calmly agree on the same amount of candies for each of them, but soon they come up with more and more ideas and a debate starts… the Pig says,“Those who weigh over 10kg should get an extra candy!”... the Dog says, “Whoever oversleeps should return a candy to the pool!” To resolve their hectic argument, they finally decide to form the House of Pets, at which the animal councilors will discuss proposals and vote on new laws. Who can get the most delicious candies in this exciting voting game? Based on Karl-Heinz Schmiel's Das Regeln Wir Schon, players attempt to pass laws which benefit themselves. The laws are either immediate or semi-permanent, and they can have all kinds of different effects: all players with beards get five points, vote cards must be played with the left hand, or some sort of re-evaluation or redistribution of the chips that each player has. The chips are the main way that players score, but their worth fluctuates constantly. On a turn, a player draws a card and then proposes a vote, and this continues until the End card is drawn.
+ 
+![Animocrazy image](https://cf.geekdo-images.com/CvX3vmdadXc-ZVlFsd6Iwg__itemrep/img/ChmtyLNIPBaIkRYVkiS4GH1uyEU=/fit-in/246x300/filters:strip_icc()/pic4888035.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  4 - 10 |       10 |   30m  |
+
+### [Geek Out](https://boardgamegeek.com/boardgame/141430/geek-out)
+
+> Geek Out! is a party game that can determine once and for all which player is the most knowledgeable about your favorite pop culture subjects! In the game, you draw cards asking you to list a certain number of things which fall under a certain category: comic books, fantasy, games, science fiction, and miscellaneous. Before you begin, however, the other players may try to steal your points (and bragging rights!) by bidding to list even more than the card requires. The bidding continues until one player is ready to "out-geek" their friends. Collect a predetermined number of cards, and you win!
+ 
+![Geek Out image](https://cf.geekdo-images.com/mrrFDQq5nYASziu28UqomQ__itemrep/img/Wik_Jo17reIqCGCaok772tlLNAY=/fit-in/246x300/filters:strip_icc()/pic1634333.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  2 - 99 |       10 |  30m   |
+
+### [Over/Under](https://boardgamegeek.com/boardgame/129988/overunder)
+
+> In the game, which was first published as Die Größe macht's! in German, players start with a stack of question cards, with each card having three questions and the game having 200 cards. On a turn, the active player reads one question to the other players, who then collectively decide on a numerical answer for that question. The reader must then state whether the answer given is too high, too low, or exactly right. If the reader guesses wrong, he removes the card from the game and the next player chooses the next question; if he guessed "over" or "under" and was right, he keeps the card, then passes the deck; if he guessed "exactly right" and was right, he keeps the card, then reads the next question himself. Bonus! When the stack of cards runs out, the game ends and whoever has the most cards wins.
+ 
+![Over/Under image](https://cf.geekdo-images.com/kpbFiqdQ-yeKNEooopuBQg__itemrep/img/77MAMlhpObiRmNnl0b3CtHZycsQ=/fit-in/246x300/filters:strip_icc()/pic1950463.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  2 - 99 |       10 |  15m   |
+
+### [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
+
+> Monikers is a party game based on the public domain game Celebrities, where players take turns attempting to get their teammates to guess names by describing or imitating well-known people. In the first round, clue givers can say anything they want, except for the name itself. For the second round, clue givers can only say one word. And in the final round, clue givers can’t say anything at all: they can only use gestures and charades.
+
+![Monikers image](https://cf.geekdo-images.com/4ipWVnxUSwnSVywPTitgvQ__itemrep/img/4fS9QlOZN7CuMDu8x73YzqZstSU=/fit-in/246x300/filters:strip_icc()/pic6346032.png)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  4 - 16 |       17 | 30-60m |
 
 ## Contribute
 
