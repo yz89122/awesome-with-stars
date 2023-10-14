@@ -1265,6 +1265,8 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 
 [Video](https://en.wikipedia.org/wiki/Video) streaming tools and software.
 
+_Related: [Video Surveillance](#video-surveillance), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)_
+
 - [cmyflix ![GitHub Repo Stars](https://img.shields.io/github/stars/farfalleflickan/cmyflix) ![GitHub last commit](https://img.shields.io/github/last-commit/farfalleflickan/cmyflix)](https://github.com/farfalleflickan/cmyflix) `⚠` - Self-hosted, super lightweight Netflix alternative. `AGPL-3.0` `C`
 - [CyTube ![GitHub Repo Stars](https://img.shields.io/github/stars/calzoneman/sync) ![GitHub last commit](https://img.shields.io/github/last-commit/calzoneman/sync)](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`
 - [Invidious ![GitHub Repo Stars](https://img.shields.io/github/stars/iv-org/invidious) ![GitHub last commit](https://img.shields.io/github/last-commit/iv-org/invidious)](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Docker/Crystal`
