@@ -244,6 +244,7 @@
 	- [Typing ![GitHub Repo Stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/awesome-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/awesome-micropython)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust#readme)
+ 	- [Pest ![GitHub Repo Stars](https://img.shields.io/github/stars/pest-parser/awesome-pest) ![GitHub last commit](https://img.shields.io/github/last-commit/pest-parser/awesome-pest)](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell ![GitHub Repo Stars](https://img.shields.io/github/stars/krispo/awesome-haskell) ![GitHub last commit](https://img.shields.io/github/last-commit/krispo/awesome-haskell)](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/passy/awesome-purescript) ![GitHub last commit](https://img.shields.io/github/last-commit/passy/awesome-purescript)](https://github.com/passy/awesome-purescript#readme)
 - [Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go#readme)
@@ -880,6 +881,7 @@
 - [ChatGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-chatgpt)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-whisper)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck ![GitHub Repo Stars](https://img.shields.io/github/stars/airscripts/awesome-steam-deck) ![GitHub last commit](https://img.shields.io/github/last-commit/airscripts/awesome-steam-deck)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+- [HPC ![GitHub Repo Stars](https://img.shields.io/github/stars/dstdev/awesome-hpc) ![GitHub last commit](https://img.shields.io/github/last-commit/dstdev/awesome-hpc)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## Related
 
