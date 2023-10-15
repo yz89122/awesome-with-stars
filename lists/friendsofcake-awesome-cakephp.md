@@ -148,6 +148,7 @@ Additional lists you might find useful:
 
 - [EmailQueue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp-email-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp-email-queue)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 - [Mailgun plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/narendravaghela/cakephp-mailgun) ![GitHub last commit](https://img.shields.io/github/last-commit/narendravaghela/cakephp-mailgun)](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
+- 🍰 [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
 
 ## Environment
 *Plugins for environment.*
