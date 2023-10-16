@@ -104,6 +104,7 @@
 - [yap8b ![GitHub Repo Stars](https://img.shields.io/github/stars/Enerccio/yap8b) ![GitHub last commit](https://img.shields.io/github/last-commit/Enerccio/yap8b)](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 - [TS-PICO-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/tmountain/pico-8-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/tmountain/pico-8-typescript)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 - [Shrinko8 ![GitHub Repo Stars](https://img.shields.io/github/stars/thisismypassport/shrinko8) ![GitHub last commit](https://img.shields.io/github/last-commit/thisismypassport/shrinko8)](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+- [parens-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/Siapran/parens-8) ![GitHub last commit](https://img.shields.io/github/last-commit/Siapran/parens-8)](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 
 ### Assets
 - [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
