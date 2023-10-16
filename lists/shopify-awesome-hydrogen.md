@@ -47,6 +47,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 - [Algolia ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/shopify-hydrogen-algolia) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/shopify-hydrogen-algolia)](https://github.com/algolia/shopify-hydrogen-algolia) - Search & discovery.
 - [Crossing Minds ![GitHub Repo Stars](https://img.shields.io/github/stars/Crossing-Minds/hydrogen-demo-store) ![GitHub last commit](https://img.shields.io/github/last-commit/Crossing-Minds/hydrogen-demo-store)](https://github.com/Crossing-Minds/hydrogen-demo-store) - Product recommendation engine.
 - [Dynamic Yield ![GitHub Repo Stars](https://img.shields.io/github/stars/DynamicYield/shopify-hydrogen-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/DynamicYield/shopify-hydrogen-demo)](https://github.com/DynamicYield/shopify-hydrogen-demo) - Personalization.
+- [Gorgias ![GitHub Repo Stars](https://img.shields.io/github/stars/gorgias/hydrogen-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/gorgias/hydrogen-demo)](https://github.com/gorgias/hydrogen-demo/) - Customer support.
 - [Nosto ![GitHub Repo Stars](https://img.shields.io/github/stars/Nosto/shopify-hydrogen-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/Nosto/shopify-hydrogen-demo)](https://github.com/Nosto/shopify-hydrogen-demo) - Personalization.
 - [Okendo ![GitHub Repo Stars](https://img.shields.io/github/stars/okendo/okendo-shopify-hydrogen-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/okendo/okendo-shopify-hydrogen-demo)](https://github.com/okendo/okendo-shopify-hydrogen-demo) - Customer reviews.
 - [Pack Digital ![GitHub Repo Stars](https://img.shields.io/github/stars/packdigital/pack-hydrogen-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/packdigital/pack-hydrogen-demo)](https://github.com/packdigital/pack-hydrogen-demo) - Digital Experience Platform.
@@ -57,7 +58,6 @@ Hydrogen is Shopify's open source stack for headless commerce.
 - Contentful (Coming Soon)
 - Yotpo (Coming Soon)
 - Netlify (Coming Soon)
-- Gorgias (Coming Soon)
 
 
 ## Blog Posts
