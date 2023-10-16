@@ -187,7 +187,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
   * [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
-  * [GitGud](https://gitgud.io) �� Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
+  * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are many more, but we list the main ones here) provided are :
        - [CI/CD ![GitHub Repo Stars](https://img.shields.io/github/stars/features/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/features/actions)](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
        - [Codespaces](https://github.com/codespaces) - Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
@@ -1222,6 +1222,7 @@ Update Time, five active automations, webhooks.
 
 ## IaaS
 
+  * [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
   * [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. The free plan provides 1 Project, 25 GB storage, and 25 GB monthly bandwidth.
