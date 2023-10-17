@@ -1587,7 +1587,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [sass-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/sasstools/sass-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/sasstools/sass-lint)](https://github.com/sasstools/sass-lint) :warning: — A Node-only Sass linter for both sass and scss syntax.
 
-- [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) — Linter for SCSS files.
+- [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) ��� Linter for SCSS files.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS Specificity Graph Generator.
 
