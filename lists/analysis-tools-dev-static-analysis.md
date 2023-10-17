@@ -1097,7 +1097,7 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [rust-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/Shnatsel/rust-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/Shnatsel/rust-audit)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
-- [rustfix ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/rustfix) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/rustfix)](https://github.com/rust-lang/rustfix) :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
+- [rustfix ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/rustfix) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/rustfix)](https://github.com/rust-lang/rustfix) — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 
 - [rustfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/rustfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/rustfmt)](https://github.com/rust-lang/rustfmt) — A tool for formatting Rust code according to style guidelines.
 
@@ -1360,6 +1360,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Offensive 360](https://offensive360.com/) :copyright: — Commercial Static Code Analysis system doesn't require building the source code or pre-compilation.
 
+- [OpenRewrite](https://docs.openrewrite.org/) — OpenRewrite [fixes common static analysis issues](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/common-static-analysis-issue-remediation)  reported through Sonar and other tools using a Maven and Gradle plugin or the Moderne CLI.
+
 - [OpenStaticAnalyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/sed-inf-u-szeged/OpenStaticAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/sed-inf-u-szeged/OpenStaticAnalyzer)](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) — OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
 
 - [oxc ![GitHub Repo Stars](https://img.shields.io/github/stars/web-infra-dev/oxc) ![GitHub last commit](https://img.shields.io/github/last-commit/web-infra-dev/oxc)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
@@ -1587,7 +1589,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [sass-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/sasstools/sass-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/sasstools/sass-lint)](https://github.com/sasstools/sass-lint) :warning: — A Node-only Sass linter for both sass and scss syntax.
 
-- [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) ��� Linter for SCSS files.
+- [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) — Linter for SCSS files.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS Specificity Graph Generator.
 
