@@ -101,6 +101,7 @@
 - [Open Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/KillianLucas/open-interpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/KillianLucas/open-interpreter)](https://github.com/KillianLucas/open-interpreter) - Code interpreter with ChatGPT.
 - [Web3-GPT ![GitHub Repo Stars](https://img.shields.io/github/stars/Markeljan/Web3GPT) ![GitHub last commit](https://img.shields.io/github/last-commit/Markeljan/Web3GPT)](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
 - [CometLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-llm)](https://github.com/comet-ml/comet-llm) - Open-source UI to log, visualize, and search your prompts, chains, and prompt variables.
+- [OpenAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents) ![GitHub last commit](https://img.shields.io/github/last-commit/xlang-ai/OpenAgents)](https://github.com/xlang-ai/OpenAgents) - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
 
 ### Hosted
 
