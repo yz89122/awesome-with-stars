@@ -919,7 +919,7 @@ Featured playlists: `ANDROID FUNDAMENTALS FOR BEGINNERS`, `KOTLIN NEWBIE TO PRO`
 Content about: Android, Backend \
 Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`.
 
-[��� Back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ## Cybersecurity
 
