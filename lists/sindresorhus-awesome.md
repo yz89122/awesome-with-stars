@@ -478,6 +478,7 @@
 - [Recursion Schemes ![GitHub Repo Stars](https://img.shields.io/github/stars/passy/awesome-recursion-schemes) ![GitHub last commit](https://img.shields.io/github/last-commit/passy/awesome-recursion-schemes)](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 - [Audit Algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/erwanlemerrer/awesome-audit-algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/erwanlemerrer/awesome-audit-algorithms)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 - [AGI & CoCoSci ![GitHub Repo Stars](https://img.shields.io/github/stars/YuzheSHI/awesome-agi-cocosci) ![GitHub last commit](https://img.shields.io/github/last-commit/YuzheSHI/awesome-agi-cocosci)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+- [Complex Systems ![GitHub Repo Stars](https://img.shields.io/github/stars/sellisd/awesome-complexity) ![GitHub last commit](https://img.shields.io/github/last-commit/sellisd/awesome-complexity)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
 ## Books
 
