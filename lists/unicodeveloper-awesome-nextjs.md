@@ -201,6 +201,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [Twitter Clone ![GitHub Repo Stars](https://img.shields.io/github/stars/AlandSleman/t3-twitter-clone) ![GitHub last commit](https://img.shields.io/github/last-commit/AlandSleman/t3-twitter-clone)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 - [Taxonomy ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn/taxonomy) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/taxonomy)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 - [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+- [StorageBox ![GitHub Repo Stars](https://img.shields.io/github/stars/AlandSleman/StorageBox) ![GitHub last commit](https://img.shields.io/github/last-commit/AlandSleman/StorageBox)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
 ## Books
 

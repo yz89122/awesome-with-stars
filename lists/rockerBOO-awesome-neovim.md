@@ -93,6 +93,7 @@
 - [chiyadev/dep ![GitHub Repo Stars](https://img.shields.io/github/stars/chiyadev/dep) ![GitHub last commit](https://img.shields.io/github/last-commit/chiyadev/dep)](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
 - [folke/lazy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/lazy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/lazy.nvim)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 - [roobert/activate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/activate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/activate.nvim)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+- [abeldekat/lazyflex.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/abeldekat/lazyflex.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/abeldekat/lazyflex.nvim)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration. 
 
 ## LSP
 
@@ -456,6 +457,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [cryptomilk/nightcity.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptomilk/nightcity.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptomilk/nightcity.nvim)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 - [polirritmico/monokai-nightasty.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/polirritmico/monokai-nightasty.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/polirritmico/monokai-nightasty.nvim)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 - [oxfist/night-owl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/oxfist/night-owl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/oxfist/night-owl.nvim)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode ![GitHub Repo Stars](https://img.shields.io/github/stars/sdras/night-owl-vscode-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/sdras/night-owl-vscode-theme)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
+- [text-to-colorscheme ![GitHub Repo Stars](https://img.shields.io/github/stars/svermeulen/text-to-colorscheme) ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/text-to-colorscheme)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Lua Colorscheme
 
