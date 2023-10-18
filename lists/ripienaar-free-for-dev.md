@@ -1278,7 +1278,7 @@ Update Time, five active automations, webhooks.
 
    * [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
    * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
-   * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
+   * [Hamachi](https://www.vpn.net/) ��� LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
    * [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
    * [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel).
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
