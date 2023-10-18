@@ -1886,4 +1886,4 @@ HTML Themes and UI Kits to create your applications faster!
   * [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converters, encoders/decoder,s and many others.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆��� Back to Top](#table-of-contents)**
