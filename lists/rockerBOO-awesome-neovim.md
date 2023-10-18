@@ -747,6 +747,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ray-x/guihua.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-x/guihua.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-x/guihua.lua)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 - [anuvyklack/animation.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 - [NFrid/treesitter-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/NFrid/treesitter-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/NFrid/treesitter-utils)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
+- [nvim-lusc ![GitHub Repo Stars](https://img.shields.io/github/stars/svermeulen/nvim-lusc) ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/nvim-lusc)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
 
 ## Fennel
 
