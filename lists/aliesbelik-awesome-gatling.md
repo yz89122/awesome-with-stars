@@ -142,7 +142,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-- [Awesome Software Quality ![GitHub Repo Stars](https://img.shields.io/github/stars/ligurio/software-quality-wiki) ![GitHub last commit](https://img.shields.io/github/last-commit/ligurio/software-quality-wiki)](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
+- [Awesome Software Quality ![GitHub Repo Stars](https://img.shields.io/github/stars/ligurio/sqa-wiki) ![GitHub last commit](https://img.shields.io/github/last-commit/ligurio/sqa-wiki)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 - [Awesome Testing ![GitHub Repo Stars](https://img.shields.io/github/stars/TheJambo/awesome-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/TheJambo/awesome-testing)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 - [Awesome JMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/aliesbelik/awesome-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/aliesbelik/awesome-jmeter)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 - [Awesome Tsung ![GitHub Repo Stars](https://img.shields.io/github/stars/aliesbelik/awesome-tsung) ![GitHub last commit](https://img.shields.io/github/last-commit/aliesbelik/awesome-tsung)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
