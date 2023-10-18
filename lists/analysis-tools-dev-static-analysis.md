@@ -1565,7 +1565,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 <h2 id="buildtool">Build tools</h2>
 
 
-- [checkmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtazz/checkmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtazz/checkmake)](https://github.com/mrtazz/checkmake) �� Linter / Analyzer for Makefiles.
+- [checkmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtazz/checkmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtazz/checkmake)](https://github.com/mrtazz/checkmake) ��� Linter / Analyzer for Makefiles.
 
 - [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) — A verifier for FreeBSD and DragonFlyBSD port directories.
 
