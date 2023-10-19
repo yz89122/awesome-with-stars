@@ -25,13 +25,14 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Open source projects using TypeDB
 
-- [`TypeDB-ML` ![GitHub Repo Stars](https://img.shields.io/github/stars/vaticle/typedb-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/vaticle/typedb-ml)](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
 - [`TypeDB Studio - IDE for TypeDB` ![GitHub Repo Stars](https://img.shields.io/github/stars/vaticle/typedb-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/vaticle/typedb-studio)](https://github.com/vaticle/typedb-studio) - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
+- [`Blitz-ORM` ![GitHub Repo Stars](https://img.shields.io/github/stars/Blitzapps/blitz-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/Blitzapps/blitz-orm)](https://github.com/Blitzapps/blitz-orm) - Blitz-ORM is an Object Relational Mapper written in TypeScript and compatible with TypeDB.
+- [`TypeDB-ML` ![GitHub Repo Stars](https://img.shields.io/github/stars/vaticle/typedb-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/vaticle/typedb-ml)](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
+- [`TypeDB Loader` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typedb-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typedb-loader)](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
 - [`TypeDB OSI - Cyber Threat Intelligence` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typedb-cti) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typedb-cti)](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database 
 and find new insights about cyber threats.
 - [`TypeDB OSI - Biomedical Knowledge Graph` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typedb-bio) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typedb-bio)](https://github.com/typedb-osi/typedb-bio) - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical 
 data in one single place.
-- [`TypeDB Loader` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typedb-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typedb-loader)](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
 - [`Source++` ![GitHub Repo Stars](https://img.shields.io/github/stars/sourceplusplus/Assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/sourceplusplus/Assistant)](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa` ![GitHub Repo Stars](https://img.shields.io/github/stars/RasaHQ/rasa) ![GitHub last commit](https://img.shields.io/github/last-commit/RasaHQ/rasa)](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 
@@ -78,9 +79,9 @@ data in one single place.
 
 ## IDE and editor support
 
-- [`Emacs` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typeql-plugin-emacs) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typeql-plugin-emacs)](https://github.com/typedb-osi/typeql-plugin-emacs) - Major mode that provides syntax highlighting and basic completion for TypeQL.
-- [`VSCode` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typeql-plugin-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typeql-plugin-vscode)](https://github.com/typedb-osi/typeql-plugin-vscode) - Visual Studio Code support for TypeQL.
-- [`JetBrains / IntelliJ` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typeql-plugin-jetbrains) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typeql-plugin-jetbrains)](https://github.com/typedb-osi/typeql-plugin-jetbrains) - JetBrains support for TypeQL.
+- [`Emacs - TypeQL Plugin` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typeql-plugin-emacs) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typeql-plugin-emacs)](https://github.com/typedb-osi/typeql-plugin-emacs)
+- [`Visual Studio Code - TypeQL Plugin` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typeql-plugin-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typeql-plugin-vscode)](https://github.com/typedb-osi/typeql-plugin-vscode)
+- [`JetBrains / IntelliJ - TypeQL Plugin` ![GitHub Repo Stars](https://img.shields.io/github/stars/typedb-osi/typeql-plugin-jetbrains) ![GitHub last commit](https://img.shields.io/github/last-commit/typedb-osi/typeql-plugin-jetbrains)](https://github.com/typedb-osi/typeql-plugin-jetbrains)
 
 ## Community
 
