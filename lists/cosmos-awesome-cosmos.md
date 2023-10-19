@@ -92,6 +92,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [pyCosmicWrap ![GitHub Repo Stars](https://img.shields.io/github/stars/ChihuahuaChain/pyCosmicWrap) ![GitHub last commit](https://img.shields.io/github/last-commit/ChihuahuaChain/pyCosmicWrap)](https://github.com/ChihuahuaChain/pyCosmicWrap/) - A python3 wrapper around Cosmos API/RPC.
 * [mospy ![GitHub Repo Stars](https://img.shields.io/github/stars/ctrl-Felix/mospy) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrl-Felix/mospy)](https://github.com/ctrl-Felix/mospy) - A Python library to create and sign transactions for Cosmos SDK based coins.
 * [cosmospy-protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/ctrl-Felix/cosmospy-protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrl-Felix/cosmospy-protobuf)](https://github.com/ctrl-Felix/cosmospy-protobuf) - A Python library containing all compiled protobuf files (works very good for grpc).
+* [fx-py-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/functionx/fx-py-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/functionx/fx-py-sdk)](https://github.com/functionx/fx-py-sdk) - The Cosmos Python client library.
 
 ### Rust
 

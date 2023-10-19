@@ -220,7 +220,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-rails ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/reactjs/react-rails)](https://github.com/reactjs/react-rails) - Integrate React with Rails
 - [reagent ![GitHub Repo Stars](https://img.shields.io/github/stars/reagent-project/reagent) ![GitHub last commit](https://img.shields.io/github/last-commit/reagent-project/reagent)](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 - [fulcro ![GitHub Repo Stars](https://img.shields.io/github/stars/fulcrologic/fulcro) ![GitHub last commit](https://img.shields.io/github/last-commit/fulcrologic/fulcro)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
-- [tailwind-react](https://tailwind-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
+- [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
 #### React Real Apps
 
