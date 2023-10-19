@@ -558,6 +558,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Media
 
+- [edluffy/hologram.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/edluffy/hologram.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/edluffy/hologram.nvim)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 - [ekickx/clipboard-image.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ekickx/clipboard-image.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ekickx/clipboard-image.nvim)](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [niuiic/cp-image.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/cp-image.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/cp-image.nvim)](https://github.com/niuiic/cp-image.nvim) - Paste image from clipboard and insert the reference code.
 - [askfiy/nvim-picgo ![GitHub Repo Stars](https://img.shields.io/github/stars/askfiy/nvim-picgo) ![GitHub last commit](https://img.shields.io/github/last-commit/askfiy/nvim-picgo)](https://github.com/askfiy/nvim-picgo) - A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet.
