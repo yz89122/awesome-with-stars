@@ -232,6 +232,7 @@ Table of contents:
 * [List of 100 Angular Interview questions and answers ![GitHub Repo Stars](https://img.shields.io/github/stars/sudheerj/angular-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/sudheerj/angular-interview-questions)](https://github.com/sudheerj/angular-interview-questions)
 * [Angular References](https://ngrefs.com)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
+* [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 
 #### Features
 
@@ -286,6 +287,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
+* [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
 
 ##### Ahead-of-Time Compilation
 
@@ -513,6 +515,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
+* [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests. 
 
 #### TodoMVC
 
@@ -582,6 +585,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular2-froala-wysiwyg ![GitHub Repo Stars](https://img.shields.io/github/stars/froala/angular-froala-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/froala/angular-froala-wysiwyg)](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 * [ng2-ace ![GitHub Repo Stars](https://img.shields.io/github/stars/seiyria/ng2-ace) ![GitHub last commit](https://img.shields.io/github/last-commit/seiyria/ng2-ace)](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
 * [ng2-quill-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/surmon-china/ngx-quill-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/ngx-quill-editor)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
+* [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+
 
 
 #### File Upload
@@ -609,6 +613,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-flag-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/iamartyom/ngx-flag-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/iamartyom/ngx-flag-picker)](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
 * [ngx-flexible-select ![GitHub Repo Stars](https://img.shields.io/github/stars/andreysyagrovskiy/ngx-flexible-select) ![GitHub last commit](https://img.shields.io/github/last-commit/andreysyagrovskiy/ngx-flexible-select)](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
 * [ngx-recursive-form ![GitHub Repo Stars](https://img.shields.io/github/stars/hsbalar/ngx-recursive-form) ![GitHub last commit](https://img.shields.io/github/last-commit/hsbalar/ngx-recursive-form)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
+* [ngx-translation-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/RiskChallenger/translation-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/RiskChallenger/translation-validation)](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language
 
 #### Icons
 
@@ -627,6 +632,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Layout Components
 
+* [@robingenz/ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/robingenz/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/robingenz/ngx-infinite-scroll)](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
 * [angular-fullpage ![GitHub Repo Stars](https://img.shields.io/github/stars/alvarotrigo/angular-fullpage) ![GitHub last commit](https://img.shields.io/github/last-commit/alvarotrigo/angular-fullpage)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
 * [angular-split ![GitHub Repo Stars](https://img.shields.io/github/stars/bertrandg/angular-split) ![GitHub last commit](https://img.shields.io/github/last-commit/bertrandg/angular-split)](https://github.com/bertrandg/angular-split) Angular split component
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
@@ -650,7 +656,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-config ![GitHub Repo Stars](https://img.shields.io/github/stars/fulls1z3/ngx-config) ![GitHub last commit](https://img.shields.io/github/last-commit/fulls1z3/ngx-config)](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
 * [ngx-img-fallback ![GitHub Repo Stars](https://img.shields.io/github/stars/VadimDez/ngx-img-fallback) ![GitHub last commit](https://img.shields.io/github/last-commit/VadimDez/ngx-img-fallback)](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 * [ngx-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-progressbar)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
-
+* [@dotglitch/ngx-lazy-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-lazy-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-lazy-loader)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 
 #### Maps
 
@@ -682,6 +688,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/fulls1z3/ngx-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/fulls1z3/ngx-cache)](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/universal-model/universal-model-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/universal-model/universal-model-angular)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 * [ng-http-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-http-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-http-caching)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+* [akita ![GitHub Repo Stars](https://img.shields.io/github/stars/datorama/akita) ![GitHub last commit](https://img.shields.io/github/last-commit/datorama/akita)](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
 * [ng-simple-state ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-simple-state) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-simple-state)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 #### Tables
@@ -700,20 +707,23 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [@ngx-kit/sula ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-kit/sula) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-kit/sula)](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
 * [Axponents: of Accessible Web Components (Dylan Barrell) ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanb/Axponents) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanb/Axponents)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite 
 * [Element Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ElemeFE/element-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ElemeFE/element-angular)](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
 * [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
+* [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
 * [Nebular ![GitHub Repo Stars](https://img.shields.io/github/stars/akveo/nebular) ![GitHub last commit](https://img.shields.io/github/last-commit/akveo/nebular)](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
 * [NG ZORRO MOBILE ![GitHub Repo Stars](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd-mobile) ![GitHub last commit](https://img.shields.io/github/last-commit/NG-ZORRO/ng-zorro-antd-mobile)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG ZORRO ![GitHub Repo Stars](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd) ![GitHub last commit](https://img.shields.io/github/last-commit/NG-ZORRO/ng-zorro-antd)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [ng-lightning ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-lightning/ng-lightning) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-lightning/ng-lightning)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ng-metro4 ![GitHub Repo Stars](https://img.shields.io/github/stars/morrisjdev/ng-metro4) ![GitHub last commit](https://img.shields.io/github/last-commit/morrisjdev/ng-metro4)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-* [ng-sq-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/SQ-UI/ng-sq-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/SQ-UI/ng-sq-ui)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
+* [ng-sq-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/SQ-UI/ng-sq-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/SQ-UI/ng-sq-ui)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
 * [ngSemantic ![GitHub Repo Stars](https://img.shields.io/github/stars/vladotesanovic/ngSemantic) ![GitHub last commit](https://img.shields.io/github/last-commit/vladotesanovic/ngSemantic)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [ngx-qrcode2 ![GitHub Repo Stars](https://img.shields.io/github/stars/techiediaries/ngx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/techiediaries/ngx-qrcode)](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
 * [ngx-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-ui)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
 * [vmware clarity ![GitHub Repo Stars](https://img.shields.io/github/stars/vmware/clarity) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware/clarity)](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
+* [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
 * [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
 ##### Material Based
@@ -782,6 +792,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [xng-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvunnam/xng-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvunnam/xng-breadcrumb)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-let) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-let)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 * [ng-for-track-by-property ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-for-track-by-property) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-for-track-by-property)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+* [ngx-observers ![GitHub Repo Stars](https://img.shields.io/github/stars/Raiper34/ngx-observers) ![GitHub last commit](https://img.shields.io/github/last-commit/Raiper34/ngx-observers)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
 
 ### JAM Stack
 
