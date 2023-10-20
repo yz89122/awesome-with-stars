@@ -278,6 +278,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 ### Reverse Proxy
 
 -   [bunkerized-nginx ![GitHub Repo Stars](https://img.shields.io/github/stars/bunkerity/bunkerized-nginx) ![GitHub last commit](https://img.shields.io/github/last-commit/bunkerity/bunkerized-nginx)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
+-   [caddy-docker-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/lucaslorentz/caddy-docker-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/lucaslorentz/caddy-docker-proxy)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
 -   [Docker Dnsmasq Updater ![GitHub Repo Stars](https://img.shields.io/github/stars/moonbuggy/docker-dnsmasq-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/moonbuggy/docker-dnsmasq-updater)](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames.
 -   [docker-flow-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/docker-flow/docker-flow-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/docker-flow/docker-flow-proxy)](https://github.com/docker-flow/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@docker-flow][docker-flow]
 -   [docker-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/silarsis/docker-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/silarsis/docker-proxy)](https://github.com/silarsis/docker-proxy) :skull: - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
@@ -819,7 +820,6 @@ Services to securely store your Docker images.
 -   [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (1:36:58)
 -   [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) Free Udacity course
 -   [State of containers: a debate with CoreOS, VMware and Google](https://www.youtube.com/watch?v=IiITP3yIRd8) (27:38)
--   [List of online courses (free and paid) about Docker](https://skillcombo.com/topic/docker/)
 
 # Communities and Meetups
 
