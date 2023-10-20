@@ -304,7 +304,7 @@
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
 - 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
-- ��� [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
+- 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
@@ -314,7 +314,6 @@
 - 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
-- 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindadmin/admin) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindadmin/admin)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
@@ -349,7 +348,7 @@
 - 🚀 [Tailwind CSS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/tailwind-jekyll) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/tailwind-jekyll)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
-- 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
+- ��� [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
 - 🚀 [Gulp Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/simonswiss/tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/simonswiss/tailwind-starter)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
 - 🚀 [Gatsby Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/gatsby-starter-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/gatsby-starter-tailwind)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
 - 🚀 [Gatsby Starter Simplicity ![GitHub Repo Stars](https://img.shields.io/github/stars/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.

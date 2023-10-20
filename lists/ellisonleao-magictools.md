@@ -46,6 +46,7 @@ A curated list of game development resources to make **magic** happen.
   - [Game Jams](#game-jams)
   - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
+  - [Communities](#communities)
 - [Ads](#ads)
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
@@ -492,6 +493,17 @@ _Blogs, portals, magazines and more_
 - :tada: [Wolfenstein 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/wolf3d) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/wolf3d)](https://github.com/id-Software/wolf3d)
 - :free: [VVVVVV ![GitHub Repo Stars](https://img.shields.io/github/stars/TerryCavanagh/VVVVVV) ![GitHub last commit](https://img.shields.io/github/last-commit/TerryCavanagh/VVVVVV)](https://github.com/TerryCavanagh/VVVVVV)
 
+### Communities
+
+_Where to find other game developers_
+
+- [Reddit r/gamedev](https://www.reddit.com/r/gamedev/)
+- [Game Dev League](https://discord.com/invite/gamedev)
+- [Reddit r/IndieGaming](https://www.reddit.com/r/IndieGaming/)
+- [Brackeys Discord](https://discord.gg/brackeys)
+- [Brackeys Forum](https://forum.brackeys.com/)
+- [GameDev.tv](https://community.gamedev.tv/)
+
 ## Ads
 
 _We still need to make some money, right?_
@@ -522,3 +534,5 @@ _Online courses, tutorials, screencasts_
 - :free: [3D Game Shaders For Beginners ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)
 - :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+
+
