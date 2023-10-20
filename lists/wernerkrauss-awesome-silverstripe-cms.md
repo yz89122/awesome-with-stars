@@ -89,9 +89,10 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 ### Site Search 
 - [Silverstripe Searchable ![GitHub Repo Stars](https://img.shields.io/github/stars/i-lateral/silverstripe-searchable) ![GitHub last commit](https://img.shields.io/github/last-commit/i-lateral/silverstripe-searchable)](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 - [Searchable DataObjects ![GitHub Repo Stars](https://img.shields.io/github/stars/g4b0/silverstripe-searchable-dataobjects) ![GitHub last commit](https://img.shields.io/github/last-commit/g4b0/silverstripe-searchable-dataobjects)](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
-- [Fulltext Search ![GitHub Repo Stars](https://img.shields.io/github/stars/silverstripe/silverstripe-fulltextsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/silverstripe/silverstripe-fulltextsearch)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
-- [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
-- [Solr search ![GitHub Repo Stars](https://img.shields.io/github/stars/firesphere/silverstripe-solr-search) ![GitHub last commit](https://img.shields.io/github/last-commit/firesphere/silverstripe-solr-search)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
+- [Fulltext Search ![GitHub Repo Stars](https://img.shields.io/github/stars/silverstripe/silverstripe-fulltextsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/silverstripe/silverstripe-fulltextsearch)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
+- [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
+- [Solr search ![GitHub Repo Stars](https://img.shields.io/github/stars/firesphere/silverstripe-solr-search) ![GitHub last commit](https://img.shields.io/github/last-commit/firesphere/silverstripe-solr-search)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
+- [Elastic search ![GitHub Repo Stars](https://img.shields.io/github/stars/firesphere/silverstripe-elastic) ![GitHub last commit](https://img.shields.io/github/last-commit/firesphere/silverstripe-elastic)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
 
 ### Development Helpers
 - [Debugbar ![GitHub Repo Stars](https://img.shields.io/github/stars/lekoala/silverstripe-debugbar) ![GitHub last commit](https://img.shields.io/github/last-commit/lekoala/silverstripe-debugbar)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
@@ -119,7 +120,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 ### Virtualisation
 
 #### Docker
-- [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+- [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS.
 - [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support.
 - [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
 - [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
