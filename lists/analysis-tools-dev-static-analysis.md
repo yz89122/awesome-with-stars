@@ -1245,7 +1245,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Bearer ![GitHub Repo Stars](https://img.shields.io/github/stars/bearer/bearer) ![GitHub last commit](https://img.shields.io/github/last-commit/bearer/bearer)](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
-- [Better Code Hub](https://bettercodehub.com) :copyright: �� Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
+- [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
 
 - [biome](https://biomejs.dev) — A toolchain for web projects, aimed to provide functionalities to maintain them. Biome formats and lints code in a fraction of a second. It is the successor to Rome. It is designed to eventually replace Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and others.
 
