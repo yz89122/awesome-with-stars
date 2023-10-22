@@ -114,6 +114,7 @@
 - [Teaful ![GitHub Repo Stars](https://img.shields.io/github/stars/teafuljs/teaful) ![GitHub last commit](https://img.shields.io/github/last-commit/teafuljs/teaful)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
 - [Nano Stores ![GitHub Repo Stars](https://img.shields.io/github/stars/nanostores/nanostores) ![GitHub last commit](https://img.shields.io/github/last-commit/nanostores/nanostores)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 - [Modular Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/fabian-hiller/modular-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/fabian-hiller/modular-forms)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
+- [exome ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcisbee/exome) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcisbee/exome)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 
 ### Testing Utils
