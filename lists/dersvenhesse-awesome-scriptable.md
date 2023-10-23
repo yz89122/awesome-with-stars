@@ -190,6 +190,10 @@
 - [nfl-team-schedule-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/brianwalborn/nfl-team-schedule-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/brianwalborn/nfl-team-schedule-widget)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
 
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of the nearest McFit gym.
+  
+- [Scriptable-lichess-Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/bestmacfly/Scriptable-lichess-Widget) ![GitHub last commit](https://img.shields.io/github/last-commit/bestmacfly/Scriptable-lichess-Widget)](https://github.com/bestmacfly/Scriptable-lichess-Widget) - Your current lichess statistics.
+
+  <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
 - [skiable ![GitHub Repo Stars](https://img.shields.io/github/stars/p0fi/skiable-for-scriptable) ![GitHub last commit](https://img.shields.io/github/last-commit/p0fi/skiable-for-scriptable)](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts. 
 
