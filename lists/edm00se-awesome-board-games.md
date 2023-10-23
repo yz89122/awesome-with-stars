@@ -1022,7 +1022,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2–6 |        12+ | 60–120 Min |
+|   2���6 |        12+ | 60–120 Min |
 
 ### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
 
@@ -2653,6 +2653,46 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
+
+### [Thunderstone](https://boardgamegeek.com/boardgame/53953/thunderstone)
+
+> Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.
+
+![Thunderstone](https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__itemrep/img/CAn9h1_likJ6Lq_JtyspJwREDH0=/fit-in/246x300/filters:strip_icc()/pic544780.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       12 |    60m |
+
+### [Skull](https://boardgamegeek.com/boardgame/92415/skull)
+
+> Skull & Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card – until someone feels safe enough to state that he can turn a number of cards face up and get only roses. Other players can then overbid him, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with his own. If he shows only roses, he wins; if he reveals a skull, he loses, placing one of his cards out of play. Two successful challenges wins the game. Skull & Roses is not a game of luck; it's a game of poker face and meeting eyes.
+
+![Skull](https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__itemrep/img/-OqEtnWB7kEI_C_Zq9XkhDYAnNI=/fit-in/246x300/filters:strip_icc()/pic6097488.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 6 |       10 | 15-45m |
+
+### [Paleo](https://boardgamegeek.com/boardgame/300531/paleo)
+
+> Paleo is a co-operative adventure game set in the stone age, a game in which players try to keep the human beings in their care alive while completing missions. Sometimes you need a fur, sometimes a tent, but these are all minor quests compared to your long-term goal: Painting a woolly mammoth on the wall so that humans thousands of years later will know that you once existed. (Okay, you just think the mammoth painting looks cool. Preserving a record of your past existence is gravy.) Each player starts the game with a couple of humans, who each have a skill and a number of life points. On a turn, each player chooses to go to one location — possibly of the same type as other players, although not the same location — and while you have some idea of what you might find there, you won't know for sure until you arrive, at which point you might acquire food or resources, or find what you need to craft a useful object, or discover that you can help someone else in their project, or suffer a snakebite that brings you close to death.
+
+![Paleo](https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep/img/5Wx2IlXzKh8HmBD-_5Rm2b1YjO4=/fit-in/246x300/filters:strip_icc()/pic6039256.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-60m |
+
+### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-glory)
+
+> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
+
+![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc()/pic4490515.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       14 |   480m |
 
 ### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
 
