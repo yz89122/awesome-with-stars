@@ -1022,7 +1022,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2–6 |        12+ | 60–120 Min |
+|   2���6 |        12+ | 60–120 Min |
 
 ### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
 
