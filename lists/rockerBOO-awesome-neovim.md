@@ -796,7 +796,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Motion
 
-- [phaazon/hop.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/phaazon/hop.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/phaazon/hop.nvim)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+- [smoka7/hop.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/smoka7/hop.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/smoka7/hop.nvim)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 - [ggandor/lightspeed.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ggandor/lightspeed.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ggandor/lightspeed.nvim)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 - [ggandor/leap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ggandor/leap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ggandor/leap.nvim)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 - [folke/flash.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/flash.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/flash.nvim)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
@@ -963,6 +963,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Abstract-IDE/penvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstract-IDE/penvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstract-IDE/penvim)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 - [yaocccc/nvim-hlchunk ![GitHub Repo Stars](https://img.shields.io/github/stars/yaocccc/nvim-hlchunk) ![GitHub last commit](https://img.shields.io/github/last-commit/yaocccc/nvim-hlchunk)](https://github.com/yaocccc/nvim-hlchunk) - Highlight a `{}` chunk.
 - [shellRaining/hlchunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+- [VidocqH/auto-indent.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/VidocqH/auto-indent.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/VidocqH/auto-indent.nvim)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ## Command Line
 
