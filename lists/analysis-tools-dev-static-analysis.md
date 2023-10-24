@@ -531,7 +531,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
-- [structslop ![GitHub Repo Stars](https://img.shields.io/github/stars/orijtech/structslop) ![GitHub last commit](https://img.shields.io/github/last-commit/orijtech/structslop)](https://github.com/orijtech/structslop) ��� Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
+- [structslop ![GitHub Repo Stars](https://img.shields.io/github/stars/orijtech/structslop) ![GitHub last commit](https://img.shields.io/github/last-commit/orijtech/structslop)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
 
 - [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
