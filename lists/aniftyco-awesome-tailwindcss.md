@@ -191,7 +191,7 @@
 - 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 - 🎨🌍🔧 [Ui Colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
-- 🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
+- 🎨���💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
 - 🎨🔧💼 [Colorkraken ![GitHub Repo Stars](https://img.shields.io/github/stars/Bouhoum/colorkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/Bouhoum/colorkraken)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 - 🎨🔧💼 [babel-plugin-tailwind-dark ![GitHub Repo Stars](https://img.shields.io/github/stars/wowlusitong/babel-plugin-tailwind-dark) ![GitHub last commit](https://img.shields.io/github/last-commit/wowlusitong/babel-plugin-tailwind-dark)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 - 🌍🔧💼 [Twind ![GitHub Repo Stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
@@ -304,7 +304,7 @@
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
 - 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
-- �� [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
+- 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
