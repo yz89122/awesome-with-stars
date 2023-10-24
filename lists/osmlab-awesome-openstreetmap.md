@@ -96,6 +96,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 * [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/osmbe/osm-welcome-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/osmbe/osm-welcome-tool)](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/) - Tool for converting human-readable opening hours to `opening_hours` tags. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/OSM-de/WebToOSMOH) ![GitHub last commit](https://img.shields.io/github/last-commit/OSM-de/WebToOSMOH)](https://github.com/OSM-de/WebToOSMOH))
 * [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period. ([Wiki](https://wiki.openstreetmap.org/wiki/Ohsome_Dashboard))
+* [OSM Statistics](https://piebro.github.io/openstreetmap-statistics/) - Up-to-date OSM statistics about editor usage, corporate contributions and more.
 
 ### Mobile Tools
 
