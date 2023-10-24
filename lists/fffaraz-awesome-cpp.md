@@ -848,7 +848,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [wdt ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/wdt) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/wdt)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
 * [WebSocket++ ![GitHub Repo Stars](https://img.shields.io/github/stars/zaphoyd/websocketpp) ![GitHub last commit](https://img.shields.io/github/last-commit/zaphoyd/websocketpp)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 * [PcapPlusPlus ![GitHub Repo Stars](https://img.shields.io/github/stars/seladb/PcapPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/seladb/PcapPlusPlus)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]
-* [ZeroMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/libzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/libzmq)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. [LGPL] [website](http://zeromq.org/)
+* [ZeroMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/libzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/libzmq)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. [LGPL3/MPL2] [website](http://zeromq.org/)
 
 ## PDF
 *Libraries for parsing and manipulating PDF documents.*
