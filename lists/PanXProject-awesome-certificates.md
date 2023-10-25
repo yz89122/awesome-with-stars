@@ -176,7 +176,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 ## Operating Systems
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)| Cisco Networking Academy |Beginner| 8 |    🏆 |
+| [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)| Cisco Networking Academy |Beginner| 8 |    �� |
 | [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco Networking Academy |Intermediate| 70 |🏆|
 | [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) | Saylor Academy |Professional|120 | 🏆|
 
