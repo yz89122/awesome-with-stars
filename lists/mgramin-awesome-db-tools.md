@@ -269,6 +269,7 @@ Low-code and no-code platforms for application building
 
 ## Testing
 - [DbFit ![GitHub Repo Stars](https://img.shields.io/github/stars/dbfit/dbfit) ![GitHub last commit](https://img.shields.io/github/last-commit/dbfit/dbfit)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+- [pgTAP ![GitHub Repo Stars](https://img.shields.io/github/stars/theory/pgtap) ![GitHub last commit](https://img.shields.io/github/last-commit/theory/pgtap)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 - [RegreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/regresql) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/regresql)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 - [SQLancer ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlancer/sqlancer) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlancer/sqlancer)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
