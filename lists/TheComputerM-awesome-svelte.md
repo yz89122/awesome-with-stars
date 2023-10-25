@@ -247,6 +247,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### Form
 
 - [svelte-forms-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/tjinauyeung/svelte-forms-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/tjinauyeung/svelte-forms-lib)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+- [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 - [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [svelte-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/arabdevelop/svelte-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/arabdevelop/svelte-formly)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
