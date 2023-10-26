@@ -180,7 +180,7 @@
 **Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
-- 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
+- ���🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
 - 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
@@ -191,7 +191,7 @@
 - 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 - 🎨🌍🔧 [Ui Colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
-- ���🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
+- 🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
 - 🎨🔧💼 [Colorkraken ![GitHub Repo Stars](https://img.shields.io/github/stars/Bouhoum/colorkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/Bouhoum/colorkraken)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 - 🎨🔧💼 [babel-plugin-tailwind-dark ![GitHub Repo Stars](https://img.shields.io/github/stars/wowlusitong/babel-plugin-tailwind-dark) ![GitHub last commit](https://img.shields.io/github/last-commit/wowlusitong/babel-plugin-tailwind-dark)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 - 🌍🔧💼 [Twind ![GitHub Repo Stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
@@ -201,7 +201,7 @@
 - 🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 - 🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- ��� [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
+- 🌍 [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
 - 🌍 [Flowrift](https://flowrift.com) - Beautifully designed Tailwind CSS UI blocks.
 - 🔼🌍🔧 [Tailwindhelper](https://www.tailwindhelper.com/) - Visualize Tailwind CSS classes and unit converter.
 - 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
