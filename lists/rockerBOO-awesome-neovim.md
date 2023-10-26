@@ -147,6 +147,7 @@
 - [nvimtools/none-ls.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimtools/none-ls.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimtools/none-ls.nvim)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [vxpm/ferris.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vxpm/ferris.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vxpm/ferris.nvim)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 - [mrcjkb/rustaceanvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/rustaceanvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/rustaceanvim)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+- [soulis-1256/hoverhints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/soulis-1256/hoverhints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/soulis-1256/hoverhints.nvim)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 
 #### LSP Installer
 
