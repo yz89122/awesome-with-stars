@@ -1391,6 +1391,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue3-circle-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/delowardev/vue3-circle-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/delowardev/vue3-circle-progress)](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
 - [uspin ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/uspin) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/uspin)](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 - [vue-img-lazy-tiny ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/vue-img-lazy-tiny) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/vue-img-lazy-tiny)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
+- [vue3-ui-preloader ![GitHub Repo Stars](https://img.shields.io/github/stars/gbast0s/vue3-ui-preloader) ![GitHub last commit](https://img.shields.io/github/last-commit/gbast0s/vue3-ui-preloader)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 
 ##### Progress Bar
 
