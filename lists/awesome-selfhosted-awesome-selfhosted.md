@@ -82,7 +82,6 @@ See [Contributing](#contributing).
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
   - [Resource Planning](#resource-planning)
-  - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development](#software-development)
@@ -282,7 +281,7 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 - [Buku ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/Buku) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/Buku)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python`
 - [Espial ![GitHub Repo Stars](https://img.shields.io/github/stars/jonschoning/espial) ![GitHub last commit](https://img.shields.io/github/last-commit/jonschoning/espial)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 - [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/fxa) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/fxa)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
-- [Hackershare ![GitHub Repo Stars](https://img.shields.io/github/stars/hackershare/hackershare) ![GitHub last commit](https://img.shields.io/github/last-commit/hackershare/hackershare)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
+- [Hackershare ![GitHub Repo Stars](https://img.shields.io/github/stars/hackershare/hackershare) ![GitHub last commit](https://img.shields.io/github/last-commit/hackershare/hackershare)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
 - [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Kovah/LinkAce) ![GitHub last commit](https://img.shields.io/github/last-commit/Kovah/LinkAce)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
 - [linkding ![GitHub Repo Stars](https://img.shields.io/github/stars/sissbruecker/linkding) ![GitHub last commit](https://img.shields.io/github/last-commit/sissbruecker/linkding)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 - [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/linkwarden/linkwarden) ![GitHub last commit](https://img.shields.io/github/last-commit/linkwarden/linkwarden)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
@@ -956,7 +955,6 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 - [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/dutchcoders/transfer.sh) ![GitHub last commit](https://img.shields.io/github/last-commit/dutchcoders/transfer.sh)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
 - [Uguu ![GitHub Repo Stars](https://img.shields.io/github/stars/nokonoko/uguu) ![GitHub last commit](https://img.shields.io/github/last-commit/nokonoko/uguu)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 - [Uploady ![GitHub Repo Stars](https://img.shields.io/github/stars/farisc0de/Uploady) ![GitHub last commit](https://img.shields.io/github/last-commit/farisc0de/Uploady)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
-- [Void ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaNecron/Void) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaNecron/Void)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaNecron/Void) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaNecron/Void)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
 - [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/SergiX44/XBackBone) ![GitHub last commit](https://img.shields.io/github/last-commit/SergiX44/XBackBone)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP/Docker`
 - [Zipline ![GitHub Repo Stars](https://img.shields.io/github/stars/diced/zipline) ![GitHub last commit](https://img.shields.io/github/last-commit/diced/zipline)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
 
@@ -989,6 +987,8 @@ _Related: [Groupware](#groupware)_
 
 Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game).
 
+_Related: [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)_
+
 - [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/0ad/0ad) ![GitHub last commit](https://img.shields.io/github/last-commit/0ad/0ad)](https://github.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
 - [A Dark Room ![GitHub Repo Stars](https://img.shields.io/github/stars/doublespeakgames/adarkroom) ![GitHub last commit](https://img.shields.io/github/last-commit/doublespeakgames/adarkroom)](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `Javascript`
 - [EmuLinkerSF](https://emulinker.org) - EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/God-Weapon/EmuLinkerSF) ![GitHub last commit](https://img.shields.io/github/last-commit/God-Weapon/EmuLinkerSF)](https://github.com/God-Weapon/EmuLinkerSF)) `GPL-2.0` `Java`
@@ -1015,6 +1015,8 @@ Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Brows
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 Utilities for managing game servers.
+
+_Related: [Games](#games)_
 
 - [ARRCON ![GitHub Repo Stars](https://img.shields.io/github/stars/radj307/ARRCON) ![GitHub last commit](https://img.shields.io/github/last-commit/radj307/ARRCON)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
 - [Crafty Controller](https://craftycontrol.com/) - Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ([Source Code](https://gitlab.com/crafty-controller/crafty-4)) `GPL-3.0` `Docker/Python`
@@ -1102,7 +1104,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 
 [Inventory management software](https://en.wikipedia.org/wiki/Inventory_management_software).
 
-_Related: [Money, Budgeting & Management](#money-budgeting--management), [Resource Planning](#resource-planning), [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)_
+_Related: [Money, Budgeting & Management](#money-budgeting--management), [Resource Planning](#resource-planning)_
 
 _See also: [awesome-sysadmin/IT Asset Management ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-foss/awesome-sysadmin)](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)_
 
@@ -1360,7 +1362,7 @@ Software that does not fit in another section.
 
 [Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting software.
 
-_Related: [Inventory Management](#inventory-management), [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)_
+_Related: [Inventory Management](#inventory-management), [Resource Planning](#resource-planning)_
 
 - [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/actualbudget/actual-server) ![GitHub last commit](https://img.shields.io/github/last-commit/actualbudget/actual-server)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/akaunting/akaunting) ![GitHub last commit](https://img.shields.io/github/last-commit/akaunting/akaunting)](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`
@@ -1435,7 +1437,6 @@ _Related: [Wikis](#wikis)_
 - [Trilium Notes ![GitHub Repo Stars](https://img.shields.io/github/stars/zadam/trilium) ![GitHub last commit](https://img.shields.io/github/last-commit/zadam/trilium)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
 - [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/mixmark-io/turndown) ![GitHub last commit](https://img.shields.io/github/last-commit/mixmark-io/turndown)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
 - [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`
-- [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisvel/wreeto_official) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisvel/wreeto_official)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 - [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/josephernest/writing) ![GitHub last commit](https://img.shields.io/github/last-commit/josephernest/writing)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 
@@ -1558,7 +1559,7 @@ _Related: [Static Site Generators](#static-site-generators), [Photo and Video Ga
 - [Piwigo](https://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Piwigo/Piwigo) ![GitHub last commit](https://img.shields.io/github/last-commit/Piwigo/Piwigo)](https://github.com/Piwigo/Piwigo)) `GPL-2.0` `PHP`
 - [sigal ![GitHub Repo Stars](https://img.shields.io/github/stars/saimn/sigal) ![GitHub last commit](https://img.shields.io/github/last-commit/saimn/sigal)](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
 - [SPIS ![GitHub Repo Stars](https://img.shields.io/github/stars/gbbirkisson/spis) ![GitHub last commit](https://img.shields.io/github/last-commit/gbbirkisson/spis)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
-- [This week in past ![GitHub Repo Stars](https://img.shields.io/github/stars/RouHim/this-week-in-past) ![GitHub last commit](https://img.shields.io/github/last-commit/RouHim/this-week-in-past)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. ([Demo](http://152.70.175.46:80)) `MIT` `Docker/Rust`
+- [This week in past ![GitHub Repo Stars](https://img.shields.io/github/stars/RouHim/this-week-in-past) ![GitHub last commit](https://img.shields.io/github/last-commit/RouHim/this-week-in-past)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
 - [Thumbor](http://thumbor.org/) - A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/thumbor/thumbor) ![GitHub last commit](https://img.shields.io/github/last-commit/thumbor/thumbor)](https://github.com/thumbor/thumbor)) `MIT` `Python/Docker`
 - [Zenphoto](https://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/zenphoto/zenphoto) ![GitHub last commit](https://img.shields.io/github/last-commit/zenphoto/zenphoto)](https://github.com/zenphoto/zenphoto)) `GPL-2.0` `PHP`
 
@@ -1572,7 +1573,6 @@ Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and 
 _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 - [Bitpoll ![GitHub Repo Stars](https://img.shields.io/github/stars/fsinfuhh/Bitpoll) ![GitHub last commit](https://img.shields.io/github/last-commit/fsinfuhh/Bitpoll)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
-- [Calagator](https://calagator.org/) - Event aggregator. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/calagator/calagator) ![GitHub last commit](https://img.shields.io/github/last-commit/calagator/calagator)](https://github.com/calagator/calagator)) `MIT` `Ruby`
 - [Christmas Community ![GitHub Repo Stars](https://img.shields.io/github/stars/Wingysam/Christmas-Community) ![GitHub last commit](https://img.shields.io/github/last-commit/Wingysam/Christmas-Community)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
 - [Claper](https://claper.co/) - The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ClaperCo/Claper) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaperCo/Claper)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
 - [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/clearflask/clearflask) ![GitHub last commit](https://img.shields.io/github/last-commit/clearflask/clearflask)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
@@ -1648,24 +1648,18 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning).
+Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning), including [enterprise resource and supply planning (ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
 
-- [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/farmOS/farmOS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmOS/farmOS)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
-- [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/grocy/grocy) ![GitHub last commit](https://img.shields.io/github/last-commit/grocy/grocy)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
-- [Tania](https://usetania.org/) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/usetania/tania-core) ![GitHub last commit](https://img.shields.io/github/last-commit/usetania/tania-core)](https://github.com/usetania/tania-core)) `Apache-2.0` `Go`
-
-
-### Resource Planning - Enterprise Resource Planning
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-Software and tools to help with [enterprise resource and supply planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
+_Related: [Money, Budgeting & Management](#money-budgeting--management), [Inventory Management](#inventory-management)_
 
 - [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr) ![GitHub last commit](https://img.shields.io/github/last-commit/Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
 - [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/frappe/erpnext) ![GitHub last commit](https://img.shields.io/github/last-commit/frappe/erpnext)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+- [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/farmOS/farmOS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmOS/farmOS)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
+- [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/grocy/grocy) ![GitHub last commit](https://img.shields.io/github/last-commit/grocy/grocy)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 - [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB) ![GitHub last commit](https://img.shields.io/github/last-commit/ledgersmb/LedgerSMB)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 - [Odoo](https://www.odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/odoo/odoo) ![GitHub last commit](https://img.shields.io/github/last-commit/odoo/odoo)](https://github.com/odoo/odoo)) `LGPL-3.0` `Python/deb/Docker`
-- [OFBiz](https://ofbiz.apache.org/) - FOSS enterprise resource planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+- [OFBiz](https://ofbiz.apache.org/) - Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+- [Tania](https://usetania.org/) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/usetania/tania-core) ![GitHub last commit](https://img.shields.io/github/last-commit/usetania/tania-core)](https://github.com/usetania/tania-core)) `Apache-2.0` `Go`
 - [Tryton](https://www.tryton.org/) - Free open source business solution. ([Demo](https://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`
 
 
