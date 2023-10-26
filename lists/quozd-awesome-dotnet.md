@@ -549,6 +549,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Devtodev ![GitHub Repo Stars](https://img.shields.io/github/stars/devtodev-analytics/winstore-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/devtodev-analytics/winstore-sdk)](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR ![GitHub Repo Stars](https://img.shields.io/github/stars/nxrighthere/UnrealCLR) ![GitHub last commit](https://img.shields.io/github/last-commit/nxrighthere/UnrealCLR)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework ![GitHub Repo Stars](https://img.shields.io/github/stars/ppy/osu-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/ppy/osu-framework)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+* [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## GIS
 
