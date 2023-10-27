@@ -166,7 +166,6 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
-    - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
@@ -298,6 +297,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TIC-80 ![GitHub Repo Stars](https://img.shields.io/github/stars/nesbox/TIC-80) ![GitHub last commit](https://img.shields.io/github/last-commit/nesbox/TIC-80)](https://github.com/nesbox/TIC-80) - Virtual computer for making & sharing tiny games. [[Website](https://tic80.com/)]
 - C: Game Framework
     - 🎉 [CGL ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/cgl) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/cgl)](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
+    - 🎉 [DOME ![GitHub Repo Stars](https://img.shields.io/github/stars/domeengine/dome) ![GitHub last commit](https://img.shields.io/github/last-commit/domeengine/dome)](https://github.com/domeengine/dome) - Melds SDL2 and the Wren scripting language. [[Website](https://domeengine.com/)]
     - 🎉 [Entrypoint ![GitHub Repo Stars](https://img.shields.io/github/stars/jimon/entrypoint) ![GitHub last commit](https://img.shields.io/github/last-commit/jimon/entrypoint)](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
     - ⭐ [FWK ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/FWK) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/FWK)](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
@@ -401,7 +401,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Overload ![GitHub Repo Stars](https://img.shields.io/github/stars/adriengivry/Overload) ![GitHub last commit](https://img.shields.io/github/last-commit/adriengivry/Overload)](https://github.com/adriengivry/Overload) - Well documented 3D game engine inspired by industry standards.
     - 🎉 [Razix Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Pikachuxxxx/Razix) ![GitHub last commit](https://img.shields.io/github/last-commit/Pikachuxxxx/Razix)](https://github.com/Pikachuxxxx/Razix) - High-performance research engine for production pipeline.
     - 🎉 [Rootex ![GitHub Repo Stars](https://img.shields.io/github/stars/sdslabs/rootex) ![GitHub last commit](https://img.shields.io/github/last-commit/sdslabs/rootex)](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
-    - 🎉 [SGEEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ongamex/SGEEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ongamex/SGEEngine)](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
     - 🎉 [Skylicht ![GitHub Repo Stars](https://img.shields.io/github/stars/skylicht-lab/skylicht-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/skylicht-lab/skylicht-engine)](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/PanosK92/SpartanEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/PanosK92/SpartanEngine)](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
     - 🎉 [Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/Oyun-Teknolojileri/ToolKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Oyun-Teknolojileri/ToolKit)](https://github.com/Oyun-Teknolojileri/ToolKit) - Simple 2D/3D game and app develepment kit.
@@ -420,6 +419,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Koala Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/phisko/kengine) ![GitHub last commit](https://img.shields.io/github/last-commit/phisko/kengine)](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka _Kengine_.
     - 🎉 [Lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/LuminoEngine/Lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/LuminoEngine/Lumino)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/NazaraEngine/NazaraEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NazaraEngine/NazaraEngine)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
+    - 🎉 [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [ORX ![GitHub Repo Stars](https://img.shields.io/github/stars/orx/orx) ![GitHub last commit](https://img.shields.io/github/last-commit/orx/orx)](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel ![GitHub Repo Stars](https://img.shields.io/github/stars/elnormous/ouzel) ![GitHub last commit](https://img.shields.io/github/last-commit/elnormous/ouzel)](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
@@ -1184,8 +1184,6 @@ _Exploring specialty game engine / game development topics and features._
 - Upscaling
     - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Upscaling shader code.
     - 📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
-- Water / Refraction
-    - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
 - Wireframe
     - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
 
@@ -1354,7 +1352,6 @@ _Resources to help bring video games and game engines alive._
 - 🆓 [Pmndrs Materials](https://market.pmnd.rs/materials) - Collection of public domain materials.
 
 ### Model Assets
-- 🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Public domain 3D models.
 - 🆓 [Pmndrs Market](https://market.pmnd.rs) - Collection of public domain models.
 - 🆓 [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
 - 🆓 [Quaternius](https://quaternius.com) - Collection of CC0 1.0 3D models.
