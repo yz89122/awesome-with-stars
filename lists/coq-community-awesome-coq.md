@@ -199,7 +199,7 @@ Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](ht
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 - [RISC-V Specification in Coq ![GitHub Repo Stars](https://img.shields.io/github/stars/mit-plv/riscv-coq) ![GitHub last commit](https://img.shields.io/github/last-commit/mit-plv/riscv-coq)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
 - [Tarjan and Kosaraju ![GitHub Repo Stars](https://img.shields.io/github/stars/math-comp/tarjan) ![GitHub last commit](https://img.shields.io/github/last-commit/math-comp/tarjan)](https://github.com/math-comp/tarjan) - Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.
-- [V��lus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
+- [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 - [Verdi Raft ![GitHub Repo Stars](https://img.shields.io/github/stars/uwplse/verdi-raft) ![GitHub last commit](https://img.shields.io/github/last-commit/uwplse/verdi-raft)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
 
 ## Resources
