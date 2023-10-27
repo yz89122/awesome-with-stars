@@ -586,6 +586,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-ace ![GitHub Repo Stars](https://img.shields.io/github/stars/seiyria/ng2-ace) ![GitHub last commit](https://img.shields.io/github/last-commit/seiyria/ng2-ace)](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
 * [ng2-quill-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/surmon-china/ngx-quill-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/ngx-quill-editor)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
 * [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+
+* [ngx-simple-text-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/Raiper34/ngx-simple-text-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Raiper34/ngx-simple-text-editor)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 
 
 #### File Upload
