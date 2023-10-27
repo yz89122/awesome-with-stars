@@ -174,7 +174,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their Voodoo Graphics in the 1990's.
     - 🌎 [Glide Open Source Project](https://glide.sourceforge.net/) - Glide open source project.
 - Graphics API: Mantle
-    - 📚 [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Developed by AMD as an alternative to Direct3D and OpenGL.
+    - �� [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Developed by AMD as an alternative to Direct3D and OpenGL.
 - Graphics API: Metal
     - 🌎 [Metal](https://developer.apple.com/metal/) - Apple API for developing 3D apps on Apple platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
