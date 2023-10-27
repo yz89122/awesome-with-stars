@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1048 | October 26, 2023 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1049 | October 27, 2023 |
 
 ### Contents
 
@@ -1568,6 +1568,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [ImageTransition ![GitHub Repo Stars](https://img.shields.io/github/stars/shtnkgm/ImageTransition) ![GitHub last commit](https://img.shields.io/github/last-commit/shtnkgm/ImageTransition)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 * [Jelly ![GitHub Repo Stars](https://img.shields.io/github/stars/SebastianBoldt/Jelly) ![GitHub last commit](https://img.shields.io/github/last-commit/SebastianBoldt/Jelly)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [LiquidSwipe ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/LiquidSwipe) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/LiquidSwipe)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
+* [MijickNavigattie ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/Navigattie) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/Navigattie)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 * [MusicPlayerTransition ![GitHub Repo Stars](https://img.shields.io/github/stars/xxxAIRINxxx/MusicPlayerTransition) ![GitHub last commit](https://img.shields.io/github/last-commit/xxxAIRINxxx/MusicPlayerTransition)](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [NavigationTransitions ![GitHub Repo Stars](https://img.shields.io/github/stars/davdroman/swiftui-navigation-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/davdroman/swiftui-navigation-transitions)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 * [PanSlip ![GitHub Repo Stars](https://img.shields.io/github/stars/k-lpmg/PanSlip) ![GitHub last commit](https://img.shields.io/github/last-commit/k-lpmg/PanSlip)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
