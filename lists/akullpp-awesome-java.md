@@ -74,13 +74,14 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Web Frameworks](#web-frameworks)
   - [Workflow Orchestration Engines](#workflow-orchestration-engines)
 - [Resources](#resources)
-  - [Related Awesome Lists](#awesome-lists)
+  - [Related Awesome Lists](#related-awesome-lists)
   - [Communities](#communities)
   - [Frontends](#frontends)
   - [Influential Books](#influential-books)
   - [Podcasts and Screencasts](#podcasts-and-screencasts)
   - [People](#people)
   - [Websites](#websites)
+- [Contributing](#contributing)
 
 ## Projects
 
@@ -133,17 +134,22 @@ _Libraries that provide caching facilities._
 
 _Libraries for everything related to the CLI._
 
-- [ASCII Table ![GitHub Repo Stars](https://img.shields.io/github/stars/vdmeer/asciitable) ![GitHub last commit](https://img.shields.io/github/last-commit/vdmeer/asciitable)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
-- [Airline ![GitHub Repo Stars](https://img.shields.io/github/stars/airlift/airline) ![GitHub last commit](https://img.shields.io/github/last-commit/airlift/airline)](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
-- [args4j](http://args4j.kohsuke.org) - Small library to parse command-line arguments.
-- [Jansi ![GitHub Repo Stars](https://img.shields.io/github/stars/fusesource/jansi) ![GitHub last commit](https://img.shields.io/github/last-commit/fusesource/jansi)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-- [Java ASCII Render ![GitHub Repo Stars](https://img.shields.io/github/stars/indvd00m/java-ascii-render) ![GitHub last commit](https://img.shields.io/github/last-commit/indvd00m/java-ascii-render)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
+#### Argument Parsing
+
+_Libraries to assist with parsing command line arguments._
+
+- [Airline](https://rvesse.github.io/airline/) - Annotation-based framework for parsing Git-like command-line arguments.
 - [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
 - [jbock ![GitHub Repo Stars](https://img.shields.io/github/stars/jbock-java/jbock) ![GitHub last commit](https://img.shields.io/github/last-commit/jbock-java/jbock)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
-- [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine ![GitHub Repo Stars](https://img.shields.io/github/stars/jline/jline3) ![GitHub last commit](https://img.shields.io/github/last-commit/jline/jline3)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
-- [JOpt Simple](https://jopt-simple.github.io/jopt-simple/) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
 - [picocli](https://picocli.info) - ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
+
+#### Text-Based User Interfaces
+
+_Libraries that provide TUI frameworks, or building blocks related functions._
+
+- [Jansi ![GitHub Repo Stars](https://img.shields.io/github/stars/fusesource/jansi) ![GitHub last commit](https://img.shields.io/github/last-commit/fusesource/jansi)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
+- [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [Text-IO ![GitHub Repo Stars](https://img.shields.io/github/stars/beryx/text-io) ![GitHub last commit](https://img.shields.io/github/last-commit/beryx/text-io)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 - [Lanterna ![GitHub Repo Stars](https://img.shields.io/github/stars/mabe02/lanterna) ![GitHub last commit](https://img.shields.io/github/last-commit/mabe02/lanterna)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
 
@@ -170,7 +176,6 @@ _Tools that provide metrics and quality measurements._
 - [SonarJava ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-java) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-java)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
 - [Spoon ![GitHub Repo Stars](https://img.shields.io/github/stars/INRIA/spoon) ![GitHub last commit](https://img.shields.io/github/last-commit/INRIA/spoon)](https://github.com/INRIA/spoon) - Library for analyzing and transforming Java source code.
 - [Spotbugs ![GitHub Repo Stars](https://img.shields.io/github/stars/spotbugs/spotbugs) ![GitHub last commit](https://img.shields.io/github/last-commit/spotbugs/spotbugs)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
-
 
 ### Code Coverage
 
@@ -385,9 +390,9 @@ _Tools that handle the distribution of applications in native formats._
 - [Capsule ![GitHub Repo Stars](https://img.shields.io/github/stars/puniverse/capsule) ![GitHub last commit](https://img.shields.io/github/last-commit/puniverse/capsule)](https://github.com/puniverse/capsule) - Simple and powerful packaging and deployment. A fat JAR on steroids, or a "Docker for Java" that supports JVM-optimized containers.
 - [Central Repository](https://search.maven.org) - Largest binary component repository available as a free service to the open-source community. Default used by Apache Maven, and available in all other build tools.
 - [Cloudsmith ![c]](https://cloudsmith.io) - Fully managed package management SaaS with support for Maven/Gradle/SBT with a free tier.
-- [Getdown ![GitHub Repo Stars](https://img.shields.io/github/stars/threerings/getdown) ![GitHub last commit](https://img.shields.io/github/last-commit/threerings/getdown)](https://github.com/threerings/getdown) - A system for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
+- [Getdown ![GitHub Repo Stars](https://img.shields.io/github/stars/threerings/getdown) ![GitHub last commit](https://img.shields.io/github/last-commit/threerings/getdown)](https://github.com/threerings/getdown) - System for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
 - [IzPack](http://izpack.org) - Setup authoring tool for cross-platform deployments.
-- [JavaPackager ![GitHub Repo Stars](https://img.shields.io/github/stars/fvarrui/JavaPackager) ![GitHub last commit](https://img.shields.io/github/last-commit/fvarrui/JavaPackager)](https://github.com/fvarrui/JavaPackager) - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, Mac OS X or GNU/Linux executables, and generate installers for them.
+- [JavaPackager ![GitHub Repo Stars](https://img.shields.io/github/stars/fvarrui/JavaPackager) ![GitHub last commit](https://img.shields.io/github/last-commit/fvarrui/JavaPackager)](https://github.com/fvarrui/JavaPackager) - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, macOS or GNU/Linux executables, and generate installers for them.
 - [jDeploy](https://www.jdeploy.com) - Deploy desktop apps as native Mac, Windows or Linux bundles.
 - [jlink.online ![GitHub Repo Stars](https://img.shields.io/github/stars/AdoptOpenJDK/jlink.online) ![GitHub last commit](https://img.shields.io/github/last-commit/AdoptOpenJDK/jlink.online)](https://github.com/AdoptOpenJDK/jlink.online) - Builds optimized runtimes over HTTP.
 - [Nexus ![c]](https://www.sonatype.com) - Binary management with proxy and caching capabilities.
@@ -490,9 +495,9 @@ _Everything about high-performance computation, from collections to specific lib
 
 _Libraries that assist with creating HTTP requests and/or binding responses._
 
-- [Apache HttpComponents](https://hc.apache.org/) - A toolset of low-level Java components focused on HTTP and associated protocols.
+- [Apache HttpComponents](https://hc.apache.org/) - Toolset of low-level Java components focused on HTTP and associated protocols.
 - [Async Http Client ![GitHub Repo Stars](https://img.shields.io/github/stars/AsyncHttpClient/async-http-client) ![GitHub last commit](https://img.shields.io/github/last-commit/AsyncHttpClient/async-http-client)](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous HTTP and WebSocket client library.
-- [Avaje Http Client](https://avaje.io/http-client) - A wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements.
+- [Avaje Http Client](https://avaje.io/http-client) - Wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements.
 - [Feign ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenFeign/feign) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenFeign/feign)](https://github.com/OpenFeign/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
 - [Google HTTP Client ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-http-java-client) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-http-java-client)](https://github.com/googleapis/google-http-java-client) - Pluggable HTTP transport abstraction with support for java.net.HttpURLConnection, Apache HTTP Client, Android, Google App Engine, XML, Gson, Jackson and Protobuf.
 - [methanol ![GitHub Repo Stars](https://img.shields.io/github/stars/mizosoft/methanol) ![GitHub last commit](https://img.shields.io/github/last-commit/mizosoft/methanol)](https://github.com/mizosoft/methanol) - HTTP client extensions library.
@@ -715,7 +720,7 @@ _Tools for creating or managing mobile applications._
 
 ### Monitoring
 
-_Tools that monitor applications in production._
+_Tools that observe/monitor applications in production by providing telemetry._
 
 - [Automon ![GitHub Repo Stars](https://img.shields.io/github/stars/stevensouza/automon) ![GitHub last commit](https://img.shields.io/github/last-commit/stevensouza/automon)](https://github.com/stevensouza/automon) - Combines the power of AOP with monitoring and/or logging tools.
 - [Datadog ![c]](https://github.com/DataDog/dd-trace-java) - Modern monitoring & analytics.
@@ -1039,7 +1044,7 @@ _Tools that simplify testing asynchronous services._
 
 - [Awaitility ![GitHub Repo Stars](https://img.shields.io/github/stars/awaitility/awaitility) ![GitHub last commit](https://img.shields.io/github/last-commit/awaitility/awaitility)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
 - [ConcurrentUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/jhalterman/concurrentunit) ![GitHub last commit](https://img.shields.io/github/last-commit/jhalterman/concurrentunit)](https://github.com/jhalterman/concurrentunit) - Toolkit for testing multi-threaded and asynchronous applications.
-- [GreenMail](http://www.icegreen.com/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)
+- [GreenMail](https://greenmail-mail-test.github.io/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)
 - [Hoverfly Java ![GitHub Repo Stars](https://img.shields.io/github/stars/SpectoLabs/hoverfly-java) ![GitHub last commit](https://img.shields.io/github/last-commit/SpectoLabs/hoverfly-java)](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
 - [Karate ![GitHub Repo Stars](https://img.shields.io/github/stars/intuit/karate) ![GitHub last commit](https://img.shields.io/github/last-commit/intuit/karate)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 - [REST Assured ![GitHub Repo Stars](https://img.shields.io/github/stars/rest-assured/rest-assured) ![GitHub last commit](https://img.shields.io/github/last-commit/rest-assured/rest-assured)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
@@ -1134,12 +1139,13 @@ _Libraries which provide general utility functions._
 - [fswatch ![GitHub Repo Stars](https://img.shields.io/github/stars/vorburger/ch.vorburger.fswatch) ![GitHub last commit](https://img.shields.io/github/last-commit/vorburger/ch.vorburger.fswatch)](https://github.com/vorburger/ch.vorburger.fswatch) - Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
 - [Gephi ![GitHub Repo Stars](https://img.shields.io/github/stars/gephi/gephi) ![GitHub last commit](https://img.shields.io/github/last-commit/gephi/gephi)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 - [Guava ![GitHub Repo Stars](https://img.shields.io/github/stars/google/guava) ![GitHub last commit](https://img.shields.io/github/last-commit/google/guava)](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
-- [JADE](http://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
+- [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 - [Java Diff Utils](https://java-diff-utils.github.io/java-diff-utils/) - Utilities for text or data comparison and patching.
 - [JavaVerbalExpressions ![GitHub Repo Stars](https://img.shields.io/github/stars/VerbalExpressions/JavaVerbalExpressions) ![GitHub last commit](https://img.shields.io/github/last-commit/VerbalExpressions/JavaVerbalExpressions)](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Library that helps with constructing difficult regular expressions.
 - [JGit](https://www.eclipse.org/jgit/) - Lightweight, pure Java library implementing the Git version control system.
 - [minio-java ![GitHub Repo Stars](https://img.shields.io/github/stars/minio/minio-java) ![GitHub last commit](https://img.shields.io/github/last-commit/minio/minio-java)](https://github.com/minio/minio-java) - Provides simple APIs to access any Amazon S3-compatible object storage server.
 - [Protégé](https://protege.stanford.edu) - Provides an ontology editor and a framework to build knowledge-based systems.
+- [Semver4j ![GitHub Repo Stars](https://img.shields.io/github/stars/semver4j/semver4j) ![GitHub last commit](https://img.shields.io/github/last-commit/semver4j/semver4j)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
 - [Underscore-java ![GitHub Repo Stars](https://img.shields.io/github/stars/javadev/underscore-java) ![GitHub last commit](https://img.shields.io/github/last-commit/javadev/underscore-java)](https://github.com/javadev/underscore-java) - Port of Underscore.js functions.
 
 ### Version Managers
@@ -1211,7 +1217,6 @@ _Active discussions._
 
 - [r/java](https://www.reddit.com/r/java/) - Subreddit for the Java community.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/java) - Question/answer platform.
-- [VirtualJUG](https://virtualjug.com) - Virtual Java User Group.
 
 ### Frontends
 
@@ -1239,7 +1244,6 @@ _Something to look at or listen to while programming._
 - [Foojay Podcast](https://foojay.io/today/category/podcast/)
 - [Inside Java](https://inside.java/podcast) (Official)
 - [Java Off Heap](http://www.javaoffheap.com)
-- [The Java Council](https://virtualjug.com/#podcast)
 - [The Java Posse](http://www.javaposse.com) - Discontinued as of 02/2015.
 
 ### People
