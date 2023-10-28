@@ -174,7 +174,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their Voodoo Graphics in the 1990's.
     - 🌎 [Glide Open Source Project](https://glide.sourceforge.net/) - Glide open source project.
 - Graphics API: Mantle
-    - �� [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Developed by AMD as an alternative to Direct3D and OpenGL.
+    - 📚 [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Developed by AMD as an alternative to Direct3D and OpenGL.
 - Graphics API: Metal
     - 🌎 [Metal](https://developer.apple.com/metal/) - Apple API for developing 3D apps on Apple platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
@@ -577,6 +577,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [MonoGame ![GitHub Repo Stars](https://img.shields.io/github/stars/MonoGame/MonoGame) ![GitHub last commit](https://img.shields.io/github/last-commit/MonoGame/MonoGame)](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - 🎉 [Nez ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/Nez) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/Nez)](https://github.com/prime31/Nez) - Feature-rich 2D framework built on _MonoGame_.
     - 🎉 [Protogame ![GitHub Repo Stars](https://img.shields.io/github/stars/RedpointGames/Protogame) ![GitHub last commit](https://img.shields.io/github/last-commit/RedpointGames/Protogame)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
+- C#: Geometry
+    - 🎉 [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 - C#: Graphics - 3D
     - 🎉 [OpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/opentk) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/opentk)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/LearnOpenTK) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/LearnOpenTK)](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mellinoe/veldrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mellinoe/veldrid)](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
