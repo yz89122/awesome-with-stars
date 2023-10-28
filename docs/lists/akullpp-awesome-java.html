@@ -124,7 +124,7 @@
   <li>
 <a href="#resources">Resources</a>
     <ul>
-      <li><a href="#awesome-lists">Related Awesome Lists</a></li>
+      <li><a href="#related-awesome-lists">Related Awesome Lists</a></li>
       <li><a href="#communities">Communities</a></li>
       <li><a href="#frontends">Frontends</a></li>
       <li><a href="#influential-books">Influential Books</a></li>
@@ -133,6 +133,7 @@
       <li><a href="#websites">Websites</a></li>
     </ul>
   </li>
+  <li><a href="#contributing">Contributing</a></li>
 </ul>
 
 <h2 id="projects">Projects</h2>
@@ -219,29 +220,32 @@
 
 <p><em>Libraries for everything related to the CLI.</em></p>
 
+<h4 id="argument-parsing">Argument Parsing</h4>
+
+<p><em>Libraries to assist with parsing command line arguments.</em></p>
+
 <ul>
   <li>
-<a href="https://github.com/vdmeer/asciitable">ASCII Table <img src="https://img.shields.io/github/stars/vdmeer/asciitable" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/vdmeer/asciitable" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Library to draw tables in ASCII.</li>
-  <li>
-<a href="https://github.com/airlift/airline">Airline <img src="https://img.shields.io/github/stars/airlift/airline" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/airlift/airline" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Annotation-based framework for parsing Git-like command-line arguments.</li>
-  <li>
-<a href="http://args4j.kohsuke.org">args4j</a> - Small library to parse command-line arguments.</li>
-  <li>
-<a href="https://github.com/fusesource/jansi">Jansi <img src="https://img.shields.io/github/stars/fusesource/jansi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fusesource/jansi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ANSI escape codes to format console output.</li>
-  <li>
-<a href="https://github.com/indvd00m/java-ascii-render">Java ASCII Render <img src="https://img.shields.io/github/stars/indvd00m/java-ascii-render" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/indvd00m/java-ascii-render" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Graphical primitives for the console.</li>
+<a href="https://rvesse.github.io/airline/">Airline</a> - Annotation-based framework for parsing Git-like command-line arguments.</li>
   <li>
 <a href="http://jcommander.org">JCommander</a> - Command-line argument-parsing framework with custom types and validation via implementing interfaces.</li>
   <li>
 <a href="https://github.com/jbock-java/jbock">jbock <img src="https://img.shields.io/github/stars/jbock-java/jbock" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jbock-java/jbock" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Reflectionless command line parser.</li>
   <li>
-<a href="https://gitlab.com/klamonte/jexer">Jexer</a> - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like <a href="https://en.wikipedia.org/wiki/Turbo_Vision">Turbo Vision</a>.</li>
-  <li>
 <a href="https://github.com/jline/jline3">JLine <img src="https://img.shields.io/github/stars/jline/jline3" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jline/jline3" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Includes features from modern shells like completion or history.</li>
   <li>
-<a href="https://jopt-simple.github.io/jopt-simple/">JOpt Simple</a> - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.</li>
-  <li>
 <a href="https://picocli.info">picocli</a> - ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.</li>
+</ul>
+
+<h4 id="text-based-user-interfaces">Text-Based User Interfaces</h4>
+
+<p><em>Libraries that provide TUI frameworks, or building blocks related functions.</em></p>
+
+<ul>
+  <li>
+<a href="https://github.com/fusesource/jansi">Jansi <img src="https://img.shields.io/github/stars/fusesource/jansi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fusesource/jansi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - ANSI escape codes to format console output.</li>
+  <li>
+<a href="https://gitlab.com/klamonte/jexer">Jexer</a> - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like <a href="https://en.wikipedia.org/wiki/Turbo_Vision">Turbo Vision</a>.</li>
   <li>
 <a href="https://github.com/beryx/text-io">Text-IO <img src="https://img.shields.io/github/stars/beryx/text-io" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/beryx/text-io" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Aids the creation of full console-based applications.</li>
   <li>
@@ -672,11 +676,11 @@
   <li>
 <a href="https://cloudsmith.io">Cloudsmith <img src="https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg" alt="c" loading="lazy" referrerpolicy="no-referrer"></a> - Fully managed package management SaaS with support for Maven/Gradle/SBT with a free tier.</li>
   <li>
-<a href="https://github.com/threerings/getdown">Getdown <img src="https://img.shields.io/github/stars/threerings/getdown" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/threerings/getdown" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A system for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.</li>
+<a href="https://github.com/threerings/getdown">Getdown <img src="https://img.shields.io/github/stars/threerings/getdown" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/threerings/getdown" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - System for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.</li>
   <li>
 <a href="http://izpack.org">IzPack</a> - Setup authoring tool for cross-platform deployments.</li>
   <li>
-<a href="https://github.com/fvarrui/JavaPackager">JavaPackager <img src="https://img.shields.io/github/stars/fvarrui/JavaPackager" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fvarrui/JavaPackager" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, Mac OS X or GNU/Linux executables, and generate installers for them.</li>
+<a href="https://github.com/fvarrui/JavaPackager">JavaPackager <img src="https://img.shields.io/github/stars/fvarrui/JavaPackager" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fvarrui/JavaPackager" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, macOS or GNU/Linux executables, and generate installers for them.</li>
   <li>
 <a href="https://www.jdeploy.com">jDeploy</a> - Deploy desktop apps as native Mac, Windows or Linux bundles.</li>
   <li>
@@ -855,11 +859,11 @@
 
 <ul>
   <li>
-<a href="https://hc.apache.org/">Apache HttpComponents</a> - A toolset of low-level Java components focused on HTTP and associated protocols.</li>
+<a href="https://hc.apache.org/">Apache HttpComponents</a> - Toolset of low-level Java components focused on HTTP and associated protocols.</li>
   <li>
 <a href="https://github.com/AsyncHttpClient/async-http-client">Async Http Client <img src="https://img.shields.io/github/stars/AsyncHttpClient/async-http-client" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/AsyncHttpClient/async-http-client" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Asynchronous HTTP and WebSocket client library.</li>
   <li>
-<a href="https://avaje.io/http-client">Avaje Http Client</a> - A wrapper on JDK 11’s HttpClient that adds Feign-like interface among other enhancements.</li>
+<a href="https://avaje.io/http-client">Avaje Http Client</a> - Wrapper on JDK 11’s HttpClient that adds Feign-like interface among other enhancements.</li>
   <li>
 <a href="https://github.com/OpenFeign/feign">Feign <img src="https://img.shields.io/github/stars/OpenFeign/feign" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/OpenFeign/feign" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.</li>
   <li>
@@ -1263,7 +1267,7 @@
 
 <h3 id="monitoring">Monitoring</h3>
 
-<p><em>Tools that monitor applications in production.</em></p>
+<p><em>Tools that observe/monitor applications in production by providing telemetry.</em></p>
 
 <ul>
   <li>
@@ -1850,7 +1854,7 @@
   <li>
 <a href="https://github.com/jhalterman/concurrentunit">ConcurrentUnit <img src="https://img.shields.io/github/stars/jhalterman/concurrentunit" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jhalterman/concurrentunit" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Toolkit for testing multi-threaded and asynchronous applications.</li>
   <li>
-<a href="http://www.icegreen.com/greenmail/">GreenMail</a> - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)</li>
+<a href="https://greenmail-mail-test.github.io/greenmail/">GreenMail</a> - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)</li>
   <li>
 <a href="https://github.com/SpectoLabs/hoverfly-java">Hoverfly Java <img src="https://img.shields.io/github/stars/SpectoLabs/hoverfly-java" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/SpectoLabs/hoverfly-java" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.</li>
   <li>
@@ -2019,7 +2023,7 @@
   <li>
 <a href="https://github.com/google/guava">Guava <img src="https://img.shields.io/github/stars/google/guava" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/google/guava" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.</li>
   <li>
-<a href="http://jade.tilab.com">JADE</a> - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)</li>
+<a href="https://jade.tilab.com">JADE</a> - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)</li>
   <li>
 <a href="https://java-diff-utils.github.io/java-diff-utils/">Java Diff Utils</a> - Utilities for text or data comparison and patching.</li>
   <li>
@@ -2030,6 +2034,8 @@
 <a href="https://github.com/minio/minio-java">minio-java <img src="https://img.shields.io/github/stars/minio/minio-java" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/minio/minio-java" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Provides simple APIs to access any Amazon S3-compatible object storage server.</li>
   <li>
 <a href="https://protege.stanford.edu">Protégé</a> - Provides an ontology editor and a framework to build knowledge-based systems.</li>
+  <li>
+<a href="https://github.com/semver4j/semver4j">Semver4j <img src="https://img.shields.io/github/stars/semver4j/semver4j" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/semver4j/semver4j" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Lightweight library that helps you handling semantic versioning with different modes.</li>
   <li>
 <a href="https://github.com/javadev/underscore-java">Underscore-java <img src="https://img.shields.io/github/stars/javadev/underscore-java" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/javadev/underscore-java" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Port of Underscore.js functions.</li>
 </ul>
@@ -2142,8 +2148,6 @@
 <a href="https://www.reddit.com/r/java/">r/java</a> - Subreddit for the Java community.</li>
   <li>
 <a href="https://stackoverflow.com/questions/tagged/java">Stack Overflow</a> - Question/answer platform.</li>
-  <li>
-<a href="https://virtualjug.com">VirtualJUG</a> - Virtual Java User Group.</li>
 </ul>
 
 <h3 id="frontends">Frontends</h3>
@@ -2179,7 +2183,6 @@
   <li>
 <a href="https://inside.java/podcast">Inside Java</a> (Official)</li>
   <li><a href="http://www.javaoffheap.com">Java Off Heap</a></li>
-  <li><a href="https://virtualjug.com/#podcast">The Java Council</a></li>
   <li>
 <a href="http://www.javaposse.com">The Java Posse</a> - Discontinued as of 02/2015.</li>
 </ul>
