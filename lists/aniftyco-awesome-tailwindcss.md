@@ -191,7 +191,7 @@
 - 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 - 🎨🌍🔧 [Ui Colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
-- ����🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
+- 🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
 - 🎨🔧💼 [Colorkraken ![GitHub Repo Stars](https://img.shields.io/github/stars/Bouhoum/colorkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/Bouhoum/colorkraken)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 - 🎨🔧💼 [babel-plugin-tailwind-dark ![GitHub Repo Stars](https://img.shields.io/github/stars/wowlusitong/babel-plugin-tailwind-dark) ![GitHub last commit](https://img.shields.io/github/last-commit/wowlusitong/babel-plugin-tailwind-dark)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 - 🌍🔧💼 [Twind ![GitHub Repo Stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
@@ -201,7 +201,7 @@
 - 🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 - 🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- ���� [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
+- 🌍 [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
 - 🌍 [Flowrift](https://flowrift.com) - Beautifully designed Tailwind CSS UI blocks.
 - 🔼🌍🔧 [Tailwindhelper](https://www.tailwindhelper.com/) - Visualize Tailwind CSS classes and unit converter.
 - 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
@@ -426,7 +426,7 @@
 - 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
-- ���� [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg) - Learn how CSS variables can bridge the gap between Framer Motion and Tailwind CSS.
+- 🎬 [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg) - Learn how CSS variables can bridge the gap between Framer Motion and Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
 - 🎓 [Building real-world UIs using Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/asvny/building-realworld-user-interfaces-using-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/asvny/building-realworld-user-interfaces-using-tailwind)](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
 - 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
