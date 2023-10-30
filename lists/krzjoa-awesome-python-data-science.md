@@ -25,7 +25,6 @@
 	- [Imbalanced Datasets](#imbalanced-datasets)
 	- [Random Forests](#random-forests)
 	- [Kernel Methods](#kernel-methods)
-  	- [Extreme Learning Machine](#extreme-learning-machine)
 - [Deep Learning](#deep-learning)
 	- [PyTorch](#pytorch)
 	- [TensorFlow](#tensorflow)
@@ -33,10 +32,10 @@
  	- [JAX](#jax)
 	- [Others](#others)
 - [Automated Machine Learning](#automated-machine-learning)
-- [Time Series](#time-series)
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Audition](#computer-audition)
 - [Computer Vision](#computer-vision)
+- [Time Series](#time-series)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graph Machine Learning](#graph-machine-learning)
 - [Learning-to-Rank & Recommender Systems](#learning-to-rank-&-recommender-systems)
@@ -128,10 +127,6 @@
 * [scikit-rvm ![GitHub Repo Stars](https://img.shields.io/github/stars/JamesRitchie/scikit-rvm) ![GitHub last commit](https://img.shields.io/github/last-commit/JamesRitchie/scikit-rvm)](https://github.com/JamesRitchie/scikit-rvm) - Relevance Vector Machine implementation using the scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 * [ThunderSVM ![GitHub Repo Stars](https://img.shields.io/github/stars/Xtra-Computing/thundersvm) ![GitHub last commit](https://img.shields.io/github/last-commit/Xtra-Computing/thundersvm)](https://github.com/Xtra-Computing/thundersvm) - A fast SVM Library on GPUs and CPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
-### Extreme Learning Machine
-* [Python Extreme Learning Machine (ELM) ![GitHub Repo Stars](https://img.shields.io/github/stars/acba/elm) ![GitHub last commit](https://img.shields.io/github/last-commit/acba/elm)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
-* [hpelm ![GitHub Repo Stars](https://img.shields.io/github/stars/akusok/hpelm) ![GitHub last commit](https://img.shields.io/github/last-commit/akusok/hpelm)](https://github.com/akusok/hpelm) - High-performance implementation of Extreme Learning Machines (fast randomized neural networks). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
-
 ## Deep Learning
 
 ### PyTorch
@@ -187,23 +182,6 @@
 * [TPOT ![GitHub Repo Stars](https://img.shields.io/github/stars/rhiever/tpot) ![GitHub last commit](https://img.shields.io/github/last-commit/rhiever/tpot)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 * [MLBox ![GitHub Repo Stars](https://img.shields.io/github/stars/AxeldeRomblay/MLBox) ![GitHub last commit](https://img.shields.io/github/last-commit/AxeldeRomblay/MLBox)](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
-## Time Series
-* [sktime ![GitHub Repo Stars](https://img.shields.io/github/stars/alan-turing-institute/sktime) ![GitHub last commit](https://img.shields.io/github/last-commit/alan-turing-institute/sktime)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-* [darts ![GitHub Repo Stars](https://img.shields.io/github/stars/unit8co/darts) ![GitHub last commit](https://img.shields.io/github/last-commit/unit8co/darts)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-* [statsforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/statsforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/statsforecast)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-* [mlforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/mlforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/mlforecast)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-* [neuralforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/neuralforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/neuralforecast)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
-* [tslearn ![GitHub Repo Stars](https://img.shields.io/github/stars/rtavenar/tslearn) ![GitHub last commit](https://img.shields.io/github/last-commit/rtavenar/tslearn)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-* [tick ![GitHub Repo Stars](https://img.shields.io/github/stars/X-DataInitiative/tick) ![GitHub last commit](https://img.shields.io/github/last-commit/X-DataInitiative/tick)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-* [greykite ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/greykite) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/greykite)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-* [Prophet ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/prophet) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/prophet)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
-* [PyFlux ![GitHub Repo Stars](https://img.shields.io/github/stars/RJT1990/pyflux) ![GitHub last commit](https://img.shields.io/github/last-commit/RJT1990/pyflux)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-* [bayesloop ![GitHub Repo Stars](https://img.shields.io/github/stars/christophmark/bayesloop) ![GitHub last commit](https://img.shields.io/github/last-commit/christophmark/bayesloop)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
-* [luminol ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/luminol) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/luminol)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
-* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
-* [maya ![GitHub Repo Stars](https://img.shields.io/github/stars/timofurrer/maya) ![GitHub last commit](https://img.shields.io/github/last-commit/timofurrer/maya)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
-* [Chaos Genius ![GitHub Repo Stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius) ![GitHub last commit](https://img.shields.io/github/last-commit/chaos-genius/chaos_genius)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
-
 ## Natural Language Processing
 * [torchtext ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/text) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/text)](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [gluon-nlp ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/gluon-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/gluon-nlp)](https://github.com/dmlc/gluon-nlp) - NLP made easy. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
@@ -242,6 +220,23 @@
 * [Augmentor ![GitHub Repo Stars](https://img.shields.io/github/stars/mdbloice/Augmentor) ![GitHub last commit](https://img.shields.io/github/last-commit/mdbloice/Augmentor)](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 * [albumentations ![GitHub Repo Stars](https://img.shields.io/github/stars/albu/albumentations) ![GitHub last commit](https://img.shields.io/github/last-commit/albu/albumentations)](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 * [LAVIS ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce/LAVIS) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce/LAVIS)](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence.
+
+## Time Series
+* [sktime ![GitHub Repo Stars](https://img.shields.io/github/stars/alan-turing-institute/sktime) ![GitHub last commit](https://img.shields.io/github/last-commit/alan-turing-institute/sktime)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+* [darts ![GitHub Repo Stars](https://img.shields.io/github/stars/unit8co/darts) ![GitHub last commit](https://img.shields.io/github/last-commit/unit8co/darts)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+* [statsforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/statsforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/statsforecast)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+* [mlforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/mlforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/mlforecast)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+* [neuralforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/neuralforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/neuralforecast)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+* [tslearn ![GitHub Repo Stars](https://img.shields.io/github/stars/rtavenar/tslearn) ![GitHub last commit](https://img.shields.io/github/last-commit/rtavenar/tslearn)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+* [tick ![GitHub Repo Stars](https://img.shields.io/github/stars/X-DataInitiative/tick) ![GitHub last commit](https://img.shields.io/github/last-commit/X-DataInitiative/tick)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+* [greykite ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/greykite) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/greykite)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
+* [Prophet ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/prophet) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/prophet)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+* [PyFlux ![GitHub Repo Stars](https://img.shields.io/github/stars/RJT1990/pyflux) ![GitHub last commit](https://img.shields.io/github/last-commit/RJT1990/pyflux)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+* [bayesloop ![GitHub Repo Stars](https://img.shields.io/github/stars/christophmark/bayesloop) ![GitHub last commit](https://img.shields.io/github/last-commit/christophmark/bayesloop)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+* [luminol ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/luminol) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/luminol)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
+* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
+* [maya ![GitHub Repo Stars](https://img.shields.io/github/stars/timofurrer/maya) ![GitHub last commit](https://img.shields.io/github/last-commit/timofurrer/maya)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
+* [Chaos Genius ![GitHub Repo Stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius) ![GitHub last commit](https://img.shields.io/github/last-commit/chaos-genius/chaos_genius)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ## Reinforcement Learning
 * [Gymnasium ![GitHub Repo Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium) ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/Gymnasium)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/gym) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/gym)](https://github.com/openai/gym)).
