@@ -12,7 +12,7 @@ This repository contains curated list of different urban & regional planning dat
 ---
 #### Sponsors
 
-The Technology's Division's Resource Repository is [sponsored ![GitHub Repo Stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/resources/Division_Sponsorship_Package_22.pdf) by the following companies and organizations. 
+The Technology's Division's Resource Repository is [sponsored ![GitHub Repo Stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/resources/Division_Sponsorship_Package_23.pdf) by the following companies and organizations. 
 <div style=text-align:center;>
 		<br>
 		<a href="https://www.esri.com/en-us/home">
