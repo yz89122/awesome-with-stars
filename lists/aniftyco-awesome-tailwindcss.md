@@ -304,7 +304,7 @@
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
 - 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
-- ���� [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
+- ��� [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
