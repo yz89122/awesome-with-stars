@@ -82,6 +82,10 @@
 - [Classified Group ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-classified-group) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-classified-group)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 - [Tokenized Preview ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-tokenized-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-tokenized-preview)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
+### Extension scripts
+
+- [Directus Hook Library ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-hook-library) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-hook-library)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
+
 ## Articles
 
 ### Educational
