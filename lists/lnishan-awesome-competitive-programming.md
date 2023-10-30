@@ -196,7 +196,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
-| ��★☆ | [clist.by](https://clist.by/) | API available for use |
+| ★★☆ | [clist.by](https://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/nishanthvijayan/CoderCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/nishanthvijayan/CoderCalendar)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
@@ -210,7 +210,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
-| ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
+| ★★�� | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
 | ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
 
 
