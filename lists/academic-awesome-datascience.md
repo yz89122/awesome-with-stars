@@ -368,6 +368,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [pyro ![GitHub Repo Stars](https://img.shields.io/github/stars/pyro-ppl/pyro) ![GitHub last commit](https://img.shields.io/github/last-commit/pyro-ppl/pyro)](https://github.com/pyro-ppl/pyro)
 * [Catalyst ![GitHub Repo Stars](https://img.shields.io/github/stars/catalyst-team/catalyst) ![GitHub last commit](https://img.shields.io/github/last-commit/catalyst-team/catalyst)](https://github.com/catalyst-team/catalyst)
 * [pytorch_tabular ![GitHub Repo Stars](https://img.shields.io/github/stars/manujosephv/pytorch_tabular) ![GitHub last commit](https://img.shields.io/github/last-commit/manujosephv/pytorch_tabular)](https://github.com/manujosephv/pytorch_tabular)
+* [Yolov3 ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralytics/yolov3) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralytics/yolov3)](https://github.com/ultralytics/yolov3)
+* [Yolov5 ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralytics/yolov5) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralytics/yolov5)](https://github.com/ultralytics/yolov5)
+* [Yolov8 ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralytics/ultralytics) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralytics/ultralytics)](https://github.com/ultralytics/ultralytics)
 
 #### TensorFlow Ecosystem
 * [TensorFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorflow/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow)
