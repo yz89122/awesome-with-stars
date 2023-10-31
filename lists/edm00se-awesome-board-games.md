@@ -2551,7 +2551,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
 
-![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
+![Outfoxed](https://cf.geekdo-images.com/v0FCI-wY8YlPn39XKd3F8w__itemrep/img/KGnNOM0FA8nwFXtKFsamxkx5v2E=/fit-in/246x300/filters:strip_icc()/pic2401324.jpg)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
@@ -2840,6 +2840,34 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |  3 - 10 |       8+ |    30m |
+
+### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
+
+> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
+
+> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
+
+> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
+
+![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc()/pic5715210.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |      10+ | 45-60m |
+
+### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
+
+> What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
+>
+> Zoo Vadis is an evolution of Reiner Knizia’s classic negotiation game, Quo Vadis? It retains the elegant, political gameplay that fans have come to love while introducing many innovations and improvements by: a) Enhancing the 3-player game and tailoring the board to all player counts through neutral, bribable figures—roaming peacocks, b) Widening the player count with a second game board for 6-7 players, c) Expanding the possibilities for strategic negotiation with asymmetric animal abilities, d) Increasing tactical opportunities with new special laurel tokens, e) Broadening the appeal of the theme and presentation with vibrant zoo art by Kwanchai Moriya and Brigette Indelicato, f) Enlivening the production with chunky animal figures and functional player screens.
+>
+> Like the original design, the game ends immediately when the Star Exhibit is full. Only the animals who have reached the Star Exhibit qualify for victory, and the winner is the player with the most laurels.
+
+![Zoo Vadis](https://cf.geekdo-images.com/Kl3NjtNKpuJNPjdBQtdsow__itemrep/img/mmVsnLtn3T4zkeNbjWpfrWZKS5c=/fit-in/246x300/filters:strip_icc()/pic6988937.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 7 |      10+ |20-40m |
 
 ## Contribute
 
