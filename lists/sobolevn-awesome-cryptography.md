@@ -186,7 +186,7 @@ A curated list of cryptography resources and links.
 ### C++
 
 - [=nil; Crypto3 ![GitHub Repo Stars](https://img.shields.io/github/stars/NilFoundation/crypto3) ![GitHub last commit](https://img.shields.io/github/last-commit/NilFoundation/crypto3)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
-- [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
+- [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
 - [cryptopp ![GitHub Repo Stars](https://img.shields.io/github/stars/weidai11/cryptopp) ![GitHub last commit](https://img.shields.io/github/last-commit/weidai11/cryptopp)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib ![GitHub Repo Stars](https://img.shields.io/github/stars/shaih/HElib) ![GitHub last commit](https://img.shields.io/github/last-commit/shaih/HElib)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
@@ -379,6 +379,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Rust
 
 - [BLAKE3 ![GitHub Repo Stars](https://img.shields.io/github/stars/BLAKE3-team/BLAKE3) ![GitHub last commit](https://img.shields.io/github/last-commit/BLAKE3-team/BLAKE3)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+- [botan-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/randombit/botan-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/randombit/botan-rs)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 - [cryptoballot ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptoballot/cryptoballot) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptoballot/cryptoballot)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
 - [mundane ![GitHub Repo Stars](https://img.shields.io/github/stars/google/mundane) ![GitHub last commit](https://img.shields.io/github/last-commit/google/mundane)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
