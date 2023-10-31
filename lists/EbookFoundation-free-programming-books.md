@@ -186,13 +186,14 @@ This project lists books and other resources grouped by genres:
 Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
++ [Burmese / မြန်မာဘာသာ](casts/free-podcasts-screencasts-my.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
-+ [Hebrew / עברית](casts/free-podcasts-screencasts-he.md)
++ [Hebrew / עב��ית](casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)
