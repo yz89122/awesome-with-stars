@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1049 | October 27, 2023 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1049 | November 01, 2023 |
 
 ### Contents
 
@@ -444,6 +444,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *Libs to get access to build chat app* [back to top](#readme) 
 
 * [Chatto ![GitHub Repo Stars](https://img.shields.io/github/stars/badoo/Chatto) ![GitHub last commit](https://img.shields.io/github/last-commit/badoo/Chatto)](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications.
+* [ExyteChat ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/chat) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/chat)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
 * [InputBarAccessoryView ![GitHub Repo Stars](https://img.shields.io/github/stars/nathantannar4/InputBarAccessoryView) ![GitHub last commit](https://img.shields.io/github/last-commit/nathantannar4/InputBarAccessoryView)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 * [MessageKit ![GitHub Repo Stars](https://img.shields.io/github/stars/MessageKit/MessageKit) ![GitHub last commit](https://img.shields.io/github/last-commit/MessageKit/MessageKit)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 * [MessengerKit ![GitHub Repo Stars](https://img.shields.io/github/stars/steve228uk/MessengerKit) ![GitHub last commit](https://img.shields.io/github/last-commit/steve228uk/MessengerKit)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
