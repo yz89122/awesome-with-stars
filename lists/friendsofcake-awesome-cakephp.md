@@ -115,7 +115,7 @@ Additional lists you might find useful:
 ## Caching
 *Plugins for caching data.*
 
-- [Cache plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-cache)](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
+- 🍰 [Cache plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-cache)](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
 
 ## Code Analysis
 *Plugins for analysing, parsing and manipulation codebases.*
