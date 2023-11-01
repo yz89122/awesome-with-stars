@@ -269,7 +269,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [React Starter Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/kriasoft/react-starter-kit)](https://github.com/kriasoft/react-starter-kit) - front-end starter kit using React, Relay, GraphQL, and JAM stack architecture.
 - [SWAPI GraphQL Wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql/swapi-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql/swapi-graphql)](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping SWAPI.
 - [Relay TodoMVC ![GitHub Repo Stars](https://img.shields.io/github/stars/taion/relay-todomvc) ![GitHub last commit](https://img.shields.io/github/last-commit/taion/relay-todomvc)](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
-- [Apollo Client documentation](https://www.apollographql.com/react/) - Documentation and example for building GraphQL apps using apollo client.
+- [Apollo Client documentation](https://www.apollographql.com/docs/react) - Documentation and example for building GraphQL apps using apollo client.
 - [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 - [F8 App 2017 ![GitHub Repo Stars](https://img.shields.io/github/stars/fbsamples/f8app) ![GitHub last commit](https://img.shields.io/github/last-commit/fbsamples/f8app)](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 - [Apollo React example for Github GraphQL API ![GitHub Repo Stars](https://img.shields.io/github/stars/katopz/react-apollo-graphql-github-example) ![GitHub last commit](https://img.shields.io/github/last-commit/katopz/react-apollo-graphql-github-example)](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app.
@@ -707,6 +707,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [WAF for graphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
 - [GraphQL Intruder ![GitHub Repo Stars](https://img.shields.io/github/stars/davinerd/gql_intruder) ![GitHub last commit](https://img.shields.io/github/last-commit/davinerd/gql_intruder)](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 - [GraphQL Cop ![GitHub Repo Stars](https://img.shields.io/github/stars/dolevf/graphql-cop) ![GitHub last commit](https://img.shields.io/github/last-commit/dolevf/graphql-cop)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+- [GraphQLer ![GitHub Repo Stars](https://img.shields.io/github/stars/omar2535/GraphQLer) ![GitHub last commit](https://img.shields.io/github/last-commit/omar2535/GraphQLer)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
 ### Tools - Browser Extensions
 
