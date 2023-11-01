@@ -264,6 +264,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. [GPL]
 * [miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [MIT]
 * [Minizip ![GitHub Repo Stars](https://img.shields.io/github/stars/nmoinvaz/minizip) ![GitHub last commit](https://img.shields.io/github/last-commit/nmoinvaz/minizip)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
+* [minizip-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/zlib-ng/minizip-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/zlib-ng/minizip-ng)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. [zlib]
 * [smaz ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/smaz) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/smaz)](https://github.com/antirez/smaz) - Small strings compression library. [BSD]
 * [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. [BSD]
 * [ZLib](http://zlib.net/) - A very compact compression library for data streams. [zlib]
