@@ -293,6 +293,7 @@
 - [AckslD/muren.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/AckslD/muren.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/AckslD/muren.nvim)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 - [windwp/nvim-spectre ![GitHub Repo Stars](https://img.shields.io/github/stars/windwp/nvim-spectre) ![GitHub last commit](https://img.shields.io/github/last-commit/windwp/nvim-spectre)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 - [nvimdev/hlsearch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/hlsearch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/hlsearch.nvim)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+- [mangelozzi/rgflow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 
 ## Fuzzy Finder
 
