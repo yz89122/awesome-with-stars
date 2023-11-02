@@ -108,6 +108,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [vrischmann/zig-cassandra ![GitHub Repo Stars](https://img.shields.io/github/stars/vrischmann/zig-cassandra) ![GitHub last commit](https://img.shields.io/github/last-commit/vrischmann/zig-cassandra)](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
 * [vrischmann/zig-sqlite ![GitHub Repo Stars](https://img.shields.io/github/stars/vrischmann/zig-sqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/vrischmann/zig-sqlite)](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper.
 * [karlseguin/zuckdb.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/zuckdb.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/zuckdb.zig)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+* [karlseguin/pg.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/pg.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/pg.zig)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 
 ## Editor plugins
