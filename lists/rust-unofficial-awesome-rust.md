@@ -1609,6 +1609,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 [[scripting](https://crates.io/keywords/scripting)]
 
+* [3body-lang ![GitHub Repo Stars](https://img.shields.io/github/stars/rustq/3body-lang) ![GitHub last commit](https://img.shields.io/github/last-commit/rustq/3body-lang)](https://github.com/rustq/3body-lang) - The Three Body Language written in Rust
 * [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. ![GitHub Repo Stars](https://img.shields.io/github/stars/sagiegurari/duckscript) ![GitHub last commit](https://img.shields.io/github/last-commit/sagiegurari/duckscript)](https://github.com/sagiegurari/duckscript) [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/sagiegurari/duckscript) ![GitHub last commit](https://img.shields.io/github/last-commit/sagiegurari/duckscript)](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 * [fleabitdev/gamelisp ![GitHub Repo Stars](https://img.shields.io/github/stars/fleabitdev/glsp) ![GitHub last commit](https://img.shields.io/github/last-commit/fleabitdev/glsp)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
 * [gluon-lang/gluon ![GitHub Repo Stars](https://img.shields.io/github/stars/gluon-lang/gluon) ![GitHub last commit](https://img.shields.io/github/last-commit/gluon-lang/gluon)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
