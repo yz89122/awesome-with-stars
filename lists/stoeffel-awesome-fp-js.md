@@ -168,7 +168,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [eslint-plugin-fp ![GitHub Repo Stars](https://img.shields.io/github/stars/jfmengels/eslint-plugin-fp) ![GitHub last commit](https://img.shields.io/github/last-commit/jfmengels/eslint-plugin-fp)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 * [4.5 ![GitHub Repo Stars](https://img.shields.io/github/stars/TylorS/4.5) ![GitHub last commit](https://img.shields.io/github/last-commit/TylorS/4.5)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-* [hm-def ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+* [hm-def ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) ��� Runtime type checking for JS with Hindley Milner signatures.
 * [ftor ![GitHub Repo Stars](https://img.shields.io/github/stars/kongware/ftor) ![GitHub last commit](https://img.shields.io/github/last-commit/kongware/ftor)](https://github.com/kongware/ftor) - A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding.
 
 ## Resources
