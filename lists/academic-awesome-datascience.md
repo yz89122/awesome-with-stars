@@ -1061,6 +1061,7 @@ Some data mining competition platforms
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes ![GitHub Repo Stars](https://img.shields.io/github/stars/alexeygrigorev/clothing-dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/alexeygrigorev/clothing-dataset)](https://github.com/alexeygrigorev/clothing-dataset)
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
+- [The Humanitarian Data Exchange](https://data.humdata.org/)
 
 ### Comics
 **[`^        back to top        ^`](#awesome-data-science)**
