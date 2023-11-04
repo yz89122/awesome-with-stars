@@ -277,7 +277,7 @@ Learn how to build a full-stack production ready note taking app using Serverles
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app.
 
 - [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-- [React](https://reactjs.org/) - [��](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - React components can be used on the client and server side.
+- [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - React components can be used on the client and server side.
 - [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/reduxjs/redux) ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/redux)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 - [electron-builder](https://www.electron.build) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/electron-userland/electron-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/electron-userland/electron-builder)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 
@@ -394,7 +394,7 @@ Hosted tools to use to analyze user behavior for a web app.
 The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 
 - [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
-- [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [�� ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
+- [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
 - [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cassandra) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cassandra)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
 ##### Resources
