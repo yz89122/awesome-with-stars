@@ -1049,7 +1049,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [pelusa ![GitHub Repo Stars](https://img.shields.io/github/stars/codegram/pelusa) ![GitHub last commit](https://img.shields.io/github/last-commit/codegram/pelusa)](https://github.com/codegram/pelusa) — Static analysis Lint-type tool to improve your OO Ruby code.
 
-- [quality ![GitHub Repo Stars](https://img.shields.io/github/stars/apiology/quality) ![GitHub last commit](https://img.shields.io/github/last-commit/apiology/quality)](https://github.com/apiology/quality) ��� Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
+- [quality ![GitHub Repo Stars](https://img.shields.io/github/stars/apiology/quality) ![GitHub last commit](https://img.shields.io/github/last-commit/apiology/quality)](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 
 - [Querly ![GitHub Repo Stars](https://img.shields.io/github/stars/soutaro/querly) ![GitHub last commit](https://img.shields.io/github/last-commit/soutaro/querly)](https://github.com/soutaro/querly) — Pattern Based Checking Tool for Ruby.
 
