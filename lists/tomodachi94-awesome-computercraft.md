@@ -202,6 +202,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Other lists
 
 - [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - An Awesome list specific to the Lua programming language.
+- [Awesome Switchcraft ![GitHub Repo Stars](https://img.shields.io/github/stars/aspen-reeves/awesome-switchcraft) ![GitHub last commit](https://img.shields.io/github/last-commit/aspen-reeves/awesome-switchcraft)](https://github.com/aspen-reeves/awesome-switchcraft) - An Awesome list specific to the Switchcraft server.
 - [Hengestone's list of languages which compile to Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/hengestone/lua-languages) ![GitHub last commit](https://img.shields.io/github/last-commit/hengestone/lua-languages)](https://github.com/hengestone/lua-languages/blob/master/README.md) -  A list of languages which compile to Lua.
 
 ## Resources
