@@ -294,6 +294,7 @@
 - [windwp/nvim-spectre ![GitHub Repo Stars](https://img.shields.io/github/stars/windwp/nvim-spectre) ![GitHub last commit](https://img.shields.io/github/last-commit/windwp/nvim-spectre)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 - [nvimdev/hlsearch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/hlsearch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/hlsearch.nvim)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 - [mangelozzi/rgflow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+- [duane9/nvim-rg ![GitHub Repo Stars](https://img.shields.io/github/stars/duane9/nvim-rg) ![GitHub last commit](https://img.shields.io/github/last-commit/duane9/nvim-rg)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
 ## Fuzzy Finder
 
@@ -306,6 +307,7 @@
 - [axkirillov/easypick.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/axkirillov/easypick.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/axkirillov/easypick.nvim)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 - [linrongbin16/fzfx.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/fzfx.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/fzfx.nvim)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
 - [echasnovski/mini.nvim#mini.pick ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+- [echasnovski/mini.nvim#mini.extra ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
 ## File Explorer
 
