@@ -359,6 +359,7 @@
 - [nvim-colortils/colortils.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-colortils/colortils.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-colortils/colortils.nvim)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 - [Mr-LLLLL/interestingwords.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/interestingwords.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/interestingwords.nvim)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 - [echasnovski/mini.nvim#mini.hipatterns ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
+- [miversen33/sunglasses.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/miversen33/sunglasses.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/miversen33/sunglasses.nvim)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 
 ## Colorscheme
 
@@ -741,6 +742,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Zeioth/compiler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/compiler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/compiler.nvim)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
 - [jaytyrrell13/static.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 - [dasupradyumna/launch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dasupradyumna/launch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dasupradyumna/launch.nvim)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+- [benlubas/molten-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/benlubas/molten-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/benlubas/molten-nvim)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
 ## Neovim Lua Development
 
