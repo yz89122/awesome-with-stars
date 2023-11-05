@@ -206,50 +206,24 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ## Tools
-Information about the various open source tools you can use to leverage fuzz testing.
-### General-purpose
-- [radamsa](https://gitlab.com/akihe/radamsa) - A general-purpose fuzzer.
-- [zzuf ![GitHub Repo Stars](https://img.shields.io/github/stars/samhocevar/zzuf) ![GitHub last commit](https://img.shields.io/github/last-commit/samhocevar/zzuf)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
-- [FireCracker ![GitHub Repo Stars](https://img.shields.io/github/stars/blst-security/firecracker) ![GitHub last commit](https://img.shields.io/github/last-commit/blst-security/firecracker)](https://github.com/blst-security/firecracker) - BLST CLI tool takes your HTTP logs, uses them to map your API flows and find risks.
-### Binary
-- [American Fuzzy Lop plus plus (AFL++) ![GitHub Repo Stars](https://img.shields.io/github/stars/AFLplusplus/AFLplusplus) ![GitHub last commit](https://img.shields.io/github/last-commit/AFLplusplus/AFLplusplus)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL. more speed, more and better mutations, more and better instrumentation, custom module support, etc. [paper](https://www.usenix.org/conference/woot20/presentation/fioraldi)
-- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - A security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary. 
-- [WinAFL ![GitHub Repo Stars](https://img.shields.io/github/stars/googleprojectzero/winafl) ![GitHub last commit](https://img.shields.io/github/last-commit/googleprojectzero/winafl)](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries.
-- [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - A library for coverage-guided fuzz testing. [Tutorial from Google. ![GitHub Repo Stars](https://img.shields.io/github/stars/google/fuzzer-test-suite) ![GitHub last commit](https://img.shields.io/github/last-commit/google/fuzzer-test-suite)](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
-- [Driller ![GitHub Repo Stars](https://img.shields.io/github/stars/shellphish/driller) ![GitHub last commit](https://img.shields.io/github/last-commit/shellphish/driller)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
-- [shellphish fuzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/shellphish/fuzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/shellphish/fuzzer)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
-- [Eclipser ![GitHub Repo Stars](https://img.shields.io/github/stars/SoftSec-KAIST/Eclipser) ![GitHub last commit](https://img.shields.io/github/last-commit/SoftSec-KAIST/Eclipser)](https://github.com/SoftSec-KAIST/Eclipser) - A binary-based fuzz testing tool that improves upon classic coverage-based fuzzing by leveraging a novel technique called grey-box concolic testing.
-- [Jazzer ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeIntelligenceTesting/jazzer) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeIntelligenceTesting/jazzer)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
-### Web, JavaScript
-- [jsfunfuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/MozillaSecurity/funfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/MozillaSecurity/funfuzz)](https://github.com/MozillaSecurity/funfuzz) - JavaScript engine fuzzers.
-- [IFuzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/vspandan/IFuzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/vspandan/IFuzzer)](https://github.com/vspandan/IFuzzer) - An Evolutionary Interpreter Fuzzer Using Genetic Programming.
-- [domato ![GitHub Repo Stars](https://img.shields.io/github/stars/googleprojectzero/domato) ![GitHub last commit](https://img.shields.io/github/last-commit/googleprojectzero/domato)](https://github.com/googleprojectzero/domato) - DOM fuzzer from [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
-- [fuzzilli ![GitHub Repo Stars](https://img.shields.io/github/stars/googleprojectzero/fuzzilli) ![GitHub last commit](https://img.shields.io/github/last-commit/googleprojectzero/fuzzilli)](https://github.com/googleprojectzero/fuzzilli) - A (coverage-)guided Javascript engine fuzzer, written by Samuel Groß.
-- [CodeAlchemist ![GitHub Repo Stars](https://img.shields.io/github/stars/SoftSec-KAIST/CodeAlchemist) ![GitHub last commit](https://img.shields.io/github/last-commit/SoftSec-KAIST/CodeAlchemist)](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript engine fuzzer, written by KAIST SoftSec Lab.
-- [test-each ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/test-each) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/test-each)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
-- [gremlins.js ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/gremlins.js) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/gremlins.js)](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript.
-### Network protocol
-- [dtls-fuzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/assist-project/dtls-fuzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/assist-project/dtls-fuzzer)](https://github.com/assist-project/dtls-fuzzer) - A Java tool which performs protocol state fuzzing of DTLS servers.
-- [T-Fuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/HexHive/T-Fuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/HexHive/T-Fuzz)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
-- [TLS-Attacker ![GitHub Repo Stars](https://img.shields.io/github/stars/RUB-NDS/TLS-Attacker) ![GitHub last commit](https://img.shields.io/github/last-commit/RUB-NDS/TLS-Attacker)](https://github.com/RUB-NDS/TLS-Attacker) - A Java-based framework for analyzing TLS libraries.
-- [DELTA ![GitHub Repo Stars](https://img.shields.io/github/stars/seungsoo-lee/DELTA) ![GitHub last commit](https://img.shields.io/github/last-commit/seungsoo-lee/DELTA)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
-- [boofuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/jtpereyda/boofuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/jtpereyda/boofuzz)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at http://boofuzz.readthedocs.io/, including nifty quickstart guides.
-- [LL-Fuzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/mit-ll/LL-Fuzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/mit-ll/LL-Fuzzer)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
-- [tlsfuzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/tomato42/tlsfuzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/tomato42/tlsfuzzer)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
-- [TumbleRF ![GitHub Repo Stars](https://img.shields.io/github/stars/riverloopsec/tumblerf) ![GitHub last commit](https://img.shields.io/github/last-commit/riverloopsec/tumblerf)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems. 
-- [PULSAR ![GitHub Repo Stars](https://img.shields.io/github/stars/hgascon/pulsar) ![GitHub last commit](https://img.shields.io/github/last-commit/hgascon/pulsar)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
-- [SPIKE ![GitHub Repo Stars](https://img.shields.io/github/stars/guilhermeferreira/spikepp) ![GitHub last commit](https://img.shields.io/github/last-commit/guilhermeferreira/spikepp)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
-- [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - Security testing of protocol implementations.
-- [MTF ![GitHub Repo Stars](https://img.shields.io/github/stars/artemiosv/etfa2015) ![GitHub last commit](https://img.shields.io/github/last-commit/artemiosv/etfa2015)](https://github.com/artemiosv/etfa2015) - A Modbus/TCP Fuzzer for testing internetworked industrial systems
-- [MTF-Storm ![GitHub Repo Stars](https://img.shields.io/github/stars/ntinosk-mtf/etfa2018) ![GitHub last commit](https://img.shields.io/github/last-commit/ntinosk-mtf/etfa2018)](https://github.com/ntinosk-mtf/etfa2018) - A high performance fuzzer for Modbus/TCP.
-- [Scapy ![GitHub Repo Stars](https://img.shields.io/github/stars/secdev/scapy) ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)](https://github.com/secdev/scapy) - Packet manipulation program & library. Can fuzz any protocol. See the `fuzz` function.
-### Driver
-- [Charm ![GitHub Repo Stars](https://img.shields.io/github/stars/trusslab/charm) ![GitHub last commit](https://img.shields.io/github/last-commit/trusslab/charm)](https://github.com/trusslab/charm) - A system solution that facilitates dynamic analysis of device drivers of mobile systems.
-## Platform
-- [certfuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/CERTCC/certfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/CERTCC/certfuzz)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
-- [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) - An automated security testing platform that prevents zero day attacks by finding vulnerabilities in hardware and software systems.
-- [Blackhat USA 2018 AFL workshop training materials ![GitHub Repo Stars](https://img.shields.io/github/stars/wrauner/afl-fuzzing-training) ![GitHub last commit](https://img.shields.io/github/last-commit/wrauner/afl-fuzzing-training)](https://github.com/wrauner/afl-fuzzing-training) - From @wrauner at Samsung Research.
-- [CI Fuzz](https://code-intelligence.com) - A CI/CD-agnostic platform for feedback-based fuzz testing of both native applications and Java web apps.
+Information about the various open source tools you can use to leverage fuzz testing. The items in this section have been organized and classified based on the standards set by the https://fuzzing-survey.org/ website. Although there are currently more than 35 categories, we have selected the most relevant ones to provide efficient information. Additionally, items that are outdated and deprecated have been excluded, and only those that are currently usable are listed.
+### File
+- [AFL++ ![GitHub Repo Stars](https://img.shields.io/github/stars/AFLplusplus/AFLplusplus) ![GitHub last commit](https://img.shields.io/github/last-commit/AFLplusplus/AFLplusplus)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+- [Angora ![GitHub Repo Stars](https://img.shields.io/github/stars/AngoraFuzzer/Angora) ![GitHub last commit](https://img.shields.io/github/last-commit/AngoraFuzzer/Angora)](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
+### Kernel
+### Network
+### API
+### JavaScript
+### Firmware
+### Hypervisor
+### CPU
+### Lib
+### Argument
+### DOM
+### UI
+### Blockchain
+### AI
+
 
 ## Contribute
 
