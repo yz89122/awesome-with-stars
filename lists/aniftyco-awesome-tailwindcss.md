@@ -243,7 +243,7 @@
 - 💼 [Impulse.dev](https://impulse.dev) – UI editor for Tailwind CSS and React that edits your code.
 - 💼 [Tailiscope.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/danielvolchek/tailiscope.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/danielvolchek/tailiscope.nvim)](https://github.com/danielvolchek/tailiscope.nvim) - Tailwind CSS cheat sheet integrated in Neovim.
 - 💼🌍 [Supertweak](https://supertweak.dev) - Visual devtools for Tailwind CSS.
-- 💼 [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
+- ���� [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
 - 💼 [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in Raycast Launcher.
 - 💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
 - 🔧 [re-tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/phthhieu/re-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/phthhieu/re-tailwind)](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
@@ -304,7 +304,7 @@
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
-- 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
+- ���� [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
 - 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
@@ -370,7 +370,7 @@
 - 🚀 [ParcelJS + TypeScript Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-parceljs-typescript-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-parceljs-typescript-boilerplate)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🚀 [VuePress Tailwind CSS Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaoluoboding/vuepress-tailwind-theme-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoluoboding/vuepress-tailwind-theme-starter)](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🚀 [Gatsby Serif ![GitHub Repo Stars](https://img.shields.io/github/stars/windedge/gatsby-tailwind-serif) ![GitHub last commit](https://img.shields.io/github/last-commit/windedge/gatsby-tailwind-serif)](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
-- ���� [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
+- 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 - 🚀 [Eleventy Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Eleventy-Starter-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Eleventy-Starter-Boilerplate)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 - 🚀 [Vite + React + Tailwind Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/vite-react-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/vite-react-tailwind-starter)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 - 🚀 [Vite + React + TypeScript + Tailwind 3.x starter ![GitHub Repo Stars](https://img.shields.io/github/stars/PDMLab/vite-react-typescript-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/PDMLab/vite-react-typescript-tailwind-starter)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
