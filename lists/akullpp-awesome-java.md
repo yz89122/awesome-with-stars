@@ -463,6 +463,7 @@ _Frameworks that support the development of games._
 _Libraries for working with geospatial data and algorithms._
 
 - [Apache SIS](https://sis.apache.org) - Library for developing geospatial applications.
+- [ArcGIS Maps SDK for Java ![c]](https://github.com/Esri/arcgis-maps-sdk-java-samples/) - JavaFX library for adding mapping and GIS functionality to desktop apps.
 - [Geo ![GitHub Repo Stars](https://img.shields.io/github/stars/davidmoten/geo) ![GitHub last commit](https://img.shields.io/github/last-commit/davidmoten/geo)](https://github.com/davidmoten/geo) - GeoHash utilities in Java.
 - [GeoTools](https://geotools.org) - Library that provides tools for geospatial data. (LGPL-2.1-only)
 - [GraphHopper ![GitHub Repo Stars](https://img.shields.io/github/stars/graphhopper/graphhopper) ![GitHub last commit](https://img.shields.io/github/last-commit/graphhopper/graphhopper)](https://github.com/graphhopper/graphhopper) - Road-routing engine. Used as a Java library or standalone web service.
@@ -626,6 +627,7 @@ _Tools that provide specific statistical algorithms for learning from data._
 - [Intelligent java ![GitHub Repo Stars](https://img.shields.io/github/stars/Barqawiz/IntelliJava) ![GitHub last commit](https://img.shields.io/github/last-commit/Barqawiz/IntelliJava)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
 - [JSAT ![GitHub Repo Stars](https://img.shields.io/github/stars/EdwardRaff/JSAT) ![GitHub last commit](https://img.shields.io/github/last-commit/EdwardRaff/JSAT)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 - [m2cgen ![GitHub Repo Stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
+- [Neureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Gleethos/neureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Gleethos/neureka)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
 - [oj! Algorithms](https://www.ojalgo.org/) - High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
 - [Oryx 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/OryxProject/oryx) ![GitHub last commit](https://img.shields.io/github/last-commit/OryxProject/oryx)](https://github.com/OryxProject/oryx) - Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
 - [Siddhi ![GitHub Repo Stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi) - Cloud native streaming and complex event processing engine.
