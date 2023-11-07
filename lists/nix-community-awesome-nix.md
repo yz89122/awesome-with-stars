@@ -147,6 +147,7 @@
 * [pre-commit-hooks.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/cachix/pre-commit-hooks.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/cachix/pre-commit-hooks.nix)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/rnix-lsp) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/rnix-lsp)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix ![GitHub Repo Stars](https://img.shields.io/github/stars/danielfullmer/robotnix) ![GitHub last commit](https://img.shields.io/github/last-commit/danielfullmer/robotnix)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+* [Snowfall Lib ![GitHub Repo Stars](https://img.shields.io/github/stars/snowfallorg/lib) ![GitHub last commit](https://img.shields.io/github/last-commit/snowfallorg/lib)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 
 ## DevOps
 
