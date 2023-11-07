@@ -343,6 +343,7 @@
 - [gnikdroy/projections.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gnikdroy/projections.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gnikdroy/projections.nvim)](https://github.com/gnikdroy/projections.nvim) - Tiny project + session manager.
 - [nyngwang/suave.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/nyngwang/suave.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/nyngwang/suave.lua)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 - [desdic/telescope-rooter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/telescope-rooter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/telescope-rooter.nvim)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
+- [SalOrak/whaler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SalOrak/whaler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SalOrak/whaler.nvim)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 
 ## Color
 
