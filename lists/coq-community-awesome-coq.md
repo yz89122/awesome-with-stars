@@ -201,6 +201,7 @@ Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](ht
 - [Tarjan and Kosaraju ![GitHub Repo Stars](https://img.shields.io/github/stars/math-comp/tarjan) ![GitHub last commit](https://img.shields.io/github/last-commit/math-comp/tarjan)](https://github.com/math-comp/tarjan) - Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.
 - [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 - [Verdi Raft ![GitHub Repo Stars](https://img.shields.io/github/stars/uwplse/verdi-raft) ![GitHub last commit](https://img.shields.io/github/last-commit/uwplse/verdi-raft)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
+- [WasmCert-Coq ![GitHub Repo Stars](https://img.shields.io/github/stars/WasmCert/WasmCert-Coq) ![GitHub last commit](https://img.shields.io/github/last-commit/WasmCert/WasmCert-Coq)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
 
 ## Resources
 
@@ -231,10 +232,9 @@ Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](ht
 - [Coq Exchange: ideas and experiment reports about Coq](https://project.inria.fr/coqexchange/news/)
 - [Gagallium](http://gallium.inria.fr/blog)
 - [Gregory Malecha's blog](https://gmalecha.github.io)
-- [Guillaume Claret's Coq blog](http://coq-blog.clarus.me)
 - [Joachim Breitner's blog posts on Coq](http://www.joachim-breitner.de/blog/tag/Coq)
 - [Lysxia's blog](https://blog.poisson.chat)
-- [MIT PLV blog posts on Coq](https://plv.csail.mit.edu/blog/category/coq.html)
+- [MIT PLV blog posts on Coq](http://plv.csail.mit.edu/blog/category/coq.html)
 - [PLClub Blog](https://www.seas.upenn.edu/~plclub/blog/)
 - [Poleiro: a Coq blog by Arthur Azevedo de Amorim](http://poleiro.info)
 - [Ralf Jung's blog posts on Coq](https://www.ralfj.de/blog/categories/coq.html)
