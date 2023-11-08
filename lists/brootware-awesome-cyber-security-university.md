@@ -77,7 +77,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 2 - Tooling
 
 * [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-* [Nmap](<https://tryhackme.com/room/rpnmap>) - Get experience with Nmap, a powerful network scanning tool.
+* [Nmap,Curl and Netcat](<https://echoctf.red/challenge/1>) - Get experience with Nmap, Curl and Netcat for network communications.
 * [Web Scanning](<https://tryhackme.com/room/rpwebscanning>) - Learn the basics of automated web scanning.
 * [Sublist3r](<https://tryhackme.com/room/rpsublist3r>) - Learn how to find subdomains with Sublist3r.
 * [Metasploit](<https://tryhackme.com/room/rpmetasploit>) - An introduction to the main components of the Metasploit Framework.
@@ -202,7 +202,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 [↑](#contents)
 <!--lint enable double-link-->
 
-### Level 3 - Beginner Forensics & Cryptography
+### Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 * [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>) - Beginner file analysis challenge.
 * [The Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>) - Beginner image analysis challenge.
@@ -214,7 +214,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Illumination](<https://app.hackthebox.com/challenges/illumination>) - Medium level forensics challenge.
 * [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium level forensics challenge.
 * [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
-* [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge.
+* [Intel101 Challenge](<https://cyberdefenders.org/blueteam-ctf-challenges/38>) - Medium level Threat Intel challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
 <!--lint disable double-link-->
