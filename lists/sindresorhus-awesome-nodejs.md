@@ -89,6 +89,10 @@
 		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 	</p>
 	<br>
+	<a href="https://t.me/sindresorhuschat/3">Telegram group</a>
+	<br>
+	<br>
+	<br>
 	<p>
 		<a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> is an open-source, cross-platform, JavaScript runtime for writing servers and command-line tools.
 	</p>
@@ -222,7 +226,6 @@
 - [license-checker ![GitHub Repo Stars](https://img.shields.io/github/stars/davglass/license-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/davglass/license-checker)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run ![GitHub Repo Stars](https://img.shields.io/github/stars/juliangruber/browser-run) ![GitHub last commit](https://img.shields.io/github/last-commit/juliangruber/browser-run)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [tmpin ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/tmpin) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/tmpin)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [wifi-password ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/wifi-password-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/wifi-password-cli)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/wallpaper) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/wallpaper)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [pen ![GitHub Repo Stars](https://img.shields.io/github/stars/hatashiro/pen) ![GitHub last commit](https://img.shields.io/github/last-commit/hatashiro/pen)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
 - [dark-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/dark-mode)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
@@ -334,7 +337,7 @@
 - [Bit ![GitHub Repo Stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string ![GitHub Repo Stars](https://img.shields.io/github/stars/bokub/gradient-string) ![GitHub last commit](https://img.shields.io/github/last-commit/bokub/gradient-string)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 - [oclif ![GitHub Repo Stars](https://img.shields.io/github/stars/oclif/oclif) ![GitHub last commit](https://img.shields.io/github/last-commit/oclif/oclif)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
-- [term-size ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/term-size) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/term-size)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+- [terminal-size ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/terminal-size) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/terminal-size)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 - [Cliffy ![GitHub Repo Stars](https://img.shields.io/github/stars/drew-y/cliffy) ![GitHub last commit](https://img.shields.io/github/last-commit/drew-y/cliffy)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 - [zx ![GitHub Repo Stars](https://img.shields.io/github/stars/google/zx) ![GitHub last commit](https://img.shields.io/github/last-commit/google/zx)](https://github.com/google/zx) - Write shell scripts JavaScript.
 
@@ -406,7 +409,6 @@
 
 - [del ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/del) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/del)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 - [globby ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/globby) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/globby)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
-- [cpy ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/cpy) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/cpy)](https://github.com/sindresorhus/cpy) - Copy files.
 - [chokidar ![GitHub Repo Stars](https://img.shields.io/github/stars/paulmillr/chokidar) ![GitHub last commit](https://img.shields.io/github/last-commit/paulmillr/chokidar)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 - [find-up ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/find-up) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/find-up)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
 - [proper-lockfile ![GitHub Repo Stars](https://img.shields.io/github/stars/moxystudio/node-proper-lockfile) ![GitHub last commit](https://img.shields.io/github/last-commit/moxystudio/node-proper-lockfile)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
@@ -414,7 +416,6 @@
 - [write-json-file ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/write-json-file) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/write-json-file)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 - [fs-write-stream-atomic ![GitHub Repo Stars](https://img.shields.io/github/stars/npm/fs-write-stream-atomic) ![GitHub last commit](https://img.shields.io/github/last-commit/npm/fs-write-stream-atomic)](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
 - [filenamify ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/filenamify) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/filenamify)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-- [lnfs ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/lnfs) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/lnfs)](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [istextorbinary ![GitHub Repo Stars](https://img.shields.io/github/stars/bevry/istextorbinary) ![GitHub last commit](https://img.shields.io/github/last-commit/bevry/istextorbinary)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack ![GitHub Repo Stars](https://img.shields.io/github/stars/szwacz/fs-jetpack) ![GitHub last commit](https://img.shields.io/github/last-commit/szwacz/fs-jetpack)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra ![GitHub Repo Stars](https://img.shields.io/github/stars/jprichardson/node-fs-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/jprichardson/node-fs-extra)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
@@ -471,12 +472,12 @@
 ### Image
 
 - [sharp ![GitHub Repo Stars](https://img.shields.io/github/stars/lovell/sharp) ![GitHub last commit](https://img.shields.io/github/last-commit/lovell/sharp)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-- [image-type ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/image-type) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/image-type)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+- [image-type ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/image-type) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/image-type)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
+- [image-dimensions ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/image-dimensions) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/image-dimensions)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 - [gm ![GitHub Repo Stars](https://img.shields.io/github/stars/aheckmann/gm) ![GitHub last commit](https://img.shields.io/github/last-commit/aheckmann/gm)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip ![GitHub Repo Stars](https://img.shields.io/github/stars/EyalAr/lwip) ![GitHub last commit](https://img.shields.io/github/last-commit/EyalAr/lwip)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica ![GitHub Repo Stars](https://img.shields.io/github/stars/nodeca/pica) ![GitHub last commit](https://img.shields.io/github/last-commit/nodeca/pica)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 - [jimp ![GitHub Repo Stars](https://img.shields.io/github/stars/oliver-moran/jimp) ![GitHub last commit](https://img.shields.io/github/last-commit/oliver-moran/jimp)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
-- [probe-image-size ![GitHub Repo Stars](https://img.shields.io/github/stars/nodeca/probe-image-size) ![GitHub last commit](https://img.shields.io/github/last-commit/nodeca/probe-image-size)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 - [qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/soldair/node-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/soldair/node-qrcode)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 - [ImageScript ![GitHub Repo Stars](https://img.shields.io/github/stars/matmen/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/matmen/ImageScript)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
@@ -585,7 +586,6 @@
 - [Archiver ![GitHub Repo Stars](https://img.shields.io/github/stars/archiverjs/node-archiver) ![GitHub last commit](https://img.shields.io/github/last-commit/archiverjs/node-archiver)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 - [pako ![GitHub Repo Stars](https://img.shields.io/github/stars/nodeca/pako) ![GitHub last commit](https://img.shields.io/github/last-commit/nodeca/pako)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 - [tar-stream ![GitHub Repo Stars](https://img.shields.io/github/stars/mafintosh/tar-stream) ![GitHub last commit](https://img.shields.io/github/last-commit/mafintosh/tar-stream)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs ![GitHub Repo Stars](https://img.shields.io/github/stars/mafintosh/tar-fs) ![GitHub last commit](https://img.shields.io/github/last-commit/mafintosh/tar-fs)](https://github.com/mafintosh/tar-fs).
-- [decompress ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/decompress) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/decompress)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Network
 
@@ -811,7 +811,6 @@
 - [adit ![GitHub Repo Stars](https://img.shields.io/github/stars/markelog/adit) ![GitHub last commit](https://img.shields.io/github/last-commit/markelog/adit)](https://github.com/markelog/adit) - SSH tunneling made simple.
 - [file-type ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/file-type) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/file-type)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck ![GitHub Repo Stars](https://img.shields.io/github/stars/SGrondin/bottleneck) ![GitHub last commit](https://img.shields.io/github/last-commit/SGrondin/bottleneck)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-- [ow ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/ow) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/ow)](https://github.com/sindresorhus/ow) - Function argument validation for humans.
 - [webworker-threads ![GitHub Repo Stars](https://img.shields.io/github/stars/audreyt/node-webworker-threads) ![GitHub last commit](https://img.shields.io/github/last-commit/audreyt/node-webworker-threads)](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [clipboardy ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/clipboardy) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/clipboardy)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [node-pre-gyp ![GitHub Repo Stars](https://img.shields.io/github/stars/mapbox/node-pre-gyp) ![GitHub last commit](https://img.shields.io/github/last-commit/mapbox/node-pre-gyp)](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
@@ -823,7 +822,6 @@
 - [jsdom ![GitHub Repo Stars](https://img.shields.io/github/stars/jsdom/jsdom) ![GitHub last commit](https://img.shields.io/github/last-commit/jsdom/jsdom)](https://github.com/jsdom/jsdom) - JavaScript implementation of HTML and the DOM.
 - [@sindresorhus/is ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/is) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/is)](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop ![GitHub Repo Stars](https://img.shields.io/github/stars/simonepri/env-dot-prop) ![GitHub last commit](https://img.shields.io/github/last-commit/simonepri/env-dot-prop)](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
-- [emittery ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/emittery) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/emittery)](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [node-video-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/gkozlenko/node-video-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/gkozlenko/node-video-lib)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 - [basic-ftp ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickjuchli/basic-ftp) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickjuchli/basic-ftp)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
 - [cashify ![GitHub Repo Stars](https://img.shields.io/github/stars/xxczaki/cashify) ![GitHub last commit](https://img.shields.io/github/last-commit/xxczaki/cashify)](https://github.com/xxczaki/cashify) - Currency conversion.
@@ -832,6 +830,7 @@
 - [patch-package ![GitHub Repo Stars](https://img.shields.io/github/stars/ds300/patch-package) ![GitHub last commit](https://img.shields.io/github/last-commit/ds300/patch-package)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 - [editly ![GitHub Repo Stars](https://img.shields.io/github/stars/mifi/editly) ![GitHub last commit](https://img.shields.io/github/last-commit/mifi/editly)](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/wild-wild-path) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/wild-wild-path)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+- [uint8array-extras ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/uint8array-extras) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/uint8array-extras)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
 ## Package Manager
 
