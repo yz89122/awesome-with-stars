@@ -162,6 +162,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. [Apache-2.0] [website](https://amplitudeaudiosdk.com)
 * [Aubio ![GitHub Repo Stars](https://img.shields.io/github/stars/aubio/aubio) ![GitHub last commit](https://img.shields.io/github/last-commit/aubio/aubio)](https://github.com/aubio/aubio) - A library for audio and music analysis.[GPL-3.0] [website](https://aubio.org/)
 * [AudioFile ![GitHub Repo Stars](https://img.shields.io/github/stars/adamstark/AudioFile) ![GitHub last commit](https://img.shields.io/github/last-commit/adamstark/AudioFile)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
 * [audioFlux ![GitHub Repo Stars](https://img.shields.io/github/stars/libAudioFlux/audioFlux) ![GitHub last commit](https://img.shields.io/github/last-commit/libAudioFlux/audioFlux)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
@@ -493,6 +494,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. [FTL & GPLv2]
 * [otfcc ![GitHub Repo Stars](https://img.shields.io/github/stars/caryll/otfcc) ![GitHub last commit](https://img.shields.io/github/last-commit/caryll/otfcc)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 * [harfbuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. [Old MIT]
+* [libschrift ![GitHub Repo Stars](https://img.shields.io/github/stars/tomolt/libschrift) ![GitHub last commit](https://img.shields.io/github/last-commit/tomolt/libschrift)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. [ISC]
 
 ## Game Engine
 
