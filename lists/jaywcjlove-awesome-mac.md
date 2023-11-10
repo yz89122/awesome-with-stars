@@ -508,6 +508,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 *  [Sequel Ace ![GitHub Repo Stars](https://img.shields.io/github/stars/Sequel-Ace/Sequel-Ace) ![GitHub last commit](https://img.shields.io/github/last-commit/Sequel-Ace/Sequel-Ace)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software][oss icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [SQLight](https://aurvan.com/sqlight/) - SQLite database manager tool. ![Freeware][Freeware Icon]
 * [SQLPro Studio](http://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
+* [Studio 3T](https://studio3t.com/) - the Ultimate GUI for MongoDB. ![Freeware][Freeware Icon]
 * [SurrealDB ![GitHub Repo Stars](https://img.shields.io/github/stars/surrealdb/surrealdb) ![GitHub last commit](https://img.shields.io/github/last-commit/surrealdb/surrealdb)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
 * [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured. [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon]
