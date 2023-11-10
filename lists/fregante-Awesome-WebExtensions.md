@@ -78,7 +78,6 @@ Apps that help you manage your extensions.
 
 - [browser-extension-template ![GitHub Repo Stars](https://img.shields.io/github/stars/fregante/browser-extension-template) ![GitHub last commit](https://img.shields.io/github/last-commit/fregante/browser-extension-template)](https://github.com/fregante/browser-extension-template) - Barebones boilerplate with parcel, options handler and auto-publishing.
 - [create-webextension ![GitHub Repo Stars](https://img.shields.io/github/stars/rpl/create-webextension) ![GitHub last commit](https://img.shields.io/github/last-commit/rpl/create-webextension)](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
-- [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-web-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/webextension-toolbox/generator-web-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/webextension-toolbox/generator-web-extension)](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [vue-web-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/Kocal/vue-web-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/Kocal/vue-web-extension)](https://github.com/Kocal/vue-web-extension) - A Vue CLI 3+ preset for quickly starting a web extension with Vue, Babel, ESLint and more!
 
