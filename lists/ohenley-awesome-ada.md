@@ -192,7 +192,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-- [ada-europe](https://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
+- [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association's principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
@@ -731,7 +731,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Misc
 - [dhondt ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/dhondt) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/dhondt)](https://github.com/simonjwright/dhondt) - Ada implementation of D'Hondt electoral result calculator.
 - [whitakers-words ![GitHub Repo Stars](https://img.shields.io/github/stars/mk270/whitakers-words) ![GitHub last commit](https://img.shields.io/github/last-commit/mk270/whitakers-words)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
-- [ada-chess](https://www.adachess.com/) - Chess engine written in Ada.
+- [ada-chess ![GitHub Repo Stars](https://img.shields.io/github/stars/adachess/AdaChess) ![GitHub last commit](https://img.shields.io/github/last-commit/adachess/AdaChess)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 - [adage ![GitHub Repo Stars](https://img.shields.io/github/stars/atalii/adage) ![GitHub last commit](https://img.shields.io/github/last-commit/atalii/adage)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
 ## Bindings
