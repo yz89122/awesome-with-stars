@@ -90,6 +90,7 @@
 - [whisper-standalone-win ![GitHub Repo Stars](https://img.shields.io/github/stars/Purfview/whisper-standalone-win) ![GitHub last commit](https://img.shields.io/github/last-commit/Purfview/whisper-standalone-win)](https://github.com/Purfview/whisper-standalone-win) - Standalone Windows executable for Whisper and Faster Whisper.
 - [whisper-ctranslate2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2) ![GitHub last commit](https://img.shields.io/github/last-commit/Softcatala/whisper-ctranslate2)](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command-line tool based on CTranslate2, compatible with the original.
 - [insanely-fast-whisper-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ochen1/insanely-fast-whisper-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ochen1/insanely-fast-whisper-cli)](https://github.com/ochen1/insanely-fast-whisper-cli) - Achieve transcription speeds near 30x real-time with several optimizations.
+- [whisper-diarization ![GitHub Repo Stars](https://img.shields.io/github/stars/MahmoudAshraf97/whisper-diarization) ![GitHub last commit](https://img.shields.io/github/last-commit/MahmoudAshraf97/whisper-diarization)](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic speech recognition with speaker diarization.
 
 ## Playgrounds
 
