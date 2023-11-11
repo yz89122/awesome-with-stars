@@ -178,7 +178,7 @@
 
 ## Tools
 
-**Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
+**Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · �� Color-related · 🚀 Framework
 
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
