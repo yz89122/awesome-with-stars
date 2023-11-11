@@ -44,6 +44,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ion ![GitHub Repo Stars](https://img.shields.io/github/stars/redox-os/ion) ![GitHub last commit](https://img.shields.io/github/last-commit/redox-os/ion)](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ksh93 ![GitHub Repo Stars](https://img.shields.io/github/stars/att/ast) ![GitHub last commit](https://img.shields.io/github/last-commit/att/ast)](https://github.com/att/ast) - Korn Shell
 * [mksh ![GitHub Repo Stars](https://img.shields.io/github/stars/MirBSD/mksh) ![GitHub last commit](https://img.shields.io/github/last-commit/MirBSD/mksh)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [murex ![GitHub Repo Stars](https://img.shields.io/github/stars/lmorg/murex) ![GitHub last commit](https://img.shields.io/github/last-commit/lmorg/murex)](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * [ngs ![GitHub Repo Stars](https://img.shields.io/github/stars/ngs-lang/ngs) ![GitHub last commit](https://img.shields.io/github/last-commit/ngs-lang/ngs)](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 * [nushell ![GitHub Repo Stars](https://img.shields.io/github/stars/nushell/nushell) ![GitHub last commit](https://img.shields.io/github/last-commit/nushell/nushell)](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [oksh ![GitHub Repo Stars](https://img.shields.io/github/stars/ibara/oksh) ![GitHub last commit](https://img.shields.io/github/last-commit/ibara/oksh)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
@@ -145,7 +146,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [usql ![GitHub Repo Stars](https://img.shields.io/github/stars/xo/usql) ![GitHub last commit](https://img.shields.io/github/last-commit/xo/usql)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [v ![GitHub Repo Stars](https://img.shields.io/github/stars/rupa/v) ![GitHub last commit](https://img.shields.io/github/last-commit/rupa/v)](https://github.com/rupa/v) - z for vim.
 * [wemux ![GitHub Repo Stars](https://img.shields.io/github/stars/zolrath/wemux) ![GitHub last commit](https://img.shields.io/github/last-commit/zolrath/wemux)](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
-* [xiki](https://xiki.org) - Makes the shell console more friendly and powerful
+* [xiki ![GitHub Repo Stars](https://img.shields.io/github/stars/trogdoro/xiki) ![GitHub last commit](https://img.shields.io/github/last-commit/trogdoro/xiki)](https://github.com/trogdoro/xiki) - Makes the shell console more friendly and powerful
 * [xplr ![GitHub Repo Stars](https://img.shields.io/github/stars/sayanarijit/xplr) ![GitHub last commit](https://img.shields.io/github/last-commit/sayanarijit/xplr)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv ![GitHub Repo Stars](https://img.shields.io/github/stars/BurntSushi/xsv) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/xsv)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh ![GitHub Repo Stars](https://img.shields.io/github/stars/xxh/xxh) ![GitHub last commit](https://img.shields.io/github/last-commit/xxh/xxh)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
@@ -286,7 +287,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shell2http ![GitHub Repo Stars](https://img.shields.io/github/stars/msoap/shell2http) ![GitHub last commit](https://img.shields.io/github/last-commit/msoap/shell2http)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [vesper ![GitHub Repo Stars](https://img.shields.io/github/stars/chris-rock/vesper) ![GitHub last commit](https://img.shields.io/github/last-commit/chris-rock/vesper)](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
 * [xh ![GitHub Repo Stars](https://img.shields.io/github/stars/ducaale/xh) ![GitHub last commit](https://img.shields.io/github/last-commit/ducaale/xh)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-* [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites
+* [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 
@@ -439,7 +440,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 # Guides
 
 * [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-* [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
+* [Bash Hackers Wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
   Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
