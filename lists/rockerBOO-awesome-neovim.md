@@ -560,6 +560,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [henriquehbr/nvim-startup.lua](https://sr.ht/~henriquehbr/nvim-startup.lua) - Displays Neovim startup time.
 - [startup-nvim/startup.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/startup-nvim/startup.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/startup-nvim/startup.nvim)](https://github.com/startup-nvim/startup.nvim) - The fully customizable greeter for neovim.
 - [willothy/veil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/willothy/veil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/willothy/veil.nvim)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
+- [TobinPalmer/Tip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TobinPalmer/Tip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TobinPalmer/Tip.nvim)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ## Icon
 
