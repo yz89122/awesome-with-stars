@@ -261,6 +261,7 @@
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
 - [VueJS Kenya - Twitter Account](https://twitter.com/KenyaVue)
 - [VueJS Magyar - Facebook Group [Hungarian]](https://www.facebook.com/groups/huvuejs/)
+- [VueJS Bangladesh - Facebook Group] (https://www.facebook.com/groups/764064325433370)
 
 ### Conferences
 
@@ -650,12 +651,11 @@
 - [Customizable Vue video chat app ![GitHub Repo Stars](https://img.shields.io/github/stars/daily-demos/vue-call-object) ![GitHub last commit](https://img.shields.io/github/last-commit/daily-demos/vue-call-object)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 - [Vue3-Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/cerino-ligutom/Vue3-Starter) ![GitHub last commit](https://img.shields.io/github/last-commit/cerino-ligutom/Vue3-Starter)](https://github.com/cerino-ligutom/Vue3-Starter) A boilerplate with an opinion on how to structure your files/folders with a few examples such as **Vue Router** navigation guards, theming with **TailwindCSS**, form validation w/ **Vuelidate**, localization with **Fluent**, etc.
 - [Text Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/devisasari/text-editor-vue-3) ![GitHub last commit](https://img.shields.io/github/last-commit/devisasari/text-editor-vue-3)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
-- [Vue 3 + Laravel v9 - Boilerplate / Starter kit ![GitHub Repo Stars](https://img.shields.io/github/stars/fsgreco/vue3-laravel-api) ![GitHub last commit](https://img.shields.io/github/last-commit/fsgreco/vue3-laravel-api)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**. 
+- [Vue 3 + Laravel v9 - Boilerplate / Starter kit ![GitHub Repo Stars](https://img.shields.io/github/stars/fsgreco/vue3-laravel-api) ![GitHub last commit](https://img.shields.io/github/last-commit/fsgreco/vue3-laravel-api)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
 - [h5 ![GitHub Repo Stars](https://img.shields.io/github/stars/gyt95/h5) ![GitHub last commit](https://img.shields.io/github/last-commit/gyt95/h5)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
-- [Vitesse Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)  
-- [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+- [Vitesse Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+- [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺��� Lightweight version of Vitesse (Vue 3 Starter)
 - [vue-plugin-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/selimdoyranli/vue-plugin-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/selimdoyranli/vue-plugin-boilerplate)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
-
 
 ### Books
 
@@ -943,6 +943,7 @@
 - [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
 - [starfish-vue3-lowcode ![GitHub Repo Stars](https://img.shields.io/github/stars/haixin-fang/starfish-vue3-lowcode) ![GitHub last commit](https://img.shields.io/github/last-commit/haixin-fang/starfish-vue3-lowcode)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
+- [Al Quran App-Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/monayemislam/Al-Quran-Using-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/monayemislam/Al-Quran-Using-Vue)](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
 
 ### Commercial Products
 
@@ -1182,13 +1183,14 @@
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
-- [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students. 
+- [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students.
 - [Gradientos](https://www.gradientos.app) - Gradientos makes finding gradients easy.
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
-- [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs 
+- [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
 - [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
 - [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
 - [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
+- [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
 
 ### Interactive Experiences
 
@@ -1494,7 +1496,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 #### Icons
 
 - [vue-awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Justineo/vue-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/Justineo/vue-awesome)](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
-- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 - [vue-icon-font ![GitHub Repo Stars](https://img.shields.io/github/stars/ganl/vue-icon-font) ![GitHub last commit](https://img.shields.io/github/last-commit/ganl/vue-icon-font)](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).
 - [vue-ionicons ![GitHub Repo Stars](https://img.shields.io/github/stars/mazipan/vue-ionicons) ![GitHub last commit](https://img.shields.io/github/last-commit/mazipan/vue-ionicons)](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
 - [vue-ico ![GitHub Repo Stars](https://img.shields.io/github/stars/paulcollett/vue-ico) ![GitHub last commit](https://img.shields.io/github/last-commit/paulcollett/vue-ico)](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling
@@ -1992,7 +1994,7 @@ _Display non-editable events in a Calendar_
 - [vite-plugin-vue-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/liting-yes/vite-plugin-vue-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/liting-yes/vite-plugin-vue-preview)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
 - [vue3-calendar-heatmap ![GitHub Repo Stars](https://img.shields.io/github/stars/razorness/vue3-calendar-heatmap) ![GitHub last commit](https://img.shields.io/github/last-commit/razorness/vue3-calendar-heatmap)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 - [vue3-code-block ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vue3-code-block) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vue3-code-block)](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
-- [v-image-magnifier ![GitHub Repo Stars](https://img.shields.io/github/stars/fchancel/v-image-magnifier) ![GitHub last commit](https://img.shields.io/github/last-commit/fchancel/v-image-magnifier)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image. 
+- [v-image-magnifier ![GitHub Repo Stars](https://img.shields.io/github/stars/fchancel/v-image-magnifier) ![GitHub last commit](https://img.shields.io/github/last-commit/fchancel/v-image-magnifier)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
 - [Everright-filter ![GitHub Repo Stars](https://img.shields.io/github/stars/Liberty-liu/Everright-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/Liberty-liu/Everright-filter)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 - [@kolirt/vue-web3-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/kolirt/vue-web3-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/kolirt/vue-web3-auth)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
@@ -2212,7 +2214,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-tristate-checkbox ![GitHub Repo Stars](https://img.shields.io/github/stars/hartwork/vue-tristate-checkbox) ![GitHub last commit](https://img.shields.io/github/last-commit/hartwork/vue-tristate-checkbox)](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission
 - [vue-toggles ![GitHub Repo Stars](https://img.shields.io/github/stars/juliandreas/vue-toggles) ![GitHub last commit](https://img.shields.io/github/last-commit/juliandreas/vue-toggles)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 - [@vueform/toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/vueform/toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/vueform/toggle)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
-- [vue-collapsed ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/vue-collapsed) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/vue-collapsed)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready. 
+- [vue-collapsed ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/vue-collapsed) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/vue-collapsed)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
 
 ##### Masked Input
 
@@ -2291,7 +2293,7 @@ _Display images_
 - [vue-image-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/guastallaigor/vue-image-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/guastallaigor/vue-image-kit)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
 - [vue-preview-imgs ![GitHub Repo Stars](https://img.shields.io/github/stars/hzpeng57/vue-preview-imgs) ![GitHub last commit](https://img.shields.io/github/last-commit/hzpeng57/vue-preview-imgs)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 - [awesome-image ![GitHub Repo Stars](https://img.shields.io/github/stars/newbeea/awesome-image) ![GitHub last commit](https://img.shields.io/github/last-commit/newbeea/awesome-image)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
-- [TwicPics ![GitHub Repo Stars](https://img.shields.io/github/stars/TwicPics/components) ![GitHub last commit](https://img.shields.io/github/last-commit/TwicPics/components)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.  
+- [TwicPics ![GitHub Repo Stars](https://img.shields.io/github/stars/TwicPics/components) ![GitHub last commit](https://img.shields.io/github/last-commit/TwicPics/components)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
 
 ##### Video Manipulation
 
@@ -2313,6 +2315,7 @@ _Display images_
 - [vue-file-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/safrazik/vue-file-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/safrazik/vue-file-agent)](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
 - [vue-cloudinary-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/xinnks/vue-cloudinary-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/xinnks/vue-cloudinary-uploader)](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
 - [vue-dropify ![GitHub Repo Stars](https://img.shields.io/github/stars/khofaai/vue-dropify) ![GitHub last commit](https://img.shields.io/github/last-commit/khofaai/vue-dropify)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+- [vue-file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/canopas/vue-file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/canopas/vue-file-upload)](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
 
 ##### Context Menu
 
@@ -2524,7 +2527,6 @@ _Set of components + responsive layout system_
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ManukMinasyan/stellar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ManukMinasyan/stellar-ui)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 
-
 #### Mobile
 
 _UI frameworks for mobile_
@@ -2576,7 +2578,7 @@ _Set of components without layout system_
 - [slim-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/mevinoth/slim-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mevinoth/slim-ui)](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/christiankienle/cdk) ![GitHub last commit](https://img.shields.io/github/last-commit/christiankienle/cdk)](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
 - [element-pro-components ![GitHub Repo Stars](https://img.shields.io/github/stars/tolking/element-pro-components) ![GitHub last commit](https://img.shields.io/github/last-commit/tolking/element-pro-components)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
-- [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind CSS - a free, open-source UI Kit
+- [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
 #### Admin Template
 
@@ -2603,6 +2605,7 @@ _Set of admin template_
 - [vue-admin-box ![GitHub Repo Stars](https://img.shields.io/github/stars/cmdparkour/vue-admin-box) ![GitHub last commit](https://img.shields.io/github/last-commit/cmdparkour/vue-admin-box)](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
 - [argon-dashboard-vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/ltv/argon-dashboard-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/ltv/argon-dashboard-vue3)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 - [Vitify Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/kingyue737/vitify-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/kingyue737/vitify-admin)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+
 #### Server-side rendering
 
 - [Nuxt.js ![GitHub Repo Stars](https://img.shields.io/github/stars/nuxt/nuxt.js) ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt.js)](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
@@ -2668,6 +2671,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-pseudo-window ![GitHub Repo Stars](https://img.shields.io/github/stars/privatenumber/vue-pseudo-window) ![GitHub last commit](https://img.shields.io/github/last-commit/privatenumber/vue-pseudo-window)](https://github.com/privatenumber/vue-pseudo-window) - 👻 Component to declaratively interface window/document in your Vue template
 - [v-on-page-video ![GitHub Repo Stars](https://img.shields.io/github/stars/mahdikhashan/v-on-page-video) ![GitHub last commit](https://img.shields.io/github/last-commit/mahdikhashan/v-on-page-video)](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
 - [vue3-click-outside ![GitHub Repo Stars](https://img.shields.io/github/stars/mahdikhashan/vue3-click-outside) ![GitHub last commit](https://img.shields.io/github/last-commit/mahdikhashan/vue3-click-outside)](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
+- [vue-exit-intent ![GitHub Repo Stars](https://img.shields.io/github/stars/nickap/vue-exit-intent) ![GitHub last commit](https://img.shields.io/github/last-commit/nickap/vue-exit-intent)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
 
 #### Responsive Design
 
@@ -2943,7 +2947,7 @@ _Move a DOM node to a target DOM node_
 - [vue-styled-shadows ![GitHub Repo Stars](https://img.shields.io/github/stars/juliandreas/vue-styled-shadows) ![GitHub last commit](https://img.shields.io/github/last-commit/juliandreas/vue-styled-shadows)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 - [v-visible ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewvasilchuk/v-visible) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewvasilchuk/v-visible)](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element.
 - [vue-web-otp ![GitHub Repo Stars](https://img.shields.io/github/stars/mrbilit/vue-web-otp) ![GitHub last commit](https://img.shields.io/github/last-commit/mrbilit/vue-web-otp)](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
-- [v-privacy ![GitHub Repo Stars](https://img.shields.io/github/stars/fchancel/v-privacy) ![GitHub last commit](https://img.shields.io/github/last-commit/fchancel/v-privacy)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content 
+- [v-privacy ![GitHub Repo Stars](https://img.shields.io/github/stars/fchancel/v-privacy) ![GitHub last commit](https://img.shields.io/github/last-commit/fchancel/v-privacy)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
 
 #### WebGL
 
@@ -3074,10 +3078,10 @@ _Internationalization / L10n / localization / translation_
 - [localize-vue-3x ![GitHub Repo Stars](https://img.shields.io/github/stars/uiwebkit/localize-vue-3x) ![GitHub last commit](https://img.shields.io/github/last-commit/uiwebkit/localize-vue-3x)](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
 - [vue-next-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/Aaronlamz/vue-next-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/Aaronlamz/vue-next-i18n)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
 - [tolgee/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
-- [excel-to-json ![GitHub Repo Stars](https://img.shields.io/github/stars/Aaronlamz/excel-to-json) ![GitHub last commit](https://img.shields.io/github/last-commit/Aaronlamz/excel-to-json)](https://github.com/Aaronlamz/excel-to-json) -  A easy tool is created to convert Excel to JSON for i18n.
-- [intlify/vue-i18n-next ![GitHub Repo Stars](https://img.shields.io/github/stars/intlify/vue-i18n-next) ![GitHub last commit](https://img.shields.io/github/last-commit/intlify/vue-i18n-next)](https://github.com/intlify/vue-i18n-next) -  Vue I18n for Vue 3.
-- [i18n-pro/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/vue)](https://github.com/i18n-pro/vue) -  Lightweight, simple, flexible, automatic translation internationalization tool for Vue.
-- [i18n-pro/vue2 ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/vue2) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/vue2)](https://github.com/i18n-pro/vue2) -  Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2.
+- [excel-to-json ![GitHub Repo Stars](https://img.shields.io/github/stars/Aaronlamz/excel-to-json) ![GitHub last commit](https://img.shields.io/github/last-commit/Aaronlamz/excel-to-json)](https://github.com/Aaronlamz/excel-to-json) - A easy tool is created to convert Excel to JSON for i18n.
+- [intlify/vue-i18n-next ![GitHub Repo Stars](https://img.shields.io/github/stars/intlify/vue-i18n-next) ![GitHub last commit](https://img.shields.io/github/last-commit/intlify/vue-i18n-next)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
+- [i18n-pro/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/vue)](https://github.com/i18n-pro/vue) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue.
+- [i18n-pro/vue2 ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/vue2) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/vue2)](https://github.com/i18n-pro/vue2) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2.
 
 #### Custom Events
 
