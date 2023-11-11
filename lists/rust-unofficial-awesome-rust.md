@@ -124,7 +124,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [datafusion ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/arrow-datafusion) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/arrow-datafusion)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 * [denoland/deno ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno)](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [doprz/dipc ![GitHub Repo Stars](https://img.shields.io/github/stars/doprz/dipc) ![GitHub last commit](https://img.shields.io/github/last-commit/doprz/dipc)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
-* [Factotum ![GitHub Repo Stars](https://img.shields.io/github/stars/snowplow/factotum) ![GitHub last commit](https://img.shields.io/github/last-commit/snowplow/factotum)](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplow.io/blog/introducing-factotum-data-pipeline-runner/)
+* [Factotum ![GitHub Repo Stars](https://img.shields.io/github/stars/snowplow/factotum) ![GitHub last commit](https://img.shields.io/github/last-commit/snowplow/factotum)](https://github.com/snowplow/factotum) — A system to programmatically run data pipelines
 * [fcsonline/drill ![GitHub Repo Stars](https://img.shields.io/github/stars/fcsonline/drill) ![GitHub last commit](https://img.shields.io/github/last-commit/fcsonline/drill)](https://github.com/fcsonline/drill) — A HTTP load testing application inspired by Ansible syntax
 * [fend ![GitHub Repo Stars](https://img.shields.io/github/stars/printfn/fend) ![GitHub last commit](https://img.shields.io/github/last-commit/printfn/fend)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build ![GitHub Repo Stars](https://img.shields.io/github/stars/printfn/fend) ![GitHub last commit](https://img.shields.io/github/last-commit/printfn/fend)](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 * [Fractalide ![GitHub Repo Stars](https://img.shields.io/github/stars/fractalide/fractalide) ![GitHub last commit](https://img.shields.io/github/last-commit/fractalide/fractalide)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
@@ -354,7 +354,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 ### Routing protocols
 
-* [Holo ![GitHub Repo Stars](https://img.shields.io/github/stars/rwestphal/holo) ![GitHub last commit](https://img.shields.io/github/last-commit/rwestphal/holo)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+* [Holo ![GitHub Repo Stars](https://img.shields.io/github/stars/holo-routing/holo) ![GitHub last commit](https://img.shields.io/github/last-commit/holo-routing/holo)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 * [RustyBGP ![GitHub Repo Stars](https://img.shields.io/github/stars/osrg/rustybgp) ![GitHub last commit](https://img.shields.io/github/last-commit/osrg/rustybgp)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
 
 ### Security tools
@@ -1643,8 +1643,8 @@ https://github.com/BinChengZhao/delay-timer/actions)
 ### Template engine
 
 * Handlebars
-  * [botika/yarte ![GitHub Repo Stars](https://img.shields.io/github/stars/botika/yarte) ![GitHub last commit](https://img.shields.io/github/last-commit/botika/yarte)](https://github.com/botika/yarte) — Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
   * [sunng87/handlebars-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/sunng87/handlebars-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/sunng87/handlebars-rust)](https://github.com/sunng87/handlebars-rust) — Handlebars template engine with inheritance, custom helper support.
+  * [zzau13/yarte ![GitHub Repo Stars](https://img.shields.io/github/stars/zzau13/yarte) ![GitHub last commit](https://img.shields.io/github/last-commit/zzau13/yarte)](https://github.com/zzau13/yarte) — Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
 * HTML
   * [djc/askama ![GitHub Repo Stars](https://img.shields.io/github/stars/djc/askama) ![GitHub last commit](https://img.shields.io/github/last-commit/djc/askama)](https://github.com/djc/askama) — template rendering engine based on Jinja
   * [kaj/ructe ![GitHub Repo Stars](https://img.shields.io/github/stars/kaj/ructe) ![GitHub last commit](https://img.shields.io/github/last-commit/kaj/ructe)](https://github.com/kaj/ructe) — HTML template system for Rust
