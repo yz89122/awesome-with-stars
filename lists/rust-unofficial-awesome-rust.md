@@ -19,6 +19,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Industrial automation](#industrial-automation)
   * [Observability](#observability)
   * [Operating systems](#operating-systems)
+  * [Package Managers](#package-managers)
   * [Payments](#payments)
   * [Productivity](#productivity)
   * [Routing protocols](#routing-protocols)
@@ -149,6 +150,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [Sniffnet ![GitHub Repo Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) ![GitHub last commit](https://img.shields.io/github/last-commit/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 * [SWC ![GitHub Repo Stars](https://img.shields.io/github/stars/swc-project/swc) ![GitHub last commit](https://img.shields.io/github/last-commit/swc-project/swc)](https://github.com/swc-project/swc) — super-fast TypeScript / JavaScript compiler
 * [tiny ![GitHub Repo Stars](https://img.shields.io/github/stars/osa1/tiny) ![GitHub last commit](https://img.shields.io/github/last-commit/osa1/tiny)](https://github.com/osa1/tiny) — A terminal IRC client
+* [UpVPN ![GitHub Repo Stars](https://img.shields.io/github/stars/upvpn/upvpn-app) ![GitHub last commit](https://img.shields.io/github/last-commit/upvpn/upvpn-app)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
 * [wasmer ![GitHub Repo Stars](https://img.shields.io/github/stars/wasmerio/wasmer) ![GitHub last commit](https://img.shields.io/github/last-commit/wasmerio/wasmer)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status ![GitHub Repo Stars](https://img.shields.io/github/stars/wasmerio/wasmer) ![GitHub last commit](https://img.shields.io/github/last-commit/wasmerio/wasmer)](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 * [Weld ![GitHub Repo Stars](https://img.shields.io/github/stars/serayuzgur/weld) ![GitHub last commit](https://img.shields.io/github/last-commit/serayuzgur/weld)](https://github.com/serayuzgur/weld) — Full fake REST API generator
 * [wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/wez/wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wez/wezterm)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
@@ -337,6 +339,10 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [thepowersgang/rust_os ![GitHub Repo Stars](https://img.shields.io/github/stars/thepowersgang/rust_os) ![GitHub last commit](https://img.shields.io/github/last-commit/thepowersgang/rust_os)](https://github.com/thepowersgang/rust_os) —
 * [theseus-os/Theseus ![GitHub Repo Stars](https://img.shields.io/github/stars/theseus-os/Theseus) ![GitHub last commit](https://img.shields.io/github/last-commit/theseus-os/Theseus)](https://github.com/theseus-os/Theseus) — A safe-language, single address space and single privilege level OS written from scratch in pure Rust - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
 * [tock/tock ![GitHub Repo Stars](https://img.shields.io/github/stars/tock/tock) ![GitHub last commit](https://img.shields.io/github/last-commit/tock/tock)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
+
+### Package Managers
+
+* [helsing-ai/buffrs ![GitHub Repo Stars](https://img.shields.io/github/stars/helsing-ai/buffrs) ![GitHub last commit](https://img.shields.io/github/last-commit/helsing-ai/buffrs)](https://github.com/helsing-ai/buffrs) [[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
 
 ### Payments
 
@@ -1548,6 +1554,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [cloudflare/quiche ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudflare/quiche) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/quiche)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
   * [mozilla/neqo ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/neqo) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/neqo)](https://github.com/mozilla/neqo) — an Implementation of QUIC written in Rust
   * [quinn-rs/quinn ![GitHub Repo Stars](https://img.shields.io/github/stars/quinn-rs/quinn) ![GitHub last commit](https://img.shields.io/github/last-commit/quinn-rs/quinn)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation in Rust [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
+  * [tencent/tquic ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/tquic) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/tquic)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
 * Raknet
   * [b23r0/rust-raknet ![GitHub Repo Stars](https://img.shields.io/github/stars/b23r0/rust-raknet) ![GitHub last commit](https://img.shields.io/github/last-commit/b23r0/rust-raknet)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 * RPC
