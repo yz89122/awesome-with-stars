@@ -41,9 +41,9 @@
 
   <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
-- [Polestar SoC Lockscreen Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/niklasvieth/polestar-ios-lockscreen-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/niklasvieth/polestar-ios-lockscreen-widget)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) - Current state of charge of your Polestar 2 as lockscreen widget.
+- [Polestar SoC Medium Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/niklasvieth/polestar-ios-medium-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/niklasvieth/polestar-ios-medium-widget)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget ![GitHub Repo Stars](https://img.shields.io/github/stars/niklasvieth/polestar-ios-lockscreen-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/niklasvieth/polestar-ios-lockscreen-widget)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
 
-  <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-lockscreen-widget/main/images/polestar_lockscreen_widget.jpeg" width="400"/>
+  <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
 - [SmarterTankenWidget.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Martlgap/SmarterTankenWidget) ![GitHub last commit](https://img.shields.io/github/last-commit/Martlgap/SmarterTankenWidget)](https://github.com/Martlgap/SmarterTankenWidget) - Price difference of two gas stations in different countries.
  
