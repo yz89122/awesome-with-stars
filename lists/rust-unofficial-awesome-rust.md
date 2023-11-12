@@ -24,7 +24,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Productivity](#productivity)
   * [Routing protocols](#routing-protocols)
   * [Security tools](#security-tools)
-  * [Simulation](#simulation)
   * [Social networks](#social-networks)
   * [System tools](#system-tools)
   * [Task scheduling](#task-scheduling)
@@ -97,7 +96,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Peripherals](#peripherals)
   * [Platform specific](#platform-specific)
   * [Scripting](#scripting)
-  * [Simulation](#simulation-1)
+  * [Simulation](#simulation)
   * [System](#system)
   * [Task scheduling](#task-scheduling-1)
   * [Template engine](#template-engine)
@@ -382,10 +381,6 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [ripasso ![GitHub Repo Stars](https://img.shields.io/github/stars/cortex/ripasso) ![GitHub last commit](https://img.shields.io/github/last-commit/cortex/ripasso)](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
 * [rustscan/rustscan ![GitHub Repo Stars](https://img.shields.io/github/stars/RustScan/RustScan) ![GitHub last commit](https://img.shields.io/github/last-commit/RustScan/RustScan)](https://github.com/RustScan/RustScan) — Make Nmap faster with this port scanning tool [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/RustScan/RustScan) ![GitHub last commit](https://img.shields.io/github/last-commit/RustScan/RustScan)](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
-### Simulation
-
-* [hEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/hashintel/hash) ![GitHub last commit](https://img.shields.io/github/last-commit/hashintel/hash)](https://github.com/hashintel/hash/tree/main/apps/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
-
 ### Social networks
 
 * Mastodon
@@ -552,7 +547,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [create-rust-app ![GitHub Repo Stars](https://img.shields.io/github/stars/Wulf/create-rust-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Wulf/create-rust-app)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 * [dan-t/rusty-tags ![GitHub Repo Stars](https://img.shields.io/github/stars/dan-t/rusty-tags) ![GitHub last commit](https://img.shields.io/github/last-commit/dan-t/rusty-tags)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
 * [datanymizer/datanymizer ![GitHub Repo Stars](https://img.shields.io/github/stars/datanymizer/datanymizer) ![GitHub last commit](https://img.shields.io/github/last-commit/datanymizer/datanymizer)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/datanymizer/datanymizer) ![GitHub last commit](https://img.shields.io/github/last-commit/datanymizer/datanymizer)](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
-* [delta](https://crates.io/crates/git-delta) �� A syntax-highlighter for git and diff output[![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/dandavison/delta) ![GitHub last commit](https://img.shields.io/github/last-commit/dandavison/delta)](https://github.com/dandavison/delta/workflows/Continuous%20Integration/badge.svg)](https://github.com/dandavison/delta//actions)
+* [delta](https://crates.io/crates/git-delta) — A syntax-highlighter for git and diff output[![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/dandavison/delta) ![GitHub last commit](https://img.shields.io/github/last-commit/dandavison/delta)](https://github.com/dandavison/delta/workflows/Continuous%20Integration/badge.svg)](https://github.com/dandavison/delta//actions)
 * [dotenv-linter ![GitHub Repo Stars](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/dotenv-linter/dotenv-linter)](https://github.com/dotenv-linter/dotenv-linter) — Linter for `.env` files [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/dotenv-linter/dotenv-linter)](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 * [frolic ![GitHub Repo Stars](https://img.shields.io/github/stars/FrolicOrg/Frolic) ![GitHub last commit](https://img.shields.io/github/last-commit/FrolicOrg/Frolic)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
 * [fw ![GitHub Repo Stars](https://img.shields.io/github/stars/brocode/fw) ![GitHub last commit](https://img.shields.io/github/last-commit/brocode/fw)](https://github.com/brocode/fw) — workspace productivity booster [![Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/brocode/fw) ![GitHub last commit](https://img.shields.io/github/last-commit/brocode/fw)](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
