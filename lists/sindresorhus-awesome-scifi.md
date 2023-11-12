@@ -976,7 +976,7 @@ Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted peopl
 <details>
   <summary>Description</summary>
 
-  > Cobb Anderson created the “boppers,” sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers—and eventually every human—into a giant, melded consciousness. Some of the little boppers aren’t too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his “software.” It seems like a good idea to Cobb.
+  > Cobb Anderson created the “boppers,” sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers—and eventually every human—into a giant, melded consciousness. Some of the little boppers aren’t too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his “software.�� It seems like a good idea to Cobb.
 </details>
 
 ### Utopia
