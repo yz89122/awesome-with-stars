@@ -80,6 +80,7 @@ This project lists books and other resources grouped by genres:
 #### Other Languages
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
++ [Armenian / Հայերեն](books/free-programming-books-hy.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
 + [Bengali / বাংলা](books/free-programming-books-bn.md)
 + [Bulgarian / български](books/free-programming-books-bg.md)
@@ -193,7 +194,7 @@ Free Podcasts and Screencasts:
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
-+ [Hebrew / עב��ית](casts/free-podcasts-screencasts-he.md)
++ [Hebrew / עברית](casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)
