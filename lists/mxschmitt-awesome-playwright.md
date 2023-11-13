@@ -61,6 +61,7 @@
 - [playwright-python-language-injection ![GitHub Repo Stars](https://img.shields.io/github/stars/Mattwmaster58/playwright-python-language-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/Mattwmaster58/playwright-python-language-injection)](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
 - [playwright-ui5 ![GitHub Repo Stars](https://img.shields.io/github/stars/detachhead/playwright-ui5) ![GitHub last commit](https://img.shields.io/github/last-commit/detachhead/playwright-ui5)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath ![GitHub Repo Stars](https://img.shields.io/github/stars/detachhead/playwright-xpath) ![GitHub last commit](https://img.shields.io/github/last-commit/detachhead/playwright-xpath)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
+- [ZeroStep ![GitHub Repo Stars](https://img.shields.io/github/stars/zerostep-ai/zerostep) ![GitHub last commit](https://img.shields.io/github/last-commit/zerostep-ai/zerostep)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
 
 
 ## Reporters
