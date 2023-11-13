@@ -150,6 +150,7 @@
   * [Leiningen ![GitHub Repo Stars](https://img.shields.io/github/stars/technomancy/leiningen) ![GitHub last commit](https://img.shields.io/github/last-commit/technomancy/leiningen)](https://github.com/technomancy/leiningen)
   * [Boot ![GitHub Repo Stars](https://img.shields.io/github/stars/boot-clj/boot) ![GitHub last commit](https://img.shields.io/github/last-commit/boot-clj/boot)](https://github.com/boot-clj/boot)
   * [tools.build](https://www.clojure.org/guides/tools_build)
+    * [build.simple ![GitHub Repo Stars](https://img.shields.io/github/stars/gnl/build.simple) ![GitHub last commit](https://img.shields.io/github/last-commit/gnl/build.simple)](https://github.com/gnl/build.simple)
   * [clojurephant ![GitHub Repo Stars](https://img.shields.io/github/stars/clojurephant/clojurephant) ![GitHub last commit](https://img.shields.io/github/last-commit/clojurephant/clojurephant)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
   * [shadow-cljs ![GitHub Repo Stars](https://img.shields.io/github/stars/thheller/shadow-cljs) ![GitHub last commit](https://img.shields.io/github/last-commit/thheller/shadow-cljs)](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
@@ -493,6 +494,8 @@ anylysis and visualization.*
 
 ## Debugging
 
+  * [flow-storm-debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/flow-storm/flow-storm-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/flow-storm/flow-storm-debugger)](https://github.com/flow-storm/flow-storm-debugger)
+  * [playback ![GitHub Repo Stars](https://img.shields.io/github/stars/gnl/playback) ![GitHub last commit](https://img.shields.io/github/last-commit/gnl/playback)](https://github.com/gnl/playback)
   * [tools.trace ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/tools.trace) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/tools.trace)](https://github.com/clojure/tools.trace)
   * [debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/razum2um/clj-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/razum2um/clj-debugger)](https://github.com/razum2um/clj-debugger)
   * [debug-repl ![GitHub Repo Stars](https://img.shields.io/github/stars/GeorgeJahad/debug-repl) ![GitHub last commit](https://img.shields.io/github/last-commit/GeorgeJahad/debug-repl)](https://github.com/GeorgeJahad/debug-repl)
@@ -576,7 +579,7 @@ anylysis and visualization.*
 ## Exercises
 
   * [rich4clojure ![GitHub Repo Stars](https://img.shields.io/github/stars/PEZ/rich4clojure) ![GitHub last commit](https://img.shields.io/github/last-commit/PEZ/rich4clojure)](https://github.com/PEZ/rich4clojure)
+  * [Wonderland Clojure Katas ![GitHub Repo Stars](https://img.shields.io/github/stars/gigasquid/wonderland-clojure-katas) ![GitHub last commit](https://img.shields.io/github/last-commit/gigasquid/wonderland-clojure-katas)](https://github.com/gigasquid/wonderland-clojure-katas)
   * [Clojure Koans](http://clojurekoans.com)
-  * [Clojure Katas](http://clojurekatas.org)
   * [exercism.io](http://exercism.io/languages/clojure)
   * [Codewars](https://www.codewars.com/kata/search/clojure)

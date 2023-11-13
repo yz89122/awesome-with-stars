@@ -37,7 +37,6 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [IPFS Desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs-shipyard/ipfs-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs-shipyard/ipfs-desktop)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 - [ipfs-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/SomajitDey/ipfs-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/SomajitDey/ipfs-chat)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS ![GitHub Repo Stars](https://img.shields.io/github/stars/underscoredLabs/webgl-ipfs-fps) ![GitHub last commit](https://img.shields.io/github/last-commit/underscoredLabs/webgl-ipfs-fps)](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-- [IPGit ![GitHub Repo Stars](https://img.shields.io/github/stars/meyer1994/ipgit) ![GitHub last commit](https://img.shields.io/github/last-commit/meyer1994/ipgit)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 - [killcord ![GitHub Repo Stars](https://img.shields.io/github/stars/nomasters/killcord) ![GitHub last commit](https://img.shields.io/github/last-commit/nomasters/killcord)](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Mintter ![GitHub Repo Stars](https://img.shields.io/github/stars/MintterHypermedia/mintter) ![GitHub last commit](https://img.shields.io/github/last-commit/MintterHypermedia/mintter)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 - [orbitchat.dev ![GitHub Repo Stars](https://img.shields.io/github/stars/cppshane/orbit-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/cppshane/orbit-chat)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
@@ -122,9 +121,9 @@ A list of web browsers with IPFS integrations
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects
-We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a pr and we'll get it into the right place.
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
 
-[View the list here](./stale.md)
+[View the list of stale projects here](./stale.md)
 
 ## Contribute
 
