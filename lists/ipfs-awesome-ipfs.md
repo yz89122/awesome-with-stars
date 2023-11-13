@@ -44,6 +44,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Peer Web Site ![GitHub Repo Stars](https://img.shields.io/github/stars/Weedshaker/PeerWebSite) ![GitHub last commit](https://img.shields.io/github/last-commit/Weedshaker/PeerWebSite)](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos ![GitHub Repo Stars](https://img.shields.io/github/stars/Peergos/Peergos) ![GitHub last commit](https://img.shields.io/github/last-commit/Peergos/Peergos)](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
+- [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 - [Skiff ![GitHub Repo Stars](https://img.shields.io/github/stars/skiff-org/skiff-mail) ![GitHub last commit](https://img.shields.io/github/last-commit/skiff-org/skiff-mail)](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
 
 ## Browsers
