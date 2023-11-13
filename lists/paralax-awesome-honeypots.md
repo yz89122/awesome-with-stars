@@ -305,7 +305,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [MonkeySpider](http://monkeyspider.sourceforge.net)
   - [PhoneyC ![GitHub Repo Stars](https://img.shields.io/github/stars/honeynet/phoneyc) ![GitHub last commit](https://img.shields.io/github/last-commit/honeynet/phoneyc)](https://github.com/honeynet/phoneyc) - Python honeyclient (later replaced by Thug).
   - [Pwnypot ![GitHub Repo Stars](https://img.shields.io/github/stars/shjalayeri/pwnypot) ![GitHub last commit](https://img.shields.io/github/last-commit/shjalayeri/pwnypot)](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot.
-  - [Rumal](https://github.com/thugs-rumal/) - Thug's Rum��l: a Thug's dress and weapon.
+  - [Rumal](https://github.com/thugs-rumal/) - Thug's Rumāl: a Thug's dress and weapon.
   - [Shelia](https://www.cs.vu.nl/~herbertb/misc/shelia/) - Client-side honeypot for attack detection.
   - [Thug](https://buffer.github.io/thug/) - Python-based low-interaction honeyclient.
   - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)

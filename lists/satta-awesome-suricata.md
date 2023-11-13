@@ -120,6 +120,7 @@
 - [surify-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/dgenzer/surify-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/dgenzer/surify-cli)](https://github.com/dgenzer/surify-cli) - Generate suricata-rules from collection of IOCs (JSON, CSV or flags) based on your suricata template.
 - [suricata-prettifier ![GitHub Repo Stars](https://img.shields.io/github/stars/theY4Kman/suricata-prettifier) ![GitHub last commit](https://img.shields.io/github/last-commit/theY4Kman/suricata-prettifier)](https://github.com/theY4Kman/suricata-prettifier) - Command-line tool to format and syntax highlight Suricata rules.
 - [OTX-Suricata ![GitHub Repo Stars](https://img.shields.io/github/stars/AlienVault-OTX/OTX-Suricata) ![GitHub last commit](https://img.shields.io/github/last-commit/AlienVault-OTX/OTX-Suricata)](https://github.com/AlienVault-OTX/OTX-Suricata) - Create rules and configuration for Suricata to alert on indicators from an OTX account.
+- [Aristotle ![GitHub Repo Stars](https://img.shields.io/github/stars/secureworks/aristotle) ![GitHub last commit](https://img.shields.io/github/last-commit/secureworks/aristotle)](https://github.com/secureworks/aristotle) - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
 
 
 ## Systems Using Suricata
