@@ -11,6 +11,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Coding](#coding)
+- [Agents](#agents)
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
@@ -162,6 +163,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 
+## Agents
+
 ### Autonomous agents
 
 - [Auto-GPT ![GitHub Repo Stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT) ![GitHub last commit](https://img.shields.io/github/last-commit/Torantulino/Auto-GPT)](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -172,6 +175,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/geekan/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [AutoGen ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/autogen)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 - [GPT Pilot ![GitHub Repo Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) ![GitHub last commit](https://img.shields.io/github/last-commit/Pythagora-io/gpt-pilot)](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
+
+### Custom assistants
+
+- [Poe](https://poe.com/) - Poe gives access to a variety of bots.
+- [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 
 ## Image
 
