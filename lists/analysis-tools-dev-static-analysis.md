@@ -614,7 +614,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 - [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
 Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
 
-- [Doop](https://bitbucket.org/yanniss/doop) — Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
+- [Doop](https://bitbucket.org/yanniss/doop) �� Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 
 - [Error Prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 
@@ -2154,7 +2154,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>Translation</h2>
 
 
-- [dennis ![GitHub Repo Stars](https://img.shields.io/github/stars/willkg/dennis) ![GitHub last commit](https://img.shields.io/github/last-commit/willkg/dennis)](https://github.com/willkg/dennis) :warning: — A set of utilities for working with PO files to ease development and improve quality.
+- [dennis ![GitHub Repo Stars](https://img.shields.io/github/stars/willkg/dennis) ![GitHub last commit](https://img.shields.io/github/last-commit/willkg/dennis)](https://github.com/willkg/dennis) :warning: ��� A set of utilities for working with PO files to ease development and improve quality.
 
 
 <a name="vue" />
