@@ -179,7 +179,7 @@ Additional lists you might find useful:
 *Plugins for I18n (Internationalization) and L10n (Localization).*
 
 - 🍰 [ADmad/I18n plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-i18n)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
-- [Cake/Localized plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/localized) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/localized)](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
+- 🍰 [Cake/Localized plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/localized) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/localized)](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 - [Translate plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-translate)](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
 
 ## Imagery
