@@ -80,7 +80,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [telescope ![GitHub Repo Stars](https://img.shields.io/github/stars/osmosis-labs/telescope) ![GitHub last commit](https://img.shields.io/github/last-commit/osmosis-labs/telescope)](https://github.com/osmosis-labs/telescope) - Typescript library generator built on top of CosmJS.
 * [chainapsis/cosmosjs ![GitHub Repo Stars](https://img.shields.io/github/stars/chainapsis/cosmosjs) ![GitHub last commit](https://img.shields.io/github/last-commit/chainapsis/cosmosjs)](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 * [cosmos-client/cosmos-client-ts ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos-client/cosmos-client-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos-client/cosmos-client-ts)](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
-* [cosmos/sig ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos/sig) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/sig)](https://github.com/cosmos/sig) - Cosmos Signing Library.
 * [cosmology-tech/chain-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmology-tech/chain-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmology-tech/chain-registry)](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 * [strangelove-ventures/graz ![GitHub Repo Stars](https://img.shields.io/github/stars/strangelove-ventures/graz) ![GitHub last commit](https://img.shields.io/github/last-commit/strangelove-ventures/graz)](https://github.com/strangelove-ventures/graz) - Collection of React hooks to interact with wallets, signers, signing clients, etc.
 * [cosmology-tech/create-cosmos-app ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmology-tech/create-cosmos-app) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmology-tech/create-cosmos-app)](https://github.com/cosmology-tech/create-cosmos-app) - A npm package to bootstrap a Cosmos Web UI.
@@ -131,7 +130,7 @@ Explore Cosmos SDK blockchains via a terminal.
 A registry containing standardized metadata from most Cosmos chains.
 
 * [cosmos/chain-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos/chain-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/chain-registry)](https://github.com/cosmos/chain-registry/)
-* [Cosmos Directory](https://cosmos.directory) - [Source ![GitHub Repo Stars](https://img.shields.io/github/stars/eco-stake/cosmos-directory) ![GitHub last commit](https://img.shields.io/github/last-commit/eco-stake/cosmos-directory)](https://github.com/eco-stake/cosmos-directory)
+* [Cosmos directory](https://cosmos.directory) - [Source ![GitHub Repo Stars](https://img.shields.io/github/stars/eco-stake/cosmos-directory) ![GitHub last commit](https://img.shields.io/github/last-commit/eco-stake/cosmos-directory)](https://github.com/eco-stake/cosmos-directory)
 * [cosmology-tech/chain-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmology-tech/chain-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmology-tech/chain-registry)](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 
 ## Validators
@@ -216,12 +215,15 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [cosmos-sdk-codeql ![GitHub Repo Stars](https://img.shields.io/github/stars/crypto-com/cosmos-sdk-codeql) ![GitHub last commit](https://img.shields.io/github/last-commit/crypto-com/cosmos-sdk-codeql)](https://github.com/crypto-com/cosmos-sdk-codeql) - CodeQL queries for common Cosmos SDK bugs.
 * [tm-load-test ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tm-load-test) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tm-load-test)](https://github.com/informalsystems/tm-load-test) - CometBFT load test application.
 * [cosmosloadtester ![GitHub Repo Stars](https://img.shields.io/github/stars/orijtech/cosmosloadtester) ![GitHub last commit](https://img.shields.io/github/last-commit/orijtech/cosmosloadtester)](https://github.com/orijtech/cosmosloadtester) - Load tester for Cosmos SDK blockchains.
+* [CometMock ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/CometMock) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/CometMock)](https://github.com/informalsystems/CometMock) - Drop-in replacement for CometBFT in end-to-end tests.
+* [quint ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/quint) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/quint)](https://github.com/informalsystems/quint) - Executable specification language with delightful tooling.
+* [apalache ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/apalache) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/apalache)](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA+ and Quint.
 
 ## Tools
 
 ### CLI
 
-* [iqlusioninc/tmkms ![GitHub Repo Stars](https://img.shields.io/github/stars/iqlusioninc/tmkms) ![GitHub last commit](https://img.shields.io/github/last-commit/iqlusioninc/tmkms)](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
+* [tmkms ![GitHub Repo Stars](https://img.shields.io/github/stars/iqlusioninc/tmkms) ![GitHub last commit](https://img.shields.io/github/last-commit/iqlusioninc/tmkms)](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
 * [cosmosvisor ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/cosmos-sdk)](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
 * [cosmosvanity ![GitHub Repo Stars](https://img.shields.io/github/stars/hukkinj1/cosmosvanity) ![GitHub last commit](https://img.shields.io/github/last-commit/hukkinj1/cosmosvanity)](https://github.com/hukkinj1/cosmosvanity) - CLI tool for generating Cosmos vanity addresses.
 * [findaccount ![GitHub Repo Stars](https://img.shields.io/github/stars/blockpane/findaccount) ![GitHub last commit](https://img.shields.io/github/last-commit/blockpane/findaccount)](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple Cosmos chains with the same address.
@@ -257,6 +259,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 ### Utilities
 
 * [Cosmos Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/Reecepbcups/cosmos-endpoint-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/Reecepbcups/cosmos-endpoint-cache)](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
+* [cosmos-operator ![GitHub Repo Stars](https://img.shields.io/github/stars/strangelove-ventures/cosmos-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/strangelove-ventures/cosmos-operator)](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
 
 ## Ecosystem
 

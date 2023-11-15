@@ -676,7 +676,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
   * [infinyon/node-bindgen ![GitHub Repo Stars](https://img.shields.io/github/stars/infinyon/node-bindgen) ![GitHub last commit](https://img.shields.io/github/last-commit/infinyon/node-bindgen)](https://github.com/infinyon/node-bindgen) - Easy way to generate nodejs module using Rust
   * [neon-bindings/neon ![GitHub Repo Stars](https://img.shields.io/github/stars/neon-bindings/neon) ![GitHub last commit](https://img.shields.io/github/last-commit/neon-bindings/neon)](https://github.com/neon-bindings/neon) — Rust bindings for writing safe and fast native Node.js modules
 * Objective-C
-  * [SSheldon/rust-objc ![GitHub Repo Stars](https://img.shields.io/github/stars/SSheldon/rust-objc) ![GitHub last commit](https://img.shields.io/github/last-commit/SSheldon/rust-objc)](https://github.com/SSheldon/rust-objc) ��� Objective-C Runtime bindings and wrapper for Rust
+  * [SSheldon/rust-objc ![GitHub Repo Stars](https://img.shields.io/github/stars/SSheldon/rust-objc) ![GitHub last commit](https://img.shields.io/github/last-commit/SSheldon/rust-objc)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * PHP
   * [phper-framework/phper ![GitHub Repo Stars](https://img.shields.io/github/stars/phper-framework/phper) ![GitHub last commit](https://img.shields.io/github/last-commit/phper-framework/phper)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 * Prolog
