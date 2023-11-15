@@ -427,7 +427,6 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - Message transfer agent (MTA). `Sendmail` `C/deb`
 - [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/slimta/python-slimta) ![GitHub last commit](https://img.shields.io/github/last-commit/slimta/python-slimta)](https://github.com/slimta/python-slimta)) `MIT` `Python`
 - [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/stalwartlabs/smtp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/stalwartlabs/smtp-server)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
-- [vSMTP](https://viridit.com/products/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/viridIT/vSMTP) ![GitHub last commit](https://img.shields.io/github/last-commit/viridIT/vSMTP)](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
 
 
 ### Communication - Email - Mailing Lists and Newsletters

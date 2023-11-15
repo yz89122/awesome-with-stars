@@ -1562,6 +1562,7 @@ Text Parsers
 * [smug ![GitHub Repo Stars](https://img.shields.io/github/stars/drewc/smug) ![GitHub last commit](https://img.shields.io/github/last-commit/drewc/smug)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT][200].
 * [parseq ![GitHub Repo Stars](https://img.shields.io/github/stars/mrossini-ethz/parseq) ![GitHub last commit](https://img.shields.io/github/last-commit/mrossini-ethz/parseq)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using parsing expression grammars. Inspired by Esrap. GPL2.
 * [texp ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneia/texp) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneia/texp)](https://github.com/eugeneia/texp/) - A DSL to generate TeX. [AGPL-3.0][agpl3].
+* [lisp-binary ![GitHub Repo Stars](https://img.shields.io/github/stars/j3pic/lisp-binary) ![GitHub last commit](https://img.shields.io/github/last-commit/j3pic/lisp-binary)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3][2].
 
 Text Processing
 ===============
