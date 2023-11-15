@@ -30,8 +30,6 @@
 
 - [Articles & Tutorials](#articles--tutorials)
 - [Plugins & Libraries](#plugins--libraries)
-  - [Official](#official)
-  - [Community](#community)
 - [Projects](#projects)
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
@@ -79,42 +77,13 @@
 
 - [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
 
-### Deprecated Articles & Tutorials
-
-The tutorials in this section were written a long time ago and you'll have to do a lot of changes
-to get their code to run with any up-to-date version of Flame.
-
-#### Beginner Tutorial Series by [Alekhin](https://github.com/japalekhin)
-
-- [Create a Mobile Game with Flutter and Flame - Beginner Tutorial (Introduction)](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial)
-- [2D Casual Mobile Game Tutorial - Step by Step with Flame and Flutter (Part 1 of 5)](https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1)
-- [Game Graphics and Animation Tutorial - Step by Step with Flame and Flutter (Part 2 of 5)](https://jap.alekhin.io/game-graphics-and-animation-tutorial-flame-flutter-part-2)
-- [Views and Dialog Boxes Tutorial - Step by Step with Flame and Flutter (Part 3 of 5)](https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3)
-- [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
-- [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
-
-<!--lint ignore double-link-->
-#### Articles by [Fireslime](https://fireslime.xyz/)
-
-<!--lint ignore double-link-->
-- [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
-- [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
-
 ### Examples
 
 - [Maze generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Dannark/FlameExamples) ![GitHub last commit](https://img.shields.io/github/last-commit/Dannark/FlameExamples)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
 
 ## Plugins & Libraries
 
-### Official
-
-<!--lint ignore double-link-->
-- [flame_gamepad ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame_gamepad) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame_gamepad)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
-- [flame_geom ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame_geom) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame_geom)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
-- [flame_scrolling_sprite ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame_scrolling_sprite) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame_scrolling_sprite)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
-
-### Community
-
+- [First-Party Plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame)](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
 - [bonfire ![GitHub Repo Stars](https://img.shields.io/github/stars/RafaelBarbosatec/bonfire) ![GitHub last commit](https://img.shields.io/github/last-commit/RafaelBarbosatec/bonfire)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 - [flame_texturepacker ![GitHub Repo Stars](https://img.shields.io/github/stars/Brixto/flame_texturepacker) ![GitHub last commit](https://img.shields.io/github/last-commit/Brixto/flame_texturepacker)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 - [leap ![GitHub Repo Stars](https://img.shields.io/github/stars/kurtome/leap) ![GitHub last commit](https://img.shields.io/github/last-commit/kurtome/leap)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
