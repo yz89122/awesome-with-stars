@@ -204,8 +204,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
   - [ocaml-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/0xffea/ocaml-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/0xffea/ocaml-redis)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
   - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
-  - [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/arenadotio/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/arenadotio/pgx)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library
-.
+  - [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/arenadotio/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/arenadotio/pgx)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
   - [mysql_protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/slegrand45/mysql_protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/slegrand45/mysql_protocol)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 - **New Implementations**
   - [Irmin ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/irmin) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/irmin)](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
@@ -213,16 +212,17 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [RunOrg ![GitHub Repo Stars](https://img.shields.io/github/stars/RunOrg/RunOrg) ![GitHub last commit](https://img.shields.io/github/last-commit/RunOrg/RunOrg)](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
   - [dokeysto ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dokeysto) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dokeysto)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
   values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
-
 - **Overlays**
   - [Sequoia ![GitHub Repo Stars](https://img.shields.io/github/stars/andrenth/sequoia) ![GitHub last commit](https://img.shields.io/github/last-commit/andrenth/sequoia)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
   - [Macaque ![GitHub Repo Stars](https://img.shields.io/github/stars/ocsigen/macaque) ![GitHub last commit](https://img.shields.io/github/last-commit/ocsigen/macaque)](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
   - [ORM ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/orm) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/orm)](https://github.com/mirage/orm) — ORM for SQLite.
   - [Caqti ![GitHub Repo Stars](https://img.shields.io/github/stars/paurkedal/ocaml-caqti) ![GitHub last commit](https://img.shields.io/github/last-commit/paurkedal/ocaml-caqti)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+  - [Caqti setence preparation, ppx_rapper ![GitHub Repo Stars](https://img.shields.io/github/stars/roddyyaga/ppx_rapper) ![GitHub last commit](https://img.shields.io/github/last-commit/roddyyaga/ppx_rapper)](https://github.com/roddyyaga/ppx_rapper)
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
   - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
-  - [Caqti setence preparation, ppx_rapper ![GitHub Repo Stars](https://img.shields.io/github/stars/roddyyaga/ppx_rapper) ![GitHub last commit](https://img.shields.io/github/last-commit/roddyyaga/ppx_rapper)](https://github.com/roddyyaga/ppx_rapper)
+  - [Finally, Type-Safe, Extensible and Efficient Language Integrated Query](https://www.cs.tsukuba.ac.jp/~kam/papers/pepm2016a.pdf) by Oleg and Co. 
+    The proposed approach is to describe SQL queries in type-safe manner and optimize them (using term rewriting or normalization-by evaluation) before sending to database engine. It potentially could optimize O(n^2) queries to O(n) ones.
 
 
 ## Datetime
@@ -280,7 +280,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Formal Software Verification
 
 - [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
-- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+- [Why3](http://why3.lri.fr/) ��� Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
 
@@ -400,7 +400,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
 - **Syntax Extensions**:
   - [ppx_import ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ppx_import) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ppx_import)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
-  - [ppx_string_interpolate ![GitHub Repo Stars](https://img.shields.io/github/stars/sheijk/ppx_string_interpolate) ![GitHub last commit](https://img.shields.io/github/last-commit/sheijk/ppx_string_interpolate)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
+  - [ppx_string_interpolate ![GitHub Repo Stars](https://img.shields.io/github/stars/sheijk/ppx_string_interpolate) ![GitHub last commit](https://img.shields.io/github/last-commit/sheijk/ppx_string_interpolate)](https://github.com/sheijk/ppx_string_interpolate) �� A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
   - [ppx_monad ![GitHub Repo Stars](https://img.shields.io/github/stars/rizo/ppx_monad) ![GitHub last commit](https://img.shields.io/github/last-commit/rizo/ppx_monad)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
