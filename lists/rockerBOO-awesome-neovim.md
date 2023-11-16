@@ -481,6 +481,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ellisonleao/gruvbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/gruvbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/gruvbox.nvim)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
 - [metalelf0/jellybeans-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/metalelf0/jellybeans-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/metalelf0/jellybeans-nvim)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
 - [lalitmee/cobalt2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lalitmee/cobalt2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lalitmee/cobalt2.nvim)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
+- [calind/selenized.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/calind/selenized.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/calind/selenized.nvim)](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
 
 ### Colorscheme Creation
 
