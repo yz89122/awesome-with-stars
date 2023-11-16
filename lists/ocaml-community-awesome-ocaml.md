@@ -81,7 +81,7 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
 - [Ke ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ke) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ke)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 - [Duff ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/duff) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/duff)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 - [ORaft ![GitHub Repo Stars](https://img.shields.io/github/stars/komamitsu/oraft) ![GitHub last commit](https://img.shields.io/github/last-commit/komamitsu/oraft)](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
-
+- [ODiff ![GitHub Repo Stars](https://img.shields.io/github/stars/dmtrKovalenko/odiff) ![GitHub last commit](https://img.shields.io/github/last-commit/dmtrKovalenko/odiff)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
 
 ## Application Libraries
 
@@ -136,6 +136,8 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
 - [MemCAD ![GitHub Repo Stars](https://img.shields.io/github/stars/Antique-team/memcad) ![GitHub last commit](https://img.shields.io/github/last-commit/Antique-team/memcad)](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
 - [Camelot ![GitHub Repo Stars](https://img.shields.io/github/stars/upenn-cis1xx/camelot) ![GitHub last commit](https://img.shields.io/github/last-commit/upenn-cis1xx/camelot)](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
 - [coq-of-ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/formal-land/coq-of-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/formal-land/coq-of-ocaml)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+- [MOPSA](https://gitlab.com/mopsa/mopsa-analyzer) - MOPSA is a generic framework for building sound static analyzers based on the theory of abstract interpretation.
+
 
 ## Program analysis
 - [BAP ![GitHub Repo Stars](https://img.shields.io/github/stars/BinaryAnalysisPlatform/bap) ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryAnalysisPlatform/bap)](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
@@ -162,6 +164,7 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
 
   - [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
   - [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
+  - [Liquid ML ![GitHub Repo Stars](https://img.shields.io/github/stars/benfaerber/liquid-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/benfaerber/liquid-ml)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
 - **Parser and Lexer Generators**:
   - [Opal ![GitHub Repo Stars](https://img.shields.io/github/stars/pyrocat101/opal) ![GitHub last commit](https://img.shields.io/github/last-commit/pyrocat101/opal)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
@@ -402,7 +405,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
-  - [Fan](http://zhanghongbo.me/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
+  - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
@@ -474,6 +477,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+  - [Parallel programming in multicore OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-multicore/parallel-programming-in-multicore-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-multicore/parallel-programming-in-multicore-ocaml)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+  - [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual 
+  - [Awesome multicore OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-multicore/awesome-multicore-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-multicore/awesome-multicore-ocaml)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ## Printers helpers
 
@@ -517,6 +523,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [slap ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/slap) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/slap)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 - [tensorflow-ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/LaurentMazare/tensorflow-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/LaurentMazare/tensorflow-ocaml)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 - [owl ![GitHub Repo Stars](https://img.shields.io/github/stars/owlbarn/owl) ![GitHub last commit](https://img.shields.io/github/last-commit/owlbarn/owl)](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
+- [WHIZARD](https://whizard.hepforge.org/) - A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
 
 
 ## Regular Expressions
@@ -545,6 +552,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Serialization
 
+- [atdgen ![GitHub Repo Stars](https://img.shields.io/github/stars/ahrefs/atd) ![GitHub last commit](https://img.shields.io/github/last-commit/ahrefs/atd)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 - [bencode ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/bencode) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/bencode)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
 - [biniou ![GitHub Repo Stars](https://img.shields.io/github/stars/mjambon/biniou) ![GitHub last commit](https://img.shields.io/github/last-commit/mjambon/biniou)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [cbor ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocaml-cbor) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocaml-cbor)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
@@ -593,6 +601,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
   - [webmachine ![GitHub Repo Stars](https://img.shields.io/github/stars/inhabitedtype/ocaml-webmachine) ![GitHub last commit](https://img.shields.io/github/last-commit/inhabitedtype/ocaml-webmachine)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
   - [incr_dom ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/incr_dom) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/incr_dom)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml
+  - [fmlib_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
   - [ocaml-vdom ![GitHub Repo Stars](https://img.shields.io/github/stars/LexiFi/ocaml-vdom) ![GitHub last commit](https://img.shields.io/github/last-commit/LexiFi/ocaml-vdom)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
 - **Tools**:
@@ -617,7 +626,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Goji ![GitHub Repo Stars](https://img.shields.io/github/stars/klakplok/goji) ![GitHub last commit](https://img.shields.io/github/last-commit/klakplok/goji)](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic ![GitHub Repo Stars](https://img.shields.io/github/stars/Cumulus/Syndic) ![GitHub last commit](https://img.shields.io/github/last-commit/Cumulus/Syndic)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
   - [ocaml-mustache ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/ocaml-mustache) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/ocaml-mustache)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
-  - [atdjs ![GitHub Repo Stars](https://img.shields.io/github/stars/barko/atdjs) ![GitHub last commit](https://img.shields.io/github/last-commit/barko/atdjs)](https://github.com/barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
+  - [atdjs ![GitHub Repo Stars](https://img.shields.io/github/stars/barko/atdjs) ![GitHub last commit](https://img.shields.io/github/last-commit/barko/atdjs)](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js_of_ocaml.
   - [jingoo ![GitHub Repo Stars](https://img.shields.io/github/stars/tategakibunko/jingoo) ![GitHub last commit](https://img.shields.io/github/last-commit/tategakibunko/jingoo)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
   - [dispatch ![GitHub Repo Stars](https://img.shields.io/github/stars/inhabitedtype/ocaml-dispatch) ![GitHub last commit](https://img.shields.io/github/last-commit/inhabitedtype/ocaml-dispatch)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup ![GitHub Repo Stars](https://img.shields.io/github/stars/aantron/lambda-soup) ![GitHub last commit](https://img.shields.io/github/last-commit/aantron/lambda-soup)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
