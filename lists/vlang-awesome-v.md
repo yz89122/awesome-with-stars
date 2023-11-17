@@ -295,6 +295,8 @@
 - [vdotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/zztkm/vdotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/zztkm/vdotenv)](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [vhs ![GitHub Repo Stars](https://img.shields.io/github/stars/KevinDaSilvaS/vhs) ![GitHub last commit](https://img.shields.io/github/last-commit/KevinDaSilvaS/vhs)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall ![GitHub Repo Stars](https://img.shields.io/github/stars/malisipi/VInstall) ![GitHub last commit](https://img.shields.io/github/last-commit/malisipi/VInstall)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
+- [votp ![GitHub Repo Stars](https://img.shields.io/github/stars/OdaiGH/votp) ![GitHub last commit](https://img.shields.io/github/last-commit/OdaiGH/votp)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+
 
 ### Web
 
