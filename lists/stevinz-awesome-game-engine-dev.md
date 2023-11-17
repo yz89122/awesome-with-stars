@@ -1354,10 +1354,10 @@ _Resources to help bring video games and game engines alive._
 
 ### Material Assets
 - 🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically-based rendering.
-- 🆓 [Pmndrs Materials](https://market.pmnd.rs/materials) - Collection of public domain materials.
+- 🆓 [Pmndrs Materials ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/market-assets) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/market-assets)](https://github.com/pmndrs/market-assets/tree/main/files/materials) - Collection of public domain materials.
 
 ### Model Assets
-- 🆓 [Pmndrs Market](https://market.pmnd.rs) - Collection of public domain models.
+- 🆓 [Pmndrs Market ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/market) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/market)](https://github.com/pmndrs/market) - Collection of public domain models.
 - 🆓 [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
 - 🆓 [Quaternius](https://quaternius.com) - Collection of CC0 1.0 3D models.
 - 📚 [Retro3DGraphicsCollection ![GitHub Repo Stars](https://img.shields.io/github/stars/Miziziziz/Retro3DGraphicsCollection) ![GitHub last commit](https://img.shields.io/github/last-commit/Miziziziz/Retro3DGraphicsCollection)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro (PS1 style) 3D graphics assets.
