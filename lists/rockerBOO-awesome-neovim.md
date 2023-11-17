@@ -1022,6 +1022,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nyngwang/NeoNoName.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/nyngwang/NeoNoName.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/nyngwang/NeoNoName.lua)](https://github.com/nyngwang/NeoNoName.lua) - Layout preserving buffer deletion.
 - [famiu/bufdelete.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/famiu/bufdelete.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/famiu/bufdelete.nvim)](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing your window layout.
 - [echasnovski/mini.nvim#mini.bufremove ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bufremove.md) - Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout.
+- [jyscao/ventana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jyscao/ventana.nvim)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 
 ### Tmux
 
