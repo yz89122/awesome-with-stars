@@ -232,7 +232,7 @@
 - 💼🔧 [tailwindcss-webpack-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/await-ovo/tailwindcss-webpack-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/await-ovo/tailwindcss-webpack-plugin)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 - 💼🔧 [tailwindcss-vite-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/await-ovo/tailwindcss-webpack-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/await-ovo/tailwindcss-webpack-plugin)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 - 💼🔧 [Tailwind Config Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/rogden/tailwind-config-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/rogden/tailwind-config-viewer)](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
-- 💼🔧 [Laravel Form Components ![GitHub Repo Stars](https://img.shields.io/github/stars/pascalbaljetmedia/laravel-form-components) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalbaljetmedia/laravel-form-components)](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
+- ����🔧 [Laravel Form Components ![GitHub Repo Stars](https://img.shields.io/github/stars/pascalbaljetmedia/laravel-form-components) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalbaljetmedia/laravel-form-components)](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 - 💼 [@ngneat/tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/tailwind)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 - 💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 - 💼 [clb ![GitHub Repo Stars](https://img.shields.io/github/stars/crswll/clb) ![GitHub last commit](https://img.shields.io/github/last-commit/crswll/clb)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
@@ -337,7 +337,7 @@
 
 ## Starters & Themes
 
-**Legend**: �� Package · 📟 Command line tool/generator · 🚀 Cloneable
+**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 - 📟 [Create React App with PurgeCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/DemianD/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/DemianD/create-react-app-tailwindcss)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
