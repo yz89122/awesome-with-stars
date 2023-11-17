@@ -151,12 +151,14 @@ More showcase :
 ### Data structures
 * [polygonal-ds ![GitHub Repo Stars](https://img.shields.io/github/stars/polygonal/ds) ![GitHub last commit](https://img.shields.io/github/last-commit/polygonal/ds)](https://github.com/polygonal/ds) - Data structures for games.
 
+### Dialogues
+* [hxyarn ![GitHub Repo Stars](https://img.shields.io/github/stars/cxsquared/hxyarn) ![GitHub last commit](https://img.shields.io/github/last-commit/cxsquared/hxyarn)](https://github.com/cxsquared/hxyarn) - Parser and runner for Yarn dialogue files.
+
 ### Editor
 * [flixel-studio ![GitHub Repo Stars](https://img.shields.io/github/stars/Dovyski/flixel-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/Dovyski/flixel-studio)](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
 
 ### Helpers
 * [deepnightLibs ![GitHub Repo Stars](https://img.shields.io/github/stars/deepnight/deepnightLibs) ![GitHub last commit](https://img.shields.io/github/last-commit/deepnight/deepnightLibs)](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
-|Procedural generation|[Dungeon builder ![GitHub Repo Stars](https://img.shields.io/github/stars/julsam/dungeon-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/julsam/dungeon-builder)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ### Localization
 * [firetongue ![GitHub Repo Stars](https://img.shields.io/github/stars/larsiusprime/firetongue) ![GitHub last commit](https://img.shields.io/github/last-commit/larsiusprime/firetongue)](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
@@ -185,6 +187,9 @@ More showcase :
 ### Pathfinding
 * [pathfinder ![GitHub Repo Stars](https://img.shields.io/github/stars/hypersurge/pathfinder) ![GitHub last commit](https://img.shields.io/github/last-commit/hypersurge/pathfinder)](https://github.com/hypersurge/pathfinder) - Easy A* pathfinding algorithm.
 * [astar](https://gitlab.com/haath/astar) - Versatile framework-agnostic A-star solver Library.
+
+### Procedural generation
+* [Dungeon builder ![GitHub Repo Stars](https://img.shields.io/github/stars/julsam/dungeon-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/julsam/dungeon-builder)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ### Shaders
 * [HGSL ![GitHub Repo Stars](https://img.shields.io/github/stars/saharan/HGSL) ![GitHub last commit](https://img.shields.io/github/last-commit/saharan/HGSL)](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
