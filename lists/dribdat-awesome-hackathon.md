@@ -23,14 +23,14 @@ A curated open list of platforms and tools that can help you to **organize and r
 - [Hackfoldr ![GitHub Repo Stars](https://img.shields.io/github/stars/hackfoldr/hackfoldr) ![GitHub last commit](https://img.shields.io/github/last-commit/hackfoldr/hackfoldr)](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [JunctionApp ![GitHub Repo Stars](https://img.shields.io/github/stars/hackjunction/JunctionApp) ![GitHub last commit](https://img.shields.io/github/last-commit/hackjunction/JunctionApp)](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [Quill ![GitHub Repo Stars](https://img.shields.io/github/stars/techx/quill) ![GitHub last commit](https://img.shields.io/github/last-commit/techx/quill)](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
-- [VersusVirus-App ![GitHub Repo Stars](https://img.shields.io/github/stars/VersusVirus-Hackathons/VersusVirus-App) ![GitHub last commit](https://img.shields.io/github/last-commit/VersusVirus-Hackathons/VersusVirus-App)](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained.
+- [VersusVirus-App ![GitHub Repo Stars](https://img.shields.io/github/stars/VersusVirus-Hackathons/VersusVirus-App) ![GitHub last commit](https://img.shields.io/github/last-commit/VersusVirus-Hackathons/VersusVirus-App)](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons, unmaintained.
 - [Civic Tech Exchange ![GitHub Repo Stars](https://img.shields.io/github/stars/DemocracyLab/CivicTechExchange) ![GitHub last commit](https://img.shields.io/github/last-commit/DemocracyLab/CivicTechExchange)](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 
 ### Closed Source
 
 > Despite having a presence on GitHub, the core sources of these applications are at this time closed (🔒). 
 
-- [Agorize](https://github.com/agorize) - A French company that provides open innovation software.
+- [Agorize](https://.com/agorize) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
 - [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
@@ -59,20 +59,24 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ### Organizing
 
+- [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 - [BoilerBot ![GitHub Repo Stars](https://img.shields.io/github/stars/BoilerMake/boilerbot) ![GitHub last commit](https://img.shields.io/github/last-commit/BoilerMake/boilerbot)](https://github.com/BoilerMake/boilerbot) - Take control of your Slack by creating groups, assigning tasks, and more.
 - [Hubot-RedisRed ![GitHub Repo Stars](https://img.shields.io/github/stars/Detry322/hubot-redisred) ![GitHub last commit](https://img.shields.io/github/last-commit/Detry322/hubot-redisred)](https://github.com/Detry322/hubot-redisred) - As well as [hubot-group ![GitHub Repo Stars](https://img.shields.io/github/stars/anishathalye/hubot-group) ![GitHub last commit](https://img.shields.io/github/last-commit/anishathalye/hubot-group)](https://github.com/anishathalye/hubot-group), [hubot-conf ![GitHub Repo Stars](https://img.shields.io/github/stars/anishathalye/hubot-conf) ![GitHub last commit](https://img.shields.io/github/last-commit/anishathalye/hubot-conf)](https://github.com/anishathalye/hubot-conf), [hubot-shortcut ![GitHub Repo Stars](https://img.shields.io/github/stars/anishathalye/hubot-shortcut) ![GitHub last commit](https://img.shields.io/github/last-commit/anishathalye/hubot-shortcut)](https://github.com/anishathalye/hubot-shortcut) by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 
 ### Teambuilding
 
 - [Dridbot ![GitHub Repo Stars](https://img.shields.io/github/stars/dribdat/dridbot) ![GitHub last commit](https://img.shields.io/github/last-commit/dribdat/dridbot)](https://github.com/dribdat/dridbot) - Chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons.
+- [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form their own team based on challenges they want to tackle.
 
 ### Coaching
 
 - [HackMIT-HELPq ![GitHub Repo Stars](https://img.shields.io/github/stars/ehzhang/helpq) ![GitHub last commit](https://img.shields.io/github/last-commit/ehzhang/helpq)](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 - [Treehacks-MentorBot ![GitHub Repo Stars](https://img.shields.io/github/stars/TreeHacks/slack-mentorship) ![GitHub last commit](https://img.shields.io/github/last-commit/TreeHacks/slack-mentorship)](https://github.com/TreeHacks/slack-mentorship) - Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
+- [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
 
 ### Evaluating
 
+- [@CivicWhitaker Anthology](https://smartchicagocollaborative.org/launch-the-civicwhitaker-anthology/) - Evaluates three years of organizing hackathons in Chicago civic tech.
 - [Expo Table app ![GitHub Repo Stars](https://img.shields.io/github/stars/nealrs/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/nealrs/expo)](https://github.com/nealrs/expo#fork-destination-box) - Create a Devpost Expo table frontend.
 - [Gavel ![GitHub Repo Stars](https://img.shields.io/github/stars/anishathalye/gavel) ![GitHub last commit](https://img.shields.io/github/last-commit/anishathalye/gavel)](https://github.com/anishathalye/gavel) - A project expo judging system by HackMIT that uses fancy math to get good results.
 
@@ -81,6 +85,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 > These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 - [Dribdat wiki ![GitHub Repo Stars](https://img.shields.io/github/stars/dribdat/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/dribdat/docs)](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
+- [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
 - [Hackathon Hackers Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/HackathonHackers/Hackathon-Resources) ![GitHub last commit](https://img.shields.io/github/last-commit/HackathonHackers/Hackathon-Resources)](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
 - [Hackathon.guide ![GitHub Repo Stars](https://img.shields.io/github/stars/JoshData/hackathon.guide) ![GitHub last commit](https://img.shields.io/github/last-commit/JoshData/hackathon.guide)](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden ![GitHub Repo Stars](https://img.shields.io/github/stars/okfde/hackathon-leitfaden) ![GitHub last commit](https://img.shields.io/github/last-commit/okfde/hackathon-leitfaden)](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.

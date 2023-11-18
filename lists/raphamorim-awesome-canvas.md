@@ -79,6 +79,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
 ### To draw using canvas
 
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
+- [Chart.js ![GitHub Repo Stars](https://img.shields.io/github/stars/chartjs/Chart.js) ![GitHub last commit](https://img.shields.io/github/last-commit/chartjs/Chart.js)](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [d3 ![GitHub Repo Stars](https://img.shields.io/github/stars/d3/d3) ![GitHub last commit](https://img.shields.io/github/last-commit/d3/d3)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 - [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
@@ -107,6 +108,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [tsParticles](https://particles.matteobruni.it/) is a lightweight library for creating easily particles animations. It includes ready to use components for the most used Javascript frameworks (ReactJS, VueJS, Angular, etc.)
 - [Visualize ![GitHub Repo Stars](https://img.shields.io/github/stars/filamentgroup/jQuery-Visualize) ![GitHub last commit](https://img.shields.io/github/last-commit/filamentgroup/jQuery-Visualize)](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 - [zDog ![GitHub Repo Stars](https://img.shields.io/github/stars/metafizzy/zdog) ![GitHub last commit](https://img.shields.io/github/last-commit/metafizzy/zdog)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+- [ZIM](https://zimjs.com/) - ZIM is a general Canvas Framework with simple, powerful JavaScript that lets everyone, from beginners to professionals, code creativity.
 - [zrender ![GitHub Repo Stars](https://img.shields.io/github/stars/ecomfe/zrender) ![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/zrender)](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
 
 ### For other purposes, but still use canvas
