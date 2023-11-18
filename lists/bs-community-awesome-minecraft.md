@@ -177,6 +177,8 @@
 - [WorldGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/EngineHub/WorldGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineHub/WorldGuard)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 - [CraftBook ![GitHub Repo Stars](https://img.shields.io/github/stars/EngineHub/CraftBook) ![GitHub last commit](https://img.shields.io/github/last-commit/EngineHub/CraftBook)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 - [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
+- [LuckPerms](https://luckperms.net/) - Manage permissions.
+- [CoreProtect ![GitHub Repo Stars](https://img.shields.io/github/stars/PlayPro/CoreProtect) ![GitHub last commit](https://img.shields.io/github/last-commit/PlayPro/CoreProtect)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
 
 ## Resource Packs
 
@@ -237,6 +239,8 @@
 - [Minecraft Command Helper ![GitHub Repo Stars](https://img.shields.io/github/stars/IceLitty/Minecraft-Command-Helper) ![GitHub last commit](https://img.shields.io/github/last-commit/IceLitty/Minecraft-Command-Helper)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 - [Amidst ![GitHub Repo Stars](https://img.shields.io/github/stars/toolbox4minecraft/amidst) ![GitHub last commit](https://img.shields.io/github/last-commit/toolbox4minecraft/amidst)](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
+- [Amulet ![GitHub Repo Stars](https://img.shields.io/github/stars/Amulet-Team/Amulet-Map-Editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Amulet-Team/Amulet-Map-Editor)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+- [NBTEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/Howaner/NBTEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/Howaner/NBTEditor)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
 
 ### Launchers
 
