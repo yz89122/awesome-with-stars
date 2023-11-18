@@ -809,7 +809,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 
-- [phan ![GitHub Repo Stars](https://img.shields.io/github/stars/phan/phan) ![GitHub last commit](https://img.shields.io/github/last-commit/phan/phan)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
+- [phan ![GitHub Repo Stars](https://img.shields.io/github/stars/phan/phan) ![GitHub last commit](https://img.shields.io/github/last-commit/phan/phan)](https://github.com/phan/phan/wiki) ��� A modern static analyzer from etsy.
 
 - [PHP Architecture Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosas/phpat) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosas/phpat)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
 
