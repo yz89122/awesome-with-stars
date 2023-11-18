@@ -73,7 +73,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Preconfigured Configs with ESLint Set up
 
 - [Node.js Standard Style ![GitHub Repo Stars](https://img.shields.io/github/stars/geek/node-style) ![GitHub last commit](https://img.shields.io/github/last-commit/geek/node-style)](https://github.com/geek/node-style) - Node.js core config.
-- [prettier-standard ![GitHub Repo Stars](https://img.shields.io/github/stars/sheerun/prettier-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/sheerun/prettier-standard)](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
+- [eslint-config-prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/eslint-config-prettier)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
 - [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/standard)](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint ![GitHub Repo Stars](https://img.shields.io/github/stars/supermind/superlint) ![GitHub last commit](https://img.shields.io/github/last-commit/supermind/superlint)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 - [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/xo)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
