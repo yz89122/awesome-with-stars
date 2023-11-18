@@ -199,6 +199,7 @@
 - [dmmulroy/tsc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dmmulroy/tsc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dmmulroy/tsc.nvim)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
 - [chuwy/ucm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chuwy/ucm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chuwy/ucm.nvim)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
 - [niuiic/typst-preview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/typst-preview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/typst-preview.nvim)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
+- [simaxme/java.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/simaxme/java.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/simaxme/java.nvim)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 
 ### Golang
 
