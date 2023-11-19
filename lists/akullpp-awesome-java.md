@@ -478,6 +478,7 @@ _Libraries to create modern graphical user interfaces._
 
 - [JavaFX](https://wiki.openjdk.java.net/display/OpenJFX/Main) - Successor of Swing.
 - [Scene Builder](https://gluonhq.com/products/scene-builder/) - Visual layout tool for JavaFX applications.
+- [SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
 - [SWT](https://www.eclipse.org/swt/) - Graphical widget toolkit.
 
 ### High Performance
@@ -523,6 +524,7 @@ _Integrated development environments that try to simplify several aspects of dev
 - [IntelliJ IDEA ![c]](https://www.jetbrains.com/idea/) - Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 - [jGRASP](https://www.jgrasp.org) - Created to provide software visualizations that work in conjunction with the debugger such as Control Structure Diagrams, UML class diagrams and Object Viewer.
 - [NetBeans](https://netbeans.apache.org) - Provides integration for several Java SE and EE features, from database access to HTML5.
+- [SnapCode](https://reportmill.com/SnapCode/) - Modern IDE for Java running in the browser, focused on education.
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/java) - Provides Java support for lightweight projects with a simple, modern workflow by using extensions from the internal marketplace.
 
 ### Imagery
@@ -597,6 +599,7 @@ _Current implementations of the JVM/JDK._
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview) - RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 - [SAP Machine](https://sap.github.io/SapMachine/) - SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork. (GPL-2.0-only WITH Classpath-exception-2.0)
 - [Zulu](https://www.azul.com/products/zulu-community/) - OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
+- [Microsoft JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/openjdk) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/openjdk)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 ### Logging
 
@@ -958,6 +961,7 @@ _Libraries for scientific computing, analysis and visualization._
 - [LogicNG ![GitHub Repo Stars](https://img.shields.io/github/stars/logic-ng/LogicNG) ![GitHub last commit](https://img.shields.io/github/last-commit/logic-ng/LogicNG)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 - [Mines Java Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/MinesJTK/jtk) ![GitHub last commit](https://img.shields.io/github/last-commit/MinesJTK/jtk)](https://github.com/MinesJTK/jtk) - Library for geophysical scientific computation, visualization and digital signal analysis.
 - [Morpheus ![GitHub Repo Stars](https://img.shields.io/github/stars/zavtech/morpheus-core) ![GitHub last commit](https://img.shields.io/github/last-commit/zavtech/morpheus-core)](https://github.com/zavtech/morpheus-core) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
+- [Orekit](https://www.orekit.org/) - A low level space flight dynamics library providing basic elements (orbits, dates, attitude, frames...) and various algorithms (conversions, propagations, pointing...) to handle them.
 - [Orson-Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/jfree/orson-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/jfree/orson-charts)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
 - [Tablesaw ![GitHub Repo Stars](https://img.shields.io/github/stars/jtablesaw/tablesaw) ![GitHub last commit](https://img.shields.io/github/last-commit/jtablesaw/tablesaw)](https://github.com/jtablesaw/tablesaw) - Includes a data-frame, an embedded column store, and hundreds of methods to transform, summarize, or filter data.
 - [XChart ![GitHub Repo Stars](https://img.shields.io/github/stars/knowm/XChart) ![GitHub last commit](https://img.shields.io/github/last-commit/knowm/XChart)](https://github.com/knowm/XChart) - Light-weight library for plotting data. Many customizable chart types are available.
@@ -1125,6 +1129,7 @@ _Tools which mock collaborators to help testing single, isolated units._
 - [Moco ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamhead/moco) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamhead/moco)](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks.
 - [PowerMock ![GitHub Repo Stars](https://img.shields.io/github/stars/powermock/powermock) ![GitHub last commit](https://img.shields.io/github/last-commit/powermock/powermock)](https://github.com/powermock/powermock) - Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
 - [WireMock](http://wiremock.org) - Stubs and mocks web services.
+- [EasyMock ![GitHub Repo Stars](https://img.shields.io/github/stars/easymock/easymock) ![GitHub last commit](https://img.shields.io/github/last-commit/easymock/easymock)](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
 ### Utility
 
