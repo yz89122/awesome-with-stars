@@ -213,16 +213,22 @@ Information about the various open source tools you can use to leverage fuzz tes
 ### Kernel
 ### Network
 ### API
+- [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - IvySyn is a fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
+- [MINER ![GitHub Repo Stars](https://img.shields.io/github/stars/puppet-meteor/MINER) ![GitHub last commit](https://img.shields.io/github/last-commit/puppet-meteor/MINER)](https://github.com/puppet-meteor/MINER) - MINER is a REST API fuzzer that utilizes three data-driven designs working together to guide the sequence generation, improve the request generation quality, and capture the unique errors caused by incorrect parameter usage.
+- [RestTestGen ![GitHub Repo Stars](https://img.shields.io/github/stars/SeUniVr/RestTestGen) ![GitHub last commit](https://img.shields.io/github/last-commit/SeUniVr/RestTestGen)](https://github.com/SeUniVr/RestTestGen) - RestTestGen is a robust tool and framework designed for automated black-box testing of RESTful web APIs.
+- [GraphFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/ForAllSecure/GraphFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/ForAllSecure/GraphFuzz)](https://github.com/ForAllSecure/GraphFuzz) - GraphFuzz is an experimental framework for building structure-aware, library API fuzzers.
+- [Minerva ![GitHub Repo Stars](https://img.shields.io/github/stars/ChijinZ/Minerva) ![GitHub last commit](https://img.shields.io/github/last-commit/ChijinZ/Minerva)](https://github.com/ChijinZ/Minerva) - Minerva is a browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
+- [FANS ![GitHub Repo Stars](https://img.shields.io/github/stars/iromise/fans) ![GitHub last commit](https://img.shields.io/github/last-commit/iromise/fans)](https://github.com/iromise/fans) - FANS is a fuzzing tool for fuzzing Android native system services. It contains four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
 ### JavaScript
 ### Firmware
 ### Hypervisor
 ### CPU
 ### Lib
-### Argument
+### Web
 ### DOM
+### Argument
 ### UI
 ### Blockchain
-### AI
 
 
 ## Contribute
