@@ -223,12 +223,22 @@ Information about the various open source tools you can use to leverage fuzz tes
 ### Firmware
 ### Hypervisor
 ### CPU
+- [DifuzzRTL ![GitHub Repo Stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl) ![GitHub last commit](https://img.shields.io/github/last-commit/compsec-snu/difuzz-rtl)](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification. 
+- [MorFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/sycuricon/MorFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/sycuricon/MorFuzz)](https://github.com/sycuricon/MorFuzz) - MorFuzz is a generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
+- [SpecFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/tudinfse/SpecFuzz)](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities
+- [Transynther ![GitHub Repo Stars](https://img.shields.io/github/stars/vernamlab/Medusa) ![GitHub last commit](https://img.shields.io/github/last-commit/vernamlab/Medusa)](https://github.com/vernamlab/Medusa) - Transynther automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
 ### Lib
 ### Web
+- [TEFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/seclab-fudan/TEFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/seclab-fudan/TEFuzz)](https://github.com/seclab-fudan/TEFuzz/) - TEFuzz is a tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
+- [Witcher ![GitHub Repo Stars](https://img.shields.io/github/stars/sefcom/Witcher) ![GitHub last commit](https://img.shields.io/github/last-commit/sefcom/Witcher)](https://github.com/sefcom/Witcher) - Witcher is a web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
+- [CorbFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/shouc/corbfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/shouc/corbfuzz)](https://github.com/shouc/corbfuzz) - CorbFuzz is a state-aware fuzzer for generating as much reponses from a web application as possible without need of setting up database, etc.
 ### DOM
 ### Argument
-### UI
 ### Blockchain
+- [Fluffy ![GitHub Repo Stars](https://img.shields.io/github/stars/snuspl/fluffy) ![GitHub last commit](https://img.shields.io/github/last-commit/snuspl/fluffy)](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum. 
+- [LOKI ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsensusFuzz/LOKI) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsensusFuzz/LOKI)](https://github.com/ConsensusFuzz/LOKI) - LOKI is a blockchain consensus protocol fuzzing framework that detects the consensus memory related and logic bugs.
+### DBMS
+- [Squirrel ![GitHub Repo Stars](https://img.shields.io/github/stars/s3team/Squirrel) ![GitHub last commit](https://img.shields.io/github/last-commit/s3team/Squirrel)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
 
 
 ## Contribute
