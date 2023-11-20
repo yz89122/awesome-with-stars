@@ -185,6 +185,7 @@
 - [CamdenClark/flyboy ![GitHub Repo Stars](https://img.shields.io/github/stars/CamdenClark/flyboy) ![GitHub last commit](https://img.shields.io/github/last-commit/CamdenClark/flyboy)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
 - [gsuuon/llm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gsuuon/llm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gsuuon/llm.nvim)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 - [dense-analysis/neural ![GitHub Repo Stars](https://img.shields.io/github/stars/dense-analysis/neural) ![GitHub last commit](https://img.shields.io/github/last-commit/dense-analysis/neural)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
+- [jpmcb/nvim-llama ![GitHub Repo Stars](https://img.shields.io/github/stars/jpmcb/nvim-llama) ![GitHub last commit](https://img.shields.io/github/last-commit/jpmcb/nvim-llama)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 
 ## Programming Languages Support
 
@@ -257,6 +258,7 @@
 - [m-demare/hlargs.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 - [LhKipp/nvim-nu ![GitHub Repo Stars](https://img.shields.io/github/stars/LhKipp/nvim-nu) ![GitHub last commit](https://img.shields.io/github/last-commit/LhKipp/nvim-nu)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 - [desdic/agrolens.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/agrolens.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/agrolens.nvim)](https://github.com/desdic/agrolens.nvim) - Navigate via Tree-sitter nodes using Telescope.
+- [IndianBoy42/tree-sitter-just ![GitHub Repo Stars](https://img.shields.io/github/stars/IndianBoy42/tree-sitter-just) ![GitHub last commit](https://img.shields.io/github/last-commit/IndianBoy42/tree-sitter-just)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles ![GitHub Repo Stars](https://img.shields.io/github/stars/casey/just) ![GitHub last commit](https://img.shields.io/github/last-commit/casey/just)](https://github.com/casey/just).
 
 ## Snippet
 
@@ -267,6 +269,7 @@
 - [ellisonleao/carbon-now.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 - [TobinPalmer/rayso.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
 - [mrcjkb/haskell-snippets.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+- [rafamadriz/friendly-snippets ![GitHub Repo Stars](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![GitHub last commit](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 
 ## Register
 
@@ -939,6 +942,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [tomiis4/hypersonic.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tomiis4/hypersonic.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tomiis4/hypersonic.nvim)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
 - [00sapo/visual.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/00sapo/visual.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/00sapo/visual.nvim)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 - [chrisgrieser/nvim-puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-puppeteer)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+- [nat-418/boole.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nat-418/boole.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nat-418/boole.nvim)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 
 ### Comment
 
