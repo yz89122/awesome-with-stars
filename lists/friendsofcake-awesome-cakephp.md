@@ -157,7 +157,7 @@ Additional lists you might find useful:
 ## File Manipulation
 *Plugins for file manipulation.*
 
-- [FileStorage plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-file-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-file-storage)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+- 🍰 [FileStorage plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-file-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-file-storage)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 - [Josbeir/Filesystem plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-filesystem) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-filesystem)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
 - 🍰 [Josegonzalez/Upload plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/cakephp-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/cakephp-upload)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
