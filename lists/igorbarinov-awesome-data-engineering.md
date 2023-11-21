@@ -110,6 +110,7 @@ List of content
 * [Pravega](http://www.pravega.io) Pravega provides a new storage abstraction - a stream - for continuous and unbounded data.
 * [Apache Pulsar](https://pulsar.apache.org/) Apache Pulsar is an open-source distributed pub-sub messaging system.
 * [AWS Data Wranlger ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) Utility belt to handle data on AWS.
+* [Airbyte](https://airbyte.io/) Open-source data integration for modern data teams
 
 # File System
 * [HDFS](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
@@ -154,6 +155,7 @@ multi-processor, multi-core machines
 * [Robinhood's Faust ![GitHub Repo Stars](https://img.shields.io/github/stars/faust-streaming/faust) ![GitHub last commit](https://img.shields.io/github/last-commit/faust-streaming/faust)](https://github.com/faust-streaming/faust) Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
 * [HStreamDB ![GitHub Repo Stars](https://img.shields.io/github/stars/hstreamdb/hstream) ![GitHub last commit](https://img.shields.io/github/last-commit/hstreamdb/hstream)](https://github.com/hstreamdb/hstream) The streaming database built for IoT data storage and real-time processing.
 * [Kuiper ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/kuiper) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/kuiper)](https://github.com/emqx/kuiper) An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+* [Zilla ![GitHub Repo Stars](https://img.shields.io/github/stars/aklivity/zilla) ![GitHub last commit](https://img.shields.io/github/last-commit/aklivity/zilla)](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 # Batch Processing
 * [Hadoop MapReduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner
@@ -162,7 +164,9 @@ multi-processor, multi-core machines
 	* [Deep Spark ![GitHub Repo Stars](https://img.shields.io/github/stars/Stratio/deep-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/Stratio/deep-spark)](https://github.com/Stratio/deep-spark) Connecting Apache Spark with different data stores. Deprecated.
 	* [Spark RDD API Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html) by Zhen He
 	* [Livy](https://livy.incubator.apache.org) Livy, the REST Spark Server
+	* [Delight ![GitHub Repo Stars](https://img.shields.io/github/stars/datamechanics/delight) ![GitHub last commit](https://img.shields.io/github/last-commit/datamechanics/delight)](https://github.com/datamechanics/delight) A free & cross platform monitoring tool (Spark UI / Spark History Server alternative)
 * [AWS EMR](https://aws.amazon.com/emr/) A web service that makes it easy to quickly and cost-effectively process vast amounts of data.
+* [Data Mechanics](https://www.datamechanics.co) A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.
 * [Tez](https://tez.apache.org/) An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
 * [Bistro ![GitHub Repo Stars](https://img.shields.io/github/stars/asavinov/bistro) ![GitHub last commit](https://img.shields.io/github/last-commit/asavinov/bistro)](https://github.com/asavinov/bistro) is a light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via *functions* and processes data via *columns operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
 - Batch ML
@@ -204,6 +208,7 @@ multi-processor, multi-core machines
 * [Oozie](https://oozie.apache.org/) Oozie is a workflow scheduler system to manage Apache Hadoop jobs
 * [Pinball ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/pinball) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/pinball)](https://github.com/pinterest/pinball) DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
 * [Dagster ![GitHub Repo Stars](https://img.shields.io/github/stars/dagster-io/dagster) ![GitHub last commit](https://img.shields.io/github/last-commit/dagster-io/dagster)](https://github.com/dagster-io/dagster) Dagster is an open-source Python library for building data applications.
+* [Kedro](https://kedro.readthedocs.io/en/latest/) Kedro is a framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
 * [Dataform](https://dataform.co/) is an open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
 * [Census](https://getcensus.com/) is a reverse-ETL  tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.
 * [dbt](https://getdbt.com/) is a command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
@@ -211,6 +216,7 @@ multi-processor, multi-core machines
 
 # Data Lake Management
 * [lakeFS ![GitHub Repo Stars](https://img.shields.io/github/stars/treeverse/lakeFS) ![GitHub last commit](https://img.shields.io/github/last-commit/treeverse/lakeFS)](https://github.com/treeverse/lakeFS) lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes.
+
 
 # ELK Elastic Logstash Kibana
 * [docker-logstash ![GitHub Repo Stars](https://img.shields.io/github/stars/pblittle/docker-logstash) ![GitHub last commit](https://img.shields.io/github/last-commit/pblittle/docker-logstash)](https://github.com/pblittle/docker-logstash) A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
@@ -247,6 +253,10 @@ multi-processor, multi-core machines
 ## Prometheus
 * [Prometheus.io ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/prometheus)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
 * [HAProxy Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/haproxy_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/haproxy_exporter)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+
+# Testing
+* [Grai ![GitHub Repo Stars](https://img.shields.io/github/stars/grai-io/grai-core) ![GitHub last commit](https://img.shields.io/github/last-commit/grai-io/grai-core)](https://github.com/grai-io/grai-core/) is a data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
+
 
 # Community
 
