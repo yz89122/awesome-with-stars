@@ -46,6 +46,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Extending JMeter](#extending-jmeter)
   - [IDE Integration](#ide-integration)
   - [Editors](#editors)
+  - [Utilities](#utilities)
 - [APM Integration](#apm-integration)
 - [JMeter Performance](#jmeter-performance)
 - [Tips & Tricks](#tips--tricks)
@@ -180,6 +181,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Distributed JMeter testing using Docker](https://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
   - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
   - [AutoMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/intuit/autometer) ![GitHub last commit](https://img.shields.io/github/last-commit/intuit/autometer)](https://github.com/intuit/autometer) - An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture.
+  - [JMeter Docker Extension](https://hub.docker.com/extensions/qainsights/jmeter-docker-extension) - Docker extension to run JMeter tests from Docker Desktop.
 - Testing in Cloud
   - Kubernetes
     - [jmeter-kubernetes ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernauts/jmeter-kubernetes) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernauts/jmeter-kubernetes)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
@@ -350,6 +352,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JEval ![GitHub Repo Stars](https://img.shields.io/github/stars/QAInsights/JEval) ![GitHub last commit](https://img.shields.io/github/last-commit/QAInsights/JEval)](https://github.com/QAInsights/JEval) - A Python-based utility which evaluates JMeter test plan and provides recommendations and best practices by analyzing each element.
 - [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
 - [jmx.js](https://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files 💀.
+
+### Utilities
+
+- [Hamster ![GitHub Repo Stars](https://img.shields.io/github/stars/QAInsights/hamster) ![GitHub last commit](https://img.shields.io/github/last-commit/QAInsights/hamster)](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
 
 ## APM Integration
 
