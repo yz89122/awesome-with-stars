@@ -457,8 +457,6 @@ Once issued, an invoice must be immutable.
 
 - [InvoicePlane ![GitHub Repo Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane) ![GitHub last commit](https://img.shields.io/github/last-commit/InvoicePlane/InvoicePlane)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
-- [Volcano ![GitHub Repo Stars](https://img.shields.io/github/stars/volcano/volcano) ![GitHub last commit](https://img.shields.io/github/last-commit/volcano/volcano)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
-
 - [InvoiceGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/by-cx/InvoiceGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/by-cx/InvoiceGenerator)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 
 - [Ruby Invoicing Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/code-mancers/invoicing) ![GitHub last commit](https://img.shields.io/github/last-commit/code-mancers/invoicing)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
