@@ -1,4 +1,3 @@
-<!--lint disable awesome-github-->
 <div align="center">
   <a href="https://k6.io/">
     <img src="https://github.com/grafana/awesome-k6/raw/main/assets/bert.png" alt="k6 mascot" width="300px">
