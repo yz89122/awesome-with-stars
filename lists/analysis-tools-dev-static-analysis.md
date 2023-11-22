@@ -168,7 +168,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Ada</h2>
 
 
-- [Codepeer](https://www.adacore.com/static-analysis/codepeer) :copyright: — Detects run-time and logic errors.
+- [Codepeer](https://www.adacore.com/static-analysis/codepeer) :copyright: ��� Detects run-time and logic errors.
 
 - [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) :copyright: — Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in source code.
 
@@ -1276,7 +1276,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
 
-- [vscode-verilog-hdl-support ![GitHub Repo Stars](https://img.shields.io/github/stars/mshr-h/vscode-verilog-hdl-support) ![GitHub last commit](https://img.shields.io/github/last-commit/mshr-h/vscode-verilog-hdl-support)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
+- [vscode-verilog-hdl-support ![GitHub Repo Stars](https://img.shields.io/github/stars/mshr-h/vscode-verilog-hdl-support) ![GitHub last commit](https://img.shields.io/github/last-commit/mshr-h/vscode-verilog-hdl-support)](https://github.com/mshr-h/vscode-verilog-hdl-support) ��� Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 
 <a name="vim-script" />
