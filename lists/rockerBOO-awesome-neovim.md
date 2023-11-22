@@ -272,6 +272,7 @@
 - [TobinPalmer/rayso.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
 - [mrcjkb/haskell-snippets.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 - [rafamadriz/friendly-snippets ![GitHub Repo Stars](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![GitHub last commit](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+- [cvigilv/esqueleto.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cvigilv/esqueleto.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cvigilv/esqueleto.nvim)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
 
 ## Register
 
@@ -715,6 +716,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [andrewferrier/debugprint.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewferrier/debugprint.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewferrier/debugprint.nvim)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 - [t-troebst/perfanno.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/t-troebst/perfanno.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/t-troebst/perfanno.nvim)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 - [niuiic/dap-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/dap-utils.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/dap-utils.nvim)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+- [theHamsta/nvim-dap-virtual-text ![GitHub Repo Stars](https://img.shields.io/github/stars/theHamsta/nvim-dap-virtual-text) ![GitHub last commit](https://img.shields.io/github/last-commit/theHamsta/nvim-dap-virtual-text)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
 
 ### Quickfix
 
@@ -757,6 +759,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [jaytyrrell13/static.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 - [dasupradyumna/launch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dasupradyumna/launch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dasupradyumna/launch.nvim)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 - [benlubas/molten-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/benlubas/molten-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/benlubas/molten-nvim)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+- [bfredl/nvim-ipy ![GitHub Repo Stars](https://img.shields.io/github/stars/bfredl/nvim-ipy) ![GitHub last commit](https://img.shields.io/github/last-commit/bfredl/nvim-ipy)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
 
 ## Neovim Lua Development
 
