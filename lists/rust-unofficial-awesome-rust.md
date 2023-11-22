@@ -1785,7 +1785,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 ## Resources
 
 * Benchmarks
-  * [TeXitoi/benchmarksgame-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/TeXitoi/benchmarksgame-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/TeXitoi/benchmarksgame-rs)](https://github.com/TeXitoi/benchmarksgame-rs) — Rust implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
+  * [TeXitoi/benchmarksgame-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/TeXitoi/benchmarksgame-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/TeXitoi/benchmarksgame-rs)](https://github.com/TeXitoi/benchmarksgame-rs) �� Rust implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 * Decks & Presentations
   * [Learning systems programming with Rust](https://speakerdeck.com/jvns/learning-systems-programming-with-rust) — Presented by [Julia Evans](https://twitter.com/@b0rk) @ Rustconf 2016.
   * [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) — Presented by [Nicholas Matsakis](https://github.com/nikomatsakis) @ C++Now 2018
