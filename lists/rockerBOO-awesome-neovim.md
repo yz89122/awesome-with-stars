@@ -508,7 +508,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [4e554c4c/darkman.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
 - [f-person/auto-dark-mode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 - [zaldih/themery.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zaldih/themery.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zaldih/themery.nvim)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
-- [linrongbin16/colorbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/colorbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/colorbox.nvim)](https://github.com/linrongbin16/colorbox.nvim) - Ultra colors all-in-one! It weekly collect and update the most popurlar colorschemes, install them via git submodules instead of copy-paste source code, and allow you do any switches with multiple policies and timings.
+- [linrongbin16/colorbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/colorbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/colorbox.nvim)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings.
 
 ## Bars and Lines
 
@@ -953,6 +953,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [chrisgrieser/nvim-puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-puppeteer)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 - [nat-418/boole.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nat-418/boole.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nat-418/boole.nvim)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 - [cshuaimin/ssr.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cshuaimin/ssr.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cshuaimin/ssr.nvim)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
+- [Jxstxs/conceal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
 ### Comment
 
