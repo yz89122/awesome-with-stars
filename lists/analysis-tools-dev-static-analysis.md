@@ -1276,7 +1276,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
 
-- [vscode-verilog-hdl-support ![GitHub Repo Stars](https://img.shields.io/github/stars/mshr-h/vscode-verilog-hdl-support) ![GitHub last commit](https://img.shields.io/github/last-commit/mshr-h/vscode-verilog-hdl-support)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
+- [vscode-verilog-hdl-support ![GitHub Repo Stars](https://img.shields.io/github/stars/mshr-h/vscode-verilog-hdl-support) ![GitHub last commit](https://img.shields.io/github/last-commit/mshr-h/vscode-verilog-hdl-support)](https://github.com/mshr-h/vscode-verilog-hdl-support) �� Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 
 <a name="vim-script" />
