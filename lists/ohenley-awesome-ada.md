@@ -636,6 +636,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Frameworks
 - [SweetAda ![GitHub Repo Stars](https://img.shields.io/github/stars/gabriele-galeotti/SweetAda) ![GitHub last commit](https://img.shields.io/github/last-commit/gabriele-galeotti/SweetAda)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 - [robotics-with-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/Robotics_with_Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/Robotics_with_Ada)](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego.
+- [adamant ![GitHub Repo Stars](https://img.shields.io/github/stars/lasp/adamant) ![GitHub last commit](https://img.shields.io/github/last-commit/lasp/adamant)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
 ### Firmwares
 - [certiflie ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/Certyflie) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/Certyflie)](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware.
