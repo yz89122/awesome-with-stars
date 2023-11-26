@@ -376,7 +376,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## Artifact Repos
 
  * [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
- * [central.sonatype.org](https://central.sonatype.org) ��� The default artifact repository for Apache Maven, SBT, and other build systems.
+ * [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT, and other build systems.
  * [cloudrepo.io](https://cloudrepo.io) - Cloud-based, private and public, Maven and PyPi repositories. Free for open-source projects.
  * [cloudsmith.io](https://cloudsmith.io) — Simple, secure, and centralized repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant, and more. Free tier + free for open source.
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
@@ -475,7 +475,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## CMS
 
   * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) are also available.
-  * [Contentful](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes five users, 25K records, 48 Content Types, 2 locales.
+  * [Contentful](https://www.contentful.com/) �� Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes five users, 25K records, 48 Content Types, 2 locales.
   * [Cosmic](https://www.cosmicjs.com/) — Headless CMS and API toolkit. Free personal plans for developers.
   * [Crystallize](https://crystallize.com) — Headless PIM with ecommerce support. Built-in GraphQL API. The free version includes unlimited users, 1000 catalog items, 5 GB/month bandwidth, and 25k/month API calls.
   * [DatoCMS](https://www.datocms.com/) - Offers free tier for small projects. DatoCMS is a GraphQL-based CMS. On the lower tier, you have 100k/month calls.
