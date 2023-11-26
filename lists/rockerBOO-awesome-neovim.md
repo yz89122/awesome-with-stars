@@ -359,7 +359,6 @@
 ## Color
 
 - [NvChad/nvim-colorizer.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/NvChad/nvim-colorizer.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/NvChad/nvim-colorizer.lua)](https://github.com/NvChad/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies!.
-- [sunjon/Shade.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sunjon/Shade.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sunjon/Shade.nvim)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
 - [winston0410/range-highlight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
 - [xiyaowong/nvim-transparent ![GitHub Repo Stars](https://img.shields.io/github/stars/xiyaowong/nvim-transparent) ![GitHub last commit](https://img.shields.io/github/last-commit/xiyaowong/nvim-transparent)](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
 - [folke/twilight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/twilight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/twilight.nvim)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
@@ -509,7 +508,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [4e554c4c/darkman.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
 - [f-person/auto-dark-mode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 - [zaldih/themery.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zaldih/themery.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zaldih/themery.nvim)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
-- [linrongbin16/colorbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/colorbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/colorbox.nvim)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings.
+- [linrongbin16/colorbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/colorbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/colorbox.nvim)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
 
 ## Bars and Lines
 
@@ -684,6 +683,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [luckasRanarison/nvim-devdocs ![GitHub Repo Stars](https://img.shields.io/github/stars/luckasRanarison/nvim-devdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/luckasRanarison/nvim-devdocs)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 - [VidocqH/data-viewer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/VidocqH/data-viewer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/VidocqH/data-viewer.nvim)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 - [JMarkin/gentags.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/JMarkin/gentags.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/JMarkin/gentags.lua)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+- [`yutkat/confirm-quit.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/yutkat/confirm-quit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yutkat/confirm-quit.nvim)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
 
 ## Terminal Integration
 
