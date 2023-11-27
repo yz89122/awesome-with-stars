@@ -230,7 +230,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 - [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 - [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
-- [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
+- [GoNot��cias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
 
 ### R
 
