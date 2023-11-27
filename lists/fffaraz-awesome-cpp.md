@@ -1,7 +1,7 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-- [Awesome C++](#awesome-cpp)
+- [Awesome C++  ](#awesome-c--)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
@@ -24,7 +24,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [DSP](#dsp)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
-    - [Graph](#graph)
+	- [Graph](#graph)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
 	- [Image Processing](#image-processing)
@@ -76,6 +76,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [Jobs](#jobs)
 - [Sponsors](#sponsors)
 - [Contributing](#contributing)
+			- [*If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*](#if-you-see-a-project-or-link-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-document-thank-you)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
@@ -107,7 +108,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Folly ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/folly) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/folly)](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
 * [FunctionalPlus ![GitHub Repo Stars](https://img.shields.io/github/stars/Dobiasd/FunctionalPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/Dobiasd/FunctionalPlus)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. [MIT]
 * [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. [LGPL]
-* [JUCE ![GitHub Repo Stars](https://img.shields.io/github/stars/julianstorer/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/julianstorer/JUCE)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
+* [JUCE ![GitHub Repo Stars](https://img.shields.io/github/stars/julianstorer/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/julianstorer/JUCE)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
 * [Kigs framework ![GitHub Repo Stars](https://img.shields.io/github/stars/Kigs-framework/kigs) ![GitHub last commit](https://img.shields.io/github/last-commit/Kigs-framework/kigs)](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. [MIT] [website](https://kigs-framework.org/)
 * [libPhenom ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/libphenom) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/libphenom)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
 * [LibSourcey ![GitHub Repo Stars](https://img.shields.io/github/stars/sourcey/libsourcey) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcey/libsourcey)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
@@ -116,7 +117,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [MiLi ![GitHub Repo Stars](https://img.shields.io/github/stars/MariadeAnton/MiLi) ![GitHub last commit](https://img.shields.io/github/last-commit/MariadeAnton/MiLi)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. [Boost]
 * [OpenFrameworks ![GitHub Repo Stars](https://img.shields.io/github/stars/openframeworks/openFrameworks) ![GitHub last commit](https://img.shields.io/github/last-commit/openframeworks/openFrameworks)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. [MIT] [website](http://www.openframeworks.cc/)
-* [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Commercial] [website](https://www.qt.io)
+* [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Proprietary] [website](https://www.qt.io)
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]
 * [ROOT](https://root.cern.ch/) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
 * [Seastar ![GitHub Repo Stars](https://img.shields.io/github/stars/scylladb/seastar) ![GitHub last commit](https://img.shields.io/github/last-commit/scylladb/seastar)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] [seastar.io](http://seastar.io/)
@@ -168,12 +169,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [audioFlux ![GitHub Repo Stars](https://img.shields.io/github/stars/libAudioFlux/audioFlux) ![GitHub last commit](https://img.shields.io/github/last-commit/libAudioFlux/audioFlux)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
 * [dr_libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/dr_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/dr_libs)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
-* [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
+* [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Proprietary]
 * [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. [LGPL]
 * [libsndfile ![GitHub Repo Stars](https://img.shields.io/github/stars/erikd/libsndfile) ![GitHub last commit](https://img.shields.io/github/last-commit/erikd/libsndfile)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. [LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 * [libsoundio ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewrk/libsoundio) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewrk/libsoundio)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. [MIT] [website](http://libsound.io/)
 * [Maximilian ![GitHub Repo Stars](https://img.shields.io/github/stars/micknoise/Maximilian) ![GitHub last commit](https://img.shields.io/github/last-commit/micknoise/Maximilian)](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
-* [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
+* [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Proprietary]
 * [miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/miniaudio)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. [Unlicense] [website](https://miniaud.io/)
 * [ni-media ![GitHub Repo Stars](https://img.shields.io/github/stars/NativeInstruments/ni-media) ![GitHub last commit](https://img.shields.io/github/last-commit/NativeInstruments/ni-media)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. [MIT]
 * [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
@@ -473,8 +474,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Doxide ![GitHub Repo Stars](https://img.shields.io/github/stars/lawmurray/doxide) ![GitHub last commit](https://img.shields.io/github/last-commit/lawmurray/doxide)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. [Apache 2.0] [website](https://doxide.org)
 * [doxygen ![GitHub Repo Stars](https://img.shields.io/github/stars/doxygen/doxygen) ![GitHub last commit](https://img.shields.io/github/last-commit/doxygen/doxygen)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. [GPL2] [website](https://www.doxygen.org)
 * [doxyrest ![GitHub Repo Stars](https://img.shields.io/github/stars/vovkos/doxyrest) ![GitHub last commit](https://img.shields.io/github/last-commit/vovkos/doxyrest)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. [MIT]
-* [hdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/hdoc/hdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/hdoc/hdoc)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Commercial] [website](https://hdoc.io)
-* [Natural Docs ![GitHub Repo Stars](https://img.shields.io/github/stars/NaturalDocs/NaturalDocs) ![GitHub last commit](https://img.shields.io/github/last-commit/NaturalDocs/NaturalDocs)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Commercial] [website](https://www.naturaldocs.org)
+* [hdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/hdoc/hdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/hdoc/hdoc)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Proprietary] [website](https://hdoc.io)
+* [Natural Docs ![GitHub Repo Stars](https://img.shields.io/github/stars/NaturalDocs/NaturalDocs) ![GitHub last commit](https://img.shields.io/github/last-commit/NaturalDocs/NaturalDocs)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Proprietary] [website](https://www.naturaldocs.org)
 * [Sphinx ![GitHub Repo Stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) ![GitHub last commit](https://img.shields.io/github/last-commit/sphinx-doc/sphinx)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ## DSP
@@ -534,7 +535,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## GUI
 *Graphic User Interface*
 
-* [Boden ![GitHub Repo Stars](https://img.shields.io/github/stars/AshampooSystems/boden) ![GitHub last commit](https://img.shields.io/github/last-commit/AshampooSystems/boden)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Commercial] [website](https://www.boden.io)
+* [Boden ![GitHub Repo Stars](https://img.shields.io/github/stars/AshampooSystems/boden) ![GitHub last commit](https://img.shields.io/github/last-commit/AshampooSystems/boden)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Proprietary] [website](https://www.boden.io)
 * [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 * [Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/cycfi/elements) ![GitHub last commit](https://img.shields.io/github/last-commit/cycfi/elements)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. [MIT]
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [LGPL2]
@@ -555,7 +556,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [RmlUi ![GitHub Repo Stars](https://img.shields.io/github/stars/mikke89/RmlUi) ![GitHub last commit](https://img.shields.io/github/last-commit/mikke89/RmlUi)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. [MIT]
 * [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
-* [Slint ![GitHub Repo Stars](https://img.shields.io/github/stars/slint-ui/slint) ![GitHub last commit](https://img.shields.io/github/last-commit/slint-ui/slint)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Commercial] [website](https://slint.dev/)
+* [Slint ![GitHub Repo Stars](https://img.shields.io/github/stars/slint-ui/slint) ![GitHub last commit](https://img.shields.io/github/last-commit/slint-ui/slint)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Proprietary] [website](https://slint.dev/)
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 * [xtd ![GitHub Repo Stars](https://img.shields.io/github/stars/gammasoft71/xtd) ![GitHub last commit](https://img.shields.io/github/last-commit/gammasoft71/xtd)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. [MIT]
 * [Yue ![GitHub Repo Stars](https://img.shields.io/github/stars/yue/yue) ![GitHub last commit](https://img.shields.io/github/last-commit/yue/yue)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. [LGPLv2]
@@ -571,7 +572,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [DirectXTK ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/DirectXTK) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/DirectXTK)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. [MIT]
 * [GLFW ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
 * [GLFWPP ![GitHub Repo Stars](https://img.shields.io/github/stars/janekb04/glfwpp) ![GitHub last commit](https://img.shields.io/github/last-commit/janekb04/glfwpp)](https://github.com/janekb04/glfwpp) - A thin modern C++17 header-only wrapper for GLFW. [MIT]
-* [Harfang 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/harfang3d/harfang3d) ![GitHub last commit](https://img.shields.io/github/last-commit/harfang3d/harfang3d)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. [GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+* [Harfang 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/harfang3d/harfang3d) ![GitHub last commit](https://img.shields.io/github/last-commit/harfang3d/harfang3d)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. [GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
 * [herebedragons ![GitHub Repo Stars](https://img.shields.io/github/stars/kosua20/herebedragons) ![GitHub last commit](https://img.shields.io/github/last-commit/kosua20/herebedragons)](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs. [MIT] [website](http://simonrodriguez.fr/dragon/)
 * [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. [EPL]
 * [Ion ![GitHub Repo Stars](https://img.shields.io/github/stars/google/ion) ![GitHub last commit](https://img.shields.io/github/last-commit/google/ion)](https://github.com/google/ion) - A small and efficient set of libraries for building cross-platform client or server applications that use 3D graphics. [Apache2] [website](https://google.github.io/ion/)
@@ -778,7 +779,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Boehm GC ![GitHub Repo Stars](https://img.shields.io/github/stars/ivmai/bdwgc) ![GitHub last commit](https://img.shields.io/github/last-commit/ivmai/bdwgc)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. [similar to X11] [website](http://www.hboehm.info/gc/)
 * [C Smart Pointers ![GitHub Repo Stars](https://img.shields.io/github/stars/Snaipe/libcsptr) ![GitHub last commit](https://img.shields.io/github/last-commit/Snaipe/libcsptr)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
-* [Hoard ![GitHub Repo Stars](https://img.shields.io/github/stars/emeryberger/Hoard) ![GitHub last commit](https://img.shields.io/github/last-commit/emeryberger/Hoard)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [GPL, commercial] [website](http://hoard.org/)
+* [Hoard ![GitHub Repo Stars](https://img.shields.io/github/stars/emeryberger/Hoard) ![GitHub last commit](https://img.shields.io/github/last-commit/emeryberger/Hoard)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [Apache-2.0] [website](http://hoard.org/)
 * [jemalloc ![GitHub Repo Stars](https://img.shields.io/github/stars/jemalloc/jemalloc) ![GitHub last commit](https://img.shields.io/github/last-commit/jemalloc/jemalloc)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. [BSD] [website](http://jemalloc.net/)
 * [memory ![GitHub Repo Stars](https://img.shields.io/github/stars/foonathan/memory) ![GitHub last commit](https://img.shields.io/github/last-commit/foonathan/memory)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. [ZLib]
 * [memory-allocators ![GitHub Repo Stars](https://img.shields.io/github/stars/mtrebi/memory-allocators) ![GitHub last commit](https://img.shields.io/github/last-commit/mtrebi/memory-allocators)](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. [MIT]
@@ -864,7 +865,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [libharu ![GitHub Repo Stars](https://img.shields.io/github/stars/libharu/libharu) ![GitHub last commit](https://img.shields.io/github/last-commit/libharu/libharu)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. [zlib]
 * [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. [LGPL v3 and zlib]
-* [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]
+* [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Proprietary]
 * [PDF-Writer ![GitHub Repo Stars](https://img.shields.io/github/stars/galkahana/PDF-Writer) ![GitHub last commit](https://img.shields.io/github/last-commit/galkahana/PDF-Writer)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ [Apache-2.0] [website](https://www.pdfhummus.com/)
 * [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. [LGPL]
 * [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
@@ -916,7 +917,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [PIRE ![GitHub Repo Stars](https://img.shields.io/github/stars/yandex/pire) ![GitHub last commit](https://img.shields.io/github/last-commit/yandex/pire)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). [LPGL v3.0]
 * [RE2 ![GitHub Repo Stars](https://img.shields.io/github/stars/google/re2) ![GitHub last commit](https://img.shields.io/github/last-commit/google/re2)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. [BSD-3-Clause]
-* [SLRE ![GitHub Repo Stars](https://img.shields.io/github/stars/cesanta/slre) ![GitHub last commit](https://img.shields.io/github/last-commit/cesanta/slre)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Commercial]
+* [SLRE ![GitHub Repo Stars](https://img.shields.io/github/stars/cesanta/slre) ![GitHub last commit](https://img.shields.io/github/last-commit/cesanta/slre)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Proprietary]
 * [sregex ![GitHub Repo Stars](https://img.shields.io/github/stars/openresty/sregex) ![GitHub last commit](https://img.shields.io/github/last-commit/openresty/sregex)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. [BSD]
 
 ## Robotics
@@ -1029,7 +1030,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QDjango ![GitHub Repo Stars](https://img.shields.io/github/stars/jlaine/qdjango) ![GitHub last commit](https://img.shields.io/github/last-commit/jlaine/qdjango)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
 * [TreeFrog Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/treefrogframework/treefrog-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/treefrogframework/treefrog-framework)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](http://www.treefrogframework.org/)
 * [userver ![GitHub Repo Stars](https://img.shields.io/github/stars/userver-framework/userver) ![GitHub last commit](https://img.shields.io/github/last-commit/userver-framework/userver)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. [Apache-2.0] [website](https://userver.tech/)
-* [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
+* [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Proprietary]
 
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
@@ -1089,7 +1090,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Mach7 ![GitHub Repo Stars](https://img.shields.io/github/stars/solodon4/Mach7) ![GitHub last commit](https://img.shields.io/github/last-commit/solodon4/Mach7)](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [mio ![GitHub Repo Stars](https://img.shields.io/github/stars/mandreyel/mio) ![GitHub last commit](https://img.shields.io/github/last-commit/mandreyel/mio)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
 * [PEGTL ![GitHub Repo Stars](https://img.shields.io/github/stars/taocpp/PEGTL) ![GitHub last commit](https://img.shields.io/github/last-commit/taocpp/PEGTL)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. [MIT]
-* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
+* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Proprietary]
 * [scnlib ![GitHub Repo Stars](https://img.shields.io/github/stars/eliaskosunen/scnlib) ![GitHub last commit](https://img.shields.io/github/last-commit/eliaskosunen/scnlib)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. [Apache-2.0] [website](https://v1.scnlib.dev/)
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/sds) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/sds)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
