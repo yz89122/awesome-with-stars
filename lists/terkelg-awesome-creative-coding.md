@@ -134,6 +134,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 - [Canvas-sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/mattdesl/canvas-sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/mattdesl/canvas-sketch)](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 - [AsyncGraphics ![GitHub Repo Stars](https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics) ![GitHub last commit](https://img.shields.io/github/last-commit/heestand-xyz/AsyncGraphics)](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+- [Lygia ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/lygia) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/lygia)](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
 
 ### Visual Programming Languages
 
@@ -165,6 +166,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
 - [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
+- [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
 - [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
 
 ### Web Programming • Libraries
