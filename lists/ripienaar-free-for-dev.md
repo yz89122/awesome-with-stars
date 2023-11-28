@@ -187,7 +187,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
   * [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
-  * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
+  * [GitGud](https://gitgud.io) �� Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are many more, but we list the main ones here) provided are :
        - [CI/CD ![GitHub Repo Stars](https://img.shields.io/github/stars/features/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/features/actions)](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
        - [Codespaces](https://github.com/codespaces) - Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
@@ -1060,7 +1060,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Skypack](https://www.skypack.dev/) — The 100% Native ES Module JavaScript CDN. Free for 1 million requests per domain per month.
   * [raw.githack.com](https://raw.githack.com/) — A modern replacement of **rawgit.com** which simply hosts file using Cloudflare
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
-  * [statically.io](https://statically.io/) �� CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets, and images
+  * [statically.io](https://statically.io/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets, and images
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, one developer, no support
   * [UNPKG](https://unpkg.com/) — CDN for everything on npm
   * [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on the fly with a worldwide cache.

@@ -629,6 +629,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gettext](http://www.gnu.org/software/gettext/) - GNU 'gettext'. [GPL2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
+* [simdutf ![GitHub Repo Stars](https://img.shields.io/github/stars/simdutf/simdutf) ![GitHub last commit](https://img.shields.io/github/last-commit/simdutf/simdutf)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. [Apache-2/MIT]
 * [uni-algo ![GitHub Repo Stars](https://img.shields.io/github/stars/uni-algo/uni-algo) ![GitHub last commit](https://img.shields.io/github/last-commit/uni-algo/uni-algo)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. [Unlicense or MIT]
 * [utf8.h ![GitHub Repo Stars](https://img.shields.io/github/stars/sheredom/utf8.h) ![GitHub last commit](https://img.shields.io/github/last-commit/sheredom/utf8.h)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. [Unlicense]
 * [utf8proc ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaStrings/utf8proc) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaStrings/utf8proc)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. [MIT]
