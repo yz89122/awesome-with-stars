@@ -908,6 +908,7 @@ Network distributed filesystems.
 - [SFTPGo ![GitHub Repo Stars](https://img.shields.io/github/stars/drakkan/sftpgo) ![GitHub last commit](https://img.shields.io/github/last-commit/drakkan/sftpgo)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/scality/cloudserver) ![GitHub last commit](https://img.shields.io/github/last-commit/scality/cloudserver)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 - [ZOT OCI Registry](https://zotregistry.io/) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/project-zot/zot) ![GitHub last commit](https://img.shields.io/github/last-commit/project-zot/zot)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+- [ZOT OCI Registry](https://zotregistry.io/) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/project-zot/zot) ![GitHub last commit](https://img.shields.io/github/last-commit/project-zot/zot)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 
 ### File Transfer - Peer-to-peer Filesharing
