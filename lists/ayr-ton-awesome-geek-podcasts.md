@@ -270,7 +270,7 @@ A curated list of podcasts we like to listen to.
 * [Start Coding](https://anchor.fm/start-coding) - Start Coding é uma iniciativa online com o objetivo de inserir mulheres na tecnologia. O podcast apresenta temas da computação e a equidade de gênero na área.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Podcast do Tecnoblog, sobre tecnologia.
 * [Ubuntu Portugal (podcast)](https://ubuntu-pt.org/) - A comunidade Ubuntu Portugal (Ubuntu-PT) é a comunidade Portuguesa de suporte à distribuição de GNU/Linux, Ubuntu. Esta comunidade consiste num grupo de pessoas que voluntariamente se dedica não só a promover a utilização do sistema operativo Ubuntu e do software livre em geral, mas também a dar suporte aos utilizadores portugueses desta distribuição de GNU/Linux.
-* [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, hist��ria e atualidades.
+* [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, história e atualidades.
 * [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
 
