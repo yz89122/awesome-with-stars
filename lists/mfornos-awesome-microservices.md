@@ -69,6 +69,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Platforms
 
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
+- [Kalix (c)](https://www.kalix.io/) - Platform as a Service that abstracts away the complexity of event-driven microservices.
 - [Lightbend (c)](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
@@ -91,7 +92,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [GraalVM](https://www.graalvm.org/) - High-performance runtime that provides significant improvements in application performance and efficiency which is ideal for microservices.
 - [Helidon](https://helidon.io/) - Collection of Java libraries for writing microservices that run on a fast web core powered by Netty.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-- [Lagom ![GitHub Repo Stars](https://img.shields.io/github/stars/lagom/lagom) ![GitHub last commit](https://img.shields.io/github/last-commit/lagom/lagom)](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Light-4j ![GitHub Repo Stars](https://img.shields.io/github/stars/networknt/light-4j) ![GitHub last commit](https://img.shields.io/github/last-commit/networknt/light-4j)](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 - [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
@@ -122,26 +122,18 @@ A curated list of Microservice Architecture related principles and technologies.
 ### C++
 <!-- #c-1 anchor -->
 
-- [AnyRPC ![GitHub Repo Stars](https://img.shields.io/github/stars/sgieseking/anyrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/sgieseking/anyrpc)](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
 - [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
-- [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
+- [C++ Micro Services ![GitHub Repo Stars](https://img.shields.io/github/stars/CppMicroServices/CppMicroServices) ![GitHub last commit](https://img.shields.io/github/last-commit/CppMicroServices/CppMicroServices)](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry.
 - [Enduro/X ![GitHub Repo Stars](https://img.shields.io/github/stars/endurox-dev/endurox) ![GitHub last commit](https://img.shields.io/github/last-commit/endurox-dev/endurox)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
-- [Pion ![GitHub Repo Stars](https://img.shields.io/github/stars/splunk/pion) ![GitHub last commit](https://img.shields.io/github/last-commit/splunk/pion)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 - [Pistache ![GitHub Repo Stars](https://img.shields.io/github/stars/oktal/pistache) ![GitHub last commit](https://img.shields.io/github/last-commit/oktal/pistache)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 - [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
-- [Restbed ![GitHub Repo Stars](https://img.shields.io/github/stars/Corvusoft/restbed) ![GitHub last commit](https://img.shields.io/github/last-commit/Corvusoft/restbed)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
-- [Served ![GitHub Repo Stars](https://img.shields.io/github/stars/datasift/served) ![GitHub last commit](https://img.shields.io/github/last-commit/datasift/served)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 - [Sogou Workflow ![GitHub Repo Stars](https://img.shields.io/github/stars/sogou/workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/sogou/workflow)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
-- [ULib ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanocasazza/ULib) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanocasazza/ULib)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### CSharp
 
 - [Awesome Microservices .NET Core ![GitHub Repo Stars](https://img.shields.io/github/stars/mjebrahimi/Awesome-Microservices-NetCore) ![GitHub last commit](https://img.shields.io/github/last-commit/mjebrahimi/Awesome-Microservices-NetCore)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for microservices in .NET Core.
 - [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
-- [Microdot ![GitHub Repo Stars](https://img.shields.io/github/stars/gigya/microdot) ![GitHub last commit](https://img.shields.io/github/last-commit/gigya/microdot)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
-- [Nancy](http://nancyfx.org/) - Lightweight web framework.
 - [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
-- [Tye ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/tye) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/tye)](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
 ### D
 
@@ -162,31 +154,20 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Go
 
 - [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
-- [Enduro/X ASG ![GitHub Repo Stars](https://img.shields.io/github/stars/endurox-dev/endurox-go) ![GitHub last commit](https://img.shields.io/github/last-commit/endurox-dev/endurox-go)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
 - [Fiber ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
 - [Gin ![GitHub Repo Stars](https://img.shields.io/github/stars/gin-gonic/gin) ![GitHub last commit](https://img.shields.io/github/last-commit/gin-gonic/gin)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
-- [Gizmo ![GitHub Repo Stars](https://img.shields.io/github/stars/nytimes/gizmo) ![GitHub last commit](https://img.shields.io/github/last-commit/nytimes/gizmo)](https://github.com/nytimes/gizmo) - Microservices toolkit.
 - [Goa ![GitHub Repo Stars](https://img.shields.io/github/stars/goadesign/goa) ![GitHub last commit](https://img.shields.io/github/last-commit/goadesign/goa)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
-- [Gocraft ![GitHub Repo Stars](https://img.shields.io/github/stars/gocraft/web) ![GitHub last commit](https://img.shields.io/github/last-commit/gocraft/web)](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [GoFr ![GitHub Repo Stars](https://img.shields.io/github/stars/gofr-dev/gofr) ![GitHub last commit](https://img.shields.io/github/last-commit/gofr-dev/gofr)](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
-- [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go Chassis ![GitHub Repo Stars](https://img.shields.io/github/stars/go-chassis/go-chassis) ![GitHub last commit](https://img.shields.io/github/last-commit/go-chassis/go-chassis)](https://github.com/go-chassis/go-chassis) - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
 - [Go kit ![GitHub Repo Stars](https://img.shields.io/github/stars/go-kit/kit) ![GitHub last commit](https://img.shields.io/github/last-commit/go-kit/kit)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-- [go-api-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/vardius/go-api-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/vardius/go-api-boilerplate)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 - [Go-micro ![GitHub Repo Stars](https://img.shields.io/github/stars/micro/go-micro) ![GitHub last commit](https://img.shields.io/github/last-commit/micro/go-micro)](https://github.com/micro/go-micro) - A distributed systems development framework.
 - [go-zero ![GitHub Repo Stars](https://img.shields.io/github/stars/tal-tech/go-zero) ![GitHub last commit](https://img.shields.io/github/last-commit/tal-tech/go-zero)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
-- [Gopencils ![GitHub Repo Stars](https://img.shields.io/github/stars/bndr/gopencils) ![GitHub last commit](https://img.shields.io/github/last-commit/bndr/gopencils)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Iris ![GitHub Repo Stars](https://img.shields.io/github/stars/kataras/iris) ![GitHub last commit](https://img.shields.io/github/last-commit/kataras/iris)](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
-- [Kite ![GitHub Repo Stars](https://img.shields.io/github/stars/koding/kite) ![GitHub last commit](https://img.shields.io/github/last-commit/koding/kite)](https://github.com/koding/kite) - Microservices framework in Go.
-- [KrakenD ![GitHub Repo Stars](https://img.shields.io/github/stars/devopsfaith/krakend) ![GitHub last commit](https://img.shields.io/github/last-commit/devopsfaith/krakend)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
-- [Libchan ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/libchan) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/libchan)](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
+- [Lura ![GitHub Repo Stars](https://img.shields.io/github/stars/luraproject/lura) ![GitHub last commit](https://img.shields.io/github/last-commit/luraproject/lura)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
 - [Micro ![GitHub Repo Stars](https://img.shields.io/github/stars/micro/micro) ![GitHub last commit](https://img.shields.io/github/last-commit/micro/micro)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
-- [Nano ![GitHub Repo Stars](https://img.shields.io/github/stars/pasztorpisti/nano) ![GitHub last commit](https://img.shields.io/github/last-commit/pasztorpisti/nano)](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
-- [Negroni ![GitHub Repo Stars](https://img.shields.io/github/stars/codegangsta/negroni) ![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/negroni)](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
-- [Neutrino ![GitHub Repo Stars](https://img.shields.io/github/stars/neutrinoapp/neutrino) ![GitHub last commit](https://img.shields.io/github/last-commit/neutrinoapp/neutrino)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+- [Negroni ![GitHub Repo Stars](https://img.shields.io/github/stars/urfave/negroni) ![GitHub last commit](https://img.shields.io/github/last-commit/urfave/negroni)](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
 - [RPCX ![GitHub Repo Stars](https://img.shields.io/github/stars/smallnest/rpcx) ![GitHub last commit](https://img.shields.io/github/last-commit/smallnest/rpcx)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
-- [Sleepy ![GitHub Repo Stars](https://img.shields.io/github/stars/dougblack/sleepy) ![GitHub last commit](https://img.shields.io/github/last-commit/dougblack/sleepy)](https://github.com/dougblack/sleepy) - REST for go.
 
 ### Haskell
 
@@ -200,9 +181,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Compojure ![GitHub Repo Stars](https://img.shields.io/github/stars/weavejester/compojure) ![GitHub last commit](https://img.shields.io/github/last-commit/weavejester/compojure)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 - [Duct ![GitHub Repo Stars](https://img.shields.io/github/stars/weavejester/duct) ![GitHub last commit](https://img.shields.io/github/last-commit/weavejester/duct)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-- [Friboo ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/friboo) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/friboo)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
-- [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
-- [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
 - [System ![GitHub Repo Stars](https://img.shields.io/github/stars/danielsz/system) ![GitHub last commit](https://img.shields.io/github/last-commit/danielsz/system)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
 - [Tesla ![GitHub Repo Stars](https://img.shields.io/github/stars/otto-de/tesla-microservice) ![GitHub last commit](https://img.shields.io/github/last-commit/otto-de/tesla-microservice)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
@@ -215,7 +193,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Dubbo ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/dubbo) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/dubbo)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
 - [Conjure ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/conjure-java-runtime) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/conjure-java-runtime)](https://github.com/palantir/conjure-java-runtime) - Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
-- [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
+- [Jersey ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-ee4j/jersey) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-ee4j/jersey)](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
 - [Quarkus](https://quarkus.io/) - A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
@@ -229,13 +207,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
-- [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
-- [Colossus ![GitHub Repo Stars](https://img.shields.io/github/stars/tumblr/colossus) ![GitHub last commit](https://img.shields.io/github/last-commit/tumblr/colossus)](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Scalatra](http://scalatra.org/) - Simple, accessible and free web micro-framework.
-- [Skinny Micro ![GitHub Repo Stars](https://img.shields.io/github/stars/skinny-framework/skinny-micro) ![GitHub last commit](https://img.shields.io/github/last-commit/skinny-framework/skinny-micro)](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
 
 ### Node.js
@@ -262,37 +236,32 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
 - [Ecotone](https://docs.ecotone.tech/) - Framework based on architectural principles of DDD, CQRS and Event Sourcing that provides building blocks to create scalable and extensible applications. 
-- [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
-- [Flight ![GitHub Repo Stars](https://img.shields.io/github/stars/mikecao/flight) ![GitHub last commit](https://img.shields.io/github/last-commit/mikecao/flight)](https://github.com/mikecao/flight) - An extensible micro-framework.
 - [Hyperf ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperf/hyperf) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperf/hyperf)](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
 - [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
 - [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
 - [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
 - [Swoft ![GitHub Repo Stars](https://img.shields.io/github/stars/swoft-cloud/swoft) ![GitHub last commit](https://img.shields.io/github/last-commit/swoft-cloud/swoft)](https://github.com/swoft-cloud/swoft/) - PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services.
 - [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
-- [Upswarm ![GitHub Repo Stars](https://img.shields.io/github/stars/Zizaco/upswarm) ![GitHub last commit](https://img.shields.io/github/last-commit/Zizaco/upswarm)](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
 
 ### Python
 
-- [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
+- [Aiohttp ![GitHub Repo Stars](https://img.shields.io/github/stars/aio-libs/aiohttp) ![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp)](https://github.com/aio-libs/aiohttp) - HTTP client/server for asyncio.
 - [Bottle](https://bottlepy.org) - Fast, simple and lightweight WSGI micro web-framework for Python.
 - [Connexion ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/connexion) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/connexion)](https://github.com/zalando/connexion) - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
 - [Falcon](https://falconframework.org/) - Bare-metal Python web API framework for building very fast app backends and microservices.
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko ![GitHub Repo Stars](https://img.shields.io/github/stars/onefinestay/nameko) ![GitHub last commit](https://img.shields.io/github/last-commit/onefinestay/nameko)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
-- [Sanic ![GitHub Repo Stars](https://img.shields.io/github/stars/channelcat/sanic) ![GitHub last commit](https://img.shields.io/github/last-commit/channelcat/sanic)](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+- [Sanic ![GitHub Repo Stars](https://img.shields.io/github/stars/sanic-org/sanic) ![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-- [Twisted](https://twistedmatrix.com) - Event-driven network programming engine.
+- [Twisted](https://twisted.org/) - Event-driven network programming engine.
 - [Web.py ![GitHub Repo Stars](https://img.shields.io/github/stars/webpy/webpy) ![GitHub last commit](https://img.shields.io/github/last-commit/webpy/webpy)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
-- [Zappa ![GitHub Repo Stars](https://img.shields.io/github/stars/Miserlou/Zappa) ![GitHub last commit](https://img.shields.io/github/last-commit/Miserlou/Zappa)](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
 
 ### Ruby
 
 - [Grape ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby-grape/grape) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby-grape/grape)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 - [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 - [Praxis ![GitHub Repo Stars](https://img.shields.io/github/stars/rightscale/praxis) ![GitHub last commit](https://img.shields.io/github/last-commit/rightscale/praxis)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
-- [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 - [Scorched ![GitHub Repo Stars](https://img.shields.io/github/stars/wardrop/Scorched) ![GitHub last commit](https://img.shields.io/github/last-commit/wardrop/Scorched)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 - [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
@@ -316,17 +285,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 > Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
 
-- [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
-- [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
-- [Annon ![GitHub Repo Stars](https://img.shields.io/github/stars/nebo15/annon.api) ![GitHub last commit](https://img.shields.io/github/last-commit/nebo15/annon.api)](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
+- [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 - [APIcast ![GitHub Repo Stars](https://img.shields.io/github/stars/3scale/APIcast) ![GitHub last commit](https://img.shields.io/github/last-commit/3scale/APIcast)](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
-- [Bunkerized-nginx ![GitHub Repo Stars](https://img.shields.io/github/stars/bunkerity/bunkerized-nginx) ![GitHub last commit](https://img.shields.io/github/last-commit/bunkerity/bunkerized-nginx)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
+- [Bunker Web ![GitHub Repo Stars](https://img.shields.io/github/stars/bunkerity/bunkerweb) ![GitHub last commit](https://img.shields.io/github/last-commit/bunkerity/bunkerweb)](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [Envoy ![GitHub Repo Stars](https://img.shields.io/github/stars/lyft/envoy) ![GitHub last commit](https://img.shields.io/github/last-commit/lyft/envoy)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
-- [Express Gateway](https://www.express-gateway.io/) - A microservices API gateway built on Express.js.
-- [Fabio ![GitHub Repo Stars](https://img.shields.io/github/stars/eBay/fabio) ![GitHub last commit](https://img.shields.io/github/last-commit/eBay/fabio)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
-- [Gravitee ![GitHub Repo Stars](https://img.shields.io/github/stars/gravitee-io/gravitee-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/gravitee-io/gravitee-gateway)](https://github.com/gravitee-io/gravitee-gateway) - The gateway is able to apply policies (ie. rules) to both HTTP requests and responses according to your needs, meaning that you can enhance requests and responses processing by adding transformation, security, and many other crazy features!
 - [HAProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/haproxy/haproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/haproxy/haproxy)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
 - [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
 - [Janus ![GitHub Repo Stars](https://img.shields.io/github/stars/hellofresh/janus) ![GitHub last commit](https://img.shields.io/github/last-commit/hellofresh/janus)](https://github.com/hellofresh/janus) - An API Gateway written in Go.
@@ -352,28 +316,19 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Central Dogma](https://line.github.io/centraldogma/) - Open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
-- [ContainerPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/joyent/containerpilot) ![GitHub last commit](https://img.shields.io/github/last-commit/joyent/containerpilot)](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
-- [Denominator ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/denominator) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/denominator)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
-- [Doozer ![GitHub Repo Stars](https://img.shields.io/github/stars/ha/doozerd) ![GitHub last commit](https://img.shields.io/github/last-commit/ha/doozerd)](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 - [Etcd ![GitHub Repo Stars](https://img.shields.io/github/stars/coreos/etcd) ![GitHub last commit](https://img.shields.io/github/last-commit/coreos/etcd)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/eureka)](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [Microconfig](https://microconfig.io) - Modern and simple way of microservice configuration management.
-- [Microphone ![GitHub Repo Stars](https://img.shields.io/github/stars/rogeralsing/Microphone) ![GitHub last commit](https://img.shields.io/github/last-commit/rogeralsing/Microphone)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 - [Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
-- [Registrator ![GitHub Repo Stars](https://img.shields.io/github/stars/gliderlabs/registrator) ![GitHub last commit](https://img.shields.io/github/last-commit/gliderlabs/registrator)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
-- [Shaman ![GitHub Repo Stars](https://img.shields.io/github/stars/nanopack/shaman) ![GitHub last commit](https://img.shields.io/github/last-commit/nanopack/shaman)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
 - [SkyDNS ![GitHub Repo Stars](https://img.shields.io/github/stars/skynetservices/skydns) ![GitHub last commit](https://img.shields.io/github/last-commit/skynetservices/skydns)](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
-- [SmartStack ![GitHub Repo Stars](https://img.shields.io/github/stars/airbnb/smartstack-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/airbnb/smartstack-cookbook)](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open source server which enables highly reliable distributed coordination.
 
 ### Coordination & Governance
 
 - [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
-- [Azuqua (c)](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
 - [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 - [Conductor ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/conductor) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/conductor)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
-- [Fission Workflows ![GitHub Repo Stars](https://img.shields.io/github/stars/fission/fission-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/fission/fission-workflows)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 - [Kestra ![GitHub Repo Stars](https://img.shields.io/github/stars/kestra-io/kestra) ![GitHub last commit](https://img.shields.io/github/last-commit/kestra-io/kestra)](https://github.com/kestra-io/kestra) - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
 - [Temporal ![GitHub Repo Stars](https://img.shields.io/github/stars/temporalio/temporal) ![GitHub last commit](https://img.shields.io/github/last-commit/temporalio/temporal)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 - [Zeebe](https://camunda.com/platform/zeebe/) - Define, orchestrate, and monitor business processes across microservices.
@@ -384,11 +339,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 - [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 - [Libp2p](https://libp2p.io/) - A framework and suite of protocols for building peer-to-peer network applications.
-- [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
-- [Onyx ![GitHub Repo Stars](https://img.shields.io/github/stars/onyx-platform/onyx) ![GitHub last commit](https://img.shields.io/github/last-commit/onyx-platform/onyx)](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
-- [Ordasity ![GitHub Repo Stars](https://img.shields.io/github/stars/boundary/ordasity) ![GitHub last commit](https://img.shields.io/github/last-commit/boundary/ordasity)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/mrniko/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/mrniko/redisson)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
 - [Zenoh](https://zenoh.io/) - Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations.
@@ -396,12 +348,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Job Schedulers / Workload Automation
 
 - [Celery ![GitHub Repo Stars](https://img.shields.io/github/stars/celery/celery) ![GitHub last commit](https://img.shields.io/github/last-commit/celery/celery)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
-- [Chronos ![GitHub Repo Stars](https://img.shields.io/github/stars/mesos/chronos) ![GitHub last commit](https://img.shields.io/github/last-commit/mesos/chronos)](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Dkron](http://dkron.io/) - Distributed, fault tolerant job scheduling system.
-- [Fenzo ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/Fenzo) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/Fenzo)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
-- [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
-- [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
-- [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+- [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+- [Schedulix ![GitHub Repo Stars](https://img.shields.io/github/stars/schedulix/schedulix) ![GitHub last commit](https://img.shields.io/github/last-commit/schedulix/schedulix)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Logging
 
@@ -418,24 +367,17 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
 - [ActiveMQ](http://activemq.apache.org/) - Powerful open source messaging and integration patterns server.
 - [Aeron ![GitHub Repo Stars](https://img.shields.io/github/stars/real-logic/Aeron) ![GitHub last commit](https://img.shields.io/github/last-commit/real-logic/Aeron)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
-- [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
-- [Ascoltatori ![GitHub Repo Stars](https://img.shields.io/github/stars/mcollina/ascoltatori) ![GitHub last commit](https://img.shields.io/github/last-commit/mcollina/ascoltatori)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 - [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
 - [Bull ![GitHub Repo Stars](https://img.shields.io/github/stars/OptimalBits/bull) ![GitHub last commit](https://img.shields.io/github/last-commit/OptimalBits/bull)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 - [Crossbar ![GitHub Repo Stars](https://img.shields.io/github/stars/crossbario/crossbar) ![GitHub last commit](https://img.shields.io/github/last-commit/crossbario/crossbar)](https://github.com/crossbario/crossbar) - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
-- [Disque ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/disque) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/disque)](https://github.com/antirez/disque) - Distributed message broker.
 - [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
 - [Malamute ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/malamute) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/malamute)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
-- [Mist ![GitHub Repo Stars](https://img.shields.io/github/stars/nanopack/mist) ![GitHub last commit](https://img.shields.io/github/last-commit/nanopack/mist)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 - [Mosca](http://www.mosca.io/) - MQTT broker as a module.
 - [Mosquitto](http://mosquitto.org/) - Open source message broker that implements the MQTT protocol.
-- [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
-- [Nanomsg-NG](https://nng.nanomsg.org/) - Lightweight brokerless messaging.
 - [NATS](https://nats.io/) - Open source, high-performance, lightweight cloud messaging system.
 - [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 - [Pulsar](https://pulsar.apache.org/) - Distributed pub-sub messaging system.
-- [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
 - [Redpanda ![GitHub Repo Stars](https://img.shields.io/github/stars/redpanda-data/redpanda) ![GitHub last commit](https://img.shields.io/github/last-commit/redpanda-data/redpanda)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
 - [RocketMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-rocketmq) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-rocketmq)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
@@ -469,7 +411,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/softwaremill/reactive-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/softwaremill/reactive-kafka)](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
-- [Simple React ![GitHub Repo Stars](https://img.shields.io/github/stars/aol/simple-react) ![GitHub last commit](https://img.shields.io/github/last-commit/aol/simple-react)](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
+- [RSocket](https://rsocket.io/) - Application protocol providing Reactive Streams semantics.
 
 ### Resilience
 
@@ -483,7 +425,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Security
 
 - [Dex ![GitHub Repo Stars](https://img.shields.io/github/stars/coreos/dex) ![GitHub last commit](https://img.shields.io/github/last-commit/coreos/dex)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
-- [Identity Server ![GitHub Repo Stars](https://img.shields.io/github/stars/IdentityServer/IdentityServer4) ![GitHub last commit](https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4)](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 - [Keycloak ![GitHub Repo Stars](https://img.shields.io/github/stars/keycloak/keycloak) ![GitHub last commit](https://img.shields.io/github/last-commit/keycloak/keycloak)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
 - [Light OAuth2 ![GitHub Repo Stars](https://img.shields.io/github/stars/networknt/light-oauth2) ![GitHub last commit](https://img.shields.io/github/last-commit/networknt/light-oauth2)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
