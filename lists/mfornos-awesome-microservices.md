@@ -153,6 +153,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Go
 
+- [Chi ![GitHub Repo Stars](https://img.shields.io/github/stars/go-chi/chi) ![GitHub last commit](https://img.shields.io/github/last-commit/go-chi/chi)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
 - [Fiber ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/fiber)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
 - [Gin ![GitHub Repo Stars](https://img.shields.io/github/stars/gin-gonic/gin) ![GitHub last commit](https://img.shields.io/github/last-commit/gin-gonic/gin)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
@@ -196,8 +197,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Jersey ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-ee4j/jersey) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-ee4j/jersey)](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
 - [Quarkus](https://quarkus.io/) - A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
-- [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
-- [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 #### Kotlin
@@ -295,7 +294,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
 - [Janus ![GitHub Repo Stars](https://img.shields.io/github/stars/hellofresh/janus) ![GitHub last commit](https://img.shields.io/github/last-commit/hellofresh/janus)](https://github.com/hellofresh/janus) - An API Gateway written in Go.
 - [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
-- [Kong](https://getkong.org/) - Open source management layer for APIs.
+- [Kong ![GitHub Repo Stars](https://img.shields.io/github/stars/kong/kong) ![GitHub last commit](https://img.shields.io/github/last-commit/kong/kong)](https://github.com/kong/kong) - Open source management layer for APIs.
 - [KrakenD](http://krakend.io/) - Open source ultra performance API Gateway.
 - [Kuma](https://kuma.io/) - Platform agnostic open source control plane for service mesh and microservices.
 - [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
@@ -342,25 +341,25 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/mrniko/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/mrniko/redisson)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
-- [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
+- [Serf](https://www.serf.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
 - [Zenoh](https://zenoh.io/) - Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations.
 
 ### Job Schedulers / Workload Automation
 
 - [Celery ![GitHub Repo Stars](https://img.shields.io/github/stars/celery/celery) ![GitHub last commit](https://img.shields.io/github/last-commit/celery/celery)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Dkron](http://dkron.io/) - Distributed, fault tolerant job scheduling system.
+- [Faktory ![GitHub Repo Stars](https://img.shields.io/github/stars/contribsys/faktory) ![GitHub last commit](https://img.shields.io/github/last-commit/contribsys/faktory)](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
 - [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix ![GitHub Repo Stars](https://img.shields.io/github/stars/schedulix/schedulix) ![GitHub last commit](https://img.shields.io/github/last-commit/schedulix/schedulix)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Logging
 
-- [Bunyan ![GitHub Repo Stars](https://img.shields.io/github/stars/trentm/node-bunyan) ![GitHub last commit](https://img.shields.io/github/last-commit/trentm/node-bunyan)](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 - [LogDNA (c)](https://logdna.com/) - Centralized log management software. Instantly collect, centralize, and analyze logs in real-time from any platform, at any volume.
-- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-- [Suro ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/suro) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/suro)](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
+- [Logstash](https://www.elastic.co/logstash) - Tool for managing events and logs.
+- [Loki ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/loki) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/loki)](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 
 ### Messaging
 
@@ -370,7 +369,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
 - [Bull ![GitHub Repo Stars](https://img.shields.io/github/stars/OptimalBits/bull) ![GitHub last commit](https://img.shields.io/github/last-commit/OptimalBits/bull)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 - [Crossbar ![GitHub Repo Stars](https://img.shields.io/github/stars/crossbario/crossbar) ![GitHub last commit](https://img.shields.io/github/last-commit/crossbario/crossbar)](https://github.com/crossbario/crossbar) - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
-- [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
 - [Malamute ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/malamute) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/malamute)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 - [Mosca](http://www.mosca.io/) - MQTT broker as a module.
@@ -385,30 +383,24 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Monitoring & Debugging
 
-- [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
-- [Collectd](https://collectd.org/) - The system statistics collection daemon.
+- [Beats](https://www.elastic.co/beats/) - Lightweight shippers for Elasticsearch & Logstash.
 - [Elastalert ![GitHub Repo Stars](https://img.shields.io/github/stars/yelp/elastalert) ![GitHub last commit](https://img.shields.io/github/last-commit/yelp/elastalert)](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 - [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 - [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
 - [IOpipe (c)](https://www.iopipe.com/) - Application performance monitoring for Amazon Lambda.
 - [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
-- [Microservice Graph Explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/hootsuite/microservice-graph-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/hootsuite/microservice-graph-explorer)](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
-- [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
-- [Parallec ![GitHub Repo Stars](https://img.shields.io/github/stars/eBay/parallec) ![GitHub last commit](https://img.shields.io/github/last-commit/eBay/parallec)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
+- [OpenTelemetry](https://opentelemetry.io/) - High-quality, ubiquitous, and portable telemetry to enable effective observability.
 - [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
-- [REST Commander ![GitHub Repo Stars](https://img.shields.io/github/stars/eBay/restcommander) ![GitHub last commit](https://img.shields.io/github/last-commit/eBay/restcommander)](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
 - [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
 - [SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures.
-- [Trace ![GitHub Repo Stars](https://img.shields.io/github/stars/RisingStack/trace-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/RisingStack/trace-nodejs)](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
-- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 - [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 - [Zipkin](http://zipkin.io) - Distributed tracing system.
 
 ### Reactivity
 
-- [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
+- [Reactor.io](https://github.com/reactor) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/softwaremill/reactive-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/softwaremill/reactive-kafka)](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
 - [RSocket](https://rsocket.io/) - Application protocol providing Reactive Streams semantics.
@@ -417,7 +409,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Awesome Chaos Engineering ![GitHub Repo Stars](https://img.shields.io/github/stars/dastergon/awesome-chaos-engineering) ![GitHub last commit](https://img.shields.io/github/last-commit/dastergon/awesome-chaos-engineering)](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
 - [Hystrix ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/Hystrix) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/Hystrix)](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 - [Resilience4j ![GitHub Repo Stars](https://img.shields.io/github/stars/resilience4j/resilience4j) ![GitHub last commit](https://img.shields.io/github/last-commit/resilience4j/resilience4j)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
@@ -429,9 +420,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Keycloak ![GitHub Repo Stars](https://img.shields.io/github/stars/keycloak/keycloak) ![GitHub last commit](https://img.shields.io/github/last-commit/keycloak/keycloak)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
 - [Light OAuth2 ![GitHub Repo Stars](https://img.shields.io/github/stars/networknt/light-oauth2) ![GitHub last commit](https://img.shields.io/github/last-commit/networknt/light-oauth2)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
-- [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
+- [OpenID Connect](https://openid.net/certified-open-id-developer-tools/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
-- [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
+- [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
 ### Serialization
@@ -457,9 +448,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage
 
-- [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
+- [Alluxio ![GitHub Repo Stars](https://img.shields.io/github/stars/Alluxio/alluxio) ![GitHub last commit](https://img.shields.io/github/last-commit/Alluxio/alluxio)](https://github.com/Alluxio/alluxio) - Virtual distributed storage system.
 - [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
-- [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
 - [Aerospike (c)](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
 - [AtlasDB ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/atlasdb) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/atlasdb)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
@@ -470,26 +460,20 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
+- [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 - [InfluxDB ![GitHub Repo Stars](https://img.shields.io/github/stars/influxdata/influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/influxdata/influxdb)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
-- [MemSQL (c)](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-- [Parquet ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/parquet-format) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/parquet-format)](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 - [Pilosa ![GitHub Repo Stars](https://img.shields.io/github/stars/pilosa/pilosa) ![GitHub last commit](https://img.shields.io/github/last-commit/pilosa/pilosa)](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
-- [Reborn ![GitHub Repo Stars](https://img.shields.io/github/stars/reborndb/reborn) ![GitHub last commit](https://img.shields.io/github/last-commit/reborndb/reborn)](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 - [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
 - [Secure Scuttlebutt ![GitHub Repo Stars](https://img.shields.io/github/stars/ssbc/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/ssbc/docs)](https://github.com/ssbc/docs) - P2P database of message-feeds.
-- [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 - [TiKV](https://github.com/tikv) - Distributed transactional key-value database.
-- [Voldemort ![GitHub Repo Stars](https://img.shields.io/github/stars/voldemort/voldemort) ![GitHub last commit](https://img.shields.io/github/last-commit/voldemort/voldemort)](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
-- [VoltDB (c)](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
+- [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
 
 ### Testing
 
 - [Goreplay ![GitHub Repo Stars](https://img.shields.io/github/stars/buger/goreplay) ![GitHub last commit](https://img.shields.io/github/last-commit/buger/goreplay)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
-- [Hikaku ![GitHub Repo Stars](https://img.shields.io/github/stars/codecentric/hikaku) ![GitHub last commit](https://img.shields.io/github/last-commit/codecentric/hikaku)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 - [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
 - [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
@@ -516,12 +500,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### REST
 
-- [Aglio ![GitHub Repo Stars](https://img.shields.io/github/stars/danielgtaylor/aglio) ![GitHub last commit](https://img.shields.io/github/last-commit/danielgtaylor/aglio)](https://github.com/danielgtaylor/aglio) - API Blueprint renderer with theme support that outputs static HTML.
 - [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
-- [Apidoc ![GitHub Repo Stars](https://img.shields.io/github/stars/mbryzek/apidoc) ![GitHub last commit](https://img.shields.io/github/last-commit/mbryzek/apidoc)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
+- [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification (OAS) provides a consistent means to carry information through each stage of the API lifecycle.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
-- [ReDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/Rebilly/ReDoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Rebilly/ReDoc)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
-- [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/tripit/slate) ![GitHub last commit](https://img.shields.io/github/last-commit/tripit/slate)](https://github.com/tripit/slate) - Beautiful static documentation for your API.
+- [ReDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/Redocly/redoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Redocly/redoc)](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Documentation.
+- [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/slatedocs/slate) ![GitHub last commit](https://img.shields.io/github/last-commit/slatedocs/slate)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
 - [Swagger](https://swagger.io/) - A simple yet powerful representation of your RESTful API.
 
