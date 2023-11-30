@@ -247,6 +247,7 @@ C, C++
 * [with-c-syntax ![GitHub Repo Stars](https://img.shields.io/github/stars/y2q-actionman/with-c-syntax) ![GitHub last commit](https://img.shields.io/github/last-commit/y2q-actionman/with-c-syntax)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD_2Clause][17].
 * [Software-Evolution-Library ![GitHub Repo Stars](https://img.shields.io/github/stars/GrammaTech/sel) ![GitHub last commit](https://img.shields.io/github/last-commit/GrammaTech/sel)](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3][2].
+* [vacietis ![GitHub Repo Stars](https://img.shields.io/github/stars/vsedach/Vacietis) ![GitHub last commit](https://img.shields.io/github/last-commit/vsedach/Vacietis)](https://github.com/vsedach/Vacietis) -  C to Common Lisp compiler. [LGPL3][9].
 
 Cryptography
 ============

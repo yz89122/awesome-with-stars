@@ -149,6 +149,7 @@ Additional lists you might find useful:
 - [EmailQueue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp-email-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp-email-queue)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 - [Mailgun plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/narendravaghela/cakephp-mailgun) ![GitHub last commit](https://img.shields.io/github/last-commit/narendravaghela/cakephp-mailgun)](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - 🍰 [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
+- 🍰 [QueueScheduler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue-scheduler)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin.
 
 ## Environment
 *Plugins for environment.*
