@@ -168,7 +168,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Ada</h2>
 
 
-- [Codepeer](https://www.adacore.com/static-analysis/codepeer) :copyright: ��� Detects run-time and logic errors.
+- [Codepeer](https://www.adacore.com/static-analysis/codepeer) :copyright: — Detects run-time and logic errors.
 
 - [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) :copyright: — Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in source code.
 
