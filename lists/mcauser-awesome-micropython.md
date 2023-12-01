@@ -303,6 +303,7 @@ Other places you can look for MicroPython Libraries:
 * [ESP32-433Mhz-Transmitter ![GitHub Repo Stars](https://img.shields.io/github/stars/Aschhoff/ESP32-433Mhz-Transmitter) ![GitHub last commit](https://img.shields.io/github/last-commit/Aschhoff/ESP32-433Mhz-Transmitter)](https://github.com/Aschhoff/ESP32-433Mhz-Transmitter) - A pure MicroPython RF transmitter. You can create and add your own encoder.
 * [pico_jjy_tx ![GitHub Repo Stars](https://img.shields.io/github/stars/elehobica/pico_jjy_tx) ![GitHub last commit](https://img.shields.io/github/last-commit/elehobica/pico_jjy_tx)](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
 * [pico_dcf77_tx ![GitHub Repo Stars](https://img.shields.io/github/stars/elehobica/pico_dcf77_tx) ![GitHub last commit](https://img.shields.io/github/last-commit/elehobica/pico_dcf77_tx)](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
+* [micropython_dcf77 ![GitHub Repo Stars](https://img.shields.io/github/stars/dsiggi/micropython-dcf77) ![GitHub last commit](https://img.shields.io/github/last-commit/dsiggi/micropython-dcf77)](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
 
 #### RC receiver
 
