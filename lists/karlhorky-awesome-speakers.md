@@ -1519,7 +1519,7 @@ https://twitter.com/gojkoadzic
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/jevakallio" height="70px" width="70px" align="left" alt="" />
 
-**Jani Ev��kallio**\
+**Jani Eväkallio**\
 Topics: Self-Development, Programming\
 https://twitter.com/jevakallio
 
