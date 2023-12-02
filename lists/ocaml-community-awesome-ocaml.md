@@ -444,7 +444,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Package Management
 - **Distribution**:
-  - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
+  - [OPAM](http://opam.ocamlpro.com/) ��� A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
   - [Diskuv OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/diskuv/dkml-installer-ocaml)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
@@ -558,7 +558,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [cbor ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocaml-cbor) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocaml-cbor)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
-- [yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/yojson)](https://github.com/ocaml-community/yojson) ��� An optimized parsing and printing library for the JSON format.
+- [yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/yojson)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 - [sexplib ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/sexplib) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/sexplib)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
