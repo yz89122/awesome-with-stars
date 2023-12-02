@@ -158,7 +158,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Studio Elsewhere**](https:&#x2F;&#x2F;www.studioelsewhere.co&#x2F;) | [NYC] | bio-experiential design and technology to support brain health | 
 | [**Super A-OK**](https:&#x2F;&#x2F;superaok.com&#x2F;) | [NYC] | A multi-modal service bureau for the 21st century, fabrication, electronics | 
 | [**SUPERBIEN**](https:&#x2F;&#x2F;www.superbien.studio) | [Paris] [NYC] [Dubai] | Creative studio for visually extended experiences, merging digital &amp; physical environments. | [🌐](https:&#x2F;&#x2F;www.superbien.studio&#x2F;career)
-| [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects | [🌐](https:&#x2F;&#x2F;superflypresents.applytojob.com&#x2F;apply)
+| [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects | [����](https:&#x2F;&#x2F;superflypresents.applytojob.com&#x2F;apply)
 | [**TAD**](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;) | [NYC] [London] | digital experiences, technology and architecture, designed to inspire people. | [🌐](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;home&#x2F;opportunities)
 | [**Team Epiphany**](https:&#x2F;&#x2F;www.teamepiphany.com&#x2F;) | [NYC] [LA] | influencer marketing, IRL, vertical integration | [📧](mailto:info@teamepiphany.com)
 | [**Tellart**](https:&#x2F;&#x2F;www.tellart.com&#x2F;) | [Providence] [Amsterdam] [San Francisco] | transformative experiences, invention, physical &amp; digital experiences, new technologies | [📧](mailto:careers@tellart.com)
