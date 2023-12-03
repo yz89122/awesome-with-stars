@@ -357,6 +357,7 @@
 - [nyngwang/suave.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/nyngwang/suave.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/nyngwang/suave.lua)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 - [desdic/telescope-rooter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/telescope-rooter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/telescope-rooter.nvim)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
 - [SalOrak/whaler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SalOrak/whaler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SalOrak/whaler.nvim)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
+- [echasnovski/mini.nvim#mini.visits ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md) - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
 
 ## Color
 
@@ -1046,6 +1047,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [famiu/bufdelete.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/famiu/bufdelete.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/famiu/bufdelete.nvim)](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing your window layout.
 - [echasnovski/mini.nvim#mini.bufremove ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bufremove.md) - Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout.
 - [jyscao/ventana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jyscao/ventana.nvim)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
+- [mrjones2014/smart-splits.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 
 ### Tmux
 

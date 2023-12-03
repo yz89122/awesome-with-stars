@@ -110,6 +110,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Fluoresence in situ hybridization
 - [Big-fish ![GitHub Repo Stars](https://img.shields.io/github/stars/fish-quant/big-fish) ![GitHub last commit](https://img.shields.io/github/last-commit/fish-quant/big-fish)](https://github.com/fish-quant/big-fish) - Python package for the analysis of smFISH images.
+- [DypFISH ![GitHub Repo Stars](https://img.shields.io/github/stars/cbib/dypfish) ![GitHub last commit](https://img.shields.io/github/last-commit/cbib/dypfish)](https://github.com/cbib/dypfish) - Python library for spatial analysis of smFISH images.
 - [RS-FISH ![GitHub Repo Stars](https://img.shields.io/github/stars/PreibischLab/RS-FISH) ![GitHub last commit](https://img.shields.io/github/last-commit/PreibischLab/RS-FISH)](https://github.com/PreibischLab/RS-FISH) - Fiji plugin to detect FISH spots in 2D/3D images which scales to very large images.
 - [TissUUmaps](https://tissuumaps.github.io/) - Visualizer of NGS data, plot millions of points and interact, gate, export. ISS rounds and base visualization.
 
