@@ -145,7 +145,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ## Functional Languages that Compile to JavaScript
 
 * [ClojureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
-* [Elm](http://elm-lang.org/) �� A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
+* [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 * [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 * [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
@@ -228,7 +228,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Examples and Exercises
 
-* [FPJS-Class ![GitHub Repo Stars](https://img.shields.io/github/stars/loop-recur/FPJS-Class) ![GitHub last commit](https://img.shields.io/github/last-commit/loop-recur/FPJS-Class)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+* [FPJS-Class ![GitHub Repo Stars](https://img.shields.io/github/stars/loop-recur/FPJS-Class) ![GitHub last commit](https://img.shields.io/github/last-commit/loop-recur/FPJS-Class)](https://github.com/loop-recur/FPJS-Class) ��� Functional Programming learned through JavaScript.
 * [functional-javascript-workshop ![GitHub Repo Stars](https://img.shields.io/github/stars/timoxley/functional-javascript-workshop) ![GitHub last commit](https://img.shields.io/github/last-commit/timoxley/functional-javascript-workshop)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 * [functional-frontend-architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/paldepind/functional-frontend-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/paldepind/functional-frontend-architecture)](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [cube-composer ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/cube-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/cube-composer)](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
