@@ -1047,7 +1047,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
 
-- [flog](https://ruby.sadi.st/Flog.html) ��� Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+- [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
 - [Fukuzatsu ![GitHub Repo Stars](https://img.shields.io/github/stars/CoralineAda/fukuzatsu) ![GitHub last commit](https://img.shields.io/github/last-commit/CoralineAda/fukuzatsu)](https://github.com/CoralineAda/fukuzatsu) — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
 
