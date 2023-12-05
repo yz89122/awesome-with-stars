@@ -31,7 +31,6 @@ Additional lists you might find useful:
 	- [Dependency Injection](#dependency-injection)
 	- [E-commerce](#e-commerce)
 	- [Email](#email)
-	- [Environment](#environment)
 	- [File Manipulation](#file-manipulation)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [Geolocation](#geolocation)
@@ -149,11 +148,6 @@ Additional lists you might find useful:
 - [EmailQueue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp-email-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp-email-queue)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 - [Mailgun plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/narendravaghela/cakephp-mailgun) ![GitHub last commit](https://img.shields.io/github/last-commit/narendravaghela/cakephp-mailgun)](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - 🍰 [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
-- 🍰 [QueueScheduler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue-scheduler)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin.
-
-## Environment
-*Plugins for environment.*
-
 
 ## File Manipulation
 *Plugins for file manipulation.*
@@ -165,6 +159,7 @@ Additional lists you might find useful:
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
 
+- see Cake/Localized below.
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
@@ -265,8 +260,9 @@ Additional lists you might find useful:
 *Plugins for working with event and task queues.*
 
 - [CakeQueuesadilla plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josegonzalez/cakephp-queuesadilla) ![GitHub last commit](https://img.shields.io/github/last-commit/josegonzalez/cakephp-queuesadilla)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
-- 🍰 [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 - 🍰 [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/queue) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/queue)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
+- 🍰 [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+- 🍰 [QueueScheduler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue-scheduler)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin.
 
 ## REST and API
 *Plugins and web tools for developing REST-ful APIs.*
