@@ -615,6 +615,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LodePNG ![GitHub Repo Stars](https://img.shields.io/github/stars/lvandeve/lodepng) ![GitHub last commit](https://img.shields.io/github/last-commit/lvandeve/lodepng)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. [Zlib]
 * [Magick++](https://imagemagick.org/script/magick++.php) - ImageMagick program interfaces for C++. [Apache2]
 * [MagickWnd](https://imagemagick.org/script/magick-wand.php) - ImageMagick program interfaces for C. [Apache2]
+* [MozJPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/mozjpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/mozjpeg)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. [BSD/BSD-3-Clause/ZLIB]
 * [OpenCV](https://github.com/opencv) :zap: - Open source computer vision. [Apache2] [website](https://opencv.org)
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenImageIO/oiio) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenImageIO/oiio)](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
