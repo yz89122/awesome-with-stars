@@ -221,6 +221,7 @@ For a list of free hacking books available for download, go [here ![GitHub Repo 
  * [sniffglue ![GitHub Repo Stars](https://img.shields.io/github/stars/kpcyrd/sniffglue) ![GitHub last commit](https://img.shields.io/github/last-commit/kpcyrd/sniffglue)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
  * [Netz ![GitHub Repo Stars](https://img.shields.io/github/stars/spectralops/netz) ![GitHub last commit](https://img.shields.io/github/last-commit/spectralops/netz)](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
  * [RustScan ![GitHub Repo Stars](https://img.shields.io/github/stars/rustscan/rustscan) ![GitHub last commit](https://img.shields.io/github/last-commit/rustscan/rustscan)](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
+ * [PETEP ![GitHub Repo Stars](https://img.shields.io/github/stars/Warxim/petep) ![GitHub last commit](https://img.shields.io/github/last-commit/Warxim/petep)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
 # Forensic
 
@@ -334,3 +335,4 @@ For a list of free hacking books available for download, go [here ![GitHub Repo 
  * [Roppers Security Fundamentals](https://www.roppers.org/courses/security) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
  * [Roppers Practical Networking](https://www.roppers.org/courses/networking) - A hands-on, wildly practical introduction to networking and making packets dance. No wasted time, no memorizing, just learning the fundamentals.
  * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))
+ * [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity. [GitHub Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/cr0mll/cyberclopaedia) ![GitHub last commit](https://img.shields.io/github/last-commit/cr0mll/cyberclopaedia)](https://github.com/cr0mll/cyberclopaedia)
