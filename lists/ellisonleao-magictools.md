@@ -290,7 +290,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 - :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 - :tada: [nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/Immediate-Mode-UI/Nuklear)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
-- :tada: [ÖbEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/Sygmei/ObEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/Sygmei/ObEngine)](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML !
+- :tada: [��bEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/Sygmei/ObEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/Sygmei/ObEngine)](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML !
 - :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 - :tada: [Ogre3D](http://www.ogre3d.org/) - is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 - :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
