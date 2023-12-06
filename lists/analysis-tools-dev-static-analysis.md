@@ -168,7 +168,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Ada</h2>
 
 
-- [Codepeer](https://www.adacore.com/static-analysis/codepeer) :copyright: ��� Detects run-time and logic errors.
+- [Codepeer](https://www.adacore.com/static-analysis/codepeer) :copyright: — Detects run-time and logic errors.
 
 - [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) :copyright: — Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in source code.
 
@@ -1047,7 +1047,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
 
-- [flog](https://ruby.sadi.st/Flog.html) �� Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+- [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
 - [Fukuzatsu ![GitHub Repo Stars](https://img.shields.io/github/stars/CoralineAda/fukuzatsu) ![GitHub last commit](https://img.shields.io/github/last-commit/CoralineAda/fukuzatsu)](https://github.com/CoralineAda/fukuzatsu) — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
 
