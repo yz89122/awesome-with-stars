@@ -178,7 +178,7 @@
 
 ## Tools
 
-**Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
+**Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · �� Color-related · 🚀 Framework
 
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
@@ -370,7 +370,7 @@
 - 🚀 [ParcelJS + TypeScript Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-parceljs-typescript-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-parceljs-typescript-boilerplate)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🚀 [VuePress Tailwind CSS Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaoluoboding/vuepress-tailwind-theme-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoluoboding/vuepress-tailwind-theme-starter)](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🚀 [Gatsby Serif ![GitHub Repo Stars](https://img.shields.io/github/stars/windedge/gatsby-tailwind-serif) ![GitHub last commit](https://img.shields.io/github/last-commit/windedge/gatsby-tailwind-serif)](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
-- �� [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
+- 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 - 🚀 [Eleventy Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Eleventy-Starter-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Eleventy-Starter-Boilerplate)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 - 🚀 [Vite + React + Tailwind Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/vite-react-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/vite-react-tailwind-starter)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 - 🚀 [Vite + React + TypeScript + Tailwind 3.x starter ![GitHub Repo Stars](https://img.shields.io/github/stars/PDMLab/vite-react-typescript-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/PDMLab/vite-react-typescript-tailwind-starter)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
