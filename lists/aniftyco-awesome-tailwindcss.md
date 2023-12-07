@@ -253,7 +253,7 @@
 - 🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
 - 🌍 [Tailwind Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/LeCoupa/awesome-cheatsheets) ![GitHub last commit](https://img.shields.io/github/last-commit/LeCoupa/awesome-cheatsheets)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
-- 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
+- ��� [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
 - 🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - Tailwind CSS utility class names in a searchable interface.
 - 🌍🔧 [Loopple Builder](https://www.loopple.com/theme/soft-ui-dashboard-tailwind) - Dashboard drag-and-drop builder for Tailwind CSS.
 - 🌍🔧 [Tailwind Grid Generator](https://www.tailwindgen.com/) - Drag and drop Tailwind CSS grid generator.
