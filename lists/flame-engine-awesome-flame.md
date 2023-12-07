@@ -65,6 +65,8 @@
 
 ### Other Articles & Tutorials
 
+- [Introduction to Flame with Flutter](https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker) - Build a Breakout game with Flutter state management integration. By [Brett Morgan](https://github.com/domesticmouse/)
+
 - [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
 
 - [Flutter Web and Flame ![GitHub Repo Stars](https://img.shields.io/github/stars/AseemWangoo/experiments_with_web) ![GitHub last commit](https://img.shields.io/github/last-commit/AseemWangoo/experiments_with_web)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)

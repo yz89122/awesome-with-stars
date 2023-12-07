@@ -32,7 +32,6 @@
 - [Tools](#tools)
 - [UI Libraries, Components & Templates](#ui-libraries-components--templates)
 - [Starters & Themes](#starters--themes)
-- [Open-Source Projects](#open-source-projects)
 - [Learning](#learning)
 
 ## Useful Links
@@ -71,7 +70,7 @@
 - 💙 [Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-forms)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 - 🎨🧬 [Theming ![GitHub Repo Stars](https://img.shields.io/github/stars/innocenzi/tailwindcss-theming) ![GitHub last commit](https://img.shields.io/github/last-commit/innocenzi/tailwindcss-theming)](https://github.com/innocenzi/tailwindcss-theming) - Theming using CSS variables, with dark mode support.
 - 🎨🧬 [Theme Variants ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeNavith/tailwindcss-theme-variants) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeNavith/tailwindcss-theme-variants)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
-- ���🧬 [Multi Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/estevanmaito/tailwindcss-multi-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/estevanmaito/tailwindcss-multi-theme)](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
+- 🎨🧬 [Multi Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/estevanmaito/tailwindcss-multi-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/estevanmaito/tailwindcss-multi-theme)](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
 - 🎨🧬 [Theme Swapper ![GitHub Repo Stars](https://img.shields.io/github/stars/crswll/tailwindcss-theme-swapper) ![GitHub last commit](https://img.shields.io/github/last-commit/crswll/tailwindcss-theme-swapper)](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
 - 🎨🧬 [Themeable ![GitHub Repo Stars](https://img.shields.io/github/stars/upupming/tailwindcss-themeable) ![GitHub last commit](https://img.shields.io/github/last-commit/upupming/tailwindcss-themeable)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
 - 🎨🧬 [Themer ![GitHub Repo Stars](https://img.shields.io/github/stars/RyanClementsHax/tailwindcss-themer) ![GitHub last commit](https://img.shields.io/github/last-commit/RyanClementsHax/tailwindcss-themer)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
@@ -163,7 +162,7 @@
 - 🛑💼 [Aspect Ratio ![GitHub Repo Stars](https://img.shields.io/github/stars/webdna/tailwindcss-aspect-ratio) ![GitHub last commit](https://img.shields.io/github/last-commit/webdna/tailwindcss-aspect-ratio)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
 - 🛑💼 [Shadow Outline Colors ![GitHub Repo Stars](https://img.shields.io/github/stars/octoper/tailwindcss-shadow-outline-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/octoper/tailwindcss-shadow-outline-colors)](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 - 🛑💼 [Alpha ![GitHub Repo Stars](https://img.shields.io/github/stars/bradlc/tailwindcss-alpha) ![GitHub last commit](https://img.shields.io/github/last-commit/bradlc/tailwindcss-alpha)](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variant utilities.
-- 🛑💼💙 [Line Clamp ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-line-clamp) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-line-clamp)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
+- 🛑💼���� [Line Clamp ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-line-clamp) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-line-clamp)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 - 🛑🧬 [Direction ![GitHub Repo Stars](https://img.shields.io/github/stars/RonMelkhior/tailwindcss-dir) ![GitHub last commit](https://img.shields.io/github/last-commit/RonMelkhior/tailwindcss-dir)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
 - 🛑🧬 [Important ![GitHub Repo Stars](https://img.shields.io/github/stars/chasegiunta/tailwindcss-important) ![GitHub last commit](https://img.shields.io/github/last-commit/chasegiunta/tailwindcss-important)](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
 - 🛑🧬🎨 [Prefers Dark Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/javifm86/tailwindcss-prefers-dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/javifm86/tailwindcss-prefers-dark-mode)](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Adds variants based on the `prefers-color-scheme` media query.
@@ -337,7 +336,7 @@
 
 ## Starters & Themes
 
-**Legend**: �� Package · 📟 Command line tool/generator · 🚀 Cloneable
+**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 - 📟 [Create React App with PurgeCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/DemianD/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/DemianD/create-react-app-tailwindcss)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
@@ -385,17 +384,6 @@
 - 🚀 [AstroWind ![GitHub Repo Stars](https://img.shields.io/github/stars/onwidget/astrowind) ![GitHub last commit](https://img.shields.io/github/last-commit/onwidget/astrowind)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/angular-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/angular-tailwind)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/vue-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/vue-resume)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
-
-## Open-Source Projects
-
-- [Goodwork ![GitHub Repo Stars](https://img.shields.io/github/stars/iluminar/goodwork) ![GitHub last commit](https://img.shields.io/github/last-commit/iluminar/goodwork)](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
-- [Todolist ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumebriday/todolist-frontend-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumebriday/todolist-frontend-vuejs)](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
-- [LeagueStats ![GitHub Repo Stars](https://img.shields.io/github/stars/vkaelin/LeagueStats) ![GitHub last commit](https://img.shields.io/github/last-commit/vkaelin/LeagueStats)](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
-- [SapperCommerce ![GitHub Repo Stars](https://img.shields.io/github/stars/itswadesh/sapper-ecommerce) ![GitHub last commit](https://img.shields.io/github/last-commit/itswadesh/sapper-ecommerce)](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
-- [Misiki Books ![GitHub Repo Stars](https://img.shields.io/github/stars/itswadesh/misiki-books) ![GitHub last commit](https://img.shields.io/github/last-commit/itswadesh/misiki-books)](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
-- [Ubuntu 20.04 ![GitHub Repo Stars](https://img.shields.io/github/stars/vivek9patel/vivek9patel.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/vivek9patel/vivek9patel.github.io)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
-- [Angular Spotify ![GitHub Repo Stars](https://img.shields.io/github/stars/trungk18/angular-spotify) ![GitHub last commit](https://img.shields.io/github/last-commit/trungk18/angular-spotify)](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular, Nx Workspace and Tailwind CSS.
-- [GitProfile ![GitHub Repo Stars](https://img.shields.io/github/stars/arifszn/gitprofile) ![GitHub last commit](https://img.shields.io/github/last-commit/arifszn/gitprofile)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
 ## Learning
 
