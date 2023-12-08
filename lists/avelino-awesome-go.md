@@ -3283,6 +3283,7 @@ _Software written in Go._
 - [vFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/VerizonDigital/vflow) ![GitHub last commit](https://img.shields.io/github/last-commit/VerizonDigital/vflow)](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
 - [wellington ![GitHub Repo Stars](https://img.shields.io/github/stars/wellington/wellington) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/wellington)](https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass).
 - [woke ![GitHub Repo Stars](https://img.shields.io/github/stars/get-woke/woke) ![GitHub last commit](https://img.shields.io/github/last-commit/get-woke/woke)](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
+- [yai ![GitHub Repo Stars](https://img.shields.io/github/stars/ekkinox/yai) ![GitHub last commit](https://img.shields.io/github/last-commit/ekkinox/yai)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 - [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator.
 
 **[⬆ back to top](#contents)**
