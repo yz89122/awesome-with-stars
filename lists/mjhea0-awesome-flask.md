@@ -51,7 +51,7 @@
 #### RESTful API Support
 
 - [Eve](https://docs.python-eve.org) - RESTful API framework designed for human beings.
-- [Flask-Classful](https://flask-classful.teracy.org/) - Adds support for class-based views for setting up RESTful API route endpoints.
+- [Flask-Classful](https://flask-classful.readthedocs.io/) - Adds support for class-based views for setting up RESTful API route endpoints.
 - [Flask-MongoRest ![GitHub Repo Stars](https://img.shields.io/github/stars/closeio/flask-mongorest) ![GitHub last commit](https://img.shields.io/github/last-commit/closeio/flask-mongorest)](https://github.com/closeio/flask-mongorest) - RESTful API framework wrapped around [MongoEngine](http://mongoengine.org/).
 - [Flask-RESTful](https://flask-restful.readthedocs.io) - Quickly build RESTful APIs.
 
@@ -340,8 +340,7 @@ Compute:
 - [flask-htmx-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/marcusschiesser/flask-htmx-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/marcusschiesser/flask-htmx-boilerplate)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 - [uwsgi-nginx-flask-docker ![GitHub Repo Stars](https://img.shields.io/github/stars/tiangolo/uwsgi-nginx-flask-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/uwsgi-nginx-flask-docker)](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask ![GitHub Repo Stars](https://img.shields.io/github/stars/dternyak/React-Redux-Flask) ![GitHub last commit](https://img.shields.io/github/last-commit/dternyak/React-Redux-Flask)](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
-- [Flask-Scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/Leo-G/Flask-Scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/Leo-G/Flask-Scaffold)](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
-- [Flask-VueJS ![GitHub Repo Stars](https://img.shields.io/github/stars/marcuxyz/flask-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/marcuxyz/flask-vuejs)](https://github.com/marcuxyz/flask-vuejs) - Connect Flask application with VueJS.
+- [MVC Flask ![GitHub Repo Stars](https://img.shields.io/github/stars/marcuxyz/mvc-flask) ![GitHub last commit](https://img.shields.io/github/last-commit/marcuxyz/mvc-flask)](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
 
 ### Open Source Projects
 
