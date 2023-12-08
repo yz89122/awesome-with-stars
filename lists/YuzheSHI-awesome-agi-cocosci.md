@@ -1519,7 +1519,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371) - ***Topics in Cognitive Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15919410726494658168&hl=en&as_sdt=0,5)].
 
-* [The Na��ve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)]. [[Project](http://www.github.com/julianje/bishop)].
+* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)]. [[Project](http://www.github.com/julianje/bishop)].
 
 * [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204&hl=en&as_sdt=0,5)]. A benchmark for AI that modeling the core knowledge of ToM.
 
