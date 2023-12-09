@@ -98,6 +98,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Workshop: Mi primer blog con Quarto](https://perezp44.github.io/taller.primer.blog/) - A workshop in Spanish by Pedro J. Pérez to create a blog with Quarto (materials: <https://github.com/perezp44/taller.primer.blog>).
 - [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
+- [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
 
 ## Blog posts
 
@@ -119,6 +120,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [How to have images for both light and dark theme?](https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/) - A blog post describing how to have images for both light and dark theme by Mickaël Canouil.
 - [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/) - A blog post showing how to customise the styling of PDF documents, and save the styling into a Quarto extension to make it easier to reuse and share.
 - [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/) - This blog post explains which settings to use to compile an Epub for Leanpub and a print-ready PDF for Amazon's self-publishing service (KDP).
+- [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
 
 ## Talks and videos
 
@@ -164,6 +166,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
 - [matrix BOT ![GitHub Repo Stars](https://img.shields.io/github/stars/rgomez90/matrix-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/rgomez90/matrix-bot)](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
+- [quartodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/machow/quartodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/machow/quartodoc)](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 
 ## Continuous integration / Continuous deployment
 
@@ -230,6 +233,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [preview-colour ![GitHub Repo Stars](https://img.shields.io/github/stars/mcanouil/quarto-preview-colour) ![GitHub last commit](https://img.shields.io/github/last-commit/mcanouil/quarto-preview-colour)](https://github.com/mcanouil/quarto-preview-colour) - An extension to add preview colour as a coloured symbol next to colour code.
 - [lua-env ![GitHub Repo Stars](https://img.shields.io/github/stars/mcanouil/quarto-lua-env) ![GitHub last commit](https://img.shields.io/github/last-commit/mcanouil/quarto-lua-env)](https://github.com/mcanouil/quarto-lua-env) - An extension for Quarto to provide access to LUA objects as metadata.
 - [spotlight ![GitHub Repo Stars](https://img.shields.io/github/stars/mcanouil/quarto-spotlight) ![GitHub last commit](https://img.shields.io/github/last-commit/mcanouil/quarto-spotlight)](https://github.com/mcanouil/quarto-spotlight) - An extension for Reveal.js allowing to highlight the current mouse position with a spotlight.
+- [glossary ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewpbray/glossary) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewpbray/glossary)](https://github.com/andrewpbray/glossary) - Collect blocks of content across many documents and write them into a glossary.
 
 ## Templates
 
@@ -269,6 +273,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [clean ![GitHub Repo Stars](https://img.shields.io/github/stars/grantmcdermott/quarto-revealjs-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/grantmcdermott/quarto-revealjs-clean)](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimal and elegant presentation theme for Quarto `revealjs`, inspired by modern Beamer templates.
 - [cinco-de-mayo ![GitHub Repo Stars](https://img.shields.io/github/stars/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo) ![GitHub last commit](https://img.shields.io/github/last-commit/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo)](https://github.com/EmilHvitfeldt/quarto-revealjs-cinco-de-mayo) - Cinco de Mayo Quarto `Reveal.js` theme.
 - [rvalhub ![GitHub Repo Stars](https://img.shields.io/github/stars/pharmaR/rvalhub-quarto) ![GitHub last commit](https://img.shields.io/github/last-commit/pharmaR/rvalhub-quarto)](https://github.com/pharmaR/rvalhub-quarto) - R Validation Hub `Reveal.js` theme.
+- [quakr ![GitHub Repo Stars](https://img.shields.io/github/stars/ThinkR-open/quakr) ![GitHub last commit](https://img.shields.io/github/last-commit/ThinkR-open/quakr)](https://github.com/ThinkR-open/quakr) - Quakr `Reveal.js` theme by [ThinkR](https://thinkr.fr/).
 
 ### HTML Documents
 
@@ -342,6 +347,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Ella Kaye's website ![GitHub Repo Stars](https://img.shields.io/github/stars/EllaKaye/ellakaye.co.uk) ![GitHub last commit](https://img.shields.io/github/last-commit/EllaKaye/ellakaye.co.uk)](https://github.com/EllaKaye/ellakaye.co.uk) - Ella Kaye's website with Bootstrap Grid card home page layout, CSS animation in navigation bar, and light/dark mode.
 - [Quering with PRQL ![GitHub Repo Stars](https://img.shields.io/github/stars/eitsupi/querying-with-prql) ![GitHub last commit](https://img.shields.io/github/last-commit/eitsupi/querying-with-prql)](https://github.com/eitsupi/querying-with-prql) - Docusaurus website using computations via `Jupyter` and `knitr` and multiple languages (PRQL, SQL, R, Python, *etc.*).
 - [Real World Data Science](https://realworlddatascience.net/) - The Royal Statistical Society website, built with Quarto, features a custom design (based on the Lux Bootswatch theme), with a customised navbar and homepage layout.
+- [Silvia Canelón's website](https://silviacanelon.com) - Silvia Canelón's website customized to match the style of the Hugo Apéro blogdown theme.
 
 ### Book formats
 
