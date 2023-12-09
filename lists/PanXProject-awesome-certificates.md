@@ -186,7 +186,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 ## Networking
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
+| [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [���](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
 | [CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) | Saylor Academy | Intermediate | 60 | 🏆 |
 
 
