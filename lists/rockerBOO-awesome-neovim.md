@@ -151,6 +151,7 @@
 - [mrcjkb/rustaceanvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/rustaceanvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/rustaceanvim)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 - [soulis-1256/hoverhints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/soulis-1256/hoverhints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/soulis-1256/hoverhints.nvim)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 - [stevanmilic/nvim-lspimport ![GitHub Repo Stars](https://img.shields.io/github/stars/stevanmilic/nvim-lspimport) ![GitHub last commit](https://img.shields.io/github/last-commit/stevanmilic/nvim-lspimport)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+- [jmbuhr/otter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 
 #### LSP Installer
 
@@ -205,6 +206,7 @@
 - [niuiic/typst-preview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/typst-preview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/typst-preview.nvim)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
 - [simaxme/java.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/simaxme/java.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/simaxme/java.nvim)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 - [chomosuke/typst-preview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
+- [quarto-dev/quarto-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
 
 ### Golang
 
