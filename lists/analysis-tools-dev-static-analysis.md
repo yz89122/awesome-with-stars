@@ -527,7 +527,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [goroutine-inspect ![GitHub Repo Stars](https://img.shields.io/github/stars/linuxerwang/goroutine-inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/linuxerwang/goroutine-inspect)](https://github.com/linuxerwang/goroutine-inspect) — An interactive tool to analyze Golang goroutine dump.
 
-- [gosec (gas)](https://securego.io) — Inspects source code for security problems by scanning the Go AST.
+- [gosec (gas)](https://securego.io) �� Inspects source code for security problems by scanning the Go AST.
 
 - [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) — Syntactic and semantic analysis similar to the Go compiler.
 
@@ -568,7 +568,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
-- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) — Find unused function parameters.
+- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) �� Find unused function parameters.
 
 - [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 
