@@ -256,6 +256,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 #### Smart Contracts
 
+- [puya ![GitHub Repo Stars](https://img.shields.io/github/stars/algorandfoundation/puya) ![GitHub last commit](https://img.shields.io/github/last-commit/algorandfoundation/puya)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 - [pyteal ![GitHub Repo Stars](https://img.shields.io/github/stars/algorand/pyteal) ![GitHub last commit](https://img.shields.io/github/last-commit/algorand/pyteal)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 - [beaker ![GitHub Repo Stars](https://img.shields.io/github/stars/algorand-devrel/beaker) ![GitHub last commit](https://img.shields.io/github/last-commit/algorand-devrel/beaker)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 - [beaker-ts ![GitHub Repo Stars](https://img.shields.io/github/stars/algorand-devrel/beaker-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/algorand-devrel/beaker-ts)](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
