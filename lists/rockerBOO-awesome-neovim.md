@@ -310,6 +310,7 @@
 - [nvimdev/hlsearch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/hlsearch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/hlsearch.nvim)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 - [mangelozzi/rgflow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 - [duane9/nvim-rg ![GitHub Repo Stars](https://img.shields.io/github/stars/duane9/nvim-rg) ![GitHub last commit](https://img.shields.io/github/last-commit/duane9/nvim-rg)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
+- [FabianWirth/search.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/FabianWirth/search.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/FabianWirth/search.nvim)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
 
 ## Fuzzy Finder
 
