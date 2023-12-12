@@ -1286,7 +1286,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 <h2>Vim Script</h2>
 
 
-- [vint ![GitHub Repo Stars](https://img.shields.io/github/stars/Kuniwak/vint) ![GitHub last commit](https://img.shields.io/github/last-commit/Kuniwak/vint)](https://github.com/Kuniwak/vint) :warning: — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+- [vint ![GitHub Repo Stars](https://img.shields.io/github/stars/Kuniwak/vint) ![GitHub last commit](https://img.shields.io/github/last-commit/Kuniwak/vint)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 
 ## Multiple languages
