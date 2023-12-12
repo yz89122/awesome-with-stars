@@ -54,6 +54,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
 * [gjf ![GitHub Repo Stars](https://img.shields.io/github/stars/yazeed44/gjf) ![GitHub last commit](https://img.shields.io/github/last-commit/yazeed44/gjf)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 * [Jest-GeoJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/M-Scott-Lassiter/jest-geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/M-Scott-Lassiter/jest-geojson)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+* [antimeridian ![GitHub Repo Stars](https://img.shields.io/github/stars/gadomski/antimeridian) ![GitHub last commit](https://img.shields.io/github/last-commit/gadomski/antimeridian)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 
 ### services
 
