@@ -168,7 +168,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [eslint-plugin-fp ![GitHub Repo Stars](https://img.shields.io/github/stars/jfmengels/eslint-plugin-fp) ![GitHub last commit](https://img.shields.io/github/last-commit/jfmengels/eslint-plugin-fp)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 * [4.5 ![GitHub Repo Stars](https://img.shields.io/github/stars/TylorS/4.5) ![GitHub last commit](https://img.shields.io/github/last-commit/TylorS/4.5)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-* [hm-def ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+* [hm-def ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) �� Runtime type checking for JS with Hindley Milner signatures.
 * [ftor ![GitHub Repo Stars](https://img.shields.io/github/stars/kongware/ftor) ![GitHub last commit](https://img.shields.io/github/last-commit/kongware/ftor)](https://github.com/kongware/ftor) - A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding.
 
 ## Resources
@@ -219,7 +219,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC) – A series that builds a “practical” web application with React and functional programming in JavaScript.
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) – Underscore.js claims to be a functional programming library, but is it really?
 * [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM) – Learn about practical use cases for functors, applicatives, and monads.
-* [Pure JavaScript](https://vimeo.com/49384334) �� Christian Johansen will show you how you can significantly up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
+* [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen will show you how you can significantly up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
 * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - A series by Mattias Petter Johansson, from the youtube channel FunFunFunction, that is specifically about popularization of functional programming in JavaScript.
 * [Functional Programming in TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - A simple and understandable introduction of functional proramming in javascript.
