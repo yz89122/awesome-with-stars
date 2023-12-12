@@ -179,6 +179,7 @@
 - [nvimdev/epo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/epo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/epo.nvim)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 - [simrat39/rust-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/simrat39/rust-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/simrat39/rust-tools.nvim)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 - [zbirenbaum/copilot.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/zbirenbaum/copilot.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/zbirenbaum/copilot.lua)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/github/copilot.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/github/copilot.vim)](https://github.com/github/copilot.vim).
+- [Exafunction/codeium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
 
 ## AI
 
