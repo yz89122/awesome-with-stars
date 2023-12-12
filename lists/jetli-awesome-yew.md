@@ -118,6 +118,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [rust-yew-axum-tauri-desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/jetli/rust-yew-axum-tauri-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/jetli/rust-yew-axum-tauri-desktop)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 - [Yew PWA Minimal ![GitHub Repo Stars](https://img.shields.io/github/stars/fkohlgrueber/yew-pwa-minimal) ![GitHub last commit](https://img.shields.io/github/last-commit/fkohlgrueber/yew-pwa-minimal)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 - [Yew HTTP Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/LeTurt333/yew_http_starter) ![GitHub last commit](https://img.shields.io/github/last-commit/LeTurt333/yew_http_starter)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
+- [Yew minimlistic template ![GitHub Repo Stars](https://img.shields.io/github/stars/averichev/yew-starter-template) ![GitHub last commit](https://img.shields.io/github/last-commit/averichev/yew-starter-template)](https://github.com/averichev/yew-starter-template) - A minimalistic template for quickly starting a project on yew.
 
 ## Crates
 
