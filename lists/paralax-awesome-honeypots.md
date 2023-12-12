@@ -82,6 +82,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [dhp ![GitHub Repo Stars](https://img.shields.io/github/stars/ciscocsirt/dhp) ![GitHub last commit](https://img.shields.io/github/last-commit/ciscocsirt/dhp)](https://github.com/ciscocsirt/dhp) - Simple Docker Honeypot server emulating small snippets of the Docker HTTP API.
   - [DolosHoneypot ![GitHub Repo Stars](https://img.shields.io/github/stars/Marist-Innovation-Lab/DolosHoneypot) ![GitHub last commit](https://img.shields.io/github/last-commit/Marist-Innovation-Lab/DolosHoneypot)](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN (software defined networking) honeypot.
   - [Ensnare ![GitHub Repo Stars](https://img.shields.io/github/stars/ahoernecke/ensnare) ![GitHub last commit](https://img.shields.io/github/last-commit/ahoernecke/ensnare)](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
+  - [Helix ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeerg/helix-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeerg/helix-honeypot)](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
   - [honeycomb_plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/Cymmetria/honeycomb_plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/Cymmetria/honeycomb_plugins)](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
   - [honeyntp ![GitHub Repo Stars](https://img.shields.io/github/stars/fygrave/honeyntp) ![GitHub last commit](https://img.shields.io/github/last-commit/fygrave/honeyntp)](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
   - [honeypot-camera ![GitHub Repo Stars](https://img.shields.io/github/stars/alexbredo/honeypot-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/alexbredo/honeypot-camera)](https://github.com/alexbredo/honeypot-camera) - Observation camera honeypot.
@@ -110,6 +111,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 
 - Anti-honeypot stuff
 
+  - [canarytokendetector ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/canarytokendetector) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/canarytokendetector)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
   - [kippo_detect ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-morris/kippo_detect) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-morris/kippo_detect)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
 
 - ICS/SCADA honeypots
@@ -285,6 +287,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 
 - Honeypot deployment
 
+  - [honeyfs ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/honeyfs) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/honeyfs)](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
   - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
 
 - Honeypot extensions to Wireshark
@@ -401,6 +404,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [SendMeSpamIDS.py ![GitHub Repo Stars](https://img.shields.io/github/stars/johestephan/VerySimpleHoneypot) ![GitHub last commit](https://img.shields.io/github/last-commit/johestephan/VerySimpleHoneypot)](https://github.com/johestephan/VerySimpleHoneypot) - Simple SMTP fetch all IDS and analyzer.
   - [Shiva ![GitHub Repo Stars](https://img.shields.io/github/stars/shiva-spampot/shiva) ![GitHub last commit](https://img.shields.io/github/last-commit/shiva-spampot/shiva)](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
     - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
+  - [SMTPLLMPot ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/SMTPLLMPot) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/SMTPLLMPot)](https://github.com/referefref/SMTPLLMPot) - A super simple SMTP Honeypot built using GPT3.5
   - [SpamHAT ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelraulb/spamhat) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelraulb/spamhat)](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool.
   - [Spamhole](http://www.spamhole.net/)
   - [honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/jadb/honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/jadb/honeypot)](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK.
