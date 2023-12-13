@@ -55,7 +55,7 @@
 - [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle][GNOME Circle]
 - [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle][GNOME Circle]
 - [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
-- [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
+- [Warp](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
 - [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
@@ -108,6 +108,7 @@
 - [Spot ![GitHub Repo Stars](https://img.shields.io/github/stars/xou816/spot) ![GitHub last commit](https://img.shields.io/github/last-commit/xou816/spot)](https://github.com/xou816/spot) - Spotify Client.
 - [Clapper ![GitHub Repo Stars](https://img.shields.io/github/stars/Rafostar/clapper) ![GitHub last commit](https://img.shields.io/github/last-commit/Rafostar/clapper)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
+- [Decibels ![GitHub Repo Stars](https://img.shields.io/github/stars/vixalien/decibels) ![GitHub last commit](https://img.shields.io/github/last-commit/vixalien/decibels)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 
 ### Graphics
 
@@ -118,6 +119,7 @@
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color picker, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokse22/ascii-draw) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokse22/ascii-draw)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
+- [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
 
 ### Scientific Tooling
 
