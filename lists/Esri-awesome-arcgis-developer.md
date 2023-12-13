@@ -183,6 +183,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [mercator-geographic-converter ![GitHub Repo Stars](https://img.shields.io/github/stars/hhkaos/mercator-geographic-converter) ![GitHub last commit](https://img.shields.io/github/last-commit/hhkaos/mercator-geographic-converter)](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 - [react-sceneview ![GitHub Repo Stars](https://img.shields.io/github/stars/Esri/react-sceneview) ![GitHub last commit](https://img.shields.io/github/last-commit/Esri/react-sceneview)](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
 - [bboxfinder](http://bboxfinder.com/) - Simple web application to get the coordinates of a bounding box drawn on the map.
+- [snippets client side raster functions](https://ubatsukh.github.io/arcgis-js-api-demos/clientside-rasterfunctions/index.html) - The client-side raster functions are operations that apply processing directly to the source image pixels.
 
 ## Map and data exploration
 
