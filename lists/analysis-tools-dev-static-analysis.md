@@ -721,6 +721,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>Julia</h2>
 
 
+- [JET ![GitHub Repo Stars](https://img.shields.io/github/stars/aviatesk/JET.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/aviatesk/JET.jl)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
+
 - [StaticLint ![GitHub Repo Stars](https://img.shields.io/github/stars/julia-vscode/StaticLint.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/julia-vscode/StaticLint.jl)](https://github.com/julia-vscode/StaticLint.jl) — Static Code Analysis for Julia
 
 
