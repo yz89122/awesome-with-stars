@@ -352,10 +352,6 @@
 - [vim-v ![GitHub Repo Stars](https://img.shields.io/github/stars/cheap-glitch/vim-v) ![GitHub last commit](https://img.shields.io/github/last-commit/cheap-glitch/vim-v)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 - [vim-vtools ![GitHub Repo Stars](https://img.shields.io/github/stars/zakuro9715/vim-vtools) ![GitHub last commit](https://img.shields.io/github/last-commit/zakuro9715/vim-vtools)](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
-#### IntelliJ & CLion & GoLand etc
-
-- [IntelliJ V ![GitHub Repo Stars](https://img.shields.io/github/stars/intellij-v/intellij-v) ![GitHub last commit](https://img.shields.io/github/last-commit/intellij-v/intellij-v)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
-
 ### Forums
 
 - [r/vlang](https://www.reddit.com/r/vlang)
