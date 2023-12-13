@@ -691,6 +691,7 @@ Other places you can look for MicroPython Libraries:
 * [upyuncertainties ![GitHub Repo Stars](https://img.shields.io/github/stars/rcolistete/upyuncertainties) ![GitHub last commit](https://img.shields.io/github/last-commit/rcolistete/upyuncertainties)](https://github.com/rcolistete/upyuncertainties) - Uncertainty calculations for MicroPython.
 * [umatrix ![GitHub Repo Stars](https://img.shields.io/github/stars/iyassou/umatrix) ![GitHub last commit](https://img.shields.io/github/last-commit/iyassou/umatrix)](https://github.com/iyassou/umatrix) - A matrix library for the MicroPython language.
 * [micropython-fractions ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-fractions) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-fractions)](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
+* [Sun and Moon ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-samples)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
 ### Motion
 
@@ -1014,7 +1015,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mcron ![GitHub Repo Stars](https://img.shields.io/github/stars/fizista/micropython-mcron) ![GitHub last commit](https://img.shields.io/github/last-commit/fizista/micropython-mcron)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron ![GitHub Repo Stars](https://img.shields.io/github/stars/fizista/micropython-scron) ![GitHub last commit](https://img.shields.io/github/last-commit/fizista/micropython-scron)](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known cron program for Unix systems.
-* [Schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+* [Schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
 * [micropython-aioschedule ![GitHub Repo Stars](https://img.shields.io/github/stars/ThinkTransit/micropython-aioschedule) ![GitHub last commit](https://img.shields.io/github/last-commit/ThinkTransit/micropython-aioschedule)](https://github.com/ThinkTransit/micropython-aioschedule) - A persistent uasyncio scheduler that supports deepsleep between task runs.
 
 ### Storage

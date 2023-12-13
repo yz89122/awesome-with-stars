@@ -321,7 +321,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Uucp ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uucp) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uucp)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
 - [Uunf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uunf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uunf)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 - [Uuseg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uuseg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uuseg)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
-- [Uutf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uutf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uutf)](https://github.com/dbuenzli/uutf) �� Non-blocking streaming Unicode codec for OCaml.
+- [Uutf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uutf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uutf)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 
 ## User Interface
@@ -444,7 +444,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Package Management
 - **Distribution**:
-  - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
+  - [OPAM](http://opam.ocamlpro.com/) ��� A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
   - [Diskuv OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/diskuv/dkml-installer-ocaml)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
