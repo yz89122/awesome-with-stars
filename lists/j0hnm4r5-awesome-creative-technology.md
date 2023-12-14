@@ -263,7 +263,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
 | [**&amp;Walsh**](https:&#x2F;&#x2F;andwalsh.com&#x2F;) | [NYC] | brand strategy, art direction, design and production across all platforms | 
-| [**AKQA**](https:&#x2F;&#x2F;www.akqa.com&#x2F;) | [London] [SF] [S��o Paulo] [Melbourne] [Aarhus] [Miami] [Amsterdam] [Atlanta] [Auckland] [Berlin] [Cairo] [Cape Town] [Copenhagen] [Dubai] [Gothenburg] [Gurgaon] [Johannesburg] [Milan] [NYC] [Paris] [Portland, OR] [Riyadh] [Shanghai] [Stockholm] [Sydney] [Tokyo] [Venice] [DC] [Wellington] | the most powerful force in the universe isn’t technology, it’s imagination | 
+| [**AKQA**](https:&#x2F;&#x2F;www.akqa.com&#x2F;) | [London] [SF] [São Paulo] [Melbourne] [Aarhus] [Miami] [Amsterdam] [Atlanta] [Auckland] [Berlin] [Cairo] [Cape Town] [Copenhagen] [Dubai] [Gothenburg] [Gurgaon] [Johannesburg] [Milan] [NYC] [Paris] [Portland, OR] [Riyadh] [Shanghai] [Stockholm] [Sydney] [Tokyo] [Venice] [DC] [Wellington] | the most powerful force in the universe isn’t technology, it’s imagination | 
 | [**BUCK**](https:&#x2F;&#x2F;buck.co&#x2F;) | [LA] [NYC] [Sydney] [Amsterdam] | VR, AR, installation, real-time animation, 3D, experiential | 
 | [**Framestore**](https:&#x2F;&#x2F;www.framestore.com&#x2F;) | [London] [NYC] [Montreal] | virtual, augmented and mixed realities, location-based entertainment, and theme park rides | 
 | [**ManvsMachine**](https:&#x2F;&#x2F;mvsm.com&#x2F;) | [London] [LA] | multidimensional creative studio | 
