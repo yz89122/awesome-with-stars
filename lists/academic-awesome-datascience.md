@@ -1100,6 +1100,8 @@ Some data mining competition platforms
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction ![GitHub Repo Stars](https://img.shields.io/github/stars/AstraZeneca/awesome-drug-pair-scoring) ![GitHub last commit](https://img.shields.io/github/last-commit/AstraZeneca/awesome-drug-pair-scoring)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 - [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 - [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
+- [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
+- [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
 
 ### Hobby
 - [Awesome Music Production ![GitHub Repo Stars](https://img.shields.io/github/stars/ad-si/awesome-music-production) ![GitHub last commit](https://img.shields.io/github/last-commit/ad-si/awesome-music-production)](https://github.com/ad-si/awesome-music-production)
