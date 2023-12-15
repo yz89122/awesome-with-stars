@@ -281,6 +281,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Component Libraries
 
 - [AMP ![GitHub Repo Stars](https://img.shields.io/github/stars/ampproject/amphtml) ![GitHub last commit](https://img.shields.io/github/last-commit/ampproject/amphtml)](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
+- [AnywhereUI ![GitHub Repo Stars](https://img.shields.io/github/stars/adaleks/anywhere-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/adaleks/anywhere-ui)](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
 - [Apollo Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/apollo-elements/apollo-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/apollo-elements/apollo-elements)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
 - [AXA Pattern Library ![GitHub Repo Stars](https://img.shields.io/github/stars/axa-ch-webhub-cloud/pattern-library) ![GitHub last commit](https://img.shields.io/github/last-commit/axa-ch-webhub-cloud/pattern-library)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
 - [Blackstone UI ![GitHub Repo Stars](https://img.shields.io/github/stars/kjantzer/bui) ![GitHub last commit](https://img.shields.io/github/last-commit/kjantzer/bui)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
@@ -604,7 +605,6 @@ The only notable exception is that customized built-in elements are rejected by 
 
 - [@webcomponents/template ![GitHub Repo Stars](https://img.shields.io/github/stars/webcomponents/polyfills) ![GitHub last commit](https://img.shields.io/github/last-commit/webcomponents/polyfills)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 - [@ungap/import-node ![GitHub Repo Stars](https://img.shields.io/github/stars/ungap/import-node) ![GitHub last commit](https://img.shields.io/github/last-commit/ungap/import-node)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
-
 
 ### History
 
