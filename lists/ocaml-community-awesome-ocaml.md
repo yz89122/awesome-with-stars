@@ -280,7 +280,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Formal Software Verification
 
 - [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
-- [Why3](http://why3.lri.fr/) ��� Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
 
@@ -400,7 +400,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
 - **Syntax Extensions**:
   - [ppx_import ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ppx_import) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ppx_import)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
-  - [ppx_string_interpolate ![GitHub Repo Stars](https://img.shields.io/github/stars/sheijk/ppx_string_interpolate) ![GitHub last commit](https://img.shields.io/github/last-commit/sheijk/ppx_string_interpolate)](https://github.com/sheijk/ppx_string_interpolate) �� A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
+  - [ppx_string_interpolate ![GitHub Repo Stars](https://img.shields.io/github/stars/sheijk/ppx_string_interpolate) ![GitHub last commit](https://img.shields.io/github/last-commit/sheijk/ppx_string_interpolate)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
   - [ppx_monad ![GitHub Repo Stars](https://img.shields.io/github/stars/rizo/ppx_monad) ![GitHub last commit](https://img.shields.io/github/last-commit/rizo/ppx_monad)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
@@ -558,7 +558,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [cbor ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocaml-cbor) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocaml-cbor)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
-- [yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/yojson)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
+- [yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/yojson)](https://github.com/ocaml-community/yojson) ��� An optimized parsing and printing library for the JSON format.
 - [sexplib ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/sexplib) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/sexplib)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
