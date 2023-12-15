@@ -597,7 +597,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) 🟪 - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
 
 
-[Game Design](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/) 💠���� - A Game Design class taught at MIT (free to access!) 
+[Game Design](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/) 💠🟪 - A Game Design class taught at MIT (free to access!) 
 
 
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - A tutorial on writing Game Design Documents (GDDs).
