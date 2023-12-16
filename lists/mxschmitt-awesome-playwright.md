@@ -18,16 +18,17 @@
 
 - [jest-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/jest-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/jest-playwright)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 - [CodeceptJS ![GitHub Repo Stars](https://img.shields.io/github/stars/Codeception/CodeceptJS) ![GitHub last commit](https://img.shields.io/github/last-commit/Codeception/CodeceptJS)](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
-- [chrome-aws-lambda ![GitHub Repo Stars](https://img.shields.io/github/stars/alixaxel/chrome-aws-lambda) ![GitHub last commit](https://img.shields.io/github/last-commit/alixaxel/chrome-aws-lambda)](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
+- [Chromium for Serverless platforms ![GitHub Repo Stars](https://img.shields.io/github/stars/Sparticuz/chromium) ![GitHub last commit](https://img.shields.io/github/last-commit/Sparticuz/chromium)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
 - [playwright-chrome-recorder ![GitHub Repo Stars](https://img.shields.io/github/stars/AndrewUsher/playwright-chrome-recorder) ![GitHub last commit](https://img.shields.io/github/last-commit/AndrewUsher/playwright-chrome-recorder)](https://github.com/AndrewUsher/playwright-chrome-recorder) - Export Playwright tests from Google Chrome DevTools' recordings programmatically.
 - [Playwright Chrome Recorder Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/AndrewUsher/playwright-recorder-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/AndrewUsher/playwright-recorder-extension)](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.
 - [playwright-github-action ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-github-action) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-github-action)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 - [playwright-pytest ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-pytest) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-pytest)](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 - [heroku-playwright-buildpack ![GitHub Repo Stars](https://img.shields.io/github/stars/mxschmitt/heroku-playwright-buildpack) ![GitHub last commit](https://img.shields.io/github/last-commit/mxschmitt/heroku-playwright-buildpack)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
-- [axe-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/abhinaba-ghosh/axe-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/abhinaba-ghosh/axe-playwright)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
+- [@axe-core/playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/dequelabs/axe-core-npm) ![GitHub last commit](https://img.shields.io/github/last-commit/dequelabs/axe-core-npm)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
+- [axe-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/abhinaba-ghosh/axe-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/abhinaba-ghosh/axe-playwright)](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
 - [expect-axe-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/Widen/expect-axe-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/Widen/expect-axe-playwright)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 - [cucumber-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/Tallyb/cucumber-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/Tallyb/cucumber-playwright)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
-- [artillery-engine-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/artilleryio/artillery-engine-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/artilleryio/artillery-engine-playwright)](https://github.com/artilleryio/artillery-engine-playwright) - Load testing with Playwright.
+- [artillery-engine-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/artilleryio/artillery) ![GitHub last commit](https://img.shields.io/github/last-commit/artilleryio/artillery)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 - [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## Language Support
@@ -44,11 +45,11 @@
 
 ## Utils
 
+- [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - auto-generated, run & maintained with AI-assisted test case discovery.
 - [Ask Playwright](https://ray.run/ask) - Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-- [query-selector-shadow-dom ![GitHub Repo Stars](https://img.shields.io/github/stars/Georgegriff/query-selector-shadow-dom) ![GitHub last commit](https://img.shields.io/github/last-commit/Georgegriff/query-selector-shadow-dom)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 - [playwright-fluent ![GitHub Repo Stars](https://img.shields.io/github/stars/hdorgeval/playwright-fluent) ![GitHub last commit](https://img.shields.io/github/last-commit/hdorgeval/playwright-fluent)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
-- [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
+- [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [expect-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/expect-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/expect-playwright)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 - [eslint-plugin-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/eslint-plugin-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/eslint-plugin-playwright)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon ![GitHub Repo Stars](https://img.shields.io/github/stars/aerokube/moon) ![GitHub last commit](https://img.shields.io/github/last-commit/aerokube/moon)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
@@ -70,6 +71,7 @@
 - [monocart-reporter ![GitHub Repo Stars](https://img.shields.io/github/stars/cenfun/monocart-reporter) ![GitHub last commit](https://img.shields.io/github/last-commit/cenfun/monocart-reporter)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
 - [allure-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/allure-framework/allure-js) ![GitHub last commit](https://img.shields.io/github/last-commit/allure-framework/allure-js)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 - [playwright-xray ![GitHub Repo Stars](https://img.shields.io/github/stars/inluxc/playwright-xray) ![GitHub last commit](https://img.shields.io/github/last-commit/inluxc/playwright-xray)](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
+- [testomatio-reporter ![GitHub Repo Stars](https://img.shields.io/github/stars/testomatio/reporter) ![GitHub last commit](https://img.shields.io/github/last-commit/testomatio/reporter)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 - [currents-dev](https://currents.dev/) - A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.
 
 ## Showcases
@@ -86,8 +88,7 @@
 
 ## Guides
 
-- [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright (and Puppeteer).
-- [playwright.tech](https://playwright.tech) - A central home for tutorials, tooling, and showcases of the Playwright ecosystem.
+- [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 
 ## Contribute
