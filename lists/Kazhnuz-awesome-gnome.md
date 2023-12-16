@@ -84,6 +84,7 @@
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 - [Teleprompter ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokse22/teleprompter) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokse22/teleprompter)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
 - [Errands ![GitHub Repo Stars](https://img.shields.io/github/stars/mrvladus/Errands) ![GitHub last commit](https://img.shields.io/github/last-commit/mrvladus/Errands)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
+- [Planify ![GitHub Repo Stars](https://img.shields.io/github/stars/alainm23/planify) ![GitHub last commit](https://img.shields.io/github/last-commit/alainm23/planify)](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
 
 ### Well Being
 
@@ -109,6 +110,7 @@
 - [Clapper ![GitHub Repo Stars](https://img.shields.io/github/stars/Rafostar/clapper) ![GitHub last commit](https://img.shields.io/github/last-commit/Rafostar/clapper)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Decibels ![GitHub Repo Stars](https://img.shields.io/github/stars/vixalien/decibels) ![GitHub last commit](https://img.shields.io/github/last-commit/vixalien/decibels)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
+- [Aviator ![GitHub Repo Stars](https://img.shields.io/github/stars/gianni-rosato/aviator) ![GitHub last commit](https://img.shields.io/github/last-commit/gianni-rosato/aviator)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
 
 ### Graphics
 

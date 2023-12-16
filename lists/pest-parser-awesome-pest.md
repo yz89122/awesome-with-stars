@@ -51,6 +51,7 @@ Here are some example projects using pest:
 - [qubit ![GitHub Repo Stars](https://img.shields.io/github/stars/abhimanyu003/qubit) ![GitHub last commit](https://img.shields.io/github/last-commit/abhimanyu003/qubit)](https://github.com/abhimanyu003/qubit) - A handy calculator, based on Rust and WebAssembly.
 - [caith ![GitHub Repo Stars](https://img.shields.io/github/stars/Geobert/caith) ![GitHub last commit](https://img.shields.io/github/last-commit/Geobert/caith)](https://github.com/Geobert/caith) - A dice roller crate.
 - [Melody ![GitHub Repo Stars](https://img.shields.io/github/stars/yoav-lavi/melody) ![GitHub last commit](https://img.shields.io/github/last-commit/yoav-lavi/melody)](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
+- [PTA-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/AltaModaTech/pta-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/AltaModaTech/pta-parser)](https://github.com/AltaModaTech/pta-parser/) - A Plain Text Accounting parser built in Rust for [Beancount ![GitHub Repo Stars](https://img.shields.io/github/stars/beancount/beancount) ![GitHub last commit](https://img.shields.io/github/last-commit/beancount/beancount)](https://github.com/beancount/beancount), [Ledger ![GitHub Repo Stars](https://img.shields.io/github/stars/ledger/ledger) ![GitHub last commit](https://img.shields.io/github/last-commit/ledger/ledger)](https://github.com/ledger/ledger), and other PTA formats.
 
 ## Tooling
 
