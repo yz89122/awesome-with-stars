@@ -1054,6 +1054,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [echasnovski/mini.nvim#mini.bufremove ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bufremove.md) - Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout.
 - [jyscao/ventana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jyscao/ventana.nvim)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 - [mrjones2014/smart-splits.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
+- [altermo/nxwm ![GitHub Repo Stars](https://img.shields.io/github/stars/altermo/nxwm) ![GitHub last commit](https://img.shields.io/github/last-commit/altermo/nxwm)](https://github.com/altermo/nxwm) - X11 window manager.
 
 ### Tmux
 
