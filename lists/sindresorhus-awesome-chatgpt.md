@@ -239,7 +239,7 @@
 
 ### API clients
 
-- [Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/adamrushy/OpenAISwift) ![GitHub last commit](https://img.shields.io/github/last-commit/adamrushy/OpenAISwift)](https://github.com/adamrushy/OpenAISwift)
+- [Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/MacPaw/OpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MacPaw/OpenAI)](https://github.com/MacPaw/OpenAI)
 - [Node.js ![GitHub Repo Stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api) ![GitHub last commit](https://img.shields.io/github/last-commit/transitive-bullshit/chatgpt-api)](https://github.com/transitive-bullshit/chatgpt-api)
 - [Go ![GitHub Repo Stars](https://img.shields.io/github/stars/AlmazDelDiablo/gpt3-5-turbo-go) ![GitHub last commit](https://img.shields.io/github/last-commit/AlmazDelDiablo/gpt3-5-turbo-go)](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/DelphiOpenAI)](https://github.com/HemulGM/DelphiOpenAI)
