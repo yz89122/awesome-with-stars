@@ -801,6 +801,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rpmalloc ![GitHub Repo Stars](https://img.shields.io/github/stars/mjansson/rpmalloc) ![GitHub last commit](https://img.shields.io/github/last-commit/mjansson/rpmalloc)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. [PublicDomain]
 * [snmalloc ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/snmalloc) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/snmalloc)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. [MIT]
 * [TCMalloc ![GitHub Repo Stars](https://img.shields.io/github/stars/google/tcmalloc) ![GitHub last commit](https://img.shields.io/github/last-commit/google/tcmalloc)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
+* [buddy_alloc ![GitHub Repo Stars](https://img.shields.io/github/stars/spaskalev/buddy_alloc) ![GitHub last commit](https://img.shields.io/github/last-commit/spaskalev/buddy_alloc)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. [0BSD]
 * [tgc ![GitHub Repo Stars](https://img.shields.io/github/stars/orangeduck/tgc) ![GitHub last commit](https://img.shields.io/github/last-commit/orangeduck/tgc)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. [BSD]
 
 ## Multimedia
