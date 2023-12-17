@@ -62,6 +62,7 @@
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic ![GitHub Repo Stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) ![GitHub last commit](https://img.shields.io/github/last-commit/NickvisionApps/Parabolic)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+- [Dino](https://dino.im/) - XMPP Client.
 
 ### Office
 
