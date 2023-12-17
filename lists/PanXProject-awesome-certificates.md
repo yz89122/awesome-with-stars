@@ -6,7 +6,7 @@
 </p>
 
 # Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz) 
-
+<!-- markdown-link-check-disable -->
 A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate. 
@@ -131,7 +131,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4     | 🏆     |
-| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | ��     |
+| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
 | [Data Visualisation in Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau) | Great Learning |Beginner| 1 | 🏆 |
 | [Data Visualization With Power BI](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi) | Great Learning |Beginner| 2 | 🏆 |
 
@@ -313,11 +313,11 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Google | Beginner | 40 | 🏅 |
 | [Email Marketing](https://academy.sendinblue.com/course/email-marketing-course-english) | SendinBlue | Beginner | 4 | 🏅 |
 
-
+<!-- markdown-link-check-disable -->
 ### Project Management
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [KICKOFF](https://www.pmi.org/kickoff) | Project Management Institute | Beginner | 0.75 | 🏅 |
+| [KICKOFF](https://www.pmi.org/kickoff) | Project Management Institute | Beginner | 0.75 | 🏅 |<!-- markdown-link-check-disable-line -->
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
 
