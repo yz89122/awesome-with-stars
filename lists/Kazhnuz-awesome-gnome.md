@@ -62,6 +62,8 @@
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic ![GitHub Repo Stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) ![GitHub last commit](https://img.shields.io/github/last-commit/NickvisionApps/Parabolic)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+- [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
+- [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
 - [Dino](https://dino.im/) - XMPP Client.
 
 ### Office
@@ -112,6 +114,8 @@
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Decibels ![GitHub Repo Stars](https://img.shields.io/github/stars/vixalien/decibels) ![GitHub last commit](https://img.shields.io/github/last-commit/vixalien/decibels)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 - [Aviator ![GitHub Repo Stars](https://img.shields.io/github/stars/gianni-rosato/aviator) ![GitHub last commit](https://img.shields.io/github/last-commit/gianni-rosato/aviator)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+- [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
+- [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
 ### Graphics
 
