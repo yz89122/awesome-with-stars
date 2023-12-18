@@ -3075,6 +3075,7 @@ _Plugin for text editors and IDEs._
 
 ## Go Generate Tools
 
+- [envdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/g4s8/envdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/g4s8/envdoc)](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
 - [generic ![GitHub Repo Stars](https://img.shields.io/github/stars/usk81/generic) ![GitHub last commit](https://img.shields.io/github/last-commit/usk81/generic)](https://github.com/usk81/generic) - flexible data type for Go.
 - [genny ![GitHub Repo Stars](https://img.shields.io/github/stars/cheekybits/genny) ![GitHub last commit](https://img.shields.io/github/last-commit/cheekybits/genny)](https://github.com/cheekybits/genny) - Elegant generics for Go.
 - [gocontracts ![GitHub Repo Stars](https://img.shields.io/github/stars/Parquery/gocontracts) ![GitHub last commit](https://img.shields.io/github/last-commit/Parquery/gocontracts)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
