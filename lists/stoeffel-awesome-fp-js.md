@@ -250,7 +250,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Talk
 
-* [Functional Programming Slack channel](https://fpslack.com/) �� Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
+* [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
 
 ## Contribution
