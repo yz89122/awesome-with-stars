@@ -971,6 +971,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nat-418/boole.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nat-418/boole.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nat-418/boole.nvim)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 - [cshuaimin/ssr.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cshuaimin/ssr.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cshuaimin/ssr.nvim)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 - [Jxstxs/conceal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
+- [hiberabyss/bzlops.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/hiberabyss/bzlops.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/hiberabyss/bzlops.vim)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
 
 ### Comment
 
