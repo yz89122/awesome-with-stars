@@ -529,7 +529,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Regular Expressions
 
 - [Re ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml/ocaml-re) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml/ocaml-re)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-- [ocaml-pcre ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/pcre-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/pcre-ocaml)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+- [ocaml-pcre ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/pcre-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/pcre-ocaml)](https://github.com/mmottl/pcre-ocaml) ��� bindings to the PCRE library (perl-compatible regular expressions)
 - [Humane-re ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/humane-re) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/humane-re)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
 - [Tyre ![GitHub Repo Stars](https://img.shields.io/github/stars/Drup/tyre) ![GitHub last commit](https://img.shields.io/github/last-commit/Drup/tyre)](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
