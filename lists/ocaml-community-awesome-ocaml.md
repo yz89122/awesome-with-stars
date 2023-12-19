@@ -242,7 +242,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/ocaml-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/ocaml-jupyter)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
 - [utop ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/utop) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/utop)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocamlformat ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ocamlformat) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ocamlformat)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
-- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
+- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) ��� A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim ![GitHub Repo Stars](https://img.shields.io/github/stars/samoht/ghim) ![GitHub last commit](https://img.shields.io/github/last-commit/samoht/ghim)](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mabrasil/generator-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mabrasil/generator-ocaml)](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 
@@ -558,7 +558,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [cbor ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocaml-cbor) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocaml-cbor)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
-- [yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/yojson)](https://github.com/ocaml-community/yojson) ��� An optimized parsing and printing library for the JSON format.
+- [yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/yojson)](https://github.com/ocaml-community/yojson) �� An optimized parsing and printing library for the JSON format.
 - [sexplib ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/sexplib) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/sexplib)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
