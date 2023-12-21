@@ -137,6 +137,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [t6 ![GitHub Repo Stars](https://img.shields.io/github/stars/mathcoll/t6) ![GitHub last commit](https://img.shields.io/github/last-commit/mathcoll/t6)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
  - [IoTSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/IoTSharp/IoTSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/IoTSharp/IoTSharp)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
  - [Husarnet](https://husarnet.com/) - Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.
+ - [Zilla ![GitHub Repo Stars](https://img.shields.io/github/stars/aklivity/zilla) ![GitHub last commit](https://img.shields.io/github/last-commit/aklivity/zilla)](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 #### Libraries and Tools
 
