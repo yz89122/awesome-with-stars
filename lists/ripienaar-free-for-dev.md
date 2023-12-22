@@ -1302,7 +1302,7 @@ Update Time, five active automations, webhooks.
    * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally, running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
    * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
-   * [Metered](https://www.metered.ca/) ��� Free TURN server with 50GB included monthly TURN usage.
+   * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
