@@ -151,6 +151,7 @@
 - 🌍🔧 [Tailwind Grid Generator](https://www.tailwindgen.com/) - Drag and drop Tailwind CSS grid generator.
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
+- 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
 
 ## UI Libraries, Components & Templates
 
@@ -271,7 +272,7 @@
 - 🚀 [Vite + React + TypeScript + Tailwind 3.x starter ![GitHub Repo Stars](https://img.shields.io/github/stars/PDMLab/vite-react-typescript-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/PDMLab/vite-react-typescript-tailwind-starter)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 - 🚀 [Vite + Vue 3.x + Tailwind 2.x Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/web2033/vite-vue3-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/web2033/vite-vue3-tailwind-starter)](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter template using Vite, Vue, Vue Router and Tailwind CSS.
 - 🚀 [Vite + Lit + Tailwind Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/running-grass/starter-lit-with-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/running-grass/starter-lit-with-tailwind)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
-- �� [Shopify Theme Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/uicrooks/shopify-theme-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/uicrooks/shopify-theme-lab)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+- 🚀 [Shopify Theme Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/uicrooks/shopify-theme-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/uicrooks/shopify-theme-lab)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 - 🚀 [Starter Dashboard Layout ![GitHub Repo Stars](https://img.shields.io/github/stars/Kamona-WD/starter-dashboard-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/Kamona-WD/starter-dashboard-layout)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 - 🚀 [Jekyll Landing Website Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/abhinavs/cookie) ![GitHub last commit](https://img.shields.io/github/last-commit/abhinavs/cookie)](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 - 🚀 [Next JS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Next-js-Boilerplate)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
