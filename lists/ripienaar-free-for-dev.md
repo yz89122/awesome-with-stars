@@ -1381,7 +1381,7 @@ Update Time, five active automations, webhooks.
    * [Sflow](https://sflow.io) — sflow.io is a project management tool built for agile software development, marketing, sales, and customer support, especially for outsourcing and cross-organization collaboration projects. Free plan up to 3 projects and five members.
    * [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆�� Back to Top](#table-of-contents)**
 
 ## Storage and Media Processing
 
