@@ -62,6 +62,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
 
 - [Awesome Go](#awesome-go)
   - [Contents](#contents)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Audio and Music](#audio-and-music)
   - [Authentication and OAuth](#authentication-and-oauth)
   - [Blockchain](#blockchain)
@@ -197,6 +198,16 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
   - [Websites](#websites)
     - [Tutorials](#tutorials)
     - [Guided Learning](#guided-learning)
+
+**[⬆ back to top](#contents)**
+
+## Artificial Intelligence
+
+_Libraries for building programs that leverage AI._
+
+- [langchaingo ![GitHub Repo Stars](https://img.shields.io/github/stars/tmc/langchaingo) ![GitHub last commit](https://img.shields.io/github/last-commit/tmc/langchaingo)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+- [LocalAI ![GitHub Repo Stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+- [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorganca/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorganca/ollama)](https://github.com/jmorganca/ollama) - Run large language models locally.
 
 **[⬆ back to top](#contents)**
 
@@ -1711,7 +1722,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 _Libraries for working with strings._
 
-- [bexp ![GitHub Repo Stars](https://img.shields.io/github/stars/mkungla/bexp) ![GitHub last commit](https://img.shields.io/github/last-commit/mkungla/bexp)](https://github.com/mkungla/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
+- [bexp ![GitHub Repo Stars](https://img.shields.io/github/stars/happy-sdk/happy-go) ![GitHub last commit](https://img.shields.io/github/last-commit/happy-sdk/happy-go)](https://github.com/happy-sdk/happy-go/tree/main/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
 - [caps ![GitHub Repo Stars](https://img.shields.io/github/stars/chanced/caps) ![GitHub last commit](https://img.shields.io/github/last-commit/chanced/caps)](https://github.com/chanced/caps) - A case conversion library.
 - [go-formatter](https://gitlab.com/tymonx/go-formatter) - Implements **replacement fields** surrounded by curly braces `{}` format strings.
 - [gobeam/Stringy ![GitHub Repo Stars](https://img.shields.io/github/stars/gobeam/Stringy) ![GitHub last commit](https://img.shields.io/github/last-commit/gobeam/Stringy)](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
