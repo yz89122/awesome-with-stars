@@ -1250,7 +1250,6 @@ Update Time, five active automations, webhooks.
    * [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. One instance free per project, 5000 records, 5000 calls/month free, three developers included. No credit-card required.
    * [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
    * [FaunaDB](https://fauna.com/) — Serverless cloud database with native GraphQL, multi-model access, and daily free tiers up to 100 MB
-   * [HarperDb](https://harperdb.io/) — Serverless cloud database, with dynamic schema based on JSON, 3000 IOPS with 1GB storage
    * [Upstash](https://upstash.com/) — Serverless Redis with free tier up to 10,000 requests per day, 256MB max database size, and 20 concurrent connections
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [redsmin.com](https://www.redsmin.com/) — Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free
@@ -1303,7 +1302,7 @@ Update Time, five active automations, webhooks.
    * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally, running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
    * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
-   * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
+   * [Metered](https://www.metered.ca/) ��� Free TURN server with 50GB included monthly TURN usage.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
