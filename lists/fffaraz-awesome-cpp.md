@@ -1033,6 +1033,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Sorting
 
++ [cpp-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/Morwenn/cpp-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/Morwenn/cpp-sort)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. [MIT]
 * [pdqsort ![GitHub Repo Stars](https://img.shields.io/github/stars/orlp/pdqsort) ![GitHub last commit](https://img.shields.io/github/last-commit/orlp/pdqsort)](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort ![GitHub Repo Stars](https://img.shields.io/github/stars/gfx/cpp-TimSort) ![GitHub last commit](https://img.shields.io/github/last-commit/gfx/cpp-TimSort)](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
 * [Indiesort ![GitHub Repo Stars](https://img.shields.io/github/stars/mattreecebentley/plf_indiesort) ![GitHub last commit](https://img.shields.io/github/last-commit/mattreecebentley/plf_indiesort)](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
