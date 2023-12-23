@@ -250,6 +250,7 @@ A Rails/JavaScript-based stack with modern/developer friendly technologies
 - [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rmosolgo/graphql-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
 - [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
 - [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) Developer friendly web app infrastructure provider with seamless Ruby/Rails support.
+- [Cloud 66](https://www.cloud66.com/) - [🛠️](https://stackshare.io/cloud-66) Cloud 66 gives you everything you need to build, deploy, and manage your Rails applications on any cloud without the headache of the “server stuff”.
 
 ##### Resources
 
