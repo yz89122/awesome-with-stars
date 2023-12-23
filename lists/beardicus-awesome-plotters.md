@@ -147,6 +147,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [DrawingBotV3 ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSonic/DrawingBotV3) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSonic/DrawingBotV3)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 - [linedraw ![GitHub Repo Stars](https://img.shields.io/github/stars/LingDong-/linedraw) ![GitHub last commit](https://img.shields.io/github/last-commit/LingDong-/linedraw)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 - [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
+- [plotting-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/piebro/plotting-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/piebro/plotting-maps)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 
 ### Vector Utilities
 
