@@ -1161,7 +1161,7 @@ https://twitter.com/maskedwarrior
 Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 https://twitter.com/martonkodok
 
-## Russia 🇷🇺
+## Russia 🇷����
 
 ### Moscow
 
