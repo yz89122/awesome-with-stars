@@ -124,6 +124,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ## Paid EDA Packages
+- [Altium](https://www.altium.com/) - PCB Design Software & Tools.
 - [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ## CAD Specific
@@ -137,12 +138,15 @@ This list is for websites, services, software, tools and more: everything that y
 - [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
 - [Footprint Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/kitspace/kicad_footprints) ![GitHub last commit](https://img.shields.io/github/last-commit/kitspace/kicad_footprints)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 - [InteractiveHtmlBom ![GitHub Repo Stars](https://img.shields.io/github/stars/openscopeproject/InteractiveHtmlBom) ![GitHub last commit](https://img.shields.io/github/last-commit/openscopeproject/InteractiveHtmlBom)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
-- [kicad-exports ![GitHub Repo Stars](https://img.shields.io/github/stars/nerdyscout/kicad-exports) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdyscout/kicad-exports)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
+- [KiBot ![GitHub Repo Stars](https://img.shields.io/github/stars/INTI-CMNB/KiBot) ![GitHub last commit](https://img.shields.io/github/last-commit/INTI-CMNB/KiBot)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library ![GitHub Repo Stars](https://img.shields.io/github/stars/adafruit/Adafruit-Eagle-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/adafruit/Adafruit-Eagle-Library)](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/sparkfun/SparkFun-Eagle-Libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/sparkfun/SparkFun-Eagle-Libraries)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+
+### Altium
+- [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
 
 ## PCB Batching Services
@@ -157,6 +161,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
+- [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
 
 
 ## Project Sharing Platforms
@@ -177,6 +182,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 - [Language PCB ![GitHub Repo Stars](https://img.shields.io/github/stars/Alhadis/language-pcb) ![GitHub last commit](https://img.shields.io/github/last-commit/Alhadis/language-pcb)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+- [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
