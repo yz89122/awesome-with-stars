@@ -145,7 +145,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ## Functional Languages that Compile to JavaScript
 
 * [ClojureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
-* [Elm](http://elm-lang.org/) �� A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
+* [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 * [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 * [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
@@ -186,7 +186,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Articles
 
-* [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) – An introduction to Functional Programming Concepts in JavaScript. Uses the Ramda library to teach the concepts of composition, pointfree style, and functors through the simplest of examples.
+* [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) ��� An introduction to Functional Programming Concepts in JavaScript. Uses the Ramda library to teach the concepts of composition, pointfree style, and functors through the simplest of examples.
 * [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html) – Another introduction to Functional Programming in JavaScript with a focus on three key themes: computation as the application of functions, statelessness, avoiding side effects.
 * [A gentle introduction to functional JavaScript](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) – A four-part series introduction functional programming in JavaScript that gets you up to speed what all the hype about functional programming is all about.
 * [Functors from first principle - explained with JS](https://dev.to/snird/functors-from-first-principle-37lh) - Explaining functors concept using JavaScript.
