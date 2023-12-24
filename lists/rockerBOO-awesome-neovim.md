@@ -249,6 +249,7 @@
 - [richardbizik/nvim-toc ![GitHub Repo Stars](https://img.shields.io/github/stars/richardbizik/nvim-toc) ![GitHub last commit](https://img.shields.io/github/last-commit/richardbizik/nvim-toc)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 - [Zeioth/markmap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/markmap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/markmap.nvim)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 - [tadmccorkle/markdown.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tadmccorkle/markdown.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tadmccorkle/markdown.nvim)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
+- [mpas/marp-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mpas/marp-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mpas/marp-nvim)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
 
 ## Language
 
