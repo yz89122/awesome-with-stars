@@ -80,6 +80,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 - [autopilot ![GitHub Repo Stars](https://img.shields.io/github/stars/divy-work/autopilot-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/divy-work/autopilot-deno)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+- [swissknife ![GitHub Repo Stars](https://img.shields.io/github/stars/fakoua/SwissKnife) ![GitHub last commit](https://img.shields.io/github/last-commit/fakoua/SwissKnife)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 
 ### CLI utils
 - [cac ![GitHub Repo Stars](https://img.shields.io/github/stars/cacjs/cac) ![GitHub last commit](https://img.shields.io/github/last-commit/cacjs/cac)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
