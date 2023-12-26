@@ -56,7 +56,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Jumper ![GitHub Repo Stars](https://img.shields.io/github/stars/Yonaba/Jumper) ![GitHub last commit](https://img.shields.io/github/last-commit/Yonaba/Jumper)](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 * [Lua-star ![GitHub Repo Stars](https://img.shields.io/github/stars/wesleywerner/lua-star) ![GitHub last commit](https://img.shields.io/github/last-commit/wesleywerner/lua-star)](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding.
 * [astar ![GitHub Repo Stars](https://img.shields.io/github/stars/xiejiangzhi/astar) ![GitHub last commit](https://img.shields.io/github/last-commit/xiejiangzhi/astar)](https://github.com/xiejiangzhi/astar) - An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.
-* [pathfun ![GitHub Repo Stars](https://img.shields.io/github/stars/apicici/pathfun) ![GitHub last commit](https://img.shields.io/github/last-commit/apicici/pathfun)](https://github.com/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
+* [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 * [beehive.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/drhayes/beehive.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/drhayes/beehive.lua)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 * [Luafinding ![GitHub Repo Stars](https://img.shields.io/github/stars/GlorifiedPig/Luafinding) ![GitHub last commit](https://img.shields.io/github/last-commit/GlorifiedPig/Luafinding)](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
 
@@ -307,7 +307,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *User Interface Libraries*
 
 * [CatUI ![GitHub Repo Stars](https://img.shields.io/github/stars/wilhantian/catui) ![GitHub last commit](https://img.shields.io/github/last-commit/wilhantian/catui)](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
-* [cimgui-love ![GitHub Repo Stars](https://img.shields.io/github/stars/apicici/cimgui-love) ![GitHub last commit](https://img.shields.io/github/last-commit/apicici/cimgui-love)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
+* [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [GOOi ![GitHub Repo Stars](https://img.shields.io/github/stars/tavuntu/gooi) ![GitHub last commit](https://img.shields.io/github/last-commit/tavuntu/gooi)](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
