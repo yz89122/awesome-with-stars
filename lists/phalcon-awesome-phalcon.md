@@ -169,7 +169,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Libraries that implement Object-Document Mapper techniques.*
 
-* [phalcon-collection-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/angelxmoreno/phalcon-collection-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/angelxmoreno/phalcon-collection-paginator)](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
+* [phalcon-collection-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/angelxmoreno/phalcon-collection-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/angelxmoreno/phalcon-collection-paginator)](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalcon.io/3.4/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## Provisioning
 *Tools for provisioning a system for a Phalcon application.*
