@@ -349,6 +349,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 binding to FLTK (Fast Light Toolkit).
 - [ada-gui ![GitHub Repo Stars](https://img.shields.io/github/stars/jrcarter/Ada_GUI) ![GitHub last commit](https://img.shields.io/github/last-commit/jrcarter/Ada_GUI)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 - [adawebui ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/adawebui) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/adawebui)](https://github.com/godunko/adawebui) - GUI based on [adawebpack].
+- [imgui-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/Cre8or/ImGui-Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/Cre8or/ImGui-Ada)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
 
 [gnoga]: https://sourceforge.net/projects/gnoga/
 [gtkada]: https://github.com/AdaCore/gtkada
