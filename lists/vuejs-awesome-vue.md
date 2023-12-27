@@ -1209,6 +1209,7 @@
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Thing ![GitHub Repo Stars](https://img.shields.io/github/stars/snturk/thing) ![GitHub last commit](https://img.shields.io/github/last-commit/snturk/thing)](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
 - [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
+- [Yahya J. Aifit's Portfolio Site](https://yja.me) - Portfolio site that inspired by the appearance of desktop operating system.
 
 ### Enterprise Usage
 
@@ -1777,6 +1778,7 @@ _Display non-editable events in a Calendar_
 - [@grafikri/vue-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/grafikri/vue-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/grafikri/vue-infinite-scroll)](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
 - [vinscroll ![GitHub Repo Stars](https://img.shields.io/github/stars/logustra/vinscroll) ![GitHub last commit](https://img.shields.io/github/last-commit/logustra/vinscroll)](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 - [virtual-list ![GitHub Repo Stars](https://img.shields.io/github/stars/phphe/virtual-list) ![GitHub last commit](https://img.shields.io/github/last-commit/phphe/virtual-list)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
+- [virtua ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/virtua) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/virtua)](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
 
 #### Pull-to-refresh
 
@@ -2261,7 +2263,7 @@ _Switch / on/off toggle / checkbox_
 - [toast-ui.vue-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/nhnent/toast-ui.vue-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/nhnent/toast-ui.vue-editor)](https://github.com/nhnent/toast-ui.vue-editor) - Vue Wrapper for [TOAST UI Editor](http://ui.toast.com/tui-editor).
 - [ckeditor5-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5-vue)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [yimo-vue-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/yimogit/yimo-vue-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/yimogit/yimo-vue-editor)](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
-- [vue-mathlive ![GitHub Repo Stars](https://img.shields.io/github/stars/arnog/vue-mathlive) ![GitHub last commit](https://img.shields.io/github/last-commit/arnog/vue-mathlive)](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
+- [vue-mathlive ![GitHub Repo Stars](https://img.shields.io/github/stars/arnog/vue-mathlive) ![GitHub last commit](https://img.shields.io/github/last-commit/arnog/vue-mathlive)](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.js
 - [vue-editor-js ![GitHub Repo Stars](https://img.shields.io/github/stars/ChangJoo-Park/vue-editor-js) ![GitHub last commit](https://img.shields.io/github/last-commit/ChangJoo-Park/vue-editor-js)](https://github.com/ChangJoo-Park/vue-editor-js) Next generation block styled editor. for Vue.js
 - [element-tiptap ![GitHub Repo Stars](https://img.shields.io/github/stars/Leecason/element-tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/Leecason/element-tiptap)](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg ![GitHub Repo Stars](https://img.shields.io/github/stars/mycurelabs/vue-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/mycurelabs/vue-wysiwyg)](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.

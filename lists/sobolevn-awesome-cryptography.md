@@ -406,6 +406,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Scheme
 
+- [chicken-sodium ![GitHub Repo Stars](https://img.shields.io/github/stars/caolan/chicken-sodium) ![GitHub last commit](https://img.shields.io/github/last-commit/caolan/chicken-sodium)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
+- [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
 - [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
 - [guile-ssh ![GitHub Repo Stars](https://img.shields.io/github/stars/artyom-poptsov/guile-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/artyom-poptsov/guile-ssh)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
