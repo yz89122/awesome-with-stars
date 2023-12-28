@@ -139,6 +139,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 - [ksqlDB ![GitHub Repo Stars](https://img.shields.io/github/stars/confluentinc/ksql) ![GitHub last commit](https://img.shields.io/github/last-commit/confluentinc/ksql)](https://github.com/confluentinc/ksql) [Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 - [Materialize](https://materialize.com) [Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 - [Siddhi ![GitHub Repo Stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi) [Java] - A cloud native Streaming and Complex Event Processing engine that understands Streaming SQL queries in order to capture events from diverse data sources, process them, detect complex conditions, and publish output to various endpoints in real time.
+- [Proton ![GitHub Repo Stars](https://img.shields.io/github/stars/timeplus-io/proton) ![GitHub last commit](https://img.shields.io/github/last-commit/timeplus-io/proton)](https://github.com/timeplus-io/proton) [C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
 
 ### Benchmark
 
