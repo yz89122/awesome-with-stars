@@ -81,6 +81,7 @@
   <li><a href="#equal-width-table-cells">Equal-Width Table Cells</a></li>
   <li><a href="#get-rid-of-margin-hacks-with-flexbox">Get Rid of Margin Hacks With Flexbox</a></li>
   <li><a href="#use-attribute-selectors-with-empty-links">Use Attribute Selectors with Empty Links</a></li>
+  <li><a href="#control-specificity-better-with-is">Control Specificity Better With <code class="language-plaintext highlighter-rouge">:is()</code></a></li>
   <li><a href="#style-default-links">Style “Default” Links</a></li>
   <li><a href="#intrinsic-ratio-boxes">Intrinsic Ratio Boxes</a></li>
   <li><a href="#style-broken-images">Style Broken Images</a></li>
@@ -91,7 +92,6 @@
   <li><a href="#use-pointer-events-to-control-mouse-events">Use Pointer Events to Control Mouse Events</a></li>
   <li><a href="#set-display-none-on-line-breaks-used-as-spacing">Set <code class="language-plaintext highlighter-rouge">display: none</code> on Line Breaks Used as Spacing</a></li>
   <li><a href="#use-empty-to-hide-empty-html-elements">Use <code class="language-plaintext highlighter-rouge">:empty</code> to Hide Empty HTML Elements</a></li>
-  <li><a href="#control-specificity-better-with-is">Control Specificity Better With <code class="language-plaintext highlighter-rouge">:is()</code></a></li>
 </ol>
 
 <h3 id="use-a-css-reset">Use a CSS Reset</h3>
@@ -435,6 +435,32 @@
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
+<h3 id="control-specificity-better-with-is">Control Specificity Better with <code class="language-plaintext highlighter-rouge">:is()</code>
+</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class is used to target multiple selectors at onece, reducing redundancy and enhancing code readability. This is incredibly useful for writing large selectors in a more compact form.</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">:is</span><span class="o">(</span><span class="nt">section</span><span class="o">,</span> <span class="nt">article</span><span class="o">,</span> <span class="nt">aside</span><span class="o">,</span> <span class="nt">nav</span><span class="o">)</span> <span class="nd">:is</span><span class="o">(</span><span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span><span class="o">)</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>The above ruleset is equivalent to the following number selector rules…</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">section</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h6</span><span class="o">,</span>
+<span class="nt">article</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h6</span><span class="o">,</span>
+<span class="nt">aside</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h6</span><span class="o">,</span>
+<span class="nt">nav</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h6</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/rNRVxdx">Demo</a></h4>
+
+<p><strong>Note:</strong> The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
+
+<p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
+
 <h3 id="style-default-links">Style “Default” Links</h3>
 
 <p>Add a style for “default” links:</p>
@@ -471,7 +497,7 @@
 
 <p>Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).</p>
 
-<h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/jALZvE">Demo</a></h4>
+<h4 id="demo-11"><a href="https://codepen.io/AllThingsSmitty/pen/jALZvE">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -567,7 +593,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h4 id="demo-11"><a href="https://codepen.io/AllThingsSmitty/pen/XKgOkR">Demo</a></h4>
+<h4 id="demo-12"><a href="https://codepen.io/AllThingsSmitty/pen/XKgOkR">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -622,32 +648,6 @@
 </code></pre></div></div>
 
 <p><strong>Note:</strong> Keep in mind that elements with whitespace aren’t considered empty, e.g., <code class="language-plaintext highlighter-rouge">&lt;p class="error-message"&gt; &lt;/p&gt;</code>.</p>
-
-<p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
-
-<h3 id="control-specificity-better-with-is">Control Specificity Better with <code class="language-plaintext highlighter-rouge">:is()</code>
-</h3>
-
-<p>The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class is used to target multiple selectors at onece, reducing redundancy and enhancing code readability. This is incredibly useful for writing large selectors in a more compact form.</p>
-
-<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">:is</span><span class="o">(</span><span class="nt">section</span><span class="o">,</span> <span class="nt">article</span><span class="o">,</span> <span class="nt">aside</span><span class="o">,</span> <span class="nt">nav</span><span class="o">)</span> <span class="nd">:is</span><span class="o">(</span><span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span><span class="o">)</span> <span class="p">{</span>
-  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<p>The above ruleset is equivalent to the following number selector rules…</p>
-
-<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">section</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h6</span><span class="o">,</span>
-<span class="nt">article</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h6</span><span class="o">,</span>
-<span class="nt">aside</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h6</span><span class="o">,</span>
-<span class="nt">nav</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h6</span> <span class="p">{</span>
-  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<h4 id="demo-12"><a href="https://codepen.io/AllThingsSmitty/pen/rNRVxdx">Demo</a></h4>
-
-<p><strong>Note:</strong> The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
