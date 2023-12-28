@@ -895,6 +895,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [max397574/better-escape.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/max397574/better-escape.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/max397574/better-escape.nvim)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
 - [Nexmean/caskey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nexmean/caskey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nexmean/caskey.nvim)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 - [Wansmer/langmapper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Wansmer/langmapper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Wansmer/langmapper.nvim)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
+- [tris203/hawtkeys.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tris203/hawtkeys.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tris203/hawtkeys.nvim)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ## Mouse
 
