@@ -242,7 +242,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/ocaml-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/ocaml-jupyter)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
 - [utop ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/utop) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/utop)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocamlformat ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ocamlformat) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ocamlformat)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
-- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) �� A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
+- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim ![GitHub Repo Stars](https://img.shields.io/github/stars/samoht/ghim) ![GitHub last commit](https://img.shields.io/github/last-commit/samoht/ghim)](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mabrasil/generator-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mabrasil/generator-ocaml)](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 
@@ -444,7 +444,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Package Management
 - **Distribution**:
-  - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
+  - [OPAM](http://opam.ocamlpro.com/) �� A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
   - [Diskuv OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/diskuv/dkml-installer-ocaml)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
