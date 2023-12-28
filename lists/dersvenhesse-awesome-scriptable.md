@@ -39,7 +39,7 @@
 
 - [FordPassWidget ![GitHub Repo Stars](https://img.shields.io/github/stars/dschablowsky/FordPassWidget) ![GitHub last commit](https://img.shields.io/github/last-commit/dschablowsky/FordPassWidget)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
-  <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/master/fp-widget.jpg" width="400"/>
 
 - [Polestar SoC Medium Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/niklasvieth/polestar-ios-medium-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/niklasvieth/polestar-ios-medium-widget)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget ![GitHub Repo Stars](https://img.shields.io/github/stars/niklasvieth/polestar-ios-lockscreen-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/niklasvieth/polestar-ios-lockscreen-widget)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
 
@@ -55,7 +55,7 @@
 
 - [TeslaData-Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/DrieStone/TeslaData-Widget) ![GitHub last commit](https://img.shields.io/github/last-commit/DrieStone/TeslaData-Widget)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
   
-  <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>  
+  <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>  
   
 - [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Information about your Renault Zoe like charging or location.
 
@@ -91,7 +91,7 @@
 
 - [btc-usd-course.js ![GitHub Repo Stars](https://img.shields.io/github/stars/wickenico/btc-usd-course.js) ![GitHub last commit](https://img.shields.io/github/last-commit/wickenico/btc-usd-course.js)](https://github.com/wickenico/btc-usd-course.js) - Shows the current bitcoin course in USD.
 
-  <img src="https://github.com/wickenico/btc-usd-course.js/blob/main/img/bitcoin-usd-course-widget-small.png?raw=true" height="200"/>
+  <img src="https://raw.githubusercontent.com/wickenico/btc-usd-course.js/main/img/bitcoin-usd-course-widget-small.png" height="200"/>
   
 - [Tradegate Stock Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/Chrischi-/tradegate-stock-widget-for-scriptable) ![GitHub last commit](https://img.shields.io/github/last-commit/Chrischi-/tradegate-stock-widget-for-scriptable)](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
 
@@ -135,7 +135,7 @@
 
 - [scriptable_premiumsim ![GitHub Repo Stars](https://img.shields.io/github/stars/BergenSoft/scriptable_premiumsim) ![GitHub last commit](https://img.shields.io/github/last-commit/BergenSoft/scriptable_premiumsim)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
 
-  <img src="https://github.com/BergenSoft/scriptable_premiumsim/raw/main/Preview.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/BergenSoft/scriptable_premiumsim/main/Preview.jpg" width="200"/>
 
 ## Music
 
@@ -155,7 +155,7 @@
 
 - [scriptable-pocket-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/brianseidman/scriptable-pocket-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/brianseidman/scriptable-pocket-widget)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
 
-  <img src="https://github.com/brianseidman/scriptable-pocket-widget/blob/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
+  <img src="https://raw.githubusercontent.com/brianseidman/scriptable-pocket-widget/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width="400">
 
 - [sonntagsfrage ![GitHub Repo Stars](https://img.shields.io/github/stars/henningtillmann/sonntagsfrage) ![GitHub last commit](https://img.shields.io/github/last-commit/henningtillmann/sonntagsfrage)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
@@ -169,7 +169,7 @@
 
 - [conversable-for-scriptable ![GitHub Repo Stars](https://img.shields.io/github/stars/andyngo/conversable-for-scriptable) ![GitHub last commit](https://img.shields.io/github/last-commit/andyngo/conversable-for-scriptable)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
 
-  <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/andyngo/conversable-for-scriptable/main/conversable.png" width="400"/>
 
 - [ig-latest-post.js ![GitHub Repo Stars](https://img.shields.io/github/stars/supermamon/scriptable-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/supermamon/scriptable-scripts)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
@@ -207,9 +207,13 @@
 
 ## Tools
 
+- [bamboo-scriptable-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/Korysam15/bamboo-scriptable-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/Korysam15/bamboo-scriptable-widget)](https://github.com/Korysam15/bamboo-scriptable-widget) - Status of build plans from Bamboo.   
+
+  <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
+
 - [gitlab-stats-for-scribtable ![GitHub Repo Stars](https://img.shields.io/github/stars/p0fi/gitlab-stats-for-scribtable) ![GitHub last commit](https://img.shields.io/github/last-commit/p0fi/gitlab-stats-for-scribtable)](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
-  <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
 
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
