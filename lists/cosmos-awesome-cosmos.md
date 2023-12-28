@@ -233,6 +233,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [multisig ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/multisig) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/multisig)](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
 * [cosmos-genesis-tinkerer ![GitHub Repo Stars](https://img.shields.io/github/stars/hyphacoop/cosmos-genesis-tinkerer) ![GitHub last commit](https://img.shields.io/github/last-commit/hyphacoop/cosmos-genesis-tinkerer)](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - CLI tool for modifying Cosmos genesis files.
 * [airdrop-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Reecepbcups/airdrop-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Reecepbcups/airdrop-tools)](https://github.com/Reecepbcups/airdrop-tools) - CLI scripts to help distribute a variety of tokens from multiple formats.
+* [cosmos.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/cosmos.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/cosmos.nix)](https://github.com/informalsystems/cosmos.nix) - [Nix](https://nixos.org/) support for Cosmos and CosmWasm.
 
 ### GUI
 
@@ -291,7 +292,3 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 ## Related
 
 * [Awesome CosmWasm ![GitHub Repo Stars](https://img.shields.io/github/stars/InterWasm/cw-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/InterWasm/cw-awesome)](https://github.com/InterWasm/cw-awesome)
-* [Awesome Crypto.com Chain ![GitHub Repo Stars](https://img.shields.io/github/stars/crypto-org-chain/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/crypto-org-chain/awesome)](https://github.com/crypto-org-chain/awesome)
-* [Awesome Evmos ![GitHub Repo Stars](https://img.shields.io/github/stars/evmos/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/evmos/awesome)](https://github.com/evmos/awesome)
-* [Awesome IRISnet ![GitHub Repo Stars](https://img.shields.io/github/stars/irisnet/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/irisnet/awesome)](https://github.com/irisnet/awesome)
-* [Awesome Osmosis ![GitHub Repo Stars](https://img.shields.io/github/stars/osmosis-labs/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/osmosis-labs/awesome)](https://github.com/osmosis-labs/awesome)
