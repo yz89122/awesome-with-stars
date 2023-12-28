@@ -1,6 +1,6 @@
 # Awesome EVM Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome EVM Security ![GitHub Repo Stars](https://img.shields.io/github/stars/kareniel/awesome-evm-security) ![GitHub last commit](https://img.shields.io/github/last-commit/kareniel/awesome-evm-security)](https://github.com/kareniel/awesome-evm-security/raw/master/awesome-evm-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
+[![Awesome EVM Security ![GitHub Repo Stars](https://img.shields.io/github/stars/kareniel/awesome-evm-security) ![GitHub last commit](https://img.shields.io/github/last-commit/kareniel/awesome-evm-security)](https://github.com/kareniel/awesome-evm-security/raw/main/awesome-evm-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
 
 [EVM](https://ethereum.org/en/developers/docs/evm/) stands for "Ethereum Virtual Machine". The EVM powers the Ethereum mainnet, but also Layer 2 protocols, sidechains, and EVM-compatible chains.
 
