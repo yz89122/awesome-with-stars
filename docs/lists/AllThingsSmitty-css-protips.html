@@ -91,6 +91,7 @@
   <li><a href="#use-pointer-events-to-control-mouse-events">Use Pointer Events to Control Mouse Events</a></li>
   <li><a href="#set-display-none-on-line-breaks-used-as-spacing">Set <code class="language-plaintext highlighter-rouge">display: none</code> on Line Breaks Used as Spacing</a></li>
   <li><a href="#use-empty-to-hide-empty-html-elements">Use <code class="language-plaintext highlighter-rouge">:empty</code> to Hide Empty HTML Elements</a></li>
+  <li><a href="#control-specificity-better-with-is">Control Specificity Better With <code class="language-plaintext highlighter-rouge">:is()</code></a></li>
 </ol>
 
 <h3 id="use-a-css-reset">Use a CSS Reset</h3>
@@ -108,7 +109,7 @@
 
 <p>Now elements will be stripped of margins and padding, and <code class="language-plaintext highlighter-rouge">box-sizing</code> lets you manage layouts with the CSS box model.</p>
 
-<h4 id="demo"><a href="http://codepen.io/AllThingsSmitty/pen/kkrkLL">Demo</a></h4>
+<h4 id="demo"><a href="https://codepen.io/AllThingsSmitty/pen/kkrkLL">Demo</a></h4>
 
 <p><strong>Note:</strong> If you follow the <a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a> tip below you might opt to not include the <code class="language-plaintext highlighter-rouge">box-sizing</code> property in  your CSS reset.</p>
 
@@ -188,7 +189,7 @@
 
 <p>Here, the CSS selector is read as a human would describe it.</p>
 
-<h4 id="demo-2"><a href="http://codepen.io/AllThingsSmitty/pen/LkymvO">Demo</a></h4>
+<h4 id="demo-2"><a href="https://codepen.io/AllThingsSmitty/pen/LkymvO">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -228,7 +229,7 @@
 
 <p>This way textual elements can inherit from <code class="language-plaintext highlighter-rouge">body</code> easily.</p>
 
-<h4 id="demo-3"><a href="http://codepen.io/AllThingsSmitty/pen/VjbdYd">Demo</a></h4>
+<h4 id="demo-3"><a href="https://codepen.io/AllThingsSmitty/pen/VjbdYd">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -262,10 +263,7 @@
 <span class="p">}</span>
 
 <span class="nt">body</span> <span class="p">{</span>
-  <span class="nl">-webkit-align-items</span><span class="p">:</span> <span class="nb">center</span><span class="p">;</span>
-  <span class="nl">-ms-flex-align</span><span class="p">:</span> <span class="nb">center</span><span class="p">;</span>
   <span class="nl">align-items</span><span class="p">:</span> <span class="nb">center</span><span class="p">;</span>
-  <span class="nl">display</span><span class="p">:</span> <span class="n">-webkit-flex</span><span class="p">;</span>
   <span class="nl">display</span><span class="p">:</span> <span class="n">flex</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div></div>
@@ -284,7 +282,7 @@
 
 <p><strong>Note:</strong> Watch for some <a href="https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items">buggy behavior <img src="https://img.shields.io/github/stars/philipwalton/flexbugs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/philipwalton/flexbugs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> with flexbox in IE11.</p>
 
-<h4 id="demo-5"><a href="http://codepen.io/AllThingsSmitty/pen/GqmGqZ">Demo</a></h4>
+<h4 id="demo-5"><a href="https://codepen.io/AllThingsSmitty/pen/GqmGqZ">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -326,7 +324,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h4 id="demo-6"><a href="http://codepen.io/AllThingsSmitty/pen/WxjKZp">Demo</a></h4>
+<h4 id="demo-6"><a href="https://codepen.io/AllThingsSmitty/pen/WxjKZp">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -363,7 +361,7 @@
 
 <p>For more on the “lobotomized owl” selector, read <a href="http://alistapart.com/article/axiomatic-css-and-lobotomized-owls">Heydon Pickering’s post</a> on <em>A List Apart</em>.</p>
 
-<h4 id="demo-7"><a href="http://codepen.io/AllThingsSmitty/pen/grRvWq">Demo</a></h4>
+<h4 id="demo-7"><a href="https://codepen.io/AllThingsSmitty/pen/grRvWq">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -398,7 +396,7 @@
 
 <p>Pain-free table layouts.</p>
 
-<h4 id="demo-8"><a href="http://codepen.io/AllThingsSmitty/pen/jALALm">Demo</a></h4>
+<h4 id="demo-8"><a href="https://codepen.io/AllThingsSmitty/pen/jALALm">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -433,7 +431,7 @@
 
 <p><strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
 
-<h4 id="demo-9"><a href="http://codepen.io/AllThingsSmitty/pen/zBzXRx">Demo</a></h4>
+<h4 id="demo-9"><a href="https://codepen.io/AllThingsSmitty/pen/zBzXRx">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -473,7 +471,7 @@
 
 <p>Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).</p>
 
-<h4 id="demo-10"><a href="http://codepen.io/AllThingsSmitty/pen/jALZvE">Demo</a></h4>
+<h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/jALZvE">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -569,7 +567,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h4 id="demo-11"><a href="http://codepen.io/AllThingsSmitty/pen/XKgOkR">Demo</a></h4>
+<h4 id="demo-11"><a href="https://codepen.io/AllThingsSmitty/pen/XKgOkR">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -624,6 +622,32 @@
 </code></pre></div></div>
 
 <p><strong>Note:</strong> Keep in mind that elements with whitespace aren’t considered empty, e.g., <code class="language-plaintext highlighter-rouge">&lt;p class="error-message"&gt; &lt;/p&gt;</code>.</p>
+
+<p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
+
+<h3 id="control-specificity-better-with-is">Control Specificity Better with <code class="language-plaintext highlighter-rouge">:is()</code>
+</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class is used to target multiple selectors at onece, reducing redundancy and enhancing code readability. This is incredibly useful for writing large selectors in a more compact form.</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">:is</span><span class="o">(</span><span class="nt">section</span><span class="o">,</span> <span class="nt">article</span><span class="o">,</span> <span class="nt">aside</span><span class="o">,</span> <span class="nt">nav</span><span class="o">)</span> <span class="nd">:is</span><span class="o">(</span><span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span><span class="o">)</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>The above ruleset is equivalent to the following number selector rules…</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">section</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">section</span> <span class="nt">h6</span><span class="o">,</span>
+<span class="nt">article</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">article</span> <span class="nt">h6</span><span class="o">,</span>
+<span class="nt">aside</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">aside</span> <span class="nt">h6</span><span class="o">,</span>
+<span class="nt">nav</span> <span class="nt">h1</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">nav</span> <span class="nt">h6</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h4 id="demo-12"><a href="https://codepen.io/AllThingsSmitty/pen/rNRVxdx">Demo</a></h4>
+
+<p><strong>Note:</strong> The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
