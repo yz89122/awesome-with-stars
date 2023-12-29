@@ -551,6 +551,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Comet ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-examples)](https://github.com/comet-ml/comet-examples) | An MLOps platform with experiment tracking, model production management, a model registry, and full data lineage to support your ML workflow from training straight through to production. |
 | [CometLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-llm)](https://github.com/comet-ml/comet-llm) | Log, track, visualize, and search your LLM prompts and chains in one easy-to-use, 100% open-source tool. |
 | [Synthical](https://synthical.com) | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place |
+| [teeplot ![GitHub Repo Stars](https://img.shields.io/github/stars/mmore500/teeplot) ![GitHub last commit](https://img.shields.io/github/last-commit/mmore500/teeplot)](https://github.com/mmore500/teeplot) | Workflow tool to automatically organize data visualization output |
 
 
 ## Literature and Media
