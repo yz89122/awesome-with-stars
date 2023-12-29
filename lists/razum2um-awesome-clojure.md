@@ -1,6 +1,7 @@
 # Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
+  - [OneKeePass ![GitHub Repo Stars](https://img.shields.io/github/stars/OneKeePass/desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/OneKeePass/desktop)](https://github.com/OneKeePass/desktop): A secure password manager and [mobile app in ClojureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/OneKeePass/mobile) ![GitHub last commit](https://img.shields.io/github/last-commit/OneKeePass/mobile)](https://github.com/OneKeePass/mobile)
   - [Penpot](https://penpot.app/): design and prototyping platform
   - [LightTable (IDE)](http://lighttable.com/) (archived)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
@@ -352,6 +353,7 @@
   * [test-doubles ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenPowerMonitor/test-doubles) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenPowerMonitor/test-doubles)](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha ![GitHub Repo Stars](https://img.shields.io/github/stars/lambdaisland/kaocha) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdaisland/kaocha)](https://github.com/lambdaisland/kaocha)
   * [StateFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/nubank/state-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/nubank/state-flow)](https://github.com/nubank/state-flow)
+  * [Datest ![GitHub Repo Stars](https://img.shields.io/github/stars/amokfa/datest) ![GitHub last commit](https://img.shields.io/github/last-commit/amokfa/datest)](https://github.com/amokfa/datest)
 
 ## Webdriver automation
 

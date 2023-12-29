@@ -59,7 +59,6 @@
 - [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-- [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic ![GitHub Repo Stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) ![GitHub last commit](https://img.shields.io/github/last-commit/NickvisionApps/Parabolic)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 - [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
@@ -73,7 +72,6 @@
 - [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Foliate ![GitHub Repo Stars](https://img.shields.io/github/stars/johnfactotum/foliate) ![GitHub last commit](https://img.shields.io/github/last-commit/johnfactotum/foliate)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-- [Pdftag ![GitHub Repo Stars](https://img.shields.io/github/stars/arrufat/pdftag) ![GitHub last commit](https://img.shields.io/github/last-commit/arrufat/pdftag)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [Marker ![GitHub Repo Stars](https://img.shields.io/github/stars/fabiocolacio/Marker) ![GitHub last commit](https://img.shields.io/github/last-commit/fabiocolacio/Marker)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 - [Paper Clip ![GitHub Repo Stars](https://img.shields.io/github/stars/Diego-Ivan/Paper-Clip) ![GitHub last commit](https://img.shields.io/github/last-commit/Diego-Ivan/Paper-Clip)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
@@ -135,7 +133,6 @@
 ### Gaming
 
 - [Lutris ![GitHub Repo Stars](https://img.shields.io/github/stars/lutris/lutris) ![GitHub last commit](https://img.shields.io/github/last-commit/lutris/lutris)](https://github.com/lutris/lutris) - Open Source gaming platform.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 - [Cartridges ![GitHub Repo Stars](https://img.shields.io/github/stars/kra-mo/cartridges) ![GitHub last commit](https://img.shields.io/github/last-commit/kra-mo/cartridges)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 
 ### System and Customization
@@ -151,7 +148,10 @@
 - [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
 - [AdwSteamGtk ![GitHub Repo Stars](https://img.shields.io/github/stars/Foldex/AdwSteamGtk) ![GitHub last commit](https://img.shields.io/github/last-commit/Foldex/AdwSteamGtk)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam ![GitHub Repo Stars](https://img.shields.io/github/stars/tkashkin/Adwaita-for-Steam) ![GitHub last commit](https://img.shields.io/github/last-commit/tkashkin/Adwaita-for-Steam)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 - [Flatseal ![GitHub Repo Stars](https://img.shields.io/github/stars/tchx84/Flatseal) ![GitHub last commit](https://img.shields.io/github/last-commit/tchx84/Flatseal)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
-- [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
+- [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
+- [Bottles ![GitHub Repo Stars](https://img.shields.io/github/stars/bottlesdevs/Bottles) ![GitHub last commit](https://img.shields.io/github/last-commit/bottlesdevs/Bottles)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
+- [BoxBuddy ![GitHub Repo Stars](https://img.shields.io/github/stars/Dvlv/BoxBuddyRS) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvlv/BoxBuddyRS)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+- [Pods ![GitHub Repo Stars](https://img.shields.io/github/stars/marhkb/pods) ![GitHub last commit](https://img.shields.io/github/last-commit/marhkb/pods)](https://github.com/marhkb/pods) - Podman containers manager.
 
 ### Utilities
 
@@ -169,6 +169,7 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
+- [Lan Mouse ![GitHub Repo Stars](https://img.shields.io/github/stars/feschber/lan-mouse) ![GitHub last commit](https://img.shields.io/github/last-commit/feschber/lan-mouse)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
 
 ### Security and Privacy
 
@@ -178,7 +179,6 @@
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 
 ### Development and Design
 
