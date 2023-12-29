@@ -46,11 +46,9 @@ A curated list of bitcoin services and tools for software developers
 * [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 * [BlockCypher](https://www.blockcypher.com)
 * [Esplora ![GitHub Repo Stars](https://img.shields.io/github/stars/Blockstream/esplora) ![GitHub last commit](https://img.shields.io/github/last-commit/Blockstream/esplora)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
-* [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
-* [Smartbit](https://www.smartbit.com.au)
 * [Chainradar API ![GitHub Repo Stars](https://img.shields.io/github/stars/yasaricli/chainradar-api) ![GitHub last commit](https://img.shields.io/github/last-commit/yasaricli/chainradar-api)](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address ![GitHub Repo Stars](https://img.shields.io/github/stars/alexk111/One-Time-Address) ![GitHub last commit](https://img.shields.io/github/last-commit/alexk111/One-Time-Address)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
