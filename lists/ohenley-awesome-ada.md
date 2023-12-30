@@ -77,7 +77,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	6. [Patterns](#patterns)
 	7. [System Modeling](#system-modeling)
 	8. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#parsers-scanners-linters-analysers-interpreters-and-prettyprinters)
-	9. [Format Readers and Writers](#format-readers-and-writers)
+	9. [Format Readers, Writers and Checkers](#format-readers-writers-and-checkers)
 	10. [Networking and Communication Middleware](#networking-and-communication-middleware)
 	11. [Chatting and Communication](#chatting-and-communication)
 	12. [Web](#web-1)
@@ -282,6 +282,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Continuous Integration
 - [continuous-verification ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/continuous-verification) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/continuous-verification)](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
 - [ada-actions ![GitHub Repo Stars](https://img.shields.io/github/stars/ada-actions/toolchain) ![GitHub last commit](https://img.shields.io/github/last-commit/ada-actions/toolchain)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+- [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
 
 ## Runtimes
 - [bb-runtimes ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/bb-runtimes) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/bb-runtimes)](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
@@ -410,6 +411,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### DevOps
 - [septum ![GitHub Repo Stars](https://img.shields.io/github/stars/pyjarrett/septum) ![GitHub last commit](https://img.shields.io/github/last-commit/pyjarrett/septum)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 - [powerjoular ![GitHub Repo Stars](https://img.shields.io/github/stars/joular/powerjoular) ![GitHub last commit](https://img.shields.io/github/last-commit/joular/powerjoular)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+- [mat ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/mat) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/mat)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 - [gnat-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gnatcoverage) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gnatcoverage)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
@@ -425,6 +427,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [automate ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/Automate) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/Automate)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/ajunitgen) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/ajunitgen)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 - [record-flux ![GitHub Repo Stars](https://img.shields.io/github/stars/Componolit/RecordFlux) ![GitHub last commit](https://img.shields.io/github/last-commit/Componolit/RecordFlux)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+- [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
 
 ### UML
 - [ada-ml ![GitHub Repo Stars](https://img.shields.io/github/stars/rocher/AdaML) ![GitHub last commit](https://img.shields.io/github/last-commit/rocher/AdaML)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
@@ -522,7 +525,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [parser-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/flyx/ParserTools) ![GitHub last commit](https://img.shields.io/github/last-commit/flyx/ParserTools)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/xia) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/xia)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers
+### Format Readers, Writers and Checkers
 - [ini-files ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/ini-files) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/ini-files)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 - [protobuf-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/persan/protobuf-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/persan/protobuf-ada)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 - [protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/reznikmm/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/reznikmm/protobuf)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka].
@@ -541,6 +544,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [abf-io ![GitHub Repo Stars](https://img.shields.io/github/stars/gerr135/abf_io) ![GitHub last commit](https://img.shields.io/github/last-commit/gerr135/abf_io)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 - [ada-toml ![GitHub Repo Stars](https://img.shields.io/github/stars/pmderodat/ada-toml) ![GitHub last commit](https://img.shields.io/github/last-commit/pmderodat/ada-toml)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
+- [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
 
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
@@ -600,6 +604,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+- [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
 
 ### Utilities
 - [auto-counters ![GitHub Repo Stars](https://img.shields.io/github/stars/jhumphry/auto_counters) ![GitHub last commit](https://img.shields.io/github/last-commit/jhumphry/auto_counters)](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
@@ -750,3 +755,4 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/hungarian) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/hungarian)](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 - [ada-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/ada-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/ada-lua)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 - [coreland-lua-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/io7m/coreland-lua-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/io7m/coreland-lua-ada)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+
