@@ -356,7 +356,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Working with Image Filters - Wagtail Space NL 2022](https://www.youtube.com/watch?v=gCGT51BcTdM) by Arnar Tumi Þorsteinsson.
 - [Things I learned - Wagtail Space NL 2022](https://www.youtube.com/watch?v=xG5-s48TZt8) by Dan Braghis.
 - [Wagtail Roadrunner Beep Beep - Wagtail Space NL 2022](https://www.youtube.com/watch?v=ynlFUcutSWQ) by Lars van de Kerkhof.
-- [Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022](https://www.youtube.com/watch?v=PgkpBMoN4UY) by Sævar Öfjörð Magnússon.
+- [Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022](https://www.youtube.com/watch?v=PgkpBMoN4UY) by Sævar Öfjör�� Magnússon.
 - [Wagtail in the News Room - Wagtail Space NL 2022](https://www.youtube.com/watch?v=B85HwmX5uaw) by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.
 - [Digital Nomad - Wagtail Space NL 2022](https://www.youtube.com/watch?v=9Evrwzpg-dw) by Maikel Martens.
 - [Unobtrusive internationalisation - Wagtail Space NL 2022](https://www.youtube.com/watch?v=_dhScxTdtjA) by Lars van de Kerkhof.
@@ -425,7 +425,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Torchbox ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-torchbox) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-torchbox)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
 - [Made with Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/springload/madewithwagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/springload/madewithwagtail)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 - [OpenCanada.org ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenCanada/website) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenCanada/website)](https://github.com/OpenCanada/website) – The opencanada.org website source.
-- [Federal Election Commission ![GitHub Repo Stars](https://img.shields.io/github/stars/fecgov/fec-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/fecgov/fec-cms)](https://github.com/fecgov/fec-cms) �� The content management system (CMS) for the new Federal Election Commission website.
+- [Federal Election Commission ![GitHub Repo Stars](https://img.shields.io/github/stars/fecgov/fec-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/fecgov/fec-cms)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 - [Table Tennis Wellington Business Class ![GitHub Repo Stars](https://img.shields.io/github/stars/jordij/bctt.nz) ![GitHub last commit](https://img.shields.io/github/last-commit/jordij/bctt.nz)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 - [Jordi Joan’s blog ![GitHub Repo Stars](https://img.shields.io/github/stars/jordij/jordijoan.me) ![GitHub last commit](https://img.shields.io/github/last-commit/jordij/jordijoan.me)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
 - [Localore: Finding America ![GitHub Repo Stars](https://img.shields.io/github/stars/ghostwords/localore) ![GitHub last commit](https://img.shields.io/github/last-commit/ghostwords/localore)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
