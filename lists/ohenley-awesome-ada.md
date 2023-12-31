@@ -445,6 +445,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mandelbrot-ascii ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/mandelbrot_ascii) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/mandelbrot_ascii)](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 - [lalg ![GitHub Repo Stars](https://img.shields.io/github/stars/jhumphry/LALG) ![GitHub last commit](https://img.shields.io/github/last-commit/jhumphry/LALG)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 - [geo-energy-math ![GitHub Repo Stars](https://img.shields.io/github/stars/pukpr/GeoEnergyMath) ![GitHub last commit](https://img.shields.io/github/last-commit/pukpr/GeoEnergyMath)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
+- [matrix-root](https://gitlab.com/mockturtle/matrix-root) - Compute the N-th root of a matrix.
 
 ### Science
 - [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
@@ -630,6 +631,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-v4l2 ![GitHub Repo Stars](https://img.shields.io/github/stars/frett27/AdaV4L2) ![GitHub last commit](https://img.shields.io/github/last-commit/frett27/AdaV4L2)](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
 - [inotify-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/inotify-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/inotify-ada)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 - [dl-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/dl-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/dl-ada)](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
+- [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
 
 ### Windows and .NET
 - [win32ada ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/win32ada) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/win32ada)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
@@ -659,12 +661,14 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Communication
 - [sensortile ![GitHub Repo Stars](https://img.shields.io/github/stars/morbos/STM32) ![GitHub last commit](https://img.shields.io/github/last-commit/morbos/STM32)](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) - This project shows how to initialize a SensorTile and how to send sensor data over BLE from a SensorTile to a suitable host.
+- [ada-enet ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-enet) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-enet)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries
 - [giza ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/Giza) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/Giza)](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms.
 - [ada-synth-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/raph-amiard/ada-synth-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/raph-amiard/ada-synth-lib)](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library that can run on bareboard devices.
 - [geste ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/GESTE) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/GESTE)](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
 - [sancta ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/sancta) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/sancta)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
+- [stm32-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/stm32-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/stm32-ui)](https://github.com/stcarrez/stm32-ui) - STM32 UI library and tools (graphs, images, 12 hour clock).
 
 ### Applications
 - [coffee-clock ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/coffee-clock) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/coffee-clock)](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.

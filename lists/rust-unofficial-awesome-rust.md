@@ -13,6 +13,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
   * [Emulators](#emulators)
+  * [File manager](#file-manager)
   * [Games](#games)
   * [Graphics](#graphics)
   * [Image processing](#image-processing)
@@ -119,7 +120,6 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/alacritty/alacritty) ![GitHub last commit](https://img.shields.io/github/last-commit/alacritty/alacritty)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 * [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor, in Rust. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 * [asm-cli-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/cch123/asm-cli-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/cch123/asm-cli-rust)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-* [broot ![GitHub Repo Stars](https://img.shields.io/github/stars/Canop/broot) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 * [cloudflare/boringtun ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudflare/boringtun) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/boringtun)](https://github.com/cloudflare/boringtun) — A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 * [datafusion ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/arrow-datafusion) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/arrow-datafusion)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 * [denoland/deno ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno)](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
@@ -279,6 +279,13 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
   * [Obliteration ![GitHub Repo Stars](https://img.shields.io/github/stars/obhq/obliteration) ![GitHub last commit](https://img.shields.io/github/last-commit/obhq/obliteration)](https://github.com/obhq/obliteration) — Experimental PS4 emulator written in Rust for Windows, macOS and Linux [![CI ![GitHub Repo Stars](https://img.shields.io/github/stars/obhq/obliteration) ![GitHub last commit](https://img.shields.io/github/last-commit/obhq/obliteration)](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 * ZX Spectrum
   * [rustzx/rustzx ![GitHub Repo Stars](https://img.shields.io/github/stars/rustzx/rustzx) ![GitHub last commit](https://img.shields.io/github/last-commit/rustzx/rustzx)](https://github.com/rustzx/rustzx) — [![RustZX CI ![GitHub Repo Stars](https://img.shields.io/github/stars/rustzx/rustzx) ![GitHub last commit](https://img.shields.io/github/last-commit/rustzx/rustzx)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+
+### File manager
+
+* [broot ![GitHub Repo Stars](https://img.shields.io/github/stars/Canop/broot) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+* [joshuto ![GitHub Repo Stars](https://img.shields.io/github/stars/kamiyaa/joshuto) ![GitHub last commit](https://img.shields.io/github/last-commit/kamiyaa/joshuto)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+* [xplr ![GitHub Repo Stars](https://img.shields.io/github/stars/sayanarijit/xplr) ![GitHub last commit](https://img.shields.io/github/last-commit/sayanarijit/xplr)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+* [yazi ![GitHub Repo Stars](https://img.shields.io/github/stars/sxyazi/yazi) ![GitHub last commit](https://img.shields.io/github/last-commit/sxyazi/yazi)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Games
 
