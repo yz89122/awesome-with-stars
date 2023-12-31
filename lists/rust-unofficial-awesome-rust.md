@@ -822,7 +822,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ## Libraries
 
-* [perf-monitor-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/larksuite/perf-monitor-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/larksuite/perf-monitor-rs)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+* [perf-monitor-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/larksuite/perf-monitor-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/larksuite/perf-monitor-rs)](https://github.com/larksuite/perf-monitor-rs) �� A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ### Artificial Intelligence
 
