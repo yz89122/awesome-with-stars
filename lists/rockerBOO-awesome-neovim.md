@@ -878,6 +878,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [mfussenegger/nvim-ts-hint-textobject ![GitHub Repo Stars](https://img.shields.io/github/stars/mfussenegger/nvim-ts-hint-textobject) ![GitHub last commit](https://img.shields.io/github/last-commit/mfussenegger/nvim-ts-hint-textobject)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 - [ziontee113/syntax-tree-surfer ![GitHub Repo Stars](https://img.shields.io/github/stars/ziontee113/syntax-tree-surfer) ![GitHub last commit](https://img.shields.io/github/last-commit/ziontee113/syntax-tree-surfer)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 - [drybalka/tree-climber.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/drybalka/tree-climber.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/drybalka/tree-climber.nvim)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode.
+- [atusy/treemonkey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
 
 ## Keybinding
 
@@ -905,6 +906,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [karb94/neoscroll.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karb94/neoscroll.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karb94/neoscroll.nvim)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 - [declancm/cinnamon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+- [nkakouros-original/scrollofffraction.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nkakouros/scrollofffraction.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nkakouros/scrollofffraction.nvim)](https://github.com/nkakouros/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
 
 ### Scrollbar
 
