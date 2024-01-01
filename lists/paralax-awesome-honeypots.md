@@ -56,6 +56,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [bwpot ![GitHub Repo Stars](https://img.shields.io/github/stars/graneed/bwpot) ![GitHub last commit](https://img.shields.io/github/last-commit/graneed/bwpot)](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
   - [django-admin-honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/dmpayton/django-admin-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/dmpayton/django-admin-honeypot)](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
   - [drupo ![GitHub Repo Stars](https://img.shields.io/github/stars/d1str0/drupot) ![GitHub last commit](https://img.shields.io/github/last-commit/d1str0/drupot)](https://github.com/d1str0/drupot) - Drupal Honeypot.
+  - [galah ![GitHub Repo Stars](https://img.shields.io/github/stars/0x4D31/galah) ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/galah)](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
   - [honeyhttpd ![GitHub Repo Stars](https://img.shields.io/github/stars/bocajspear1/honeyhttpd) ![GitHub last commit](https://img.shields.io/github/last-commit/bocajspear1/honeyhttpd)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
   - [honeyup ![GitHub Repo Stars](https://img.shields.io/github/stars/LogoiLab/honeyup) ![GitHub last commit](https://img.shields.io/github/last-commit/LogoiLab/honeyup)](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
   - [owa-honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/joda32/owa-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/joda32/owa-honeypot)](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
@@ -112,6 +113,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 - Anti-honeypot stuff
 
   - [canarytokendetector ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/canarytokendetector) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/canarytokendetector)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
+  - [honeydet ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/honeydet) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/honeydet)](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
   - [kippo_detect ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-morris/kippo_detect) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-morris/kippo_detect)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
 
 - ICS/SCADA honeypots
