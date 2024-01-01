@@ -187,7 +187,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Models
 
-- [DALL·E 2](https://openai.com/dall-e-2/) - DALL��E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
+- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 - [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
