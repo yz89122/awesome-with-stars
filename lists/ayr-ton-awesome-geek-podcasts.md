@@ -227,7 +227,7 @@ A curated list of podcasts we like to listen to.
 * [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
 * [Amarelo Criativo](https://soundcloud.com/amarelocriativo) - Todos os podcasts da Amarelo criativo. Programas diferentes ao longo da semana para trazer informação sobre o mercado criativo, mundo geek e com o humor bem Amarelo.
 * [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
-* [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
+* [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computa��ão da Universidade Federal de Campina Grande.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
 * [Dash](https://jogabilida.de/category/podcasts/podcast-games/dash/) - Podcast sobre games em que cada episódio explora um game, tema, franquia ou desenvolvedor a fundo, servindo até como um mini-doc em áudio.
 * [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
@@ -285,7 +285,7 @@ A curated list of podcasts we like to listen to.
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
-* [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
+* [Naci��n Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
 * [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
