@@ -1448,7 +1448,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [PMD](https://pmd.github.io) — A source code analyzer for Java, Salesforce Apex, Javascript, PLSQL, XML, XSL and others.
 
-- [pre-commit](https://pre-commit.com) — A framework for managing and maintaining multi-language pre-commit hooks.
+- [pre-commit](https://pre-commit.com) ��� A framework for managing and maintaining multi-language pre-commit hooks.
 
 - [Prettier](https://prettier.io) — An opinionated code formatter.
 
