@@ -248,7 +248,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 ## Non-English Content
 
 - [Mandarin Chinese (中文) ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/awesome-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-- [Spanish (Español) ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/awesome-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+- [Spanish (Espa��ol) ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/awesome-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
