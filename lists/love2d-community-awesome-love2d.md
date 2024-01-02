@@ -46,7 +46,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - Gltf asset loader and test renderer; Supports skeletal animations and morph targets.
 * [Lovox ![GitHub Repo Stars](https://img.shields.io/github/stars/tjakka5/Lovox) ![GitHub last commit](https://img.shields.io/github/last-commit/tjakka5/Lovox)](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels.
 * [g3d ![GitHub Repo Stars](https://img.shields.io/github/stars/groverburger/g3d) ![GitHub last commit](https://img.shields.io/github/last-commit/groverburger/g3d)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
-* [model_renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/xiejiangzhi/model_renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/xiejiangzhi/model_renderer)](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
 * [Menori ![GitHub Repo Stars](https://img.shields.io/github/stars/rozenmad/Menori) ![GitHub last commit](https://img.shields.io/github/last-commit/rozenmad/Menori)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
 
 
