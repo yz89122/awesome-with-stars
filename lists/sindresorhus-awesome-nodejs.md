@@ -89,10 +89,6 @@
 		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 	</p>
 	<br>
-	<a href="https://t.me/sindresorhuschat/3">Telegram group</a>
-	<br>
-	<br>
-	<br>
 	<p>
 		<a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> is an open-source, cross-platform, JavaScript runtime for writing servers and command-line tools.
 	</p>
@@ -435,7 +431,7 @@
 	- [More… ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/promise-fun) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/promise-fun)](https://github.com/sindresorhus/promise-fun)
 - Observables
 	- [RxJS ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/RxJS) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/RxJS)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-	- [observable-to-promise ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-observables) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-observables)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+	- [observable-to-promise ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/observable-to-promise) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/observable-to-promise)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
 	- [More… ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-observables) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-observables)](https://github.com/sindresorhus/awesome-observables)
 - Streams
 	- [Highland.js ![GitHub Repo Stars](https://img.shields.io/github/stars/caolan/highland) ![GitHub last commit](https://img.shields.io/github/last-commit/caolan/highland)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
@@ -823,7 +819,7 @@
 - [@sindresorhus/is ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/is) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/is)](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop ![GitHub Repo Stars](https://img.shields.io/github/stars/simonepri/env-dot-prop) ![GitHub last commit](https://img.shields.io/github/last-commit/simonepri/env-dot-prop)](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [node-video-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/gkozlenko/node-video-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/gkozlenko/node-video-lib)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
-- [basic-ftp ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickjuchli/basic-ftp) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickjuchli/basic-ftp)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+- [basic-ftp ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickjuchli/basic-ftp) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickjuchli/basic-ftp)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
 - [cashify ![GitHub Repo Stars](https://img.shields.io/github/stars/xxczaki/cashify) ![GitHub last commit](https://img.shields.io/github/last-commit/xxczaki/cashify)](https://github.com/xxczaki/cashify) - Currency conversion.
 - [genepi ![GitHub Repo Stars](https://img.shields.io/github/stars/Geode-solutions/genepi) ![GitHub last commit](https://img.shields.io/github/last-commit/Geode-solutions/genepi)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [husky ![GitHub Repo Stars](https://img.shields.io/github/stars/typicode/husky) ![GitHub last commit](https://img.shields.io/github/last-commit/typicode/husky)](https://github.com/typicode/husky) - Create Git hook scripts.
