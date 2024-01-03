@@ -281,6 +281,7 @@
 - [mrcjkb/haskell-snippets.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 - [rafamadriz/friendly-snippets ![GitHub Repo Stars](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![GitHub last commit](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [cvigilv/esqueleto.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cvigilv/esqueleto.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cvigilv/esqueleto.nvim)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+- [chrisgrieser/nvim-scissors ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-scissors) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-scissors)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
 ## Register
 
@@ -741,6 +742,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [t-troebst/perfanno.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/t-troebst/perfanno.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/t-troebst/perfanno.nvim)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 - [niuiic/dap-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/dap-utils.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/dap-utils.nvim)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 - [theHamsta/nvim-dap-virtual-text ![GitHub Repo Stars](https://img.shields.io/github/stars/theHamsta/nvim-dap-virtual-text) ![GitHub last commit](https://img.shields.io/github/last-commit/theHamsta/nvim-dap-virtual-text)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+- [chrisgrieser/nvim-chainsaw ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-chainsaw) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-chainsaw)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Quickfix
 
