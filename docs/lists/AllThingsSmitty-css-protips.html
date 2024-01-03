@@ -69,10 +69,11 @@
   <li><a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a></li>
   <li><a href="#use-unset-instead-of-resetting-all-properties">Use <code class="language-plaintext highlighter-rouge">unset</code> Instead of Resetting All Properties</a></li>
   <li><a href="#use-not-to-applyunapply-borders-on-navigation">Use <code class="language-plaintext highlighter-rouge">:not()</code> to Apply/Unapply Borders on Navigation</a></li>
-  <li><a href="#check-if-font-is-installed-locally">Check If Font Is Installed Locally</a></li>
+  <li><a href="#check-if-font-is-installed-locally">Check if Font Is Installed Locally</a></li>
   <li><a href="#add-line-height-to-body">Add <code class="language-plaintext highlighter-rouge">line-height</code> to <code class="language-plaintext highlighter-rouge">body</code></a></li>
   <li><a href="#set-focus-for-form-elements">Set <code class="language-plaintext highlighter-rouge">:focus</code> for Form Elements</a></li>
   <li><a href="#vertically-center-anything">Vertically-Center Anything</a></li>
+  <li><a href="#use-aspect-ratio-instead-of-heightwidth">Use <code class="language-plaintext highlighter-rouge">aspect-ratio</code> Instead of Height/Width</a></li>
   <li><a href="#comma-separated-lists">Comma-Separated Lists</a></li>
   <li><a href="#select-items-using-negative-nth-child">Select Items Using Negative <code class="language-plaintext highlighter-rouge">nth-child</code></a></li>
   <li><a href="#use-svg-for-icons">Use SVG for Icons</a></li>
@@ -111,7 +112,7 @@
 
 <h4 id="demo"><a href="https://codepen.io/AllThingsSmitty/pen/kkrkLL">Demo</a></h4>
 
-<p><strong>Note:</strong> If you follow the <a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a> tip below you might opt to not include the <code class="language-plaintext highlighter-rouge">box-sizing</code> property in  your CSS reset.</p>
+<p>⚠️ <strong>Note:</strong> If you follow the <a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a> tip below you might opt to not include the <code class="language-plaintext highlighter-rouge">box-sizing</code> property in  your CSS reset.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -158,7 +159,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p><strong>Note:</strong> the <code class="language-plaintext highlighter-rouge">all</code> and <code class="language-plaintext highlighter-rouge">unset</code> shorthand isn’t supported in IE11.</p>
+<p>⚠️ <strong>Note:</strong> the <code class="language-plaintext highlighter-rouge">all</code> and <code class="language-plaintext highlighter-rouge">unset</code> keywords aren’t supported in IE11.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -193,7 +194,7 @@
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
-<h3 id="check-if-font-is-installed-locally">Check If Font Is Installed Locally</h3>
+<h3 id="check-if-font-is-installed-locally">Check if Font Is Installed Locally</h3>
 
 <p>You can check if a font is installed locally before fetching it remotely, which is a good performance tip, too.</p>
 
@@ -280,9 +281,26 @@
 
 <p>Want to center something else? Vertically, horizontally…anything, anytime, anywhere? CSS-Tricks has <a href="https://css-tricks.com/centering-css-complete-guide/">a nice write-up</a> on doing all of that.</p>
 
-<p><strong>Note:</strong> Watch for some <a href="https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items">buggy behavior <img src="https://img.shields.io/github/stars/philipwalton/flexbugs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/philipwalton/flexbugs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> with flexbox in IE11.</p>
-
 <h4 id="demo-5"><a href="https://codepen.io/AllThingsSmitty/pen/GqmGqZ">Demo</a></h4>
+
+<p>⚠️ <strong>Note:</strong> Watch for some <a href="https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items">buggy behavior <img src="https://img.shields.io/github/stars/philipwalton/flexbugs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/philipwalton/flexbugs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> with flexbox in IE11.</p>
+
+<p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
+
+<h3 id="use-aspect-ratio-instead-of-heightwidth">Use <code class="language-plaintext highlighter-rouge">aspect-ratio</code> Instead of Height/Width</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">aspect-radio</code> property allows you to easily size elements and maintain consistent width-to-height ratio. This is incredibly useful in responsive web design to prevent layout shift.</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">img</span> <span class="p">{</span>
+  <span class="py">aspect-ratio</span><span class="p">:</span> <span class="m">16</span> <span class="p">/</span> <span class="m">9</span><span class="p">;</span> <span class="c">/* width / height */</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Learn more about the <code class="language-plaintext highlighter-rouge">aspect-ratio</code> property in this <a href="https://web.dev/articles/aspect-ratio">web.dev post</a>.</p>
+
+<h4 id="demo-6"><a href="https://codepen.io/AllThingsSmitty/pen/MWxwoNx/">Demo</a></h4>
+
+<p>⚠️ <strong>Note:</strong> <code class="language-plaintext highlighter-rouge">aspect-ratio</code> isn’t supported in IE11.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -297,7 +315,7 @@
 
 <p>Use the <code class="language-plaintext highlighter-rouge">:not()</code> pseudo-class and no comma will be added to the last item.</p>
 
-<p><strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
+<p>⚠️ <strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -324,7 +342,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h4 id="demo-6"><a href="https://codepen.io/AllThingsSmitty/pen/WxjKZp">Demo</a></h4>
+<h4 id="demo-7"><a href="https://codepen.io/AllThingsSmitty/pen/WxjKZp">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -361,7 +379,7 @@
 
 <p>For more on the “lobotomized owl” selector, read <a href="http://alistapart.com/article/axiomatic-css-and-lobotomized-owls">Heydon Pickering’s post</a> on <em>A List Apart</em>.</p>
 
-<h4 id="demo-7"><a href="https://codepen.io/AllThingsSmitty/pen/grRvWq">Demo</a></h4>
+<h4 id="demo-8"><a href="https://codepen.io/AllThingsSmitty/pen/grRvWq">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -396,7 +414,7 @@
 
 <p>Pain-free table layouts.</p>
 
-<h4 id="demo-8"><a href="https://codepen.io/AllThingsSmitty/pen/jALALm">Demo</a></h4>
+<h4 id="demo-9"><a href="https://codepen.io/AllThingsSmitty/pen/jALALm">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -429,9 +447,9 @@
 
 <p>That’s pretty convenient.</p>
 
-<p><strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
+<h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/zBzXRx">Demo</a></h4>
 
-<h4 id="demo-9"><a href="https://codepen.io/AllThingsSmitty/pen/zBzXRx">Demo</a></h4>
+<p>⚠️ <strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -455,9 +473,9 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/rNRVxdx">Demo</a></h4>
+<h4 id="demo-11"><a href="https://codepen.io/AllThingsSmitty/pen/rNRVxdx">Demo</a></h4>
 
-<p><strong>Note:</strong> The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
+<p>⚠️ <strong>Note:</strong> The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -497,7 +515,7 @@
 
 <p>Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).</p>
 
-<h4 id="demo-11"><a href="https://codepen.io/AllThingsSmitty/pen/jALZvE">Demo</a></h4>
+<h4 id="demo-12"><a href="https://codepen.io/AllThingsSmitty/pen/jALZvE">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -532,7 +550,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>Learn more about styling for this pattern in <a href="https://github.com/ireade/">Ire Aderinokun</a>’s <a href="http://bitsofco.de/styling-broken-images/">original post</a>.</p>
+<p>Learn more about styling for this pattern in <a href="http://bitsofco.de/styling-broken-images/">Ire Aderinokun’s post</a>.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -593,7 +611,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h4 id="demo-12"><a href="https://codepen.io/AllThingsSmitty/pen/XKgOkR">Demo</a></h4>
+<h4 id="demo-13"><a href="https://codepen.io/AllThingsSmitty/pen/XKgOkR">Demo</a></h4>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -647,7 +665,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p><strong>Note:</strong> Keep in mind that elements with whitespace aren’t considered empty, e.g., <code class="language-plaintext highlighter-rouge">&lt;p class="error-message"&gt; &lt;/p&gt;</code>.</p>
+<p>⚠️ <strong>Note:</strong> Keep in mind that elements with whitespace aren’t considered empty, e.g., <code class="language-plaintext highlighter-rouge">&lt;p class="error-message"&gt; &lt;/p&gt;</code>.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -659,7 +677,7 @@
 
 <h2 id="translations">Translations</h2>
 
-<p><strong>Note:</strong> I’ve had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files may not include all the tips listed on the main README file.</p>
+<p>⚠️  <strong>Note:</strong> I’ve had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files are likely to not include all the tips listed on the main README file.</p>
 
 <ul>
   <li><a href="https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN">简体中文 <img src="https://img.shields.io/github/stars/AllThingsSmitty/css-protips" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></li>
