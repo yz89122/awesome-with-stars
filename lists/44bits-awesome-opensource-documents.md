@@ -829,13 +829,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='chinese'></a>
 ### Chinese
 
-* [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
+* [JavaScript 标准���考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
 * [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang
 * [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
 * [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
-* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开���教程，全面介绍nginx模块的开发以及它的内部原理
+* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
