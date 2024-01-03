@@ -620,12 +620,14 @@ If you want to contribute to this list (please do), send me a pull request.
 - [juniper ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-rust/juniper) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-rust/juniper)](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
 - [graphql-client ![GitHub Repo Stars](https://img.shields.io/github/stars/tomhoule/graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/tomhoule/graphql-client)](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 - [graphql-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-rust/graphql-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-rust/graphql-parser)](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+- [tailcall ![GitHub Repo Stars](https://img.shields.io/github/stars/tailcallhq/tailcall) ![GitHub last commit](https://img.shields.io/github/last-commit/tailcallhq/tailcall)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
 
 <a name="rust-example" />
 
 #### Rust Examples
 
 - [Warp GraphQL Juniper](https://graphql-rust.github.io/)
+- [Tailcall](https://tailcall.run/docs/getting_started/configuration)
 
 <a name="d" />
 
