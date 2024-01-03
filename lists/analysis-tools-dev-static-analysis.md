@@ -1048,7 +1048,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [Fasterer ![GitHub Repo Stars](https://img.shields.io/github/stars/DamirSvrtan/fasterer) ![GitHub last commit](https://img.shields.io/github/last-commit/DamirSvrtan/fasterer)](https://github.com/DamirSvrtan/fasterer) — Common Ruby idioms checker.
 
-- [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
+- [flay](https://ruby.sadi.st/Flay.html) �� Flay analyzes code for structural similarities.
 
 - [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
