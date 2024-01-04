@@ -1,92 +1,92 @@
 # Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
 
-A curated list of amazingly awesome PHP libraries, resources and shiny things.
+A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ## Contributing and Collaborating
 Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/stars/ziadoz/awesome-php) ![GitHub last commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php)](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT ![GitHub Repo Stars](https://img.shields.io/github/stars/ziadoz/awesome-php) ![GitHub last commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php)](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING ![GitHub Repo Stars](https://img.shields.io/github/stars/ziadoz/awesome-php) ![GitHub last commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php)](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-    - [Composer Repositories](#composer-repositories)
-    - [Dependency Management](#dependency-management)
-    - [Dependency Management Extras](#dependency-management-extras)
-    - [Frameworks](#frameworks)
-    - [Framework Extras](#framework-extras)
-    - [Content Management Systems](#content-management-systems-cms)
-    - [Components](#components)
-    - [Micro Frameworks](#micro-frameworks)
-    - [Micro Framework Extras](#micro-framework-extras)
-    - [Routers](#routers)
-    - [Templating](#templating)
-    - [Static Site Generators](#static-site-generators)
-    - [HTTP](#http)
-    - [Scraping](#scraping)
-    - [Middlewares](#middlewares)
-    - [URL](#url)
-    - [Email](#email)
-    - [Files](#Files)
-    - [Streams](#streams)
-    - [Dependency Injection](#dependency-injection)
-    - [Imagery](#imagery)
-    - [Testing](#testing)
-    - [Continuous Integration](#continuous-integration)
-    - [Documentation](#documentation)
-    - [Security](#security)
-    - [Passwords](#passwords)
-    - [Code Analysis](#code-analysis)
-    - [Code Quality](#code-quality)
-    - [Static Analysis](#static-analysis)
-    - [Architectural](#architectural)
-    - [Debugging and Profiling](#debugging-and-profiling)
-    - [Build Tools](#build-tools)
-    - [Task Runners](#task-runners)
-    - [Navigation](#navigation)
-    - [Asset Management](#asset-management)
-    - [Geolocation](#geolocation)
-    - [Date and Time](#date-and-time)
-    - [Event](#event)
-    - [Logging](#logging)
-    - [E-commerce](#e-commerce)
-    - [PDF](#pdf)
-    - [Office](#office)
-    - [Database](#database)
-    - [Migrations](#migrations)
-    - [NoSQL](#nosql)
-    - [Queue](#queue)
-    - [Search](#search)
-    - [Command Line](#command-line)
-    - [Authentication and Authorization](#authentication-and-authorization)
-    - [Markup and CSS](#markup-and-css)
-    - [JSON](#json)
-    - [Strings](#strings)
-    - [Numbers](#numbers)
-    - [Filtering and Validation](#filtering-and-validation)
-    - [API](#api)
-    - [Caching and Locking](#caching-and-locking)
-    - [Data Structure and Storage](#data-structure-and-storage)
-    - [Notifications](#notifications)
-    - [Deployment](#deployment)
-    - [Internationalisation and Localisation](#internationalisation-and-localisation)
-    - [Serverless](#serverless)
-    - [Configuration](#configuration)
-    - [Third Party APIs](#third-party-apis)
-    - [Extensions](#extensions)
-    - [Miscellaneous](#miscellaneous)
+  - [Composer Repositories](#composer-repositories)
+  - [Dependency Management](#dependency-management)
+  - [Dependency Management Extras](#dependency-management-extras)
+  - [Frameworks](#frameworks)
+  - [Framework Extras](#framework-extras)
+  - [Content Management Systems](#content-management-systems-cms)
+  - [Components](#components)
+  - [Micro Frameworks](#micro-frameworks)
+  - [Micro Framework Extras](#micro-framework-extras)
+  - [Routers](#routers)
+  - [Templating](#templating)
+  - [Static Site Generators](#static-site-generators)
+  - [HTTP](#http)
+  - [Scraping](#scraping)
+  - [Middlewares](#middlewares)
+  - [URL](#url)
+  - [Email](#email)
+  - [Files](#Files)
+  - [Streams](#streams)
+  - [Dependency Injection](#dependency-injection)
+  - [Imagery](#imagery)
+  - [Testing](#testing)
+  - [Continuous Integration](#continuous-integration)
+  - [Documentation](#documentation)
+  - [Security](#security)
+  - [Passwords](#passwords)
+  - [Code Analysis](#code-analysis)
+  - [Code Quality](#code-quality)
+  - [Static Analysis](#static-analysis)
+  - [Architectural](#architectural)
+  - [Debugging and Profiling](#debugging-and-profiling)
+  - [Build Tools](#build-tools)
+  - [Task Runners](#task-runners)
+  - [Navigation](#navigation)
+  - [Asset Management](#asset-management)
+  - [Geolocation](#geolocation)
+  - [Date and Time](#date-and-time)
+  - [Event](#event)
+  - [Logging](#logging)
+  - [E-commerce](#e-commerce)
+  - [PDF](#pdf)
+  - [Office](#office)
+  - [Database](#database)
+  - [Migrations](#migrations)
+  - [NoSQL](#nosql)
+  - [Queue](#queue)
+  - [Search](#search)
+  - [Command Line](#command-line)
+  - [Authentication and Authorization](#authentication-and-authorization)
+  - [Markup and CSS](#markup-and-css)
+  - [JSON](#json)
+  - [Strings](#strings)
+  - [Numbers](#numbers)
+  - [Filtering and Validation](#filtering-and-validation)
+  - [API](#api)
+  - [Caching and Locking](#caching-and-locking)
+  - [Data Structure and Storage](#data-structure-and-storage)
+  - [Notifications](#notifications)
+  - [Deployment](#deployment)
+  - [Internationalisation and Localisation](#internationalisation-and-localisation)
+  - [Serverless](#serverless)
+  - [Configuration](#configuration)
+  - [Third Party APIs](#third-party-apis)
+  - [Extensions](#extensions)
+  - [Miscellaneous](#miscellaneous)
 - [Software](#software)
-    - [PHP Installation](#php-installation)
-    - [Development Environment](#development-environment)
-    - [Virtual Machines](#virtual-machines)
-    - [Text Editors and IDEs](#text-editors-and-ides)
-    - [Web Applications](#web-applications)
-    - [Infrastructure](#infrastructure)
+  - [PHP Installation](#php-installation)
+  - [Development Environment](#development-environment)
+  - [Virtual Machines](#virtual-machines)
+  - [Text Editors and IDEs](#text-editors-and-ides)
+  - [Web Applications](#web-applications)
+  - [Infrastructure](#infrastructure)
 - [Resources](#resources)
-    - [PHP Websites](#php-websites)
-    - [PHP Books](#php-books)
-    - [PHP Videos](#php-videos)
-    - [PHP Podcasts](#php-podcasts)
-    - [PHP Newsletters](#php-newsletters)
-    - [PHP Reading](#php-reading)
-    - [PHP Internals Reading](#php-internals-reading)
+  - [PHP Websites](#php-websites)
+  - [PHP Books](#php-books)
+  - [PHP Videos](#php-videos)
+  - [PHP Podcasts](#php-podcasts)
+  - [PHP Newsletters](#php-newsletters)
+  - [PHP Reading](#php-reading)
+  - [PHP Internals Reading](#php-internals-reading)
 
 ### Composer Repositories
 *Composer Repositories.*
@@ -99,7 +99,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Dependency Management
 *Libraries for dependency and package management.*
 
-* [Composer Installers ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/installers) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/installers)](https://github.com/composer/installers) - A  multi framework Composer library installer.
+* [Composer Installers ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/installers) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/installers)](https://github.com/composer/installers) - A  multi-framework Composer library installer.
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
 * [Phive](https://phar.io/) - A PHAR manager.
 * [Pickle ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/pickle) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/pickle)](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
@@ -109,25 +109,26 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [Composed ![GitHub Repo Stars](https://img.shields.io/github/stars/joshdifabio/composed) ![GitHub last commit](https://img.shields.io/github/last-commit/joshdifabio/composed)](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Merge Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/wikimedia/composer-merge-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/wikimedia/composer-merge-plugin)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-* [Composer Normalize ![GitHub Repo Stars](https://img.shields.io/github/stars/ergebnis/composer-normalize) ![GitHub last commit](https://img.shields.io/github/last-commit/ergebnis/composer-normalize)](https://github.com/ergebnis/composer-normalize) - A plugin for normalising `composer.json` files. 
+* [Composer Normalize ![GitHub Repo Stars](https://img.shields.io/github/stars/ergebnis/composer-normalize) ![GitHub last commit](https://img.shields.io/github/last-commit/ergebnis/composer-normalize)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
 * [Composer Patches ![GitHub Repo Stars](https://img.shields.io/github/stars/cweagans/composer-patches) ![GitHub last commit](https://img.shields.io/github/last-commit/cweagans/composer-patches)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+* [Composer Prefer Lowest Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/composer-prefer-lowest) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/composer-prefer-lowest)](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
 * [Composer Require Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/maglnet/ComposerRequireChecker) ![GitHub last commit](https://img.shields.io/github/last-commit/maglnet/ComposerRequireChecker)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 * [Composer Unused ![GitHub Repo Stars](https://img.shields.io/github/stars/composer-unused/composer-unused) ![GitHub last commit](https://img.shields.io/github/last-commit/composer-unused/composer-unused)](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
-* [Prestissimo ![GitHub Repo Stars](https://img.shields.io/github/stars/hirak/prestissimo) ![GitHub last commit](https://img.shields.io/github/last-commit/hirak/prestissimo)](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
 * [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
 * [Satis ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/satis) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/satis)](https://github.com/composer/satis) - A static Composer repository generator.
-* [Tooly ![GitHub Repo Stars](https://img.shields.io/github/stars/tommy-muehle/tooly-composer-script) ![GitHub last commit](https://img.shields.io/github/last-commit/tommy-muehle/tooly-composer-script)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
-* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
+* [Tooly ![GitHub Repo Stars](https://img.shields.io/github/stars/tommy-muehle/tooly-composer-script) ![GitHub last commit](https://img.shields.io/github/last-commit/tommy-muehle/tooly-composer-script)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
+* [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
 ### Frameworks
 *Web development frameworks.*
 
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
+* [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-* [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
+* [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Yii2 ![GitHub Repo Stars](https://img.shields.io/github/stars/yiisoft/yii2) ![GitHub last commit](https://img.shields.io/github/last-commit/yiisoft/yii2)](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
@@ -136,24 +137,23 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [CakePHP CRUD ![GitHub Repo Stars](https://img.shields.io/github/stars/friendsofcake/crud) ![GitHub last commit](https://img.shields.io/github/last-commit/friendsofcake/crud)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 * [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
-* [LaravelS ![GitHub Repo Stars](https://img.shields.io/github/stars/hhxsv5/laravel-s) ![GitHub last commit](https://img.shields.io/github/last-commit/hhxsv5/laravel-s)](https://github.com/hhxsv5/laravel-s) - Glue for using Swoole in Laravel or Lumen.
-* [Symfony CMF ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony-cmf/symfony-cmf) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony-cmf/symfony-cmf)](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
-* [Livewire](https://laravel-livewire.com/) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+* [LaravelS ![GitHub Repo Stars](https://img.shields.io/github/stars/hhxsv5/laravel-s) ![GitHub last commit](https://img.shields.io/github/last-commit/hhxsv5/laravel-s)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
+* [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
 ### Content Management Systems (CMS)
 *Tools for managing digital content.*
 
-* [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
+* [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 * [CraftCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/craftcms/cms) ![GitHub last commit](https://img.shields.io/github/last-commit/craftcms/cms)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav ![GitHub Repo Stars](https://img.shields.io/github/stars/getgrav/grav) ![GitHub last commit](https://img.shields.io/github/last-commit/getgrav/grav)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
-* [Magento](https://business.adobe.com/products/magento/magento-commerce.html) - The most popular ecommerce platform.
+* [Magento](https://business.adobe.com/products/magento/magento-commerce.html) - The most popular e-commerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
-* [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+* [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Components
@@ -163,7 +163,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-* [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages.
+* [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 * [Symfony Components](https://symfony.com/components) - The components that make Symfony.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
@@ -228,8 +228,8 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Scraping
 *Libraries for scraping websites.*
 
-* [Chrome PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/chrome-php/chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/chrome-php/chrome)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP. 
-* [DiDOM ![GitHub Repo Stars](https://img.shields.io/github/stars/Imangazaliev/DiDOM) ![GitHub last commit](https://img.shields.io/github/last-commit/Imangazaliev/DiDOM)](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
+* [Chrome PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/chrome-php/chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/chrome-php/chrome)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+* [DiDOM ![GitHub Repo Stars](https://img.shields.io/github/stars/Imangazaliev/DiDOM) ![GitHub last commit](https://img.shields.io/github/last-commit/Imangazaliev/DiDOM)](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 * [Embed ![GitHub Repo Stars](https://img.shields.io/github/stars/oscarotero/Embed) ![GitHub last commit](https://img.shields.io/github/last-commit/oscarotero/Embed)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/Goutte) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/Goutte)](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [Symfony Panther ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/panther) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/panther)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
@@ -277,7 +277,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Streams
 *Libraries for working with streams.*
 
-* [ByteStream](https://amphp.org/byte-stream/) - An asynchronous stream abstraction.
+* [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
 * [Streamer ![GitHub Repo Stars](https://img.shields.io/github/stars/fzaninotto/Streamer) ![GitHub last commit](https://img.shields.io/github/last-commit/fzaninotto/Streamer)](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 ### Dependency Injection
@@ -320,11 +320,11 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Mockery ![GitHub Repo Stars](https://img.shields.io/github/stars/mockery/mockery) ![GitHub last commit](https://img.shields.io/github/last-commit/mockery/mockery)](https://github.com/mockery/mockery) - A mock object library for testing.
 * [ParaTest ![GitHub Repo Stars](https://img.shields.io/github/stars/paratestphp/paratest) ![GitHub last commit](https://img.shields.io/github/last-commit/paratestphp/paratest)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
-* [Peridot ![GitHub Repo Stars](https://img.shields.io/github/stars/peridot-php/peridot) ![GitHub last commit](https://img.shields.io/github/last-commit/peridot-php/peridot)](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Peridot ![GitHub Repo Stars](https://img.shields.io/github/stars/peridot-php/peridot) ![GitHub last commit](https://img.shields.io/github/last-commit/peridot-php/peridot)](https://github.com/peridot-php/peridot) - An event-driven test framework.
 * [Phake ![GitHub Repo Stars](https://img.shields.io/github/stars/phake/phake) ![GitHub last commit](https://img.shields.io/github/last-commit/phake/phake)](https://github.com/phake/phake) - Another mock object library for testing.
-* [Pho ![GitHub Repo Stars](https://img.shields.io/github/stars/danielstjules/pho) ![GitHub last commit](https://img.shields.io/github/last-commit/danielstjules/pho)](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
+* [Pho ![GitHub Repo Stars](https://img.shields.io/github/stars/danielstjules/pho) ![GitHub last commit](https://img.shields.io/github/last-commit/danielstjules/pho)](https://github.com/danielstjules/pho) - Another behavior-driven development testing framework.
 * [PHP-Mock ![GitHub Repo Stars](https://img.shields.io/github/stars/php-mock/php-mock) ![GitHub last commit](https://img.shields.io/github/last-commit/php-mock/php-mock)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
-* [PHP MySQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/vimeo/php-mysql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/vimeo/php-mysql-engine)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP. 
+* [PHP MySQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/vimeo/php-mysql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/vimeo/php-mysql-engine)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 * [PHPSpec ![GitHub Repo Stars](https://img.shields.io/github/stars/phpspec/phpspec) ![GitHub last commit](https://img.shields.io/github/last-commit/phpspec/phpspec)](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpunit) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpunit)](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
@@ -335,20 +335,20 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries and applications for continuous integration.*
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
-* [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+* [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 * [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
 * [JoliCi ![GitHub Repo Stars](https://img.shields.io/github/stars/jolicode/JoliCi) ![GitHub last commit](https://img.shields.io/github/last-commit/jolicode/JoliCi)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
-* [PHPCI ![GitHub Repo Stars](https://img.shields.io/github/stars/dancryer/phpci) ![GitHub last commit](https://img.shields.io/github/last-commit/dancryer/phpci)](https://github.com/dancryer/phpci) - An open source continuous integration platform for PHP.
-* [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
-* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continious integration platform for open source and private projects.
-* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [PHPCI ![GitHub Repo Stars](https://img.shields.io/github/stars/dancryer/phpci) ![GitHub last commit](https://img.shields.io/github/last-commit/dancryer/phpci)](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
+* [SemaphoreCI](https://semaphoreci.com) - A continuous integration platform for open-source and private projects.
+* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continuous integration platform for open source and private projects.
+* [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
 * [Setup PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/shivammathur/setup-php) ![GitHub last commit](https://img.shields.io/github/last-commit/shivammathur/setup-php)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Documentation
 *Libraries for generating project documentation.*
 
 * [APIGen ![GitHub Repo Stars](https://img.shields.io/github/stars/apigen/apigen) ![GitHub last commit](https://img.shields.io/github/last-commit/apigen/apigen)](https://github.com/apigen/apigen) - Another API documentation generator.
-* [daux.io ![GitHub Repo Stars](https://img.shields.io/github/stars/dauxio/daux.io) ![GitHub last commit](https://img.shields.io/github/last-commit/dauxio/daux.io)](https://github.com/dauxio/daux.io) - A documentation generator which uses Markdown files.
+* [daux.io ![GitHub Repo Stars](https://img.shields.io/github/stars/dauxio/daux.io) ![GitHub last commit](https://img.shields.io/github/last-commit/dauxio/daux.io)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 * [PHP Documentor 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/phpDocumentor)](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
 * [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [zircote/swagger-php ![GitHub Repo Stars](https://img.shields.io/github/stars/zircote/swagger-php) ![GitHub last commit](https://img.shields.io/github/last-commit/zircote/swagger-php)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
@@ -362,15 +362,15 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/jenssegers/optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/jenssegers/optimus)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [PHPGGC ![GitHub Repo Stars](https://img.shields.io/github/stars/ambionics/phpggc) ![GitHub last commit](https://img.shields.io/github/last-commit/ambionics/phpggc)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 * [PHP Encryption ![GitHub Repo Stars](https://img.shields.io/github/stars/defuse/php-encryption) ![GitHub last commit](https://img.shields.io/github/last-commit/defuse/php-encryption)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-* [PHP SSH ![GitHub Repo Stars](https://img.shields.io/github/stars/Herzult/php-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/Herzult/php-ssh)](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
-* [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
+* [PHP SSH ![GitHub Repo Stars](https://img.shields.io/github/stars/Herzult/php-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/Herzult/php-ssh)](https://github.com/Herzult/php-ssh) - An experimental object-orientated SSH wrapper library.
+* [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
 * [random_compat ![GitHub Repo Stars](https://img.shields.io/github/stars/paragonie/random_compat) ![GitHub last commit](https://img.shields.io/github/last-commit/paragonie/random_compat)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [RandomLib ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/RandomLib) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/RandomLib)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
-* [SQLMap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool. 
+* [SQLMap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [TCrypto ![GitHub Repo Stars](https://img.shields.io/github/stars/timoh6/TCrypto) ![GitHub last commit](https://img.shields.io/github/last-commit/timoh6/TCrypto)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-* [Zap](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
+* [Zap ![GitHub Repo Stars](https://img.shields.io/github/stars/OWASP/www-project-zap) ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/www-project-zap)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -398,14 +398,14 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Qafoo Quality Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/Qafoo/QualityAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/Qafoo/QualityAnalyzer)](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 * [Rector ![GitHub Repo Stars](https://img.shields.io/github/stars/rectorphp/rector) ![GitHub last commit](https://img.shields.io/github/last-commit/rectorphp/rector)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code ![GitHub Repo Stars](https://img.shields.io/github/stars/scrutinizer-ci/php-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/scrutinizer-ci/php-analyzer)](https://github.com/scrutinizer-ci/php-analyzer).
-* [UBench ![GitHub Repo Stars](https://img.shields.io/github/stars/devster/ubench) ![GitHub last commit](https://img.shields.io/github/last-commit/devster/ubench)](https://github.com/devster/ubench) - A simple micro benchmark library.
+* [UBench ![GitHub Repo Stars](https://img.shields.io/github/stars/devster/ubench) ![GitHub last commit](https://img.shields.io/github/last-commit/devster/ubench)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Code Quality
 *Libraries for managing code quality, formatting and linting.*
 
-* [CaptainHook ![GitHub Repo Stars](https://img.shields.io/github/stars/captainhookphp/captainhook) ![GitHub last commit](https://img.shields.io/github/last-commit/captainhookphp/captainhook)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library. 
+* [CaptainHook ![GitHub Repo Stars](https://img.shields.io/github/stars/captainhookphp/captainhook) ![GitHub last commit](https://img.shields.io/github/last-commit/captainhookphp/captainhook)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 * [PHP CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
-* [PHP CS Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/PHP-CS-Fixer)](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
+* [PHP CS Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHP-CS-Fixer/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHP-CS-Fixer/PHP-CS-Fixer)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 * [PHP Mess Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/phpmd/phpmd) ![GitHub last commit](https://img.shields.io/github/last-commit/phpmd/phpmd)](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHPCheckstyle ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCheckstyle/phpcheckstyle) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCheckstyle/phpcheckstyle)](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpcpd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpcpd)](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
@@ -417,9 +417,9 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Deptrac ![GitHub Repo Stars](https://img.shields.io/github/stars/qossmic/deptrac) ![GitHub last commit](https://img.shields.io/github/last-commit/qossmic/deptrac)](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
 * [Mondrian ![GitHub Repo Stars](https://img.shields.io/github/stars/Trismegiste/Mondrian) ![GitHub last commit](https://img.shields.io/github/last-commit/Trismegiste/Mondrian)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [phan ![GitHub Repo Stars](https://img.shields.io/github/stars/phan/phan) ![GitHub last commit](https://img.shields.io/github/last-commit/phan/phan)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-* [PHP Architecture Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosas/phpat) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosas/phpat)](https://github.com/carlosas/phpat) - Easy to use architecture testing tool for PHP.
+* [PHP Architecture Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosas/phpat) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosas/phpat)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 * [PHPCompatibility ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCompatibility/PHPCompatibility) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCompatibility/PHPCompatibility)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
-* [PhpDependencyAnalysis ![GitHub Repo Stars](https://img.shields.io/github/stars/mamuz/PhpDependencyAnalysis) ![GitHub last commit](https://img.shields.io/github/last-commit/mamuz/PhpDependencyAnalysis)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PhpDependencyAnalysis ![GitHub Repo Stars](https://img.shields.io/github/stars/mamuz/PhpDependencyAnalysis) ![GitHub last commit](https://img.shields.io/github/last-commit/mamuz/PhpDependencyAnalysis)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 * [PHP Metrics ![GitHub Repo Stars](https://img.shields.io/github/stars/phpmetrics/PhpMetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/phpmetrics/PhpMetrics)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration ![GitHub Repo Stars](https://img.shields.io/github/stars/monque/PHP-Migration) ![GitHub last commit](https://img.shields.io/github/last-commit/monque/PHP-Migration)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHPStan ![GitHub Repo Stars](https://img.shields.io/github/stars/phpstan/phpstan) ![GitHub last commit](https://img.shields.io/github/last-commit/phpstan/phpstan)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
@@ -445,7 +445,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
 * [Kint ![GitHub Repo Stars](https://img.shields.io/github/stars/kint-php/kint) ![GitHub last commit](https://img.shields.io/github/last-commit/kint-php/kint)](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [Metrics ![GitHub Repo Stars](https://img.shields.io/github/stars/beberlei/metrics) ![GitHub last commit](https://img.shields.io/github/last-commit/beberlei/metrics)](https://github.com/beberlei/metrics) - A simple metrics API library.
-* [PCOV ![GitHub Repo Stars](https://img.shields.io/github/stars/krakjoe/pcov) ![GitHub last commit](https://img.shields.io/github/last-commit/krakjoe/pcov)](https://github.com/krakjoe/pcov) - A self contained code coverage compatible driver.
+* [PCOV ![GitHub Repo Stars](https://img.shields.io/github/stars/krakjoe/pcov) ![GitHub last commit](https://img.shields.io/github/last-commit/krakjoe/pcov)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 * [PHP Console ![GitHub Repo Stars](https://img.shields.io/github/stars/Seldaek/php-console) ![GitHub last commit](https://img.shields.io/github/last-commit/Seldaek/php-console)](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench ![GitHub Repo Stars](https://img.shields.io/github/stars/phpbench/phpbench) ![GitHub last commit](https://img.shields.io/github/last-commit/phpbench/phpbench)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
@@ -453,7 +453,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Symfony VarDumper ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/var-dumper) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/var-dumper)](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Tracy ![GitHub Repo Stars](https://img.shields.io/github/stars/nette/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/nette/tracy)](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
-* [Whoops ![GitHub Repo Stars](https://img.shields.io/github/stars/filp/whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/filp/whoops)](https://github.com/filp/whoops) - A pretty error handling library.
+* [Whoops ![GitHub Repo Stars](https://img.shields.io/github/stars/filp/whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/filp/whoops)](https://github.com/filp/whoops) - A pretty error-handling library.
 * [xDebug ![GitHub Repo Stars](https://img.shields.io/github/stars/xdebug/xdebug) ![GitHub last commit](https://img.shields.io/github/last-commit/xdebug/xdebug)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf ![GitHub Repo Stars](https://img.shields.io/github/stars/phacility/xhprof) ![GitHub last commit](https://img.shields.io/github/last-commit/phacility/xhprof)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
@@ -504,7 +504,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Carbon ![GitHub Repo Stars](https://img.shields.io/github/stars/briannesbitt/Carbon) ![GitHub last commit](https://img.shields.io/github/last-commit/briannesbitt/Carbon)](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Chronos ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/chronos) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/chronos)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 * [Moment.php ![GitHub Repo Stars](https://img.shields.io/github/stars/fightbulc/moment.php) ![GitHub last commit](https://img.shields.io/github/last-commit/fightbulc/moment.php)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
-* [Yasumi ![GitHub Repo Stars](https://img.shields.io/github/stars/azuyalabs/yasumi) ![GitHub last commit](https://img.shields.io/github/last-commit/azuyalabs/yasumi)](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
+* [Yasumi ![GitHub Repo Stars](https://img.shields.io/github/stars/azuyalabs/yasumi) ![GitHub last commit](https://img.shields.io/github/last-commit/azuyalabs/yasumi)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 ### Event
 *Libraries that are event-driven or implement non-blocking event loops.*
@@ -542,7 +542,9 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### PDF
 *Libraries and software for working with PDF files.*
 
+* [Browsershot ![GitHub Repo Stars](https://img.shields.io/github/stars/spatie/browsershot) ![GitHub last commit](https://img.shields.io/github/last-commit/spatie/browsershot)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
 * [Dompdf ![GitHub Repo Stars](https://img.shields.io/github/stars/dompdf/dompdf) ![GitHub last commit](https://img.shields.io/github/last-commit/dompdf/dompdf)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
+* [Gotenberg ![GitHub Repo Stars](https://img.shields.io/github/stars/gotenberg/gotenberg-php) ![GitHub last commit](https://img.shields.io/github/last-commit/gotenberg/gotenberg-php)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 * [PHPPdf ![GitHub Repo Stars](https://img.shields.io/github/stars/psliwa/PHPPdf) ![GitHub last commit](https://img.shields.io/github/last-commit/psliwa/PHPPdf)](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 * [Snappy ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/snappy) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/snappy)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/wkhtmltopdf/wkhtmltopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/wkhtmltopdf/wkhtmltopdf)](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
@@ -553,8 +555,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [PHPPowerPoint ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPOffice/PHPPresentation) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPOffice/PHPPresentation)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 * [PHPWord ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPOffice/PHPWord) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPOffice/PHPWord)](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPOffice/PhpSpreadsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPOffice/PhpSpreadsheet)](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
-* [Spout ![GitHub Repo Stars](https://img.shields.io/github/stars/box/spout) ![GitHub last commit](https://img.shields.io/github/last-commit/box/spout)](https://github.com/box/spout) - Read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way .
-
+* [OpenSpout ![GitHub Repo Stars](https://img.shields.io/github/stars/openspout/openspout) ![GitHub last commit](https://img.shields.io/github/last-commit/openspout/openspout)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 ### Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
@@ -586,7 +587,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with "NoSQL" backends.*
 
 * [PHPMongo ![GitHub Repo Stars](https://img.shields.io/github/stars/sokil/php-mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/sokil/php-mongo)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
-* [Predis ![GitHub Repo Stars](https://img.shields.io/github/stars/predis/predis) ![GitHub last commit](https://img.shields.io/github/last-commit/predis/predis)](https://github.com/predis/predis) - A feature complete Redis library.
+* [Predis ![GitHub Repo Stars](https://img.shields.io/github/stars/predis/predis) ![GitHub last commit](https://img.shields.io/github/last-commit/predis/predis)](https://github.com/predis/predis) - A feature-complete Redis library.
 
 ### Queue
 *Libraries for working with event and task queues.*
@@ -597,7 +598,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP AMQP ![GitHub Repo Stars](https://img.shields.io/github/stars/php-amqplib/php-amqplib) ![GitHub last commit](https://img.shields.io/github/last-commit/php-amqplib/php-amqplib)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue ![GitHub Repo Stars](https://img.shields.io/github/stars/tarantool-php/queue) ![GitHub last commit](https://img.shields.io/github/last-commit/tarantool-php/queue)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper ![GitHub Repo Stars](https://img.shields.io/github/stars/php-amqplib/Thumper) ![GitHub last commit](https://img.shields.io/github/last-commit/php-amqplib/Thumper)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
-* [Enqueue ![GitHub Repo Stars](https://img.shields.io/github/stars/php-enqueue/enqueue-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/php-enqueue/enqueue-dev)](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports. 
+* [Enqueue ![GitHub Repo Stars](https://img.shields.io/github/stars/php-enqueue/enqueue-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/php-enqueue/enqueue-dev)](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
 ### Search
 *Libraries and software for indexing and performing search queries on data.*
@@ -615,7 +616,7 @@ Libraries to help manage database schemas and migrations.
 * [Cilex ![GitHub Repo Stars](https://img.shields.io/github/stars/Cilex/Cilex) ![GitHub last commit](https://img.shields.io/github/last-commit/Cilex/Cilex)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLI Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/php-school/cli-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/php-school/cli-menu)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
 * [CLIFramework ![GitHub Repo Stars](https://img.shields.io/github/stars/c9s/CLIFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/c9s/CLIFramework)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
-* [CLImate ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/climate) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/climate)](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
+* [CLImate ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/climate) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/climate)](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
 * [Commando ![GitHub Repo Stars](https://img.shields.io/github/stars/nategood/commando) ![GitHub last commit](https://img.shields.io/github/last-commit/nategood/commando)](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [Cron Expression ![GitHub Repo Stars](https://img.shields.io/github/stars/mtdowling/cron-expression) ![GitHub last commit](https://img.shields.io/github/last-commit/mtdowling/cron-expression)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [GetOpt ![GitHub Repo Stars](https://img.shields.io/github/stars/getopt-php/getopt-php) ![GitHub last commit](https://img.shields.io/github/last-commit/getopt-php/getopt-php)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
@@ -635,7 +636,7 @@ Libraries to help manage database schemas and migrations.
 * [OAuth2 Server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 * [Opauth ![GitHub Repo Stars](https://img.shields.io/github/stars/opauth/opauth) ![GitHub last commit](https://img.shields.io/github/last-commit/opauth/opauth)](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [Paseto ![GitHub Repo Stars](https://img.shields.io/github/stars/paragonie/paseto) ![GitHub last commit](https://img.shields.io/github/last-commit/paragonie/paseto)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
-* [PHP oAuthLib ![GitHub Repo Stars](https://img.shields.io/github/stars/Lusitanian/PHPoAuthLib) ![GitHub last commit](https://img.shields.io/github/last-commit/Lusitanian/PHPoAuthLib)](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
+* [PHP oAuthLib ![GitHub Repo Stars](https://img.shields.io/github/stars/daviddesberg/PHPoAuthLib) ![GitHub last commit](https://img.shields.io/github/last-commit/daviddesberg/PHPoAuthLib)](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/abraham/twitteroauth) ![GitHub last commit](https://img.shields.io/github/last-commit/abraham/twitteroauth)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
@@ -643,7 +644,7 @@ Libraries to help manage database schemas and migrations.
 ### Markup and CSS
 *Libraries for working with markup and CSS formats.
 
-* [Cebe Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cebe/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cebe/markdown)](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
+* [Cebe Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cebe/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cebe/markdown)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 * [CommonMark PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/commonmark) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/commonmark)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda ![GitHub Repo Stars](https://img.shields.io/github/stars/milesj/decoda) ![GitHub last commit](https://img.shields.io/github/last-commit/milesj/decoda)](https://github.com/milesj/decoda) - A lightweight markup parser library.
 * [Essence ![GitHub Repo Stars](https://img.shields.io/github/stars/essence/essence) ![GitHub last commit](https://img.shields.io/github/last-commit/essence/essence)](https://github.com/essence/essence) - A library for extracting web media.
@@ -667,12 +668,12 @@ Libraries to help manage database schemas and migrations.
 
 * [Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/jenssegers/agent) ![GitHub last commit](https://img.shields.io/github/last-commit/jenssegers/agent)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 * [ANSI to HTML5 ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs/ansi-to-html) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs/ansi-to-html)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
-* [Color Jizz ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeemoo/ColorJizz-PHP) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeemoo/ColorJizz-PHP)](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
+* [Color Jizz ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeemoo/ColorJizz-PHP) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeemoo/ColorJizz-PHP)](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
 * [Device Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/matomo-org/device-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/matomo-org/device-detector)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 * [Jieba-PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/fukuball/jieba-php) ![GitHub last commit](https://img.shields.io/github/last-commit/fukuball/jieba-php)](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect ![GitHub Repo Stars](https://img.shields.io/github/stars/serbanghita/Mobile-Detect) ![GitHub last commit](https://img.shields.io/github/last-commit/serbanghita/Mobile-Detect)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/nicolas-grekas/Patchwork-UTF8) ![GitHub last commit](https://img.shields.io/github/last-commit/nicolas-grekas/Patchwork-UTF8)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-* [Portable ASCII ![GitHub Repo Stars](https://img.shields.io/github/stars/voku/portable-ascii) ![GitHub last commit](https://img.shields.io/github/last-commit/voku/portable-ascii)](https://github.com/voku/portable-ascii) - A library to convert strings to ascii.
+* [Portable ASCII ![GitHub Repo Stars](https://img.shields.io/github/stars/voku/portable-ascii) ![GitHub last commit](https://img.shields.io/github/last-commit/voku/portable-ascii)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 * [Portable UTF-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/voku/portable-utf8) ![GitHub last commit](https://img.shields.io/github/last-commit/voku/portable-utf8)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 * [Slugify ![GitHub Repo Stars](https://img.shields.io/github/stars/cocur/slugify) ![GitHub last commit](https://img.shields.io/github/last-commit/cocur/slugify)](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/jdorn/sql-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/jdorn/sql-formatter)](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
@@ -686,12 +687,12 @@ Libraries to help manage database schemas and migrations.
 
 * [Brick\Math ![GitHub Repo Stars](https://img.shields.io/github/stars/brick/math) ![GitHub last commit](https://img.shields.io/github/last-commit/brick/math)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [ByteUnits ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielelana/byte-units) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielelana/byte-units)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
-* [DecimalObject ![GitHub Repo Stars](https://img.shields.io/github/stars/spryker/decimal-object) ![GitHub last commit](https://img.shields.io/github/last-commit/spryker/decimal-object)](https://github.com/spryker/decimal-object) - A value object to handle decimals/floats easily and more precisely.
+* [DecimalObject ![GitHub Repo Stars](https://img.shields.io/github/stars/php-collective/decimal-object) ![GitHub last commit](https://img.shields.io/github/last-commit/php-collective/decimal-object)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 * [IP ![GitHub Repo Stars](https://img.shields.io/github/stars/darsyn/ip) ![GitHub last commit](https://img.shields.io/github/last-commit/darsyn/ip)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
 * [LibPhoneNumber for PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/giggsey/libphonenumber-for-php) ![GitHub last commit](https://img.shields.io/github/last-commit/giggsey/libphonenumber-for-php)](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion ![GitHub Repo Stars](https://img.shields.io/github/stars/Crisu83/php-conversion) ![GitHub last commit](https://img.shields.io/github/last-commit/Crisu83/php-conversion)](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure ![GitHub Repo Stars](https://img.shields.io/github/stars/triplepoint/php-units-of-measure) ![GitHub last commit](https://img.shields.io/github/last-commit/triplepoint/php-units-of-measure)](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
-* [MathPHP ![GitHub Repo Stars](https://img.shields.io/github/stars/markrogoyski/math-php) ![GitHub last commit](https://img.shields.io/github/last-commit/markrogoyski/math-php)](https://github.com/markrogoyski/math-php) - A math library for PHP. 
+* [MathPHP ![GitHub Repo Stars](https://img.shields.io/github/stars/markrogoyski/math-php) ![GitHub last commit](https://img.shields.io/github/last-commit/markrogoyski/math-php)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
@@ -700,7 +701,7 @@ Libraries to help manage database schemas and migrations.
 * [Aura.Filter ![GitHub Repo Stars](https://img.shields.io/github/stars/auraphp/Aura.Filter) ![GitHub last commit](https://img.shields.io/github/last-commit/auraphp/Aura.Filter)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [CakePHP Validation ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/validation) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/validation)](https://github.com/cakephp/validation) - Another validation library.
 * [Filterus ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/filterus) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/filterus)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [ISO-codes ![GitHub Repo Stars](https://img.shields.io/github/stars/ronanguilloux/IsoCodes) ![GitHub last commit](https://img.shields.io/github/last-commit/ronanguilloux/IsoCodes)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
+* [ISO-codes ![GitHub Repo Stars](https://img.shields.io/github/stars/ronanguilloux/IsoCodes) ![GitHub last commit](https://img.shields.io/github/last-commit/ronanguilloux/IsoCodes)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [JSON Schema ![GitHub Repo Stars](https://img.shields.io/github/stars/justinrainbow/json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/justinrainbow/json-schema)](https://github.com/justinrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 * [MetaYaml ![GitHub Repo Stars](https://img.shields.io/github/stars/romaricdrigon/MetaYaml) ![GitHub last commit](https://img.shields.io/github/last-commit/romaricdrigon/MetaYaml)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation ![GitHub Repo Stars](https://img.shields.io/github/stars/Respect/Validation) ![GitHub last commit](https://img.shields.io/github/last-commit/Respect/Validation)](https://github.com/Respect/Validation) - A simple validation library.
@@ -711,7 +712,7 @@ Libraries to help manage database schemas and migrations.
 ### API
 *Libraries and web tools for developing APIs.*
 
-* [API Platform](https://api-platform.com ) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
+* [API Platform](https://api-platform.com ) - Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format.
 * [Laminas API Tool Skeleton ![GitHub Repo Stars](https://img.shields.io/github/stars/laminas-api-tools/api-tools-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/laminas-api-tools/api-tools-skeleton)](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
 * [Drest ![GitHub Repo Stars](https://img.shields.io/github/stars/leedavis81/drest) ![GitHub last commit](https://img.shields.io/github/last-commit/leedavis81/drest)](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 * [HAL ![GitHub Repo Stars](https://img.shields.io/github/stars/blongden/hal) ![GitHub last commit](https://img.shields.io/github/last-commit/blongden/hal)](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
@@ -724,7 +725,7 @@ Libraries to help manage database schemas and migrations.
 ### Caching and Locking
 *Libraries for caching data and acquiring locks.*
 
-* [APIx Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/apix/cache) ![GitHub last commit](https://img.shields.io/github/last-commit/apix/cache)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
+* [APIx Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/apix/cache) ![GitHub last commit](https://img.shields.io/github/last-commit/apix/cache)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
 * [CacheTool ![GitHub Repo Stars](https://img.shields.io/github/stars/gordalina/cachetool) ![GitHub last commit](https://img.shields.io/github/last-commit/gordalina/cachetool)](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [CakePHP Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/cache) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/cache)](https://github.com/cakephp/cache) - A caching library.
 * [Doctrine Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/doctrine/cache) ![GitHub last commit](https://img.shields.io/github/last-commit/doctrine/cache)](https://github.com/doctrine/cache) - A caching library.
@@ -744,7 +745,7 @@ Libraries to help manage database schemas and migrations.
 * [Knapsack ![GitHub Repo Stars](https://img.shields.io/github/stars/DusanKasan/Knapsack) ![GitHub last commit](https://img.shields.io/github/last-commit/DusanKasan/Knapsack)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 * [msgpack.php ![GitHub Repo Stars](https://img.shields.io/github/stars/rybakit/msgpack.php) ![GitHub last commit](https://img.shields.io/github/last-commit/rybakit/msgpack.php)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 * [PINQ ![GitHub Repo Stars](https://img.shields.io/github/stars/TimeToogo/Pinq) ![GitHub last commit](https://img.shields.io/github/last-commit/TimeToogo/Pinq)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-* [Serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/schmittjoh/serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/schmittjoh/serializer)](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
+* [Serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/schmittjoh/serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/schmittjoh/serializer)](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
 * [YaLinqo ![GitHub Repo Stars](https://img.shields.io/github/stars/Athari/YaLinqo) ![GitHub last commit](https://img.shields.io/github/last-commit/Athari/YaLinqo)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Laminas Serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/laminas/laminas-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/laminas/laminas-serializer)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
@@ -783,7 +784,7 @@ Libraries to help manage database schemas and migrations.
 
 * [PHP Dotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/vlucas/phpdotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/vlucas/phpdotenv)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/dotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/dotenv)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-* [Yo! Symfony TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/yosymfony/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/yosymfony/toml)](https://github.com/yosymfony/toml) - A PHP parser for [TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/toml-lang/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/toml-lang/toml)](https://github.com/toml-lang/toml). 
+* [Yo! Symfony TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/yosymfony/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/yosymfony/toml)](https://github.com/yosymfony/toml) - A PHP parser for [TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/toml-lang/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/toml-lang/toml)](https://github.com/toml-lang/toml).
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -807,8 +808,8 @@ Libraries to help manage database schemas and migrations.
 *Useful libraries or utilities that don't fit into the categories above.*
 
 * [Annotations ![GitHub Repo Stars](https://img.shields.io/github/stars/doctrine/annotations) ![GitHub last commit](https://img.shields.io/github/last-commit/doctrine/annotations)](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
-* [BotMan ![GitHub Repo Stars](https://img.shields.io/github/stars/botman/botman) ![GitHub last commit](https://img.shields.io/github/last-commit/botman/botman)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
-* [ClassPreloader ![GitHub Repo Stars](https://img.shields.io/github/stars/ClassPreloader/ClassPreloader) ![GitHub last commit](https://img.shields.io/github/last-commit/ClassPreloader/ClassPreloader)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
+* [BotMan ![GitHub Repo Stars](https://img.shields.io/github/stars/botman/botman) ![GitHub last commit](https://img.shields.io/github/last-commit/botman/botman)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
+* [ClassPreloader ![GitHub Repo Stars](https://img.shields.io/github/stars/ClassPreloader/ClassPreloader) ![GitHub last commit](https://img.shields.io/github/last-commit/ClassPreloader/ClassPreloader)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 * [Hprose-PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/hprose/hprose-php) ![GitHub last commit](https://img.shields.io/github/last-commit/hprose/hprose-php)](https://github.com/hprose/hprose-php) - A cross-language RPC.
 * [noCAPTCHA ![GitHub Repo Stars](https://img.shields.io/github/stars/ARCANEDEV/noCAPTCHA) ![GitHub last commit](https://img.shields.io/github/last-commit/ARCANEDEV/noCAPTCHA)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta ![GitHub Repo Stars](https://img.shields.io/github/stars/whiteoctober/Pagerfanta) ![GitHub last commit](https://img.shields.io/github/last-commit/whiteoctober/Pagerfanta)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
@@ -826,7 +827,6 @@ Libraries to help manage database schemas and migrations.
 * [Laravel Valet](https://laravel.com/docs/master/valet) - A development environment for macOS.
 * [PHP Brew ![GitHub Repo Stars](https://img.shields.io/github/stars/phpbrew/phpbrew) ![GitHub last commit](https://img.shields.io/github/last-commit/phpbrew/phpbrew)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 * [PHP Build ![GitHub Repo Stars](https://img.shields.io/github/stars/php-build/php-build) ![GitHub last commit](https://img.shields.io/github/last-commit/php-build/php-build)](https://github.com/php-build/php-build) - Another PHP version installer.
-* [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
 
 ### Development Environment
 *Software and tools for creating and sharing a development environment.*
@@ -834,11 +834,11 @@ Libraries to help manage database schemas and migrations.
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Docker PHP Extension Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/mlocati/docker-php-extension-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/mlocati/docker-php-extension-installer)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
-* [Expose ![GitHub Repo Stars](https://img.shields.io/github/stars/beyondcode/expose) ![GitHub last commit](https://img.shields.io/github/last-commit/beyondcode/expose)](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
+* [Expose ![GitHub Repo Stars](https://img.shields.io/github/stars/beyondcode/expose) ![GitHub last commit](https://img.shields.io/github/last-commit/beyondcode/expose)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
-* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
+* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
-* [Puppet](https://puppet.com/) - A server automation framework and application.
+* [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Takeout ![GitHub Repo Stars](https://img.shields.io/github/stars/tighten/takeout) ![GitHub last commit](https://img.shields.io/github/last-commit/tighten/takeout)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
@@ -884,7 +884,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Websites
 *Useful PHP-related websites.*
 
-* [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [Laravel News](https://laravel-news.com/) - The official Laravel blog.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
@@ -906,7 +905,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
-* [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
+* [Mastering Object-Orientated PHP](https://brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
 * [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
@@ -931,11 +930,18 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
 
-* [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+* [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+* [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
 * [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
-* [PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
+* [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+* [php[podcast] episodes from php[architect]](https://www.phparch.com/podcast/) - The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+* [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+* [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+* [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
+* [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
@@ -951,6 +957,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Reading materials related to the PHP internals or performance.*
 
 * [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
-* [Externals](https://externals.io/) - PHP internal discussions. 
+* [Externals](https://externals.io/) - PHP internal discussions.
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
