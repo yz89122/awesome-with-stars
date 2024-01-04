@@ -609,6 +609,7 @@ Services to securely store your Docker images.
 -   [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 -   [Skipper ![GitHub Repo Stars](https://img.shields.io/github/stars/Stratoscale/skipper) ![GitHub last commit](https://img.shields.io/github/last-commit/Stratoscale/skipper)](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository by [@Stratoscale](https://github.com/Stratoscale)
 -   [SwarmCI ![GitHub Repo Stars](https://img.shields.io/github/stars/ghostsquad/swarmci) ![GitHub last commit](https://img.shields.io/github/last-commit/ghostsquad/swarmci)](https://github.com/ghostsquad/swarmci) - Create a distributed, isolated task pipeline in your Docker Swarm.
+-   [Tekton CD](https://tekton.dev/) - A cloud-native pipeline resource.
 -   [Watchtower ![GitHub Repo Stars](https://img.shields.io/github/stars/containrrr/watchtower) ![GitHub last commit](https://img.shields.io/github/last-commit/containrrr/watchtower)](https://github.com/containrrr/watchtower) - Automatically update running Docker containers
 
 ### Development Environment
