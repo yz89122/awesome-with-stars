@@ -351,6 +351,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [daux.io ![GitHub Repo Stars](https://img.shields.io/github/stars/dauxio/daux.io) ![GitHub last commit](https://img.shields.io/github/last-commit/dauxio/daux.io)](https://github.com/dauxio/daux.io) - A documentation generator which uses Markdown files.
 * [PHP Documentor 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/phpDocumentor)](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
 * [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [zircote/swagger-php ![GitHub Repo Stars](https://img.shields.io/github/stars/zircote/swagger-php) ![GitHub last commit](https://img.shields.io/github/last-commit/zircote/swagger-php)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
 ### Security
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
