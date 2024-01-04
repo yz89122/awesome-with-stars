@@ -1109,6 +1109,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Preconfigured Configuration
 
+- [pgosar/CyberNvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pgosar/CyberNvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pgosar/CyberNvim)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 - [sontungexpt/stinvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sontungexpt/stinvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sontungexpt/stinvim)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 - [Abstract-IDE/Abstract ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstract-IDE/Abstract) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstract-IDE/Abstract)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
 - [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim.
