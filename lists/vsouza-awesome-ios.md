@@ -12,168 +12,8 @@
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 <p>
-  
+
 </p>
-
-## Contents
-
-- [Accessibility](#accessibility)
-- [Alexa](#alexa)
-- [Analytics](#analytics)
-- [App Routing](#app-routing)
-- [Apple TV](#apple-tv)
-- [Architecture Patterns](#architecture-patterns)
-- [ARKit](#arkit)
-- [Authentication](#authentication)
-- [Blockchain](#blockchain)
-- [Bridging](#bridging)
-- [Cache](#cache)
-- [Charts](#charts)
-- [Code Quality](#code-quality)
-    - [Linter](#linter)
-- [Color](#color)
-- [Command Line](#command-line)
-- [Concurrency](#concurrency)
-- [Core Data](#core-data)
-- [Courses](#courses)
-- [Database](#database)
-- [Data Structures / Algorithms](#data-structures--algorithms)
-- [Date & Time](#date--time)
-- [Debugging](#debugging)
-- [EventBus](#eventbus)
-- [Files](#files)
-- [Functional Programming](#functional-programming)
-- [Games](#games)
-- [GCD](#gcd)
-- [Gesture](#gesture)
-- [Graphics](#graphics)
-- [Hardware](#hardware)
-    - [Bluetooth](#bluetooth)
-    - [Camera](#camera)
-    - [Force Touch](#force-touch)
-    - [iBeacon](#ibeacon)
-    - [Location](#location)
-    - [Other Hardware](#other-hardware)
-- [Layout](#layout)
-- [Logging](#logging)
-- [Localization](#localization)
-- [Machine Learning](#machine-learning)
-- [Maps](#maps)
-- [Math](#math)
-- [Media](#media)
-    - [Audio](#audio)
-    - [GIF](#gif)
-    - [Image](#image)
-    - [Media Processing](#media-processing)
-    - [PDF](#pdf)
-    - [Streaming](#streaming)
-    - [Video](#video)
-- [Messaging](#messaging)
-- [Networking](#networking)
-- [Notifications](#notifications)
-    - [Push Notifications](#push-notifications)
-        - [Push Notification Providers](#push-notification-providers)
-    - [Local Notifications](#local-notifications)
-- [Objective-C Runtime](#objective-c-runtime)
-- [Optimization](#optimization)
-- [Parsing](#parsing)
-    - [CSV](#csv)
-    - [JSON](#json)
-    - [XML & HTML](#xml--html)
-    - [Other Parsing](#other-parsing)
-- [Passbook](#passbook)
-- [Payments](#payments)
-- [Permissions](#permissions)
-- [Products](#products)
-- [Reactive Programming](#reactive-programming)
-    - [React-Like](#react-like)
-- [Reflection](#reflection)
-- [Regex](#regex)
-- [SDK](#sdk)
-    - [Official](#official)
-    - [Unofficial](#unofficial)
-- [Security](#security)
-    - [Encryption](#encryption)
-    - [Keychain](#keychain)
-- [Server](#server)
-- [Testing](#testing)
-    - [TDD / BDD](#tdd--bdd)
-    - [A/B Testing](#ab-testing)
-    - [UI Testing](#ui-testing)
-    - [Other Testing](#other-testing)
-- [Text](#text)
-    - [Font](#font)
-- [UI](#ui)
-    - [Activity Indicator](#activity-indicator)
-    - [Alert & Action Sheet](#alert--action-sheet)
-    - [Animation](#animation)
-      - [Transition](#transition)
-    - [Badge](#badge)
-    - [Button](#button)
-    - [Calendar](#calendar)
-    - [Cards](#cards)
-    - [Form & Settings](#form--settings)
-    - [Keyboard](#keyboard)
-    - [Label](#label)
-    - [Login](#login)
-    - [Menu](#menu)
-    - [Navigation Bar](#navigation-bar)
-    - [PickerView](#pickerview)
-    - [Popup](#popup)
-    - [Pull to Refresh](#pull-to-refresh)
-    - [Rating Stars](#rating-stars)
-    - [ScrollView](#scrollview)
-    - [Segmented Control](#segmented-control)
-    - [Slider](#slider)
-    - [Splash View](#splash-view)
-    - [Status Bar](#status-bar)
-    - [Stepper](#stepper)
-    - [Switch](#switch)
-    - [Tab Bar](#tab-bar)
-    - [Table View / Collection View](#table-view--collection-view)
-      - [Table View](#table-view)
-      - [Collection View](#collection-view)
-      - [Expandable Cell](#expandable-cell)
-      - [Header](#header)
-      - [Placeholder](#placeholder)
-      - [Collection View Layout](#collection-view-layout)
-    - [Tag](#tag)
-    - [TextField & TextView](#textfield--textview)
-    - [UIPageControl](#uipagecontrol)
-    - [Web View](#web-view)
-- [Utility](#utility)
-- [User Consent](#user-consent)
-- [VR](#vr)
-- [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
-- [Websocket](#websocket)
-- [Project setup](#project-setup)
-- [Dependency / Package Manager](#dependency--package-manager)
-- [Tools](#tools)
-- [Rapid Development](#rapid-development)
-  - [Injection](#injection)
-- [Deployment / Distribution](#deployment--distribution)
-- [App Store](#app-store)
-- [Xcode](#xcode)
-    - [Extensions (Xcode 8+)](#extensions-xcode-8)
-    - [Themes](#themes)
-    - [Other Xcode](#other-xcode)
-- [Reference](#reference)
-- [Style Guides](#style-guides)
-- [Good Websites](#good-websites)
-    - [News, Blogs and more](#news-blogs-and-more)
-    - [UIKit references](#uikit-references)
-    - [Forums and discuss lists](#forums-and-discuss-lists)
-    - [Tutorials and Keynotes](#tutorials-and-keynotes)
-    - [Prototyping](#prototyping)
-    - [Newsletters](#newsletters)
-    - [Medium](#medium)
-- [Social Media](#social-media)
-  - [Twitter](#twitter)
-  - [Facebook Groups](#facebook-groups)
-- [Podcasts](#podcasts)
-- [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing-and-license)
 
 ## Accessibility
 
@@ -181,15 +21,11 @@
 
 - [Capable ![GitHub Repo Stars](https://img.shields.io/github/stars/chrs1885/Capable) ![GitHub last commit](https://img.shields.io/github/last-commit/chrs1885/Capable)](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
 
-**[back to top](#contents)**
-
 ## Alexa
 
 *Frameworks that help to support writing custom alexa skills in swift*
 
 - [AlexaSkillsKit ![GitHub Repo Stars](https://img.shields.io/github/stars/choefele/AlexaSkillsKit) ![GitHub last commit](https://img.shields.io/github/last-commit/choefele/AlexaSkillsKit)](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills.
-
-**[back to top](#contents)**
 
 ## Analytics
 
@@ -211,8 +47,6 @@
 - [Segment ![GitHub Repo Stars](https://img.shields.io/github/stars/segmentio/analytics-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/segmentio/analytics-ios)](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
 - [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 - [Shake](https://www.shakebugs.com/) - In-app feedback and bug reporting tool. Fix app bugs up to 50x faster with detailed device data, repro steps, video recording, black box data, network requests and custom logging.
-
-**[back to top](#contents)**
 
 ## App Routing
 
@@ -240,8 +74,6 @@
 - [WAAppRouting ![GitHub Repo Stars](https://img.shields.io/github/stars/Wasappli/WAAppRouting) ![GitHub last commit](https://img.shields.io/github/last-commit/Wasappli/WAAppRouting)](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
 - [ZIKRouter ![GitHub Repo Stars](https://img.shields.io/github/stars/Zuikyo/ZIKRouter) ![GitHub last commit](https://img.shields.io/github/last-commit/Zuikyo/ZIKRouter)](https://github.com/Zuikyo/ZIKRouter) - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
 
-**[back to top](#contents)**
-
 ## Apple TV
 
 *tvOS view controllers, wrappers, template managers and video players.*
@@ -256,8 +88,6 @@
 - [TvOSSlider ![GitHub Repo Stars](https://img.shields.io/github/stars/zattoo/TvOSSlider) ![GitHub last commit](https://img.shields.io/github/last-commit/zattoo/TvOSSlider)](https://github.com/zattoo/TvOSSlider) - TvOSSlider is an implementation of UISlider for tvOS.
 - [TvOSTextViewer ![GitHub Repo Stars](https://img.shields.io/github/stars/dcordero/TvOSTextViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/dcordero/TvOSTextViewer)](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text
 - [XCDYouTubeKit ![GitHub Repo Stars](https://img.shields.io/github/stars/0xced/XCDYouTubeKit) ![GitHub last commit](https://img.shields.io/github/last-commit/0xced/XCDYouTubeKit)](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS.
-
-**[back to top](#contents)**
 
 ## Architecture Patterns
 
@@ -1003,12 +833,9 @@
 - [SwiftyTextTable ![GitHub Repo Stars](https://img.shields.io/github/stars/scottrhoyt/SwiftyTextTable) ![GitHub last commit](https://img.shields.io/github/last-commit/scottrhoyt/SwiftyTextTable)](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight tool for generating text tables.
 - [Watchdog ![GitHub Repo Stars](https://img.shields.io/github/stars/wojteklu/Watchdog) ![GitHub last commit](https://img.shields.io/github/last-commit/wojteklu/Watchdog)](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
 - [XCGLogger ![GitHub Repo Stars](https://img.shields.io/github/stars/DaveWoodCom/XCGLogger) ![GitHub last commit](https://img.shields.io/github/last-commit/DaveWoodCom/XCGLogger)](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
-- [puree ![GitHub Repo Stars](https://img.shields.io/github/stars/cookpad/puree-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/cookpad/puree-ios)](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 - [Colors ![GitHub Repo Stars](https://img.shields.io/github/stars/icodeforlove/Colors) ![GitHub last commit](https://img.shields.io/github/last-commit/icodeforlove/Colors)](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!
-- [Loggerithm ![GitHub Repo Stars](https://img.shields.io/github/stars/honghaoz/Loggerithm) ![GitHub last commit](https://img.shields.io/github/last-commit/honghaoz/Loggerithm)](https://github.com/honghaoz/Loggerithm) - A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output.
 - [AELog ![GitHub Repo Stars](https://img.shields.io/github/stars/tadija/AELog) ![GitHub last commit](https://img.shields.io/github/last-commit/tadija/AELog)](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
 - [ReflectedStringConvertible ![GitHub Repo Stars](https://img.shields.io/github/stars/mattcomi/ReflectedStringConvertible) ![GitHub last commit](https://img.shields.io/github/last-commit/mattcomi/ReflectedStringConvertible)](https://github.com/mattcomi/ReflectedStringConvertible) - A protocol that allows any class to be printed as if it were a struct.
-- [Evergreen ![GitHub Repo Stars](https://img.shields.io/github/stars/nilsleiffischer/Evergreen) ![GitHub last commit](https://img.shields.io/github/last-commit/nilsleiffischer/Evergreen)](https://github.com/nilsleiffischer/Evergreen) - Most natural Swift logging.
 - [SwiftTrace ![GitHub Repo Stars](https://img.shields.io/github/stars/johnno1962/SwiftTrace) ![GitHub last commit](https://img.shields.io/github/last-commit/johnno1962/SwiftTrace)](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
 - [Willow ![GitHub Repo Stars](https://img.shields.io/github/stars/Nike-Inc/Willow) ![GitHub last commit](https://img.shields.io/github/last-commit/Nike-Inc/Willow)](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
 - [Bugfender ![GitHub Repo Stars](https://img.shields.io/github/stars/bugfender/BugfenderSDK-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/bugfender/BugfenderSDK-iOS)](https://github.com/bugfender/BugfenderSDK-iOS) - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
@@ -1844,6 +1671,7 @@ Most of these are paid services, some have free tiers.
 - [PostalCodeValidator ![GitHub Repo Stars](https://img.shields.io/github/stars/FormatterKit/PostalCodeValidator) ![GitHub last commit](https://img.shields.io/github/last-commit/FormatterKit/PostalCodeValidator)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
 - [CodeMirror Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/ProxymanApp/CodeMirror-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/ProxymanApp/CodeMirror-Swift)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 - [TwitterTextEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/twitter/TwitterTextEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/twitter/TwitterTextEditor)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
+- [AztecEditor-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/wordpress-mobile/AztecEditor-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/wordpress-mobile/AztecEditor-iOS)](https://github.com/wordpress-mobile/AztecEditor-iOS) - Aztec is a Swift library that provides a `UITextView` subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs.
 
 ### Font
 - [FontBlaster ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtSabintsev/FontBlaster) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtSabintsev/FontBlaster)](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
@@ -2204,7 +2032,7 @@ Most of these are paid services, some have free tiers.
 - [AppstoreTransition ![GitHub Repo Stars](https://img.shields.io/github/stars/appssemble/appstore-card-transition) ![GitHub last commit](https://img.shields.io/github/last-commit/appssemble/appstore-card-transition)](https://github.com/appssemble/appstore-card-transition) - Simulates the appstore card animation transition.
 - [DropdownTransition ![GitHub Repo Stars](https://img.shields.io/github/stars/nugmanoff/DropdownTransition) ![GitHub last commit](https://img.shields.io/github/last-commit/nugmanoff/DropdownTransition)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 - [NavigationTransitions ![GitHub Repo Stars](https://img.shields.io/github/stars/davdroman/swiftui-navigation-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/davdroman/swiftui-navigation-transitions)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
-- [LiquidSwipe ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/LiquidSwipe) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/LiquidSwipe)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation    
+- [LiquidSwipe ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/LiquidSwipe) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/LiquidSwipe)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 - [TBIconTransitionKit ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexeyBelezeko/TBIconTransitionKit) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexeyBelezeko/TBIconTransitionKit)](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - Easy to use icon transition kit that allows to smoothly change from one shape to another.
 
 ### Alert & Action Sheet
@@ -2535,6 +2363,7 @@ Most of these are paid services, some have free tiers.
 - [SwiftEntryKit ![GitHub Repo Stars](https://img.shields.io/github/stars/huri000/SwiftEntryKit) ![GitHub last commit](https://img.shields.io/github/last-commit/huri000/SwiftEntryKit)](https://github.com/huri000/SwiftEntryKit) - A highly customizable popups, alerts and banners presenter for iOS. It offers various presets and is written in pure Swift.
 - [FFPopup ![GitHub Repo Stars](https://img.shields.io/github/stars/JonyFang/FFPopup) ![GitHub last commit](https://img.shields.io/github/last-commit/JonyFang/FFPopup)](https://github.com/JonyFang/FFPopup) - ⛩FFPopup is a lightweight library for presenting custom views as a popup.
 - [PopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/PopupView)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+- [MijickPopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/PopupView)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
 
 ### ProgressView
 - [ProgressMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/khawajafarooq/ProgressMeter) ![GitHub last commit](https://img.shields.io/github/last-commit/khawajafarooq/ProgressMeter)](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
@@ -2755,7 +2584,7 @@ Most of these are paid services, some have free tiers.
 - [DiffableDataSources ![GitHub Repo Stars](https://img.shields.io/github/stars/ra1028/DiffableDataSources) ![GitHub last commit](https://img.shields.io/github/last-commit/ra1028/DiffableDataSources)](https://github.com/ra1028/DiffableDataSources) - A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [StableCollectionViewLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/aimalygin/StableCollectionViewLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/aimalygin/StableCollectionViewLayout)](https://github.com/aimalygin/StableCollectionViewLayout) - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
 - [IQListKit ![GitHub Repo Stars](https://img.shields.io/github/stars/hackiftekhar/IQListKit) ![GitHub last commit](https://img.shields.io/github/last-commit/hackiftekhar/IQListKit)](https://github.com/hackiftekhar/IQListKit) - Model driven UITableView/UICollectionView.
-- 
+-
 #### Expandable Cell
 
 - [folding-cell ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramotion/folding-cell) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramotion/folding-cell)](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
