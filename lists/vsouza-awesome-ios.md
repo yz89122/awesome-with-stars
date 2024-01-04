@@ -15,6 +15,10 @@
 
 </p>
 
+## Contributing and Collaborating
+
+Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/stars/vsouza/awesome-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/vsouza/awesome-ios)](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md) and [CODE-OF-CONDUCT ![GitHub Repo Stars](https://img.shields.io/github/stars/vsouza/awesome-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/vsouza/awesome-ios)](https://github.com/vsouza/awesome-ios/blob/master/CODE_OF_CONDUCT.md) for details.
+
 ## Accessibility
 
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
@@ -105,7 +109,7 @@
 - [VIPER Module Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Kaakati/VIPER-Module-Generator) ![GitHub last commit](https://img.shields.io/github/last-commit/Kaakati/VIPER-Module-Generator)](https://github.com/Kaakati/VIPER-Module-Generator) - A Clean VIPER Modules Generator with comments and predfined functions.
 - [Viperit ![GitHub Repo Stars](https://img.shields.io/github/stars/ferranabello/Viperit) ![GitHub last commit](https://img.shields.io/github/last-commit/ferranabello/Viperit)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## ARKit
 
@@ -120,7 +124,7 @@
 - [Placenote ![GitHub Repo Stars](https://img.shields.io/github/stars/Placenote/PlacenoteSDK-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/Placenote/PlacenoteSDK-iOS)](https://github.com/Placenote/PlacenoteSDK-iOS) - A library that makes ARKit sessions persistent to a location using advanced computer vision.
 - [SmileToUnlock ![GitHub Repo Stars](https://img.shields.io/github/stars/rsrbk/SmileToUnlock) ![GitHub last commit](https://img.shields.io/github/last-commit/rsrbk/SmileToUnlock)](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## Authentication
 
@@ -134,7 +138,7 @@
 - [ReCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/fjcaetano/ReCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/fjcaetano/ReCaptcha)](https://github.com/fjcaetano/ReCaptcha) - (In)visible ReCaptcha for iOS.
 - [SwiftyOAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/delba/SwiftyOAuth) ![GitHub last commit](https://img.shields.io/github/last-commit/delba/SwiftyOAuth)](https://github.com/delba/SwiftyOAuth) - A simple OAuth library for iOS with a built-in set of providers.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## Blockchain
 
@@ -146,7 +150,7 @@
 - [EtherWalletKit ![GitHub Repo Stars](https://img.shields.io/github/stars/SteadyAction/EtherWalletKit) ![GitHub last commit](https://img.shields.io/github/last-commit/SteadyAction/EtherWalletKit)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 - [Web3.swift ![GitHub Repo Stars](https://img.shields.io/github/stars/Boilertalk/Web3.swift) ![GitHub last commit](https://img.shields.io/github/last-commit/Boilertalk/Web3.swift)](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## Bridging
 
@@ -158,7 +162,7 @@
 - [MAIKit ![GitHub Repo Stars](https://img.shields.io/github/stars/MichaelBuckley/MAIKit) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelBuckley/MAIKit)](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS.
 - [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## Cache
 
@@ -182,7 +186,7 @@
 - [Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/soffes/Cache) ![GitHub last commit](https://img.shields.io/github/last-commit/soffes/Cache)](https://github.com/soffes/Cache) - Swift caching library.
 - [MemoryCache ![GitHub Repo Stars](https://img.shields.io/github/stars/yysskk/MemoryCache) ![GitHub last commit](https://img.shields.io/github/last-commit/yysskk/MemoryCache)](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## Charts
 
@@ -219,6 +223,8 @@
 - [EatFit ![GitHub Repo Stars](https://img.shields.io/github/stars/Yalantis/EatFit) ![GitHub last commit](https://img.shields.io/github/last-commit/Yalantis/EatFit)](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 - [CoreCharts ![GitHub Repo Stars](https://img.shields.io/github/stars/cagricolak/CoreCharts) ![GitHub last commit](https://img.shields.io/github/last-commit/cagricolak/CoreCharts)](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerful yet Charts library for apple products.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Code Quality
 
  *Quality always matters. Code checkers, memory vigilants, syntastic sugars and more.*
@@ -251,6 +257,8 @@
 - [Clue ![GitHub Repo Stars](https://img.shields.io/github/stars/Geek-1001/Clue) ![GitHub last commit](https://img.shields.io/github/last-commit/Geek-1001/Clue)](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
 - [WeakableSelf ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent-pradeilles/weakable-self) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent-pradeilles/weakable-self)](https://github.com/vincent-pradeilles/weakable-self) - A Swift micro-framework to encapsulate `[weak self]` and `guard` statements within closures.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Linter
 
 *Static code analyzers to enforce style and conventions.*
@@ -261,6 +269,8 @@
 - [IBLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/IBDecodable/IBLinter) ![GitHub last commit](https://img.shields.io/github/last-commit/IBDecodable/IBLinter)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 - [SwiftLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/muyexi/SwiftLinter) ![GitHub last commit](https://img.shields.io/github/last-commit/muyexi/SwiftLinter)](https://github.com/muyexi/SwiftLinter) - Share lint rules between projects and lint changed files with SwiftLint.
 - [AnyLint ![GitHub Repo Stars](https://img.shields.io/github/stars/Flinesoft/AnyLint) ![GitHub last commit](https://img.shields.io/github/last-commit/Flinesoft/AnyLint)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Color
 
@@ -285,6 +295,8 @@
 - [Gestalt ![GitHub Repo Stars](https://img.shields.io/github/stars/regexident/Gestalt) ![GitHub last commit](https://img.shields.io/github/last-commit/regexident/Gestalt)](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 - [SheetyColors ![GitHub Repo Stars](https://img.shields.io/github/stars/chrs1885/SheetyColors) ![GitHub last commit](https://img.shields.io/github/last-commit/chrs1885/SheetyColors)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Command Line
 
 *Smart, beautiful and elegant tools to help you create command line applications.*
@@ -299,6 +311,8 @@
 - [SwiftShell ![GitHub Repo Stars](https://img.shields.io/github/stars/kareman/SwiftShell) ![GitHub last commit](https://img.shields.io/github/last-commit/kareman/SwiftShell)](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
 - [SourceDocs ![GitHub Repo Stars](https://img.shields.io/github/stars/eneko/SourceDocs) ![GitHub last commit](https://img.shields.io/github/last-commit/eneko/SourceDocs)](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
 - [ModuleInterface ![GitHub Repo Stars](https://img.shields.io/github/stars/minuscorp/ModuleInterface) ![GitHub last commit](https://img.shields.io/github/last-commit/minuscorp/ModuleInterface)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Concurrency
 
@@ -319,6 +333,8 @@
 - [GroupWork ![GitHub Repo Stars](https://img.shields.io/github/stars/quanvo87/GroupWork) ![GitHub last commit](https://img.shields.io/github/last-commit/quanvo87/GroupWork)](https://github.com/quanvo87/GroupWork) - Easy concurrent, asynchronous tasks in Swift.
 - [StickyLocking ![GitHub Repo Stars](https://img.shields.io/github/stars/stickytools/sticky-locking) ![GitHub last commit](https://img.shields.io/github/last-commit/stickytools/sticky-locking)](https://github.com/stickytools/sticky-locking) - A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.
 - [SwiftCoroutine ![GitHub Repo Stars](https://img.shields.io/github/stars/belozierov/SwiftCoroutine) ![GitHub last commit](https://img.shields.io/github/last-commit/belozierov/SwiftCoroutine)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Core Data
 
@@ -345,6 +361,8 @@
 - [PredicateFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/andreadelfante/PredicateFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/andreadelfante/PredicateFlow)](https://github.com/andreadelfante/PredicateFlow) - Write amazing, strong-typed and easy-to-read NSPredicate, allowing you to write flowable NSPredicate, without guessing attribution names, predicate operation or writing wrong arguments type.
 - [CloudCore ![GitHub Repo Stars](https://img.shields.io/github/stars/deeje/CloudCore) ![GitHub last commit](https://img.shields.io/github/last-commit/deeje/CloudCore)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Courses
 
 ### Getting Started
@@ -361,7 +379,7 @@
 - [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Udacity free course. Make Your First iPhone App.
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
 
-**[back to top](#contents)**
+**[back to top](#contributing-and-collaborating)**
 
 ## Database
 
@@ -418,6 +436,8 @@
 - [QuickDB ![GitHub Repo Stars](https://img.shields.io/github/stars/behrad-kzm/QuickDB) ![GitHub last commit](https://img.shields.io/github/last-commit/behrad-kzm/QuickDB)](https://github.com/behrad-kzm/QuickDB) - Save and Retrieve any `Codable` in JUST ONE line of code + more easy usecases.
 - [ObjectBox ![GitHub Repo Stars](https://img.shields.io/github/stars/objectbox/objectbox-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/objectbox/objectbox-swift)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Data Structures / Algorithms
 
 *Diffs, keypaths, sorted lists and other amazing data structures wrappers and libraries.*
@@ -451,6 +471,8 @@
 - [OneWaySynchronizer ![GitHub Repo Stars](https://img.shields.io/github/stars/ladeiko/OneWaySynchronizer) ![GitHub last commit](https://img.shields.io/github/last-commit/ladeiko/OneWaySynchronizer)](https://github.com/ladeiko/OneWaySynchronizer) - The simplest abstraction to synchronize local data with remote source.
 - [DifferenceKit ![GitHub Repo Stars](https://img.shields.io/github/stars/ra1028/DifferenceKit) ![GitHub last commit](https://img.shields.io/github/last-commit/ra1028/DifferenceKit)](https://github.com/ra1028/DifferenceKit) - A fast and flexible O(n) difference algorithm framework for Swift collection.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Date & Time
 
 *Time and NSCalendar libraries. Also contains Sunrise and Sunset time generators, time pickers and NSTimer interfaces.*
@@ -476,6 +498,8 @@
 - [LFTimePicker ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-labs/LFTimePicker) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-labs/LFTimePicker)](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift.
 - [NVDate ![GitHub Repo Stars](https://img.shields.io/github/stars/novalagung/nvdate) ![GitHub last commit](https://img.shields.io/github/last-commit/novalagung/nvdate)](https://github.com/novalagung/nvdate) - Swift4 Date extension library.
 - [Schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/luoxiu/Schedule) ![GitHub last commit](https://img.shields.io/github/last-commit/luoxiu/Schedule)](https://github.com/luoxiu/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Debugging
 
@@ -506,6 +530,8 @@
 - [NetShears ![GitHub Repo Stars](https://img.shields.io/github/stars/divar-ir/NetShears.git) ![GitHub last commit](https://img.shields.io/github/last-commit/divar-ir/NetShears.git)](https://github.com/divar-ir/NetShears.git) - Allows developers to intercept and monitor HTTP/HTTPS requests and responses. It also could be configured to show gRPC calls.
 - [Scyther ![GitHub Repo Stars](https://img.shields.io/github/stars/bstillitano/Scyther) ![GitHub last commit](https://img.shields.io/github/last-commit/bstillitano/Scyther)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
+**[back to top](#contributing-and-collaborating)**
+
 
 ## EventBus
 
@@ -535,6 +561,8 @@
 - [EasyFutures ![GitHub Repo Stars](https://img.shields.io/github/stars/DimaMishchenko/EasyFutures) ![GitHub last commit](https://img.shields.io/github/last-commit/DimaMishchenko/EasyFutures)](https://github.com/DimaMishchenko/EasyFutures) - 🔗 Swift Futures & Promises. Easy to use. Highly combinable.
 - [TopicEventBus ![GitHub Repo Stars](https://img.shields.io/github/stars/mcmatan/topicEventBus) ![GitHub last commit](https://img.shields.io/github/last-commit/mcmatan/topicEventBus)](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic. (NotificationCenter extended alternative).
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Files
 
 *File management, file browser, zip handling and file observers.*
@@ -552,6 +580,8 @@
 - [ZipZap ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelglow/ZipZap) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelglow/ZipZap)](https://github.com/pixelglow/ZipZap) - zip file I/O library for iOS, macOS and tvOS.
 - [AMSMB2 ![GitHub Repo Stars](https://img.shields.io/github/stars/amosavian/AMSMB2) ![GitHub last commit](https://img.shields.io/github/last-commit/amosavian/AMSMB2)](https://github.com/amosavian/AMSMB2) - Swift framework to connect SMB 2/3 shares for iOS.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Functional Programming
 
 *Collection of Swift functional programming tools.*
@@ -568,6 +598,8 @@
 - [Runes ![GitHub Repo Stars](https://img.shields.io/github/stars/thoughtbot/Runes) ![GitHub last commit](https://img.shields.io/github/last-commit/thoughtbot/Runes)](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift.
 - [Bow ![GitHub Repo Stars](https://img.shields.io/github/stars/bow-swift/bow) ![GitHub last commit](https://img.shields.io/github/last-commit/bow-swift/bow)](https://github.com/bow-swift/bow) - Typed Functional Programming companion library for Swift.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Games
 - [AssetImportKit ![GitHub Repo Stars](https://img.shields.io/github/stars/eugenebokhan/AssetImportKit) ![GitHub last commit](https://img.shields.io/github/last-commit/eugenebokhan/AssetImportKit)](https://github.com/eugenebokhan/AssetImportKit) - Swifty cross platform library (macOS, iOS) that converts Assimp supported models to SceneKit scenes.
 - [CollectionNode ![GitHub Repo Stars](https://img.shields.io/github/stars/bwide/CollectionNode) ![GitHub last commit](https://img.shields.io/github/last-commit/bwide/CollectionNode)](https://github.com/bwide/CollectionNode) - A swift framework for a collectionView in SpriteKit.
@@ -577,6 +609,8 @@
 - [ShogibanKit ![GitHub Repo Stars](https://img.shields.io/github/stars/codelynx/ShogibanKit) ![GitHub last commit](https://img.shields.io/github/last-commit/codelynx/ShogibanKit)](https://github.com/codelynx/ShogibanKit) - ShogibanKit is a framework for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI.
 - [SKTiled ![GitHub Repo Stars](https://img.shields.io/github/stars/mfessenden/SKTiled) ![GitHub last commit](https://img.shields.io/github/last-commit/mfessenden/SKTiled)](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit.
 - [SwiftFortuneWheel ![GitHub Repo Stars](https://img.shields.io/github/stars/sh-khashimov/SwiftFortuneWheel) ![GitHub last commit](https://img.shields.io/github/last-commit/sh-khashimov/SwiftFortuneWheel)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## GCD
 
@@ -595,6 +629,8 @@
 - [Me ![GitHub Repo Stars](https://img.shields.io/github/stars/pascalbros/Me) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalbros/Me)](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations.
 - [SwiftyTask ![GitHub Repo Stars](https://img.shields.io/github/stars/Albinzr/SwiftyTask) ![GitHub last commit](https://img.shields.io/github/last-commit/Albinzr/SwiftyTask)](https://github.com/Albinzr/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Gesture
 
 *Libraries and tools to handle gestures.*
@@ -605,6 +641,8 @@
 - [Sensitive ![GitHub Repo Stars](https://img.shields.io/github/stars/hellowizman/Sensitive) ![GitHub last commit](https://img.shields.io/github/last-commit/hellowizman/Sensitive)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
 - [SplitViewDragAndDrop ![GitHub Repo Stars](https://img.shields.io/github/stars/MarioIannotta/SplitViewDragAndDrop) ![GitHub last commit](https://img.shields.io/github/last-commit/MarioIannotta/SplitViewDragAndDrop)](https://github.com/MarioIannotta/SplitViewDragAndDrop) - Easily add drag and drop to pass data between your apps in split view mode.
 - [FDFullscreenPopGesture ![GitHub Repo Stars](https://img.shields.io/github/stars/forkingdog/FDFullscreenPopGesture) ![GitHub last commit](https://img.shields.io/github/last-commit/forkingdog/FDFullscreenPopGesture)](https://github.com/forkingdog/FDFullscreenPopGesture) - An UINavigationController's category to enable fullscreen pop gesture in an iOS7+ system style with AOP.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Graphics
 
@@ -634,6 +672,8 @@
 - [Drawsana ![GitHub Repo Stars](https://img.shields.io/github/stars/Asana/Drawsana) ![GitHub last commit](https://img.shields.io/github/last-commit/Asana/Drawsana)](https://github.com/Asana/Drawsana) - iOS framework for building raster drawing and image markup views.
 - [AnimatedGradientView ![GitHub Repo Stars](https://img.shields.io/github/stars/rwbutler/AnimatedGradientView) ![GitHub last commit](https://img.shields.io/github/last-commit/rwbutler/AnimatedGradientView)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Hardware
 
 ### Bluetooth
@@ -655,6 +695,8 @@
 - [AZPeerToPeerConnection ![GitHub Repo Stars](https://img.shields.io/github/stars/AfrozZaheer/AZPeerToPeerConnection) ![GitHub last commit](https://img.shields.io/github/last-commit/AfrozZaheer/AZPeerToPeerConnection)](https://github.com/AfrozZaheer/AZPeerToPeerConnection) - AZPeerToPeerConnectivity is a wrapper on top of Apple iOS Multipeer Connectivity framework. It provides an easier way to create and manage sessions. Easy to integrate.
 - [MultiPeer ![GitHub Repo Stars](https://img.shields.io/github/stars/dingwilson/MultiPeer) ![GitHub last commit](https://img.shields.io/github/last-commit/dingwilson/MultiPeer)](https://github.com/dingwilson/MultiPeer) - Multipeer is a wrapper for Apple's MultipeerConnectivity framework for offline data transmission between Apple devices. It makes easy to automatically connect to multiple nearby devices and share information using either bluetooth or wifi.
 - [BerkananSDK ![GitHub Repo Stars](https://img.shields.io/github/stars/zssz/BerkananSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/zssz/BerkananSDK)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Camera
 
@@ -688,6 +730,8 @@
 - [CameraKit-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/CameraKit/camerakit-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/CameraKit/camerakit-ios)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next iOS project.
 - [ExyteMediaPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/mediapicker) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/mediapicker)](https://github.com/exyte/mediapicker) - Customizable media picker
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Force Touch
 
 *Quick actions and peek and pop interactions*
@@ -695,6 +739,8 @@
 - [QuickActions ![GitHub Repo Stars](https://img.shields.io/github/stars/ricardopereira/QuickActions) ![GitHub last commit](https://img.shields.io/github/last-commit/ricardopereira/QuickActions)](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts).
 - [JustPeek ![GitHub Repo Stars](https://img.shields.io/github/stars/justeat/JustPeek) ![GitHub last commit](https://img.shields.io/github/last-commit/justeat/JustPeek)](https://github.com/justeat/JustPeek) - JustPeek is an iOS Library that adds support for Force Touch-like Peek and Pop interactions on devices that do not natively support this kind of interaction.
 - [PeekView ![GitHub Repo Stars](https://img.shields.io/github/stars/itsmeichigo/PeekView) ![GitHub last commit](https://img.shields.io/github/last-commit/itsmeichigo/PeekView)](https://github.com/itsmeichigo/PeekView) - PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### iBeacon
 
@@ -706,6 +752,8 @@
 - [BeaconEmitter ![GitHub Repo Stars](https://img.shields.io/github/stars/lgaches/BeaconEmitter) ![GitHub last commit](https://img.shields.io/github/last-commit/lgaches/BeaconEmitter)](https://github.com/lgaches/BeaconEmitter) - Turn your Mac as an iBeacon.
 - [MOCA Proximity](https://www.mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
 - [JMCBeaconManager ![GitHub Repo Stars](https://img.shields.io/github/stars/izotx/JMCBeaconManager) ![GitHub last commit](https://img.shields.io/github/last-commit/izotx/JMCBeaconManager)](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Location
 
@@ -720,6 +768,8 @@
 - [BBLocationManager ![GitHub Repo Stars](https://img.shields.io/github/stars/benzamin/BBLocationManager) ![GitHub last commit](https://img.shields.io/github/last-commit/benzamin/BBLocationManager)](https://github.com/benzamin/BBLocationManager) - A Location Manager for easily implementing location services & geofencing in iOS.
 - [set-simulator-location ![GitHub Repo Stars](https://img.shields.io/github/stars/lyft/set-simulator-location) ![GitHub last commit](https://img.shields.io/github/last-commit/lyft/set-simulator-location)](https://github.com/lyft/set-simulator-location) - CLI for setting location in the iOS simulator.
 - [NominatimKit ![GitHub Repo Stars](https://img.shields.io/github/stars/caloon/NominatimKit) ![GitHub last commit](https://img.shields.io/github/last-commit/caloon/NominatimKit)](https://github.com/caloon/NominatimKit) - A Swift wrapper for (reverse) geocoding of OpenStreetMap data.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Other Hardware
 
@@ -738,6 +788,8 @@
 - [SDVersion ![GitHub Repo Stars](https://img.shields.io/github/stars/sebyddd/SDVersion) ![GitHub last commit](https://img.shields.io/github/last-commit/sebyddd/SDVersion)](https://github.com/sebyddd/SDVersion) - Lightweight Cocoa library for detecting the running device's model and screen size.
 - [Haptico ![GitHub Repo Stars](https://img.shields.io/github/stars/iSapozhnik/Haptico) ![GitHub last commit](https://img.shields.io/github/last-commit/iSapozhnik/Haptico)](https://github.com/iSapozhnik/Haptico) - Easy to use haptic feedback generator with pattern-play support.
 - [NFCPassportReader ![GitHub Repo Stars](https://img.shields.io/github/stars/AndyQ/NFCPassportReader) ![GitHub last commit](https://img.shields.io/github/last-commit/AndyQ/NFCPassportReader)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Layout
 
@@ -797,6 +849,8 @@
 - [MondrianLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/muukii/MondrianLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/muukii/MondrianLayout)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 - [ScalingHeaderScrollView ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/ScalingHeaderScrollView.git) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/ScalingHeaderScrollView.git)](https://github.com/exyte/ScalingHeaderScrollView.git) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Localization
 
 *Tools to manage strings files, translate and enable localization in your apps.*
@@ -818,6 +872,8 @@
 - [attranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/fkirc/attranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/fkirc/attranslate)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 - [Respresso Localization Converter](https://respresso.io/localization-converter) - Multiplatform localization converter for iOS (.strings + Objective-C getters), Android (strings.xml) and Web (.json).
 - [locheck ![GitHub Repo Stars](https://img.shields.io/github/stars/Asana/locheck) ![GitHub last commit](https://img.shields.io/github/last-commit/Asana/locheck)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Logging
 
@@ -857,6 +913,8 @@
 - [Gedatsu ![GitHub Repo Stars](https://img.shields.io/github/stars/bannzai/gedatsu) ![GitHub last commit](https://img.shields.io/github/last-commit/bannzai/gedatsu)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 - [Pulse ![GitHub Repo Stars](https://img.shields.io/github/stars/kean/Pulse) ![GitHub last commit](https://img.shields.io/github/last-commit/kean/Pulse)](https://github.com/kean/Pulse) - Pulse is a powerful logging system for Apple Platforms. Native. Built with SwiftUI.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Machine Learning
 
 *A collection of ML Models, deep learning and neural networking libraries*
@@ -874,6 +932,7 @@
 - [DL4S ![GitHub Repo Stars](https://img.shields.io/github/stars/palle-k/DL4S) ![GitHub last commit](https://img.shields.io/github/last-commit/palle-k/DL4S)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
 - [SwiftCoreMLTools ![GitHub Repo Stars](https://img.shields.io/github/stars/JacopoMangiavacchi/SwiftCoreMLTools) ![GitHub last commit](https://img.shields.io/github/last-commit/JacopoMangiavacchi/SwiftCoreMLTools)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
 
+**[back to top](#contributing-and-collaborating)**
 
 ## Maps
 
@@ -887,6 +946,8 @@
 - [MapViewPlus ![GitHub Repo Stars](https://img.shields.io/github/stars/okhanokbay/MapViewPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/okhanokbay/MapViewPlus)](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.
 - [MSFlightMapView ![GitHub Repo Stars](https://img.shields.io/github/stars/mabdulsubhan/MSFlightMapView) ![GitHub last commit](https://img.shields.io/github/last-commit/mabdulsubhan/MSFlightMapView)](https://github.com/mabdulsubhan/MSFlightMapView) - Add and animate geodesic flights on Google map.
 - [WhirlyGlobe-Maply ![GitHub Repo Stars](https://img.shields.io/github/stars/mousebird/WhirlyGlobe) ![GitHub last commit](https://img.shields.io/github/last-commit/mousebird/WhirlyGlobe)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Math
 
@@ -906,6 +967,8 @@
 - [Metron ![GitHub Repo Stars](https://img.shields.io/github/stars/toineheuvelmans/Metron) ![GitHub last commit](https://img.shields.io/github/last-commit/toineheuvelmans/Metron)](https://github.com/toineheuvelmans/Metron) - Metron is a comprehensive collection of geometric functions and types that extend the 2D geometric primitives provided by CoreGraphics.
 - [NumericAnnex ![GitHub Repo Stars](https://img.shields.io/github/stars/xwu/NumericAnnex) ![GitHub last commit](https://img.shields.io/github/last-commit/xwu/NumericAnnex)](https://github.com/xwu/NumericAnnex) - NumericAnnex supplements the numeric facilities provided in the Swift standard library.
 - [Matft ![GitHub Repo Stars](https://img.shields.io/github/stars/jjjkkkjjj/Matft) ![GitHub last commit](https://img.shields.io/github/last-commit/jjjkkkjjj/Matft)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Media
 
@@ -942,6 +1005,8 @@
 - [FDWaveformView ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/FDWaveformView) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/FDWaveformView)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app, including animation.
 - [FDSoundActivatedRecorder ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/FDSoundActivatedRecorder) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/FDSoundActivatedRecorder)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### GIF
 
 - [YLGIFImage ![GitHub Repo Stars](https://img.shields.io/github/stars/liyong03/YLGIFImage) ![GitHub last commit](https://img.shields.io/github/last-commit/liyong03/YLGIFImage)](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
@@ -955,6 +1020,8 @@
 - [AImage ![GitHub Repo Stars](https://img.shields.io/github/stars/wangjwchn/AImage) ![GitHub last commit](https://img.shields.io/github/last-commit/wangjwchn/AImage)](https://github.com/wangjwchn/AImage) - A animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.
 - [NSGIF2 ![GitHub Repo Stars](https://img.shields.io/github/stars/metasmile/NSGIF2) ![GitHub last commit](https://img.shields.io/github/last-commit/metasmile/NSGIF2)](https://github.com/metasmile/NSGIF2) - Simplify creation of a GIF from the provided video file url.
 - [SwiftyGif ![GitHub Repo Stars](https://img.shields.io/github/stars/kirualex/SwiftyGif) ![GitHub last commit](https://img.shields.io/github/last-commit/kirualex/SwiftyGif)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Image
 - [GPU Image ![GitHub Repo Stars](https://img.shields.io/github/stars/BradLarson/GPUImage) ![GitHub last commit](https://img.shields.io/github/last-commit/BradLarson/GPUImage)](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
@@ -1057,12 +1124,16 @@
 - [SFSafeSymbols ![GitHub Repo Stars](https://img.shields.io/github/stars/piknotech/SFSafeSymbols) ![GitHub last commit](https://img.shields.io/github/last-commit/piknotech/SFSafeSymbols)](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing.
 - [BSZoomGridScrollView ![GitHub Repo Stars](https://img.shields.io/github/stars/boraseoksoon/BSZoomGridScrollView) ![GitHub last commit](https://img.shields.io/github/last-commit/boraseoksoon/BSZoomGridScrollView)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Media Processing
 - [SwiftOCR ![GitHub Repo Stars](https://img.shields.io/github/stars/garnele007/SwiftOCR) ![GitHub last commit](https://img.shields.io/github/last-commit/garnele007/SwiftOCR)](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift.
 - [QR Code Scanner](https://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation.
 - [QRCode ![GitHub Repo Stars](https://img.shields.io/github/stars/aschuch/QRCode) ![GitHub last commit](https://img.shields.io/github/last-commit/aschuch/QRCode)](https://github.com/aschuch/QRCode) - A QRCode generator written in Swift.
 - [EFQRCode ![GitHub Repo Stars](https://img.shields.io/github/stars/EFPrefix/EFQRCode) ![GitHub last commit](https://img.shields.io/github/last-commit/EFPrefix/EFQRCode)](https://github.com/EFPrefix/EFQRCode) - A better way to operate two-dimensional code in Swift.
 - [NSFWDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/lovoo/NSFWDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/lovoo/NSFWDetector)](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### PDF
 - [Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/vfr/Reader) ![GitHub last commit](https://img.shields.io/github/last-commit/vfr/Reader)](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
@@ -1076,6 +1147,8 @@
 - [FastPdfKit ![GitHub Repo Stars](https://img.shields.io/github/stars/mobfarm/FastPdfKit) ![GitHub last commit](https://img.shields.io/github/last-commit/mobfarm/FastPdfKit)](https://github.com/mobfarm/FastPdfKit) - A Static Library to be embedded on iOS applications to display pdf documents derived from Fast PDF.
 - [UIImagePlusPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/DimaMishchenko/UIImagePlusPDF) ![GitHub last commit](https://img.shields.io/github/last-commit/DimaMishchenko/UIImagePlusPDF)](https://github.com/DimaMishchenko/UIImagePlusPDF) - UIImage extensions to simply use PDF files.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Streaming
 - [HaishinKit.swift ![GitHub Repo Stars](https://img.shields.io/github/stars/shogo4405/HaishinKit.swift) ![GitHub last commit](https://img.shields.io/github/last-commit/shogo4405/HaishinKit.swift)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS.
 - [StreamingKit ![GitHub Repo Stars](https://img.shields.io/github/stars/tumtumtum/StreamingKit) ![GitHub last commit](https://img.shields.io/github/last-commit/tumtumtum/StreamingKit)](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for macOS and iOS.
@@ -1083,6 +1156,8 @@
 - [LFLiveKit ![GitHub Repo Stars](https://img.shields.io/github/stars/LaiFengiOS/LFLiveKit) ![GitHub last commit](https://img.shields.io/github/last-commit/LaiFengiOS/LFLiveKit)](https://github.com/LaiFengiOS/LFLiveKit) - H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate.
 - [Airstream ![GitHub Repo Stars](https://img.shields.io/github/stars/qasim/Airstream) ![GitHub last commit](https://img.shields.io/github/last-commit/qasim/Airstream)](https://github.com/qasim/Airstream) - A framework for streaming audio between Apple devices using AirPlay.
 - [OTAcceleratorCore ![GitHub Repo Stars](https://img.shields.io/github/stars/opentok/accelerator-core-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/opentok/accelerator-core-ios)](https://github.com/opentok/accelerator-core-ios) - A painless way to integrate audio/video(screen sharing) to any iOS applications via Tokbox.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Video
 - [VLC for iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/videolan/vlc-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/videolan/vlc-ios)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
@@ -1110,6 +1185,8 @@
 - [JDVideoKit ![GitHub Repo Stars](https://img.shields.io/github/stars/jamesdouble/JDVideoKit) ![GitHub last commit](https://img.shields.io/github/last-commit/jamesdouble/JDVideoKit)](https://github.com/jamesdouble/JDVideoKit) - You can easily transfer your video into Three common video type via this framework.
 - [VersaPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/josejuanqm/VersaPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/josejuanqm/VersaPlayer)](https://github.com/josejuanqm/VersaPlayer) - Versatile AVPlayer implementation for iOS, macOS, and tvOS.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Messaging
 
 Also see [push notifications](#push-notifications)
@@ -1127,6 +1204,8 @@ Also see [push notifications](#push-notifications)
 - [SwiftKafka ![GitHub Repo Stars](https://img.shields.io/github/stars/IBM-Swift/SwiftKafka) ![GitHub last commit](https://img.shields.io/github/last-commit/IBM-Swift/SwiftKafka)](https://github.com/IBM-Swift/SwiftKafka) - Swift SDK for Apache Kafka by IBM.
 - [ChatLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/ekazaev/ChatLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/ekazaev/ChatLayout)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 - [ExyteChat ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/Chat) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/Chat)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Networking
 - [AFNetworking ![GitHub Repo Stars](https://img.shields.io/github/stars/AFNetworking/AFNetworking) ![GitHub last commit](https://img.shields.io/github/last-commit/AFNetworking/AFNetworking)](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
@@ -1206,10 +1285,14 @@ Also see [push notifications](#push-notifications)
 - [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/borchero/Squid) ![GitHub last commit](https://img.shields.io/github/last-commit/borchero/Squid)](https://github.com/borchero/Squid) - Declarative and reactive networking framework based on Combine and providing means for HTTP requests, transparent pagination, and WebSocket communication.
 - [Get ![GitHub Repo Stars](https://img.shields.io/github/stars/kean/Get) ![GitHub last commit](https://img.shields.io/github/last-commit/kean/Get)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Email
 
 - [Mail Core 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/MailCore/mailcore2) ![GitHub last commit](https://img.shields.io/github/last-commit/MailCore/mailcore2)](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
 - [Postal ![GitHub Repo Stars](https://img.shields.io/github/stars/snipsco/Postal) ![GitHub last commit](https://img.shields.io/github/last-commit/snipsco/Postal)](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Representations
 
@@ -1217,6 +1300,8 @@ Also see [push notifications](#push-notifications)
 - [JSONRPCKit ![GitHub Repo Stars](https://img.shields.io/github/stars/bricklife/JSONRPCKit) ![GitHub last commit](https://img.shields.io/github/last-commit/bricklife/JSONRPCKit)](https://github.com/bricklife/JSONRPCKit) - A JSON-RPC 2.0 library.
 - [protobuf-swift ![GitHub Repo Stars](https://img.shields.io/github/stars/alexeyxo/protobuf-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/alexeyxo/protobuf-swift)](https://github.com/alexeyxo/protobuf-swift) - Google ProtocolBuffers for Apple Swift
 - [swift-protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/apple/swift-protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/apple/swift-protobuf)](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Notifications
 
@@ -1229,6 +1314,8 @@ Also see [push notifications](#push-notifications)
 - [NWPusher ![GitHub Repo Stars](https://img.shields.io/github/stars/noodlewerk/NWPusher) ![GitHub last commit](https://img.shields.io/github/last-commit/noodlewerk/NWPusher)](https://github.com/noodlewerk/NWPusher) - macOS and iOS application and framework to play with the Apple Push Notification service (APNs).
 - [SimulatorRemoteNotifications ![GitHub Repo Stars](https://img.shields.io/github/stars/acoomans/SimulatorRemoteNotifications) ![GitHub last commit](https://img.shields.io/github/last-commit/acoomans/SimulatorRemoteNotifications)](https://github.com/acoomans/SimulatorRemoteNotifications) - Library to send mock remote notifications to the iOS simulator.
 - [APNSUtil ![GitHub Repo Stars](https://img.shields.io/github/stars/pisces/APNSUtil) ![GitHub last commit](https://img.shields.io/github/last-commit/pisces/APNSUtil)](https://github.com/pisces/APNSUtil) - Library makes code simple settings and landing for apple push notification service.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Push Notification Providers
 
@@ -1249,9 +1336,13 @@ Most of these are paid services, some have free tiers.
 - [Pusher](https://pusher.com/beams) - Free and unlimited.
 - [Swrve](https://www.swrve.com)
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Local Notifications
 
 - [DLLocalNotifications ![GitHub Repo Stars](https://img.shields.io/github/stars/d7laungani/DLLocalNotifications) ![GitHub last commit](https://img.shields.io/github/last-commit/d7laungani/DLLocalNotifications)](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Objective-C Runtime
 
@@ -1260,10 +1351,14 @@ Most of these are paid services, some have free tiers.
 - [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/sushinoya/lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/sushinoya/lumos)](https://github.com/sushinoya/lumos) - A light Swift wrapper around Objective-C Runtime.
 - [Swizzlean ![GitHub Repo Stars](https://img.shields.io/github/stars/rbaumbach/Swizzlean) ![GitHub last commit](https://img.shields.io/github/last-commit/rbaumbach/Swizzlean)](https://github.com/rbaumbach/Swizzlean) - An Objective-C Swizzle Helper Class.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Optimization
 
 - [Unreachable ![GitHub Repo Stars](https://img.shields.io/github/stars/nvzqz/Unreachable) ![GitHub last commit](https://img.shields.io/github/last-commit/nvzqz/Unreachable)](https://github.com/nvzqz/Unreachable) - Unreachable code path optimization hint for Swift.
 - [SmallStrings ![GitHub Repo Stars](https://img.shields.io/github/stars/EmergeTools/SmallStrings) ![GitHub last commit](https://img.shields.io/github/last-commit/EmergeTools/SmallStrings)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Parsing
 
@@ -1271,6 +1366,8 @@ Most of these are paid services, some have free tiers.
 - [CSwiftV ![GitHub Repo Stars](https://img.shields.io/github/stars/Daniel1of1/CSwiftV) ![GitHub last commit](https://img.shields.io/github/last-commit/Daniel1of1/CSwiftV)](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180.
 - [CSV.swift ![GitHub Repo Stars](https://img.shields.io/github/stars/yaslab/CSV.swift) ![GitHub last commit](https://img.shields.io/github/last-commit/yaslab/CSV.swift)](https://github.com/yaslab/CSV.swift) - CSV reading and writing library written in Swift.
 - [CodableCSV ![GitHub Repo Stars](https://img.shields.io/github/stars/dehesa/CodableCSV) ![GitHub last commit](https://img.shields.io/github/last-commit/dehesa/CodableCSV)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### JSON
 - [SBJson ![GitHub Repo Stars](https://img.shields.io/github/stars/SBJson/SBJson) ![GitHub last commit](https://img.shields.io/github/last-commit/SBJson/SBJson)](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C.
@@ -1309,6 +1406,8 @@ Most of these are paid services, some have free tiers.
 - [jsoncafe.com](http://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
 - [Mappable ![GitHub Repo Stars](https://img.shields.io/github/stars/leavez/Mappable) ![GitHub last commit](https://img.shields.io/github/last-commit/leavez/Mappable)](https://github.com/leavez/Mappable) - lightweight and powerful JSON object mapping library, specially optimized for immutable properties.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### XML & HTML
 - [AEXML ![GitHub Repo Stars](https://img.shields.io/github/stars/tadija/AEXML) ![GitHub last commit](https://img.shields.io/github/last-commit/tadija/AEXML)](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift.
 - [Ji ![GitHub Repo Stars](https://img.shields.io/github/stars/honghaoz/Ji) ![GitHub last commit](https://img.shields.io/github/last-commit/honghaoz/Ji)](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
@@ -1321,6 +1420,8 @@ Most of these are paid services, some have free tiers.
 - [SwiftyXML ![GitHub Repo Stars](https://img.shields.io/github/stars/chenyunguiMilook/SwiftyXML) ![GitHub last commit](https://img.shields.io/github/last-commit/chenyunguiMilook/SwiftyXML)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data in swift 4.
 - [XMLCoder ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxDesiatov/XMLCoder) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxDesiatov/XMLCoder)](https://github.com/MaxDesiatov/XMLCoder) - Encoder & Decoder for XML using Swift's `Codable` protocols.
 - [ZMarkupParser ![GitHub Repo Stars](https://img.shields.io/github/stars/ZhgChgLi/ZMarkupParser) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhgChgLi/ZMarkupParser)](https://github.com/ZhgChgLi/ZMarkupParser) - Convert HTML strings into NSAttributedString with customized styles and tags.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Other Parsing
 - [WKZombie ![GitHub Repo Stars](https://img.shields.io/github/stars/mkoehnke/WKZombie) ![GitHub last commit](https://img.shields.io/github/last-commit/mkoehnke/WKZombie)](https://github.com/mkoehnke/WKZombie) - WKZombie is a Swift framework for iOS/macOS to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript.
@@ -1336,11 +1437,14 @@ Most of these are paid services, some have free tiers.
 - [CreateAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/CreateAPI/CreateAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/CreateAPI/CreateAPI)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 - [NetNewsWire ![GitHub Repo Stars](https://img.shields.io/github/stars/Ranchero-Software/NetNewsWire) ![GitHub last commit](https://img.shields.io/github/last-commit/Ranchero-Software/NetNewsWire)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
 
+**[back to top](#contributing-and-collaborating)**
 
 ## Passbook
 - [passbook ![GitHub Repo Stars](https://img.shields.io/github/stars/frozon/passbook) ![GitHub last commit](https://img.shields.io/github/last-commit/frozon/passbook)](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
 - [Dubai ![GitHub Repo Stars](https://img.shields.io/github/stars/nomad/dubai) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad/dubai)](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
 - [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Payments
 - [Caishen ![GitHub Repo Stars](https://img.shields.io/github/stars/prolificinteractive/Caishen) ![GitHub last commit](https://img.shields.io/github/last-commit/prolificinteractive/Caishen)](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
@@ -1368,6 +1472,8 @@ Most of these are paid services, some have free tiers.
 - [YRPayment ![GitHub Repo Stars](https://img.shields.io/github/stars/yassram/YRPayment) ![GitHub last commit](https://img.shields.io/github/last-commit/yassram/YRPayment)](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift.
 - [AnimatedCardInput ![GitHub Repo Stars](https://img.shields.io/github/stars/netguru/AnimatedCardInput) ![GitHub last commit](https://img.shields.io/github/last-commit/netguru/AnimatedCardInput)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Permissions
 - [Proposer ![GitHub Repo Stars](https://img.shields.io/github/stars/nixzhu/Proposer) ![GitHub last commit](https://img.shields.io/github/last-commit/nixzhu/Proposer)](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location).
 - [ISHPermissionKit ![GitHub Repo Stars](https://img.shields.io/github/stars/iosphere/ISHPermissionKit) ![GitHub last commit](https://img.shields.io/github/last-commit/iosphere/ISHPermissionKit)](https://github.com/iosphere/ISHPermissionKit) - A unified way for iOS apps to request user permissions.
@@ -1377,6 +1483,8 @@ Most of these are paid services, some have free tiers.
 - [PAPermissions ![GitHub Repo Stars](https://img.shields.io/github/stars/pascalbros/PAPermissions) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalbros/PAPermissions)](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 - [AREK ![GitHub Repo Stars](https://img.shields.io/github/stars/ennioma/arek) ![GitHub last commit](https://img.shields.io/github/last-commit/ennioma/arek)](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 - [SPPermissions ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanvorobei/SPPermissions) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanvorobei/SPPermissions)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Reactive Programming
 - [RxSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/RxSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/RxSwift)](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift.
@@ -1426,12 +1534,16 @@ Most of these are paid services, some have free tiers.
 - [OneWay ![GitHub Repo Stars](https://img.shields.io/github/stars/DevYeom/OneWay) ![GitHub last commit](https://img.shields.io/github/last-commit/DevYeom/OneWay)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
 - [Verge ![GitHub Repo Stars](https://img.shields.io/github/stars/muukii/Verge) ![GitHub last commit](https://img.shields.io/github/last-commit/muukii/Verge)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
 
+**[back to top](#contributing-and-collaborating)**
+
 ### React-Like
 - [Render ![GitHub Repo Stars](https://img.shields.io/github/stars/alexdrone/Render) ![GitHub last commit](https://img.shields.io/github/last-commit/alexdrone/Render)](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
 - [Katana ![GitHub Repo Stars](https://img.shields.io/github/stars/BendingSpoons/katana-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/BendingSpoons/katana-swift)](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux.
 - [TemplateKit ![GitHub Repo Stars](https://img.shields.io/github/stars/mcudich/TemplateKit) ![GitHub last commit](https://img.shields.io/github/last-commit/mcudich/TemplateKit)](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift.
 - [CoreEvents ![GitHub Repo Stars](https://img.shields.io/github/stars/surfstudio/CoreEvents) ![GitHub last commit](https://img.shields.io/github/last-commit/surfstudio/CoreEvents)](https://github.com/surfstudio/CoreEvents) - Simple library with C#-like events.
 - [Tokamak ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxDesiatov/Tokamak) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxDesiatov/Tokamak)](https://github.com/MaxDesiatov/Tokamak) - React-like framework providing a declarative API for building native UI components with easy to use one-way data binding.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Reflection
 - [Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Zewo/Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Zewo/Reflection)](https://github.com/Zewo/Reflection) - Reflection provides an API for advanced reflection at runtime including dynamic construction of types.
@@ -1441,6 +1553,8 @@ Most of these are paid services, some have free tiers.
 - [SwiftKVC ![GitHub Repo Stars](https://img.shields.io/github/stars/bradhilton/SwiftKVC) ![GitHub last commit](https://img.shields.io/github/last-commit/bradhilton/SwiftKVC)](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs.
 - [Runtime ![GitHub Repo Stars](https://img.shields.io/github/stars/wickwirew/Runtime) ![GitHub last commit](https://img.shields.io/github/last-commit/wickwirew/Runtime)](https://github.com/wickwirew/Runtime) - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Regex
 - [Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplet/Regex) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplet/Regex)](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 - [SwiftRegex ![GitHub Repo Stars](https://img.shields.io/github/stars/kasei/SwiftRegex) ![GitHub last commit](https://img.shields.io/github/last-commit/kasei/SwiftRegex)](https://github.com/kasei/SwiftRegex) - Perl-like Regex =~ operator for Swift.
@@ -1448,6 +1562,8 @@ Most of these are paid services, some have free tiers.
 - [Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/crossroadlabs/Regex) ![GitHub last commit](https://img.shields.io/github/last-commit/crossroadlabs/Regex)](https://github.com/crossroadlabs/Regex) - Regular expressions for swift.
 - [Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/brynbellomy/Regex) ![GitHub last commit](https://img.shields.io/github/last-commit/brynbellomy/Regex)](https://github.com/brynbellomy/Regex) - Regex class for Swift. Wraps NSRegularExpression.
 - [sindresorhus/Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/Regex) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/Regex)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## SDK
 
@@ -1482,6 +1598,8 @@ Most of these are paid services, some have free tiers.
 - [rides-ios-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/rides-ios-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/rides-ios-sdk)](https://github.com/uber/rides-ios-sdk) - Uber Rides iOS SDK (beta).
 - [Apphud ![GitHub Repo Stars](https://img.shields.io/github/stars/apphud/ApphudSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/apphud/ApphudSDK)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 - [Adapty ![GitHub Repo Stars](https://img.shields.io/github/stars/adaptyteam/AdaptySDK-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/adaptyteam/AdaptySDK-iOS)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Unofficial
 
@@ -1520,6 +1638,8 @@ Most of these are paid services, some have free tiers.
 - [ForecastIO ![GitHub Repo Stars](https://img.shields.io/github/stars/sxg/ForecastIO) ![GitHub last commit](https://img.shields.io/github/last-commit/sxg/ForecastIO)](https://github.com/sxg/ForecastIO) - A Swift library for the Forecast.io Dark Sky API.
 - [JamfKit ![GitHub Repo Stars](https://img.shields.io/github/stars/ethenyl/JamfKit) ![GitHub last commit](https://img.shields.io/github/last-commit/ethenyl/JamfKit)](https://github.com/ethenyl/JamfKit) - A JSS communication framework written in Swift.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Security
 - [cocoapods-keys ![GitHub Repo Stars](https://img.shields.io/github/stars/orta/cocoapods-keys) ![GitHub last commit](https://img.shields.io/github/last-commit/orta/cocoapods-keys)](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
 - [simple-touch ![GitHub Repo Stars](https://img.shields.io/github/stars/simple-machines/simple-touch) ![GitHub last commit](https://img.shields.io/github/last-commit/simple-machines/simple-touch)](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
@@ -1538,6 +1658,8 @@ Most of these are paid services, some have free tiers.
 - [Virgil Security Objective-C/Swift SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/VirgilSecurity/virgil-sdk-x) ![GitHub last commit](https://img.shields.io/github/last-commit/VirgilSecurity/virgil-sdk-x)](https://github.com/VirgilSecurity/virgil-sdk-x) - An SDK which allows developers to add full end-to-end security to their existing digital solutions to become HIPAA and GDPR compliant and more using Virgil API.
 - [Vault ![GitHub Repo Stars](https://img.shields.io/github/stars/passlock/Vault) ![GitHub last commit](https://img.shields.io/github/last-commit/passlock/Vault)](https://github.com/passlock/Vault) - Safe place for your encryption keys.
 - [SecurePropertyStorage ![GitHub Repo Stars](https://img.shields.io/github/stars/alexruperez/SecurePropertyStorage) ![GitHub last commit](https://img.shields.io/github/last-commit/alexruperez/SecurePropertyStorage)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Encryption
 - [AESCrypt-ObjC ![GitHub Repo Stars](https://img.shields.io/github/stars/Gurpartap/AESCrypt-ObjC) ![GitHub last commit](https://img.shields.io/github/last-commit/Gurpartap/AESCrypt-ObjC)](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
@@ -1563,6 +1685,8 @@ Most of these are paid services, some have free tiers.
 - [Virgil Security Objective-C/Swift Crypto Library ![GitHub Repo Stars](https://img.shields.io/github/stars/VirgilSecurity/virgil-crypto-x) ![GitHub last commit](https://img.shields.io/github/last-commit/VirgilSecurity/virgil-crypto-x)](https://github.com/VirgilSecurity/virgil-crypto-x) - A high-level cryptographic library that allows to perform all necessary operations for securely storing and transferring data.
 - [JOSESwift ![GitHub Repo Stars](https://img.shields.io/github/stars/airsidemobile/JOSESwift) ![GitHub last commit](https://img.shields.io/github/last-commit/airsidemobile/JOSESwift)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK written in Swift.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Keychain
 - [UICKeyChainStore ![GitHub Repo Stars](https://img.shields.io/github/stars/kishikawakatsumi/UICKeyChainStore) ![GitHub last commit](https://img.shields.io/github/last-commit/kishikawakatsumi/UICKeyChainStore)](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
 - [Valet ![GitHub Repo Stars](https://img.shields.io/github/stars/square/Valet) ![GitHub last commit](https://img.shields.io/github/last-commit/square/Valet)](https://github.com/square/Valet) - Securely store data in the iOS or macOS Keychain without knowing a thing about how the Keychain works.
@@ -1573,6 +1697,8 @@ Most of these are paid services, some have free tiers.
 - [SAMKeychain ![GitHub Repo Stars](https://img.shields.io/github/stars/soffes/SAMKeychain) ![GitHub last commit](https://img.shields.io/github/last-commit/soffes/SAMKeychain)](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 - [SwiftKeychainWrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/jrendel/SwiftKeychainWrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/jrendel/SwiftKeychainWrapper)](https://github.com/jrendel/SwiftKeychainWrapper) - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults.
 - [SwiftyKeychainKit ![GitHub Repo Stars](https://img.shields.io/github/stars/andriyslyusar/SwiftyKeychainKit) ![GitHub last commit](https://img.shields.io/github/last-commit/andriyslyusar/SwiftyKeychainKit)](https://github.com/andriyslyusar/SwiftyKeychainKit) - Keychain wrapper with the benefits of static typing and convenient syntax, support for primitive types, Codable, NSCoding.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Server
 
@@ -1604,6 +1730,8 @@ Most of these are paid services, some have free tiers.
 - [GCDWebServer ![GitHub Repo Stars](https://img.shields.io/github/stars/swisspol/GCDWebServer) ![GitHub last commit](https://img.shields.io/github/last-commit/swisspol/GCDWebServer)](https://github.com/swisspol/GCDWebServer) - Lightweight GCD based HTTP server for macOS & iOS (includes web based uploader & WebDAV server).
 - [Embassy ![GitHub Repo Stars](https://img.shields.io/github/stars/envoy/Embassy) ![GitHub last commit](https://img.shields.io/github/last-commit/envoy/Embassy)](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux.
 - [smoke-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/amzn/smoke-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/amzn/smoke-framework)](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Text
 - [Twitter Text Obj ![GitHub Repo Stars](https://img.shields.io/github/stars/twitter/twitter-text) ![GitHub last commit](https://img.shields.io/github/last-commit/twitter/twitter-text)](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
@@ -1673,6 +1801,8 @@ Most of these are paid services, some have free tiers.
 - [TwitterTextEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/twitter/TwitterTextEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/twitter/TwitterTextEditor)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 - [AztecEditor-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/wordpress-mobile/AztecEditor-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/wordpress-mobile/AztecEditor-iOS)](https://github.com/wordpress-mobile/AztecEditor-iOS) - Aztec is a Swift library that provides a `UITextView` subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Font
 - [FontBlaster ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtSabintsev/FontBlaster) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtSabintsev/FontBlaster)](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
 - [GoogleMaterialIconFont ![GitHub Repo Stars](https://img.shields.io/github/stars/kitasuke/GoogleMaterialIconFont) ![GitHub last commit](https://img.shields.io/github/last-commit/kitasuke/GoogleMaterialIconFont)](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project.
@@ -1693,6 +1823,8 @@ Most of these are paid services, some have free tiers.
 - [JQSwiftIcon ![GitHub Repo Stars](https://img.shields.io/github/stars/josejuanqm/JQSwiftIcon) ![GitHub last commit](https://img.shields.io/github/last-commit/josejuanqm/JQSwiftIcon)](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift.
 - [Money ![GitHub Repo Stars](https://img.shields.io/github/stars/Flight-School/Money) ![GitHub last commit](https://img.shields.io/github/last-commit/Flight-School/Money)](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Testing
 
 ### TDD / BDD
@@ -1710,11 +1842,15 @@ Most of these are paid services, some have free tiers.
 - [swift-corelibs-xctest ![GitHub Repo Stars](https://img.shields.io/github/stars/apple/swift-corelibs-xctest) ![GitHub last commit](https://img.shields.io/github/last-commit/apple/swift-corelibs-xctest)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 - [PlaygroundTDD ![GitHub Repo Stars](https://img.shields.io/github/stars/WhiskerzAB/PlaygroundTDD) ![GitHub last commit](https://img.shields.io/github/last-commit/WhiskerzAB/PlaygroundTDD)](https://github.com/WhiskerzAB/PlaygroundTDD) - Small library to easily run your tests directly within a Playground.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### A/B Testing
 - [Switchboard ![GitHub Repo Stars](https://img.shields.io/github/stars/KeepSafe/Switchboard) ![GitHub last commit](https://img.shields.io/github/last-commit/KeepSafe/Switchboard)](https://github.com/KeepSafe/Switchboard) - Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.
 - [SkyLab ![GitHub Repo Stars](https://img.shields.io/github/stars/mattt/SkyLab) ![GitHub last commit](https://img.shields.io/github/last-commit/mattt/SkyLab)](https://github.com/mattt/SkyLab) - Multivariate & A/B Testing for iOS and Mac.
 - [MSActiveConfig ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsnacks/MSActiveConfig) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsnacks/MSActiveConfig)](https://github.com/mindsnacks/MSActiveConfig) - Remote configuration and A/B Testing framework for iOS.
 - [ABKit ![GitHub Repo Stars](https://img.shields.io/github/stars/recruit-mp/ABKit) ![GitHub last commit](https://img.shields.io/github/last-commit/recruit-mp/ABKit)](https://github.com/recruit-mp/ABKit) - AB testing framework for iOS.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### UI Testing
 - [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
@@ -1734,6 +1870,8 @@ Most of these are paid services, some have free tiers.
 - [ViewInspector ![GitHub Repo Stars](https://img.shields.io/github/stars/nalexn/ViewInspector) ![GitHub last commit](https://img.shields.io/github/last-commit/nalexn/ViewInspector)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 - [AutoMate ![GitHub Repo Stars](https://img.shields.io/github/stars/PGSSoft/AutoMate) ![GitHub last commit](https://img.shields.io/github/last-commit/PGSSoft/AutoMate)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 - [Marathon Runner ![GitHub Repo Stars](https://img.shields.io/github/stars/MarathonLabs/marathon) ![GitHub last commit](https://img.shields.io/github/last-commit/MarathonLabs/marathon)](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Other Testing
 - [ETTrace ![GitHub Repo Stars](https://img.shields.io/github/stars/EmergeTools/ETTrace) ![GitHub last commit](https://img.shields.io/github/last-commit/EmergeTools/ETTrace)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
@@ -1760,6 +1898,8 @@ Most of these are paid services, some have free tiers.
 - [DataFixture ![GitHub Repo Stars](https://img.shields.io/github/stars/andreadelfante/DataFixture) ![GitHub last commit](https://img.shields.io/github/last-commit/andreadelfante/DataFixture)](https://github.com/andreadelfante/DataFixture) - Creation of data model easily, with no headache.
 - [SnapshotTesting ![GitHub Repo Stars](https://img.shields.io/github/stars/pointfreeco/swift-snapshot-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/pointfreeco/swift-snapshot-testing)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 - [Mockingbird ![GitHub Repo Stars](https://img.shields.io/github/stars/Farfetch/mockingbird) ![GitHub last commit](https://img.shields.io/github/last-commit/Farfetch/mockingbird)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## UI
 - [Motif ![GitHub Repo Stars](https://img.shields.io/github/stars/erichoracek/Motif) ![GitHub last commit](https://img.shields.io/github/last-commit/erichoracek/Motif)](https://github.com/erichoracek/Motif) - A lightweight and customizable JSON stylesheet framework for iOS.
@@ -1858,6 +1998,8 @@ Most of these are paid services, some have free tiers.
 - [UI Fabric by Microsoft ![GitHub Repo Stars](https://img.shields.io/github/stars/OfficeDev/ui-fabric-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/OfficeDev/ui-fabric-ios)](https://github.com/OfficeDev/ui-fabric-ios) - UI framework based on [Fluent Design System](https://www.microsoft.com/design/fluent/#/ios) by Microsoft.
 - [Popovers ![GitHub Repo Stars](https://img.shields.io/github/stars/aheze/Popovers) ![GitHub last commit](https://img.shields.io/github/last-commit/aheze/Popovers)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Activity Indicator
 - [NVActivityIndicatorView ![GitHub Repo Stars](https://img.shields.io/github/stars/ninjaprox/NVActivityIndicatorView) ![GitHub last commit](https://img.shields.io/github/last-commit/ninjaprox/NVActivityIndicatorView)](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 - [RPLoadingAnimation ![GitHub Repo Stars](https://img.shields.io/github/stars/naoyashiga/RPLoadingAnimation) ![GitHub last commit](https://img.shields.io/github/last-commit/naoyashiga/RPLoadingAnimation)](https://github.com/naoyashiga/RPLoadingAnimation) - Loading animations by using Swift CALayer.
@@ -1920,6 +2062,8 @@ Most of these are paid services, some have free tiers.
 - [IHProgressHUD ![GitHub Repo Stars](https://img.shields.io/github/stars/Swiftify-Corp/IHProgressHUD) ![GitHub last commit](https://img.shields.io/github/last-commit/Swiftify-Corp/IHProgressHUD)](https://github.com/Swiftify-Corp/IHProgressHUD) - Simple HUD, thread safe, supports iOS, tvOS and App Extensions.
 - [ActivityIndicatorView ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/ActivityIndicatorView) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/ActivityIndicatorView)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 - [ProgressIndicatorView ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/ProgressIndicatorView) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/ProgressIndicatorView)](https://github.com/exyte/ProgressIndicatorView) - A number of preset progress indicators created with SwiftUI.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Animation
 - [Pop ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/pop) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/pop)](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
@@ -2000,6 +2144,8 @@ Most of these are paid services, some have free tiers.
 - [LoadingShimmer ![GitHub Repo Stars](https://img.shields.io/github/stars/jogendra/LoadingShimmer) ![GitHub last commit](https://img.shields.io/github/last-commit/jogendra/LoadingShimmer)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 - [SPPerspective ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanvorobei/SPPerspective) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanvorobei/SPPerspective)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Transition
 - [BlurryModalSegue ![GitHub Repo Stars](https://img.shields.io/github/stars/Citrrus/BlurryModalSegue) ![GitHub last commit](https://img.shields.io/github/last-commit/Citrrus/BlurryModalSegue)](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
 - [DAExpandAnimation ![GitHub Repo Stars](https://img.shields.io/github/stars/ifitdoesntwork/DAExpandAnimation) ![GitHub last commit](https://img.shields.io/github/last-commit/ifitdoesntwork/DAExpandAnimation)](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
@@ -2034,6 +2180,8 @@ Most of these are paid services, some have free tiers.
 - [NavigationTransitions ![GitHub Repo Stars](https://img.shields.io/github/stars/davdroman/swiftui-navigation-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/davdroman/swiftui-navigation-transitions)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 - [LiquidSwipe ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/LiquidSwipe) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/LiquidSwipe)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 - [TBIconTransitionKit ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexeyBelezeko/TBIconTransitionKit) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexeyBelezeko/TBIconTransitionKit)](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - Easy to use icon transition kit that allows to smoothly change from one shape to another.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Alert & Action Sheet
 
@@ -2108,11 +2256,15 @@ Most of these are paid services, some have free tiers.
 - [BottomSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/joomcode/BottomSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/joomcode/BottomSheet)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 - [LCActionSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/iTofu/LCActionSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/iTofu/LCActionSheet)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Badge
 - [MIBadgeButton ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaibrahim989/MIBadgeButton-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaibrahim989/MIBadgeButton-Swift)](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
 - [EasyNotificationBadge ![GitHub Repo Stars](https://img.shields.io/github/stars/Minitour/EasyNotificationBadge) ![GitHub last commit](https://img.shields.io/github/last-commit/Minitour/EasyNotificationBadge)](https://github.com/Minitour/EasyNotificationBadge) - UIView extension that adds a notification badge. [e]
 - [swift-badge ![GitHub Repo Stars](https://img.shields.io/github/stars/evgenyneu/swift-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/evgenyneu/swift-badge)](https://github.com/evgenyneu/swift-badge) - Badge view for iOS written in swift
 - [BadgeHub ![GitHub Repo Stars](https://img.shields.io/github/stars/jogendra/BadgeHub) ![GitHub last commit](https://img.shields.io/github/last-commit/jogendra/BadgeHub)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Button
 - [SSBouncyButton ![GitHub Repo Stars](https://img.shields.io/github/stars/StyleShare/SSBouncyButton) ![GitHub last commit](https://img.shields.io/github/last-commit/StyleShare/SSBouncyButton)](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
@@ -2148,6 +2300,8 @@ Most of these are paid services, some have free tiers.
 - [TORoundedButton ![GitHub Repo Stars](https://img.shields.io/github/stars/TimOliver/TORoundedButton) ![GitHub last commit](https://img.shields.io/github/last-commit/TimOliver/TORoundedButton)](https://github.com/TimOliver/TORoundedButton) - A high-performance button control with rounded corners.
 - [FloatingButton ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/FloatingButton) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/FloatingButton)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Calendar
 - [CVCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/CVCalendar/CVCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/CVCalendar/CVCalendar)](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0).
 - [RSDayFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanskorb/RSDayFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanskorb/RSDayFlow)](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
@@ -2171,6 +2325,8 @@ Most of these are paid services, some have free tiers.
 - [FSCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/WenchaoD/FSCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/WenchaoD/FSCalendar)](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift.
 - [ElegantCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ThasianX/ElegantCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ThasianX/ElegantCalendar)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Cards
 
 *Card based UI's, pan gestures, flip and swipe animations*
@@ -2187,7 +2343,9 @@ Most of these are paid services, some have free tiers.
 - [CardsLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/filletofish/CardsLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/filletofish/CardsLayout)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom collection view layout.
 - [CardParts ![GitHub Repo Stars](https://img.shields.io/github/stars/intuit/CardParts) ![GitHub last commit](https://img.shields.io/github/last-commit/intuit/CardParts)](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit.
 - [VerticalCardSwiper ![GitHub Repo Stars](https://img.shields.io/github/stars/JoniVR/VerticalCardSwiper) ![GitHub last commit](https://img.shields.io/github/last-commit/JoniVR/VerticalCardSwiper)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
-- [Shuffle ![GitHub Repo Stars](https://img.shields.io/github/stars/mac-gallagher/Shuffle) ![GitHub last commit](https://img.shields.io/github/last-commit/mac-gallagher/Shuffle)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
+- [Shuffle ![GitHub Repo Stars](https://img.shields.io/github/stars/mac-gallagher/Shuffle) ![GitHub last commit](https://img.shields.io/github/last-commit/mac-gallagher/Shuffle)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Form & Settings
 
@@ -2209,6 +2367,8 @@ Most of these are paid services, some have free tiers.
 - [ValidatedPropertyKit ![GitHub Repo Stars](https://img.shields.io/github/stars/SvenTiigi/ValidatedPropertyKit) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenTiigi/ValidatedPropertyKit)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers.
 - [FDTextFieldTableViewCell ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/FDTextFieldTableViewCell) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/FDTextFieldTableViewCell)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Keyboard
 * [RSKKeyboardAnimationObserver ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanskorb/RSKKeyboardAnimationObserver) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanskorb/RSKKeyboardAnimationObserver)](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) - Showing / dismissing keyboard animation in simple UIViewController category.
 * [RFKeyboardToolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/ruddfawcett/RFKeyboardToolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/ruddfawcett/RFKeyboardToolbar)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
@@ -2227,6 +2387,8 @@ Most of these are paid services, some have free tiers.
 * [NumPad ![GitHub Repo Stars](https://img.shields.io/github/stars/efremidze/NumPad) ![GitHub last commit](https://img.shields.io/github/last-commit/efremidze/NumPad)](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
 * [Ribbon ![GitHub Repo Stars](https://img.shields.io/github/stars/chriszielinski/Ribbon) ![GitHub last commit](https://img.shields.io/github/last-commit/chriszielinski/Ribbon)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 * [ISEmojiView ![GitHub Repo Stars](https://img.shields.io/github/stars/isaced/ISEmojiView) ![GitHub last commit](https://img.shields.io/github/last-commit/isaced/ISEmojiView)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Label
 - [LTMorphingLabel ![GitHub Repo Stars](https://img.shields.io/github/stars/lexrus/LTMorphingLabel) ![GitHub last commit](https://img.shields.io/github/last-commit/lexrus/LTMorphingLabel)](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
@@ -2251,10 +2413,14 @@ Most of these are paid services, some have free tiers.
 - [AnimatedMaskLabel ![GitHub Repo Stars](https://img.shields.io/github/stars/jogendra/AnimatedMaskLabel) ![GitHub last commit](https://img.shields.io/github/last-commit/jogendra/AnimatedMaskLabel)](https://github.com/jogendra/AnimatedMaskLabel) -  Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app.
 - [STULabel ![GitHub Repo Stars](https://img.shields.io/github/stars/stephan-tolksdorf/STULabel) ![GitHub last commit](https://img.shields.io/github/last-commit/stephan-tolksdorf/STULabel)](https://github.com/stephan-tolksdorf/STULabel) -  A label view that's faster than UILabel and supports asynchronous rendering, links with UIDragInteraction, very flexible text truncation, Auto Layout, UIAccessibility and more.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Login
 - [LFLoginController ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-labs/LFLoginController) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-labs/LFLoginController)](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift.
 - [LoginKit ![GitHub Repo Stars](https://img.shields.io/github/stars/IcaliaLabs/LoginKit) ![GitHub last commit](https://img.shields.io/github/last-commit/IcaliaLabs/LoginKit)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 - [Cely ![GitHub Repo Stars](https://img.shields.io/github/stars/cely-tools/Cely) ![GitHub last commit](https://img.shields.io/github/last-commit/cely-tools/Cely)](https://github.com/cely-tools/Cely) - Plug-n-Play login framework written in Swift.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Menu
 - [ENSwiftSideMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/evnaz/ENSwiftSideMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/evnaz/ENSwiftSideMenu)](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
@@ -2318,6 +2484,8 @@ Most of these are paid services, some have free tiers.
 - [SPLarkController ![GitHub Repo Stars](https://img.shields.io/github/stars/IvanVorobei/SPLarkController) ![GitHub last commit](https://img.shields.io/github/last-commit/IvanVorobei/SPLarkController)](https://github.com/IvanVorobei/SPLarkController) - Settings screen with buttons and switches.
 - [SwiftyMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/KarimEbrahemAbdelaziz/SwiftyMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/KarimEbrahemAbdelaziz/SwiftyMenu)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Navigation Bar
 - [HidingNavigationBar ![GitHub Repo Stars](https://img.shields.io/github/stars/tristanhimmelman/HidingNavigationBar) ![GitHub last commit](https://img.shields.io/github/last-commit/tristanhimmelman/HidingNavigationBar)](https://github.com/tristanhimmelman/HidingNavigationBar) - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls
 - [KMNavigationBarTransition ![GitHub Repo Stars](https://img.shields.io/github/stars/MoZhouqi/KMNavigationBarTransition) ![GitHub last commit](https://img.shields.io/github/last-commit/MoZhouqi/KMNavigationBarTransition)](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
@@ -2328,6 +2496,8 @@ Most of these are paid services, some have free tiers.
 - [NavKit ![GitHub Repo Stars](https://img.shields.io/github/stars/wilbertliu/NavKit) ![GitHub last commit](https://img.shields.io/github/last-commit/wilbertliu/NavKit)](https://github.com/wilbertliu/NavKit) - Simple and integrated way to customize navigation bar experience on iOS app.
 - [RainbowNavigation ![GitHub Repo Stars](https://img.shields.io/github/stars/DanisFabric/RainbowNavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/DanisFabric/RainbowNavigation)](https://github.com/DanisFabric/RainbowNavigation) - An easy way to change backgroundColor of UINavigationBar when Push & Pop
 - [TONavigationBar ![GitHub Repo Stars](https://img.shields.io/github/stars/TimOliver/TONavigationBar) ![GitHub last commit](https://img.shields.io/github/last-commit/TimOliver/TONavigationBar)](https://github.com/TimOliver/TONavigationBar) - A simple subclass that adds the ability to set the navigation bar background to 'clear' and gradually transition it visibly back in, similar to the effect in the iOS Music app.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### PickerView
 - [ActionSheetPicker-3.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/skywinder/ActionSheetPicker-3.0) ![GitHub last commit](https://img.shields.io/github/last-commit/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
@@ -2344,6 +2514,8 @@ Most of these are paid services, some have free tiers.
 - [MICountryPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaibrahim989/MICountryPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaibrahim989/MICountryPicker)](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option.
 - [ADDatePicker ![GitHub Repo Stars](https://img.shields.io/github/stars/abhiperry/ADDatePicker) ![GitHub last commit](https://img.shields.io/github/last-commit/abhiperry/ADDatePicker)](https://github.com/abhiperry/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift.
 - [SKCountryPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/SURYAKANTSHARMA/CountryPicker)](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Popup
 - [MMPopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/adad184/MMPopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/adad184/MMPopupView)](https://github.com/adad184/MMPopupView) - Pop-up based view(e.g. alert sheet), can easily customize.
@@ -2365,9 +2537,13 @@ Most of these are paid services, some have free tiers.
 - [PopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/PopupView)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 - [MijickPopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/Mijick/PopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/Mijick/PopupView)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### ProgressView
 - [ProgressMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/khawajafarooq/ProgressMeter) ![GitHub last commit](https://img.shields.io/github/last-commit/khawajafarooq/ProgressMeter)](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
 - [GradientCircularProgress ![GitHub Repo Stars](https://img.shields.io/github/stars/keygx/GradientCircularProgress) ![GitHub last commit](https://img.shields.io/github/last-commit/keygx/GradientCircularProgress)](https://github.com/keygx/GradientCircularProgress) - Customizable progress indicator library in Swift.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Pull to Refresh
 - [DGElasticPullToRefresh ![GitHub Repo Stars](https://img.shields.io/github/stars/gontovnik/DGElasticPullToRefresh) ![GitHub last commit](https://img.shields.io/github/last-commit/gontovnik/DGElasticPullToRefresh)](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
@@ -2392,6 +2568,8 @@ Most of these are paid services, some have free tiers.
 - [CRRefresh ![GitHub Repo Stars](https://img.shields.io/github/stars/CRAnimation/CRRefresh) ![GitHub last commit](https://img.shields.io/github/last-commit/CRAnimation/CRRefresh)](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh.
 - [KafkaRefresh ![GitHub Repo Stars](https://img.shields.io/github/stars/HsiaohuiHsiang/KafkaRefresh) ![GitHub last commit](https://img.shields.io/github/last-commit/HsiaohuiHsiang/KafkaRefresh)](https://github.com/HsiaohuiHsiang/KafkaRefresh) - Animated, customizable, and flexible pull-to-refresh framework for faster and easier iOS development.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Rating Stars
 - [FloatRatingView ![GitHub Repo Stars](https://img.shields.io/github/stars/glenyi/FloatRatingView) ![GitHub last commit](https://img.shields.io/github/last-commit/glenyi/FloatRatingView)](https://github.com/glenyi/FloatRatingView) - Whole, half or floating point ratings control written in Swift
 - [TTGEmojiRate ![GitHub Repo Stars](https://img.shields.io/github/stars/zekunyan/TTGEmojiRate) ![GitHub last commit](https://img.shields.io/github/last-commit/zekunyan/TTGEmojiRate)](https://github.com/zekunyan/TTGEmojiRate) - An emoji-liked rating view for iOS, implemented in Swift.
@@ -2400,6 +2578,8 @@ Most of these are paid services, some have free tiers.
 - [HCSStarRatingView ![GitHub Repo Stars](https://img.shields.io/github/stars/hsousa/HCSStarRatingView) ![GitHub last commit](https://img.shields.io/github/last-commit/hsousa/HCSStarRatingView)](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C
 - [MBRateApp ![GitHub Repo Stars](https://img.shields.io/github/stars/MatiBot/MBRateApp) ![GitHub last commit](https://img.shields.io/github/last-commit/MatiBot/MBRateApp)](https://github.com/MatiBot/MBRateApp) - A groovy app rate stars screen for iOS written in Swift
 - [RPInteraction ![GitHub Repo Stars](https://img.shields.io/github/stars/nbolatov/RPInteraction) ![GitHub last commit](https://img.shields.io/github/last-commit/nbolatov/RPInteraction)](https://github.com/nbolatov/RPInteraction) - Review page interaction - handy and pretty way to ask for review.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### ScrollView
 - [ScrollingFollowView ![GitHub Repo Stars](https://img.shields.io/github/stars/ktanaka117/ScrollingFollowView) ![GitHub last commit](https://img.shields.io/github/last-commit/ktanaka117/ScrollingFollowView)](https://github.com/ktanaka117/ScrollingFollowView) - ScrollingFollowView is a simple view which follows UIScrollView scrolling.
@@ -2414,6 +2594,8 @@ Most of these are paid services, some have free tiers.
 - [CrownControl ![GitHub Repo Stars](https://img.shields.io/github/stars/huri000/CrownControl) ![GitHub last commit](https://img.shields.io/github/last-commit/huri000/CrownControl)](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 - [SegementSlide ![GitHub Repo Stars](https://img.shields.io/github/stars/Jiar/SegementSlide) ![GitHub last commit](https://img.shields.io/github/last-commit/Jiar/SegementSlide)](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Segmented Control
 - [BetterSegmentedControl ![GitHub Repo Stars](https://img.shields.io/github/stars/gmarm/BetterSegmentedControl) ![GitHub last commit](https://img.shields.io/github/last-commit/gmarm/BetterSegmentedControl)](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 - [LUNSegmentedControl ![GitHub Repo Stars](https://img.shields.io/github/stars/Stormotion-Mobile/LUNSegmentedControl) ![GitHub last commit](https://img.shields.io/github/last-commit/Stormotion-Mobile/LUNSegmentedControl)](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - Customizable segmented control with interactive animation.
@@ -2426,6 +2608,8 @@ Most of these are paid services, some have free tiers.
 - [DynamicMaskSegmentSwitch ![GitHub Repo Stars](https://img.shields.io/github/stars/KittenYang/DynamicMaskSegmentSwitch) ![GitHub last commit](https://img.shields.io/github/last-commit/KittenYang/DynamicMaskSegmentSwitch)](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect
 - [PinterestSegment ![GitHub Repo Stars](https://img.shields.io/github/stars/TBXark/PinterestSegment) ![GitHub last commit](https://img.shields.io/github/last-commit/TBXark/PinterestSegment)](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
 - [DGRunkeeperSwitch ![GitHub Repo Stars](https://img.shields.io/github/stars/gontovnik/DGRunkeeperSwitch) ![GitHub last commit](https://img.shields.io/github/last-commit/gontovnik/DGRunkeeperSwitch)](https://github.com/gontovnik/DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control)
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Slider
 - [VolumeControl ![GitHub Repo Stars](https://img.shields.io/github/stars/12Rockets/VolumeControl) ![GitHub last commit](https://img.shields.io/github/last-commit/12Rockets/VolumeControl)](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
@@ -2450,13 +2634,19 @@ Most of these are paid services, some have free tiers.
 - [AGCircularPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/agilie/AGCircularPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/agilie/AGCircularPicker)](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 - [Fluid Slider ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramotion/fluid-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramotion/fluid-slider)](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Splash View
 - [CBZSplashView ![GitHub Repo Stars](https://img.shields.io/github/stars/callumboddy/CBZSplashView) ![GitHub last commit](https://img.shields.io/github/last-commit/callumboddy/CBZSplashView)](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
 - [SKSplashView ![GitHub Repo Stars](https://img.shields.io/github/stars/sachinkesiraju/SKSplashView) ![GitHub last commit](https://img.shields.io/github/last-commit/sachinkesiraju/SKSplashView)](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
 - [RevealingSplashView ![GitHub Repo Stars](https://img.shields.io/github/stars/PiXeL16/RevealingSplashView) ![GitHub last commit](https://img.shields.io/github/last-commit/PiXeL16/RevealingSplashView)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Status Bar
 - [Bartinter ![GitHub Repo Stars](https://img.shields.io/github/stars/MaximKotliar/Bartinter) ![GitHub last commit](https://img.shields.io/github/last-commit/MaximKotliar/Bartinter)](https://github.com/MaximKotliar/Bartinter) - Status bar tint depending on content behind, updates dynamically.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Stepper
 - [PFStepper ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfectFreeze/PFStepper) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfectFreeze/PFStepper)](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had!
@@ -2465,6 +2655,8 @@ Most of these are paid services, some have free tiers.
 - [barceloneta ![GitHub Repo Stars](https://img.shields.io/github/stars/arn00s/barceloneta) ![GitHub last commit](https://img.shields.io/github/last-commit/arn00s/barceloneta)](https://github.com/arn00s/barceloneta) - The right way to increment/decrement values with a simple gesture on iOS.
 - [SnappingStepper ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickl/SnappingStepper) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickl/SnappingStepper)](https://github.com/yannickl/SnappingStepper) - An elegant alternative to the UIStepper written in Swift
 - [SMNumberWheel ![GitHub Repo Stars](https://img.shields.io/github/stars/SinaMoetakef/SMNumberWheel) ![GitHub last commit](https://img.shields.io/github/last-commit/SinaMoetakef/SMNumberWheel)](https://github.com/SinaMoetakef/SMNumberWheel) - A custom control written in Swift, which is ideal for picking numbers very fast but yet very accurate using a rotating wheel
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Switch
 - [AnimatedSwitch ![GitHub Repo Stars](https://img.shields.io/github/stars/alsedi/AnimatedSwitch) ![GitHub last commit](https://img.shields.io/github/last-commit/alsedi/AnimatedSwitch)](https://github.com/alsedi/AnimatedSwitch) - UISwitch which paints over the parent view with the color in Swift.
@@ -2477,6 +2669,8 @@ Most of these are paid services, some have free tiers.
 - [RAMPaperSwitch ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramotion/paper-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramotion/paper-switch)](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on.
 - [AIFlatSwitch ![GitHub Repo Stars](https://img.shields.io/github/stars/cocoatoucher/AIFlatSwitch) ![GitHub last commit](https://img.shields.io/github/last-commit/cocoatoucher/AIFlatSwitch)](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch on iOS
 - [Switch ![GitHub Repo Stars](https://img.shields.io/github/stars/T-Pham/Switch) ![GitHub last commit](https://img.shields.io/github/last-commit/T-Pham/Switch)](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Tab Bar
 - [ESTabBarController ![GitHub Repo Stars](https://img.shields.io/github/stars/ezescaruli/ESTabBarController) ![GitHub last commit](https://img.shields.io/github/last-commit/ezescaruli/ESTabBarController)](https://github.com/ezescaruli/ESTabBarController) - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
@@ -2507,6 +2701,8 @@ Most of these are paid services, some have free tiers.
 - [ExpandedTabBar ![GitHub Repo Stars](https://img.shields.io/github/stars/yervandsar/ExpandedTabBar) ![GitHub last commit](https://img.shields.io/github/last-commit/yervandsar/ExpandedTabBar)](https://github.com/yervandsar/ExpandedTabBar) - Very creative designed solution for "more" items in UITabBarController
 - [BEKCurveTabbar ![GitHub Repo Stars](https://img.shields.io/github/stars/behrad-kzm/BEKCurveTabbar) ![GitHub last commit](https://img.shields.io/github/last-commit/behrad-kzm/BEKCurveTabbar)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 - [AnimatedTabBar ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/AnimatedTabBar) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/AnimatedTabBar)](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations. Written with SwiftUI.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Table View / Collection View
 
@@ -2549,6 +2745,8 @@ Most of these are paid services, some have free tiers.
 - [OKTableViewLiaison ![GitHub Repo Stars](https://img.shields.io/github/stars/okcupid/OKTableViewLiaison) ![GitHub last commit](https://img.shields.io/github/last-commit/okcupid/OKTableViewLiaison)](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
 - [ThunderTable ![GitHub Repo Stars](https://img.shields.io/github/stars/3sidedcube/ThunderTable) ![GitHub last commit](https://img.shields.io/github/last-commit/3sidedcube/ThunderTable)](https://github.com/3sidedcube/ThunderTable) - A simple declarative approach to UITableViewController management using a protocol-based approach.
 
+**[back to top](#contributing-and-collaborating)**
+
 #### Collection View
 
 - [Dwifft ![GitHub Repo Stars](https://img.shields.io/github/stars/jflinter/Dwifft) ![GitHub last commit](https://img.shields.io/github/last-commit/jflinter/Dwifft)](https://github.com/jflinter/Dwifft) - Swift Diff
@@ -2584,7 +2782,9 @@ Most of these are paid services, some have free tiers.
 - [DiffableDataSources ![GitHub Repo Stars](https://img.shields.io/github/stars/ra1028/DiffableDataSources) ![GitHub last commit](https://img.shields.io/github/last-commit/ra1028/DiffableDataSources)](https://github.com/ra1028/DiffableDataSources) - A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [StableCollectionViewLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/aimalygin/StableCollectionViewLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/aimalygin/StableCollectionViewLayout)](https://github.com/aimalygin/StableCollectionViewLayout) - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
 - [IQListKit ![GitHub Repo Stars](https://img.shields.io/github/stars/hackiftekhar/IQListKit) ![GitHub last commit](https://img.shields.io/github/last-commit/hackiftekhar/IQListKit)](https://github.com/hackiftekhar/IQListKit) - Model driven UITableView/UICollectionView.
--
+
+**[back to top](#contributing-and-collaborating)**
+
 #### Expandable Cell
 
 - [folding-cell ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramotion/folding-cell) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramotion/folding-cell)](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
@@ -2596,7 +2796,9 @@ Most of these are paid services, some have free tiers.
 - [FTFoldingPaper ![GitHub Repo Stars](https://img.shields.io/github/stars/monofire/FTFoldingPaper) ![GitHub last commit](https://img.shields.io/github/last-commit/monofire/FTFoldingPaper)](https://github.com/monofire/FTFoldingPaper) - Emulates paper folding effect. Can be integrated with UITableView or used with other UI components.
 - [CollapsibleTableSectionViewController ![GitHub Repo Stars](https://img.shields.io/github/stars/jeantimex/CollapsibleTableSectionViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/jeantimex/CollapsibleTableSectionViewController)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A swift library to support collapsible sections in a table view.
 - [ExpandableCell ![GitHub Repo Stars](https://img.shields.io/github/stars/younatics/ExpandableCell) ![GitHub last commit](https://img.shields.io/github/last-commit/younatics/ExpandableCell)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS.
-- [expanding-collection ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramotion/expanding-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramotion/expanding-collection)](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller
+- [expanding-collection ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramotion/expanding-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramotion/expanding-collection)](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller.
+
+**[back to top](#contributing-and-collaborating)**
 
 #### Header
 
@@ -2604,12 +2806,16 @@ Most of these are paid services, some have free tiers.
 - [CSStickyHeaderFlowLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) - UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header.
 - [GSKStretchyHeaderView ![GitHub Repo Stars](https://img.shields.io/github/stars/gskbyte/GSKStretchyHeaderView) ![GitHub last commit](https://img.shields.io/github/last-commit/gskbyte/GSKStretchyHeaderView)](https://github.com/gskbyte/GSKStretchyHeaderView) - Configurable yet easy to use stretchy header view for UITableView and UICollectionView.
 
+**[back to top](#contributing-and-collaborating)**
+
 #### Placeholder
 
 - [DZNEmptyDataSet ![GitHub Repo Stars](https://img.shields.io/github/stars/dzenbot/DZNEmptyDataSet) ![GitHub last commit](https://img.shields.io/github/last-commit/dzenbot/DZNEmptyDataSet)](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
 - [HGPlaceholders ![GitHub Repo Stars](https://img.shields.io/github/stars/HamzaGhazouani/HGPlaceholders) ![GitHub last commit](https://img.shields.io/github/last-commit/HamzaGhazouani/HGPlaceholders)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project
 - [ListPlaceholder ![GitHub Repo Stars](https://img.shields.io/github/stars/malkouz/ListPlaceholder) ![GitHub last commit](https://img.shields.io/github/last-commit/malkouz/ListPlaceholder)](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views
 - [WLEmptyState ![GitHub Repo Stars](https://img.shields.io/github/stars/wizeline/WLEmptyState) ![GitHub last commit](https://img.shields.io/github/last-commit/wizeline/WLEmptyState)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+
+**[back to top](#contributing-and-collaborating)**
 
 #### Collection View Layout
 
@@ -2622,10 +2828,11 @@ Most of these are paid services, some have free tiers.
 - [SquareMosaicLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/iwheelbuy/SquareMosaicLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/iwheelbuy/SquareMosaicLayout)](https://github.com/iwheelbuy/SquareMosaicLayout) - An extandable mosaic UICollectionViewLayout with a focus on extremely flexible customizations
 - [BouncyLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/roberthein/BouncyLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/roberthein/BouncyLayout)](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
 - [AZSafariCollectionViewLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/AfrozZaheer/AZSafariCollectionViewLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/AfrozZaheer/AZSafariCollectionViewLayout)](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
--ollectionView, make Instagram Discover within minutes.
 - [Blueprints ![GitHub Repo Stars](https://img.shields.io/github/stars/zenangst/Blueprints) ![GitHub last commit](https://img.shields.io/github/last-commit/zenangst/Blueprints)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 - [UICollectionViewSplitLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/yahoojapan/UICollectionViewSplitLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/yahoojapan/UICollectionViewSplitLayout)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 - [Swinflate ![GitHub Repo Stars](https://img.shields.io/github/stars/VladIacobIonut/Swinflate) ![GitHub last commit](https://img.shields.io/github/last-commit/VladIacobIonut/Swinflate)](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
+
+**[back to top](#contributing-and-collaborating)**
 
 
 ### Tag
@@ -2639,6 +2846,8 @@ Most of these are paid services, some have free tiers.
 - [AKMaskField ![GitHub Repo Stars](https://img.shields.io/github/stars/artemkrachulov/AKMaskField) ![GitHub last commit](https://img.shields.io/github/last-commit/artemkrachulov/AKMaskField)](https://github.com/artemkrachulov/AKMaskField) - AKMaskField is UITextField subclass which allows enter data in the fixed quantity and in the certain format.
 - [YNSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/younatics/YNSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/younatics/YNSearch)](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest written in Swift 3.
 - [SFFocusViewLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/fdzsergio/SFFocusViewLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/fdzsergio/SFFocusViewLayout)](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content.
+
+**[back to top](#contributing-and-collaborating)**
 
 ### TextField & TextView
 - [JVFloatLabeledTextField ![GitHub Repo Stars](https://img.shields.io/github/stars/jverdi/JVFloatLabeledTextField) ![GitHub last commit](https://img.shields.io/github/last-commit/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
@@ -2691,6 +2900,8 @@ Most of these are paid services, some have free tiers.
 - [CHIOTPField ![GitHub Repo Stars](https://img.shields.io/github/stars/ChiliLabs/CHIOTPField) ![GitHub last commit](https://img.shields.io/github/last-commit/ChiliLabs/CHIOTPField)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 - [Streamoji ![GitHub Repo Stars](https://img.shields.io/github/stars/getstream/Streamoji) ![GitHub last commit](https://img.shields.io/github/last-commit/getstream/Streamoji)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### UIPageControl
 - [PageControl ![GitHub Repo Stars](https://img.shields.io/github/stars/kasper-lahti/PageControl) ![GitHub last commit](https://img.shields.io/github/last-commit/kasper-lahti/PageControl)](https://github.com/kasper-lahti/PageControl) - A nice, animated UIPageControl alternative.
 - [PageControls ![GitHub Repo Stars](https://img.shields.io/github/stars/popwarsweet/PageControls) ![GitHub last commit](https://img.shields.io/github/last-commit/popwarsweet/PageControls)](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here.
@@ -2698,11 +2909,15 @@ Most of these are paid services, some have free tiers.
 - [Page-Control ![GitHub Repo Stars](https://img.shields.io/github/stars/sevruk-dev/page-control) ![GitHub last commit](https://img.shields.io/github/last-commit/sevruk-dev/page-control)](https://github.com/sevruk-dev/page-control) - Beautiful, animated and highly customizable UIPageControl alternative.
 - [TKRubberIndicator ![GitHub Repo Stars](https://img.shields.io/github/stars/TBXark/TKRubberIndicator) ![GitHub last commit](https://img.shields.io/github/last-commit/TBXark/TKRubberIndicator)](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Web View
 - [Otafuku ![GitHub Repo Stars](https://img.shields.io/github/stars/tasanobu/Otafuku) ![GitHub last commit](https://img.shields.io/github/last-commit/tasanobu/Otafuku)](https://github.com/tasanobu/Otafuku) - Otafuku provides utility classes to use WKWebView in Swift.
 - [SwiftWebVC ![GitHub Repo Stars](https://img.shields.io/github/stars/meismyles/SwiftWebVC) ![GitHub last commit](https://img.shields.io/github/last-commit/meismyles/SwiftWebVC)](https://github.com/meismyles/SwiftWebVC) - A drop-in inline browser for your Swift iOS app.
 - [SVWebViewController ![GitHub Repo Stars](https://img.shields.io/github/stars/TransitApp/SVWebViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/TransitApp/SVWebViewController)](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
 - [PTPopupWebView ![GitHub Repo Stars](https://img.shields.io/github/stars/pjocprac/PTPopupWebView) ![GitHub last commit](https://img.shields.io/github/last-commit/pjocprac/PTPopupWebView)](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Utility
  * [Underscore.m ![GitHub Repo Stars](https://img.shields.io/github/stars/robb/Underscore.m) ![GitHub last commit](https://img.shields.io/github/last-commit/robb/Underscore.m)](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
@@ -2776,15 +2991,21 @@ Most of these are paid services, some have free tiers.
  * [ReviewKit ![GitHub Repo Stars](https://img.shields.io/github/stars/simonmitchell/ReviewKit) ![GitHub last commit](https://img.shields.io/github/last-commit/simonmitchell/ReviewKit)](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
  * [SwiftBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/sparrowcode/SwiftBoost) ![GitHub last commit](https://img.shields.io/github/last-commit/sparrowcode/SwiftBoost)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
+ **[back to top](#contributing-and-collaborating)**
+
 ## User Consent
 - [SmartlookConsentSDK ![GitHub Repo Stars](https://img.shields.io/github/stars/smartlook/ios-consent-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/smartlook/ios-consent-sdk)](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
 - [PrivacyFlash Pro ![GitHub Repo Stars](https://img.shields.io/github/stars/privacy-tech-lab/privacyflash-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/privacy-tech-lab/privacyflash-pro)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+
+**[back to top](#contributing-and-collaborating)**
 
 ## VR
 - [VR Toolkit iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/Aralekk/VR_Toolkit_iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/Aralekk/VR_Toolkit_iOS)](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS.
 - [360 VR Player ![GitHub Repo Stars](https://img.shields.io/github/stars/hanton/HTY360Player) ![GitHub last commit](https://img.shields.io/github/last-commit/hanton/HTY360Player)](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
 - [simple360player ![GitHub Repo Stars](https://img.shields.io/github/stars/Aralekk/simple360player_iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/Aralekk/simple360player_iOS)](https://github.com/Aralekk/simple360player_iOS) - Free & ad-free 360 VR Video Player. Flat or Stereoscopic. In Swift 2.
 - [Swifty360Player ![GitHub Repo Stars](https://img.shields.io/github/stars/abdullahselek/Swifty360Player) ![GitHub last commit](https://img.shields.io/github/last-commit/abdullahselek/Swifty360Player)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer with Swift.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Walkthrough / Intro / Tutorial
 - [Onboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mamaral/Onboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mamaral/Onboard)](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
@@ -2817,6 +3038,8 @@ Most of these are paid services, some have free tiers.
 - [OnboardKit ![GitHub Repo Stars](https://img.shields.io/github/stars/NikolaKirev/OnboardKit) ![GitHub last commit](https://img.shields.io/github/last-commit/NikolaKirev/OnboardKit)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 - [ConcentricOnboarding ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/ConcentricOnboarding) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/ConcentricOnboarding)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## WebSocket
 - [SocketRocket ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/SocketRocket) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/SocketRocket)](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
 - [socket.io-client-swift ![GitHub Repo Stars](https://img.shields.io/github/stars/socketio/socket.io-client-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/socketio/socket.io-client-swift)](https://github.com/socketio/socket.io-client-swift) - Socket.IO-client for iOS/macOS.
@@ -2827,6 +3050,8 @@ Most of these are paid services, some have free tiers.
 - [SwifterSockets ![GitHub Repo Stars](https://img.shields.io/github/stars/Balancingrock/SwifterSockets) ![GitHub last commit](https://img.shields.io/github/last-commit/Balancingrock/SwifterSockets)](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS.
 - [Swift-ActionCableClient ![GitHub Repo Stars](https://img.shields.io/github/stars/danielrhodes/Swift-ActionCableClient) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrhodes/Swift-ActionCableClient)](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app.
 - [DNWebSocket ![GitHub Repo Stars](https://img.shields.io/github/stars/GlebRadchenko/DNWebSocket) ![GitHub last commit](https://img.shields.io/github/last-commit/GlebRadchenko/DNWebSocket)](https://github.com/GlebRadchenko/DNWebSocket) - Object-Oriented, Swift-style WebSocket Library (RFC 6455) for Swift-compatible Platforms.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Project setup
 - [crafter ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/crafter) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/crafter)](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -2839,6 +3064,8 @@ Most of these are paid services, some have free tiers.
 - [SwiftKit ![GitHub Repo Stars](https://img.shields.io/github/stars/SvenTiigi/SwiftKit) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenTiigi/SwiftKit)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 - [swift5-module-template ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/swift5-module-template) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/swift5-module-template)](https://github.com/fulldecent/swift5-module-template) - A starting point for any Swift 5 module that you want other people to include in their projects.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Dependency / Package Manager
 - [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
 - [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
@@ -2850,6 +3077,8 @@ Most of these are paid services, some have free tiers.
 - [Rome ![GitHub Repo Stars](https://img.shields.io/github/stars/tmspzz/Rome) ![GitHub last commit](https://img.shields.io/github/last-commit/tmspzz/Rome)](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks.
 - [Athena ![GitHub Repo Stars](https://img.shields.io/github/stars/yunarta/works-athena-gradle-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/yunarta/works-athena-gradle-plugin)](https://github.com/yunarta/works-athena-gradle-plugin) - Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local.
 - [Accio ![GitHub Repo Stars](https://img.shields.io/github/stars/JamitLabs/Accio) ![GitHub last commit](https://img.shields.io/github/last-commit/JamitLabs/Accio)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Tools
 
@@ -2936,6 +3165,8 @@ Most of these are paid services, some have free tiers.
 - [Respresso Image Converter](https://respresso.io/image-converter) - Multiplatform image converter for iOS, Android, and Web that supports pdf, svg, vector drawable, jpg, png, and webp formats.
 - [Rugby ![GitHub Repo Stars](https://img.shields.io/github/stars/swiftyfinch/Rugby) ![GitHub last commit](https://img.shields.io/github/last-commit/swiftyfinch/Rugby)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Rapid Development
 
 - [Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/Playgrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/Playgrounds)](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.
@@ -2944,12 +3175,16 @@ Most of these are paid services, some have free tiers.
 - [swiftmon ![GitHub Repo Stars](https://img.shields.io/github/stars/dimpiax/swiftmon) ![GitHub last commit](https://img.shields.io/github/last-commit/dimpiax/swiftmon)](https://github.com/dimpiax/swiftmon) - swiftmon restarts your swift application in case of any file change.
 - [Model2App ![GitHub Repo Stars](https://img.shields.io/github/stars/Q-Mobile/Model2App) ![GitHub last commit](https://img.shields.io/github/last-commit/Q-Mobile/Model2App)](https://github.com/Q-Mobile/Model2App) - Turn your Swift data model into a working CRUD app.
 
+**[back to top](#contributing-and-collaborating)**
+
 
 ## Code Injection
 
 - [dyci ![GitHub Repo Stars](https://img.shields.io/github/stars/DyCI/dyci-main) ![GitHub last commit](https://img.shields.io/github/last-commit/DyCI/dyci-main)](https://github.com/DyCI/dyci-main) - Code injection tool.
 - [injectionforxcode ![GitHub Repo Stars](https://img.shields.io/github/stars/johnno1962/injectionforxcode) ![GitHub last commit](https://img.shields.io/github/last-commit/johnno1962/injectionforxcode)](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 - [Vaccine ![GitHub Repo Stars](https://img.shields.io/github/stars/zenangst/Vaccine) ![GitHub last commit](https://img.shields.io/github/last-commit/zenangst/Vaccine)](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease.
+
+**[back to top](#contributing-and-collaborating)**
 
 
 ## Dependency Injection
@@ -2969,6 +3204,8 @@ Most of these are paid services, some have free tiers.
 - [DITranquillity ![GitHub Repo Stars](https://img.shields.io/github/stars/ivlevAstef/DITranquillity) ![GitHub last commit](https://img.shields.io/github/last-commit/ivlevAstef/DITranquillity)](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
 - [Needle ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/needle) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/needle)](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
 - [Locatable ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent-pradeilles/locatable) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent-pradeilles/locatable)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Deployment / Distribution
 
@@ -2996,6 +3233,8 @@ Most of these are paid services, some have free tiers.
 - [Runway](https://runway.team) - Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration.
 - [ios-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/simonnilsson/ios-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/simonnilsson/ios-uploader)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## App Store
 
 - [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
@@ -3007,10 +3246,12 @@ Most of these are paid services, some have free tiers.
 - [Appstore Review Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/aashishtamsya/Appstore-Review-Guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/aashishtamsya/Appstore-Review-Guidelines)](https://github.com/aashishtamsya/Appstore-Review-Guidelines) - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
 - [AppVersion ![GitHub Repo Stars](https://img.shields.io/github/stars/amebalabs/AppVersion) ![GitHub last commit](https://img.shields.io/github/last-commit/amebalabs/AppVersion)](https://github.com/amebalabs/AppVersion) - Keep users on the up-to date version of your App.
 
+**[back to top](#contributing-and-collaborating)**
+
 
 ## Xcode
 
-### Extensions (Xcode 8+)
+### Extensions
 
 * [CleanClosureXcode ![GitHub Repo Stars](https://img.shields.io/github/stars/BalestraPatrick/CleanClosureXcode) ![GitHub last commit](https://img.shields.io/github/last-commit/BalestraPatrick/CleanClosureXcode)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
 * [xTextHandler ![GitHub Repo Stars](https://img.shields.io/github/stars/cyanzhong/xTextHandler) ![GitHub last commit](https://img.shields.io/github/last-commit/cyanzhong/xTextHandler)](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset (Plugins for Xcode 8).
@@ -3027,6 +3268,8 @@ Most of these are paid services, some have free tiers.
 * [Comment Spell Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/velyan/Comment-Spell-Checker) ![GitHub last commit](https://img.shields.io/github/last-commit/velyan/Comment-Spell-Checker)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
 * [nef ![GitHub Repo Stars](https://img.shields.io/github/stars/bow-swift/nef-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/bow-swift/nef-plugin)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Themes
 
 - [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
@@ -3034,6 +3277,8 @@ Most of these are paid services, some have free tiers.
 - [Solarized-Dark-for-Xcode ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtSabintsev/Solarized-Dark-for-Xcode) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtSabintsev/Solarized-Dark-for-Xcode)](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 - [WWDC2016 Xcode Color Scheme ![GitHub Repo Stars](https://img.shields.io/github/stars/cargath/WWDC2016-Xcode-Color-Scheme) ![GitHub last commit](https://img.shields.io/github/last-commit/cargath/WWDC2016-Xcode-Color-Scheme)](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 - [DRL Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/durul/Xcodetheme) ![GitHub last commit](https://img.shields.io/github/last-commit/durul/Xcodetheme)](https://github.com/durul/Xcodetheme) - A soft darkness theme for Xcode.
+
+**[back to top](#contributing-and-collaborating)**
 
 
 ### Other Xcode
@@ -3052,6 +3297,8 @@ Most of these are paid services, some have free tiers.
 - [VIPER Module Template ![GitHub Repo Stars](https://img.shields.io/github/stars/EvsenevDev/VIPERModuleTemplate) ![GitHub last commit](https://img.shields.io/github/last-commit/EvsenevDev/VIPERModuleTemplate)](https://github.com/EvsenevDev/VIPERModuleTemplate) - Xcode Template of VIPER Module which generates all layers of VIPER.
 - [Xcode Developer Disk Images ![GitHub Repo Stars](https://img.shields.io/github/stars/haikieu/xcode-developer-disk-image-all-platforms) ![GitHub last commit](https://img.shields.io/github/last-commit/haikieu/xcode-developer-disk-image-all-platforms)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Reference
 - [Swift Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/iwasrobbed/Swift-CheatSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/iwasrobbed/Swift-CheatSheet)](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift.
 - [Objective-C Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/iwasrobbed/Objective-C-CheatSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/iwasrobbed/Objective-C-CheatSheet)](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
@@ -3060,6 +3307,8 @@ Most of these are paid services, some have free tiers.
 - [whats-new-in-swift-4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ole/whats-new-in-swift-4) ![GitHub last commit](https://img.shields.io/github/last-commit/ole/whats-new-in-swift-4)](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 - [WWDC-Recap](https://erenkabakci.github.io/WWDC-Recap/) - A collection of session summaries in markdown format, from WWDC 19 & 17.
 - [Awesome-ios](https://kandi.openweaver.com/swift/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Style Guides
 - [NY Times - Objective C Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/NYTimes/objective-c-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/NYTimes/objective-c-style-guide)](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
@@ -3073,6 +3322,8 @@ Most of these are paid services, some have free tiers.
 - [SlideShare Swift Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/SlideShareInc/swift-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/SlideShareInc/swift-style-guide)](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
 - [Prolific Interactive Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/prolificinteractive/swift-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/prolificinteractive/swift-style-guide)](https://github.com/prolificinteractive/swift-style-guide) - A style guide for Swift.
 - [Swift Style Guide by LinkedIn ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/swift-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/swift-style-guide)](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Good Websites
 
@@ -3097,13 +3348,19 @@ Most of these are paid services, some have free tiers.
 - [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 - [Ohmyswift](https://www.ohmyswift.com/blog/)
 
+**[back to top](#contributing-and-collaborating)**
+
 
 ### UIKit references
 - [iOS Fonts](http://iosfonts.com/)
 - [UIAppearance list](https://gist.github.com/mattt/5135521)
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Forums and discuss lists
 - ["iOS" on Stackoverflow](https://stackoverflow.com/questions/tagged/ios)
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Tutorials and Keynotes
 - [AppCoda](https://www.appcoda.com/)
@@ -3134,16 +3391,22 @@ Most of these are paid services, some have free tiers.
 - [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance.
 - [Learn Swift](https://blog.coursesity.com/best-swift-tutorials/) - Learn Swift - curated list of the top online Swift tutorials and courses.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### iOS UI Template
 - [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
 - [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 - [iOS 11 iPhone GUI from Design at Meta](https://design.facebook.com/toolsandresources/ios-11-iphone-gui/)
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Prototyping
 - [FluidUI](https://www.fluidui.com)
 - [Proto.io](https://proto.io/)
 - [Framer](https://www.framer.com/)
 - [Principle](https://principleformac.com/)
+
+**[back to top](#contributing-and-collaborating)**
 
 ### Newsletters
 - [AwesomeiOS Weekly](http://weekly.awesomeios.com) - AwesomeiOS Weekly.
@@ -3160,18 +3423,16 @@ Most of these are paid services, some have free tiers.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
 - [Indie Watch](https://indie.watch/) - A weekly newsletter featuring the best apps made by indie iOS developers.
 
+**[back to top](#contributing-and-collaborating)**
+
 ### Medium
 - [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone.
 - [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language.
 - [Flawless App](https://medium.com/flawless-app-stories) - Development & design & marketing tips for iOS developers.
 
-## Social Media
+**[back to top](#contributing-and-collaborating)**
 
-### Twitter
-- [@objcio](https://twitter.com/objcio)
-- [@CocoaPods](https://twitter.com/CocoaPods)
-- [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
-- [@RubyMotion](https://twitter.com/RubyMotion)
+## Social Media
 
 ## Podcasts
 - [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
@@ -3190,6 +3451,8 @@ Most of these are paid services, some have free tiers.
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 - [Stacktrace](https://stacktracepodcast.fm)
 
+**[back to top](#contributing-and-collaborating)**
+
 ## Books
 - [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
 - [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
@@ -3205,6 +3468,8 @@ Most of these are paid services, some have free tiers.
 - [Core Data by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
 - [Classic Computer Science Problems in Swift](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 - [Swift in Depth](https://www.manning.com/books/swift-in-depth)
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Other Awesome Lists
 
@@ -3240,6 +3505,8 @@ Most of these are paid services, some have free tiers.
 - [Top App Developers ![GitHub Repo Stars](https://img.shields.io/github/stars/app-developers/top) ![GitHub last commit](https://img.shields.io/github/last-commit/app-developers/top)](https://github.com/app-developers/top) - A list of top iOS app developers.
 - [awesome-ios-developer ![GitHub Repo Stars](https://img.shields.io/github/stars/jphong1111/awesome-ios-developer) ![GitHub last commit](https://img.shields.io/github/last-commit/jphong1111/awesome-ios-developer)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
 - [awesome-ios-books ![GitHub Repo Stars](https://img.shields.io/github/stars/bystritskiy/awesome-ios-books) ![GitHub last commit](https://img.shields.io/github/last-commit/bystritskiy/awesome-ios-books)](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
+
+**[back to top](#contributing-and-collaborating)**
 
 ## Contributing and License
 - [See the guide ![GitHub Repo Stars](https://img.shields.io/github/stars/vsouza/awesome-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/vsouza/awesome-ios)](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)

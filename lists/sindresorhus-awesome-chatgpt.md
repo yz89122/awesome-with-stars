@@ -244,6 +244,7 @@
 - [Go ![GitHub Repo Stars](https://img.shields.io/github/stars/AlmazDelDiablo/gpt3-5-turbo-go) ![GitHub last commit](https://img.shields.io/github/last-commit/AlmazDelDiablo/gpt3-5-turbo-go)](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/DelphiOpenAI)](https://github.com/HemulGM/DelphiOpenAI)
 - [PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/openai-php/client) ![GitHub last commit](https://img.shields.io/github/last-commit/openai-php/client)](https://github.com/openai-php/client)
+- [Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrudall/ruby-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrudall/ruby-openai)](https://github.com/alexrudall/ruby-openai)
 
 ### JavaScript
 
