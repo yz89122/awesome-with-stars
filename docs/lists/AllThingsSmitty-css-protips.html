@@ -289,10 +289,11 @@
 
 <h3 id="use-aspect-ratio-instead-of-heightwidth">Use <code class="language-plaintext highlighter-rouge">aspect-ratio</code> Instead of Height/Width</h3>
 
-<p>The <code class="language-plaintext highlighter-rouge">aspect-radio</code> property allows you to easily size elements and maintain consistent width-to-height ratio. This is incredibly useful in responsive web design to prevent layout shift.</p>
+<p>The <code class="language-plaintext highlighter-rouge">aspect-radio</code> property allows you to easily size elements and maintain consistent width-to-height ratio. This is incredibly useful in responsive web design to prevent layout shift. Use <code class="language-plaintext highlighter-rouge">object-fit</code> with it to prevent disrupting the layout if the height/width values of images changes.</p>
 
 <div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">img</span> <span class="p">{</span>
   <span class="py">aspect-ratio</span><span class="p">:</span> <span class="m">16</span> <span class="p">/</span> <span class="m">9</span><span class="p">;</span> <span class="c">/* width / height */</span>
+  <span class="nl">object-fit</span><span class="p">:</span> <span class="n">cover</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div></div>
 
@@ -300,7 +301,7 @@
 
 <h4 id="demo-6"><a href="https://codepen.io/AllThingsSmitty/pen/MWxwoNx/">Demo</a></h4>
 
-<p>⚠️ <strong>Note:</strong> <code class="language-plaintext highlighter-rouge">aspect-ratio</code> isn’t supported in IE11.</p>
+<p>⚠️ <strong>Note:</strong> <code class="language-plaintext highlighter-rouge">aspect-ratio</code> and <code class="language-plaintext highlighter-rouge">object-fit</code> aren’t supported in IE11.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
