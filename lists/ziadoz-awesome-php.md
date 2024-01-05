@@ -585,6 +585,7 @@ Libraries to help manage database schemas and migrations.
 ### NoSQL
 *Libraries for working with "NoSQL" backends.*
 
+* [MongoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-php-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-php-driver)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 * [PHPMongo ![GitHub Repo Stars](https://img.shields.io/github/stars/sokil/php-mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/sokil/php-mongo)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis ![GitHub Repo Stars](https://img.shields.io/github/stars/predis/predis) ![GitHub last commit](https://img.shields.io/github/last-commit/predis/predis)](https://github.com/predis/predis) - A feature-complete Redis library.
 
