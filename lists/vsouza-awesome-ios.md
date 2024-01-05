@@ -152,39 +152,28 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 **[back to top](#contributing-and-collaborating)**
 
-## Bridging
-
-*Sharing code between Objective-C and Swift, iOS and macOS, Javascript and Objective-C.*
-
-- [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
-- [JSPatch ![GitHub Repo Stars](https://img.shields.io/github/stars/bang590/JSPatch) ![GitHub last commit](https://img.shields.io/github/last-commit/bang590/JSPatch)](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
-- [WebViewJavascriptBridge ![GitHub Repo Stars](https://img.shields.io/github/stars/marcuswestin/WebViewJavascriptBridge) ![GitHub last commit](https://img.shields.io/github/last-commit/marcuswestin/WebViewJavascriptBridge)](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
-- [MAIKit ![GitHub Repo Stars](https://img.shields.io/github/stars/MichaelBuckley/MAIKit) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelBuckley/MAIKit)](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS.
-- [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
-
-**[back to top](#contributing-and-collaborating)**
 
 ## Cache
 
 *Thread safe, offline and high performance cache libs and frameworks.*
 
 - [Awesome Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/aschuch/AwesomeCache) ![GitHub last commit](https://img.shields.io/github/last-commit/aschuch/AwesomeCache)](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift).
-- [mattress ![GitHub Repo Stars](https://img.shields.io/github/stars/buzzfeed/mattress) ![GitHub last commit](https://img.shields.io/github/last-commit/buzzfeed/mattress)](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
-- [Carlos ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-media/Carlos) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-media/Carlos)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
-- [HanekeSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/Haneke/HanekeSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/Haneke/HanekeSwift)](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
-- [YYCache ![GitHub Repo Stars](https://img.shields.io/github/stars/ibireme/YYCache) ![GitHub last commit](https://img.shields.io/github/last-commit/ibireme/YYCache)](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
 - [Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperoslo/Cache) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperoslo/Cache)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+- [Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/soffes/Cache) ![GitHub last commit](https://img.shields.io/github/last-commit/soffes/Cache)](https://github.com/soffes/Cache) - Swift caching library.
+- [Cachyr ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/yr-cachyr) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/yr-cachyr)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
+- [Carlos ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-media/Carlos) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-media/Carlos)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+- [Disk ![GitHub Repo Stars](https://img.shields.io/github/stars/saoudrizwan/Disk) ![GitHub last commit](https://img.shields.io/github/last-commit/saoudrizwan/Disk)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
+- [HanekeSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/Haneke/HanekeSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/Haneke/HanekeSwift)](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
+- [Johnny ![GitHub Repo Stars](https://img.shields.io/github/stars/zolomatok/Johnny) ![GitHub last commit](https://img.shields.io/github/last-commit/zolomatok/Johnny)](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift.
+- [mattress ![GitHub Repo Stars](https://img.shields.io/github/stars/buzzfeed/mattress) ![GitHub last commit](https://img.shields.io/github/last-commit/buzzfeed/mattress)](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
+- [MemoryCache ![GitHub Repo Stars](https://img.shields.io/github/stars/yysskk/MemoryCache) ![GitHub last commit](https://img.shields.io/github/last-commit/yysskk/MemoryCache)](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
 - [MGCacheManager ![GitHub Repo Stars](https://img.shields.io/github/stars/Mortgy/MGCacheManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Mortgy/MGCacheManager)](https://github.com/Mortgy/MGCacheManager) - A delightful iOS Networking Cache Managing Class.
+- [PINCache ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/PINCache) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/PINCache)](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
+- [RocketData ![GitHub Repo Stars](https://img.shields.io/github/stars/plivesey/RocketData) ![GitHub last commit](https://img.shields.io/github/last-commit/plivesey/RocketData)](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models.
 - [SPTPersistentCache ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/SPTPersistentCache) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/SPTPersistentCache)](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify.
 - [Track ![GitHub Repo Stars](https://img.shields.io/github/stars/maquannene/Track) ![GitHub last commit](https://img.shields.io/github/last-commit/maquannene/Track)](https://github.com/maquannene/Track) - Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU.
 - [UITableView Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/Kilograpp/UITableView-Cache) ![GitHub last commit](https://img.shields.io/github/last-commit/Kilograpp/UITableView-Cache)](https://github.com/Kilograpp/UITableView-Cache) - UITableView cell cache that cures scroll-lags on a cell instantiating.
-- [RocketData ![GitHub Repo Stars](https://img.shields.io/github/stars/plivesey/RocketData) ![GitHub last commit](https://img.shields.io/github/last-commit/plivesey/RocketData)](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models.
-- [PINCache ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/PINCache) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/PINCache)](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
-- [Johnny ![GitHub Repo Stars](https://img.shields.io/github/stars/zolomatok/Johnny) ![GitHub last commit](https://img.shields.io/github/last-commit/zolomatok/Johnny)](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift.
-- [Disk ![GitHub Repo Stars](https://img.shields.io/github/stars/saoudrizwan/Disk) ![GitHub last commit](https://img.shields.io/github/last-commit/saoudrizwan/Disk)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
-- [Cachyr ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/yr-cachyr) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/yr-cachyr)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
-- [Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/soffes/Cache) ![GitHub last commit](https://img.shields.io/github/last-commit/soffes/Cache)](https://github.com/soffes/Cache) - Swift caching library.
-- [MemoryCache ![GitHub Repo Stars](https://img.shields.io/github/stars/yysskk/MemoryCache) ![GitHub last commit](https://img.shields.io/github/last-commit/yysskk/MemoryCache)](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
+- [YYCache ![GitHub Repo Stars](https://img.shields.io/github/stars/ibireme/YYCache) ![GitHub last commit](https://img.shields.io/github/last-commit/ibireme/YYCache)](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
 
 **[back to top](#contributing-and-collaborating)**
 
