@@ -432,6 +432,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 * [Functional PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/lstrojny/functional-php) ![GitHub last commit](https://img.shields.io/github/last-commit/lstrojny/functional-php)](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Iter ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/iter) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/iter)](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+* [IterTools PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/markrogoyski/itertools-php) ![GitHub last commit](https://img.shields.io/github/last-commit/markrogoyski/itertools-php)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
 * [Patchwork](https://patchwork2.org/) - A library for redefining userland functions.
 * [Pipeline ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/pipeline) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/pipeline)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Porter ![GitHub Repo Stars](https://img.shields.io/github/stars/ScriptFUSION/Porter) ![GitHub last commit](https://img.shields.io/github/last-commit/ScriptFUSION/Porter)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
@@ -545,9 +546,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Browsershot ![GitHub Repo Stars](https://img.shields.io/github/stars/spatie/browsershot) ![GitHub last commit](https://img.shields.io/github/last-commit/spatie/browsershot)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
 * [Dompdf ![GitHub Repo Stars](https://img.shields.io/github/stars/dompdf/dompdf) ![GitHub last commit](https://img.shields.io/github/last-commit/dompdf/dompdf)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 * [Gotenberg ![GitHub Repo Stars](https://img.shields.io/github/stars/gotenberg/gotenberg-php) ![GitHub last commit](https://img.shields.io/github/last-commit/gotenberg/gotenberg-php)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
-* [PHPPdf ![GitHub Repo Stars](https://img.shields.io/github/stars/psliwa/PHPPdf) ![GitHub last commit](https://img.shields.io/github/last-commit/psliwa/PHPPdf)](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 * [Snappy ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/snappy) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/snappy)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-* [WKHTMLToPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/wkhtmltopdf/wkhtmltopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/wkhtmltopdf/wkhtmltopdf)](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
 
 ### Office
 *Libraries for working with office suite documents.*
