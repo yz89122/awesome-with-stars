@@ -230,6 +230,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Tailwind & Stimulus blog ![GitHub Repo Stars](https://img.shields.io/github/stars/AccordBox/wagtail-tailwind-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/AccordBox/wagtail-tailwind-blog)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments. 
 - [Wagtail for Platform.sh ![GitHub Repo Stars](https://img.shields.io/github/stars/platformsh-templates/wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/platformsh-templates/wagtail)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 - [cookiecutter-wagtail-vix ![GitHub Repo Stars](https://img.shields.io/github/stars/engineervix/cookiecutter-wagtail-vix) ![GitHub last commit](https://img.shields.io/github/last-commit/engineervix/cookiecutter-wagtail-vix)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
+- [Wagtail Quickstart with docker ![GitHub Repo Stars](https://img.shields.io/github/stars/saevarom/wagtail-start-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/saevarom/wagtail-start-docker)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 
 ## Resources
 
