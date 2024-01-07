@@ -298,6 +298,10 @@
  - [Bibata ![GitHub Repo Stars](https://img.shields.io/github/stars/KaizIqbal/Bibata_Cursor) ![GitHub last commit](https://img.shields.io/github/last-commit/KaizIqbal/Bibata_Cursor)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
  - [Capitaine Cursors ![GitHub Repo Stars](https://img.shields.io/github/stars/keeferrourke/capitaine-cursors) ![GitHub last commit](https://img.shields.io/github/last-commit/keeferrourke/capitaine-cursors)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
+### Themes for non-GTK apps
+
+- [Obsidian Adwaita Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/birneee/obsidian-adwaita-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/birneee/obsidian-adwaita-theme)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+
 ## Community
 
 ### Official Venues

@@ -346,7 +346,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 - [gtkada ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gtkada) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gtkada)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
-- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
+- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 - [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 binding to FLTK (Fast Light Toolkit).
 - [ada-gui ![GitHub Repo Stars](https://img.shields.io/github/stars/jrcarter/Ada_GUI) ![GitHub last commit](https://img.shields.io/github/last-commit/jrcarter/Ada_GUI)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 - [adawebui ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/adawebui) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/adawebui)](https://github.com/godunko/adawebui) - GUI based on [adawebpack].
