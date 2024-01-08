@@ -31,6 +31,7 @@
 - [artillery-engine-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/artilleryio/artillery) ![GitHub last commit](https://img.shields.io/github/last-commit/artilleryio/artillery)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 - [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 - [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
+- [@guidepup/playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/guidepup/guidepup-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/guidepup/guidepup-playwright)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 
 ## Language Support
 
@@ -64,7 +65,6 @@
 - [playwright-ui5 ![GitHub Repo Stars](https://img.shields.io/github/stars/detachhead/playwright-ui5) ![GitHub last commit](https://img.shields.io/github/last-commit/detachhead/playwright-ui5)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath ![GitHub Repo Stars](https://img.shields.io/github/stars/detachhead/playwright-xpath) ![GitHub last commit](https://img.shields.io/github/last-commit/detachhead/playwright-xpath)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 - [ZeroStep ![GitHub Repo Stars](https://img.shields.io/github/stars/zerostep-ai/zerostep) ![GitHub last commit](https://img.shields.io/github/last-commit/zerostep-ai/zerostep)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
-
 
 ## Reporters
 

@@ -37,6 +37,7 @@
 - [Look and Feel](#look-and-feel)
   - [Icons](#icons)
   - [Cursors](#cursors)
+  - [Themes for non-GTK apps](#themes-for-non-gtk-apps)
 - [Community](#community)
 - [Developer Resources](#developer-resources)
   - [Libraries](#libraries)
@@ -211,7 +212,6 @@
 
 ## Third-party Apps Plugins
 
-- [Firefox GNOME Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelmardojai/firefox-gnome-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelmardojai/firefox-gnome-theme)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 - [Nautilus Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/flozz/nautilus-terminal) ![GitHub last commit](https://img.shields.io/github/last-commit/flozz/nautilus-terminal)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
@@ -300,6 +300,10 @@
 
 ### Themes for non-GTK apps
 
+
+- [Adwaita for Steam ![GitHub Repo Stars](https://img.shields.io/github/stars/tkashkin/Adwaita-for-Steam) ![GitHub last commit](https://img.shields.io/github/last-commit/tkashkin/Adwaita-for-Steam)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
+- [Adwaita theme for VS Code ![GitHub Repo Stars](https://img.shields.io/github/stars/piousdeer/vscode-adwaita) ![GitHub last commit](https://img.shields.io/github/last-commit/piousdeer/vscode-adwaita)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+- [Firefox GNOME Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelmardojai/firefox-gnome-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelmardojai/firefox-gnome-theme)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 - [Obsidian Adwaita Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/birneee/obsidian-adwaita-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/birneee/obsidian-adwaita-theme)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community
