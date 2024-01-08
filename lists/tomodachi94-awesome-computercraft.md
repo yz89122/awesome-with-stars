@@ -8,7 +8,7 @@
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-This project lives [on GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/tomodachi94/awesome-computercraft) ![GitHub last commit](https://img.shields.io/github/last-commit/tomodachi94/awesome-computercraft)](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites.. If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md). If you have other questions, see the [FAQ](./FAQ.md).
+This project lives [on GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/tomodachi94/awesome-computercraft) ![GitHub last commit](https://img.shields.io/github/last-commit/tomodachi94/awesome-computercraft)](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites. If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md). If you have other questions, see the [FAQ](./FAQ.md).
 
 A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
 
@@ -33,7 +33,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Literature](#literature)
   - [Essays](#essays)
   - [Tutorials](#tutorials)
-  - [Charts and tables](#charts-and-tables)
+  - [Charts, tables, and calculators](#charts-tables-and-calculators)
   - [Other lists](#other-lists)
 - [Resources](#resources)
 <!-- /TOC -->
