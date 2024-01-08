@@ -215,7 +215,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [svm-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alloy-rs/svm-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alloy-rs/svm-rs)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 * [tendermint-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tendermint-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tendermint-rs)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 * [wagyu ![GitHub Repo Stars](https://img.shields.io/github/stars/howardwu/wagyu) ![GitHub last commit](https://img.shields.io/github/last-commit/howardwu/wagyu)](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
-* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
+* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) ��� Zcash is an implementation of the "Zerocash" protocol.
 
 ### Database
 
