@@ -170,6 +170,7 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 <!-- omit in toc -->
 #### Kubernetes
+- [Kubescape](https://kubescape.io/) - _Cloud Native Computing Foundation_ - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
 - [Kube-Score ![GitHub Repo Stars](https://img.shields.io/github/stars/zegl/kube-score) ![GitHub last commit](https://img.shields.io/github/last-commit/zegl/kube-score)](https://github.com/zegl/kube-score) - _Gustav Westling_ - Scan Kubernetes object definitions for security and performance misconfiguration.
 - [Kubectrl Kubesec ![GitHub Repo Stars](https://img.shields.io/github/stars/controlplaneio/kubectl-kubesec) ![GitHub last commit](https://img.shields.io/github/last-commit/controlplaneio/kubectl-kubesec)](https://github.com/controlplaneio/kubectl-kubesec) - _ControlPlane_ - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
