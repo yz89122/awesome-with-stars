@@ -48,7 +48,6 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Ninjathon ![GitHub Repo Stars](https://img.shields.io/github/stars/shilomagen/hackathon-matching-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/shilomagen/hackathon-matching-platform)](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
 - [VersusVirus App ![GitHub Repo Stars](https://img.shields.io/github/stars/VersusVirus-Hackathons/VersusVirus-App) ![GitHub last commit](https://img.shields.io/github/last-commit/VersusVirus-Hackathons/VersusVirus-App)](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
 
-
 ### Organisations
 
 > Companies that provide products and services for, or regularly organise, hackathons.
@@ -110,6 +109,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Hackathon Hackers Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/HackathonHackers/Hackathon-Resources) ![GitHub last commit](https://img.shields.io/github/last-commit/HackathonHackers/Hackathon-Resources)](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups ![GitHub Repo Stars](https://img.shields.io/github/stars/HackathonHackers/groups) ![GitHub last commit](https://img.shields.io/github/last-commit/HackathonHackers/groups)](https://github.com/HackathonHackers/groups).
 - [Hackathon.guide ![GitHub Repo Stars](https://img.shields.io/github/stars/JoshData/hackathon.guide) ![GitHub last commit](https://img.shields.io/github/last-commit/JoshData/hackathon.guide)](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden ![GitHub Repo Stars](https://img.shields.io/github/stars/okfde/hackathon-leitfaden) ![GitHub last commit](https://img.shields.io/github/last-commit/okfde/hackathon-leitfaden)](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
+- [Hackday Manifesto ![GitHub Repo Stars](https://img.shields.io/github/stars/hackdaymanifesto/site) ![GitHub last commit](https://img.shields.io/github/last-commit/hackdaymanifesto/site)](https://github.com/hackdaymanifesto/site) - How to make your event a success, and avoid common pitfalls.
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
