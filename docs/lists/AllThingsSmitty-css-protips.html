@@ -112,7 +112,10 @@
 
 <h4 id="demo"><a href="https://codepen.io/AllThingsSmitty/pen/kkrkLL">Demo</a></h4>
 
-<p>⚠️ <strong>Note:</strong> If you follow the <a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a> tip below you might opt to not include the <code class="language-plaintext highlighter-rouge">box-sizing</code> property in  your CSS reset.</p>
+<blockquote>
+  <p>[!NOTE]
+If you follow the <a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a> tip below you might opt to not include the <code class="language-plaintext highlighter-rouge">box-sizing</code> property in  your CSS reset.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -159,7 +162,10 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>⚠️ <strong>Note:</strong> the <code class="language-plaintext highlighter-rouge">all</code> and <code class="language-plaintext highlighter-rouge">unset</code> keywords aren’t supported in IE11.</p>
+<blockquote>
+  <p>[!NOTE]
+The <code class="language-plaintext highlighter-rouge">all</code> and <code class="language-plaintext highlighter-rouge">unset</code> keywords aren’t supported in IE11.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -282,13 +288,16 @@
 
 <h4 id="demo-5"><a href="https://codepen.io/AllThingsSmitty/pen/GqmGqZ">Demo</a></h4>
 
-<p>⚠️ <strong>Note:</strong> Watch for some <a href="https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items">buggy behavior <img src="https://img.shields.io/github/stars/philipwalton/flexbugs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/philipwalton/flexbugs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> with flexbox in IE11.</p>
+<blockquote>
+  <p>[!NOTE]
+Watch for some <a href="https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items">buggy behavior <img src="https://img.shields.io/github/stars/philipwalton/flexbugs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/philipwalton/flexbugs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> with flexbox in IE11.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
 <h3 id="use-aspect-ratio-instead-of-heightwidth">Use <code class="language-plaintext highlighter-rouge">aspect-ratio</code> Instead of Height/Width</h3>
 
-<p>The <code class="language-plaintext highlighter-rouge">aspect-radio</code> property allows you to easily size elements and maintain consistent width-to-height ratio. This is incredibly useful in responsive web design to prevent layout shift. Use <code class="language-plaintext highlighter-rouge">object-fit</code> with it to prevent disrupting the layout if the height/width values of images changes.</p>
+<p>The <code class="language-plaintext highlighter-rouge">aspect-ratio</code> property allows you to easily size elements and maintain consistent width-to-height ratio. This is incredibly useful in responsive web design to prevent layout shift. Use <code class="language-plaintext highlighter-rouge">object-fit</code> with it to prevent disrupting the layout if the height/width values of images changes.</p>
 
 <div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">img</span> <span class="p">{</span>
   <span class="py">aspect-ratio</span><span class="p">:</span> <span class="m">16</span> <span class="p">/</span> <span class="m">9</span><span class="p">;</span> <span class="c">/* width / height */</span>
@@ -300,7 +309,10 @@
 
 <h4 id="demo-6"><a href="https://codepen.io/AllThingsSmitty/pen/MWxwoNx/">Demo</a></h4>
 
-<p>⚠️ <strong>Note:</strong> <code class="language-plaintext highlighter-rouge">aspect-ratio</code> and <code class="language-plaintext highlighter-rouge">object-fit</code> aren’t supported in IE11.</p>
+<blockquote>
+  <p>[!NOTE]
+<code class="language-plaintext highlighter-rouge">aspect-ratio</code> and <code class="language-plaintext highlighter-rouge">object-fit</code> aren’t supported in IE11.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -315,7 +327,10 @@
 
 <p>Use the <code class="language-plaintext highlighter-rouge">:not()</code> pseudo-class and no comma will be added to the last item.</p>
 
-<p>⚠️ <strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
+<blockquote>
+  <p>[!NOTE]
+This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -357,7 +372,10 @@
 
 <p>SVG scales well for all resolution types and is supported in all browsers <a href="http://caniuse.com/#search=svg">back to IE9</a>. Ditch your .png, .jpg, or .gif-jif-whatev files.</p>
 
-<p><strong>Note:</strong> If you have SVG icon-only buttons for sighted users and the SVG fails to load, this will help maintain accessibility:</p>
+<blockquote>
+  <p>[!NOTE]
+If you have SVG icon-only buttons for sighted users and the SVG fails to load, this will help maintain accessibility:</p>
+</blockquote>
 
 <div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">.no-svg</span> <span class="nc">.icon-only</span><span class="nd">::after</span> <span class="p">{</span>
   <span class="nl">content</span><span class="p">:</span> <span class="n">attr</span><span class="p">(</span><span class="n">aria-label</span><span class="p">);</span>
@@ -449,7 +467,10 @@
 
 <h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/zBzXRx">Demo</a></h4>
 
-<p>⚠️ <strong>Note:</strong> This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
+<blockquote>
+  <p>[!NOTE]
+This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn’t work with CSS-generated content. Proceed with caution.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -475,7 +496,10 @@
 
 <h4 id="demo-11"><a href="https://codepen.io/AllThingsSmitty/pen/rNRVxdx">Demo</a></h4>
 
-<p>⚠️ <strong>Note:</strong> The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
+<blockquote>
+  <p>[!NOTE]
+The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class isn’t supported in IE11.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -665,7 +689,10 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>⚠️ <strong>Note:</strong> Keep in mind that elements with whitespace aren’t considered empty, e.g., <code class="language-plaintext highlighter-rouge">&lt;p class="error-message"&gt; &lt;/p&gt;</code>.</p>
+<blockquote>
+  <p>[!NOTE]
+Keep in mind that elements with whitespace aren’t considered empty, e.g., <code class="language-plaintext highlighter-rouge">&lt;p class="error-message"&gt; &lt;/p&gt;</code>.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -677,7 +704,10 @@
 
 <h2 id="translations">Translations</h2>
 
-<p>⚠️  <strong>Note:</strong> I’ve had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files are likely to not include all the tips listed on the main README file.</p>
+<blockquote>
+  <p>[!NOTE]
+I’ve had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files are likely to not include all the tips listed on the main README file.</p>
+</blockquote>
 
 <ul>
   <li><a href="https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN">简体中文 <img src="https://img.shields.io/github/stars/AllThingsSmitty/css-protips" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></li>
