@@ -132,6 +132,7 @@
 
 ### Serialization
 
+- [ini-v ![GitHub Repo Stars](https://img.shields.io/github/stars/ldedev/ini-v) ![GitHub last commit](https://img.shields.io/github/last-commit/ldedev/ini-v)](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
 - [v-toxml ![GitHub Repo Stars](https://img.shields.io/github/stars/radare/v-toxml) ![GitHub last commit](https://img.shields.io/github/last-commit/radare/v-toxml)](https://github.com/radare/v-toxml) - XML Serialization library for V.
 - [vgura ![GitHub Repo Stars](https://img.shields.io/github/stars/gura-conf/vgura) ![GitHub last commit](https://img.shields.io/github/last-commit/gura-conf/vgura)](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/jdonnerstag/vlang-yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-yaml)](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
@@ -288,6 +289,7 @@
 ### Utility
 
 - [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ttytm/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ttytm/dialog)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
+- [json2v ![GitHub Repo Stars](https://img.shields.io/github/stars/ldedev/Json2V) ![GitHub last commit](https://img.shields.io/github/last-commit/ldedev/Json2V)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc ![GitHub Repo Stars](https://img.shields.io/github/stars/magic003/objc) ![GitHub last commit](https://img.shields.io/github/last-commit/magic003/objc)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/range) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/range)](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [ssh-config ![GitHub Repo Stars](https://img.shields.io/github/stars/walkingdevel/ssh-config) ![GitHub last commit](https://img.shields.io/github/last-commit/walkingdevel/ssh-config)](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
