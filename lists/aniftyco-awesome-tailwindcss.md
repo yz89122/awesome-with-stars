@@ -228,7 +228,7 @@
 - 📁 [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 - 📁 [Flowbite Admin Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-admin-dashboard)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
-- 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+- ��� [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 
 ## Starters & Themes
@@ -284,7 +284,7 @@
 
 ## Learning
 
-**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+**Legend**: ���� Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
 - 💙🧪 [Plugin Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-plugin-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-plugin-examples)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 - 🧪 [Tailwind Dark Mode Theme Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/huphtur/tailwind-theme-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/huphtur/tailwind-theme-switcher)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
