@@ -234,6 +234,7 @@
 - [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/v) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/v)](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [mmap ![GitHub Repo Stars](https://img.shields.io/github/stars/jdonnerstag/vlang-mmap) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-mmap)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 - [vlipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/asvvvad/vlipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/asvvvad/vlipboard)](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
+- [winreg ![GitHub Repo Stars](https://img.shields.io/github/stars/ldedev/WindowsRegistry) ![GitHub last commit](https://img.shields.io/github/last-commit/ldedev/WindowsRegistry)](https://github.com/ldedev/WindowsRegistry) - MS Windows Registry API. (WIP)
 
 ### Scientific computing
 
