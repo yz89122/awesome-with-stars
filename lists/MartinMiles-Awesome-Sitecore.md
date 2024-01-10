@@ -52,6 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SEO](#seo) 
 - [Serialization](#serialization) 
 - [Sitecore Host](#sitecore-host)
+- [Sitecore Search](#sitecore-search) 
 - [Sitecore Send](#sitecore-send) 
 - [SPE (Sitecore PowerShell Extension)](#spe-sitecore-powershell-extension)
 - [SPEAK](#speak)
@@ -420,6 +421,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore Host Plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliusAngwenyi/SitecoreHostPlugins) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliusAngwenyi/SitecoreHostPlugins)](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
 - [Basic Sitecore Host Application ![GitHub Repo Stars](https://img.shields.io/github/stars/georgechang/schost-basic) ![GitHub last commit](https://img.shields.io/github/last-commit/georgechang/schost-basic)](https://github.com/georgechang/schost-basic) - A basic Sitecore Host application that displays a demo web page.
 
+
+## Sitecore Search
+
+- [Sitecore Search Starter Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
+  
 ## Sitecore Send
 
 - [Sitecore Send Postman Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/neilkillen/SitecoreSendPostmanCollection) ![GitHub last commit](https://img.shields.io/github/last-commit/neilkillen/SitecoreSendPostmanCollection)](https://github.com/neilkillen/SitecoreSendPostmanCollection) - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
