@@ -89,7 +89,7 @@
   <li><a href="#use-rem-for-global-sizing-use-em-for-local-sizing">Use <code class="language-plaintext highlighter-rouge">rem</code> for Global Sizing; Use <code class="language-plaintext highlighter-rouge">em</code> for Local Sizing</a></li>
   <li><a href="#hide-autoplay-videos-that-arent-muted">Hide Autoplay Videos That Aren’t Muted</a></li>
   <li><a href="#use-root-for-flexible-type">Use <code class="language-plaintext highlighter-rouge">:root</code> for Flexible Type</a></li>
-  <li><a href="#inherit-font-on-form-elements-for-a-better-mobile-experience">Inherit <code class="language-plaintext highlighter-rouge">font</code> on Form Elements for a Better Mobile Experience</a></li>
+  <li><a href="#set-font-size-on-form-elements-for-a-better-mobile-experience">Set <code class="language-plaintext highlighter-rouge">font-size</code> on Form Elements for a Better Mobile Experience</a></li>
   <li><a href="#use-pointer-events-to-control-mouse-events">Use Pointer Events to Control Mouse Events</a></li>
   <li><a href="#set-display-none-on-line-breaks-used-as-spacing">Set <code class="language-plaintext highlighter-rouge">display: none</code> on Line Breaks Used as Spacing</a></li>
   <li><a href="#use-empty-to-hide-empty-html-elements">Use <code class="language-plaintext highlighter-rouge">:empty</code> to Hide Empty HTML Elements</a></li>
@@ -113,7 +113,7 @@
 <h4 id="demo"><a href="https://codepen.io/AllThingsSmitty/pen/kkrkLL">Demo</a></h4>
 
 <blockquote>
-  <p>[!NOTE]
+  <p>[!TIP]
 If you follow the <a href="#inherit-box-sizing">Inherit <code class="language-plaintext highlighter-rouge">box-sizing</code></a> tip below you might opt to not include the <code class="language-plaintext highlighter-rouge">box-sizing</code> property in  your CSS reset.</p>
 </blockquote>
 
@@ -210,7 +210,7 @@ The <code class="language-plaintext highlighter-rouge">all</code> and <code clas
     <span class="c">/* Full name */</span>
     <span class="n">local</span><span class="p">(</span><span class="s1">"Dank Mono"</span><span class="p">),</span>
     <span class="c">/* Postscript name */</span>
-    <span class="n">local</span><span class="p">(</span><span class="s1">"Dank-Mono"</span><span class="p">),</span>
+    <span class="n">local</span><span class="p">(</span><span class="s1">"Dank Mono"</span><span class="p">),</span>
     <span class="c">/* Otherwise, download it! */</span>
     <span class="sx">url("//...a.server/fonts/DankMono.woff")</span><span class="p">;</span>
 <span class="p">}</span>
@@ -284,7 +284,10 @@ The <code class="language-plaintext highlighter-rouge">all</code> and <code clas
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>Want to center something else? Vertically, horizontally…anything, anytime, anywhere? CSS-Tricks has <a href="https://css-tricks.com/centering-css-complete-guide/">a nice write-up</a> on doing all of that.</p>
+<blockquote>
+  <p>[!TIP]
+Want to center something else? Vertically, horizontally…anything, anytime, anywhere? CSS-Tricks has <a href="https://css-tricks.com/centering-css-complete-guide/">a nice write-up</a> on doing all of that.</p>
+</blockquote>
 
 <h4 id="demo-5"><a href="https://codepen.io/AllThingsSmitty/pen/GqmGqZ">Demo</a></h4>
 
@@ -395,7 +398,10 @@ If you have SVG icon-only buttons for sighted users and the SVG fails to load, t
 
 <p>In this example, all elements in the flow of the document that follow other elements will receive <code class="language-plaintext highlighter-rouge">margin-top: 1.5em</code>.</p>
 
-<p>For more on the “lobotomized owl” selector, read <a href="http://alistapart.com/article/axiomatic-css-and-lobotomized-owls">Heydon Pickering’s post</a> on <em>A List Apart</em>.</p>
+<blockquote>
+  <p>[!TIP]
+For more on the “lobotomized owl” selector, read <a href="http://alistapart.com/article/axiomatic-css-and-lobotomized-owls">Heydon Pickering’s post</a> on <em>A List Apart</em>.</p>
+</blockquote>
 
 <h4 id="demo-8"><a href="https://codepen.io/AllThingsSmitty/pen/grRvWq">Demo</a></h4>
 
@@ -463,7 +469,7 @@ If you have SVG icon-only buttons for sighted users and the SVG fails to load, t
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>That’s pretty convenient.</p>
+<p>That’s really convenient.</p>
 
 <h4 id="demo-10"><a href="https://codepen.io/AllThingsSmitty/pen/zBzXRx">Demo</a></h4>
 
@@ -574,7 +580,10 @@ The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>Learn more about styling for this pattern in <a href="http://bitsofco.de/styling-broken-images/">Ire Aderinokun’s post</a>.</p>
+<blockquote>
+  <p>[!TIP]
+Learn more about styling for this pattern in <a href="http://bitsofco.de/styling-broken-images/">Ire Aderinokun’s post</a>.</p>
+</blockquote>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
@@ -639,19 +648,17 @@ The <code class="language-plaintext highlighter-rouge">:is()</code> pseudo-class
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
-<h3 id="inherit-font-on-form-elements-for-a-better-mobile-experience">Inherit <code class="language-plaintext highlighter-rouge">font</code> on Form Elements for a Better Mobile Experience</h3>
+<h3 id="set-font-size-on-form-elements-for-a-better-mobile-experience">Set <code class="language-plaintext highlighter-rouge">font-size</code> on Form Elements for a Better Mobile Experience</h3>
 
-<p>Some form controls do not inherit typographical styles by default. To avoid mobile browsers (iOS Safari, <em>et al</em>.) from zooming in on HTML form elements when a <code class="language-plaintext highlighter-rouge">&lt;select&gt;</code> drop-down is tapped, and to mitigate styling inconsistencies across browsers, set the <code class="language-plaintext highlighter-rouge">font</code> rule to <code class="language-plaintext highlighter-rouge">inherit</code>:</p>
+<p>To avoid mobile browsers (iOS Safari, <em>et al</em>.) from zooming in on HTML form elements when a <code class="language-plaintext highlighter-rouge">&lt;select&gt;</code> drop-down is tapped, add <code class="language-plaintext highlighter-rouge">font-size</code> to the selector rule:</p>
 
-<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">input</span><span class="o">,</span>
-<span class="nt">button</span><span class="o">,</span>
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="s1">"text"</span><span class="o">],</span>
+<span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="s1">"number"</span><span class="o">],</span>
 <span class="nt">select</span><span class="o">,</span>
 <span class="nt">textarea</span> <span class="p">{</span>
-  <span class="nl">font</span><span class="p">:</span> <span class="nb">inherit</span><span class="p">;</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">16px</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div></div>
-
-<p>Learn more in <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms">MDN’s guide to styling web forms</a>.</p>
 
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 
