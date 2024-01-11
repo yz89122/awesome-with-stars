@@ -74,6 +74,7 @@
 - [playwright-xray ![GitHub Repo Stars](https://img.shields.io/github/stars/inluxc/playwright-xray) ![GitHub last commit](https://img.shields.io/github/last-commit/inluxc/playwright-xray)](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
 - [testomatio-reporter ![GitHub Repo Stars](https://img.shields.io/github/stars/testomatio/reporter) ![GitHub last commit](https://img.shields.io/github/last-commit/testomatio/reporter)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 - [currents-dev](https://currents.dev/) - A Cloud Dashboard to debug, troubleshoot and analyze parallel Playwright CI tests.
+- [qase ![GitHub Repo Stars](https://img.shields.io/github/stars/qase-tms/qase-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/qase-tms/qase-javascript)](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
 
 ## Showcases
 
