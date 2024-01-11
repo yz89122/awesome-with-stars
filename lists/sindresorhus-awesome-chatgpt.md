@@ -146,6 +146,7 @@
 - [ChatGPT Widescreen Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/chatgpt-widescreen) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/chatgpt-widescreen)](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
 - [ChatGPT Infinity ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/chatgpt-infinity)](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [Meeper ![GitHub Repo Stars](https://img.shields.io/github/stars/pas1ko/meeper) ![GitHub last commit](https://img.shields.io/github/last-commit/pas1ko/meeper)](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
+- [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
 
 **User scripts**
 
