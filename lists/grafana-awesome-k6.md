@@ -15,9 +15,9 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 - [Articles](#articles)
 - [Videos](#videos)
-- [Examples](#examples)
+- [Examples/Templates](#examplestemplates)
 - [Tools](#tools)
-- [CI](#ci)
+- [CI/CD](#cicd)
 - [Extensions](#extensions)
 - [Related](#related)
 
@@ -72,22 +72,18 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
 
-## Examples
+## Examples/Templates
 
 - [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-- [k6-circleci-example ![GitHub Repo Stars](https://img.shields.io/github/stars/li-clutter-org/k6-circleci-example) ![GitHub last commit](https://img.shields.io/github/last-commit/li-clutter-org/k6-circleci-example)](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
-- [k6-jenkins-example ![GitHub Repo Stars](https://img.shields.io/github/stars/li-clutter-org/k6-jenkins-example) ![GitHub last commit](https://img.shields.io/github/last-commit/li-clutter-org/k6-jenkins-example)](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-- [k6-github-actions-example ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6-example-github-actions) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6-example-github-actions)](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
-- [k6-azure-pipelines-example ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6-example-azure-pipelines) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6-example-azure-pipelines)](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
-- [k6-bitbucket-pipelines-example ![GitHub Repo Stars](https://img.shields.io/github/stars/poponuts/k6-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/poponuts/k6-boilerplate)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
-- [k6-performance-test-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/Julianhm9612/k6-performance-test-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/Julianhm9612/k6-performance-test-websocket)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 - [k6-template-es6 ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6-template-es6) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6-template-es6)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
-- [k6 templates ![GitHub Repo Stars](https://img.shields.io/github/stars/tom-miseur/k6-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/tom-miseur/k6-templates)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 - [k6-typescript-template ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6-template-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6-template-typescript)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
-- [example-data-generation ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6-example-data-generation) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6-example-data-generation)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
-- [continuous-k6k8s ![GitHub Repo Stars](https://img.shields.io/github/stars/lreimer/continuous-k6k8s) ![GitHub last commit](https://img.shields.io/github/last-commit/lreimer/continuous-k6k8s)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-- [k6-multiscenario-template ![GitHub Repo Stars](https://img.shields.io/github/stars/SwissLife-OSS/K6-MultiScenario-template) ![GitHub last commit](https://img.shields.io/github/last-commit/SwissLife-OSS/K6-MultiScenario-template)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-- [docker-k6-grafana-influxdb ![GitHub Repo Stars](https://img.shields.io/github/stars/luketn/docker-k6-grafana-influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/luketn/docker-k6-grafana-influxdb)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+- [tom-miseur/k6-templates ![GitHub Repo Stars](https://img.shields.io/github/stars/tom-miseur/k6-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/tom-miseur/k6-templates)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+- [SwissLife-OSS/k6-multiscenario-template ![GitHub Repo Stars](https://img.shields.io/github/stars/SwissLife-OSS/K6-MultiScenario-template) ![GitHub last commit](https://img.shields.io/github/last-commit/SwissLife-OSS/K6-MultiScenario-template)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+- [Im5tu/template-k6 ![GitHub Repo Stars](https://img.shields.io/github/stars/Im5tu/template-k6) ![GitHub last commit](https://img.shields.io/github/last-commit/Im5tu/template-k6)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
+- [mohsenny/k6-test-template ![GitHub Repo Stars](https://img.shields.io/github/stars/mohsenny/k6-test-template) ![GitHub last commit](https://img.shields.io/github/last-commit/mohsenny/k6-test-template)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+- [Sahanipe/pet_store ![GitHub Repo Stars](https://img.shields.io/github/stars/Sahanipe/pet_store) ![GitHub last commit](https://img.shields.io/github/last-commit/Sahanipe/pet_store)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
+- [lreimer/continuous-k6k8s ![GitHub Repo Stars](https://img.shields.io/github/stars/lreimer/continuous-k6k8s) ![GitHub last commit](https://img.shields.io/github/last-commit/lreimer/continuous-k6k8s)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+- [luketn/docker-k6-grafana-influxdb ![GitHub Repo Stars](https://img.shields.io/github/stars/luketn/docker-k6-grafana-influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/luketn/docker-k6-grafana-influxdb)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## Tools
 
@@ -105,16 +101,25 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [k6-junit ![GitHub Repo Stars](https://img.shields.io/github/stars/simbadltd/k6-junit) ![GitHub last commit](https://img.shields.io/github/last-commit/simbadltd/k6-junit)](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 - [k6-expect ![GitHub Repo Stars](https://img.shields.io/github/stars/simbadltd/k6-expect) ![GitHub last commit](https://img.shields.io/github/last-commit/simbadltd/k6-expect)](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## CI
-- [k6 for GitHub actions ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/actions)](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
-- [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
-- [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test) - k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service.
-- [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+## CI/CD
+
 - [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
+- [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
+- [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+- [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
+- [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
+- [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
+- [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
 - [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
-- [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
+- [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
+- [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
+
+ 
 
 ## Extensions
+
 - [k6 Extensions](https://k6.io/docs/extensions/)
 - [GitHub Topic: xk6 ![GitHub Repo Stars](https://img.shields.io/github/stars/topics/xk6) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/xk6)](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 

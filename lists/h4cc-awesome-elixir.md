@@ -1889,6 +1889,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Useful Elixir-related cheat sheets.*
 
 * [benjamintanweihao/elixir-cheatsheets ![GitHub Repo Stars](https://img.shields.io/github/stars/benjamintanweihao/elixir-cheatsheets) ![GitHub last commit](https://img.shields.io/github/last-commit/benjamintanweihao/elixir-cheatsheets)](https://github.com/benjamintanweihao/elixir-cheatsheets/) - GenServer and Supervisor cheatsheets.
+* [elixir-lang/elixir](https://hexdocs.pm/elixir/main/enum-cheat.html) - Enum cheatsheets.
 
 ## Community
 *Getting in contact with the community via chat or mailinglist.*
