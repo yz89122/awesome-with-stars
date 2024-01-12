@@ -225,6 +225,10 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Tiled importer ![GitHub Repo Stars](https://img.shields.io/github/stars/vnen/godot-tiled-importer) ![GitHub last commit](https://img.shields.io/github/last-commit/vnen/godot-tiled-importer)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/HeavenMercy/TileSet-Builder-Godot-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/HeavenMercy/TileSet-Builder-Godot-Plugin)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
 
+#### Godot 4.2+
+
+- [AnimatedShape2D ![GitHub Repo Stars](https://img.shields.io/github/stars/Goutte/godot-addon-animated-shape-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/Goutte/godot-addon-animated-shape-2d)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+
 #### Godot 3.2+
 
 - [AntialiasedLine2D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-extended-libraries/godot-antialiased-line2d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-extended-libraries/godot-antialiased-line2d)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
