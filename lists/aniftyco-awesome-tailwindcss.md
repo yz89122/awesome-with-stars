@@ -230,6 +230,7 @@
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
+- 📁 [Astro Template Dante ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/dante-astro-theme)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## Starters & Themes
 
