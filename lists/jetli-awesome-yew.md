@@ -138,6 +138,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [tailyew ![GitHub Repo Stars](https://img.shields.io/github/stars/fuzzycloud/tailyew) ![GitHub last commit](https://img.shields.io/github/last-commit/fuzzycloud/tailyew)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 - [yew-duskmoon-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/gsmlg-dev/yew-duskmoon-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/gsmlg-dev/yew-duskmoon-ui)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 - [yew-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/isosphere/yew-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/isosphere/yew-bootstrap)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
+- [Zu ![GitHub Repo Stars](https://img.shields.io/github/stars/RustVis/zu) ![GitHub last commit](https://img.shields.io/github/last-commit/RustVis/zu)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 
 ### Components
 
