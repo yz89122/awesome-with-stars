@@ -137,6 +137,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Coding
 
+### Coding Assistants
+
 - [GitHub Copilot ![GitHub Repo Stars](https://img.shields.io/github/stars/features/copilot) ![GitHub last commit](https://img.shields.io/github/last-commit/features/copilot)](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
@@ -164,6 +166,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+- [SymbolicAI ![GitHub Repo Stars](https://img.shields.io/github/stars/Xpitfire/symbolicai) ![GitHub last commit](https://img.shields.io/github/last-commit/Xpitfire/symbolicai)](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 
 ## Agents
 
@@ -294,6 +297,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter ![GitHub Repo Stars](https://img.shields.io/github/stars/danielgross/teleprompter) ![GitHub last commit](https://img.shields.io/github/last-commit/danielgross/teleprompter)](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 
 ## Learning resources
 
