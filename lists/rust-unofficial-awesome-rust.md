@@ -323,6 +323,7 @@ See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/git
 * [rustq/vue-skia ![GitHub Repo Stars](https://img.shields.io/github/stars/rustq/vue-skia) ![GitHub last commit](https://img.shields.io/github/last-commit/rustq/vue-skia)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 * [turnage/valora](https://crates.io/crates/valora) — A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 * [Twinklebear/tray_rust ![GitHub Repo Stars](https://img.shields.io/github/stars/Twinklebear/tray_rust) ![GitHub last commit](https://img.shields.io/github/last-commit/Twinklebear/tray_rust)](https://github.com/Twinklebear/tray_rust) — A ray tracer
+* [wahn/rs_pbrt ![GitHub Repo Stars](https://img.shields.io/github/stars/wahn/rs_pbrt) ![GitHub last commit](https://img.shields.io/github/last-commit/wahn/rs_pbrt)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 
 ### Image processing
 
