@@ -141,6 +141,7 @@
 ### Utilities
 
 - [emoji-mart-desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/ttytm/emoji-mart-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/ttytm/emoji-mart-desktop)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
+- [v-nodejs-addon ![GitHub Repo Stars](https://img.shields.io/github/stars/fanlia/v-nodejs-addon) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/v-nodejs-addon)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
 ### Web
 
