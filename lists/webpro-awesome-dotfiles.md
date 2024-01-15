@@ -112,12 +112,14 @@ scripts to manage dotfiles and plugins.
 - [homeshick ![GitHub Repo Stars](https://img.shields.io/github/stars/andsens/homeshick) ![GitHub last commit](https://img.shields.io/github/last-commit/andsens/homeshick)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 - [mackup ![GitHub Repo Stars](https://img.shields.io/github/stars/lra/mackup) ![GitHub last commit](https://img.shields.io/github/last-commit/lra/mackup)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 - [Pearl ![GitHub Repo Stars](https://img.shields.io/github/stars/pearl-core/pearl) ![GitHub last commit](https://img.shields.io/github/last-commit/pearl-core/pearl)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
-  packages automatically activated during shells or editors startup. There is a wide range of packages already available.
-  in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
+  packages automatically activated during shells or editors startup. There is a wide range of packages already
+  available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm ![GitHub Repo Stars](https://img.shields.io/github/stars/thoughtbot/rcm) ![GitHub last commit](https://img.shields.io/github/last-commit/thoughtbot/rcm)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
 - [themer ![GitHub Repo Stars](https://img.shields.io/github/stars/themerdev/themer) ![GitHub last commit](https://img.shields.io/github/last-commit/themerdev/themer)](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil ![GitHub Repo Stars](https://img.shields.io/github/stars/oknozor/toml-bombadil) ![GitHub last commit](https://img.shields.io/github/last-commit/oknozor/toml-bombadil)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+- [xdg-ninja ![GitHub Repo Stars](https://img.shields.io/github/stars/b3nj5m1n/xdg-ninja) ![GitHub last commit](https://img.shields.io/github/last-commit/b3nj5m1n/xdg-ninja)](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and
+  directories.
 - [yadm ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLocehiliosan/yadm) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLocehiliosan/yadm)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
   using a shared Git repository and some additional features.
 
@@ -132,9 +134,10 @@ scripts to manage dotfiles and plugins.
 - [dotfiles.github.io](https://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 - [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - Directory structure and
   directory contents in Linux distributions.
-- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) - [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
-- [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/comment/egyj6lr/) - How the idea of "hidden" or
-  "dot" files was born, by Rob Pike (originally posted on Google+).
+- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) -
+  [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
+- [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
+  How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
 ## Related Lists
 
