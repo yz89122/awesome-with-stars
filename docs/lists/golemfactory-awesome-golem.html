@@ -55,31 +55,26 @@
 
 <ul>
   <li><a href="#golem">Golem</a></li>
-  <li><a href="#thorg">Thorg</a></li>
   <li><a href="#network-statistics">Network Statistics</a></li>
   <li>
-<a href="#apps">Apps</a>
+<a href="#Golem-Projects">Golem Projects</a>
     <ul>
-      <li><a href="#docker">Docker</a></li>
-      <li><a href="#testing">Testing</a></li>
-      <li><a href="#vpn">VPN</a></li>
-      <li><a href="#games">Games</a></li>
-      <li><a href="#cli-tools">CLI Tools</a></li>
-      <li><a href="#video-transcoding-and-editing">Video Transcoding and Editing</a></li>
-      <li><a href="#data-analysis">Data Analysis</a></li>
-      <li><a href="#data-simulation">Data Simulation</a></li>
-      <li><a href="#data-optimization">Data Optimization</a></li>
-      <li><a href="#finance">Finance</a></li>
-      <li><a href="#machine-learning">Machine Learning</a></li>
-      <li><a href="#deep-learning">Deep Learning</a></li>
-      <li><a href="#rng">RNG</a></li>
-      <li><a href="#password-recovery">Password Recovery</a></li>
-      <li><a href="#defi">DeFi</a></li>
-      <li><a href="#user-interfaces">User Interfaces</a></li>
-      <li><a href="#miscellaneous">Miscellaneous</a></li>
+      <li><a href="#GPU-Provider">GPU Provider</a></li>
+      <li><a href="#Ray-on-Golem">Ray on Golem</a></li>
+      <li><a href="#JS-SDK">JS SDK</a></li>
+      <li><a href="#Jupyter-on-Golem">Jupyter on Golem</a></li>
+      <li><a href="#Rendering-on-Golem">Rendering on Golem</a></li>
+      <li><a href="#Reputation-System">Reputation System</a></li>
+      <li><a href="#Blockchain-automations-(aka-Emeth.xyz)">Blockchain Automations (aka Emeth.xyz)</a></li>
     </ul>
   </li>
-  <li><a href="#bounties-and-rewards">Bounties and Rewards</a></li>
+  <li>
+<a href="#Community-driven-projects">Community-driven Projects</a>
+    <ul>
+      <li><a href="#CUDA">CUDA</a></li>
+      <li><a href="#Project-Gutenberg">Project Gutenberg</a></li>
+    </ul>
+  </li>
   <li><a href="#developer-and-requestor-resources">Developer and Requestor Resources</a></li>
   <li>
 <a href="#provider-resources">Provider Resources</a>
@@ -96,7 +91,12 @@
       <li><a href="#github-digest-blog-series">GitHub Digest Blog Series</a></li>
     </ul>
   </li>
-  <li><a href="#community">Community</a></li>
+  <li>
+<a href="#Archive">Archive</a>
+    <ul>
+      <li><a href="#apps">Apps</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="golem">Golem</h2>
@@ -105,10 +105,6 @@
   <li>
 <a href="https://www.golem.network/platform">Golem Network Platform</a> - Learn the Golem platform on the official Golem Network website.</li>
   <li>
-<a href="https://github.com/golemfactory">Golem Factory GitHub</a> - Where you can find the open source code of all things Golem.</li>
-  <li>
-<a href="https://github.com/golemfactory/yagna">Yagna GitHub <img src="https://img.shields.io/github/stars/golemfactory/yagna" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/golemfactory/yagna" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - The official Rust implementation of Golem.</li>
-  <li>
 <a href="https://chat.golem.network/">Golem Community Chat</a> - Join the community and team open discussion on Discord.</li>
   <li>
 <a href="https://reddit.com/r/GolemProject">Reddit</a> - Golem Network discussion on the Reddit platform.</li>
@@ -116,17 +112,6 @@
 <a href="https://twitter.com/golemproject">Twitter</a> - The Golem Project Twitter.</li>
   <li>
 <a href="http://blog.golemproject.net/">Blog</a> - The official blog where you can find the most reliable information on announcements, summaries and updates.</li>
-</ul>
-
-<h2 id="thorg">Thorg</h2>
-
-<ul>
-  <li>
-<a href="https://www.thorg.io/about">About Thorg</a> - Learn what the Thorg miner does.</li>
-  <li>
-<a href="https://www.thorg.io/usage">Thorg Usage</a> - Understand the depths of Thorg.</li>
-  <li>
-<a href="https://twitter.com/minewiththorg">Twitter</a> - The official Twitter of Thorg.</li>
 </ul>
 
 <h2 id="network-statistics">Network Statistics</h2>
@@ -140,230 +125,41 @@
 <a href="https://docs.stats.golem.network/">Stats API Documentation</a> - API endpoints that the Golem Network Stats page uses to display its data.</li>
 </ul>
 
-<h2 id="apps">Apps</h2>
+<h2 id="golem-projects">Golem Projects</h2>
 
-<ul>
-  <li>
-<a href="https://golem-slate.xyz/">Golem SLATE</a> - Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.</li>
-  <li>
-<a href="https://chessongolem.app/">Chess On Golem</a> - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.</li>
-  <li>
-<a href="https://github.com/DEUTSCHKLUB/go-le-m">Go le’ Machin <img src="https://img.shields.io/github/stars/DEUTSCHKLUB/go-le-m" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DEUTSCHKLUB/go-le-m" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.</li>
-</ul>
+<h3 id="gpu-provider">GPU Provider</h3>
 
-<h3 id="docker">Docker</h3>
+<h3 id="ray-on-golem">Ray on Golem</h3>
 
-<ul>
-  <li>
-<a href="https://github.com/DerekJarvis/general-golem">Golem Requestor Node <img src="https://img.shields.io/github/stars/DerekJarvis/general-golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DerekJarvis/general-golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.</li>
-</ul>
+<h3 id="js-sdk">JS SDK</h3>
 
-<h3 id="testing">Testing</h3>
+<h3 id="jupyter-on-golem">Jupyter on Golem</h3>
 
-<ul>
-  <li>
-<a href="https://github.com/golemfactory/goth">Golem Test Harness (Goth) <img src="https://img.shields.io/github/stars/golemfactory/goth" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/golemfactory/goth" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.</li>
-  <li>
-<a href="https://github.com/sladecek/golem-afl">Golem-afl <img src="https://img.shields.io/github/stars/sladecek/golem-afl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sladecek/golem-afl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An experimental test-fuzzing framework. Assists in finding security holes.</li>
-  <li>
-<a href="https://github.com/sladecek/golem_cargo_test">Golem Cargo Test <img src="https://img.shields.io/github/stars/sladecek/golem_cargo_test" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sladecek/golem_cargo_test" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An adaptive distributed test executor for Rust projects.</li>
-  <li>
-<a href="https://github.com/hhio618/golem-ci">Golem CI <img src="https://img.shields.io/github/stars/hhio618/golem-ci" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hhio618/golem-ci" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Decentralized task pipeline.</li>
-  <li>
-<a href="https://github.com/deutschklub/golem-slate">Golem SLATE <img src="https://img.shields.io/github/stars/deutschklub/golem-slate" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/deutschklub/golem-slate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Open source repository for Golem SLATE described in the above Apps section.</li>
-  <li>
-<a href="https://github.com/figurestudios/thorgpress">ThorgPress <img src="https://img.shields.io/github/stars/figurestudios/thorgpress" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/thorgpress" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.</li>
-</ul>
+<h3 id="rendering-on-golem">Rendering on Golem</h3>
 
-<h3 id="vpn">VPN</h3>
+<h3 id="reputation-system">Reputation System</h3>
 
-<ul>
-  <li>
-<a href="https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn">Yagna httpx client <img src="https://img.shields.io/github/stars/golemfactory/ya-httpx-client" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/golemfactory/ya-httpx-client" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.</li>
-  <li>
-<a href="https://github.com/jedbrooke/golem-network-requestor">Golem Provider with network access <img src="https://img.shields.io/github/stars/jedbrooke/golem-network-requestor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jedbrooke/golem-network-requestor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.</li>
-</ul>
+<h3 id="blockchain-automations-aka-emethxyz">Blockchain Automations (aka Emeth.xyz)</h3>
 
-<h3 id="games">Games</h3>
+<h2 id="communitiy-driven-projects">Communitiy-driven Projects</h2>
 
-<ul>
-  <li>
-<a href="https://github.com/Dodecane/golem-sudoku">Golem Sudoku <img src="https://img.shields.io/github/stars/Dodecane/golem-sudoku" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Dodecane/golem-sudoku" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Game of Sudoku with size variants.</li>
-  <li>
-<a href="https://github.com/ChrisHelmsC/hsog-requestor">HSOG-requester <img src="https://img.shields.io/github/stars/ChrisHelmsC/hsog-requestor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ChrisHelmsC/hsog-requestor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.</li>
-  <li>
-<a href="https://github.com/broadcastmonkey/ChessOnGolem">ChessOnGolem <img src="https://img.shields.io/github/stars/broadcastmonkey/ChessOnGolem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/broadcastmonkey/ChessOnGolem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI’s playing against each other through the Golem backend.</li>
-  <li>
-<a href="https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator">Golem Fleet Battle Simulator <img src="https://img.shields.io/github/stars/UnfortuN8/Golem-Fleet-Battle-Simulator" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/UnfortuN8/Golem-Fleet-Battle-Simulator" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.</li>
-</ul>
+<h3 id="cuda">CUDA</h3>
 
-<h3 id="cli-tools">CLI Tools</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/krunch3r76/gc__enhanced_completion">Golem Completion Engine <img src="https://img.shields.io/github/stars/krunch3r76/gc__enhanced_completion" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/gc__enhanced_completion" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.</li>
-  <li>
-<a href="https://github.com/davidstyers/golocity">Golocity <img src="https://img.shields.io/github/stars/davidstyers/golocity" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/davidstyers/golocity" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Build and deploy your dockerized applications on the Golem Network in just two commands.</li>
-  <li>
-<a href="https://github.com/figurestudios/gc__push_image">gc__push_image <img src="https://img.shields.io/github/stars/figurestudios/gc__push_image" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/gc__push_image" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.</li>
-</ul>
-
-<h3 id="video-transcoding-and-editing">Video Transcoding and Editing</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/Doc-Saintly/golem-video">Golem Network Video Transcoder <img src="https://img.shields.io/github/stars/Doc-Saintly/golem-video" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Doc-Saintly/golem-video" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sample app to transcode videos. Select your transcoding profile and then upload your videos.</li>
-  <li>
-<a href="https://github.com/Edhendil/golem-transcoding">Golem Transcoding requestor <img src="https://img.shields.io/github/stars/Edhendil/golem-transcoding" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Edhendil/golem-transcoding" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - React + Spring based webapp accepting video files as input and transcoding these files into different formats.</li>
-  <li>
-<a href="https://github.com/jedbrooke/golem-auto-editor">Golem Auto Editor <img src="https://img.shields.io/github/stars/jedbrooke/golem-auto-editor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jedbrooke/golem-auto-editor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.</li>
-</ul>
-
-<h3 id="data-analysis">Data Analysis</h3>
-<ul>
-  <li>
-<a href="https://github.com/pryce-turner/coacervate/">Coacervate <img src="https://img.shields.io/github/stars/pryce-turner/coacervate" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/pryce-turner/coacervate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.</li>
-  <li>
-<a href="https://github.com/nestorbonilla/flan">Flan <img src="https://img.shields.io/github/stars/nestorbonilla/flan" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/nestorbonilla/flan" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.</li>
-  <li>
-<a href="https://github.com/hhio618/golem-lorenz-attractor">Golem Lorenz-attractor <img src="https://img.shields.io/github/stars/hhio618/golem-lorenz-attractor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hhio618/golem-lorenz-attractor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.</li>
-  <li>
-<a href="https://github.com/Edhendil/golem-geomandel">Golem Geomandel <img src="https://img.shields.io/github/stars/Edhendil/golem-geomandel" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Edhendil/golem-geomandel" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.</li>
-  <li>
-<a href="https://github.com/iRhonin/golem-covid">Golem COVID <img src="https://img.shields.io/github/stars/iRhonin/golem-covid" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/iRhonin/golem-covid" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.</li>
-  <li>
-<a href="https://github.com/CoeJoder/golem-parallel-matplotlib">Golem Parallel Matplotlib <img src="https://img.shields.io/github/stars/CoeJoder/golem-parallel-matplotlib" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/CoeJoder/golem-parallel-matplotlib" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.</li>
-  <li>
-<a href="https://github.com/niklr/golem-fulltext-search">Full-Text Search Engine <img src="https://img.shields.io/github/stars/niklr/golem-fulltext-search" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/niklr/golem-fulltext-search" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A search engine service that goes through text files.</li>
-</ul>
-
-<h3 id="data-simulation">Data Simulation</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/rogervs/cadcadgolem">cadCAD Golem <img src="https://img.shields.io/github/stars/rogervs/cadcadgolem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rogervs/cadcadgolem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.</li>
-  <li>
-<a href="https://github.com/johngrantuk/golem-array">Golem Array <img src="https://img.shields.io/github/stars/johngrantuk/golem-array" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/johngrantuk/golem-array" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Antenna array design and simulation.</li>
-  <li>
-<a href="https://github.com/vporton/limit-visualization">Limit visualization <img src="https://img.shields.io/github/stars/vporton/limit-visualization" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/vporton/limit-visualization" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Plots graphs with various limits. Supports discontinous graphs.</li>
-  <li>
-<a href="https://github.com/smiley1983/golemGraphWavePair">GolemGraphWavePair <img src="https://img.shields.io/github/stars/smiley1983/golemGraphWavePair" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/smiley1983/golemGraphWavePair" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Generates graph frames, then combine them into an animation.</li>
-  <li>
-<a href="https://github.com/rezahsnz/golemized-strong-gravitational-lense">Golemized strong-gravitational-lense <img src="https://img.shields.io/github/stars/rezahsnz/golemized-strong-gravitational-lense" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/golemized-strong-gravitational-lense" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.</li>
-</ul>
-
-<h3 id="data-optimization">Data Optimization</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/Doc-Saintly/golem-ortools">Golem or-tools <img src="https://img.shields.io/github/stars/Doc-Saintly/golem-ortools" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Doc-Saintly/golem-ortools" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Uses the or-tools Constraint Programming library to solve problems.</li>
-  <li>
-<a href="https://github.com/DEUTSCHKLUB/no-more-COFUD">No more COFUD <img src="https://img.shields.io/github/stars/DEUTSCHKLUB/no-more-COFUD" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DEUTSCHKLUB/no-more-COFUD" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Calculates how to fit the most people into a space while keeping 2 meters distance between each other.</li>
-  <li>
-<a href="https://github.com/DeveloperInProgress/Mutta-Puffs">Mutta Puffs <img src="https://img.shields.io/github/stars/DeveloperInProgress/Mutta-Puffs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DeveloperInProgress/Mutta-Puffs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.</li>
-</ul>
-
-<h3 id="finance">Finance</h3>
-<ul>
-  <li>
-<a href="https://github.com/blue-notes-robot/zksync-csv-export">ZKSync .csv export <img src="https://img.shields.io/github/stars/blue-notes-robot/zksync-csv-export" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/blue-notes-robot/zksync-csv-export" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Scrapes ZKSync to generate financial data in a .csv file.</li>
-</ul>
-
-<h3 id="machine-learning">Machine Learning</h3>
-<ul>
-  <li>
-<a href="https://github.com/anshuman73/DeML-Golem">DeML-Golem <img src="https://img.shields.io/github/stars/anshuman73/DeML-Golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/anshuman73/DeML-Golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.</li>
-  <li>
-<a href="https://github.com/ControlCplusControlV/Golem-Image-Classifier">Golem Image Classifier <img src="https://img.shields.io/github/stars/ControlCplusControlV/Golem-Image-Classifier" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ControlCplusControlV/Golem-Image-Classifier" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Train and classify images through an active service.</li>
-</ul>
-
-<h3 id="deep-learning">Deep Learning</h3>
-<ul>
-  <li>
-<a href="https://github.com/rezahsnz/mlg">Mlg <img src="https://img.shields.io/github/stars/rezahsnz/mlg" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/mlg" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.</li>
-  <li>
-<a href="https://github.com/echinocacti/deepart_golem">Deepart Golem <img src="https://img.shields.io/github/stars/echinocacti/deepart_golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/echinocacti/deepart_golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.</li>
-</ul>
-
-<h3 id="rng">RNG</h3>
-<ul>
-  <li>
-<a href="https://github.com/rezahsnz/gandom">Gandom <img src="https://img.shields.io/github/stars/rezahsnz/gandom" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/gandom" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.</li>
-  <li>
-<a href="https://github.com/krunch3r76/entropythief">Entropythief <img src="https://img.shields.io/github/stars/krunch3r76/entropythief" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/entropythief" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel’s RDRAND cpu instruction (inspired by Gandom).</li>
-</ul>
-
-<h3 id="password-recovery">Password Recovery</h3>
-<ul>
-  <li>
-<a href="https://github.com/hhio618/golem-jtr">Golem-JTR <img src="https://img.shields.io/github/stars/hhio618/golem-jtr" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hhio618/golem-jtr" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Run John The Ripper to recover a password.</li>
-  <li>
-<a href="https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat">Yacat</a> - Hashcat password-recovery step-by-step.</li>
-</ul>
-
-<h3 id="defi">DeFi</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/masaun/GLM-stake-pool">Golem Staking Pool incentivize system for GLM holders <img src="https://img.shields.io/github/stars/masaun/GLM-stake-pool" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/masaun/GLM-stake-pool" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A smart contract in order to provide the opportunity of yield farming for GLM token holders.</li>
-  <li>
-<a href="https://github.com/bakaoh/magic-doll">Magic-doll <img src="https://img.shields.io/github/stars/bakaoh/magic-doll" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/bakaoh/magic-doll" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is <code class="language-plaintext highlighter-rouge">Kyle</code>, a Golem app that does all the computation to pick the best team to play for each match.</li>
-</ul>
-
-<h3 id="user-interfaces">User Interfaces</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/shri4net/golem-hackathon-2020">Golem UI <img src="https://img.shields.io/github/stars/shri4net/golem-hackathon-2020" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/shri4net/golem-hackathon-2020" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Electron user interface for Yagna.</li>
-</ul>
-
-<h3 id="miscellaneous">Miscellaneous</h3>
-
-<ul>
-  <li>
-<a href="https://github.com/krunch3r76/gc__listoffers">Gc__ListOffers <img src="https://img.shields.io/github/stars/krunch3r76/gc__listoffers" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/gc__listoffers" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - List offers by providers on the Golem Network with a GUI.</li>
-  <li>
-<a href="https://github.com/krunch3r76/gc__gvmi_hash">Gc__gvmi_hash <img src="https://img.shields.io/github/stars/krunch3r76/gc__gvmi_hash" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/gc__gvmi_hash" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you’re unsure if a key corresponds to a specific image.</li>
-  <li>
-<a href="https://github.com/canokaue/gvm-vim">gvm-vim <img src="https://img.shields.io/github/stars/canokaue/gvm-vim" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/canokaue/gvm-vim" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Golemized docker image for compiling the VIM editor.</li>
-  <li>
-<a href="https://github.com/rezahsnz/yajsapi">YaJSapi fork with greeting example <img src="https://img.shields.io/github/stars/rezahsnz/yajsapi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/yajsapi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in <code class="language-plaintext highlighter-rouge">examples/greetings</code>.</li>
-  <li>
-<a href="https://github.com/visualNext/golem">Golem Image Sharpening <img src="https://img.shields.io/github/stars/visualNext/golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/visualNext/golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A tool to sharpen images.</li>
-  <li>
-<a href="https://github.com/krunch3r76/filterms">Filterms <img src="https://img.shields.io/github/stars/krunch3r76/filterms" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/filterms" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).</li>
-  <li>
-<a href="https://github.com/figurestudios/golem-bulk-image-handler">golem-bulk-image-handler <img src="https://img.shields.io/github/stars/figurestudios/golem-bulk-image-handler" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/golem-bulk-image-handler" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Takes an input image and processes it in many different ways using the Pillow library.</li>
-</ul>
-
-<h2 id="bounties-and-rewards">Bounties and Rewards</h2>
-
-<ul>
-  <li>
-<a href="https://blog.golemproject.net/community-incentives-program/">GLM Rewards Program</a> - A program that incentivizes activity within development, support, content creation, and more.</li>
-  <li>
-<a href="https://gitcoin.co/golemfactory/bounties">Gitcoin Bounties</a> - A collection of open bounties and hackathons hosted on Gitcoin.</li>
-</ul>
+<h3 id="project-gutenberg">Project Gutenberg</h3>
 
 <h2 id="developer-and-requestor-resources">Developer and Requestor Resources</h2>
 
 <ul>
   <li>
-<a href="https://handbook.golem.network/">Yagna handbook</a> - Handbook for the Golem, implementation name, Yagna.</li>
+<a href="https://docs.golem.network/">Golem Docs</a> - A creator’s manual for Golem. By developers, for developers.</li>
   <li>
-<a href="https://yapapi.readthedocs.io/">Yagna Python API docs</a> - Documentation for Yapapi.</li>
+<a href="https://yapapi.readthedocs.io/">Python API Reference</a> - Yapapi API Reference.</li>
   <li>
 <a href="https://github.com/golemfactory/yagna/releases">Releases List <img src="https://img.shields.io/github/stars/golemfactory/yagna" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/golemfactory/yagna" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - GitHub releases of Yagna.</li>
   <li>
-<a href="https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development">Requestor flash tutorial</a> - Get started quick and create your first tasks/request on Golem.</li>
+<a href="https://docs.golem.network/docs/quickstarts/js-quickstart">JS Requestor Quickstart</a> - Get started quickly and create your first tasks/request on Golem.</li>
   <li>
 <a href="https://stackoverflow.com/questions/tagged/yagna">Yagna tag on Stack Overflow</a> - Use the Yagna tag if you have an interesting question you’d like answered.</li>
-  <li>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub">Breakdown of blender.js</a> - JS guide for developers to get a better idea of how to run a task with the JavaScript API.</li>
-  <li>
-<a href="https://github.com/figurestudios/easy-yagna-js">EasyYagnaJS <img src="https://img.shields.io/github/stars/figurestudios/easy-yagna-js" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/easy-yagna-js" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Copies over Node.js dependencies directly to the provider, making developers not have to use Docker in their workflow.</li>
-  <li>
-<a href="https://github.com/figurestudios/push-gvmi">push-gvmi <img src="https://img.shields.io/github/stars/figurestudios/push-gvmi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/push-gvmi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.</li>
 </ul>
 
 <h2 id="provider-resources">Provider Resources</h2>
@@ -474,20 +270,208 @@
 <a href="https://blog.golemproject.net/golem-github-digest-16/">Golem GitHub Digest #16</a> - VPN, ARM binaries for requestors, and custom usage counters.</li>
 </ul>
 
-<h2 id="community">Community</h2>
-
-<ul>
-  <li>
-<a href="https://t.me/GolemProject">Golem Network Discussion Group</a> - Community driven Telegram channel.</li>
-  <li>
-<a href="https://github.com/figurestudios/golem-stat-bot">Reddit Golem Stat Bot <img src="https://img.shields.io/github/stars/figurestudios/golem-stat-bot" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/golem-stat-bot" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.</li>
-  <li>
-<a href="https://github.com/Shreyas-Dev-ITB/Golem-God">Golem God <img src="https://img.shields.io/github/stars/Shreyas-Dev-ITB/Golem-God" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Shreyas-Dev-ITB/Golem-God" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Gives out “bot coins” for activity, and lets users exchange and withdraw them to tokens when they have enough.</li>
-</ul>
-
 <h2 id="contributing">Contributing</h2>
 
 <p>Pull requests and issues with suggestions to Awesome Golem are welcome! Please read the <a href="contributing.md">contributing</a> guidelines before submitting a PR.</p>
+
+<h2 id="archive">Archive</h2>
+
+<h3 id="apps">Apps</h3>
+
+<ul>
+  <li>
+<a href="https://golem-slate.xyz/">Golem SLATE</a> - Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.</li>
+  <li>
+<a href="https://chessongolem.app/">Chess On Golem</a> - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.</li>
+  <li>
+<a href="https://github.com/DEUTSCHKLUB/go-le-m">Go le’ Machin <img src="https://img.shields.io/github/stars/DEUTSCHKLUB/go-le-m" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DEUTSCHKLUB/go-le-m" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.</li>
+</ul>
+
+<h4 id="docker">Docker</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/DerekJarvis/general-golem">Golem Requestor Node <img src="https://img.shields.io/github/stars/DerekJarvis/general-golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DerekJarvis/general-golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.</li>
+</ul>
+
+<h4 id="testing">Testing</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/golemfactory/goth">Golem Test Harness (Goth) <img src="https://img.shields.io/github/stars/golemfactory/goth" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/golemfactory/goth" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.</li>
+  <li>
+<a href="https://github.com/sladecek/golem-afl">Golem-afl <img src="https://img.shields.io/github/stars/sladecek/golem-afl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sladecek/golem-afl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An experimental test-fuzzing framework. Assists in finding security holes.</li>
+  <li>
+<a href="https://github.com/sladecek/golem_cargo_test">Golem Cargo Test <img src="https://img.shields.io/github/stars/sladecek/golem_cargo_test" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sladecek/golem_cargo_test" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An adaptive distributed test executor for Rust projects.</li>
+  <li>
+<a href="https://github.com/hhio618/golem-ci">Golem CI <img src="https://img.shields.io/github/stars/hhio618/golem-ci" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hhio618/golem-ci" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Decentralized task pipeline.</li>
+  <li>
+<a href="https://github.com/deutschklub/golem-slate">Golem SLATE <img src="https://img.shields.io/github/stars/deutschklub/golem-slate" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/deutschklub/golem-slate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Open source repository for Golem SLATE described in the above Apps section.</li>
+  <li>
+<a href="https://github.com/figurestudios/thorgpress">ThorgPress <img src="https://img.shields.io/github/stars/figurestudios/thorgpress" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/thorgpress" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.</li>
+</ul>
+
+<h4 id="vpn">VPN</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn">Yagna httpx client <img src="https://img.shields.io/github/stars/golemfactory/ya-httpx-client" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/golemfactory/ya-httpx-client" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.</li>
+  <li>
+<a href="https://github.com/jedbrooke/golem-network-requestor">Golem Provider with network access <img src="https://img.shields.io/github/stars/jedbrooke/golem-network-requestor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jedbrooke/golem-network-requestor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.</li>
+</ul>
+
+<h4 id="games">Games</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/Dodecane/golem-sudoku">Golem Sudoku <img src="https://img.shields.io/github/stars/Dodecane/golem-sudoku" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Dodecane/golem-sudoku" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Game of Sudoku with size variants.</li>
+  <li>
+<a href="https://github.com/ChrisHelmsC/hsog-requestor">HSOG-requester <img src="https://img.shields.io/github/stars/ChrisHelmsC/hsog-requestor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ChrisHelmsC/hsog-requestor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.</li>
+  <li>
+<a href="https://github.com/broadcastmonkey/ChessOnGolem">ChessOnGolem <img src="https://img.shields.io/github/stars/broadcastmonkey/ChessOnGolem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/broadcastmonkey/ChessOnGolem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI’s playing against each other through the Golem backend.</li>
+  <li>
+<a href="https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator">Golem Fleet Battle Simulator <img src="https://img.shields.io/github/stars/UnfortuN8/Golem-Fleet-Battle-Simulator" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/UnfortuN8/Golem-Fleet-Battle-Simulator" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.</li>
+</ul>
+
+<h4 id="cli-tools">CLI Tools</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/krunch3r76/gc__enhanced_completion">Golem Completion Engine <img src="https://img.shields.io/github/stars/krunch3r76/gc__enhanced_completion" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/gc__enhanced_completion" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.</li>
+  <li>
+<a href="https://github.com/davidstyers/golocity">Golocity <img src="https://img.shields.io/github/stars/davidstyers/golocity" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/davidstyers/golocity" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Build and deploy your dockerized applications on the Golem Network in just two commands.</li>
+  <li>
+<a href="https://github.com/figurestudios/gc__push_image">gc__push_image <img src="https://img.shields.io/github/stars/figurestudios/gc__push_image" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/gc__push_image" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.</li>
+</ul>
+
+<h4 id="video-transcoding-and-editing">Video Transcoding and Editing</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/Doc-Saintly/golem-video">Golem Network Video Transcoder <img src="https://img.shields.io/github/stars/Doc-Saintly/golem-video" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Doc-Saintly/golem-video" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sample app to transcode videos. Select your transcoding profile and then upload your videos.</li>
+  <li>
+<a href="https://github.com/Edhendil/golem-transcoding">Golem Transcoding requestor <img src="https://img.shields.io/github/stars/Edhendil/golem-transcoding" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Edhendil/golem-transcoding" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - React + Spring based webapp accepting video files as input and transcoding these files into different formats.</li>
+  <li>
+<a href="https://github.com/jedbrooke/golem-auto-editor">Golem Auto Editor <img src="https://img.shields.io/github/stars/jedbrooke/golem-auto-editor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jedbrooke/golem-auto-editor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.</li>
+</ul>
+
+<h4 id="data-analysis">Data Analysis</h4>
+<ul>
+  <li>
+<a href="https://github.com/pryce-turner/coacervate/">Coacervate <img src="https://img.shields.io/github/stars/pryce-turner/coacervate" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/pryce-turner/coacervate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.</li>
+  <li>
+<a href="https://github.com/nestorbonilla/flan">Flan <img src="https://img.shields.io/github/stars/nestorbonilla/flan" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/nestorbonilla/flan" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.</li>
+  <li>
+<a href="https://github.com/hhio618/golem-lorenz-attractor">Golem Lorenz-attractor <img src="https://img.shields.io/github/stars/hhio618/golem-lorenz-attractor" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hhio618/golem-lorenz-attractor" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.</li>
+  <li>
+<a href="https://github.com/Edhendil/golem-geomandel">Golem Geomandel <img src="https://img.shields.io/github/stars/Edhendil/golem-geomandel" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Edhendil/golem-geomandel" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.</li>
+  <li>
+<a href="https://github.com/iRhonin/golem-covid">Golem COVID <img src="https://img.shields.io/github/stars/iRhonin/golem-covid" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/iRhonin/golem-covid" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.</li>
+  <li>
+<a href="https://github.com/CoeJoder/golem-parallel-matplotlib">Golem Parallel Matplotlib <img src="https://img.shields.io/github/stars/CoeJoder/golem-parallel-matplotlib" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/CoeJoder/golem-parallel-matplotlib" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.</li>
+  <li>
+<a href="https://github.com/niklr/golem-fulltext-search">Full-Text Search Engine <img src="https://img.shields.io/github/stars/niklr/golem-fulltext-search" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/niklr/golem-fulltext-search" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A search engine service that goes through text files.</li>
+</ul>
+
+<h4 id="data-simulation">Data Simulation</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/rogervs/cadcadgolem">cadCAD Golem <img src="https://img.shields.io/github/stars/rogervs/cadcadgolem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rogervs/cadcadgolem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.</li>
+  <li>
+<a href="https://github.com/johngrantuk/golem-array">Golem Array <img src="https://img.shields.io/github/stars/johngrantuk/golem-array" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/johngrantuk/golem-array" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Antenna array design and simulation.</li>
+  <li>
+<a href="https://github.com/vporton/limit-visualization">Limit visualization <img src="https://img.shields.io/github/stars/vporton/limit-visualization" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/vporton/limit-visualization" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Plots graphs with various limits. Supports discontinous graphs.</li>
+  <li>
+<a href="https://github.com/smiley1983/golemGraphWavePair">GolemGraphWavePair <img src="https://img.shields.io/github/stars/smiley1983/golemGraphWavePair" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/smiley1983/golemGraphWavePair" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Generates graph frames, then combine them into an animation.</li>
+  <li>
+<a href="https://github.com/rezahsnz/golemized-strong-gravitational-lense">Golemized strong-gravitational-lense <img src="https://img.shields.io/github/stars/rezahsnz/golemized-strong-gravitational-lense" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/golemized-strong-gravitational-lense" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.</li>
+</ul>
+
+<h4 id="data-optimization">Data Optimization</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/Doc-Saintly/golem-ortools">Golem or-tools <img src="https://img.shields.io/github/stars/Doc-Saintly/golem-ortools" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Doc-Saintly/golem-ortools" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Uses the or-tools Constraint Programming library to solve problems.</li>
+  <li>
+<a href="https://github.com/DEUTSCHKLUB/no-more-COFUD">No more COFUD <img src="https://img.shields.io/github/stars/DEUTSCHKLUB/no-more-COFUD" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DEUTSCHKLUB/no-more-COFUD" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Calculates how to fit the most people into a space while keeping 2 meters distance between each other.</li>
+  <li>
+<a href="https://github.com/DeveloperInProgress/Mutta-Puffs">Mutta Puffs <img src="https://img.shields.io/github/stars/DeveloperInProgress/Mutta-Puffs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/DeveloperInProgress/Mutta-Puffs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.</li>
+</ul>
+
+<h4 id="finance">Finance</h4>
+<ul>
+  <li>
+<a href="https://github.com/blue-notes-robot/zksync-csv-export">ZKSync .csv export <img src="https://img.shields.io/github/stars/blue-notes-robot/zksync-csv-export" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/blue-notes-robot/zksync-csv-export" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Scrapes ZKSync to generate financial data in a .csv file.</li>
+</ul>
+
+<h4 id="machine-learning">Machine Learning</h4>
+<ul>
+  <li>
+<a href="https://github.com/anshuman73/DeML-Golem">DeML-Golem <img src="https://img.shields.io/github/stars/anshuman73/DeML-Golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/anshuman73/DeML-Golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.</li>
+  <li>
+<a href="https://github.com/ControlCplusControlV/Golem-Image-Classifier">Golem Image Classifier <img src="https://img.shields.io/github/stars/ControlCplusControlV/Golem-Image-Classifier" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ControlCplusControlV/Golem-Image-Classifier" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Train and classify images through an active service.</li>
+</ul>
+
+<h4 id="deep-learning">Deep Learning</h4>
+<ul>
+  <li>
+<a href="https://github.com/rezahsnz/mlg">Mlg <img src="https://img.shields.io/github/stars/rezahsnz/mlg" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/mlg" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.</li>
+  <li>
+<a href="https://github.com/echinocacti/deepart_golem">Deepart Golem <img src="https://img.shields.io/github/stars/echinocacti/deepart_golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/echinocacti/deepart_golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.</li>
+</ul>
+
+<h4 id="rng">RNG</h4>
+<ul>
+  <li>
+<a href="https://github.com/rezahsnz/gandom">Gandom <img src="https://img.shields.io/github/stars/rezahsnz/gandom" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/gandom" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.</li>
+  <li>
+<a href="https://github.com/krunch3r76/entropythief">Entropythief <img src="https://img.shields.io/github/stars/krunch3r76/entropythief" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/entropythief" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel’s RDRAND cpu instruction (inspired by Gandom).</li>
+</ul>
+
+<h4 id="password-recovery">Password Recovery</h4>
+<ul>
+  <li>
+<a href="https://github.com/hhio618/golem-jtr">Golem-JTR <img src="https://img.shields.io/github/stars/hhio618/golem-jtr" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hhio618/golem-jtr" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Run John The Ripper to recover a password.</li>
+  <li>
+<a href="https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat">Yacat</a> - Hashcat password-recovery step-by-step.</li>
+</ul>
+
+<h4 id="defi">DeFi</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/masaun/GLM-stake-pool">Golem Staking Pool incentivize system for GLM holders <img src="https://img.shields.io/github/stars/masaun/GLM-stake-pool" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/masaun/GLM-stake-pool" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A smart contract in order to provide the opportunity of yield farming for GLM token holders.</li>
+  <li>
+<a href="https://github.com/bakaoh/magic-doll">Magic-doll <img src="https://img.shields.io/github/stars/bakaoh/magic-doll" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/bakaoh/magic-doll" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is <code class="language-plaintext highlighter-rouge">Kyle</code>, a Golem app that does all the computation to pick the best team to play for each match.</li>
+</ul>
+
+<h4 id="user-interfaces">User Interfaces</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/shri4net/golem-hackathon-2020">Golem UI <img src="https://img.shields.io/github/stars/shri4net/golem-hackathon-2020" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/shri4net/golem-hackathon-2020" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Electron user interface for Yagna.</li>
+</ul>
+
+<h4 id="miscellaneous">Miscellaneous</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/krunch3r76/gc__listoffers">Gc__ListOffers <img src="https://img.shields.io/github/stars/krunch3r76/gc__listoffers" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/gc__listoffers" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - List offers by providers on the Golem Network with a GUI.</li>
+  <li>
+<a href="https://github.com/krunch3r76/gc__gvmi_hash">Gc__gvmi_hash <img src="https://img.shields.io/github/stars/krunch3r76/gc__gvmi_hash" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/gc__gvmi_hash" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you’re unsure if a key corresponds to a specific image.</li>
+  <li>
+<a href="https://github.com/canokaue/gvm-vim">gvm-vim <img src="https://img.shields.io/github/stars/canokaue/gvm-vim" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/canokaue/gvm-vim" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Golemized docker image for compiling the VIM editor.</li>
+  <li>
+<a href="https://github.com/rezahsnz/yajsapi">YaJSapi fork with greeting example <img src="https://img.shields.io/github/stars/rezahsnz/yajsapi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rezahsnz/yajsapi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in <code class="language-plaintext highlighter-rouge">examples/greetings</code>.</li>
+  <li>
+<a href="https://github.com/visualNext/golem">Golem Image Sharpening <img src="https://img.shields.io/github/stars/visualNext/golem" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/visualNext/golem" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A tool to sharpen images.</li>
+  <li>
+<a href="https://github.com/krunch3r76/filterms">Filterms <img src="https://img.shields.io/github/stars/krunch3r76/filterms" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/krunch3r76/filterms" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).</li>
+  <li>
+<a href="https://github.com/figurestudios/golem-bulk-image-handler">golem-bulk-image-handler <img src="https://img.shields.io/github/stars/figurestudios/golem-bulk-image-handler" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/figurestudios/golem-bulk-image-handler" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Takes an input image and processes it in many different ways using the Pillow library.</li>
+</ul>
+
 
 
       
