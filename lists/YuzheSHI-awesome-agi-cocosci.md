@@ -54,6 +54,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Coordination](#coordination)
     * [Domain Specific Language](#domain-specific-language)
       * [Design Theory](#design-theory)
+      * [Domain Specified Applications](#domain-specified-applications)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
       * [Planning](#planning)
@@ -772,6 +773,12 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 * [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744&hl=en&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
 * [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750&hl=en&as_sdt=0,5)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
+
+*[Back to Top](#c)
+
+#### Domain Specified Applications
+
+* [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. [[Project ![GitHub Repo Stars](https://img.shields.io/github/stars/nmz787/BioCoder) ![GitHub last commit](https://img.shields.io/github/last-commit/nmz787/BioCoder)](https://github.com/nmz787/BioCoder)]. [[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] Microsoft's programming language for representing biology protocols.
 
 *[Back to Top](#c)
 
@@ -1948,8 +1955,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 * [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8852566070856662412)].
 
 * [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=7690010749576063125)].
-
-* [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. [[Project ![GitHub Repo Stars](https://img.shields.io/github/stars/nmz787/BioCoder) ![GitHub last commit](https://img.shields.io/github/last-commit/nmz787/BioCoder)](https://github.com/nmz787/BioCoder)]. [[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] Microsoft's programming language for representing biology protocols.
 
 * [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314&hl=en&as_sdt=0,5)].
 
