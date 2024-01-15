@@ -1850,7 +1850,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [HTML Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/philipwalton/html-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/philipwalton/html-inspector)](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector is a code quality tool to help you and your team write better markup.
 
-- [HTML Tidy](http://www.html-tidy.org) �� Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
+- [HTML Tidy](http://www.html-tidy.org) — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
 
 - [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
 
