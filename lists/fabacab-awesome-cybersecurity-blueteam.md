@@ -204,7 +204,7 @@ See also [Awesome-Fuzzing ![GitHub Repo Stars](https://img.shields.io/github/sta
 
 ### Supply chain security
 
-See also [�� Dependency confusion](#dependency-confusion).
+See also [§ Dependency confusion](#dependency-confusion).
 
 - [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
 - [Helm GPG (GnuPG) Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/technosophos/helm-gpg) ![GitHub last commit](https://img.shields.io/github/last-commit/technosophos/helm-gpg)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
