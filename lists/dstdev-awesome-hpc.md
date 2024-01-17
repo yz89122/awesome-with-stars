@@ -26,6 +26,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Visualization](#visualization)
 - [Parallel Filesystems](#parallel-filesystems)
 - [Programming Languages](#programming-languages)
+- [Monitoring](#monitoring)
 - [Journals](#journals)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
@@ -41,7 +42,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Warewulf](https://warewulf.hpcng.org/) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/hpcng/warewulf) ![GitHub last commit](https://img.shields.io/github/last-commit/hpcng/warewulf)](https://github.com/hpcng/warewulf)) `BSD-3`.
 - [Rocks](http://www.rocksclusters.org/) - A Linux distribution for developing Linux clusters `other`.
 - [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/cobbler/cobbler) ![GitHub last commit](https://img.shields.io/github/last-commit/cobbler/cobbler)](https://github.com/cobbler/cobbler)) `GPL-2.0`.
-- [Bright](https://www.nvidia.com/en-us/data-center/bright-cluster-manager/) - Bright Cluster Manager allows administrator to quickly build and manage heterogeneous clusters `Proprietary`.
+- [Base Command Manager](https://docs.nvidia.com/base-command-manager/index.html) - Base Command Manager allows administrator to quickly build and manage heterogeneous clusters `Proprietary`.
 - [Scyld](https://www.penguinsolutions.com/computing/products/software/scyld-clusterware/) - Scyld Clusterware Scyld ClusterWare is developed based on the continuing evolution of Beowulf clusters first developed at NASA in the 1990s `Proprietary`.
 - [BlueBanquise](https://bluebanquise.com) - BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/bluebanquise/bluebanquise) ![GitHub last commit](https://img.shields.io/github/last-commit/bluebanquise/bluebanquise)](https://github.com/bluebanquise/bluebanquise)) `MIT`.
 
@@ -60,6 +61,7 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Pipelines
 - [Nextflow](https://nextflow.io) - Data drive computational pipelines `Apache-2.0`.
 - [Cromwell](https://cromwell.readthedocs.io/en/stable/) - Scientific workflow engine designed for simplicity & scalability ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/broadinstitute/cromwell) ![GitHub last commit](https://img.shields.io/github/last-commit/broadinstitute/cromwell)](https://github.com/broadinstitute/cromwell)) `BSD-3`.
+- [Pegasus](https://pegasus.isi.edu/) - A configurable system for mapping and executing scientific workflows over a wide range of computational infrastructure ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/pegasus-isi/pegasus) ![GitHub last commit](https://img.shields.io/github/last-commit/pegasus-isi/pegasus)](https://github.com/pegasus-isi/pegasus))`Apache-2.0`.
 
 ## Applications
 - [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/spack/spack) ![GitHub last commit](https://img.shields.io/github/last-commit/spack/spack)](https://github.com/spack/spack)) `other`.
@@ -99,6 +101,8 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Open XDMod](https://open.xdmod.org) - Open XDMoD is an open source tool to facilitate the management of high performance computing resources ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ubccr/xdmod) ![GitHub last commit](https://img.shields.io/github/last-commit/ubccr/xdmod)](https://github.com/ubccr/xdmod/)) `LGPL-3`.
 - [Coldfront](https://coldfront.readthedocs.io/en/latest/) - ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ubccr/coldfront) ![GitHub last commit](https://img.shields.io/github/last-commit/ubccr/coldfront)](https://github.com/ubccr/coldfront)) `GPL-3`.
 - [Pavilion2](https://pavilion2.readthedocs.io/) - Pavilion is a Python 3 (3.6+) based framework for running and analyzing tests targeting HPC systems ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/hpc/pavilion2) ![GitHub last commit](https://img.shields.io/github/last-commit/hpc/pavilion2)](https://github.com/hpc/pavilion2)) `other`.
+- [Reframe](https://reframe-hpc.readthedocs.io/en/stable/) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/reframe-hpc/reframe) ![GitHub last commit](https://img.shields.io/github/last-commit/reframe-hpc/reframe)](https://github.com/reframe-hpc/reframe)) `BSD-3`.
+- [OLCF Test Harness](https://olcf.github.io/olcf-test-harness/) - The OLCF Test Harness (OTH) helps automate the testing of applications, tools, and other system software ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/olcf/olcf-test-harness) ![GitHub last commit](https://img.shields.io/github/last-commit/olcf/olcf-test-harness)](https://github.com/olcf/olcf-test-harness)) `other`. 
 - [GoSlmailer ![GitHub Repo Stars](https://img.shields.io/github/stars/CLIP-HPC/goslmailer) ![GitHub last commit](https://img.shields.io/github/last-commit/CLIP-HPC/goslmailer)](https://github.com/CLIP-HPC/goslmailer) - Goslmailer is a drop-in notification delivery solution for slurm that can do slack, mattermost, teams, and more.
 
 ## Performance
@@ -118,7 +122,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Docker](https://www.docker.com/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers `other`.
 - [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/indigo-dc/udocker) ![GitHub last commit](https://img.shields.io/github/last-commit/indigo-dc/udocker)](https://github.com/indigo-dc/udocker)) `Apache-2.0`.
 - [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) -  Shifter is Linux containers for HPC ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/NERSC/shifter) ![GitHub last commit](https://img.shields.io/github/last-commit/NERSC/shifter)](https://github.com/NERSC/shifter)) `other`.
-- [HPC Container Maker ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA/hpc-container-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/hpc-container-maker)](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-20`.
+- [HPC Container Maker ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA/hpc-container-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/hpc-container-maker)](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-2.0`.
 - [Scarus ![GitHub Repo Stars](https://img.shields.io/github/stars/eth-cscs/sarus) ![GitHub last commit](https://img.shields.io/github/last-commit/eth-cscs/sarus)](https://github.com/eth-cscs/sarus) - An OCI-compatible container engine for HPC `BSD`.
 - [Singularity HPC](https://singularity-hpc.readthedocs.io) - Singularity Registry HPC (shpc) allows you to install containers as modules ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/singularityhub/singularity-hpc) ![GitHub last commit](https://img.shields.io/github/last-commit/singularityhub/singularity-hpc)](https://github.com/singularityhub/singularity-hpc)) `MPL 2.0`.
 
@@ -147,6 +151,17 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Futhark](https://futhark-lang.org/) - Futhark is a purely functional data-parallel programming language in the ML family `isc`.
 - [Chapel](https://chapel-lang.org/) - Chapel is a programming language designed for productive parallel computing at scale `Apache-2.0`.
 
+## Monitoring
+### Prometheus Based
+- [Slurm Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/treydock/prometheus-slurm-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/treydock/prometheus-slurm-exporter)](https://github.com/treydock/prometheus-slurm-exporter) - Prometheus exporter for performance metrics from Slurm `GPL-3.0`. 
+- [Slurm Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/ubccr/slurm-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/ubccr/slurm-exporter)](https://github.com/ubccr/slurm-exporter) - Slurm Exporter for Prometheus using Rest API `GPL-3.0`.
+- [Infiniband Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/treydock/infiniband_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/treydock/infiniband_exporter)](https://github.com/treydock/infiniband_exporter) - The InfiniBand exporter collects counters from InfiniBand switches and HCAs `Apache-2.0`.
+- [Cgroup Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/treydock/cgroup_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/treydock/cgroup_exporter)](https://github.com/treydock/cgroup_exporter) - Produces metrics from cgroups `Apache-2.0`.
+- [Cgroup Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/phpHavok/cgroups_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/phpHavok/cgroups_exporter)](https://github.com/phpHavok/cgroups_exporter) - A Prometheus exporter for cgroup-level metrics `unknown`.
+- [GPFS Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/treydock/gpfs_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/treydock/gpfs_exporter)](https://github.com/treydock/gpfs_exporter) - The GPFS exporter collects metrics from the GPFS filesystem `Apache-2.0`.
+- [Lustre Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/GSI-HPC/lustre_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/GSI-HPC/lustre_exporter)](https://github.com/GSI-HPC/lustre_exporter) - Prometheus exporter for use with the Lustre parallel filesystem `GPL-3.0`.
+- [DCGM Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA/dcgm-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/dcgm-exporter)](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM `Apache-2.0`.
+
 ## Journals
 - [Journal of Super Computing](https://www.springer.com/journal/11227) - An International Journal of High-Performance Computer Design, Analysis, and Use.
 
@@ -174,6 +189,9 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Hot Interconnects](https://hoti.org) - IEEE conference on software architectures and implementations for interconnection networks of all scales.
 - [ESSA](https://sites.google.com/view/essa-2024/) - Workshop on Extreme-Scale Storage and Analysis.
 - [IEEE-IPDPS](https://www.ipdps.org/) - IEEE International Parallel & Distributed Processing Symposium.
+- [ESPM2 Workshop](http://nowlab.cse.ohio-state.edu/espm2/) - International Workshop on Extreme Scale Programming Models and Middleware.
+- [LCI Workshops](https://linuxclustersinstitute.org/workshops/) - The Linux Clusters Institute (LCI) is providing education and advanced technical training for the deployment and use of computing clusters to the high performance computing community worldwide.
+- [HPC Carpentry](https://www.hpc-carpentry.org/) - Teaching basic skills for high-performance computing.
 
 ## Websites
 
