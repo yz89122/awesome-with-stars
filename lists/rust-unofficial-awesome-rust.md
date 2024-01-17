@@ -382,6 +382,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 ### Security tools
 
 * [AFLplusplus/LibAFL ![GitHub Repo Stars](https://img.shields.io/github/stars/AFLplusplus/LibAFL) ![GitHub last commit](https://img.shields.io/github/last-commit/AFLplusplus/LibAFL)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, etc. [![build and test ![GitHub Repo Stars](https://img.shields.io/github/stars/AFLplusplus/LibAFL) ![GitHub last commit](https://img.shields.io/github/last-commit/AFLplusplus/LibAFL)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
+* [arp-scan-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/kongbytes/arp-scan-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/kongbytes/arp-scan-rs)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 * [cargo-audit](https://crates.io/crates/cargo-audit) - Audit Cargo.lock for crates with security vulnerabilities
 * [cargo-auditable](https://crates.io/crates/cargo-auditable) - Make production Rust binaries auditable
 * [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
