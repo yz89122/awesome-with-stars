@@ -720,7 +720,7 @@ Libraries to help manage database schemas and migrations.
 * [Jane ![GitHub Repo Stars](https://img.shields.io/github/stars/janephp/janephp) ![GitHub last commit](https://img.shields.io/github/last-commit/janephp/janephp)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 * [Negotiation ![GitHub Repo Stars](https://img.shields.io/github/stars/willdurand/Negotiation) ![GitHub last commit](https://img.shields.io/github/last-commit/willdurand/Negotiation)](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler ![GitHub Repo Stars](https://img.shields.io/github/stars/Luracast/Restler) ![GitHub last commit](https://img.shields.io/github/last-commit/Luracast/Restler)](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
-* [wsdl2phpgenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdl2phpgenerator/wsdl2phpgenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdl2phpgenerator/wsdl2phpgenerator)](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+* [PackageGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/WsdlToPhp/PackageGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/WsdlToPhp/PackageGenerator)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ### Caching and Locking
 *Libraries for caching data and acquiring locks.*
