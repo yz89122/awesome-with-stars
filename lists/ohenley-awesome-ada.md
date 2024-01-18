@@ -89,6 +89,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	18. [Robotics](#robotics)
 	19. [Linux and POSIX](#linux-and-posix)
 	20. [Windows and .NET](#windows-and-net)
+    21. [Bindings to Other Languages](#bindings-to-other-languages)
 13. [Hardware and Embedded](#hardware-and-embedded)
 	1. [Frameworks](#frameworks-1)
 	2. [Firmwares](#firmwares)
@@ -97,7 +98,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	5. [Communication](#communication)
 	6. [Libraries](#libraries-1)
 	7. [Applications](#applications)
-	8. [Bindings](#bindings)
+	8. [Generators](#generators)
 14. [Applications](#applications-1)
 	1. [Office](#office)
 	2. [Mail](#mail)
@@ -109,7 +110,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	8. [Shells, Interpreters and Emulators](#shells-interpreters-and-emulators)
 	9. [Programming Languages](#programming-languages)
 	10. [Misc](#misc)
-15. [Bindings](#bindings-1)
 
 </details>
 
@@ -360,6 +360,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [curses ![GitHub Repo Stars](https://img.shields.io/github/stars/annexi-strayline/Curses) ![GitHub last commit](https://img.shields.io/github/last-commit/annexi-strayline/Curses)](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 - [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 - [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8).
+- [areadline ![GitHub Repo Stars](https://img.shields.io/github/stars/samueltardieu/areadline) ![GitHub last commit](https://img.shields.io/github/last-commit/samueltardieu/areadline)](https://github.com/samueltardieu/areadline) - Ada binding to the readline library.
 
 ### 3D
 - [globe-3d ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/globe-3d) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/globe-3d)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
@@ -446,6 +447,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [lalg ![GitHub Repo Stars](https://img.shields.io/github/stars/jhumphry/LALG) ![GitHub last commit](https://img.shields.io/github/last-commit/jhumphry/LALG)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 - [geo-energy-math ![GitHub Repo Stars](https://img.shields.io/github/stars/pukpr/GeoEnergyMath) ![GitHub last commit](https://img.shields.io/github/last-commit/pukpr/GeoEnergyMath)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
 - [matrix-root](https://gitlab.com/mockturtle/matrix-root) - Compute the N-th root of a matrix.
+- [hungarian ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/hungarian) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/hungarian)](https://github.com/mosteo/hungarian) - Ada binding to the fast Stachniss' Hungarian solver.
 
 ### Science
 - [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
@@ -560,6 +562,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 - [kafka-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/Latence-Technologies/Kafka-Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/Latence-Technologies/Kafka-Ada)](https://github.com/Latence-Technologies/Kafka-Ada) - Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.
 - [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
+- [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
 ### Chatting and Communication
 - [axmpp ![GitHub Repo Stars](https://img.shields.io/github/stars/coopht/axmpp) ![GitHub last commit](https://img.shields.io/github/last-commit/coopht/axmpp)](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
@@ -591,6 +594,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cuda ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/cuda) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/cuda)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA's CUDA parallel computing platform and programming model.
 - [opencl-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/flyx/OpenCLAda) ![GitHub last commit](https://img.shields.io/github/last-commit/flyx/OpenCLAda)](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
+- [boehmgc-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/ytomino/boehmgc-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/ytomino/boehmgc-ada)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
+- [ada-bfd ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-bfd) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-bfd)](https://github.com/stcarrez/ada-bfd) - An Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
 
 ### Sound
 - [opus-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/opus-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/opus-ada)](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
@@ -639,6 +644,14 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-winrt ![GitHub Repo Stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-WinRT) ![GitHub last commit](https://img.shields.io/github/last-commit/Alex-Gamper/Ada-WinRT)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 - [ada-win32 ![GitHub Repo Stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-Win32) ![GitHub last commit](https://img.shields.io/github/last-commit/Alex-Gamper/Ada-Win32)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 
+### Bindings to Other Languages
+- [tcl-ada-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/tcladashell) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/tcladashell)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
+- [tashy ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
+- [tashy2 ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy2) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
+- [ada-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/ada-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/ada-lua)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
+- [coreland-lua-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/io7m/coreland-lua-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/io7m/coreland-lua-ada)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+
+
 ## Hardware and Embedded
 
 ### Frameworks
@@ -669,6 +682,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [geste ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/GESTE) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/GESTE)](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
 - [sancta ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/sancta) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/sancta)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 - [stm32-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/stm32-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/stm32-ui)](https://github.com/stcarrez/stm32-ui) - STM32 UI library and tools (graphs, images, 12 hour clock).
+- [ada-time ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/Ada_Time) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/Ada_Time)](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch.
+- [wiring-pi-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/wiringPi-Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/wiringPi-Ada)](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi.
 
 ### Applications
 - [coffee-clock ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/coffee-clock) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/coffee-clock)](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.
@@ -680,10 +695,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [railway-simulation ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/SPARK_Railway_Simulation_Demo) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/SPARK_Railway_Simulation_Demo)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 - [etherscope ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/etherscope) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/etherscope)](https://github.com/stcarrez/etherscope) - Ethernet traffic monitor on a STM32F746 board.
 
-### Bindings
+### Generators
 - [svd2ada ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/svd2ada) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/svd2ada)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
-- [ada-time ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/Ada_Time) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/Ada_Time)](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch.
-- [wiring-pi-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/wiringPi-Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/wiringPi-Ada)](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi.
 
 ## Applications
 
@@ -721,6 +734,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs.
 - [pascal-to-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/pascal-to-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/pascal-to-ada)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
+  - [tp7-ada-gtkada ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/tp7ada-gtkada) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/tp7ada-gtkada)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada].
+  - [tp7-ada-gnoga ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/tp7ada-gnoga) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/tp7ada-gnoga)](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga].
 - [tiled-code-gen ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/tiled-code-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/tiled-code-gen)](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [j2ada ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/j2ada) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/j2ada)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 - [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
@@ -744,19 +759,3 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [whitakers-words ![GitHub Repo Stars](https://img.shields.io/github/stars/mk270/whitakers-words) ![GitHub last commit](https://img.shields.io/github/last-commit/mk270/whitakers-words)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 - [ada-chess ![GitHub Repo Stars](https://img.shields.io/github/stars/adachess/AdaChess) ![GitHub last commit](https://img.shields.io/github/last-commit/adachess/AdaChess)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 - [adage ![GitHub Repo Stars](https://img.shields.io/github/stars/atalii/adage) ![GitHub last commit](https://img.shields.io/github/last-commit/atalii/adage)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
-
-## Bindings
-
-- [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
-- [areadline ![GitHub Repo Stars](https://img.shields.io/github/stars/samueltardieu/areadline) ![GitHub last commit](https://img.shields.io/github/last-commit/samueltardieu/areadline)](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
-- [tp7-ada-gtkada ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/tp7ada-gtkada) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/tp7ada-gtkada)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada].
-- [tp7-ada-gnoga ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/tp7ada-gnoga) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/tp7ada-gnoga)](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga].
-- [ada-bfd ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-bfd) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-bfd)](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
-- [boehmgc-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/ytomino/boehmgc-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/ytomino/boehmgc-ada)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
-- [tcl-ada-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/tcladashell) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/tcladashell)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
-- [tashy ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
-- [tashy2 ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy2) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
-- [hungarian ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/hungarian) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/hungarian)](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
-- [ada-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/ada-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/ada-lua)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
-- [coreland-lua-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/io7m/coreland-lua-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/io7m/coreland-lua-ada)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
-
