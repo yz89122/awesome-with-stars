@@ -211,6 +211,10 @@
 
   <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
 
+- [github-contributions ![GitHub Repo Stars](https://img.shields.io/github/stars/ferraridavide/scriptable) ![GitHub last commit](https://img.shields.io/github/last-commit/ferraridavide/scriptable)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
+
+  <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
+
 - [gitlab-stats-for-scribtable ![GitHub Repo Stars](https://img.shields.io/github/stars/p0fi/gitlab-stats-for-scribtable) ![GitHub last commit](https://img.shields.io/github/last-commit/p0fi/gitlab-stats-for-scribtable)](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
   <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
