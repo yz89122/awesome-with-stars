@@ -840,9 +840,9 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) — Detects violations of a defined set of coding standards.
 
-- [phpca ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpCodeAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpCodeAnalyzer)](https://github.com/wapmorgan/PhpCodeAnalyzer) — Finds usage of non-built-in extensions.
+- [phpca ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpCodeAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpCodeAnalyzer)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: — Finds usage of non-built-in extensions.
 
-- [phpcpd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpcpd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpcpd)](https://github.com/sebastianbergmann/phpcpd) — Copy/Paste Detector for PHP code.
+- [phpcpd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpcpd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpcpd)](https://github.com/sebastianbergmann/phpcpd) :warning: — Copy/Paste Detector for PHP code.
 
 - [phpdcd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpdcd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpdcd)](https://github.com/sebastianbergmann/phpdcd) :warning: — Dead Code Detector (DCD) for PHP code.
 
