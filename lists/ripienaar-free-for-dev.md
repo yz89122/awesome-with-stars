@@ -471,7 +471,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
   * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
 
-**[��️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## CMS
 
