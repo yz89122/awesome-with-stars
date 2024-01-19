@@ -1046,7 +1046,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
-- [Fasterer ![GitHub Repo Stars](https://img.shields.io/github/stars/DamirSvrtan/fasterer) ![GitHub last commit](https://img.shields.io/github/last-commit/DamirSvrtan/fasterer)](https://github.com/DamirSvrtan/fasterer) — Common Ruby idioms checker.
+- [Fasterer ![GitHub Repo Stars](https://img.shields.io/github/stars/DamirSvrtan/fasterer) ![GitHub last commit](https://img.shields.io/github/last-commit/DamirSvrtan/fasterer)](https://github.com/DamirSvrtan/fasterer) ��� Common Ruby idioms checker.
 
 - [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
 

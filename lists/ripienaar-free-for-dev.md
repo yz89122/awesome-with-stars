@@ -471,7 +471,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
   * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[��️ Back to Top](#table-of-contents)**
 
 ## CMS
 
@@ -588,7 +588,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [microtica.com](https://microtica.com/) - Startup environments with ready-made infrastructure components, deploy apps on AWS for free, and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 monthly deployments.
 
 
-**[��️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Testing
 

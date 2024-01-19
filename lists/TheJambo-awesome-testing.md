@@ -58,6 +58,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [test-each ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/test-each) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/test-each)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 - [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 - [RestQA ![GitHub Repo Stars](https://img.shields.io/github/stars/restqa/restqa) ![GitHub last commit](https://img.shields.io/github/last-commit/restqa/restqa)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+- [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
 
 ### Web3 and Blockchain
 - [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
