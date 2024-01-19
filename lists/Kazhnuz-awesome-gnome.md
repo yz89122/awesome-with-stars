@@ -75,6 +75,7 @@
 - [Foliate ![GitHub Repo Stars](https://img.shields.io/github/stars/johnfactotum/foliate) ![GitHub last commit](https://img.shields.io/github/last-commit/johnfactotum/foliate)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Marker ![GitHub Repo Stars](https://img.shields.io/github/stars/fabiocolacio/Marker) ![GitHub last commit](https://img.shields.io/github/last-commit/fabiocolacio/Marker)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 - [Paper Clip ![GitHub Repo Stars](https://img.shields.io/github/stars/Diego-Ivan/Paper-Clip) ![GitHub last commit](https://img.shields.io/github/last-commit/Diego-Ivan/Paper-Clip)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+- [RNote ![GitHub Repo Stars](https://img.shields.io/github/stars/flxzt/rnote) ![GitHub last commit](https://img.shields.io/github/last-commit/flxzt/rnote)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Productivity and Time
 
@@ -130,6 +131,8 @@
 ### Scientific Tooling
 
 - [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
+- [Graphs](https://apps.gnome.org/Graphs/) - Plot and manipulate data. ![GNOME Circle][GNOME Circle]
+
 
 ### Gaming
 
@@ -180,6 +183,7 @@
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
+- [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps.
 
 ### Development and Design
 
@@ -300,10 +304,10 @@
 
 ### Themes for non-GTK apps
 
-
 - [Adwaita for Steam ![GitHub Repo Stars](https://img.shields.io/github/stars/tkashkin/Adwaita-for-Steam) ![GitHub last commit](https://img.shields.io/github/last-commit/tkashkin/Adwaita-for-Steam)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 - [Adwaita theme for VS Code ![GitHub Repo Stars](https://img.shields.io/github/stars/piousdeer/vscode-adwaita) ![GitHub last commit](https://img.shields.io/github/last-commit/piousdeer/vscode-adwaita)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 - [Firefox GNOME Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelmardojai/firefox-gnome-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelmardojai/firefox-gnome-theme)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+- [Thunderbird GNOME Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelmardojai/thunderbird-gnome-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelmardojai/thunderbird-gnome-theme)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 - [Obsidian Adwaita Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/birneee/obsidian-adwaita-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/birneee/obsidian-adwaita-theme)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community
