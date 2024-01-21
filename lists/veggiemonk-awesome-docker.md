@@ -356,7 +356,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 
 -   JetBrains IDEs (IntelliJ IDEA, GoLand, WebStorm, CLion etc.) has [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
 -   Eclipse [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
--   [docker.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/skanehira/docker.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/skanehira/docker.vim)](https://github.com/skanehira/docker.vim) - Manage docker containers and images in Vim. By [@skanehira]
+-   [denops-docker.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/skanehira/denops-docker.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/skanehira/denops-docker.vim)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira]
+-   [docker.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/skanehira/docker.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/skanehira/docker.vim)](https://github.com/skanehira/docker.vim) :skull: - Manage docker containers and images in Vim. By [@skanehira]
 -   [docker.el ![GitHub Repo Stars](https://img.shields.io/github/stars/Silex/docker.el) ![GitHub last commit](https://img.shields.io/github/last-commit/Silex/docker.el)](https://github.com/Silex/docker.el) Manage docker from Emacs by [@Silex](https://github.com/Silex)
 
 #### Desktop
