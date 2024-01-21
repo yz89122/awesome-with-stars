@@ -83,7 +83,7 @@ A list of UI components built with Material-UI Design.
 - [React molecule-components ![GitHub Repo Stars](https://img.shields.io/github/stars/alexandre-lelain/components-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/alexandre-lelain/components-extra)](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
 - [Material-UI NestedMenuItem ![GitHub Repo Stars](https://img.shields.io/github/stars/azmenak/material-ui-nested-menu-item) ![GitHub last commit](https://img.shields.io/github/last-commit/azmenak/material-ui-nested-menu-item)](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 - [React-planet ![GitHub Repo Stars](https://img.shields.io/github/stars/innFactory/react-planet) ![GitHub last commit](https://img.shields.io/github/last-commit/innFactory/react-planet)](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets.
-
+- [MUI Phone Input ![GitHub Repo Stars](https://img.shields.io/github/stars/typesnippet/mui-phone-input) ![GitHub last commit](https://img.shields.io/github/last-commit/typesnippet/mui-phone-input)](https://github.com/typesnippet/mui-phone-input) - Advanced, highly customizable phone input component for Material UI.
 
 ## Applications
 
