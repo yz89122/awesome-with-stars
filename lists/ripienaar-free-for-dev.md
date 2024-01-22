@@ -1374,7 +1374,7 @@ Update Time, five active automations, webhooks.
    * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowd testers, 2 projects, five members
    * [vabotu](https://vabotu.com/) - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for ten users and includes messaging, task boards, 5GB online storage, workspaces, and export data.
    * [Wikifactory](https://wikifactory.com/) — Product designing Service with Projects, VCS & Issues. The free plan offers unlimited projects & collaborators and 3GB storage.
-   * [Yodiz](https://www.yodiz.com/) �� Agile development and issue tracking. Free up to 3 users, unlimited projects.
+   * [Yodiz](https://www.yodiz.com/) — Agile development and issue tracking. Free up to 3 users, unlimited projects.
    * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects and private projects (free for three users). Includes time tracking and agile boards
    * [zenhub.com](https://www.zenhub.com) — The only project management solution inside GitHub. Free for public repos, OSS, and nonprofit organizations
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
