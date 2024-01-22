@@ -64,11 +64,10 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js) - The React Framework
 - [blitz ![GitHub Repo Stars](https://img.shields.io/github/stars/blitz-js/blitz) ![GitHub last commit](https://img.shields.io/github/last-commit/blitz-js/blitz)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
-- [remix](https://remix.run/) - Full stack web Framework that lets you focus on the user interface
+- [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [gatsby ![GitHub Repo Stars](https://img.shields.io/github/stars/gatsbyjs/gatsby) ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [react-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/react-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine ![GitHub Repo Stars](https://img.shields.io/github/stars/refinedev/refine) ![GitHub last commit](https://img.shields.io/github/last-commit/refinedev/refine)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
-- [aleph ![GitHub Repo Stars](https://img.shields.io/github/stars/alephjs/aleph.js) ![GitHub last commit](https://img.shields.io/github/last-commit/alephjs/aleph.js)](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
 
 #### React Component Libraries
 
@@ -97,8 +96,6 @@ A collection of awesome things regarding the React ecosystem.
 - [immer ![GitHub Repo Stars](https://img.shields.io/github/stars/immerjs/immer) ![GitHub last commit](https://img.shields.io/github/last-commit/immerjs/immer)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [immutable-js ![GitHub Repo Stars](https://img.shields.io/github/stars/immutable-js/immutable-js) ![GitHub last commit](https://img.shields.io/github/last-commit/immutable-js/immutable-js)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 - [rxdb ![GitHub Repo Stars](https://img.shields.io/github/stars/pubkey/rxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/pubkey/rxdb)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
-- [watermelondb ![GitHub Repo Stars](https://img.shields.io/github/stars/Nozbe/WatermelonDB) ![GitHub last commit](https://img.shields.io/github/last-commit/Nozbe/WatermelonDB)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
-- [valtio ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/valtio) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/valtio)](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
 
 #### React Styling
 
@@ -106,7 +103,6 @@ A collection of awesome things regarding the React ecosystem.
 - [emotion ![GitHub Repo Stars](https://img.shields.io/github/stars/emotion-js/emotion) ![GitHub last commit](https://img.shields.io/github/last-commit/emotion-js/emotion)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [linaria ![GitHub Repo Stars](https://img.shields.io/github/stars/callstack/linaria) ![GitHub last commit](https://img.shields.io/github/last-commit/callstack/linaria)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/vanilla-extract) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/vanilla-extract)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [jss ![GitHub Repo Stars](https://img.shields.io/github/stars/cssinjs/jss) ![GitHub last commit](https://img.shields.io/github/last-commit/cssinjs/jss)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 #### React Routing
 
@@ -119,7 +115,6 @@ A collection of awesome things regarding the React ecosystem.
 - [preact ![GitHub Repo Stars](https://img.shields.io/github/stars/preactjs/preact) ![GitHub last commit](https://img.shields.io/github/last-commit/preactjs/preact)](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
 - [floating-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/floating-ui/floating-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/floating-ui/floating-ui)](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
 - [loadable-components ![GitHub Repo Stars](https://img.shields.io/github/stars/gregberge/loadable-components) ![GitHub last commit](https://img.shields.io/github/last-commit/gregberge/loadable-components)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
-- [reapop ![GitHub Repo Stars](https://img.shields.io/github/stars/LouisBarranqueiro/reapop) ![GitHub last commit](https://img.shields.io/github/last-commit/LouisBarranqueiro/reapop)](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 - [react-uploady ![GitHub Repo Stars](https://img.shields.io/github/stars/rpldy/react-uploady) ![GitHub last commit](https://img.shields.io/github/last-commit/rpldy/react-uploady)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift ![GitHub Repo Stars](https://img.shields.io/github/stars/downshift-js/downshift) ![GitHub last commit](https://img.shields.io/github/last-commit/downshift-js/downshift)](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary ![GitHub Repo Stars](https://img.shields.io/github/stars/bvaughn/react-error-boundary) ![GitHub last commit](https://img.shields.io/github/last-commit/bvaughn/react-error-boundary)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
@@ -127,25 +122,18 @@ A collection of awesome things regarding the React ecosystem.
 #### React Testing
 
 - [jest ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/jest) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/jest)](https://github.com/facebook/jest) - Delightful JavaScript Testing
-- [enzyme ![GitHub Repo Stars](https://img.shields.io/github/stars/enzymejs/enzyme) ![GitHub last commit](https://img.shields.io/github/last-commit/enzymejs/enzyme)](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [react-testing-library ![GitHub Repo Stars](https://img.shields.io/github/stars/testing-library/react-testing-library) ![GitHub last commit](https://img.shields.io/github/last-commit/testing-library/react-testing-library)](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
-- [react-hooks-testing-library ![GitHub Repo Stars](https://img.shields.io/github/stars/testing-library/react-hooks-testing-library) ![GitHub last commit](https://img.shields.io/github/last-commit/testing-library/react-hooks-testing-library)](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities
 - [cypress ![GitHub Repo Stars](https://img.shields.io/github/stars/cypress-io/cypress) ![GitHub last commit](https://img.shields.io/github/last-commit/cypress-io/cypress)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
 #### React Awesome Components
 
 - [Awesome React Components ![GitHub Repo Stars](https://img.shields.io/github/stars/brillout/awesome-react-components) ![GitHub last commit](https://img.shields.io/github/last-commit/brillout/awesome-react-components)](https://github.com/brillout/awesome-react-components)
 - [react-select ![GitHub Repo Stars](https://img.shields.io/github/stars/JedWatson/react-select) ![GitHub last commit](https://img.shields.io/github/last-commit/JedWatson/react-select)](https://github.com/JedWatson/react-select) - The Select Component for React
-- [react-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/react-dnd/react-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/react-dnd/react-dnd)](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-- [react-rnd ![GitHub Repo Stars](https://img.shields.io/github/stars/bokuweb/react-rnd) ![GitHub last commit](https://img.shields.io/github/last-commit/bokuweb/react-rnd)](https://github.com/bokuweb/react-rnd) - A resizable and draggable component for React
-- [react-dropzone ![GitHub Repo Stars](https://img.shields.io/github/stars/react-dropzone/react-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/react-dropzone/react-dropzone)](https://github.com/react-dropzone/react-dropzone) - Simple drag-drop zone with React
 - [react-big-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/jquense/react-big-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/jquense/react-big-calendar)](https://github.com/jquense/react-big-calendar) - Calendar component
 - [react-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/Hacker0x01/react-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/Hacker0x01/react-datepicker)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 - [react-loading-skeleton ![GitHub Repo Stars](https://img.shields.io/github/stars/dvtng/react-loading-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/dvtng/react-loading-skeleton)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 - [react-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/zpao/qrcode.react) ![GitHub last commit](https://img.shields.io/github/last-commit/zpao/qrcode.react)](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer ![GitHub Repo Stars](https://img.shields.io/github/stars/pierpo/react-archer) ![GitHub last commit](https://img.shields.io/github/last-commit/pierpo/react-archer)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
-- [react-device-detect ![GitHub Repo Stars](https://img.shields.io/github/stars/duskload/react-device-detect) ![GitHub last commit](https://img.shields.io/github/last-commit/duskload/react-device-detect)](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
-- [react-colorful ![GitHub Repo Stars](https://img.shields.io/github/stars/omgovich/react-colorful) ![GitHub last commit](https://img.shields.io/github/last-commit/omgovich/react-colorful)](https://github.com/omgovich/react-colorful) - A tiny color picker component
 - [react-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/react-icons/react-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/react-icons/react-icons)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 - [react-complex-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/lukasbach/react-complex-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/lukasbach/react-complex-tree)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories ![GitHub Repo Stars](https://img.shields.io/github/stars/mohitk05/react-insta-stories) ![GitHub last commit](https://img.shields.io/github/last-commit/mohitk05/react-insta-stories)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
@@ -168,7 +156,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-hook-form ![GitHub Repo Stars](https://img.shields.io/github/stars/react-hook-form/react-hook-form) ![GitHub last commit](https://img.shields.io/github/last-commit/react-hook-form/react-hook-form)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 - [formik ![GitHub Repo Stars](https://img.shields.io/github/stars/jaredpalmer/formik) ![GitHub last commit](https://img.shields.io/github/last-commit/jaredpalmer/formik)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
 - [react-jsonschema-form ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla-services/react-jsonschema-form) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla-services/react-jsonschema-form)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
-- [react-final-form ![GitHub Repo Stars](https://img.shields.io/github/stars/final-form/react-final-form) ![GitHub last commit](https://img.shields.io/github/last-commit/final-form/react-final-form)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
 - [formily ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/formily) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/formily)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - Declarative validations framework
 
@@ -209,17 +196,14 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-spring ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/react-spring) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/react-spring)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 - [framer-motion ![GitHub Repo Stars](https://img.shields.io/github/stars/framer/motion) ![GitHub last commit](https://img.shields.io/github/last-commit/framer/motion)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [react-transition-group ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react-transition-group) ![GitHub last commit](https://img.shields.io/github/last-commit/reactjs/react-transition-group)](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
 - [auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/auto-animate)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
 - [react-tsparticles ![GitHub Repo Stars](https://img.shields.io/github/stars/matteobruni/tsparticles) ![GitHub last commit](https://img.shields.io/github/last-commit/matteobruni/tsparticles)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt ![GitHub Repo Stars](https://img.shields.io/github/stars/mkosir/react-parallax-tilt) ![GitHub last commit](https://img.shields.io/github/last-commit/mkosir/react-parallax-tilt)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
-- [gooey-react ![GitHub Repo Stars](https://img.shields.io/github/stars/luukdv/gooey-react) ![GitHub last commit](https://img.shields.io/github/last-commit/luukdv/gooey-react)](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
 #### React Integration
 
 - [rescript-compiler ![GitHub Repo Stars](https://img.shields.io/github/stars/rescript-lang/rescript-compiler) ![GitHub last commit](https://img.shields.io/github/last-commit/rescript-lang/rescript-compiler)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 - [react-rails ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/reactjs/react-rails)](https://github.com/reactjs/react-rails) - Integrate React with Rails
-- [reagent ![GitHub Repo Stars](https://img.shields.io/github/stars/reagent-project/reagent) ![GitHub last commit](https://img.shields.io/github/last-commit/reagent-project/reagent)](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 - [fulcro ![GitHub Repo Stars](https://img.shields.io/github/stars/fulcrologic/fulcro) ![GitHub last commit](https://img.shields.io/github/last-commit/fulcrologic/fulcro)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 - [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
