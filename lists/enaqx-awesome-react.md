@@ -122,6 +122,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reapop ![GitHub Repo Stars](https://img.shields.io/github/stars/LouisBarranqueiro/reapop) ![GitHub last commit](https://img.shields.io/github/last-commit/LouisBarranqueiro/reapop)](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 - [react-uploady ![GitHub Repo Stars](https://img.shields.io/github/stars/rpldy/react-uploady) ![GitHub last commit](https://img.shields.io/github/last-commit/rpldy/react-uploady)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift ![GitHub Repo Stars](https://img.shields.io/github/stars/downshift-js/downshift) ![GitHub last commit](https://img.shields.io/github/last-commit/downshift-js/downshift)](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
+- [react-error-boundary ![GitHub Repo Stars](https://img.shields.io/github/stars/bvaughn/react-error-boundary) ![GitHub last commit](https://img.shields.io/github/last-commit/bvaughn/react-error-boundary)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
 
 #### React Testing
 
