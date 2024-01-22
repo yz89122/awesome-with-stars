@@ -1089,8 +1089,6 @@ Javascript
 * [JSCL ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
-* [Wuwei ![GitHub Repo Stars](https://img.shields.io/github/stars/mtravers/wuwei) ![GitHub last commit](https://img.shields.io/github/last-commit/mtravers/wuwei)](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200].
-* [SmackJack ![GitHub Repo Stars](https://img.shields.io/github/stars/aarvid/SmackJack) ![GitHub last commit](https://img.shields.io/github/last-commit/aarvid/SmackJack)](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200].
 * [remote-js ![GitHub Repo Stars](https://img.shields.io/github/stars/ceramic/remote-js) ![GitHub last commit](https://img.shields.io/github/last-commit/ceramic/remote-js)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT][200].
 * [sigil ![GitHub Repo Stars](https://img.shields.io/github/stars/BnMcGn/sigil) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/sigil)](https://github.com/BnMcGn/sigil) - A Parenscript to Javascript command line compiler and REPL. [MIT][200].
 
