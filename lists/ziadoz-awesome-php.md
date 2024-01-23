@@ -317,6 +317,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Kahlan ![GitHub Repo Stars](https://img.shields.io/github/stars/kahlan/kahlan) ![GitHub last commit](https://img.shields.io/github/last-commit/kahlan/kahlan)](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 * [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
 * [Mockery ![GitHub Repo Stars](https://img.shields.io/github/stars/mockery/mockery) ![GitHub last commit](https://img.shields.io/github/last-commit/mockery/mockery)](https://github.com/mockery/mockery) - A mock object library for testing.
+* [Nette Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/nette/tester) ![GitHub last commit](https://img.shields.io/github/last-commit/nette/tester)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 * [ParaTest ![GitHub Repo Stars](https://img.shields.io/github/stars/paratestphp/paratest) ![GitHub last commit](https://img.shields.io/github/last-commit/paratestphp/paratest)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 * [Peridot ![GitHub Repo Stars](https://img.shields.io/github/stars/peridot-php/peridot) ![GitHub last commit](https://img.shields.io/github/last-commit/peridot-php/peridot)](https://github.com/peridot-php/peridot) - An event-driven test framework.

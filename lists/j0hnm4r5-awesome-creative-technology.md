@@ -269,7 +269,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 | [**ManvsMachine**](https:&#x2F;&#x2F;mvsm.com&#x2F;) | [London] [LA] | multidimensional creative studio | 
 | [**Media Monks**](https:&#x2F;&#x2F;www.mediamonks.com&#x2F;) | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [São Paulo] [Buenos Aires] [Shanghai] [Singapore] | creative production | 
 | [**R&#x2F;GA**](https:&#x2F;&#x2F;www.rga.com&#x2F;) | [Austin] [Chicago] [LA] [NYC] [Portland] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [São Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | business, experience, and marketing transformation | 
-| [**SuperUber**](https:&#x2F;&#x2F;www.superuber.com&#x2F;) | [Rio de Janeiro] [S��o Paulo] | experiences that blend art, technology, architecture and design | 
+| [**SuperUber**](https:&#x2F;&#x2F;www.superuber.com&#x2F;) | [Rio de Janeiro] [São Paulo] | experiences that blend art, technology, architecture and design | 
 | [**The Mill**](https:&#x2F;&#x2F;www.themill.com&#x2F;) | [London] [NYC] [LA] [Chicago] [Bangalore] [Berlin] | experience makers, media and brand activation, innovative design, and inventive technologies | 
 | [**Weber Shandwick**](https:&#x2F;&#x2F;www.webershandwick.com&#x2F;) | [Atlanta] [Baltimore] [Bogotá] [Boston] [Brasilia] [Buenos Aires] [Buffalo] [Chicago] [Dallas] [Detroit] [Lima] [LA] [Mexico City] [Minneapolis] [Montreal] [Nashville, TN] [NYC] [Philadelphia] [Rio de Janeiro] [SF] [Santiago] [Seattle] [St. Louis] [São Paulo] [Toronto] [Vancouver] [DC] | we work at the intersection of technology, society, policy and media, adding value to culture — to shape and re-shape it | 
 
