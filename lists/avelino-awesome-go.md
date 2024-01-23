@@ -1114,7 +1114,7 @@ _Packages for accounting and finance._
 - [transaction ![GitHub Repo Stars](https://img.shields.io/github/stars/claygod/transaction) ![GitHub last commit](https://img.shields.io/github/last-commit/claygod/transaction)](https://github.com/claygod/transaction) - Embedded transactional database of accounts, running in multithreaded mode.
 - [vat ![GitHub Repo Stars](https://img.shields.io/github/stars/dannyvankooten/vat) ![GitHub last commit](https://img.shields.io/github/last-commit/dannyvankooten/vat)](https://github.com/dannyvankooten/vat) - VAT number validation & EU VAT rates.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Forms
 
