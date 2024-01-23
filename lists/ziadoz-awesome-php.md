@@ -307,7 +307,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for testing codebases and generating test data.*
 
 * [Alice ![GitHub Repo Stars](https://img.shields.io/github/stars/nelmio/alice) ![GitHub last commit](https://img.shields.io/github/last-commit/nelmio/alice)](https://github.com/nelmio/alice) - An expressive fixture generation library.
-* [AspectMock ![GitHub Repo Stars](https://img.shields.io/github/stars/Codeception/AspectMock) ![GitHub last commit](https://img.shields.io/github/last-commit/Codeception/AspectMock)](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
 * [Atoum ![GitHub Repo Stars](https://img.shields.io/github/stars/atoum/atoum) ![GitHub last commit](https://img.shields.io/github/last-commit/atoum/atoum)](https://github.com/atoum/atoum) - A simple testing library.
 * [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
 * [Codeception ![GitHub Repo Stars](https://img.shields.io/github/stars/Codeception/Codeception) ![GitHub last commit](https://img.shields.io/github/last-commit/Codeception/Codeception)](https://github.com/Codeception/Codeception) - A full stack testing framework.
