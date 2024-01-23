@@ -1775,7 +1775,7 @@ Files and directories
 * [pathname-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/pathname-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/pathname-utils)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib][33].
   * [filesystem-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/filesystem-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/filesystem-utils)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
   * [file-attributes ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/file-attributes) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/file-attributes)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
-* [ppath ![GitHub Repo Stars](https://img.shields.io/github/stars/fourier/ppath) ![GitHub last commit](https://img.shields.io/github/last-commit/fourier/ppath)](https://github.com/fourier/ppath) - Common Lisp's
+* [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's
 implementation of the Python's os.path module. [BSD][15].
 * [mmap ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/mmap) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/mmap)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib][33].
 * [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3][2].
