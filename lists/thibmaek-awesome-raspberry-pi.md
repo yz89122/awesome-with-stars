@@ -195,7 +195,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [Raspberry Pi Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/atao/raspberrypi-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/atao/raspberrypi-setup)](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
 - [RaspiBlitz ![GitHub Repo Stars](https://img.shields.io/github/stars/rootzoll/raspiblitz) ![GitHub last commit](https://img.shields.io/github/last-commit/rootzoll/raspiblitz)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
-- [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
+- [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️��Lightning️⚡ on a Raspberry Pi.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR). 
 - [Relayboard Control ![GitHub Repo Stars](https://img.shields.io/github/stars/leinir/relayboard-control) ![GitHub last commit](https://img.shields.io/github/last-commit/leinir/relayboard-control)](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 - [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
