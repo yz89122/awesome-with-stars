@@ -479,6 +479,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [mathall/rim ![GitHub Repo Stars](https://img.shields.io/github/stars/mathall/rim) ![GitHub last commit](https://img.shields.io/github/last-commit/mathall/rim)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
 * [ox ![GitHub Repo Stars](https://img.shields.io/github/stars/curlpipe/ox) ![GitHub last commit](https://img.shields.io/github/last-commit/curlpipe/ox)](https://github.com/curlpipe/ox) — An independent Rust text editor that runs in your terminal!
 * [vamolessa/pepper ![GitHub Repo Stars](https://img.shields.io/github/stars/vamolessa/pepper) ![GitHub last commit](https://img.shields.io/github/last-commit/vamolessa/pepper)](https://github.com/vamolessa/pepper) [[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/vamolessa/pepper) ![GitHub last commit](https://img.shields.io/github/last-commit/vamolessa/pepper)](https://github.com/vamolessa/pepper/workflows/rust/badge.svg?branch=master)](https://github.com/vamolessa/pepper)
+* [zed ![GitHub Repo Stars](https://img.shields.io/github/stars/zed-industries/zed) ![GitHub last commit](https://img.shields.io/github/last-commit/zed-industries/zed)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Text processing
 
