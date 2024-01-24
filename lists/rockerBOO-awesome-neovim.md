@@ -373,6 +373,7 @@
 - [desdic/telescope-rooter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/telescope-rooter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/telescope-rooter.nvim)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
 - [SalOrak/whaler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SalOrak/whaler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SalOrak/whaler.nvim)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 - [echasnovski/mini.nvim#mini.visits ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md) - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
+- [LintaoAmons/cd-project.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LintaoAmons/cd-project.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LintaoAmons/cd-project.nvim)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
 ## Color
 
