@@ -550,7 +550,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [prealloc ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/prealloc) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/prealloc)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
-- [Reviewdog ![GitHub Repo Stars](https://img.shields.io/github/stars/haya14busa/reviewdog) ![GitHub last commit](https://img.shields.io/github/last-commit/haya14busa/reviewdog)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
+- [Reviewdog ![GitHub Repo Stars](https://img.shields.io/github/stars/haya14busa/reviewdog) ![GitHub last commit](https://img.shields.io/github/last-commit/haya14busa/reviewdog)](https://github.com/haya14busa/reviewdog) ��� A tool for posting review comments from any linter in any code hosting service.
 
 - [revive](https://revive.run) — Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 
