@@ -152,6 +152,7 @@
 - [soulis-1256/hoverhints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/soulis-1256/hoverhints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/soulis-1256/hoverhints.nvim)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 - [stevanmilic/nvim-lspimport ![GitHub Repo Stars](https://img.shields.io/github/stars/stevanmilic/nvim-lspimport) ![GitHub last commit](https://img.shields.io/github/last-commit/stevanmilic/nvim-lspimport)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 - [jmbuhr/otter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
+- [lopi-py/luau-lsp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lopi-py/luau-lsp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lopi-py/luau-lsp.nvim)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 
 #### LSP Installer
 
