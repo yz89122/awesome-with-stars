@@ -933,7 +933,12 @@ ASDF, Qlot and Roswell.</li>
     </ul>
   </li>
   <li>
-<a href="https://github.com/lispnik/iup/">IUP <img src="https://img.shields.io/github/stars/lispnik/iup" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/lispnik/iup" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - CFFI bindings to the <a href="https://www.tecgraf.puc-rio.br/iup/">IUP</a> Portable User Interface library (pre-ALPHA). IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.</li>
+<a href="https://github.com/lispnik/iup/">IUP <img src="https://img.shields.io/github/stars/lispnik/iup" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/lispnik/iup" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - CFFI bindings to the <a href="https://www.tecgraf.puc-rio.br/iup/">IUP</a> Portable User Interface library (pre-ALPHA).
+    <ul>
+      <li>IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.</li>
+      <li>has a web view.</li>
+    </ul>
+  </li>
   <li>🆕 <a href="https://github.com/bohonghuang/cl-gtk4">cl-gtk4 <img src="https://img.shields.io/github/stars/bohonghuang/cl-gtk4" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/bohonghuang/cl-gtk4" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  GTK4/Libadwaita/WebKit binding for Common Lisp. <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL3</a>.</li>
   <li>
 <a href="https://github.com/crategus/cl-cffi-gtk">cl-cffi-gtk <img src="https://img.shields.io/github/stars/crategus/cl-cffi-gtk" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/crategus/cl-cffi-gtk" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Binding for GTK+3. <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">GNU LGPL2.1</a>.
@@ -944,21 +949,20 @@ ASDF, Qlot and Roswell.</li>
   </li>
   <li>
 <a href="https://github.com/dmitryvk/cl-gtk2">cl-gtk2 <img src="https://img.shields.io/github/stars/dmitryvk/cl-gtk2" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/dmitryvk/cl-gtk2" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A binding for GTK+2. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
-  <li>
-<a href="https://ceramic.github.io/">ceramic</a> - Desktop web apps with Electron. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.
-    <ul>
-      <li>
-<a href="https://github.com/mikelevins/electron-lisp-boilerplate">Electron-lisp-boilerplate <img src="https://img.shields.io/github/stars/mikelevins/electron-lisp-boilerplate" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mikelevins/electron-lisp-boilerplate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A rudimentary boilerplate for building Electron apps with embedded Lisp helper processes.</li>
-      <li>Electron app skeleton: <a href="https://github.com/mikelevins/electron-sbcl-sqlite/">electron-sbcl-sqlite <img src="https://img.shields.io/github/stars/mikelevins/electron-sbcl-sqlite" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mikelevins/electron-sbcl-sqlite" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>
-</li>
-      <li>NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process and to point the Electron window to the localhost URL. That’s it.</li>
-    </ul>
-  </li>
 </ul>
 
-<p>But that’s not all:</p>
+<p>But that’s not all.</p>
 
 <ul>
+  <li>for Electron, see:
+    <ul>
+      <li>
+<a href="https://github.com/mikelevins/electron-lisp-boilerplate">Electron-lisp-boilerplate <img src="https://img.shields.io/github/stars/mikelevins/electron-lisp-boilerplate" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mikelevins/electron-lisp-boilerplate" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a rudimentary boilerplate for building Electron apps that start a Lisp process.</li>
+      <li>
+<a href="https://ceramic.github.io/">ceramic</a> - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.</li>
+      <li>NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron’s <code class="language-plaintext highlighter-rouge">main.js</code> file, and to point the Electron window to the localhost URL. That’s it.</li>
+    </ul>
+  </li>
   <li>
 <a href="https://github.com/plkrueger/CocoaInterface/">CocoaInterface <img src="https://img.shields.io/github/stars/plkrueger/CocoaInterface" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/plkrueger/CocoaInterface" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -
 Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
