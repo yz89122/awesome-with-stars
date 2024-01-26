@@ -116,6 +116,7 @@
 - [Aviator ![GitHub Repo Stars](https://img.shields.io/github/stars/gianni-rosato/aviator) ![GitHub last commit](https://img.shields.io/github/last-commit/gianni-rosato/aviator)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
 - [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 - [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
+- [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere. 
 
 ### Graphics
 
