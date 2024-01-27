@@ -145,7 +145,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ## Functional Languages that Compile to JavaScript
 
 * [ClojureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
-* [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
+* [Elm](http://elm-lang.org/) �� A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 * [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 * [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
@@ -219,7 +219,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC) – A series that builds a “practical” web application with React and functional programming in JavaScript.
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) – Underscore.js claims to be a functional programming library, but is it really?
 * [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM) – Learn about practical use cases for functors, applicatives, and monads.
-* [Pure JavaScript](https://vimeo.com/49384334) �� Christian Johansen will show you how you can significantly up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
+* [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen will show you how you can significantly up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
 * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - A series by Mattias Petter Johansson, from the youtube channel FunFunFunction, that is specifically about popularization of functional programming in JavaScript.
 * [Functional Programming in TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - A simple and understandable introduction of functional proramming in javascript.
