@@ -1516,7 +1516,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Macro
 
 * cute
-  * [mattgathu/cute ![GitHub Repo Stars](https://img.shields.io/github/stars/mattgathu/cute) ![GitHub last commit](https://img.shields.io/github/last-commit/mattgathu/cute)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust.
+  * [mattgathu/cute ![GitHub Repo Stars](https://img.shields.io/github/stars/mattgathu/cute) ![GitHub last commit](https://img.shields.io/github/last-commit/mattgathu/cute)](https://github.com/mattgathu/cute) �� Macro for Python-esque list comprehensions in Rust.
 * [Linq-in-Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/StardustDL/Linq-in-Rust) ![GitHub last commit](https://img.shields.io/github/last-commit/StardustDL/Linq-in-Rust)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI ![GitHub Repo Stars](https://img.shields.io/github/stars/StardustDL/Linq-in-Rust) ![GitHub last commit](https://img.shields.io/github/last-commit/StardustDL/Linq-in-Rust)](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ### Markup language
