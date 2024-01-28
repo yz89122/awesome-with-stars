@@ -3119,6 +3119,7 @@ _Plugin for text editors and IDEs._
 ## Go Tools
 
 - [colorgo ![GitHub Repo Stars](https://img.shields.io/github/stars/songgao/colorgo) ![GitHub last commit](https://img.shields.io/github/last-commit/songgao/colorgo)](https://github.com/songgao/colorgo) - Wrapper around `go` command for colorized `go build` output.
+- [decouple ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/decouple) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/decouple)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
 - [depth ![GitHub Repo Stars](https://img.shields.io/github/stars/KyleBanks/depth) ![GitHub last commit](https://img.shields.io/github/last-commit/KyleBanks/depth)](https://github.com/KyleBanks/depth) - Visualize dependency trees of any package by analyzing imports.
 - [docs ![GitHub Repo Stars](https://img.shields.io/github/stars/go-oas/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/go-oas/docs)](https://github.com/go-oas/docs) - Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard.
 - [go-callvis ![GitHub Repo Stars](https://img.shields.io/github/stars/TrueFurby/go-callvis) ![GitHub last commit](https://img.shields.io/github/last-commit/TrueFurby/go-callvis)](https://github.com/TrueFurby/go-callvis) - Visualize call graph of your Go program using dot format.
