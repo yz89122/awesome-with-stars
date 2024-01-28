@@ -192,6 +192,7 @@
 - [dense-analysis/neural ![GitHub Repo Stars](https://img.shields.io/github/stars/dense-analysis/neural) ![GitHub last commit](https://img.shields.io/github/last-commit/dense-analysis/neural)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 - [jpmcb/nvim-llama ![GitHub Repo Stars](https://img.shields.io/github/stars/jpmcb/nvim-llama) ![GitHub last commit](https://img.shields.io/github/last-commit/jpmcb/nvim-llama)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 - [David-Kunz/gen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/David-Kunz/gen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/David-Kunz/gen.nvim)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
+- [kiddos/gemini.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiddos/gemini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiddos/gemini.nvim)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ## Programming Languages Support
 
