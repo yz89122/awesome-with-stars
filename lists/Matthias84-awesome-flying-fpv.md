@@ -181,7 +181,7 @@ Most receivers (RX, drone side) support standard serial protocols like Crossfire
 * [OpenAVRc ![GitHub Repo Stars](https://img.shields.io/github/stars/Ingwie/OpenAVRc_Hw) ![GitHub last commit](https://img.shields.io/github/last-commit/Ingwie/OpenAVRc_Hw)](https://github.com/Ingwie/OpenAVRc_Hw) - Custom TX based on Arduino Mega2560 boards.
 * [ER9X](http://www.er9x.com) - Alternative Firmware for 9XR handtransmitter.
 
-### Modules ����
+### Modules 🧩
 
 Hardware and firmware to establish custom radio links. Nowadays usually a bidirectional link, so pure TX / RX side.
 
