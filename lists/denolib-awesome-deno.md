@@ -144,10 +144,10 @@ This list is a collection of the best Deno modules and resources.
 - [dlog ![GitHub Repo Stars](https://img.shields.io/github/stars/dpmland/dlog) ![GitHub last commit](https://img.shields.io/github/last-commit/dpmland/dlog)](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
 ### Machine learning
-- [classy-lala ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/classy-lala) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/classy-lala)](https://github.com/retraigo/classy-lala) - Regression and Classification library.
+- [classy-lala ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/la-classy) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/la-classy)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
 - [netsaur ![GitHub Repo Stars](https://img.shields.io/github/stars/denosaurs/netsaur) ![GitHub last commit](https://img.shields.io/github/last-commit/denosaurs/netsaur)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 - [synaptic ![GitHub Repo Stars](https://img.shields.io/github/stars/load1n9/synaptic) ![GitHub last commit](https://img.shields.io/github/last-commit/load1n9/synaptic)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
-- [vectorizer ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/vectorizer) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/vectorizer)](https://github.com/retraigo/vectorizer) - Convert text into vectors.
+- [appraisal ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/appraisal) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/appraisal)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
 ### Mail
 - [deno-smtp ![GitHub Repo Stars](https://img.shields.io/github/stars/manyuanrong/deno-smtp) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/deno-smtp)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
