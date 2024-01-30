@@ -355,6 +355,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [redbpf ![GitHub Repo Stars](https://img.shields.io/github/stars/foniod/redbpf) ![GitHub last commit](https://img.shields.io/github/last-commit/foniod/redbpf)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 - [ebpf-explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/ebpfdev/explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/ebpfdev/explorer)](https://github.com/ebpfdev/explorer) - A web interface to explore system's maps and programs.
 - [ebpfmon ![GitHub Repo Stars](https://img.shields.io/github/stars/redcanaryco/ebpfmon) ![GitHub last commit](https://img.shields.io/github/last-commit/redcanaryco/ebpfmon)](https://github.com/redcanaryco/ebpfmon) - A TUI (terminal user interface) application for real time monitoring of eBPF programs.
+- [bpfman ![GitHub Repo Stars](https://img.shields.io/github/stars/bpfman/bpfman) ![GitHub last commit](https://img.shields.io/github/last-commit/bpfman/bpfman)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
 
 # eBPF in Security
 
