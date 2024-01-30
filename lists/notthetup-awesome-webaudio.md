@@ -53,6 +53,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [@magenta/music ![GitHub Repo Stars](https://img.shields.io/github/stars/magenta/magenta-js) ![GitHub last commit](https://img.shields.io/github/last-commit/magenta/magenta-js)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 - [soundfont-player](https://www.npmjs.com/package/soundfont-player) - A soundfont loader/player to play MIDI sounds using WebAudio API.
 - [html-midi-player ![GitHub Repo Stars](https://img.shields.io/github/stars/cifkao/html-midi-player) ![GitHub last commit](https://img.shields.io/github/last-commit/cifkao/html-midi-player)](https://github.com/cifkao/html-midi-player) - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
+- [MusicXML Player ![GitHub Repo Stars](https://img.shields.io/github/stars/infojunkie/musicxml-player) ![GitHub last commit](https://img.shields.io/github/last-commit/infojunkie/musicxml-player)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
 
 ### Utilities
 
