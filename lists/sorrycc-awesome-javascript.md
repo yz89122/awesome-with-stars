@@ -773,6 +773,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Date Range Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/dangrossman/daterangepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dangrossman/daterangepicker)](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 * [Duet Date Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/duetds/date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/duetds/date-picker)](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 * [tui.calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/nhn/tui.calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/nhn/tui.calendar)](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
+* [Schedule-X ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
 ### Select
 
