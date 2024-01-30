@@ -1865,7 +1865,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>JSON</h2>
 
 
-- [jsonlint](https://jsonlint.com/) ��� A JSON parser and validator with a CLI. Standalone version of jsonlint.com
+- [jsonlint](https://jsonlint.com/) — A JSON parser and validator with a CLI. Standalone version of jsonlint.com
 
 - [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 
