@@ -1161,7 +1161,7 @@ https://twitter.com/maskedwarrior
 Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 https://twitter.com/martonkodok
 
-## Russia ����🇺
+## Russia 🇷🇺
 
 ### Moscow
 
@@ -1519,7 +1519,7 @@ https://twitter.com/gojkoadzic
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/jevakallio" height="70px" width="70px" align="left" alt="" />
 
-**Jani Eväkallio**\
+**Jani Ev��kallio**\
 Topics: Self-Development, Programming\
 https://twitter.com/jevakallio
 
