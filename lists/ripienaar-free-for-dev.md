@@ -1154,7 +1154,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Supabase](https://supabase.com) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [zapier.com](https://zapier.com/) — Connect the apps you use to automate tasks. Five zaps every 15 minutes and 100 tasks/month
-  * [IFTTT](https://ifttt.com) �� Automate your favorite apps and devices. Free 2 Applets
+  * [IFTTT](https://ifttt.com) — Automate your favorite apps and devices. Free 2 Applets
   * [Integrately](https://integrately.com) — Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
 Update Time, five active automations, webhooks.
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
