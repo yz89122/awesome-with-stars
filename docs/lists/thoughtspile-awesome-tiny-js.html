@@ -72,6 +72,7 @@
   <li><a href="#i18n">I18N</a></li>
   <li><a href="#dates-and-time">Dates and Time</a></li>
   <li><a href="#generic-utilities">Generic Utilities</a></li>
+  <li><a href="#validation">Validation</a></li>
   <li><a href="#unique-id-generation">Unique ID Generation</a></li>
   <li><a href="#colors">Colors</a></li>
   <li><a href="#touch-gestures">Touch Gestures</a></li>
@@ -321,6 +322,30 @@
 <p>Note: lodash itself is not tree-shakable, but has made many attempts at modulaity with <code class="language-plaintext highlighter-rouge">lodash.method</code> packages, imports from <code class="language-plaintext highlighter-rouge">lodash/method</code>, and <code class="language-plaintext highlighter-rouge">lodash-es</code>, none of which work well in practice.</p>
 
 <p>Also note that much of the original lodash functionality comes built-in with modern ES. Prefer native versions over libraries as your browser target allows.</p>
+
+<h2 id="validation">Validation</h2>
+
+<p>To check if an object matches an expected schema, you’d often use zod, yup, joi or ajv. But 90% of the time you can get what you need in under 2 kB. <em>Note:</em> I compare a base validation subset (core + object / array + string / number / boolean) under tree-shaking to avoid punishing libs that have more features.</p>
+
+<ul>
+  <li>
+<a href="https://github.com/imbrn/v8n">v8n <img src="https://img.shields.io/github/stars/imbrn/v8n" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/imbrn/v8n" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - zod-style API with fine-grained checks: <code class="language-plaintext highlighter-rouge">v8n().string().minLength(5).first("H").last("o")</code>. No tree shaking, <img align="top" height="24" src="https://deno.bundlejs.com/?q=v8n&amp;badge=" loading="lazy" referrerpolicy="no-referrer">
+</li>
+  <li>
+<a href="https://github.com/thoughtspile/banditypes">banditypes <img src="https://img.shields.io/github/stars/thoughtspile/banditypes" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/thoughtspile/banditypes" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - The smallest validation library: <img align="top" height="24" src="https://deno.bundlejs.com/badge?q=banditypes&amp;treeshake=[{++object,number,string,array,optional,boolean}]" loading="lazy" referrerpolicy="no-referrer">
+</li>
+  <li>
+<a href="https://github.com/ianstormtaylor/superstruct">superstruct <img src="https://img.shields.io/github/stars/ianstormtaylor/superstruct" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ianstormtaylor/superstruct" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - The most popular modular validation library with good tree-shaking, <img align="top" height="24" src="https://deno.bundlejs.com/badge?q=superstruct&amp;treeshake=[{+assert,object,array,number,string,boolean+}]" loading="lazy" referrerpolicy="no-referrer">
+</li>
+  <li>
+<a href="https://github.com/fabian-hiller/valibot">valibot <img src="https://img.shields.io/github/stars/fabian-hiller/valibot" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fabian-hiller/valibot" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Another modular validation library, <img align="top" height="24" src="https://deno.bundlejs.com/badge?q=valibot&amp;treeshake=[{+object,array,parse,string,number,boolean+}]" loading="lazy" referrerpolicy="no-referrer">
+</li>
+  <li>
+<a href="https://github.com/antonioru/deep-waters">deep-waters <img src="https://img.shields.io/github/stars/antonioru/deep-waters" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/antonioru/deep-waters" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Composable functional validators, <img align="top" height="24" src="https://deno.bundlejs.com/?q=deep-waters/compose,deep-waters/hasShape,deep-waters/arrayOf,deep-waters/isString,deep-waters/isNumber,deep-waters/isBoolean&amp;badge=" loading="lazy" referrerpolicy="no-referrer">.</li>
+  <li>
+<a href="https://github.com/5alidz/tiny-schema-validator">tiny-schema-validator <img src="https://img.shields.io/github/stars/5alidz/tiny-schema-validator" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/5alidz/tiny-schema-validator" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - No tree-shaking, <img align="top" height="24" src="https://deno.bundlejs.com/?q=tiny-schema-validator&amp;treeshake=[{+createSchema,_+}]&amp;badge=" loading="lazy" referrerpolicy="no-referrer">
+</li>
+</ul>
 
 <h2 id="unique-id-generation">Unique ID Generation</h2>
 
