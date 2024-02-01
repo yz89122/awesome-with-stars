@@ -253,6 +253,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [svelte-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/arabdevelop/svelte-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/arabdevelop/svelte-formly)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 - [svelte-form-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/pragmatic-engineering/svelte-form-builder-community) ![GitHub last commit](https://img.shields.io/github/last-commit/pragmatic-engineering/svelte-form-builder-community)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+- [Formsnap](https://www.formsnap.dev/docs/introduction) - High level Svelte components for forms, built on top of Superforms and Zod.
 
 ### WebGL
 
