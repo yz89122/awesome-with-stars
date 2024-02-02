@@ -85,6 +85,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [cosmology-tech/create-cosmos-app ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmology-tech/create-cosmos-app) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmology-tech/create-cosmos-app)](https://github.com/cosmology-tech/create-cosmos-app) - A npm package to bootstrap a Cosmos Web UI.
 * [cosmology-tech/cosmos-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmology-tech/cosmos-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmology-tech/cosmos-kit)](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos.
 * [nabla-studio/quirks ![GitHub Repo Stars](https://img.shields.io/github/stars/nabla-studio/quirks) ![GitHub last commit](https://img.shields.io/github/last-commit/nabla-studio/quirks)](https://github.com/nabla-studio/quirks) - A universal wallet adapter for your Cosmos dApps, that works on both mobile and browser.
+* [toschdev/bip44 ![GitHub Repo Stars](https://img.shields.io/github/stars/toschdev/cosmos-bip44) ![GitHub last commit](https://img.shields.io/github/last-commit/toschdev/cosmos-bip44)](https://github.com/toschdev/cosmos-bip44) - Cosmos BIP44 implementation in JavaScript for development and education learning.
 
 ### Python
 
@@ -181,6 +182,7 @@ To share a module that you want the community to know about and use, add it here
 * [Cosmscan ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmscan/cosmscan-go) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmscan/cosmscan-go)](https://github.com/cosmscan/cosmscan-go) - An indexer engine for Cosmos chains.
 * [interchain-indexer ![GitHub Repo Stars](https://img.shields.io/github/stars/Reecepbcups/interchain-indexer) ![GitHub last commit](https://img.shields.io/github/last-commit/Reecepbcups/interchain-indexer)](https://github.com/Reecepbcups/interchain-indexer) - A cosmos blockchain indexer in Python.
 * [Cosmos Indexer ![GitHub Repo Stars](https://img.shields.io/github/stars/DefiantLabs/cosmos-indexer) ![GitHub last commit](https://img.shields.io/github/last-commit/DefiantLabs/cosmos-indexer)](https://github.com/DefiantLabs/cosmos-indexer) - A generalized DB schema indexer with correlation and direct database indexing in Go.
+* [BDJuno ![GitHub Repo Stars](https://img.shields.io/github/stars/forbole/bdjuno) ![GitHub last commit](https://img.shields.io/github/last-commit/forbole/bdjuno)](https://github.com/forbole/bdjuno) - All the chains' data that are queried from the RPC and gRPC endpoints are stored inside a PostgreSQL database on top of which GraphQL APIs can then be created using Hasura.
 
 ## Frameworks
 
