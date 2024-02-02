@@ -61,6 +61,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Documentation
 
 * [Cosmos Developer Portal](https://tutorials.cosmos.network)
+* [Interchain Developer Academy](https://ida.interchain.io/)
 * [Cosmos SDK](https://docs.cosmos.network/)
 * [IBC](https://ibc.cosmos.com/)
 * [CometBFT](https://docs.cometbft.com/)
@@ -153,11 +154,7 @@ This is also a good practice to avoid 0% commission validators and exchange vali
 The best place to find an accurate list of the Cosmos SDK modules is the project repository:
 
 * For a list of production-grade modules, see the [List of Modules](https://docs.cosmos.network/main/modules/).
-* For a list of well-known third-party modules, see the [Ecosystem section](https://docs.cosmos.network/main/ecosystem) of the Cosmos SDK documentation. 
-
-Some modules are important but may still lack official documentation, like the [genutil ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/cosmos-sdk)](https://github.com/cosmos/cosmos-sdk/tree/main/x/genutil) module that is essential to launch a chain. Please consider contributing documentation to the Cosmos SDK to help fill these gaps.
-
-To share a module that you want the community to know about and use, add it here. You can also create a pull request (PR) to add the module to the official project.
+* For a list of well-known third-party modules, see [Cosmod.xyz](https://cosmod.xyz)
 
 ## Monitoring
 
@@ -175,7 +172,6 @@ To share a module that you want the community to know about and use, add it here
 * [cosmos-validators-exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/QuokkaStake/cosmos-validators-exporter.git) ![GitHub last commit](https://img.shields.io/github/last-commit/QuokkaStake/cosmos-validators-exporter.git)](https://github.com/QuokkaStake/cosmos-validators-exporter.git) - A Prometheus exporter to scrape data about a validator (missed blocks, delegators count, total staked amount, rankings, etc.)
 * [cosmos-proposals-checker ![GitHub Repo Stars](https://img.shields.io/github/stars/QuokkaStake/cosmos-proposals-checker.git) ![GitHub last commit](https://img.shields.io/github/last-commit/QuokkaStake/cosmos-proposals-checker.git)](https://github.com/QuokkaStake/cosmos-proposals-checker.git) - A bot that sends you a notification on multiple Cosmos chains if your wallet hasn't voted on any proposal.
 * [cosmos-transactions-bot ![GitHub Repo Stars](https://img.shields.io/github/stars/QuokkaStake/cosmos-transactions-bot.git) ![GitHub last commit](https://img.shields.io/github/last-commit/QuokkaStake/cosmos-transactions-bot.git)](https://github.com/QuokkaStake/cosmos-transactions-bot.git) - A bot that sends you notifications on any transactions you want to be subscribed to on multiple Cosmos chains.
-
 
 ## Indexers
 
@@ -199,6 +195,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Agoric SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/Agoric/agoric-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Agoric/agoric-sdk)](https://github.com/Agoric/agoric-sdk) - Agoric JavaScript Smart Contract Platform.
 * [CosmWasm ![GitHub Repo Stars](https://img.shields.io/github/stars/CosmWasm/cosmwasm) ![GitHub last commit](https://img.shields.io/github/last-commit/CosmWasm/cosmwasm)](https://github.com/CosmWasm/cosmwasm) - WASM Virtual Machine & Rust Smart Contracts.
 * [Ethermint ![GitHub Repo Stars](https://img.shields.io/github/stars/evmos/ethermint) ![GitHub last commit](https://img.shields.io/github/last-commit/evmos/ethermint)](https://github.com/evmos/ethermint) - Ethereum Virtual Machine.
+* [Polaris ![GitHub Repo Stars](https://img.shields.io/github/stars/berachain/polaris) ![GitHub last commit](https://img.shields.io/github/last-commit/berachain/polaris)](https://github.com/berachain/polaris) - Modular Ethereum Virtual Machine.
 
 ## IBC
 
@@ -223,6 +220,14 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [CometMock ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/CometMock) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/CometMock)](https://github.com/informalsystems/CometMock) - Drop-in replacement for CometBFT in end-to-end tests.
 * [quint ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/quint) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/quint)](https://github.com/informalsystems/quint) - Executable specification language with delightful tooling.
 * [apalache ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/apalache) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/apalache)](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA+ and Quint.
+
+## Templates
+
+Templates to help you get started with building a Cosmos SDK blockchain.
+
+* [ignite](https://github.com/cli) - Quickly bootstrap a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
+* [cosmosregistry/example ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmosregistry/example) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmosregistry/example)](https://github.com/cosmosregistry/example) - Template and example repository of a Cosmos SDK module.
+* [cosmosregistry/chain-minimal ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmosregistry/chain-minimal) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmosregistry/chain-minimal)](https://github.com/cosmosregistry/chain-minimal) -  Template and example of a minimal Cosmos SDK blockchain.
 
 ## Tools
 
