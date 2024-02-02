@@ -623,7 +623,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
     modules](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html)
     in Ocamlnet's manual.
   - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
-  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) ��� Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
+  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/AngryLawyer/commonjs_of_ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/AngryLawyer/commonjs_of_ocaml)](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
   - [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
   - [ocaml-uri ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-uri) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-uri)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
