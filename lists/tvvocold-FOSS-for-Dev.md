@@ -53,6 +53,7 @@ Feel free to send a PR :)
  * [ssh chat ![GitHub Repo Stars](https://img.shields.io/github/stars/shazow/ssh-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/shazow/ssh-chat)](https://github.com/shazow/ssh-chat) - Chat over SSH 
  * [lets chat ![GitHub Repo Stars](https://img.shields.io/github/stars/sdelements/lets-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/sdelements/lets-chat)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
+ * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform
 
 ## Code Quality
 
