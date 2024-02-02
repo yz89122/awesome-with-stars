@@ -23,6 +23,8 @@ Feel free to send a PR :)
    * [PaaS](#paas)
    * [Documentation](#documentation)
    * [ADN(Application Delivery Networking)](#adn)
+   * [EMT(Environment Manager Tools)](#emt)
+   
 
 
 ## Source Code Repos 
@@ -77,7 +79,7 @@ Feel free to send a PR :)
 
  * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
  * [OpenXPKI ![GitHub Repo Stars](https://img.shields.io/github/stars/openxpki/openxpki) ![GitHub last commit](https://img.shields.io/github/last-commit/openxpki/openxpki)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
-
+ * [Selefra ![GitHub Repo Stars](https://img.shields.io/github/stars/selefra/selefra) ![GitHub last commit](https://img.shields.io/github/last-commit/selefra/selefra)](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ## Bug trackers
 
@@ -92,8 +94,9 @@ Feel free to send a PR :)
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
-
+* [Preevy ![GitHub Repo Stars](https://img.shields.io/github/stars/livecycle/preevy) ![GitHub last commit](https://img.shields.io/github/last-commit/livecycle/preevy)](https://github.com/livecycle/preevy) - Provision preview environments for docker compose applications with minimal configuration
  * [OpenShift ![GitHub Repo Stars](https://img.shields.io/github/stars/openshift/origin) ![GitHub last commit](https://img.shields.io/github/last-commit/openshift/origin)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+ * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
 ## Documentation
 
@@ -101,8 +104,10 @@ Feel free to send a PR :)
 
 ## Backend
 
+* [Hook0](https://www.hook0.com/) Webhooks-as-a-service (WaaS) for developers to send and manage webhooks
 * [Okteto](https://www.okteto.com/) - Kubernetes and Docker Compose Platform
-* [Dokku](https://dokku.com/) - Heroku like environment 
+* [Dokku](https://dokku.com/) - Heroku like environment
+* [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks, faster than unit tests, from user traffic
 
 ## Chat and Community
 
@@ -113,5 +118,7 @@ Feel free to send a PR :)
 ## Mail server
 
 * [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
-* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for sclae (needs more hand work to make it work)
+* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for scale (needs more hand work to make it work)
 
+## Environment Manager Tools
+* [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
