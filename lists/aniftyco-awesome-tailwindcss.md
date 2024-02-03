@@ -228,7 +228,7 @@
 - 📁 [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 - 📁 [Flowbite Admin Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-admin-dashboard)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
-- ��� [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+- 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/dante-astro-theme)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
@@ -322,7 +322,7 @@
 - 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
-- ��� [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
+- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
 - 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 - 🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
