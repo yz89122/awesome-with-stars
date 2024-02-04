@@ -2141,7 +2141,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>Support</h2>
 
 
-- [LibVCS4j ![GitHub Repo Stars](https://img.shields.io/github/stars/uni-bremen-agst/libvcs4j) ![GitHub last commit](https://img.shields.io/github/last-commit/uni-bremen-agst/libvcs4j)](https://github.com/uni-bremen-agst/libvcs4j) — A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.
+- [LibVCS4j ![GitHub Repo Stars](https://img.shields.io/github/stars/uni-bremen-agst/libvcs4j) ![GitHub last commit](https://img.shields.io/github/last-commit/uni-bremen-agst/libvcs4j)](https://github.com/uni-bremen-agst/libvcs4j) �� A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.
 
 - [RefactorFirst ![GitHub Repo Stars](https://img.shields.io/github/stars/jimbethancourt/RefactorFirst) ![GitHub last commit](https://img.shields.io/github/last-commit/jimbethancourt/RefactorFirst)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 
