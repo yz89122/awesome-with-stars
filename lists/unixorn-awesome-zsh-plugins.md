@@ -174,7 +174,7 @@ A minimalist ZSH plugin manager.
 
 ### [oh-my-zsh](https://ohmyz.sh/)
 
-**oh-my-zsh** is a community-driven framework for managing your ZSH configuration. Includes 120+ optional plugins (rails, `git`, macOS, `hub`, `capistrano`, `brew`, `ant`, macports, etc), over 120 themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+**oh-my-zsh** is a community-driven framework for managing your ZSH configuration. Includes 120+ optional plugins (rails, `git`, macOS, `hub`, `capistrano`, `brew`, `ant`, MacPorts, etc), over 120 themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ### [PMS ![GitHub Repo Stars](https://img.shields.io/github/stars/JoshuaEstes/pms) ![GitHub last commit](https://img.shields.io/github/last-commit/JoshuaEstes/pms)](https://github.com/JoshuaEstes/pms)
 
@@ -220,7 +220,7 @@ A ZSH micro plugin manager.
 
 ### [yazt ![GitHub Repo Stars](https://img.shields.io/github/stars/bashelled/yazt) ![GitHub last commit](https://img.shields.io/github/last-commit/bashelled/yazt)](https://github.com/bashelled/yazt)
 
-**Yazt** is a simple ZSH theme manager in maintence that is compatible with nearly everything. You can use prompts in plugins, mix 'n' match two themes and with a few modifications, you can even use it in `bash`.
+**Yazt** is a simple ZSH theme manager in maintenance that is compatible with nearly everything. You can use prompts in plugins, mix 'n' match two themes and with a few modifications, you can even use it in `bash`.
 
 ### [yzsh ![GitHub Repo Stars](https://img.shields.io/github/stars/yunielrc/yzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/yunielrc/yzsh)](https://github.com/yunielrc/yzsh)
 
@@ -296,7 +296,7 @@ The project is very active – currently > 3100 commits.
 
 ### [zinit-4 ![GitHub Repo Stars](https://img.shields.io/github/stars/psprint/Zinit-4) ![GitHub last commit](https://img.shields.io/github/last-commit/psprint/Zinit-4)](https://github.com/psprint/Zinit-4)
 
-This is Zinit 4 from the [original author](https://github.com/psprint), who once removed the [Zinit ![GitHub Repo Stars](https://img.shields.io/github/stars/zdharma-continuum/zinit) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma-continuum/zinit)](https://github.com/zdharma-continuum/zinit) repo from GitHub. This spawned a community-driven [zdharma-continuum](https://github.com/zdharma-continuum) organization that revived all of psprint's ZSH projects. Its main innovations from the @zdharma-continuum fork are:
+This is Zinit 4 from the [original author](https://github.com/psprint), who once removed the [Zinit ![GitHub Repo Stars](https://img.shields.io/github/stars/zdharma-continuum/zinit) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma-continuum/zinit)](https://github.com/zdharma-continuum/zinit) repository from GitHub. This spawned a community-driven [zdharma-continuum](https://github.com/zdharma-continuum) organization that revived all of psprint's ZSH projects. Its main innovations from the @zdharma-continuum fork are:
 
 - AppImage distribution (release link),
 - Action complete – press Alt-Shift-A and Alt-Shift-C to complete plugin names and ice modifiers,
@@ -315,7 +315,7 @@ These are the most visible changes, but there are more (like e.g.: support for c
 
 ### [znap ![GitHub Repo Stars](https://img.shields.io/github/stars/marlonrichert/zsh-snap) ![GitHub last commit](https://img.shields.io/github/last-commit/marlonrichert/zsh-snap)](https://github.com/marlonrichert/zsh-snap)
 
-**:zap:Znap** is a light-weight plugin manager & `git` repository manager for ZSH that's easy to grok. While tailored for ZSH plugins specifically, **Znap** also functions as a general-pupose utility for managing `git` repositories.
+**:zap:Znap** is a light-weight plugin manager & `git` repository manager for ZSH that's easy to grok. While tailored for ZSH plugins specifically, **Znap** also functions as a general-purpose utility for managing `git` repositories.
 
 Znap can:
 
@@ -513,7 +513,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 
 ### Zinit (né zplugin)
 
-- [BlaCk-Void-Zsh ![GitHub Repo Stars](https://img.shields.io/github/stars/black7375/BlaCk-Void-Zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/black7375/BlaCk-Void-Zsh)](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal_ball: Awesome, customable Zsh Starter Kit :stars::stars:. Includes powerline, [fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/junegunn/fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/fzf)](https://github.com/junegunn/fzf) integration, Weather and image viewing in some terminals.
+- [BlaCk-Void-Zsh ![GitHub Repo Stars](https://img.shields.io/github/stars/black7375/BlaCk-Void-Zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/black7375/BlaCk-Void-Zsh)](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal_ball: Awesome, customizable Zsh Starter Kit :stars::stars:. Includes powerline, [fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/junegunn/fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/fzf)](https://github.com/junegunn/fzf) integration, Weather and image viewing in some terminals.
 - [zinit-configs ![GitHub Repo Stars](https://img.shields.io/github/stars/zdharma-continuum/zinit-configs) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma-continuum/zinit-configs)](https://github.com/zdharma-continuum/zinit-configs) - Real-world configuration files (basically a collection of `.zshrc` files) holding [zinit ![GitHub Repo Stars](https://img.shields.io/github/stars/zdharma-continuum/zinit) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma-continuum/zinit)](https://github.com/zdharma-continuum/zinit) invocations.
 
 ### ZSH on Windows
