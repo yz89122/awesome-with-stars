@@ -65,6 +65,7 @@ This list is a collection of the best Mastodon resources.
 - [Mastodon Link ![GitHub Repo Stars](https://img.shields.io/github/stars/masrly/mastodon-link) ![GitHub last commit](https://img.shields.io/github/last-commit/masrly/mastodon-link)](https://github.com/masrly/mastodon-link/) - Adds Mastodon icon links by profile to make following people on other instances easier.
 - [Mastodon Redirector ![GitHub Repo Stars](https://img.shields.io/github/stars/bramus/mastodon-redirector) ![GitHub last commit](https://img.shields.io/github/last-commit/bramus/mastodon-redirector)](https://github.com/bramus/mastodon-redirector/) - Adds a button to view profiles from other instances on your profile page.
 - [mastotool ![GitHub Repo Stars](https://img.shields.io/github/stars/muesli/mastotool) ![GitHub last commit](https://img.shields.io/github/last-commit/muesli/mastotool)](https://github.com/muesli/mastotool/) - Collection of command-line tools for working with Mastodon accounts.
+- [Mastodon Widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/splitbrain/mastodon-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/splitbrain/mastodon-widget)](https://github.com/splitbrain/mastodon-widget) - JavaScript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.
 
 ## Desktop Clients
 
