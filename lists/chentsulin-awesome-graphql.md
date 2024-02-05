@@ -298,7 +298,6 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Ruby
 
 - [graphql-ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/rmosolgo/graphql-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
-- [graphql-client ![GitHub Repo Stars](https://img.shields.io/github/stars/github/graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/github/graphql-client)](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 - [graphql-batch ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/graphql-batch) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/graphql-batch)](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 - [graphql-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/o2web/graphql-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/o2web/graphql-auth)](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
 - [agoo ![GitHub Repo Stars](https://img.shields.io/github/stars/ohler55/agoo) ![GitHub last commit](https://img.shields.io/github/last-commit/ohler55/agoo)](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
@@ -873,6 +872,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
 - [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
 - [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
+- [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization) 
 
 <a name="post" />
 
