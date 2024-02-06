@@ -226,8 +226,9 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Laminas Diactoros ![GitHub Repo Stars](https://img.shields.io/github/stars/laminas/laminas-diactoros) ![GitHub last commit](https://img.shields.io/github/last-commit/laminas/laminas-diactoros)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Scraping
-*Libraries for scraping websites.*
+*Libraries for scraping websites and detecting crawlers.*
 
+* [CrawlerDetect ![GitHub Repo Stars](https://img.shields.io/github/stars/JayBizzle/Crawler-Detect) ![GitHub last commit](https://img.shields.io/github/last-commit/JayBizzle/Crawler-Detect)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [Chrome PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/chrome-php/chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/chrome-php/chrome)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 * [DiDOM ![GitHub Repo Stars](https://img.shields.io/github/stars/Imangazaliev/DiDOM) ![GitHub last commit](https://img.shields.io/github/last-commit/Imangazaliev/DiDOM)](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 * [Embed ![GitHub Repo Stars](https://img.shields.io/github/stars/oscarotero/Embed) ![GitHub last commit](https://img.shields.io/github/last-commit/oscarotero/Embed)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
