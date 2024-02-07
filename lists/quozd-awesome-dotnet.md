@@ -1246,6 +1246,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Servers
 
 * [EmbedIO ![GitHub Repo Stars](https://img.shields.io/github/stars/unosquare/embedio) ![GitHub last commit](https://img.shields.io/github/last-commit/unosquare/embedio)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+* [SimpleW ![GitHub Repo Stars](https://img.shields.io/github/stars/stratdev3/SimpleW) ![GitHub last commit](https://img.shields.io/github/last-commit/stratdev3/SimpleW)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform. 
 * [XSP ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/xsp) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/xsp)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## WebSocket
