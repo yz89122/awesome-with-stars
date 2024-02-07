@@ -54,6 +54,8 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [soundfont-player](https://www.npmjs.com/package/soundfont-player) - A soundfont loader/player to play MIDI sounds using WebAudio API.
 - [html-midi-player ![GitHub Repo Stars](https://img.shields.io/github/stars/cifkao/html-midi-player) ![GitHub last commit](https://img.shields.io/github/last-commit/cifkao/html-midi-player)](https://github.com/cifkao/html-midi-player) - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
 - [MusicXML Player ![GitHub Repo Stars](https://img.shields.io/github/stars/infojunkie/musicxml-player) ![GitHub last commit](https://img.shields.io/github/last-commit/infojunkie/musicxml-player)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
+- [waveform-path ![GitHub Repo Stars](https://img.shields.io/github/stars/jerosoler/waveform-path) ![GitHub last commit](https://img.shields.io/github/last-commit/jerosoler/waveform-path)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
+- [wave-audio-path-player ![GitHub Repo Stars](https://img.shields.io/github/stars/jerosoler/wave-audio-path-player) ![GitHub last commit](https://img.shields.io/github/last-commit/jerosoler/wave-audio-path-player)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 
 ### Utilities
 
