@@ -210,6 +210,7 @@
 - [simaxme/java.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/simaxme/java.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/simaxme/java.nvim)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 - [chomosuke/typst-preview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 - [quarto-dev/quarto-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
+- [iabdelkareem/csharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Golang
 
@@ -264,6 +265,7 @@
 
 - [potamides/pantran.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/potamides/pantran.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/potamides/pantran.nvim)](https://github.com/potamides/pantran.nvim) - Translate your text with an interactive translation window.
 - [niuiic/translate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/translate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/translate.nvim)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+- [tanloong/interlaced.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tanloong/interlaced.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tanloong/interlaced.nvim)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ## Syntax
 
