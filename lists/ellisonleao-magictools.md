@@ -481,6 +481,7 @@ _Blogs, portals, magazines and more_
 
 ### Complete Game Sources
 
+- :tada: [Barotrauma ![GitHub Repo Stars](https://img.shields.io/github/stars/Regalis11/Barotrauma) ![GitHub last commit](https://img.shields.io/github/last-commit/Regalis11/Barotrauma)](https://github.com/Regalis11/Barotrauma)
 - :tada: [Canabalt iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/ericjohnson/canabalt-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/ericjohnson/canabalt-ios)](https://github.com/ericjohnson/canabalt-ios)
 - :tada: [Doom 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM-3) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM-3)](https://github.com/id-Software/DOOM-3)
 - :tada: [Doom ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM)](https://github.com/id-Software/DOOM)
