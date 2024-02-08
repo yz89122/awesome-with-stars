@@ -87,6 +87,10 @@
 
 - [Directus Hook Library ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-hook-library) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-hook-library)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
+### Tools
+
+- [Directus Sync ![GitHub Repo Stars](https://img.shields.io/github/stars/tractr/directus-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/tractr/directus-sync)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+
 ## Articles
 
 ### Educational
