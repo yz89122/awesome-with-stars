@@ -1,4 +1,4 @@
-# Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
+# Awesome PHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
@@ -228,13 +228,12 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Scraping
 *Libraries for scraping websites and detecting crawlers.*
 
-* [CrawlerDetect ![GitHub Repo Stars](https://img.shields.io/github/stars/JayBizzle/Crawler-Detect) ![GitHub last commit](https://img.shields.io/github/last-commit/JayBizzle/Crawler-Detect)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [Chrome PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/chrome-php/chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/chrome-php/chrome)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+* [CrawlerDetect ![GitHub Repo Stars](https://img.shields.io/github/stars/JayBizzle/Crawler-Detect) ![GitHub last commit](https://img.shields.io/github/last-commit/JayBizzle/Crawler-Detect)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [DiDOM ![GitHub Repo Stars](https://img.shields.io/github/stars/Imangazaliev/DiDOM) ![GitHub last commit](https://img.shields.io/github/last-commit/Imangazaliev/DiDOM)](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 * [Embed ![GitHub Repo Stars](https://img.shields.io/github/stars/oscarotero/Embed) ![GitHub last commit](https://img.shields.io/github/last-commit/oscarotero/Embed)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
-* [Goutte ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/Goutte) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/Goutte)](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
-* [Symfony Panther ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/panther) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/panther)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 * [PHP Spider ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdbos/php-spider) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdbos/php-spider)](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [Symfony Panther ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/panther) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/panther)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
 ### Middlewares
 *Libraries for building application using middlewares.*
