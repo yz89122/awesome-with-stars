@@ -80,6 +80,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 - [Prisma Editor - A powerful tool to visualize and edit Prisma Schema ![GitHub Repo Stars](https://img.shields.io/github/stars/mohammed-bahumaish/prisma-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/mohammed-bahumaish/prisma-editor)](https://github.com/mohammed-bahumaish/prisma-editor)
 - [`prisma-markdown` - Markdown generator, including ERD and descriptions ![GitHub Repo Stars](https://img.shields.io/github/stars/samchon/prisma-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/samchon/prisma-markdown)](https://github.com/samchon/prisma-markdown)
+- [Hubql - Visualization platform with Prisma schema support](https://www.hubql.com/prisma)
 
 
 ## :thinking: How Tos
