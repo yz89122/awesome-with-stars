@@ -228,6 +228,7 @@ _Switch / on/off toggle / checkbox._
 - [svelte-splitpanes ![GitHub Repo Stars](https://img.shields.io/github/stars/orefalo/svelte-splitpanes) ![GitHub last commit](https://img.shields.io/github/last-commit/orefalo/svelte-splitpanes)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 - [mathjax-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/WoolDoughnut310/mathjax-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/WoolDoughnut310/mathjax-svelte)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 - [svelte-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/efstajas/svelte-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/efstajas/svelte-stepper)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
+- [css-3d-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/rofixro/css-3d-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/rofixro/css-3d-progress)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 
 ## Scaffold
 
