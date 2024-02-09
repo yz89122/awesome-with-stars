@@ -540,7 +540,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Security and Cryptography
 
-- [ocaml-tls ![GitHub Repo Stars](https://img.shields.io/github/stars/mirleft/ocaml-tls) ![GitHub last commit](https://img.shields.io/github/last-commit/mirleft/ocaml-tls)](https://github.com/mirleft/ocaml-tls) ��� TLS in pure OCaml.
+- [ocaml-tls ![GitHub Repo Stars](https://img.shields.io/github/stars/mirleft/ocaml-tls) ![GitHub last commit](https://img.shields.io/github/last-commit/mirleft/ocaml-tls)](https://github.com/mirleft/ocaml-tls) �� TLS in pure OCaml.
 - [Digestif ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/digestif) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/digestif)](https://github.com/mirage/digestif) - Hash algorithms (like SHA* or BLAKE2*) in OCaml and C.
 - [cryptokit ![GitHub Repo Stars](https://img.shields.io/github/stars/xavierleroy/cryptokit) ![GitHub last commit](https://img.shields.io/github/last-commit/xavierleroy/cryptokit)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 - [nocoiner ![GitHub Repo Stars](https://img.shields.io/github/stars/marcoonroad/nocoiner) ![GitHub last commit](https://img.shields.io/github/last-commit/marcoonroad/nocoiner)](https://github.com/marcoonroad/nocoiner) - A Commitment scheme library for Multi-party computations such as online auctions and gambling.
