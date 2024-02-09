@@ -273,7 +273,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [R 101](https://cognitiveclass.ai/courses/r-101) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
 | [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
-| [R](https://www.hackerrank.com/skills-verification/r_basic) | HackerRank |Beginner| 1.5 | 🏆|
+| [R](https://www.hackerrank.com/skills-verification/r_basic) | HackerRank |Beginner| 1.5 | ����|
 
 
 ### Python
