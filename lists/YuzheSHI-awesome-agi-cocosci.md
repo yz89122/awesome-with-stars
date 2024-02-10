@@ -1218,7 +1218,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 #### Decision Making
 
-* [A computational process-tracing method for measuring people��s planning strategies and how they change over time](https://link.springer.com/article/10.3758/s13428-022-01789-5) - ***Behavior Research Methods***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10405935000926098041)]. Model-based strategy identification.
+* [A computational process-tracing method for measuring people’s planning strategies and how they change over time](https://link.springer.com/article/10.3758/s13428-022-01789-5) - ***Behavior Research Methods***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10405935000926098041)]. Model-based strategy identification.
 
 *[Back to Top](#c)
 
