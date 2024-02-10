@@ -387,6 +387,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Better Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Roave/BetterReflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Roave/BetterReflection)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [GrumPHP ![GitHub Repo Stars](https://img.shields.io/github/stars/phpro/grumphp) ![GitHub last commit](https://img.shields.io/github/last-commit/phpro/grumphp)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+* [PHP Magic Number Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/povils/phpmnd) ![GitHub last commit](https://img.shields.io/github/last-commit/povils/phpmnd)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 * [PHP Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Semantic Versioning Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [Phpactor ![GitHub Repo Stars](https://img.shields.io/github/stars/phpactor/phpactor) ![GitHub last commit](https://img.shields.io/github/last-commit/phpactor/phpactor)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
@@ -511,6 +512,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Elephant.io ![GitHub Repo Stars](https://img.shields.io/github/stars/Wisembly/Elephant.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Wisembly/Elephant.io)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement ![GitHub Repo Stars](https://img.shields.io/github/stars/igorw/evenement) ![GitHub last commit](https://img.shields.io/github/last-commit/igorw/evenement)](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/event) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/event)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Fast CGI Client ![GitHub Repo Stars](https://img.shields.io/github/stars/hollodotme/fast-cgi-client) ![GitHub last commit](https://img.shields.io/github/last-commit/hollodotme/fast-cgi-client)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket. 
 * [Pawl ![GitHub Repo Stars](https://img.shields.io/github/stars/ratchetphp/Pawl) ![GitHub last commit](https://img.shields.io/github/last-commit/ratchetphp/Pawl)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 * [Prooph Event Store ![GitHub Repo Stars](https://img.shields.io/github/stars/prooph/event-store) ![GitHub last commit](https://img.shields.io/github/last-commit/prooph/event-store)](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [PHP Defer ![GitHub Repo Stars](https://img.shields.io/github/stars/php-defer/php-defer) ![GitHub last commit](https://img.shields.io/github/last-commit/php-defer/php-defer)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
@@ -543,6 +545,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Dompdf ![GitHub Repo Stars](https://img.shields.io/github/stars/dompdf/dompdf) ![GitHub last commit](https://img.shields.io/github/last-commit/dompdf/dompdf)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 * [Gotenberg ![GitHub Repo Stars](https://img.shields.io/github/stars/gotenberg/gotenberg-php) ![GitHub last commit](https://img.shields.io/github/last-commit/gotenberg/gotenberg-php)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 * [Snappy ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/snappy) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/snappy)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+* [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
 ### Office
 *Libraries for working with office suite documents.*
