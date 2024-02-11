@@ -244,7 +244,7 @@ _Libraries that help with implementing optimization and satisfiability problems.
 - [Choco](https://choco-solver.org) - Off-the-shelf constraint satisfaction problem solver that uses constraint programming techniques.
 - [JaCoP ![GitHub Repo Stars](https://img.shields.io/github/stars/radsz/jacop) ![GitHub last commit](https://img.shields.io/github/last-commit/radsz/jacop)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 - [OptaPlanner](https://www.optaplanner.org) - Business planning and resource scheduling optimization solver.
-- [Timefold ![GitHub Repo Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver) ![GitHub last commit](https://img.shields.io/github/last-commit/TimefoldAI/timefold-solver)](https://github.com/TimefoldAI/timefold-solver) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
+- [Timefold](https://timefold.ai/docs) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
 
 ### CSV
 
@@ -686,6 +686,7 @@ _Everything else._
 - [Design Patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/iluwatar/java-design-patterns)](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
 - [FF4J ![GitHub Repo Stars](https://img.shields.io/github/stars/ff4j/ff4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ff4j/ff4j)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 - [FizzBuzz Enterprise Edition ![GitHub Repo Stars](https://img.shields.io/github/stars/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ![GitHub last commit](https://img.shields.io/github/last-commit/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
+- [IP2Location.io Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ip2location/ip2location-io-java) ![GitHub last commit](https://img.shields.io/github/last-commit/ip2location/ip2location-io-java)](https://github.com/ip2location/ip2location-io-java) - Wrapper for the IP2Location.io Geolocation API and the IP2WHOIS domain WHOIS API.
 - [J2ObjC ![GitHub Repo Stars](https://img.shields.io/github/stars/google/j2objc) ![GitHub last commit](https://img.shields.io/github/last-commit/google/j2objc)](https://github.com/google/j2objc) - Java-to-Objective-C translator for porting Android libraries to iOS.
 - [JBake](https://jbake.org) - Static website generator.
 - [JBot ![GitHub Repo Stars](https://img.shields.io/github/stars/rampatra/jbot) ![GitHub last commit](https://img.shields.io/github/last-commit/rampatra/jbot)](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
@@ -1115,9 +1116,10 @@ _Other stuff related to testing._
 - [LogCaptor ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/log-captor) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/log-captor)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 - [log-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/dm-drogeriemarkt/log-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/dm-drogeriemarkt/log-capture)](https://github.com/dm-drogeriemarkt/log-capture) - Captures log entries and provides assertions for unit and integration testing.
 - [Mutability Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/MutabilityDetector/MutabilityDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/MutabilityDetector/MutabilityDetector)](https://github.com/MutabilityDetector/MutabilityDetector) - Reports whether instances of a given class are immutable.
-- [raml-tester ![GitHub Repo Stars](https://img.shields.io/github/stars/nidi3/raml-tester) ![GitHub last commit](https://img.shields.io/github/last-commit/nidi3/raml-tester)](https://github.com/nidi3/raml-tester) - Tests if a request/response matches a given RAML definition.
-- [TestContainers ![GitHub Repo Stars](https://img.shields.io/github/stars/testcontainers/testcontainers-java) ![GitHub last commit](https://img.shields.io/github/last-commit/testcontainers/testcontainers-java)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [pojo-tester](https://www.pojo.pl) - Automatically performs tests on basic POJO methods. (LGPL-3.0-only)
+- [raml-tester ![GitHub Repo Stars](https://img.shields.io/github/stars/nidi3/raml-tester) ![GitHub last commit](https://img.shields.io/github/last-commit/nidi3/raml-tester)](https://github.com/nidi3/raml-tester) - Tests if a request/response matches a given RAML definition.
+- [Selfie ![GitHub Repo Stars](https://img.shields.io/github/stars/diffplug/selfie) ![GitHub last commit](https://img.shields.io/github/last-commit/diffplug/selfie)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+- [TestContainers ![GitHub Repo Stars](https://img.shields.io/github/stars/testcontainers/testcontainers-java) ![GitHub last commit](https://img.shields.io/github/last-commit/testcontainers/testcontainers-java)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 #### Mocking
 
