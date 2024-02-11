@@ -170,6 +170,7 @@
 - [piersolenski/wtf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/wtf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/wtf.nvim)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 - [folke/lsp-colors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/lsp-colors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/lsp-colors.nvim)](https://github.com/folke/lsp-colors.nvim) - A plugin that adds missing LSP diagnostics highlight groups for color schemes that don't yet support the builtin LSP client.
 - [chrisgrieser/nvim-rulebook ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-rulebook) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rulebook)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+- [artemave/workspace-diagnostics.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/artemave/workspace-diagnostics.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/artemave/workspace-diagnostics.nvim)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
 ## Completion
 
