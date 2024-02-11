@@ -242,7 +242,7 @@ Other places you can look for MicroPython Libraries:
 
 #### MQTT
 
-* [micropython-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-mqtt)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
+* [micropython-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-mqtt)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT client: recovers from WiFi and broker outages.
 * [MQBoard ![GitHub Repo Stars](https://img.shields.io/github/stars/tve/mqboard) ![GitHub last commit](https://img.shields.io/github/last-commit/tve/mqboard)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
 * [pysmartnode ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinkk525/pysmartnode) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinkk525/pysmartnode)](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smart Home framework.
 * [umqtt_aws_iot ![GitHub Repo Stars](https://img.shields.io/github/stars/juwul/umqtt_aws_iot) ![GitHub last commit](https://img.shields.io/github/last-commit/juwul/umqtt_aws_iot)](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
