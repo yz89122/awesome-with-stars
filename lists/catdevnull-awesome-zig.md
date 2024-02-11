@@ -236,6 +236,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Zig development tools
 * [marler8997/zigup ![GitHub Repo Stars](https://img.shields.io/github/stars/marler8997/zigup) ![GitHub last commit](https://img.shields.io/github/last-commit/marler8997/zigup)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 * [korandoru/setup-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/korandoru/setup-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/korandoru/setup-zig)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+* [weskoerber/zvm ![GitHub Repo Stars](https://img.shields.io/github/stars/weskoerber/zvm) ![GitHub last commit](https://img.shields.io/github/last-commit/weskoerber/zvm)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 
 
 ### Package managers
@@ -271,6 +272,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [iddev5/inon ![GitHub Repo Stars](https://img.shields.io/github/stars/iddev5/inon) ![GitHub last commit](https://img.shields.io/github/last-commit/iddev5/inon)](https://github.com/iddev5/inon) - Data configuration file format.
 * [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 parser and convert TOML to JSON.
 * [InKryption/comath ![GitHub Repo Stars](https://img.shields.io/github/stars/InKryption/comath) ![GitHub last commit](https://img.shields.io/github/last-commit/InKryption/comath)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
+* [weskoerber/kewpie ![GitHub Repo Stars](https://img.shields.io/github/stars/weskoerber/kewpie) ![GitHub last commit](https://img.shields.io/github/last-commit/weskoerber/kewpie)](https://github.com/weskoerber/kewpie) - A simple query string parser.
 
 ## Learning resources
 * [belse-de/zig-tut ![GitHub Repo Stars](https://img.shields.io/github/stars/belse-de/zig-tut) ![GitHub last commit](https://img.shields.io/github/last-commit/belse-de/zig-tut)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
