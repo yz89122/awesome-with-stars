@@ -145,7 +145,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ## Functional Languages that Compile to JavaScript
 
 * [ClojureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
-* [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
+* [Elm](http://elm-lang.org/) �� A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 * [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 * [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
@@ -168,7 +168,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [eslint-plugin-fp ![GitHub Repo Stars](https://img.shields.io/github/stars/jfmengels/eslint-plugin-fp) ![GitHub last commit](https://img.shields.io/github/last-commit/jfmengels/eslint-plugin-fp)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 * [4.5 ![GitHub Repo Stars](https://img.shields.io/github/stars/TylorS/4.5) ![GitHub last commit](https://img.shields.io/github/last-commit/TylorS/4.5)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-* [hm-def ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) �� Runtime type checking for JS with Hindley Milner signatures.
+* [hm-def ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 * [ftor ![GitHub Repo Stars](https://img.shields.io/github/stars/kongware/ftor) ![GitHub last commit](https://img.shields.io/github/last-commit/kongware/ftor)](https://github.com/kongware/ftor) - A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding.
 
 ## Resources
