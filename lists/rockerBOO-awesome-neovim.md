@@ -97,6 +97,7 @@
 - [roobert/activate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/activate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/activate.nvim)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 - [abeldekat/lazyflex.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/abeldekat/lazyflex.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/abeldekat/lazyflex.nvim)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
 - [nvim-neorocks/rocks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-neorocks/rocks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-neorocks/rocks.nvim)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
+- [echasnovski/mini.nvim#mini.deps ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
 ## LSP
 
