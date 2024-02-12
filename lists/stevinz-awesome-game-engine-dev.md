@@ -1185,7 +1185,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) - Article on producing a sketchy outline look.
 - Pixelation
     - 📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) - Useful GLSL postprocessing shaders for pixel art games.
-    - ���� [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) - WebGL pixelation postprocessing using Three.js. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/three.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/three.js)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html)]
+    - 🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) - WebGL pixelation postprocessing using Three.js. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/three.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/three.js)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html)]
 - Postprocessing
     - 📚 [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) - WebGL image filters / effects shaders. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/image-editor-effects) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/image-editor-effects)](https://github.com/alaingalvan/image-editor-effects)]
 - Upscaling
