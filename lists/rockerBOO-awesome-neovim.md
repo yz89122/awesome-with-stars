@@ -751,6 +751,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [chomosuke/term-edit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
 - [mikesmithgh/kitty-scrollback.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mikesmithgh/kitty-scrollback.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mikesmithgh/kitty-scrollback.nvim)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 - [niuiic/terminal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/terminal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/terminal.nvim)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+- [RAprogramm/nekifoch ![GitHub Repo Stars](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![GitHub last commit](https://img.shields.io/github/last-commit/RAprogramm/nekifoch)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 
 ## Debugging
 
