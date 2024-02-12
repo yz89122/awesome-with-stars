@@ -77,7 +77,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [Journal of the Egyptian Society of Parasitology](https://jesp.journals.ekb.eg/) - Open-access (2013 - present) scientific journal of The Eyptian Society of Parasitology. Published since the 1970s, their archive is indexed in Pub-Med since 1972 (Index Medicus ISSN: 0253-5890).
 * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) - JWD provides many open-access articles on new parasite expansions or discoveries.
 * [Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie](https://www.zobodat.at/publikation_series.php?id=1351) - 23 open access volumes (1971-2001) of the scientific journal of the Austrian Society for Tropical Medicine and Parasitology.
-* [Parasite](https://www.parasite-journal.org/) - Open access journal associated with the Société Française de Parasitologie. Focuses on both animal and human parasites.  
+* [Parasite](https://www.parasite-journal.org/) - Open access journal associated with the Société Fran��aise de Parasitologie. Focuses on both animal and human parasites.  
 * [Parasitologia Hungarica](http://publication.nhmus.hu/parasitologia/bannales.php?volume=1) - 31 open-access volumes (1960-1998) of Parasitologia Hungarica, a scientific journal hosted by the Hungarian Natural History Museum.
  
 
