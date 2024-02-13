@@ -205,6 +205,7 @@
 - [Low Code ![GitHub Repo Stars](https://img.shields.io/github/stars/zenitysec/awesome-low-code) ![GitHub last commit](https://img.shields.io/github/last-commit/zenitysec/awesome-low-code)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/riderx/awesome-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/riderx/awesome-capacitor)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer ![GitHub Repo Stars](https://img.shields.io/github/stars/Esri/awesome-arcgis-developer) ![GitHub last commit](https://img.shields.io/github/last-commit/Esri/awesome-arcgis-developer)](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
+- [Uno Platform ![GitHub Repo Stars](https://img.shields.io/github/stars/MartinZikmund/awesome-uno-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/MartinZikmund/awesome-uno-platform)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 
 ## Programming Languages
 
@@ -404,6 +405,7 @@
 - [IAM ![GitHub Repo Stars](https://img.shields.io/github/stars/kdeldycke/awesome-iam) ![GitHub last commit](https://img.shields.io/github/last-commit/kdeldycke/awesome-iam)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 - [Slim ![GitHub Repo Stars](https://img.shields.io/github/stars/nekofar/awesome-slim) ![GitHub last commit](https://img.shields.io/github/last-commit/nekofar/awesome-slim)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/awesome-fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/awesome-fiber)](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Kustomize ![GitHub Repo Stars](https://img.shields.io/github/stars/DevOpsHiveHQ/awesome-kustomize) ![GitHub last commit](https://img.shields.io/github/last-commit/DevOpsHiveHQ/awesome-kustomize)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 
 ## Computer Science
 
@@ -876,6 +878,7 @@
 - [ChatGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-chatgpt)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-whisper)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck ![GitHub Repo Stars](https://img.shields.io/github/stars/airscripts/awesome-steam-deck) ![GitHub last commit](https://img.shields.io/github/last-commit/airscripts/awesome-steam-deck)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+- [Astrophotography ![GitHub Repo Stars](https://img.shields.io/github/stars/lunohodov/awesome-astrophotography) ![GitHub last commit](https://img.shields.io/github/last-commit/lunohodov/awesome-astrophotography)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC ![GitHub Repo Stars](https://img.shields.io/github/stars/dstdev/awesome-hpc) ![GitHub last commit](https://img.shields.io/github/last-commit/dstdev/awesome-hpc)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## Related
