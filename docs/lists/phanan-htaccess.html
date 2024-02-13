@@ -40,7 +40,7 @@
       <h1><a href="https://awesome.imyz.dev/">Awesome Lists with GitHub stars</a></h1>
       
 
-      <h1 id="htaccess-snippets-">.htaccess Snippets <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a>
+      <h1 id="htaccess-snippets-">.htaccess Snippets <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" loading="lazy" referrerpolicy="no-referrer"></a>
 </h1>
 <p>A collection of useful .htaccess snippets, all in one place.</p>
 
@@ -48,10 +48,10 @@
 
 <p><strong>Disclaimer</strong>: While dropping the snippet into an <code class="language-plaintext highlighter-rouge">.htaccess</code> file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.</p>
 
-<p><strong>IMPORTANT</strong>: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the <a href="https://httpd.apache.org/docs/2.4/upgrading.html">upgrading document</a> as well as <a href="https://github.com/phanan/htaccess/issues/2">this issue <img src="https://img.shields.io/github/stars/phanan/htaccess" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/phanan/htaccess" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</p>
+<p><strong>IMPORTANT</strong>: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the <a href="https://httpd.apache.org/docs/2.4/upgrading.html">upgrading document</a> as well as <a href="https://github.com/phanan/htaccess/issues/2">this issue <img src="https://img.shields.io/github/stars/phanan/htaccess" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/phanan/htaccess" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</p>
 
 <h2 id="credits">Credits</h2>
-<p>What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from <a href="https://github.com/h5bp/server-configs-apache">Apache Server Configs <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.</p>
+<p>What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from <a href="https://github.com/h5bp/server-configs-apache">Apache Server Configs <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.</p>
 
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
@@ -297,7 +297,7 @@ RewriteRule "(^|/)\." - [F]
     # Require all denied
 &lt;/FilesMatch&gt;
 </code></pre>
-<p><a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
+<p><a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></p>
 
 <h3 id="disable-directory-browsing">Disable Directory Browsing</h3>
 <pre><code class="language-apacheconf">Options All -Indexes
@@ -409,12 +409,12 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
 &lt;/IfModule&gt;
 </code></pre>
-<p><a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
+<p><a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></p>
 
 <h3 id="set-expires-headers">Set Expires Headers</h3>
 <p><em>Expires headers</em> tell the browser whether they should request a specific file from the server or just grab it from the cache. It is advisable to set static content’s expires headers to something far in the future.</p>
 
-<p>If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. <a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
+<p>If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. <a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></p>
 <pre><code class="language-apacheconf">&lt;IfModule mod_expires.c&gt;
     ExpiresActive on
     ExpiresDefault                                      "access plus 1 month"
@@ -515,7 +515,7 @@ ErrorDocument 404 /errors/halflife3.html
     &lt;/FilesMatch&gt;
 &lt;/IfModule&gt;
 </code></pre>
-<p><a href="https://github.com/h5bp/server-configs-apache/issues/32">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
+<p><a href="https://github.com/h5bp/server-configs-apache/issues/32">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></p>
 
 <h3 id="auto-utf-8-encode">Auto UTF-8 Encode</h3>
 <p>Your text content should always be UTF-8 encoded, no?</p>
@@ -525,7 +525,7 @@ AddDefaultCharset utf-8
 # Force UTF-8 for a number of file formats
 AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 </code></pre>
-<p><a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
+<p><a href="https://github.com/h5bp/server-configs-apache">Source <img src="https://img.shields.io/github/stars/h5bp/server-configs-apache" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/h5bp/server-configs-apache" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></p>
 
 <h3 id="switch-to-another-php-version">Switch to Another PHP Version</h3>
 <p>If you’re on a shared host, chances are there are more than one version of PHP installed, and sometimes you want a specific version for your website. The following snippet should switch the PHP version for you.</p>
@@ -553,7 +553,7 @@ RewriteCond %{HTTP_ACCEPT} image/webp
 RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 </code></pre>
-<p><a href="https://github.com/vincentorback/WebP-images-with-htaccess">Source <img src="https://img.shields.io/github/stars/vincentorback/WebP-images-with-htaccess" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vincentorback/WebP-images-with-htaccess" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a></p>
+<p><a href="https://github.com/vincentorback/WebP-images-with-htaccess">Source <img src="https://img.shields.io/github/stars/vincentorback/WebP-images-with-htaccess" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/vincentorback/WebP-images-with-htaccess" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a></p>
 
 
       
