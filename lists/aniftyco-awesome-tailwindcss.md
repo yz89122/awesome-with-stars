@@ -195,7 +195,7 @@
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker ![GitHub Repo Stars](https://img.shields.io/github/stars/kenhyuwa/litepie-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/kenhyuwa/litepie-datepicker)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 - 🧩 [Tailwind Datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/tailwind-datepicker)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
-- 🧩 [Tailwind Typeahead ![GitHub Repo Stars](https://img.shields.io/github/stars/basarozcan/vue-tailwindcss-typeahead) ![GitHub last commit](https://img.shields.io/github/last-commit/basarozcan/vue-tailwindcss-typeahead)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
+- ��� [Tailwind Typeahead ![GitHub Repo Stars](https://img.shields.io/github/stars/basarozcan/vue-tailwindcss-typeahead) ![GitHub last commit](https://img.shields.io/github/last-commit/basarozcan/vue-tailwindcss-typeahead)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 - 🧩 [Material Tailwind](https://material-tailwind.com) - Easy to use components library for Tailwind CSS and Material Design.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
@@ -281,7 +281,7 @@
 - 🚀 [Vite-Boot ![GitHub Repo Stars](https://img.shields.io/github/stars/kirklin/vite-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/kirklin/vite-boot)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - 🚀 [AstroWind ![GitHub Repo Stars](https://img.shields.io/github/stars/onwidget/astrowind) ![GitHub last commit](https://img.shields.io/github/last-commit/onwidget/astrowind)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/angular-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/angular-tailwind)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
-- 🚀 [Vue-Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/vue-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/vue-resume)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+- �� [Vue-Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/vue-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/vue-resume)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## Learning
 
