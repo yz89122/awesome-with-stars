@@ -1822,6 +1822,7 @@ Literate programming
 
 * [literate-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/jingtaozf/literate-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/jingtaozf/literate-lisp)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT][200].
 * [erudite ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/erudite) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/erudite)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT][200].
+* [papyrus](https:/github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT][200]
 
 
 Logging
