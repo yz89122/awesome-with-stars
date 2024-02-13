@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Awesome Lists with GitHub stars</title>
+<meta name="generator" content="Jekyll v3.9.5">
+<meta property="og:title" content="Awesome Lists with GitHub stars">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://awesome.imyz.dev/lists/DevOpsHiveHQ-awesome-kustomize.html">
+<meta property="og:url" content="https://awesome.imyz.dev/lists/DevOpsHiveHQ-awesome-kustomize.html">
+<meta property="og:site_name" content="Awesome Lists with GitHub stars">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Awesome Lists with GitHub stars">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Awesome Lists with GitHub stars","url":"https://awesome.imyz.dev/lists/DevOpsHiveHQ-awesome-kustomize.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=66e193ded4a5d1e3066646f1de9d08d74602c950">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://awesome.imyz.dev/">Awesome Lists with GitHub stars</a></h1>
+      
+
+      <!-- omit in toc -->
+<h1 id="awesome-kustomize--">Awesome Kustomize <a href="https://github.com/sindresorhus/awesome"><img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg" alt="Awesome" referrerpolicy="no-referrer" loading="lazy"></a> <a href="https://github.com/aabouzaid/awesome-kustomize/compare"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" referrerpolicy="no-referrer" loading="lazy"></a>
+</h1>
+
+<p align="center">
+  <a href="https://kustomize.io">
+    <img src="https://github.com/DevOpsHiveHQ/awesome-kustomize/raw/main/img/kustomize.svg" width="80%" referrerpolicy="no-referrer" loading="lazy">
+  </a>
+</p>
+
+<blockquote>
+  <p>A curated and collaborative list of awesome Kustomize resources.</p>
+</blockquote>
+
+<p><a href="https://kustomize.io">Kustomize</a> introduces a template-free way to customize Kubernetes manifests. It’s extensible and uses a purely declarative approach to configuration customization, which will help you efficiently manage your Infrastructure as a code (IaC).</p>
+
+<p>Contributions are welcome, add links through <a href="https://github.com/aabouzaid/awesome-kustomize/pulls">pull requests <img src="https://img.shields.io/github/stars/aabouzaid/awesome-kustomize" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aabouzaid/awesome-kustomize" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> or create an issue to start a discussion.</p>
+
+<!-- omit in toc -->
+<h2 id="contents">Contents</h2>
+
+<ul>
+  <li><a href="#overview">Overview</a></li>
+  <li>
+<a href="#plugins">Plugins</a>
+    <ul>
+      <li><a href="#generators">Generators</a></li>
+      <li><a href="#transformers">Transformers</a></li>
+      <li><a href="#validators">Validators</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="#guides">Guides</a>
+    <ul>
+      <li><a href="#novice">Novice</a></li>
+      <li><a href="#intermediate">Intermediate</a></li>
+      <li><a href="#advanced">Advanced</a></li>
+      <li><a href="#tips--tricks">Tips \&amp; Tricks</a></li>
+    </ul>
+  </li>
+  <li><a href="#misc">Misc</a></li>
+  <li><a href="#related-lists">Related lists</a></li>
+</ul>
+
+<h2 id="overview">Overview</h2>
+
+<p>Kustomize works as a standalone binary; also, it’s built into <code class="language-plaintext highlighter-rouge">kubectl</code> (since v1.14). It can be used with off-the-shelf applications like <strong>Helm charts</strong>. Also, it has a deep integration with different <strong>GitOps</strong> tools like ArgoCD, Flux, and many others.</p>
+
+<h2 id="plugins">Plugins</h2>
+
+<p>Kustomize has 3 types of plugins <code class="language-plaintext highlighter-rouge">generator</code>, <code class="language-plaintext highlighter-rouge">transformer</code>, and <code class="language-plaintext highlighter-rouge">validator</code>.</p>
+
+<blockquote>
+  <p>Note</p>
+
+  <p>If you are a plugin developer, it’s highly recommended to support the new plugins standard
+<a href="https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md">KRM function <img src="https://img.shields.io/github/stars/kubernetes-sigs/kustomize" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kubernetes-sigs/kustomize" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>.</p>
+</blockquote>
+
+<h3 id="generators">Generators</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/bbl/secretize">Secretize <img src="https://img.shields.io/github/stars/bbl/secretize" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bbl/secretize" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generating Kubernetes Secret from various sources. It’s like a swiss army knife, but for Kubernetes secrets (Exec).</li>
+  <li>
+<a href="https://github.com/goabout/kustomize-sopssecretgenerator/">SopsSecretGenerator <img src="https://img.shields.io/github/stars/goabout/kustomize-sopssecretgenerator" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/goabout/kustomize-sopssecretgenerator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generating Secrets from sops-encrypted files (Exec, Exec KRM).</li>
+  <li>
+<a href="https://github.com/viaduct-ai/kustomize-sops">KSops <img src="https://img.shields.io/github/stars/viaduct-ai/kustomize-sops" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/viaduct-ai/kustomize-sops" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generating Secrets from sops-encrypted files (Exec).</li>
+  <li>
+<a href="https://github.com/open-cluster-management-io/policy-generator-plugin">PolicyGenerator <img src="https://img.shields.io/github/stars/open-cluster-management-io/policy-generator-plugin" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/open-cluster-management-io/policy-generator-plugin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generating Open Cluster Management policies (Exec).</li>
+  <li>
+<a href="https://github.com/kaweezle/krmfnbuiltin">KRMFfnBuiltin <img src="https://img.shields.io/github/stars/kaweezle/krmfnbuiltin" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kaweezle/krmfnbuiltin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Running builtin generators transformers (Exec).</li>
+  <li>
+<a href="https://github.com/aabouzaid/kustomize-plugin-merger">Merger <img src="https://img.shields.io/github/stars/aabouzaid/kustomize-plugin-merger" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aabouzaid/kustomize-plugin-merger" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).</li>
+</ul>
+
+<h3 id="transformers">Transformers</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/openinfradev/kustomize-helm-transformer">HelmValuesTransformer <img src="https://img.shields.io/github/stars/openinfradev/kustomize-helm-transformer" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/openinfradev/kustomize-helm-transformer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Transforming values in HelmRelease CustomResource. It helps to manage a lot of HelmRelease’s value in single transformer file (Exec).</li>
+  <li>
+<a href="https://github.com/joshdk/template-transformer">TemplateTransformer <img src="https://img.shields.io/github/stars/joshdk/template-transformer" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/joshdk/template-transformer" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Providing a set of KRM Functions to run builtin transformers in place (Containerized KRM, Exec KRM).</li>
+</ul>
+
+<h3 id="validators">Validators</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/aabouzaid/kustomize-kubeconformvalidator">KubeconformValidator <img src="https://img.shields.io/github/stars/aabouzaid/kustomize-kubeconformvalidator" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aabouzaid/kustomize-kubeconformvalidator" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Validating Kubernetes manifests using embedded Kubeconform (Containerized KRM, Exec KRM).</li>
+</ul>
+
+<h2 id="guides">Guides</h2>
+
+<p>Kustomize guides based on their level or type like 📰 Article, 📺 Video, 🧪 Lab.</p>
+
+<h3 id="novice">Novice</h3>
+
+<ul>
+  <li>📰 <a href="https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/">Declarative Management of Kubernetes Objects Using Kustomize</a> - The official Kubernetes documentation task for Kustomize.</li>
+  <li>📰 <a href="https://cloud.google.com/anthos-config-management/docs/concepts/kustomize">Configure Kubernetes with Kustomize</a> - A guide helps to get started with Kustomize, understand its intended use cases, and find resources for using it with other Google Cloud tools.</li>
+  <li>📺 <a href="https://www.youtube.com/watch?v=1fCAwFGX38U">Organizing the YAML mess with Kustomize</a> - A talk shows how Kustomize could help to manage Kubernetes YAML files with a growing number of services and environments.</li>
+  <li>📺 <a href="https://www.youtube.com/watch?v=ahMIBxufNR0">Kustomize: Deploy Your App with Template Free YAML</a> - A talk introduces Kustomize, a declarative application management system, that allows deployments to be described as template free YAML.</li>
+</ul>
+
+<h3 id="intermediate">Intermediate</h3>
+
+<ul>
+  <li>🧪 <a href="https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/03-kustomize.html">ArgoCD GitOps Tutorial - Working with Kustomize</a> - A hands-on lab covers using Kustomize in GitOps and it goes through the Kustomize syntax and deploying a Kustomized application.</li>
+  <li>📰 <a href="https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html">3 ways to customize off-the-shelf Helm charts with Kustomize</a> - A guide covers 3 different ways to use Kustomize and Helm together.</li>
+</ul>
+
+<h3 id="advanced">Advanced</h3>
+
+<ul>
+  <li>📰 <a href="https://www.innoq.com/en/blog/advanced-kustomize-features/">Advanced Kustomize features</a> - A guide covers more than 5 advanced Kustomize capabilities.</li>
+  <li>📰 <a href="https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html">Set OpenAPI patch strategy for Kubernetes Custom Resources</a> - A guide shows how to provide schema to control the patch strategy of the CRDs.</li>
+  <li>📺 <a href="https://www.youtube.com/watch?v=YlFUv4F5PYc">Customizing Kustomize with Client-Side Custom Resources</a> - A talk covers extending Kustomize via plugins to address common yet idiosyncratic application needs.</li>
+  <li>📺 <a href="https://www.youtube.com/watch?v=Xoh_OpLoVtI">Own your YAML: extending Kustomize via Plugins</a> - A talk shows how to create custom resources using Kustomize external plugins.</li>
+  <li>📰 <a href="https://www.innoq.com/en/blog/kustomize-enhancement-with-krm-functions/">Kustomize Enhancement with KRM Functions</a> - A detailed guide covers KRM concept and how to use it in Kustomize plugins.</li>
+</ul>
+
+<h3 id="tips--tricks">Tips &amp; Tricks</h3>
+
+<ul>
+  <li>📰 <a href="https://tech.aabouzaid.com/2021/05/delete-a-manifest-from-kustomize-base.html">Delete a manifest from a Kustomize base</a> - A handy way to delete named manifest using Kustomize patch.</li>
+  <li>📰 <a href="https://tech.aabouzaid.com/2022/04/apply-kustomize-builtin-transformers-on-a-single-resource.html">Apply Kustomize builtin transformers on a single resource</a> - A way to use internal transformers on specific resources.</li>
+  <li>📰 <a href="https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html">Pass extra data to the Containerized KRM function</a> - Different cases of share data with Containerized KRM function.</li>
+</ul>
+
+<h2 id="misc">Misc</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/Banno/asdf-kustomize">Asdf-kustomize <img src="https://img.shields.io/github/stars/Banno/asdf-kustomize" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Banno/asdf-kustomize" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Kustomize plugin for asdf version manager.</li>
+</ul>
+
+<h2 id="related-lists">Related lists</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/ramitsurana/awesome-kubernetes">Awesome Kubernetes <img src="https://img.shields.io/github/stars/ramitsurana/awesome-kubernetes" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ramitsurana/awesome-kubernetes" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A curated list of awesome Kubernetes resources.</li>
+  <li>
+<a href="https://github.com/ishantanu/awesome-kubectl-plugins">Awesome Kubectl plugins <img src="https://img.shields.io/github/stars/ishantanu/awesome-kubectl-plugins" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ishantanu/awesome-kubectl-plugins" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A curated list of awesome Kubectl plugins.</li>
+  <li>
+<a href="https://github.com/cdwv/awesome-helm">Awesome Helm <img src="https://img.shields.io/github/stars/cdwv/awesome-helm" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cdwv/awesome-helm" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A curated list of awesome Helm charts and resources.</li>
+</ul>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
