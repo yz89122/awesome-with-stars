@@ -66,6 +66,7 @@
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
 - [Speech Note ![GitHub Repo Stars](https://img.shields.io/github/stars/mkiol/dsnote) ![GitHub last commit](https://img.shields.io/github/last-commit/mkiol/dsnote)](https://github.com/mkiol/dsnote) - Audio transcription Linux app.
 - [FridayGPT](https://www.fridaygpt.app) - Dictation macOS app powered by OpenAI API.
+- [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
 
 ## Web apps
 
