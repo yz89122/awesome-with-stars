@@ -15,6 +15,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Frameworks](#frameworks)
 - [Applications](#applications)
 - [Personal Health Record](#phr)
+- [Telemedicine](#telemedicine)
 - [Integration](#integration)
 - [Research](#research)
 - [Hardware](#hardware)
@@ -31,6 +32,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Analytics](#analytics)
 
 ### EHR
+  * [Akello](https://akello.io) - Integrated Mental Health Infrastructure
   * [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
@@ -57,7 +59,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Specifications
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
-  * [Continuity of Care Record](https://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
   * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2
@@ -118,6 +119,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/fhir-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fhir-proxy)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
   * [FHIR Works on AWS ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/fhir-works-on-aws-deployment) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/fhir-works-on-aws-deployment)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
   * [FHIR Server for Azure ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/fhir-server) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/fhir-server)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+  * [Inferno](https://inferno-framework.github.io) - providing testing tools for the FHIR
   * [Intervention Engine FHIR Server ![GitHub Repo Stars](https://img.shields.io/github/stars/intervention-engine/fhir) ![GitHub last commit](https://img.shields.io/github/last-commit/intervention-engine/fhir)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [LinuxForHealth FHIR Server ![GitHub Repo Stars](https://img.shields.io/github/stars/LinuxForHealth/FHIR) ![GitHub last commit](https://img.shields.io/github/last-commit/LinuxForHealth/FHIR)](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
   * [Medblocks UI ![GitHub Repo Stars](https://img.shields.io/github/stars/medblocks/medblocks-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/medblocks/medblocks-ui)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
@@ -148,6 +150,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Health data standards ![GitHub Repo Stars](https://img.shields.io/github/stars/projectcypress/health-data-standards) ![GitHub last commit](https://img.shields.io/github/last-commit/projectcypress/health-data-standards)](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [Hermes ![GitHub Repo Stars](https://img.shields.io/github/stars/wardle/hermes) ![GitHub last commit](https://img.shields.io/github/last-commit/wardle/hermes)](https://github.com/wardle/hermes) - a SNOMED CT terminology server. 
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
+  * [nhs-numbers ![GitHub Repo Stars](https://img.shields.io/github/stars/uk-fci/nhs-number) ![GitHub last commit](https://img.shields.io/github/last-commit/uk-fci/nhs-number)](https://github.com/uk-fci/nhs-number) - Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.
   * [Node HL7 ![GitHub Repo Stars](https://img.shields.io/github/stars/MatthewVita/node-hl7-complete) ![GitHub last commit](https://img.shields.io/github/last-commit/MatthewVita/node-hl7-complete)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
   * [Node-hl7-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/RedoxEngine/redox-hl7-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/RedoxEngine/redox-hl7-v2)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
   * [php-fhir ![GitHub Repo Stars](https://img.shields.io/github/stars/dcarbone/php-fhir) ![GitHub last commit](https://img.shields.io/github/last-commit/dcarbone/php-fhir)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
@@ -166,12 +169,16 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
 
 ### PHR
+  * [Fasten Health ![GitHub Repo Stars](https://img.shields.io/github/stars/fastenhealth/fasten-onprem) ![GitHub last commit](https://img.shields.io/github/last-commit/fastenhealth/fasten-onprem)](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
   * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
   * [HealthLocker ![GitHub Repo Stars](https://img.shields.io/github/stars/healthlocker/healthlocker) ![GitHub last commit](https://img.shields.io/github/last-commit/healthlocker/healthlocker)](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
 
+### Telemedicine
+   * [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software 
+
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
-  * [LabKey Server](https://www.labkey.org) - Platform for Translational Research.
+  * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
 ### Integration
   * [FHIR Converter ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/FHIR-Converter) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/FHIR-Converter)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
@@ -182,7 +189,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Zato](https://zato.io/en/industry/healthcare/index.html) - A Python-based ESB and integration platform for healthcare interoperability, automation and orchestration.
 
 ### Hardware
-  * [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
   * [Gluco ![GitHub Repo Stars](https://img.shields.io/github/stars/nebulabio/gluco) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulabio/gluco)](https://github.com/nebulabio/gluco) - Glucometer.
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
@@ -204,7 +210,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EDS_NLP ![GitHub Repo Stars](https://img.shields.io/github/stars/aphp/edsnlp) ![GitHub last commit](https://img.shields.io/github/last-commit/aphp/edsnlp)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
   * [eds-scikit ![GitHub Repo Stars](https://img.shields.io/github/stars/aphp/eds-scikit) ![GitHub last commit](https://img.shields.io/github/last-commit/aphp/eds-scikit)](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data. 
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
-  * [Inferno ![GitHub Repo Stars](https://img.shields.io/github/stars/onc-healthit/inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/onc-healthit/inferno)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
   * [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl ![GitHub Repo Stars](https://img.shields.io/github/stars/b2ihealthcare/snow-owl) ![GitHub last commit](https://img.shields.io/github/last-commit/b2ihealthcare/snow-owl)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/synthetichealth/synthea) ![GitHub last commit](https://img.shields.io/github/last-commit/synthetichealth/synthea)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
