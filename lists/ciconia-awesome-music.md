@@ -69,6 +69,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
 * [Éditions Nicolas Sceaux ![GitHub Repo Stars](https://img.shields.io/github/stars/nsceaux/nenuvar) ![GitHub last commit](https://img.shields.io/github/last-commit/nsceaux/nenuvar)](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
 * [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
+* [Lavender Blue Open-Scores ![GitHub Repo Stars](https://img.shields.io/github/stars/madrisan/open-scores) ![GitHub last commit](https://img.shields.io/github/last-commit/madrisan/open-scores)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 * [Mutopia ![GitHub Repo Stars](https://img.shields.io/github/stars/MutopiaProject/MutopiaProject) ![GitHub last commit](https://img.shields.io/github/last-commit/MutopiaProject/MutopiaProject)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 * [wbsoft/lilymusic ![GitHub Repo Stars](https://img.shields.io/github/stars/wbsoft/lilymusic) ![GitHub last commit](https://img.shields.io/github/last-commit/wbsoft/lilymusic)](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
 
