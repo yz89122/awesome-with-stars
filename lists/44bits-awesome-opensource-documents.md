@@ -818,7 +818,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='korean'></a>
 ### Korean
 
-* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 없는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도��� 알기 쉽게 설명하였다.
+* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 ��는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
 * [emacsbook][repo-emacsbook] (cc-nc)
 * 꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 ([Site][site-osdi], cc-nc-nd)
 
