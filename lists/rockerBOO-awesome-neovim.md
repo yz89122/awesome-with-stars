@@ -1192,6 +1192,7 @@ These tools are used externally to Neovim to enhance the experience.
 ### OS-specific
 
 - [chrisgrieser/alfred-neovim-utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help `via Alfred (macOS).
+- [massix/termux.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/massix/termux.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/massix/termux.nvim)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ## Wishlist
 
