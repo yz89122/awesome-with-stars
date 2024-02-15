@@ -154,7 +154,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
-* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
+* [WordPress ![GitHub Repo Stars](https://img.shields.io/github/stars/WordPress/WordPress) ![GitHub last commit](https://img.shields.io/github/last-commit/WordPress/WordPress)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -508,7 +508,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Amp ![GitHub Repo Stars](https://img.shields.io/github/stars/amphp/amp) ![GitHub last commit](https://img.shields.io/github/last-commit/amphp/amp)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 * [Broadway ![GitHub Repo Stars](https://img.shields.io/github/stars/broadway/broadway) ![GitHub last commit](https://img.shields.io/github/last-commit/broadway/broadway)](https://github.com/broadway/broadway) - An event source and CQRS library.
 * [CakePHP Event ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/event) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/event)](https://github.com/cakephp/event) - An event dispatcher library.
-* [Elephant.io ![GitHub Repo Stars](https://img.shields.io/github/stars/Wisembly/Elephant.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Wisembly/Elephant.io)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
+* [Elephant.io ![GitHub Repo Stars](https://img.shields.io/github/stars/ElephantIO/elephant.io) ![GitHub last commit](https://img.shields.io/github/last-commit/ElephantIO/elephant.io)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 * [Evenement ![GitHub Repo Stars](https://img.shields.io/github/stars/igorw/evenement) ![GitHub last commit](https://img.shields.io/github/last-commit/igorw/evenement)](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/event) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/event)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Fast CGI Client ![GitHub Repo Stars](https://img.shields.io/github/stars/hollodotme/fast-cgi-client) ![GitHub last commit](https://img.shields.io/github/last-commit/hollodotme/fast-cgi-client)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket. 
