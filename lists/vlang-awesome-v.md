@@ -183,6 +183,7 @@
 
 ### Database clients
 
+- [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - MongoDB driver for V.
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/Coachonko/redis) ![GitHub last commit](https://img.shields.io/github/last-commit/Coachonko/redis)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vmemcached ![GitHub Repo Stars](https://img.shields.io/github/stars/blacktrub/vmemcached) ![GitHub last commit](https://img.shields.io/github/last-commit/blacktrub/vmemcached)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.

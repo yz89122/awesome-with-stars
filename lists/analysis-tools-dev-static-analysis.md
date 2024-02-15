@@ -1318,6 +1318,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
 
+- [Betterscan.io](https://betterscan.io) — Betterscan.io - Betterscan.io checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional). Free to use in noncommerical way, commercial requires license.
+
 - [biome](https://biomejs.dev) — A toolchain for web projects, aimed to provide functionalities to maintain them. Biome formats and lints code in a fraction of a second. It is the successor to Rome. It is designed to eventually replace Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and others.
 
 - [BugProve](https://www.bugprove.com) :copyright: — BugProve is a firmware analysis platform featuring both static and dynamic analysis techniques to discover memory corruptions, command injections and other classes or common weaknesses in binary code. It also detects vulnerable dependencies, weak cryptographic parameters, misconfigurations, and more.
@@ -1483,8 +1485,6 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [SafeQL](https://safeql.dev) — Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL. SafeQL is an ESLint plugin for writing SQL queries in a type-safe way.
 
 - [SAST Online](https://sast.online/) :copyright: — Check the Android Source code thoroughly to uncover and address potential security concerns and vulnerabilities. Static application security testing (Static Code Analysis) tool Online
-
-- [Scanmycode CE (Community Edition)](http://www.scanmycode.today) — Scanmycode - Code Scanning/SAST/Linting using many tools/Scanners with One Report
 
 - [Scrutinizer](https://scrutinizer-ci.com) :copyright: — A proprietary code quality checker that can be integrated with GitHub.
 
@@ -1840,7 +1840,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Angular ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-eslint/angular-eslint)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 
-- [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint) :warning: ��� An HTML linter for Bootstrap projects.
+- [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint) :warning: — An HTML linter for Bootstrap projects.
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
