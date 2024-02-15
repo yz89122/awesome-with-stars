@@ -1840,7 +1840,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Angular ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-eslint/angular-eslint)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 
-- [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint) :warning: — An HTML linter for Bootstrap projects.
+- [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint) :warning: ��� An HTML linter for Bootstrap projects.
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
