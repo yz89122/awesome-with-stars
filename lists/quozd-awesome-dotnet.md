@@ -1211,6 +1211,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Visual Studio Plugins
 
+* [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
 * [Web Essentials ![GitHub Repo Stars](https://img.shields.io/github/stars/madskristensen/WebEssentials2019) ![GitHub last commit](https://img.shields.io/github/last-commit/madskristensen/WebEssentials2019)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
 * [VsVIM ![GitHub Repo Stars](https://img.shields.io/github/stars/VsVim/VsVim) ![GitHub last commit](https://img.shields.io/github/last-commit/VsVim/VsVim)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
 * [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
