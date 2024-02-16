@@ -924,7 +924,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Kotlin: Game Framework
     - 🎉 [FXGL ![GitHub Repo Stars](https://img.shields.io/github/stars/AlmasB/FXGL) ![GitHub last commit](https://img.shields.io/github/last-commit/AlmasB/FXGL)](https://github.com/AlmasB/FXGL) - Game library for 2D, experimental 3D.
     - 🎉 [Kool ![GitHub Repo Stars](https://img.shields.io/github/stars/fabmax/kool) ![GitHub last commit](https://img.shields.io/github/last-commit/fabmax/kool)](https://github.com/fabmax/kool) - Multi-platform 3D Vulkan / OpenGL graphics engine. [[Examples](https://fabmax.github.io/kool/kool-js/)]
-    - ���� [KTX ![GitHub Repo Stars](https://img.shields.io/github/stars/libktx/ktx) ![GitHub last commit](https://img.shields.io/github/last-commit/libktx/ktx)](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework.
+    - 🎉 [KTX ![GitHub Repo Stars](https://img.shields.io/github/stars/libktx/ktx) ![GitHub last commit](https://img.shields.io/github/last-commit/libktx/ktx)](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework.
 
 ### Pascal
 - 📚 [Awesome Pascal ![GitHub Repo Stars](https://img.shields.io/github/stars/Fr0sT-Brutal/awesome-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/Fr0sT-Brutal/awesome-pascal)](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.

@@ -830,7 +830,7 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating and sharing a development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
-* [DDEV ![GitHub Repo Stars](https://img.shields.io/github/stars/drud/ddev) ![GitHub last commit](https://img.shields.io/github/last-commit/drud/ddev)](https://github.com/drud/ddev) - a local web development environment system for PHP.
+* [DDEV ![GitHub Repo Stars](https://img.shields.io/github/stars/ddev/ddev) ![GitHub last commit](https://img.shields.io/github/last-commit/ddev/ddev)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Docker PHP Extension Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/mlocati/docker-php-extension-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/mlocati/docker-php-extension-installer)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 * [Docksal ![GitHub Repo Stars](https://img.shields.io/github/stars/docksal/docksal) ![GitHub last commit](https://img.shields.io/github/last-commit/docksal/docksal)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
