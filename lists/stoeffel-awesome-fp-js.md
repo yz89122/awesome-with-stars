@@ -89,6 +89,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [ts-pattern ![GitHub Repo Stars](https://img.shields.io/github/stars/gvergnaud/ts-pattern) ![GitHub last commit](https://img.shields.io/github/last-commit/gvergnaud/ts-pattern)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 * [hyogwa ![GitHub Repo Stars](https://img.shields.io/github/stars/ENvironmentSet/hyogwa) ![GitHub last commit](https://img.shields.io/github/last-commit/ENvironmentSet/hyogwa)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 * [Verticalize ![GitHub Repo Stars](https://img.shields.io/github/stars/laurentpayot/verticalize) ![GitHub last commit](https://img.shields.io/github/last-commit/laurentpayot/verticalize)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
+* [PureEval ![GitHub Repo Stars](https://img.shields.io/github/stars/PureEval/PureEval) ![GitHub last commit](https://img.shields.io/github/last-commit/PureEval/PureEval)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
 
 ### Data Structures
 
@@ -145,7 +146,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ## Functional Languages that Compile to JavaScript
 
 * [ClojureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
-* [Elm](http://elm-lang.org/) �� A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
+* [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 * [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 * [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
