@@ -90,6 +90,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [hyogwa ![GitHub Repo Stars](https://img.shields.io/github/stars/ENvironmentSet/hyogwa) ![GitHub last commit](https://img.shields.io/github/last-commit/ENvironmentSet/hyogwa)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 * [Verticalize ![GitHub Repo Stars](https://img.shields.io/github/stars/laurentpayot/verticalize) ![GitHub last commit](https://img.shields.io/github/last-commit/laurentpayot/verticalize)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 * [PureEval ![GitHub Repo Stars](https://img.shields.io/github/stars/PureEval/PureEval) ![GitHub last commit](https://img.shields.io/github/last-commit/PureEval/PureEval)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
+* [context-fp ![GitHub Repo Stars](https://img.shields.io/github/stars/darky/context-fp) ![GitHub last commit](https://img.shields.io/github/last-commit/darky/context-fp)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 
 ### Data Structures
 
