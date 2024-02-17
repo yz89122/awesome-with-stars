@@ -31,6 +31,10 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 ### 2D
 
+#### Godot 4.2
+
+- [Poder Solar ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/poder-solar) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/poder-solar)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+
 #### Godot 3.2+
 
 - [Everplast ![GitHub Repo Stars](https://img.shields.io/github/stars/WraithWinterly/Everplast) ![GitHub last commit](https://img.shields.io/github/last-commit/WraithWinterly/Everplast)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
@@ -75,6 +79,10 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Three Hungry Mice ![GitHub Repo Stars](https://img.shields.io/github/stars/delstuff/threeHungryMice) ![GitHub last commit](https://img.shields.io/github/last-commit/delstuff/threeHungryMice)](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
 ### 3D
+
+#### Godot 4.2
+
+- [LibreAim ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/libre-aim) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/libre-aim)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
 
 #### Godot 3.2+
 
