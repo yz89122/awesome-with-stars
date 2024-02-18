@@ -176,6 +176,7 @@
 - 📚 [Tailkits](https://tailkits.com/) - Curated Tailwind CSS components, templates, UI kits, resources, tools & more.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
 - 📚 [TWC](https://react-twc.vercel.app) - Lightweight library to create reusable React + Tailwind CSS components in one line.
+- 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
@@ -228,7 +229,7 @@
 - 📁 [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 - 📁 [Flowbite Admin Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-admin-dashboard)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
-- ���� [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+- 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/dante-astro-theme)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
@@ -269,7 +270,7 @@
 - 🚀 [Gatsby Serif ![GitHub Repo Stars](https://img.shields.io/github/stars/windedge/gatsby-tailwind-serif) ![GitHub last commit](https://img.shields.io/github/last-commit/windedge/gatsby-tailwind-serif)](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 - 🚀 [Eleventy Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Eleventy-Starter-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Eleventy-Starter-Boilerplate)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
-- 🚀 [Vite + React + Tailwind Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/vite-react-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/vite-react-tailwind-starter)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
+- �� [Vite + React + Tailwind Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/vite-react-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/vite-react-tailwind-starter)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 - 🚀 [Vite + React + TypeScript + Tailwind 3.x starter ![GitHub Repo Stars](https://img.shields.io/github/stars/PDMLab/vite-react-typescript-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/PDMLab/vite-react-typescript-tailwind-starter)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 - 🚀 [Vite + Vue 3.x + Tailwind 2.x Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/web2033/vite-vue3-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/web2033/vite-vue3-tailwind-starter)](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter template using Vite, Vue, Vue Router and Tailwind CSS.
 - 🚀 [Vite + Lit + Tailwind Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/running-grass/starter-lit-with-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/running-grass/starter-lit-with-tailwind)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
@@ -322,7 +323,7 @@
 - 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
-- ���� [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
+- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
 - 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 - 🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
