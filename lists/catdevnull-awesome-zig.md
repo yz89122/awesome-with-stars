@@ -211,6 +211,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [karlseguin/http.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/http.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/http.zig)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 * [zigzap/zap ![GitHub Repo Stars](https://img.shields.io/github/stars/zigzap/zap) ![GitHub last commit](https://img.shields.io/github/last-commit/zigzap/zap)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
+### Messaging
+* [skunkwerks/zamqp ![GitHub Repo Stars](https://img.shields.io/github/stars/skunkwerks/zamqp) ![GitHub last commit](https://img.shields.io/github/last-commit/skunkwerks/zamqp)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
+* [nine-lives-later/zzmq ![GitHub Repo Stars](https://img.shields.io/github/stars/nine-lives-later/zzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/nine-lives-later/zzmq)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ## Web
 * [andrewrk/lua-in-the-browser ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewrk/lua-in-the-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewrk/lua-in-the-browser)](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
