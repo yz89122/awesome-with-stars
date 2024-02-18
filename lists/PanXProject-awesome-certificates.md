@@ -33,6 +33,11 @@ Request it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPr
 <br>
 Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D).
 
+
+<b>Want to contribute to this list?</b>
+<br>
+Fork this [repo ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/fork), make the changes on the `readme.md` file and then open a [new issue ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/compare). Make sure to check out both the [contribution ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) and [pull request ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) guidelines. 
+
 ## Contents
 
 - [Security](#security)
