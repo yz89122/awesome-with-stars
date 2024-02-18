@@ -197,6 +197,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [wabt ![GitHub Repo Stars](https://img.shields.io/github/stars/WebAssembly/wabt) ![GitHub last commit](https://img.shields.io/github/last-commit/WebAssembly/wabt)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen ![GitHub Repo Stars](https://img.shields.io/github/stars/WebAssembly/binaryen) ![GitHub last commit](https://img.shields.io/github/last-commit/WebAssembly/binaryen)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 - [Tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/tauri)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+- [yew-fmt ![GitHub Repo Stars](https://img.shields.io/github/stars/schvv31n/yew-fmt) ![GitHub last commit](https://img.shields.io/github/last-commit/schvv31n/yew-fmt)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
 
 ## Articles
 
