@@ -31,6 +31,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 - [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
+- [**Awesome Bash**][awesome-bash] [![Awesome][awesome-badge]][awesome-bash]
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Shells
@@ -55,7 +56,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shenv ![GitHub Repo Stars](https://img.shields.io/github/stars/shenv/shenv) ![GitHub last commit](https://img.shields.io/github/last-commit/shenv/shenv)](https://github.com/shenv/shenv) - Simple shell version management
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 * [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
-* [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
+* [yash ![GitHub Repo Stars](https://img.shields.io/github/stars/magicant/yash) ![GitHub last commit](https://img.shields.io/github/last-commit/magicant/yash)](https://github.com/magicant/yash) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](https://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
@@ -283,6 +284,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Dropbox-Uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/andreafabrizi/Dropbox-Uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/andreafabrizi/Dropbox-Uploader)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 * [httpie ![GitHub Repo Stars](https://img.shields.io/github/stars/httpie/httpie) ![GitHub last commit](https://img.shields.io/github/last-commit/httpie/httpie)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [HTTPLab ![GitHub Repo Stars](https://img.shields.io/github/stars/gchaincl/httplab) ![GitHub last commit](https://img.shields.io/github/last-commit/gchaincl/httplab)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+* [Kapow! ![GitHub Repo Stars](https://img.shields.io/github/stars/BBVA/kapow) ![GitHub last commit](https://img.shields.io/github/last-commit/BBVA/kapow)](https://github.com/BBVA/kapow) - If you can script it, you can HTTP it.
 * [ngincat ![GitHub Repo Stars](https://img.shields.io/github/stars/jaburns/ngincat) ![GitHub last commit](https://img.shields.io/github/last-commit/jaburns/ngincat)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty ![GitHub Repo Stars](https://img.shields.io/github/stars/micha/resty) ![GitHub last commit](https://img.shields.io/github/last-commit/micha/resty)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http ![GitHub Repo Stars](https://img.shields.io/github/stars/msoap/shell2http) ![GitHub last commit](https://img.shields.io/github/last-commit/msoap/shell2http)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
@@ -463,9 +465,11 @@ Other amazingly awesome lists can be found in [awesome-awesome ![GitHub Repo Sta
 * [awesome-cli-apps ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-cli-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-cli-apps)](https://github.com/agarrharr/awesome-cli-apps)
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
+* [awesome-bash][awesome-bash]
 * [terminals-are-sexy ![GitHub Repo Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy) ![GitHub last commit](https://img.shields.io/github/last-commit/k4m4/terminals-are-sexy)](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
+[awesome-bash]: https://github.com/awesome-lists/awesome-bash
