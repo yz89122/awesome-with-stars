@@ -527,7 +527,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [goroutine-inspect ![GitHub Repo Stars](https://img.shields.io/github/stars/linuxerwang/goroutine-inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/linuxerwang/goroutine-inspect)](https://github.com/linuxerwang/goroutine-inspect) — An interactive tool to analyze Golang goroutine dump.
 
-- [gosec (gas)](https://securego.io) — Inspects source code for security problems by scanning the Go AST.
+- [gosec (gas)](https://securego.io) �� Inspects source code for security problems by scanning the Go AST.
 
 - [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) — Syntactic and semantic analysis similar to the Go compiler.
 
