@@ -13,7 +13,9 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
+<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
+	
+<h2><a href="https://capgo.app/consulting/"> Hire a Capacitor consultant 💪</a></h2>
 </div>
 <br>
 
@@ -129,7 +131,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Navigation bar ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-navigation-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-navigation-bar)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 - [Video Player IVS ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/ivs-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/ivs-player)](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 - [Home indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/home-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/home-indicator)](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-- [Naitve Purchases ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/native-purchases) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/native-purchases)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+- [Native Purchases ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/native-purchases) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/native-purchases)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 
 ## [Capawesome plugins](https://capawesome.io/)
@@ -174,6 +176,7 @@ Independents plugins are listed here.
 
 - [Brother Print ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/capacitor-brotherprint) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/capacitor-brotherprint)](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
 - [Biometric ![GitHub Repo Stars](https://img.shields.io/github/stars/epicshaggy/capacitor-native-biometric) ![GitHub last commit](https://img.shields.io/github/last-commit/epicshaggy/capacitor-native-biometric)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+- [capacitor-plugin-camera ![GitHub Repo Stars](https://img.shields.io/github/stars/xulihang/capacitor-plugin-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/xulihang/capacitor-plugin-camera)](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
 - [Dark mode ![GitHub Repo Stars](https://img.shields.io/github/stars/micahlt/ionicCapacitorDarkMode) ![GitHub last commit](https://img.shields.io/github/last-commit/micahlt/ionicCapacitorDarkMode)](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite ![GitHub Repo Stars](https://img.shields.io/github/stars/jepiqueau/capacitor-data-storage-sqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/jepiqueau/capacitor-data-storage-sqlite)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 - [Document Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/websitebeaver/capacitor-document-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/websitebeaver/capacitor-document-scanner)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
@@ -223,6 +226,7 @@ Independents plugins are listed here.
 - [Zalo login ![GitHub Repo Stars](https://img.shields.io/github/stars/kmasterycsl/capacitor-zalo-login) ![GitHub last commit](https://img.shields.io/github/last-commit/kmasterycsl/capacitor-zalo-login)](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Photo library ![GitHub Repo Stars](https://img.shields.io/github/stars/diiiary/capacitor-plugin-photo-library) ![GitHub last commit](https://img.shields.io/github/last-commit/diiiary/capacitor-plugin-photo-library)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 - [Websocket Client ![GitHub Repo Stars](https://img.shields.io/github/stars/OrdinarySF/capacitor-websocket-client) ![GitHub last commit](https://img.shields.io/github/last-commit/OrdinarySF/capacitor-websocket-client)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+- [Bing Translator ![GitHub Repo Stars](https://img.shields.io/github/stars/sabereen/capacitor-bing-translator) ![GitHub last commit](https://img.shields.io/github/last-commit/sabereen/capacitor-bing-translator)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 
 
 ## Cordova plugins
