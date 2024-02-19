@@ -1710,7 +1710,7 @@ Update Time, five active automations, webhooks.
    * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), three heatmaps, one funnel, 1-month data history
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
-   * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your website or app. Free unlimited time for small projects
+   * [UXtweak.com](https://www.uxtweak.com/) ��� Record and watch how visitors use your website or app. Free unlimited time for small projects
 
 **[⬆️ Back to Top](#table-of-contents)**
 
