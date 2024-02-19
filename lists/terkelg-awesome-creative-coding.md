@@ -133,6 +133,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Canvas-sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/mattdesl/canvas-sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/mattdesl/canvas-sketch)](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 - [AsyncGraphics ![GitHub Repo Stars](https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics) ![GitHub last commit](https://img.shields.io/github/last-commit/heestand-xyz/AsyncGraphics)](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/lygia) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/lygia)](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
+- [Fragment.tools ![GitHub Repo Stars](https://img.shields.io/github/stars/raphaelameaume/fragment) ![GitHub last commit](https://img.shields.io/github/last-commit/raphaelameaume/fragment)](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
 
@@ -393,6 +394,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Procedural Patterns And Noises](http://www.neilblevins.com/art_lessons/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
+- [Morphogenesis ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonwebb/morphogenesis-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonwebb/morphogenesis-resources)](https://github.com/jasonwebb/morphogenesis-resources) - Exploration of how shapes, forms, and patterns emerge in nature.
 
 ## Communities
 
