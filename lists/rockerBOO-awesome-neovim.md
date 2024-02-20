@@ -302,6 +302,7 @@
 - [acksld/nvim-neoclip.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AckslD/nvim-neoclip.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AckslD/nvim-neoclip.lua)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 - [tenxsoydev/karen-yank.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tenxsoydev/karen-yank.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tenxsoydev/karen-yank.nvim)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 - [desdic/macrothis.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/macrothis.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/macrothis.nvim)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+- [kr40/nvim-macros ![GitHub Repo Stars](https://img.shields.io/github/stars/kr40/nvim-macros) ![GitHub last commit](https://img.shields.io/github/last-commit/kr40/nvim-macros)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options. 
 
 ## Marks
 
