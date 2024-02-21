@@ -214,7 +214,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) — Quality metrics for C code.
 
-- [CScout](https://www.spinellis.gr/cscout) :warning: — Complexity and quality metrics for C and C preprocessor code.
+- [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
@@ -238,7 +238,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [LDRA](https://ldra.com) :copyright: — A tool suite including static analysis (TBVISION) to various standards including MISRA C & C++, JSF++ AV, CWE, CERT C, CERT C++ & Custom Rules.
 
-- [MATE](https://galoisinc.github.io/MATE/) :warning: — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
+- [MATE](https://galoisinc.github.io/MATE/) — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
 
 - [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
 
@@ -269,7 +269,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [code-cracker](https://code-cracker.github.io) — An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 
-- [CSharpEssentials ![GitHub Repo Stars](https://img.shields.io/github/stars/DustinCampbell/CSharpEssentials) ![GitHub last commit](https://img.shields.io/github/last-commit/DustinCampbell/CSharpEssentials)](https://github.com/DustinCampbell/CSharpEssentials) :warning: — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
+- [CSharpEssentials ![GitHub Repo Stars](https://img.shields.io/github/stars/DustinCampbell/CSharpEssentials) ![GitHub last commit](https://img.shields.io/github/last-commit/DustinCampbell/CSharpEssentials)](https://github.com/DustinCampbell/CSharpEssentials) — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 
 - [Designite](http://www.designite-tools.com) :copyright: — Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.
 
@@ -314,7 +314,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) — Quality metrics for C code.
 
-- [CScout](https://www.spinellis.gr/cscout) :warning: — Complexity and quality metrics for C and C preprocessor code.
+- [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
@@ -334,7 +334,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [LDRA](https://ldra.com) :copyright: — A tool suite including static analysis (TBVISION) to various standards including MISRA C & C++, JSF++ AV, CWE, CERT C, CERT C++ & Custom Rules.
 
-- [MATE](https://galoisinc.github.io/MATE/) :warning: — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
+- [MATE](https://galoisinc.github.io/MATE/) — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
 
 - [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
 
@@ -366,7 +366,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>CoffeeScript</h2>
 
 
-- [coffeelint](https://coffeelint.github.io/) :warning: — A style checker that helps keep CoffeeScript code clean and consistent.
+- [coffeelint](https://coffeelint.github.io/) — A style checker that helps keep CoffeeScript code clean and consistent.
 
 
 <a name="coldfusion" />
@@ -433,7 +433,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Elm</h2>
 
 
-- [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
+- [elm-analyse](https://stil4m.github.io/elm-analyse) — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 
 - [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
 
@@ -481,7 +481,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
-- [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
+- [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
 
 - [errcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/kisielk/errcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/kisielk/errcheck)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 
@@ -501,13 +501,13 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
 
-- [goast ![GitHub Repo Stars](https://img.shields.io/github/stars/m-mizutani/goast) ![GitHub last commit](https://img.shields.io/github/last-commit/m-mizutani/goast)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+- [goast ![GitHub Repo Stars](https://img.shields.io/github/stars/m-mizutani/goast) ![GitHub last commit](https://img.shields.io/github/last-commit/m-mizutani/goast)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 - [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
 - [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
-- [gocyclo ![GitHub Repo Stars](https://img.shields.io/github/stars/fzipp/gocyclo) ![GitHub last commit](https://img.shields.io/github/last-commit/fzipp/gocyclo)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
+- [gocyclo ![GitHub Repo Stars](https://img.shields.io/github/stars/fzipp/gocyclo) ![GitHub last commit](https://img.shields.io/github/last-commit/fzipp/gocyclo)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
 
 - [gofmt -s](https://golang.org/cmd/gofmt) — Checks if the code is properly formatted and could not be further simplified.
 
@@ -538,9 +538,9 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [interfacer ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
-- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: — Report long lines.
+- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) — Report long lines.
 
-- [maligned ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) :warning: — Detect structs that would take less memory if their fields were sorted.
+- [maligned ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) — Detect structs that would take less memory if their fields were sorted.
 
 - [misspell ![GitHub Repo Stars](https://img.shields.io/github/stars/client9/misspell) ![GitHub last commit](https://img.shields.io/github/last-commit/client9/misspell)](https://github.com/client9/misspell) — Finds commonly misspelled English words.
 
@@ -586,7 +586,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 <h2>Haskell</h2>
 
 
-- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: — Haskell source code formatter
+- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) — Haskell source code formatter
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
@@ -615,6 +615,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 - [ck ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricioaniche/ck) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricioaniche/ck)](https://github.com/mauricioaniche/ck) — Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
 
 - [ckjm](http://www.spinellis.gr/sw/ckjm) — Calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files.
+
+- [Codemodder](https://codemodder.io/) — Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
 
 - [CogniCrypt](https://www.eclipse.org/cognicrypt) — Checks Java source and byte code for incorrect uses of cryptographic APIs.
 
@@ -649,6 +651,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) — Checks dependencies for known, publicly disclosed, vulnerabilities.
 
+- [Pixee](https://pixee.ai) :copyright: — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+
 - [qulice](https://www.qulice.com) — Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
 
 - [RefactorFirst ![GitHub Repo Stars](https://img.shields.io/github/stars/jimbethancourt/RefactorFirst) ![GitHub last commit](https://img.shields.io/github/last-commit/jimbethancourt/RefactorFirst)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
@@ -668,7 +672,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>JavaScript</h2>
 
 
-- [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
+- [aether](http://aetherjs.com) — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
 - [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
@@ -678,11 +682,11 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [DeepScan](https://deepscan.io) :copyright: — An analyzer for JavaScript which targets runtime errors and quality issues rather than coding conventions.
 
-- [es6-plato ![GitHub Repo Stars](https://img.shields.io/github/stars/the-simian/es6-plato) ![GitHub last commit](https://img.shields.io/github/last-commit/the-simian/es6-plato)](https://github.com/the-simian/es6-plato) :warning: — Visualize JavaScript (ES6) source complexity.
+- [es6-plato ![GitHub Repo Stars](https://img.shields.io/github/stars/the-simian/es6-plato) ![GitHub last commit](https://img.shields.io/github/last-commit/the-simian/es6-plato)](https://github.com/the-simian/es6-plato) — Visualize JavaScript (ES6) source complexity.
 
-- [escomplex ![GitHub Repo Stars](https://img.shields.io/github/stars/jared-stilwell/escomplex) ![GitHub last commit](https://img.shields.io/github/last-commit/jared-stilwell/escomplex)](https://github.com/jared-stilwell/escomplex) :warning: — Software complexity analysis of JavaScript-family abstract syntax trees.
+- [escomplex ![GitHub Repo Stars](https://img.shields.io/github/stars/jared-stilwell/escomplex) ![GitHub last commit](https://img.shields.io/github/last-commit/jared-stilwell/escomplex)](https://github.com/jared-stilwell/escomplex) — Software complexity analysis of JavaScript-family abstract syntax trees.
 
-- [Esprima](https://esprima.org) :warning: — ECMAScript parsing infrastructure for multipurpose analysis.
+- [Esprima](https://esprima.org) — ECMAScript parsing infrastructure for multipurpose analysis.
 
 - [flow](https://flow.org) — A static type checker for JavaScript.
 
@@ -762,7 +766,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 
-- [nimfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/FedericoCeratto/nimfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/FedericoCeratto/nimfmt)](https://github.com/FedericoCeratto/nimfmt) :warning: — Nim code formatter / linter / style checker
+- [nimfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/FedericoCeratto/nimfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/FedericoCeratto/nimfmt)](https://github.com/FedericoCeratto/nimfmt) — Nim code formatter / linter / style checker
 
 
 <a name="ocaml" />
@@ -800,7 +804,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
-- [Mondrian](https://trismegiste.github.io/Mondrian) :warning: — A set of static analysis and refactoring tools which use graph theory.
+- [Mondrian](https://trismegiste.github.io/Mondrian) — A set of static analysis and refactoring tools which use graph theory.
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — Automated PHP code review.
 
@@ -830,7 +834,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
 
-- [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
+- [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) — Library emulating the PHP internal reflection.
 
 - [php7cc ![GitHub Repo Stars](https://img.shields.io/github/stars/sstalle/php7cc) ![GitHub last commit](https://img.shields.io/github/last-commit/sstalle/php7cc)](https://github.com/sstalle/php7cc) :warning: — PHP 7 Compatibility Checker.
 
@@ -840,17 +844,17 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHPArkitect ![GitHub Repo Stars](https://img.shields.io/github/stars/phparkitect/arkitect) ![GitHub last commit](https://img.shields.io/github/last-commit/phparkitect/arkitect)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
-- [phpca ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpCodeAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpCodeAnalyzer)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: — Finds usage of non-built-in extensions.
+- [phpca ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpCodeAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpCodeAnalyzer)](https://github.com/wapmorgan/PhpCodeAnalyzer) — Finds usage of non-built-in extensions.
 
-- [phpcpd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpcpd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpcpd)](https://github.com/sebastianbergmann/phpcpd) :warning: — Copy/Paste Detector for PHP code.
+- [phpcpd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpcpd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpcpd)](https://github.com/sebastianbergmann/phpcpd) — Copy/Paste Detector for PHP code.
 
 - [phpdcd ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpdcd) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpdcd)](https://github.com/sebastianbergmann/phpdcd) :warning: — Dead Code Detector (DCD) for PHP code.
 
-- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: — Builds a dependency graph for a project.
+- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) — Builds a dependency graph for a project.
 
 - [PhpDeprecationDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/PhpDeprecationDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/PhpDeprecationDetector)](https://github.com/wapmorgan/PhpDeprecationDetector) — Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.  It finds removed objects (functions, variables, constants and ini-directives),  deprecated functions functionality, and usage of forbidden names or tricks (e.g. reserved identifiers in newer versions).
 
-- [phpdoc-to-typehint ![GitHub Repo Stars](https://img.shields.io/github/stars/dunglas/phpdoc-to-typehint) ![GitHub last commit](https://img.shields.io/github/last-commit/dunglas/phpdoc-to-typehint)](https://github.com/dunglas/phpdoc-to-typehint) :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
+- [phpdoc-to-typehint ![GitHub Repo Stars](https://img.shields.io/github/stars/dunglas/phpdoc-to-typehint) ![GitHub last commit](https://img.shields.io/github/last-commit/dunglas/phpdoc-to-typehint)](https://github.com/dunglas/phpdoc-to-typehint) — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
 
 - [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
 
@@ -868,7 +872,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpqa - jmolivas ![GitHub Repo Stars](https://img.shields.io/github/stars/jmolivas/phpqa) ![GitHub last commit](https://img.shields.io/github/last-commit/jmolivas/phpqa)](https://github.com/jmolivas/phpqa) — PHPQA all-in-one Analyzer CLI tool.
 
-- [phpsa ![GitHub Repo Stars](https://img.shields.io/github/stars/ovr/phpsa) ![GitHub last commit](https://img.shields.io/github/last-commit/ovr/phpsa)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
+- [phpsa ![GitHub Repo Stars](https://img.shields.io/github/stars/ovr/phpsa) ![GitHub last commit](https://img.shields.io/github/last-commit/ovr/phpsa)](https://github.com/ovr/phpsa) — Static analysis tool for PHP.
 
 - [PHPStan](https://phpstan.org) — PHP Static Analysis Tool - discover bugs in your code without running it!
 
@@ -928,9 +932,11 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [Black](https://black.readthedocs.io/en/stable) — The uncompromising Python code formatter.
 
-- [Bowler](https://pybowler.io/) :warning: — Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
+- [Bowler](https://pybowler.io/) — Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
 
-- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+
+- [Codemodder](https://codemodder.io/) — Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
 
 - [cohesion ![GitHub Repo Stars](https://img.shields.io/github/stars/mschwager/cohesion) ![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/cohesion)](https://github.com/mschwager/cohesion) — A tool for measuring Python class cohesion.
 
@@ -946,7 +952,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [flakeheaven](https://pypi.org/project/flakeheaven/) — flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.
 
-- [InspectorTiger ![GitHub Repo Stars](https://img.shields.io/github/stars/thg-consulting/it) ![GitHub last commit](https://img.shields.io/github/last-commit/thg-consulting/it)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
+- [InspectorTiger ![GitHub Repo Stars](https://img.shields.io/github/stars/thg-consulting/it) ![GitHub last commit](https://img.shields.io/github/last-commit/thg-consulting/it)](https://github.com/thg-consulting/it) — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 
 - [jedi](https://jedi.readthedocs.io/en/latest) — Autocompletion/static analysis library for Python.
 
@@ -954,9 +960,11 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [mccabe](https://pypi.org/project/mccabe) — Check McCabe complexity.
 
-- [multilint ![GitHub Repo Stars](https://img.shields.io/github/stars/adamchainz/multilint) ![GitHub last commit](https://img.shields.io/github/last-commit/adamchainz/multilint)](https://github.com/adamchainz/multilint) :warning: — A wrapper around `flake8`, `isort` and `modernize`.
+- [multilint ![GitHub Repo Stars](https://img.shields.io/github/stars/adamchainz/multilint) ![GitHub last commit](https://img.shields.io/github/last-commit/adamchainz/multilint)](https://github.com/adamchainz/multilint) — A wrapper around `flake8`, `isort` and `modernize`.
 
 - [mypy](http://www.mypy-lang.org) — A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType ![GitHub Repo Stars](https://img.shields.io/github/stars/Instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/Instagram/MonkeyType)](https://github.com/Instagram/MonkeyType).
+
+- [Pixee](https://pixee.ai) :copyright: — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/prospector)](https://github.com/PyCQA/prospector) — A wrapper around `pylint`, `pep8`, `mccabe` and others.
 
@@ -1038,7 +1046,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [bundler-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/rubysec/bundler-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/rubysec/bundler-audit)](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database ![GitHub Repo Stars](https://img.shields.io/github/stars/rubysec/ruby-advisory-db) ![GitHub last commit](https://img.shields.io/github/last-commit/rubysec/ruby-advisory-db)](https://github.com/rubysec/ruby-advisory-db).
 
-- [cane ![GitHub Repo Stars](https://img.shields.io/github/stars/square/cane) ![GitHub last commit](https://img.shields.io/github/last-commit/square/cane)](https://github.com/square/cane) :warning: — Code quality threshold checking as part of your build.
+- [cane ![GitHub Repo Stars](https://img.shields.io/github/stars/square/cane) ![GitHub last commit](https://img.shields.io/github/last-commit/square/cane)](https://github.com/square/cane) — Code quality threshold checking as part of your build.
 
 - [Churn ![GitHub Repo Stars](https://img.shields.io/github/stars/danmayer/churn) ![GitHub last commit](https://img.shields.io/github/last-commit/danmayer/churn)](https://github.com/danmayer/churn) — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
 
@@ -1058,7 +1066,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [laser ![GitHub Repo Stars](https://img.shields.io/github/stars/michaeledgar/laser) ![GitHub last commit](https://img.shields.io/github/last-commit/michaeledgar/laser)](https://github.com/michaeledgar/laser) :warning: — Static analysis and style linter for Ruby code.
 
-- [MetricFu ![GitHub Repo Stars](https://img.shields.io/github/stars/metricfu/metric_fu) ![GitHub last commit](https://img.shields.io/github/last-commit/metricfu/metric_fu)](https://github.com/metricfu/metric_fu) :warning: — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+- [MetricFu ![GitHub Repo Stars](https://img.shields.io/github/stars/metricfu/metric_fu) ![GitHub last commit](https://img.shields.io/github/last-commit/metricfu/metric_fu)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 - [pelusa ![GitHub Repo Stars](https://img.shields.io/github/stars/codegram/pelusa) ![GitHub last commit](https://img.shields.io/github/last-commit/codegram/pelusa)](https://github.com/codegram/pelusa) — Static analysis Lint-type tool to improve your OO Ruby code.
 
@@ -1105,7 +1113,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database ![GitHub Repo Stars](https://img.shields.io/github/stars/RustSec/advisory-db) ![GitHub last commit](https://img.shields.io/github/last-commit/RustSec/advisory-db)](https://github.com/RustSec/advisory-db/).
 
-- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) :warning: — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 
 - [cargo-breaking ![GitHub Repo Stars](https://img.shields.io/github/stars/iomentum/cargo-breaking) ![GitHub last commit](https://img.shields.io/github/last-commit/iomentum/cargo-breaking)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
 
@@ -1115,7 +1123,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cargo-expand ![GitHub Repo Stars](https://img.shields.io/github/stars/dtolnay/cargo-expand) ![GitHub last commit](https://img.shields.io/github/last-commit/dtolnay/cargo-expand)](https://github.com/dtolnay/cargo-expand) — Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
 
-- [cargo-inspect ![GitHub Repo Stars](https://img.shields.io/github/stars/mre/cargo-inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/mre/cargo-inspect)](https://github.com/mre/cargo-inspect) :warning: — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
+- [cargo-inspect ![GitHub Repo Stars](https://img.shields.io/github/stars/mre/cargo-inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/mre/cargo-inspect)](https://github.com/mre/cargo-inspect) — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
 
 - [cargo-semver-checks](https://crates.io/crates/cargo-semver-checks) — Scan your Rust crate releases for semver violations. It can be used either directly via the CLI, as a GitHub Action in CI,  or via release managers like `release-plz`. It found semver violations in  [more than 1 in 6 of the top 1000 most-downloaded crates](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/) on crates.io.
 
@@ -1132,20 +1140,20 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [dylint](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy) — A tool for running Rust lints from dynamic libraries. Dylint makes it easy for developers to maintain their own personal lint collections.
 
-- [electrolysis](https://kha.github.io/electrolysis) :warning: — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
+- [electrolysis](https://kha.github.io/electrolysis) — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
 
-- [herbie ![GitHub Repo Stars](https://img.shields.io/github/stars/mcarton/rust-herbie-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/mcarton/rust-herbie-lint)](https://github.com/mcarton/rust-herbie-lint) :warning: — Adds warnings or errors to your crate when using a numerically unstable floating point expression.
+- [herbie ![GitHub Repo Stars](https://img.shields.io/github/stars/mcarton/rust-herbie-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/mcarton/rust-herbie-lint)](https://github.com/mcarton/rust-herbie-lint) — Adds warnings or errors to your crate when using a numerically unstable floating point expression.
 
 - [kani ![GitHub Repo Stars](https://img.shields.io/github/stars/model-checking/kani) ![GitHub last commit](https://img.shields.io/github/last-commit/model-checking/kani)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
 * Memory safety (e.g., null pointer dereferences) * User-specified assertions (i.e., assert!(...)) * The absence of panics (e.g., unwrap() on None values) * The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 
-- [linter-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/AtomLinter/linter-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/AtomLinter/linter-rust)](https://github.com/AtomLinter/linter-rust) :warning: — Linting your Rust-files in Atom, using rustc and cargo.
+- [linter-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/AtomLinter/linter-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/AtomLinter/linter-rust)](https://github.com/AtomLinter/linter-rust) — Linting your Rust-files in Atom, using rustc and cargo.
 
 - [lockbud ![GitHub Repo Stars](https://img.shields.io/github/stars/BurtonQin/lockbud) ![GitHub last commit](https://img.shields.io/github/last-commit/BurtonQin/lockbud)](https://github.com/BurtonQin/lockbud) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
 - [MIRAI ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookexperimental/MIRAI) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/MIRAI)](https://github.com/facebookexperimental/MIRAI) — And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.
 
-- [prae ![GitHub Repo Stars](https://img.shields.io/github/stars/teenjuna/prae) ![GitHub last commit](https://img.shields.io/github/last-commit/teenjuna/prae)](https://github.com/teenjuna/prae) :warning: — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified. 
+- [prae ![GitHub Repo Stars](https://img.shields.io/github/stars/teenjuna/prae) ![GitHub last commit](https://img.shields.io/github/last-commit/teenjuna/prae)](https://github.com/teenjuna/prae) — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified. 
 
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 
@@ -1197,7 +1205,7 @@ It removes a feature of a dependency and then compiles the project to see if it 
 <h2>Scala</h2>
 
 
-- [linter ![GitHub Repo Stars](https://img.shields.io/github/stars/HairyFotr/linter) ![GitHub last commit](https://img.shields.io/github/last-commit/HairyFotr/linter)](https://github.com/HairyFotr/linter) :warning: — Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
+- [linter ![GitHub Repo Stars](https://img.shields.io/github/stars/HairyFotr/linter) ![GitHub last commit](https://img.shields.io/github/last-commit/HairyFotr/linter)](https://github.com/HairyFotr/linter) — Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
 
 - [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 
@@ -1308,7 +1316,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [ArchUnit](https://www.archunit.org) — Unit test your Java or Kotlin architecture.
 
-- [Atom-Beautify](https://atom.io/packages/atom-beautify) :warning: — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
+- [Atom-Beautify](https://atom.io/packages/atom-beautify) — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
 
 - [autocorrect](https://huacnlee.github.io/autocorrect) — A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 
@@ -1334,7 +1342,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Clayton](https://www.getclayton.com/) :copyright: — AI-powered code reviews for Salesforce. Secure your developments, enforce best practice and control your technical debt in real-time.
 
-- [coala](https://coala.io) :warning: — Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default.
+- [coala](https://coala.io) — Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default.
 
 - [Cobra](https://spinroot.com/cobra) :copyright: — Structural source code analyzer by NASA's Jet Propulsion Laboratory.
 
@@ -1378,7 +1386,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
 
-- [cqc ![GitHub Repo Stars](https://img.shields.io/github/stars/xcatliu/cqc) ![GitHub last commit](https://img.shields.io/github/last-commit/xcatliu/cqc)](https://github.com/xcatliu/cqc) :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
+- [cqc ![GitHub Repo Stars](https://img.shields.io/github/stars/xcatliu/cqc) ![GitHub last commit](https://img.shields.io/github/last-commit/xcatliu/cqc)](https://github.com/xcatliu/cqc) — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 
 - [DeepCode](https://www.deepcode.ai) :warning: :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
 
@@ -1404,9 +1412,9 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Goodcheck](https://sider.github.io/goodcheck) — Regexp based customizable linter.
 
-- [goone ![GitHub Repo Stars](https://img.shields.io/github/stars/masibw/goone) ![GitHub last commit](https://img.shields.io/github/last-commit/masibw/goone)](https://github.com/masibw/goone) :warning: — Finds N+1 queries (SQL calls in a for loop) in go code
+- [goone ![GitHub Repo Stars](https://img.shields.io/github/stars/masibw/goone) ![GitHub last commit](https://img.shields.io/github/last-commit/masibw/goone)](https://github.com/masibw/goone) — Finds N+1 queries (SQL calls in a for loop) in go code
 
-- [graudit](http://www.justanotherhacker.com) :warning: — Grep rough audit - source code auditing tool.
+- [graudit](http://www.justanotherhacker.com) — Grep rough audit - source code auditing tool.
 
 - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — Commercial Static Code Analysis.
 
@@ -1416,7 +1424,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [imhotep ![GitHub Repo Stars](https://img.shields.io/github/stars/justinabrahms/imhotep) ![GitHub last commit](https://img.shields.io/github/last-commit/justinabrahms/imhotep)](https://github.com/justinabrahms/imhotep) — Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
 
-- [include-gardener ![GitHub Repo Stars](https://img.shields.io/github/stars/feddischson/include_gardener) ![GitHub last commit](https://img.shields.io/github/last-commit/feddischson/include_gardener)](https://github.com/feddischson/include_gardener) :warning: — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
+- [include-gardener ![GitHub Repo Stars](https://img.shields.io/github/stars/feddischson/include_gardener) ![GitHub last commit](https://img.shields.io/github/last-commit/feddischson/include_gardener)](https://github.com/feddischson/include_gardener) — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 
 - [Infer](https://fbinfer.com) — A static analyzer for Java, C and Objective-C
 
@@ -1434,7 +1442,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [MOPSA](https://mopsa.lip6.fr) — A static analyzer designed to easily reuse abstract domains across widely different languages (such as C and Python).
 
-- [oclint](http://oclint.org) :warning: — A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C.
+- [oclint](http://oclint.org) — A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C.
 
 - [Offensive 360](https://offensive360.com/) :copyright: — Commercial Static Code Analysis system doesn't require building the source code or pre-compilation.
 
@@ -1586,7 +1594,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 <h2>Archive</h2>
 
 
-- [alquitran ![GitHub Repo Stars](https://img.shields.io/github/stars/ferivoz/alquitran) ![GitHub last commit](https://img.shields.io/github/last-commit/ferivoz/alquitran)](https://github.com/ferivoz/alquitran) :warning: — Inspects tar archives and tries to spot portability issues in regard  to POSIX 2017 pax specification and common tar implementations.
+- [alquitran ![GitHub Repo Stars](https://img.shields.io/github/stars/ferivoz/alquitran) ![GitHub last commit](https://img.shields.io/github/last-commit/ferivoz/alquitran)](https://github.com/ferivoz/alquitran) — Inspects tar archives and tries to spot portability issues in regard  to POSIX 2017 pax specification and common tar implementations.
 This project is intended to be used by maintainers of projects who want to offer portable source code archives for as many systems as possible. Checking tar archives with alquitran before publishing them should help spotting issues before they reach distributors and users.
 
 - [packj](https://packj.dev) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
@@ -1616,7 +1624,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [bloaty ![GitHub Repo Stars](https://img.shields.io/github/stars/google/bloaty) ![GitHub last commit](https://img.shields.io/github/last-commit/google/bloaty)](https://github.com/google/bloaty) — Ever wondered what's making your binary big? Bloaty McBloatface will show you a size profile of the binary so you can understand what's taking up space inside. Bloaty performs a deep analysis of the binary. Using custom ELF, DWARF, and Mach-O parsers,  Bloaty aims to accurately attribute every byte of the binary to the symbol or compileunit that produced it.  It will even disassemble the binary looking for references to anonymous data. F
 
-- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) :warning: — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 
 - [cwe_checker ![GitHub Repo Stars](https://img.shields.io/github/stars/fkie-cad/cwe_checker) ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/cwe_checker)](https://github.com/fkie-cad/cwe_checker) — cwe_checker finds vulnerable patterns in binary executables.
 
@@ -1634,7 +1642,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Manalyze ![GitHub Repo Stars](https://img.shields.io/github/stars/JusticeRage/Manalyze) ![GitHub last commit](https://img.shields.io/github/last-commit/JusticeRage/Manalyze)](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
 
-- [mcsema ![GitHub Repo Stars](https://img.shields.io/github/stars/lifting-bits/mcsema) ![GitHub last commit](https://img.shields.io/github/last-commit/lifting-bits/mcsema)](https://github.com/lifting-bits/mcsema) :warning: — Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode. It translates ("lifts") executable binaries from native machine code to LLVM bitcode, which is very useful for performing program analysis methods.
+- [mcsema ![GitHub Repo Stars](https://img.shields.io/github/stars/lifting-bits/mcsema) ![GitHub last commit](https://img.shields.io/github/last-commit/lifting-bits/mcsema)](https://github.com/lifting-bits/mcsema) — Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode. It translates ("lifts") executable binaries from native machine code to LLVM bitcode, which is very useful for performing program analysis methods.
 
 - [Nauz File Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/horsicq/Nauz-File-Detector) ![GitHub last commit](https://img.shields.io/github/last-commit/horsicq/Nauz-File-Detector)](https://github.com/horsicq/Nauz-File-Detector) — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
 
@@ -1670,7 +1678,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Nu Html Checker](https://validator.github.io/validator/) — Helps you catch problems in your HTML/CSS/SVG
 
-- [Parker ![GitHub Repo Stars](https://img.shields.io/github/stars/katiefenn/parker) ![GitHub last commit](https://img.shields.io/github/last-commit/katiefenn/parker)](https://github.com/katiefenn/parker) :warning: — Stylesheet analysis tool.
+- [Parker ![GitHub Repo Stars](https://img.shields.io/github/stars/katiefenn/parker) ![GitHub last commit](https://img.shields.io/github/last-commit/katiefenn/parker)](https://github.com/katiefenn/parker) — Stylesheet analysis tool.
 
 - [PostCSS](https://postcss.org) — A tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
 
@@ -1741,11 +1749,11 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [clair ![GitHub Repo Stars](https://img.shields.io/github/stars/coreos/clair) ![GitHub last commit](https://img.shields.io/github/last-commit/coreos/clair)](https://github.com/coreos/clair) — Vulnerability Static Analysis for Containers.
 
-- [collector ![GitHub Repo Stars](https://img.shields.io/github/stars/banyanops/collector) ![GitHub last commit](https://img.shields.io/github/last-commit/banyanops/collector)](https://github.com/banyanops/collector) :warning: — Run arbitrary scripts inside containers, and gather useful information.
+- [collector ![GitHub Repo Stars](https://img.shields.io/github/stars/banyanops/collector) ![GitHub last commit](https://img.shields.io/github/last-commit/banyanops/collector)](https://github.com/banyanops/collector) — Run arbitrary scripts inside containers, and gather useful information.
 
 - [dagda ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasgranderubio/dagda)](https://github.com/eliasgranderubio/dagda) :warning: — Perform static analysis of known vulnerabilities in docker images/containers.
 
-- [Docker Label Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/garethr/docker-label-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/garethr/docker-label-inspector)](https://github.com/garethr/docker-label-inspector) :warning: — Lint and validate Dockerfile labels.
+- [Docker Label Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/garethr/docker-label-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/garethr/docker-label-inspector)](https://github.com/garethr/docker-label-inspector) — Lint and validate Dockerfile labels.
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
@@ -1840,13 +1848,13 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Angular ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-eslint/angular-eslint)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 
-- [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint) :warning: — An HTML linter for Bootstrap projects.
+- [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint) — An HTML linter for Bootstrap projects.
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
-- [grunt-bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/grunt-bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/grunt-bootlint)](https://github.com/twbs/grunt-bootlint) :warning: — A Grunt wrapper for [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
+- [grunt-bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/grunt-bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/grunt-bootlint)](https://github.com/twbs/grunt-bootlint) — A Grunt wrapper for [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
 
-- [gulp-bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/tschortsch/gulp-bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/tschortsch/gulp-bootlint)](https://github.com/tschortsch/gulp-bootlint) :warning: — A gulp wrapper for [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
+- [gulp-bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/tschortsch/gulp-bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/tschortsch/gulp-bootlint)](https://github.com/tschortsch/gulp-bootlint) — A gulp wrapper for [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
 
 - [HTML Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/philipwalton/html-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/philipwalton/html-inspector)](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector is a code quality tool to help you and your team write better markup.
 
@@ -1953,7 +1961,7 @@ It is inspired by, contains code from and is designed to stay close to [Kubeval]
 <h2>Metalinter</h2>
 
 
-- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
 
 - [flake8 ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/flake8) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/flake8)](https://github.com/PyCQA/flake8) — A wrapper around `pyflakes`, `pycodestyle` and `mccabe`.
 
@@ -1963,7 +1971,7 @@ It is inspired by, contains code from and is designed to stay close to [Kubeval]
 
 - [goreporter ![GitHub Repo Stars](https://img.shields.io/github/stars/360EntSecGroup-Skylar/goreporter) ![GitHub last commit](https://img.shields.io/github/last-commit/360EntSecGroup-Skylar/goreporter)](https://github.com/360EntSecGroup-Skylar/goreporter) — Concurrently runs many linters and normalises their output to a report.
 
-- [multilint ![GitHub Repo Stars](https://img.shields.io/github/stars/adamchainz/multilint) ![GitHub last commit](https://img.shields.io/github/last-commit/adamchainz/multilint)](https://github.com/adamchainz/multilint) :warning: — A wrapper around `flake8`, `isort` and `modernize`.
+- [multilint ![GitHub Repo Stars](https://img.shields.io/github/stars/adamchainz/multilint) ![GitHub last commit](https://img.shields.io/github/last-commit/adamchainz/multilint)](https://github.com/adamchainz/multilint) — A wrapper around `flake8`, `isort` and `modernize`.
 
 - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/prospector)](https://github.com/PyCQA/prospector) — A wrapper around `pylint`, `pep8`, `mccabe` and others.
 
@@ -1974,17 +1982,17 @@ It is inspired by, contains code from and is designed to stay close to [Kubeval]
 
 - [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
 
-- [android-lint-summary](https://passy.github.io/android-lint-summary) :warning: — Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
+- [android-lint-summary](https://passy.github.io/android-lint-summary) — Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
 
 - [FlowDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/secure-software-engineering/FlowDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/secure-software-engineering/FlowDroid)](https://github.com/secure-software-engineering/FlowDroid) — Static taint analysis tool for Android applications.
 
-- [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) :warning: — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
+- [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 
 - [Mariana Trench](https://mariana-tren.ch/) — Our security focused static analysis tool for Android and Java applications. Mariana Trench analyzes Dalvik bytecode and is built to run fast on large codebases (10s of millions of lines of code). It can find vulnerabilities as code changes, before it ever lands in your repository.
 
 - [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
 
-- [paprika ![GitHub Repo Stars](https://img.shields.io/github/stars/GeoffreyHecht/paprika) ![GitHub last commit](https://img.shields.io/github/last-commit/GeoffreyHecht/paprika)](https://github.com/GeoffreyHecht/paprika) :warning: — A toolkit to detect some code smells in analyzed Android applications.
+- [paprika ![GitHub Repo Stars](https://img.shields.io/github/stars/GeoffreyHecht/paprika) ![GitHub last commit](https://img.shields.io/github/last-commit/GeoffreyHecht/paprika)](https://github.com/GeoffreyHecht/paprika) — A toolkit to detect some code smells in analyzed Android applications.
 
 - [qark ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/qark) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/qark)](https://github.com/linkedin/qark) — Tool to look for several security related Android application vulnerabilities.
 
@@ -2079,7 +2087,7 @@ It does this by running periodic diff outputs against heuristically crafted rege
 
 - [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 
-- [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) :warning: — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
+- [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 
 - [kani ![GitHub Repo Stars](https://img.shields.io/github/stars/model-checking/kani) ![GitHub last commit](https://img.shields.io/github/last-commit/model-checking/kani)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
 * Memory safety (e.g., null pointer dereferences) * User-specified assertions (i.e., assert!(...)) * The absence of panics (e.g., unwrap() on None values) * The absence of some types of unexpected behavior (e.g., arithmetic overflows)
@@ -2209,7 +2217,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
-- [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) :warning: — Quick tool for fixing common misspellings, typos in source code.
+- [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
 
 - [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 
