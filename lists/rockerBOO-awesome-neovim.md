@@ -659,6 +659,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ada0l/obsidian/ ![GitHub Repo Stars](https://img.shields.io/github/stars/ada0l/obsidian) ![GitHub last commit](https://img.shields.io/github/last-commit/ada0l/obsidian)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
 - [gsuuon/note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gsuuon/note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gsuuon/note.nvim)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 - [backdround/global-note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/global-note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/global-note.nvim)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
+- [2KAbhishek/tdo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/tdo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/tdo.nvim)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ## Utility
 
