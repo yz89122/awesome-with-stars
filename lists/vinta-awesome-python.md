@@ -19,7 +19,6 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
     - [Code Analysis](#code-analysis)
     - [Command-line Interface Development](#command-line-interface-development)
     - [Command-line Tools](#command-line-tools)
-    - [Compatibility](#compatibility)
     - [Computer Vision](#computer-vision)
     - [Concurrency and Parallelism](#concurrency-and-parallelism)
     - [Configuration](#configuration)
@@ -182,11 +181,11 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 
 *Compile software from source code.*
 
-* [BitBake](https://docs.yoctoproject.org/bitbake/2.4/index.html) - A make-like build tool for embedded Linux.
-* [buildout](http://www.buildout.org/en/latest/) - A build system for creating, assembling and deploying applications from multiple parts.
-* [PlatformIO ![GitHub Repo Stars](https://img.shields.io/github/stars/platformio/platformio-core) ![GitHub last commit](https://img.shields.io/github/last-commit/platformio/platformio-core)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+* [bitbake ![GitHub Repo Stars](https://img.shields.io/github/stars/openembedded/bitbake) ![GitHub last commit](https://img.shields.io/github/last-commit/openembedded/bitbake)](https://github.com/openembedded/bitbake) - A make-like build tool for embedded Linux.
+* [buildout ![GitHub Repo Stars](https://img.shields.io/github/stars/buildout/buildout) ![GitHub last commit](https://img.shields.io/github/last-commit/buildout/buildout)](https://github.com/buildout/buildout) - A build system for creating, assembling and deploying applications from multiple parts.
+* [platformio ![GitHub Repo Stars](https://img.shields.io/github/stars/platformio/platformio-core) ![GitHub last commit](https://img.shields.io/github/last-commit/platformio/platformio-core)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 * [pybuilder ![GitHub Repo Stars](https://img.shields.io/github/stars/pybuilder/pybuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/pybuilder/pybuilder)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
-* [SCons](http://www.scons.org/) - A software construction tool.
+* [SCons ![GitHub Repo Stars](https://img.shields.io/github/stars/SCons/scons) ![GitHub last commit](https://img.shields.io/github/last-commit/SCons/scons)](https://github.com/SCons/scons) - A software construction tool.
 
 ## Built-in Classes Enhancement
 
@@ -202,14 +201,9 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 
 *Content Management Systems.*
 
-* [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
 * [feincms ![GitHub Repo Stars](https://img.shields.io/github/stars/feincms/feincms) ![GitHub last commit](https://img.shields.io/github/last-commit/feincms/feincms)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
 * [indico ![GitHub Repo Stars](https://img.shields.io/github/stars/indico/indico) ![GitHub last commit](https://img.shields.io/github/last-commit/indico/indico)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
-* [Kotti ![GitHub Repo Stars](https://img.shields.io/github/stars/Kotti/Kotti) ![GitHub last commit](https://img.shields.io/github/last-commit/Kotti/Kotti)](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
-* [mezzanine ![GitHub Repo Stars](https://img.shields.io/github/stars/stephenmcd/mezzanine) ![GitHub last commit](https://img.shields.io/github/last-commit/stephenmcd/mezzanine)](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform.
-* [plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
-* [quokka ![GitHub Repo Stars](https://img.shields.io/github/stars/rochacbruno/quokka) ![GitHub last commit](https://img.shields.io/github/last-commit/rochacbruno/quokka)](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB.
-* [wagtail](https://wagtail.io/) - A Django content management system.
+* [wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail)](https://github.com/wagtail/wagtail) - A Django content management system.
 
 ## Caching
 
@@ -218,10 +212,10 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [beaker ![GitHub Repo Stars](https://img.shields.io/github/stars/bbangert/beaker) ![GitHub last commit](https://img.shields.io/github/last-commit/bbangert/beaker)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
 * [django-cache-machine ![GitHub Repo Stars](https://img.shields.io/github/stars/django-cache-machine/django-cache-machine) ![GitHub last commit](https://img.shields.io/github/last-commit/django-cache-machine/django-cache-machine)](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
 * [django-cacheops ![GitHub Repo Stars](https://img.shields.io/github/stars/Suor/django-cacheops) ![GitHub last commit](https://img.shields.io/github/last-commit/Suor/django-cacheops)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-* [dogpile.cache](https://dogpilecache.sqlalchemy.org/en/latest/) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
+* [dogpile.cache ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/dogpile.cache)](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 * [HermesCache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
 * [pylibmc ![GitHub Repo Stars](https://img.shields.io/github/stars/lericson/pylibmc) ![GitHub last commit](https://img.shields.io/github/last-commit/lericson/pylibmc)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
-* [python-diskcache](https://grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
+* [python-diskcache ![GitHub Repo Stars](https://img.shields.io/github/stars/grantjenks/python-diskcache) ![GitHub last commit](https://img.shields.io/github/last-commit/grantjenks/python-diskcache)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
 ## ChatOps Tools
 
@@ -234,25 +228,22 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 *Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/mre/awesome-static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/mre/awesome-static-analysis)](https://github.com/mre/awesome-static-analysis).*
 
 * Code Analysis
-    * [coala ![GitHub Repo Stars](https://img.shields.io/github/stars/coala/coala) ![GitHub last commit](https://img.shields.io/github/last-commit/coala/coala)](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application.
     * [code2flow ![GitHub Repo Stars](https://img.shields.io/github/stars/scottrogowski/code2flow) ![GitHub last commit](https://img.shields.io/github/last-commit/scottrogowski/code2flow)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     * [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/prospector)](https://github.com/PyCQA/prospector) - A tool to analyse Python code.
-    * [pycallgraph ![GitHub Repo Stars](https://img.shields.io/github/stars/gak/pycallgraph) ![GitHub last commit](https://img.shields.io/github/last-commit/gak/pycallgraph)](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
     * [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
 * Code Linters
-    * [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
+    * [flake8 ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/flake8) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/flake8)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         * [awesome-flake8-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/DmytroLitvinov/awesome-flake8-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/DmytroLitvinov/awesome-flake8-extensions)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    * [pylama ![GitHub Repo Stars](https://img.shields.io/github/stars/klen/pylama) ![GitHub last commit](https://img.shields.io/github/last-commit/klen/pylama)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
-    * [pylint](https://pylint.readthedocs.io/en/latest/) - A fully customizable source code analyzer.
-    * [wemake-python-styleguide ![GitHub Repo Stars](https://img.shields.io/github/stars/wemake-services/wemake-python-styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/wemake-services/wemake-python-styleguide)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
+    * [pylint ![GitHub Repo Stars](https://img.shields.io/github/stars/pylint-dev/pylint) ![GitHub last commit](https://img.shields.io/github/last-commit/pylint-dev/pylint)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
 * Code Formatters
-    * [black ![GitHub Repo Stars](https://img.shields.io/github/stars/python/black) ![GitHub last commit](https://img.shields.io/github/last-commit/python/black)](https://github.com/python/black) - The uncompromising Python code formatter.
+    * [black ![GitHub Repo Stars](https://img.shields.io/github/stars/psf/black) ![GitHub last commit](https://img.shields.io/github/last-commit/psf/black)](https://github.com/psf/black) - The uncompromising Python code formatter.
     * [isort ![GitHub Repo Stars](https://img.shields.io/github/stars/timothycrosley/isort) ![GitHub last commit](https://img.shields.io/github/last-commit/timothycrosley/isort)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
     * [yapf ![GitHub Repo Stars](https://img.shields.io/github/stars/google/yapf) ![GitHub last commit](https://img.shields.io/github/last-commit/google/yapf)](https://github.com/google/yapf) - Yet another Python code formatter from Google.
 * Static Type Checkers, also see [awesome-python-typing ![GitHub Repo Stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing)](https://github.com/typeddjango/awesome-python-typing)
-    * [mypy](https://mypy-lang.org/) - Check variable types during compile time.
+    * [mypy ![GitHub Repo Stars](https://img.shields.io/github/stars/python/mypy) ![GitHub last commit](https://img.shields.io/github/last-commit/python/mypy)](https://github.com/python/mypy) - Check variable types during compile time.
     * [pyre-check ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/pyre-check) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/pyre-check)](https://github.com/facebook/pyre-check) - Performant type checking.
     * [typeshed ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typeshed) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typeshed)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+    * [pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 * Static Type Annotations Generators
     * [MonkeyType ![GitHub Repo Stars](https://img.shields.io/github/stars/Instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/Instagram/MonkeyType)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
     * [pytype ![GitHub Repo Stars](https://img.shields.io/github/stars/google/pytype) ![GitHub last commit](https://img.shields.io/github/last-commit/google/pytype)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
@@ -262,18 +253,17 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for building command-line applications.*
 
 * Command-line Application Development
-    * [cement](https://builtoncement.com/) - CLI Application Framework for Python.
+    * [cement ![GitHub Repo Stars](https://img.shields.io/github/stars/datafolklabs/cement) ![GitHub last commit](https://img.shields.io/github/last-commit/datafolklabs/cement)](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
     * [click ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/click) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/click)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
-    * [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
-    * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
+    * [cliff ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/cliff) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/cliff)](https://github.com/openstack/cliff) - A framework for creating command-line programs with multi-level commands.
     * [python-fire ![GitHub Repo Stars](https://img.shields.io/github/stars/google/python-fire) ![GitHub last commit](https://img.shields.io/github/last-commit/google/python-fire)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
-    * [python-prompt-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jonathanslenders/python-prompt-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jonathanslenders/python-prompt-toolkit)](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
+    * [python-prompt-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/prompt-toolkit/python-prompt-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/prompt-toolkit/python-prompt-toolkit)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
 * Terminal Rendering
     * [alive-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/rsalmei/alive-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/rsalmei/alive-progress)](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
     * [asciimatics ![GitHub Repo Stars](https://img.shields.io/github/stars/peterbrittain/asciimatics) ![GitHub last commit](https://img.shields.io/github/last-commit/peterbrittain/asciimatics)](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations).
     * [bashplotlib ![GitHub Repo Stars](https://img.shields.io/github/stars/glamp/bashplotlib) ![GitHub last commit](https://img.shields.io/github/last-commit/glamp/bashplotlib)](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal.
-    * [colorama](https://pypi.org/project/colorama/) - Cross-platform colored terminal text.
-    * [rich ![GitHub Repo Stars](https://img.shields.io/github/stars/willmcgugan/rich) ![GitHub last commit](https://img.shields.io/github/last-commit/willmcgugan/rich)](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
+    * [colorama ![GitHub Repo Stars](https://img.shields.io/github/stars/tartley/colorama) ![GitHub last commit](https://img.shields.io/github/last-commit/tartley/colorama)](https://github.com/tartley/colorama) - Cross-platform colored terminal text.
+    * [rich ![GitHub Repo Stars](https://img.shields.io/github/stars/Textualize/rich) ![GitHub last commit](https://img.shields.io/github/last-commit/Textualize/rich)](https://github.com/Textualize/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
     * [tqdm ![GitHub Repo Stars](https://img.shields.io/github/stars/tqdm/tqdm) ![GitHub last commit](https://img.shields.io/github/last-commit/tqdm/tqdm)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
 ## Command-line Tools
@@ -281,32 +271,21 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 *Useful CLI-based tools for productivity.*
 
 * Productivity Tools
-    * [copier ![GitHub Repo Stars](https://img.shields.io/github/stars/pykong/copier) ![GitHub last commit](https://img.shields.io/github/last-commit/pykong/copier)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
-    * [cookiecutter ![GitHub Repo Stars](https://img.shields.io/github/stars/audreyr/cookiecutter) ![GitHub last commit](https://img.shields.io/github/last-commit/audreyr/cookiecutter)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
+    * [copier ![GitHub Repo Stars](https://img.shields.io/github/stars/copier-org/copier) ![GitHub last commit](https://img.shields.io/github/last-commit/copier-org/copier)](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
+    * [cookiecutter ![GitHub Repo Stars](https://img.shields.io/github/stars/cookiecutter/cookiecutter) ![GitHub last commit](https://img.shields.io/github/last-commit/cookiecutter/cookiecutter)](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     * [doitlive ![GitHub Repo Stars](https://img.shields.io/github/stars/sloria/doitlive) ![GitHub last commit](https://img.shields.io/github/last-commit/sloria/doitlive)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
     * [howdoi ![GitHub Repo Stars](https://img.shields.io/github/stars/gleitz/howdoi) ![GitHub last commit](https://img.shields.io/github/last-commit/gleitz/howdoi)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-    * [Invoke ![GitHub Repo Stars](https://img.shields.io/github/stars/pyinvoke/invoke) ![GitHub last commit](https://img.shields.io/github/last-commit/pyinvoke/invoke)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
+    * [Invoke ![GitHub Repo Stars](https://img.shields.io/github/stars/pyinvoke/invoke) ![GitHub last commit](https://img.shields.io/github/last-commit/pyinvoke/invoke)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
     * [PathPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/PathPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/PathPicker)](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    * [percol ![GitHub Repo Stars](https://img.shields.io/github/stars/mooz/percol) ![GitHub last commit](https://img.shields.io/github/last-commit/mooz/percol)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     * [thefuck ![GitHub Repo Stars](https://img.shields.io/github/stars/nvbn/thefuck) ![GitHub last commit](https://img.shields.io/github/last-commit/nvbn/thefuck)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    * [tmuxp ![GitHub Repo Stars](https://img.shields.io/github/stars/tony/tmuxp) ![GitHub last commit](https://img.shields.io/github/last-commit/tony/tmuxp)](https://github.com/tony/tmuxp) - A [tmux ![GitHub Repo Stars](https://img.shields.io/github/stars/tmux/tmux) ![GitHub last commit](https://img.shields.io/github/last-commit/tmux/tmux)](https://github.com/tmux/tmux) session manager.
+    * [tmuxp ![GitHub Repo Stars](https://img.shields.io/github/stars/tmux-python/tmuxp) ![GitHub last commit](https://img.shields.io/github/last-commit/tmux-python/tmuxp)](https://github.com/tmux-python/tmuxp) - A [tmux ![GitHub Repo Stars](https://img.shields.io/github/stars/tmux/tmux) ![GitHub last commit](https://img.shields.io/github/last-commit/tmux/tmux)](https://github.com/tmux/tmux) session manager.
     * [try ![GitHub Repo Stars](https://img.shields.io/github/stars/timofurrer/try) ![GitHub last commit](https://img.shields.io/github/last-commit/timofurrer/try)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 * CLI Enhancements
-    * [httpie ![GitHub Repo Stars](https://img.shields.io/github/stars/jakubroztocil/httpie) ![GitHub last commit](https://img.shields.io/github/last-commit/jakubroztocil/httpie)](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
+    * [httpie ![GitHub Repo Stars](https://img.shields.io/github/stars/httpie/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/httpie/cli)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
     * [iredis ![GitHub Repo Stars](https://img.shields.io/github/stars/laixintao/iredis) ![GitHub last commit](https://img.shields.io/github/last-commit/laixintao/iredis)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
-    * [kube-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnativelabs/kube-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnativelabs/kube-shell)](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI.
     * [litecli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/litecli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/litecli)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
     * [mycli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/mycli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/mycli)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
     * [pgcli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/pgcli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/pgcli)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
-    * [saws ![GitHub Repo Stars](https://img.shields.io/github/stars/donnemartin/saws) ![GitHub last commit](https://img.shields.io/github/last-commit/donnemartin/saws)](https://github.com/donnemartin/saws) - A Supercharged [aws-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-cli)](https://github.com/aws/aws-cli).
-
-## Compatibility
-
-*Libraries for migrating from Python 2 to 3.*
-
-* [python-future](http://python-future.org/index.html) - The missing compatibility layer between Python 2 and Python 3.
-* [modernize ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/modernize) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/modernize)](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration.
-* [six](https://pypi.org/project/six/) - Python 2 and 3 compatibility utilities.
 
 ## Computer Vision
 

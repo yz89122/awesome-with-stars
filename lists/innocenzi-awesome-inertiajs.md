@@ -84,6 +84,7 @@
 - [Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/stuarth/inertia-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/stuarth/inertia-rs)](https://github.com/stuarth/inertia-rs)
 - [Oak (Deno) ![GitHub Repo Stars](https://img.shields.io/github/stars/jcs224/oak_inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/jcs224/oak_inertia)](https://github.com/jcs224/oak_inertia)
 - [Echo ![GitHub Repo Stars](https://img.shields.io/github/stars/kohkimakimoto/inertia-echo) ![GitHub last commit](https://img.shields.io/github/last-commit/kohkimakimoto/inertia-echo)](https://github.com/kohkimakimoto/inertia-echo)
+- [Grails ![GitHub Repo Stars](https://img.shields.io/github/stars/matrei/grails-inertia-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/matrei/grails-inertia-plugin)](https://github.com/matrei/grails-inertia-plugin)
 
 ## Resources
 
@@ -127,6 +128,7 @@
 - [Ping CRM / Flask ![GitHub Repo Stars](https://img.shields.io/github/stars/j0ack/pingcrm-flask) ![GitHub last commit](https://img.shields.io/github/last-commit/j0ack/pingcrm-flask)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
 - [Ping CRM / Echo ![GitHub Repo Stars](https://img.shields.io/github/stars/kohkimakimoto/pingcrm-echo) ![GitHub last commit](https://img.shields.io/github/last-commit/kohkimakimoto/pingcrm-echo)](https://github.com/kohkimakimoto/pingcrm-echo) - Demonstration application made with Echo and Vue.js.
 - [Ping CRM / Preact ![GitHub Repo Stars](https://img.shields.io/github/stars/jrson83/pingcrm-preact) ![GitHub last commit](https://img.shields.io/github/last-commit/jrson83/pingcrm-preact)](https://github.com/jrson83/pingcrm-preact) - Demonstration application made with Laravel Preact.
+- [Ping CRM / Grails ![GitHub Repo Stars](https://img.shields.io/github/stars/matrei/pingcrm-grails) ![GitHub last commit](https://img.shields.io/github/last-commit/matrei/pingcrm-grails)](https://github.com/matrei/pingcrm-grails) - Demonstration application made with Grails and Vue.js.
 
 ### Other
 
