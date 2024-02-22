@@ -38,6 +38,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
+  - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
   - [Navigation](#navigation)
@@ -439,7 +440,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console ![GitHub Repo Stars](https://img.shields.io/github/stars/barbushin/php-console) ![GitHub last commit](https://img.shields.io/github/last-commit/barbushin/php-console)](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-* [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
 * [Kint ![GitHub Repo Stars](https://img.shields.io/github/stars/kint-php/kint) ![GitHub last commit](https://img.shields.io/github/last-commit/kint-php/kint)](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [Metrics ![GitHub Repo Stars](https://img.shields.io/github/stars/beberlei/metrics) ![GitHub last commit](https://img.shields.io/github/last-commit/beberlei/metrics)](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV ![GitHub Repo Stars](https://img.shields.io/github/stars/krakjoe/pcov) ![GitHub last commit](https://img.shields.io/github/last-commit/krakjoe/pcov)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
@@ -448,12 +448,20 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [PHPBench ![GitHub Repo Stars](https://img.shields.io/github/stars/phpbench/phpbench) ![GitHub last commit](https://img.shields.io/github/last-commit/phpbench/phpbench)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPSpy ![GitHub Repo Stars](https://img.shields.io/github/stars/adsr/phpspy) ![GitHub last commit](https://img.shields.io/github/last-commit/adsr/phpspy)](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 * [Symfony VarDumper ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/var-dumper) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/var-dumper)](https://github.com/symfony/var-dumper) - A variable dumper component.
-* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Tracy ![GitHub Repo Stars](https://img.shields.io/github/stars/nette/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/nette/tracy)](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [Whoops ![GitHub Repo Stars](https://img.shields.io/github/stars/filp/whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/filp/whoops)](https://github.com/filp/whoops) - A pretty error-handling library.
 * [xDebug ![GitHub Repo Stars](https://img.shields.io/github/stars/xdebug/xdebug) ![GitHub last commit](https://img.shields.io/github/last-commit/xdebug/xdebug)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf ![GitHub Repo Stars](https://img.shields.io/github/stars/phacility/xhprof) ![GitHub last commit](https://img.shields.io/github/last-commit/phacility/xhprof)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+
+### Error Tracking and Monitoring Services
+*Self-hosted or cloud-based application performance monitoring & error tracking tools*
+
+* [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+* [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
+* [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
+* [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
+* [Tideways](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Build Tools
 *Project build and automation tools.*
