@@ -315,6 +315,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
+* [Avo CMS for Rails](https://avohq.io/ruby-on-rails-content-management-system) - Avo is a very custom Content Management System for Ruby on Rails that saves engineers and teams months of development time. It's designed to use your app's database structure, uses configuration instead of traditional methods, and when configuration isn't enough, it falls back to writing regular Rails code that you're used to.
 * [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 * [ComfortableMexicanSofa ![GitHub Repo Stars](https://img.shields.io/github/stars/comfy/comfortable-mexican-sofa) ![GitHub last commit](https://img.shields.io/github/last-commit/comfy/comfortable-mexican-sofa)](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
 * [Fae ![GitHub Repo Stars](https://img.shields.io/github/stars/wearefine/fae) ![GitHub last commit](https://img.shields.io/github/last-commit/wearefine/fae)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
