@@ -115,6 +115,7 @@ Premade boilerplates for Fiber.
 - [GalvinGao/gofiber-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GalvinGao/gofiber-template) ![GitHub last commit](https://img.shields.io/github/last-commit/GalvinGao/gofiber-template)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 - [mikhail-bigun/go-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/mikhail-bigun/go-app-template) ![GitHub last commit](https://img.shields.io/github/last-commit/mikhail-bigun/go-app-template)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 - [amrebada/go-modules ![GitHub Repo Stars](https://img.shields.io/github/stars/amrebada/go-modules) ![GitHub last commit](https://img.shields.io/github/last-commit/amrebada/go-modules)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
+- [ingeniousambivert/fiber-bootstrapped ![GitHub Repo Stars](https://img.shields.io/github/stars/ingeniousambivert/fiber-bootstrapped) ![GitHub last commit](https://img.shields.io/github/last-commit/ingeniousambivert/fiber-bootstrapped)](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS. 
 
 
 ## 📁 Recipes
