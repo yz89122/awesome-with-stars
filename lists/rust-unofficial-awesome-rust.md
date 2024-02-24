@@ -381,6 +381,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [illacloud/illa ![GitHub Repo Stars](https://img.shields.io/github/stars/illacloud/illa) ![GitHub last commit](https://img.shields.io/github/last-commit/illacloud/illa)](https://github.com/illacloud/illa) [[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 * [LLDAP ![GitHub Repo Stars](https://img.shields.io/github/stars/lldap/lldap) ![GitHub last commit](https://img.shields.io/github/last-commit/lldap/lldap)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 * [pier-cli/pier ![GitHub Repo Stars](https://img.shields.io/github/stars/pier-cli/pier) ![GitHub last commit](https://img.shields.io/github/last-commit/pier-cli/pier)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+* [yashs662/rust_kanban ![GitHub Repo Stars](https://img.shields.io/github/stars/yashs662/rust_kanban) ![GitHub last commit](https://img.shields.io/github/last-commit/yashs662/rust_kanban)](https://github.com/yashs662/rust_kanban) [[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build ![GitHub Repo Stars](https://img.shields.io/github/stars/yashs662/rust_kanban) ![GitHub last commit](https://img.shields.io/github/last-commit/yashs662/rust_kanban)](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) — A Kanban App for the terminal
 
 ### Routing protocols
 
@@ -532,7 +533,6 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [vaultwarden ![GitHub Repo Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden) ![GitHub last commit](https://img.shields.io/github/last-commit/dani-garcia/vaultwarden)](https://github.com/dani-garcia/vaultwarden#readme) [![Build ![GitHub Repo Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden) ![GitHub last commit](https://img.shields.io/github/last-commit/dani-garcia/vaultwarden)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — Alternative implementation of the Bitwarden server API written in Rust
 * [warpdotdev/Warp ![GitHub Repo Stars](https://img.shields.io/github/stars/warpdotdev/Warp) ![GitHub last commit](https://img.shields.io/github/last-commit/warpdotdev/Warp)](https://github.com/warpdotdev/Warp) :heavy_dollar_sign: — Warp is a blazingly-fast modern GPU-accelerated terminal built to make you and your team more productive.
 * [wrestic ![GitHub Repo Stars](https://img.shields.io/github/stars/alvaro17f/wrestic) ![GitHub last commit](https://img.shields.io/github/last-commit/alvaro17f/wrestic)](https://github.com/alvaro17f/wrestic) —  👽 A wrapper around restic.
-* [yaa110/cb ![GitHub Repo Stars](https://img.shields.io/github/stars/yaa110/cb) ![GitHub last commit](https://img.shields.io/github/last-commit/yaa110/cb)](https://github.com/yaa110/cb) — Command line interface to manage clipboard
 
 ### Video
 

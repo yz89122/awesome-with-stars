@@ -295,7 +295,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 ## Supersets
 * [YAML](https://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [HanSON ![GitHub Repo Stars](https://img.shields.io/github/stars/timjansen/hanson) ![GitHub last commit](https://img.shields.io/github/last-commit/timjansen/hanson)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
-* [��son ![GitHub Repo Stars](https://img.shields.io/github/stars/burningtree/uson) ![GitHub last commit](https://img.shields.io/github/last-commit/burningtree/uson)](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
+* [μson ![GitHub Repo Stars](https://img.shields.io/github/stars/burningtree/uson) ![GitHub last commit](https://img.shields.io/github/last-commit/burningtree/uson)](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
 * [HOCON ![GitHub Repo Stars](https://img.shields.io/github/stars/lightbend/config) ![GitHub last commit](https://img.shields.io/github/last-commit/lightbend/config)](https://github.com/lightbend/config/blob/master/HOCON.md) - Human-Optimized Config Object Notation.
 * [ASON ![GitHub Repo Stars](https://img.shields.io/github/stars/sadmac7000/libason) ![GitHub last commit](https://img.shields.io/github/last-commit/sadmac7000/libason)](https://github.com/sadmac7000/libason) - A semantically complete superset of JSON (draft).
 * [TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/toml-lang/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/toml-lang/toml)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
