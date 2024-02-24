@@ -92,7 +92,6 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Frescobaldi ![GitHub Repo Stars](https://img.shields.io/github/stars/wbsoft/frescobaldi) ![GitHub last commit](https://img.shields.io/github/last-commit/wbsoft/frescobaldi)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
-* [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 * [Inknote ![GitHub Repo Stars](https://img.shields.io/github/stars/MichalPaszkiewicz/inknote) ![GitHub last commit](https://img.shields.io/github/last-commit/MichalPaszkiewicz/inknote)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI ![GitHub Repo Stars](https://img.shields.io/github/stars/DDMAL/libmei) ![GitHub last commit](https://img.shields.io/github/last-commit/DDMAL/libmei)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 * [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
@@ -104,6 +103,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Lyp ![GitHub Repo Stars](https://img.shields.io/github/stars/noteflakes/lyp) ![GitHub last commit](https://img.shields.io/github/last-commit/noteflakes/lyp)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 * [MuseScore ![GitHub Repo Stars](https://img.shields.io/github/stars/musescore/MuseScore) ![GitHub last commit](https://img.shields.io/github/last-commit/musescore/MuseScore)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 * [MusicKit ![GitHub Repo Stars](https://img.shields.io/github/stars/venturemedia/musickit) ![GitHub last commit](https://img.shields.io/github/last-commit/venturemedia/musickit)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+* [neoscore](https://neoscore.org/) - python library for notating music in a graphics-first paradigm.
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib ![GitHub Repo Stars](https://img.shields.io/github/stars/openlilylib/snippets) ![GitHub last commit](https://img.shields.io/github/last-commit/openlilylib/snippets)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [OpenSheetMusicDisplay ![GitHub Repo Stars](https://img.shields.io/github/stars/opensheetmusicdisplay/opensheetmusicdisplay) ![GitHub last commit](https://img.shields.io/github/last-commit/opensheetmusicdisplay/opensheetmusicdisplay)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
