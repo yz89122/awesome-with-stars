@@ -5,7 +5,7 @@
 
 [Contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/blob/main/contributing.md) /
 [Add a course/certificate ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates/compare)
-
+<!-- markdown-link-check-enable -->
 A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate. 
@@ -107,7 +107,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [MongoDB Basics](https://university.mongodb.com/courses/M001/about) | MongoDB |Beginner| 8.5 | 🏆|
 | [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about) | MongoDB |Beginner| 2 | 🏆|
 | [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | 🏆|
-| [MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) | MongoDB |Beginner| 9 | ���|
+| [MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) | MongoDB |Beginner| 9 | 🏆|
 | [Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) | MongoDB |Beginner| 1.5 | 🏆|
 | [Atlas Security](https://university.mongodb.com/courses/A300/about) | MongoDB |Beginner| 0.5 | 🏆|
 | [MongoDB Performance](https://university.mongodb.com/courses/M201/about) | MongoDB |Intermediate| 7 | 🏆|
@@ -118,7 +118,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Diagnostics and Debugging for MongoDB](https://university.mongodb.com/courses/M312/about) | MongoDB |Professional| 6.5 | 🏆|
 | [MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) | MongoDB |Professional| 7 | 🏆|
 | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3     | 🏆     |
-| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4     | 🏆     |
+| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4     | ����     |
 
 
 ## Blockchain
@@ -348,7 +348,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [KICKOFF](https://www.pmi.org/kickoff)<!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
-
+<!-- markdown-link-check-enable -->
 
 ### Support
 
