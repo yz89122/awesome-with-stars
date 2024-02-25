@@ -116,6 +116,7 @@ Premade boilerplates for Fiber.
 - [mikhail-bigun/go-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/mikhail-bigun/go-app-template) ![GitHub last commit](https://img.shields.io/github/last-commit/mikhail-bigun/go-app-template)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 - [amrebada/go-modules ![GitHub Repo Stars](https://img.shields.io/github/stars/amrebada/go-modules) ![GitHub last commit](https://img.shields.io/github/last-commit/amrebada/go-modules)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
 - [ingeniousambivert/fiber-bootstrapped ![GitHub Repo Stars](https://img.shields.io/github/stars/ingeniousambivert/fiber-bootstrapped) ![GitHub last commit](https://img.shields.io/github/last-commit/ingeniousambivert/fiber-bootstrapped)](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS. 
+- [sebajax/go-vertical-slice-architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/sebajax/go-vertical-slice-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/sebajax/go-vertical-slice-architecture)](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
 
 
 ## 📁 Recipes
