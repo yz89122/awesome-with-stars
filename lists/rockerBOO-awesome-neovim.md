@@ -515,6 +515,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [alexmozaidze/palenight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alexmozaidze/palenight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alexmozaidze/palenight.nvim)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins.
 - [scottmckendry/cyberdream.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/scottmckendry/cyberdream.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/scottmckendry/cyberdream.nvim)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
 - [HoNamDuong/hybrid.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/HoNamDuong/hybrid.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/HoNamDuong/hybrid.nvim)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+- [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - A semi-light colorscheme for minimal eye melting.
 
 ### Lua Colorscheme
 
