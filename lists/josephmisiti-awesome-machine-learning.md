@@ -137,6 +137,8 @@ Further resources:
       - [Misc](#ruby-misc)
   - [Rust](#rust)
       - [General-Purpose Machine Learning](#rust-general-purpose-machine-learning)
+      - [Deep Learning](#rust-deep-learning)
+      - [Natural Language Processing](#rust-natural-language-processing)
   - [R](#r)
       - [General-Purpose Machine Learning](#r-general-purpose-machine-learning)
       - [Data Analysis / Data Visualization](#r-data-analysis--data-visualization)
@@ -1388,8 +1390,6 @@ be
 * [Kinho ![GitHub Repo Stars](https://img.shields.io/github/stars/kinhosz/Neural) ![GitHub last commit](https://img.shields.io/github/last-commit/kinhosz/Neural)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
 * [nn_builder ![GitHub Repo Stars](https://img.shields.io/github/stars/p-christ/nn_builder) ![GitHub last commit](https://img.shields.io/github/last-commit/p-christ/nn_builder)](https://github.com/p-christ/nn_builder) - nn_builder is a python package that lets you build neural networks in 1 line
 * [NeuralTalk ![GitHub Repo Stars](https://img.shields.io/github/stars/karpathy/neuraltalk) ![GitHub last commit](https://img.shields.io/github/last-commit/karpathy/neuraltalk)](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
-* [Neuron ![GitHub Repo Stars](https://img.shields.io/github/stars/molcik/python-neuron) ![GitHub last commit](https://img.shields.io/github/last-commit/molcik/python-neuron)](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm.
-
 * [NeuralTalk ![GitHub Repo Stars](https://img.shields.io/github/stars/karpathy/neuraltalk2) ![GitHub last commit](https://img.shields.io/github/last-commit/karpathy/neuraltalk2)](https://github.com/karpathy/neuraltalk2) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. **[Deprecated]**
 * [Neuron ![GitHub Repo Stars](https://img.shields.io/github/stars/molcik/python-neuron) ![GitHub last commit](https://img.shields.io/github/last-commit/molcik/python-neuron)](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm. **[Deprecated]**
 * [Data Driven Code ![GitHub Repo Stars](https://img.shields.io/github/stars/atmb4u/data-driven-code) ![GitHub last commit](https://img.shields.io/github/last-commit/atmb4u/data-driven-code)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
@@ -1521,7 +1521,19 @@ be
 * [leaf ![GitHub Repo Stars](https://img.shields.io/github/stars/autumnai/leaf) ![GitHub last commit](https://img.shields.io/github/last-commit/autumnai/leaf)](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe. Available under the MIT license. [**[Deprecated]**](https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc)
 * [RustNN ![GitHub Repo Stars](https://img.shields.io/github/stars/jackm321/RustNN) ![GitHub last commit](https://img.shields.io/github/last-commit/jackm321/RustNN)](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library. **[Deprecated]**
 * [RusticSOM ![GitHub Repo Stars](https://img.shields.io/github/stars/avinashshenoy97/RusticSOM) ![GitHub last commit](https://img.shields.io/github/last-commit/avinashshenoy97/RusticSOM)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+* [candle ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/candle) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/candle)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+* [linfa ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-ml/linfa) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-ml/linfa)](https://github.com/rust-ml/linfa) - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
 
+#### Deep Learning
+
+* [tch-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/LaurentMazare/tch-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/LaurentMazare/tch-rs)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
+* [dfdx ![GitHub Repo Stars](https://img.shields.io/github/stars/coreylowman/dfdx) ![GitHub last commit](https://img.shields.io/github/last-commit/coreylowman/dfdx)](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
+* [burn ![GitHub Repo Stars](https://img.shields.io/github/stars/tracel-ai/burn) ![GitHub last commit](https://img.shields.io/github/last-commit/tracel-ai/burn)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
+
+#### Natural Language Processing
+
+* [huggingface/tokenizers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/tokenizers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/tokenizers)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
+* [rust-bert ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaume-be/rust-bert) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaume-be/rust-bert)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
 <a name="r"></a>
 ## R
@@ -1761,6 +1773,7 @@ be
 * [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/semi-technologies/weaviate) ![GitHub last commit](https://img.shields.io/github/last-commit/semi-technologies/weaviate)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 * [txtai ![GitHub Repo Stars](https://img.shields.io/github/stars/neuml/txtai) ![GitHub last commit](https://img.shields.io/github/last-commit/neuml/txtai)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 * [MLReef](https://about.mlreef.com/) - MLReef is an end-to-end development platform using the power of git to give structure and deep collaboration possibilities to the ML development process.
+* [Chroma](https://www.trychroma.com/) - Chroma - the AI-native open-source embedding database
 * [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.
 * [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
 * [ML Workspace ![GitHub Repo Stars](https://img.shields.io/github/stars/ml-tooling/ml-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/ml-tooling/ml-workspace)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
