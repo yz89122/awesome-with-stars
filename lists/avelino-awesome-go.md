@@ -1692,6 +1692,7 @@ _Libraries for working with dependency injection._
 
 - [alice ![GitHub Repo Stars](https://img.shields.io/github/stars/magic003/alice) ![GitHub last commit](https://img.shields.io/github/last-commit/magic003/alice)](https://github.com/magic003/alice) - Additive dependency injection container for Golang.
 - [boot-go ![GitHub Repo Stars](https://img.shields.io/github/stars/boot-go/boot) ![GitHub last commit](https://img.shields.io/github/last-commit/boot-go/boot)](http://github.com/boot-go/boot) - Component-based development with dependency injection using reflections for Go developers.
+- [cosban/di](https://gitlab.com/cosban/di) - A code generation based dependency injection wiring tool.
 - [di ![GitHub Repo Stars](https://img.shields.io/github/stars/goava/di) ![GitHub last commit](https://img.shields.io/github/last-commit/goava/di)](https://github.com/goava/di) - A dependency injection container for go programming language.
 - [dig ![GitHub Repo Stars](https://img.shields.io/github/stars/uber-go/dig) ![GitHub last commit](https://img.shields.io/github/last-commit/uber-go/dig)](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [dingo ![GitHub Repo Stars](https://img.shields.io/github/stars/i-love-flamingo/dingo) ![GitHub last commit](https://img.shields.io/github/last-commit/i-love-flamingo/dingo)](https://github.com/i-love-flamingo/dingo) - A dependency injection toolkit for Go, based on Guice.
@@ -1872,6 +1873,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 - [go-localize ![GitHub Repo Stars](https://img.shields.io/github/stars/m1/go-localize) ![GitHub last commit](https://img.shields.io/github/last-commit/m1/go-localize)](https://github.com/m1/go-localize) - Simple and easy to use i18n (Internationalization and localization) engine - used for translating locale strings.
 - [go-mystem ![GitHub Repo Stars](https://img.shields.io/github/stars/dveselov/mystem) ![GitHub last commit](https://img.shields.io/github/last-commit/dveselov/mystem)](https://github.com/dveselov/mystem) - CGo bindings to Yandex.Mystem - russian morphology analyzer.
 - [go-pinyin ![GitHub Repo Stars](https://img.shields.io/github/stars/mozillazg/go-pinyin) ![GitHub last commit](https://img.shields.io/github/last-commit/mozillazg/go-pinyin)](https://github.com/mozillazg/go-pinyin) - CN Hanzi to Hanyu Pinyin converter.
+- [go-words ![GitHub Repo Stars](https://img.shields.io/github/stars/saleh-rahimzadeh/go-words) ![GitHub last commit](https://img.shields.io/github/last-commit/saleh-rahimzadeh/go-words)](https://github.com/saleh-rahimzadeh/go-words) - A words table and text resource library for Golang projects.
 - [gotext ![GitHub Repo Stars](https://img.shields.io/github/stars/leonelquinteros/gotext) ![GitHub last commit](https://img.shields.io/github/last-commit/leonelquinteros/gotext)](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
 - [icu ![GitHub Repo Stars](https://img.shields.io/github/stars/goodsign/icu) ![GitHub last commit](https://img.shields.io/github/last-commit/goodsign/icu)](https://github.com/goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
 - [iuliia-go ![GitHub Repo Stars](https://img.shields.io/github/stars/mehanizm/iuliia-go) ![GitHub last commit](https://img.shields.io/github/last-commit/mehanizm/iuliia-go)](https://github.com/mehanizm/iuliia-go) - Transliterate Cyrillic → Latin in every possible way.
@@ -3619,6 +3621,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://qvault.io/golang/struct-field-ordering-memory/) - How inefficient field ordering in Go structs.
 - [Scaling Go Applications](https://betterstack.com/community/guides/scaling-go/) - Everything about building, deploying and scaling Go applications in production.
 - [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
+- [Understanding Go in a visual way](https://dev.to/aurelievache/series/26234) - Learn Go visually
 - [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 - [Working with Go ![GitHub Repo Stars](https://img.shields.io/github/stars/mkaz/working-with-go) ![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go)](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 - [Your basic Go](https://yourbasic.org/golang) - Huge collection of tutorials and how to's.
