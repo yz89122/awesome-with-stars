@@ -259,6 +259,7 @@
 - [Zeioth/markmap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/markmap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/markmap.nvim)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 - [tadmccorkle/markdown.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tadmccorkle/markdown.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tadmccorkle/markdown.nvim)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 - [mpas/marp-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mpas/marp-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mpas/marp-nvim)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
+- [Myzel394/easytables.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Myzel394/easytables.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Myzel394/easytables.nvim)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### PHP
 
@@ -304,7 +305,7 @@
 - [acksld/nvim-neoclip.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AckslD/nvim-neoclip.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AckslD/nvim-neoclip.lua)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 - [tenxsoydev/karen-yank.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tenxsoydev/karen-yank.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tenxsoydev/karen-yank.nvim)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 - [desdic/macrothis.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/macrothis.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/macrothis.nvim)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
-- [kr40/nvim-macros ![GitHub Repo Stars](https://img.shields.io/github/stars/kr40/nvim-macros) ![GitHub last commit](https://img.shields.io/github/last-commit/kr40/nvim-macros)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options. 
+- [kr40/nvim-macros ![GitHub Repo Stars](https://img.shields.io/github/stars/kr40/nvim-macros) ![GitHub last commit](https://img.shields.io/github/last-commit/kr40/nvim-macros)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
 
 ## Marks
 
@@ -316,6 +317,7 @@
 - [LeonHeidelbach/trailblazer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LeonHeidelbach/trailblazer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LeonHeidelbach/trailblazer.nvim)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
 - [tomasky/bookmarks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tomasky/bookmarks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tomasky/bookmarks.nvim)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 - [LintaoAmons/bookmarks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LintaoAmons/bookmarks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LintaoAmons/bookmarks.nvim)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+- [desdic/marlin.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/marlin.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/marlin.nvim)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
 
 ## Search
 
@@ -516,6 +518,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [scottmckendry/cyberdream.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/scottmckendry/cyberdream.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/scottmckendry/cyberdream.nvim)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
 - [HoNamDuong/hybrid.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/HoNamDuong/hybrid.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/HoNamDuong/hybrid.nvim)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 - [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - A semi-light colorscheme for minimal eye melting.
+- [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
 
 ### Lua Colorscheme
 
@@ -1135,8 +1138,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [p00f/cphelper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/p00f/cphelper.nvim)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
 - [xeluxee/competitest.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
-- [Dhanus3133/Leetbuddy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Dhanus3133/Leetbuddy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Dhanus3133/Leetbuddy.nvim)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
-
+- [kawre/leetcode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kawre/leetcode.nvim)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 ## Workflow
 
 - [m4xshen/hardtime.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m4xshen/hardtime.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m4xshen/hardtime.nvim)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
