@@ -376,7 +376,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## Artifact Repos
 
  * [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
- * [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT, and other build systems.
+ * [central.sonatype.org](https://central.sonatype.org) �� The default artifact repository for Apache Maven, SBT, and other build systems.
  * [cloudrepo.io](https://cloudrepo.io) - Cloud-based, private and public, Maven and PyPi repositories. Free for open-source projects.
  * [cloudsmith.io](https://cloudsmith.io) — Simple, secure, and centralized repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant, and more. Free tier + free for open source.
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
@@ -943,7 +943,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [pepipost.com](https://pepipost.com) — 30k emails free for the first month, then the first 100 emails/day free.
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
-  * [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Logging, Tracking, Webhooks, and more.
+  * [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.
   * [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector, and more.
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
   * [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
@@ -1545,13 +1545,14 @@ Update Time, five active automations, webhooks.
   * [Behance](https://www.behance.net/) - [Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
   * [dribbble](https://dribbble.com/) - [Design showcase] Unique design inspiration, generally not from real applications.
   * [Landings](https://landings.dev/) - [Web Screenshots] Find the best landing pages for your design inspiration based on your preference.
- * [LovelyLanding.net](https://www.lovelylanding.net/) - [Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet, and Mobile screenshots.
+  * [LovelyLanding.net](https://www.lovelylanding.net/) - [Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet, and Mobile screenshots.
   * [Mobbin](https://mobbin.design/) - [Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.
   * [Mobile Patterns](https://www.mobile-patterns.com/) - [Mobile screenshots] A design inspirational library featuring the finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
   * [Screenlane](https://screenlane.com/) - [Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.
   * [scrnshts](https://scrnshts.club/) - [Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
   * [UI Garage](https://uigarage.net/) - [Mobile and web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
   * [Refero](https://refero.design/) - [Web screenshots] Tagged and searchable collection of design references from great web applications.
+  * [Lapa Ninja](https://www.lapa.ninja/) - [Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.
 
 
 [![Back to Top ![GitHub Repo Stars](https://img.shields.io/github/stars/ripienaar/free-for-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/ripienaar/free-for-dev)](https://github.com/ripienaar/free-for-dev/raw/master/assets/Back-To-Top.svg)](#table-of-contents)
