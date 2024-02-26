@@ -117,6 +117,12 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Catspeak ![GitHub Repo Stars](https://img.shields.io/github/stars/katsaii/catspeak-lang) ![GitHub last commit](https://img.shields.io/github/last-commit/katsaii/catspeak-lang)](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [GMBenchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMBenchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMBenchmark)](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [Agenda ![GitHub Repo Stars](https://img.shields.io/github/stars/benal20/Agenda.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/benal20/Agenda.gml)](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
+- [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
+- [Airkiver ![GitHub Repo Stars](https://img.shields.io/github/stars/AlubJ/Airkiver) ![GitHub last commit](https://img.shields.io/github/last-commit/AlubJ/Airkiver)](https://github.com/AlubJ/Airkiver) - Game file archive tool.
+- [OKColor ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/OKColor.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/OKColor.gml)](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
+- [Exception ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/Exception.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/Exception.gml)](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
+- [ArrayList ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/ArrayList.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/ArrayList.gml)](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
+- [GM Sysinfo ![GitHub Repo Stars](https://img.shields.io/github/stars/SpikeHD/gm-sysinfo) ![GitHub last commit](https://img.shields.io/github/last-commit/SpikeHD/gm-sysinfo)](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
 
 ## Debugging
 
@@ -129,6 +135,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Meta ![GitHub Repo Stars](https://img.shields.io/github/stars/nommiin/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/nommiin/meta)](https://github.com/nommiin/meta) - Runtime asset inspector.
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck ![GitHub Repo Stars](https://img.shields.io/github/stars/imlazyeye/duck) ![GitHub last commit](https://img.shields.io/github/last-commit/imlazyeye/duck)](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
+- [Gobo ![GitHub Repo Stars](https://img.shields.io/github/stars/Pizzaandy/Gobo) ![GitHub last commit](https://img.shields.io/github/last-commit/Pizzaandy/Gobo)](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
+- [Inspectron ![GitHub Repo Stars](https://img.shields.io/github/stars/shdwcat/Inspectron) ![GitHub last commit](https://img.shields.io/github/last-commit/shdwcat/Inspectron)](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 
 ## Input Handling
 
@@ -170,6 +178,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [lexicon ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/lexicon) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/lexicon)](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
 - [GMLocalize ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMLocalize2) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMLocalize2)](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 - [Small Pentapop Localization Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/AntonBergaker/small_pp_localization_tool) ![GitHub last commit](https://img.shields.io/github/last-commit/AntonBergaker/small_pp_localization_tool)](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
+- [gms2-mofile ![GitHub Repo Stars](https://img.shields.io/github/stars/pmarincak/gms2-mofile) ![GitHub last commit](https://img.shields.io/github/last-commit/pmarincak/gms2-mofile)](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
 
 ## Physics
 
@@ -221,6 +230,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
 - [Particles Wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/GamemakerCasts/particles) ![GitHub last commit](https://img.shields.io/github/last-commit/GamemakerCasts/particles)](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
 - [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
+- [Pulse ![GitHub Repo Stars](https://img.shields.io/github/stars/Delfos1/Pulse) ![GitHub last commit](https://img.shields.io/github/last-commit/Delfos1/Pulse)](https://github.com/Delfos1/Pulse) - A library to create more complex particle emitters, systems and particles.
+- [Burrn ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxyOfJungle/Burrn) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxyOfJungle/Burrn)](https://github.com/FoxyOfJungle/Burrn) - Built-in particle system that uses the particle asset built into the IDE.
 
 ## Lighting
 
@@ -316,6 +327,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [DuplicateSequence ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/DuplicateSequence.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/DuplicateSequence.gml)](https://github.com/KeeVeeGames/DuplicateSequence.gml) - Make a deep copy of sequence assets/structs for editing at runtime.
 
 ## State Machines
 
@@ -324,6 +336,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
 - [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
 - [Pinocchio ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Pinocchio) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Pinocchio)](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
+- [BehaviorTree ![GitHub Repo Stars](https://img.shields.io/github/stars/Gizmo199/BehaviorTree) ![GitHub last commit](https://img.shields.io/github/last-commit/Gizmo199/BehaviorTree)](https://github.com/Gizmo199/BehaviorTree) - A simple behavior tree system.
 
 ## Pathing
 
@@ -357,12 +370,16 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [vim-GML ![GitHub Repo Stars](https://img.shields.io/github/stars/JafarDakhan/vim-gml) ![GitHub last commit](https://img.shields.io/github/last-commit/JafarDakhan/vim-gml)](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
+- [Tome ![GitHub Repo Stars](https://img.shields.io/github/stars/chesrowe/Tome) ![GitHub last commit](https://img.shields.io/github/last-commit/chesrowe/Tome)](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
 
 ## Blogs
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
+- [Tony Str](https://tonystr.net/articles) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
+- [Thoughts On GameMaker ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/ThoughtsOnGameMaker) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/ThoughtsOnGameMaker)](https://github.com/JujuAdams/ThoughtsOnGameMaker) - Not a traditional blog but has great info on different GML techniques.
+- [ApathyHill](https://apathyhill.com/blog/category/gamemaker) - Some articles on GameMaker 3D, noise, sprite trails, and a few others.
 
 ## YouTube
 
