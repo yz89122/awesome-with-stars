@@ -26,6 +26,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Forms](#forms)
   - [Testing](#testing)
   - [Modeladmin](#modeladmin)
+  - [Asynchronous (tasks)](#asynchronous-tasks)
   - [Misc](#misc)
 - [Tools](#tools)
   - [Templates & Starter Kits](#templates--starter-kits)
@@ -188,6 +189,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-admin-list-controls ![GitHub Repo Stars](https://img.shields.io/github/stars/ixc/wagtail-admin-list-controls) ![GitHub last commit](https://img.shields.io/github/last-commit/ixc/wagtail-admin-list-controls)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 - [wagtail-rangefilter ![GitHub Repo Stars](https://img.shields.io/github/stars/wunderweiss/wagtail-rangefilter) ![GitHub last commit](https://img.shields.io/github/last-commit/wunderweiss/wagtail-rangefilter)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 - [wagtail-treemodeladmin ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/wagtail-treemodeladmin) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/wagtail-treemodeladmin)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
+
+### Asynchronous (tasks)
+
+- [Wagtail Celery Beat ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigel2392/wagtail_celery_beat) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigel2392/wagtail_celery_beat)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
 
 ### Misc
 
