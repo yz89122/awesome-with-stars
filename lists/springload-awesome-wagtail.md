@@ -85,6 +85,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-generic-chooser ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail-generic-chooser) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail-generic-chooser)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 - [wagtail-multi-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/spapas/wagtail-multi-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/spapas/wagtail-multi-upload)](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 - [wagtail-color-panel ![GitHub Repo Stars](https://img.shields.io/github/stars/marteinn/wagtail-color-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/marteinn/wagtail-color-panel)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
+- [Wagtail Ace Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigel2392/wagtail_ace_editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigel2392/wagtail_ace_editor)](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
 
 ### StreamField
 
@@ -214,6 +215,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Secret Sharing ![GitHub Repo Stars](https://img.shields.io/github/stars/vicktornl/wagtail-secret-sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/vicktornl/wagtail-secret-sharing)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 - [Wagtail Cache Invalidator ![GitHub Repo Stars](https://img.shields.io/github/stars/vicktornl/wagtail-cache-invalidator) ![GitHub last commit](https://img.shields.io/github/last-commit/vicktornl/wagtail-cache-invalidator)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 - [Wagtail Headless Preview ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-headless-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-headless-preview)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+- [Wagtail Word ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigel2392/wagtail_word) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigel2392/wagtail_word)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
 
 ## Tools
 
