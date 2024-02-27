@@ -376,7 +376,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## Artifact Repos
 
  * [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
- * [central.sonatype.org](https://central.sonatype.org) �� The default artifact repository for Apache Maven, SBT, and other build systems.
+ * [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT, and other build systems.
  * [cloudrepo.io](https://cloudrepo.io) - Cloud-based, private and public, Maven and PyPi repositories. Free for open-source projects.
  * [cloudsmith.io](https://cloudsmith.io) — Simple, secure, and centralized repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant, and more. Free tier + free for open source.
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
@@ -581,7 +581,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32-bit and 64-bit) - all in one place
   * [LayerCI](https://layerci.com) — CI for full stack projects. One full stack preview environment with 5GB memory & 3 CPUs.
-  * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
+  * [semaphoreci.com](https://semaphoreci.com/) ��� Free for Open Source, 100 private builds per month
   * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [Mergify](https://mergify.io) — workflow automation and merge queue for GitHub — Free for public GitHub repositories
