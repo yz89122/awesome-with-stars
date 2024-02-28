@@ -764,6 +764,7 @@
 - [Strapi ![GitHub Repo Stars](https://img.shields.io/github/stars/strapi/strapi) ![GitHub last commit](https://img.shields.io/github/last-commit/strapi/strapi)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 - [Factor ![GitHub Repo Stars](https://img.shields.io/github/stars/FactorJS/factor) ![GitHub last commit](https://img.shields.io/github/last-commit/FactorJS/factor)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 - [AdminBro ![GitHub Repo Stars](https://img.shields.io/github/stars/SoftwareBrothers/adminjs) ![GitHub last commit](https://img.shields.io/github/last-commit/SoftwareBrothers/adminjs)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
+- [Graphweaver ![GitHub Repo Stars](https://img.shields.io/github/stars/exogee-technology/graphweaver) ![GitHub last commit](https://img.shields.io/github/last-commit/exogee-technology/graphweaver)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ### Forum
 
