@@ -3085,7 +3085,7 @@ _Source code analysis tools, also known as Static Application Security Testing (
 - [vacuum ![GitHub Repo Stars](https://img.shields.io/github/stars/daveshanley/vacuum) ![GitHub last commit](https://img.shields.io/github/last-commit/daveshanley/vacuum)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 - [validate ![GitHub Repo Stars](https://img.shields.io/github/stars/mccoyst/validate) ![GitHub last commit](https://img.shields.io/github/last-commit/mccoyst/validate)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Editor Plugins
 
