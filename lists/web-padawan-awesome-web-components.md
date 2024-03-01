@@ -389,6 +389,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [slim.js ![GitHub Repo Stars](https://img.shields.io/github/stars/slimjs/slim.js) ![GitHub last commit](https://img.shields.io/github/last-commit/slimjs/slim.js)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/stencil) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/stencil)](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 - [Tonic ![GitHub Repo Stars](https://img.shields.io/github/stars/optoolco/tonic) ![GitHub last commit](https://img.shields.io/github/last-commit/optoolco/tonic)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+- [WebCell ![GitHub Repo Stars](https://img.shields.io/github/stars/EasyWebApp/WebCell) ![GitHub last commit](https://img.shields.io/github/last-commit/EasyWebApp/WebCell)](https://github.com/EasyWebApp/WebCell) - Web Components engine based on VDOM, JSX, MobX & TypeScript.
 
 ### Functional
 

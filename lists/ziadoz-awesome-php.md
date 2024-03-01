@@ -620,7 +620,6 @@ Libraries to help manage database schemas and migrations.
 *Libraries related to the command line.*
 
 * [Aura.Cli ![GitHub Repo Stars](https://img.shields.io/github/stars/auraphp/Aura.Cli) ![GitHub last commit](https://img.shields.io/github/last-commit/auraphp/Aura.Cli)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
-* [Boris ![GitHub Repo Stars](https://img.shields.io/github/stars/borisrepl/boris) ![GitHub last commit](https://img.shields.io/github/last-commit/borisrepl/boris)](https://github.com/borisrepl/boris) - A tiny PHP REPL.
 * [Cilex ![GitHub Repo Stars](https://img.shields.io/github/stars/Cilex/Cilex) ![GitHub last commit](https://img.shields.io/github/last-commit/Cilex/Cilex)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLI Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/php-school/cli-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/php-school/cli-menu)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
 * [CLIFramework ![GitHub Repo Stars](https://img.shields.io/github/stars/c9s/CLIFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/c9s/CLIFramework)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
