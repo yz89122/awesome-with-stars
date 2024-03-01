@@ -169,6 +169,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI ![GitHub Repo Stars](https://img.shields.io/github/stars/Xpitfire/symbolicai) ![GitHub last commit](https://img.shields.io/github/last-commit/Xpitfire/symbolicai)](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
+- [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 
 ## Agents
 
