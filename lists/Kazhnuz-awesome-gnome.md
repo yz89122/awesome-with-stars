@@ -174,7 +174,8 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
-- [Lan Mouse ![GitHub Repo Stars](https://img.shields.io/github/stars/feschber/lan-mouse) ![GitHub last commit](https://img.shields.io/github/last-commit/feschber/lan-mouse)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
+- [Lan Mouse ![GitHub Repo Stars](https://img.shields.io/github/stars/feschber/lan-mouse) ![GitHub last commit](https://img.shields.io/github/last-commit/feschber/lan-mouse)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+- [Moussam ![GitHub Repo Stars](https://img.shields.io/github/stars/amit9838/mousam) ![GitHub last commit](https://img.shields.io/github/last-commit/amit9838/mousam)](https://github.com/amit9838/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 
 ### Security and Privacy
 
