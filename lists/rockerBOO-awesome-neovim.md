@@ -335,6 +335,7 @@
 - [duane9/nvim-rg ![GitHub Repo Stars](https://img.shields.io/github/stars/duane9/nvim-rg) ![GitHub last commit](https://img.shields.io/github/last-commit/duane9/nvim-rg)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 - [FabianWirth/search.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/FabianWirth/search.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/FabianWirth/search.nvim)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
 - [backdround/improved-search.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/improved-search.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/improved-search.nvim)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
+- [polirritmico/telescope-lazy-plugins.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/polirritmico/telescope-lazy-plugins.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/polirritmico/telescope-lazy-plugins.nvim)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 
 ## Fuzzy Finder
 
