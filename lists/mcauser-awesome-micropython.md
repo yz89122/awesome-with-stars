@@ -27,6 +27,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Storage](#storage)
   * [Threading](#threading)
   * [User Interface](#user-interface)
+  * [Utilities](#utilities)
 * [Community](#community)
 * [Tutorials](#tutorials)
 * [Books](#books)
@@ -763,7 +764,7 @@ Other places you can look for MicroPython Libraries:
 * [pms5003_micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinkk525/pms5003_micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinkk525/pms5003_micropython)](https://github.com/kevinkk525/pms5003_micropython) - Driver for PMS5003 air quality sensor for MicroPython.
 * [micropython-pms5003-minimal ![GitHub Repo Stars](https://img.shields.io/github/stars/miketeachman/micropython-pms5003-minimal) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-pms5003-minimal)](https://github.com/miketeachman/micropython-pms5003-minimal) - Driver for P air quality sensor for MicroPython.
 * [polly ![GitHub Repo Stars](https://img.shields.io/github/stars/g-sam/polly) ![GitHub last commit](https://img.shields.io/github/last-commit/g-sam/polly)](https://github.com/g-sam/polly) - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.
-* [micropython-SNGCJA5 ![GitHub Repo Stars](https://img.shields.io/github/stars/aleppax/micropython-SNGCJA5) ![GitHub last commit](https://img.shields.io/github/last-commit/aleppax/micropython-SNGCJA5)](https://github.com/aleppax/micropython-SNGCJA5) - Micropython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
+* [micropython-SNGCJA5 ![GitHub Repo Stars](https://img.shields.io/github/stars/aleppax/micropython-SNGCJA5) ![GitHub last commit](https://img.shields.io/github/last-commit/aleppax/micropython-SNGCJA5)](https://github.com/aleppax/micropython-SNGCJA5) - MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
 
 #### Barometer
 
@@ -1035,6 +1036,10 @@ Other places you can look for MicroPython Libraries:
 
 ### Storage
 
+#### Configuration file
+
+* [uPyftsConf ![GitHub Repo Stars](https://img.shields.io/github/stars/aleppax/upyftsconf) ![GitHub last commit](https://img.shields.io/github/last-commit/aleppax/upyftsconf)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+
 #### Database
 
 * [uPyMySQL ![GitHub Repo Stars](https://img.shields.io/github/stars/dvrhax/uPyMySQL) ![GitHub last commit](https://img.shields.io/github/last-commit/dvrhax/uPyMySQL)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
@@ -1080,6 +1085,10 @@ Other places you can look for MicroPython Libraries:
 ### User Interface
 
 * [upymenu ![GitHub Repo Stars](https://img.shields.io/github/stars/jplattel/upymenu) ![GitHub last commit](https://img.shields.io/github/last-commit/jplattel/upymenu)](https://github.com/jplattel/upymenu) - MicroPython Menu for LCD Displays.
+
+### Utilities
+
+* [micropython-hexdump ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-hexdump) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-hexdump)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
 
 ## Community
 
