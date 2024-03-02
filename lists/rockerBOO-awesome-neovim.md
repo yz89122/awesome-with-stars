@@ -767,6 +767,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [niuiic/terminal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/terminal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/terminal.nvim)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 - [RAprogramm/nekifoch ![GitHub Repo Stars](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![GitHub last commit](https://img.shields.io/github/last-commit/RAprogramm/nekifoch)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 - [2KAbhishek/termim.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/termim.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/termim.nvim)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+- [samharju/yeet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/samharju/yeet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/samharju/yeet.nvim)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
 
 ## Debugging
 
