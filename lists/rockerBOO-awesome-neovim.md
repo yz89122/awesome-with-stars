@@ -405,6 +405,7 @@
 - [Mr-LLLLL/interestingwords.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/interestingwords.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/interestingwords.nvim)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 - [echasnovski/mini.nvim#mini.hipatterns ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 - [miversen33/sunglasses.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/miversen33/sunglasses.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/miversen33/sunglasses.nvim)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+- [rasulomaroff/reactive.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rasulomaroff/reactive.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rasulomaroff/reactive.nvim)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 
 ## Colorscheme
 
@@ -521,6 +522,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [HoNamDuong/hybrid.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/HoNamDuong/hybrid.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/HoNamDuong/hybrid.nvim)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 - [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - A semi-light colorscheme for minimal eye melting.
 - [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
+- [samharju/synthweave.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/samharju/synthweave.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/samharju/synthweave.nvim)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
 
 ### Lua Colorscheme
 
