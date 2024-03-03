@@ -1711,6 +1711,7 @@ _Libraries for working with dependency injection._
 - [kod ![GitHub Repo Stars](https://img.shields.io/github/stars/go-kod/kod) ![GitHub last commit](https://img.shields.io/github/last-commit/go-kod/kod)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
 - [linker ![GitHub Repo Stars](https://img.shields.io/github/stars/logrange/linker) ![GitHub last commit](https://img.shields.io/github/last-commit/logrange/linker)](https://github.com/logrange/linker) - A reflection based dependency injection and inversion of control library with components lifecycle support.
 - [nject ![GitHub Repo Stars](https://img.shields.io/github/stars/muir/nject) ![GitHub last commit](https://img.shields.io/github/last-commit/muir/nject)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
+- [ore ![GitHub Repo Stars](https://img.shields.io/github/stars/firasdarwish/ore) ![GitHub last commit](https://img.shields.io/github/last-commit/firasdarwish/ore)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 - [wire ![GitHub Repo Stars](https://img.shields.io/github/stars/Fs02/wire) ![GitHub last commit](https://img.shields.io/github/last-commit/Fs02/wire)](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
 
 **[⬆ back to top](#contents)**
