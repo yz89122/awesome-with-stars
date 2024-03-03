@@ -357,19 +357,15 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ![GitHub Repo Stars](https://img.shields.io/github/stars/jedisct1/libsodium) ![GitHub last commit](https://img.shields.io/github/last-commit/jedisct1/libsodium)](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ![GitHub Repo Stars](https://img.shields.io/github/stars/ezyang/htmlpurifier) ![GitHub last commit](https://img.shields.io/github/last-commit/ezyang/htmlpurifier)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-* [IniScan ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/iniscan) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/iniscan)](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/jenssegers/optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/jenssegers/optimus)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
+* [OWASP](https://owasp.org/) - Explore the world of cyber security.
 * [PHPGGC ![GitHub Repo Stars](https://img.shields.io/github/stars/ambionics/phpggc) ![GitHub last commit](https://img.shields.io/github/last-commit/ambionics/phpggc)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 * [PHP Encryption ![GitHub Repo Stars](https://img.shields.io/github/stars/defuse/php-encryption) ![GitHub last commit](https://img.shields.io/github/last-commit/defuse/php-encryption)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-* [PHP SSH ![GitHub Repo Stars](https://img.shields.io/github/stars/Herzult/php-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/Herzult/php-ssh)](https://github.com/Herzult/php-ssh) - An experimental object-orientated SSH wrapper library.
 * [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
 * [random_compat ![GitHub Repo Stars](https://img.shields.io/github/stars/paragonie/random_compat) ![GitHub last commit](https://img.shields.io/github/last-commit/paragonie/random_compat)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
-* [RandomLib ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/RandomLib) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/RandomLib)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [SQLMap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
-* [TCrypto ![GitHub Repo Stars](https://img.shields.io/github/stars/timoh6/TCrypto) ![GitHub last commit](https://img.shields.io/github/last-commit/timoh6/TCrypto)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
-* [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-* [Zap ![GitHub Repo Stars](https://img.shields.io/github/stars/OWASP/www-project-zap) ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/www-project-zap)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
+* [Zap ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
