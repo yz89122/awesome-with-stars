@@ -208,6 +208,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JSON 3](https://bestiejs.github.io/json3/) - A modern implementation.
 * [oboe.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhigson/oboe.js) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhigson/oboe.js)](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 * [FracturedJsonJs](https://www.npmjs.com/package/fracturedjsonjs) - A JSON formatter that produces human-readable but fairly compact output.
+* [JsonHilo ![GitHub Repo Stars](https://img.shields.io/github/stars/xtao-org/jsonhilo) ![GitHub last commit](https://img.shields.io/github/last-commit/xtao-org/jsonhilo)](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
 
 **Objective-C**
 * [JSONKit ![GitHub Repo Stars](https://img.shields.io/github/stars/johnezang/JSONKit) ![GitHub last commit](https://img.shields.io/github/last-commit/johnezang/JSONKit)](https://github.com/johnezang/JSONKit) - Objective-C library.
