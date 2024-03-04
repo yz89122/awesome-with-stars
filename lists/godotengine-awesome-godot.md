@@ -237,6 +237,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 #### Godot 4.2+
 
 - [AnimatedShape2D ![GitHub Repo Stars](https://img.shields.io/github/stars/Goutte/godot-addon-animated-shape-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/Goutte/godot-addon-animated-shape-2d)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+- [LimboAI ![GitHub Repo Stars](https://img.shields.io/github/stars/limbonaut/limboai) ![GitHub last commit](https://img.shields.io/github/last-commit/limbonaut/limboai)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 
 #### Godot 3.2+
 
