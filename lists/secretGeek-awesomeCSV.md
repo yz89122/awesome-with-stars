@@ -34,7 +34,7 @@ Here are some awesome tools for dealing with CSV:
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv ![GitHub Repo Stars](https://img.shields.io/github/stars/d3/d3-dsv) ![GitHub last commit](https://img.shields.io/github/last-commit/d3/d3-dsv)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
-- [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
+- [CSVKit](https://csvkit.readthedocs.io/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
 - [XSV ![GitHub Repo Stars](https://img.shields.io/github/stars/BurntSushi/xsv) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/xsv)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
@@ -52,7 +52,7 @@ Here are some awesome tools for dealing with CSV:
 - [C#: kbCSV ![GitHub Repo Stars](https://img.shields.io/github/stars/kentcb/KBCsv) ![GitHub last commit](https://img.shields.io/github/last-commit/kentcb/KBCsv)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
 - [csvprintf ![GitHub Repo Stars](https://img.shields.io/github/stars/archiecobbs/csvprintf) ![GitHub last commit](https://img.shields.io/github/last-commit/archiecobbs/csvprintf)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
 - [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
-- [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor) - Handles big files, does miraculous things. A timeless editor for a timeless format.
+- [Ron's Data Edit](https://www.ronsplace.eu/Products/RonsDataEdit) (new modern version of [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)) - Handles big files, does miraculous things. A timeless editor for a timeless format.
 - [Rainbow CSV plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/mechatroner/rainbow_csv) ![GitHub last commit](https://img.shields.io/github/last-commit/mechatroner/rainbow_csv)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim ![GitHub Repo Stars](https://img.shields.io/github/stars/mechatroner/rainbow_csv) ![GitHub last commit](https://img.shields.io/github/last-commit/mechatroner/rainbow_csv)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 - [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
