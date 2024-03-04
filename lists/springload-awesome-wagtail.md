@@ -245,7 +245,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Getting started
 
 - [Getting started in Wagtail, a newcomer's perspective](https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind).
-- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django) - Wagtail est un CMS relativement r��cent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.
+- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django) - Wagtail est un CMS relativement récent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - Working extensively with Wagtail and the surrounding community, we have discovered a range of common pitfalls developers run into when beginning to deliver with Wagtail.
 
 ### Articles
@@ -283,7 +283,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) by Tom Dyson - Tom will explain why his agency decided to build a new CMS, share some lessons learned in running a growing open source project, and outline Wagtail's roadmap to version 2 and beyond. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) by Josh, Jordi and Rich, from the Springload dev team - An introductory session to Wagtail to showcase the main features it has to offer.
 - [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY) by Kurt Wall – Brad Frost's atomic design principles are taking the way we design the web by storm. I'll explain what Wagtail is, how you can use it with atomic design principles, and some hurdles you might run into along the way with suggestions on how to help.
-- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) by Adam Brenecki – This talk explores the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.
+- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) by Adam Brenecki –��This talk explores the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) by Mikalai Radchuk - This talk is an introduction to Wagtail in Russian.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) by Edd Baldry.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) by Daniele Procida.
@@ -366,7 +366,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Working with Image Filters - Wagtail Space NL 2022](https://www.youtube.com/watch?v=gCGT51BcTdM) by Arnar Tumi Þorsteinsson.
 - [Things I learned - Wagtail Space NL 2022](https://www.youtube.com/watch?v=xG5-s48TZt8) by Dan Braghis.
 - [Wagtail Roadrunner Beep Beep - Wagtail Space NL 2022](https://www.youtube.com/watch?v=ynlFUcutSWQ) by Lars van de Kerkhof.
-- [Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022](https://www.youtube.com/watch?v=PgkpBMoN4UY) by S��var Öfjörð Magnússon.
+- [Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022](https://www.youtube.com/watch?v=PgkpBMoN4UY) by Sævar Öfjörð Magnússon.
 - [Wagtail in the News Room - Wagtail Space NL 2022](https://www.youtube.com/watch?v=B85HwmX5uaw) by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.
 - [Digital Nomad - Wagtail Space NL 2022](https://www.youtube.com/watch?v=9Evrwzpg-dw) by Maikel Martens.
 - [Unobtrusive internationalisation - Wagtail Space NL 2022](https://www.youtube.com/watch?v=_dhScxTdtjA) by Lars van de Kerkhof.
@@ -440,7 +440,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Jordi Joan’s blog ![GitHub Repo Stars](https://img.shields.io/github/stars/jordij/jordijoan.me) ![GitHub last commit](https://img.shields.io/github/last-commit/jordij/jordijoan.me)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
 - [Localore: Finding America ![GitHub Repo Stars](https://img.shields.io/github/stars/ghostwords/localore) ![GitHub last commit](https://img.shields.io/github/last-commit/ghostwords/localore)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
 - [Adventure Capitalists ![GitHub Repo Stars](https://img.shields.io/github/stars/AdventureCapitalists/website) ![GitHub last commit](https://img.shields.io/github/last-commit/AdventureCapitalists/website)](https://github.com/AdventureCapitalists/website) – Wagtail powered website for the world's only investment band.
-- [NHS.UK Content Store ![GitHub Repo Stars](https://img.shields.io/github/stars/nhsuk/nhsuk-content-store) ![GitHub last commit](https://img.shields.io/github/last-commit/nhsuk/nhsuk-content-store)](https://github.com/nhsuk/nhsuk-content-store) –��NHS.UK content store and editing app.
+- [NHS.UK Content Store ![GitHub Repo Stars](https://img.shields.io/github/stars/nhsuk/nhsuk-content-store) ![GitHub last commit](https://img.shields.io/github/last-commit/nhsuk/nhsuk-content-store)](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
 - [dev.hel.fi ![GitHub Repo Stars](https://img.shields.io/github/stars/City-of-Helsinki/devheldev) ![GitHub last commit](https://img.shields.io/github/last-commit/City-of-Helsinki/devheldev)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
 - [Digital Helsinki ![GitHub Repo Stars](https://img.shields.io/github/stars/City-of-Helsinki/digihel) ![GitHub last commit](https://img.shields.io/github/last-commit/City-of-Helsinki/digihel)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 - [Secure the News ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securethenews) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securethenews)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
