@@ -1113,7 +1113,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database ![GitHub Repo Stars](https://img.shields.io/github/stars/RustSec/advisory-db) ![GitHub last commit](https://img.shields.io/github/last-commit/RustSec/advisory-db)](https://github.com/RustSec/advisory-db/).
 
-- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) :warning: — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 
 - [cargo-breaking ![GitHub Repo Stars](https://img.shields.io/github/stars/iomentum/cargo-breaking) ![GitHub last commit](https://img.shields.io/github/last-commit/iomentum/cargo-breaking)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
 
@@ -1624,7 +1624,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [bloaty ![GitHub Repo Stars](https://img.shields.io/github/stars/google/bloaty) ![GitHub last commit](https://img.shields.io/github/last-commit/google/bloaty)](https://github.com/google/bloaty) — Ever wondered what's making your binary big? Bloaty McBloatface will show you a size profile of the binary so you can understand what's taking up space inside. Bloaty performs a deep analysis of the binary. Using custom ELF, DWARF, and Mach-O parsers,  Bloaty aims to accurately attribute every byte of the binary to the symbol or compileunit that produced it.  It will even disassemble the binary looking for references to anonymous data. F
 
-- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) :warning: — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+- [cargo-bloat ![GitHub Repo Stars](https://img.shields.io/github/stars/RazrFalcon/cargo-bloat) ![GitHub last commit](https://img.shields.io/github/last-commit/RazrFalcon/cargo-bloat)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 
 - [cwe_checker ![GitHub Repo Stars](https://img.shields.io/github/stars/fkie-cad/cwe_checker) ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/cwe_checker)](https://github.com/fkie-cad/cwe_checker) — cwe_checker finds vulnerable patterns in binary executables.
 
