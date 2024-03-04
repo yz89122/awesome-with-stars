@@ -43,6 +43,7 @@
 ### Learning
 
 * [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
+* [Explainix](https://zaynetro.com/explainix) - Explain Nix syntax visually.
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 * [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
 * [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
@@ -68,6 +69,7 @@
 * [nixos-infect ![GitHub Repo Stars](https://img.shields.io/github/stars/elitak/nixos-infect) ![GitHub last commit](https://img.shields.io/github/last-commit/elitak/nixos-infect)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 * [nixos-up ![GitHub Repo Stars](https://img.shields.io/github/stars/samuela/nixos-up) ![GitHub last commit](https://img.shields.io/github/last-commit/samuela/nixos-up)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 * [nix-installer ![GitHub Repo Stars](https://img.shields.io/github/stars/DeterminateSystems/nix-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/DeterminateSystems/nix-installer)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+* [nix-installer-scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/dnkmmr69420/nix-installer-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/dnkmmr69420/nix-installer-scripts)](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
 
 ## Channel History
 
@@ -263,6 +265,7 @@
 * [nixpkgs-firefox-darwin ![GitHub Repo Stars](https://img.shields.io/github/stars/bandithedoge/nixpkgs-firefox-darwin) ![GitHub last commit](https://img.shields.io/github/last-commit/bandithedoge/nixpkgs-firefox-darwin)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 * [nixpkgs-wayland ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixpkgs-wayland) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixpkgs-wayland)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NUR) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NUR)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+* [System Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/system-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/system-manager)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 
 ## Community
 
