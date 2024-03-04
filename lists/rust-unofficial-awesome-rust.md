@@ -618,7 +618,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
   * [cargo-graph](https://crates.io/crates/cargo-graph) — updated fork of `cargo-dot` with additional features. Unmaintained, see `cargo-deps`
   * [cargo-info](https://crates.io/crates/cargo-info) — queries crates.io for crates details from command line
   * [cargo-license](https://crates.io/crates/cargo-license) — A cargo subcommand to quickly view the licenses of all dependencies.
-  * [cargo-limit](https://crates.io/crates/cargo-limit) — Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/alopatindev/cargo-limit) ![GitHub last commit](https://img.shields.io/github/last-commit/alopatindev/cargo-limit)](https://github.com/alopatindev/cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/alopatindev/cargo-limit/actions)
+  * [cargo-limit](https://crates.io/crates/cargo-limit) — Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge](https://github.com/cargo-limit//cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/cargo-limit//cargo-limit/actions)
   * [cargo-make](https://crates.io/crates/cargo-make) — Task runner and build tool. [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/sagiegurari/cargo-make) ![GitHub last commit](https://img.shields.io/github/last-commit/sagiegurari/cargo-make)](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions)
   * [cargo-modules](https://crates.io/crates/cargo-modules) — A cargo plugin for showing a tree-like overview of a crate's modules.
   * [cargo-multi](https://crates.io/crates/cargo-multi) — runs specified cargo command on multiple crates
@@ -1447,6 +1447,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [Kiss3d](http://kiss3d.org) — draw simple geometric figures and play with them with one-liners
   * [PistonDevelopers/glfw-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/PistonDevelopers/glfw-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/PistonDevelopers/glfw-rs)](https://github.com/PistonDevelopers/glfw-rs) —
 * PDF
+  * [bastibense/libharu_ng ![GitHub Repo Stars](https://img.shields.io/github/stars/bastibense/libharu_ng) ![GitHub last commit](https://img.shields.io/github/last-commit/bastibense/libharu_ng)](https://github.com/bastibense/libharu_ng) [[libharu_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
   * [fschutt/printpdf ![GitHub Repo Stars](https://img.shields.io/github/stars/fschutt/printpdf) ![GitHub last commit](https://img.shields.io/github/last-commit/fschutt/printpdf)](https://github.com/fschutt/printpdf) — PDF writing library
   * [J-F-Liu/lopdf ![GitHub Repo Stars](https://img.shields.io/github/stars/J-F-Liu/lopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/J-F-Liu/lopdf)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
   * [kaj/rust-pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/kaj/rust-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/kaj/rust-pdf)](https://github.com/kaj/rust-pdf) —
@@ -1753,7 +1754,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
   * [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
   * [leptos ![GitHub Repo Stars](https://img.shields.io/github/stars/leptos-rs/leptos) ![GitHub last commit](https://img.shields.io/github/last-commit/leptos-rs/leptos)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
   * [sauron ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanceras/sauron) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanceras/sauron)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
-  * [seed](https://seed-rs.org/) — A framework for creating web apps
+  * [seed ![GitHub Repo Stars](https://img.shields.io/github/stars/seed-rs/seed) ![GitHub last commit](https://img.shields.io/github/last-commit/seed-rs/seed)](https://github.com/seed-rs/seed) — A framework for creating web apps
   * [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
   * [yew](https://crates.io/crates/yew) — A framework for making client web apps
 * HTTP Client
