@@ -129,7 +129,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Nohlab**](https:&#x2F;&#x2F;nohlab.com&#x2F;works) | [Istanbul] | producing interdisciplinary experiences around art, design and technology | [📧](mailto:apply@nohlab.com)
 | [**Normal**](https:&#x2F;&#x2F;normal.studio&#x2F;en&#x2F;) | [Montreal] | public installations, entertainment, performing arts, stage design | [📧](mailto:cv@normal.studio)
 | [**Nowhere**](https:&#x2F;&#x2F;studionowhere.com&#x2F;) | [Shanghai] | marketing events, interactive experiences | 
-| [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [🌐](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
+| [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [����](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
 | [**OIO**](https:&#x2F;&#x2F;oio.studio&#x2F;) | [London] | creative company working on future products and tools for a less boring future | 
 | [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [🌐](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)
@@ -263,7 +263,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
 | [**&amp;Walsh**](https:&#x2F;&#x2F;andwalsh.com&#x2F;) | [NYC] | brand strategy, art direction, design and production across all platforms | 
-| [**AKQA**](https:&#x2F;&#x2F;www.akqa.com&#x2F;) | [London] [SF] [S��o Paulo] [Melbourne] [Aarhus] [Miami] [Amsterdam] [Atlanta] [Auckland] [Berlin] [Cairo] [Cape Town] [Copenhagen] [Dubai] [Gothenburg] [Gurgaon] [Johannesburg] [Milan] [NYC] [Paris] [Portland, OR] [Riyadh] [Shanghai] [Stockholm] [Sydney] [Tokyo] [Venice] [DC] [Wellington] | the most powerful force in the universe isn’t technology, it’s imagination | 
+| [**AKQA**](https:&#x2F;&#x2F;www.akqa.com&#x2F;) | [London] [SF] [São Paulo] [Melbourne] [Aarhus] [Miami] [Amsterdam] [Atlanta] [Auckland] [Berlin] [Cairo] [Cape Town] [Copenhagen] [Dubai] [Gothenburg] [Gurgaon] [Johannesburg] [Milan] [NYC] [Paris] [Portland, OR] [Riyadh] [Shanghai] [Stockholm] [Sydney] [Tokyo] [Venice] [DC] [Wellington] | the most powerful force in the universe isn’t technology, it’s imagination | 
 | [**BUCK**](https:&#x2F;&#x2F;buck.co&#x2F;) | [LA] [NYC] [Sydney] [Amsterdam] | VR, AR, installation, real-time animation, 3D, experiential | 
 | [**Framestore**](https:&#x2F;&#x2F;www.framestore.com&#x2F;) | [London] [NYC] [Montreal] | virtual, augmented and mixed realities, location-based entertainment, and theme park rides | 
 | [**ManvsMachine**](https:&#x2F;&#x2F;mvsm.com&#x2F;) | [London] [LA] | multidimensional creative studio | 
