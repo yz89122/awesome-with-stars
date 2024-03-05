@@ -20,6 +20,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Static type checkers
 
 - [basedmypy ![GitHub Repo Stars](https://img.shields.io/github/stars/KotlinIsland/basedmypy) ![GitHub last commit](https://img.shields.io/github/last-commit/KotlinIsland/basedmypy)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+- [basedpyright ![GitHub Repo Stars](https://img.shields.io/github/stars/detachhead/basedpyright) ![GitHub last commit](https://img.shields.io/github/last-commit/detachhead/basedpyright)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 - [mypy ![GitHub Repo Stars](https://img.shields.io/github/stars/python/mypy) ![GitHub last commit](https://img.shields.io/github/last-commit/python/mypy)](https://github.com/python/mypy) - Optional static typing (PEP 484).
 - [pyanalyze ![GitHub Repo Stars](https://img.shields.io/github/stars/quora/pyanalyze) ![GitHub last commit](https://img.shields.io/github/last-commit/quora/pyanalyze)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 - [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
