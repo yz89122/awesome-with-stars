@@ -94,6 +94,7 @@ Choose what you find more suitable for you:
 - [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs) - Convert the /home partition from ext4 to btrfs.
 - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage third-party compatibility tools for Steam Games.
 - [Clover ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanrudolfoba/SteamDeck-Clover-dualboot) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanrudolfoba/SteamDeck-Clover-dualboot)](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) - Graphical boot manager for the Steam Deck.
+- [Steam Deck Printing Rootless ![GitHub Repo Stars](https://img.shields.io/github/stars/Tymose/Steam-Deck-Printing-ROOTLESS) ![GitHub last commit](https://img.shields.io/github/last-commit/Tymose/Steam-Deck-Printing-ROOTLESS)](https://github.com/Tymose/Steam-Deck-Printing-ROOTLESS) - Utility that lets you print on the Steam Deck rootlessly and that survives updates as well.
 
 ## Emulation
 - [EmuDeck ![GitHub Repo Stars](https://img.shields.io/github/stars/dragoonDorise/EmuDeck) ![GitHub last commit](https://img.shields.io/github/last-commit/dragoonDorise/EmuDeck)](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator.
@@ -107,7 +108,6 @@ Choose what you find more suitable for you:
 - [bsnes ![GitHub Repo Stars](https://img.shields.io/github/stars/bsnes-emu/bsnes) ![GitHub last commit](https://img.shields.io/github/last-commit/bsnes-emu/bsnes)](https://github.com/bsnes-emu/bsnes) - SNES Emulator.
 - [Dolphin ![GitHub Repo Stars](https://img.shields.io/github/stars/dolphin-emu/dolphin) ![GitHub last commit](https://img.shields.io/github/last-commit/dolphin-emu/dolphin)](https://github.com/dolphin-emu/dolphin) - Gamecube/Wii Emulator.
 - [DeSmuME ![GitHub Repo Stars](https://img.shields.io/github/stars/TASEmulators/desmume) ![GitHub last commit](https://img.shields.io/github/last-commit/TASEmulators/desmume)](https://github.com/TASEmulators/desmume) - Nintendo DS Emulator.
-- [Yuzu ![GitHub Repo Stars](https://img.shields.io/github/stars/yuzu-emu/yuzu) ![GitHub last commit](https://img.shields.io/github/last-commit/yuzu-emu/yuzu)](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator.
 - [Ryujinx ![GitHub Repo Stars](https://img.shields.io/github/stars/Ryujinx/Ryujinx) ![GitHub last commit](https://img.shields.io/github/last-commit/Ryujinx/Ryujinx)](https://github.com/Ryujinx/Ryujinx) - Nintendo Switch Emulator.
 - [xemu ![GitHub Repo Stars](https://img.shields.io/github/stars/xemu-project/xemu) ![GitHub last commit](https://img.shields.io/github/last-commit/xemu-project/xemu)](https://github.com/xemu-project/xemu) - Xbox Emulator.
 
