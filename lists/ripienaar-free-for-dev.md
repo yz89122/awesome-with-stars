@@ -376,7 +376,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## Artifact Repos
 
  * [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
- * [central.sonatype.org](https://central.sonatype.org) �� The default artifact repository for Apache Maven, SBT, and other build systems.
+ * [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT, and other build systems.
  * [cloudrepo.io](https://cloudrepo.io) - Cloud-based, private and public, Maven and PyPi repositories. Free for open-source projects.
  * [cloudsmith.io](https://cloudsmith.io) — Simple, secure, and centralized repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant, and more. Free tier + free for open source.
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
@@ -1318,6 +1318,7 @@ Update Time, five active automations, webhooks.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally, running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
    * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
    * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
+   * [btunnel](https://www.btunnel.in/) — Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel tuimeout.
 
 [![Back to Top ![GitHub Repo Stars](https://img.shields.io/github/stars/ripienaar/free-for-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/ripienaar/free-for-dev)](https://github.com/ripienaar/free-for-dev/raw/master/assets/Back-To-Top.svg)](#table-of-contents)
 
