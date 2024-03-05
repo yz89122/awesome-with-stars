@@ -2,7 +2,7 @@
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
-Have something to add or change? Open a [pull request ![GitHub Repo Stars](https://img.shields.io/github/stars/CUTR-at-USF/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/CUTR-at-USF/awesome-transit)](https://github.com/CUTR-at-USF/awesome-transit/pulls) or [issue ![GitHub Repo Stars](https://img.shields.io/github/stars/CUTR-at-USF/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/CUTR-at-USF/awesome-transit)](https://github.com/CUTR-at-USF/awesome-transit/issues) at [CUTR-at-USF/awesome-transit ![GitHub Repo Stars](https://img.shields.io/github/stars/CUTR-at-USF/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/CUTR-at-USF/awesome-transit)](https://github.com/CUTR-at-USF/awesome-transit).
+Have something to add or change? Open a [pull request ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/awesome-transit)](https://github.com/MobilityData/awesome-transit/pulls) or [issue ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/awesome-transit)](https://github.com/MobilityData/awesome-transit/issues) at [MobilityData/awesome-transit ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/awesome-transit)](https://github.com/MobilityData/awesome-transit).
 
 ------------------------------
 
