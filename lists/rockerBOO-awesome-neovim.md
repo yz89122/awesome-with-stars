@@ -226,6 +226,7 @@
 - [olexsmir/gopher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olexsmir/gopher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olexsmir/gopher.nvim)](https://github.com/olexsmir/gopher.nvim/) - Plugin for making Golang development easiest.
 - [rafaelsq/nvim-goc.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelsq/nvim-goc.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelsq/nvim-goc.lua)](https://github.com/rafaelsq/nvim-goc.lua) - Highlight your buffer with Golang Code Coverage.
 - [crusj/hierarchy-tree-go.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/crusj/hierarchy-tree-go.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/crusj/hierarchy-tree-go.nvim)](https://github.com/crusj/hierarchy-tree-go.nvim) - Neovim plugin for Golang, callHierarchy UI tree.
+- [yanskun/gotests.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yanskun/gotests.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yanskun/gotests.nvim)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests ![GitHub Repo Stars](https://img.shields.io/github/stars/cweill/gotests) ![GitHub last commit](https://img.shields.io/github/last-commit/cweill/gotests)](https://github.com/cweill/gotests).
 
 ### YAML
 
