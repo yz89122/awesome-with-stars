@@ -79,6 +79,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 - [HPGL Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/drskullster/HPGLViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/drskullster/HPGLViewer)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 - [HPGL Sender ![GitHub Repo Stars](https://img.shields.io/github/stars/LgHS/hpgl-sender) ![GitHub last commit](https://img.shields.io/github/last-commit/LgHS/hpgl-sender)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 - [HPGLGraphics ![GitHub Repo Stars](https://img.shields.io/github/stars/ciaron/HPGLGraphics) ![GitHub last commit](https://img.shields.io/github/last-commit/ciaron/HPGLGraphics)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+- [processing2hpgl ![GitHub Repo Stars](https://img.shields.io/github/stars/awdriggs/processing2hpgl) ![GitHub last commit](https://img.shields.io/github/last-commit/awdriggs/processing2hpgl)](https://github.com/awdriggs/processing2hpgl) - A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch.
 
 ### G-code
 
@@ -171,6 +172,7 @@ Single-line vector fonts or "engraving fonts".
 - [hershey-fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/kamalmostafa/hershey-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/kamalmostafa/hershey-fonts)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
+- [hf2gcode ![GitHub Repo Stars](https://img.shields.io/github/stars/Andy1978/hf2gcode) ![GitHub last commit](https://img.shields.io/github/last-commit/Andy1978/hf2gcode)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
 
 ## Inspiration, Instruction, and Research
 
