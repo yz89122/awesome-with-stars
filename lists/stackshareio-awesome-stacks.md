@@ -291,7 +291,7 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app using Vue and Electron.
 
 - [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [��� ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 - [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/reduxjs/redux) ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/redux)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 - [Vue Router](https://router.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-router)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 - [Vue CLI](https://cli.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
@@ -444,6 +444,18 @@ Build a simple and robust RESTful API.
 
 - [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
 
+### Graphweaver - GraphQL API Over Multiple Datasources [↗](https://awesomestacks.dev/graphweaver-graphql-api-over-multiple-datasources)
+
+Connect to various datasources and combine the data into a real-time GraphQL API and AdminUI. Useful stack when you have multiple datasources such as Postgres, MySql, Sqlite, Rest, etc.
+
+- [Graphweaver](https://graphweaver.com/) - [🛠️](https://stackshare.io/graphweaver) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/exogee-technology/graphweaver) ![GitHub last commit](https://img.shields.io/github/last-commit/exogee-technology/graphweaver)](https://github.com/exogee-technology/graphweaver) - Data Everywhere - Instant GraphQL.
+- [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - The adminUI is built in React and can be extended.
+- [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
+- [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
+
+##### Resources
+
+- [Connect to a datasource](https://graphweaver.com/docs/connect-to-a-data-source)
 
 ## Mobile
 
