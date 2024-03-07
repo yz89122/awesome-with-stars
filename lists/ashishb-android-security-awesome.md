@@ -55,7 +55,6 @@ A collection of Android security-related resources.
 1. [APKInspector ![GitHub Repo Stars](https://img.shields.io/github/stars/honeynet/apkinspector) ![GitHub last commit](https://img.shields.io/github/last-commit/honeynet/apkinspector)](https://github.com/honeynet/apkinspector/)
 1. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 1. [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
-1. ~~[Smali CFG generator ![GitHub Repo Stars](https://img.shields.io/github/stars/EugenioDelfa/Smali-CFGs) ![GitHub last commit](https://img.shields.io/github/last-commit/EugenioDelfa/Smali-CFGs)](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 1. [Android Decompiler](https://www.pnfsoftware.com/) – not free
 1. [PSCout](https://security.csl.toronto.edu/pscout/) - A tool that extracts the permission specification from the Android OS source code using static analysis
@@ -75,6 +74,7 @@ A collection of Android security-related resources.
 1. [One Step Decompiler ![GitHub Repo Stars](https://img.shields.io/github/stars/b-mueller/apkx) ![GitHub last commit](https://img.shields.io/github/last-commit/b-mueller/apkx)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 1. [APKLeaks ![GitHub Repo Stars](https://img.shields.io/github/stars/dwisiswant0/apkleaks) ![GitHub last commit](https://img.shields.io/github/last-commit/dwisiswant0/apkleaks)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 1. [Mobile Audit ![GitHub Repo Stars](https://img.shields.io/github/stars/mpast/mobileAudit) ![GitHub last commit](https://img.shields.io/github/last-commit/mpast/mobileAudit)](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
+1. ~~[Smali CFG generator ![GitHub Repo Stars](https://img.shields.io/github/stars/EugenioDelfa/Smali-CFGs) ![GitHub last commit](https://img.shields.io/github/last-commit/EugenioDelfa/Smali-CFGs)](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
 ### App Vulnerability Scanners
@@ -97,7 +97,6 @@ A collection of Android security-related resources.
 1. [Inspeckage ![GitHub Repo Stars](https://img.shields.io/github/stars/ac-pm/Inspeckage) ![GitHub last commit](https://img.shields.io/github/last-commit/ac-pm/Inspeckage)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
 1. [Android Hooker ![GitHub Repo Stars](https://img.shields.io/github/stars/AndroidHooker/hooker) ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidHooker/hooker)](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 1. [ProbeDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/ZSShen/ProbeDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/ZSShen/ProbeDroid)](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
-1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 1. [DECAF ![GitHub Repo Stars](https://img.shields.io/github/stars/sycurelab/DECAF) ![GitHub last commit](https://img.shields.io/github/last-commit/sycurelab/DECAF)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 1. [CuckooDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/idanr1986/cuckoo-droid) ![GitHub last commit](https://img.shields.io/github/last-commit/idanr1986/cuckoo-droid)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 1. [Mem ![GitHub Repo Stars](https://img.shields.io/github/stars/MobileForensicsResearch/mem) ![GitHub last commit](https://img.shields.io/github/last-commit/MobileForensicsResearch/mem)](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
@@ -118,6 +117,8 @@ A collection of Android security-related resources.
 1. [Runtime Mobile Security (RMS) ![GitHub Repo Stars](https://img.shields.io/github/stars/m0bilesecurity/RMS-Runtime-Mobile-Security) ![GitHub last commit](https://img.shields.io/github/last-commit/m0bilesecurity/RMS-Runtime-Mobile-Security)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 1. [PAPIMonitor ![GitHub Repo Stars](https://img.shields.io/github/stars/Dado1513/PAPIMonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/Dado1513/PAPIMonitor)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
 1. [Android_application_analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/NotSoSecure/android_application_analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/NotSoSecure/android_application_analyzer)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
+1. [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
+1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 1. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 1. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 1. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -160,11 +161,11 @@ A collection of Android security-related resources.
 1. [Obfuscapk ![GitHub Repo Stars](https://img.shields.io/github/stars/ClaudiuGeorgiu/Obfuscapk) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudiuGeorgiu/Obfuscapk)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
 1. [ARMANDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/Mobile-IoT-Security-Lab/ARMANDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/Mobile-IoT-Security-Lab/ARMANDroid)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 1. [MVT (Mobile Verification Toolkit) ![GitHub Repo Stars](https://img.shields.io/github/stars/mvt-project/mvt) ![GitHub last commit](https://img.shields.io/github/last-commit/mvt-project/mvt)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+1. [Dexmod ![GitHub Repo Stars](https://img.shields.io/github/stars/google/dexmod) ![GitHub last commit](https://img.shields.io/github/last-commit/google/dexmod)](https://github.com/google/dexmod) - tool to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications.
 1. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 1. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 1. ~~[ZjDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/BaiduSecurityLabs/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/BaiduSecurityLabs/ZjDroid)](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/yangbean9/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/yangbean9/ZjDroid)](https://github.com/yangbean9/ZjDroid)~~
 1. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
-1. [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
 ### Fuzz Testing
 
