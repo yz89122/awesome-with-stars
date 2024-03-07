@@ -156,6 +156,7 @@
 - [stevanmilic/nvim-lspimport ![GitHub Repo Stars](https://img.shields.io/github/stars/stevanmilic/nvim-lspimport) ![GitHub last commit](https://img.shields.io/github/last-commit/stevanmilic/nvim-lspimport)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 - [jmbuhr/otter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 - [lopi-py/luau-lsp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lopi-py/luau-lsp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lopi-py/luau-lsp.nvim)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
+- [LukasPietzschmann/boo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasPietzschmann/boo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasPietzschmann/boo.nvim)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
 #### LSP Installer
 
