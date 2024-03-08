@@ -470,7 +470,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Pullflow](https://pullflow.com) — Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
   * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
   * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
-  * [GitBook](https://www.gitbook.com/) — Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.
+  * [GitBook](https://www.gitbook.com/) �� Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.
 
 [![Back to Top ![GitHub Repo Stars](https://img.shields.io/github/stars/ripienaar/free-for-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/ripienaar/free-for-dev)](https://github.com/ripienaar/free-for-dev/raw/master/assets/Back-To-Top.svg)](#table-of-contents)
 
