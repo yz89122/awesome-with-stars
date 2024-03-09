@@ -122,6 +122,7 @@ Choose what you find more suitable for you:
 - [KDE Connect ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/kdeconnect-kde)](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate.
 - [LocalSend ![GitHub Repo Stars](https://img.shields.io/github/stars/localsend/localsend) ![GitHub last commit](https://img.shields.io/github/last-commit/localsend/localsend)](https://github.com/localsend/localsend) - Open source app to share files between devices over your local network.
 - [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Extend your Steam gaming experience to more devices.
+- [Greenlight ![GitHub Repo Stars](https://img.shields.io/github/stars/unknownskl/greenlight) ![GitHub last commit](https://img.shields.io/github/last-commit/unknownskl/greenlight)](https://github.com/unknownskl/greenlight) - An open source client for streaming Xbox Cloud and Xbox Home.
 
 ## File Management
 - [Deck Drive Manager](https://deckdrivemanager.com/) - Copy PC games from PC to Steam Deck drives.
