@@ -27,7 +27,7 @@ them.
 - [BLAS](https://netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
   (Fortran, public domain, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/Reference-LAPACK/lapack) ![GitHub last commit](https://img.shields.io/github/last-commit/Reference-LAPACK/lapack)](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-  (C and Assembly, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/xianyi/OpenBLAS) ![GitHub last commit](https://img.shields.io/github/last-commit/xianyi/OpenBLAS)](https://github.com/xianyi/OpenBLAS))
+  (C and Assembly, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMathLib/OpenBLAS) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMathLib/OpenBLAS)](https://github.com/OpenMathLib/OpenBLAS))
 - [BLIS ![GitHub Repo Stars](https://img.shields.io/github/stars/flame/blis) ![GitHub last commit](https://img.shields.io/github/last-commit/flame/blis)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)
 - [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
@@ -96,7 +96,7 @@ them.
   (C, _nonfree software_)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
-- [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
+- [trimesh](https://trimesh.org) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/mikedh/trimesh) ![GitHub last commit](https://img.shields.io/github/last-commit/mikedh/trimesh)](https://github.com/mikedh/trimesh))
 - [dmsh ![GitHub Repo Stars](https://img.shields.io/github/stars/meshpro/dmsh) ![GitHub last commit](https://img.shields.io/github/last-commit/meshpro/dmsh)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, proprietary, GitHub)
