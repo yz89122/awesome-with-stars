@@ -585,6 +585,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [rebelot/heirline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rebelot/heirline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rebelot/heirline.nvim)](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [yaocccc/nvim-lines.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/yaocccc/nvim-lines.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/yaocccc/nvim-lines.lua)](https://github.com/yaocccc/nvim-lines.lua) - A fast, light, customizable Neovim statusline and tabline(buffers) plugin.
 - [MunifTanjim/nougat.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MunifTanjim/nougat.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MunifTanjim/nougat.nvim)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
+- [Mr-LLLLL/lualine-ext.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/lualine-ext.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/lualine-ext.nvim)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 
 ### Tabline
 
