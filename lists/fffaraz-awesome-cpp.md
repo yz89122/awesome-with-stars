@@ -988,6 +988,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
 * [Ruckig ![GitHub Repo Stars](https://img.shields.io/github/stars/pantor/ruckig) ![GitHub last commit](https://img.shields.io/github/last-commit/pantor/ruckig)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. [MIT] [website](https://ruckig.com)
 * [YARP (Yet Another Robot Platform) ![GitHub Repo Stars](https://img.shields.io/github/stars/robotology/yarp) ![GitHub last commit](https://img.shields.io/github/last-commit/robotology/yarp)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. [BSD-3-Clause] [website](http://www.yarp.it/)
+* [SPICE Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/arturania/cspice) ![GitHub last commit](https://img.shields.io/github/last-commit/arturania/cspice)](https://github.com/arturania/cspice) - Library and toolkit for computing geometric information used in planning and analyzing science observations obtained from robotic spacecraft. [MIT] [website](https://naif.jpl.nasa.gov/naif/toolkit.html)
 
 ## Scientific Computing
 
