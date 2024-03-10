@@ -282,7 +282,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [belse-de/zig-tut ![GitHub Repo Stars](https://img.shields.io/github/stars/belse-de/zig-tut) ![GitHub last commit](https://img.shields.io/github/last-commit/belse-de/zig-tut)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 * [Sobeston/ziglearn ![GitHub Repo Stars](https://img.shields.io/github/stars/Sobeston/ziglearn) ![GitHub last commit](https://img.shields.io/github/last-commit/Sobeston/ziglearn)](https://github.com/Sobeston/ziglearn) - Zig learning resources.
 * [zighelp/zighelp ![GitHub Repo Stars](https://img.shields.io/github/stars/zighelp/zighelp) ![GitHub last commit](https://img.shields.io/github/last-commit/zighelp/zighelp)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
-* [ratfactor/ziglings ![GitHub Repo Stars](https://img.shields.io/github/stars/ratfactor/ziglings) ![GitHub last commit](https://img.shields.io/github/last-commit/ratfactor/ziglings)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+* [ziglings/exercises](https://codeberg.org/ziglings/exercises) - Learn Zig by fixing tiny example programs.
 
 
 ## C/C++ libraries packaged for Zig
