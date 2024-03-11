@@ -173,7 +173,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Micro frameworks and routers.*
 
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
-* [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Radar ![GitHub Repo Stars](https://img.shields.io/github/stars/radarphp/Radar.Adr) ![GitHub last commit](https://img.shields.io/github/last-commit/radarphp/Radar.Adr)](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly ![GitHub Repo Stars](https://img.shields.io/github/stars/mnapoli/silly) ![GitHub last commit](https://img.shields.io/github/last-commit/mnapoli/silly)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
