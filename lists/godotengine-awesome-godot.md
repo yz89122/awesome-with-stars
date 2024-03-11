@@ -231,9 +231,11 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [SimpleGodotCRTShader ![GitHub Repo Stars](https://img.shields.io/github/stars/henriquelalves/SimpleGodotCRTShader) ![GitHub last commit](https://img.shields.io/github/last-commit/henriquelalves/SimpleGodotCRTShader)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 - [Simplified Flight Simulation library ![GitHub Repo Stars](https://img.shields.io/github/stars/fbcosentino/godot-simplified-flightsim) ![GitHub last commit](https://img.shields.io/github/last-commit/fbcosentino/godot-simplified-flightsim)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 - [SignalVisualizer ![GitHub Repo Stars](https://img.shields.io/github/stars/Ericdowney/SignalVisualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/Ericdowney/SignalVisualizer)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+- [SmartShape2D ![GitHub Repo Stars](https://img.shields.io/github/stars/SirRamEsq/SmartShape2D) ![GitHub last commit](https://img.shields.io/github/last-commit/SirRamEsq/SmartShape2D)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
 - [StoryTeller Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/HeavenMercy/StoryTeller-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/HeavenMercy/StoryTeller-Engine)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 - [Tiled importer ![GitHub Repo Stars](https://img.shields.io/github/stars/vnen/godot-tiled-importer) ![GitHub last commit](https://img.shields.io/github/last-commit/vnen/godot-tiled-importer)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/HeavenMercy/TileSet-Builder-Godot-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/HeavenMercy/TileSet-Builder-Godot-Plugin)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
+- [Virtual Joystick ![GitHub Repo Stars](https://img.shields.io/github/stars/MarcoFazioRandom/Virtual-Joystick-Godot) ![GitHub last commit](https://img.shields.io/github/last-commit/MarcoFazioRandom/Virtual-Joystick-Godot)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x).
 
 #### Godot 4.2+
 
@@ -277,7 +279,6 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Qodot ![GitHub Repo Stars](https://img.shields.io/github/stars/Shfty/qodot-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Shfty/qodot-plugin)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 - [Scatter ![GitHub Repo Stars](https://img.shields.io/github/stars/HungryProton/scatter) ![GitHub last commit](https://img.shields.io/github/last-commit/HungryProton/scatter)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 - [Shell Fur ![GitHub Repo Stars](https://img.shields.io/github/stars/Arnklit/ShellFurGodot) ![GitHub last commit](https://img.shields.io/github/last-commit/Arnklit/ShellFurGodot)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
-- [SmartShape2D ![GitHub Repo Stars](https://img.shields.io/github/stars/SirRamEsq/SmartShape2D) ![GitHub last commit](https://img.shields.io/github/last-commit/SirRamEsq/SmartShape2D)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 - [Tree generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Zylann/godot_tree_generator_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Zylann/godot_tree_generator_plugin)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 - [UI Design Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/imjp94/UIDesignTool) ![GitHub last commit](https://img.shields.io/github/last-commit/imjp94/UIDesignTool)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 - [Volumetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/SIsilicon/Godot-Volumetrics-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/SIsilicon/Godot-Volumetrics-Plugin)](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
@@ -416,7 +417,6 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 - [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 - [Godotes](https://godotes.com/) - Weekly micro data analysis reports about the Godot engine and its ecosystem.
-- [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## Other
 
