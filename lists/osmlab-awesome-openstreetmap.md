@@ -225,6 +225,7 @@ The services in this category allow you to track personal and fitness goals util
 * [overpassforge ![GitHub Repo Stars](https://img.shields.io/github/stars/Krafpy/Overpass-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/Krafpy/Overpass-Forge)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
 * [humanized_opening_hours ![GitHub Repo Stars](https://img.shields.io/github/stars/rezemika/humanized_opening_hours) ![GitHub last commit](https://img.shields.io/github/last-commit/rezemika/humanized_opening_hours)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 * [geodesk ![GitHub Repo Stars](https://img.shields.io/github/stars/clarisma/geodesk-py) ![GitHub last commit](https://img.shields.io/github/last-commit/clarisma/geodesk-py)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
+* [QuackOSM ![GitHub Repo Stars](https://img.shields.io/github/stars/kraina-ai/quackosm) ![GitHub last commit](https://img.shields.io/github/last-commit/kraina-ai/quackosm)](https://github.com/kraina-ai/quackosm) - A Python library for downloading, filtering and transforming `*.osm.pbf` files into `GeoParquet` files using DuckDB.
 
 ### Java
 
