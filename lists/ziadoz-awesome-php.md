@@ -174,7 +174,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-* [Radar ![GitHub Repo Stars](https://img.shields.io/github/stars/radarphp/Radar.Adr) ![GitHub last commit](https://img.shields.io/github/last-commit/radarphp/Radar.Adr)](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly ![GitHub Repo Stars](https://img.shields.io/github/stars/mnapoli/silly) ![GitHub last commit](https://img.shields.io/github/last-commit/mnapoli/silly)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
@@ -540,6 +539,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Brick\Money ![GitHub Repo Stars](https://img.shields.io/github/stars/brick/money) ![GitHub last commit](https://img.shields.io/github/last-commit/brick/money)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/omnipay) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/omnipay)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum ![GitHub Repo Stars](https://img.shields.io/github/stars/payum/payum) ![GitHub last commit](https://img.shields.io/github/last-commit/payum/payum)](https://github.com/payum/payum) - A payment abstraction library.
+* [Shopsys Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsys/shopsys) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsys/shopsys)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
 * [Shopware ![GitHub Repo Stars](https://img.shields.io/github/stars/shopware/shopware) ![GitHub last commit](https://img.shields.io/github/last-commit/shopware/shopware)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap ![GitHub Repo Stars](https://img.shields.io/github/stars/florianv/swap) ![GitHub last commit](https://img.shields.io/github/last-commit/florianv/swap)](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](https://sylius.com/) - An open source e-commerce solution.
