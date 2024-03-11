@@ -748,6 +748,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [backdround/tabscope.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/tabscope.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/tabscope.nvim)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 - [linrongbin16/gentags.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/gentags.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/gentags.nvim)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 - [theKnightsOfRohan/csvlens.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/theKnightsOfRohan/csvlens.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/theKnightsOfRohan/csvlens.nvim)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens ![GitHub Repo Stars](https://img.shields.io/github/stars/YS-L/csvlens) ![GitHub last commit](https://img.shields.io/github/last-commit/YS-L/csvlens)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+- [mcauley-penney/visual-whitespace.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 
 ## Terminal Integration
 
