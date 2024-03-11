@@ -174,6 +174,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
+* [Minicli ![GitHub Repo Stars](https://img.shields.io/github/stars/minicli/minicli) ![GitHub last commit](https://img.shields.io/github/last-commit/minicli/minicli)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly ![GitHub Repo Stars](https://img.shields.io/github/stars/mnapoli/silly) ![GitHub last commit](https://img.shields.io/github/last-commit/mnapoli/silly)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
