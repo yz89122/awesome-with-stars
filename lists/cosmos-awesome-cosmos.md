@@ -32,6 +32,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Virtual Machines](#virtual-machines)
 * [IBC](#ibc)
 * [Testing](#testing)
+* [Templates](#templates)
 * [Tools](#tools)
     * [CLI](#cli)
     * [GUI](#gui)
@@ -228,6 +229,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [ignite](https://github.com/cli) - Quickly bootstrap a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
 * [cosmosregistry/example ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmosregistry/example) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmosregistry/example)](https://github.com/cosmosregistry/example) - Template and example repository of a Cosmos SDK module.
 * [cosmosregistry/chain-minimal ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmosregistry/chain-minimal) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmosregistry/chain-minimal)](https://github.com/cosmosregistry/chain-minimal) -  Template and example of a minimal Cosmos SDK blockchain.
+* [spawn ![GitHub Repo Stars](https://img.shields.io/github/stars/rollchains/spawn) ![GitHub last commit](https://img.shields.io/github/last-commit/rollchains/spawn)](https://github.com/rollchains/spawn) -  Generate a new Cosmos SDK blockchain with testing, GitHub integrations, and easy instant testnets.
 
 ## Tools
 
