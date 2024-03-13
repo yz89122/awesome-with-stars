@@ -20,7 +20,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Prompts
 
 - [Tide ![GitHub Repo Stars](https://img.shields.io/github/stars/IlanCosman/tide) ![GitHub last commit](https://img.shields.io/github/last-commit/IlanCosman/tide)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
-- [Pure ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelrinaldi/pure) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelrinaldi/pure)](https://github.com/rafaelrinaldi/pure) - [_That_ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pure) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pure)](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
+- [Pure ![GitHub Repo Stars](https://img.shields.io/github/stars/pure-fish/pure) ![GitHub last commit](https://img.shields.io/github/last-commit/pure-fish/pure)](https://github.com/pure-fish/pure/) - [_That_ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pure) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pure)](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
 - [Hydro ![GitHub Repo Stars](https://img.shields.io/github/stars/jorgebucaran/hydro) ![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/hydro)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
