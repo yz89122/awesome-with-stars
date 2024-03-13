@@ -1809,7 +1809,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
-- [Violations Lib ![GitHub Repo Stars](https://img.shields.io/github/stars/tomasbjerre/violations-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/tomasbjerre/violations-lib)](https://github.com/tomasbjerre/violations-lib) ��� Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
+- [Violations Lib ![GitHub Repo Stars](https://img.shields.io/github/stars/tomasbjerre/violations-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/tomasbjerre/violations-lib)](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 
 
 <a name="deno" />
