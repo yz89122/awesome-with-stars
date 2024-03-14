@@ -436,6 +436,7 @@ described in [RFC 8032]
  * [libgen ![GitHub Repo Stars](https://img.shields.io/github/stars/olbat/libgen) ![GitHub last commit](https://img.shields.io/github/last-commit/olbat/libgen)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ## Queues and Messaging
+ * [crafka ![GitHub Repo Stars](https://img.shields.io/github/stars/BT-OpenSource/crafka) ![GitHub last commit](https://img.shields.io/github/last-commit/BT-OpenSource/crafka)](https://github.com/BT-OpenSource/crafka) - Apache Kafka library utilizing `librdkafka`
  * [mosquito ![GitHub Repo Stars](https://img.shields.io/github/stars/mosquito-cr/mosquito) ![GitHub last commit](https://img.shields.io/github/last-commit/mosquito-cr/mosquito)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
  * [NATS.io ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.cr)](https://github.com/nats-io/nats.cr) - NATS client
  * [sidekiq.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/mperham/sidekiq.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/mperham/sidekiq.cr)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
