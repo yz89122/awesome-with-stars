@@ -59,7 +59,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 ## Resources
 ### Documentation
  - [MongoDB Server Introduction](https://www.mongodb.com/docs/manual/introduction/)
- - [MongoDB Server Documentation](https://www.mongodb.com/manual/)
+ - [MongoDB Server Documentation](https://www.mongodb.com/docs/manual/)
  - [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
  - [MongoDB Guides](https://www.mongodb.com/docs/guides/)
  - [MongoDB Developer Center](https://www.mongodb.com/developer/)
@@ -173,6 +173,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Mongo.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/Lytol/Mongo.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/Lytol/Mongo.jl)](https://github.com/Lytol/Mongo.jl) - C driver bindings
  
 ### Kotlin
+- [driver-kotlin-coroutine ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-java-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-java-driver)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
 - [kmongo ![GitHub Repo Stars](https://img.shields.io/github/stars/Litote/kmongo) ![GitHub last commit](https://img.shields.io/github/last-commit/Litote/kmongo)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ### Lisp
@@ -253,7 +254,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
 
 Services:
- - [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
  - [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
@@ -289,7 +289,6 @@ Services:
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
- - [QueryAssist](https://queryassist.com) - Modern and powerful GUI tool, cross-platform and easy-to-use
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
