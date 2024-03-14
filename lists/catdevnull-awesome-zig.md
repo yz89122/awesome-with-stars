@@ -139,6 +139,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [user00e00/sudokuinzig ![GitHub Repo Stars](https://img.shields.io/github/stars/user00e00/sudokuinzig) ![GitHub last commit](https://img.shields.io/github/last-commit/user00e00/sudokuinzig)](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
 * [wendigojaeger/ZigGBA ![GitHub Repo Stars](https://img.shields.io/github/stars/wendigojaeger/ZigGBA) ![GitHub last commit](https://img.shields.io/github/last-commit/wendigojaeger/ZigGBA)](https://github.com/wendigojaeger/ZigGBA) - SDK for creating Game Boy Advance games using Zig.
 * [hazeycode/brucelib ![GitHub Repo Stars](https://img.shields.io/github/stars/hazeycode/brucelib) ![GitHub last commit](https://img.shields.io/github/last-commit/hazeycode/brucelib)](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
+* [andy5995/zigdeck ![GitHub Repo Stars](https://img.shields.io/github/stars/andy5995/zigdeck) ![GitHub last commit](https://img.shields.io/github/last-commit/andy5995/zigdeck)](https://github.com/andy5995/zigdeck) - A library that creates and shuffles a deck of cards from which you can draw.
 
 
 ## Games
