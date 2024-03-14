@@ -2,7 +2,7 @@
 
 # Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
+[![Links check ![GitHub Repo Stars](https://img.shields.io/github/stars/ramnes/awesome-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/ramnes/awesome-mongodb)](https://github.com/ramnes/awesome-mongodb/actions/workflows/links.yml/badge.svg)](https://github.com/ramnes/awesome-mongodb/actions/workflows/links.yml)
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
