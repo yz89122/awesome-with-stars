@@ -157,6 +157,7 @@
 - [jmbuhr/otter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 - [lopi-py/luau-lsp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lopi-py/luau-lsp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lopi-py/luau-lsp.nvim)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 - [LukasPietzschmann/boo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasPietzschmann/boo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasPietzschmann/boo.nvim)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+- [zeioth/garbage-day.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/garbage-day.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/garbage-day.nvim)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
 
 #### LSP Installer
 
@@ -749,7 +750,9 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [backdround/tabscope.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/tabscope.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/tabscope.nvim)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 - [linrongbin16/gentags.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/linrongbin16/gentags.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/linrongbin16/gentags.nvim)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 - [theKnightsOfRohan/csvlens.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/theKnightsOfRohan/csvlens.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/theKnightsOfRohan/csvlens.nvim)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens ![GitHub Repo Stars](https://img.shields.io/github/stars/YS-L/csvlens) ![GitHub last commit](https://img.shields.io/github/last-commit/YS-L/csvlens)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+- [Mr-LLLLL/utilities.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/utilities.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/utilities.nvim)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
 - [mcauley-penney/visual-whitespace.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+- [Zeioth/distroupdate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/distroupdate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/distroupdate.nvim)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
 
 ## Terminal Integration
 
