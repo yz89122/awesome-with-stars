@@ -200,7 +200,7 @@
 - [jpmcb/nvim-llama ![GitHub Repo Stars](https://img.shields.io/github/stars/jpmcb/nvim-llama) ![GitHub last commit](https://img.shields.io/github/last-commit/jpmcb/nvim-llama)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 - [David-Kunz/gen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/David-Kunz/gen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/David-Kunz/gen.nvim)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 - [kiddos/gemini.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiddos/gemini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiddos/gemini.nvim)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
-- [olimorris/codecompanion.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim)](https://github.com/olimorris/codecompanion.nvim) - Use the power of generative AI. Use it to chat, author and advise you on your code. Supports Anthropic, Ollama and OpenAI.
+- [olimorris/codecompanion.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 
 ## Programming Languages Support
 
