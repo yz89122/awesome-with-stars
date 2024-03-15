@@ -105,6 +105,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Machine Learning
 
 * [DeepChem ![GitHub Repo Stars](https://img.shields.io/github/stars/deepchem/deepchem) ![GitHub last commit](https://img.shields.io/github/last-commit/deepchem/deepchem)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
+* [Chemprop ![GitHub Repo Stars](https://img.shields.io/github/stars/chemprop/chemprop) ![GitHub last commit](https://img.shields.io/github/last-commit/chemprop/chemprop)](https://github.com/chemprop/chemprop) - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [ChemML ![GitHub Repo Stars](https://img.shields.io/github/stars/hachmannlab/chemml) ![GitHub last commit](https://img.shields.io/github/last-commit/hachmannlab/chemml)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
 * [olorenchemengine ![GitHub Repo Stars](https://img.shields.io/github/stars/Oloren-AI/olorenchemengine) ![GitHub last commit](https://img.shields.io/github/last-commit/Oloren-AI/olorenchemengine)](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
   with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
@@ -135,6 +136,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-dock"></a>
 ### Docking
 * [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
+* [DOCKSTRING ![GitHub Repo Stars](https://img.shields.io/github/stars/dockstring/dockstring) ![GitHub last commit](https://img.shields.io/github/last-commit/dockstring/dockstring)](https://github.com/dockstring/dockstring) - Automates and standardizes ligand preparation for AutoDock Vina.
 
 <a id="lib-md"></a>
 ### Molecular Dynamics

@@ -1123,6 +1123,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cargo-expand ![GitHub Repo Stars](https://img.shields.io/github/stars/dtolnay/cargo-expand) ![GitHub last commit](https://img.shields.io/github/last-commit/dtolnay/cargo-expand)](https://github.com/dtolnay/cargo-expand) — Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
 
+- [cargo-geiger ![GitHub Repo Stars](https://img.shields.io/github/stars/geiger-rs/cargo-geiger) ![GitHub last commit](https://img.shields.io/github/last-commit/geiger-rs/cargo-geiger)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+
 - [cargo-inspect ![GitHub Repo Stars](https://img.shields.io/github/stars/mre/cargo-inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/mre/cargo-inspect)](https://github.com/mre/cargo-inspect) :warning: — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
 
 - [cargo-semver-checks](https://crates.io/crates/cargo-semver-checks) — Scan your Rust crate releases for semver violations. It can be used either directly via the CLI, as a GitHub Action in CI,  or via release managers like `release-plz`. It found semver violations in  [more than 1 in 6 of the top 1000 most-downloaded crates](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/) on crates.io.
