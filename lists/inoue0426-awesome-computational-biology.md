@@ -22,6 +22,8 @@ A knowledge collection of databases, software and papers related to computationa
   - [Drug Repurposing](#drug-repurposing)
   - [Drug Target Interaction](#drug-target-interaction)
   - [Compound Protein Interaction](#compound-protein-interaction)
+  - [Pre-trained embedding](#pre-trained-embedding)
+  - [LLM for biology](#llm-for-biology)
 
 ## Databases
 ### scRNA
@@ -97,4 +99,17 @@ A knowledge collection of databases, software and papers related to computationa
 ### Compound Protein Interaction
 
 - [MCPINN ![GitHub Repo Stars](https://img.shields.io/github/stars/mhlee0903/multi_channels_PINN) ![GitHub last commit](https://img.shields.io/github/last-commit/mhlee0903/multi_channels_PINN)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-- [TransformerCPI ![GitHub Repo Stars](https://img.shields.io/github/stars/lifanchen-simm/transformerCPI) ![GitHub last commit](https://img.shields.io/github/last-commit/lifanchen-simm/transformerCPI)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer. 
+- [TransformerCPI ![GitHub Repo Stars](https://img.shields.io/github/stars/lifanchen-simm/transformerCPI) ![GitHub last commit](https://img.shields.io/github/last-commit/lifanchen-simm/transformerCPI)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+
+### Pre-trained embedding
+
+- [Evolutionary Scale Modeling ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
+- [ChemBERTa-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/seyonechithrananda/bert-loves-chemistry)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
+
+### LLM for biology
+
+- [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - LLM for chemical and molecule science
+- [BioGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/BioGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/BioGPT)](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
+
+
+
