@@ -112,6 +112,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Foundation**](https://get.foundation/) - The most advanced responsive front-end framework in the world.  
   ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social&label=Star)
+  [Demo](https://get.foundation/templates.html),
   [Docs](https://get.foundation/sites/docs/),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/foundation/foundation-sites) ![GitHub last commit](https://img.shields.io/github/last-commit/foundation/foundation-sites)](https://github.com/foundation/foundation-sites)
   | #SCSS
