@@ -408,7 +408,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * 📝 [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
-* 📝 [Topology Topics](http://mathonline.wikidot.com/topology)
+* �� [Topology Topics](http://mathonline.wikidot.com/topology)
 
 ### Algebraic Topology
 
@@ -439,7 +439,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * 📝 [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
 * 📝 [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
-* ��� [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
+* 📝 [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * 📝 [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 * 📝 [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
 * 📝 [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
@@ -550,7 +550,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Statistical Learning
 
-* 📝 [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+* ��� [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * 📝 [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * 📝 [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 * 📝 [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
