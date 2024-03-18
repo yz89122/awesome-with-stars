@@ -236,6 +236,7 @@
 ## Data Lake Management
 
 - [lakeFS ![GitHub Repo Stars](https://img.shields.io/github/stars/treeverse/lakeFS) ![GitHub last commit](https://img.shields.io/github/last-commit/treeverse/lakeFS)](https://github.com/treeverse/lakeFS) - lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes.
+- [Project Nessie ![GitHub Repo Stars](https://img.shields.io/github/stars/projectnessie/nessie) ![GitHub last commit](https://img.shields.io/github/last-commit/projectnessie/nessie)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
 
 ## ELK Elastic Logstash Kibana
 
@@ -302,3 +303,4 @@
 ### Podcasts
 
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
+- [The Data Stack Show](https://datastackshow.com/) - A show where they talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.
