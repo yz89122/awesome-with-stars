@@ -9,9 +9,15 @@
 ## Contents
 
 - [Resources](#resources)
+  - [Offical](#offical)
+  - [Community](#community)
 - [Integration](#integration)
 - [Extensions](#extensions)
+  - [Extension Scripts](#extension-scripts)
+  - [Tools](#tools)
 - [Articles](#articles)
+  - [Educational](#educational)
+  - [Personal](#personal)
 - [Examples / Showcases](#examples--showcases)
 
 ## Resources
@@ -82,6 +88,7 @@
 - [Drawer Notice ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-drawer-notice) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-drawer-notice)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
 - [Classified Group ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-classified-group) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-classified-group)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 - [Tokenized Preview ![GitHub Repo Stars](https://img.shields.io/github/stars/formfcw/directus-extension-tokenized-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/formfcw/directus-extension-tokenized-preview)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+- [Umami Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/egidiusmengelberg/directus-extension-umami) ![GitHub last commit](https://img.shields.io/github/last-commit/egidiusmengelberg/directus-extension-umami)](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
 
 ### Extension Scripts
 
