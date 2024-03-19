@@ -305,6 +305,8 @@
 
 *Libraries for validating data.*
 
+  * [Guardrails ![GitHub Repo Stars](https://img.shields.io/github/stars/fulcrologic/guardrails) ![GitHub last commit](https://img.shields.io/github/last-commit/fulcrologic/guardrails)](https://github.com/fulcrologic/guardrails)
+  * [Malli ![GitHub Repo Stars](https://img.shields.io/github/stars/metosin/malli) ![GitHub last commit](https://img.shields.io/github/last-commit/metosin/malli)](https://github.com/metosin/malli)
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema ![GitHub Repo Stars](https://img.shields.io/github/stars/plumatic/schema) ![GitHub last commit](https://img.shields.io/github/last-commit/plumatic/schema)](https://github.com/plumatic/schema)
   * [Bouncer ![GitHub Repo Stars](https://img.shields.io/github/stars/leonardoborges/bouncer) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardoborges/bouncer)](https://github.com/leonardoborges/bouncer)
