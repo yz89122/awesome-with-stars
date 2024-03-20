@@ -134,6 +134,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [postman2jmx ![GitHub Repo Stars](https://img.shields.io/github/stars/Loadium/postman2jmx) ![GitHub last commit](https://img.shields.io/github/last-commit/Loadium/postman2jmx)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 - [convert-postman-jmeter ![GitHub Repo Stars](https://img.shields.io/github/stars/sercheo87/convert-postman-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/sercheo87/convert-postman-jmeter)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 - [fiddler2jmeter ![GitHub Repo Stars](https://img.shields.io/github/stars/dperfly/fiddler2jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/dperfly/fiddler2jmeter)](https://github.com/dperfly/fiddler2jmeter) - Fiddler or Charles to JMeter script convertor.
+- [har-convertor-jmeter-tool ![GitHub Repo Stars](https://img.shields.io/github/stars/vdaburon/har-convertor-jmeter-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/vdaburon/har-convertor-jmeter-plugin)](https://github.com/vdaburon/har-convertor-jmeter-plugin) - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
 
 ## CI
 
