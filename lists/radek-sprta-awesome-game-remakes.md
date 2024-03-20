@@ -143,6 +143,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## Simulator
 - [DXX-Rebirth ![GitHub Repo Stars](https://img.shields.io/github/stars/dxx-rebirth/dxx-rebirth) ![GitHub last commit](https://img.shields.io/github/last-commit/dxx-rebirth/dxx-rebirth)](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
+- [Free Stars: The Ur-Quan Masters](https://sc2.sourceforge.net/) - Open source version of the classic Star Control 2.
 - [FS2Open ![GitHub Repo Stars](https://img.shields.io/github/stars/scp-fs2open/fs2open.github.com) ![GitHub last commit](https://img.shields.io/github/last-commit/scp-fs2open/fs2open.github.com)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer ![GitHub Repo Stars](https://img.shields.io/github/stars/Librelancer/Librelancer) ![GitHub last commit](https://img.shields.io/github/last-commit/Librelancer/Librelancer)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 
