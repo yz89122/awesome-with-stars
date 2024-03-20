@@ -190,7 +190,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
 * [SIML](https://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
-* [Mpt-Instruct-DotNet-S ![GitHub Repo Stars](https://img.shields.io/github/stars/NethermindEth/Mpt-Instruct-DotNet-S) ![GitHub last commit](https://img.shields.io/github/last-commit/NethermindEth/Mpt-Instruct-DotNet-S)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
+* [Mpt-Instruct-DotNet-S ![GitHub Repo Stars](https://img.shields.io/github/stars/NethermindEth/Mpt-Instruct-DotNet-S) ![GitHub last commit](https://img.shields.io/github/last-commit/NethermindEth/Mpt-Instruct-DotNet-S)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) - LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
+* [LLamaSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/SciSharp/LLamaSharp)](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 
 ## Assembly Manipulation
 
@@ -352,6 +353,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Roslyn-linq-rewrite ![GitHub Repo Stars](https://img.shields.io/github/stars/antiufo/roslyn-linq-rewrite) ![GitHub last commit](https://img.shields.io/github/last-commit/antiufo/roslyn-linq-rewrite)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 * [Iron python ![GitHub Repo Stars](https://img.shields.io/github/stars/IronLanguages/ironpython2) ![GitHub last commit](https://img.shields.io/github/last-commit/IronLanguages/ironpython2)](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 * [Amplifier.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/tech-quantum/Amplifier.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/tech-quantum/Amplifier.NET)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
+* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
+* [Lib.Harmony ![GitHub Repo Stars](https://img.shields.io/github/stars/pardeike/Harmony) ![GitHub last commit](https://img.shields.io/github/last-commit/pardeike/Harmony)](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
 
 ## Compression
 
@@ -1197,7 +1200,8 @@ metadata in media files, including video, audio, and photo formats
 * [CSharpier ![GitHub Repo Stars](https://img.shields.io/github/stars/belav/csharpier) ![GitHub last commit](https://img.shields.io/github/last-commit/belav/csharpier)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/prettier)](https://github.com/prettier/prettier) printing process.
 * [UnitsNet ![GitHub Repo Stars](https://img.shields.io/github/stars/angularsen/UnitsNet) ![GitHub last commit](https://img.shields.io/github/last-commit/angularsen/UnitsNet)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * [Another Redis Desktop Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager) ![GitHub last commit](https://img.shields.io/github/last-commit/qishibo/AnotherRedisDesktopManager)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-
+* [OctaneEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/gregyjames/OctaneDownloader) ![GitHub last commit](https://img.shields.io/github/last-commit/gregyjames/OctaneDownloader)](https://github.com/gregyjames/OctaneDownloader) - A high preformance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
+  
 ## Trading
 
 * [Lean ![GitHub Repo Stars](https://img.shields.io/github/stars/QuantConnect/Lean) ![GitHub last commit](https://img.shields.io/github/last-commit/QuantConnect/Lean)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
@@ -1272,6 +1276,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## WPF
 
+* [DeftSharp.Windows.Input ![GitHub Repo Stars](https://img.shields.io/github/stars/Empiree/DeftSharp.Windows.Input) ![GitHub last commit](https://img.shields.io/github/last-commit/Empiree/DeftSharp.Windows.Input)](https://github.com/Empiree/DeftSharp.Windows.Input) - A simple keyboard/mouse event handler for Windows UI applications (WPF, MAUI, Avalonia) 
 * [Data Grid Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/tom-englert/DataGridExtensions) ![GitHub last commit](https://img.shields.io/github/last-commit/tom-englert/DataGridExtensions)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™ ![GitHub Repo Stars](https://img.shields.io/github/stars/xceedsoftware/wpftoolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/xceedsoftware/wpftoolkit)](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
 * [WPF ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/wpf) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/wpf)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
@@ -1283,7 +1288,8 @@ metadata in media files, including video, audio, and photo formats
 * [FParsec ![GitHub Repo Stars](https://img.shields.io/github/stars/stephan-tolksdorf/fparsec) ![GitHub last commit](https://img.shields.io/github/last-commit/stephan-tolksdorf/fparsec)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
 * [Superpower ![GitHub Repo Stars](https://img.shields.io/github/stars/datalust/superpower) ![GitHub last commit](https://img.shields.io/github/last-commit/datalust/superpower)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 * [CSLY ![GitHub Repo Stars](https://img.shields.io/github/stars/b3b00/CSLY) ![GitHub last commit](https://img.shields.io/github/last-commit/b3b00/CSLY)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
-
+* [Parakeet ![GitHub Repo Stars](https://img.shields.io/github/stars/ara3d/parakeet) ![GitHub last commit](https://img.shields.io/github/last-commit/ara3d/parakeet)](https://github.com/ara3d/parakeet) - A recursive descent parsing library with operator overloading for C#.
+  
 ## Source Generator
 
 * [M31.FluentAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/m31coding/M31.FluentAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/m31coding/M31.FluentAPI)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
