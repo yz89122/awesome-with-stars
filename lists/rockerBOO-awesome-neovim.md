@@ -1203,7 +1203,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [chrisgrieser/nvim-kickstart-python ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-kickstart-python) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-kickstart-python)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 - [mrcjkb/kickstart-nix.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/kickstart-nix.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/kickstart-nix.nvim)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 - [drybalka/clean.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/drybalka/clean.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/drybalka/clean.nvim)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
-
+- [StratOS-Linux/StratVIM ![GitHub Repo Stars](https://img.shields.io/github/stars/StratOS-Linux/StratVIM) ![GitHub last commit](https://img.shields.io/github/last-commit/StratOS-Linux/StratVIM)](https://github.com/StratOS-Linux/StratVIM) - A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro.
 ## External
 
 These tools are used externally to Neovim to enhance the experience.
