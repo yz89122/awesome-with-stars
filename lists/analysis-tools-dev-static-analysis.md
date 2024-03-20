@@ -402,6 +402,8 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Delphi</h2>
 
 
+- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) — A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
+
 - [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A _Pro_ edition includes a command line tool for automation purposes.
 
 - [Pascal Analyzer](https://peganza.com/products_pal.html) :copyright: — A static code analysis tool with numerous reports. A free _Lite_ version is available with limited reporting.
