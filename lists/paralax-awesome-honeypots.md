@@ -226,7 +226,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 
   - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
   - [T-Pot ![GitHub Repo Stars](https://img.shields.io/github/stars/dtag-dev-sec/tpotce) ![GitHub last commit](https://img.shields.io/github/last-commit/dtag-dev-sec/tpotce)](https://github.com/dtag-dev-sec/tpotce) - All in one honeypot appliance from telecom provider T-Mobile
-  - [beelzebub ![GitHub Repo Stars](https://img.shields.io/github/stars/mariocandela/beelzebub) ![GitHub last commit](https://img.shields.io/github/last-commit/mariocandela/beelzebub)](https://github.com/mariocandela/beelzebub) - A secure honeypot framework, extremely easy to configure by yaml 🚀
+  - [beelzebub ![GitHub Repo Stars](https://img.shields.io/github/stars/mariocandela/beelzebub) ![GitHub last commit](https://img.shields.io/github/last-commit/mariocandela/beelzebub)](https://github.com/mariocandela/beelzebub) - A secure honeypot framework, extremely easy to configure by yaml ����
 
 - Honeynet data fusion
 
