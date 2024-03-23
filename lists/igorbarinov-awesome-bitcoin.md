@@ -20,6 +20,7 @@ A curated list of bitcoin services and tools for software developers
 - [Scala Libraries](#scala-libraries)
 - [Swift Libraries](#swift-libraries)
 - [.Net Libraries](#net-libraries)
+- [Haskell Libraries](#haskell-libraries)
 - [Playgrounds](#playgrounds)
 - [Blockchain dump](#blockchain-dump)
 - [Full nodes](#full-nodes)
@@ -136,6 +137,10 @@ A curated list of bitcoin services and tools for software developers
 ## .Net Libraries
 * [NBitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/MetacoSA/NBitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/MetacoSA/NBitcoin)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptean/bitcoinlib) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptean/bitcoinlib)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+
+## Haskell Libraries
+* [Haskoin-core ![GitHub Repo Stars](https://img.shields.io/github/stars/haskoin/haskoin-core) ![GitHub last commit](https://img.shields.io/github/last-commit/haskoin/haskoin-core)](https://github.com/haskoin/haskoin-core) - Haskoin Core is a library of Bitcoin and Bitcoin Cash functions written in Haskell.
+
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE ![GitHub Repo Stars](https://img.shields.io/github/stars/siminchen/bitcoinIDE) ![GitHub last commit](https://img.shields.io/github/last-commit/siminchen/bitcoinIDE)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
@@ -162,7 +167,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcore ![GitHub Repo Stars](https://img.shields.io/github/stars/bitpay/bitcore) ![GitHub last commit](https://img.shields.io/github/last-commit/bitpay/bitcore)](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
 
 ## Read
-* [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+* [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 * [Mastering Bitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/bitcoinbook/bitcoinbook) ![GitHub last commit](https://img.shields.io/github/last-commit/bitcoinbook/bitcoinbook)](https://github.com/bitcoinbook/bitcoinbook)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
