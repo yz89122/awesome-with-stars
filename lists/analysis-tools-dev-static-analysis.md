@@ -1136,7 +1136,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - [cargo-spellcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/drahnr/cargo-spellcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/drahnr/cargo-spellcheck)](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
 
 - [cargo-unused-features ![GitHub Repo Stars](https://img.shields.io/github/stars/TimonPost/cargo-unused-features) ![GitHub last commit](https://img.shields.io/github/last-commit/TimonPost/cargo-unused-features)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
-It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positve.
+It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positive.
 
 - [clippy](https://rust-lang.github.io/rust-clippy) — A code linter to catch common mistakes and improve your Rust code.
 
@@ -1886,7 +1886,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>Kubernetes</h2>
 
 
-- [chart-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/helm/chart-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/helm/chart-testing)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
+- [chart-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/helm/chart-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/helm/chart-testing)](https://github.com/helm/chart-testing) — ct is the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
 
 - [clusterlint ![GitHub Repo Stars](https://img.shields.io/github/stars/digitalocean/clusterlint) ![GitHub last commit](https://img.shields.io/github/last-commit/digitalocean/clusterlint)](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
 
