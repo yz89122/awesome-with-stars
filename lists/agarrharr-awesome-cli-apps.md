@@ -215,7 +215,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [lstags ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanilves/lstags) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanilves/lstags)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 - [dockly ![GitHub Repo Stars](https://img.shields.io/github/stars/lirantal/dockly) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/dockly)](https://github.com/lirantal/dockly) - Interactively manage containers.
 - [lazydocker ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazydocker) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazydocker)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-- [docker-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/Trendyol/docker-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/Trendyol/docker-shell)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 - [docker-pushrm ![GitHub Repo Stars](https://img.shields.io/github/stars/christian-korneck/docker-pushrm) ![GitHub last commit](https://img.shields.io/github/last-commit/christian-korneck/docker-pushrm)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Release
@@ -518,7 +517,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [webtorrent-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/webtorrent-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/webtorrent-cli)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [entr ![GitHub Repo Stars](https://img.shields.io/github/stars/eradman/entr) ![GitHub last commit](https://img.shields.io/github/last-commit/eradman/entr)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 - [organize-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ManrajGrover/organize-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/organize-cli)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
-- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+- [organize-rt](https://gitlab.com/foxido/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/RecoverPy) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/RecoverPy)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ### File Sync/Sharing
@@ -531,7 +530,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [portal ![GitHub Repo Stars](https://img.shields.io/github/stars/ZinoKader/portal) ![GitHub last commit](https://img.shields.io/github/last-commit/ZinoKader/portal)](https://github.com/ZinoKader/portal) - Send files between computers.
 - [shbin ![GitHub Repo Stars](https://img.shields.io/github/stars/Shiphero/shbin) ![GitHub last commit](https://img.shields.io/github/last-commit/Shiphero/shbin)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing ![GitHub Repo Stars](https://img.shields.io/github/stars/parvardegr/sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/parvardegr/sharing)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
-- [ncp ![GitHub Repo Stars](https://img.shields.io/github/stars/kha7iq/ncp) ![GitHub last commit](https://img.shields.io/github/last-commit/kha7iq/ncp)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers. 
+- [ncp ![GitHub Repo Stars](https://img.shields.io/github/stars/kha7iq/ncp) ![GitHub last commit](https://img.shields.io/github/last-commit/kha7iq/ncp)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
 ### Directory Listing
 
