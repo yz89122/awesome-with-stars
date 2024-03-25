@@ -108,10 +108,8 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 💸 [CRYENGINE](https://www.cryengine.com) - Powerful real-time game development platform by _Crytek_.
 - 🆓 [Evergine](https://evergine.com) - High-quality 3D and 2D solutions. Formerly _Wave Engine_. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/EvergineTeam/Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/EvergineTeam/Samples)](https://github.com/EvergineTeam/Samples)]
 - 💸 [Flax Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/FlaxEngine/FlaxEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/FlaxEngine/FlaxEngine)](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
-- 💰 [Frostbite](https://www.ea.com/frostbite) - Cutting-edge games and experiences by _Electronic Arts_.
 - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
 - 🎉 [O3DE ![GitHub Repo Stars](https://img.shields.io/github/stars/o3de/o3de) ![GitHub last commit](https://img.shields.io/github/last-commit/o3de/o3de)](https://github.com/o3de/o3de/) - Multi-platform AAA engine. Cinema-quality 3D. Successor to _Lumberyard_.
-- 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - Enabling small teams to create AAA games, by _Massive Entertainment_.
 - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
 ### Commercial
@@ -136,7 +134,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 
 ### Specialty
 - 💰 [3dSen](https://geod.itch.io/3dnes) - Emulator that lets you play _NES_ games in 3D. [[Website](http://www.geodstudio.net)]
-- 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Doom / Heretic map loading system for _GameMaker_.
+- 💸 [DopeFish](https://lemontoast-games.itch.io/dopefish) - Doom / Heretic map loading system for _GameMaker_.
 - 🎉 [GB Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismaltby/gb-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismaltby/gb-studio)](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for _Game Boy_.
 - 🔒 [HARFANG 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/harfang3d/harfang3d) ![GitHub last commit](https://img.shields.io/github/last-commit/harfang3d/harfang3d)](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
 - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in _GameMaker_.
@@ -212,6 +210,10 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
+- Commercial Studios Research Divisions
+    - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
+    - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
+    - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 
 ### Game Development
 - Awesome Collections
@@ -568,7 +570,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    - 🔒 [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus 🎯 on performance, cache locality and DX.
+    - 🔒 [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
     - 🎉 [LeoECS ![GitHub Repo Stars](https://img.shields.io/github/stars/Leopotam/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/Leopotam/ecs)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
 - C#: Game Engine w/Editor
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
@@ -1156,7 +1158,7 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
 - 📚 [Ronja Tutorials](https://www.ronja-tutorials.com/) - Tutorials covering many shader techniques.
 - 🌎 [Shader Park ![GitHub Repo Stars](https://img.shields.io/github/stars/shader-park/shader-park-core) ![GitHub last commit](https://img.shields.io/github/last-commit/shader-park/shader-park-core)](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
-- 🌎 [SHADERed ![GitHub Repo Stars](https://img.shields.io/github/stars/dfranx/SHADERed) ![GitHub last commit](https://img.shields.io/github/last-commit/dfranx/SHADERed)](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++. [[Online Editor](https://shadered.org/app)]
+- 🌎 [SHADERed ![GitHub Repo Stars](https://img.shields.io/github/stars/dfranx/SHADERed) ![GitHub last commit](https://img.shields.io/github/last-commit/dfranx/SHADERed)](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++.
 - 🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
 - Bloom
     - 📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Techniques used for bloom lighting, presented in OpenGL.
@@ -1302,7 +1304,7 @@ _Software to help with game engine / video game development._
 - 💰 [Asset Forge](https://assetforge.io) - Create 3D models and 2D sprites using building blocks.
 - 🆓 [Blender](https://www.blender.org) 🔥 - Standard for open source 3D modeling. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/blender/blender) ![GitHub last commit](https://img.shields.io/github/last-commit/blender/blender)](https://github.com/blender/blender)]
 - 🆓 [Meshroom](https://alicevision.org/#meshroom) - 3D reconstruction, built with the [AliceVision ![GitHub Repo Stars](https://img.shields.io/github/stars/alicevision/AliceVision) ![GitHub last commit](https://img.shields.io/github/last-commit/alicevision/AliceVision)](https://github.com/alicevision/AliceVision) framework. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/alicevision/meshroom) ![GitHub last commit](https://img.shields.io/github/last-commit/alicevision/meshroom)](https://github.com/alicevision/meshroom)]
-- 💸 [ZBrush Core Mini](https://zbrushcore.com/mini/index.php) - Simple and easy to use 3D sculpting tool.
+- 💸 [ZBrush Core](https://www.maxon.net/en/zbrushcore) - Simple and easy to use 3D sculpting tool.
 
 ### Particle Tools
 - 💸 [Particle Designer](https://www.71squared.com/particledesigner) - Powerful particle effects editor designed for macOS.
