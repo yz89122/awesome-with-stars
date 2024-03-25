@@ -157,6 +157,7 @@
 - [Bottles ![GitHub Repo Stars](https://img.shields.io/github/stars/bottlesdevs/Bottles) ![GitHub last commit](https://img.shields.io/github/last-commit/bottlesdevs/Bottles)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
 - [BoxBuddy ![GitHub Repo Stars](https://img.shields.io/github/stars/Dvlv/BoxBuddyRS) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvlv/BoxBuddyRS)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
 - [Pods ![GitHub Repo Stars](https://img.shields.io/github/stars/marhkb/pods) ![GitHub last commit](https://img.shields.io/github/last-commit/marhkb/pods)](https://github.com/marhkb/pods) - Podman containers manager.
+- [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - Terminal with first-class support for containers.
 
 ### Utilities
 
