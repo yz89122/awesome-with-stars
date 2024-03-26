@@ -289,6 +289,7 @@
 ## Testing
 
 - [Grai ![GitHub Repo Stars](https://img.shields.io/github/stars/grai-io/grai-core) ![GitHub last commit](https://img.shields.io/github/last-commit/grai-io/grai-core)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
+- [DQOps ![GitHub Repo Stars](https://img.shields.io/github/stars/dqops/dqo) ![GitHub last commit](https://img.shields.io/github/last-commit/dqops/dqo)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 
 ## Community
 
