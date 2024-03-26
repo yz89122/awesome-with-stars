@@ -362,7 +362,7 @@ All resources are freely available except those with a 💲 icon.
 ## Geometry and Topology
 
 * 📝 [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
-* �� [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+* 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
@@ -524,7 +524,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * 📝 [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
 * 📝 [Probability and Statistics Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/mavam/stat-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/mavam/stat-cookbook)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
-* 📝 [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
+* �� [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 * 📝 [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 * 📝 [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
 
