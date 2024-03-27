@@ -38,6 +38,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/ros-drivers/velodyne) ![GitHub last commit](https://img.shields.io/github/last-commit/ros-drivers/velodyne)](https://github.com/ros-drivers/velodyne)
+  - [C++/Python library :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/valgur/velodyne_decoder) ![GitHub last commit](https://img.shields.io/github/last-commit/valgur/velodyne_decoder)](https://github.com/valgur/velodyne_decoder)
 - [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/Ouster-lidar)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
