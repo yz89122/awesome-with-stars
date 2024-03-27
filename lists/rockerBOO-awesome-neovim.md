@@ -201,6 +201,7 @@
 - [David-Kunz/gen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/David-Kunz/gen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/David-Kunz/gen.nvim)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 - [kiddos/gemini.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiddos/gemini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiddos/gemini.nvim)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 - [olimorris/codecompanion.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
+- [simplegpt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/simplegpt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/simplegpt.nvim)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 
 ## Programming Languages Support
 
