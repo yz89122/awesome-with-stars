@@ -167,6 +167,7 @@ Made with Electron.
 - [Sigma File Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/aleksey-hoffman/sigma-file-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/aleksey-hoffman/sigma-file-manager)](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 - [Ostara ![GitHub Repo Stars](https://img.shields.io/github/stars/krud-dev/ostara) ![GitHub last commit](https://img.shields.io/github/last-commit/krud-dev/ostara)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent ![GitHub Repo Stars](https://img.shields.io/github/stars/G-Ray/pikatorrent) ![GitHub last commit](https://img.shields.io/github/last-commit/G-Ray/pikatorrent)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+- [Wave Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/wavetermdev/waveterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wavetermdev/waveterm)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
 ### Closed Source
 
