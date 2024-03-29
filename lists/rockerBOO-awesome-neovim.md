@@ -911,6 +911,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [pwntester/codeql.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pwntester/codeql.nvim)](https://github.com/pwntester/codeql.nvim) - Neovim plugin to help writing and testing CodeQL queries.
 - [ldelossa/gh.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ldelossa/gh.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ldelossa/gh.nvim)](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
 - [topaxi/gh-actions.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/topaxi/gh-actions.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/topaxi/gh-actions.nvim)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
+- [rawnly/gist.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rawnly/gist.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rawnly/gist.nvim)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## Motion
 
