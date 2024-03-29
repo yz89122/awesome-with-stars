@@ -284,6 +284,8 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 * NES
   * [koute/pinky ![GitHub Repo Stars](https://img.shields.io/github/stars/koute/pinky) ![GitHub last commit](https://img.shields.io/github/last-commit/koute/pinky)](https://github.com/koute/pinky) —
   * [pcwalton/sprocketnes ![GitHub Repo Stars](https://img.shields.io/github/stars/pcwalton/sprocketnes) ![GitHub last commit](https://img.shields.io/github/last-commit/pcwalton/sprocketnes)](https://github.com/pcwalton/sprocketnes)
+* Nintendo 64
+  * [gopher64 ![GitHub Repo Stars](https://img.shields.io/github/stars/gopher64/gopher64) ![GitHub last commit](https://img.shields.io/github/last-commit/gopher64/gopher64)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
 * Nintendo DS
   * [dust ![GitHub Repo Stars](https://img.shields.io/github/stars/kelpsyberry/dust) ![GitHub last commit](https://img.shields.io/github/last-commit/kelpsyberry/dust)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
 * PlayStation 4
