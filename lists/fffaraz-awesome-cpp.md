@@ -1284,6 +1284,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Hunter](https://www.github.com/ruslo/hunter) - CMake driven cross-platform package manager for C++. [BSD-2]
 * [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 * [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
+* [Sccache ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/sccache) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/sccache)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 * [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 * [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. [Apache-2.0/MIT]
