@@ -39,6 +39,7 @@ Table of contents:
   * [Developer tools](#developer-tools)
   * [TodoMVC](#todomvc)
   * [Schematics](#schematics)
+  * [Angular Challenges](https://angular-challenges.vercel.app/)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
   * [Auth Components](#auth-components)
@@ -199,6 +200,7 @@ Table of contents:
 * [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
 * [Michael Hladky](https://twitter.com/Michael_Hladky)
 * [Fabio Biondi](https://github.com/fabiobiondi)
+* [Thomas Laforge](https://twitter.com/laforge_toma)
 * [**{{** add_expert **}}** ![GitHub Repo Stars](https://img.shields.io/github/stars/gdi2290/awesome-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/gdi2290/awesome-angular)](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
