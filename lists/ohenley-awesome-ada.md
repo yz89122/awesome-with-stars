@@ -324,6 +324,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [play-2048 ![GitHub Repo Stars](https://img.shields.io/github/stars/mgrojo/play_2048) ![GitHub last commit](https://img.shields.io/github/last-commit/mgrojo/play_2048)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 - [bingada ![GitHub Repo Stars](https://img.shields.io/github/stars/jfuica/bingada) ![GitHub last commit](https://img.shields.io/github/last-commit/jfuica/bingada)](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 - [civ-klon ![GitHub Repo Stars](https://img.shields.io/github/stars/HonkiTonk/Civ-Klon) ![GitHub last commit](https://img.shields.io/github/last-commit/HonkiTonk/Civ-Klon)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
+- [eepers ![GitHub Repo Stars](https://img.shields.io/github/stars/tsoding/eepers) ![GitHub last commit](https://img.shields.io/github/last-commit/tsoding/eepers)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib)).
 
 ## Frameworks
 
