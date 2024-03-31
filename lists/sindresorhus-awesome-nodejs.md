@@ -392,7 +392,8 @@
 - [Tinyhttp ![GitHub Repo Stars](https://img.shields.io/github/stars/tinyhttp/tinyhttp) ![GitHub last commit](https://img.shields.io/github/last-commit/tinyhttp/tinyhttp)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 - [Marble.js ![GitHub Repo Stars](https://img.shields.io/github/stars/marblejs/marble) ![GitHub last commit](https://img.shields.io/github/last-commit/marblejs/marble)](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - [Lad ![GitHub Repo Stars](https://img.shields.io/github/stars/ladjs/lad) ![GitHub last commit](https://img.shields.io/github/last-commit/ladjs/lad)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
-- [Ts.ED ![GitHub Repo Stars](https://img.shields.io/github/stars/tsedio/tsed) ![GitHub last commit](https://img.shields.io/github/last-commit/tsedio/tsed)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js. 
+- [Ts.ED ![GitHub Repo Stars](https://img.shields.io/github/stars/tsedio/tsed) ![GitHub last commit](https://img.shields.io/github/last-commit/tsedio/tsed)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
+- [Hono ![GitHub Repo Stars](https://img.shields.io/github/stars/honojs/hono) ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)](https://github.com/honojs/hono) - Small and fast web framework.
 
 ### Documentation
 
@@ -834,7 +835,7 @@
 - [npm](https://docs.npmjs.com/about-npm) - The default package manager.
 - [pnpm](https://pnpm.io) - Disk space efficient package manager.
 - [yarn](https://yarnpkg.com) - Alternative package manager.
-- [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps. 
+- [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
 ## Resources
 
