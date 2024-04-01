@@ -360,7 +360,6 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Base ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/base) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/base)](https://github.com/janestreet/base) - Standard library for OCaml
 - [cil ![GitHub Repo Stars](https://img.shields.io/github/stars/cil-project/cil) ![GitHub last commit](https://img.shields.io/github/last-commit/cil-project/cil)](https://github.com/cil-project/cil) - C Intermediate Language
 - [coq ![GitHub Repo Stars](https://img.shields.io/github/stars/coq/coq) ![GitHub last commit](https://img.shields.io/github/last-commit/coq/coq)](https://github.com/coq/coq) - formal proof management system
-- [Dark ![GitHub Repo Stars](https://img.shields.io/github/stars/darklang/dark) ![GitHub last commit](https://img.shields.io/github/last-commit/darklang/dark)](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
 - [frama-c](https://git.frama-c.com/pub/frama-c) - platform dedicated to the analysis of source code written in C
 - [libguestfs ![GitHub Repo Stars](https://img.shields.io/github/stars/libguestfs/libguestfs) ![GitHub last commit](https://img.shields.io/github/last-commit/libguestfs/libguestfs)](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images
 - [Liquidsoap ![GitHub Repo Stars](https://img.shields.io/github/stars/savonet/liquidsoap) ![GitHub last commit](https://img.shields.io/github/last-commit/savonet/liquidsoap)](https://github.com/savonet/liquidsoap) - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
@@ -373,7 +372,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Logging
 
-- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
+- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) ��� A dumb OCaml logger.
 - [Volt ![GitHub Repo Stars](https://img.shields.io/github/stars/codinuum/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/codinuum/volt)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
