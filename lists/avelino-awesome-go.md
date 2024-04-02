@@ -2391,10 +2391,9 @@ _Libraries for testing codebases and generating test data._
   - [minimock ![GitHub Repo Stars](https://img.shields.io/github/stars/gojuno/minimock) ![GitHub last commit](https://img.shields.io/github/last-commit/gojuno/minimock)](https://github.com/gojuno/minimock) - Mock generator for Go interfaces.
   - [mockery ![GitHub Repo Stars](https://img.shields.io/github/stars/vektra/mockery) ![GitHub last commit](https://img.shields.io/github/last-commit/vektra/mockery)](https://github.com/vektra/mockery) - Tool to generate Go interfaces.
   - [mockhttp ![GitHub Repo Stars](https://img.shields.io/github/stars/tv42/mockhttp) ![GitHub last commit](https://img.shields.io/github/last-commit/tv42/mockhttp)](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
-  - [mockit ![GitHub Repo Stars](https://img.shields.io/github/stars/pasdam/mockit) ![GitHub last commit](https://img.shields.io/github/last-commit/pasdam/mockit)](https://github.com/pasdam/mockit) - Allows functions and method easy mocking, without defining new types; it's similar to Mockito for Java.
-  - [monkey ![GitHub Repo Stars](https://img.shields.io/github/stars/awterman/monkey) ![GitHub last commit](https://img.shields.io/github/last-commit/awterman/monkey)](https://github.com/awterman/monkey) - One line to mock functions/methods/variables in place without dependency injection or code generation.
-  - [mooncake ![GitHub Repo Stars](https://img.shields.io/github/stars/GuilhermeCaruso/mooncake) ![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeCaruso/mooncake)](https://github.com/GuilhermeCaruso/mooncake) - A simple way to generate mocks for multiple purposes
+  - [mooncake ![GitHub Repo Stars](https://img.shields.io/github/stars/GuilhermeCaruso/mooncake) ![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeCaruso/mooncake)](https://github.com/GuilhermeCaruso/mooncake) - A simple way to generate mocks for multiple purposes.
   - [timex ![GitHub Repo Stars](https://img.shields.io/github/stars/cabify/timex) ![GitHub last commit](https://img.shields.io/github/last-commit/cabify/timex)](https://github.com/cabify/timex) - A test-friendly replacement for the native `time` package.
+  - [xgo ![GitHub Repo Stars](https://img.shields.io/github/stars/xhd2015/xgo) ![GitHub last commit](https://img.shields.io/github/last-commit/xhd2015/xgo)](https://github.com/xhd2015/xgo) - A general pureposed function mocking library.
 
 - Fuzzing and delta-debugging/reducing/shrinking.
 
