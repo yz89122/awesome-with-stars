@@ -465,6 +465,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Self-hosted Terraform Platforms
 
+- [Lynx ![GitHub Repo Stars](https://img.shields.io/github/stars/clivern/lynx) ![GitHub last commit](https://img.shields.io/github/last-commit/clivern/lynx)](https://github.com/clivern/lynx) - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
 - [OTF ![GitHub Repo Stars](https://img.shields.io/github/stars/leg100/otf) ![GitHub last commit](https://img.shields.io/github/last-commit/leg100/otf)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 - [Terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
