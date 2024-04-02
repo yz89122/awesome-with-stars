@@ -620,6 +620,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Snip](http://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id1199502670)
+* [Tuji](https://tuji.app/) - Take a screenshot, annotate it, and beautify it. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572) ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
@@ -1258,7 +1259,7 @@ This project exists thanks to all the people who contribute.
 
 ## Backers
 
-Thank you to all our backers! �� [Become a backer](https://opencollective.com/awesome-mac#backer)
+Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
 
 <a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
 
