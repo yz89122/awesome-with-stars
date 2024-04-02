@@ -1196,7 +1196,6 @@ Others
 
 * [css-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/paddymul/css-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/paddymul/css-lite)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 * [find-port ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/find-port)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
-* [Postmaster ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/postmaster) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/postmaster)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [cl-wget ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-wget/cl-wget) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-wget/cl-wget)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
 * [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT][200].
 
@@ -1204,6 +1203,7 @@ Others
 ### Email
 
 * [trivial-imap ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/trivial-imap) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/trivial-imap)](https://github.com/40ants/trivial-imap) - tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (which is a fork of Franz's cl-imap). [BSD][15].
+* [Postmaster ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/postmaster) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/postmaster)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [cl-smtp](https://gitlab.common-lisp.net/cl-smtp/cl-smtp) - CL-SMTP is a simple lisp smtp client.
 * [sendgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-sendgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-sendgrid)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT][200].
 * [mailgun ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/mailgun) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/mailgun)](https://github.com/40ants/mailgun) - A thin wrapper to post HTML emails through mailgun.com. [unlicence][5].
