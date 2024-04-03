@@ -2129,7 +2129,7 @@ It does this by running periodic diff outputs against heuristically crafted rege
 - [tfsec ![GitHub Repo Stars](https://img.shields.io/github/stars/tfsec/tfsec) ![GitHub last commit](https://img.shields.io/github/last-commit/tfsec/tfsec)](https://github.com/tfsec/tfsec) — Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.
 
 - [trufflehog](https://trufflesecurity.com) — Find credentials all over the place
-TruffleHog is an open source secret-scanning engine that resolves exposed secrets across your company��s entire tech stack. 
+TruffleHog is an open source secret-scanning engine that resolves exposed secrets across your company’s entire tech stack. 
 
 - [Tsunami Security Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/google/tsunami-security-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/google/tsunami-security-scanner)](https://github.com/google/tsunami-security-scanner) — A general purpose network security scanner with an extensible plugin system for  detecting high severity RCE-like vulnerabilities with high confidence. Custom detectors for finding vulnerabilities (e.g. open APIs) can be added.
 
