@@ -408,6 +408,7 @@
 - [Slim ![GitHub Repo Stars](https://img.shields.io/github/stars/nekofar/awesome-slim) ![GitHub last commit](https://img.shields.io/github/last-commit/nekofar/awesome-slim)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/awesome-fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/awesome-fiber)](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 - [Kustomize ![GitHub Repo Stars](https://img.shields.io/github/stars/DevOpsHiveHQ/awesome-kustomize) ![GitHub last commit](https://img.shields.io/github/last-commit/DevOpsHiveHQ/awesome-kustomize)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+- [OpenTofu ![GitHub Repo Stars](https://img.shields.io/github/stars/virtualroot/awesome-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/virtualroot/awesome-opentofu)](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 
 ## Computer Science
 
