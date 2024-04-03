@@ -33,6 +33,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Subscription Kit Services](#subscription-kit-services)
 - [3D Part Models](#3d-part-models)
 - [Other Lists](#other-lists)
+- [Arabic Section](#arabic-section)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -258,3 +259,11 @@ This list is for websites, services, software, tools and more: everything that y
 - [TM90/awesome-hwd-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/TM90/awesome-hwd-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/TM90/awesome-hwd-tools)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 - [delftopenhardware/awesome-open-hardware ![GitHub Repo Stars](https://img.shields.io/github/stars/delftopenhardware/awesome-open-hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/delftopenhardware/awesome-open-hardware)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 - [upb-lea/awesome-open-source-power-electronics ![GitHub Repo Stars](https://img.shields.io/github/stars/upb-lea/awesome-open-source-power-electronics) ![GitHub last commit](https://img.shields.io/github/last-commit/upb-lea/awesome-open-source-power-electronics)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+
+## Arabic Section
+ - [Complete EE Course](https://youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei&si=4Whr8h-_9kGdUN3_) - دورة الالكترونيات العملية
+ - [Complete Digital Electronics Course](https://youtube.com/playlist?list=PLww54WQ2wa5obq6IbRbIiql8oHaTUp3T_&si=I4mqjy3JUZ8xmElT) - دورة الالكترونيات الرقمية
+ - [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
+ - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
+
+
