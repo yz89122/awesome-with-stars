@@ -372,7 +372,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Logging
 
-- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) ��� A dumb OCaml logger.
+- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt ![GitHub Repo Stars](https://img.shields.io/github/stars/codinuum/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/codinuum/volt)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
@@ -585,7 +585,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Testing
 
-- [Alcotest ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/alcotest) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/alcotest)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+- [Alcotest ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/alcotest) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/alcotest)](https://github.com/mirage/alcotest) ��� A lightweight and colourful test framework.
 - [OUnit](http://ounit.forge.ocamlcore.org/) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
 - [QCheck ![GitHub Repo Stars](https://img.shields.io/github/stars/c-cube/qcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/c-cube/qcheck)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 - [iTeML ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent-hugot/iTeML) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent-hugot/iTeML)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
