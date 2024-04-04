@@ -504,6 +504,7 @@ _Libraries for configuration parsing._
 
 _Tools for help with continuous integration._
 
+- [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 - [CDS ![GitHub Repo Stars](https://img.shields.io/github/stars/ovh/cds) ![GitHub last commit](https://img.shields.io/github/last-commit/ovh/cds)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 - [dot ![GitHub Repo Stars](https://img.shields.io/github/stars/opnlabs/dot) ![GitHub last commit](https://img.shields.io/github/last-commit/opnlabs/dot)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages. 
 - [drone ![GitHub Repo Stars](https://img.shields.io/github/stars/drone/drone) ![GitHub last commit](https://img.shields.io/github/last-commit/drone/drone)](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
