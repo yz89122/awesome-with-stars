@@ -160,6 +160,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Simple Tiled Implementation ![GitHub Repo Stars](https://img.shields.io/github/stars/karai17/Simple-Tiled-Implementation) ![GitHub last commit](https://img.shields.io/github/last-commit/karai17/Simple-Tiled-Implementation)](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
 * [Vivid ![GitHub Repo Stars](https://img.shields.io/github/stars/WetDesertRock/vivid) ![GitHub last commit](https://img.shields.io/github/last-commit/WetDesertRock/vivid)](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
 * [Yonder ![GitHub Repo Stars](https://img.shields.io/github/stars/thenerdie/Yonder) ![GitHub last commit](https://img.shields.io/github/last-commit/thenerdie/Yonder)](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
+* [GameStateManager ![GitHub Repo Stars](https://img.shields.io/github/stars/GwyrddGlas/GameStateManager) ![GitHub last commit](https://img.shields.io/github/last-commit/GwyrddGlas/GameStateManager)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 
 ## Input
 *Input & Binding Libraries*
@@ -277,7 +278,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter ![GitHub Repo Stars](https://img.shields.io/github/stars/tsteinholz/LoveShaderConverter) ![GitHub last commit](https://img.shields.io/github/last-commit/tsteinholz/LoveShaderConverter)](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
-* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a L��VE shader.
+* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
 * [Moonshine ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/moonshine) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/moonshine)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 * [ShaderScan ![GitHub Repo Stars](https://img.shields.io/github/stars/idbrii/love-shaderscan) ![GitHub last commit](https://img.shields.io/github/last-commit/idbrii/love-shaderscan)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
