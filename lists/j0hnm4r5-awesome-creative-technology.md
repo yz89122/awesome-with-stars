@@ -165,7 +165,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Spectacle**](https:&#x2F;&#x2F;spectacle.works&#x2F;) | [Phoenix] | expertise in fabricating experiences that drive engagement and wow participants | 
 | [**Spectra Studio**](https:&#x2F;&#x2F;spectra.studio&#x2F;) | [LA] | installations, projection, sculpture, robotics, light and sound | 
 | [**Squint&#x2F;Opera**](https:&#x2F;&#x2F;www.squintopera.com&#x2F;about&#x2F;) | [London] [NYC] [Dubai] | experience design for the built environment and musuems and attractions | 
-| [**Staat**](https:&#x2F;&#x2F;www.staat.com&#x2F;) | [Amsterdam] | branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail | [📧](mailto:jobs@staat.com)
+| [**Staat**](https:&#x2F;&#x2F;www.staat.com&#x2F;) | [Amsterdam] | branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail | [����](mailto:jobs@staat.com)
 | [**Stimulant**](https:&#x2F;&#x2F;stimulant.com&#x2F;) | [San Francisco] | experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications | 
 | [**StoreyStudio**](https:&#x2F;&#x2F;www.storeystudio.com&#x2F;) | [London] | spatial design, set design, window displays, moving image | [🌐](https:&#x2F;&#x2F;www.storeystudio.com&#x2F;content&#x2F;vacancies)
 | [**Studio Black**](https:&#x2F;&#x2F;www.studioblack.org&#x2F;) | [LA] [NYC] | technical production, design advisory, content management, digital content | 
@@ -192,7 +192,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](mailto:jobs@vtprodesign.com)
 | [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
-| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [��](mailto:jobs@weareroyale.com)
+| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation | [🌐](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;channels&#x2F;219.html)
