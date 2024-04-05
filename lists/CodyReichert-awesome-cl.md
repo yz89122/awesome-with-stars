@@ -366,7 +366,7 @@ To third parties
 Tools
 -----
 
-* �� [pgloader ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/pgloader) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/pgloader)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+* ⭐ [pgloader ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/pgloader) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/pgloader)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
 
 
 Data Structures

@@ -28,9 +28,9 @@
 - [OpenTofu repository ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu) 🎉
 - [Fork announcement](https://opentofu.org/announcement)
 - [Official registry ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/registry) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/registry)](https://github.com/opentofu/registry)
-- [Weekly Updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
-- [Office Hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
-- [Technical Steering Committee Updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
+- [Weekly updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+- [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
+- [Technical Steering Committee updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
 
 ## Community
 
