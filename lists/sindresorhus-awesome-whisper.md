@@ -52,6 +52,7 @@
 - [whisper-openvino ![GitHub Repo Stars](https://img.shields.io/github/stars/zhuzilin/whisper-openvino) ![GitHub last commit](https://img.shields.io/github/last-commit/zhuzilin/whisper-openvino)](https://github.com/zhuzilin/whisper-openvino) - Whisper running on OpenVINO.
 - [whisper.tflite ![GitHub Repo Stars](https://img.shields.io/github/stars/usefulsensors/openai-whisper) ![GitHub last commit](https://img.shields.io/github/last-commit/usefulsensors/openai-whisper)](https://github.com/usefulsensors/openai-whisper) - Whisper running on TensorFlow Lite.
 - [Whisper variants](https://huggingface.co/models?other=whisper) - Various Whisper variants on Hugging Faces.
+- [Whisper-AT ![GitHub Repo Stars](https://img.shields.io/github/stars/YuanGongND/whisper-at) ![GitHub last commit](https://img.shields.io/github/last-commit/YuanGongND/whisper-at)](https://github.com/YuanGongND/whisper-at) - Whisper that can recognize non-speech audio events in addition to speech.
 
 ## Apps
 
