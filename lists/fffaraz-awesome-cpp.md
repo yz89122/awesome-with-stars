@@ -453,6 +453,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
 * [backward-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/bombela/backward-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/bombela/backward-cpp)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. [MIT]
+* [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. [MIT]/[Apache2]
 * [benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/google/benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/google/benchmark)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. [Apache2]
 * [Boost.Test ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/test) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/test)](https://github.com/boostorg/test) - Boost Test Library. [Boost] [website](https://boost.org/libs/test)
 * [check ![GitHub Repo Stars](https://img.shields.io/github/stars/libcheck/check) ![GitHub last commit](https://img.shields.io/github/last-commit/libcheck/check)](https://github.com/libcheck/check) - Check is a unit testing framework for C. [LGPL-2.1] [website](https://libcheck.github.io/check/)
