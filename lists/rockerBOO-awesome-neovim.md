@@ -1056,6 +1056,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Jxstxs/conceal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 - [hiberabyss/bzlops.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/hiberabyss/bzlops.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/hiberabyss/bzlops.vim)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
 - [altermo/iedit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/altermo/iedit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/altermo/iedit.nvim)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+- [ptdewey/yankbank-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/yankbank-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/yankbank-nvim)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 
 ### Comment
 
