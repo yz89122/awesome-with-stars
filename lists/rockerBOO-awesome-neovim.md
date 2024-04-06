@@ -764,6 +764,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [SUSTech-data/neopyter ![GitHub Repo Stars](https://img.shields.io/github/stars/SUSTech-data/neopyter) ![GitHub last commit](https://img.shields.io/github/last-commit/SUSTech-data/neopyter)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 - [terje/simctl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/terje/simctl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/terje/simctl.nvim)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 - [pluffie/md-babel.nvim](https://codeberg.org/pluffie/md-babel.nvim) - Run code chunks from Markdown files, like org-babel.
+- [mistricky/codesnap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mistricky/codesnap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mistricky/codesnap.nvim)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 
 ## Terminal Integration
 

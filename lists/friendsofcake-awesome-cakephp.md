@@ -308,6 +308,7 @@ Additional lists you might find useful:
 ## Social
 *Plugins around social features.*
 
+- 🍰 [Favorites plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-favorites) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-favorites)](https://github.com/dereuromark/cakephp-favorites) - Allows users to star/like/favor records.
 - 🍰 [Ratings plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ratings) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ratings)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
 ## Templating
