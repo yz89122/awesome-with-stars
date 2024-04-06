@@ -185,7 +185,7 @@ sellers who aren’t evil for physical resources.</p>
         </ul>
       </li>
       <li><a href="#parsing-html">Parsing html</a></li>
-      <li><a href="#querying-htmldom">Querying HTML/DOM</a></li>
+      <li><a href="#querying-htmldom-web-scraping">Querying HTML/DOM, web scraping</a></li>
       <li><a href="#html-generators-and-templates">HTML generators and templates</a></li>
       <li><a href="#uri-handling">URI handling</a></li>
       <li><a href="#javascript">Javascript</a></li>
@@ -347,6 +347,8 @@ work on Common Music shifted to (scheme-based) cm3.</li>
 <a href="https://github.com/zzkt/osc">osc <img src="https://img.shields.io/github/stars/zzkt/osc" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/zzkt/osc" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - an implementation of the Open Sound Protocol. <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">LGPL2.1</a>.</li>
   <li>
 <a href="https://shirakumo.github.io/harmony">Harmony</a> - A real-time sound processing and playback system. <a href="https://directory.fsf.org/wiki/License:Zlib">zlib</a>.</li>
+  <li>
+<a href="https://github.com/shamazmazum/easy-audio">easy-audio <img src="https://img.shields.io/github/stars/shamazmazum/easy-audio" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/shamazmazum/easy-audio" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a collection of audio decoders and metadata readers.</li>
 </ul>
 
 <h1 id="build-systems">Build Systems</h1>
@@ -561,9 +563,10 @@ work on Common Music shifted to (scheme-based) cm3.</li>
 <ul>
   <li>
 <a href="https://codeberg.org/Equill/restagraph">restagraph</a> - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. <a href="http://www.gnu.org/copyleft/gpl.html">GPL3</a>.</li>
-  <li>
-<a href="https://github.com/cl-facts/facts">facts <img src="https://img.shields.io/github/stars/cl-facts/facts" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cl-facts/facts" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC).</li>
 </ul>
+
+<!-- lost in translation: (it was slow anyways) -->
+<!-- * [facts ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-facts/facts) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-facts/facts)](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC). -->
 
 <h2 id="wrappers">Wrappers</h2>
 
@@ -653,6 +656,8 @@ lock-free, concurrent, key/value index with efficient memory-mapped persistence 
 </li>
   <li>
 <a href="https://github.com/privet-kitty/cl-competitive">cl-competitive <img src="https://img.shields.io/github/stars/privet-kitty/cl-competitive" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/privet-kitty/cl-competitive" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Common Lisp algorithms collection for competitive programming. Public domain, CCO or MIT.</li>
+  <li>
+<a href="https://github.com/fosskers/cl-nonempty">nonempty <img src="https://img.shields.io/github/stars/fosskers/cl-nonempty" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fosskers/cl-nonempty" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Non-empty collections for Common Lisp.  <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL3</a>.</li>
 </ul>
 
 <p>Accessing data structures:</p>
@@ -763,11 +768,15 @@ ASDF, Qlot and Roswell.</li>
   <li>
 <a href="https://github.com/marcoheisig/cl4py">cl4py <img src="https://img.shields.io/github/stars/marcoheisig/cl4py" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/marcoheisig/cl4py" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
-<a href="https://github.com/bendudson/py4cl">py4cl <img src="https://img.shields.io/github/stars/bendudson/py4cl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/bendudson/py4cl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
-  <li>
-<a href="https://github.com/digikar99/py4cl2-cffi">py4cl2-cffi <img src="https://img.shields.io/github/stars/digikar99/py4cl2-cffi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/digikar99/py4cl2-cffi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - CFFI based alternative to py4cl2.
+<a href="https://github.com/bendudson/py4cl">py4cl <img src="https://img.shields.io/github/stars/bendudson/py4cl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/bendudson/py4cl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. <a href="https://opensource.org/licenses/MIT">MIT</a>.
     <ul>
-      <li>“When capable, the CFFI approach can be a 50 times faster than py4cl2.”</li>
+      <li>its fork <a href="https://github.com/digikar99/py4cl2">py4cl2 <img src="https://img.shields.io/github/stars/digikar99/py4cl2" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/digikar99/py4cl2" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>, at first less stable, now more developped and faster.</li>
+      <li>
+<a href="https://github.com/digikar99/py4cl2-cffi">py4cl2-cffi <img src="https://img.shields.io/github/stars/digikar99/py4cl2-cffi" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/digikar99/py4cl2-cffi" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - CFFI based alternative to py4cl2.
+        <ul>
+          <li>“When capable, the CFFI approach can be a 50 times faster than py4cl2.”</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
@@ -927,7 +936,7 @@ ASDF, Qlot and Roswell.</li>
     </ul>
   </li>
   <li>
-<a href="https://notabug.org/cage/nodgui">nodgui</a> - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.
+<a href="https://codeberg.org/cage/nodgui">nodgui</a> - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.
     <ul>
       <li>🎨 supports <a href="https://wiki.tcl-lang.org/page/List+of+ttk+Themes">tk custom themes</a>, such as <a href="https://ttkthemes.readthedocs.io/en/latest/themes.html">ttkthemes</a> and <a href="https://github.com/rdbende/Forest-ttk-theme">Forest-ttk-theme <img src="https://img.shields.io/github/stars/rdbende/Forest-ttk-theme" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rdbende/Forest-ttk-theme" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</li>
       <li>supports an SDL frame as an alternative to the Tk canvas when fast rendering is needed. For 2D (pixel-based) and 3D rendering (using openGL).</li>
@@ -1012,6 +1021,10 @@ processes. It has
       <li>see also: <a href="https://github.com/quil-lang/sbcl-librarian">sbcl-librarian <img src="https://img.shields.io/github/stars/quil-lang/sbcl-librarian" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. <a href="https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html">Blog post</a>. <a href="https://github.com/quil-lang/sbcl-librarian/tree/main/example">Full example <img src="https://img.shields.io/github/stars/quil-lang/sbcl-librarian" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</li>
       <li>
 <a href="https://github.com/sionescu/sbcl-goodies">SBCL-GOODIES <img src="https://img.shields.io/github/stars/sionescu/sbcl-goodies" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/sionescu/sbcl-goodies" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+      <li>
+<a href="https://github.com/olnw/sbcl-builds">Nightly Windows builds of SBCL <img src="https://img.shields.io/github/stars/olnw/sbcl-builds" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/olnw/sbcl-builds" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Nightly builds of SBCL using MSYS2 UCRT64. See also <a href="https://github.com/roswell/sbcl_bin/releases/">Roswell’s SBCL MSI builds <img src="https://img.shields.io/github/stars/roswell/sbcl_bin" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/roswell/sbcl_bin" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</li>
+      <li>
+<a href="https://github.com/guicho271828/sbcl-wiki/wiki">sbcl-wiki <img src="https://img.shields.io/github/stars/guicho271828/sbcl-wiki" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/guicho271828/sbcl-wiki" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - an open wiki to document SBCL’s internals.</li>
     </ul>
   </li>
   <li>⭐ <a href="//ccl.clozure.com/">CCL</a> - Clozure Common Lisp; compiler-only implementation, generates native code.  <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
@@ -1198,10 +1211,6 @@ hash-tables and hash-sets. <a href="https://opensource.org/licenses/MIT">MIT</a>
 <ul>
   <li>⭐ <a href="http://cliki.net/closer-mop">closer-mop</a> - A compatibility layer that rectifies many absent or incorrect MOP features. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
   <li>
-<a href="https://github.com/EuAndreh/defclass-std">defclass-std <img src="https://img.shields.io/github/stars/EuAndreh/defclass-std" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/EuAndreh/defclass-std" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a shortcut macro to write DEFCLASS forms quickly. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
-  <li>
-<a href="https://github.com/atlas-engineer/nclasses">nclasses <img src="https://img.shields.io/github/stars/atlas-engineer/nclasses" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/atlas-engineer/nclasses" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Syntactic sugar for class and generic function declarations. Fork of <a href="https://github.com/hu-dwim/hu.dwim.defclass-star">hu.dwim.defclass-star <img src="https://img.shields.io/github/stars/hu-dwim/hu.dwim.defclass-star" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hu-dwim/hu.dwim.defclass-star" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>.</li>
-  <li>
 <a href="https://github.com/markcox80/specialization-store/">specialization-store <img src="https://img.shields.io/github/stars/markcox80/specialization-store" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/markcox80/specialization-store" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - generic functions based on types. Simplified BSD License variant.</li>
   <li>
 <a href="https://github.com/pcostanza/filtered-functions">filtered-functions <img src="https://img.shields.io/github/stars/pcostanza/filtered-functions" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/pcostanza/filtered-functions" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - enable the use of arbitrary predicates for selecting and applying methods. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
@@ -1221,6 +1230,15 @@ Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.
       <li>for differences with specialization-store and fast-generic-functions, see its README.</li>
     </ul>
   </li>
+</ul>
+
+<p>Writing terser defclass forms:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/EuAndreh/defclass-std">defclass-std <img src="https://img.shields.io/github/stars/EuAndreh/defclass-std" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/EuAndreh/defclass-std" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a shortcut macro to write DEFCLASS forms quickly. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+  <li>
+<a href="https://github.com/atlas-engineer/nclasses">nclasses <img src="https://img.shields.io/github/stars/atlas-engineer/nclasses" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/atlas-engineer/nclasses" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Syntactic sugar for class and generic function declarations. Fork of <a href="https://github.com/hu-dwim/hu.dwim.defclass-star">hu.dwim.defclass-star <img src="https://img.shields.io/github/stars/hu-dwim/hu.dwim.defclass-star" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hu-dwim/hu.dwim.defclass-star" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>.</li>
 </ul>
 
 <p>And also:</p>
@@ -1332,6 +1350,8 @@ programming library in the style of Eiffel’s Design by Contract ™. Public 
   <li>
 <a href="https://bitbucket.org/eeeickythump/defstar/src/master/">defstar</a> - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL3</a>
 </li>
+  <li>
+<a href="https://github.com/stylewarning/cl-algebraic-data-type">algebraic-data-types <img src="https://img.shields.io/github/stars/stylewarning/cl-algebraic-data-type" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/stylewarning/cl-algebraic-data-type" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>.</li>
 </ul>
 
 <p>See also:</p>
@@ -1353,6 +1373,8 @@ programming library in the style of Eiffel’s Design by Contract ™. Public 
       <li>“Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins.” (<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399">source</a>)</li>
       <li>
 <a href="https://github.com/calebegg/proof-pad/">Proofpad <img src="https://img.shields.io/github/stars/calebegg/proof-pad" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/calebegg/proof-pad" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>, an online IDE for ACL2.</li>
+      <li>
+<a href="https://github.com/tani/acl2-kernel">ACL2-kernel <img src="https://img.shields.io/github/stars/tani/acl2-kernel" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/tani/acl2-kernel" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>, a Jupyter Kernel for ACL2.</li>
       <li>
 <a href="http://acl2s.ccs.neu.edu/acl2s/doc/">ACL2 Sedan</a>, an Eclipse plugin that provides a modern IDE for ACL2, used with students at universities.
         <ul>
@@ -1582,6 +1604,12 @@ programming library in the style of Eiffel’s Design by Contract ™. Public 
 
 <ul>
   <li>(NEW! as of May, 2023) <a href="https://github.com/ocicl/ocicl">ocicl <img src="https://img.shields.io/github/stars/ocicl/ocicl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ocicl/ocicl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a new and experimental alternative to Quicklisp, built on tools from the world of containers. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+  <li>
+<a href="https://github.com/atgreen/trivial-system-loader">trivial-system-loader <img src="https://img.shields.io/github/stars/atgreen/trivial-system-loader" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/atgreen/trivial-system-loader" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  A system installation/loading abstraction for Common Lisp.
+    <ul>
+      <li>play nice with people using another library manager than Quicklisp: instead of hard-coding <code class="language-plaintext highlighter-rouge">(ql:quickload :mysystem)</code>, use <code class="language-plaintext highlighter-rouge">(tsl:load-system :mysystem)</code>. tsl:load-system will first try to use ocicl if available, then quicklisp, then plain asdf:load-system.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>might help:</p>
@@ -1614,6 +1642,9 @@ programming library in the style of Eiffel’s Design by Contract ™. Public 
 <a href="https://gitlab.com/ralph-schleicher/flatpak-common-lisp">flatpack-common-lisp</a> - A BuildStream project for building Flatpak based runtime environments for Common Lisp applications.</li>
   <li>
 <a href="https://github.com/borodust/alien-works-delivery">alien-works-delivery <img src="https://img.shields.io/github/stars/borodust/alien-works-delivery" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/borodust/alien-works-delivery" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.</li>
+  <li>
+<a href="https://github.com/hraban/cl-nix-lite">cl-nix-lite <img src="https://img.shields.io/github/stars/hraban/cl-nix-lite" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/hraban/cl-nix-lite" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Common Lisp module for Nix, without Quicklisp. <a href="https://directory.fsf.org/wiki/License:ArtisticLicense2.0">AGPL-3.0</a>
+</li>
 </ul>
 
 <p>See also:</p>
@@ -1796,9 +1827,16 @@ Example projects: <a href="https://github.com/quickdocs">Quickdocs</a>
   <li>👍 <a href="https://github.com/Shinmera/plump">Plump</a> - A lenient HTML/XML parser, tolerant on malformed markup. <a href="https://directory.fsf.org/wiki/License:Zlib">zlib</a>. Best used with <a href="https://github.com/Shinmera/lquery">lquery</a> and <a href="https://github.com/Shinmera/CLSS">clss <img src="https://img.shields.io/github/stars/Shinmera/CLSS" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/Shinmera/CLSS" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a>.</li>
 </ul>
 
-<h2 id="querying-htmldom">Querying HTML/DOM</h2>
+<h2 id="querying-htmldom-web-scraping">Querying HTML/DOM, web scraping</h2>
+
 <ul>
   <li>👍 <a href="https://github.com/Shinmera/lquery">lquery</a> - A jQuery-like HTML/DOM manipulation library. <a href="https://directory.fsf.org/wiki/License:Zlib">zlib</a>.</li>
+  <li>
+<a href="https://40ants.com/scrapycl/">scrapycl</a> - web scraping framework for writing crawlers in Common Lisp. Unlicense.
+    <ul>
+      <li>relying on lquery.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>See also the XML section below for xpath libraries and more.</p>
@@ -1902,6 +1940,12 @@ utilities,… <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3
 </li>
   <li>
 <a href="https://github.com/y2q-actionman/cl-aws-custom-runtime-test">cl-aws-runtime-test <img src="https://img.shields.io/github/stars/y2q-actionman/cl-aws-custom-runtime-test" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/y2q-actionman/cl-aws-custom-runtime-test" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.</li>
+  <li>
+<a href="https://github.com/40ants/ci/">40ants/ci <img src="https://img.shields.io/github/stars/40ants/ci" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/40ants/ci" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Highly opionated Github Actions workflow builder for Common Lisp projects.
+    <ul>
+      <li>with: a linter, lisp critic, tests runner, test matrix, doc building, caching…</li>
+    </ul>
+  </li>
 </ul>
 
 <p>See also:</p>
@@ -2175,8 +2219,6 @@ them. <a href="https://directory.fsf.org/wiki/License:AGPL-3.0">AGPL-3.0</a>.</l
   <li>
 <a href="https://github.com/ghollisjr/cl-ana">cl-ana <img src="https://img.shields.io/github/stars/ghollisjr/cl-ana" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ghollisjr/cl-ana" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL3</a>.</li>
   <li>
-<a href="https://neil-lindquist.github.io/linear-programming/">linear-programming</a> – a library for solving linear programming problems. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
-  <li>
 <a href="https://github.com/takagi/avm">avm <img src="https://img.shields.io/github/stars/takagi/avm" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/takagi/avm" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/bendudson/array-operations">array-operations <img src="https://img.shields.io/github/stars/bendudson/array-operations" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/bendudson/array-operations" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a collection of functions and macros for manipulating Common Lisp arrays and performing numerical calculations with them. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
@@ -2188,6 +2230,15 @@ them. <a href="https://directory.fsf.org/wiki/License:AGPL-3.0">AGPL-3.0</a>.</l
 <a href="https://github.com/cbaggers/rtg-math/">rtg-math <img src="https://img.shields.io/github/stars/cbaggers/rtg-math" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/cbaggers/rtg-math" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD_2Clause.</li>
   <li>
 <a href="https://github.com/mfiano/origin">origin <img src="https://img.shields.io/github/stars/mfiano/origin" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mfiano/origin" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping &amp; intersections. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+</ul>
+
+<p>Planning solvers:</p>
+
+<ul>
+  <li>
+<a href="https://neil-lindquist.github.io/linear-programming/">linear-programming</a> – a library for solving linear programming problems. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+  <li>
+<a href="https://github.com/shop-planner/shop3">shop3 <img src="https://img.shields.io/github/stars/shop-planner/shop3" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/shop-planner/shop3" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.</li>
 </ul>
 
 <p>NEW! If you have precise needs, blurry needs or simply questions, the repository <a href="https://github.com/digikar99/common-lisp-numsci-call-for-needs">Common Lisp numsci call for needs <img src="https://img.shields.io/github/stars/digikar99/common-lisp-numsci-call-for-needs" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/digikar99/common-lisp-numsci-call-for-needs" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> is a new place to discuss them.</p>
@@ -2258,7 +2309,7 @@ them. <a href="https://directory.fsf.org/wiki/License:AGPL-3.0">AGPL-3.0</a>.</l
 a Common Lisp library offering a way of spawning threads and being
 informed when one any of them crash and die. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
-<a href="https://github.com/taksatou/cl-gearman">cl-gearman <img src="https://img.shields.io/github/stars/taksatou/cl-gearman" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/taksatou/cl-gearman" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a library for the <a href="http://gearman.org/">Gearman</a> distributed job system. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+<a href="https://github.com/taksatou/cl-gearman">cl-gearman <img src="https://img.shields.io/github/stars/taksatou/cl-gearman" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/taksatou/cl-gearman" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a library for the <a href="https://github.com/gearman/gearmand/">Gearman <img src="https://img.shields.io/github/stars/gearman/gearmand" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/gearman/gearmand" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> distributed job system. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
   <li>
 <a href="https://github.com/brown/swank-crew">swank-crew <img src="https://img.shields.io/github/stars/brown/swank-crew" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/brown/swank-crew" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - distributed computation framework implemented using Swank Client. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>.</li>
   <li>
@@ -2489,11 +2540,23 @@ programs, providing support for mixed language debugging.
 <ul>
   <li>⭐ <a href="https://github.com/slime/slime">Slime <img src="https://img.shields.io/github/stars/slime/slime" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/slime/slime" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.</li>
   <li>👍 <a href="https://github.com/joaotavora/sly">Sly <img src="https://img.shields.io/github/stars/joaotavora/sly" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/joaotavora/sly" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.</li>
+</ul>
+
+<p>Starter kits:</p>
+
+<ul>
   <li>👍 <a href="https://shinmera.github.io/portacle/">Portacle</a> - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.</li>
   <li>
-<a href="https://hub.docker.com/r/eshamster/cl-devel2/">cl-devel2</a> - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.</li>
-  <li>
 <a href="https://github.com/susam/emacs4cl">Emacs4CL <img src="https://img.shields.io/github/stars/susam/emacs4cl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/susam/emacs4cl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.</li>
+  <li>
+<a href="https://github.com/pascalcombier/plain-common-lisp/">plain-common-lisp <img src="https://img.shields.io/github/stars/pascalcombier/plain-common-lisp" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/pascalcombier/plain-common-lisp" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  A trivial way to get a native Common Lisp environment on Windows.
+    <ul>
+      <li>ships SBCL, Quicklisp, Emacs and Slime.</li>
+      <li>with example programs for a console program, accessing the Win32 API, displaying a GUI with IUP, running an OpenGL window.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://hub.docker.com/r/eshamster/cl-devel2/">cl-devel2</a> - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.</li>
 </ul>
 
 <p>Slime extensions:</p>
@@ -2678,6 +2741,12 @@ notebook-style Common Lisp environment. <a href="https://opensource.org/licenses
 <ul>
   <li>⭐ <a href="https://github.com/scymtym/esrap">esrap <img src="https://img.shields.io/github/stars/scymtym/esrap" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/scymtym/esrap" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Packrat parser. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
   <li>
+<a href="https://github.com/quil-lang/alexa">alexa <img src="https://img.shields.io/github/stars/quil-lang/alexa" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/quil-lang/alexa" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  A Lexical Analyzer Generator. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>.
+    <ul>
+      <li>ALEXA is a tool similar to lex or flex for generating lexical analyzers. Unlike tools like lex, however, ALEXA defines a domain-specific language within your Lisp program, so you don’t need to invoke a separate tool.</li>
+    </ul>
+  </li>
+  <li>
 <a href="https://github.com/jech/cl-yacc">cl-yacc <img src="https://img.shields.io/github/stars/jech/cl-yacc" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/jech/cl-yacc" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a LALR(1) parser generator. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/ruricolist/cl-shlex/">cl-shlex <img src="https://img.shields.io/github/stars/ruricolist/cl-shlex" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ruricolist/cl-shlex" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - simple lexical analyzer for shell-like syntaxes. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
@@ -2686,9 +2755,16 @@ notebook-style Common Lisp environment. <a href="https://opensource.org/licenses
   <li>
 <a href="https://github.com/mrossini-ethz/parseq">parseq <img src="https://img.shields.io/github/stars/mrossini-ethz/parseq" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mrossini-ethz/parseq" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a library for parsing sequences such as strings and lists using parsing expression grammars. Inspired by Esrap. GPL2.</li>
   <li>
-<a href="https://github.com/eugeneia/texp/">texp <img src="https://img.shields.io/github/stars/eugeneia/texp" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/eugeneia/texp" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A DSL to generate TeX. <a href="https://directory.fsf.org/wiki/License:AGPL-3.0">AGPL-3.0</a>.</li>
-  <li>
 <a href="https://github.com/j3pic/lisp-binary">lisp-binary <img src="https://img.shields.io/github/stars/j3pic/lisp-binary" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/j3pic/lisp-binary" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A library to easily read and write complex binary formats. <a href="http://www.gnu.org/copyleft/gpl.html">GPL3</a>.</li>
+  <li>
+<a href="https://github.com/ravi-delia/uclp">uclp <img src="https://img.shields.io/github/stars/ravi-delia/uclp" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/ravi-delia/uclp" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  An experimental implementation of parsing expression grammars (PEGs, a la Janet) in Common Lisp. MIT.</li>
+</ul>
+
+<p>see also:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/eugeneia/texp/">texp <img src="https://img.shields.io/github/stars/eugeneia/texp" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/eugeneia/texp" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A DSL to generate TeX. <a href="https://directory.fsf.org/wiki/License:AGPL-3.0">AGPL-3.0</a>.</li>
 </ul>
 
 <h1 id="text-processing">Text Processing</h1>
@@ -2755,6 +2831,12 @@ arguments. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/fukamachi/cl-coveralls">cl-coveralls <img src="https://img.shields.io/github/stars/fukamachi/cl-coveralls" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/fukamachi/cl-coveralls" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - a helper
 library to post test coverage to Coveralls. See <a href="http://www.sbcl.org/manual/index.html#sb_002dcover">SBCL’s code coverage tool</a>. <a href="https://directory.fsf.org/wiki?title=License:FreeBSD">FreeBSD</a>.</li>
+  <li>
+<a href="https://github.com/rpav/CheckL/">CheckL <img src="https://img.shields.io/github/stars/rpav/CheckL" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/rpav/CheckL" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Why write programs in Common Lisp but tests like Java? Meet CheckL!
+    <ul>
+      <li>a testing library that checks the current test value against the previous one and offers restarts.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>See also:</p>
@@ -2937,8 +3019,7 @@ code must look pretty, documentation is code. <a href="https://opensource.org/li
   <li>
 <a href="https://github.com/didierverna/declt">Declt <img src="https://img.shields.io/github/stars/didierverna/declt" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/didierverna/declt" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.</li>
   <li>
-<a href="https://github.com/CommonDoc/codex">Codex <img src="https://img.shields.io/github/stars/CommonDoc/codex" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/CommonDoc/codex" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A beautiful
-documentation system for Common Lisp. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<a href="https://github.com/CommonDoc/codex">Codex <img src="https://img.shields.io/github/stars/CommonDoc/codex" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/CommonDoc/codex" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A beautiful documentation system for Common Lisp. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/mmontone/qbook">QBook <img src="https://img.shields.io/github/stars/mmontone/qbook" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/mmontone/qbook" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>.
     <ul>
@@ -3134,6 +3215,13 @@ lispy, structure-less Gnuplot library. With its
 <a href="https://github.com/komi1230/kai">kai <img src="https://img.shields.io/github/stars/komi1230/kai" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/komi1230/kai" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A high-level plotter library for Common Lisp. A wrapper around the <a href="https://plotly.com/javascript/">Plotly</a> JS library. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://common-lisp.net/project/adw-charting/">ADW-Charting</a> - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google’s chart service. BSD-like.</li>
+</ul>
+
+<p>Plotting with text:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/moneylobster/cl-text-plot/">cl-text-plot <img src="https://img.shields.io/github/stars/moneylobster/cl-text-plot" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/moneylobster/cl-text-plot" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Plot with text in Common Lisp. No licence specified.</li>
   <li>
 <a href="https://github.com/tkych/cl-spark">cl-spark <img src="https://img.shields.io/github/stars/tkych/cl-spark" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/tkych/cl-spark" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - sparkline strings for the console: <code class="language-plaintext highlighter-rouge">(spark '(1 1 2 3 5 8))</code> =&gt; “▁▁▂▃▅▇”. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
@@ -3192,6 +3280,15 @@ lispy, structure-less Gnuplot library. With its
 </li>
   <li>
 <a href="https://github.com/AccelerationNet/buildnode">Buildnode <img src="https://img.shields.io/github/stars/AccelerationNet/buildnode" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/AccelerationNet/buildnode" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> - A common lisp library to ease interaction with CXML-dom, such as building Excel spreadsheets. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>.</li>
+</ul>
+
+<p>To read Excel files:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/defunkydrummer/lisp-xl">lisp-xl <img src="https://img.shields.io/github/stars/defunkydrummer/lisp-xl" alt="GitHub Repo Stars" loading="lazy" referrerpolicy="no-referrer"> <img src="https://img.shields.io/github/last-commit/defunkydrummer/lisp-xl" alt="GitHub last commit" loading="lazy" referrerpolicy="no-referrer"></a> -  Common Lisp Microsoft XLSX (Microsoft Excel) loader for arbitrarily-sized / big-size files. MIT.</li>
+  <li>
+<a href="https://gitlab.common-lisp.net/cungil/xlsx">xlsx</a> - a basic reader for Excel files.</li>
 </ul>
 
 <h2 id="other">Other</h2>
