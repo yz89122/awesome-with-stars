@@ -1440,7 +1440,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [lizard ![GitHub Repo Stars](https://img.shields.io/github/stars/terryyin/lizard) ![GitHub last commit](https://img.shields.io/github/last-commit/terryyin/lizard)](https://github.com/terryyin/lizard) — Lizard is an extensible Cyclomatic Complexity Analyzer for many programming languages  including C/C++ (doesn't require all the header files or Java imports).  It also does copy-paste detection (code clone detection/code duplicate detection) and many other forms of static code analysis. Counts lines of code without comments, CCN (cyclomatic complexity number), token count of functions, parameter count of functions.
 
-- [Mega-Linter](https://nvuillam.github.io/mega-linter/) �� Mega-Linter can handle any type of project thanks to its 70+ embedded Linters,
+- [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter can handle any type of project thanks to its 70+ embedded Linters,
  its advanced reporting, runnable on any CI system or locally,
  with assisted installation and configuration, able to apply formatting and fixes
 
