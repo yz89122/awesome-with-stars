@@ -286,7 +286,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
 - [Tim Oliver ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/TimOliver) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/TimOliver)](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
-- [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
+- [Timoth��e Giet](https://www.patreon.com/animtim) - GCompris contributor.
 - [Tobias Koppers ![GitHub Repo Stars](https://img.shields.io/github/stars/users/sokra) ![GitHub last commit](https://img.shields.io/github/last-commit/users/sokra)](https://github.com/users/sokra/sponsorship) - Founder and maintainer of Webpack.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) - FreeCAD contributor.
 
