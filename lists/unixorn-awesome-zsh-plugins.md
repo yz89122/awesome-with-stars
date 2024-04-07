@@ -16,6 +16,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Disclaimer](#disclaimer)
 - [Frameworks](#frameworks)
   - [alf](#alf)
   - [ansible-role-zsh](#ansible-role-zsh)
@@ -104,6 +105,20 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 *Please read the [Contributing Guidelines](Contributing.md) before contributing.*
+## Disclaimer
+
+While I have done my best to not add entries with embedded malicious code, I don't have the time to sift through the source of every entry in the list.
+
+THIS LIST IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Frameworks
 
@@ -2076,6 +2091,7 @@ If you're using [Antigen ![GitHub Repo Stars](https://img.shields.io/github/star
 - [kyuu ![GitHub Repo Stars](https://img.shields.io/github/stars/arturoalviar/kyuu-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/arturoalviar/kyuu-zsh-theme)](https://github.com/arturoalviar/kyuu-zsh-theme) - A simple theme with the first character being 九(kyuu), the number 9. The primary color is blue with a magenta accent. Includes `git` status decorations.
 - [lacerate ![GitHub Repo Stars](https://img.shields.io/github/stars/Petrushevsky-A/Lacerate-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Petrushevsky-A/Lacerate-zsh-theme)](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
 - [laconic ![GitHub Repo Stars](https://img.shields.io/github/stars/Saka7/laconic.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Saka7/laconic.zsh-theme)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
+- [lagnoda ![GitHub Repo Stars](https://img.shields.io/github/stars/jashezan/lagnoda) ![GitHub last commit](https://img.shields.io/github/last-commit/jashezan/lagnoda)](https://github.com/jashezan/lagnoda) Inspired by [agnoster](https://gist.github.com/agnoster/3712874) and `lambda` themes. Includes decorators for username@hostname, current directory, `git`, `hg`, or `bzr` status, current virtualenv, exit status of last command run, and current aws profile.
 - [lagune ![GitHub Repo Stars](https://img.shields.io/github/stars/noplay/lagune) ![GitHub last commit](https://img.shields.io/github/last-commit/noplay/lagune)](https://github.com/noplay/lagune) - A minimal ZSH theme.
 - [lambda (bluedragon1221) ![GitHub Repo Stars](https://img.shields.io/github/stars/bluedragon1221/zsh-lambda-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/bluedragon1221/zsh-lambda-prompt)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
 - [lambda (cdimascio) ![GitHub Repo Stars](https://img.shields.io/github/stars/cdimascio/lambda-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/cdimascio/lambda-zsh-theme)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
