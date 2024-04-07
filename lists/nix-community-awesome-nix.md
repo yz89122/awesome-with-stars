@@ -125,6 +125,7 @@
 
 ## Development
 
+* [attic ![GitHub Repo Stars](https://img.shields.io/github/stars/zhaofengli/attic) ![GitHub last commit](https://img.shields.io/github/last-commit/zhaofengli/attic)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 * [Arion ![GitHub Repo Stars](https://img.shields.io/github/stars/hercules-ci/arion) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/arion)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [cached-nix-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/xzfc/cached-nix-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/xzfc/cached-nix-shell)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 * [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
