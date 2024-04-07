@@ -1263,7 +1263,7 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [Angular ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-eslint/angular-eslint)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 
-- [Codelyzer](http://codelyzer.com) :warning: ��� A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
+- [Codelyzer](http://codelyzer.com) :warning: — A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
 
 - [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
