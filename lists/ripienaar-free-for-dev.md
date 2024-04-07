@@ -1154,7 +1154,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications for up to 2,000 Subscribers
   * [pusher.com](https://pusher.com/beams) — Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
    * [engagespot.co](https://engagespot.co/) — Notification infrastructure for developers. Free for up to 100 monthly active users.
-  * [quickblox.com](https://quickblox.com/) �� A communication backend for instant messaging, video, and voice calling, and push notifications
+  * [quickblox.com](https://quickblox.com/) — A communication backend for instant messaging, video, and voice calling, and push notifications
   * [restspace.io](https://restspace.io/) - Configure a server with services for auth, data, files, email API, templates, and more, then compose into pipelines and transform data.
   * [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag-and-drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightning Platform.
   * [ServiceNow Developer Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access to early previews.
