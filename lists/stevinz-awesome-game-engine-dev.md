@@ -631,7 +631,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Haxe ![GitHub Repo Stars](https://img.shields.io/github/stars/nadako/awesome-haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/nadako/awesome-haxe)](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
 - 📚 [Awesome Haxe Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Dvergar/awesome-haxe-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/awesome-haxe-gamedev)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
 - 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/haxe)](https://github.com/HaxeFoundation/haxe)]
-- 📚 [Haxe Blog: Game Engine](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months) - "How I wrote my own 3D game engine and shipped a game in 20 months".
+- �� [Haxe Blog: Game Engine](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months) - "How I wrote my own 3D game engine and shipped a game in 20 months".
 - 📚 [Haxe Blog: OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-) - "Flash is dead, long live OpenFL".
 - Haxe: Animation
     - 🎉 [Actuate ![GitHub Repo Stars](https://img.shields.io/github/stars/jgranick/actuate) ![GitHub last commit](https://img.shields.io/github/last-commit/jgranick/actuate)](https://github.com/jgranick/actuate) - Flexible, fast tween library.
