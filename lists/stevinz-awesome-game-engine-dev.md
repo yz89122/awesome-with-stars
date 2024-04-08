@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Tutorials
-    - ��� [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
 - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
@@ -319,7 +319,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Sokol Graphics Painter ![GitHub Repo Stars](https://img.shields.io/github/stars/edubart/sokol_gp) ![GitHub last commit](https://img.shields.io/github/last-commit/edubart/sokol_gp)](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with _Sokol_.
 - C: Gui
     - 🎉 [cImgui ![GitHub Repo Stars](https://img.shields.io/github/stars/cimgui/cimgui) ![GitHub last commit](https://img.shields.io/github/last-commit/cimgui/cimgui)](https://github.com/cimgui/cimgui) - Thin C wrapper generated for Dear ImGui.
-    - 🎉 [lvgl ![GitHub Repo Stars](https://img.shields.io/github/stars/lvgl/lvgl) ![GitHub last commit](https://img.shields.io/github/last-commit/lvgl/lvgl)](https://github.com/lvgl/lvgl) 🔥 - Embedded gui library, many widgets and advanced visual effects.
+    - ��� [lvgl ![GitHub Repo Stars](https://img.shields.io/github/stars/lvgl/lvgl) ![GitHub last commit](https://img.shields.io/github/last-commit/lvgl/lvgl)](https://github.com/lvgl/lvgl) 🔥 - Embedded gui library, many widgets and advanced visual effects.
     - 🎉 [NAppGUI ![GitHub Repo Stars](https://img.shields.io/github/stars/frang75/nappgui_src) ![GitHub last commit](https://img.shields.io/github/last-commit/frang75/nappgui_src)](https://github.com/frang75/nappgui_src) - Professional, well documented SDK to build desktop apps.
     - 🎉 [Native File Dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/mlabbe/nativefiledialog) ![GitHub last commit](https://img.shields.io/github/last-commit/mlabbe/nativefiledialog)](https://github.com/mlabbe/nativefiledialog) - Portably invoke native file open / save dialogs.
     - 🎉 [Nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/Immediate-Mode-UI/Nuklear)](https://github.com/Immediate-Mode-UI/Nuklear) - Single-header immediate mode cross-platform gui library.

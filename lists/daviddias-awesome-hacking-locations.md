@@ -546,7 +546,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
+��� | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
 
 ## Jena
 
@@ -1062,7 +1062,7 @@ Webpage: http://4sq.com/2fHRcQF
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ��� | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
+✔ | ✔ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
 
 ![](http://beta.speedtest.net/result/6938533453.png)
 

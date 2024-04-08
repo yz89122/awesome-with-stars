@@ -246,6 +246,7 @@
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix ![GitHub Repo Stars](https://img.shields.io/github/stars/danth/stylix) ![GitHub last commit](https://img.shields.io/github/last-commit/danth/stylix)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 * [nix-bitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/fort-nix/nix-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/fort-nix/nix-bitcoin)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
+* [nix-topology ![GitHub Repo Stars](https://img.shields.io/github/stars/oddlama/nix-topology) ![GitHub last commit](https://img.shields.io/github/last-commit/oddlama/nix-topology)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 
 ## NixOS Configuration Editors
 
