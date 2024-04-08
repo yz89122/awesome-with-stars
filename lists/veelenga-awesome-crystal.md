@@ -355,6 +355,7 @@ described in [RFC 8032]
  * [shainet ![GitHub Repo Stars](https://img.shields.io/github/stars/NeuraLegion/shainet) ![GitHub last commit](https://img.shields.io/github/last-commit/NeuraLegion/shainet)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## Markdown/Text Processors
+ * [cr-cmark-gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/amauryt/cr-cmark-gfm) ![GitHub last commit](https://img.shields.io/github/last-commit/amauryt/cr-cmark-gfm)](https://github.com/amauryt/cr-cmark-gfm) -  Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown
  * [markd ![GitHub Repo Stars](https://img.shields.io/github/stars/icyleaf/markd) ![GitHub last commit](https://img.shields.io/github/last-commit/icyleaf/markd)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## Misc
