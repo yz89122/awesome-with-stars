@@ -214,14 +214,11 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## App Store
 
-- [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
+*Apple Guidelines and version notification libraries*
+
+- [Apple Review Guidelines](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - Lets you track your App Store visibility in terms of keywords and competitors.
-- [App Release Checklist ![GitHub Repo Stars](https://img.shields.io/github/stars/oisin/app-release-checklist) ![GitHub last commit](https://img.shields.io/github/last-commit/oisin/app-release-checklist)](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
-- [Harpy ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtSabintsev/Harpy) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtSabintsev/Harpy)](https://github.com/ArtSabintsev/Harpy) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
-- [appirater ![GitHub Repo Stars](https://img.shields.io/github/stars/arashpayan/appirater) ![GitHub last commit](https://img.shields.io/github/last-commit/arashpayan/appirater)](https://github.com/arashpayan/appirater) - A utility that reminds your iPhone app's users to review the app.
 - [Siren ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtSabintsev/Siren) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtSabintsev/Siren)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
-- [Appstore Review Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/aashishtamsya/Appstore-Review-Guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/aashishtamsya/Appstore-Review-Guidelines)](https://github.com/aashishtamsya/Appstore-Review-Guidelines) - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
-- [AppVersion ![GitHub Repo Stars](https://img.shields.io/github/stars/amebalabs/AppVersion) ![GitHub last commit](https://img.shields.io/github/last-commit/amebalabs/AppVersion)](https://github.com/amebalabs/AppVersion) - Keep users on the up-to date version of your App.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -300,20 +297,22 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 **[back to top](#contributing-and-collaborating)**
 
 ## Books
-- [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
-- [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
-- [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
-- [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
-- [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
+
+*Most recommended books*
+
+- [Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift/)
+- [Anyone Can Create an App by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
+- [Classic Computer Science Problems in Swift](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 - [Cocoa Design Patterns](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+- [Core Data by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
+- [Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift/)
 - [Hello Swift! by Tanmay Bakshi with Lynn Beighley](https://www.manning.com/books/hello-swift)
 - [iOS Development with Swift by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
-- [Anyone Can Create an App by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
-- [Advanced Swift by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift/)
-- [Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift/)
-- [Core Data by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
-- [Classic Computer Science Problems in Swift](https://www.manning.com/books/classic-computer-science-problems-in-swift)
+- [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
+- [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 - [Swift in Depth](https://www.manning.com/books/swift-in-depth)
+- [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
+- [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -378,8 +377,10 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 **[back to top](#contributing-and-collaborating)**
 
 ## Code Injection
+ 
+ *Decrease development time with these tools*
 
-- [dyci ![GitHub Repo Stars](https://img.shields.io/github/stars/DyCI/dyci-main) ![GitHub last commit](https://img.shields.io/github/last-commit/DyCI/dyci-main)](https://github.com/DyCI/dyci-main) - Code injection tool.
+- [Inject ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/Inject) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/Inject)](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
 - [injectionforxcode ![GitHub Repo Stars](https://img.shields.io/github/stars/johnno1962/injectionforxcode) ![GitHub last commit](https://img.shields.io/github/last-commit/johnno1962/injectionforxcode)](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 - [Vaccine ![GitHub Repo Stars](https://img.shields.io/github/stars/zenangst/Vaccine) ![GitHub last commit](https://img.shields.io/github/last-commit/zenangst/Vaccine)](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease.
 
@@ -387,34 +388,20 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## Code Quality
 
- *Quality always matters. Code checkers, memory vigilants, syntastic sugars and more.*
+ *Quality always matters. Code checkers, memory vigilants, syntax sugars and more.*
 
-- [Bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/Bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/Bootstrap)](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
-- [KZAsserts ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/KZAsserts) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/KZAsserts)](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
-- [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
-- [ocstyle ![GitHub Repo Stars](https://img.shields.io/github/stars/Cue/ocstyle) ![GitHub last commit](https://img.shields.io/github/last-commit/Cue/ocstyle)](https://github.com/Cue/ocstyle) - Objective-C style checker.
-- [spacecommander ![GitHub Repo Stars](https://img.shields.io/github/stars/square/spacecommander) ![GitHub last commit](https://img.shields.io/github/last-commit/square/spacecommander)](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
-- [DWURecyclingAlert ![GitHub Repo Stars](https://img.shields.io/github/stars/diwu/DWURecyclingAlert) ![GitHub last commit](https://img.shields.io/github/last-commit/diwu/DWURecyclingAlert)](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
-- [Tailor ![GitHub Repo Stars](https://img.shields.io/github/stars/sleekbyte/tailor) ![GitHub last commit](https://img.shields.io/github/last-commit/sleekbyte/tailor)](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
-- [SwiftCop ![GitHub Repo Stars](https://img.shields.io/github/stars/andresinaka/SwiftCop) ![GitHub last commit](https://img.shields.io/github/last-commit/andresinaka/SwiftCop)](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
-- [Trackable ![GitHub Repo Stars](https://img.shields.io/github/stars/VojtaStavik/Trackable) ![GitHub last commit](https://img.shields.io/github/last-commit/VojtaStavik/Trackable)](https://github.com/VojtaStavik/Trackable) - Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects.
-- [MLeaksFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/MLeaksFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/MLeaksFinder)](https://github.com/Tencent/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
-- [HeapInspector-for-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/tapwork/HeapInspector-for-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/tapwork/HeapInspector-for-iOS)](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments.
-- [FBMemoryProfiler ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/FBMemoryProfiler) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/FBMemoryProfiler)](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
-- [FBRetainCycleDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/FBRetainCycleDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/FBRetainCycleDetector)](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
-- [Buglife ![GitHub Repo Stars](https://img.shields.io/github/stars/Buglife/Buglife-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/Buglife/Buglife-iOS)](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps.
-- [Warnings-xcconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/boredzo/Warnings-xcconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/boredzo/Warnings-xcconfig)](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
 - [Aardvark ![GitHub Repo Stars](https://img.shields.io/github/stars/square/Aardvark) ![GitHub last commit](https://img.shields.io/github/last-commit/square/Aardvark)](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
-- [Stats ![GitHub Repo Stars](https://img.shields.io/github/stars/shu223/Stats) ![GitHub last commit](https://img.shields.io/github/last-commit/shu223/Stats)](https://github.com/shu223/Stats) - In-app memory usage monitoring.
-- [GlueKit ![GitHub Repo Stars](https://img.shields.io/github/stars/attaswift/GlueKit) ![GitHub last commit](https://img.shields.io/github/last-commit/attaswift/GlueKit)](https://github.com/attaswift/GlueKit) - A type-safe observer framework for Swift.
-- [SwiftFormat ![GitHub Repo Stars](https://img.shields.io/github/stars/nicklockwood/SwiftFormat) ![GitHub last commit](https://img.shields.io/github/last-commit/nicklockwood/SwiftFormat)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
-- [PSTModernizer ![GitHub Repo Stars](https://img.shields.io/github/stars/PSPDFKit-labs/PSTModernizer) ![GitHub last commit](https://img.shields.io/github/last-commit/PSPDFKit-labs/PSTModernizer)](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
+- [Bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/Bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/Bootstrap)](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
 - [Bugsee](https://www.bugsee.com) - In-app bug and crash reporting with video, logs, network traffic and traces.
-- [Fallback ![GitHub Repo Stars](https://img.shields.io/github/stars/devxoul/Fallback) ![GitHub last commit](https://img.shields.io/github/last-commit/devxoul/Fallback)](https://github.com/devxoul/Fallback) - Syntactic sugar for nested do-try-catch.
-- [ODUIThreadGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/olddonkey/ODUIThreadGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/olddonkey/ODUIThreadGuard)](https://github.com/olddonkey/ODUIThreadGuard) - A guard to help you check if you make UI changes not in main thread.
-- [IBAnalyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/fastred/IBAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/fastred/IBAnalyzer)](https://github.com/fastred/IBAnalyzer) - Find common xib and storyboard-related problems without running your app or writing unit tests.
-- [DecouplingKit ![GitHub Repo Stars](https://img.shields.io/github/stars/coderyi/DecouplingKit) ![GitHub last commit](https://img.shields.io/github/last-commit/coderyi/DecouplingKit)](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project.
-- [Clue ![GitHub Repo Stars](https://img.shields.io/github/stars/Geek-1001/Clue) ![GitHub last commit](https://img.shields.io/github/last-commit/Geek-1001/Clue)](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
+- [FBRetainCycleDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/FBRetainCycleDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/FBRetainCycleDetector)](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
+- [HeapInspector-for-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/tapwork/HeapInspector-for-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/tapwork/HeapInspector-for-iOS)](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments.
+- [KZAsserts ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/KZAsserts) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/KZAsserts)](https://github.com/krzysztofzablocki/KZAsserts) - Asserts on roids, test all your assumptions with ease.
+- [MLeaksFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/MLeaksFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/MLeaksFinder)](https://github.com/Tencent/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
+- [PSTModernizer ![GitHub Repo Stars](https://img.shields.io/github/stars/PSPDFKit-labs/PSTModernizer) ![GitHub last commit](https://img.shields.io/github/last-commit/PSPDFKit-labs/PSTModernizer)](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
+- [spacecommander ![GitHub Repo Stars](https://img.shields.io/github/stars/square/spacecommander) ![GitHub last commit](https://img.shields.io/github/last-commit/square/spacecommander)](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
+- [SwiftCop ![GitHub Repo Stars](https://img.shields.io/github/stars/andresinaka/SwiftCop) ![GitHub last commit](https://img.shields.io/github/last-commit/andresinaka/SwiftCop)](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
+- [SwiftFormat ![GitHub Repo Stars](https://img.shields.io/github/stars/nicklockwood/SwiftFormat) ![GitHub last commit](https://img.shields.io/github/last-commit/nicklockwood/SwiftFormat)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+- [Tailor ![GitHub Repo Stars](https://img.shields.io/github/stars/sleekbyte/tailor) ![GitHub last commit](https://img.shields.io/github/last-commit/sleekbyte/tailor)](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 - [WeakableSelf ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent-pradeilles/weakable-self) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent-pradeilles/weakable-self)](https://github.com/vincent-pradeilles/weakable-self) - A Swift micro-framework to encapsulate `[weak self]` and `guard` statements within closures.
 
 **[back to top](#contributing-and-collaborating)**
@@ -423,12 +410,10 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 *Static code analyzers to enforce style and conventions.*
 
-- [OCLint ![GitHub Repo Stars](https://img.shields.io/github/stars/oclint/oclint) ![GitHub last commit](https://img.shields.io/github/last-commit/oclint/oclint)](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
-- [Taylor ![GitHub Repo Stars](https://img.shields.io/github/stars/yopeso/Taylor) ![GitHub last commit](https://img.shields.io/github/last-commit/yopeso/Taylor)](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms.
-- [Swiftlint ![GitHub Repo Stars](https://img.shields.io/github/stars/realm/SwiftLint) ![GitHub last commit](https://img.shields.io/github/last-commit/realm/SwiftLint)](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [IBLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/IBDecodable/IBLinter) ![GitHub last commit](https://img.shields.io/github/last-commit/IBDecodable/IBLinter)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
-- [SwiftLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/muyexi/SwiftLinter) ![GitHub last commit](https://img.shields.io/github/last-commit/muyexi/SwiftLinter)](https://github.com/muyexi/SwiftLinter) - Share lint rules between projects and lint changed files with SwiftLint.
 - [AnyLint ![GitHub Repo Stars](https://img.shields.io/github/stars/Flinesoft/AnyLint) ![GitHub last commit](https://img.shields.io/github/last-commit/Flinesoft/AnyLint)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+- [IBLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/IBDecodable/IBLinter) ![GitHub last commit](https://img.shields.io/github/last-commit/IBDecodable/IBLinter)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+- [OCLint ![GitHub Repo Stars](https://img.shields.io/github/stars/oclint/oclint) ![GitHub last commit](https://img.shields.io/github/last-commit/oclint/oclint)](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
+- [Swiftlint ![GitHub Repo Stars](https://img.shields.io/github/stars/realm/SwiftLint) ![GitHub last commit](https://img.shields.io/github/last-commit/realm/SwiftLint)](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -436,24 +421,22 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 *Hex color extensions, theming, color pickers and other awesome color tools.*
 
-- [DynamicColor ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickl/DynamicColor) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickl/DynamicColor)](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift.
-- [SwiftHEXColors ![GitHub Repo Stars](https://img.shields.io/github/stars/thii/SwiftHEXColors) ![GitHub last commit](https://img.shields.io/github/last-commit/thii/SwiftHEXColors)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
-- [Colours ![GitHub Repo Stars](https://img.shields.io/github/stars/bennyguitar/Colours) ![GitHub last commit](https://img.shields.io/github/last-commit/bennyguitar/Colours)](https://github.com/bennyguitar/Colours) - A beautiful set of predefined colors and a set of color methods to make your iOS/macOS development life easier.
-- [UIColor-Hex-Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/yeahdongcn/UIColor-Hex-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/yeahdongcn/UIColor-Hex-Swift)](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
-- [Hue ![GitHub Repo Stars](https://img.shields.io/github/stars/zenangst/Hue) ![GitHub last commit](https://img.shields.io/github/last-commit/zenangst/Hue)](https://github.com/zenangst/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
-- [FlatUIColors ![GitHub Repo Stars](https://img.shields.io/github/stars/brynbellomy/FlatUIColors) ![GitHub last commit](https://img.shields.io/github/last-commit/brynbellomy/FlatUIColors)](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette helpers written in Swift.
-- [RandomColorSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/onevcat/RandomColorSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/onevcat/RandomColorSwift)](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from `randomColor.js`.
-- [PFColorHash ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfectFreeze/PFColorHash) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfectFreeze/PFColorHash)](https://github.com/PerfectFreeze/PFColorHash) - Generate color based on the given string.
 - [BCColor ![GitHub Repo Stars](https://img.shields.io/github/stars/boycechang/BCColor) ![GitHub last commit](https://img.shields.io/github/last-commit/boycechang/BCColor)](https://github.com/boycechang/BCColor) - A lightweight but powerful color kit (Swift).
-- [DKNightVersion ![GitHub Repo Stars](https://img.shields.io/github/stars/Draveness/DKNightVersion) ![GitHub last commit](https://img.shields.io/github/last-commit/Draveness/DKNightVersion)](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes.
-- [PrettyColors ![GitHub Repo Stars](https://img.shields.io/github/stars/jdhealy/PrettyColors) ![GitHub last commit](https://img.shields.io/github/last-commit/jdhealy/PrettyColors)](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code) and conforms to ECMA Standard 48.
-- [TFTColor ![GitHub Repo Stars](https://img.shields.io/github/stars/burhanuddin353/TFTColor) ![GitHub last commit](https://img.shields.io/github/last-commit/burhanuddin353/TFTColor)](https://github.com/burhanuddin353/TFTColor) - Simple Extension for RGB and CMKY Hex Strings and Hex Values (ObjC & Swift).
+- [ChromaColorPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/joncardasis/ChromaColorPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/joncardasis/ChromaColorPicker)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive iOS color picker built in Swift.
+- [Colours ![GitHub Repo Stars](https://img.shields.io/github/stars/bennyguitar/Colours) ![GitHub last commit](https://img.shields.io/github/last-commit/bennyguitar/Colours)](https://github.com/bennyguitar/Colours) - A beautiful set of predefined colors and a set of color methods to make your iOS/macOS development life easier.
 - [CostumeKit ![GitHub Repo Stars](https://img.shields.io/github/stars/jakemarsh/CostumeKit) ![GitHub last commit](https://img.shields.io/github/last-commit/jakemarsh/CostumeKit)](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
 - [CSS3ColorsSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/WorldDownTown/CSS3ColorsSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/WorldDownTown/CSS3ColorsSwift)](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
-- [ChromaColorPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/joncardasis/ChromaColorPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/joncardasis/ChromaColorPicker)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive iOS color picker built in Swift.
-- [Lorikeet ![GitHub Repo Stars](https://img.shields.io/github/stars/valdirunars/Lorikeet) ![GitHub last commit](https://img.shields.io/github/last-commit/valdirunars/Lorikeet)](https://github.com/valdirunars/Lorikeet) - A lightweight Swift framework for aesthetically pleasing color-scheme generation and CIE color-difference calculation.
+- [DynamicColor ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickl/DynamicColor) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickl/DynamicColor)](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift.
+- [FlatUIColors ![GitHub Repo Stars](https://img.shields.io/github/stars/brynbellomy/FlatUIColors) ![GitHub last commit](https://img.shields.io/github/last-commit/brynbellomy/FlatUIColors)](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette helpers written in Swift.
 - [Gestalt ![GitHub Repo Stars](https://img.shields.io/github/stars/regexident/Gestalt) ![GitHub last commit](https://img.shields.io/github/last-commit/regexident/Gestalt)](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
+- [Hue ![GitHub Repo Stars](https://img.shields.io/github/stars/zenangst/Hue) ![GitHub last commit](https://img.shields.io/github/last-commit/zenangst/Hue)](https://github.com/zenangst/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
+- [Lorikeet ![GitHub Repo Stars](https://img.shields.io/github/stars/valdirunars/Lorikeet) ![GitHub last commit](https://img.shields.io/github/last-commit/valdirunars/Lorikeet)](https://github.com/valdirunars/Lorikeet) - Aesthetic color-scheme generation written in Swift.
+- [PFColorHash ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfectFreeze/PFColorHash) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfectFreeze/PFColorHash)](https://github.com/PerfectFreeze/PFColorHash) - Generate color based on the given string.
+- [PrettyColors ![GitHub Repo Stars](https://img.shields.io/github/stars/jdhealy/PrettyColors) ![GitHub last commit](https://img.shields.io/github/last-commit/jdhealy/PrettyColors)](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
+- [RandomColorSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/onevcat/RandomColorSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/onevcat/RandomColorSwift)](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from `randomColor.js`.
 - [SheetyColors ![GitHub Repo Stars](https://img.shields.io/github/stars/chrs1885/SheetyColors) ![GitHub last commit](https://img.shields.io/github/last-commit/chrs1885/SheetyColors)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+- [SwiftHEXColors ![GitHub Repo Stars](https://img.shields.io/github/stars/thii/SwiftHEXColors) ![GitHub last commit](https://img.shields.io/github/last-commit/thii/SwiftHEXColors)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+- [UIColor-Hex-Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/yeahdongcn/UIColor-Hex-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/yeahdongcn/UIColor-Hex-Swift)](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 
 **[back to top](#contributing-and-collaborating)**
 

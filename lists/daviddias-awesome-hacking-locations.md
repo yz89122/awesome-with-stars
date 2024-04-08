@@ -478,7 +478,7 @@ Wifi | Power | Climatization  | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Germany 🇩🇪
+# Germany 🇩��
 
 ## Berlin
 
@@ -546,7 +546,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
+✔ | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
 
 ## Jena
 
@@ -606,7 +606,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Italy 🇮🇹
+# Italy ����🇹
 
 ## Rome
 
