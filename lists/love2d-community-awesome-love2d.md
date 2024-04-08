@@ -405,7 +405,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-release ![GitHub Repo Stars](https://img.shields.io/github/stars/MisterDA/love-release) ![GitHub last commit](https://img.shields.io/github/last-commit/MisterDA/love-release)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [makelove ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/makelove) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/makelove)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 * [love-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/tducasse/love-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/tducasse/love-deploy)](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).
-* [love-fuser ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/love-fuser) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/love-fuser)](https://github.com/MikuAuahDark/love-fuser) - Packages L��VE Games using GitHub Actions. Supports Windows, Linux, and Android.
+* [love-fuser ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/love-fuser) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/love-fuser)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
 
 ## Related
 
