@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Tutorials
-    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+    - ��� [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
 - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
@@ -281,7 +281,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
     - 🎉 [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
     - 🎉 [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
-    - ���� [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
+    - 🎉 [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     - 🎉 [QOI ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/qoi) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/qoi)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
     - ⭐ [stb_vorbis ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_vorbis.c) - Ogg Vorbis audio decoder.
 - C: File System
@@ -412,7 +412,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from _Blender_.
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
-    - 🎉 [blah ![GitHub Repo Stars](https://img.shields.io/github/stars/NoelFB/blah) ![GitHub last commit](https://img.shields.io/github/last-commit/NoelFB/blah)](https://github.com/NoelFB/blah) - Small 2D game framework.
+    - ��� [blah ![GitHub Repo Stars](https://img.shields.io/github/stars/NoelFB/blah) ![GitHub last commit](https://img.shields.io/github/last-commit/NoelFB/blah)](https://github.com/NoelFB/blah) - Small 2D game framework.
     - 🎉 [Cocos2d-x ![GitHub Repo Stars](https://img.shields.io/github/stars/cocos2d/cocos2d-x) ![GitHub last commit](https://img.shields.io/github/last-commit/cocos2d/cocos2d-x)](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
     - 🎉 [Cute Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/cute_framework) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/cute_framework)](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games.
     - 🔒 [Fireworks Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Pikachuxxxx/Fireworks-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Pikachuxxxx/Fireworks-Engine)](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL framework for quick prototyping.
@@ -864,7 +864,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dojo ![GitHub Repo Stars](https://img.shields.io/github/stars/dojo/widgets) ![GitHub last commit](https://img.shields.io/github/last-commit/dojo/widgets)](https://github.com/dojo/widgets) - Gui widgets for web apps.
     - 🎉 [Guify ![GitHub Repo Stars](https://img.shields.io/github/stars/colejd/guify) ![GitHub last commit](https://img.shields.io/github/last-commit/colejd/guify)](https://github.com/colejd/guify) - Simple gui for changing JavaScript variables. [[Demo](https://jons.website/projects/guify/)]
     - 🎉 [GuiGui ![GitHub Repo Stars](https://img.shields.io/github/stars/superguigui/guigui) ![GitHub last commit](https://img.shields.io/github/last-commit/superguigui/guigui)](https://github.com/superguigui/guigui) - Gui for tweaking stuff in JavaScript. [[Demo](https://superguigui.github.io/guigui/)]
-    - 🎉 [Inferno ![GitHub Repo Stars](https://img.shields.io/github/stars/infernojs/inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/infernojs/inferno)](https://github.com/infernojs/inferno) - React-like library for building high-performance user interfaces.
+    - ��� [Inferno ![GitHub Repo Stars](https://img.shields.io/github/stars/infernojs/inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/infernojs/inferno)](https://github.com/infernojs/inferno) - React-like library for building high-performance user interfaces.
     - 🎉 [jQuery UI ![GitHub Repo Stars](https://img.shields.io/github/stars/jquery/jquery-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/jquery/jquery-ui)](https://github.com/jquery/jquery-ui) - The official gui library for jQuery.
     - 🎉 [Leva ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/leva) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/leva)](https://github.com/pmndrs/leva) - React-first components gui.
     - 🎉 [Magic Circle ![GitHub Repo Stars](https://img.shields.io/github/stars/dpwoert/magic-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/dpwoert/magic-circle)](https://github.com/dpwoert/magic-circle) - Multi-functional gui. Inspired by dat.GUI, Unity and Framer.
@@ -1205,7 +1205,7 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Basic 2D SDFs](https://www.ronja-tutorials.com/post/034-2d-sdf-basics/) - Basics of rendering 2D shapes with SDFs in shaders.
 - 📚 [Bezier Strokes](https://vladjuckov.github.io/beziers-sdf/) - Blog post on rendering bezier strokes with SDFs.
 - 📚 [Signed Distance Field Resources ![GitHub Repo Stars](https://img.shields.io/github/stars/CedricGuillemet/SDF) ![GitHub last commit](https://img.shields.io/github/last-commit/CedricGuillemet/SDF)](https://github.com/CedricGuillemet/SDF) - Tutorials, papers, software, demos, discussions, etc.
-- 🎉 [SDF Mesh Generation ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/sdf) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/sdf)](https://github.com/fogleman/sdf) - Python API to generate 3D meshes with SDFs.
+- �� [SDF Mesh Generation ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/sdf) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/sdf)](https://github.com/fogleman/sdf) - Python API to generate 3D meshes with SDFs.
 
 ### Tiling
 - 📚 [Auto-Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
