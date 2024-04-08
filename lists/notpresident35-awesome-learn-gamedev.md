@@ -449,7 +449,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 <br />
 
-[Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
+[Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) ����🟪 - A Megalist of Art Resources!
 
 
 [Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
@@ -863,7 +863,7 @@ Royalty free music! Don't forget to check the license.
 [Obsidian](https://obsidian.md/) 🟪 - Important productivity fuel (and what I used to hoard this list :P)
 
 
-[A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+[A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠���� - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
 [The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
