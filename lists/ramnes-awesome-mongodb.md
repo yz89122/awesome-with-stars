@@ -283,6 +283,7 @@ Services:
  - [Compass ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/compass) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/compass)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromelebel/MongoHub-Mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromelebel/MongoHub-Mac)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
+ - [WebDB ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDB-App/app) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDB-App/app)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
 Services:
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE

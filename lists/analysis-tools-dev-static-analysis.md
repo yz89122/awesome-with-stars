@@ -956,7 +956,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [InspectorTiger ![GitHub Repo Stars](https://img.shields.io/github/stars/thg-consulting/it) ![GitHub last commit](https://img.shields.io/github/last-commit/thg-consulting/it)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 
-- [jedi](https://jedi.readthedocs.io/en/latest) ��� Autocompletion/static analysis library for Python.
+- [jedi](https://jedi.readthedocs.io/en/latest) — Autocompletion/static analysis library for Python.
 
 - [linty fresh ![GitHub Repo Stars](https://img.shields.io/github/stars/lyft/linty_fresh) ![GitHub last commit](https://img.shields.io/github/last-commit/lyft/linty_fresh)](https://github.com/lyft/linty_fresh) — Parse lint errors and report them to Github as comments on a pull request.
 
