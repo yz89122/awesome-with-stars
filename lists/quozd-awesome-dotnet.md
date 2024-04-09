@@ -86,6 +86,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Micro Framework](#micro-framework)
   * [Minification](#minification)
   * [Misc](#misc)
+  * [MQTT](#mqtt)
   * [MVVM](#mvvm)
   * [Networking](#networking)
   * [Object to object mapping](#object-to-object-mapping)
@@ -672,6 +673,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Colourful ![GitHub Repo Stars](https://img.shields.io/github/stars/tompazourek/Colourful) ![GitHub last commit](https://img.shields.io/github/last-commit/tompazourek/Colourful)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 * [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp) - Easily update image urls to be fast and responsive. **[$]**
 * [ColorHelper ![GitHub Repo Stars](https://img.shields.io/github/stars/iamartyom/ColorHelper) ![GitHub last commit](https://img.shields.io/github/last-commit/iamartyom/ColorHelper)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
+* [Unicolour ![GitHub Repo Stars](https://img.shields.io/github/stars/waacton/Unicolour) ![GitHub last commit](https://img.shields.io/github/last-commit/waacton/Unicolour)](https://github.com/waacton/Unicolour) - Colour conversion, interpolation, and comparison for .NET.
 
 ## Install tools
 
@@ -864,6 +866,11 @@ metadata in media files, including video, audio, and photo formats
 * [Build Versioning ![GitHub Repo Stars](https://img.shields.io/github/stars/TurnerSoftware/BuildVersioning) ![GitHub last commit](https://img.shields.io/github/last-commit/TurnerSoftware/BuildVersioning)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch ![GitHub Repo Stars](https://img.shields.io/github/stars/weichch/system-text-json-jsondiffpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/weichch/system-text-json-jsondiffpatch)](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 * [dotnet-exec ![GitHub Repo Stars](https://img.shields.io/github/stars/WeihanLi/dotnet-exec) ![GitHub last commit](https://img.shields.io/github/last-commit/WeihanLi/dotnet-exec)](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
+
+## MQTT
+
+* [HiveMQtt ![GitHub Repo Stars](https://img.shields.io/github/stars/hivemq/hivemq-mqtt-client-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/hivemq/hivemq-mqtt-client-dotnet)](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - The HiveMQ C# MQTT client for .NET
+* [MQTTNet ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/MQTTnet) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/MQTTnet)](https://github.com/dotnet/MQTTnet) - A high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker).
 
 ## MVVM
 
@@ -1310,6 +1317,7 @@ metadata in media files, including video, audio, and photo formats
 * [.NET Open Source Developer Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/dotnet)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 * [Awesome Microservices .NET Core ![GitHub Repo Stars](https://img.shields.io/github/stars/mjebrahimi/Awesome-Microservices-NetCore) ![GitHub last commit](https://img.shields.io/github/last-commit/mjebrahimi/Awesome-Microservices-NetCore)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 * [dotnet-console-games ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/dotnet-console-games) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/dotnet-console-games)](https://github.com/dotnet/dotnet-console-games) - Game examples implemented in .NET console applications.
+* [extra-awesome-dotnet ![GitHub Repo Stars](https://img.shields.io/github/stars/ara3d/extra-awesome-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/ara3d/extra-awesome-dotnet)](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks! 
 
 # Resources
 
