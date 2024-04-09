@@ -191,7 +191,7 @@
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 - 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
-- 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
+- ��� [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
 - 🧩 [Daisy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/daisyui) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
