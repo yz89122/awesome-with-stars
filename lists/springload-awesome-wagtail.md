@@ -75,6 +75,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [WagtailDraftail ![GitHub Repo Stars](https://img.shields.io/github/stars/springload/wagtaildraftail) ![GitHub last commit](https://img.shields.io/github/last-commit/springload/wagtaildraftail)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail ![GitHub Repo Stars](https://img.shields.io/github/stars/springload/draftail) ![GitHub last commit](https://img.shields.io/github/last-commit/springload/draftail)](https://github.com/springload/draftail) and [draftjs_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/springload/draftjs_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/springload/draftjs_exporter)](https://github.com/springload/draftjs_exporter).
 - [wagtail-readinglevel ![GitHub Repo Stars](https://img.shields.io/github/stars/vixdigital/wagtail-readinglevel) ![GitHub last commit](https://img.shields.io/github/last-commit/vixdigital/wagtail-readinglevel)](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail plugin to determine the reading level of text input into a rich text field.
 - [Wagtail EditorJS ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigel2392/wagtail_editorjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigel2392/wagtail_editorjs)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
+- [Wagtail Terms ![GitHub Repo Stars](https://img.shields.io/github/stars/smark-1/wagtailterms) ![GitHub last commit](https://img.shields.io/github/last-commit/smark-1/wagtailterms)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
 
 ### Widgets
 
@@ -292,7 +293,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) by Edd Baldry.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) by Tom Dyson.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) by Bertrand Bordage.
-- [The Zen of Wagtail – Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
+- [The Zen of Wagtail �� Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
 - [Plone to Wagtail – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=2m57s) by Coen van der Kamp.
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=24m9s) by Simon de Haan.
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
@@ -353,7 +354,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [A New Approach to Multitenant Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=WN0L4YNrWes) by Stephanie C. Smith and Addison Hardy.
 - [The Wagtail Marketplace for Games-based Courses - Wagtail Space 2022](https://www.youtube.com/watch?v=ueou6CxiR3Y) by Sarah Toms.
 - [The Wagtail Ecosystem - Wagtail Space US 2022](https://www.youtube.com/watch?v=4Qd43nsxmoc) by Vince Salvino.
-- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.
+- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) by Sævar Öfjörð Magnússon & Arnar Tumi ��orsteinsson.
 - [Wagtail as a headless CMS for JavaScript frontends - Wagtail Space US 2022](https://www.youtube.com/watch?v=bYRQ492BED0) by Tommaso Amici.
 - [Adding a GraphQL API to Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=_O5isU354vg) by Patrick Arminio.
 - [Bringing JSONField into Wagtail Core - Wagtail Space US 2022](https://www.youtube.com/watch?v=XtazMDNdlK8) by Sage Abdullah.
