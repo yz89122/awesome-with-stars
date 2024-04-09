@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Tutorials
-    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+    - ��� [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
 - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
@@ -423,7 +423,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Koala Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/phisko/kengine) ![GitHub last commit](https://img.shields.io/github/last-commit/phisko/kengine)](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka _Kengine_.
     - 🎉 [Lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/LuminoEngine/Lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/LuminoEngine/Lumino)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/NazaraEngine/NazaraEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NazaraEngine/NazaraEngine)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
-    - 🎉 [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
+    - ��� [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [ORX ![GitHub Repo Stars](https://img.shields.io/github/stars/orx/orx) ![GitHub last commit](https://img.shields.io/github/last-commit/orx/orx)](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel ![GitHub Repo Stars](https://img.shields.io/github/stars/elnormous/ouzel) ![GitHub last commit](https://img.shields.io/github/last-commit/elnormous/ouzel)](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
@@ -469,7 +469,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Intermediate Graphics Library (IGL) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/igl) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/igl)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/LLGL) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/LLGL)](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mosra/magnum) ![GitHub last commit](https://img.shields.io/github/last-commit/mosra/magnum)](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
-    - �� [Ogre ![GitHub Repo Stars](https://img.shields.io/github/stars/OGRECave/ogre) ![GitHub last commit](https://img.shields.io/github/last-commit/OGRECave/ogre)](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
+    - 🎉 [Ogre ![GitHub Repo Stars](https://img.shields.io/github/stars/OGRECave/ogre) ![GitHub last commit](https://img.shields.io/github/last-commit/OGRECave/ogre)](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE ![GitHub Repo Stars](https://img.shields.io/github/stars/kimkulling/osre) ![GitHub last commit](https://img.shields.io/github/last-commit/kimkulling/osre)](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
     - 🔒 [StratusGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/KTStephano/StratusGFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KTStephano/StratusGFX)](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
     - 🎉 [Threepp ![GitHub Repo Stars](https://img.shields.io/github/stars/markaren/threepp) ![GitHub last commit](https://img.shields.io/github/last-commit/markaren/threepp)](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular 3D JavaScript library _Three.js_ (r129).
@@ -840,7 +840,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
     - 💰 [Three.js Journey](https://threejs-journey.com/) - Course teaching WebGL from beginner to advanced.
     - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - Fantastic articles and explanations. Formerly _ThreeJsFundamentals_.
-    - ��� [THREEx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromeetienne/threex) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromeetienne/threex)](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions.
+    - 📚 [THREEx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromeetienne/threex) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromeetienne/threex)](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions.
 - JavaScript: Graphics - Three.js - Addon
     - 🎉 [Custom Shader Material ![GitHub Repo Stars](https://img.shields.io/github/stars/FarazzShaikh/THREE-CustomShaderMaterial) ![GitHub last commit](https://img.shields.io/github/last-commit/FarazzShaikh/THREE-CustomShaderMaterial)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial) - Extend Three.js materials with your own shaders.
     - 🎉 [irregular-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/sketchpunklabs/irregular_grid) ![GitHub last commit](https://img.shields.io/github/last-commit/sketchpunklabs/irregular_grid)](https://github.com/sketchpunklabs/irregular_grid) - Examples of generating and using irregular grids. [[Demos](https://sketchpunklabs.github.io/irregular_grid/)]
