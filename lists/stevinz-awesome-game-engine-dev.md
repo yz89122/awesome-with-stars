@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Tutorials
-    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+    - ��� [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
 - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
@@ -840,7 +840,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
     - 💰 [Three.js Journey](https://threejs-journey.com/) - Course teaching WebGL from beginner to advanced.
     - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - Fantastic articles and explanations. Formerly _ThreeJsFundamentals_.
-    - 📚 [THREEx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromeetienne/threex) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromeetienne/threex)](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions.
+    - ���� [THREEx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromeetienne/threex) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromeetienne/threex)](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions.
 - JavaScript: Graphics - Three.js - Addon
     - 🎉 [Custom Shader Material ![GitHub Repo Stars](https://img.shields.io/github/stars/FarazzShaikh/THREE-CustomShaderMaterial) ![GitHub last commit](https://img.shields.io/github/last-commit/FarazzShaikh/THREE-CustomShaderMaterial)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial) - Extend Three.js materials with your own shaders.
     - 🎉 [irregular-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/sketchpunklabs/irregular_grid) ![GitHub last commit](https://img.shields.io/github/last-commit/sketchpunklabs/irregular_grid)](https://github.com/sketchpunklabs/irregular_grid) - Examples of generating and using irregular grids. [[Demos](https://sketchpunklabs.github.io/irregular_grid/)]
