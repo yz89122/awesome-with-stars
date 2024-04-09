@@ -83,6 +83,7 @@
 
 * [bento ![GitHub Repo Stars](https://img.shields.io/github/stars/rapenne-s/bento) ![GitHub last commit](https://img.shields.io/github/last-commit/rapenne-s/bento)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 * [Colmena ![GitHub Repo Stars](https://img.shields.io/github/stars/zhaofengli/colmena) ![GitHub last commit](https://img.shields.io/github/last-commit/zhaofengli/colmena)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+* [comin ![GitHub Repo Stars](https://img.shields.io/github/stars/nlewo/comin) ![GitHub last commit](https://img.shields.io/github/last-commit/nlewo/comin)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 * [deploy-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/serokell/deploy-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/serokell/deploy-rs)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
 * [KubeNix ![GitHub Repo Stars](https://img.shields.io/github/stars/xtruder/kubenix) ![GitHub last commit](https://img.shields.io/github/last-commit/xtruder/kubenix)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
@@ -276,4 +277,5 @@
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+* [Wiki (Official)](https://wiki.nixos.org)
 * [Wiki (Unofficial)](https://nixos.wiki)
