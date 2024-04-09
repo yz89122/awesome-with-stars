@@ -785,7 +785,7 @@
 - [superheroes ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/superheroes) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/superheroes)](https://github.com/sindresorhus/superheroes) - Get superhero names.
 - [supervillains ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/supervillains) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/supervillains)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 - [cool-ascii-faces ![GitHub Repo Stars](https://img.shields.io/github/stars/maxogden/cool-ascii-faces) ![GitHub last commit](https://img.shields.io/github/last-commit/maxogden/cool-ascii-faces)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
-- [cat-ascii-faces ![GitHub Repo Stars](https://img.shields.io/github/stars/melaniecebula/cat-ascii-faces) ![GitHub last commit](https://img.shields.io/github/last-commit/melaniecebula/cat-ascii-faces)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄���◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+- [cat-ascii-faces ![GitHub Repo Stars](https://img.shields.io/github/stars/melaniecebula/cat-ascii-faces) ![GitHub last commit](https://img.shields.io/github/last-commit/melaniecebula/cat-ascii-faces)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 - [nerds ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyHacks/nerds) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyHacks/nerds)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ### Serialization
