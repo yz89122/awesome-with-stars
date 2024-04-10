@@ -204,6 +204,7 @@
 - [Forge Sparks ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelmardojai/forge-sparks) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelmardojai/forge-sparks)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 - [Biblioteca ![GitHub Repo Stars](https://img.shields.io/github/stars/workbenchdev/Biblioteca) ![GitHub last commit](https://img.shields.io/github/last-commit/workbenchdev/Biblioteca)](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle][GNOME Circle]
+- [Hieroglyphic ![GitHub Repo Stars](https://img.shields.io/github/stars/FineFindus/Hieroglyphic) ![GitHub last commit](https://img.shields.io/github/last-commit/FineFindus/Hieroglyphic)](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching.
 
 #### Design Tooling
 
