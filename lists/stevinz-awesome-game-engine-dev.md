@@ -32,6 +32,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [C++](#c-1)
     - [C#](#c-2)
     - [Dart](#dart)
+    - [F#](#f)
     - [Go](#go)
     - [Haxe](#haxe)
     - [Lua](#lua)
@@ -206,7 +207,6 @@ _Info on topics necessary for designing and developing game engines._
 
 ### Engine Development
 - Blog Articles
-    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
     - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
@@ -214,6 +214,8 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+- Education Portals
+    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Topics including graphics, physics, AI, I/O and template programming.
 
 ### Game Development
 - Awesome Collections
@@ -229,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
-- Tutorials
+- Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
@@ -281,7 +283,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
     - 🎉 [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
     - 🎉 [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
-    - ���� [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
+    - 🎉 [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     - 🎉 [QOI ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/qoi) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/qoi)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
     - ⭐ [stb_vorbis ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_vorbis.c) - Ogg Vorbis audio decoder.
 - C: File System
@@ -479,7 +481,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Crazy Eddie's GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/cegui/cegui) ![GitHub last commit](https://img.shields.io/github/last-commit/cegui/cegui)](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
     - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
-    - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis. [[Website](https://www.gtk.org)]
+    - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
     - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
@@ -570,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    - 🔒 [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    - ���� [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
     - 🎉 [LeoECS ![GitHub Repo Stars](https://img.shields.io/github/stars/Leopotam/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/Leopotam/ecs)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to _Unity_.
 - C#: Game Engine w/Editor
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
@@ -610,6 +612,18 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [image ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/image) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/image)](https://github.com/brendan-duncan/image) - Library for decoding / encoding image formats and image processing.
 - Dart: Game Framework
     - 🎉 [Flame ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame)](https://github.com/flame-engine/flame) - Minimalist _Flutter_ based 2D game engine. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/awesome-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame)](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
+
+### F#
+- 📚 [Awesome F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsprojects/awesome-fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/fsprojects/awesome-fsharp)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
+- 🌎 [F#](https://fsharp.org) - Functional-first language for .NET, prioritizing expressive code and parallelism.
+- F#: Audio
+    - 🔒 [FSound ![GitHub Repo Stars](https://img.shields.io/github/stars/albertp007/FSound) ![GitHub last commit](https://img.shields.io/github/last-commit/albertp007/FSound)](https://github.com/albertp007/FSound) - Sound processing library.
+- F#: Entity Component System
+    - 🎉 [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+- F#: Game Engine w/Editor
+    - 🎉 [Nu Game Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanedds/Nu) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanedds/Nu)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
+- F#: Gui
+    - 🎉 [Fabulous ![GitHub Repo Stars](https://img.shields.io/github/stars/fabulous-dev/Fabulous) ![GitHub last commit](https://img.shields.io/github/last-commit/fabulous-dev/Fabulous)](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
 
 ### Go
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
@@ -889,6 +903,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Box2d.js ![GitHub Repo Stars](https://img.shields.io/github/stars/kripken/box2d.js) ![GitHub last commit](https://img.shields.io/github/last-commit/kripken/box2d.js)](https://github.com/kripken/box2d.js/) - Box2D to ported as WebAssembly.
     - 🎉 [Cannon-es ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/cannon-es) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/cannon-es)](https://github.com/pmndrs/cannon-es) - Maintained fork of [Cannon.js ![GitHub Repo Stars](https://img.shields.io/github/stars/schteppe/cannon.js) ![GitHub last commit](https://img.shields.io/github/last-commit/schteppe/cannon.js)](https://github.com/schteppe/cannon.js) 3D physics engine. [[Demos](https://pmndrs.github.io/cannon-es/)]
     - 🎉 [Goblin Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/chandlerprall/GoblinPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/chandlerprall/GoblinPhysics)](https://github.com/chandlerprall/GoblinPhysics) - 3D physics engine written from the ground up in JavaScript. [[Demos](http://www.goblinphysics.com/)]
+    - 🎉 [JoltPhysics.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics.js) ![GitHub last commit](https://img.shields.io/github/last-commit/jrouwe/JoltPhysics.js)](https://github.com/jrouwe/JoltPhysics.js) - Port of _Jolt Physics_ to JavaScript (as WebAssembly). [[Demos](https://jrouwe.github.io/JoltPhysics.js/)]
     - 🎉 [Matter.js ![GitHub Repo Stars](https://img.shields.io/github/stars/liabru/matter-js) ![GitHub last commit](https://img.shields.io/github/last-commit/liabru/matter-js)](https://github.com/liabru/matter-js) - Featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/)]
     - 🎉 [Oimo.js ![GitHub Repo Stars](https://img.shields.io/github/stars/lo-th/Oimo.js) ![GitHub last commit](https://img.shields.io/github/last-commit/lo-th/Oimo.js)](https://github.com/lo-th/Oimo.js) - Lightweight 3D physics engine. [[Demos](http://lo-th.github.io/Oimo.js)]
     - 🎉 [p2.js ![GitHub Repo Stars](https://img.shields.io/github/stars/schteppe/p2.js) ![GitHub last commit](https://img.shields.io/github/last-commit/schteppe/p2.js)](https://github.com/schteppe/p2.js) - 2D rigid body physics, by the creator of Cannon.js.
