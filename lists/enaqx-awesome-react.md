@@ -5,12 +5,12 @@ A collection of awesome things regarding the React ecosystem.
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Tutorials](#react-tutorials)
-  - [React Development Tools](#react-development-tools)
   - [React Frameworks](#react-frameworks)
   - [React Component Libraries](#react-component-libraries)
   - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
   - [React Styling](#react-styling)
   - [React Routing](#react-routing)
+  - [React Development Tools](#react-development-tools)
   - [React Libraries](#react-libraries)
   - [React Testing](#react-testing)
   - [React Awesome Components](#react-awesome-components)
@@ -51,15 +51,6 @@ A collection of awesome things regarding the React ecosystem.
 - [A simple, scalable, and powerful architecture for building production ready React applications ![GitHub Repo Stars](https://img.shields.io/github/stars/alan2207/bulletproof-react) ![GitHub last commit](https://img.shields.io/github/last-commit/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/typescript-cheatsheets/react-typescript-cheatsheet)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [The Fullstack Tutorial for GraphQL ![GitHub Repo Stars](https://img.shields.io/github/stars/howtographql/howtographql) ![GitHub last commit](https://img.shields.io/github/last-commit/howtographql/howtographql)](https://github.com/howtographql/howtographql)
-
-#### React Development Tools
-
-- [create-react-app ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
-- [vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
-- [million ![GitHub Repo Stars](https://img.shields.io/github/stars/aidenybai/million) ![GitHub last commit](https://img.shields.io/github/last-commit/aidenybai/million)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
-- [reactotron ![GitHub Repo Stars](https://img.shields.io/github/stars/skellock/reactotron) ![GitHub last commit](https://img.shields.io/github/last-commit/skellock/reactotron)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [eslint-plugin-react ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickcr/eslint-plugin-react) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickcr/eslint-plugin-react)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-- [why-did-you-render ![GitHub Repo Stars](https://img.shields.io/github/stars/welldone-software/why-did-you-render) ![GitHub last commit](https://img.shields.io/github/last-commit/welldone-software/why-did-you-render)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 #### React Frameworks
 
@@ -110,6 +101,16 @@ A collection of awesome things regarding the React ecosystem.
 - [react-router ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/react-router) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/react-router)](https://github.com/remix-run/react-router) - Declarative routing for React
 - [wouter ![GitHub Repo Stars](https://img.shields.io/github/stars/molefrog/wouter) ![GitHub last commit](https://img.shields.io/github/last-commit/molefrog/wouter)](https://github.com/molefrog/wouter) - A minimalist-friendly routing
 - [tanstack-router ![GitHub Repo Stars](https://img.shields.io/github/stars/TanStack/router) ![GitHub last commit](https://img.shields.io/github/last-commit/TanStack/router)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+
+#### React Development Tools
+
+- [create-react-app ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+- [vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+- [parcel ![GitHub Repo Stars](https://img.shields.io/github/stars/parcel-bundler/parcel) ![GitHub last commit](https://img.shields.io/github/last-commit/parcel-bundler/parcel)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
+- [million ![GitHub Repo Stars](https://img.shields.io/github/stars/aidenybai/million) ![GitHub last commit](https://img.shields.io/github/last-commit/aidenybai/million)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
+- [reactotron ![GitHub Repo Stars](https://img.shields.io/github/stars/skellock/reactotron) ![GitHub last commit](https://img.shields.io/github/last-commit/skellock/reactotron)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+- [eslint-plugin-react ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickcr/eslint-plugin-react) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickcr/eslint-plugin-react)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [why-did-you-render ![GitHub Repo Stars](https://img.shields.io/github/stars/welldone-software/why-did-you-render) ![GitHub last commit](https://img.shields.io/github/last-commit/welldone-software/why-did-you-render)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 #### React Libraries
 
