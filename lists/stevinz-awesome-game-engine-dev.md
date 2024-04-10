@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Tutorials
-    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+    - ��� [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
 - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
@@ -319,7 +319,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Sokol Graphics Painter ![GitHub Repo Stars](https://img.shields.io/github/stars/edubart/sokol_gp) ![GitHub last commit](https://img.shields.io/github/last-commit/edubart/sokol_gp)](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with _Sokol_.
 - C: Gui
     - 🎉 [cImgui ![GitHub Repo Stars](https://img.shields.io/github/stars/cimgui/cimgui) ![GitHub last commit](https://img.shields.io/github/last-commit/cimgui/cimgui)](https://github.com/cimgui/cimgui) - Thin C wrapper generated for Dear ImGui.
-    - ��� [lvgl ![GitHub Repo Stars](https://img.shields.io/github/stars/lvgl/lvgl) ![GitHub last commit](https://img.shields.io/github/last-commit/lvgl/lvgl)](https://github.com/lvgl/lvgl) 🔥 - Embedded gui library, many widgets and advanced visual effects.
+    - 🎉 [lvgl ![GitHub Repo Stars](https://img.shields.io/github/stars/lvgl/lvgl) ![GitHub last commit](https://img.shields.io/github/last-commit/lvgl/lvgl)](https://github.com/lvgl/lvgl) 🔥 - Embedded gui library, many widgets and advanced visual effects.
     - 🎉 [NAppGUI ![GitHub Repo Stars](https://img.shields.io/github/stars/frang75/nappgui_src) ![GitHub last commit](https://img.shields.io/github/last-commit/frang75/nappgui_src)](https://github.com/frang75/nappgui_src) - Professional, well documented SDK to build desktop apps.
     - 🎉 [Native File Dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/mlabbe/nativefiledialog) ![GitHub last commit](https://img.shields.io/github/last-commit/mlabbe/nativefiledialog)](https://github.com/mlabbe/nativefiledialog) - Portably invoke native file open / save dialogs.
     - 🎉 [Nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/Immediate-Mode-UI/Nuklear)](https://github.com/Immediate-Mode-UI/Nuklear) - Single-header immediate mode cross-platform gui library.
@@ -587,7 +587,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Geometry
     - 🎉 [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of _Recast & Detour_, navigation mesh toolset for games, Unity3D, servers, C#.
 - C#: Graphics - 3D
-    - 🎉 [OpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/opentk) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/opentk)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/LearnOpenTK) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/LearnOpenTK)](https://github.com/opentk/LearnOpenTK)]
+    - �� [OpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/opentk) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/opentk)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/LearnOpenTK) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/LearnOpenTK)](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mellinoe/veldrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mellinoe/veldrid)](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
 - C#: Gui
     - 🎉 [Avalonia ![GitHub Repo Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia) ![GitHub last commit](https://img.shields.io/github/last-commit/AvaloniaUI/Avalonia)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
