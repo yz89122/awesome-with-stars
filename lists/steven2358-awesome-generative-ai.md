@@ -158,7 +158,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT-Code UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ricklamers/gpt-code-ui)](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/geekan/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/KillianLucas/open-interpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/KillianLucas/open-interpreter)](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
-- [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 
 ### Developer tools
 
@@ -185,6 +184,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/geekan/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [AutoGen ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/autogen)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 - [GPT Pilot ![GitHub Repo Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) ![GitHub last commit](https://img.shields.io/github/last-commit/Pythagora-io/gpt-pilot)](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
+- [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
+- [OpenDevin ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDevin/OpenDevin)](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
+- [Davika ![GitHub Repo Stars](https://img.shields.io/github/stars/stitionai/devika) ![GitHub last commit](https://img.shields.io/github/last-commit/stitionai/devika)](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
 
 ### Custom assistants
 
@@ -296,6 +298,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
+- [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
 
 ## Other
 
