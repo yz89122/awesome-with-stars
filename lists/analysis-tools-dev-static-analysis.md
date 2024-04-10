@@ -406,7 +406,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A _Pro_ edition includes a command line tool for automation purposes.
 
-- [Pascal Analyzer](https://peganza.com/products_pal.html) :copyright: — A static code analysis tool with numerous reports. A free _Lite_ version is available with limited reporting.
+- [Pascal Analyzer](https://peganza.com/products_pal.html) :copyright: ��� A static code analysis tool with numerous reports. A free _Lite_ version is available with limited reporting.
 
 - [Pascal Expert](https://peganza.com/products_pex.html) :copyright: — IDE plugin for code analysis. Includes a subset of Pascal Analyzer reporting capabilities and is available for Delphi versions 2007 and later.
 
@@ -1263,7 +1263,7 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [Angular ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-eslint/angular-eslint)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 
-- [Codelyzer](http://codelyzer.com) :warning: — A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
+- [Codelyzer](http://codelyzer.com) :warning: �� A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
 
 - [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 

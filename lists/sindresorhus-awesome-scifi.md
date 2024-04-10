@@ -258,7 +258,7 @@ Books:
 - [Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire) [4.2] 🔥
 - [Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation) [4.3] 🔥
 
-#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] 🌟 🔥
+#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] �� 🔥
 
 Archetypal tale of mad science with the theme of 'how far can Science go' that arguably spawned the modern genre of Science Fiction. - [@katamaritaco](https://github.com/katamaritaco)
 
@@ -816,7 +816,7 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 <details>
   <summary>Description</summary>
 
-  > Twenty thousand years into the future, an experiment in quantum physics has had a catastrophic result, creating an enormous, rapidly expanding vacuum that devours everything it comes in contact with. Now humans must confront this deadly expansion. Tchicaya, aboard a starship trawling the border of the vacuum, has allied himself with the Yielders—those determined to study the vacuum while allowing it to grow unchecked. But when his fiery first love, Mariama, reenters his life on the side of the Preservationists���those working to halt and destroy the vacuum—Tchicaya finds himself struggling with an inner turmoil he has known since childhood.
+  > Twenty thousand years into the future, an experiment in quantum physics has had a catastrophic result, creating an enormous, rapidly expanding vacuum that devours everything it comes in contact with. Now humans must confront this deadly expansion. Tchicaya, aboard a starship trawling the border of the vacuum, has allied himself with the Yielders—those determined to study the vacuum while allowing it to grow unchecked. But when his fiery first love, Mariama, reenters his life on the side of the Preservationists—those working to halt and destroy the vacuum—Tchicaya finds himself struggling with an inner turmoil he has known since childhood.
   >
   > However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.
 </details>
