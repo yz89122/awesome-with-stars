@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Tutorials
-    - ��� [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
 - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
@@ -425,7 +425,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Nazara Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/NazaraEngine/NazaraEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NazaraEngine/NazaraEngine)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
     - 🎉 [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [ORX ![GitHub Repo Stars](https://img.shields.io/github/stars/orx/orx) ![GitHub last commit](https://img.shields.io/github/last-commit/orx/orx)](https://github.com/orx/orx) - 2.5D data-driven game development framework.
-    - 🎉 [Oryol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
+    - ���� [Oryol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel ![GitHub Repo Stars](https://img.shields.io/github/stars/elnormous/ouzel) ![GitHub last commit](https://img.shields.io/github/last-commit/elnormous/ouzel)](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
     - 🎉 [Polycode ![GitHub Repo Stars](https://img.shields.io/github/stars/ivansafrin/Polycode) ![GitHub last commit](https://img.shields.io/github/last-commit/ivansafrin/Polycode)](https://github.com/ivansafrin/Polycode) - Cross-platform engine for creative code.
     - 🎉 [Solar2D ![GitHub Repo Stars](https://img.shields.io/github/stars/coronalabs/corona) ![GitHub last commit](https://img.shields.io/github/last-commit/coronalabs/corona)](https://github.com/coronalabs/corona) - Focus on ease of iterations and usage. Formerly _Corona_.
@@ -587,7 +587,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Geometry
     - 🎉 [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of _Recast & Detour_, navigation mesh toolset for games, Unity3D, servers, C#.
 - C#: Graphics - 3D
-    - �� [OpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/opentk) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/opentk)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/LearnOpenTK) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/LearnOpenTK)](https://github.com/opentk/LearnOpenTK)]
+    - 🎉 [OpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/opentk) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/opentk)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/LearnOpenTK) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/LearnOpenTK)](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mellinoe/veldrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mellinoe/veldrid)](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
 - C#: Gui
     - 🎉 [Avalonia ![GitHub Repo Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia) ![GitHub last commit](https://img.shields.io/github/last-commit/AvaloniaUI/Avalonia)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
