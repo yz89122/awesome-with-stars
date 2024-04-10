@@ -152,6 +152,7 @@ A collection of awesome things regarding the React ecosystem.
 - [storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybookjs/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybookjs/storybook)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-styleguidist ![GitHub Repo Stars](https://img.shields.io/github/stars/styleguidist/react-styleguidist) ![GitHub last commit](https://img.shields.io/github/last-commit/styleguidist/react-styleguidist)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos ![GitHub Repo Stars](https://img.shields.io/github/stars/react-cosmos/react-cosmos) ![GitHub last commit](https://img.shields.io/github/last-commit/react-cosmos/react-cosmos)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+- [bit ![GitHub Repo Stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - A build system for development of composable software
 
 #### React Forms
 
@@ -215,6 +216,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kibana ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/kibana) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/kibana)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp ![GitHub Repo Stars](https://img.shields.io/github/stars/captbaritone/webamp) ![GitHub last commit](https://img.shields.io/github/last-commit/captbaritone/webamp)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted ![GitHub Repo Stars](https://img.shields.io/github/stars/gaearon/overreacted.io) ![GitHub last commit](https://img.shields.io/github/last-commit/gaearon/overreacted.io)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+- [wave ![GitHub Repo Stars](https://img.shields.io/github/stars/wavetermdev/waveterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wavetermdev/waveterm)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
 ### React Native
 
