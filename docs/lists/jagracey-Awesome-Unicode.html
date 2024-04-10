@@ -418,7 +418,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 | <code class="language-plaintext highlighter-rouge">' '</code>    | U+1680 OGHAM SPACE MARK                  | a space that looks like a dash. Great to bring programmers close to madness: 1 +  2 === 3.                                                                                                     |
 | <code class="language-plaintext highlighter-rouge">';'</code>    | U+037E GREEK QUESTION MARK               | a look-alike to the semicolon. Also a fun way to annoy developers.                                                                                                                             |
 | <code class="language-plaintext highlighter-rouge">'‭'</code>    | U+202D                                   | change the text direction to Left-to-Right.                                                                                                                                                    |
-| <code class="language-plaintext highlighter-rouge">'‮'</code>�� ‭ | U+202E                                   | change the text direction to Right-to-Left:                                                                                                                                     |
+| <code class="language-plaintext highlighter-rouge">'‮'</code>‭ ‭ | U+202E                                   | change the text direction to Right-to-Left:                                                                                                                                     |
 | <code class="language-plaintext highlighter-rouge">'ꓸ'</code> | U+A4F8 LISU LETTER TONE MYA TI |A lookalike for the period character. |
 | <code class="language-plaintext highlighter-rouge">'ꓹ'</code> | U+A4F9 LISU LETTER TONE NA PO |A lookalike for the comma character.|
 | <code class="language-plaintext highlighter-rouge">'ꓼ'</code> | U+A4FC LISU LETTER TONE MYA NA |A lookalike for the semi-colon character.|
@@ -1695,7 +1695,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <span class="c1">// This is *not* a bitwise left shift (`&lt;&lt;`):</span>
 <span class="kd">var</span> <span class="nx">〱〱</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
 <span class="c1">// This is, though:</span>
-<span class="nx">〱〱</span> <span class="o">&lt;&lt;</span> <span class="nx">〱〱</span><span class="p">;</span> <span class="c1">// 8</span>
+<span class="nx">〱〱</span> <span class="o">&lt;&lt;</span> <span class="err">���</span><span class="nx">〱</span><span class="p">;</span> <span class="c1">// 8</span>
 
 <span class="c1">// Give yourself a discount:</span>
 <span class="kd">var</span> <span class="nx">price_9̶9̶_89</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">cheap</span><span class="dl">'</span><span class="p">;</span>
