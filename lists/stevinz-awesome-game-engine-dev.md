@@ -213,7 +213,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+    - ��� [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 
 ### Game Development
 - Awesome Collections
@@ -423,7 +423,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Koala Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/phisko/kengine) ![GitHub last commit](https://img.shields.io/github/last-commit/phisko/kengine)](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka _Kengine_.
     - 🎉 [Lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/LuminoEngine/Lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/LuminoEngine/Lumino)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/NazaraEngine/NazaraEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NazaraEngine/NazaraEngine)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
-    - 🎉 [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
+    - ���� [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [ORX ![GitHub Repo Stars](https://img.shields.io/github/stars/orx/orx) ![GitHub last commit](https://img.shields.io/github/last-commit/orx/orx)](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel ![GitHub Repo Stars](https://img.shields.io/github/stars/elnormous/ouzel) ![GitHub last commit](https://img.shields.io/github/last-commit/elnormous/ouzel)](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
