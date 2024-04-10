@@ -51,6 +51,7 @@
 
 ### Environment managers
 
+- [arkade ![GitHub Repo Stars](https://img.shields.io/github/stars/alexellis/arkade) ![GitHub last commit](https://img.shields.io/github/last-commit/alexellis/arkade)](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
 - [asdf-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/virtualroot/asdf-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/virtualroot/asdf-opentofu)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 - [tenv ![GitHub Repo Stars](https://img.shields.io/github/stars/tofuutils/tenv) ![GitHub last commit](https://img.shields.io/github/last-commit/tofuutils/tenv)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 - [tfswitcher ![GitHub Repo Stars](https://img.shields.io/github/stars/ASleepyCat/tfswitcher) ![GitHub last commit](https://img.shields.io/github/last-commit/ASleepyCat/tfswitcher)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
@@ -75,6 +76,7 @@
 - [setup-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/setup-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/setup-opentofu)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions ![GitHub Repo Stars](https://img.shields.io/github/stars/dflook/terraform-github-actions) ![GitHub last commit](https://img.shields.io/github/last-commit/dflook/terraform-github-actions)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [tf-via-pr-comments ![GitHub Repo Stars](https://img.shields.io/github/stars/devsectop/tf-via-pr-comments) ![GitHub last commit](https://img.shields.io/github/last-commit/devsectop/tf-via-pr-comments)](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
+- [tofu-controller ![GitHub Repo Stars](https://img.shields.io/github/stars/flux-iac/tofu-controller) ![GitHub last commit](https://img.shields.io/github/last-commit/flux-iac/tofu-controller)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
 
 ### Tests
 
@@ -98,6 +100,7 @@
 
 - [digger ![GitHub Repo Stars](https://img.shields.io/github/stars/diggerhq/digger) ![GitHub last commit](https://img.shields.io/github/last-commit/diggerhq/digger)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 - [terrakube ![GitHub Repo Stars](https://img.shields.io/github/stars/AzBuilder/terrakube) ![GitHub last commit](https://img.shields.io/github/last-commit/AzBuilder/terrakube)](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
+- [tofutf ![GitHub Repo Stars](https://img.shields.io/github/stars/tofutf/tofutf) ![GitHub last commit](https://img.shields.io/github/last-commit/tofutf/tofutf)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 - [walrus ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/walrus) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/walrus)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
 
 ### Registry
