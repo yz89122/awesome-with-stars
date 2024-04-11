@@ -356,7 +356,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome C++ Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Caerind/AwesomeCppGameDev) ![GitHub last commit](https://img.shields.io/github/last-commit/Caerind/AwesomeCppGameDev)](https://github.com/Caerind/AwesomeCppGameDev#readme) - List of awesome C++ things for Game Development.
 - 📚 [Awesome Hpp ![GitHub Repo Stars](https://img.shields.io/github/stars/p-ranav/awesome-hpp) ![GitHub last commit](https://img.shields.io/github/last-commit/p-ranav/awesome-hpp)](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
 - 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
-- 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C, C++, and the STL.
+- ���� [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C, C++, and the STL.
 - 📚 [Learn C++](https://www.learncpp.com) 🔥 - Walks you through all the steps to write, compile, and debug C++.
 - 📚 [Modern Cpp Features ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyCalandra/modern-cpp-features)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
 - C++: App Framework
