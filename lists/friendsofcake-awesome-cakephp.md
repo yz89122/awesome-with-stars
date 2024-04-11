@@ -184,6 +184,7 @@ Additional lists you might find useful:
 *Plugins for manipulating images.*
 
 - 🍰 [ADmad/Glide plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-glide) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-glide)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+- 🍰 [QrCodePlugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-qrcode)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
@@ -241,7 +242,7 @@ Additional lists you might find useful:
 
 - 🍰 [ADmad/Sequence plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-sequence) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-sequence)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - 🍰 [CakeDecimal plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-decimal) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-decimal)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
-- 🍰 [Duplicatable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/riesenia/cakephp-duplicatable) ![GitHub last commit](https://img.shields.io/github/last-commit/riesenia/cakephp-duplicatable)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+- ���� [Duplicatable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/riesenia/cakephp-duplicatable) ![GitHub last commit](https://img.shields.io/github/last-commit/riesenia/cakephp-duplicatable)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 - [Lampager/Cake plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lampager/lampager-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/lampager/lampager-cakephp)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 - 🍰 [Muffin/Orderly plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/usemuffin/orderly) ![GitHub last commit](https://img.shields.io/github/last-commit/usemuffin/orderly)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Sti plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Sti) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Sti)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP. 
