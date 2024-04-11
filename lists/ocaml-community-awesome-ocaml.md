@@ -271,7 +271,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
     - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
     - [ocp-index-top ![GitHub Repo Stars](https://img.shields.io/github/stars/reynir/ocp-index-top) ![GitHub last commit](https://img.shields.io/github/last-commit/reynir/ocp-index-top)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
-  - [ocp-indent](http://www.typerex.org/ocp-indent.html) �� Indentation tool for OCaml, to be used from editors like Emacs and Vim.
+  - [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/def-lkb/ocp-indent-vim) ![GitHub last commit](https://img.shields.io/github/last-commit/def-lkb/ocp-indent-vim)](https://github.com/def-lkb/ocp-indent-vim).
 - **Code coverage**:
   - [Bisect_ppx ![GitHub Repo Stars](https://img.shields.io/github/stars/aantron/bisect_ppx) ![GitHub last commit](https://img.shields.io/github/last-commit/aantron/bisect_ppx)](https://github.com/aantron/bisect_ppx)
@@ -525,7 +525,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [bistro ![GitHub Repo Stars](https://img.shields.io/github/stars/pveber/bistro) ![GitHub last commit](https://img.shields.io/github/last-commit/pveber/bistro)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
 - [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 - [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
-- [onumerical ![GitHub Repo Stars](https://img.shields.io/github/stars/cheshire/onumerical) ![GitHub last commit](https://img.shields.io/github/last-commit/cheshire/onumerical)](https://github.com/cheshire/onumerical) ��� Numerical library for OCaml.
+- [onumerical ![GitHub Repo Stars](https://img.shields.io/github/stars/cheshire/onumerical) ![GitHub last commit](https://img.shields.io/github/last-commit/cheshire/onumerical)](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 - [oml ![GitHub Repo Stars](https://img.shields.io/github/stars/hammerlab/oml) ![GitHub last commit](https://img.shields.io/github/last-commit/hammerlab/oml)](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
 - [ocephes ![GitHub Repo Stars](https://img.shields.io/github/stars/rleonid/ocephes) ![GitHub last commit](https://img.shields.io/github/last-commit/rleonid/ocephes)](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special functions library.
 - [slap ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/slap) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/slap)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
