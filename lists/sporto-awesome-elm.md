@@ -440,6 +440,7 @@ You can find hundreds of high quality packages at:
 * [Ari's Garden ![GitHub Repo Stars](https://img.shields.io/github/stars/theiceshelf/arisgarden) ![GitHub last commit](https://img.shields.io/github/last-commit/theiceshelf/arisgarden)](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 * [Bolster ![GitHub Repo Stars](https://img.shields.io/github/stars/tarbh-engineering/journal) ![GitHub last commit](https://img.shields.io/github/last-commit/tarbh-engineering/journal)](https://github.com/tarbh-engineering/journal) - An end-to-end encrypted journal app.
 * [Conway's Game of Life ![GitHub Repo Stars](https://img.shields.io/github/stars/pecheneg2015/elm-conway-life) ![GitHub last commit](https://img.shields.io/github/last-commit/pecheneg2015/elm-conway-life)](https://github.com/pecheneg2015/elm-conway-life) - Elm implementation of Conway's Game of Life. **Elm v.0.19**
+* [Regex Nodes ![GitHub Repo Stars](https://img.shields.io/github/stars/johannesvollmer/regex-nodes) ![GitHub last commit](https://img.shields.io/github/last-commit/johannesvollmer/regex-nodes)](https://github.com/johannesvollmer/regex-nodes) - A [node-based visual editor for fiddling with regular expressions](https://johannesvollmer.com/regex-nodes/), built with Elm.
 
 ### Games
 

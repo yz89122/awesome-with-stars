@@ -227,7 +227,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Core Image
 
 * [Interpolation Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/Interpolation-Playground-) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/Interpolation-Playground-)](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others! ⏳
-* [CoreImage for Swift Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/CoreImageForSwiftPlaygrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/CoreImageForSwiftPlaygrounds)](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". ��� ⏳
+* [CoreImage for Swift Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/CoreImageForSwiftPlaygrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/CoreImageForSwiftPlaygrounds)](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟 ⏳
 * [Image Processor ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenbrudvik/ImageProcessor) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenbrudvik/ImageProcessor)](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms. ⏳
 
 ### Metal
