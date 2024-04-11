@@ -556,6 +556,7 @@
 - [ajv ![GitHub Repo Stars](https://img.shields.io/github/stars/ajv-validator/ajv) ![GitHub last commit](https://img.shields.io/github/last-commit/ajv-validator/ajv)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 - [Superstruct ![GitHub Repo Stars](https://img.shields.io/github/stars/ianstormtaylor/superstruct) ![GitHub last commit](https://img.shields.io/github/last-commit/ianstormtaylor/superstruct)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 - [yup ![GitHub Repo Stars](https://img.shields.io/github/stars/jquense/yup) ![GitHub last commit](https://img.shields.io/github/last-commit/jquense/yup)](https://github.com/jquense/yup) - Object schema validation.
+- [zod ![GitHub Repo Stars](https://img.shields.io/github/stars/colinhacks/zod) ![GitHub last commit](https://img.shields.io/github/last-commit/colinhacks/zod)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Parsing
 

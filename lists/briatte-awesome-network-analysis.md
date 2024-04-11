@@ -254,7 +254,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ## Journals
 
-> Journals that are not fully open-access are marked as “gated���. Please also note that some of the publishers listed below are [deeply hurting](https://twitter.com/costofknowledge) scientific publishing.
+> Journals that are not fully open-access are marked as “gated”. Please also note that some of the publishers listed below are [deeply hurting](https://twitter.com/costofknowledge) scientific publishing.
 
 -   _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
 -   _[ARCS – Analyse de réseaux pour les sciences sociales / Network Analysis for the Social Sciences](http://arcs.episciences.org/)_, in English and in French ([GDR ARSHS](https://arshs.hypotheses.org/)).
