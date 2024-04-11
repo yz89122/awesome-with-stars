@@ -521,7 +521,7 @@ https://twitter.com/manekinekko
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
 https://twitter.com/svensauleau
 
-## Germany 🇩🇪
+## Germany ����🇪
 
 ### Augsburg
 
