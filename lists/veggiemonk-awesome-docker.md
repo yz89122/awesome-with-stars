@@ -422,7 +422,7 @@ Native desktop applications for managing and montoring docker hosts and clusters
 
 #### Web
 
--   [Admiral ![GitHub Repo Stars](https://img.shields.io/github/stars/vmware/admiral) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware/admiral)](https://github.com/vmware/admiral) Admiral™ is a highly scalable and very lightweight Container Management platform for deploying and managing container based applications. By [VMWare][vmware]
+-   [Admiral ![GitHub Repo Stars](https://img.shields.io/github/stars/vmware/admiral) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware/admiral)](https://github.com/vmware/admiral) Admiral��� is a highly scalable and very lightweight Container Management platform for deploying and managing container based applications. By [VMWare][vmware]
 -   [CASA ![GitHub Repo Stars](https://img.shields.io/github/stars/knrdl/casa) ![GitHub last commit](https://img.shields.io/github/last-commit/knrdl/casa)](https://github.com/knrdl/casa) - Outsource the administration of a handful of containers to your co-workers, by [@knrdl](https://github.com/knrdl)
 -   [Container Web TTY ![GitHub Repo Stars](https://img.shields.io/github/stars/wrfly/container-web-tty) ![GitHub last commit](https://img.shields.io/github/last-commit/wrfly/container-web-tty)](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty [@wrfly](https://github.com/wrfly)
 -   [dockemon ![GitHub Repo Stars](https://img.shields.io/github/stars/ProductiveOps/dokemon) ![GitHub last commit](https://img.shields.io/github/last-commit/ProductiveOps/dokemon)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
