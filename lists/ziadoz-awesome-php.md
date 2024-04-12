@@ -303,6 +303,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image ![GitHub Repo Stars](https://img.shields.io/github/stars/Intervention/image) ![GitHub last commit](https://img.shields.io/github/last-commit/Intervention/image)](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop ![GitHub Repo Stars](https://img.shields.io/github/stars/Sybio/ImageWorkshop) ![GitHub last commit](https://img.shields.io/github/last-commit/Sybio/ImageWorkshop)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+* [PHP QR Code ![GitHub Repo Stars](https://img.shields.io/github/stars/chillerlan/php-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/chillerlan/php-qrcode)](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
