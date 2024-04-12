@@ -358,7 +358,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Video
 
-- [WebRTC ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudwebrtc/flutter-webrtc) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudwebrtc/flutter-webrtc)](https://github.com/cloudwebrtc/flutter-webrtc) [2747��] - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc).
+- [WebRTC ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudwebrtc/flutter-webrtc) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudwebrtc/flutter-webrtc)](https://github.com/cloudwebrtc/flutter-webrtc) [2747⭐] - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc).
 - [Chewie ![GitHub Repo Stars](https://img.shields.io/github/stars/brianegan/chewie) ![GitHub last commit](https://img.shields.io/github/last-commit/brianegan/chewie)](https://github.com/brianegan/chewie) [1353⭐] - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan).
 - [Video Trimmer ![GitHub Repo Stars](https://img.shields.io/github/stars/sbis04/video_trimmer) ![GitHub last commit](https://img.shields.io/github/last-commit/sbis04/video_trimmer)](https://github.com/sbis04/video_trimmer) [276⭐] - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04).
 - [CamerAwesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Apparence-io/camera_awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/Apparence-io/camera_awesome)](https://github.com/Apparence-io/camera_awesome) [295⭐] - Community camera plugin rework by [Apparence.io studio](https://apparence.io).
