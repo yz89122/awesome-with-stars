@@ -95,7 +95,7 @@
 
 <details>
   
-  <summary>🛑  *Below are official plugins which functionalities are either deprecated or (partially) implemented in core.*</summary>
+  <summary>���  *Below are official plugins which functionalities are either deprecated or (partially) implemented in core.*</summary>
 
 - 🛑💼💙 [Line Clamp ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-line-clamp) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-line-clamp)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 - 🛑🧩💙 [Custom Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-custom-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-custom-forms)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
@@ -167,7 +167,7 @@
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/knipferrc/tails-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/knipferrc/tails-ui)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- ��� [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+- 📚 [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
@@ -215,7 +215,7 @@
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
-- 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
+- ���� [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindadmin/admin) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindadmin/admin)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app) - Landing page template using gradients (1.7+).
 - 📁 [Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/mohusman360/mohusman360.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/mohusman360/mohusman360.github.io)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
@@ -249,7 +249,7 @@
 - 📟 [new-tailwind-app ![GitHub Repo Stars](https://img.shields.io/github/stars/msaaddev/new-tailwind-app) ![GitHub last commit](https://img.shields.io/github/last-commit/msaaddev/new-tailwind-app)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 - 🚀 [Tailwind CSS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/tailwind-jekyll) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/tailwind-jekyll)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
-- ���� [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
+- 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
 - 🚀 [Gulp Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/simonswiss/tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/simonswiss/tailwind-starter)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
 - 🚀 [Gatsby Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/gatsby-starter-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/gatsby-starter-tailwind)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
