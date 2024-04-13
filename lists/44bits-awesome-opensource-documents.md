@@ -853,7 +853,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ## Japanese
 
 * [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development
-* [はてな��科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
+* [はてな教科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
 
 [repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
 [repo-and-training]: https://github.com/mixi-inc/AndroidTraining
