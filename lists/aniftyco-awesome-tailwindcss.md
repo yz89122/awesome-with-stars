@@ -167,7 +167,7 @@
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/knipferrc/tails-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/knipferrc/tails-ui)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- 📚 [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+- ��� [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
@@ -179,7 +179,7 @@
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
 - 📚 [TWC](https://react-twc.vercel.app) - Lightweight library to create reusable React + Tailwind CSS components in one line.
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
-- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- ��� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -225,7 +225,7 @@
 - 📁 [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 - 📁 [OhMySMTP Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmysmtp/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmysmtp/templates)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
-- 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
+- ��� [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 - 📁 [Admin One Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-vue-tailwind)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
 - 📁 [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
@@ -259,7 +259,7 @@
 - 🚀 [Gatsby Starter Opinionated ![GitHub Repo Stars](https://img.shields.io/github/stars/mjsarfatti/gatsby-starter-tailwind-opinionated) ![GitHub last commit](https://img.shields.io/github/last-commit/mjsarfatti/gatsby-starter-tailwind-opinionated)](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
 - 🚀 [Create React App Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/kriswep/cra-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/kriswep/cra-tailwindcss)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 - 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/create-react-app-tailwindcss)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
-- 🚀 [Dogpatch ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-pallot/dogpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-pallot/dogpatch)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
+- ��� [Dogpatch ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-pallot/dogpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-pallot/dogpatch)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
 - 🚀 [Next.js Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/oddstronaut/tailwind-next) ![GitHub last commit](https://img.shields.io/github/last-commit/oddstronaut/tailwind-next)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 - 🚀 [Sapper & Svelte Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/EricPKerr/sapper-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/EricPKerr/sapper-tailwindcss-starter)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
 - 🚀 [Netlify Lambda Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/HugoDF/netlify-lambda-tailwind-static-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/HugoDF/netlify-lambda-tailwind-static-starter)](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
@@ -312,7 +312,7 @@
 - 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
-- 💙��� [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
+- 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
 - 🎬 [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg) - Learn how CSS variables can bridge the gap between Framer Motion and Tailwind CSS.
