@@ -414,7 +414,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
   * [HeySpace](https://hey.space) - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
-  * [ideascale.com](https://ideascale.com/) ��� Allow clients to submit ideas and vote, free for 25 members in 1 community
+  * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs, calendars, etc. Free for up to 10 users.
   * [Keybase](https://keybase.io/) — Keybase is a FOSS alternative to Slack; it keeps everyone's chats and files safe, from families to communities to companies.
   * [Google Meet](https://meet.google.com/) — Use Google Meet for your business's online video meeting needs. Meet provides secure, easy-to-join online meetings.
@@ -575,7 +575,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Buildkite](https://buildkite.com)
     * Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30-day build retention, with more free inclusions for open source projects
     * [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. The free developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
-  * [bytebase.com](https://www.bytebase.com/) ��� Database CI/CD and DevOps. Free under 20 users and ten database instances
+  * [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and ten database instances
   * [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, ARM executors, local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
   * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, one environment, shared servers, unlimited public repos
