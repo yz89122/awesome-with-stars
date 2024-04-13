@@ -478,7 +478,7 @@ Wifi | Power | Climatization  | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Germany 🇩🇪
+# Germany ��🇪
 
 ## Berlin
 
@@ -1259,7 +1259,7 @@ Webpage: http://www.cafevitoria.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm ��� 1:00am, Friday 12:00pm – 2:00am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 
@@ -1765,7 +1765,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am
+✔ | ��� | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am
 
 
 ## Massachusetts <a id="massachusetts"></a>

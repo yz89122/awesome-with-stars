@@ -295,7 +295,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
     - 🎉 [msdf-c ![GitHub Repo Stars](https://img.shields.io/github/stars/solenum/msdf-c) ![GitHub last commit](https://img.shields.io/github/last-commit/solenum/msdf-c)](https://github.com/solenum/msdf-c) - Multi-channel signed distance field generator.
-    - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    - �� [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -506,7 +506,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
-    - ���� [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
+    - 🎉 [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 - C++: Math
     - 🎉 [OpenGL Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/g-truc/glm) ![GitHub last commit](https://img.shields.io/github/last-commit/g-truc/glm)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network

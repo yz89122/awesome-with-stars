@@ -176,7 +176,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [��](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
+| [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
@@ -320,7 +320,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | ����     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
 
