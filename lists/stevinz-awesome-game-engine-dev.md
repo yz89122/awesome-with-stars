@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
-    - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
+    - ���� [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
     - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/khronosGroup/Vulkan-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/khronosGroup/Vulkan-samples)](https://github.com/khronosGroup/Vulkan-samples)]
     - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
