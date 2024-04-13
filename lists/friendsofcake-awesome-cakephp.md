@@ -242,7 +242,7 @@ Additional lists you might find useful:
 
 - 🍰 [ADmad/Sequence plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-sequence) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-sequence)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - 🍰 [CakeDecimal plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-decimal) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-decimal)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
-- 🍰 [Duplicatable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/riesenia/cakephp-duplicatable) ![GitHub last commit](https://img.shields.io/github/last-commit/riesenia/cakephp-duplicatable)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+- ���� [Duplicatable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/riesenia/cakephp-duplicatable) ![GitHub last commit](https://img.shields.io/github/last-commit/riesenia/cakephp-duplicatable)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 - [Lampager/Cake plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lampager/lampager-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/lampager/lampager-cakephp)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 - 🍰 [Muffin/Orderly plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/usemuffin/orderly) ![GitHub last commit](https://img.shields.io/github/last-commit/usemuffin/orderly)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Sti plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Sti) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Sti)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP. 
@@ -252,7 +252,7 @@ Additional lists you might find useful:
 - [Muffin/Webservices ORM plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/usemuffin/webservice) ![GitHub last commit](https://img.shields.io/github/last-commit/usemuffin/webservice)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 - [Connehito/CakephpMasterReplica plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Connehito/cakephp-master-replica) ![GitHub last commit](https://img.shields.io/github/last-commit/Connehito/cakephp-master-replica)](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 - 🍰 [Itosho/EasyQuery plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/itosho/easy-query) ![GitHub last commit](https://img.shields.io/github/last-commit/itosho/easy-query)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
-- ���� [Icings/Partitionable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/partitionable) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/partitionable)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+- 🍰 [Icings/Partitionable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/partitionable) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/partitionable)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## PDF
 *Plugins and software for working with PDF files.*
@@ -299,7 +299,7 @@ Additional lists you might find useful:
 *Search Engine Optimization.*
 
 - 🍰 [Muffin/Slug plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Slug) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Slug)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
-- ���� [Tools:Slugged ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- 🍰 [Tools:Slugged ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
 *Plugins and repositories around app skeletons.*
