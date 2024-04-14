@@ -63,7 +63,7 @@
 - 💜 [Laravel ![GitHub Repo Stars](https://img.shields.io/github/stars/inertiajs/inertia-laravel) ![GitHub last commit](https://img.shields.io/github/last-commit/inertiajs/inertia-laravel)](https://github.com/inertiajs/inertia-laravel)
 - 💜 [Rails ![GitHub Repo Stars](https://img.shields.io/github/stars/inertiajs/inertia-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/inertiajs/inertia-rails)](https://github.com/inertiajs/inertia-rails)
 - [Statamic ![GitHub Repo Stars](https://img.shields.io/github/stars/hotmeteor/inertia-statamic) ![GitHub last commit](https://img.shields.io/github/last-commit/hotmeteor/inertia-statamic)](https://github.com/hotmeteor/inertia-statamic)
-- [ASP.NET Core ![GitHub Repo Stars](https://img.shields.io/github/stars/Nothing-Works/inertia-aspnetcore) ![GitHub last commit](https://img.shields.io/github/last-commit/Nothing-Works/inertia-aspnetcore)](https://github.com/Nothing-Works/inertia-aspnetcore)
+- [ASP.NET Core ![GitHub Repo Stars](https://img.shields.io/github/stars/kapi2289/InertiaCore) ![GitHub last commit](https://img.shields.io/github/last-commit/kapi2289/InertiaCore)](https://github.com/kapi2289/InertiaCore)
 - [CakePHP ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-inertiajs) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephp-inertiajs)](https://github.com/ishanvyas22/cakephp-inertiajs)
 - [ColdBox ![GitHub Repo Stars](https://img.shields.io/github/stars/elpete/cbInertia) ![GitHub last commit](https://img.shields.io/github/last-commit/elpete/cbInertia)](https://github.com/elpete/cbInertia)
 - [Phoenix ![GitHub Repo Stars](https://img.shields.io/github/stars/devato/inertia_phoenix) ![GitHub last commit](https://img.shields.io/github/last-commit/devato/inertia_phoenix)](https://github.com/devato/inertia_phoenix)
@@ -96,6 +96,7 @@
 - [Laravel Moonlight ![GitHub Repo Stars](https://img.shields.io/github/stars/TitasGailius/laravel-moonlight) ![GitHub last commit](https://img.shields.io/github/last-commit/TitasGailius/laravel-moonlight)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Titanium ![GitHub Repo Stars](https://img.shields.io/github/stars/usetitanium/inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/usetitanium/inertia)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Breeze React ![GitHub Repo Stars](https://img.shields.io/github/stars/lucky-media/breeze-react) ![GitHub last commit](https://img.shields.io/github/last-commit/lucky-media/breeze-react)](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS, Inertia.js and React.
+- [Laravel Jetstream React ![GitHub Repo Stars](https://img.shields.io/github/stars/ozziexsh/laravel-jetstream-react) ![GitHub last commit](https://img.shields.io/github/last-commit/ozziexsh/laravel-jetstream-react)](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
 
 ### Packages
 
