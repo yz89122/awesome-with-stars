@@ -77,6 +77,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-sgtl5000 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-sgtl5000) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-sgtl5000)](https://github.com/rdagger/micropython-sgtl5000) - Library for SGTL5000 Low Power Stereo Codec w/ Headphone Amp.
 * [umidiparser ![GitHub Repo Stars](https://img.shields.io/github/stars/bixb922/umidiparser) ![GitHub last commit](https://img.shields.io/github/last-commit/bixb922/umidiparser)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 * [micropython-tas2505 ![GitHub Repo Stars](https://img.shields.io/github/stars/miketeachman/micropython-tas2505) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-tas2505)](https://github.com/miketeachman/micropython-tas2505) - MicroPython driver for the Texas Instruments TAS2505 Digital Input Class-D Speaker Amplifier.
+* [yx5300 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py) - MP3 player that can be controlled via a serial interface.
 
 ### Communications
 
@@ -254,7 +255,6 @@ Other places you can look for MicroPython Libraries:
 * [uMQTT ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewmk/uMQTT) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewmk/uMQTT)](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
 * [micropython-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismoorhouse/micropython-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismoorhouse/micropython-mqtt)](https://github.com/chrismoorhouse/micropython-mqtt) - Async MQTT library with auto reconnect for MicroPython devices such as the ESP32 or Pycom devices.
 * [micropython-adafruit-mqtt-esp8266 ![GitHub Repo Stars](https://img.shields.io/github/stars/miketeachman/micropython-adafruit-mqtt-esp8266) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-adafruit-mqtt-esp8266)](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) - Using MQTT to Publish/Subscribe to Adafruit IO. MicroPython/CircuitPython implementation on ESP8266/ESP32.
-* [MicropythonCayenneMQTTClient ![GitHub Repo Stars](https://img.shields.io/github/stars/uraich/MicropythonCayenneMQTTClient) ![GitHub last commit](https://img.shields.io/github/last-commit/uraich/MicropythonCayenneMQTTClient)](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
 * [mqtt_upython ![GitHub Repo Stars](https://img.shields.io/github/stars/matbgn/mqtt_upython) ![GitHub last commit](https://img.shields.io/github/last-commit/matbgn/mqtt_upython)](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 * [tinymqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/belyalov/tinymqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/belyalov/tinymqtt)](https://github.com/belyalov/tinymqtt) - Async MQTT client for MicroPython.
 * [micropython-mqtt-thingspeak ![GitHub Repo Stars](https://img.shields.io/github/stars/miketeachman/micropython-mqtt-thingspeak) ![GitHub last commit](https://img.shields.io/github/last-commit/miketeachman/micropython-mqtt-thingspeak)](https://github.com/miketeachman/micropython-mqtt-thingspeak) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython.
@@ -438,6 +438,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_DEPG0213BN ![GitHub Repo Stars](https://img.shields.io/github/stars/Inqbus/micropython_DEPG0213BN) ![GitHub last commit](https://img.shields.io/github/last-commit/Inqbus/micropython_DEPG0213BN)](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN eInk display found on the TTGO T5 V2.3 ESP32 boards.
 * [uPyEINK ![GitHub Repo Stars](https://img.shields.io/github/stars/lemariva/uPyEINK) ![GitHub last commit](https://img.shields.io/github/last-commit/lemariva/uPyEINK)](https://github.com/lemariva/uPyEINK) - Control a Waveshare 7.5" E-INK display using an ESP32 running MicroPython.
 * [MicroPython-2.9-inch-ePaper-Library ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/MicroPython-2.9-inch-ePaper-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/MicroPython-2.9-inch-ePaper-Library)](https://github.com/rdagger/MicroPython-2.9-inch-ePaper-Library) - MicroPython Display Driver for WaveShare 2.9inch e-Paper Display (B).
+* [uc8151_micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/uc8151_micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/uc8151_micropython)](https://github.com/antirez/uc8151_micropython) - UC8151 / IL0373 MicroPython e-paper display driver with support for greyscales and fast updates.
 
 #### Fonts
 
@@ -484,6 +485,7 @@ Other places you can look for MicroPython Libraries:
 * [HD44780-lcd-upy](https://gitlab.com/rafalosa/HD44780-lcd-upy) - MicroPython module for controlling a generic HD44780 LCD.
 * [LCM1602-14_LCD_Library ![GitHub Repo Stars](https://img.shields.io/github/stars/Bhavithiran97/LCM1602-14_LCD_Library) ![GitHub last commit](https://img.shields.io/github/last-commit/Bhavithiran97/LCM1602-14_LCD_Library)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
 * [micropython-i2c-lcd ![GitHub Repo Stars](https://img.shields.io/github/stars/brainelectronics/micropython-i2c-lcd) ![GitHub last commit](https://img.shields.io/github/last-commit/brainelectronics/micropython-i2c-lcd)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+* [micropython_i2c_lcd ![GitHub Repo Stars](https://img.shields.io/github/stars/Thomascountz/micropython_i2c_lcd) ![GitHub last commit](https://img.shields.io/github/last-commit/Thomascountz/micropython_i2c_lcd)](https://github.com/Thomascountz/micropython_i2c_lcd) - MicroPython library for interacting with HD44780-based LCD displays through a PCF8574 I/O expander. It offers a high-level API for LCD control, including text display, cursor manipulation, and backlight settings, while also providing lower-level access to the GPIO operations on the PCF8574.
 
 #### LCD Graphic
 
@@ -538,6 +540,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-wemos-led-matrix ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-wemos-led-matrix) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-wemos-led-matrix)](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 * [micropython-max7219 ![GitHub Repo Stars](https://img.shields.io/github/stars/vrialland/micropython-max7219) ![GitHub last commit](https://img.shields.io/github/last-commit/vrialland/micropython-max7219)](https://github.com/vrialland/micropython-max7219) - MicroPython driver for MAX7219 8x8 LED matrix.
 * [MatrixDisplay ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/MatrixDisplay) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/MatrixDisplay)](https://github.com/octaprog7/MatrixDisplay) - MicroPython module for work with MAX7219 LED matrix 8x8 display.
+* [LED_panel_upy ![GitHub Repo Stars](https://img.shields.io/github/stars/CatMeowByte/LED_panel_upy) ![GitHub last commit](https://img.shields.io/github/last-commit/CatMeowByte/LED_panel_upy)](https://github.com/CatMeowByte/LED_panel_upy) - MicroPython driver module for Panel P10 32x16 Matrix display and its variants.
 
 #### LED Segment
 
@@ -604,6 +607,7 @@ Other places you can look for MicroPython Libraries:
 * [MCP342x_LoPy ![GitHub Repo Stars](https://img.shields.io/github/stars/jajberni/MCP342x_LoPy) ![GitHub last commit](https://img.shields.io/github/last-commit/jajberni/MCP342x_LoPy)](https://github.com/jajberni/MCP342x_LoPy) - MicroPython driver for the MCP342x ADC.
 * [micropython-ads1220 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-ads1220) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-ads1220)](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [PCF8591_micropython_library ![GitHub Repo Stars](https://img.shields.io/github/stars/xreef/PCF8591_micropython_library) ![GitHub last commit](https://img.shields.io/github/last-commit/xreef/PCF8591_micropython_library)](https://github.com/xreef/PCF8591_micropython_library) - MicroPython library for PCF8591 8-bit ADC/DAC.
+* [hx710 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
 
 #### DAC
 
@@ -640,6 +644,7 @@ Other places you can look for MicroPython Libraries:
 #### Multiplexer
 
 * [micropython-tca9548a ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/micropython-tca9548a) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-tca9548a)](https://github.com/mcauser/micropython-tca9548a) - MicroPython examples using TCA9548A I2C multiplexer.
+* [tca9548a ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/tca9548a.py) - MicroPython driver for the TCA9548A I2C multiplexer.
 
 #### Potentiometers
 
@@ -792,6 +797,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-fingerprint ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisb2/micropython-fingerprint) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisb2/micropython-fingerprint)](https://github.com/chrisb2/micropython-fingerprint) - MicroPython library for reading Grow and ZhianTec fingerprint sensors.
 * [MAX30102-MicroPython-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/n-elia/MAX30102-MicroPython-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/n-elia/MAX30102-MicroPython-driver)](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
+* [max30102 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/max30102.py) - MicroPython driver for the MAX30102, with heartbeat detection and BPM measurement.
 
 #### Camera
 
@@ -802,6 +808,7 @@ Other places you can look for MicroPython Libraries:
 * [uPyCam ![GitHub Repo Stars](https://img.shields.io/github/stars/lemariva/uPyCam) ![GitHub last commit](https://img.shields.io/github/last-commit/lemariva/uPyCam)](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
 * [OV2640_uPy ![GitHub Repo Stars](https://img.shields.io/github/stars/FunPythonEC/OV2640_uPy) ![GitHub last commit](https://img.shields.io/github/last-commit/FunPythonEC/OV2640_uPy)](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 camera library for MicroPython.
 * [MQTT-Cam ![GitHub Repo Stars](https://img.shields.io/github/stars/jono-allen/MQTT-Cam) ![GitHub last commit](https://img.shields.io/github/last-commit/jono-allen/MQTT-Cam)](https://github.com/jono-allen/MQTT-Cam) - ESP32-CAM MicroPython MQTT AWS S3 Uploader.
+* [huskylib ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
 
 #### Colour
 
@@ -841,6 +848,7 @@ Other places you can look for MicroPython Libraries:
 * [vl53l5cx ![GitHub Repo Stars](https://img.shields.io/github/stars/mp-extras/vl53l5cx) ![GitHub last commit](https://img.shields.io/github/last-commit/mp-extras/vl53l5cx)](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
 * [VL6180X ![GitHub Repo Stars](https://img.shields.io/github/stars/Ledbelly2142/VL6180X) ![GitHub last commit](https://img.shields.io/github/last-commit/Ledbelly2142/VL6180X)](https://github.com/Ledbelly2142/VL6180X) - MicroPython driver for the VL6180X sensor on the ESP32.
 * [LidarLight_v3HP_micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/Dnapert/LidarLight_v3HP_micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/Dnapert/LidarLight_v3HP_micropython)](https://github.com/Dnapert/LidarLight_v3HP_micropython) - A MicroPython library for the Garmin Lidar Lite v3HP.
+* [vl53l1x ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py) - MicroPython driver for the VL53L1X ToF sensor.
 
 #### Distance Ultrasonic
 
@@ -877,6 +885,10 @@ Other places you can look for MicroPython Libraries:
 #### Humidity
 
 * [MicroPython_HTS221 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_HTS221) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_HTS221)](https://github.com/jposada202020/MicroPython_HTS221) - MicroPython Driver for the HTS221 Humidity Sensor.
+
+#### Human Presence
+
+* [ld2410 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/ld2410.py) - 24GHz human presence sensing module, capable of detecting moving and stationary targets, and providing an approximate range.
 
 #### Light
 
@@ -937,6 +949,7 @@ Other places you can look for MicroPython Libraries:
 
 * [uPy_APDS9960 ![GitHub Repo Stars](https://img.shields.io/github/stars/rlangoy/uPy_APDS9960) ![GitHub last commit](https://img.shields.io/github/last-commit/rlangoy/uPy_APDS9960)](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for ESP8266 using APDS9960.
 * [MicroPython_VCNL4010 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_VCNL4010) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_VCNL4010)](https://github.com/jposada202020/MicroPython_VCNL4010) - MicroPython Driver for the Vishay VCNL4010 Proximity and Ambient Light Sensor.
+* [apds9960 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/apds9960.py) - MicroPython Driver for the APDS9960, with simple gesture detection.
 
 #### Radiation
 
