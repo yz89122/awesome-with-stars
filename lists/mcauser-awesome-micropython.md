@@ -36,6 +36,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Development](#development)
   * [Code Generation](#code-generation)
   * [Debugging](#debugging)
+  * [Firmware](#firmware)
   * [IDEs](#ides)
   * [Logging](#logging)
   * [Shells](#shells)
@@ -465,6 +466,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_ra8875 ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython_ra8875) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython_ra8875)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 * [micropython-nano-gui ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-nano-gui) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-nano-gui)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
 * [micro-gui ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-micro-gui) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-micro-gui)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user input via push buttons or a navigation joystick and an optional rotary encoder.
+* [micropython-touch ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-touch) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-touch)](https://github.com/peterhinch/micropython-touch) - Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.
 * [TFT-GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-tft-gui) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-tft-gui)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 * [micropython-nextion ![GitHub Repo Stars](https://img.shields.io/github/stars/brainelectronics/micropython-nextion) ![GitHub last commit](https://img.shields.io/github/last-commit/brainelectronics/micropython-nextion)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 * [mp_lvgl_widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/kdschlosser/mp_lvgl_widgets) ![GitHub last commit](https://img.shields.io/github/last-commit/kdschlosser/mp_lvgl_widgets)](https://github.com/kdschlosser/mp_lvgl_widgets) - Widgets for the MicroPython Port of LVGL.
@@ -683,7 +685,6 @@ Other places you can look for MicroPython Libraries:
 * [Micropython-AD9833 ![GitHub Repo Stars](https://img.shields.io/github/stars/KipCrossing/Micropython-AD9833) ![GitHub last commit](https://img.shields.io/github/last-commit/KipCrossing/Micropython-AD9833)](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, SPI interface.
 * [Clock_Generators ![GitHub Repo Stars](https://img.shields.io/github/stars/Wei1234c/Clock_Generators) ![GitHub last commit](https://img.shields.io/github/last-commit/Wei1234c/Clock_Generators)](https://github.com/Wei1234c/Clock_Generators) - Clock generators (Si5351 for now) toolbox.
 * [Signal_Generators ![GitHub Repo Stars](https://img.shields.io/github/stars/Wei1234c/Signal_Generators) ![GitHub last commit](https://img.shields.io/github/last-commit/Wei1234c/Signal_Generators)](https://github.com/Wei1234c/Signal_Generators) - Signal generators (AD9833, AD9834, AD9850, ADF4351) toolbox.
-* [ad9850_signalgen ![GitHub Repo Stars](https://img.shields.io/github/stars/brenn/ad9850_signalgen) ![GitHub last commit](https://img.shields.io/github/last-commit/brenn/ad9850_signalgen)](https://github.com/brenn/ad9850_signalgen) - MicroPython library for AD9850 synthesizer.
 * [pico-wave-vibration-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/gurgleapps/pico-wave-vibration-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/gurgleapps/pico-wave-vibration-generator)](https://github.com/gurgleapps/pico-wave-vibration-generator) - A MicroPython-based frequency generator for Raspberry Pi Pico designed to create vibrations on solenoids or speakers, enabling wave experimentation and exploration at home.
 * [micropython-m5stack-dds ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-m5stack-dds) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-m5stack-dds)](https://github.com/mattytrentini/micropython-m5stack-dds) - MicroPython driver for the M5Stack DDS frequency generator.
 * [AD9833-MicroPython-Module ![GitHub Repo Stars](https://img.shields.io/github/stars/owainm713/AD9833-MicroPython-Module) ![GitHub last commit](https://img.shields.io/github/last-commit/owainm713/AD9833-MicroPython-Module)](https://github.com/owainm713/AD9833-MicroPython-Module) - MicroPython module to use the AD9833 programable waveform generator.
@@ -1033,7 +1034,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mcron ![GitHub Repo Stars](https://img.shields.io/github/stars/fizista/micropython-mcron) ![GitHub last commit](https://img.shields.io/github/last-commit/fizista/micropython-mcron)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron ![GitHub Repo Stars](https://img.shields.io/github/stars/fizista/micropython-scron) ![GitHub last commit](https://img.shields.io/github/last-commit/fizista/micropython-scron)](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known cron program for Unix systems.
-* [Schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
+* [Schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for asyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
 * [micropython-aioschedule ![GitHub Repo Stars](https://img.shields.io/github/stars/ThinkTransit/micropython-aioschedule) ![GitHub last commit](https://img.shields.io/github/last-commit/ThinkTransit/micropython-aioschedule)](https://github.com/ThinkTransit/micropython-aioschedule) - A persistent uasyncio scheduler that supports deepsleep between task runs.
 
 ### Storage
@@ -1104,7 +1105,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Tutorials
 
-* [uasyncio ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
+* [asyncio ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
 * [Asynchronous drivers ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 * [Pyboard micropower ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-micropower) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-micropower)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
 * [3D rotation with quaternions ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-samples)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
@@ -1163,6 +1164,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-aiosentry ![GitHub Repo Stars](https://img.shields.io/github/stars/devbis/micropython-aiosentry) ![GitHub last commit](https://img.shields.io/github/last-commit/devbis/micropython-aiosentry)](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
 * [micropython-usyslog ![GitHub Repo Stars](https://img.shields.io/github/stars/kfricke/micropython-usyslog) ![GitHub last commit](https://img.shields.io/github/last-commit/kfricke/micropython-usyslog)](https://github.com/kfricke/micropython-usyslog) - Simple remote syslog client for MicroPython.
 * [Asynchronous monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-monitor)](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
+
+### Firmware
+
+* [micropython-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/jonahbron/micropython-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/jonahbron/micropython-builder)](https://github.com/jonahbron/micropython-builder) - Tool for building and flashing a custom MicroPython firmware.
 
 ### IDEs
 
