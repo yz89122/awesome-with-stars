@@ -654,7 +654,7 @@
 - [Vue 3 + Laravel v9 - Boilerplate / Starter kit ![GitHub Repo Stars](https://img.shields.io/github/stars/fsgreco/vue3-laravel-api) ![GitHub last commit](https://img.shields.io/github/last-commit/fsgreco/vue3-laravel-api)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
 - [h5 ![GitHub Repo Stars](https://img.shields.io/github/stars/gyt95/h5) ![GitHub last commit](https://img.shields.io/github/last-commit/gyt95/h5)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 - [Vitesse Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
-- [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+- [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺��� Lightweight version of Vitesse (Vue 3 Starter)
 - [vue-plugin-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/selimdoyranli/vue-plugin-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/selimdoyranli/vue-plugin-boilerplate)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
 
 ### Books
@@ -1162,7 +1162,7 @@
 - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
 - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
-- [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点��钮就能生成啦!
+- [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能生成啦!
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
 - [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
