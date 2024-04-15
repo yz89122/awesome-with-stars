@@ -755,7 +755,7 @@ kotlin.Unit
 ### Bangladesh
  - [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
 
-### ���🇷 Brazil
+### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
