@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
-    - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
+    - �� [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
     - 🎉 [Nana ![GitHub Repo Stars](https://img.shields.io/github/stars/cnjinhao/nana) ![GitHub last commit](https://img.shields.io/github/last-commit/cnjinhao/nana)](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
     - ⭐ [Portable File Dialogs ![GitHub Repo Stars](https://img.shields.io/github/stars/samhocevar/portable-file-dialogs) ![GitHub last commit](https://img.shields.io/github/last-commit/samhocevar/portable-file-dialogs)](https://github.com/samhocevar/portable-file-dialogs) - Single-header C++11 native dialogs on Windows, macOS, and Linux.
@@ -506,7 +506,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
-    - ���� [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
+    - 🎉 [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 - C++: Math
     - 🎉 [OpenGL Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/g-truc/glm) ![GitHub last commit](https://img.shields.io/github/last-commit/g-truc/glm)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network
