@@ -173,7 +173,7 @@ _Any packages/modules and plugins_
 ## Contribute
 
 Contributions welcome ! Read the [contribution guidelines](contributing.md) first.
-You can also contribute to share this repository and Web Monetization with your friends. ����
+You can also contribute to share this repository and Web Monetization with your friends. 😄
 
 If you want to add a new small icon, the height must be **16px**. Put in `assets/small_icons/NAME.png`. Format PNG only accepted.
 

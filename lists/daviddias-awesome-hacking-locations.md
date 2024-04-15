@@ -501,7 +501,7 @@ Webpage: http://www.schillerbar.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00��00:00
+✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
 
 #### St. Oberholz
 
