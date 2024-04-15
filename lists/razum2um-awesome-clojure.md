@@ -167,6 +167,7 @@
 
   * [clj-time ![GitHub Repo Stars](https://img.shields.io/github/stars/clj-time/clj-time) ![GitHub last commit](https://img.shields.io/github/last-commit/clj-time/clj-time)](https://github.com/clj-time/clj-time)
   * [clojure.java-time ![GitHub Repo Stars](https://img.shields.io/github/stars/dm3/clojure.java-time) ![GitHub last commit](https://img.shields.io/github/last-commit/dm3/clojure.java-time)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
+  * [holi ![GitHub Repo Stars](https://img.shields.io/github/stars/luciolucio/holi) ![GitHub last commit](https://img.shields.io/github/last-commit/luciolucio/holi)](https://github.com/luciolucio/holi) - Calendar operations that are aware of weekends and holidays
   * [timewords ![GitHub Repo Stars](https://img.shields.io/github/stars/tokenmill/timewords) ![GitHub last commit](https://img.shields.io/github/last-commit/tokenmill/timewords)](https://github.com/tokenmill/timewords)
   * [tick ![GitHub Repo Stars](https://img.shields.io/github/stars/juxt/tick) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/tick)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
 
