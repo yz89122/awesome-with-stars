@@ -106,6 +106,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [flower ![GitHub Repo Stars](https://img.shields.io/github/stars/mher/flower) ![GitHub last commit](https://img.shields.io/github/last-commit/mher/flower)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 * [jet-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/jet-admin/jet-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/jet-admin/jet-bridge)](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 * [wooey ![GitHub Repo Stars](https://img.shields.io/github/stars/wooey/wooey) ![GitHub last commit](https://img.shields.io/github/last-commit/wooey/wooey)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
+* [streamlit ![GitHub Repo Stars](https://img.shields.io/github/stars/streamlit/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
 
 ## Algorithms and Design Patterns
 

@@ -213,7 +213,6 @@
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 - [Vue.js Interview Questions ![GitHub Repo Stars](https://img.shields.io/github/stars/sudheerj/vuejs-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/sudheerj/vuejs-interview-questions)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
-- [Prokarman Resume Builder](https://prokarman.com/) - A Free Resume Builder for crafting resumes for your dream job.
 
 ### Community
 
@@ -384,7 +383,7 @@
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
-- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔드 개발자를 ��한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
@@ -490,6 +489,7 @@
 - [Developing a web application with Vue.js 3 and Vite.js (French)](https://mickael-baron.fr/web/vuejs-miseenoeuvre-part2) par Mickael Baron
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
+- [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 
 ### Examples
 
@@ -1396,6 +1396,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [uspin ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/uspin) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/uspin)](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 - [vue-img-lazy-tiny ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/vue-img-lazy-tiny) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/vue-img-lazy-tiny)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 - [vue3-ui-preloader ![GitHub Repo Stars](https://img.shields.io/github/stars/gbast0s/vue3-ui-preloader) ![GitHub last commit](https://img.shields.io/github/last-commit/gbast0s/vue3-ui-preloader)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
+- [vue-default-page ![GitHub Repo Stars](https://img.shields.io/github/stars/zero-one-code/vue-default-page) ![GitHub last commit](https://img.shields.io/github/last-commit/zero-one-code/vue-default-page)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 
 ##### Progress Bar
 
@@ -1415,6 +1416,7 @@ _A slim progress bar at the top of the page_
 - [vue-ins-progress-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/meloalright/vue-ins-progress-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/meloalright/vue-ins-progress-bar)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [vue-next-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/jambonn/vue-next-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/jambonn/vue-next-progressbar)](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
 - [vue3-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/marcoschulte/vue3-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/marcoschulte/vue3-progress)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
+- [css-3d-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/rofixro/css-3d-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/rofixro/css-3d-progress)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
 
 #### Tooltip
 
@@ -1713,6 +1715,7 @@ _Display non-editable events in a Calendar_
 - [vue-datepicker-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/edisdev/vue-datepicker-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/edisdev/vue-datepicker-ui)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 - [vue-tailwind-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/elreco/vue-tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/elreco/vue-tailwind-datepicker)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 - [qalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/tomosterlund/qalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/tomosterlund/qalendar)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+- [schedule-x ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 #### Map
 
@@ -2714,6 +2717,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Reforms.js ![GitHub Repo Stars](https://img.shields.io/github/stars/empla/reforms) ![GitHub last commit](https://img.shields.io/github/last-commit/empla/reforms)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 - [FormKit ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/formkit) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/formkit)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 - [vrf ![GitHub Repo Stars](https://img.shields.io/github/stars/dimailn/vrf) ![GitHub last commit](https://img.shields.io/github/last-commit/dimailn/vrf)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
+- [tracked-instance ![GitHub Repo Stars](https://img.shields.io/github/stars/rudnik275/tracked-instance) ![GitHub last commit](https://img.shields.io/github/last-commit/rudnik275/tracked-instance)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 
 ##### Validation
 
@@ -2951,7 +2955,7 @@ _Move a DOM node to a target DOM node_
 - [@kooljay82/vue-m-camera ![GitHub Repo Stars](https://img.shields.io/github/stars/kooljay82/vue-m-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/kooljay82/vue-m-camera)](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which is taken via camera of user's device.
 - [v-ripple-directive ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewvasilchuk/v-ripple-directive) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewvasilchuk/v-ripple-directive)](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect.
 - [vue-material-design-ripple ![GitHub Repo Stars](https://img.shields.io/github/stars/partyka1/vue-material-design-ripple) ![GitHub last commit](https://img.shields.io/github/last-commit/partyka1/vue-material-design-ripple)](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works.
-- [v-github-icon ![GitHub Repo Stars](https://img.shields.io/github/stars/vinayakkulkarni/v-github-icon) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' ����
+- [v-github-icon ![GitHub Repo Stars](https://img.shields.io/github/stars/vinayakkulkarni/v-github-icon) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
 - [vue-styled-shadows ![GitHub Repo Stars](https://img.shields.io/github/stars/juliandreas/vue-styled-shadows) ![GitHub last commit](https://img.shields.io/github/last-commit/juliandreas/vue-styled-shadows)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 - [v-visible ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewvasilchuk/v-visible) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewvasilchuk/v-visible)](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element.
 - [vue-web-otp ![GitHub Repo Stars](https://img.shields.io/github/stars/mrbilit/vue-web-otp) ![GitHub last commit](https://img.shields.io/github/last-commit/mrbilit/vue-web-otp)](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
@@ -3530,6 +3534,7 @@ _Create documentation_
 - [vuese ![GitHub Repo Stars](https://img.shields.io/github/stars/vuese/vuese) ![GitHub last commit](https://img.shields.io/github/last-commit/vuese/vuese)](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [vue-dotmd-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/mengdu/vue-dotmd-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/mengdu/vue-dotmd-loader)](https://github.com/mengdu/vue-dotmd-loader) - A webpack loader for loader markdown file transform to vue file.
 - [vue-tut ![GitHub Repo Stars](https://img.shields.io/github/stars/evwt/vue-tut) ![GitHub last commit](https://img.shields.io/github/last-commit/evwt/vue-tut)](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
+- [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
 
 #### Test
 
