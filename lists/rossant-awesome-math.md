@@ -302,7 +302,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
 * 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
 * 📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
-* 📝 [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
+* �� [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
 * 📝 [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
 
 ### Group Theory
@@ -479,7 +479,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 * 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 * 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
-* ��� [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
+* 📝 [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * 📝 [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * 📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
 * 📝 [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett
