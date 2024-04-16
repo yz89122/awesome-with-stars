@@ -1221,7 +1221,7 @@ Topics: Serverless, Offline Web, Chat Bots\
 Topics: Kafka, Mulesoft, API Management, Integration Platforms\
 https://twitter.com/stn1slv
 
-## Spain 🇪🇸
+## Spain 🇪��
 
 ### Alicante
 
