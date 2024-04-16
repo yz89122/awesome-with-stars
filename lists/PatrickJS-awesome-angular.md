@@ -568,6 +568,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-charts)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ngx-f2 ![GitHub Repo Stars](https://img.shields.io/github/stars/hamdiwanis/ngx-f2) ![GitHub last commit](https://img.shields.io/github/last-commit/hamdiwanis/ngx-f2)](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
 * [ngx-trend ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-trend) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-trend)](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
+* [ng-apexcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/apexcharts/ng-apexcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/apexcharts/ng-apexcharts)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
 #### Drag/Drop
 
