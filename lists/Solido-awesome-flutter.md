@@ -2,15 +2,15 @@
 
 
 <p align="center">
-  <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-   <a href="https://twitter.com/blueaquilae">
-    <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
-  </a>
+<a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
+<img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
+</a>
+<a href="https://github.com/sindresorhus/awesome">
+<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+</a>
+<a href="https://twitter.com/blueaquilae">
+<img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
+</a>
 </p>
 
 
@@ -24,34 +24,34 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Demonstrations
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center, width: 180">
-    
-        
+<td style="text-align: center, width: 180">
+
+
 [Instant Chat Integration](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
-    
+
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img alt="Stream" src="https://github.com/Solido/awesome-flutter/raw/master/.github/stream-animation.gif" /> 
-    </a>
-    
+<img alt="Stream" src="https://github.com/Solido/awesome-flutter/raw/master/.github/stream-animation.gif" />
+</a>
+
 [with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
-    
 
-  </td>
-   <td style="text-align: center">
-    <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
-  
-    BMW
-    Connect
 
-  </td>
-  <td style="text-align: center">
-    <img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
-  
+</td>
+<td style="text-align: center">
+<img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
 
-    Calendar 
-    Meteo
+BMW
+Connect
 
-  </td>
+</td>
+<td style="text-align: center">
+<img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
+
+
+Calendar
+Meteo
+
+</td>
 
 
 </tr></table></div>
@@ -151,30 +151,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Official Gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/gallery)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 - [Flutter Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/nisrulz/flutter-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/nisrulz/flutter-examples)](https://github.com/nisrulz/flutter-examples) [6742⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 - [Flutter Catalog ![GitHub Repo Stars](https://img.shields.io/github/stars/X-Wei/flutter_catalog) ![GitHub last commit](https://img.shields.io/github/last-commit/X-Wei/flutter_catalog)](https://github.com/X-Wei/flutter_catalog) [2091⭐] - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
-kotlin.Unit
 
 
 ### UI
 
 - [StaggeredGridView ![GitHub Repo Stars](https://img.shields.io/github/stars/letsar/flutter_staggered_grid_view) ![GitHub last commit](https://img.shields.io/github/last-commit/letsar/flutter_staggered_grid_view)](https://github.com/letsar/flutter_staggered_grid_view) [3037⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Facebook Reactions ![GitHub Repo Stars](https://img.shields.io/github/stars/duytq94/facebook-reaction-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/duytq94/facebook-reaction-animation)](https://github.com/duytq94/facebook-reaction-animation) [409⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreHaueisen/flushbar) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreHaueisen/flushbar)](https://github.com/AndreHaueisen/flushbar) [984⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
-kotlin.Unit
 - [Typeahead ![GitHub Repo Stars](https://img.shields.io/github/stars/AbdulRahmanAlHamali/flutter_typeahead) ![GitHub last commit](https://img.shields.io/github/last-commit/AbdulRahmanAlHamali/flutter_typeahead)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [781⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
-kotlin.Unit
 - [Pin Code ![GitHub Repo Stars](https://img.shields.io/github/stars/LiewJunTung/pin_code_text_field) ![GitHub last commit](https://img.shields.io/github/last-commit/LiewJunTung/pin_code_text_field)](https://github.com/LiewJunTung/pin_code_text_field) [376⭐] - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
-kotlin.Unit
 - [Liquid Pull To Refresh ![GitHub Repo Stars](https://img.shields.io/github/stars/aagarwal1012/Liquid-Pull-To-Refresh) ![GitHub last commit](https://img.shields.io/github/last-commit/aagarwal1012/Liquid-Pull-To-Refresh)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1213⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Direct Select ![GitHub Repo Stars](https://img.shields.io/github/stars/LanarsInc/direct-select-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/LanarsInc/direct-select-flutter)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After ![GitHub Repo Stars](https://img.shields.io/github/stars/xsahil03x/before_after) ![GitHub last commit](https://img.shields.io/github/last-commit/xsahil03x/before_after)](https://github.com/xsahil03x/before_after) [870⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher ![GitHub Repo Stars](https://img.shields.io/github/stars/vintage/scratcher) ![GitHub last commit](https://img.shields.io/github/last-commit/vintage/scratcher)](https://github.com/vintage/scratcher) [525⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
-kotlin.Unit
 - [Beautiful_Popup ![GitHub Repo Stars](https://img.shields.io/github/stars/jaweii/Flutter_beautiful_popup) ![GitHub last commit](https://img.shields.io/github/last-commit/jaweii/Flutter_beautiful_popup)](https://github.com/jaweii/Flutter_beautiful_popup) [660⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
-kotlin.Unit
 - [Animated Selection Slide ![GitHub Repo Stars](https://img.shields.io/github/stars/sbilketay/animated_selection_slide) ![GitHub last commit](https://img.shields.io/github/last-commit/sbilketay/animated_selection_slide)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags ![GitHub Repo Stars](https://img.shields.io/github/stars/Dn-a/flutter_tags) ![GitHub last commit](https://img.shields.io/github/last-commit/Dn-a/flutter_tags)](https://github.com/Dn-a/flutter_tags) [499⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 - [Flutter Neumorphic ![GitHub Repo Stars](https://img.shields.io/github/stars/Idean/Flutter-Neumorphic) ![GitHub last commit](https://img.shields.io/github/last-commit/Idean/Flutter-Neumorphic)](https://github.com/Idean/Flutter-Neumorphic) [1921⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
@@ -188,7 +179,6 @@ kotlin.Unit
 - [smooth_page_indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/Milad-Akarie/smooth_page_indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/Milad-Akarie/smooth_page_indicator)](https://github.com/Milad-Akarie/smooth_page_indicator) [1081⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
 #### Sticky Headers
 
-kotlin.Unit
 - [Sticky Header ![GitHub Repo Stars](https://img.shields.io/github/stars/letsar/flutter_sticky_header) ![GitHub last commit](https://img.shields.io/github/last-commit/letsar/flutter_sticky_header)](https://github.com/letsar/flutter_sticky_header) [876⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
 - [Sticky Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/slightfoot/flutter_sticky_headers) ![GitHub last commit](https://img.shields.io/github/last-commit/slightfoot/flutter_sticky_headers)](https://github.com/slightfoot/flutter_sticky_headers) [1053⭐] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
@@ -202,7 +192,6 @@ kotlin.Unit
 - [Fancy Bottom Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/tunitowen/fancy_bottom_navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/tunitowen/fancy_bottom_navigation)](https://github.com/tunitowen/fancy_bottom_navigation) [733⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/imaNNeoFighT/circular_bottom_navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/imaNNeoFighT/circular_bottom_navigation)](https://github.com/imaNNeoFighT/circular_bottom_navigation) [616⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/pedromassango/bottom_navy_bar)](https://github.com/pedromassango/bottom_navy_bar) [983⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
-kotlin.Unit
 - [Google Nav Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/sooxt98/google_nav_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/sooxt98/google_nav_bar)](https://github.com/sooxt98/google_nav_bar) [685⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
 #### Bottom Sheets
@@ -211,15 +200,12 @@ kotlin.Unit
 
 #### Sliders
 
-kotlin.Unit
-kotlin.Unit
 - [Flutter Xlider ![GitHub Repo Stars](https://img.shields.io/github/stars/Ali-Azmoud/flutter_xlider) ![GitHub last commit](https://img.shields.io/github/last-commit/Ali-Azmoud/flutter_xlider)](https://github.com/Ali-Azmoud/flutter_xlider) [486⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 #### UI Helpers
 
 - [Reorderables ![GitHub Repo Stars](https://img.shields.io/github/stars/hanshengchiu/reorderables) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshengchiu/reorderables)](https://github.com/hanshengchiu/reorderables) [714⭐] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh ![GitHub Repo Stars](https://img.shields.io/github/stars/aagarwal1012/Liquid-Pull-To-Refresh) ![GitHub last commit](https://img.shields.io/github/last-commit/aagarwal1012/Liquid-Pull-To-Refresh)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1213⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-kotlin.Unit
 - [Offline ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/flutter_offline) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/flutter_offline)](https://github.com/jogboms/flutter_offline) [993⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Scroll To Index ![GitHub Repo Stars](https://img.shields.io/github/stars/quire-io/scroll-to-index) ![GitHub last commit](https://img.shields.io/github/last-commit/quire-io/scroll-to-index)](https://github.com/quire-io/scroll-to-index) [481⭐] - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 - [In View Notifier List ![GitHub Repo Stars](https://img.shields.io/github/stars/rvamsikrishna/inview_notifier_list) ![GitHub last commit](https://img.shields.io/github/last-commit/rvamsikrishna/inview_notifier_list)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
@@ -229,18 +215,15 @@ kotlin.Unit
 
 #### Material Design
 
-kotlin.Unit
 - [Slidable ![GitHub Repo Stars](https://img.shields.io/github/stars/letsar/flutter_slidable) ![GitHub last commit](https://img.shields.io/github/last-commit/letsar/flutter_slidable)](https://github.com/letsar/flutter_slidable) [2604⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 - [Backdrop ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/backdrop) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/backdrop)](https://github.com/fluttercommunity/backdrop) [307⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 
 #### Cupertino Design
 
-kotlin.Unit
 
 #### Effect
 
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
-kotlin.Unit
 - [Shimmer ![GitHub Repo Stars](https://img.shields.io/github/stars/hnvn/flutter_shimmer) ![GitHub last commit](https://img.shields.io/github/last-commit/hnvn/flutter_shimmer)](https://github.com/hnvn/flutter_shimmer) [1739⭐] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave ![GitHub Repo Stars](https://img.shields.io/github/stars/i-protoss/wave) ![GitHub last commit](https://img.shields.io/github/last-commit/i-protoss/wave)](https://github.com/i-protoss/wave) [1053⭐] - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe ![GitHub Repo Stars](https://img.shields.io/github/stars/iamSahdeep/liquid_swipe_flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/iamSahdeep/liquid_swipe_flutter)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
@@ -250,7 +233,6 @@ kotlin.Unit
 
 #### Calendar
 
-kotlin.Unit
 - [Calendar Carousel Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dooboolab/flutter_calendar_carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/dooboolab/flutter_calendar_carousel)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab ![GitHub Repo Stars](https://img.shields.io/github/stars/dooboolab/flutter_calendar_carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/dooboolab/flutter_calendar_carousel)](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/aleksanderwozniak/table_calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/aleksanderwozniak/table_calendar)](https://github.com/aleksanderwozniak/table_calendar) [1710⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 - [Time Planner ![GitHub Repo Stars](https://img.shields.io/github/stars/Jamalianpour/time_planner) ![GitHub last commit](https://img.shields.io/github/last-commit/Jamalianpour/time_planner)](https://github.com/Jamalianpour/time_planner) [209⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
@@ -284,18 +266,12 @@ kotlin.Unit
 
 ### Map
 
-kotlin.Unit
 - [GeoCoder ![GitHub Repo Stars](https://img.shields.io/github/stars/aloisdeniel/flutter_geocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/aloisdeniel/flutter_geocoder)](https://github.com/aloisdeniel/flutter_geocoder) [185⭐] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
-kotlin.Unit
 - [AMap ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttify-project/amap_map_fluttify) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttify-project/amap_map_fluttify)](https://github.com/fluttify-project/amap_map_fluttify) [539⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 - [Map ![GitHub Repo Stars](https://img.shields.io/github/stars/xclud/flutter_map) ![GitHub last commit](https://img.shields.io/github/last-commit/xclud/flutter_map)](https://github.com/xclud/flutter_map) [127⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ### Charts
 
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [FL Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/imaNNeoFighT/fl_chart) ![GitHub last commit](https://img.shields.io/github/last-commit/imaNNeoFighT/fl_chart)](https://github.com/imaNNeoFighT/fl_chart) [6367⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 - [Bezier Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/aeyrium/bezier-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/aeyrium/bezier-chart)](https://github.com/aeyrium/bezier-chart) [445⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 - [Echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/entronad/flutter_echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/entronad/flutter_echarts)](https://github.com/entronad/flutter_echarts) [723⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
@@ -304,22 +280,15 @@ kotlin.Unit
 ### Navigation
 
 - [Fluro ![GitHub Repo Stars](https://img.shields.io/github/stars/goposse/fluro) ![GitHub last commit](https://img.shields.io/github/last-commit/goposse/fluro)](https://github.com/goposse/fluro) [3655⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-kotlin.Unit
-kotlin.Unit
 - [Get ![GitHub Repo Stars](https://img.shields.io/github/stars/jonataslaw/get) ![GitHub last commit](https://img.shields.io/github/last-commit/jonataslaw/get)](https://github.com/jonataslaw/get) [9801⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 - [Beamer ![GitHub Repo Stars](https://img.shields.io/github/stars/slovnicki/beamer) ![GitHub last commit](https://img.shields.io/github/last-commit/slovnicki/beamer)](https://github.com/slovnicki/beamer) [573⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
-kotlin.Unit
 - [auto_route ![GitHub Repo Stars](https://img.shields.io/github/stars/Milad-Akarie/auto_route_library) ![GitHub last commit](https://img.shields.io/github/last-commit/Milad-Akarie/auto_route_library)](https://github.com/Milad-Akarie/auto_route_library) [1473⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
 
 ### Auth
 
 - [Local Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/packages) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/packages)](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android
-kotlin.Unit
 - [Google Sign-In ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/packages) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/packages)](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth
 - [Firebase Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/flutterfire) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/flutterfire)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/Clancey/simple_auth) ![GitHub last commit](https://img.shields.io/github/last-commit/Clancey/simple_auth)](https://github.com/Clancey/simple_auth) [350⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 - [Flutter AppAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_appauth) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_appauth)](https://github.com/MaikuB/flutter_appauth) [267⭐] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
@@ -341,7 +310,6 @@ kotlin.Unit
 
 - [Usage ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-lang/usage) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/usage)](https://github.com/dart-lang/usage) [144⭐] - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/flutterfire) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/flutterfire)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
-kotlin.Unit
 
 ### Internationalization
 
@@ -352,8 +320,6 @@ kotlin.Unit
 
 ### Styling
 
-kotlin.Unit
-kotlin.Unit
 
 ### Media
 
@@ -400,29 +366,15 @@ kotlin.Unit
 
 ## Templates
 
-kotlin.Unit
 - [Mates ![GitHub Repo Stars](https://img.shields.io/github/stars/CodemateLtd/FlutterMates) ![GitHub last commit](https://img.shields.io/github/last-commit/CodemateLtd/FlutterMates)](https://github.com/CodemateLtd/FlutterMates) [575⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [UI Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit) ![GitHub last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-UI-Kit)](https://github.com/iampawan/Flutter-UI-Kit) [6171⭐] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
-kotlin.Unit
 - [The Gorgeous Login ![GitHub Repo Stars](https://img.shields.io/github/stars/huextrat/TheGorgeousLogin) ![GitHub last commit](https://img.shields.io/github/last-commit/huextrat/TheGorgeousLogin)](https://github.com/huextrat/TheGorgeousLogin) [1721⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App ![GitHub Repo Stars](https://img.shields.io/github/stars/longhoang2984/flutter_payment_app_ui) ![GitHub last commit](https://img.shields.io/github/last-commit/longhoang2984/flutter_payment_app_ui)](https://github.com/longhoang2984/flutter_payment_app_ui) [303⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
-kotlin.Unit
 - [Starter Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/KingWu/flutter_starter_kit) ![GitHub last commit](https://img.shields.io/github/last-commit/KingWu/flutter_starter_kit)](https://github.com/KingWu/flutter_starter_kit) [776⭐] - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
-kotlin.Unit
-kotlin.Unit
 - [FlutterFoodybite ![GitHub Repo Stars](https://img.shields.io/github/stars/JideGuru/FlutterFoodybite) ![GitHub last commit](https://img.shields.io/github/last-commit/JideGuru/FlutterFoodybite)](https://github.com/JideGuru/FlutterFoodybite) [1503⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/diegoveloper/flutter-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/diegoveloper/flutter-samples)](https://github.com/diegoveloper/flutter-samples) [2997⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App ![GitHub Repo Stars](https://img.shields.io/github/stars/gregertw/actingweb_firstapp) ![GitHub last commit](https://img.shields.io/github/last-commit/gregertw/actingweb_firstapp)](https://github.com/gregertw/actingweb_firstapp) [450⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw)
 - [Smart Washing Machine ![GitHub Repo Stars](https://img.shields.io/github/stars/pawlik92/flutter_whirlpool) ![GitHub last commit](https://img.shields.io/github/last-commit/pawlik92/flutter_whirlpool)](https://github.com/pawlik92/flutter_whirlpool) [862⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
-kotlin.Unit
 
 ### Clone
 
@@ -431,13 +383,10 @@ kotlin.Unit
 
 ### Machine Learning
 
-kotlin.Unit
 - [m2cgen ![GitHub Repo Stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) [2703⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ### Vision
 
-kotlin.Unit
-kotlin.Unit
 
 #### Augmented Reality
 
@@ -455,7 +404,7 @@ kotlin.Unit
 - [Location ![GitHub Repo Stars](https://img.shields.io/github/stars/Lyokone/flutterlocation) ![GitHub last commit](https://img.shields.io/github/last-commit/Lyokone/flutterlocation)](https://github.com/Lyokone/flutterlocation) [1060⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
 - [Geolocation ![GitHub Repo Stars](https://img.shields.io/github/stars/loup-v/geolocation) ![GitHub last commit](https://img.shields.io/github/last-commit/loup-v/geolocation)](https://github.com/loup-v/geolocation) [226⭐] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
-- [Local Notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_local_notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_local_notifications)](https://github.com/MaikuB/flutter_local_notifications) [2378⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+- [Local Notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_local_notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_local_notifications)](https://github.com/MaikuB/flutter_local_notifications) [2379⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/builttoroam/device_calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/builttoroam/device_calendar)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/g123k/flutter_app_badger) ![GitHub last commit](https://img.shields.io/github/last-commit/g123k/flutter_app_badger)](https://github.com/g123k/flutter_app_badger) [293⭐] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID ![GitHub Repo Stars](https://img.shields.io/github/stars/GigaDroid/flutter_udid) ![GitHub last commit](https://img.shields.io/github/last-commit/GigaDroid/flutter_udid)](https://github.com/GigaDroid/flutter_udid) [229⭐] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
@@ -471,13 +420,10 @@ kotlin.Unit
 
 #### Scanner
 
-kotlin.Unit
-kotlin.Unit
 
 #### Bluetooth / NFC / Beacon
 
 - [Blue ![GitHub Repo Stars](https://img.shields.io/github/stars/pauldemarco/flutter_blue) ![GitHub last commit](https://img.shields.io/github/last-commit/pauldemarco/flutter_blue)](https://github.com/pauldemarco/flutter_blue) [2343⭐] - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
-kotlin.Unit
 - [NFC Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/matteocrippa/flutter-nfc-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/matteocrippa/flutter-nfc-reader)](https://github.com/matteocrippa/flutter-nfc-reader) [376⭐] - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 - [Beacon broadcast ![GitHub Repo Stars](https://img.shields.io/github/stars/pszklarska/beacon_broadcast) ![GitHub last commit](https://img.shields.io/github/last-commit/pszklarska/beacon_broadcast)](https://github.com/pszklarska/beacon_broadcast) [82⭐] - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 - [Reactive Ble ![GitHub Repo Stars](https://img.shields.io/github/stars/PhilipsHue/flutter_reactive_ble) ![GitHub last commit](https://img.shields.io/github/last-commit/PhilipsHue/flutter_reactive_ble)](https://github.com/PhilipsHue/flutter_reactive_ble) [635⭐] - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
@@ -491,10 +437,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Services
 
-kotlin.Unit
 - [OneSignal ![GitHub Repo Stars](https://img.shields.io/github/stars/OneSignal/OneSignal-Flutter-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/OneSignal/OneSignal-Flutter-SDK)](https://github.com/OneSignal/OneSignal-Flutter-SDK) [604⭐] - Push notification service by [OneSignal](https://github.com/OneSignal)
-kotlin.Unit
-kotlin.Unit
 - [In App Review ![GitHub Repo Stars](https://img.shields.io/github/stars/britannio/in_app_review) ![GitHub last commit](https://img.shields.io/github/last-commit/britannio/in_app_review)](https://github.com/britannio/in_app_review) [273⭐] - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
 
 
@@ -513,12 +456,8 @@ kotlin.Unit
 
 #### Redux / ELM / Dependency Injection
 
-kotlin.Unit
 - [Redux.dart ![GitHub Repo Stars](https://img.shields.io/github/stars/johnpryan/redux.dart) ![GitHub last commit](https://img.shields.io/github/last-commit/johnpryan/redux.dart)](https://github.com/johnpryan/redux.dart) [513⭐] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 - [Redux ![GitHub Repo Stars](https://img.shields.io/github/stars/brianegan/flutter_redux) ![GitHub last commit](https://img.shields.io/github/last-commit/brianegan/flutter_redux)](https://github.com/brianegan/flutter_redux) [1648⭐] - Built to work with [redux.dart ![GitHub Repo Stars](https://img.shields.io/github/stars/johnpryan/redux.dart) ![GitHub last commit](https://img.shields.io/github/last-commit/johnpryan/redux.dart)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Async Redux](https://pub.dev/packages/async_redux) [227⭐] - Redux without boilerplate. Allows for both sync and async reducers by [Marcelo Glasberg](https://github.com/marcglasberg/)
 
 ### Widgets
@@ -548,7 +487,6 @@ kotlin.Unit
 - [AnimatedTextKit ![GitHub Repo Stars](https://img.shields.io/github/stars/aagarwal1012/Animated-Text-Kit) ![GitHub last commit](https://img.shields.io/github/last-commit/aagarwal1012/Animated-Text-Kit)](https://github.com/aagarwal1012/Animated-Text-Kit) [1617⭐] - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 - [Drawing Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/biocarl/drawing_animation) ![GitHub last commit](https://img.shields.io/github/last-commit/biocarl/drawing_animation)](https://github.com/biocarl/drawing_animation) [479⭐] - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 - [Simple Animations ![GitHub Repo Stars](https://img.shields.io/github/stars/felixblaschke/simple_animations) ![GitHub last commit](https://img.shields.io/github/last-commit/felixblaschke/simple_animations)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
-kotlin.Unit
 - [Staggered Animations ![GitHub Repo Stars](https://img.shields.io/github/stars/mobiten/flutter_staggered_animations) ![GitHub last commit](https://img.shields.io/github/last-commit/mobiten/flutter_staggered_animations)](https://github.com/mobiten/flutter_staggered_animations) [1505⭐] - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 - [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
 - [Funvas ![GitHub Repo Stars](https://img.shields.io/github/stars/creativecreatorormaybenot/funvas) ![GitHub last commit](https://img.shields.io/github/last-commit/creativecreatorormaybenot/funvas)](https://github.com/creativecreatorormaybenot/funvas) [510⭐] - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
@@ -585,14 +523,9 @@ This section contains libraries that take an experimental or unorthodox approach
 #### Open source games
 
 - [Flip ![GitHub Repo Stars](https://img.shields.io/github/stars/RedBrogdon/flutterflip) ![GitHub last commit](https://img.shields.io/github/last-commit/RedBrogdon/flutterflip)](https://github.com/RedBrogdon/flutterflip) [264⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
-kotlin.Unit
 - [TRex ![GitHub Repo Stars](https://img.shields.io/github/stars/renancaraujo/trex-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/renancaraujo/trex-flame)](https://github.com/renancaraujo/trex-flame) [6⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crush ![GitHub Repo Stars](https://img.shields.io/github/stars/boeledi/flutter_crush) ![GitHub last commit](https://img.shields.io/github/last-commit/boeledi/flutter_crush)](https://github.com/boeledi/flutter_crush) [552⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
-kotlin.Unit
 - [Tetris ![GitHub Repo Stars](https://img.shields.io/github/stars/boyan01/flutter-tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/boyan01/flutter-tetris)](https://github.com/boyan01/flutter-tetris) [1559⭐] - Tetris game by [YangBin](https://github.com/boyan01)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 
 #### Game Engine resources
 
@@ -603,39 +536,24 @@ kotlin.Unit
 
 ### Premium
 
-kotlin.Unit
-kotlin.Unit
 - [AppFlowy ![GitHub Repo Stars](https://img.shields.io/github/stars/AppFlowy-IO/appflowy) ![GitHub last commit](https://img.shields.io/github/last-commit/AppFlowy-IO/appflowy)](https://github.com/AppFlowy-IO/appflowy) [48481⭐] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
-- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62433⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
 - [Spotube ![GitHub Repo Stars](https://img.shields.io/github/stars/KRTirtho/spotube) ![GitHub last commit](https://img.shields.io/github/last-commit/KRTirtho/spotube)](https://github.com/KRTirtho/spotube) - Open source Spotify client for desktop and mobile by [Kingkor Roy Tirtho](https://github.com/KRTirtho)
 
 ### Top
 
-- [Flutter Team Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/samples) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/samples)](https://github.com/flutter/samples) [16543⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/flutter)](https://github.com/orgs/flutter/people)
+- [Flutter Team Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/samples) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/samples)](https://github.com/flutter/samples) [16544⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/flutter)](https://github.com/orgs/flutter/people)
 - [Flutter Common Widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/flutter-common-widgets-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/flutter-common-widgets-app)](https://github.com/alibaba/flutter-common-widgets-app) [23562⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-- [Music Player ![GitHub Repo Stars](https://img.shields.io/github/stars/iampawan/Flutter-Music-Player) ![GitHub last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-Music-Player)](https://github.com/iampawan/Flutter-Music-Player) [1675⭐] - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
+- [Music Player ![GitHub Repo Stars](https://img.shields.io/github/stars/iampawan/Flutter-Music-Player) ![GitHub last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-Music-Player)](https://github.com/iampawan/Flutter-Music-Player) [1675��] - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [WhatTodo ![GitHub Repo Stars](https://img.shields.io/github/stars/burhanrashid52/WhatTodo) ![GitHub last commit](https://img.shields.io/github/last-commit/burhanrashid52/WhatTodo)](https://github.com/burhanrashid52/WhatTodo) [1132⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 - [FlutterGram ![GitHub Repo Stars](https://img.shields.io/github/stars/mdanics/fluttergram) ![GitHub last commit](https://img.shields.io/github/last-commit/mdanics/fluttergram)](https://github.com/mdanics/fluttergram) [2284⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Trace ![GitHub Repo Stars](https://img.shields.io/github/stars/trentpiercy/trace) ![GitHub last commit](https://img.shields.io/github/last-commit/trentpiercy/trace)](https://github.com/trentpiercy/trace) [1085⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 - [Taskist ![GitHub Repo Stars](https://img.shields.io/github/stars/huextrat/Taskist) ![GitHub last commit](https://img.shields.io/github/last-commit/huextrat/Taskist)](https://github.com/huextrat/Taskist) [959⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
-kotlin.Unit
 - [Linwood Butterfly ![GitHub Repo Stars](https://img.shields.io/github/stars/LinwoodCloud/Butterfly) ![GitHub last commit](https://img.shields.io/github/last-commit/LinwoodCloud/Butterfly)](https://github.com/LinwoodCloud/Butterfly) [794⭐] - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE)
 - [Trinity Orientation @ Univ Toronto ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewtory/trinity-orientation-2018) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewtory/trinity-orientation-2018)](https://github.com/matthewtory/trinity-orientation-2018) [615⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/DrPaulT/flutter-engine-test) ![GitHub last commit](https://img.shields.io/github/last-commit/DrPaulT/flutter-engine-test)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
-kotlin.Unit
 - [TailorMade ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/tailor_made) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/tailor_made)](https://github.com/jogboms/tailor_made) [326⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
-kotlin.Unit
 - [Spacex-Go ![GitHub Repo Stars](https://img.shields.io/github/stars/jesusrp98/spacex-go) ![GitHub last commit](https://img.shields.io/github/last-commit/jesusrp98/spacex-go)](https://github.com/jesusrp98/spacex-go) [834⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
-kotlin.Unit
-kotlin.Unit
 - [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/AmitJoki/Enigma) ![GitHub last commit](https://img.shields.io/github/last-commit/AmitJoki/Enigma)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 - [Chillify ![GitHub Repo Stars](https://img.shields.io/github/stars/KarimElghamry/chillify) ![GitHub last commit](https://img.shields.io/github/last-commit/KarimElghamry/chillify)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 - [Pokedex ![GitHub Repo Stars](https://img.shields.io/github/stars/scitbiz/flutter_pokedex) ![GitHub last commit](https://img.shields.io/github/last-commit/scitbiz/flutter_pokedex)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
@@ -645,7 +563,7 @@ kotlin.Unit
 - [Fwitter ![GitHub Repo Stars](https://img.shields.io/github/stars/TheAlphamerc/flutter_twitter_clone) ![GitHub last commit](https://img.shields.io/github/last-commit/TheAlphamerc/flutter_twitter_clone)](https://github.com/TheAlphamerc/flutter_twitter_clone) [3650⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
 - [Harpy ![GitHub Repo Stars](https://img.shields.io/github/stars/robertodoering/harpy) ![GitHub last commit](https://img.shields.io/github/last-commit/robertodoering/harpy)](https://github.com/robertodoering/harpy) [2036⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 - [Mooltik ![GitHub Repo Stars](https://img.shields.io/github/stars/ruskakimov/mooltik) ![GitHub last commit](https://img.shields.io/github/last-commit/ruskakimov/mooltik)](https://github.com/ruskakimov/mooltik) [194⭐] - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
-- [Spotube ![GitHub Repo Stars](https://img.shields.io/github/stars/KRTirtho/spotube) ![GitHub last commit](https://img.shields.io/github/last-commit/KRTirtho/spotube)](https://github.com/KRTirtho/spotube) [24082⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+- [Spotube ![GitHub Repo Stars](https://img.shields.io/github/stars/KRTirtho/spotube) ![GitHub last commit](https://img.shields.io/github/last-commit/KRTirtho/spotube)](https://github.com/KRTirtho/spotube) [24083⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 - [Let's Draw ![GitHub Repo Stars](https://img.shields.io/github/stars/JideGuru/flutter_drawing_board) ![GitHub last commit](https://img.shields.io/github/last-commit/JideGuru/flutter_drawing_board)](https://github.com/JideGuru/flutter_drawing_board) [240⭐] - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads ![GitHub Repo Stars](https://img.shields.io/github/stars/mateusz-bak/openreads-android) ![GitHub last commit](https://img.shields.io/github/last-commit/mateusz-bak/openreads-android)](https://github.com/mateusz-bak/openreads-android) [725⭐] - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 
@@ -756,7 +674,7 @@ kotlin.Unit
 - Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
 ### Bangladesh
- - [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
+- [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
 
 ### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
@@ -809,8 +727,8 @@ kotlin.Unit
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
 
 ### 🇮🇹 Italy
- - Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
- - Website [flutteritalia.dev](https://flutteritalia.dev)
+- Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
+- Website [flutteritalia.dev](https://flutteritalia.dev)
 
 ### 🇮🇳 India
 - Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
@@ -933,7 +851,7 @@ kotlin.Unit
 - [Twitter](https://twitter.com/flutterNorway)
 
 ### 🇺🇿 Uzbekistan
- - [Telegram](https://t.me/dartdevuz)
+- [Telegram](https://t.me/dartdevuz)
 
 ## License
 
