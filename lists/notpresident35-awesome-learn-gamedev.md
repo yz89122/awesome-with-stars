@@ -449,7 +449,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 <br />
 
-[Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) ���🟪 - A Megalist of Art Resources!
+[Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
 
 
 [Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
