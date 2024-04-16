@@ -17,6 +17,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
    - [Tutorials](#tutorials)
    - [More](#more)
  - [Libraries](#libraries)
+   - [Ballerina](#ballerina)
    - [C](#c)
    - [C++](#c-1)
    - [C#/.NET](#cnet)
@@ -101,6 +102,10 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
 ## Libraries
+
+### Ballerina
+ - [ballerina-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/ballerina-platform/module-ballerinax-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-mongodb)](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
+
 ### C
  - [mongo-c-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-c-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-c-driver)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
@@ -171,7 +176,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Julia
  - [Mongo.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/Lytol/Mongo.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/Lytol/Mongo.jl)](https://github.com/Lytol/Mongo.jl) - C driver bindings
- 
+
 ### Kotlin
 - [driver-kotlin-coroutine ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-java-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-java-driver)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
 - [kmongo ![GitHub Repo Stars](https://img.shields.io/github/stars/Litote/kmongo) ![GitHub last commit](https://img.shields.io/github/last-commit/Litote/kmongo)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver

@@ -1050,6 +1050,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [alexcrichton/tar-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexcrichton/tar-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexcrichton/tar-rs)](https://github.com/alexcrichton/tar-rs) — tar archive reading/writing
 * zip
   * [zip-rs/zip ![GitHub Repo Stars](https://img.shields.io/github/stars/zip-rs/zip) ![GitHub last commit](https://img.shields.io/github/last-commit/zip-rs/zip)](https://github.com/zip-rs/zip) — read and write ZIP archives
+* zstd
+  * [gyscos/zstd-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/gyscos/zstd-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/gyscos/zstd-rs)](https://github.com/gyscos/zstd-rs) — rust binding for the zstd compression library
 
 ### Computation
 
