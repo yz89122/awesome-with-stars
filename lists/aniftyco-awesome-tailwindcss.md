@@ -167,7 +167,7 @@
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/knipferrc/tails-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/knipferrc/tails-ui)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- ���� [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+- 📚 [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
@@ -225,7 +225,7 @@
 - 📁 [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 - 📁 [OhMySMTP Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmysmtp/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmysmtp/templates)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
-- ���� [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
+- 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 - 📁 [Admin One Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-vue-tailwind)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
 - 📁 [Admin One React ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-react-tailwind)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.

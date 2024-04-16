@@ -69,7 +69,7 @@
 * [nixos-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixos-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixos-generators)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 * [nixos-infect ![GitHub Repo Stars](https://img.shields.io/github/stars/elitak/nixos-infect) ![GitHub last commit](https://img.shields.io/github/last-commit/elitak/nixos-infect)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 * [nixos-up ![GitHub Repo Stars](https://img.shields.io/github/stars/samuela/nixos-up) ![GitHub last commit](https://img.shields.io/github/last-commit/samuela/nixos-up)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
-* [nix-installer ![GitHub Repo Stars](https://img.shields.io/github/stars/DeterminateSystems/nix-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/DeterminateSystems/nix-installer)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+* [nix-installer ![GitHub Repo Stars](https://img.shields.io/github/stars/DeterminateSystems/nix-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/DeterminateSystems/nix-installer)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 * [nix-installer-scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/dnkmmr69420/nix-installer-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/dnkmmr69420/nix-installer-scripts)](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
 
 ## Channel History
@@ -250,6 +250,7 @@
 * [Stylix ![GitHub Repo Stars](https://img.shields.io/github/stars/danth/stylix) ![GitHub last commit](https://img.shields.io/github/last-commit/danth/stylix)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 * [nix-bitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/fort-nix/nix-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/fort-nix/nix-bitcoin)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-topology ![GitHub Repo Stars](https://img.shields.io/github/stars/oddlama/nix-topology) ![GitHub last commit](https://img.shields.io/github/last-commit/oddlama/nix-topology)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+* [impermanence ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/impermanence) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/impermanence)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
 ## NixOS Configuration Editors
 
