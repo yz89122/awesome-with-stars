@@ -442,7 +442,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Most.js ![GitHub Repo Stars](https://img.shields.io/github/stars/cujojs/most) ![GitHub last commit](https://img.shields.io/github/last-commit/cujojs/most)](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX ![GitHub Repo Stars](https://img.shields.io/github/stars/mobxjs/mobx) ![GitHub last commit](https://img.shields.io/github/last-commit/mobxjs/mobx)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
-* [concent ![GitHub Repo Stars](https://img.shields.io/github/stars/concentjs/concent) ![GitHub last commit](https://img.shields.io/github/last-commit/concentjs/concent)](https://github.com/concentjs/concent) - Definitely the ��️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
+* [concent ![GitHub Repo Stars](https://img.shields.io/github/stars/concentjs/concent) ![GitHub last commit](https://img.shields.io/github/last-commit/concentjs/concent)](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
