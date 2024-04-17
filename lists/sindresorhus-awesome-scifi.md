@@ -414,7 +414,7 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
 <details>
   <summary>Description</summary>
 
-  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
+  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the ��silent planet”–Earth–whose tragic story is known throughout the universe…
 </details>
 
 #### [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) _by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)_ [4.0]
