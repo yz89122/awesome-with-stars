@@ -70,9 +70,9 @@
 - [playcanvas-tween ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/playcanvas-tween) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/playcanvas-tween)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/isobolewski/playcanvas-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/isobolewski/playcanvas-vue)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 - [tween.js ![GitHub Repo Stars](https://img.shields.io/github/stars/tweenjs/tween.js) ![GitHub last commit](https://img.shields.io/github/last-commit/tweenjs/tween.js)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-- [PlayBuild ![GitHub Repo Stars](https://img.shields.io/github/stars/wearekuva/playbuild) ![GitHub last commit](https://img.shields.io/github/last-commit/wearekuva/playbuild)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
 - [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 - [Sublime Completions ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/sublime-completions) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/sublime-completions)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
 
 ## Technical Demos
 
