@@ -111,7 +111,7 @@ Here we set out the big picture: definition and strategic importance of the doma
 
 - [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098) - “Overly permissive AWS IAM policies that allowed `s3:GetObject` to `*` (all) resources”, led to \$80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.
 
-- [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/) - A little *click-baity*, but author admit that “It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”
+- [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/) - A little *click-baity*, but author admit that ���It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”
 
 ## Security
 
@@ -393,7 +393,7 @@ Collection of open-source projects if you're looking to roll your own policy imp
 
 - [Gubernator ![GitHub Repo Stars](https://img.shields.io/github/stars/mailgun/gubernator) ![GitHub last commit](https://img.shields.io/github/last-commit/mailgun/gubernator)](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
-- [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. ���It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
+- [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
 - [Oso ![GitHub Repo Stars](https://img.shields.io/github/stars/osohq/oso) ![GitHub last commit](https://img.shields.io/github/last-commit/osohq/oso)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
