@@ -376,7 +376,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🌎 [emscripten ![GitHub Repo Stars](https://img.shields.io/github/stars/emscripten-core/emscripten) ![GitHub last commit](https://img.shields.io/github/last-commit/emscripten-core/emscripten)](https://github.com/emscripten-core/emscripten) - The C/C++ to JavaScript (as WebAssembly) compiler. [[Website](https://emscripten.org/)]
 - C++: Entity Component System
     - 🎉 [EntityX ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/entityx) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/entityx)](https://github.com/alecthomas/entityx) - Fast, type-safe C++ entity component system.
-    - ��� [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
+    - 🎉 [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
@@ -639,7 +639,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Go: Geometry
     - 🎉 [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
 - Go: Graphics
-    - 🎉 [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
+    - �� [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
 ### Haxe
 - 📚 [Awesome Haxe ![GitHub Repo Stars](https://img.shields.io/github/stars/nadako/awesome-haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/nadako/awesome-haxe)](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
