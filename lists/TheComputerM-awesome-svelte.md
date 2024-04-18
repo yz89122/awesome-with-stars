@@ -156,6 +156,7 @@ _UI frameworks for mobile._
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 - [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
+- [Svelte UX ![GitHub Repo Stars](https://img.shields.io/github/stars/techniq/svelte-ux) ![GitHub last commit](https://img.shields.io/github/last-commit/techniq/svelte-ux)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 - [M3 Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/KTibow/m3-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/KTibow/m3-svelte)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 - [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
@@ -225,6 +226,7 @@ _Switch / on/off toggle / checkbox._
 
 - [svelte-frappe-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/himynameisdave/svelte-frappe-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/himynameisdave/svelte-frappe-charts)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 - [Layer Cake ![GitHub Repo Stars](https://img.shields.io/github/stars/mhkeller/layercake) ![GitHub last commit](https://img.shields.io/github/last-commit/mhkeller/layercake)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+- [LayerChart ![GitHub Repo Stars](https://img.shields.io/github/stars/techniq/layerchart) ![GitHub last commit](https://img.shields.io/github/last-commit/techniq/layerchart)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ### Miscellaneous
 
