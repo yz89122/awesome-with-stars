@@ -135,6 +135,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [VVVVV ![GitHub Repo Stars](https://img.shields.io/github/stars/TerryCavanagh/vvvvvv) ![GitHub last commit](https://img.shields.io/github/last-commit/TerryCavanagh/vvvvvv)](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ## Racing
+- [Reburn 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/reburndev/reburn3) ![GitHub last commit](https://img.shields.io/github/last-commit/reburndev/reburn3)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
 - [DreeRally ![GitHub Repo Stars](https://img.shields.io/github/stars/enriquesomolinos/DreeRally) ![GitHub last commit](https://img.shields.io/github/last-commit/enriquesomolinos/DreeRally)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
 - [OpenNFS ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenNFS/OpenNFS) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenNFS/OpenNFS)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [Vangers ![GitHub Repo Stars](https://img.shields.io/github/stars/KranX/Vangers) ![GitHub last commit](https://img.shields.io/github/last-commit/KranX/Vangers)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
