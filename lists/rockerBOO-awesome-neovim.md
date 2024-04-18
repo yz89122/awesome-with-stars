@@ -548,7 +548,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Colorscheme Creation
 
-- [tjdevries/colorbuddy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tjdevries/colorbuddy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tjdevries/colorbuddy.nvim)](https://github.com/tjdevries/colorbuddy.nvim) - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes ��.
+- [tjdevries/colorbuddy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tjdevries/colorbuddy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tjdevries/colorbuddy.nvim)](https://github.com/tjdevries/colorbuddy.nvim) - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes 😄.
 - [norcalli/nvim-base16.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/norcalli/nvim-base16.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/norcalli/nvim-base16.lua)](https://github.com/norcalli/nvim-base16.lua) - Programmatic Lua library for setting base16 themes.
 - [rktjmp/lush.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rktjmp/lush.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rktjmp/lush.nvim)](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in Lua, with real-time feedback.
 - [roobert/palette.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/palette.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/palette.nvim)](https://github.com/roobert/palette.nvim) - A beautiful, versatile, systematic, theme system.
