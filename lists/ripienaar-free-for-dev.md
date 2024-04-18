@@ -634,7 +634,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [webhookbeam.com](https://webhookbeam.com) - Set up webhooks and monitor them via push notifications and emails.
   * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
-  * [welltested.ai](https://welltested.ai) - Generate unit and integration tests using AI for mobile languages like Flutter within minutes. Free forever for developers.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1922,6 +1921,7 @@ Update Time, five active automations, webhooks.
   * [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
   * [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
+  * [Pyrexp](https://pythonium.net/regex) — Free web-based regex tester and visualizer for debugging regular expressions.
   * [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
   * [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
   * [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
