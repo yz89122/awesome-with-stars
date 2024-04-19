@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
-    - ��� [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
+    - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
     - 🎉 [Nana ![GitHub Repo Stars](https://img.shields.io/github/stars/cnjinhao/nana) ![GitHub last commit](https://img.shields.io/github/last-commit/cnjinhao/nana)](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
     - ⭐ [Portable File Dialogs ![GitHub Repo Stars](https://img.shields.io/github/stars/samhocevar/portable-file-dialogs) ![GitHub last commit](https://img.shields.io/github/last-commit/samhocevar/portable-file-dialogs)](https://github.com/samhocevar/portable-file-dialogs) - Single-header C++11 native dialogs on Windows, macOS, and Linux.
@@ -542,7 +542,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Cereal ![GitHub Repo Stars](https://img.shields.io/github/stars/USCiLab/cereal) ![GitHub last commit](https://img.shields.io/github/last-commit/USCiLab/cereal)](https://github.com/USCiLab/cereal) - Header-only C++11 serialization library.
     - 🎉 [Cista++ ![GitHub Repo Stars](https://img.shields.io/github/stars/felixguendling/cista) ![GitHub last commit](https://img.shields.io/github/last-commit/felixguendling/cista)](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
-    - ���� [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
+    - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
     - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
@@ -1189,7 +1189,7 @@ _Exploring specialty game engine / game development topics and features._
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
-    - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+    - �� [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
     - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
