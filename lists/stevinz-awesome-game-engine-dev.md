@@ -599,7 +599,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D) ![GitHub last commit](https://img.shields.io/github/last-commit/tainicom/Aether.Physics2D)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
-    - 🎉 [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
+    - ��� [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks ![GitHub Repo Stars](https://img.shields.io/github/stars/Facepunch/Facepunch.Steamworks) ![GitHub last commit](https://img.shields.io/github/last-commit/Facepunch/Facepunch.Steamworks)](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
 
@@ -1189,7 +1189,7 @@ _Exploring specialty game engine / game development topics and features._
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
-    - �� [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+    - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
     - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]

@@ -113,6 +113,7 @@ Table of contents:
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Getting Started Guide](https://angular.io/guide/quickstart)
 * [GitHub Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)](https://github.com/angular/angular)
+* [Future Site](https://angular.dev)
 
 #### Community
 
@@ -289,6 +290,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
 * [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
+* [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/)
 
 ##### Ahead-of-Time Compilation
 
@@ -316,6 +318,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Typescript Webpack from schempy ![GitHub Repo Stars](https://img.shields.io/github/stars/schempy/angular2-typescript-webpack) ![GitHub last commit](https://img.shields.io/github/last-commit/schempy/angular2-typescript-webpack)](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular Webpack Tour of Heroes from michaelbazos ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelbazos/angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelbazos/angular-starter)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular Webpack + rxjs + modules ![GitHub Repo Stars](https://img.shields.io/github/stars/jorgeas80/angular2-webpack-toh) ![GitHub last commit](https://img.shields.io/github/last-commit/jorgeas80/angular2-webpack-toh)](https://github.com/jorgeas80/angular2-webpack-toh)
+* [Angular Builders ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
 
 #### Series
 
@@ -347,15 +350,11 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 * [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 * [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
-* [Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries](https://channel9.msdn.com/Events/Build/2015/3-644)
-* [Channel9 - Creating Cross-Platform Apps with Angular 2](https://channel9.msdn.com/Events/Build/2016/T627)
-* [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular)
 * [Angular Pro Screencast](https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb)
 * [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
 * [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
 * [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
 * [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
-* [List of over 140 Angular Courses (free and paid) at Classpert](https://classpert.com/angularjs)
 
 #### Style Guides
 
@@ -615,9 +614,12 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Icons
 
-* [angular2-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/travelist/angular2-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/travelist/angular2-fontawesome)](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
-* [ng2-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/seiyria/ng2-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/seiyria/ng2-fontawesome)](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
-* [ngx-icon-blur ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ngx-icon-blur) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ngx-icon-blur)](https://github.com/wadie/ngx-icon-blur) An Angular component that can be used to create frosted glass effect of icons.
+* [angular2-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/travelist/angular2-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/travelist/angular2-fontawesome)](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome.
+* [ng2-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/seiyria/ng2-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/seiyria/ng2-fontawesome)](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
+* [ngx-icon-blur ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ngx-icon-blur) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ngx-icon-blur)](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
+* [ng-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-icons/ng-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-icons/ng-icons)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+* [primeicons ![GitHub Repo Stars](https://img.shields.io/github/stars/primefaces/primeicons) ![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/primeicons)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+* [angular-svg-icon ![GitHub Repo Stars](https://img.shields.io/github/stars/czeckd/angular-svg-icon) ![GitHub last commit](https://img.shields.io/github/last-commit/czeckd/angular-svg-icon)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 
 
 #### Keyboard Mouse
@@ -724,6 +726,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
 * [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
+* [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ##### Material Based
 
@@ -753,6 +756,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 ##### Tailwind CSS Based
 
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
+* [David UI Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/david-ui-org/david-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/david-ui-org/david-ui-angular)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 #### UX Components
 
