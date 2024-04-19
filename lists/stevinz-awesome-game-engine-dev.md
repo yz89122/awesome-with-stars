@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
-    - ���� [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
+    - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
     - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/khronosGroup/Vulkan-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/khronosGroup/Vulkan-samples)](https://github.com/khronosGroup/Vulkan-samples)]
     - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
@@ -385,7 +385,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TinyDNG ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinydng) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinydng)](https://github.com/syoyo/tinydng) - Header-only DNG / TIFF loader and writer.
     - 🎉 [TinyEXR ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinyexr) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinyexr)](https://github.com/syoyo/tinyexr) - Tiny OpenEXR image loader / saver library.
     - 🎉 [TinyGLTF ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinygltf) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinygltf)](https://github.com/syoyo/tinygltf) - Header-only C++11 tiny glTF 2.0 library.
-    - ���� [TinyOBJLoader ![GitHub Repo Stars](https://img.shields.io/github/stars/tinyobjloader/tinyobjloader) ![GitHub last commit](https://img.shields.io/github/last-commit/tinyobjloader/tinyobjloader)](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single-file wavefront obj loader.
+    - 🎉 [TinyOBJLoader ![GitHub Repo Stars](https://img.shields.io/github/stars/tinyobjloader/tinyobjloader) ![GitHub last commit](https://img.shields.io/github/last-commit/tinyobjloader/tinyobjloader)](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single-file wavefront obj loader.
 - C++: File System
     - 🎉 [Imgui-Filebrowser ![GitHub Repo Stars](https://img.shields.io/github/stars/AirGuanZ/imgui-filebrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/AirGuanZ/imgui-filebrowser)](https://github.com/AirGuanZ/imgui-filebrowser) - Header-only file browser implementation for _Dear ImGui_ in C++17.
 - C++: Game Engine w/Editor
@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    - 🔒 [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    - ��� [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
     - 🎉 [LeoECS ![GitHub Repo Stars](https://img.shields.io/github/stars/Leopotam/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/Leopotam/ecs)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to _Unity_.
 - C#: Game Engine w/Editor
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
