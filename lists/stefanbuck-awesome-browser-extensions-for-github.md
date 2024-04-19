@@ -331,7 +331,7 @@ Installs: 8614 | Stars: 23022 | Last update: 9 Apr 2024
 
 ### [Render Whitespace on GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/glebm/render-whitespace-on-github) ![GitHub last commit](https://img.shields.io/github/last-commit/glebm/render-whitespace-on-github)](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `��` in all the code on GitHub.
+Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.
 
 Installs: 22 | Stars: 74 | Last update: 25 Aug 2018
 
