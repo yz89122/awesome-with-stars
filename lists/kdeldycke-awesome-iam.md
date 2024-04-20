@@ -393,7 +393,7 @@ Collection of open-source projects if you're looking to roll your own policy imp
 
 - [Gubernator ![GitHub Repo Stars](https://img.shields.io/github/stars/mailgun/gubernator) ![GitHub last commit](https://img.shields.io/github/last-commit/mailgun/gubernator)](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
-- [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. ��It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
+- [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
 - [Oso ![GitHub Repo Stars](https://img.shields.io/github/stars/osohq/oso) ![GitHub last commit](https://img.shields.io/github/last-commit/osohq/oso)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
