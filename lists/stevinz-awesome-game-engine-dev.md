@@ -282,7 +282,7 @@ _Language specific game engine development libraries / frameworks / code._
     - ⭐ [dr_libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/dr_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/dr_libs)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
     - 🎉 [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
-    - ��� [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
+    - 🎉 [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
     - 🎉 [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     - 🎉 [QOI ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/qoi) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/qoi)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
     - ⭐ [stb_vorbis ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_vorbis.c) - Ogg Vorbis audio decoder.
@@ -676,7 +676,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Graphics
     - 🎉 [Heaps ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps) 🔥 - Cross-platform 2D/3D engine (by creators of Haxe). [[Website](https://heaps.io)]
     - 🎉 [Kha ![GitHub Repo Stars](https://img.shields.io/github/stars/Kode/Kha) ![GitHub last commit](https://img.shields.io/github/last-commit/Kode/Kha)](https://github.com/Kode/Kha) - Ultra-portable, high-performance multimedia framework.
-    - ���� [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
+    - 🎉 [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
 - Haxe: Gui
     - 🎉 [HaxeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/haxeui/haxeui-core) ![GitHub last commit](https://img.shields.io/github/last-commit/haxeui/haxeui-core)](https://github.com/haxeui/haxeui-core) - Cross-platform set of styleable gui components.
     - 🎉 [Zui ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/zui) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/zui)](https://github.com/armory3d/zui) - Immediate mode user interface, used in _ArmorPaint_.
@@ -1189,7 +1189,7 @@ _Exploring specialty game engine / game development topics and features._
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
-    - �� [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+    - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
     - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
