@@ -238,7 +238,7 @@
 
 ## Starters & Themes
 
-**Legend**: 💼 Package · 📟 Command line tool/generator · �� Cloneable
+**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 - 📟 [Create React App with PurgeCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/DemianD/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/DemianD/create-react-app-tailwindcss)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
@@ -248,7 +248,7 @@
 - 📟 [Create React App with TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/dance2die/cra-template-tailwindcss-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/dance2die/cra-template-tailwindcss-typescript)](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 - 📟 [Next.js PWA ![GitHub Repo Stars](https://img.shields.io/github/stars/msaaddev/create-next-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/msaaddev/create-next-pwa)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 - 📟 [new-tailwind-app ![GitHub Repo Stars](https://img.shields.io/github/stars/msaaddev/new-tailwind-app) ![GitHub last commit](https://img.shields.io/github/last-commit/msaaddev/new-tailwind-app)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
-- 🚀 [Tailwind CSS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
+- �� [Tailwind CSS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/tailwind-jekyll) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/tailwind-jekyll)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
