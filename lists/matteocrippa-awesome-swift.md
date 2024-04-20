@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1052 | February 29, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1054 | April 20, 2024 |
 
 In parternship with:
 
@@ -438,7 +438,7 @@ In parternship with:
 ### Chart
 [back to top](#readme) 
 
-* [Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/danielgindi/Charts) ![GitHub last commit](https://img.shields.io/github/last-commit/danielgindi/Charts)](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
+* [Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/ChartsOrg/Charts) ![GitHub last commit](https://img.shields.io/github/last-commit/ChartsOrg/Charts)](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 * [ChartView ![GitHub Repo Stars](https://img.shields.io/github/stars/AppPear/ChartView) ![GitHub last commit](https://img.shields.io/github/last-commit/AppPear/ChartView)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 * [FLCharts ![GitHub Repo Stars](https://img.shields.io/github/stars/francescoleoni98/FLCharts) ![GitHub last commit](https://img.shields.io/github/last-commit/francescoleoni98/FLCharts)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 * [ScrollableGraphView ![GitHub Repo Stars](https://img.shields.io/github/stars/philackm/ScrollableGraphView) ![GitHub last commit](https://img.shields.io/github/last-commit/philackm/ScrollableGraphView)](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
@@ -747,6 +747,7 @@ In parternship with:
 ### Files
 [back to top](#readme) 
 
+* [ExtendedAttributes ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/ExtendedAttributes) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/ExtendedAttributes)](https://github.com/sindresorhus/ExtendedAttributes) - Manage extended attributes for files and folders.
 * [FileKit ![GitHub Repo Stars](https://img.shields.io/github/stars/nvzqz/FileKit) ![GitHub last commit](https://img.shields.io/github/last-commit/nvzqz/FileKit)](https://github.com/nvzqz/FileKit) - Simple and expressive file management.
 * [FileProvider ![GitHub Repo Stars](https://img.shields.io/github/stars/amosavian/FileProvider) ![GitHub last commit](https://img.shields.io/github/last-commit/amosavian/FileProvider)](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.
 * [KZFileWatchers ![GitHub Repo Stars](https://img.shields.io/github/stars/krzysztofzablocki/KZFileWatchers) ![GitHub last commit](https://img.shields.io/github/last-commit/krzysztofzablocki/KZFileWatchers)](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
@@ -1363,7 +1364,7 @@ In parternship with:
 * [ALRT ![GitHub Repo Stars](https://img.shields.io/github/stars/mshrwtnb/alrt) ![GitHub last commit](https://img.shields.io/github/last-commit/mshrwtnb/alrt)](https://github.com/mshrwtnb/alrt) - An easier constructor for UIAlertController. Present an alert from anywhere.
 * [AwaitToast ![GitHub Repo Stars](https://img.shields.io/github/stars/k-lpmg/AwaitToast) ![GitHub last commit](https://img.shields.io/github/last-commit/k-lpmg/AwaitToast)](https://github.com/k-lpmg/AwaitToast) - 🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.
 * [CDAlertView ![GitHub Repo Stars](https://img.shields.io/github/stars/candostdagdeviren/CDAlertView) ![GitHub last commit](https://img.shields.io/github/last-commit/candostdagdeviren/CDAlertView)](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
-* [CFNotify ![GitHub Repo Stars](https://img.shields.io/github/stars/JT501/CFNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/JT501/CFNotify)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable alert views.
+* [CFNotify ![GitHub Repo Stars](https://img.shields.io/github/stars/JT501/SwiftNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/JT501/SwiftNotify)](https://github.com/JT501/SwiftNotify) - A customizable framework to create draggable alert views.
 * [EZAlertController ![GitHub Repo Stars](https://img.shields.io/github/stars/thellimist/EZAlertController) ![GitHub last commit](https://img.shields.io/github/last-commit/thellimist/EZAlertController)](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
 * [FullscreenPopup ![GitHub Repo Stars](https://img.shields.io/github/stars/Ryu0118/swift-fullscreen-popup) ![GitHub last commit](https://img.shields.io/github/last-commit/Ryu0118/swift-fullscreen-popup)](https://github.com/Ryu0118/swift-fullscreen-popup) - Present any popup above NavigationBar in SwiftUI
 * [GSMessage ![GitHub Repo Stars](https://img.shields.io/github/stars/wxxsw/GSMessages) ![GitHub last commit](https://img.shields.io/github/last-commit/wxxsw/GSMessages)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
@@ -1540,6 +1541,7 @@ In parternship with:
 * [ESTabBarController ![GitHub Repo Stars](https://img.shields.io/github/stars/eggswift/ESTabBarController) ![GitHub last commit](https://img.shields.io/github/last-commit/eggswift/ESTabBarController)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 * [HHTabBarView ![GitHub Repo Stars](https://img.shields.io/github/stars/hemangshah/HHTabBarView) ![GitHub last commit](https://img.shields.io/github/last-commit/hemangshah/HHTabBarView)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 * [PolioPager ![GitHub Repo Stars](https://img.shields.io/github/stars/YuigaWada/PolioPager) ![GitHub last commit](https://img.shields.io/github/last-commit/YuigaWada/PolioPager)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
+* [SwiftUIMaterialTabs ![GitHub Repo Stars](https://img.shields.io/github/stars/SwiftKickMobile/SwiftUIMaterialTabs) ![GitHub last commit](https://img.shields.io/github/last-commit/SwiftKickMobile/SwiftUIMaterialTabs)](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
 * [TabBar ![GitHub Repo Stars](https://img.shields.io/github/stars/onl1ner/TabBar) ![GitHub last commit](https://img.shields.io/github/last-commit/onl1ner/TabBar)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 * [Tabman ![GitHub Repo Stars](https://img.shields.io/github/stars/uias/Tabman) ![GitHub last commit](https://img.shields.io/github/last-commit/uias/Tabman)](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController ![GitHub Repo Stars](https://img.shields.io/github/stars/EndouMari/TabPageViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/EndouMari/TabPageViewController)](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
