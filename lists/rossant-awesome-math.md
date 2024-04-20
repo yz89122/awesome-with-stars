@@ -362,7 +362,7 @@ All resources are freely available except those with a 💲 icon.
 ## Geometry and Topology
 
 * 📝 [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
-* 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+* �� [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
@@ -461,7 +461,7 @@ All resources are freely available except those with a 💲 icon.
 ### Complex Analysis
 
 * 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
-* 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
+* �� [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
@@ -542,7 +542,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * 📝 [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 * 📝 [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
-* ��� [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
+* 📝 [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
 * 📝 [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 * 📝 [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
 * 📝 [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
