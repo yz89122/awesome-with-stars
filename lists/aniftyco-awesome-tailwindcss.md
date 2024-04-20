@@ -202,7 +202,7 @@
 - 🧩 [Tailwind Typeahead ![GitHub Repo Stars](https://img.shields.io/github/stars/basarozcan/vue-tailwindcss-typeahead) ![GitHub last commit](https://img.shields.io/github/last-commit/basarozcan/vue-tailwindcss-typeahead)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 - 🧩 [Material Tailwind](https://material-tailwind.com) - Easy to use components library for Tailwind CSS and Material Design.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
-- ��� [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
+- 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
 - 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
 - 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
