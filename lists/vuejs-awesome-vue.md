@@ -383,7 +383,7 @@
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
-- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔드 개발자를 ��한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
@@ -594,7 +594,7 @@
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more ![GitHub Repo Stars](https://img.shields.io/github/stars/kadro/vue-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/kadro/vue-boilerplate)](https://github.com/kadro/vue-boilerplate)
 - [vue.js 与 laravel 结合的前后端分离开发模板 ![GitHub Repo Stars](https://img.shields.io/github/stars/wmhello/laravel_template_with_vue) ![GitHub last commit](https://img.shields.io/github/last-commit/wmhello/laravel_template_with_vue)](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
 - [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
-- [Vue Online Shopping Mall ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerDos/Mall-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerDos/Mall-Vue)](https://github.com/PowerDos/Mall-Vue) - A online shopping mall SPA demo, 基于 VUE 开发的前后端分离电��商城前端项目
+- [Vue Online Shopping Mall ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerDos/Mall-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerDos/Mall-Vue)](https://github.com/PowerDos/Mall-Vue) - A online shopping mall SPA demo, 基于 VUE 开发的前后端分离电子商城前端项目
 - [FUE ![GitHub Repo Stars](https://img.shields.io/github/stars/elaijuh/fue) ![GitHub last commit](https://img.shields.io/github/last-commit/elaijuh/fue)](https://github.com/elaijuh/fue) - Admin SPA client and server-side boilerplate with Vue.js + Vue Router + Vuex + Vuetify + FeathersJS
 - [Vue + TypeScript Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/ffxsam/vue-typescript-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/ffxsam/vue-typescript-cookbook)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 - [Vuejs Examples](https://vuejsexamples.com/)
