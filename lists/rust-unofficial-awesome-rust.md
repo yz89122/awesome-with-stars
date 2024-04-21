@@ -281,7 +281,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 * Intel 8080 CPU
   * [mohanson/i8080 ![GitHub Repo Stars](https://img.shields.io/github/stars/mohanson/i8080) ![GitHub last commit](https://img.shields.io/github/last-commit/mohanson/i8080)](https://github.com/mohanson/i8080) — Intel 8080 CPU emulator
 * iOS
-  * [touchHLE ![GitHub Repo Stars](https://img.shields.io/github/stars/touchHLE/touchHLE) ![GitHub last commit](https://img.shields.io/github/last-commit/touchHLE/touchHLE)](https://github.com/touchHLE/touchHLE) ��� High-level emulator for iPhone OS apps
+  * [touchHLE ![GitHub Repo Stars](https://img.shields.io/github/stars/touchHLE/touchHLE) ![GitHub last commit](https://img.shields.io/github/last-commit/touchHLE/touchHLE)](https://github.com/touchHLE/touchHLE) — High-level emulator for iPhone OS apps
 * iPod
   * [clicky ![GitHub Repo Stars](https://img.shields.io/github/stars/daniel5151/clicky) ![GitHub last commit](https://img.shields.io/github/last-commit/daniel5151/clicky)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 * NES
