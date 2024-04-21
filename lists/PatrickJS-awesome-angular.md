@@ -556,7 +556,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Calendars
 
 * [angular-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/mattlewis92/angular-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/mattlewis92/angular-calendar)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
-* [ng-data-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/hiyali/ng-data-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/hiyali/ng-data-picker)](https://github.com/hiyali/ng-data-picker) - ��🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
+* [ng-data-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/hiyali/ng-data-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/hiyali/ng-data-picker)](https://github.com/hiyali/ng-data-picker) - 🏄��� A data picker based on Angular 4+ (like iOS native datetime picker)
 * [ng-fullcalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-fullcalendar/ng-fullcalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-fullcalendar/ng-fullcalendar)](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
 
 #### Charts
