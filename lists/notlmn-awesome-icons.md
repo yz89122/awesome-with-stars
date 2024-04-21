@@ -26,14 +26,14 @@ General purpose icons used everywhere.
 - [Feather ![GitHub Repo Stars](https://img.shields.io/github/stars/feathericons/feather) ![GitHub last commit](https://img.shields.io/github/last-commit/feathericons/feather)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
 - Flaticon - The largest database of free vector icons. ([Website](https://flaticon.com))
 - [Fluent System Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/fluentui-system-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui-system-icons)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
+- [Flowbite Icons](https://flowbite.com/icons/) - Free and open-source collection of 430+ solid and outline icons built for Tailwind CSS and Figma.
 - [Font Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/Font-Awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/Font-Awesome)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
 - [Heroicons ![GitHub Repo Stars](https://img.shields.io/github/stars/refactoringui/heroicons) ![GitHub last commit](https://img.shields.io/github/last-commit/refactoringui/heroicons)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 - [IconPark ![GitHub Repo Stars](https://img.shields.io/github/stars/bytedance/IconPark) ![GitHub last commit](https://img.shields.io/github/last-commit/bytedance/IconPark)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 - ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 - [Ion icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/ionicons) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionicons)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
-- [Material design icons ![GitHub Repo Stars](https://img.shields.io/github/stars/google/material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-icons)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
+- [Material design icons ![GitHub Repo Stars](https://img.shields.io/github/stars/google/material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-icons)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
 - [Octicons ![GitHub Repo Stars](https://img.shields.io/github/stars/primer/octicons) ![GitHub last commit](https://img.shields.io/github/last-commit/primer/octicons)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
-- [Open Iconic ![GitHub Repo Stars](https://img.shields.io/github/stars/iconic/open-iconic) ![GitHub last commit](https://img.shields.io/github/last-commit/iconic/open-iconic)](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 - [Picon ![GitHub Repo Stars](https://img.shields.io/github/stars/yne/picon) ![GitHub last commit](https://img.shields.io/github/last-commit/yne/picon)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 - [Radix Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ui/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ui/icons)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 - [Remix Icon ![GitHub Repo Stars](https://img.shields.io/github/stars/Remix-Design/RemixIcon) ![GitHub last commit](https://img.shields.io/github/last-commit/Remix-Design/RemixIcon)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
@@ -59,6 +59,7 @@ Logos of different brands or companies or technologies.
 - [Devicon ![GitHub Repo Stars](https://img.shields.io/github/stars/devicons/devicon) ![GitHub last commit](https://img.shields.io/github/last-commit/devicons/devicon)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 - [Simple icons ![GitHub Repo Stars](https://img.shields.io/github/stars/simple-icons/simple-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/simple-icons/simple-icons)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
 - [VectorLogoZone ![GitHub Repo Stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone) ![GitHub last commit](https://img.shields.io/github/last-commit/VectorLogoZone/vectorlogozone)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
+- [Token Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/0xa3k5/token-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/0xa3k5/token-icons)](https://github.com/0xa3k5/token-icons#readme) - Over 2,500 optimized SVG crypto & network icons as React components and SVG imports for web3.
 
 ## Special
 
@@ -80,7 +81,6 @@ Icons made out of CSS only (that are not downloadable).
 
 Not open-source/free, but still awesome enough.
 
-- [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
 - [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
 
 ## License
