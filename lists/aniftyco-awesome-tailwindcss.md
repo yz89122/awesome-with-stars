@@ -238,7 +238,7 @@
 
 ## Starters & Themes
 
-**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
+**Legend**: 💼 Package · 📟 Command line tool/generator · �� Cloneable
 
 - 📟 [Create React App with PurgeCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/DemianD/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/DemianD/create-react-app-tailwindcss)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
@@ -262,7 +262,7 @@
 - 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/create-react-app-tailwindcss)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
 - 🚀 [Dogpatch ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-pallot/dogpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-pallot/dogpatch)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
 - 🚀 [Next.js Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/oddstronaut/tailwind-next) ![GitHub last commit](https://img.shields.io/github/last-commit/oddstronaut/tailwind-next)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
-- �� [Sapper & Svelte Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/EricPKerr/sapper-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/EricPKerr/sapper-tailwindcss-starter)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
+- 🚀 [Sapper & Svelte Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/EricPKerr/sapper-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/EricPKerr/sapper-tailwindcss-starter)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
 - 🚀 [Netlify Lambda Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/HugoDF/netlify-lambda-tailwind-static-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/HugoDF/netlify-lambda-tailwind-static-starter)](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
 - 🚀 [Hugo Theme Starter with Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/dirkolbrich/hugo-theme-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/dirkolbrich/hugo-theme-tailwindcss-starter)](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
 - 🚀 [Eleventy Web Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/scottishstoater/jamstack-web-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/scottishstoater/jamstack-web-starter)](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, webpack and PostCSS.
