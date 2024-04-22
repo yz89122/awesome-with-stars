@@ -712,7 +712,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Web Component Mashups at 3 a.m.](https://youtu.be/75EuHl6CSTo)
 - [Web Components Tools & Libraries](https://youtu.be/iPmN4CvLGJc)
 - [Web Components Can Do That?!](https://addyosmani.com/fitc-wccdt/)
-- [Web Components and you �� dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
+- [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [HTML as Custom Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/domenic/html-as-custom-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/domenic/html-as-custom-elements)](https://github.com/domenic/html-as-custom-elements)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
 - [Using Polymer to Create Web Components](https://code.tutsplus.com/tutorials/using-polymer-to-create-web-components--cms-20475)
