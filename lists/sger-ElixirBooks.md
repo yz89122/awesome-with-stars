@@ -154,7 +154,7 @@ Write code that writes code with Elixir macros. Macros make metaprogramming poss
 
 <img src="https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/jaerlang2_hu6d6484fd7d993fffccac9fd34a29e94f_1016144_500x0_resize_q75_box.jpg" width="120px"/>
 
-A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you���ll learn how to write parallel programs that scale effortlessly on multicore systems.
+A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
 
 ### [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
 
