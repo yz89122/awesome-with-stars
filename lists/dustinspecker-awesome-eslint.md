@@ -78,7 +78,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-config-prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/eslint-config-prettier)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
 - [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/standard)](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint ![GitHub Repo Stars](https://img.shields.io/github/stars/supermind/superlint) ![GitHub last commit](https://img.shields.io/github/last-commit/supermind/superlint)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-- [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/xo)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
+- [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/xo)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤��.
 - [Healthier ![GitHub Repo Stars](https://img.shields.io/github/stars/KidkArolis/healthier) ![GitHub last commit](https://img.shields.io/github/last-commit/KidkArolis/healthier)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ## Plugins
