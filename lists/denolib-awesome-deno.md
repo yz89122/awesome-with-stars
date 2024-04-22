@@ -142,6 +142,7 @@ This list is a collection of the best Deno modules and resources.
 ### Logging
 - [sentry_deno ![GitHub Repo Stars](https://img.shields.io/github/stars/GJZwiers/sentry_deno) ![GitHub last commit](https://img.shields.io/github/last-commit/GJZwiers/sentry_deno)](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 - [dlog ![GitHub Repo Stars](https://img.shields.io/github/stars/dpmland/dlog) ![GitHub last commit](https://img.shields.io/github/last-commit/dpmland/dlog)](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
+- [LogTape ![GitHub Repo Stars](https://img.shields.io/github/stars/dahlia/logtape) ![GitHub last commit](https://img.shields.io/github/last-commit/dahlia/logtape)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
 ### Machine learning
 - [classy-lala ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/la-classy) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/la-classy)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.

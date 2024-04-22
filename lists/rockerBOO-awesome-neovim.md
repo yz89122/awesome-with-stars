@@ -597,6 +597,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [yaocccc/nvim-lines.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/yaocccc/nvim-lines.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/yaocccc/nvim-lines.lua)](https://github.com/yaocccc/nvim-lines.lua) - A fast, light, customizable Neovim statusline and tabline(buffers) plugin.
 - [MunifTanjim/nougat.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MunifTanjim/nougat.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MunifTanjim/nougat.nvim)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
 - [Mr-LLLLL/lualine-ext.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/lualine-ext.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/lualine-ext.nvim)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+- [mikesmithgh/git-prompt-string-lualine.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mikesmithgh/git-prompt-string-lualine.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mikesmithgh/git-prompt-string-lualine.nvim)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
 
 ### Tabline
 
