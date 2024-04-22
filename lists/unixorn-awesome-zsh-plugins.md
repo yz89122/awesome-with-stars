@@ -299,7 +299,7 @@ Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto ![GitHub Re
 - packages
 - Clean `fpath` (the array `$fpath` is not being used to add completions and autoload functions, hence it stays concise, not bloated)
 - Services ↔ a single-instance, background plugins
-- Also, in general: all the mechanisms from the ZSH Plugin Standard – Zinit is a reference implementation of the standard.
+- Also, in general: all the mechanisms from the ZSH Plugin Standard ��� Zinit is a reference implementation of the standard.
 
 The project is very active – currently > 3100 commits.
 
