@@ -194,7 +194,7 @@
 - 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 - 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
-- 🧩 [Daisy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/daisyui) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+- ���� [Daisy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/daisyui) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker ![GitHub Repo Stars](https://img.shields.io/github/stars/kenhyuwa/litepie-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/kenhyuwa/litepie-datepicker)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
@@ -217,7 +217,7 @@
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
-- 📁 [Tailwind Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindadmin/admin) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindadmin/admin)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+- ��� [Tailwind Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindadmin/admin) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindadmin/admin)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app) - Landing page template using gradients (1.7+).
 - 📁 [Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/mohusman360/mohusman360.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/mohusman360/mohusman360.github.io)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
 - 📁 [Simple Light ![GitHub Repo Stars](https://img.shields.io/github/stars/cruip/tailwind-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/cruip/tailwind-landing-page-template)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.

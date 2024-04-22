@@ -122,7 +122,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Functional Programming Jargon ![GitHub Repo Stars](https://img.shields.io/github/stars/hemanth/functional-programming-jargon) ![GitHub last commit](https://img.shields.io/github/last-commit/hemanth/functional-programming-jargon)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 - [Bow ![GitHub Repo Stars](https://img.shields.io/github/stars/bow-swift/bow) ![GitHub last commit](https://img.shields.io/github/last-commit/bow-swift/bow)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 - [Parsing With Haskell Parser Combinators ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/parsing-with-haskell-parser-combinators) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/parsing-with-haskell-parser-combinators)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
-
+- [Functional Programming Learning Path ![GitHub Repo Stars](https://img.shields.io/github/stars/imteekay/functional-programming-learning-path.git) ![GitHub last commit](https://img.shields.io/github/last-commit/imteekay/functional-programming-learning-path.git)](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
 ### People
 
 - [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/) - One of the creators of the Haskell Language and the Glasgow Haskell Compiler. Microsoft Researcher.
