@@ -1109,6 +1109,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [yaocccc/nvim-hlchunk ![GitHub Repo Stars](https://img.shields.io/github/stars/yaocccc/nvim-hlchunk) ![GitHub last commit](https://img.shields.io/github/last-commit/yaocccc/nvim-hlchunk)](https://github.com/yaocccc/nvim-hlchunk) - Highlight a `{}` chunk.
 - [shellRaining/hlchunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 - [VidocqH/auto-indent.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/VidocqH/auto-indent.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/VidocqH/auto-indent.nvim)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+- [Mr-LLLLL/cool-chunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/cool-chunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/cool-chunk.nvim)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
 
 ## Command Line
 
