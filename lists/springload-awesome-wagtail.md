@@ -290,7 +290,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) by Edd Baldry.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) by Daniele Procida.
 - [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) by Robin van der Rijst.
-- [Presenting Wagtail Clear StreamField, a modular StreamField app ��� Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) by Edd Baldry.
+- [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) by Edd Baldry.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) by Tom Dyson.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) by Bertrand Bordage.
 - [The Zen of Wagtail – Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
@@ -446,7 +446,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [dev.hel.fi ![GitHub Repo Stars](https://img.shields.io/github/stars/City-of-Helsinki/devheldev) ![GitHub last commit](https://img.shields.io/github/last-commit/City-of-Helsinki/devheldev)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
 - [Digital Helsinki ![GitHub Repo Stars](https://img.shields.io/github/stars/City-of-Helsinki/digihel) ![GitHub last commit](https://img.shields.io/github/last-commit/City-of-Helsinki/digihel)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 - [Secure the News ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securethenews) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securethenews)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
-- [HackSoft ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hacksoft.io) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hacksoft.io)](https://github.com/HackSoftware/hacksoft.io) ��� Website for HackSoft.
+- [HackSoft ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hacksoft.io) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hacksoft.io)](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 - [HackConf ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hackconf.bg) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hackconf.bg)](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 - [RTEI ![GitHub Repo Stars](https://img.shields.io/github/stars/okfn/rtei) ![GitHub last commit](https://img.shields.io/github/last-commit/okfn/rtei)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 - [BVSPCA ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
