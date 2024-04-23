@@ -597,7 +597,7 @@ var foo\u200Cbar = 42;
 // This is *not* a bitwise left shift (`<<`):
 var 〱〱 = 2;
 // This is, though:
-〱〱 << 〱〱; // 8
+〱〱 << ���〱; // 8
 
 // Give yourself a discount:
 var price_9̶9̶_89 = 'cheap';

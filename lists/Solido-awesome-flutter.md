@@ -644,7 +644,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
 - [Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
-- [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter ���简单
+- [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 - [Hashnode](https://hashnode.com/n/flutter) - Read and write posts, participate in discussions or ask questions.
 
 #### Misc
