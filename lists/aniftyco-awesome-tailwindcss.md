@@ -128,6 +128,7 @@
 - 🔼🌍🔧 [Tailwindhelper](https://www.tailwindhelper.com/) - Visualize Tailwind CSS classes and unit converter.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼🌍 [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - Converts CSS to Tailwind CSS by suggesting classes that best match.
+- 🔼🌍 [ska-tailwind-editor](https://sinukoduleheabi.ee/editor/) - Edit Tailwind HTML as WordPress blocks with intuitive UI for Tailwind classes and get HTML or JSX back.
 - 🔼 [Tailwindo ![GitHub Repo Stars](https://img.shields.io/github/stars/awssat/tailwindo) ![GitHub last commit](https://img.shields.io/github/last-commit/awssat/tailwindo)](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
 - 🔼 [RustyWind ![GitHub Repo Stars](https://img.shields.io/github/stars/avencera/rustywind) ![GitHub last commit](https://img.shields.io/github/last-commit/avencera/rustywind)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.

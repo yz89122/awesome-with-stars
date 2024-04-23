@@ -1752,7 +1752,6 @@ Update Time, five active automations, webhooks.
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
-  * [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1926,7 +1925,5 @@ HTML Themes and UI Kits to create your applications faster!
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
   * [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
-  * [PythonAnywhere](https://www.pythonanywhere.com/) - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free
-  * [Glitch](https://glitch.com/) - Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR
 
-  * **[⬆️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
