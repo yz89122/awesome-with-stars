@@ -102,7 +102,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [GMSDLL ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/GMSDLL) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/GMSDLL)](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
 - [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 - [GMLodash ![GitHub Repo Stars](https://img.shields.io/github/stars/DatZach/GMLodash) ![GitHub last commit](https://img.shields.io/github/last-commit/DatZach/GMLodash)](https://github.com/DatZach/GMLodash) - Functional programming in GML.
-- [Wraptor ![GitHub Repo Stars](https://img.shields.io/github/stars/Gizmo199/Wraptor) ![GitHub last commit](https://img.shields.io/github/last-commit/Gizmo199/Wraptor)](https://github.com/Gizmo199/Wraptor) - A library of wrapper functions.
 - [Autoframer ![GitHub Repo Stars](https://img.shields.io/github/stars/mstop4/auto-framer) ![GitHub last commit](https://img.shields.io/github/last-commit/mstop4/auto-framer)](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 - [gameframe ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/gameframe) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/gameframe)](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
 - [GML+](https://xgasoft.itch.io/gmlp) - A script collection with a goal to "fill the gaps" in GML. 💸
@@ -247,7 +246,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 - [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 - [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
-- [Cyberpunk Hologram Effect](https://gentoogames.itch.io/cyberpunk-hologram-effect) - Create and customize your own holographic effect using this easy-to-implement asset.
 - [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
 - [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 - [1PassBlur ![GitHub Repo Stars](https://img.shields.io/github/stars/XorDev/1PassBlur) ![GitHub last commit](https://img.shields.io/github/last-commit/XorDev/1PassBlur)](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader with adjustable radius.
@@ -375,11 +373,10 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 ## Blogs
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
-- [Tony Str](https://tonystr.net/articles) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
+- [Tony Str](https://tonystr.net/) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 - [Thoughts On GameMaker ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/ThoughtsOnGameMaker) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/ThoughtsOnGameMaker)](https://github.com/JujuAdams/ThoughtsOnGameMaker) - Not a traditional blog but has great info on different GML techniques.
-- [ApathyHill](https://apathyhill.com/blog/category/gamemaker) - Some articles on GameMaker 3D, noise, sprite trails, and a few others.
 
 ## YouTube
 
