@@ -85,6 +85,7 @@
 - [Oak (Deno) ![GitHub Repo Stars](https://img.shields.io/github/stars/jcs224/oak_inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/jcs224/oak_inertia)](https://github.com/jcs224/oak_inertia)
 - [Echo ![GitHub Repo Stars](https://img.shields.io/github/stars/kohkimakimoto/inertia-echo) ![GitHub last commit](https://img.shields.io/github/last-commit/kohkimakimoto/inertia-echo)](https://github.com/kohkimakimoto/inertia-echo)
 - [Grails ![GitHub Repo Stars](https://img.shields.io/github/stars/matrei/grails-inertia-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/matrei/grails-inertia-plugin)](https://github.com/matrei/grails-inertia-plugin)
+- [FastAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/hxjo/fastapi-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/hxjo/fastapi-inertia)](https://github.com/hxjo/fastapi-inertia)
 
 ## Resources
 
