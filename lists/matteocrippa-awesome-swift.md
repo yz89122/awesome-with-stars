@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1054 | April 20, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1058 | April 23, 2024 |
 
 In parternship with:
 
@@ -267,6 +267,7 @@ In parternship with:
 * [GoodReactor ![GitHub Repo Stars](https://img.shields.io/github/stars/GoodRequest/GoodReactor) ![GitHub last commit](https://img.shields.io/github/last-commit/GoodRequest/GoodReactor)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 * [Reactant ![GitHub Repo Stars](https://img.shields.io/github/stars/Brightify/Reactant) ![GitHub last commit](https://img.shields.io/github/last-commit/Brightify/Reactant)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 * [ReduxUI ![GitHub Repo Stars](https://img.shields.io/github/stars/gre4ixin/ReduxUI) ![GitHub last commit](https://img.shields.io/github/last-commit/gre4ixin/ReduxUI)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
+* [SimplexArchitecture ![GitHub Repo Stars](https://img.shields.io/github/stars/Ryu0118/swiftui-simplex-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/Ryu0118/swiftui-simplex-architecture)](https://github.com/Ryu0118/swiftui-simplex-architecture) - A Simple architecture that decouples state changes from SwiftUI's View
 * [Spin ![GitHub Repo Stars](https://img.shields.io/github/stars/Spinners/Spin.Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/Spinners/Spin.Swift)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
 * [StateViewController ![GitHub Repo Stars](https://img.shields.io/github/stars/davidask/StateViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/davidask/StateViewController)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 * [SwiftUI Atom Properties ![GitHub Repo Stars](https://img.shields.io/github/stars/ra1028/swiftui-atom-properties) ![GitHub last commit](https://img.shields.io/github/last-commit/ra1028/swiftui-atom-properties)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
@@ -320,6 +321,7 @@ In parternship with:
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
+* [Aptabase ![GitHub Repo Stars](https://img.shields.io/github/stars/aptabase/aptabase) ![GitHub last commit](https://img.shields.io/github/last-commit/aptabase/aptabase)](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 * [Tracker Aggregator ![GitHub Repo Stars](https://img.shields.io/github/stars/kafejo/Tracker-Aggregator) ![GitHub last commit](https://img.shields.io/github/last-commit/kafejo/Tracker-Aggregator)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 * [Umbrella ![GitHub Repo Stars](https://img.shields.io/github/stars/devxoul/Umbrella) ![GitHub last commit](https://img.shields.io/github/last-commit/devxoul/Umbrella)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
@@ -919,6 +921,7 @@ In parternship with:
 * [BrickKit ![GitHub Repo Stars](https://img.shields.io/github/stars/wayfair-archive/brickkit-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/wayfair-archive/brickkit-ios)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
 * [CGLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/k-o-d-e-n/CGLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/k-o-d-e-n/CGLayout)](https://github.com/k-o-d-e-n/CGLayout) :penguin: - Powerful autolayout framework, that can manage UIView(NSView), CALayer, not rendered views and etc. Provides placeholders.
 * [FlexLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/layoutBox/FlexLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/layoutBox/FlexLayout)](https://github.com/layoutBox/FlexLayout) - Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.
+* [FrameLayoutKit ![GitHub Repo Stars](https://img.shields.io/github/stars/kennic/FrameLayoutKit) ![GitHub last commit](https://img.shields.io/github/last-commit/kennic/FrameLayoutKit)](https://github.com/kennic/FrameLayoutKit) - This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax.
 * [Grid ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/Grid) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/Grid)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 * [LayoutLess ![GitHub Repo Stars](https://img.shields.io/github/stars/DeclarativeHub/Layoutless) ![GitHub last commit](https://img.shields.io/github/last-commit/DeclarativeHub/Layoutless)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 * [Neon ![GitHub Repo Stars](https://img.shields.io/github/stars/mamaral/Neon) ![GitHub last commit](https://img.shields.io/github/last-commit/mamaral/Neon)](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
@@ -1479,6 +1482,7 @@ In parternship with:
 * [Panels ![GitHub Repo Stars](https://img.shields.io/github/stars/antoniocasero/Panels) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniocasero/Panels)](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 * [Parchment ![GitHub Repo Stars](https://img.shields.io/github/stars/rechsteiner/Parchment) ![GitHub last commit](https://img.shields.io/github/last-commit/rechsteiner/Parchment)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 * [PopMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/CaliCastle/PopMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/CaliCastle/PopMenu)](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
+* [SegmentIO ![GitHub Repo Stars](https://img.shields.io/github/stars/Yalantis/Segmentio) ![GitHub last commit](https://img.shields.io/github/last-commit/Yalantis/Segmentio)](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented menu for iOS.
 * [SideMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/jonkykong/SideMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/jonkykong/SideMenu)](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/dekatotoro/SlideMenuControllerSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/dekatotoro/SlideMenuControllerSwift)](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 * [SwipeMenuViewController ![GitHub Repo Stars](https://img.shields.io/github/stars/yysskk/SwipeMenuViewController) ![GitHub last commit](https://img.shields.io/github/last-commit/yysskk/SwipeMenuViewController)](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
