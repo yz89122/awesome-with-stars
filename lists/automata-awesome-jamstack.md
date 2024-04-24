@@ -151,7 +151,7 @@
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 - [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
-- [Clerk](https://clerk.com) ��� Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
+- [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
 ### Comments
 

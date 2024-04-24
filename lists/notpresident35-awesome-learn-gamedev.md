@@ -184,7 +184,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
 
-[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) 💠 - An extensive tutorial series.
+[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) ���� - An extensive tutorial series.
 
 
 [Game Engine Architecture](https://www.gameenginebook.com/) 🟪 - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
