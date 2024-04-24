@@ -105,6 +105,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Crypto-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/TheBestTvarynka/crypto-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/TheBestTvarynka/crypto-helper)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
 - [zoom-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/security-union/zoom-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/security-union/zoom-rs)](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
 - [Ubiquity ![GitHub Repo Stars](https://img.shields.io/github/stars/opensourcecheemsburgers/ubiquity) ![GitHub last commit](https://img.shields.io/github/last-commit/opensourcecheemsburgers/ubiquity)](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
+- [demo_web_zip_wasm ![GitHub Repo Stars](https://img.shields.io/github/stars/MAE664128/demo_web_zip_wasm) ![GitHub last commit](https://img.shields.io/github/last-commit/MAE664128/demo_web_zip_wasm)](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
 
 ## Templates
 
