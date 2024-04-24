@@ -306,7 +306,7 @@ System integration is the process of linking together different IT systems (com
 - [Apache Pulsar (⭐13k) ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/pulsar) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/pulsar)](https://github.com/apache/pulsar) - A distributed pub/sub-messaging system that supports both traditional messaging and streaming use cases. Offers a scalable and flexible architecture and supports multiple messaging protocols.
 - [Apache RocketMQ (⭐20k) ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/rocketmq) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/rocketmq)](https://github.com/apache/rocketmq) - A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns.
 - [Apache Qpid (⭐55) ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/qpid-broker-j) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/qpid-broker-j)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-- [BlazingMQ (���2.4k) ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomberg/blazingmq) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/blazingmq)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
+- [BlazingMQ (⭐2.4k) ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomberg/blazingmq) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/blazingmq)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 - [Centrifugo (⭐7.9k) ![GitHub Repo Stars](https://img.shields.io/github/stars/centrifugal/centrifugo) ![GitHub last commit](https://img.shields.io/github/last-commit/centrifugal/centrifugo)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
 - [Eclipse Mosquitto (⭐8.3k) ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse/mosquitto) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse/mosquitto)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 - [EMQX (⭐13k) ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/emqx) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/emqx)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
@@ -686,6 +686,14 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
   
 </details>
 <details>
+<summary>Apollo</summary>
+
+- [Apollo Graph Developer - Associate Certification](https://www.apollographql.com/tutorials/exams/apollo-graph-associate) - Developers who obtain this certification possess a solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server 4, and perform queries with Apollo Client 3 on the frontend.
+
+- [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) - Developers who obtain this certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.
+
+</details>
+<details>
 <summary>Boomi</summary>
   
 - [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's foundational knowledge and skills in managing and administering the Boomi platform, focusing on platform monitoring, troubleshooting, and security.
@@ -752,7 +760,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 <details>
 <summary>SAP</summary>
   
-- [SAP Certified Development Associate - SAP Integration Suite](https://training.sap.com/certification/c_cpi_15-sap-certified-development-associate---sap-integration-suite-g/) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
+- [SAP Certified Associate - Integration Developer](https://learning.sap.com/certifications/sap-certified-associate-integration-developer) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
   
 </details>
 <details>
