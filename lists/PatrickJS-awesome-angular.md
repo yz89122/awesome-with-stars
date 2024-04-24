@@ -4,9 +4,11 @@
   </a>
 </p>
 
+> logo designed by [SAWARATSUKI ![GitHub Repo Stars](https://img.shields.io/github/stars/SAWARATSUKI/ServiceLogos) ![GitHub last commit](https://img.shields.io/github/last-commit/SAWARATSUKI/ServiceLogos)](https://github.com/SAWARATSUKI/ServiceLogos)
+
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the original Awesome list of the Angular framework, today known as just [Angular](https://angular.dev/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
+This is the original Awesome list of the [Angular](https://angular.dev/) framework. This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 
@@ -35,7 +37,6 @@ Table of contents:
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
-  * [Schematics](#schematics)
   * [Angular Challenges](https://angular-challenges.vercel.app/)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
@@ -63,6 +64,7 @@ Table of contents:
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
 * [Deployment](#deployment)
+* [Updating](#updating)
 
 ### Angular
 
@@ -345,6 +347,7 @@ become an Angular expert
 * [angular-nest ![GitHub Repo Stars](https://img.shields.io/github/stars/mugifly/angular-nest) ![GitHub last commit](https://img.shields.io/github/last-commit/mugifly/angular-nest)](https://github.com/mugifly/angular-nest) - Simple web app template with Angular v17 + NestJS v9 + ng-openapi-gen.
 * [gradient-able-free-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/gradient-able-free-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/gradient-able-free-admin-template)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
 * [angular-ngrx-frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/tarlepp/angular-ngrx-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/tarlepp/angular-ngrx-frontend)](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
+* [Threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnnyDevNull/ng-three-template) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnnyDevNull/ng-three-template)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app
 
 #### Generators
 
@@ -377,14 +380,6 @@ become an Angular expert
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
 * [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
-
-#### Schematics
-
-* [Cypress ![GitHub Repo Stars](https://img.shields.io/github/stars/briebug/cypress-schematic) ![GitHub last commit](https://img.shields.io/github/last-commit/briebug/cypress-schematic)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-* [Jest ![GitHub Repo Stars](https://img.shields.io/github/stars/briebug/jest-schematic) ![GitHub last commit](https://img.shields.io/github/last-commit/briebug/jest-schematic)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-* [Prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/schuchard/prettier-schematic) ![GitHub last commit](https://img.shields.io/github/last-commit/schuchard/prettier-schematic)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-* [Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/tailwind)](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-* [Threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnnyDevNull/ng-three-template) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnnyDevNull/ng-three-template)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
 ---
 
@@ -650,8 +645,11 @@ become an Angular expert
 
 #### Security
 
-* [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
-* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
+* [Angular.io Security Guide](https://angular.io/guide/security) - Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy.
+* [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
+* [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+* [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
+* [Github Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 
 #### Authentication
 
@@ -684,6 +682,12 @@ become an Angular expert
 * [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angularfire) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angularfire)](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.  
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-schule/angular-cli-ghpages)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
+#### Updating
+
+* [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.  
+* [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
+* [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 
 ---
 
