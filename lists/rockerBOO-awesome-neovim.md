@@ -186,7 +186,6 @@
 - [vigoux/complementree.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vigoux/complementree.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vigoux/complementree.nvim)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
 - [nvimdev/epo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/epo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/epo.nvim)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 - [zbirenbaum/copilot.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/zbirenbaum/copilot.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/zbirenbaum/copilot.lua)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/github/copilot.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/github/copilot.vim)](https://github.com/github/copilot.vim).
-- [Exafunction/codeium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
 
 ## AI
 
@@ -201,6 +200,7 @@
 - [kiddos/gemini.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiddos/gemini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiddos/gemini.nvim)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 - [olimorris/codecompanion.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 - [simplegpt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/simplegpt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/simplegpt.nvim)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
+- [Exafunction/codeium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 
 ## Programming Languages Support
 
