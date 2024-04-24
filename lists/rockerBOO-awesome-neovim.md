@@ -219,6 +219,7 @@
 - [chomosuke/typst-preview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 - [quarto-dev/quarto-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
 - [iabdelkareem/csharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+- [jim-at-jibba/micropython.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jim-at-jibba/micropython.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jim-at-jibba/micropython.nvim)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
 
 ### Golang
 
