@@ -193,7 +193,7 @@ All resources are freely available except those with a 💲 icon.
 **Content Format** \
 📖 Books \
 🎥 Videos \
-��� Lecture notes, slides, articles, papers
+📝 Lecture notes, slides, articles, papers
 
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
@@ -278,7 +278,7 @@ All resources are freely available except those with a 💲 icon.
 ### Analytic Number Theory
 
 * 📝 [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
-* 📝 [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
+* �� [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * 📝 [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
 * 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
@@ -479,7 +479,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 * 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 * 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
-* 📝 [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
+* ���� [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * 📝 [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * 📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
 * 📝 [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett
@@ -490,7 +490,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 * 📝 [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
-* �� [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
+* 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
 * 📝 [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
 

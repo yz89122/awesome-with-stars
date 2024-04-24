@@ -608,11 +608,10 @@ Implementations
 ===============
 
 * ⭐ [SBCL](http://www.sbcl.org/index.html) - Steel Bank Common Lisp. A fork of CMUCL; compiles to efficient machine code. [Standard compliance][13]. Public domain, with some parts under [Expat][14] and [3-clause BSD][15].
-  * see also: [sbcl-librarian ![GitHub Repo Stars](https://img.shields.io/github/stars/quil-lang/sbcl-librarian) ![GitHub last commit](https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian)](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Full example ![GitHub Repo Stars](https://img.shields.io/github/stars/quil-lang/sbcl-librarian) ![GitHub last commit](https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian)](https://github.com/quil-lang/sbcl-librarian/tree/main/example).
+  * see also: [sbcl-librarian ![GitHub Repo Stars](https://img.shields.io/github/stars/quil-lang/sbcl-librarian) ![GitHub last commit](https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian)](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Tutorial](https://lispcookbook.github.io/cl-cookbook/dynamic-libraries.html).
   * [SBCL-GOODIES ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/sbcl-goodies) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/sbcl-goodies)](https://github.com/sionescu/sbcl-goodies) - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. [MIT][200].
   * [Nightly Windows builds of SBCL ![GitHub Repo Stars](https://img.shields.io/github/stars/olnw/sbcl-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/olnw/sbcl-builds)](https://github.com/olnw/sbcl-builds) -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/sbcl_bin) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/sbcl_bin)](https://github.com/roswell/sbcl_bin/releases/).
-  * [sbcl-wiki ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/sbcl-wiki) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/sbcl-wiki)](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
-* ⭐ [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
+* �� [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
   * [eclweb ![GitHub Repo Stars](https://img.shields.io/github/stars/chee/eclweb) ![GitHub last commit](https://img.shields.io/github/last-commit/chee/eclweb)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 * [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
@@ -860,6 +859,12 @@ Advanced
 * [Let Over Lambda][156] - A book on advanced macro techniques. The first six chapters are available online.
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - Paul Graham's amazing book on Lisp macros (and other interesting things).
 * [Programming Algorithms in Lisp](https://link.springer.com/book/10.1007/978-1-4842-6428-7) - Updated version of "[Programming Algorithms](https://leanpub.com/progalgs)"; A comprehensive guide to writing efficient programs with data structures and algorithms in Lisp.
+
+And a couple learning resources for SBCL internals:
+
+* [SBCL internals](https://simonsafar.com/2020/sbcl/)
+* [sbcl-wiki ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/sbcl-wiki) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/sbcl-wiki)](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
+
 
 Coding platforms
 ----------------
@@ -1568,6 +1573,11 @@ Sly extensions:
   editor tailored for Common Lisp development out of the box, as well as other programming languages with its built-in LSP client. With ncurses, Electron and SDL2 interfaces. [MIT][200].
   * [Lem 2.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/lem-project/lem) ![GitHub last commit](https://img.shields.io/github/last-commit/lem-project/lem)](https://github.com/lem-project/lem/releases/tag/v2.0.0), released on May, 2023, added the SDL2 frontend, thus mouse support, graphic capabilities and Windows support, among other new features.
   * see also: an [opengl frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/pupcraft/lem-opengl) ![GitHub last commit](https://img.shields.io/github/last-commit/pupcraft/lem-opengl)](https://github.com/pupcraft/lem-opengl), [Lem in Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/lem-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/lem-docker)](https://github.com/40ants/lem-docker), [lem-pareto ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/lem-pareto) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/lem-pareto)](https://github.com/40ants/lem-pareto).
+
+* 🚀 [Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
+  * "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
+  * NEW as of April, 2024.
+
 
 ## Atom, Pulsar ##
 
