@@ -372,7 +372,7 @@ A collection of tools for building decentralized applications on the Ethereum bl
 - [Ganache](https://truffleframework.com/ganache) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/trufflesuite/ganache) ![GitHub last commit](https://img.shields.io/github/last-commit/trufflesuite/ganache)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
 - [drizzle](https://truffleframework.com/drizzle) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/trufflesuite/drizzle) ![GitHub last commit](https://img.shields.io/github/last-commit/trufflesuite/drizzle)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
-### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack)
+### Rails Monitoring Stack [��](https://awesomestacks.dev/rails-monitoring-stack)
 
 Tools to use to monitor your Rails app in production.
 
