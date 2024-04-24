@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://patrickjs.com" target="_blank">
-    <img src="https://github.com/PatrickJS/awesome-angular/raw/master/media/awesome-angular.png" alt="Awesome Angular" />
+    <img src="https://github.com/PatrickJS/awesome-angular/raw/master/media/new/awesome-angular.png" alt="Awesome Angular" />
   </a>
 </p>
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the original Awesome list of the Angular2 framework, today known as just [Angular](https://angular.io/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
+This is the original Awesome list of the Angular framework, today known as just [Angular](https://angular.dev/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 
@@ -62,6 +62,7 @@ Table of contents:
 * [Security](#security)
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
+* [Deployment](#deployment)
 
 ### Angular
 
@@ -345,30 +346,25 @@ become an Angular expert
 * [gradient-able-free-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/gradient-able-free-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/gradient-able-free-admin-template)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
 * [angular-ngrx-frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/tarlepp/angular-ngrx-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/tarlepp/angular-ngrx-frontend)](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
 
-
-
 #### Generators
 
 * Node.js
-  * Slush
-    * [TheVelourFog/slush-angular2 ![GitHub Repo Stars](https://img.shields.io/github/stars/RyanMetin/slush-angular2) ![GitHub last commit](https://img.shields.io/github/last-commit/RyanMetin/slush-angular2)](https://github.com/RyanMetin/slush-angular2)
-  * Yeoman
-    * [swirlycheetah/generator-angular2 ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisdwheatley/generator-angular2) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisdwheatley/generator-angular2)](https://github.com/chrisdwheatley/generator-angular2)
-  * ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
-    * [ngx-rocket/generator-ngx-rocket ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-rocket/generator-ngx-rocket) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-rocket/generator-ngx-rocket)](https://github.com/ngx-rocket/generator-ngx-rocket)
-    * [ngx-rocket/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-rocket/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-rocket/cli)](https://github.com/ngx-rocket/cli)
-    * [ngx-rocket/core ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-rocket/core) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-rocket/core)](https://github.com/ngx-rocket/core)
-* Scaffold
-  * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+  * [teleport-code-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/teleporthq/teleport-code-generators)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+  * [graphql-code-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/dotansimha/graphql-code-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/dotansimha/graphql-code-generator)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+  * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
+  * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
+  * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
+  * [angularx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/cordobo/angularx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/cordobo/angularx-qrcode)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library
 * Spring Boot
-  * [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
-  * [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular
+  * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
+  * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular
 
 #### Documentation tools
 
 * [Storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybooks/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybooks/storybook)](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use
 * [Compodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/compodoc/compodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/compodoc/compodoc)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
 * [ng-doc ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-doc/ng-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-doc/ng-doc)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects
+* [docgeni ![GitHub Repo Stars](https://img.shields.io/github/stars/docgeni/docgeni) ![GitHub last commit](https://img.shields.io/github/last-commit/docgeni/docgeni)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Developer tools
 
@@ -681,9 +677,17 @@ become an Angular expert
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
 
+#### Deployment
+
+* [aws amplify](https://docs.amplify.aws/angular/)
+* [Vercel](https://vercel.com/solutions/angular)
+* [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angularfire) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angularfire)](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.  
+* [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
+* [angular-cli-ghpages ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-schule/angular-cli-ghpages)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
 ---
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
+enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
 
 ---
 
