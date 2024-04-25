@@ -198,7 +198,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Theatre.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ariaminaei/theatre) ![GitHub last commit](https://img.shields.io/github/last-commit/ariaminaei/theatre)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 - [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
 
-### Projection Mapping • VJing
+### Projection Mapping �� VJing
 
 - [MadMapper](http://www.madmapper.com/) [Mac] - Video mapping projections and Light mapping.
 - [VDMX](https://vidvox.net/) [Mac] - Realtime multimedia performance application.
