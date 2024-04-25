@@ -301,6 +301,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [MultiClient ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/MultiClient) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/MultiClient)](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
 - [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
+- [GM Networking ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/gm_networking) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/gm_networking)](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
+- [Boomers Networking ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/gm_boomers_networking) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/gm_boomers_networking)](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
 
 ## Integrations
 
@@ -335,12 +337,14 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
 - [Pinocchio ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Pinocchio) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Pinocchio)](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
 - [BehaviorTree ![GitHub Repo Stars](https://img.shields.io/github/stars/Gizmo199/BehaviorTree) ![GitHub last commit](https://img.shields.io/github/last-commit/Gizmo199/BehaviorTree)](https://github.com/Gizmo199/BehaviorTree) - A simple behavior tree system.
+- [FSM AI ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/FSM-AI-module) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/FSM-AI-module)](https://github.com/gmclan-org/FSM-AI-module) - Finite state machine for NPC AI.
 
 ## Pathing
 
 - [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
 - [A-Star-Pathing ![GitHub Repo Stars](https://img.shields.io/github/stars/helloalbertdang/A-Star-Pathing) ![GitHub last commit](https://img.shields.io/github/last-commit/helloalbertdang/A-Star-Pathing)](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
 - [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
+- [Pathfinding in graph ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/dijkstra-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/dijkstra-graph)](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
 
 ## Useful Extras
 
@@ -370,6 +374,9 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [vim-GML ![GitHub Repo Stars](https://img.shields.io/github/stars/JafarDakhan/vim-gml) ![GitHub last commit](https://img.shields.io/github/last-commit/JafarDakhan/vim-gml)](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 - [Tome ![GitHub Repo Stars](https://img.shields.io/github/stars/chesrowe/Tome) ![GitHub last commit](https://img.shields.io/github/last-commit/chesrowe/Tome)](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
+- [Piano example ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/piano_example) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/piano_example)](https://github.com/gmclan-org/piano_example) - Example of playing intrument notes by changing pitch, using only one audio file.
+- [Compatibility scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/compatibility-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/compatibility-scripts)](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
+- [Pause example ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/pause_no_surface) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/pause_no_surface)](https://github.com/gmclan-org/pause_no_surface) - Simple example of a pause screen without using surfaces.
 
 ## Blogs
 

@@ -383,7 +383,7 @@
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
-- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔드 개발자를 ��한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
@@ -2476,6 +2476,7 @@ _Layout for the overall / main view_
 - [vue-typed-virtual-list ![GitHub Repo Stars](https://img.shields.io/github/stars/bsssshhhhhhh/vue-typed-virtual-list) ![GitHub last commit](https://img.shields.io/github/last-commit/bsssshhhhhhh/vue-typed-virtual-list)](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - [Vue 3.x] small, efficient, TypeScript-friendly virtual scroller for rendering massive data
 - [fit-screen ![GitHub Repo Stars](https://img.shields.io/github/stars/jp-liu/fit-screen) ![GitHub last commit](https://img.shields.io/github/last-commit/jp-liu/fit-screen)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 - [vue-virtual-waterfall ![GitHub Repo Stars](https://img.shields.io/github/stars/lhlyu/vue-virtual-waterfall) ![GitHub last commit](https://img.shields.io/github/last-commit/lhlyu/vue-virtual-waterfall)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
+- [vue-stack-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/chiribuc/vue-stack-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/chiribuc/vue-stack-grid)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
 
 ### Frameworks
 
