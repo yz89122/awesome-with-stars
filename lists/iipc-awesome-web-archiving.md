@@ -67,7 +67,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [archivenow ![GitHub Repo Stars](https://img.shields.io/github/stars/oduwsdl/archivenow) ![GitHub last commit](https://img.shields.io/github/last-commit/oduwsdl/archivenow)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
 * [ArchiveWeb.Page](https://archiveweb.page) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC data. Also available as an Electron based desktop application.
 * [Auto Archiver ![GitHub Repo Stars](https://img.shields.io/github/stars/bellingcat/auto-archiver) ![GitHub last commit](https://img.shields.io/github/last-commit/bellingcat/auto-archiver)](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
-* [Browsertrix Crawler ![GitHub Repo Stars](https://img.shields.io/github/stars/webrecorder/browsertrix-crawler) ![GitHub last commit](https://img.shields.io/github/last-commit/webrecorder/browsertrix-crawler)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
+* [Browsertrix Crawler ![GitHub Repo Stars](https://img.shields.io/github/stars/webrecorder/browsertrix-crawler) ![GitHub last commit](https://img.shields.io/github/last-commit/webrecorder/browsertrix-crawler)](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
 * [Brozzler ![GitHub Repo Stars](https://img.shields.io/github/stars/internetarchive/brozzler) ![GitHub last commit](https://img.shields.io/github/last-commit/internetarchive/brozzler)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 * [Cairn ![GitHub Repo Stars](https://img.shields.io/github/stars/wabarc/cairn) ![GitHub last commit](https://img.shields.io/github/last-commit/wabarc/cairn)](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages. *(Stable)*
 * [Chronicler ![GitHub Repo Stars](https://img.shields.io/github/stars/CGamesPlay/chronicler) ![GitHub last commit](https://img.shields.io/github/last-commit/CGamesPlay/chronicler)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
@@ -101,7 +101,6 @@ This list of tools and software is intended to briefly describe some of the most
 * [Web2Warc ![GitHub Repo Stars](https://img.shields.io/github/stars/helgeho/Web2Warc) ![GitHub last commit](https://img.shields.io/github/last-commit/helgeho/Web2Warc)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 * [Web Curator Tool](https://webcuratortool.org) - Open-source workflow management for selective web archiving. *(Stable)*
 * [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
-* [Webrecorder](https://webrecorder.io/) - Create high-fidelity, interactive recordings of any web site you browse. *(Stable)*
 * [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
 * [Wget-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/alard/wget-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/alard/wget-lua)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
 * [Wpull ![GitHub Repo Stars](https://img.shields.io/github/stars/chfoo/wpull) ![GitHub last commit](https://img.shields.io/github/last-commit/chfoo/wpull)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
@@ -110,9 +109,9 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [InterPlanetary Wayback (ipwb) ![GitHub Repo Stars](https://img.shields.io/github/stars/oduwsdl/ipwb) ![GitHub last commit](https://img.shields.io/github/last-commit/oduwsdl/ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 * [OpenWayback ![GitHub Repo Stars](https://img.shields.io/github/stars/iipc/openwayback) ![GitHub last commit](https://img.shields.io/github/last-commit/iipc/openwayback)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
-* [PyWb ![GitHub Repo Stars](https://img.shields.io/github/stars/ikreymer/pywb) ![GitHub last commit](https://img.shields.io/github/last-commit/ikreymer/pywb)](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
+* [PYWB ![GitHub Repo Stars](https://img.shields.io/github/stars/webrecorder/pywb) ![GitHub last commit](https://img.shields.io/github/last-commit/webrecorder/pywb)](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
 * [Reconstructive](https://oduwsdl.github.io/Reconstructive/) - Reconstructive is a ServiceWorker module for client-side reconstruction of composite mementos by rerouting resource requests to corresponding archived copies (JavaScript).
-* [ReplayWeb.Page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC files.
+* [ReplayWeb.page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. *(Stable)*
 * [warc2html ![GitHub Repo Stars](https://img.shields.io/github/stars/iipc/warc2html) ![GitHub last commit](https://img.shields.io/github/last-commit/iipc/warc2html)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
 ### Search & Discovery
@@ -248,7 +247,7 @@ The intention is that we only list services that allow web archives to be export
 
 ### Self-hostable, Open Source
 
-*	[Browsertrix Cloud](https://browsertrix.cloud/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix-cloud>.
+*	[Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix>.
 *	[Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
 
 ### Hosted, Closed Source
