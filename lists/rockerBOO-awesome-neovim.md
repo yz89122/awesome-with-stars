@@ -819,6 +819,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [coffebar/transfer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/coffebar/transfer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/coffebar/transfer.nvim)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 - [OscarCreator/rsync.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OscarCreator/rsync.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OscarCreator/rsync.nvim)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
+- [sachinsenal0x64/hot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sachinsenal0x64/hot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sachinsenal0x64/hot.nvim)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
 
 ## Test
 
