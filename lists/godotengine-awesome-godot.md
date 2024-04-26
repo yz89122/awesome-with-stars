@@ -84,6 +84,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 #### Godot 4.2
 
 - [LibreAim ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/libre-aim) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/libre-aim)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+- [Reia ![GitHub Repo Stars](https://img.shields.io/github/stars/Quaint-Studios/Reia) ![GitHub last commit](https://img.shields.io/github/last-commit/Quaint-Studios/Reia)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 
 #### Godot 3.2+
 
