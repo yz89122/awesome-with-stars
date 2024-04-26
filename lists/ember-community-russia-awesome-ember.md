@@ -812,7 +812,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [8 Top Ember.js Interview Questions in 2018](http://blog.honeypot.io/emberjs-interview-questions-2018/)
 - [Ember.js community, meet CodeSandbox!](https://medium.com/@mikenorth/ember-community-meet-codesandbox-10a43076b3fa)
 - [Fuel up your Ember.js with Octane](https://clark.engineering/fuel-up-your-ember-with-octane-171c8dd13fd6)
-- [Ember Octane ��� everything one can expect in the next Ember.js edition](http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition/)
+- [Ember Octane – everything one can expect in the next Ember.js edition](http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition/)
 - [Lazy-loading modules in Ember.js](https://medium.com/zonky-developers/lazy-loading-modules-in-emberjs-e4f880b15aa0)
 - [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 - [Optimizing Ember.js Templates](https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e)
