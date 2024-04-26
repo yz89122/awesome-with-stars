@@ -193,7 +193,7 @@ All resources are freely available except those with a 💲 icon.
 **Content Format** \
 📖 Books \
 🎥 Videos \
-📝 Lecture notes, slides, articles, papers
+��� Lecture notes, slides, articles, papers
 
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
