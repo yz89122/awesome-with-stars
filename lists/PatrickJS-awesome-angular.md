@@ -26,7 +26,7 @@ Table of contents:
   * [Cheatsheet](#cheatsheet)
   * [Testing](#testing)
   * [Angular CLI](#angular-cli)
-  * [Webpack](#webpack)
+  * [Builders](#builders)
   * [YouTube Channels](#youtube-channels)
   * [Style Guides](#style-guides)
   * [Books](#books)
@@ -58,6 +58,7 @@ Table of contents:
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
+* [RxJS](#rxjs)
 * [TypeScript](#typescript)
 * [Ionic](#ionic)
 * [Security](#security)
@@ -88,13 +89,14 @@ Table of contents:
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-* [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularAir](https://angularair.com/) podcast and live broadcast.
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
 * [Angular Expo](https://angularexpo.com/) showcase.
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
+* [angular-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/maartentibau/angular-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/maartentibau/angular-logos)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
+* [madewithangular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 
 #### Angular Team on Twitter
 
@@ -178,6 +180,7 @@ Table of contents:
 * [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 * [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+* [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
@@ -242,31 +245,36 @@ Table of contents:
 * [Official repository ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular-cli)](https://github.com/angular/angular-cli)
 * [ng-cli-hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/smartin85/ng-cli-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/smartin85/ng-cli-hooks)](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
 
-#### Webpack
+#### Builders
 
-* [Official web page](https://webpack.js.org)
-* [Angular Webpack Starter from PatrickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/gdi2290/angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/gdi2290/angular-starter)](https://github.com/gdi2290/angular-starter)
-* [Angular Webpack from preboot ![GitHub Repo Stars](https://img.shields.io/github/stars/preboot/angular-webpack) ![GitHub last commit](https://img.shields.io/github/last-commit/preboot/angular-webpack)](https://github.com/preboot/angular-webpack)
-* [Angular Nightly Webpack Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/qdouble/angular-webpack2-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/qdouble/angular-webpack2-starter)](https://github.com/qdouble/angular-webpack2-starter)
-* [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden ![GitHub Repo Stars](https://img.shields.io/github/stars/damienbod/AngularWebpackVisualStudio) ![GitHub last commit](https://img.shields.io/github/last-commit/damienbod/AngularWebpackVisualStudio)](https://github.com/damienbod/AngularWebpackVisualStudio)
-* [Angular Typescript Webpack from schempy ![GitHub Repo Stars](https://img.shields.io/github/stars/schempy/angular2-typescript-webpack) ![GitHub last commit](https://img.shields.io/github/last-commit/schempy/angular2-typescript-webpack)](https://github.com/schempy/angular2-typescript-webpack)
-* [Angular Webpack Tour of Heroes from michaelbazos ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelbazos/angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelbazos/angular-starter)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
-* [Angular Webpack + rxjs + modules ![GitHub Repo Stars](https://img.shields.io/github/stars/jorgeas80/angular2-webpack-toh) ![GitHub last commit](https://img.shields.io/github/last-commit/jorgeas80/angular2-webpack-toh)](https://github.com/jorgeas80/angular2-webpack-toh)
-* [Angular Builders ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+* [Webpack](https://webpack.js.org)
+* [ESBuild](https://esbuild.github.io/)
+* [Nx ![GitHub Repo Stars](https://img.shields.io/github/stars/nrwl/nx) ![GitHub last commit](https://img.shields.io/github/last-commit/nrwl/nx)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+* [Angular Builders ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
+* [Jest Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
+* [Custom Webpack ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+* [Custom ESBuild ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration. 
+* [Bazel ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
+* [Timestamp ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
+* [ngx-build-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/manfredsteyer/ngx-build-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/manfredsteyer/ngx-build-plus)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
+* [ng-process-env ![GitHub Repo Stars](https://img.shields.io/github/stars/danduh/ng-process-env) ![GitHub last commit](https://img.shields.io/github/last-commit/danduh/ng-process-env)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
+* [ngx-electronify ![GitHub Repo Stars](https://img.shields.io/github/stars/bampakoa/ngx-electronify) ![GitHub last commit](https://img.shields.io/github/last-commit/bampakoa/ngx-electronify)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+* [dotenv-run ![GitHub Repo Stars](https://img.shields.io/github/stars/chihab/dotenv-run) ![GitHub last commit](https://img.shields.io/github/last-commit/chihab/dotenv-run)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+* [ng-packagr ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-packagr/ng-packagr) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-packagr/ng-packagr)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 
 #### YouTube Channels
 
-* [YouTube](https://www.youtube.com/@procademy) - Procademy
-* [YouTube](https://www.youtube.com/@MonsterlessonsAcademy) - Monsterlessons Academy
-* [YouTube](https://www.youtube.com/@JoshuaMorony) - Joshua Morony
-* [YouTube](https://www.youtube.com/@NihiraTechiees) - Nihira Techiees
-* [YouTube](https://www.youtube.com/@AngularUniversity) - Angular University
-* [YouTube](https://www.youtube.com/@RainerHahnekamp) - Rainer Hahnekamp
-* [YouTube](https://www.youtube.com/@CodeShotsWithProfanis) - Code Shots With Profanis 
-* [YouTube](https://www.youtube.com/@deborah_kurata) - Deborah Kurata
-* [YouTube](https://www.youtube.com/@BrandonRobertsDev) - BrandonRobertsDev
-* [YouTube](https://www.youtube.com/@DecodedFrontend) - Decoded Frontend
-* [YouTube](https://www.youtube.com/@galaxies_dev) - Galaxies_dev
+* [Procademy](https://www.youtube.com/@procademy) 
+* [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+* [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
+* [Nihira Techiees](https://www.youtube.com/@NihiraTechiees)
+* [Angular University](https://www.youtube.com/@AngularUniversity)
+* [Rainer Hahnekamp](https://www.youtube.com/@RainerHahnekamp)
+* [Code Shots With Profanis](https://www.youtube.com/@CodeShotsWithProfanis) 
+* [Deborah Kurata](https://www.youtube.com/@deborah_kurata)
+* [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
+* [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
+* [Galaxies_dev](https://www.youtube.com/@galaxies_dev)
 
 #### Style Guides
 
@@ -293,6 +301,7 @@ Table of contents:
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
+* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 
 #### Online Training
 
@@ -303,6 +312,7 @@ You Need
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
 become an Angular expert
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
+* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 
 #### Integrations
 
@@ -607,6 +617,14 @@ become an Angular expert
 * [ng-portal ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-portal) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-portal)](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
 * [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
 * [ng-generic-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-generic-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-generic-pipe)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
+
+#### RxJS
+
+* [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
+* [learn-rxjs ![GitHub Repo Stars](https://img.shields.io/github/stars/btroncone/learn-rxjs) ![GitHub last commit](https://img.shields.io/github/last-commit/btroncone/learn-rxjs)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
+* [rxjs-course ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-university/rxjs-course) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-university/rxjs-course)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+* [redux-observable ![GitHub Repo Stars](https://img.shields.io/github/stars/redux-observable/redux-observable) ![GitHub last commit](https://img.shields.io/github/last-commit/redux-observable/redux-observable)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+* [rxjs-challenge ![GitHub Repo Stars](https://img.shields.io/github/stars/AngularWave/rxjs-challenge) ![GitHub last commit](https://img.shields.io/github/last-commit/AngularWave/rxjs-challenge)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 
 #### TypeScript 
 
