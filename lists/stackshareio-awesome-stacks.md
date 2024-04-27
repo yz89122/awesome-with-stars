@@ -175,7 +175,7 @@ A Nextjs Boilerplate code for creating a blog. The perfect solution to start a b
 
 ## Full stack
 
-### MERN: Mongo Express React Node [���](https://awesomestacks.dev/mern-mongo-express-react-node)
+### MERN: Mongo Express React Node [↗](https://awesomestacks.dev/mern-mongo-express-react-node)
 
 MERN stands for MongoDB, Express, React, Node. The four key technologies that make up the stack.
 
