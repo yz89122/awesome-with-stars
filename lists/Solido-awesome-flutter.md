@@ -419,7 +419,7 @@ Meteo
 
 ### Storage
 
-- [Sqflite ![GitHub Repo Stars](https://img.shields.io/github/stars/tekartik/sqflite) ![GitHub last commit](https://img.shields.io/github/last-commit/tekartik/sqflite)](https://github.com/tekartik/sqflite) [2790⭐] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+- [Sqflite ![GitHub Repo Stars](https://img.shields.io/github/stars/tekartik/sqflite) ![GitHub last commit](https://img.shields.io/github/last-commit/tekartik/sqflite)](https://github.com/tekartik/sqflite) [2790��] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [Moor ![GitHub Repo Stars](https://img.shields.io/github/stars/simolus3/moor) ![GitHub last commit](https://img.shields.io/github/last-commit/simolus3/moor)](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
 Simon Binder](https://github.com/simolus3)
 

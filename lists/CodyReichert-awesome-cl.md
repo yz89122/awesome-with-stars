@@ -510,7 +510,7 @@ Game Development
 Utilities:
 
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad) - Access to gamepads and joysticks on Windows, Mac OS, and Linux. [zlib][33].
-* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3 decoding and cross-platform audio output. [zlib][33].
+* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3��decoding and cross-platform audio output. [zlib][33].
 
 Graphics
 ========
@@ -716,7 +716,7 @@ For strings:
 CLOS extensions
 ---------------
 
-* ⭐ [closer-mop ![GitHub Repo Stars](https://img.shields.io/github/stars/pcostanza/closer-mop) ![GitHub last commit](https://img.shields.io/github/last-commit/pcostanza/closer-mop)](https://github.com/pcostanza/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
+* �� [closer-mop ![GitHub Repo Stars](https://img.shields.io/github/stars/pcostanza/closer-mop) ![GitHub last commit](https://img.shields.io/github/last-commit/pcostanza/closer-mop)](https://github.com/pcostanza/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [specialization-store ![GitHub Repo Stars](https://img.shields.io/github/stars/markcox80/specialization-store) ![GitHub last commit](https://img.shields.io/github/last-commit/markcox80/specialization-store)](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
 * [filtered-functions ![GitHub Repo Stars](https://img.shields.io/github/stars/pcostanza/filtered-functions) ![GitHub last commit](https://img.shields.io/github/last-commit/pcostanza/filtered-functions)](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT][200].
 * [inlined-generic-function ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/inlined-generic-function) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/inlined-generic-function)](https://github.com/guicho271828/inlined-generic-function) -
