@@ -1369,7 +1369,7 @@ _Resources to help bring video games and game engines alive._
 - 💸 [Flaticon](https://www.flaticon.com) - Quality vector icons and stickers.
 - 💸 [Freepik](https://www.freepik.com) - Illustrations, photos, icons and presentation templates.
 - 🆓 [Kenny](https://www.kenney.nl/assets) 🔥 - 2D/3D CC0 1.0 game graphics and other assets.
-- 🆓 [Open Game Art](https://opengameart.org) - Portal for free / public domain game art online.
+- ���� [Open Game Art](https://opengameart.org) - Portal for free / public domain game art online.
 - 🆓 [Top Free Game Assets](https://itch.io/game-assets/free) - Top free game assets listed on _itch.io_.
 
 ### Material Assets
