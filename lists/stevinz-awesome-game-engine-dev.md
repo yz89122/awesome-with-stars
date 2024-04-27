@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    - 🔒 [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    - ��� [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
     - 🎉 [LeoECS ![GitHub Repo Stars](https://img.shields.io/github/stars/Leopotam/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/Leopotam/ecs)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to _Unity_.
 - C#: Game Engine w/Editor
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
@@ -639,7 +639,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Go: Geometry
     - 🎉 [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
 - Go: Graphics
-    - �� [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
+    - 🎉 [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
 ### Haxe
 - 📚 [Awesome Haxe ![GitHub Repo Stars](https://img.shields.io/github/stars/nadako/awesome-haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/nadako/awesome-haxe)](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.

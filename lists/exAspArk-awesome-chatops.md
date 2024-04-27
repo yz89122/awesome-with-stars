@@ -32,7 +32,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 * [ChatOps at GitHub](https://www.youtube.com/watch?v=NST3u-GjjFw) + [slides](https://speakerdeck.com/jnewland/chatops-at-github) – The first public talk on the subject by Jesse Newland.
 * [ChatOps: Technology and Philosophy](https://www.youtube.com/watch?v=IhzxnY7FIvg) – James Fryman of Stackstorm about the philosophy, best practices for implementing and maintaining ChatOps.
-* [The Rise of ChatOps](https://www.youtube.com/watch?v=6D5HgI4IH10) + [slides](https://speakerdeck.com/jimmycuadra/the-rise-of-chatops) – From the first ChatOps San Francisco meetup by Jimmy Cuadra.
+* [The Rise of ChatOps](https://www.youtube.com/watch?v=6D5HgI4IH10) + [slides](https://speakerdeck.com/jimmycuadra/the-rise-of-chatops) ��� From the first ChatOps San Francisco meetup by Jimmy Cuadra.
 * [ChatOps: Augmented Reality for Ops](https://www.youtube.com/watch?v=pCVvYCjvoZI) – How Github use chat to improve situational awareness during incidents, to share knowledge, to coordinate activities, and much more.
 * [Living in the Future with ChatOps](https://www.youtube.com/watch?v=Heo5YtRikds) + [slides](https://speakerdeck.com/esigler/living-in-the-future-with-chatops) – A quick summary of PagerDuty's ChatOps journey by Eric Sigler.
 * [Incident Management from the Future](https://www.youtube.com/watch?v=vFkfMn2P8ysA) + [slides](https://cloud.app.box.com/s/xm8ni5b61iyuk0nclq7jcvtkhkzcepdx) – How Michael Ansel manages incidents via chat at Box.
