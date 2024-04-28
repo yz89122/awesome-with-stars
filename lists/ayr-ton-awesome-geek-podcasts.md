@@ -260,7 +260,7 @@ A curated list of podcasts we like to listen to.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento técnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
 * [Podtrash](http://www.td1p.com/) - Um podcast sobre filmes trash, feito por adoradores do trash.
-* [Quero Ouvir (Coisa de Nerd – Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
+* [Quero Ouvir (Coisa de Nerd �� Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
 * [Quebradev](https://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
