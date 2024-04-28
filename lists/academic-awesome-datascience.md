@@ -351,6 +351,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [pyGAM ![GitHub Repo Stars](https://img.shields.io/github/stars/dswah/pyGAM) ![GitHub last commit](https://img.shields.io/github/last-commit/dswah/pyGAM)](https://github.com/dswah/pyGAM)
 * [Deepchecks ![GitHub Repo Stars](https://img.shields.io/github/stars/deepchecks/deepchecks) ![GitHub last commit](https://img.shields.io/github/last-commit/deepchecks/deepchecks)](https://github.com/deepchecks/deepchecks)
 * [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
+* [interpretable](https://pypi.org/project/interpretable)
 
 ### Deep Learning Packages
 
