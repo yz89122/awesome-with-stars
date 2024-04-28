@@ -637,7 +637,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - A 2D game framework.
     - 🎉 [Pixel ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel)](https://github.com/faiface/pixel) - Hand-crafted 2D game library. [[Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel-examples)](https://github.com/faiface/pixel-examples)]
 - Go: Geometry
-    - 🎉 [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
+    - �� [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
 - Go: Graphics
     - 🎉 [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
