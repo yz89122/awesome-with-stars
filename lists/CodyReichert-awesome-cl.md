@@ -432,7 +432,7 @@ Foreign Function Interface, languages interop
 
 ## C ##
 
-* ��� [CFFI ![GitHub Repo Stars](https://img.shields.io/github/stars/cffi/cffi) ![GitHub last commit](https://img.shields.io/github/last-commit/cffi/cffi)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14].
+* ⭐ [CFFI ![GitHub Repo Stars](https://img.shields.io/github/stars/cffi/cffi) ![GitHub last commit](https://img.shields.io/github/last-commit/cffi/cffi)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14].
   * [cffi-ops ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/cffi-ops) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/cffi-ops)](https://github.com/bohonghuang/cffi-ops) - helps write concise CFFI-related code.
   * [cffi-objects ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/cffi-object) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/cffi-object)](https://github.com/bohonghuang/cffi-object) - enables fast and convenient interoperation with foreign objects.
 * 👍[cl-autowrap ![GitHub Repo Stars](https://img.shields.io/github/stars/rpav/cl-autowrap) ![GitHub last commit](https://img.shields.io/github/last-commit/rpav/cl-autowrap)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD][39].

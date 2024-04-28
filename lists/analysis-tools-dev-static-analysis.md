@@ -318,7 +318,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
-- [flawfinder](http://dwheeler.com/flawfinder/) �� Finds possible security weaknesses.
+- [flawfinder](http://dwheeler.com/flawfinder/) — Finds possible security weaknesses.
 
 - [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
@@ -1034,7 +1034,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
-- [styler](https://styler.r-lib.org) ��� Formatting of R source code files and pretty-printing of R code.
+- [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
 
 
 <a name="rego" />
