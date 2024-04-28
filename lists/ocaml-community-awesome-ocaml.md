@@ -271,7 +271,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
     - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
     - [ocp-index-top ![GitHub Repo Stars](https://img.shields.io/github/stars/reynir/ocp-index-top) ![GitHub last commit](https://img.shields.io/github/last-commit/reynir/ocp-index-top)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
-  - [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
+  - [ocp-indent](http://www.typerex.org/ocp-indent.html) �� Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/def-lkb/ocp-indent-vim) ![GitHub last commit](https://img.shields.io/github/last-commit/def-lkb/ocp-indent-vim)](https://github.com/def-lkb/ocp-indent-vim).
 - **Code coverage**:
   - [Bisect_ppx ![GitHub Repo Stars](https://img.shields.io/github/stars/aantron/bisect_ppx) ![GitHub last commit](https://img.shields.io/github/last-commit/aantron/bisect_ppx)](https://github.com/aantron/bisect_ppx)

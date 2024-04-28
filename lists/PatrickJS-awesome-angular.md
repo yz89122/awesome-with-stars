@@ -97,6 +97,7 @@ Table of contents:
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/maartentibau/angular-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/maartentibau/angular-logos)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [madewithangular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
+* [angular.love](https://angular.love/) - Polish community for Angular fans
 
 #### Angular Team on Twitter
 
@@ -182,6 +183,7 @@ Table of contents:
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
+* [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular 
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
 * [Chau Tran](https://nartc.me/)
@@ -198,6 +200,7 @@ Table of contents:
 * [ng-web-apis ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-web-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-web-apis)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular
 * [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new ssr package built into the framework.   
 * [angular-prerender ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-prerender) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-prerender)](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
+* [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 
 #### Material Design
 
@@ -207,13 +210,11 @@ Table of contents:
 #### Cheatsheet
 
 * [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
-* [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [Angular Dart cheatsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/andresaraujo/angular2_cheatsheet_dart) ![GitHub last commit](https://img.shields.io/github/last-commit/andresaraujo/angular2_cheatsheet_dart)](https://github.com/andresaraujo/angular2_cheatsheet_dart)
-* [Angular Performance Checklist ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/angular-performance-checklist) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/angular-performance-checklist)](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers ![GitHub Repo Stars](https://img.shields.io/github/stars/sudheerj/angular-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/sudheerj/angular-interview-questions)](https://github.com/sudheerj/angular-interview-questions)
-* [Angular References](https://ngrefs.com)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
-* [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
+* [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
+* [Angular Checklist ![GitHub Repo Stars](https://img.shields.io/github/stars/typebytes/angular-checklist) ![GitHub last commit](https://img.shields.io/github/last-commit/typebytes/angular-checklist)](https://github.com/typebytes/angular-checklist) 
+* [ZeroToMaster Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 
 ##### Testing
 
@@ -502,6 +503,7 @@ become an Angular expert
 * [ngx-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-progressbar)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [@dotglitch/ngx-lazy-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-lazy-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-lazy-loader)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-lazy-load-component) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-lazy-load-component)](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
+* [ngx-loading-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/aitboudad/ngx-loading-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/aitboudad/ngx-loading-bar)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 
 #### Maps
 
