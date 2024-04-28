@@ -318,7 +318,7 @@ You can see in which language an app is written. Currently there are following l
 ### Editors
 - [AuroraEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/AuroraEditor/AuroraEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - [Chime ![GitHub Repo Stars](https://img.shields.io/github/stars/ChimeHQ/Chime) ![GitHub last commit](https://img.shields.io/github/last-commit/ChimeHQ/Chime)](https://github.com/ChimeHQ/Chime) - An editor for macOS ![swift_icon] 
-- [CodeEdit ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeEditApp/CodeEdit) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeEditApp/CodeEdit)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS ��� Elevate your code editing experience. Open source, free forever. ![swift_icon] 
+- [CodeEdit ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeEditApp/CodeEdit) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeEditApp/CodeEdit)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
 - [Geany ![GitHub Repo Stars](https://img.shields.io/github/stars/geany/geany) ![GitHub last commit](https://img.shields.io/github/last-commit/geany/geany)](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. ![c_icon] ![c++_icon] 
 
 #### CSV
