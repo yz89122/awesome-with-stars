@@ -580,7 +580,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
   1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) —     Tips for immersive video calls
   1. [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
-  1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
+  1. [Whereby](https://whereby.com) ��� Browser-based, plugin-less group video calls.
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
   1. [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
   1. [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
