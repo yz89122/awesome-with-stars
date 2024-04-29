@@ -328,7 +328,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Waters of the World: the story of the scientists who unravelled the mysteries of our seas, glaciers, and atmosphere and made the planet whole | Sarah Dry | [3.65](https://www.goodreads.com/book/show/43389003-waters-of-the-world) | 2019 |
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-���-blue"/></a>
 
 ## Logic and Problem Solving
 | Name | Author | Goodreads Rating | Year Published |
