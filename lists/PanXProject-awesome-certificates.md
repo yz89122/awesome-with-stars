@@ -107,7 +107,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [REST API](https://www.hackerrank.com/skills-verification/rest_api_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [MongoDB Basics](https://university.mongodb.com/courses/M001/about) | MongoDB |Beginner| 8.5 | 🏆|
 | [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about) | MongoDB |Beginner| 2 | 🏆|
-| [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | 🏆|
+| [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | ����|
 | [MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) | MongoDB |Beginner| 9 | 🏆|
 | [Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) | MongoDB |Beginner| 1.5 | 🏆|
 | [Atlas Security](https://university.mongodb.com/courses/A300/about) | MongoDB |Beginner| 0.5 | 🏆|
@@ -320,7 +320,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | ����     |
+| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
 

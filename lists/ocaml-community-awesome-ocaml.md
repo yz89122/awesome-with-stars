@@ -372,7 +372,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Logging
 
-- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) ��� A dumb OCaml logger.
+- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt ![GitHub Repo Stars](https://img.shields.io/github/stars/codinuum/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/codinuum/volt)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
@@ -391,7 +391,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Messaging
 
-- [ocaml-zmq ![GitHub Repo Stars](https://img.shields.io/github/stars/issuu/ocaml-zmq) ![GitHub last commit](https://img.shields.io/github/last-commit/issuu/ocaml-zmq)](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml with Async and Lwt wrappers.
+- [ocaml-zmq ![GitHub Repo Stars](https://img.shields.io/github/stars/issuu/ocaml-zmq) ![GitHub last commit](https://img.shields.io/github/last-commit/issuu/ocaml-zmq)](https://github.com/issuu/ocaml-zmq) �� ZeroMQ bindings for OCaml with Async and Lwt wrappers.
 - [onanomsg ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/onanomsg) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/onanomsg)](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 - [Kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/didier-wenzek/ocaml-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/didier-wenzek/ocaml-kafka)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 - [AMQP ![GitHub Repo Stars](https://img.shields.io/github/stars/andersfugmann/amqp-client) ![GitHub last commit](https://img.shields.io/github/last-commit/andersfugmann/amqp-client)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
