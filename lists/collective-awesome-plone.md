@@ -155,6 +155,7 @@ _Add-ons that handle image, video and audio content._
 
 * [collective.explicitacquisition ![GitHub Repo Stars](https://img.shields.io/github/stars/collective/collective.explicitacquisition) ![GitHub last commit](https://img.shields.io/github/last-commit/collective/collective.explicitacquisition)](https://github.com/collective/collective.explicitacquisition) - Disallow access to acquired content outside the current path.
 * [collective.geotransform ![GitHub Repo Stars](https://img.shields.io/github/stars/collective/collective.geotransform) ![GitHub last commit](https://img.shields.io/github/last-commit/collective/collective.geotransform)](https://github.com/collective/collective.geotransform) - Graceful E-mail Obfuscation for Plone.
+* [collective.contactformprotection ![GitHub Repo Stars](https://img.shields.io/github/stars/collective/collective.contactformprotection) ![GitHub last commit](https://img.shields.io/github/last-commit/collective/collective.contactformprotection)](https://github.com/collective/collective.contactformprotection) - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
 
 ## SEO
 
