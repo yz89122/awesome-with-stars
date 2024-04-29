@@ -2166,7 +2166,8 @@ _Date / datetime / time Picker_
 - [vue-drag-drop-snap ![GitHub Repo Stars](https://img.shields.io/github/stars/mrfade/vue-drag-drop-snap) ![GitHub last commit](https://img.shields.io/github/last-commit/mrfade/vue-drag-drop-snap)](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
 - [vue3-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/hcg1023/vue3-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/hcg1023/vue3-dnd)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 - [sortablejs-vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxLeiter/sortablejs-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxLeiter/sortablejs-vue3)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
-
+- [vue-fluid-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosjorger/vue-fluid-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosjorger/vue-fluid-dnd)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+  
 ##### Autocomplete
 
 _Autosuggest / autocomplete / typeahead_
