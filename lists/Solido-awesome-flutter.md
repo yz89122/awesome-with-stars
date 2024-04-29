@@ -303,7 +303,7 @@ Meteo
 
 ### Internationalization
 
-- [GenLang ![GitHub Repo Stars](https://img.shields.io/github/stars/KingWu/gen_lang) ![GitHub last commit](https://img.shields.io/github/last-commit/KingWu/gen_lang)](https://github.com/KingWu/gen_lang) [99��] - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+- [GenLang ![GitHub Repo Stars](https://img.shields.io/github/stars/KingWu/gen_lang) ![GitHub last commit](https://img.shields.io/github/last-commit/KingWu/gen_lang)](https://github.com/KingWu/gen_lang) [99⭐] - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
 - [Flutter Translate ![GitHub Repo Stars](https://img.shields.io/github/stars/bratan/flutter_translate) ![GitHub last commit](https://img.shields.io/github/last-commit/bratan/flutter_translate)](https://github.com/bratan/flutter_translate) [384⭐] - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 - [attranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/fkirc/attranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/fkirc/attranslate)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
 
