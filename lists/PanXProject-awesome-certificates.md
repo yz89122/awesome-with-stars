@@ -203,7 +203,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Elements of AI](https://www.elementsofai.com/) | University of Helsinki | Beginner |30 | 🏆|
-| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | Intermediate | 4 | 🏆  |
+| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | Intermediate | 4 | ��  |
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
 | [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
 | [Introduction to Artificial Intelligence](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1) | Great Learning | Beginner|  1.5 | 🏆 |
