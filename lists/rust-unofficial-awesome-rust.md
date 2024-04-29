@@ -376,7 +376,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 ### Payments
 
-* [hyperswitch ![GitHub Repo Stars](https://img.shields.io/github/stars/juspay/hyperswitch) ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+* [hyperswitch ![GitHub Repo Stars](https://img.shields.io/github/stars/juspay/hyperswitch) ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch)](https://github.com/juspay/hyperswitch) �� An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ### Productivity
 
