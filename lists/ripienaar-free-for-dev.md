@@ -1459,7 +1459,7 @@ Update Time, five active automations, webhooks.
   * [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
   * [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
   * [Circum Icons](https://circumicons.com) - Consistent open-source icons such as SVG for React, Vue, and Svelte.
-  * [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
+  * [clevebrush.com](https://www.cleverbrush.com/) ��� Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
   * [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. Two hundred eight supported formats including videos and gifs.
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
   * [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
