@@ -176,7 +176,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [����](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
+| [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
