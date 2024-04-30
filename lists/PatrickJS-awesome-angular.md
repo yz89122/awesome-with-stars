@@ -294,8 +294,8 @@ Table of contents:
 
 #### Style Guides
 
-* [Official Angular style guide](https://angular.io/guide/styleguide)
-* [Shared TSLint & codelyzer rules by fulls1z3 ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-seed/angular-tslint-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-seed/angular-tslint-rules)](https://github.com/ng-seed/angular-tslint-rules)
+* [Official Angular style guide](https://angular.dev/style-guide#)
+* [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 
 #### Books
 
@@ -427,7 +427,7 @@ become an Angular expert
 * [angular-calendar-scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/michelebombardi/angular-calendar-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/michelebombardi/angular-calendar-scheduler)](https://github.com/michelebombardi/angular-calendar-scheduler) - A scheduler view component for angular-calendar
 * [ng-fullcalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-fullcalendar/ng-fullcalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-fullcalendar/ng-fullcalendar)](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular
 * [fullcalendar-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/fullcalendar/fullcalendar-angular)](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
-* [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤���
+* [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️
 
 #### Charts
 
@@ -580,16 +580,16 @@ become an Angular expert
 
 ##### Material Based
 
-* [@angular-material-extensions/contacts ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/contacts) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/contacts)](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
-* [@angular-material-extensions/faq ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/faq) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/faq)](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
-* [@angular-material-extensions/google-maps-autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/google-maps-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/google-maps-autocomplete)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
-* [@angular-material-extensions/link-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/link-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/link-preview)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
-* [@angular-material-extensions/pages ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/pages) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/pages)](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-* [@angular-material-extensions/password-strength ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/password-strength) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/password-strength)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
-* [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
-* [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
-* [Material 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/material2) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/material2)](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-* [Teradata covalent ![GitHub Repo Stars](https://img.shields.io/github/stars/Teradata/covalent) ![GitHub last commit](https://img.shields.io/github/last-commit/Teradata/covalent)](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
+* [Covalent ![GitHub Repo Stars](https://img.shields.io/github/stars/Teradata/covalent) ![GitHub last commit](https://img.shields.io/github/last-commit/Teradata/covalent)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
+* [IgniteUI Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/IgniteUI/igniteui-angular)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+* [Alyle UI ![GitHub Repo Stars](https://img.shields.io/github/stars/A-l-y-l-e/Alyle-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/A-l-y-l-e/Alyle-UI)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
+* [angular-material-extensions](https://github.com/angular-material-extensions)
+* [angular-material-extensions/google-maps-autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/google-maps-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/google-maps-autocomplete)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
+* [angular-material-extensions/select-country ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/select-country) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/select-country)](https://github.com/angular-material-extensions/select-country)
+* [angular-material-extensions/password-strength ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/password-strength) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/password-strength)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
+* [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
+* [angular material components ![GitHub Repo Stars](https://img.shields.io/github/stars/h2qutc/angular-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/h2qutc/angular-material-components)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+* [angular components ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
 ##### Bootstrap Based
 
