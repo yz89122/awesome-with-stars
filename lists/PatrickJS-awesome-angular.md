@@ -193,6 +193,12 @@ Table of contents:
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular 
+* [angular in depth](https://angularindepth.com/)
+* [angularminds](https://www.angularminds.com/blog)
+* [angulararchitects](https://www.angulararchitects.io/en/blog/)
+* [house of angular](https://houseofangular.io/blog/)
+* [thisdot labs](https://www.thisdot.co/blog?tags=angular)
+* [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
 * [Chau Tran](https://nartc.me/)
@@ -421,7 +427,7 @@ become an Angular expert
 * [angular-calendar-scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/michelebombardi/angular-calendar-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/michelebombardi/angular-calendar-scheduler)](https://github.com/michelebombardi/angular-calendar-scheduler) - A scheduler view component for angular-calendar
 * [ng-fullcalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-fullcalendar/ng-fullcalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-fullcalendar/ng-fullcalendar)](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular
 * [fullcalendar-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/fullcalendar/fullcalendar-angular)](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
-* [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️
+* [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤���
 
 #### Charts
 
