@@ -635,7 +635,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Go: Game Framework
     - 🎉 [Ebitengine ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/ebiten) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/ebiten)](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library.
     - 🎉 [Engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - A 2D game framework.
-    - ��� [Pixel ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel)](https://github.com/faiface/pixel) - Hand-crafted 2D game library. [[Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel-examples)](https://github.com/faiface/pixel-examples)]
+    - 🎉 [Pixel ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel)](https://github.com/faiface/pixel) - Hand-crafted 2D game library. [[Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel-examples)](https://github.com/faiface/pixel-examples)]
 - Go: Geometry
     - 🎉 [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
 - Go: Graphics
@@ -650,7 +650,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Animation
     - 🎉 [Actuate ![GitHub Repo Stars](https://img.shields.io/github/stars/jgranick/actuate) ![GitHub last commit](https://img.shields.io/github/last-commit/jgranick/actuate)](https://github.com/jgranick/actuate) - Flexible, fast tween library.
     - 🎉 [DragonBones ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/dragonbones) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/dragonbones)](https://github.com/openfl/dragonbones) - Runtime support for _DragonBones_ skeletal animation.
-    - �� [Spine-Hx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyfa/spine-hx) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyfa/spine-hx)](https://github.com/jeremyfa/spine-hx) - _Spine_ runtime for Haxe.
+    - 🎉 [Spine-Hx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyfa/spine-hx) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyfa/spine-hx)](https://github.com/jeremyfa/spine-hx) - _Spine_ runtime for Haxe.
 - Haxe: App Framework
     - 🎉 [Lime ![GitHub Repo Stars](https://img.shields.io/github/stars/haxelime/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/haxelime/lime)](https://github.com/haxelime/lime) - Flexible, lightweight layer for Haxe cross-platform developers.
     - 🎉 [nme ![GitHub Repo Stars](https://img.shields.io/github/stars/haxenme/nme) ![GitHub last commit](https://img.shields.io/github/last-commit/haxenme/nme)](https://github.com/haxenme/nme) - Cross-platform native backend for Haxe projects.
@@ -1017,7 +1017,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### Zig
 - 📚 [Awesome Zig ![GitHub Repo Stars](https://img.shields.io/github/stars/nrdmn/awesome-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/nrdmn/awesome-zig)](https://github.com/nrdmn/awesome-zig) - Curated list of Zig code and resources.
 - 🌎 [Zig](https://ziglang.org/) - General-purpose language and toolchain. [[Docs](https://ziglang.org/documentation/master/) | [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/michal-z/zig) ![GitHub last commit](https://img.shields.io/github/last-commit/michal-z/zig)](https://github.com/michal-z/zig)]
-- �� [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
+- 🌎 [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
 - 📚 [Ziglings ![GitHub Repo Stars](https://img.shields.io/github/stars/ratfactor/ziglings) ![GitHub last commit](https://img.shields.io/github/last-commit/ratfactor/ziglings)](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
