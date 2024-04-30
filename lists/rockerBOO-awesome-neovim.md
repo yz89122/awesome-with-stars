@@ -986,6 +986,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [karb94/neoscroll.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karb94/neoscroll.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karb94/neoscroll.nvim)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 - [declancm/cinnamon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 - [nkakouros-original/scrollofffraction.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nkakouros-original/scrollofffraction.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nkakouros-original/scrollofffraction.nvim)](https://github.com/nkakouros-original/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+- [niuiic/scroll.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/scroll.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/scroll.nvim)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
 
 ### Scrollbar
 
