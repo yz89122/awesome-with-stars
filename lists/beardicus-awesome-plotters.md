@@ -17,10 +17,11 @@ A curated list of code and resources for computer-controlled drawing machines an
   - [Vector Utilities](#vector-utilities)
   - [Fonts](#fonts)
 - [Inspiration, Instruction, and Research](#inspiration-instruction-and-research)
-- [Manuals, Ephemera, and Papers](#manuals-ephemera-and-papers)
+- [Manuals, Ephemera, Papers, and Patents](#manuals-ephemera-papers-and-patents)
   - [Manuals](#manuals)
   - [Ephemera](#ephemera)
   - [Papers](#papers)
+  - [Patents](#patents)
 - [Community](#community)
 - [Plotter Art For Sale](#plotter-art-for-sale)
 - [Other Awesomes](#other-awesomes)
@@ -176,6 +177,7 @@ Single-line vector fonts or "engraving fonts".
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 - [hf2gcode ![GitHub Repo Stars](https://img.shields.io/github/stars/Andy1978/hf2gcode) ![GitHub last commit](https://img.shields.io/github/last-commit/Andy1978/hf2gcode)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
+- [FifteenTwenty: Commodore 1520 plotter font ![GitHub Repo Stars](https://img.shields.io/github/stars/scruss/FifteenTwenty) ![GitHub last commit](https://img.shields.io/github/last-commit/scruss/FifteenTwenty)](https://github.com/scruss/FifteenTwenty) – [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 
 ## Inspiration, Instruction, and Research
 
@@ -212,10 +214,13 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
 - [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 - [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
+- [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
+- [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) – Interview with Marcel, and lots of photos and videos of his work and workspace.
+- [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) – Interview with Lars Wander, plus art and videos.
 
-## Manuals, Ephemera, and Papers
+## Manuals, Ephemera, Papers, and Patents
 
-Scanned plotter manuals, marketing ephemera, and academic papers. Thank you to the [Internet Archive](https://archive.org) for most of these.
+Scanned plotter manuals, marketing ephemera, academic papers, and patents. Thank you to the [Internet Archive](https://archive.org) for most of these.
 
 ### Manuals
 
@@ -314,6 +319,10 @@ Sorted alphabetically by company name and product name.
 - [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) – Vera Molnar
 - [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
 - [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
+
+### Patents
+
+- [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
 
 ## Community
 
