@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
-    - ���� [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
+    - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
     - 🎉 [Nana ![GitHub Repo Stars](https://img.shields.io/github/stars/cnjinhao/nana) ![GitHub last commit](https://img.shields.io/github/last-commit/cnjinhao/nana)](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
     - ⭐ [Portable File Dialogs ![GitHub Repo Stars](https://img.shields.io/github/stars/samhocevar/portable-file-dialogs) ![GitHub last commit](https://img.shields.io/github/last-commit/samhocevar/portable-file-dialogs)](https://github.com/samhocevar/portable-file-dialogs) - Single-header C++11 native dialogs on Windows, macOS, and Linux.
@@ -599,7 +599,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D) ![GitHub last commit](https://img.shields.io/github/last-commit/tainicom/Aether.Physics2D)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
-    - 🎉 [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
+    - ��� [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks ![GitHub Repo Stars](https://img.shields.io/github/stars/Facepunch/Facepunch.Steamworks) ![GitHub last commit](https://img.shields.io/github/last-commit/Facepunch/Facepunch.Steamworks)](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
 
