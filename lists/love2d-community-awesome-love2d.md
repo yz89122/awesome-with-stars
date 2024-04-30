@@ -62,7 +62,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Animation
 *Animation & Frame-Managing Libraries*
 
-* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a L��ve backend.
+* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [anim8 ![GitHub Repo Stars](https://img.shields.io/github/stars/kikito/anim8) ![GitHub last commit](https://img.shields.io/github/last-commit/kikito/anim8)](https://github.com/kikito/anim8) - Animation library.
 * [animx ![GitHub Repo Stars](https://img.shields.io/github/stars/YoungNeer/animx) ![GitHub last commit](https://img.shields.io/github/last-commit/YoungNeer/animx)](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
 * [Aseprite loader ![GitHub Repo Stars](https://img.shields.io/github/stars/elloramir/love-ase) ![GitHub last commit](https://img.shields.io/github/last-commit/elloramir/love-ase)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
