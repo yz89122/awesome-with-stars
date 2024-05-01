@@ -450,7 +450,7 @@ Connect to various datasources and combine the data into a real-time GraphQL API
 
 - [Graphweaver](https://graphweaver.com/) - [🛠️](https://stackshare.io/graphweaver) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/exogee-technology/graphweaver) ![GitHub last commit](https://img.shields.io/github/last-commit/exogee-technology/graphweaver)](https://github.com/exogee-technology/graphweaver) - Data Everywhere - Instant GraphQL.
 - [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - The adminUI is built in React and can be extended.
-- [AWS Lambda](https://aws.amazon.com/lambda) - [���️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
+- [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
 - [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
 
 ##### Resources
