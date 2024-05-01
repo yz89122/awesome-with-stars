@@ -254,7 +254,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
 | [ChatGPT for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners) | Great Learning |Beginner| 2 | 🏆 |
-| [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | 🏆 |
+| [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | �� |
 
 
 
