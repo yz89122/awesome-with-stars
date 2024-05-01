@@ -3,6 +3,10 @@ A curated list of awesome JSON libraries and resources.
 
 Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list.
 
+[![Links ![GitHub Repo Stars](https://img.shields.io/github/stars/burningtree/awesome-json) ![GitHub last commit](https://img.shields.io/github/last-commit/burningtree/awesome-json)](https://github.com/burningtree/awesome-json/actions/workflows/links.yml/badge.svg)](https://github.com/burningtree/awesome-json/actions/workflows/links.yml)
+
+---
+
 * [Awesome JSON](#awesome-json)
   * [Applications](#applications)
   * [Binary Serialization](#binary-serialization)
@@ -40,7 +44,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
 
 **OS X**
-* [Visual JSON](https://apps.apple.com/us/app/visual-json/id488709442?mt=12) ([github ![GitHub Repo Stars](https://img.shields.io/github/stars/youknowone/VisualJSON) ![GitHub last commit](https://img.shields.io/github/last-commit/youknowone/VisualJSON)](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
+* [Visual JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/youknowone/VisualJSON) ![GitHub last commit](https://img.shields.io/github/last-commit/youknowone/VisualJSON)](https://github.com/youknowone/VisualJSON) - simple JSON pretty-viewer for Mac OS X. (inactive)
 * [JSONExport ![GitHub Repo Stars](https://img.shields.io/github/stars/Ahmed-Ali/JSONExport) ![GitHub last commit](https://img.shields.io/github/last-commit/Ahmed-Ali/JSONExport)](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
 ## Binary Serialization
@@ -107,7 +111,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 ## Datasets
 * [country.io](http://country.io/data/) - Various country related datasets, as JSON inc currency, country codes, names and more
 * [countries ![GitHub Repo Stars](https://img.shields.io/github/stars/mledoze/countries) ![GitHub last commit](https://img.shields.io/github/last-commit/mledoze/countries)](https://github.com/mledoze/countries) - World countries.
-* [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](https://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
 * [getCountries()](https://peric.github.io/GetCountries/) - Generator for custom Countries data.
@@ -149,7 +152,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JSON Activity Streams](https://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat ![GitHub Repo Stars](https://img.shields.io/github/stars/jsonstat/jsonstat) ![GitHub last commit](https://img.shields.io/github/last-commit/jsonstat/jsonstat)](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
-* [NDJSON](https://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
+* [NDJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/ndjson/ndjson-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/ndjson/ndjson-spec)](https://github.com/ndjson/ndjson-spec) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](https://surveyjs.io/form-library) - JSON based survey library.
 * [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
 * [J<sub>ack</sub>SON: JSON secret keeper ![GitHub Repo Stars](https://img.shields.io/github/stars/rosehgal/jackson) ![GitHub last commit](https://img.shields.io/github/last-commit/rosehgal/jackson)](https://github.com/rosehgal/jackson) - JSONic way of storing secrets in config file.
@@ -291,7 +294,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Exchange Rate API](https://www.exchangerate-api.com) - A simple and free API for currency exchange rate data.
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/afeld/jsonp) ![GitHub last commit](https://img.shields.io/github/last-commit/afeld/jsonp)](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
-* [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](https://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
 
@@ -359,7 +361,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JSONtoFoundation ![GitHub Repo Stars](https://img.shields.io/github/stars/fmscode/JSONtoFoundation) ![GitHub last commit](https://img.shields.io/github/last-commit/fmscode/JSONtoFoundation)](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
 * [fanci ![GitHub Repo Stars](https://img.shields.io/github/stars/liip/fanci) ![GitHub last commit](https://img.shields.io/github/last-commit/liip/fanci)](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 * [Pinch ![GitHub Repo Stars](https://img.shields.io/github/stars/Baggz/Pinch) ![GitHub last commit](https://img.shields.io/github/last-commit/Baggz/Pinch)](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
-* [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
+* [deepjson](https://www.npmjs.com/package/deepjson/) - A better way to load big json config files. (node.js)
 * [jsontl ![GitHub Repo Stars](https://img.shields.io/github/stars/DoublePrecisionSoftware/jsontl) ![GitHub last commit](https://img.shields.io/github/last-commit/DoublePrecisionSoftware/jsontl)](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/json-transforms) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/json-transforms)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
 * [normalizr ![GitHub Repo Stars](https://img.shields.io/github/stars/paularmstrong/normalizr) ![GitHub last commit](https://img.shields.io/github/last-commit/paularmstrong/normalizr)](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
