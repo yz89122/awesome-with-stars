@@ -141,7 +141,7 @@ Free
 
 ## MusaicFM
 
-> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+> A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
