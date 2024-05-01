@@ -510,7 +510,7 @@ Game Development
 Utilities:
 
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad) - Access to gamepads and joysticks on Windows, Mac OS, and Linux. [zlib][33].
-* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3��decoding and cross-platform audio output. [zlib][33].
+* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3 decoding and cross-platform audio output. [zlib][33].
 
 Graphics
 ========
@@ -611,7 +611,7 @@ Implementations
   * see also: [sbcl-librarian ![GitHub Repo Stars](https://img.shields.io/github/stars/quil-lang/sbcl-librarian) ![GitHub last commit](https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian)](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Tutorial](https://lispcookbook.github.io/cl-cookbook/dynamic-libraries.html).
   * [SBCL-GOODIES ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/sbcl-goodies) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/sbcl-goodies)](https://github.com/sionescu/sbcl-goodies) - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. [MIT][200].
   * [Nightly Windows builds of SBCL ![GitHub Repo Stars](https://img.shields.io/github/stars/olnw/sbcl-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/olnw/sbcl-builds)](https://github.com/olnw/sbcl-builds) -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/sbcl_bin) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/sbcl_bin)](https://github.com/roswell/sbcl_bin/releases/).
-* ⭐ [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
+* �� [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
   * [eclweb ![GitHub Repo Stars](https://img.shields.io/github/stars/chee/eclweb) ![GitHub last commit](https://img.shields.io/github/last-commit/chee/eclweb)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 * [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
