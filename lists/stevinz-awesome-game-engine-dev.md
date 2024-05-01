@@ -676,7 +676,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Graphics
     - 🎉 [Heaps ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps) 🔥 - Cross-platform 2D/3D engine (by creators of Haxe). [[Website](https://heaps.io)]
     - 🎉 [Kha ![GitHub Repo Stars](https://img.shields.io/github/stars/Kode/Kha) ![GitHub last commit](https://img.shields.io/github/last-commit/Kode/Kha)](https://github.com/Kode/Kha) - Ultra-portable, high-performance multimedia framework.
-    - 🎉 [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
+    - �� [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
 - Haxe: Gui
     - 🎉 [HaxeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/haxeui/haxeui-core) ![GitHub last commit](https://img.shields.io/github/last-commit/haxeui/haxeui-core)](https://github.com/haxeui/haxeui-core) - Cross-platform set of styleable gui components.
     - 🎉 [Zui ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/zui) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/zui)](https://github.com/armory3d/zui) - Immediate mode user interface, used in _ArmorPaint_.
