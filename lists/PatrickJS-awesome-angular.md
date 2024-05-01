@@ -713,6 +713,9 @@ become an Angular expert
 * [ngrx-store-localstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/btroncone/ngrx-store-localstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/btroncone/ngrx-store-localstorage)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between @ngrx store and local storage.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
+* [ngrx-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/ngrx-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/ngrx-toolkit)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store
+* [ngrx-traits ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielguerrero/ngrx-traits) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielguerrero/ngrx-traits)](https://github.com/gabrielguerrero/ngrx-traits) - NGRX Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
+* [ngrx-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/Michsior14/ngrx-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/Michsior14/ngrx-addons)](https://github.com/Michsior14/ngrx-addons) - A collection of @ngrx addons, including state persistence.
 
 #### Deployment
 
