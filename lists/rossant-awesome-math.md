@@ -278,7 +278,7 @@ All resources are freely available except those with a 💲 icon.
 ### Analytic Number Theory
 
 * 📝 [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
-* ���� [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
+* 📝 [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * 📝 [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
 * 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
@@ -362,7 +362,7 @@ All resources are freely available except those with a 💲 icon.
 ## Geometry and Topology
 
 * 📝 [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
-* 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+* �� [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
@@ -461,7 +461,7 @@ All resources are freely available except those with a 💲 icon.
 ### Complex Analysis
 
 * 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
-* 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
+* �� [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
