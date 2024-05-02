@@ -99,6 +99,7 @@ Table of contents:
 * [angular-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/maartentibau/angular-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/maartentibau/angular-logos)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [madewithangular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 * [angular.love](https://angular.love/) - Polish community for Angular fans
+* [angular hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities
 
 #### Newsletters
 
@@ -443,6 +444,7 @@ become an Angular expert
 * [systelab-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/systelab/systelab-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/systelab/systelab-charts)](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services
 * [ngx-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/worktile/ngx-gantt) ![GitHub last commit](https://img.shields.io/github/last-commit/worktile/ngx-gantt)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular
 * [carbon-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-charts)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
+* [dag ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dag) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dag)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
 #### Drag/Drop
 
@@ -494,6 +496,7 @@ become an Angular expert
 * [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
 * [formio ![GitHub Repo Stars](https://img.shields.io/github/stars/formio/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/formio/angular)](https://github.com/formio/angular) - JSON powered forms for Angular.
 * [ng-dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/udos86/ng-dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/udos86/ng-dynamic-forms)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
+* [reactive-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/reactive-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/reactive-forms)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 #### Icons
 
@@ -503,6 +506,7 @@ become an Angular expert
 * [ng-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-icons/ng-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-icons/ng-icons)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
 * [primeicons ![GitHub Repo Stars](https://img.shields.io/github/stars/primefaces/primeicons) ![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/primeicons)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 * [angular-svg-icon ![GitHub Repo Stars](https://img.shields.io/github/stars/czeckd/angular-svg-icon) ![GitHub last commit](https://img.shields.io/github/last-commit/czeckd/angular-svg-icon)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+* [svg-icon ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/svg-icon) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/svg-icon)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 #### Keyboard Mouse
 
@@ -510,6 +514,7 @@ become an Angular expert
 * [angular2-hotkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/brtnshrdr/angular2-hotkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/brtnshrdr/angular2-hotkeys)](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps
 * [virtual-keyboard-javascript ![GitHub Repo Stars](https://img.shields.io/github/stars/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io)](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, Vue
 * [angular-touch-keyboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mohsen77sk/angular-touch-keyboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mohsen77sk/angular-touch-keyboard)](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
+* [hotkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/hotkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/hotkeys)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 
 #### Layout Components
 
@@ -519,6 +524,7 @@ become an Angular expert
 * [ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/orizens/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/orizens/ngx-infinite-scroll)](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
 * [egjs-infinitegrid ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-infinitegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-infinitegrid)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 * [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`)
+* [overview ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/overview) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/overview)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 
 #### Loaders
 
@@ -527,6 +533,7 @@ become an Angular expert
 * [@dotglitch/ngx-lazy-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-lazy-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-lazy-loader)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-lazy-load-component) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-lazy-load-component)](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
 * [ngx-loading-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/aitboudad/ngx-loading-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/aitboudad/ngx-loading-bar)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+* [content-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/content-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/content-loader)](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 
 #### Maps
 
@@ -644,6 +651,12 @@ become an Angular expert
 * [rx-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' computed().
 * [microwave ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
+* [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+* [edit-in-place ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/edit-in-place) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/edit-in-place)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+* [falso ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/falso) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs
+* [cashew ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/cashew) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+* [helipopper ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/helipopper) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/helipopper)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+
 
 #### RxJS
 
@@ -653,6 +666,8 @@ become an Angular expert
 * [redux-observable ![GitHub Repo Stars](https://img.shields.io/github/stars/redux-observable/redux-observable) ![GitHub last commit](https://img.shields.io/github/last-commit/redux-observable/redux-observable)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
 * [rxjs-challenge ![GitHub Repo Stars](https://img.shields.io/github/stars/AngularWave/rxjs-challenge) ![GitHub last commit](https://img.shields.io/github/last-commit/AngularWave/rxjs-challenge)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 * [operators ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+* [until-destroy ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/until-destroy) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/until-destroy)](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
+* [effects ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/effects) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/effects)](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
 
 #### TypeScript 
 
