@@ -254,7 +254,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
 | [ChatGPT for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners) | Great Learning |Beginner| 2 | 🏆 |
-| [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | ��� |
+| [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | 🏆 |
 
 
 
@@ -320,7 +320,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | ����     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
 
