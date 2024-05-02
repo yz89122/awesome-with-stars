@@ -307,6 +307,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 - [sql_firewall ![GitHub Repo Stars](https://img.shields.io/github/stars/uptimejp/sql_firewall) ![GitHub last commit](https://img.shields.io/github/last-commit/uptimejp/sql_firewall)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 - [ironbee ![GitHub Repo Stars](https://img.shields.io/github/stars/ironbee/ironbee) ![GitHub last commit](https://img.shields.io/github/last-commit/ironbee/ironbee)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 - [Curiefense ![GitHub Repo Stars](https://img.shields.io/github/stars/curiefense/curiefense) ![GitHub last commit](https://img.shields.io/github/last-commit/curiefense/curiefense)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
+- [open-appsec ![GitHub Repo Stars](https://img.shields.io/github/stars/openappsec/openappsec) ![GitHub last commit](https://img.shields.io/github/last-commit/openappsec/openappsec)](https://github.com/openappsec/openappsec) - open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
 
 ### Scanning / Pentesting
 
@@ -328,6 +329,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Scanmycode CE (Community Edition) ![GitHub Repo Stars](https://img.shields.io/github/stars/marcinguy/scanmycode-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/marcinguy/scanmycode-ce)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 - [recon ![GitHub Repo Stars](https://img.shields.io/github/stars/rusty-ferris-club/recon) ![GitHub last commit](https://img.shields.io/github/last-commit/rusty-ferris-club/recon)](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts
 - [CakeFuzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/Zigrin-Security/CakeFuzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/Zigrin-Security/CakeFuzzer)](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
+- [Artemis ![GitHub Repo Stars](https://img.shields.io/github/stars/CERT-Polska/Artemis) ![GitHub last commit](https://img.shields.io/github/last-commit/CERT-Polska/Artemis)](https://github.com/CERT-Polska/Artemis/) - A modular vulnerability scanner with automatic report generation capabilities.
 
 ### Runtime Application Self-Protection
 
@@ -456,6 +458,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Azure Security](https://www.manning.com/books/azure-security-2) - A practical guide to the native security services of Microsoft Azure.
 - [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com) - Learn secure coding conventions in Node.js by executing command injection attacks on real-world npm packages and analyzing vulnerable code.
 - [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
+- [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - A book about building web apps that are ready for and resilient to any attack.
 
 ## Other Awesome Lists
 
