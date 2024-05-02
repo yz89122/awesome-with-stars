@@ -2,7 +2,7 @@
 
 > A curated and collaborative list of awesome OpenTofu resources and tools.
 
-[OpenTofu](https://opentofu.org/) lets you declaratively manage your infrastructure. It's an open-source and community-driven alternative to Terraform.
+[OpenTofu](https://opentofu.org/) allows you to declaratively manage your infrastructure. It's an open-source, community-driven alternative to Terraform.
 
 ## Contents <!-- omit in toc -->
 
@@ -34,7 +34,7 @@
 
 ## Community
 
-*Communication channels, meetups, newsletters and forums.*
+*Communication channels, meetups, newsletters, and forums.*
 
 - [OpenTofu GitHub Discussion ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/opentofu)](https://github.com/orgs/opentofu/discussions)
 - [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
@@ -43,9 +43,11 @@
 
 ## Features
 
-- [End-to-end encryption for state files](https://youtu.be/rR4IbhlRSkI) 🚧
+- [End-to-end encryption for state files](https://opentofu.org/docs/intro/whats-new/#state-encryption)
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
-- [Provider-defined functions](https://www.youtube.com/shorts/4aHZjDz2VWg) 🚧
+- [Provider-defined functions](https://opentofu.org/docs/intro/whats-new/#provider-defined-functions)
+- [Removed block](https://opentofu.org/docs/intro/whats-new/#removed-block)
+- [Loopable import blocks](https://opentofu.org/docs/intro/whats-new/#loopable-import-blocks)
 
 ## Tools
 
@@ -63,12 +65,12 @@
 
 - [Atmos ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudposse/atmos) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudposse/atmos)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
 - [Terragrunt ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntwork-io/terragrunt)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
-- [Terramate ![GitHub Repo Stars](https://img.shields.io/github/stars/terramate-io/terramate) ![GitHub last commit](https://img.shields.io/github/last-commit/terramate-io/terramate)](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
+- [Terramate ![GitHub Repo Stars](https://img.shields.io/github/stars/terramate-io/terramate) ![GitHub last commit](https://img.shields.io/github/last-commit/terramate-io/terramate)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 - [easy_infra ![GitHub Repo Stars](https://img.shields.io/github/stars/SeisoLLC/easy_infra) ![GitHub last commit](https://img.shields.io/github/last-commit/SeisoLLC/easy_infra)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 - [tf ![GitHub Repo Stars](https://img.shields.io/github/stars/dex4er/tf) ![GitHub last commit](https://img.shields.io/github/last-commit/dex4er/tf)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 - [tfam ![GitHub Repo Stars](https://img.shields.io/github/stars/Ant0wan/tfam) ![GitHub last commit](https://img.shields.io/github/last-commit/Ant0wan/tfam)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe ![GitHub Repo Stars](https://img.shields.io/github/stars/Ant0wan/tfexe) ![GitHub last commit](https://img.shields.io/github/last-commit/Ant0wan/tfexe)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
-- [tfwrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/claranet/tfwrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/claranet/tfwrapper)](https://github.com/claranet/tfwrapper) - Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
+- [tfwrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/claranet/tfwrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/claranet/tfwrapper)](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
 
 ### CI
 
@@ -101,7 +103,7 @@
 - [digger ![GitHub Repo Stars](https://img.shields.io/github/stars/diggerhq/digger) ![GitHub last commit](https://img.shields.io/github/last-commit/diggerhq/digger)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 - [terrakube ![GitHub Repo Stars](https://img.shields.io/github/stars/AzBuilder/terrakube) ![GitHub last commit](https://img.shields.io/github/last-commit/AzBuilder/terrakube)](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [tofutf ![GitHub Repo Stars](https://img.shields.io/github/stars/tofutf/tofutf) ![GitHub last commit](https://img.shields.io/github/last-commit/tofutf/tofutf)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
-- [walrus ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/walrus) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/walrus)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
+- [walrus ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/walrus) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/walrus)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
 
 ### Registry
 
@@ -112,7 +114,7 @@
 - [terralist ![GitHub Repo Stars](https://img.shields.io/github/stars/terralist/terralist) ![GitHub last commit](https://img.shields.io/github/last-commit/terralist/terralist)](https://github.com/terralist/terralist) - Private registry for providers and modules.
 - [citizen ![GitHub Repo Stars](https://img.shields.io/github/stars/outsideris/citizen) ![GitHub last commit](https://img.shields.io/github/last-commit/outsideris/citizen)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 - [petra ![GitHub Repo Stars](https://img.shields.io/github/stars/devoteamgcloud/petra) ![GitHub last commit](https://img.shields.io/github/last-commit/devoteamgcloud/petra)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
-- [tapir ![GitHub Repo Stars](https://img.shields.io/github/stars/PacoVK/tapir) ![GitHub last commit](https://img.shields.io/github/last-commit/PacoVK/tapir)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with an UI.
+- [tapir ![GitHub Repo Stars](https://img.shields.io/github/stars/PacoVK/tapir) ![GitHub last commit](https://img.shields.io/github/last-commit/PacoVK/tapir)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
 - [terraform-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/terraform-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/terraform-registry)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 - [terrareg ![GitHub Repo Stars](https://img.shields.io/github/stars/MatthewJohn/terrareg) ![GitHub last commit](https://img.shields.io/github/last-commit/MatthewJohn/terrareg)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 - [terustry ![GitHub Repo Stars](https://img.shields.io/github/stars/veepee-oss/terustry) ![GitHub last commit](https://img.shields.io/github/last-commit/veepee-oss/terustry)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
