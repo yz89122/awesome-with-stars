@@ -107,7 +107,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [REST API](https://www.hackerrank.com/skills-verification/rest_api_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [MongoDB Basics](https://university.mongodb.com/courses/M001/about) | MongoDB |Beginner| 8.5 | 🏆|
 | [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about) | MongoDB |Beginner| 2 | 🏆|
-| [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | ����|
+| [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | 🏆|
 | [MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) | MongoDB |Beginner| 9 | 🏆|
 | [Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) | MongoDB |Beginner| 1.5 | 🏆|
 | [Atlas Security](https://university.mongodb.com/courses/A300/about) | MongoDB |Beginner| 0.5 | 🏆|
@@ -176,7 +176,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
+| [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [���](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
