@@ -531,10 +531,17 @@ become an Angular expert
 
 * [angular2-promise-buttons ![GitHub Repo Stars](https://img.shields.io/github/stars/johannesjo/angular2-promise-buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/johannesjo/angular2-promise-buttons)](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo.
 * [ngx-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-progressbar)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
-* [@dotglitch/ngx-lazy-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-lazy-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-lazy-loader)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
+* [dotglitch-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/dotglitch-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/dotglitch-ngx)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-lazy-load-component) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-lazy-load-component)](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
 * [ngx-loading-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/aitboudad/ngx-loading-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/aitboudad/ngx-loading-bar)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 * [content-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/content-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/content-loader)](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
+* [ngx-loading ![GitHub Repo Stars](https://img.shields.io/github/stars/zak-c/ngx-loading) ![GitHub last commit](https://img.shields.io/github/last-commit/zak-c/ngx-loading)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
+* [ng-block-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/kuuurt13/ng-block-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/kuuurt13/ng-block-ui)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
+* [ngx-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/napster2210/ngx-spinner) ![GitHub last commit](https://img.shields.io/github/last-commit/napster2210/ngx-spinner)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
+* [angular-busy ![GitHub Repo Stars](https://img.shields.io/github/stars/tiberiuzuld/angular-busy) ![GitHub last commit](https://img.shields.io/github/last-commit/tiberiuzuld/angular-busy)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
+* [angular-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/angular-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/angular-loaders)](https://github.com/pjlamb12/angular-loaders) - Angular loader components
+* [ngx-loader-indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/jsdaddy/ngx-loader-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/jsdaddy/ngx-loader-indicator)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
+* [ngx-skeleton-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-skeleton-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-skeleton-loader)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 
 #### Maps
 
@@ -585,6 +592,7 @@ become an Angular expert
 
 * [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
 * [Syncfusion](https://www.syncfusion.com/angular-components) - The Complete Angular Components Library.
+* [ej2-angular-ui-components ![GitHub Repo Stars](https://img.shields.io/github/stars/syncfusion/ej2-angular-ui-components) ![GitHub last commit](https://img.shields.io/github/last-commit/syncfusion/ej2-angular-ui-components)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
 * [Nebular ![GitHub Repo Stars](https://img.shields.io/github/stars/akveo/nebular) ![GitHub last commit](https://img.shields.io/github/last-commit/akveo/nebular)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
 * [NG ZORRO MOBILE ![GitHub Repo Stars](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd-mobile) ![GitHub last commit](https://img.shields.io/github/last-commit/NG-ZORRO/ng-zorro-antd-mobile)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG ZORRO ![GitHub Repo Stars](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd) ![GitHub last commit](https://img.shields.io/github/last-commit/NG-ZORRO/ng-zorro-antd)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
@@ -593,6 +601,16 @@ become an Angular expert
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.
+* [ng-devui ![GitHub Repo Stars](https://img.shields.io/github/stars/DevCloudFE/ng-devui) ![GitHub last commit](https://img.shields.io/github/last-commit/DevCloudFE/ng-devui)](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
+* [ng-aquila ![GitHub Repo Stars](https://img.shields.io/github/stars/allianz/ng-aquila) ![GitHub last commit](https://img.shields.io/github/last-commit/allianz/ng-aquila)](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
+* [enterprise-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/infor-design/enterprise-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/infor-design/enterprise-ng)](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
+* [oblique ![GitHub Repo Stars](https://img.shields.io/github/stars/oblique-bit/oblique) ![GitHub last commit](https://img.shields.io/github/last-commit/oblique-bit/oblique)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
+* [fundamental-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/fundamental-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/fundamental-ngx)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
+* [designsystem ![GitHub Repo Stars](https://img.shields.io/github/stars/kirbydesign/designsystem) ![GitHub last commit](https://img.shields.io/github/last-commit/kirbydesign/designsystem)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
+* [sbb-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sbb-design-systems/sbb-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sbb-design-systems/sbb-angular)](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB
+* [ui ![GitHub Repo Stars](https://img.shields.io/github/stars/alauda/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/alauda/ui)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
+* [ngx-tethys ![GitHub Repo Stars](https://img.shields.io/github/stars/atinc/ngx-tethys) ![GitHub last commit](https://img.shields.io/github/last-commit/atinc/ngx-tethys)](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
+* [antwerp-ui_angular ![GitHub Repo Stars](https://img.shields.io/github/stars/digipolisantwerp/antwerp-ui_angular) ![GitHub last commit](https://img.shields.io/github/last-commit/digipolisantwerp/antwerp-ui_angular)](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
 
 ##### Material Based
 
@@ -611,7 +629,7 @@ become an Angular expert
 
 * [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Material Design for Bootstrap 4 (Angular)
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
-* [ng2-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ngx-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ngx-bootstrap)](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
+* [ngx-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ngx-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ngx-bootstrap)](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 
 ##### Tailwind CSS Based
 
