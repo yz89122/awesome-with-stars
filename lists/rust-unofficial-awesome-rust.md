@@ -646,7 +646,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
   * [cargo-script](https://crates.io/crates/cargo-script) — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
   * [cargo-udeps ![GitHub Repo Stars](https://img.shields.io/github/stars/est31/cargo-udeps) ![GitHub last commit](https://img.shields.io/github/last-commit/est31/cargo-udeps)](https://github.com/est31/cargo-udeps) [[cargo-udeps](https://crates.io/crates/cargo-udeps)] — find unused dependencies
   * [cargo-update](https://crates.io/crates/cargo-update) — cargo subcommand for checking and applying updates to installed executables
-  * [cargo-watch](https://crates.io/crates/cargo-watch) �� utility for cargo to compile projects when sources change
+  * [cargo-watch](https://crates.io/crates/cargo-watch) — utility for cargo to compile projects when sources change
   * [dtolnay/cargo-expand ![GitHub Repo Stars](https://img.shields.io/github/stars/dtolnay/cargo-expand) ![GitHub last commit](https://img.shields.io/github/last-commit/dtolnay/cargo-expand)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code
 * CMake
   * [Devolutions/CMakeRust ![GitHub Repo Stars](https://img.shields.io/github/stars/Devolutions/CMakeRust) ![GitHub last commit](https://img.shields.io/github/last-commit/Devolutions/CMakeRust)](https://github.com/Devolutions/CMakeRust) — useful for integrating a Rust library into a CMake project

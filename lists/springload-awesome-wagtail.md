@@ -293,7 +293,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) by Edd Baldry.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) by Tom Dyson.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) by Bertrand Bordage.
-- [The Zen of Wagtail – Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
+- [The Zen of Wagtail ��� Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
 - [Plone to Wagtail – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=2m57s) by Coen van der Kamp.
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=24m9s) by Simon de Haan.
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
