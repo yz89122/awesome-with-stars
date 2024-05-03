@@ -62,6 +62,7 @@ Table of contents:
 * [RxJS](#rxjs)
 * [TypeScript](#typescript)
 * [Ionic](#ionic)
+* [HTTP](#HTTP)
 * [Security](#security)
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
@@ -556,9 +557,7 @@ become an Angular expert
 
 #### State Management
 
-* [angular2-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/auth0/angular2-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/auth0/angular2-jwt)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
 * [universal-model-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/universal-model/universal-model-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/universal-model/universal-model-angular)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
-* [ng-http-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-http-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-http-caching)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 * [akita ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce/akita) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce/akita)](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 * [ng-simple-state ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-simple-state) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-simple-state)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcisbee/exome) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcisbee/exome)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
@@ -650,13 +649,10 @@ become an Angular expert
 * [ng-generic-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-generic-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-generic-pipe)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [rx-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' computed().
 * [microwave ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
-* [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 * [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [edit-in-place ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/edit-in-place) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/edit-in-place)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [falso ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/falso) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs
-* [cashew ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/cashew) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [helipopper ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/helipopper) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/helipopper)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
-
 
 #### RxJS
 
@@ -689,8 +685,6 @@ become an Angular expert
 * [typebox ![GitHub Repo Stars](https://img.shields.io/github/stars/sinclairzx81/typebox) ![GitHub last commit](https://img.shields.io/github/last-commit/sinclairzx81/typebox)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod ![GitHub Repo Stars](https://img.shields.io/github/stars/colinhacks/zod) ![GitHub last commit](https://img.shields.io/github/last-commit/colinhacks/zod)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
----
-
 #### Ionic 
 
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
@@ -702,7 +696,16 @@ become an Angular expert
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
 
----
+#### HTTP
+
+* [angular2-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/auth0/angular2-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/auth0/angular2-jwt)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
+* [ng-http-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-http-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-http-caching)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+* [cashew ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/cashew) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+* [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
+* [angular-http-cache-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-http-cache-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-http-cache-interceptor)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor
+* [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilkisiela/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/apollo-angular)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
+* [ngx-awesome-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/vugar005/ngx-awesome-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/vugar005/ngx-awesome-uploader)](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
+* [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Security
 
@@ -732,12 +735,18 @@ become an Angular expert
 
 * [ngrx](https://ngrx.io/) - Reactive State for Angular.
 * [ngrx-course ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-university/ngrx-course) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-university/ngrx-course)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
-* [ngrx-store-localstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/btroncone/ngrx-store-localstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/btroncone/ngrx-store-localstorage)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between @ngrx store and local storage.
-* [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
-* [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
+* [ngrx-store-localstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/btroncone/ngrx-store-localstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/btroncone/ngrx-store-localstorage)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
 * [ngrx-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/ngrx-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/ngrx-toolkit)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store
-* [ngrx-traits ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielguerrero/ngrx-traits) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielguerrero/ngrx-traits)](https://github.com/gabrielguerrero/ngrx-traits) - NGRX Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
-* [ngrx-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/Michsior14/ngrx-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/Michsior14/ngrx-addons)](https://github.com/Michsior14/ngrx-addons) - A collection of @ngrx addons, including state persistence.
+* [ngrx-traits ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielguerrero/ngrx-traits) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielguerrero/ngrx-traits)](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
+* [ngrx-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/Michsior14/ngrx-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/Michsior14/ngrx-addons)](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
+* [ngrx-store-storagesync ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngrx-store-storagesync) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngrx-store-storagesync)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
+* [ngrx-wieder ![GitHub Repo Stars](https://img.shields.io/github/stars/nilsmehlhorn/ngrx-wieder) ![GitHub last commit](https://img.shields.io/github/last-commit/nilsmehlhorn/ngrx-wieder)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
+* [ngrx-immer ![GitHub Repo Stars](https://img.shields.io/github/stars/timdeschryver/ngrx-immer) ![GitHub last commit](https://img.shields.io/github/last-commit/timdeschryver/ngrx-immer)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
+* [ngrx-rtk-query ![GitHub Repo Stars](https://img.shields.io/github/stars/SaulMoro/ngrx-rtk-query) ![GitHub last commit](https://img.shields.io/github/last-commit/SaulMoro/ngrx-rtk-query)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
+* [ngrx-action-bundles ![GitHub Repo Stars](https://img.shields.io/github/stars/IliaIdakiev/ngrx-action-bundles) ![GitHub last commit](https://img.shields.io/github/last-commit/IliaIdakiev/ngrx-action-bundles)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
+* [platform ![GitHub Repo Stars](https://img.shields.io/github/stars/trellisorg/platform) ![GitHub last commit](https://img.shields.io/github/last-commit/trellisorg/platform)](https://github.com/trellisorg/platform) - The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use.
+* [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
+* [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 
 #### Deployment
 
