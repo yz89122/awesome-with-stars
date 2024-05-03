@@ -112,6 +112,7 @@ For the latest additions [click here ![GitHub Repo Stars](https://img.shields.io
 ## CMS (headless)
 *Backend only Content Management System, you decide on frontend and consume content via API.*
 * [Contentful](http://contentful.com/) - CMS as an API.
+* [DatoCMS](https://www.datocms.com/) - API-based CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). [![Ghost](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/tryghost/ghost)
 * [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
@@ -245,6 +246,7 @@ For the latest additions [click here ![GitHub Repo Stars](https://img.shields.io
 ## Media
 *Media APIs (optimization, CDN).*
 * [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
+* [Bytescale](https://bytescale.com) - File storage and processing APIs.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 * [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
 * [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
