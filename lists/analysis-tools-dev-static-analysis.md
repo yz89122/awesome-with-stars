@@ -804,7 +804,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/PHP-CS-Fixer)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 
-- [Enlightn](https://www.laravel-enlightn.com/) ��� A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
+- [Enlightn](https://www.laravel-enlightn.com/) — A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
 
 - [exakat](https://www.exakat.io) — An automated code reviewing engine for PHP.
 
@@ -964,7 +964,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [linty fresh ![GitHub Repo Stars](https://img.shields.io/github/stars/lyft/linty_fresh) ![GitHub last commit](https://img.shields.io/github/last-commit/lyft/linty_fresh)](https://github.com/lyft/linty_fresh) — Parse lint errors and report them to Github as comments on a pull request.
 
-- [mccabe](https://pypi.org/project/mccabe) — Check McCabe complexity.
+- [mccabe](https://pypi.org/project/mccabe) �� Check McCabe complexity.
 
 - [multilint ![GitHub Repo Stars](https://img.shields.io/github/stars/adamchainz/multilint) ![GitHub last commit](https://img.shields.io/github/last-commit/adamchainz/multilint)](https://github.com/adamchainz/multilint) :warning: — A wrapper around `flake8`, `isort` and `modernize`.
 
