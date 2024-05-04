@@ -71,6 +71,7 @@ Table of contents:
 * [NgRx](#ngrx)
 * [Deployment](#deployment)
 * [Updating](#updating)
+* [Internationalization](#internationalization)
 
 ### Angular
 
@@ -675,9 +676,7 @@ become an Angular expert
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 * [ng2-adsense ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ng2-adsense) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ng2-adsense)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
 * [ngx-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
-* [@ngneat/transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
-* [@tolgee/ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-* [xng-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvunnam/xng-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvunnam/xng-breadcrumb)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [xng-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvunnam/xng-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvunnam/xng-breadcrumb)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-let) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-let)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 * [ng-for-track-by-property ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-for-track-by-property) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-for-track-by-property)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 * [ng-portal ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-portal) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-portal)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
@@ -797,6 +796,21 @@ become an Angular expert
 * [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.  
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
+
+#### Internationalization
+
+* [transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [ngx-tolgee ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+* [localess ![GitHub Repo Stars](https://img.shields.io/github/stars/Lessify/localess) ![GitHub last commit](https://img.shields.io/github/last-commit/Lessify/localess)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
+* [typesafe-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanhofer/typesafe-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanhofer/typesafe-i18n)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
+* [angular-l10n ![GitHub Repo Stars](https://img.shields.io/github/stars/robisim74/angular-l10n) ![GitHub last commit](https://img.shields.io/github/last-commit/robisim74/angular-l10n)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
+* [I18N ![GitHub Repo Stars](https://img.shields.io/github/stars/soluling/I18N) ![GitHub last commit](https://img.shields.io/github/last-commit/soluling/I18N)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
+* [ng-extract-i18n-merge ![GitHub Repo Stars](https://img.shields.io/github/stars/daniel-sc/ng-extract-i18n-merge) ![GitHub last commit](https://img.shields.io/github/last-commit/daniel-sc/ng-extract-i18n-merge)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
+* [ng-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/doorgets/ng-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/doorgets/ng-translate)](https://github.com/doorgets/ng-translate) - Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included).
+* [ngxe ![GitHub Repo Stars](https://img.shields.io/github/stars/navix/ngxe) ![GitHub last commit](https://img.shields.io/github/last-commit/navix/ngxe)](https://github.com/navix/ngxe) - Angular 11.1+ JSON Translations Editor.
+* [ngx-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-translate/core) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-translate/core)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
+* [ngx-translate-module-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngx-translate-module-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngx-translate-module-loader)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`
+* [ngx-translate-multi-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-translate-multi-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-translate-multi-http-loader)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 
 ---
 
