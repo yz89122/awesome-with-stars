@@ -558,7 +558,7 @@ Books:
 
 Writing a good prequel is hard, but this series masterfully introduces the main characters. If you're reading by publishing year, it fills in the blanks in much of Royce and Hadrian's origin story that is hinted at later on. - [@depperm](https://github.com/depperm)
 
-> A warrior with nothing to fight for is paired with a thieving assassin with nothing to lose. Together they must steal a treasure that no one can reach. The Crown Tower is the impregnable remains of the grandest fortress ever built and home to the realm’s most valuable possessions. But it isn’t gold or jewels the old wizard is after, and this prize can only be obtained by the combined talents of two remarkable men. Now if Arcadius can just keep Hadrian and Royce from killing each other, they just might succeed.
+> A warrior with nothing to fight for is paired with a thieving assassin with nothing to lose. Together they must steal a treasure that no one can reach. The Crown Tower is the impregnable remains of the grandest fortress ever built and home to the realm��s most valuable possessions. But it isn’t gold or jewels the old wizard is after, and this prize can only be obtained by the combined talents of two remarkable men. Now if Arcadius can just keep Hadrian and Royce from killing each other, they just might succeed.
 
 #### [The Riyria Revelations](https://www.goodreads.com/series/96465-the-riyria-revelations) (2008) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.2]
 
