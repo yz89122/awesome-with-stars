@@ -282,7 +282,7 @@ _Language specific game engine development libraries / frameworks / code._
     - ⭐ [dr_libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/dr_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/dr_libs)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
     - 🎉 [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
-    - 🎉 [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
+    - ��� [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
     - 🎉 [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     - 🎉 [QOI ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/qoi) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/qoi)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
     - ⭐ [stb_vorbis ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_vorbis.c) - Ogg Vorbis audio decoder.
@@ -506,7 +506,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
-    - ���� [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
+    - 🎉 [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 - C++: Math
     - 🎉 [OpenGL Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/g-truc/glm) ![GitHub last commit](https://img.shields.io/github/last-commit/g-truc/glm)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network
@@ -694,7 +694,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
     - 🎉 [HxBit ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/hxbit) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/hxbit)](https://github.com/HeapsIO/hxbit) - Binary serialization and network synchronization library.
 - Haxe: Utility
-    - 🎉 [hexMachina ![GitHub Repo Stars](https://img.shields.io/github/stars/DoclerLabs/hexCore) ![GitHub last commit](https://img.shields.io/github/last-commit/DoclerLabs/hexCore)](https://github.com/DoclerLabs/hexCore) - Powerful modular MVC framework. [[Website](http://hexmachina.org/)]
+    - ���� [hexMachina ![GitHub Repo Stars](https://img.shields.io/github/stars/DoclerLabs/hexCore) ![GitHub last commit](https://img.shields.io/github/last-commit/DoclerLabs/hexCore)](https://github.com/DoclerLabs/hexCore) - Powerful modular MVC framework. [[Website](http://hexmachina.org/)]
     - 🎉 [HxColorToolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/andyli/hxColorToolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/andyli/hxColorToolkit)](https://github.com/andyli/hxColorToolkit) - Library for color conversion and color scheme generation.
     - 🎉 [HxMath ![GitHub Repo Stars](https://img.shields.io/github/stars/tbrosman/hxmath) ![GitHub last commit](https://img.shields.io/github/last-commit/tbrosman/hxmath)](https://github.com/tbrosman/hxmath) - Game-oriented math library for the Haxe language.
     - 🎉 [SteamWrap ![GitHub Repo Stars](https://img.shields.io/github/stars/larsiusprime/SteamWrap) ![GitHub last commit](https://img.shields.io/github/last-commit/larsiusprime/SteamWrap)](https://github.com/larsiusprime/SteamWrap) - Haxe native extension for the Steam API.
@@ -1189,7 +1189,7 @@ _Exploring specialty game engine / game development topics and features._
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
-    - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+    - �� [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
     - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
