@@ -775,7 +775,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
 - Twitter [Tricity](https://twitter.com/FlutterTricity/)
 
-### 🇵🇹 Portugal
+### 🇵�� Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
 
 ### 🇵🇪 Peru
