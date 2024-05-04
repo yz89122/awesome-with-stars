@@ -28,6 +28,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
 - [OWASP ZAP ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+- [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 
 ### Make your life easier
 - [GoodLooks ![GitHub Repo Stars](https://img.shields.io/github/stars/dashcamio/goodlooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dashcamio/goodlooks)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
