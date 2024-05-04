@@ -816,6 +816,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [yorickpeterse/nvim-pqf ![GitHub Repo Stars](https://img.shields.io/github/stars/yorickpeterse/nvim-pqf) ![GitHub last commit](https://img.shields.io/github/last-commit/yorickpeterse/nvim-pqf)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 - [nyngwang/NeoWell.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/nyngwang/NeoWell.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/nyngwang/NeoWell.lua)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 - [ashfinal/qfview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ashfinal/qfview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ashfinal/qfview.nvim)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+- [niuiic/quickfix.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/quickfix.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/quickfix.nvim)](https://github.com/niuiic/quickfix.nvim) - Extended functionality for quickfix, including store, restore, make, remove, etc.
 
 ## Deployment
 
