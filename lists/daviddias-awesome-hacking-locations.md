@@ -491,7 +491,7 @@ Wikipedia: https://en.wikipedia.org/wiki/C-base
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | �� | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
+✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
 
 #### Schiller Bar
 
@@ -933,7 +933,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00
+✔ | ✔ | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00
 
 
 ## Braga
@@ -1259,7 +1259,7 @@ Webpage: http://www.cafevitoria.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm ��� 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 

@@ -276,7 +276,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 * Gameboy Advance
   * [michelhe/rustboyadvance-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/michelhe/rustboyadvance-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/michelhe/rustboyadvance-ng)](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) support. [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/michelhe/rustboyadvance-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/michelhe/rustboyadvance-ng)](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
 * GameMaker
-  * [OpenGMK ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenGMK/OpenGMK) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenGMK/OpenGMK)](https://github.com/OpenGMK/OpenGMK) ��� OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+  * [OpenGMK ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenGMK/OpenGMK) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenGMK/OpenGMK)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 * IBM PC
   * [MartyPC ![GitHub Repo Stars](https://img.shields.io/github/stars/dbalsom/martypc) ![GitHub last commit](https://img.shields.io/github/last-commit/dbalsom/martypc)](https://github.com/dbalsom/martypc) — An IBM PC/XT emulator written in Rust.
 * Intel 8080 CPU
@@ -646,7 +646,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
   * [cargo-script](https://crates.io/crates/cargo-script) — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
   * [cargo-udeps ![GitHub Repo Stars](https://img.shields.io/github/stars/est31/cargo-udeps) ![GitHub last commit](https://img.shields.io/github/last-commit/est31/cargo-udeps)](https://github.com/est31/cargo-udeps) [[cargo-udeps](https://crates.io/crates/cargo-udeps)] — find unused dependencies
   * [cargo-update](https://crates.io/crates/cargo-update) — cargo subcommand for checking and applying updates to installed executables
-  * [cargo-watch](https://crates.io/crates/cargo-watch) — utility for cargo to compile projects when sources change
+  * [cargo-watch](https://crates.io/crates/cargo-watch) �� utility for cargo to compile projects when sources change
   * [dtolnay/cargo-expand ![GitHub Repo Stars](https://img.shields.io/github/stars/dtolnay/cargo-expand) ![GitHub last commit](https://img.shields.io/github/last-commit/dtolnay/cargo-expand)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code
 * CMake
   * [Devolutions/CMakeRust ![GitHub Repo Stars](https://img.shields.io/github/stars/Devolutions/CMakeRust) ![GitHub last commit](https://img.shields.io/github/last-commit/Devolutions/CMakeRust)](https://github.com/Devolutions/CMakeRust) — useful for integrating a Rust library into a CMake project
