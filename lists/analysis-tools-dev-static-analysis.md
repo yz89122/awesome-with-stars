@@ -762,7 +762,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 <h2>Nim</h2>
 
 
-- [DrNim](https://nim-lang.org/docs/drnim.html) ��� DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
+- [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 
 - [nimfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/FedericoCeratto/nimfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/FedericoCeratto/nimfmt)](https://github.com/FedericoCeratto/nimfmt) :warning: — Nim code formatter / linter / style checker
 
@@ -786,7 +786,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [composer-dependency-analyser ![GitHub Repo Stars](https://img.shields.io/github/stars/shipmonk-rnd/composer-dependency-analyser) ![GitHub last commit](https://img.shields.io/github/last-commit/shipmonk-rnd/composer-dependency-analyser)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 
-* 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
+* �� Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
@@ -934,7 +934,7 @@ Besides reformatting scripts, Perltidy can be a great help in tracking down erro
 - [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
 It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
 
-- [bandit](https://bandit.readthedocs.io/en/latest) ��� A tool to find common security issues in Python code.
+- [bandit](https://bandit.readthedocs.io/en/latest) — A tool to find common security issues in Python code.
 
 - [bellybutton ![GitHub Repo Stars](https://img.shields.io/github/stars/hchasestevens/bellybutton) ![GitHub last commit](https://img.shields.io/github/last-commit/hchasestevens/bellybutton)](https://github.com/hchasestevens/bellybutton) — A linting engine supporting custom project-specific rules.
 
