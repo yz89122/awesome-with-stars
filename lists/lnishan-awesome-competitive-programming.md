@@ -187,7 +187,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
-| ★��☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
+| ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
 ### Contest Calendars
 > Calendars for impending programming contests.  
@@ -210,7 +210,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
-| ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
+| ★���★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
 | ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
 
 
