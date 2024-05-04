@@ -355,7 +355,7 @@ Meteo
 
 ## Templates
 
-- [Mates ![GitHub Repo Stars](https://img.shields.io/github/stars/CodemateLtd/FlutterMates) ![GitHub last commit](https://img.shields.io/github/last-commit/CodemateLtd/FlutterMates)](https://github.com/CodemateLtd/FlutterMates) [575⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+- [Mates ![GitHub Repo Stars](https://img.shields.io/github/stars/CodemateLtd/FlutterMates) ![GitHub last commit](https://img.shields.io/github/last-commit/CodemateLtd/FlutterMates)](https://github.com/CodemateLtd/FlutterMates) [575���] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 - [UI Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit) ![GitHub last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-UI-Kit)](https://github.com/iampawan/Flutter-UI-Kit) [6171⭐] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 - [The Gorgeous Login ![GitHub Repo Stars](https://img.shields.io/github/stars/huextrat/TheGorgeousLogin) ![GitHub last commit](https://img.shields.io/github/last-commit/huextrat/TheGorgeousLogin)](https://github.com/huextrat/TheGorgeousLogin) [1721⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App ![GitHub Repo Stars](https://img.shields.io/github/stars/longhoang2984/flutter_payment_app_ui) ![GitHub last commit](https://img.shields.io/github/last-commit/longhoang2984/flutter_payment_app_ui)](https://github.com/longhoang2984/flutter_payment_app_ui) [303⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
