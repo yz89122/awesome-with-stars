@@ -589,6 +589,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 ## Development tools
 
+* [ATAC ![GitHub Repo Stars](https://img.shields.io/github/stars/Julien-cpsn/ATAC) ![GitHub last commit](https://img.shields.io/github/last-commit/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC) — A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 * [bacon ![GitHub Repo Stars](https://img.shields.io/github/stars/Canop/bacon) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/bacon)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 * [clippy](https://crates.io/crates/clippy) — Rust lints
 * [clog-tool/clog-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/clog-tool/clog-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/clog-tool/clog-cli)](https://github.com/clog-tool/clog-cli) — generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
