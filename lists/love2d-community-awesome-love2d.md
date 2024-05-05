@@ -108,6 +108,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [deep ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikaoto/deep) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikaoto/deep)](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
 * [draft ![GitHub Repo Stars](https://img.shields.io/github/stars/pelevesque/draft) ![GitHub last commit](https://img.shields.io/github/last-commit/pelevesque/draft)](https://github.com/pelevesque/draft) - A module for drawing complex shapes.
 * [grove.draworder ![GitHub Repo Stars](https://img.shields.io/github/stars/FloatingBanana/Grove) ![GitHub last commit](https://img.shields.io/github/last-commit/FloatingBanana/Grove)](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
+* [Hot particles ![GitHub Repo Stars](https://img.shields.io/github/stars/ReFreezed/HotParticles) ![GitHub last commit](https://img.shields.io/github/last-commit/ReFreezed/HotParticles)](https://github.com/ReFreezed/HotParticles) - "Hot Particles is a particle editor for the LÖVE game framework."
 * [HSLUV ![GitHub Repo Stars](https://img.shields.io/github/stars/hsluv/hsluv-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/hsluv/hsluv-lua)](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
 * [Maid64 ![GitHub Repo Stars](https://img.shields.io/github/stars/adekto/maid64) ![GitHub last commit](https://img.shields.io/github/last-commit/adekto/maid64)](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE.
 * [Push ![GitHub Repo Stars](https://img.shields.io/github/stars/Ulydev/push) ![GitHub last commit](https://img.shields.io/github/last-commit/Ulydev/push)](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
@@ -329,6 +330,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [YALG ![GitHub Repo Stars](https://img.shields.io/github/stars/sasszem/yalg) ![GitHub last commit](https://img.shields.io/github/last-commit/sasszem/yalg)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 * [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
 * [Inky ![GitHub Repo Stars](https://img.shields.io/github/stars/Keyslam/Inky) ![GitHub last commit](https://img.shields.io/github/last-commit/Keyslam/Inky)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
+* [Badar 🌕 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nabeel20/Badar) ![GitHub last commit](https://img.shields.io/github/last-commit/Nabeel20/Badar)](https://github.com/Nabeel20/Badar) - Declarative, retained\* and flexbox inspired UI library and components.
 
 ## Utilities
 *Non-Game specific libraries and tools*
