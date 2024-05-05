@@ -38,7 +38,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
   - [Other](#other)
 - [Specific file formats](#specific-file-formats)
   - [PDF](#pdf)
-  - [PEM](#pem)
   - [JKS](#jks)
   - [ZIP](#zip)
 - [Artificial Intelligence](#artificial-intelligence)
@@ -102,7 +101,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [fitcrack ![GitHub Repo Stars](https://img.shields.io/github/stars/nesfit/fitcrack) ![GitHub last commit](https://img.shields.io/github/last-commit/nesfit/fitcrack)](https://github.com/nesfit/fitcrack) - A hashcat-based distributed password cracking system.
 - [Hashstation ![GitHub Repo Stars](https://img.shields.io/github/stars/hashstation/hashstation) ![GitHub last commit](https://img.shields.io/github/last-commit/hashstation/hashstation)](https://github.com/hashstation/hashstation) - Hashstation is a BOINC-based distributed password cracking system with a built-in web interface.
 - [Hashtopolis ![GitHub Repo Stars](https://img.shields.io/github/stars/hashtopolis/server) ![GitHub last commit](https://img.shields.io/github/last-commit/hashtopolis/server)](https://github.com/hashtopolis/server) - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
-- [HashtopoloCLI ![GitHub Repo Stars](https://img.shields.io/github/stars/jakewnuk/HashtopoCLI) ![GitHub last commit](https://img.shields.io/github/last-commit/jakewnuk/HashtopoCLI)](https://github.com/jakewnuk/HashtopoCLI) - CLI tool for Hashtopolis API incorporating some of the API functionality into a dynamic Python wrapper.
 - [Kraken ![GitHub Repo Stars](https://img.shields.io/github/stars/arcaneiceman/kraken) ![GitHub last commit](https://img.shields.io/github/last-commit/arcaneiceman/kraken)](https://github.com/arcaneiceman/kraken) - A multi-platform distributed brute-force password cracking system.
 
 ### Rules
@@ -115,7 +113,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [OneRuleToRuleThemAll ![GitHub Repo Stars](https://img.shields.io/github/stars/NotSoSecure/password_cracking_rules) ![GitHub last commit](https://img.shields.io/github/last-commit/NotSoSecure/password_cracking_rules)](https://github.com/NotSoSecure/password_cracking_rules) - "One rule to crack all passwords. or atleast we hope so."
 - [OneRuleToRuleThemStill ![GitHub Repo Stars](https://img.shields.io/github/stars/stealthsploit/OneRuleToRuleThemStill) ![GitHub last commit](https://img.shields.io/github/last-commit/stealthsploit/OneRuleToRuleThemStill)](https://github.com/stealthsploit/OneRuleToRuleThemStill) - "A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule."
 - [pantagrule ![GitHub Repo Stars](https://img.shields.io/github/stars/rarecoil/pantagrule) ![GitHub last commit](https://img.shields.io/github/last-commit/rarecoil/pantagrule)](https://github.com/rarecoil/pantagrule) - Large hashcat rulesets generated from real-world compromised passwords.
-- [squid rules ![GitHub Repo Stars](https://img.shields.io/github/stars/jakewnuk/HIBP-578M) ![GitHub last commit](https://img.shields.io/github/last-commit/jakewnuk/HIBP-578M)](https://github.com/jakewnuk/HIBP-578M) - Hashcat rules ordered by effectiveness from testing HIBPv7.
 
 ### Rule tools
 - [duprule ![GitHub Repo Stars](https://img.shields.io/github/stars/mhasbini/duprule) ![GitHub last commit](https://img.shields.io/github/last-commit/mhasbini/duprule)](https://github.com/mhasbini/duprule) - Detect & filter duplicate hashcat rules.
@@ -141,7 +138,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 
 
 ## Misc
-- [920mPasswordMasks ![GitHub Repo Stars](https://img.shields.io/github/stars/jakewnuk/920mPasswordMasks) ![GitHub last commit](https://img.shields.io/github/last-commit/jakewnuk/920mPasswordMasks)](https://github.com/jakewnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords filtered into groups.
 - [hashgen ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclone-github/hashgen) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclone-github/hashgen)](https://github.com/cyclone-github/hashgen) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
 - [hashID ![GitHub Repo Stars](https://img.shields.io/github/stars/psypanda/hashID) ![GitHub last commit](https://img.shields.io/github/last-commit/psypanda/hashID)](https://github.com/psypanda/hashID) - Software to identify the different types of hashes.
 - [Name That Hash ![GitHub Repo Stars](https://img.shields.io/github/stars/HashPals/Name-That-Hash) ![GitHub last commit](https://img.shields.io/github/last-commit/HashPals/Name-That-Hash)](https://github.com/HashPals/Name-That-Hash) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
@@ -204,7 +200,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [password-stretcher ![GitHub Repo Stars](https://img.shields.io/github/stars/thetechromancer/password-stretcher) ![GitHub last commit](https://img.shields.io/github/last-commit/thetechromancer/password-stretcher)](https://github.com/thetechromancer/password-stretcher) - Generate "disgusting quantities" of passwords from websites, files, or stdin. Compliments password-smelter.
 - [pcfg_cracker ![GitHub Repo Stars](https://img.shields.io/github/stars/lakiw/pcfg_cracker) ![GitHub last commit](https://img.shields.io/github/last-commit/lakiw/pcfg_cracker)](https://github.com/lakiw/pcfg_cracker) - This project uses machine learning to identify password creation habits of users.
 - [Pipal ![GitHub Repo Stars](https://img.shields.io/github/stars/digininja/pipal) ![GitHub last commit](https://img.shields.io/github/last-commit/digininja/pipal)](https://github.com/digininja/pipal) - THE password analyser.
-- [PwdStat ![GitHub Repo Stars](https://img.shields.io/github/stars/jakewnuk/pwdstat) ![GitHub last commit](https://img.shields.io/github/last-commit/jakewnuk/pwdstat)](https://github.com/jakewnuk/pwdstat) - Tool for identifying systemic password usage, creating password masks, and analyzing cracked password samples with human readable statistics to help defenders.
 - [Graphcat ![GitHub Repo Stars](https://img.shields.io/github/stars/Orange-Cyberdefense/graphcat) ![GitHub last commit](https://img.shields.io/github/last-commit/Orange-Cyberdefense/graphcat)](https://github.com/Orange-Cyberdefense/graphcat) - Generate graphs and charts based on password cracking result.
 
 ### Generation/Manipulation
@@ -225,7 +220,7 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [maskprocessor ![GitHub Repo Stars](https://img.shields.io/github/stars/hashcat/maskprocessor) ![GitHub last commit](https://img.shields.io/github/last-commit/hashcat/maskprocessor)](https://github.com/hashcat/maskprocessor/) - High-performance word generator with a per-position configureable charset.
 - [maskuni ![GitHub Repo Stars](https://img.shields.io/github/stars/flbdx/maskuni) ![GitHub last commit](https://img.shields.io/github/last-commit/flbdx/maskuni)](https://github.com/flbdx/maskuni) - A standalone fast word generator in the spirit of hashcat's mask generator with unicode support.
 - [Mentalist ![GitHub Repo Stars](https://img.shields.io/github/stars/sc0tfree/mentalist) ![GitHub last commit](https://img.shields.io/github/last-commit/sc0tfree/mentalist)](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
-- [Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWnuk/mode) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWnuk/mode)](https://github.com/JakeWnuk/mode) - A program for quickly aggregating and frequency sorting text from multiple sources and supports concurency.
+- [PTT ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWnuk/ptt) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWnuk/ptt)](https://github.com/JakeWnuk/ptt) - The Password Transformation Tool (ptt) is a versatile utility designed for password cracking. It facilitates the creation of custom rules and transformations, as well as the generation of wordlists. This tool supports processing data from files, URLs, and standard input, streamlining cracking workflows.
 - [Phraser ![GitHub Repo Stars](https://img.shields.io/github/stars/Sparell/Phraser) ![GitHub last commit](https://img.shields.io/github/last-commit/Sparell/Phraser)](https://github.com/Sparell/Phraser) - Phraser is a phrase generator using n-grams and Markov chains to generate phrases for passphrase cracking.
 - [princeprocessor ![GitHub Repo Stars](https://img.shields.io/github/stars/hashcat/princeprocessor) ![GitHub last commit](https://img.shields.io/github/last-commit/hashcat/princeprocessor)](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm.
 - [Rephraser ![GitHub Repo Stars](https://img.shields.io/github/stars/travco/rephraser) ![GitHub last commit](https://img.shields.io/github/last-commit/travco/rephraser)](https://github.com/travco/rephraser) - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
@@ -258,9 +253,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 ### PDF
 - [pdfrip ![GitHub Repo Stars](https://img.shields.io/github/stars/mufeedvh/pdfrip) ![GitHub last commit](https://img.shields.io/github/last-commit/mufeedvh/pdfrip)](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 
-### PEM
-- [pemcracker ![GitHub Repo Stars](https://img.shields.io/github/stars/bwall/pemcracker) ![GitHub last commit](https://img.shields.io/github/last-commit/bwall/pemcracker)](https://github.com/bwall/pemcracker) - Tool to crack encrypted PEM files.
-
 ### JKS
 - [JKS private key cracker ![GitHub Repo Stars](https://img.shields.io/github/stars/floyd-fuh/JKS-private-key-cracker-hashcat) ![GitHub last commit](https://img.shields.io/github/last-commit/floyd-fuh/JKS-private-key-cracker-hashcat)](https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat) - Cracking passwords of private key entries in a JKS fileCracking passwords of private key entries in a JKS file.
 
@@ -272,7 +264,7 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 
 ## Artificial Intelligence
 - [adams ![GitHub Repo Stars](https://img.shields.io/github/stars/TheAdamProject/adams) ![GitHub last commit](https://img.shields.io/github/last-commit/TheAdamProject/adams)](https://github.com/TheAdamProject/adams) - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries.
-[ ![GitHub Repo Stars](https://img.shields.io/github/stars/cupslab/neural_network_cracking) ![GitHub last commit](https://img.shields.io/github/last-commit/cupslab/neural_network_cracking)](https://github.com/cupslab/neural_network_cracking) - Code for cracking passwords with neural networks.
+- [neural network cracking ![GitHub Repo Stars](https://img.shields.io/github/stars/cupslab/neural_network_cracking) ![GitHub last commit](https://img.shields.io/github/last-commit/cupslab/neural_network_cracking)](https://github.com/cupslab/neural_network_cracking) - Code for cracking passwords with neural networks.
 - [RNN-Passwords ![GitHub Repo Stars](https://img.shields.io/github/stars/gehaxelt/RNN-Passwords) ![GitHub last commit](https://img.shields.io/github/last-commit/gehaxelt/RNN-Passwords)](https://github.com/gehaxelt/RNN-Passwords) - Using the char-rnn to learn and guess passwords.
 - [rulesfinder ![GitHub Repo Stars](https://img.shields.io/github/stars/synacktiv/rulesfinder) ![GitHub last commit](https://img.shields.io/github/last-commit/synacktiv/rulesfinder)](https://github.com/synacktiv/rulesfinder) - This tool finds efficient password mangling rules (for John the Ripper or Hashcat) for a given dictionary and a list of passwords.
 - [PassGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/javirandor/passgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/javirandor/passgpt)](https://github.com/javirandor/passgpt) - PassGPT is a GPT-2 model trained from scratch on password leaks.
