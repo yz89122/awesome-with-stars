@@ -267,7 +267,7 @@ Cassidy chronicles the rise and fall of the dot-com bubble with insight and flai
 
 ## Most Important Stock Exchanges
 
-- ����🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
+- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
 - 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
 - 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/) - Third largest stock exchange in the world by market capitalization, and the largest in Asia.
 - 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
