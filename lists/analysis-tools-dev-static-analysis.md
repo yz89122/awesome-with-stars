@@ -864,7 +864,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpdoc-to-typehint ![GitHub Repo Stars](https://img.shields.io/github/stars/dunglas/phpdoc-to-typehint) ![GitHub last commit](https://img.shields.io/github/last-commit/dunglas/phpdoc-to-typehint)](https://github.com/dunglas/phpdoc-to-typehint) :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
 
-- [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
+- [phpDocumentor](https://www.phpdoc.org) �� Analyzes PHP source code to generate documentation.
 
 - [phploc ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phploc) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phploc)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 

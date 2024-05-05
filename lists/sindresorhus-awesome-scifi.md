@@ -382,7 +382,7 @@ This book is filled with a quiet suspense that is almost palpable; in that, it d
 <details>
   <summary>Description</summary>
 
-  > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
+  > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits��just behind a Raman airlock door.
 </details>
 
 #### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) (1972) _by [Arkady Strugatsky & Boris Strugatsky](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)_ [4.2]
@@ -608,7 +608,7 @@ All of Asher's _Polity_ novels are chock full of amazing technology, vibrant cha
 <details>
   <summary>Description</summary>
 
-  > The phrase ��world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
+  > The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
   >
   > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity. He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
 </details>
