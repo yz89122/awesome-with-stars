@@ -56,6 +56,7 @@ Table of contents:
   * [Layout Components](#layout-components)
   * [Loaders](#loaders)
   * [Maps](#maps)
+  * [Modals](#modals)
   * [Notifications](#notifications)
   * [State Management](#state-management)
   * [Tables](#tables)
@@ -501,6 +502,8 @@ become an Angular expert
 * [ng2-file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-file-upload)](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
 * [ngx-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/ngx-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/ngx-flow)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/flow.js) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/flow.js)](https://github.com/flowjs/flow.js) for file upload
+* [ngx-awesome-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/vugar005/ngx-awesome-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/vugar005/ngx-awesome-uploader)](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
+* [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Form Controls
 
@@ -576,13 +579,19 @@ become an Angular expert
 * [ngx-maplibre-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/maplibre/ngx-maplibre-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/maplibre/ngx-maplibre-gl)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
+#### Modals
+
+* [ngx-awesome-popup ![GitHub Repo Stars](https://img.shields.io/github/stars/boris-jenicek/ngx-awesome-popup) ![GitHub last commit](https://img.shields.io/github/last-commit/boris-jenicek/ngx-awesome-popup)](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
+* [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+* [ngx-modal-ease ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/modal-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/modal-library)](https://github.com/GreenFlag31/modal-library) - ngx-modal-ease is a versatile Angular library providing a lightweight, simple, and performant modal.
+* [ngx-smart-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/maximelafarie/ngx-smart-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/maximelafarie/ngx-smart-modal)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+
 #### Notifications
 
 * [ngx-sweetalert2 ![GitHub Repo Stars](https://img.shields.io/github/stars/sweetalert2/ngx-sweetalert2) ![GitHub last commit](https://img.shields.io/github/last-commit/sweetalert2/ngx-sweetalert2)](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toastr ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-toastr) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-toastr)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 * [hot-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxpert/hot-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxpert/hot-toast)](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
 * [ngx-sonner ![GitHub Repo Stars](https://img.shields.io/github/stars/tutkli/ngx-sonner) ![GitHub last commit](https://img.shields.io/github/last-commit/tutkli/ngx-sonner)](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
-* [ngx-awesome-popup ![GitHub Repo Stars](https://img.shields.io/github/stars/boris-jenicek/ngx-awesome-popup) ![GitHub last commit](https://img.shields.io/github/last-commit/boris-jenicek/ngx-awesome-popup)](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
 * [angular-bootstrap-toast-service ![GitHub Repo Stars](https://img.shields.io/github/stars/svierk/angular-bootstrap-toast-service) ![GitHub last commit](https://img.shields.io/github/last-commit/svierk/angular-bootstrap-toast-service)](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 * [angular2-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/flauc/angular2-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/flauc/angular2-notifications)](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 
@@ -689,7 +698,6 @@ become an Angular expert
 * [ng-generic-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-generic-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-generic-pipe)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [rx-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' computed().
 * [microwave ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
-* [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [edit-in-place ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/edit-in-place) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/edit-in-place)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [falso ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/falso) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs
 * [helipopper ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/helipopper) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/helipopper)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
@@ -744,8 +752,6 @@ become an Angular expert
 * [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 * [angular-http-cache-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-http-cache-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-http-cache-interceptor)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor
 * [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilkisiela/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/apollo-angular)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
-* [ngx-awesome-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/vugar005/ngx-awesome-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/vugar005/ngx-awesome-uploader)](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
-* [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Security
 
