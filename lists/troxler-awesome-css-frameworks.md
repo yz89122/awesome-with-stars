@@ -172,7 +172,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.  
   ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
-  [Demo](https://www.patternfly.org/pattern-library/),
+  [Demo](https://www.patternfly.org/patterns/about-patterns),
   [Docs](https://www.patternfly.org/get-started/),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/patternfly/patternfly) ![GitHub last commit](https://img.shields.io/github/last-commit/patternfly/patternfly)](https://github.com/patternfly/patternfly)
   | #SCSS #LESS
