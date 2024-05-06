@@ -318,6 +318,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveFrames Fork ![GitHub Repo Stars](https://img.shields.io/github/stars/linux-man/LoveFrames) ![GitHub last commit](https://img.shields.io/github/last-commit/linux-man/LoveFrames)](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
 * [Love Imgui ![GitHub Repo Stars](https://img.shields.io/github/stars/slages/love-imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/slages/love-imgui)](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
 * [Löve-Nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/keharriso/love-nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/keharriso/love-nuklear)](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
+* [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [NLay ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 * [Patchy ![GitHub Repo Stars](https://img.shields.io/github/stars/excessive/patchy) ![GitHub last commit](https://img.shields.io/github/last-commit/excessive/patchy)](https://github.com/excessive/patchy) - 9patch library.
