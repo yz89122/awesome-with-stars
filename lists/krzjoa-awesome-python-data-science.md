@@ -351,6 +351,8 @@
 <a name="opt"></a>
 ## Optimization
 * [Optuna ![GitHub Repo Stars](https://img.shields.io/github/stars/optuna/optuna) ![GitHub last commit](https://img.shields.io/github/last-commit/optuna/optuna)](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
+* [pymoo ![GitHub Repo Stars](https://img.shields.io/github/stars/anyoptimization/pymoo) ![GitHub last commit](https://img.shields.io/github/last-commit/anyoptimization/pymoo)](https://github.com/anyoptimization/pymoo) - Multi-objective Optimization in Python.
+* [pycma ![GitHub Repo Stars](https://img.shields.io/github/stars/CMA-ES/pycma) ![GitHub last commit](https://img.shields.io/github/last-commit/CMA-ES/pycma)](https://github.com/CMA-ES/pycma?tab=readme-ov-file) - Python implementation of CMA-ES.
 * [Spearmint ![GitHub Repo Stars](https://img.shields.io/github/stars/HIPS/Spearmint) ![GitHub last commit](https://img.shields.io/github/last-commit/HIPS/Spearmint)](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [BoTorch ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/botorch) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/botorch)](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [scikit-opt ![GitHub Repo Stars](https://img.shields.io/github/stars/guofei9987/scikit-opt) ![GitHub last commit](https://img.shields.io/github/last-commit/guofei9987/scikit-opt)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.

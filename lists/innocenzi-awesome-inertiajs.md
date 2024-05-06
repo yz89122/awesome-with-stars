@@ -86,6 +86,7 @@
 - [Echo ![GitHub Repo Stars](https://img.shields.io/github/stars/kohkimakimoto/inertia-echo) ![GitHub last commit](https://img.shields.io/github/last-commit/kohkimakimoto/inertia-echo)](https://github.com/kohkimakimoto/inertia-echo)
 - [Grails ![GitHub Repo Stars](https://img.shields.io/github/stars/matrei/grails-inertia-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/matrei/grails-inertia-plugin)](https://github.com/matrei/grails-inertia-plugin)
 - [FastAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/hxjo/fastapi-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/hxjo/fastapi-inertia)](https://github.com/hxjo/fastapi-inertia)
+- [Hyperf ![GitHub Repo Stars](https://img.shields.io/github/stars/onix-systems-php/hyperf-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/onix-systems-php/hyperf-inertia)](https://github.com/onix-systems-php/hyperf-inertia)
 
 ## Resources
 

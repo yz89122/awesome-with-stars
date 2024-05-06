@@ -523,7 +523,7 @@
 - [**Vue(2.0) + Node.js: A blog content manage system (CMS)** ![GitHub Repo Stars](https://img.shields.io/github/stars/ycwalker/CMS-of-Blog) ![GitHub last commit](https://img.shields.io/github/last-commit/ycwalker/CMS-of-Blog)](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
 - [ngexplorer-quasar ![GitHub Repo Stars](https://img.shields.io/github/stars/gustaYo/ngexplorer-quasar) ![GitHub last commit](https://img.shields.io/github/last-commit/gustaYo/ngexplorer-quasar)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework ![GitHub Repo Stars](https://img.shields.io/github/stars/rstoenescu/quasar-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/rstoenescu/quasar-framework)](https://github.com/rstoenescu/quasar-framework)
 - [zhihu-daily-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/moonou/zhihu-daily-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/moonou/zhihu-daily-vue)](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
-- [loopback-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/qxl1231/generator-loopback-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/qxl1231/generator-loopback-vue)](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page 分页功能,authenticate 权限控��,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231)
+- [loopback-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/qxl1231/generator-loopback-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/qxl1231/generator-loopback-vue)](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page 分页功能,authenticate 权限控制,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231)
 - [**vue-s3-dropzone** ![GitHub Repo Stars](https://img.shields.io/github/stars/kfei/vue-s3-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/kfei/vue-s3-dropzone)](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
 - [**easy-vue** ![GitHub Repo Stars](https://img.shields.io/github/stars/TIGERB/easy-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/TIGERB/easy-vue)](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 - [Vuex Events Messaging Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/metricloop/vuex-events-messaging-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/metricloop/vuex-events-messaging-demo)](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
@@ -2540,6 +2540,7 @@ _Set of components + responsive layout system_
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ManukMinasyan/stellar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ManukMinasyan/stellar-ui)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+- [Shadcn UI ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/shadcn-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/shadcn-vue)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](<https://github.com/shadcn-ui/ui>) (re-usable components built with [Radix Vue](<https://github.com/radix-vue/radix-vue>) and [Tailwind CSS](<https://github.com/tailwindlabs/tailwindcss>)).
 
 #### Mobile
 
@@ -2553,6 +2554,7 @@ _UI frameworks for mobile_
 - [Ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 - [Native script ![GitHub Repo Stars](https://img.shields.io/github/stars/nativescript-vue/nativescript-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/nativescript-vue/nativescript-vue)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 - [Vue Native ![GitHub Repo Stars](https://img.shields.io/github/stars/GeekyAnts/vue-native-core) ![GitHub last commit](https://img.shields.io/github/last-commit/GeekyAnts/vue-native-core)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
+- [uni-app ![GitHub Repo Stars](https://img.shields.io/github/stars/dcloudio/uni-app) ![GitHub last commit](https://img.shields.io/github/last-commit/dcloudio/uni-app)](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 _Set of components for mobile_
 
@@ -2620,6 +2622,7 @@ _Set of admin template_
 - [argon-dashboard-vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/ltv/argon-dashboard-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/ltv/argon-dashboard-vue3)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 - [Vitify Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/kingyue737/vitify-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/kingyue737/vitify-admin)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 - [Dolphin Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/bit-ocean-studio/dolphin-admin-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/bit-ocean-studio/dolphin-admin-vue)](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
+- [vue-vben-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 
 #### Server-side rendering
 
@@ -2637,6 +2640,7 @@ _Set of admin template_
 - [Gridsome ![GitHub Repo Stars](https://img.shields.io/github/stars/gridsome/gridsome) ![GitHub last commit](https://img.shields.io/github/last-commit/gridsome/gridsome)](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 - [Servue ![GitHub Repo Stars](https://img.shields.io/github/stars/futureaus/servue) ![GitHub last commit](https://img.shields.io/github/last-commit/futureaus/servue)](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
 - [îles ![GitHub Repo Stars](https://img.shields.io/github/stars/ElMassimo/iles) ![GitHub last commit](https://img.shields.io/github/last-commit/ElMassimo/iles)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+- [VitePress ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vitepress) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vitepress)](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 #### Other
 
@@ -2823,6 +2827,7 @@ _Seamless scrolling_
 - [vue-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/grafikri/vue-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/grafikri/vue-middleware)](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
 - [vue-router-webcache ![GitHub Repo Stars](https://img.shields.io/github/stars/Kolobok12309/vue-router-webcache) ![GitHub last commit](https://img.shields.io/github/last-commit/Kolobok12309/vue-router-webcache)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 - [v-route-generate ![GitHub Repo Stars](https://img.shields.io/github/stars/weiquanju/v-route-generate) ![GitHub last commit](https://img.shields.io/github/last-commit/weiquanju/v-route-generate)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+- [kitbag/router ![GitHub Repo Stars](https://img.shields.io/github/stars/kitbagjs/router) ![GitHub last commit](https://img.shields.io/github/last-commit/kitbagjs/router)](https://github.com/kitbagjs/router) - A type safe router for vuejs
 
 #### Lazy Load
 
@@ -3517,6 +3522,7 @@ _Inspecting & debugging_
 - [VueSource ![GitHub Repo Stars](https://img.shields.io/github/stars/davestewart/vue-source) ![GitHub last commit](https://img.shields.io/github/last-commit/davestewart/vue-source)](https://github.com/davestewart/vue-source) - Global Vue mixin which identifies components in source code by adding HTML comments
 - [NW-Vue-DevTools ![GitHub Repo Stars](https://img.shields.io/github/stars/TheJaredWilcurt/nw-vue-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/TheJaredWilcurt/nw-vue-devtools)](https://github.com/TheJaredWilcurt/nw-vue-devtools) - DevDependency for adding Vue DevTools into NW.js
 - [bruit-io ![GitHub Repo Stars](https://img.shields.io/github/stars/Moventes/bruit.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Moventes/bruit.io)](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
+- [devtools-next ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/devtools-next) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/devtools-next)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
 
 #### Docs
 
@@ -3707,6 +3713,7 @@ _Includes a backend boilerplate_
 - [electron-vite-template ![GitHub Repo Stars](https://img.shields.io/github/stars/umbrella22/electron-vite-template) ![GitHub last commit](https://img.shields.io/github/last-commit/umbrella22/electron-vite-template)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 - [Vitectron ![GitHub Repo Stars](https://img.shields.io/github/stars/hyroge/vite-vue-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/hyroge/vite-vue-electron)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 - [Vutron ![GitHub Repo Stars](https://img.shields.io/github/stars/jooy2/vutron) ![GitHub last commit](https://img.shields.io/github/last-commit/jooy2/vutron)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+- [electron-vite-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/electron-vite/electron-vite-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/electron-vite/electron-vite-vue)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
 #### Parts
 
