@@ -432,7 +432,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 > See also the bibliographies [by Eszter Hargittai](http://eszter.com/contract.html#socnet), [by Pierre François](http://pierrefrancois.wifeo.com/documents/Cours-rseau---biblio-gnrale.pdf) and [by Pierre Mercklé](http://socio.ens-lyon.fr/merckle/merckle_communications_2008_cargese_reseaux_nuls_biblio.pdf).
 
--   [A propos de la notion de r��le dans l’analyse des relations sociales](https://doi.org/10.4000/msh.11969) (_Mathématiques et sciences humaines_, 2011).
+-   [A propos de la notion de rôle dans l’analyse des relations sociales](https://doi.org/10.4000/msh.11969) (_Mathématiques et sciences humaines_, 2011).
 -   [Brokerage](https://doi.org/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Birds of a Feather: Homophily in Social Networks](https://doi.org/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) (ESRC NCRM Discussion Paper, 2010).
