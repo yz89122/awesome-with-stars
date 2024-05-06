@@ -408,7 +408,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * 📝 [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
-* 📝 [Topology Topics](http://mathonline.wikidot.com/topology)
+* ��� [Topology Topics](http://mathonline.wikidot.com/topology)
 
 ### Algebraic Topology
 
@@ -461,7 +461,7 @@ All resources are freely available except those with a 💲 icon.
 ### Complex Analysis
 
 * 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
-* �� [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
+* 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
@@ -550,7 +550,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Statistical Learning
 
-* 📝 [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+* ���� [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * 📝 [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * 📝 [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 * 📝 [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
