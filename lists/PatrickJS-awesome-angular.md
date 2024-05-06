@@ -62,7 +62,7 @@ Table of contents:
   * [UI Libraries](#ui-libraries)
     * [General](#general)
     * [Material](#material-based)
-    * [BootStrap](#bootstrap-based)
+    * [Bootstrap](#bootstrap-based)
     * [Tailwind](#tailwind-css-based)
     * [Node](#node-based)
   * [UX Components](#ux-components)
@@ -200,13 +200,13 @@ Table of contents:
 
 #### Blogs
 
-* [angular](https://blog.angular.io/) - Official Angular blog
+* [angular](https://blog.angular.io/) - Official Angular blog.
 * [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 * [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
-* [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+* [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
-* [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular 
+* [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular. 
 * [angular in depth](https://angularindepth.com/)
 * [angularminds](https://www.angularminds.com/blog)
 * [angulararchitects](https://www.angulararchitects.io/en/blog/)
@@ -226,15 +226,15 @@ Table of contents:
 
 * [Angular Universal Repository (GitHub) ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/universal) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/universal)](https://github.com/angular/universal)
 * [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
-* [ng-web-apis ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-web-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-web-apis)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular
-* [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new ssr package built into the framework.   
+* [ng-web-apis ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-web-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-web-apis)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
+* [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.   
 * [angular-prerender ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-prerender) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-prerender)](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 
 #### Material Design
 
 * [Official Angular Material Design (GitHub) ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/material2) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/material2)](https://github.com/angular/material2)
-* [MDBootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/mdbootstrap/mdb-angular-ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mdbootstrap/mdb-angular-ui-kit)](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT
+* [MDBootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/mdbootstrap/mdb-angular-ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mdbootstrap/mdb-angular-ui-kit)](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT.
 
 #### Cheatsheet
 
@@ -250,27 +250,27 @@ Table of contents:
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
 * [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
 * [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/) - Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components.
-* [ng-mocks ![GitHub Repo Stars](https://img.shields.io/github/stars/help-me-mom/ng-mocks) ![GitHub last commit](https://img.shields.io/github/last-commit/help-me-mom/ng-mocks)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup
-* [auto-spies ![GitHub Repo Stars](https://img.shields.io/github/stars/hirezio/auto-spies) ![GitHub last commit](https://img.shields.io/github/last-commit/hirezio/auto-spies)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes
-* [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - @angular/cdk/testing provides infrastructure to help with testing Angular components.
+* [ng-mocks ![GitHub Repo Stars](https://img.shields.io/github/stars/help-me-mom/ng-mocks) ![GitHub last commit](https://img.shields.io/github/last-commit/help-me-mom/ng-mocks)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
+* [auto-spies ![GitHub Repo Stars](https://img.shields.io/github/stars/hirezio/auto-spies) ![GitHub last commit](https://img.shields.io/github/last-commit/hirezio/auto-spies)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes.
+* [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 * [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.  
-* [jasmine](https://jasmine.github.io/) - Simple JavaScript testing
+* [jasmine](https://jasmine.github.io/) - Simple JavaScript testing.
 * [jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 * [jest-preset-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/thymikee/jest-preset-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/thymikee/jest-preset-angular)](https://github.com/thymikee/jest-preset-angular) - Jest configuration preset for Angular projects.
 * [jest-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/nvh95/jest-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/nvh95/jest-preview)](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.
 * [playwright-ct-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sand4rt/playwright-ct-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sand4rt/playwright-ct-angular)](https://github.com/sand4rt/playwright-ct-angular) - Playwright Angular component testing.
 * [spectacular ![GitHub Repo Stars](https://img.shields.io/github/stars/ngworker/ngworker) ![GitHub last commit](https://img.shields.io/github/last-commit/ngworker/ngworker)](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries. 
-* [spectator ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/spectator) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/spectator)](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests
+* [spectator ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/spectator) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/spectator)](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
 * [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
-* [webdriverio ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/webdriverio) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+* [webdriverio ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/webdriverio) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 * [cypress-harness ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
 * [swc-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 * [swc-angular-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.  
 * [angular-tour-of-heroes-jest-100-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage)](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 * [how-do-i-test ![GitHub Repo Stars](https://img.shields.io/github/stars/rainerhahnekamp/how-do-i-test) ![GitHub last commit](https://img.shields.io/github/last-commit/rainerhahnekamp/how-do-i-test)](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 * [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.
-* [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy
-* [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project
+* [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
+* [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
 
 #### Angular CLI
 
@@ -284,9 +284,9 @@ Table of contents:
 * [ESBuild](https://esbuild.github.io/)
 * [Nx ![GitHub Repo Stars](https://img.shields.io/github/stars/nrwl/nx) ![GitHub last commit](https://img.shields.io/github/last-commit/nrwl/nx)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 * [Angular Builders ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
-* [Jest Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
-* [Custom Webpack ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
-* [Custom ESBuild ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration. 
+* [Jest Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade.
+* [Custom Webpack ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack)
+* [Custom ESBuild ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild)
 * [Bazel ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
 * [Timestamp ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 * [ngx-build-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/manfredsteyer/ngx-build-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/manfredsteyer/ngx-build-plus)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
@@ -351,21 +351,21 @@ Table of contents:
 
 #### Online Training
 
-* [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices
+* [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices.
 * [Angular Training](https://www.angulartraining.com/) - The Angular Coach
-You Need
-* [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem
+You Need.
+* [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
-become an Angular expert
+become an Angular expert.
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 
 #### Integrations
 
-* [GraphQL + Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-angular)](https://github.com/apollographql/apollo-angular) - Caching GraphQL client for Angular and every GraphQL server 
-* [ckeditor5-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5-angular)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
-* [ckeditor4-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-angular)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
-* [TailwindCSS + Angular](https://tailwindcss.com/docs/guides/angular) - Integrate Angular app with Tailwind
+* [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-angular)](https://github.com/apollographql/apollo-angular) - Caching GraphQL client for Angular and every GraphQL server.
+* [ckeditor5-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5-angular)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
+* [ckeditor4-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-angular)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
+* [TailwindCSS + Angular](https://tailwindcss.com/docs/guides/angular) - Integrate Angular app with Tailwind.
 * [Sentry](https://docs.sentry.io/platforms/javascript/guides/angular/configuration/integrations/) - Sentry is a developer-first error tracking and performance monitoring platform.
 * [Stencil](https://stenciljs.com/docs/angular) - Stencil can generate Angular component wrappers for your web components. This can improve Angular performance.
 * [GoodData](https://www.gooddata.com/blog/frontend-integration-series-angular/) - Integrate GoodData Visualizations into your Angular application.
@@ -378,7 +378,7 @@ become an Angular expert
 * [ngx-google-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-google-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-google-analytics)](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [angular-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/descope/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/descope/angular-sdk)](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
-* [angular-electron ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-electron)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron
+* [angular-electron ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-electron)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
 * [Postcat ![GitHub Repo Stars](https://img.shields.io/github/stars/Postcatlab/postcat) ![GitHub last commit](https://img.shields.io/github/last-commit/Postcatlab/postcat)](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
 * [angulardart-community ![GitHub Repo Stars](https://img.shields.io/github/stars/angulardart-community/website) ![GitHub last commit](https://img.shields.io/github/last-commit/angulardart-community/website)](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
 * [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience. 
@@ -386,48 +386,47 @@ become an Angular expert
 
 #### Site Templates
 
-* [ngx-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/akveo/ngx-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/akveo/ngx-admin)](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+* [ngx-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/akveo/ngx-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/akveo/ngx-admin)](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+.
 * [ng-matero ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-matero/ng-matero) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-matero/ng-matero)](https://github.com/ng-matero/ng-matero) - Angular Material admin dashboard template.
-* [coreui-free-angular-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/coreui/coreui-free-angular-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/coreui/coreui-free-angular-admin-template)](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
-* [sakai-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/primefaces/sakai-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/sakai-ng)](https://github.com/primefaces/sakai-ng) - Free Angular Admin Template by PrimeNG
-* [angular-template-for-threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/makimenko/angular-template-for-threejs) ![GitHub last commit](https://img.shields.io/github/last-commit/makimenko/angular-template-for-threejs)](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js
-* [lemon-mart ![GitHub Repo Stars](https://img.shields.io/github/stars/duluca/lemon-mart) ![GitHub last commit](https://img.shields.io/github/last-commit/duluca/lemon-mart)](https://github.com/duluca/lemon-mart) - Angular Template App with a Router-first architecture
-* [devextreme-angular-template ![GitHub Repo Stars](https://img.shields.io/github/stars/DevExpress/devextreme-angular-template) ![GitHub last commit](https://img.shields.io/github/last-commit/DevExpress/devextreme-angular-template)](https://github.com/DevExpress/devextreme-angular-template) - Responsive Application Layout Templates​ based on DevExtreme Angular Components
+* [coreui-free-angular-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/coreui/coreui-free-angular-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/coreui/coreui-free-angular-admin-template)](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5.
+* [sakai-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/primefaces/sakai-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/sakai-ng)](https://github.com/primefaces/sakai-ng) - Free Angular Admin Template by PrimeNG.
+* [angular-template-for-threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/makimenko/angular-template-for-threejs) ![GitHub last commit](https://img.shields.io/github/last-commit/makimenko/angular-template-for-threejs)](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js.
+* [lemon-mart ![GitHub Repo Stars](https://img.shields.io/github/stars/duluca/lemon-mart) ![GitHub last commit](https://img.shields.io/github/last-commit/duluca/lemon-mart)](https://github.com/duluca/lemon-mart) - Angular Template App with a Router-first architecture.
+* [devextreme-angular-template ![GitHub Repo Stars](https://img.shields.io/github/stars/DevExpress/devextreme-angular-template) ![GitHub last commit](https://img.shields.io/github/last-commit/DevExpress/devextreme-angular-template)](https://github.com/DevExpress/devextreme-angular-template) - Responsive Application Layout Templates​ based on DevExtreme Angular Components.
 * [QuickApp ![GitHub Repo Stars](https://img.shields.io/github/stars/emonney/QuickApp) ![GitHub last commit](https://img.shields.io/github/last-commit/emonney/QuickApp)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development.
-* [angular-template-for-threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/makimenko/angular-template-for-threejs) ![GitHub last commit](https://img.shields.io/github/last-commit/makimenko/angular-template-for-threejs)](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js
 * [material-pro-angular-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/wrappixel/material-pro-angular-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/wrappixel/material-pro-angular-lite)](https://github.com/wrappixel/material-pro-angular-lite) - MaterialPro Angular Lite is high quality free angular material template / theme from WrapPixel. You can download and use for Personal as well as Commercial Projects.
 * [Angular-V17-Template ![GitHub Repo Stars](https://img.shields.io/github/stars/GabrielToth/Angular-V17-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/GabrielToth/Angular-V17-Template)](https://github.com/GabrielToth/Angular-V17-Template) - A template designed for Angular 17 that emphasizes clean code practices and test-friendly development.
 * [angular-quickstart ![GitHub Repo Stars](https://img.shields.io/github/stars/netlify-templates/angular-quickstart) ![GitHub last commit](https://img.shields.io/github/last-commit/netlify-templates/angular-quickstart)](https://github.com/netlify-templates/angular-quickstart) - A bare-bones Angular template to get you deployed to Netlify fast!
 * [sap-fiori-templates ![GitHub Repo Stars](https://img.shields.io/github/stars/meta-d/sap-fiori-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/meta-d/sap-fiori-templates)](https://github.com/meta-d/sap-fiori-templates) - SAP BTP & Fiori App templates implemented with third-party frontend frameworks such as React, Vue, and Angular.
 * [template-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/phaserjs/template-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/phaserjs/template-angular)](https://github.com/phaserjs/template-angular) - Phaser 3 TypeScript project template that uses the Angular framework and Vite for bundling.
 * [angular-nest ![GitHub Repo Stars](https://img.shields.io/github/stars/mugifly/angular-nest) ![GitHub last commit](https://img.shields.io/github/last-commit/mugifly/angular-nest)](https://github.com/mugifly/angular-nest) - Simple web app template with Angular v17 + NestJS v9 + ng-openapi-gen.
-* [gradient-able-free-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/gradient-able-free-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/gradient-able-free-admin-template)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
+* [gradient-able-free-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/gradient-able-free-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/gradient-able-free-admin-template)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 * [angular-ngrx-frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/tarlepp/angular-ngrx-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/tarlepp/angular-ngrx-frontend)](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
-* [Threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnnyDevNull/ng-three-template) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnnyDevNull/ng-three-template)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app
+* [Threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnnyDevNull/ng-three-template) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnnyDevNull/ng-three-template)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
 
 #### Generators
 
 * Node.js
-  * [teleport-code-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/teleporthq/teleport-code-generators)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+  * [teleport-code-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/teleporthq/teleport-code-generators)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
   * [graphql-code-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/dotansimha/graphql-code-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/dotansimha/graphql-code-generator)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
   * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
   * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
   * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
-  * [angularx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/cordobo/angularx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/cordobo/angularx-qrcode)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library
+  * [angularx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/cordobo/angularx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/cordobo/angularx-qrcode)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
 * Spring Boot
-  * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
-  * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular
+  * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
+  * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular.
 
 #### Documentation tools
 
-* [Storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybooks/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybooks/storybook)](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use
-* [Compodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/compodoc/compodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/compodoc/compodoc)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
-* [ng-doc ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-doc/ng-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-doc/ng-doc)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects
+* [Storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybooks/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybooks/storybook)](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use.
+* [Compodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/compodoc/compodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/compodoc/compodoc)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
+* [ng-doc ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-doc/ng-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-doc/ng-doc)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 * [docgeni ![GitHub Repo Stars](https://img.shields.io/github/stars/docgeni/docgeni) ![GitHub last commit](https://img.shields.io/github/last-commit/docgeni/docgeni)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Developer tools
 
-* [StackBlitz](https://stackblitz.com) - Instant Dev Environments
+* [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
@@ -435,7 +434,7 @@ become an Angular expert
 * [Redux DevTools ![GitHub Repo Stars](https://img.shields.io/github/stars/reduxjs/redux-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/redux-devtools)](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with @ngrx/store-devtools to inspect the state of your NgRx app.  
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
-* [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
+* [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing).
 
 ---
 
@@ -444,7 +443,7 @@ become an Angular expert
 #### Animations
 
 * [tsparticles ![GitHub Repo Stars](https://img.shields.io/github/stars/tsparticles/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/tsparticles/angular)](https://github.com/tsparticles/angular/#readme) - A component to easily add Particles animations to your Angular application.
-* [ngx-confetti-explosion ![GitHub Repo Stars](https://img.shields.io/github/stars/ChellappanRajan/ngx-confetti-explosion) ![GitHub last commit](https://img.shields.io/github/last-commit/ChellappanRajan/ngx-confetti-explosion)](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular
+* [ngx-confetti-explosion ![GitHub Repo Stars](https://img.shields.io/github/stars/ChellappanRajan/ngx-confetti-explosion) ![GitHub last commit](https://img.shields.io/github/last-commit/ChellappanRajan/ngx-confetti-explosion)](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular.
 * [angular-animations ![GitHub Repo Stars](https://img.shields.io/github/stars/filipows/angular-animations) ![GitHub last commit](https://img.shields.io/github/last-commit/filipows/angular-animations)](https://github.com/filipows/angular-animations) - Easy, Reusable Animation Utility library for Angular.
 * [ngx-lottie ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-lottie/ngx-lottie) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-lottie/ngx-lottie)](https://github.com/ngx-lottie/ngx-lottie) - Fully customizable Angular component for rendering After Effects animations. Compatible with Angular 9+.
 * [angular-animations-explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/williamjuan027/angular-animations-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/williamjuan027/angular-animations-explorer)](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
@@ -454,30 +453,30 @@ become an Angular expert
 #### Calendars
 
 * [angular-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/mattlewis92/angular-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/mattlewis92/angular-calendar)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
-* [angular-calendar-scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/michelebombardi/angular-calendar-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/michelebombardi/angular-calendar-scheduler)](https://github.com/michelebombardi/angular-calendar-scheduler) - A scheduler view component for angular-calendar
-* [ng-fullcalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-fullcalendar/ng-fullcalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-fullcalendar/ng-fullcalendar)](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular
+* [angular-calendar-scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/michelebombardi/angular-calendar-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/michelebombardi/angular-calendar-scheduler)](https://github.com/michelebombardi/angular-calendar-scheduler) - A scheduler view component for angular.
+* [ng-fullcalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-fullcalendar/ng-fullcalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-fullcalendar/ng-fullcalendar)](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular.
 * [fullcalendar-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/fullcalendar/fullcalendar-angular)](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
-* [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️
+* [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 
 #### Charts
 
-* [ng2-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-charts)](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
+* [ng2-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-charts)](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
 * [ngx-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-charts)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ng-apexcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/apexcharts/ng-apexcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/apexcharts/ng-apexcharts)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
-* [ng-chartist ![GitHub Repo Stars](https://img.shields.io/github/stars/willsoto/ng-chartist) ![GitHub last commit](https://img.shields.io/github/last-commit/willsoto/ng-chartist)](https://github.com/willsoto/ng-chartist) - Angular component for Chartist.js
+* [ng-chartist ![GitHub Repo Stars](https://img.shields.io/github/stars/willsoto/ng-chartist) ![GitHub last commit](https://img.shields.io/github/last-commit/willsoto/ng-chartist)](https://github.com/willsoto/ng-chartist) - Angular component for Chartist.js.
 * [org-chart ![GitHub Repo Stars](https://img.shields.io/github/stars/bumbeishvili/org-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/bumbeishvili/org-chart)](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
 * [ag-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/ag-grid/ag-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/ag-grid/ag-charts)](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
-* [systelab-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/systelab/systelab-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/systelab/systelab-charts)](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services
-* [ngx-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/worktile/ngx-gantt) ![GitHub last commit](https://img.shields.io/github/last-commit/worktile/ngx-gantt)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular
+* [systelab-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/systelab/systelab-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/systelab/systelab-charts)](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
+* [ngx-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/worktile/ngx-gantt) ![GitHub last commit](https://img.shields.io/github/last-commit/worktile/ngx-gantt)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 * [carbon-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-charts)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [dag ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dag) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dag)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
 #### Drag/Drop
 
 * [ng2-dragula ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-dragula) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-dragula)](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
-* [ngx-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/reppners/ngx-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/reppners/ngx-drag-drop)](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API
+* [ngx-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/reppners/ngx-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/reppners/ngx-drag-drop)](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
 * [ngx-dropzone ![GitHub Repo Stars](https://img.shields.io/github/stars/hackingharold/ngx-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/hackingharold/ngx-dropzone)](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
-* [ng-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-dnd/ng-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-dnd/ng-dnd)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular
+* [ng-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-dnd/ng-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-dnd/ng-dnd)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [ngx-file-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/telebroad/ngx-file-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/telebroad/ngx-file-drag-drop)](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The @angular/cdk/drag-drop module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 
@@ -499,7 +498,7 @@ become an Angular expert
 
 #### File Upload
 
-* [ng2-file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-file-upload)](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
+* [ng2-file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-file-upload)](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
 * [ngx-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/ngx-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/ngx-flow)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/flow.js) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/flow.js)](https://github.com/flowjs/flow.js) for file upload
 * [ngx-awesome-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/vugar005/ngx-awesome-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/vugar005/ngx-awesome-uploader)](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
@@ -546,12 +545,12 @@ become an Angular expert
 
 #### Layout Components
 
-* [@robingenz/ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/robingenz/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/robingenz/ngx-infinite-scroll)](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
-* [angular-fullpage ![GitHub Repo Stars](https://img.shields.io/github/stars/alvarotrigo/angular-fullpage) ![GitHub last commit](https://img.shields.io/github/last-commit/alvarotrigo/angular-fullpage)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
-* [angular-split ![GitHub Repo Stars](https://img.shields.io/github/stars/bertrandg/angular-split) ![GitHub last commit](https://img.shields.io/github/last-commit/bertrandg/angular-split)](https://github.com/bertrandg/angular-split) Angular split component
+* [@robingenz/ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/robingenz/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/robingenz/ngx-infinite-scroll)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
+* [angular-fullpage ![GitHub Repo Stars](https://img.shields.io/github/stars/alvarotrigo/angular-fullpage) ![GitHub last commit](https://img.shields.io/github/last-commit/alvarotrigo/angular-fullpage)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
+* [angular-split ![GitHub Repo Stars](https://img.shields.io/github/stars/bertrandg/angular-split) ![GitHub last commit](https://img.shields.io/github/last-commit/bertrandg/angular-split)](https://github.com/bertrandg/angular-split) - Angular split component.
 * [ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/orizens/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/orizens/ngx-infinite-scroll)](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
 * [egjs-infinitegrid ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-infinitegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-infinitegrid)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
-* [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`)
+* [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 * [overview ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/overview) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/overview)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 
 #### Loaders
@@ -566,7 +565,7 @@ become an Angular expert
 * [ng-block-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/kuuurt13/ng-block-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/kuuurt13/ng-block-ui)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
 * [ngx-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/napster2210/ngx-spinner) ![GitHub last commit](https://img.shields.io/github/last-commit/napster2210/ngx-spinner)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 * [angular-busy ![GitHub Repo Stars](https://img.shields.io/github/stars/tiberiuzuld/angular-busy) ![GitHub last commit](https://img.shields.io/github/last-commit/tiberiuzuld/angular-busy)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
-* [angular-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/angular-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/angular-loaders)](https://github.com/pjlamb12/angular-loaders) - Angular loader components
+* [angular-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/angular-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/angular-loaders)](https://github.com/pjlamb12/angular-loaders) - Angular loader components.
 * [ngx-loader-indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/jsdaddy/ngx-loader-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/jsdaddy/ngx-loader-indicator)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
 * [ngx-skeleton-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-skeleton-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-skeleton-loader)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 
@@ -583,7 +582,7 @@ become an Angular expert
 
 * [ngx-awesome-popup ![GitHub Repo Stars](https://img.shields.io/github/stars/boris-jenicek/ngx-awesome-popup) ![GitHub last commit](https://img.shields.io/github/last-commit/boris-jenicek/ngx-awesome-popup)](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
 * [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dialog)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
-* [ngx-modal-ease ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/modal-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/modal-library)](https://github.com/GreenFlag31/modal-library) - ngx-modal-ease is a versatile Angular library providing a lightweight, simple, and performant modal.
+* [ngx-modal-ease ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/modal-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/modal-library)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 * [ngx-smart-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/maximelafarie/ngx-smart-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/maximelafarie/ngx-smart-modal)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
 #### Notifications
@@ -662,9 +661,10 @@ become an Angular expert
 
 ##### Bootstrap Based
 
-* [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Material Design for Bootstrap 4 (Angular)
-* [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
-* [ngx-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ngx-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ngx-bootstrap)](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
+* [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) - Material Design
+for Bootstrap 5 & Angular 17.
+* [ng-bootstrap](https://ng-bootstrap.github.io) - Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem.
+* [ngx-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ngx-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ngx-bootstrap)](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
 
 ##### Tailwind CSS Based
 
@@ -677,9 +677,9 @@ become an Angular expert
 
 #### UX Components
 
-* [angular-shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/angular-shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/angular-shepherd)](https://github.com/shepherd-pro/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/shepherd)](https://github.com/shepherd-pro/shepherd)
-* [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
-* [skyux ![GitHub Repo Stars](https://img.shields.io/github/stars/blackbaud/skyux) ![GitHub last commit](https://img.shields.io/github/last-commit/blackbaud/skyux)](https://github.com/blackbaud/skyux) - SKY UX components for Angular
+* [angular-shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/angular-shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/angular-shepherd)](https://github.com/shepherd-pro/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/shepherd)](https://github.com/shepherd-pro/shepherd).
+* [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web.
+* [skyux ![GitHub Repo Stars](https://img.shields.io/github/stars/blackbaud/skyux) ![GitHub last commit](https://img.shields.io/github/last-commit/blackbaud/skyux)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
 * [ngx-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-ui-tour)](https://github.com/hakimio/ngx-ui-tour) - ngx-ui-tour is a UI tour library inspired by angular-ui-tour.
 
 #### Viewers
@@ -694,18 +694,18 @@ become an Angular expert
 #### Misc Components
 
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
-* [ng2-adsense ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ng2-adsense) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ng2-adsense)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
-* [ngx-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
+* [ng2-adsense ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ng2-adsense) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ng2-adsense)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications.
+* [ngx-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [xng-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvunnam/xng-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvunnam/xng-breadcrumb)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-let) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-let)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 * [ng-for-track-by-property ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-for-track-by-property) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-for-track-by-property)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 * [ng-portal ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-portal) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-portal)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
 * [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
 * [ng-generic-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-generic-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-generic-pipe)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
-* [rx-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' computed().
+* [rx-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 * [microwave ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [edit-in-place ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/edit-in-place) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/edit-in-place)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
-* [falso ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/falso) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs
+* [falso ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/falso) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 * [helipopper ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/helipopper) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/helipopper)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 
 #### RxJS
@@ -727,7 +727,7 @@ become an Angular expert
 * [DefinitelyTyped Repository (GitHub) ![GitHub Repo Stars](https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped) ![GitHub last commit](https://img.shields.io/github/last-commit/DefinitelyTyped/DefinitelyTyped)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 * [typehero ![GitHub Repo Stars](https://img.shields.io/github/stars/typehero/typehero) ![GitHub last commit](https://img.shields.io/github/last-commit/typehero/typehero)](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
 * [type-challenges ![GitHub Repo Stars](https://img.shields.io/github/stars/type-challenges/type-challenges) ![GitHub last commit](https://img.shields.io/github/last-commit/type-challenges/type-challenges)](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
-* [typescript-challenges ![GitHub Repo Stars](https://img.shields.io/github/stars/psmyrdek/typescript-challenges) ![GitHub last commit](https://img.shields.io/github/last-commit/psmyrdek/typescript-challenges)](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript
+* [typescript-challenges ![GitHub Repo Stars](https://img.shields.io/github/stars/psmyrdek/typescript-challenges) ![GitHub last commit](https://img.shields.io/github/last-commit/psmyrdek/typescript-challenges)](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript.
 * [Sheriff ![GitHub Repo Stars](https://img.shields.io/github/stars/softarc-consulting/sheriff) ![GitHub last commit](https://img.shields.io/github/last-commit/softarc-consulting/sheriff)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
 * [Total Typescript Book ![GitHub Repo Stars](https://img.shields.io/github/stars/total-typescript/total-typescript-book) ![GitHub last commit](https://img.shields.io/github/last-commit/total-typescript/total-typescript-book)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 * [ts-essentials ![GitHub Repo Stars](https://img.shields.io/github/stars/ts-essentials/ts-essentials) ![GitHub last commit](https://img.shields.io/github/last-commit/ts-essentials/ts-essentials)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
@@ -756,7 +756,7 @@ become an Angular expert
 * [ng-http-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-http-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-http-caching)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 * [cashew ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/cashew) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
-* [angular-http-cache-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-http-cache-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-http-cache-interceptor)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor
+* [angular-http-cache-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-http-cache-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-http-cache-interceptor)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
 * [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilkisiela/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/apollo-angular)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
 
 #### Security
@@ -770,9 +770,9 @@ become an Angular expert
 #### Authentication
 
 * [casl-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/stalniy/casl) ![GitHub last commit](https://img.shields.io/github/last-commit/stalniy/casl)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL ![GitHub Repo Stars](https://img.shields.io/github/stars/stalniy/casl) ![GitHub last commit](https://img.shields.io/github/last-commit/stalniy/casl)](https://github.com/stalniy/casl) with Angular2+.
-* [ngx-auth-firebaseui ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyNahas/ngx-auth-firebaseui) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyNahas/ngx-auth-firebaseui)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`.
+* [ngx-auth-firebaseui ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyNahas/ngx-auth-firebaseui) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyNahas/ngx-auth-firebaseui)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for Firebase authentication.
 * [ngx-permissions ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexKhymenko/ngx-permissions) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexKhymenko/ngx-permissions)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
-* [angular-auth-oidc-client ![GitHub Repo Stars](https://img.shields.io/github/stars/damienbod/angular-auth-oidc-client) ![GitHub last commit](https://img.shields.io/github/last-commit/damienbod/angular-auth-oidc-client)](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow.
+* [angular-auth-oidc-client ![GitHub Repo Stars](https://img.shields.io/github/stars/damienbod/angular-auth-oidc-client) ![GitHub last commit](https://img.shields.io/github/last-commit/damienbod/angular-auth-oidc-client)](https://github.com/damienbod/angular-auth-oidc-client) - NPM package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow.
 * [angularx-social-login ![GitHub Repo Stars](https://img.shields.io/github/stars/abacritt/angularx-social-login) ![GitHub last commit](https://img.shields.io/github/last-commit/abacritt/angularx-social-login)](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17.
 * [ms-identity-javascript-angular-tutorial ![GitHub Repo Stars](https://img.shields.io/github/stars/Azure-Samples/ms-identity-javascript-angular-tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/Azure-Samples/ms-identity-javascript-angular-tutorial)](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial) - A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular.
 * [angular2-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/auth0/angular2-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/auth0/angular2-jwt)](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps.
@@ -788,7 +788,7 @@ become an Angular expert
 * [ngrx](https://ngrx.io/) - Reactive State for Angular.
 * [ngrx-course ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-university/ngrx-course) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-university/ngrx-course)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
 * [ngrx-store-localstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/btroncone/ngrx-store-localstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/btroncone/ngrx-store-localstorage)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
-* [ngrx-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/ngrx-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/ngrx-toolkit)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store
+* [ngrx-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/ngrx-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/ngrx-toolkit)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
 * [ngrx-traits ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielguerrero/ngrx-traits) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielguerrero/ngrx-traits)](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
 * [ngrx-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/Michsior14/ngrx-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/Michsior14/ngrx-addons)](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
 * [ngrx-store-storagesync ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngrx-store-storagesync) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngrx-store-storagesync)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
@@ -804,7 +804,7 @@ become an Angular expert
 
 * [aws amplify](https://docs.amplify.aws/angular/)
 * [Vercel](https://vercel.com/solutions/angular)
-* [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angularfire) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angularfire)](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.  
+* [Firebase Hosting](https://firebase.google.com/docs/hosting) 
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-schule/angular-cli-ghpages)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 
@@ -826,7 +826,7 @@ become an Angular expert
 * [ng-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/doorgets/ng-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/doorgets/ng-translate)](https://github.com/doorgets/ng-translate) - Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included).
 * [ngxe ![GitHub Repo Stars](https://img.shields.io/github/stars/navix/ngxe) ![GitHub last commit](https://img.shields.io/github/last-commit/navix/ngxe)](https://github.com/navix/ngxe) - Angular 11.1+ JSON Translations Editor.
 * [ngx-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-translate/core) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-translate/core)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
-* [ngx-translate-module-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngx-translate-module-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngx-translate-module-loader)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`
+* [ngx-translate-module-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngx-translate-module-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngx-translate-module-loader)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
 * [ngx-translate-multi-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-translate-multi-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-translate-multi-http-loader)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 
 ---
