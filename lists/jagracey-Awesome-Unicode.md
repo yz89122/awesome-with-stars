@@ -436,7 +436,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FA7](https://codepoints.net/U+1FA7?lang=en) | `ᾧ`       | GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI    | `ὧ`, `ι`         | U+1F67, U+03B9         |
 | [U+1FA8](https://codepoints.net/U+1FA8?lang=en) | `ᾨ`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI                 | `ὠ`, `ι`         | U+1F60, U+03B9         |
 | [U+1FA9](https://codepoints.net/U+1FA9?lang=en) | `ᾩ`       | GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI                 | `ὡ`, `ι`         | U+1F61, U+03B9         |
-| [U+1FAA](https://codepoints.net/U+1FAA?lang=en) | `���`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI       | `ὢ`, `ι`         | U+1F62, U+03B9         |
+| [U+1FAA](https://codepoints.net/U+1FAA?lang=en) | `ᾪ`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI       | `ὢ`, `ι`         | U+1F62, U+03B9         |
 | [U+1FAB](https://codepoints.net/U+1FAB?lang=en) | `ᾫ`       | GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI       | `ὣ`, `ι`         | U+1F63, U+03B9         |
 | [U+1FAC](https://codepoints.net/U+1FAC?lang=en) | `ᾬ`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI        | `ὤ`, `ι`         | U+1F64, U+03B9         |
 | [U+1FAD](https://codepoints.net/U+1FAD?lang=en) | `ᾭ`       | GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI        | `ὥ`, `ι`         | U+1F65, U+03B9         |
