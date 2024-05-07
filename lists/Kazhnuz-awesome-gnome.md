@@ -128,6 +128,7 @@
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokse22/ascii-draw) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokse22/ascii-draw)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 - [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
+- [Mingle ![GitHub Repo Stars](https://img.shields.io/github/stars/halfmexican/mingle) ![GitHub last commit](https://img.shields.io/github/last-commit/halfmexican/mingle)](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen.
 
 ### Scientific Tooling
 
@@ -158,6 +159,7 @@
 - [BoxBuddy ![GitHub Repo Stars](https://img.shields.io/github/stars/Dvlv/BoxBuddyRS) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvlv/BoxBuddyRS)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
 - [Pods ![GitHub Repo Stars](https://img.shields.io/github/stars/marhkb/pods) ![GitHub last commit](https://img.shields.io/github/last-commit/marhkb/pods)](https://github.com/marhkb/pods) - Podman containers manager.
 - [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - Terminal with first-class support for containers.
+- [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
 
 ### Utilities
 
@@ -204,7 +206,7 @@
 - [Forge Sparks ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelmardojai/forge-sparks) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelmardojai/forge-sparks)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 - [Biblioteca ![GitHub Repo Stars](https://img.shields.io/github/stars/workbenchdev/Biblioteca) ![GitHub last commit](https://img.shields.io/github/last-commit/workbenchdev/Biblioteca)](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle][GNOME Circle]
-- [Hieroglyphic ![GitHub Repo Stars](https://img.shields.io/github/stars/FineFindus/Hieroglyphic) ![GitHub last commit](https://img.shields.io/github/last-commit/FineFindus/Hieroglyphic)](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching.
+- [Hieroglyphic ![GitHub Repo Stars](https://img.shields.io/github/stars/FineFindus/Hieroglyphic) ![GitHub last commit](https://img.shields.io/github/last-commit/FineFindus/Hieroglyphic)](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching. ![GNOME Circle][GNOME Circle]
 
 #### Design Tooling
 

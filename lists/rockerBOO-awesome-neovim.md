@@ -201,6 +201,7 @@
 - [olimorris/codecompanion.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 - [simplegpt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/simplegpt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/simplegpt.nvim)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 - [Exafunction/codeium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
+- [CopilotC-Nvim/CopilotChat.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CopilotC-Nvim/CopilotChat.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CopilotC-Nvim/CopilotChat.nvim)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 
 ## Programming Languages Support
 
