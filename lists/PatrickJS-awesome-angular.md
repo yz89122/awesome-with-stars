@@ -75,6 +75,7 @@ Table of contents:
 * [Security](#security)
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
+* [Analytics](#analytics)
 * [Deployment](#deployment)
 * [Updating](#updating)
 * [Internationalization](#internationalization)
@@ -375,7 +376,6 @@ become an Angular expert.
 * [Strich](https://docs.strich.io/angular-integration-guide.html) - STRICH is a JavaScript library for real-time, multi-format barcode scanning directly in the web browser.
 * [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
 * [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
-* [ngx-google-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-google-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-google-analytics)](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [angular-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/descope/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/descope/angular-sdk)](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
 * [angular-electron ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-electron)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
@@ -799,6 +799,16 @@ for Bootstrap 5 & Angular 17.
 * [platform ![GitHub Repo Stars](https://img.shields.io/github/stars/trellisorg/platform) ![GitHub last commit](https://img.shields.io/github/last-commit/trellisorg/platform)](https://github.com/trellisorg/platform) - The Trellis Open Source Repo contains projects and tools, some of which Trellis uses internally, but has opened sourced for the community to use.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
+
+#### Analytics
+
+* [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
+* [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - `ngx-tableau` is an Angular module that allows to embed a Tableau report in an Angular webapp.
+* [ngx-google-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-google-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-google-analytics)](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
+* [ng2-adsense ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ng2-adsense) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ng2-adsense)](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component
+* [ngx-matomo-client ![GitHub Repo Stars](https://img.shields.io/github/stars/EmmanuelRoux/ngx-matomo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/EmmanuelRoux/ngx-matomo-client)](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications
+* [angulartics2 ![GitHub Repo Stars](https://img.shields.io/github/stars/angulartics/angulartics2) ![GitHub last commit](https://img.shields.io/github/last-commit/angulartics/angulartics2)](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
+* [angular-google-tag-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/mzuccaroli/angular-google-tag-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/mzuccaroli/angular-google-tag-manager)](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your angular project.
 
 #### Deployment
 
