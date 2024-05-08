@@ -286,7 +286,7 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 
 - [Electron React Boilerplate website](https://electron-react-boilerplate.js.org/)
 
-### Vue with Electron [���](https://awesomestacks.dev/vue-with-electron)
+### Vue with Electron [↗](https://awesomestacks.dev/vue-with-electron)
 
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app using Vue and Electron.
 
@@ -387,7 +387,7 @@ Hosted tools to use to analyze user behavior for a web app.
 
 - [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
 - [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
-- [Amplitude](https://amplitude.com) - [🛠��](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
+- [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 - [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra)
