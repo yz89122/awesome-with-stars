@@ -576,7 +576,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### Android Examples
 
-- [apollo-frontpage-android-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rnitame/apollo-frontpage-android-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rnitame/apollo-frontpage-android-app)](https://github.com/rnitame/apollo-frontpage-android-app) - ���� Apollo "hello world" app, for Android.
+- [apollo-frontpage-android-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rnitame/apollo-frontpage-android-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rnitame/apollo-frontpage-android-app)](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android.
 
 <a name="ios" />
 
