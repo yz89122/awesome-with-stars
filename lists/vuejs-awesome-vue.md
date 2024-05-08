@@ -947,6 +947,7 @@
 - [starfish-vue3-lowcode ![GitHub Repo Stars](https://img.shields.io/github/stars/haixin-fang/starfish-vue3-lowcode) ![GitHub last commit](https://img.shields.io/github/last-commit/haixin-fang/starfish-vue3-lowcode)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
 - [Al Quran App-Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/monayemislam/Al-Quran-Using-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/monayemislam/Al-Quran-Using-Vue)](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
 - [vue3-realworld-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rofixro/vue3-realworld-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rofixro/vue3-realworld-app)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
+- [slidev ![GitHub Repo Stars](https://img.shields.io/github/stars/slidevjs/slidev) ![GitHub last commit](https://img.shields.io/github/last-commit/slidevjs/slidev)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
 ### Commercial Products
 
@@ -1858,6 +1859,7 @@ _Display non-editable events in a Calendar_
 - [vue-qart ![GitHub Repo Stars](https://img.shields.io/github/stars/superman66/vue-qart) ![GitHub last commit](https://img.shields.io/github/last-commit/superman66/vue-qart)](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
 - [vue-qrcode-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/gruhn/vue-qrcode-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/gruhn/vue-qrcode-reader)](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 - [vue3-qr-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/HJ29/vue3-qr-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/HJ29/vue3-qr-reader)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
+- [qrcode.vue ![GitHub Repo Stars](https://img.shields.io/github/stars/scopewu/qrcode.vue) ![GitHub last commit](https://img.shields.io/github/last-commit/scopewu/qrcode.vue)](https://github.com/scopewu/qrcode.vue) - A Vue.js component to generate qrcode. Supports both Vue 2 and Vue 3.
 
 #### Search
 
@@ -2293,6 +2295,7 @@ _Edit images_
 - [vue-anka-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/e-anka/vue-anka-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/e-anka/vue-anka-cropper)](https://github.com/e-anka/vue-anka-cropper) - image cropper and uploader, rectangular and circular crop, customizable css
 - [vue-picture-cut ![GitHub Repo Stars](https://img.shields.io/github/stars/987153776/vue-picture-cut) ![GitHub last commit](https://img.shields.io/github/last-commit/987153776/vue-picture-cut)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 - [vue-img-cutter ![GitHub Repo Stars](https://img.shields.io/github/stars/acccccccb/vue-img-cutter) ![GitHub last commit](https://img.shields.io/github/last-commit/acccccccb/vue-img-cutter)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
+- [vue-picture-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/chengpeiquan/vue-picture-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/chengpeiquan/vue-picture-cropper)](https://github.com/chengpeiquan/vue-picture-cropper) - A simple and easy-to-use picture cropping component for Vue 3.
 
 _Display images_
 
@@ -2909,6 +2912,7 @@ _Seamless scrolling_
 - [@formkit/auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/auto-animate)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [vue-contextual-transition ![GitHub Repo Stars](https://img.shields.io/github/stars/beepy/vue-contextual-transition) ![GitHub last commit](https://img.shields.io/github/last-commit/beepy/vue-contextual-transition)](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
 - [blottie ![GitHub Repo Stars](https://img.shields.io/github/stars/Applelo/blottie) ![GitHub last commit](https://img.shields.io/github/last-commit/Applelo/blottie)](https://github.com/Applelo/blottie) Lottie component for Vue 3
+- [vue-countup-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/jizai1125/vue-countup-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/jizai1125/vue-countup-v3)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 
 #### Meta Tags
 
@@ -2983,8 +2987,9 @@ _Move a DOM node to a target DOM node_
 - [vue-displacement-slideshow ![GitHub Repo Stars](https://img.shields.io/github/stars/AlbanCrepel/vue-displacement-slideshow) ![GitHub last commit](https://img.shields.io/github/last-commit/AlbanCrepel/vue-displacement-slideshow)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 - [vue-fake3d-image-effect ![GitHub Repo Stars](https://img.shields.io/github/stars/LuXDAmore/vue-fake3d-image-effect) ![GitHub last commit](https://img.shields.io/github/last-commit/LuXDAmore/vue-fake3d-image-effect)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 - [drie ![GitHub Repo Stars](https://img.shields.io/github/stars/janvorisek/drie) ![GitHub last commit](https://img.shields.io/github/last-commit/janvorisek/drie)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
-- [TresJs ![GitHub Repo Stars](https://img.shields.io/github/stars/tresjs/tres) ![GitHub last commit](https://img.shields.io/github/last-commit/tresjs/tres)](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components
-- [Cientos ![GitHub Repo Stars](https://img.shields.io/github/stars/Tresjs/cientos) ![GitHub last commit](https://img.shields.io/github/last-commit/Tresjs/cientos)](https://github.com/Tresjs/cientos): Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+- [TresJs ![GitHub Repo Stars](https://img.shields.io/github/stars/tresjs/tres) ![GitHub last commit](https://img.shields.io/github/last-commit/tresjs/tres)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
+- [Cientos ![GitHub Repo Stars](https://img.shields.io/github/stars/Tresjs/cientos) ![GitHub last commit](https://img.shields.io/github/last-commit/Tresjs/cientos)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+- [trois ![GitHub Repo Stars](https://img.shields.io/github/stars/troisjs/trois) ![GitHub last commit](https://img.shields.io/github/last-commit/troisjs/trois)](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
 #### Fullscreen
 
@@ -3023,6 +3028,7 @@ _Utilities not directly related to the UI_
 - [vue-props-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/rubnvp/vue-props-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/rubnvp/vue-props-validation)](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
 - [vue-next-rx ![GitHub Repo Stars](https://img.shields.io/github/stars/NOPR9D/vue-next-rx) ![GitHub last commit](https://img.shields.io/github/last-commit/NOPR9D/vue-next-rx)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 - [fontawesome-autogen ![GitHub Repo Stars](https://img.shields.io/github/stars/GTANAdam/fontawesome-autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/GTANAdam/fontawesome-autogen)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
+- [vue-macros](https://vue-macros.dev) - Explore and extend more macros and syntax sugar to Vue.
 
 #### Typescript
 
@@ -3119,6 +3125,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-plugin-events ![GitHub Repo Stars](https://img.shields.io/github/stars/nolde/vue-plugin-events) ![GitHub last commit](https://img.shields.io/github/last-commit/nolde/vue-plugin-events)](https://github.com/nolde/vue-plugin-events) - Simple global event bus for Vue.js applications with automatic subscription control.
 - [vue3-custom-hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/PoluosmakAndrew/vue3-custom-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/PoluosmakAndrew/vue3-custom-hooks)](https://github.com/PoluosmakAndrew/vue3-custom-hooks) - Build custom hooks for Vue.js 3 Composition API.
 - [vue-catch-hrefs ![GitHub Repo Stars](https://img.shields.io/github/stars/Tahul/vue-catch-hrefs) ![GitHub last commit](https://img.shields.io/github/last-commit/Tahul/vue-catch-hrefs)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
+- [mitt ![GitHub Repo Stars](https://img.shields.io/github/stars/developit/mitt) ![GitHub last commit](https://img.shields.io/github/last-commit/developit/mitt)](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 
 #### Persistence
 
@@ -3525,6 +3532,7 @@ _Inspecting & debugging_
 - [NW-Vue-DevTools ![GitHub Repo Stars](https://img.shields.io/github/stars/TheJaredWilcurt/nw-vue-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/TheJaredWilcurt/nw-vue-devtools)](https://github.com/TheJaredWilcurt/nw-vue-devtools) - DevDependency for adding Vue DevTools into NW.js
 - [bruit-io ![GitHub Repo Stars](https://img.shields.io/github/stars/Moventes/bruit.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Moventes/bruit.io)](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
 - [devtools-next ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/devtools-next) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/devtools-next)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
+- [vite-plugin-vue-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/webfansplz/vite-plugin-vue-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/webfansplz/vite-plugin-vue-inspector)](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
 
 #### Docs
 
@@ -3560,6 +3568,7 @@ _Create documentation_
 - [Vue Testing Library ![GitHub Repo Stars](https://img.shields.io/github/stars/testing-library/vue-testing-library) ![GitHub last commit](https://img.shields.io/github/last-commit/testing-library/vue-testing-library)](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
 - [jest-serializer-vue-tjw ![GitHub Repo Stars](https://img.shields.io/github/stars/tjw-lint/jest-serializer-vue-tjw) ![GitHub last commit](https://img.shields.io/github/last-commit/tjw-lint/jest-serializer-vue-tjw)](https://github.com/tjw-lint/jest-serializer-vue-tjw) - Improved formatting of Jest Snapshots
 - [vuex-test-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/Incognitus-Io/vuex-test-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Incognitus-Io/vuex-test-utils)](https://github.com/Incognitus-Io/vuex-test-utils) - Unit testing Vux with chai.
+- [vitest ![GitHub Repo Stars](https://img.shields.io/github/stars/vitest-dev/vitest) ![GitHub last commit](https://img.shields.io/github/last-commit/vitest-dev/vitest)](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
 ##### Browser-less require
 
@@ -3622,6 +3631,7 @@ _Text editor plugins_
 
 _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator_
 
+- [Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vue-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects.
 - [Vue-Django ![GitHub Repo Stars](https://img.shields.io/github/stars/NdagiStanley/vue-django) ![GitHub last commit](https://img.shields.io/github/last-commit/NdagiStanley/vue-django)](https://github.com/NdagiStanley/vue-django) - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
 - [python-vuejs ![GitHub Repo Stars](https://img.shields.io/github/stars/cstrap/python-vuejs) ![GitHub last commit](https://img.shields.io/github/last-commit/cstrap/python-vuejs)](https://github.com/cstrap/python-vuejs) - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a `vue-cli` wrapper.
