@@ -855,7 +855,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 [Offline First (Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps)
 (Alex Feyerke - May 2, 2014)
 
-[Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
+[Offline First ��� Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
 (Gregor Martynus - Apr 24, 2014)
 
 [Offline First Re-Imagining Web Development For The Real World](https://qconlondon.com/london-2014/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
