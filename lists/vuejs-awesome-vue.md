@@ -1837,6 +1837,7 @@ _Display non-editable events in a Calendar_
 - [v-network-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/dash14/v-network-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/dash14/v-network-graph)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 - [coya ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexanderMykulych/coya) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexanderMykulych/coya)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 - [vue-skia ![GitHub Repo Stars](https://img.shields.io/github/stars/rustq/vue-skia) ![GitHub last commit](https://img.shields.io/github/last-commit/rustq/vue-skia)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+- [vue-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/bcakmakoglu/vue-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow)](https://github.com/bcakmakoglu/vue-flow) - Interactive, customizeabe, graph & flowchart editor for Vue3
 
 #### Social Sharing
 
