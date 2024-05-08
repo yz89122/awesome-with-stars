@@ -283,7 +283,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 
-- [Roslynator ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefPihrt/Roslynator) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefPihrt/Roslynator)](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
+- [Roslynator ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefPihrt/Roslynator) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefPihrt/Roslynator)](https://github.com/JosefPihrt/Roslynator) �� A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 

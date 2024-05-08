@@ -576,13 +576,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### Android Examples
 
-- [apollo-frontpage-android-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rnitame/apollo-frontpage-android-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rnitame/apollo-frontpage-android-app)](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android.
+- [apollo-frontpage-android-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rnitame/apollo-frontpage-android-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rnitame/apollo-frontpage-android-app)](https://github.com/rnitame/apollo-frontpage-android-app) - ���� Apollo "hello world" app, for Android.
 
 <a name="ios" />
 
 ### iOS
 
-- [apollo-ios ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-ios)](https://github.com/apollographql/apollo-ios) - �� A strongly-typed, caching GraphQL client for iOS, written in Swift.
+- [apollo-ios ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-ios)](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [ApolloDeveloperKit ![GitHub Repo Stars](https://img.shields.io/github/stars/manicmaniac/ApolloDeveloperKit) ![GitHub last commit](https://img.shields.io/github/last-commit/manicmaniac/ApolloDeveloperKit)](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
 - [Graphaello ![GitHub Repo Stars](https://img.shields.io/github/stars/nerdsupremacist/Graphaello) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdsupremacist/Graphaello)](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
 - [GQLite iOS SDK](https://graphqlite.com/sdk-ios) - GQLite iOS SDK is a toolkit to work with GraphQL servers easily.
