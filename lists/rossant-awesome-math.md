@@ -461,7 +461,7 @@ All resources are freely available except those with a 💲 icon.
 ### Complex Analysis
 
 * 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
-* 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
+* �� [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
@@ -559,7 +559,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
-* ��� [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
+* 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
