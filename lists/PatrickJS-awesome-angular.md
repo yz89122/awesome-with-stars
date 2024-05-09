@@ -4,7 +4,7 @@
   </a>
 </p>
 
-> logo designed by [SAWARATSUKI ![GitHub Repo Stars](https://img.shields.io/github/stars/SAWARATSUKI/Logos) ![GitHub last commit](https://img.shields.io/github/last-commit/SAWARATSUKI/Logos)](https://github.com/SAWARATSUKI/Logos/issues)
+> logo designed by [SAWARATSUKI ![GitHub Repo Stars](https://img.shields.io/github/stars/SAWARATSUKI/KawaiiLogos) ![GitHub last commit](https://img.shields.io/github/last-commit/SAWARATSUKI/KawaiiLogos)](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
