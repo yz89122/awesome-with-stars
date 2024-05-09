@@ -226,7 +226,7 @@ Books:
 - Blood of Tyrants
 - League of Dragons
 
-> Aerial combat brings a thrilling new dimension to the Napoleonic Wars as valiant warriors ride mighty fighting dragons, bred for size or speed. When HMS Reliant captures a French frigate and seizes the precious cargo, an unhatched dragon egg, fate sweeps Captain Will Laurence from his seafaring life into an uncertain future – and an unexpected kinship with a most extraordinary creature. Thrust into the rarified world of the Aerial Corps as master of the dragon Temeraire, he will face a crash course in the daring tactics of airborne battle. For as France’s own dragon-borne forces rally to breach British soil in Bonaparte���s boldest gambit, Laurence and Temeraire must soar into their own baptism of fire.
+> Aerial combat brings a thrilling new dimension to the Napoleonic Wars as valiant warriors ride mighty fighting dragons, bred for size or speed. When HMS Reliant captures a French frigate and seizes the precious cargo, an unhatched dragon egg, fate sweeps Captain Will Laurence from his seafaring life into an uncertain future – and an unexpected kinship with a most extraordinary creature. Thrust into the rarified world of the Aerial Corps as master of the dragon Temeraire, he will face a crash course in the daring tactics of airborne battle. For as France’s own dragon-borne forces rally to breach British soil in Bonaparte’s boldest gambit, Laurence and Temeraire must soar into their own baptism of fire.
 
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.4]
 
