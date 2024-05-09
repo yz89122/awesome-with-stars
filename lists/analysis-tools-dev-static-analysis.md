@@ -934,7 +934,7 @@ Besides reformatting scripts, Perltidy can be a great help in tracking down erro
 - [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
 It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
 
-- [bandit](https://bandit.readthedocs.io/en/latest) ��� A tool to find common security issues in Python code.
+- [bandit](https://bandit.readthedocs.io/en/latest) — A tool to find common security issues in Python code.
 
 - [bellybutton ![GitHub Repo Stars](https://img.shields.io/github/stars/hchasestevens/bellybutton) ![GitHub last commit](https://img.shields.io/github/last-commit/hchasestevens/bellybutton)](https://github.com/hchasestevens/bellybutton) — A linting engine supporting custom project-specific rules.
 
