@@ -1323,6 +1323,7 @@ _Tables / data grids_
 - [el-col-group ![GitHub Repo Stars](https://img.shields.io/github/stars/jiangfei5945/el-col-group) ![GitHub last commit](https://img.shields.io/github/last-commit/jiangfei5945/el-col-group)](https://github.com/jiangfei5945/el-col-group) - Powerful and Flexable column for Element table.
 - [tanstack-table ![GitHub Repo Stars](https://img.shields.io/github/stars/tanstack/table) ![GitHub last commit](https://img.shields.io/github/last-commit/tanstack/table)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 - [vuetify-drilldown-table ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-drilldown-table) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vuetify-drilldown-table)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
+- [vxe-table ![GitHub Repo Stars](https://img.shields.io/github/stars/x-extends/vxe-table) ![GitHub last commit](https://img.shields.io/github/last-commit/x-extends/vxe-table)](https://github.com/x-extends/vxe-table) - Vue form/table solution.
 
 #### Notification
 
