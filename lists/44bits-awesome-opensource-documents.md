@@ -744,7 +744,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Emacs is sexy!][repo-emacs-sexy] ([Site][site-emacs-sexy], GNU) - Simple website to share the love for Emacs
 * [Learn Vimscript the Hard Way][repo-vimscript-hard-way] ([Site][site-vimscript-hard-way], custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
 * [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
-* A Byte of Vim ([Site][site-byte-vim], cc-sa) - “A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard
+* A Byte of Vim ([Site][site-byte-vim], cc-sa) - ���A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard
 * [Vim Reference][repo-vim-reference] ([Site][site-vim-reference], cc-nc-sa) - guide for beginner to intermediate users
 
 [repo-vim-reference]: https://github.com/learnbyexample/vim_reference
@@ -831,7 +831,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
 * [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang
-* [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
+* [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使���NodeJS开发各种程序所必要的知识，请点击以下链接阅读
 * [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
