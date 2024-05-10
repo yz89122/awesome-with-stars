@@ -353,7 +353,7 @@ Now that you're somewhat familiar with the concepts and practice of accounting, 
 
 - [Managed accounts for Django ![GitHub Repo Stars](https://img.shields.io/github/stars/django-oscar/django-oscar-accounts) ![GitHub last commit](https://img.shields.io/github/last-commit/django-oscar/django-oscar-accounts)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
-- [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
+- [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.��
 
 ### Currencies
 
@@ -381,7 +381,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 
 - [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394) - When contracts, invoicing and payments are not working together, you end up alienating your big enterprise customers. See the associated HN comments [on bulk license purchase](https://news.ycombinator.com/item?id=27053246).
 
-- [Entitlements untangled: The modern way to software monetization](https://www.stigg.io/blog-posts/entitlements-untangled-the-modern-way-to-software-monetization) - “The concept of Entitlements encapsulates the feature access settings under various product variants (aka Pricing Plans or Packages), bridging the gap between how a product is sold and how it behaves for a variant. In essence, entitlements are a set of permissions defining what a customer (paying or non-paying) can do with your software application.”
+- [Entitlements untangled: The modern way to software monetization](https://www.stigg.io/blog-posts/entitlements-untangled-the-modern-way-to-software-monetization) - ���The concept of Entitlements encapsulates the feature access settings under various product variants (aka Pricing Plans or Packages), bridging the gap between how a product is sold and how it behaves for a variant. In essence, entitlements are a set of permissions defining what a customer (paying or non-paying) can do with your software application.”
 
 - [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://66degrees.com/blog/cloud-optimization/cuds-suds-commits-in-google-cloud/) - Explains the differences between various types of discounts and usage commitments in GCP.
 

@@ -215,4 +215,4 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [SDN A Comprehensive Survey](https://arxiv.org/pdf/1406.0440.pdf)
 
 ## Awesome Posts
-- [VXLAN L3应用EVPN，呈��完整overlay网络](https://www.sdnlab.com/19879.html)
+- [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
