@@ -59,6 +59,7 @@ Table of contents:
   * [Modals](#modals)
   * [Notifications](#notifications)
   * [State Management](#state-management)
+  * [Storage](#storage)
   * [Tables](#tables)
   * [UI Libraries](#ui-libraries)
     * [General](#general)
@@ -626,6 +627,15 @@ become an Angular expert.
 * [state-adapt ![GitHub Repo Stars](https://img.shields.io/github/stars/state-adapt/state-adapt) ![GitHub last commit](https://img.shields.io/github/last-commit/state-adapt/state-adapt)](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
 * [ngx-signal-state ![GitHub Repo Stars](https://img.shields.io/github/stars/simplifiedcourses/ngx-signal-state) ![GitHub last commit](https://img.shields.io/github/last-commit/simplifiedcourses/ngx-signal-state)](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular.
 * [mini-rx-store ![GitHub Repo Stars](https://img.shields.io/github/stars/spierala/mini-rx-store) ![GitHub last commit](https://img.shields.io/github/last-commit/spierala/mini-rx-store)](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
+
+#### Storage
+
+* [ngx-reactive-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/e-oz/ngx-reactive-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/e-oz/ngx-reactive-storage)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
+* [ng2-webstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/PillowPillow/ng2-webstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/PillowPillow/ng2-webstorage)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
+* [ngx-indexed-db ![GitHub Repo Stars](https://img.shields.io/github/stars/assuncaocharles/ngx-indexed-db) ![GitHub last commit](https://img.shields.io/github/last-commit/assuncaocharles/ngx-indexed-db)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service. 
+* [angular-async-local-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrilletuzi/angular-async-local-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrilletuzi/angular-async-local-storage)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
+* [ng-web-apis/storage ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-web-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-web-apis)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
+* [ngx-odm ![GitHub Repo Stars](https://img.shields.io/github/stars/voznik/ngx-odm) ![GitHub last commit](https://img.shields.io/github/last-commit/voznik/ngx-odm)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 
 #### Tables
 
