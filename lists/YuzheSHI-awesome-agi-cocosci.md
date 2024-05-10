@@ -1879,7 +1879,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [wikiHow](https://www.wikihow.com/Main-Page) - ***wikiHow.com***. wikiHow is on website hosting step-by-step "How-to" procedural instructions across various domains and topics.
 
-* [The World Avatar](https://theworldavatar.io/) - ***The World Avatar���***. A large-scale dynamic knowledge graph connecting concepts with relations to digitalize molecules, buildings, cities, and countries.
+* [The World Avatar](https://theworldavatar.io/) - ***The World Avatar™***. A large-scale dynamic knowledge graph connecting concepts with relations to digitalize molecules, buildings, cities, and countries.
 
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 
