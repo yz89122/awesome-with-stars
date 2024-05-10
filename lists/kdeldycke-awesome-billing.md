@@ -353,7 +353,7 @@ Now that you're somewhat familiar with the concepts and practice of accounting, 
 
 - [Managed accounts for Django ![GitHub Repo Stars](https://img.shields.io/github/stars/django-oscar/django-oscar-accounts) ![GitHub last commit](https://img.shields.io/github/last-commit/django-oscar/django-oscar-accounts)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
-- [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.���
+- [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
 
 ### Currencies
 
