@@ -210,7 +210,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ## Articles
 
-- [KDE.news](https://dot.kde.org/) - The official KDE news website ��.
+- [KDE.news](https://dot.kde.org/) - The official KDE news website 📌.
 - [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors 📌.
 - [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
 - [Nate Graham's Blog](https://pointieststick.wordpress.com/) - Adventures in Linux and KDE.
