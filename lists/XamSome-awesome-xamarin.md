@@ -170,7 +170,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [MvvmNano ★46 ![GitHub Repo Stars](https://img.shields.io/github/stars/aspnetde/MvvmNano) ![GitHub last commit](https://img.shields.io/github/last-commit/aspnetde/MvvmNano)](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms.
 - [Prism ★2,365 ![GitHub Repo Stars](https://img.shields.io/github/stars/prismlibrary/prism) ![GitHub last commit](https://img.shields.io/github/last-commit/prismlibrary/prism)](https://github.com/prismlibrary/prism) - Cross-platform MVVM development framework.
 - [ReactiveUI ★3,917 ![GitHub Repo Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI) ![GitHub last commit](https://img.shields.io/github/last-commit/reactiveui/ReactiveUI)](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework.
-- [Wires ���28 ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet-ad/Wires) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet-ad/Wires)](https://github.com/dotnet-ad/Wires) - Wires is a simple binding library.
+- [Wires ★28 ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet-ad/Wires) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet-ad/Wires)](https://github.com/dotnet-ad/Wires) - Wires is a simple binding library.
 
 
 ## Network
