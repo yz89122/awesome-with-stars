@@ -372,7 +372,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Logging
 
-- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
+- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) ��� A dumb OCaml logger.
 - [Volt ![GitHub Repo Stars](https://img.shields.io/github/stars/codinuum/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/codinuum/volt)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
@@ -592,7 +592,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Kaputt](http://kaputt.x9c.fr/) —  comprehensive testing framework.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 - [TestSimple ![GitHub Repo Stars](https://img.shields.io/github/stars/hcarty/ocaml-testsimple) ![GitHub last commit](https://img.shields.io/github/last-commit/hcarty/ocaml-testsimple)](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
-- [expect-test ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/ppx_expect) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/ppx_expect)](https://github.com/janestreet/ppx_expect) ��� A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/). 
+- [expect-test ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/ppx_expect) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/ppx_expect)](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/). 
 
 
 ## Utilities
