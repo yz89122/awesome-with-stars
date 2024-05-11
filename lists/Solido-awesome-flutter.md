@@ -677,7 +677,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Twitter [Flutter Cameroon](https://twitter.com/fluttercm)
 - Telegram [Flutter & Dart Community CM](https://t.me/fluttercameroon)
 
-### ��🇦 Canada
+### 🇨🇦 Canada
 
 - Meetup [Toronto](https://www.meetup.com/FlutterToronto)
 - Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
