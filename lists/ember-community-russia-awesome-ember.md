@@ -790,7 +790,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Throttling Ember-Data with Ember-Concurrency](https://medium.com/@mudflye/throttling-ember-data-with-ember-concurrency-ff30d804a1b)
 - [Animation and Predictable Data Loading in Ember.js](https://crunchingnumbers.live/2019/04/02/animation-and-predictable-data-loading-in-ember/)
 - [Make your deprecated CSS stand out](https://ondrejsevcik.com/deprecate-css/)
-- [Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet](https://medium.com/@AveryBloom/ff309d6effdf)
+- [Ember.js ���Angle Brackets. A Migration Guide & Cheat Sheet](https://medium.com/@AveryBloom/ff309d6effdf)
 - [Coming Soon in Ember Octane - Part 1: Native Classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 - [Coming Soon in Ember Octane - Part 2: Angle Brackets Syntax & Named Arguments](https://www.pzuraq.com/coming-soon-in-ember-octane-part-2-angle-brackets-and-named-arguments/)
 - [Coming Soon in Ember Octane - Part 3: Tracked Properties](https://www.pzuraq.com/coming-soon-in-ember-octane-part-3-tracked-properties/)
