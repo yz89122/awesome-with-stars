@@ -443,6 +443,7 @@ _Libraries for building standard or basic Command Line applications._
 _Libraries for configuration parsing._
 
 - [aconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/cristalhq/aconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/cristalhq/aconfig)](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
+- [bcl ![GitHub Repo Stars](https://img.shields.io/github/stars/wkhere/bcl) ![GitHub last commit](https://img.shields.io/github/last-commit/wkhere/bcl)](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
 - [cleanenv ![GitHub Repo Stars](https://img.shields.io/github/stars/ilyakaznacheev/cleanenv) ![GitHub last commit](https://img.shields.io/github/last-commit/ilyakaznacheev/cleanenv)](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
 - [config ![GitHub Repo Stars](https://img.shields.io/github/stars/JeremyLoy/config) ![GitHub last commit](https://img.shields.io/github/last-commit/JeremyLoy/config)](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
 - [config ![GitHub Repo Stars](https://img.shields.io/github/stars/num30/config) ![GitHub last commit](https://img.shields.io/github/last-commit/num30/config)](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code
@@ -2871,6 +2872,7 @@ _Libraries for version control._
 _Libraries for manipulating video._
 
 - [gmf ![GitHub Repo Stars](https://img.shields.io/github/stars/3d0c/gmf) ![GitHub last commit](https://img.shields.io/github/last-commit/3d0c/gmf)](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
+- [go-astiav ![GitHub Repo Stars](https://img.shields.io/github/stars/asticode/go-astiav) ![GitHub last commit](https://img.shields.io/github/last-commit/asticode/go-astiav)](https://github.com/asticode/go-astiav) - Better C bindings for ffmpeg in GO.
 - [go-astisub ![GitHub Repo Stars](https://img.shields.io/github/stars/asticode/go-astisub) ![GitHub last commit](https://img.shields.io/github/last-commit/asticode/go-astisub)](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 - [go-astits ![GitHub Repo Stars](https://img.shields.io/github/stars/asticode/go-astits) ![GitHub last commit](https://img.shields.io/github/last-commit/asticode/go-astits)](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
 - [go-m3u8 ![GitHub Repo Stars](https://img.shields.io/github/stars/etherlabsio/go-m3u8) ![GitHub last commit](https://img.shields.io/github/last-commit/etherlabsio/go-m3u8)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
