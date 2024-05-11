@@ -233,6 +233,7 @@ Self-hosted:
 - [fuzzy ![GitHub Repo Stars](https://img.shields.io/github/stars/mattyork/fuzzy) ![GitHub last commit](https://img.shields.io/github/last-commit/mattyork/fuzzy)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 - [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 - [Jets.js](https://jets.js.org/) - Native CSS search engine
+- [Hulipaa ![GitHub Repo Stars](https://img.shields.io/github/stars/sambuccid/hulipaa) ![GitHub last commit](https://img.shields.io/github/last-commit/sambuccid/hulipaa)](https://github.com/sambuccid/hulipaa) - Static full-text search engine capable of handling thousands of pages with a minimalist searchbar UI to add to your static website.
 
 Third party integration:
 
