@@ -851,7 +851,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Sketchbook ![GitHub Repo Stars](https://img.shields.io/github/stars/swift502/Sketchbook) ![GitHub last commit](https://img.shields.io/github/last-commit/swift502/Sketchbook)](https://github.com/swift502/Sketchbook) - 3D playground built on Three.js and Cannon.js.
     - 🌎 [Stemkoski Three.js Examples](http://stemkoski.github.io/Three.js/) - Excellent set of instructive examples.
     - 📚 [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) - Nice collection of resources.
-    - 📚 [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
+    - ���� [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
     - 💰 [Three.js Journey](https://threejs-journey.com/) - Course teaching WebGL from beginner to advanced.
     - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - Fantastic articles and explanations. Formerly _ThreeJsFundamentals_.
     - 📚 [THREEx ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromeetienne/threex) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromeetienne/threex)](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions.
