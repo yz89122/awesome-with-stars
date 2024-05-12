@@ -262,7 +262,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulator).
 
 * CHIP-8
-  * [ColinEberhardt/wasm-rust-chip8 ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/wasm-rust-chip8) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/wasm-rust-chip8)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator.
+  * [ColinEberhardt/wasm-rust-chip8 ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/wasm-rust-chip8) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/wasm-rust-chip8)](https://github.com/ColinEberhardt/wasm-rust-chip8) ��� A WebAssembly CHIP-8 emulator.
   * [starrhorne/chip8-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/starrhorne/chip8-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/starrhorne/chip8-rust)](https://github.com/starrhorne/chip8-rust) — chip8 emulator
 * Commodore 64
   * [kondrak/rust64 ![GitHub Repo Stars](https://img.shields.io/github/stars/kondrak/rust64) ![GitHub last commit](https://img.shields.io/github/last-commit/kondrak/rust64)](https://github.com/kondrak/rust64) —
