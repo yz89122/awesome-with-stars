@@ -599,7 +599,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D) ![GitHub last commit](https://img.shields.io/github/last-commit/tainicom/Aether.Physics2D)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
-    - ��� [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
+    - 🎉 [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks ![GitHub Repo Stars](https://img.shields.io/github/stars/Facepunch/Facepunch.Steamworks) ![GitHub last commit](https://img.shields.io/github/last-commit/Facepunch/Facepunch.Steamworks)](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
 
