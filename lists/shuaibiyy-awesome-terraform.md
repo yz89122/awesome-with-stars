@@ -225,6 +225,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-simple-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/apparentlymart/terraform-simple-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/apparentlymart/terraform-simple-registry)](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 - [Terrareg ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewjohn/terrareg) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewjohn/terrareg)](https://github.com/matthewjohn/terrareg) - Terraform module registry.
 - [terustry ![GitHub Repo Stars](https://img.shields.io/github/stars/veepee-oss/terustry) ![GitHub last commit](https://img.shields.io/github/last-commit/veepee-oss/terustry)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
+- [terralist ![GitHub Repo Stars](https://img.shields.io/github/stars/terralist/terralist) ![GitHub last commit](https://img.shields.io/github/last-commit/terralist/terralist)](https://github.com/terralist/terralist) - Terraform Private Registry for modules and providers manageable from a REST API.
 
 ## Managed Registries
 
