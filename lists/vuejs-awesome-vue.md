@@ -383,7 +383,7 @@
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
-- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔드 개발자를 ��한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
@@ -948,6 +948,7 @@
 - [Al Quran App-Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/monayemislam/Al-Quran-Using-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/monayemislam/Al-Quran-Using-Vue)](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
 - [vue3-realworld-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rofixro/vue3-realworld-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rofixro/vue3-realworld-app)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 - [slidev ![GitHub Repo Stars](https://img.shields.io/github/stars/slidevjs/slidev) ![GitHub last commit](https://img.shields.io/github/last-commit/slidevjs/slidev)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [YesPlayMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) ![GitHub last commit](https://img.shields.io/github/last-commit/qier222/YesPlayMusic)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 
 ### Commercial Products
 
@@ -1489,7 +1490,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-it-bigger ![GitHub Repo Stars](https://img.shields.io/github/stars/haiafara/vue-it-bigger) ![GitHub last commit](https://img.shields.io/github/last-commit/haiafara/vue-it-bigger)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 - [v3confirm ![GitHub Repo Stars](https://img.shields.io/github/stars/malekim/v3confirm) ![GitHub last commit](https://img.shields.io/github/last-commit/malekim/v3confirm)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 - [vue3-promise-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/rlemaigre/vue3-promise-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/rlemaigre/vue3-promise-dialog)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
-- [vue3-side-panel ![GitHub Repo Stars](https://img.shields.io/github/stars/headmandev/vue3-side-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/headmandev/vue3-side-panel)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+- [vue3-side-panel ![GitHub Repo Stars](https://img.shields.io/github/stars/headmandev/vue3-side-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/headmandev/vue3-side-panel)](https://github.com/headmandev/vue3-side-panel) - �� Easy to use and flexible modal sidebar component for Vue3.
 - [vuejs-confirm-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/harmyderoman/vuejs-confirm-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/harmyderoman/vuejs-confirm-dialog)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 - [@kolirt/vue-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/kolirt/vue-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/kolirt/vue-modal)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 - [vuetify-resize-drawer ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-resize-drawer) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vuetify-resize-drawer)](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
@@ -1655,6 +1656,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [echarts-for-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/ambit-tsai/echarts-for-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ambit-tsai/echarts-for-vue)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 - [vue3-chart-v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/vutran6853/vue3-chart-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/vutran6853/vue3-chart-v2)](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 - [vue-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisheanan/vue-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisheanan/vue-gauge)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+- [vue-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/ecomfe/vue-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/vue-echarts)](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 
 #### Time
 
@@ -2629,6 +2631,7 @@ _Set of admin template_
 - [Dolphin Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/bit-ocean-studio/dolphin-admin-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/bit-ocean-studio/dolphin-admin-vue)](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
 - [vue-vben-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 - [Geeker-Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin) ![GitHub last commit](https://img.shields.io/github/last-commit/HalseySpicy/Geeker-Admin)](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
+- [gin-vue-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin)](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 
 #### Server-side rendering
 
@@ -2834,6 +2837,7 @@ _Seamless scrolling_
 - [vue-router-webcache ![GitHub Repo Stars](https://img.shields.io/github/stars/Kolobok12309/vue-router-webcache) ![GitHub last commit](https://img.shields.io/github/last-commit/Kolobok12309/vue-router-webcache)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 - [v-route-generate ![GitHub Repo Stars](https://img.shields.io/github/stars/weiquanju/v-route-generate) ![GitHub last commit](https://img.shields.io/github/last-commit/weiquanju/v-route-generate)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 - [kitbag/router ![GitHub Repo Stars](https://img.shields.io/github/stars/kitbagjs/router) ![GitHub last commit](https://img.shields.io/github/last-commit/kitbagjs/router)](https://github.com/kitbagjs/router) - A type safe router for vuejs
+- [unplugin-vue-router ![GitHub Repo Stars](https://img.shields.io/github/stars/posva/unplugin-vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/posva/unplugin-vue-router)](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
 
 #### Lazy Load
 
@@ -2914,6 +2918,7 @@ _Seamless scrolling_
 - [vue-contextual-transition ![GitHub Repo Stars](https://img.shields.io/github/stars/beepy/vue-contextual-transition) ![GitHub last commit](https://img.shields.io/github/last-commit/beepy/vue-contextual-transition)](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
 - [blottie ![GitHub Repo Stars](https://img.shields.io/github/stars/Applelo/blottie) ![GitHub last commit](https://img.shields.io/github/last-commit/Applelo/blottie)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/jizai1125/vue-countup-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/jizai1125/vue-countup-v3)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
+- [vue-starport ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vue-starport) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vue-starport)](https://github.com/antfu/vue-starport) 🛰 Shared component across routes with animations
 
 #### Meta Tags
 
@@ -3669,6 +3674,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vuejs-vuetify-structured-template boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/huogerac/crud-vuetify-structured-template) ![GitHub last commit](https://img.shields.io/github/last-commit/huogerac/crud-vuetify-structured-template)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 - [vue-component-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/vue-component-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/vue-component-starter)](https://github.com/peterroe/vue-component-starter) - A template to help you create vue3.x component.
 - [Vue3-SPA-starter-template ![GitHub Repo Stars](https://img.shields.io/github/stars/M-Media-Group/Vue3-SPA-starter-template) ![GitHub last commit](https://img.shields.io/github/last-commit/M-Media-Group/Vue3-SPA-starter-template)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
+- [vue-x-platforms ![GitHub Repo Stars](https://img.shields.io/github/stars/NativeScript/vue-x-platforms) ![GitHub last commit](https://img.shields.io/github/last-commit/NativeScript/vue-x-platforms)](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
 
 #### Client
 
