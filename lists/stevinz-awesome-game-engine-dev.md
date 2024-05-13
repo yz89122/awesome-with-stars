@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
-    - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
+    - ���� [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
     - 🎉 [Nana ![GitHub Repo Stars](https://img.shields.io/github/stars/cnjinhao/nana) ![GitHub last commit](https://img.shields.io/github/last-commit/cnjinhao/nana)](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
     - ⭐ [Portable File Dialogs ![GitHub Repo Stars](https://img.shields.io/github/stars/samhocevar/portable-file-dialogs) ![GitHub last commit](https://img.shields.io/github/last-commit/samhocevar/portable-file-dialogs)](https://github.com/samhocevar/portable-file-dialogs) - Single-header C++11 native dialogs on Windows, macOS, and Linux.
@@ -1369,7 +1369,7 @@ _Resources to help bring video games and game engines alive._
 - 💸 [Flaticon](https://www.flaticon.com) - Quality vector icons and stickers.
 - 💸 [Freepik](https://www.freepik.com) - Illustrations, photos, icons and presentation templates.
 - 🆓 [Kenny](https://www.kenney.nl/assets) 🔥 - 2D/3D CC0 1.0 game graphics and other assets.
-- ��� [Open Game Art](https://opengameart.org) - Portal for free / public domain game art online.
+- 🆓 [Open Game Art](https://opengameart.org) - Portal for free / public domain game art online.
 - 🆓 [Top Free Game Assets](https://itch.io/game-assets/free) - Top free game assets listed on _itch.io_.
 
 ### Material Assets
