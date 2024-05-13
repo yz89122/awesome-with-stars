@@ -391,7 +391,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Messaging
 
-- [ocaml-zmq ![GitHub Repo Stars](https://img.shields.io/github/stars/issuu/ocaml-zmq) ![GitHub last commit](https://img.shields.io/github/last-commit/issuu/ocaml-zmq)](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml with Async and Lwt wrappers.
+- [ocaml-zmq ![GitHub Repo Stars](https://img.shields.io/github/stars/issuu/ocaml-zmq) ![GitHub last commit](https://img.shields.io/github/last-commit/issuu/ocaml-zmq)](https://github.com/issuu/ocaml-zmq) �� ZeroMQ bindings for OCaml with Async and Lwt wrappers.
 - [onanomsg ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/onanomsg) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/onanomsg)](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 - [Kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/didier-wenzek/ocaml-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/didier-wenzek/ocaml-kafka)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 - [AMQP ![GitHub Repo Stars](https://img.shields.io/github/stars/andersfugmann/amqp-client) ![GitHub last commit](https://img.shields.io/github/last-commit/andersfugmann/amqp-client)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
@@ -573,7 +573,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## System Programming
 
 - [Mirage OS ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/mirage) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/mirage)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-- [ocaml-fat ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-fat) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-fat)](https://github.com/mirage/ocaml-fat) �� Read and write FAT-format filesystems from OCaml.
+- [ocaml-fat ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-fat) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-fat)](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
 - [ocaml-git ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-git) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-git)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 - [ocaml-vchan ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-vchan) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-vchan)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
