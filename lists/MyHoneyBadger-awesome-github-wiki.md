@@ -20,7 +20,6 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [hyperledger/cacti ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperledger/cacti) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperledger/cacti)](https://github.com/hyperledger/cacti/wiki)
 - [facebook/react-native ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/Font-Awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/Font-Awesome)](https://github.com/FortAwesome/Font-Awesome/wiki)
-- [golang/go ![GitHub Repo Stars](https://img.shields.io/github/stars/golang/go) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/go)](https://github.com/golang/go/wiki)
 - [uber/NullAway ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/NullAway) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/NullAway)](https://github.com/uber/NullAway/wiki)
 - [internetarchive/openlibrary ![GitHub Repo Stars](https://img.shields.io/github/stars/internetarchive/openlibrary) ![GitHub last commit](https://img.shields.io/github/last-commit/internetarchive/openlibrary)](https://github.com/internetarchive/openlibrary/wiki)
 
