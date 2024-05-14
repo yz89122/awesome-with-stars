@@ -225,7 +225,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
   * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. The free plan has 5,000 calls per month.
   * [Cloudmersive](https://cloudmersive.com/) — Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.
-  * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
+  * [Colaboratory](https://colab.research.google.com) ��� Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
   * [Collect2](https://collect2.com) — Create an API endpoint to test, automate, and connect webhooks. The free plan allows for two datasets, 2000 records, one forwarder, and one alert.
   * [CometML](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and complete data lineage, covering your workflow from training to production. Free for individuals and academics.
   * [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
@@ -332,7 +332,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
   * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
   * [ScraperBox](https://scraperbox.com/) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. The free plan has 1000 requests per month.
-  * [ScrapingDog](https://scrapingdog.com/) ��� Scrapingdog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also includes Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans are available.
+  * [ScrapingDog](https://scrapingdog.com/) — Scrapingdog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also includes Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans are available.
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. The free plan includes unlimited scraping on a shared server.
   * [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
   * [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
