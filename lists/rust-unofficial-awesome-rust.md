@@ -290,7 +290,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
   * [koute/pinky ![GitHub Repo Stars](https://img.shields.io/github/stars/koute/pinky) ![GitHub last commit](https://img.shields.io/github/last-commit/koute/pinky)](https://github.com/koute/pinky) —
   * [pcwalton/sprocketnes ![GitHub Repo Stars](https://img.shields.io/github/stars/pcwalton/sprocketnes) ![GitHub last commit](https://img.shields.io/github/last-commit/pcwalton/sprocketnes)](https://github.com/pcwalton/sprocketnes)
 * Nintendo 64
-  * [gopher64 ![GitHub Repo Stars](https://img.shields.io/github/stars/gopher64/gopher64) ![GitHub last commit](https://img.shields.io/github/last-commit/gopher64/gopher64)](https://github.com/gopher64/gopher64) — N64 emulator written in Rust
+  * [gopher64 ![GitHub Repo Stars](https://img.shields.io/github/stars/gopher64/gopher64) ![GitHub last commit](https://img.shields.io/github/last-commit/gopher64/gopher64)](https://github.com/gopher64/gopher64) ��� N64 emulator written in Rust
 * Nintendo DS
   * [dust ![GitHub Repo Stars](https://img.shields.io/github/stars/kelpsyberry/dust) ![GitHub last commit](https://img.shields.io/github/last-commit/kelpsyberry/dust)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
 * PlayStation 4
@@ -1097,7 +1097,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 [[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
 * [arkworks-rs/circom-compat ![GitHub Repo Stars](https://img.shields.io/github/stars/arkworks-rs/circom-compat) ![GitHub last commit](https://img.shields.io/github/last-commit/arkworks-rs/circom-compat)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
-* [briansmith/ring ![GitHub Repo Stars](https://img.shields.io/github/stars/briansmith/ring) ![GitHub last commit](https://img.shields.io/github/last-commit/briansmith/ring)](https://github.com/briansmith/ring) — Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+* [briansmith/ring ![GitHub Repo Stars](https://img.shields.io/github/stars/briansmith/ring) ![GitHub last commit](https://img.shields.io/github/last-commit/briansmith/ring)](https://github.com/briansmith/ring) �� Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 * [briansmith/webpki ![GitHub Repo Stars](https://img.shields.io/github/stars/briansmith/webpki) ![GitHub last commit](https://img.shields.io/github/last-commit/briansmith/webpki)](https://github.com/briansmith/webpki) — Web PKI TLS X.509 certificate validation.
 * [conradkleinespel/rooster ![GitHub Repo Stars](https://img.shields.io/github/stars/conradkleinespel/rooster) ![GitHub last commit](https://img.shields.io/github/last-commit/conradkleinespel/rooster)](https://github.com/conradkleinespel/rooster) [[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
 * [cossacklabs/themis ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis) [[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)

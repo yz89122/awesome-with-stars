@@ -163,7 +163,7 @@ _[You can find more frameworks at "awesome-css-frameworks" ![GitHub Repo Stars](
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
 * [Scalable-css-reading-list ![GitHub Repo Stars](https://img.shields.io/github/stars/davidtheclark/scalable-css-reading-list) ![GitHub last commit](https://img.shields.io/github/last-commit/davidtheclark/scalable-css-reading-list)](https://github.com/davidtheclark/scalable-css-reading-list)
 
-<sub>[�� back to top](#contents)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Code Style Guidelines :book:
 
