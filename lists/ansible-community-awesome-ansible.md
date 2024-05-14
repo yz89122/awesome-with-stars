@@ -129,7 +129,7 @@ You can find the full list and how to connect in the official documentation [doc
 
 ### German
 
-- [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - Opinion what the author likes about the Ansible Ad-Hoc mode.
+- [Ansible – Was ich am Ad-hoc-Modus sch��tze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - Opinion what the author likes about the Ansible Ad-Hoc mode.
 
 ### French
 
