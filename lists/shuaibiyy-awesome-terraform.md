@@ -290,6 +290,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-docker ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzwerker/terraform-provider-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzwerker/terraform-provider-docker)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
 - [terraform-provider-terracurl ![GitHub Repo Stars](https://img.shields.io/github/stars/devops-rob/terraform-provider-terracurl) ![GitHub last commit](https://img.shields.io/github/last-commit/devops-rob/terraform-provider-terracurl)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 - [terraform-provider-value ![GitHub Repo Stars](https://img.shields.io/github/stars/pseudo-dynamic/terraform-provider-value) ![GitHub last commit](https://img.shields.io/github/last-commit/pseudo-dynamic/terraform-provider-value)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
+- [terraform-provider-uname ![GitHub Repo Stars](https://img.shields.io/github/stars/julienlevasseur/terraform-provider-uname) ![GitHub last commit](https://img.shields.io/github/last-commit/julienlevasseur/terraform-provider-uname)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 
 ## Testing
 
