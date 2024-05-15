@@ -700,7 +700,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [plato ![GitHub Repo Stars](https://img.shields.io/github/stars/es-analysis/plato) ![GitHub last commit](https://img.shields.io/github/last-commit/es-analysis/plato)](https://github.com/es-analysis/plato) :warning: — Visualize JavaScript source complexity.
 
-- [Polymer-analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/Polymer/tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Polymer/tools)](https://github.com/Polymer/tools/tree/master/packages/analyzer) ��� A static analysis framework for Web Components.
+- [Polymer-analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/Polymer/tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Polymer/tools)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
 
 - [retire.js](https://retirejs.github.io/retire.js) — Scanner detecting the use of JavaScript libraries with known vulnerabilities.
 
