@@ -27,7 +27,7 @@ Table of contents:
   * [Blogs](#blogs)
   * [Cheatsheet](#cheatsheet)
   * [Testing](#testing)
-  * [Angular CLI](#angular-cli)
+  * [CLI](#cli)
   * [Builders](#builders)
   * [YouTube Channels](#youtube-channels)
   * [Style Guides](#style-guides)
@@ -263,11 +263,13 @@ Table of contents:
 * [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
 
-#### Angular CLI
+#### CLI
 
 * [Official web page](https://cli.angular.io/)
 * [Official repository ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular-cli)](https://github.com/angular/angular-cli)
 * [ng-cli-hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/smartin85/ng-cli-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/smartin85/ng-cli-hooks)](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build.
+* [angular-cli-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-diff)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
+* [mantis-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/mantis-apps/mantis-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mantis-apps/mantis-cli)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 
 #### Builders
 
