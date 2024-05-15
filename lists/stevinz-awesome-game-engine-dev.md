@@ -557,7 +557,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TinyXML-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/leethomason/tinyxml2) ![GitHub last commit](https://img.shields.io/github/last-commit/leethomason/tinyxml2)](https://github.com/leethomason/tinyxml2) - XML parser that can be easily integrated into other programs.
 - C++: Visual Programming / Nodes
     - 🎉 [NodeEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/paceholder/nodeeditor) ![GitHub last commit](https://img.shields.io/github/last-commit/paceholder/nodeeditor)](https://github.com/paceholder/nodeeditor) - Graph-controlled data processing, built with _Qt_.
-    - ��� [QuickQanava ![GitHub Repo Stars](https://img.shields.io/github/stars/cneben/QuickQanava) ![GitHub last commit](https://img.shields.io/github/last-commit/cneben/QuickQanava)](https://github.com/cneben/QuickQanava) - Display graphs and relational content in a _QtQuick_-based app, in C++14.
+    - 🎉 [QuickQanava ![GitHub Repo Stars](https://img.shields.io/github/stars/cneben/QuickQanava) ![GitHub last commit](https://img.shields.io/github/last-commit/cneben/QuickQanava)](https://github.com/cneben/QuickQanava) - Display graphs and relational content in a _QtQuick_-based app, in C++14.
     - 🎉 [Visual Script Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/kovacsv/VisualScriptEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/kovacsv/VisualScriptEngine)](https://github.com/kovacsv/VisualScriptEngine) - Visual scripting engine designed for embedding.
 
 ### C#
