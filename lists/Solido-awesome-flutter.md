@@ -352,7 +352,7 @@ Meteo
 ### Clone
 
 - [GitTouch ![GitHub Repo Stars](https://img.shields.io/github/stars/pd4d10/git-touch) ![GitHub last commit](https://img.shields.io/github/last-commit/pd4d10/git-touch)](https://github.com/pd4d10/git-touch) [1493⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
-- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435⭐] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
+- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435��] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
 
 ### Machine Learning
 
