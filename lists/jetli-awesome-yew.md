@@ -120,6 +120,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [candle-wasm-examples ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/candle) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/candle)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
 Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [chipbox ![GitHub Repo Stars](https://img.shields.io/github/stars/chipnertkj/chipbox) ![GitHub last commit](https://img.shields.io/github/last-commit/chipnertkj/chipbox)](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
+- [Taxy ![GitHub Repo Stars](https://img.shields.io/github/stars/picoHz/taxy) ![GitHub last commit](https://img.shields.io/github/last-commit/picoHz/taxy)](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
+- [Proxelar ![GitHub Repo Stars](https://img.shields.io/github/stars/emanuele-em/proxelar) ![GitHub last commit](https://img.shields.io/github/last-commit/emanuele-em/proxelar)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+- [diff.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/xfbs/diff.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/xfbs/diff.rs)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 
 ## Templates
 
@@ -256,6 +259,7 @@ Yew team love to share ideas with other projects and believe we can all help eac
 - [Smithy ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalicki2/smithy) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalicki2/smithy)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 - [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/DioxusLabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/DioxusLabs/dioxus)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [Sycamore ![GitHub Repo Stars](https://img.shields.io/github/stars/sycamore-rs/sycamore) ![GitHub last commit](https://img.shields.io/github/last-commit/sycamore-rs/sycamore)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+- [Leptos ![GitHub Repo Stars](https://img.shields.io/github/stars/leptos-rs/leptos) ![GitHub last commit](https://img.shields.io/github/last-commit/leptos-rs/leptos)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## Related lists
 
