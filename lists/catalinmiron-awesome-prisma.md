@@ -36,6 +36,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :safety_vest: Community Prisma Tools
 
+- [Prisma Audit Trails ![GitHub Repo Stars](https://img.shields.io/github/stars/BemiHQ/bemi-prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/BemiHQ/bemi-prisma)](https://github.com/BemiHQ/bemi-prisma)
 - [Prisma 2 Scratchpad ![GitHub Repo Stars](https://img.shields.io/github/stars/ctrlplusb/prisma2-template) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrlplusb/prisma2-template)](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/beeman/nx-nest-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/beeman/nx-nest-graphql)](https://github.com/beeman/nx-nest-graphql)
 - [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
@@ -65,6 +66,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema ![GitHub Repo Stars](https://img.shields.io/github/stars/omar-dulaimi/prisma-yup-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/omar-dulaimi/prisma-yup-generator)](https://github.com/omar-dulaimi/prisma-yup-generator)
 - [Schemix - Generate Prisma Schemas with TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/ridafkih/schemix) ![GitHub last commit](https://img.shields.io/github/last-commit/ridafkih/schemix)](https://github.com/ridafkih/schemix)
 - [Prismock - Run tests in isolation with an in-memory implementation of Prisma ![GitHub Repo Stars](https://img.shields.io/github/stars/morintd/prismock) ![GitHub last commit](https://img.shields.io/github/last-commit/morintd/prismock)](https://github.com/morintd/prismock)
+- [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files ![GitHub Repo Stars](https://img.shields.io/github/stars/MrLeebo/prisma-ast) ![GitHub last commit](https://img.shields.io/github/last-commit/MrLeebo/prisma-ast)](https://github.com/MrLeebo/prisma-ast)
 
 ### :man_technologist: Prisma Clients
 
