@@ -8,7 +8,7 @@
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the original Awesome list of the [Angular](https://angular.dev/) framework. This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
+This is the original Awesome list of the Angular framework, and it contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 
@@ -45,6 +45,7 @@ Table of contents:
   * [Calendars](#calendars)
   * [Carousels](#carousels)
   * [Charts](#charts)
+  * [DOM](#dom)
   * [Drag/Drop](#drag/drop)
   * [Editor Components](#editor-components)
   * [File Upload](#file-upload)
@@ -99,7 +100,6 @@ Table of contents:
 
 #### Community
 
-* `#angular2` channel on Freenode IRC Server.
 * [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
@@ -206,14 +206,14 @@ Table of contents:
 
 * [angular](https://blog.angular.io/) - Official Angular blog.
 * [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
-* [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
+* [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
-* [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
+* [just angular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular. 
 * [angular in depth](https://angularindepth.com/)
-* [angularminds](https://www.angularminds.com/blog)
-* [angulararchitects](https://www.angulararchitects.io/en/blog/)
+* [angular minds](https://www.angularminds.com/blog)
+* [angular architects](https://www.angulararchitects.io/en/blog/)
 * [house of angular](https://houseofangular.io/blog/)
 * [thisdot labs](https://www.thisdot.co/blog?tags=angular)
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
@@ -225,7 +225,7 @@ Table of contents:
 * [Matthieu Riegler](https://riegler.fr/) 
 * [Thomas Laforge](https://medium.com/@thomas.laforge)
 * [Rainer Hahnekamp](https://medium.com/@rainer-hahnekamp)
-* [Evgeniy OZ](https://medium.com/@eugeniyoz)
+* [Evgeniy Oz](https://medium.com/@eugeniyoz)
 
 #### Cheatsheet
 
@@ -430,7 +430,6 @@ become an Angular expert.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
 * [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing).
 
-
 #### Exercises
 
 * [angular-fundamental-lessons ![GitHub Repo Stars](https://img.shields.io/github/stars/MarkTechson/angular-fundamentals-lessons) ![GitHub last commit](https://img.shields.io/github/last-commit/MarkTechson/angular-fundamentals-lessons)](https://github.com/MarkTechson/angular-fundamentals-lessons)
@@ -485,6 +484,16 @@ become an Angular expert.
 * [carbon-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-charts)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [dag ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dag) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dag)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
+#### DOM
+
+* [ngx-resize-observer ![GitHub Repo Stars](https://img.shields.io/github/stars/fidian/ngx-resize-observer) ![GitHub last commit](https://img.shields.io/github/last-commit/fidian/ngx-resize-observer)](https://github.com/fidian/ngx-resize-observer) - Angular 8+ module for detecting when elements are resized.
+* [ng-resize-observer ![GitHub Repo Stars](https://img.shields.io/github/stars/ChristianKohler/ng-resize-observer) ![GitHub last commit](https://img.shields.io/github/last-commit/ChristianKohler/ng-resize-observer)](https://github.com/ChristianKohler/ng-resize-observer)
+* [ngx-mutation-observer ![GitHub Repo Stars](https://img.shields.io/github/stars/fidian/ngx-mutation-observer) ![GitHub last commit](https://img.shields.io/github/last-commit/fidian/ngx-mutation-observer)](https://github.com/fidian/ngx-mutation-observer) - Get Angular 8+ events fired when an element is mutated in the DOM.
+* [ngx-visibility ![GitHub Repo Stars](https://img.shields.io/github/stars/fidian/ngx-visibility) ![GitHub last commit](https://img.shields.io/github/last-commit/fidian/ngx-visibility)](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
+* [ng-in-viewport ![GitHub Repo Stars](https://img.shields.io/github/stars/k3nsei/ng-in-viewport) ![GitHub last commit](https://img.shields.io/github/last-commit/k3nsei/ng-in-viewport)](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
+* [ngx-ui-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/dhilt/ngx-ui-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/dhilt/ngx-ui-scroll)](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
+* [ngx-page-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/Nolanus/ngx-page-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/Nolanus/ngx-page-scroll)](https://github.com/Nolanus/ngx-page-scroll) - Animated scrolling functionality for Angular written in pure TypeScript.
+
 #### Drag/Drop
 
 * [ng2-dragula ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-dragula) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-dragula)](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
@@ -513,9 +522,8 @@ become an Angular expert.
 #### File Upload
 
 * [ng2-file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-file-upload)](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
-* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
+* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) - Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support.
 * [ngx-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/ngx-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/ngx-flow)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/flow.js) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/flow.js)](https://github.com/flowjs/flow.js) for file upload.
-* [ngx-awesome-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/vugar005/ngx-awesome-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/vugar005/ngx-awesome-uploader)](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
 * [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Form Controls
@@ -686,7 +694,6 @@ become an Angular expert.
 * [Covalent ![GitHub Repo Stars](https://img.shields.io/github/stars/Teradata/covalent) ![GitHub last commit](https://img.shields.io/github/last-commit/Teradata/covalent)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
 * [IgniteUI Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/IgniteUI/igniteui-angular)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
 * [Alyle UI ![GitHub Repo Stars](https://img.shields.io/github/stars/A-l-y-l-e/Alyle-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/A-l-y-l-e/Alyle-UI)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
-* [angular-material-extensions](https://github.com/angular-material-extensions)
 * [angular-material-extensions/google-maps-autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/google-maps-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/google-maps-autocomplete)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
 * [angular-material-extensions/select-country ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/select-country) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/select-country)](https://github.com/angular-material-extensions/select-country)
 * [angular-material-extensions/password-strength ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/password-strength) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/password-strength)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
@@ -844,7 +851,6 @@ for Bootstrap 5 & Angular 17.
 * [ngrx-immer ![GitHub Repo Stars](https://img.shields.io/github/stars/timdeschryver/ngrx-immer) ![GitHub last commit](https://img.shields.io/github/last-commit/timdeschryver/ngrx-immer)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
 * [ngrx-rtk-query ![GitHub Repo Stars](https://img.shields.io/github/stars/SaulMoro/ngrx-rtk-query) ![GitHub last commit](https://img.shields.io/github/last-commit/SaulMoro/ngrx-rtk-query)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
 * [ngrx-action-bundles ![GitHub Repo Stars](https://img.shields.io/github/stars/IliaIdakiev/ngrx-action-bundles) ![GitHub last commit](https://img.shields.io/github/last-commit/IliaIdakiev/ngrx-action-bundles)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
-* [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 
 #### Analytics
