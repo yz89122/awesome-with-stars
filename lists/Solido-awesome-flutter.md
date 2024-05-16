@@ -269,7 +269,7 @@ Meteo
 
 ### Text & Rich Content
 
-- [Masked Text ![GitHub Repo Stars](https://img.shields.io/github/stars/benhurott/flutter-masked-text) ![GitHub last commit](https://img.shields.io/github/last-commit/benhurott/flutter-masked-text)](https://github.com/benhurott/flutter-masked-text) [275⭐] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+- [Masked Text ![GitHub Repo Stars](https://img.shields.io/github/stars/benhurott/flutter-masked-text) ![GitHub last commit](https://img.shields.io/github/last-commit/benhurott/flutter-masked-text)](https://github.com/benhurott/flutter-masked-text) [275��] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 - [Fleather ![GitHub Repo Stars](https://img.shields.io/github/stars/fleather-editor/fleather) ![GitHub last commit](https://img.shields.io/github/last-commit/fleather-editor/fleather)](https://github.com/fleather-editor/fleather) <!--stargazersfleather-editor/fleather--> - Soft & gentle rich text editor
 - [AutoSizeText ![GitHub Repo Stars](https://img.shields.io/github/stars/leisim/auto_size_text) ![GitHub last commit](https://img.shields.io/github/last-commit/leisim/auto_size_text)](https://github.com/leisim/auto_size_text) [1978⭐] - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 - [Parsed Text ![GitHub Repo Stars](https://img.shields.io/github/stars/fayeed/flutter_parsed_text) ![GitHub last commit](https://img.shields.io/github/last-commit/fayeed/flutter_parsed_text)](https://github.com/fayeed/flutter_parsed_text) [216⭐] - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
@@ -352,7 +352,7 @@ Meteo
 ### Clone
 
 - [GitTouch ![GitHub Repo Stars](https://img.shields.io/github/stars/pd4d10/git-touch) ![GitHub last commit](https://img.shields.io/github/last-commit/pd4d10/git-touch)](https://github.com/pd4d10/git-touch) [1493⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
-- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435��] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
+- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435⭐] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
 
 ### Machine Learning
 
