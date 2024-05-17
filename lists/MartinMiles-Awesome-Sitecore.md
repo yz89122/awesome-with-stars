@@ -124,6 +124,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Configuration
 
 - [Sitecore configuration consolidator (offline ShowConfig) ![GitHub Repo Stars](https://img.shields.io/github/stars/ParTech/ScShowConfig) ![GitHub last commit](https://img.shields.io/github/last-commit/ParTech/ScShowConfig)](https://github.com/ParTech/ScShowConfig) - Simple console app that consolidates Sitecore configuration including files.
+- [XDT Transform playground)](https://akarzazi.github.io/xdt-playground) - A playground IDE for you to play/test XDT Transformation of .NET config wiles.
 
 ## Containers
 
