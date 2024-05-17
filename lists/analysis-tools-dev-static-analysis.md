@@ -786,7 +786,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [composer-dependency-analyser ![GitHub Repo Stars](https://img.shields.io/github/stars/shipmonk-rnd/composer-dependency-analyser) ![GitHub last commit](https://img.shields.io/github/last-commit/shipmonk-rnd/composer-dependency-analyser)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 
-* 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
+* �� Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
@@ -1279,7 +1279,7 @@ Kani verifies:
 
 - [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
-- [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
+- [stc](https://stc.dudy.dev) �� Speedy TypeScript type checker written in Rust
 
 - [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see [this issue ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/tslint) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/tslint)](https://github.com/palantir/tslint/issues/4534) for more details. `typescript-eslint` is now your best option for linting TypeScript.
 TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.

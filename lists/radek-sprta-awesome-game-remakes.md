@@ -153,6 +153,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Librelancer ![GitHub Repo Stars](https://img.shields.io/github/stars/Librelancer/Librelancer) ![GitHub last commit](https://img.shields.io/github/last-commit/Librelancer/Librelancer)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 
 ## Strategy
+- [Ancient Beast ![GitHub Repo Stars](https://img.shields.io/github/stars/FreezingMoon/AncientBeast) ![GitHub last commit](https://img.shields.io/github/last-commit/FreezingMoon/AncientBeast)](https://github.com/FreezingMoon/AncientBeast) - Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport.
 - [Antares ![GitHub Repo Stars](https://img.shields.io/github/stars/arescentral/antares) ![GitHub last commit](https://img.shields.io/github/last-commit/arescentral/antares)](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
 - [CivOne ![GitHub Repo Stars](https://img.shields.io/github/stars/SWY1985/CivOne) ![GitHub last commit](https://img.shields.io/github/last-commit/SWY1985/CivOne)](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
 - [CorsixTH ![GitHub Repo Stars](https://img.shields.io/github/stars/CorsixTH/CorsixTH) ![GitHub last commit](https://img.shields.io/github/last-commit/CorsixTH/CorsixTH)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
