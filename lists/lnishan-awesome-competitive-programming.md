@@ -133,7 +133,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein | Also known as CLRS (taken from name initials), this book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail. The writing is more rigorous and can be difficult to some. |
 | ★★☆ | [Algorithm Design](http://amzn.to/VjhioK), by Jon Kleinberg and Éva Tardos | This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots. ... The lecture slides that accompany the textbook are available on its [official website](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). |
 | ★★☆ | [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena | The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](http://www.algorist.com). |
-| ★★★ | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne | This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It is used in some IOI training camps as a textbook. |
+| ��★★ | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne | This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It is used in some IOI training camps as a textbook. |
 |     | [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action), by Marcello La Rocca | This book provides a different approach to algorithms, balancing theory with a more practical angle, with a section per-chapter focusing on how to apply algorithms to real-world use cases that can be found in your daily work, or in competitive programming; it also presents a blend of classic, advanced, and new algorithms. |
 | ★★★ | [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), by Jeff Erickson | A free electronic version of a self-published textbook licensed under CC by 4.0. This is a well written book from lecture notes of theoretical computer science courses at the University of Illinois. Covers the main paradigms of backtracking, dynamic programming, greedy, and particularly graphs in depth. |
 
@@ -166,7 +166,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [UVa](https://uva.onlinejudge.org/) | An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](https://uhunt.onlinejudge.org/id/0) following its "Competitive Programming Exercise" section. |
 | ★★☆ | [HackerRank](https://www.hackerrank.com) | HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains. |
 | ★★☆ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. Most Chinese competitive programmers began their journey here. The platform is really dated so mysterious compilation and run-time issues may occur. |
-| ��★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
+| ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
 | ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. |
 | ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml) | COJ is hosted by University of Informatics Sciences (UCI, by its acronym in Spanish), located in Cuba. Feature ACM ICPC and Progressive contest styles, mostly from Caribbean and Latin American problem setters, also has problem classifier and contest calendar. |
 | ★★☆ | [CS Academy](https://csacademy.com) | New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks. It supports live chat, interactive lessons and an integrated online editor (that actually works). |
@@ -187,7 +187,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
-| ★★�� | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
+| ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
 ### Contest Calendars
 > Calendars for impending programming contests.  
@@ -196,7 +196,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
-| ★★☆ | [clist.by](https://clist.by/) | API available for use |
+| ���★☆ | [clist.by](https://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/nishanthvijayan/CoderCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/nishanthvijayan/CoderCalendar)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
