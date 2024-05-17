@@ -258,7 +258,7 @@ Books:
 - [Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire) [4.2] 🔥
 - [Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation) [4.3] 🔥
 
-#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] 🌟 🔥
+#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] ���� 🔥
 
 Archetypal tale of mad science with the theme of 'how far can Science go' that arguably spawned the modern genre of Science Fiction. - [@katamaritaco](https://github.com/katamaritaco)
 
