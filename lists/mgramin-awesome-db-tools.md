@@ -172,6 +172,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Diagrams
 - [Azimutt ![GitHub Repo Stars](https://img.shields.io/github/stars/azimuttapp/azimutt) ![GitHub last commit](https://img.shields.io/github/last-commit/azimuttapp/azimutt)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+- [DrawDB ![GitHub Repo Stars](https://img.shields.io/github/stars/drawdb-io/drawdb) ![GitHub last commit](https://img.shields.io/github/last-commit/drawdb-io/drawdb)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. 
 - [ERAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexis-benoist/eralchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexis-benoist/eralchemy)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
