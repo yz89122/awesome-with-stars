@@ -1279,7 +1279,7 @@ Kani verifies:
 
 - [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
-- [stc](https://stc.dudy.dev) �� Speedy TypeScript type checker written in Rust
+- [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
 
 - [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see [this issue ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/tslint) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/tslint)](https://github.com/palantir/tslint/issues/4534) for more details. `typescript-eslint` is now your best option for linting TypeScript.
 TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
@@ -1434,7 +1434,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [graudit](http://www.justanotherhacker.com) — Grep rough audit - source code auditing tool.
 
-- [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — Commercial Static Code Analysis.
+- [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: �� Commercial Static Code Analysis.
 
 - [Hopper ![GitHub Repo Stars](https://img.shields.io/github/stars/cuplv/hopper) ![GitHub last commit](https://img.shields.io/github/last-commit/cuplv/hopper)](https://github.com/cuplv/hopper) :warning: — A static analysis tool written in scala for languages that run on JVM.
 
