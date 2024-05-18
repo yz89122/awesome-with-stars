@@ -589,6 +589,11 @@ become an Angular expert.
 * [egjs-infinitegrid ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-infinitegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-infinitegrid)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 * [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 * [overview ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/overview) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/overview)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
+* [ngx-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/ngbracket/ngx-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/ngbracket/ngx-layout)](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
+* [ng-sortgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzerk/ng-sortgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzerk/ng-sortgrid)](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
+* [angular-gridster2 ![GitHub Repo Stars](https://img.shields.io/github/stars/tiberiuzuld/angular-gridster2) ![GitHub last commit](https://img.shields.io/github/last-commit/tiberiuzuld/angular-gridster2)](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
+* [angular-grid-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/katoid/angular-grid-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/katoid/angular-grid-layout)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
+* [lithium-ngx-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/lVlyke/lithium-ngx-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/lVlyke/lithium-ngx-virtual-scroll)](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
 
 #### Loaders
 
@@ -625,6 +630,7 @@ become an Angular expert.
 * [myndpm ![GitHub Repo Stars](https://img.shields.io/github/stars/myndpm/open-source) ![GitHub last commit](https://img.shields.io/github/last-commit/myndpm/open-source)](https://github.com/myndpm/open-source) - Open Source Angular Libraries contributed by @myndpm.
 * [jscutlery devkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
 * [angular components ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
+* [lithium-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/lVlyke/lithium-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/lVlyke/lithium-angular)](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
 
 #### Modals
 
@@ -673,6 +679,9 @@ become an Angular expert.
 * [ngx-easy-table ![GitHub Repo Stars](https://img.shields.io/github/stars/ssuperczynski/ngx-easy-table) ![GitHub last commit](https://img.shields.io/github/last-commit/ssuperczynski/ngx-easy-table)](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
 * [active-table ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/active-table) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/active-table)](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
 * [jsgrids ![GitHub Repo Stars](https://img.shields.io/github/stars/statico/jsgrids) ![GitHub last commit](https://img.shields.io/github/last-commit/statico/jsgrids)](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo. 
+* [ui-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-ui/ui-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-ui/ui-grid)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
+* [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software. 
+* [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 
 #### UI Libraries
 
