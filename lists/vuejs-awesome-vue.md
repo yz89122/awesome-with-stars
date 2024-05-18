@@ -383,7 +383,7 @@
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
-- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔드 개발자를 ��한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
@@ -949,6 +949,7 @@
 - [vue3-realworld-app ![GitHub Repo Stars](https://img.shields.io/github/stars/rofixro/vue3-realworld-app) ![GitHub last commit](https://img.shields.io/github/last-commit/rofixro/vue3-realworld-app)](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 - [slidev ![GitHub Repo Stars](https://img.shields.io/github/stars/slidevjs/slidev) ![GitHub last commit](https://img.shields.io/github/last-commit/slidevjs/slidev)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) ![GitHub last commit](https://img.shields.io/github/last-commit/qier222/YesPlayMusic)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
+- [douyin ![GitHub Repo Stars](https://img.shields.io/github/stars/zyronon/douyin) ![GitHub last commit](https://img.shields.io/github/last-commit/zyronon/douyin)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 
 ### Commercial Products
 
@@ -3611,7 +3612,7 @@ _Text editor plugins_
 - [Vetur ![GitHub Repo Stars](https://img.shields.io/github/stars/octref/vetur) ![GitHub last commit](https://img.shields.io/github/last-commit/octref/vetur)](https://github.com/octref/vetur) - Vue tooling for VSCode.
 - [Vue VSCode Snippets ![GitHub Repo Stars](https://img.shields.io/github/stars/sdras/vue-vscode-snippets) ![GitHub last commit](https://img.shields.io/github/last-commit/sdras/vue-vscode-snippets)](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
 - [Ionic Snippets ![GitHub Repo Stars](https://img.shields.io/github/stars/moduslabs/ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/moduslabs/ionic)](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components
-- [Volar ![GitHub Repo Stars](https://img.shields.io/github/stars/johnsoncodehk/volar) ![GitHub last commit](https://img.shields.io/github/last-commit/johnsoncodehk/volar)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+- [Vue - Official (Volar) ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/language-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/language-tools)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
 
 ##### Visual Studio
 
