@@ -1434,7 +1434,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [graudit](http://www.justanotherhacker.com) — Grep rough audit - source code auditing tool.
 
-- [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: �� Commercial Static Code Analysis.
+- [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — Commercial Static Code Analysis.
 
 - [Hopper ![GitHub Repo Stars](https://img.shields.io/github/stars/cuplv/hopper) ![GitHub last commit](https://img.shields.io/github/last-commit/cuplv/hopper)](https://github.com/cuplv/hopper) :warning: — A static analysis tool written in scala for languages that run on JVM.
 
