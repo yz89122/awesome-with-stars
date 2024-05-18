@@ -20,7 +20,7 @@ Table of contents:
   * [Official Resources](#official-resources)
   * [Community](#community)
   * [Newsletters](#newsletters)
-  * [Twitter](#twitter)
+  * [X](#X)
     * [angular-team](#angular-team)
     * [experts](#experts)
     * [google-developer-experts](#google-developer-experts)
@@ -44,6 +44,7 @@ Table of contents:
   * [Animations](#animations)
   * [Calendars](#calendars)
   * [Carousels](#carousels)
+  * [Dates](#dates)
   * [Charts](#charts)
   * [DOM](#dom)
   * [Drag/Drop](#drag/drop)
@@ -100,10 +101,10 @@ Table of contents:
 
 #### Community
 
-* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
+* [`#angular`](https://x.com/hashtag/angular) hashtag on X.
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
-* [@Angular on Twitter](https://twitter.com/angular)
+* [@Angular on X](https://x.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [AngularAir](https://angularair.com/) podcast and live broadcast.
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
@@ -125,82 +126,82 @@ Table of contents:
 * [danywalls](https://www.danywalls.com/newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
 
-#### Twitter
+#### X
 
 ##### Angular Team 
 
-* [Minko Gechev](https://twitter.com/mgechev)
-* [Alan Agius](https://twitter.com/AlanAgius4)
-* [Matthieu Riegler](https://twitter.com/jean__meche)
-* [Alex Rickabaugh](https://twitter.com/synalx)
-* [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
-* [Paul Gschwendtner](https://twitter.com/devversion)
-* [Joost Koehoorn](https://twitter.com/devjoost)
-* [Simona Cotin](https://twitter.com/simona_cotin)
+* [Minko Gechev](https://x.com/mgechev)
+* [Alan Agius](https://x.com/AlanAgius4)
+* [Matthieu Riegler](https://x.com/jean__meche)
+* [Alex Rickabaugh](https://x.com/synalx)
+* [Kristiyan Kostadinov](https://x.com/_crisbeto)
+* [Paul Gschwendtner](https://x.com/devversion)
+* [Joost Koehoorn](https://x.com/devjoost)
+* [Simona Cotin](https://x.com/simona_cotin)
 * [Jessica Janiuk](https://mastodon.social/@jessicajaniuk)
 * [Doug Parker](https://mastodon.social/@develwithoutacause@techhub.social)
-* [Emma Twersky](https://twitter.com/twerske)
-* [Mark Thompson](https://twitter.com/marktechson)
-* [Pawel Kozlowski](https://twitter.com/pkozlowski_os)
-* [Dylan Hunn](https://twitter.com/dylhunn)
+* [Emma Twersky](https://x.com/twerske)
+* [Mark Thompson](https://x.com/marktechson)
+* [Pawel Kozlowski](https://x.com/pkozlowski_os)
+* [Dylan Hunn](https://x.com/dylhunn)
 
 ##### Experts
 
-> List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
+> List of Angular experts you should follow on X (in no particular order). This list is by no means complete.
 
-* [@PatrickJS__](https://twitter.com/PatrickJS__)
-* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@eggheadio](https://twitter.com/eggheadio)
-* [@hirez_io](https://twitter.com/hirez_io)
-* [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
-* [@victorsavkin](https://twitter.com/victorsavkin)
-* [@jeffbcross](https://twitter.com/jeffbcross)
-* [@waterplea](https://twitter.com/waterplea)
-* [@marsibarsi](https://twitter.com/marsibarsi)
-* [@maciejtreder](https://twitter.com/maciejtreder)
-* [@maartentibau](https://twitter.com/maartentibau)
+* [@PatrickJS__](https://x.com/PatrickJS__)
+* [@pkozlowski_os](https://x.com/pkozlowski_os)
+* [@eggheadio](https://x.com/eggheadio)
+* [@hirez_io](https://x.com/hirez_io)
+* [@cedric_exbrayat](https://x.com/cedric_exbrayat)
+* [@victorsavkin](https://x.com/victorsavkin)
+* [@jeffbcross](https://x.com/jeffbcross)
+* [@waterplea](https://x.com/waterplea)
+* [@marsibarsi](https://x.com/marsibarsi)
+* [@maciejtreder](https://x.com/maciejtreder)
+* [@maartentibau](https://x.com/maartentibau)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-* [Jack Franklin](https://twitter.com/jack_franklin)
-* [Thierry Chatel](https://twitter.com/ThierryChatel)
-* [Uri Shaked](https://twitter.com/urishaked)
-* [Gonzalo Ruiz de Villa Suárez](https://twitter.com/gruizdevilla)
-* [Sharon DiOrio](https://twitter.com/sharondio)
-* [John Papa](https://twitter.com/John_Papa)
-* [Dan Wahlin](https://twitter.com/danwahlin)
-* [Christian Weyer](https://twitter.com/christianweyer)
-* [Todd Motto](https://twitter.com/toddmotto)
-* [Tim Ruffles](https://twitter.com/timruffles)
-* [Wassim Chegham](https://twitter.com/manekinekko)
-* [Aaron Frost](https://twitter.com/js_dev)
-* [Wilson Mendes](https://twitter.com/willmendesneto)
-* [Jared Williams](https://twitter.com/jaredwilli)
-* [Gerard Sans](https://twitter.com/gerardsans)
-* [Pascal Precht](https://twitter.com/PascalPrecht)
-* [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
-* [Raúl Jiménez](https://twitter.com/elecash/)
-* [Maxim Salnikov](https://twitter.com/webmaxru)
-* [Deborah Kurata](https://twitter.com/deborahkurata)
-* [Shai Reznik](https://twitter.com/shai_reznik)
-* [Manfred Steyer](https://twitter.com/manfredsteyer)
-* [Juri Strumpflohner](https://twitter.com/juristr)
-* [William Grasel](https://twitter.com/willgmbr)
-* [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
-* [Nir kaufman](https://twitter.com/nirkaufman)
-* [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
-* [Jeff Delaney](https://twitter.com/jeffdelaney23)
-* [Nishu Goel](https://twitter.com/TheNishuGoel)
-* [Alex Inkin](https://twitter.com/waterplea)
-* [Santosh Yadav](https://twitter.com/SantoshYadavDev)
-* [Ankit](https://twitter.com/ankitsharma_007)
-* [Siddharth Ajmera](https://twitter.com/SiddAjmera)
-* [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
-* [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
-* [Michael Hladky](https://twitter.com/Michael_Hladky)
-* [Fabio Biondi](https://github.com/fabiobiondi)
-* [Thomas Laforge](https://twitter.com/laforge_toma)
-* [codewith_ahsan](https://twitter.com/codewith_ahsan)
+* [Jack Franklin](https://x.com/jack_franklin)
+* [Thierry Chatel](https://x.com/ThierryChatel)
+* [Uri Shaked](https://x.com/urishaked)
+* [Gonzalo Ruiz de Villa Suárez](https://x.com/gruizdevilla)
+* [Sharon DiOrio](https://x.com/sharondio)
+* [John Papa](https://x.com/John_Papa)
+* [Dan Wahlin](https://x.com/danwahlin)
+* [Christian Weyer](https://x.com/christianweyer)
+* [Todd Motto](https://x.com/toddmotto)
+* [Tim Ruffles](https://x.com/timruffles)
+* [Wassim Chegham](https://x.com/manekinekko)
+* [Aaron Frost](https://x.com/js_dev)
+* [Wilson Mendes](https://x.com/willmendesneto)
+* [Jared Williams](https://x.com/jaredwilli)
+* [Gerard Sans](https://x.com/gerardsans)
+* [Pascal Precht](https://x.com/PascalPrecht)
+* [Jeff Whelpley](https://x.com/jeffwhelpley/)
+* [Raúl Jiménez](https://x.com/elecash/)
+* [Maxim Salnikov](https://x.com/webmaxru)
+* [Deborah Kurata](https://x.com/deborahkurata)
+* [Shai Reznik](https://x.com/shai_reznik)
+* [Manfred Steyer](https://x.com/manfredsteyer)
+* [Juri Strumpflohner](https://x.com/juristr)
+* [William Grasel](https://x.com/willgmbr)
+* [Alyssa Nicoll](https://x.com/AlyssaNicoll)
+* [Nir kaufman](https://x.com/nirkaufman)
+* [Dmitriy Shekhovtsov](https://x.com/valorkin)
+* [Jeff Delaney](https://x.com/jeffdelaney23)
+* [Nishu Goel](https://x.com/TheNishuGoel)
+* [Alex Inkin](https://x.com/waterplea)
+* [Santosh Yadav](https://x.com/SantoshYadavDev)
+* [Ankit](https://x.com/ankitsharma_007)
+* [Siddharth Ajmera](https://x.com/SiddAjmera)
+* [Muhammad Ahsan Ayaz](https://x.com/codewith_ahsan) 
+* [Dmytro Mezhenskyi](https://x.com/DecodedFrontend) 
+* [Michael Hladky](https://x.com/Michael_Hladky)
+* [Fabio Biondi](https://x.com/biondifabio)
+* [Thomas Laforge](https://x.com/laforge_toma)
+* [codewith_ahsan](https://x.com/codewith_ahsan)
 
 #### Blogs
 
@@ -484,6 +485,20 @@ become an Angular expert.
 * [carbon-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-charts)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [dag ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dag) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dag)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
+#### Dates
+
+* [ngx-date-fns ![GitHub Repo Stars](https://img.shields.io/github/stars/joanllenas/ngx-date-fns) ![GitHub last commit](https://img.shields.io/github/last-commit/joanllenas/ngx-date-fns)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
+* [luxon-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/dstelljes/luxon-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/dstelljes/luxon-angular)](https://github.com/dstelljes/luxon-angular) - date pipes for Angular.
+* [angular-globalize ![GitHub Repo Stars](https://img.shields.io/github/stars/code-art-eg/angular-globalize) ![GitHub last commit](https://img.shields.io/github/last-commit/code-art-eg/angular-globalize)](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
+* [ngx-mat-timepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/tonysamperi/ngx-mat-timepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/tonysamperi/ngx-mat-timepicker)](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
+* [angular-bootstrap-datetimepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dalelotts/angular-bootstrap-datetimepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dalelotts/angular-bootstrap-datetimepicker)](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
+* [ngx-datetime-range-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/BhavinPatel04/ngx-datetime-range-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/BhavinPatel04/ngx-datetime-range-picker)](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
+* [mat-datetimepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/kuhnroyal/mat-datetimepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/kuhnroyal/mat-datetimepicker)](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
+* [angular-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/vlio20/angular-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/vlio20/angular-datepicker)](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
+* [ngx-daterangepicker-material ![GitHub Repo Stars](https://img.shields.io/github/stars/fetrarij/ngx-daterangepicker-material) ![GitHub last commit](https://img.shields.io/github/last-commit/fetrarij/ngx-daterangepicker-material)](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
+* [ngx-multiple-dates ![GitHub Repo Stars](https://img.shields.io/github/stars/lekhmanrus/ngx-multiple-dates) ![GitHub last commit](https://img.shields.io/github/last-commit/lekhmanrus/ngx-multiple-dates)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
+* [ng-datetime ![GitHub Repo Stars](https://img.shields.io/github/stars/ressurectit/ng-datetime) ![GitHub last commit](https://img.shields.io/github/last-commit/ressurectit/ng-datetime)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
+
 #### DOM
 
 * [ngx-resize-observer ![GitHub Repo Stars](https://img.shields.io/github/stars/fidian/ngx-resize-observer) ![GitHub last commit](https://img.shields.io/github/last-commit/fidian/ngx-resize-observer)](https://github.com/fidian/ngx-resize-observer) - Angular 8+ module for detecting when elements are resized.
@@ -529,7 +544,7 @@ become an Angular expert.
 #### Form Controls
 
 * [ngx-emoji-mart ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-emoji-mart) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-emoji-mart)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
-* [ngx-color ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-color) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-color)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
+* [ngx-color ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-color) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-color)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
 * [ngx-colors ![GitHub Repo Stars](https://img.shields.io/github/stars/KroneCorylus/ngx-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/KroneCorylus/ngx-colors)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
 * [ngx-color-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-color-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-color-picker)](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
 * [angular-colorful ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-eco/angular-colorful) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-eco/angular-colorful)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
@@ -873,7 +888,7 @@ for Bootstrap 5 & Angular 17.
 
 #### SEO
 
-* [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
+* [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 * [ngaox](https://www.npmjs.com/package/@ngaox/seo) - Take Your Angular App Development to the Next Level with Ngaox: Seamless Content Integration, SVG Icon Optimization & Inlining, Advanced SEO & Social-Media Management, and More.
 * [ngx-seo ![GitHub Repo Stars](https://img.shields.io/github/stars/avivharuzi/ngx-seo) ![GitHub last commit](https://img.shields.io/github/last-commit/avivharuzi/ngx-seo)](https://github.com/avivharuzi/ngx-seo) - Update SEO title and meta tags easily in Angular apps.
 * [seo-analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/maddevsio/seo-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/maddevsio/seo-analyzer)](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects.
@@ -911,7 +926,7 @@ for Bootstrap 5 & Angular 17.
 
 ---
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
+enjoy — [**PatrickJS**](https://x.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
 
 ---
 
