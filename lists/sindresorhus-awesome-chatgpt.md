@@ -254,6 +254,7 @@
 
 - [chatgpt.js ![GitHub Repo Stars](https://img.shields.io/github/stars/kudoai/chatgpt.js) ![GitHub last commit](https://img.shields.io/github/last-commit/kudoai/chatgpt.js)](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
 - [Vercel AI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel-labs/ai) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel-labs/ai)](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
+- [llm-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/llm-ui-kit/llm-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/llm-ui-kit/llm-ui)](https://github.com/llm-ui-kit/llm-ui) - An open source library for building UIs for LLMs.
 
 ### Python
 

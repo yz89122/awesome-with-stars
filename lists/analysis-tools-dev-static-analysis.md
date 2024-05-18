@@ -762,7 +762,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 <h2>Nim</h2>
 
 
-- [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
+- [DrNim](https://nim-lang.org/docs/drnim.html) �� DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 
 - [nimfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/FedericoCeratto/nimfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/FedericoCeratto/nimfmt)](https://github.com/FedericoCeratto/nimfmt) :warning: — Nim code formatter / linter / style checker
 
@@ -890,7 +890,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Qafoo Quality Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/Qafoo/QualityAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/Qafoo/QualityAnalyzer)](https://github.com/Qafoo/QualityAnalyzer) :warning: — Visualizes metrics and source code.
 
-- [rector](https://getrector.org) ��� Instant Upgrades and Automated Refactoring of any PHP 5.3+ code. It upgrades your code for PHP 7.4, 8.0 and beyond. Rector promises a low false-positive rate because it looks for narrowly defined AST (abstract syntax tree) patterns.  The main use-case are tackling technical debt in your legacy code and removing dead code. Rector provides a set of special rules for Symfony, Doctrine, PHPUnit, and many more.
+- [rector](https://getrector.org) — Instant Upgrades and Automated Refactoring of any PHP 5.3+ code. It upgrades your code for PHP 7.4, 8.0 and beyond. Rector promises a low false-positive rate because it looks for narrowly defined AST (abstract syntax tree) patterns.  The main use-case are tackling technical debt in your legacy code and removing dead code. Rector provides a set of special rules for Symfony, Doctrine, PHPUnit, and many more.
 
 - [Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/Reflection)](https://github.com/phpDocumentor/Reflection) — Reflection library to do Static Analysis for PHP Projects
 
