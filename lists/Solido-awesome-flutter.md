@@ -352,7 +352,7 @@ Meteo
 ### Clone
 
 - [GitTouch ![GitHub Repo Stars](https://img.shields.io/github/stars/pd4d10/git-touch) ![GitHub last commit](https://img.shields.io/github/last-commit/pd4d10/git-touch)](https://github.com/pd4d10/git-touch) [1493⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
-- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435⭐] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
+- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435��] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
 
 ### Machine Learning
 
@@ -687,7 +687,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Slack](https://linktr.ee/flutter_france)
 - [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
-### 🇩���� Germany
+### 🇩🇪 Germany
 
 - Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/) - [Stuttgart](https://www.meetup.com/Flutter-Stuttgart/) - [Munich](https://www.meetup.com/Flutter-Munich)
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school) - [Munich](https://twitter.com/FlutterMunich)
@@ -709,7 +709,7 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇮🇱 Israel
 - Facebook [Flutter Israel Developers](https://www.facebook.com/groups/2779846762051712)
 
-### 🇮��� Indonesia
+### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
 ### 🇯🇵 Japan
