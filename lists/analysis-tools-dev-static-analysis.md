@@ -810,7 +810,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [GrumPHP ![GitHub Repo Stars](https://img.shields.io/github/stars/phpro/grumphp) ![GitHub last commit](https://img.shields.io/github/last-commit/phpro/grumphp)](https://github.com/phpro/grumphp) — Checks code on every commit.
 
-- [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
+- [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) ��� Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
 - [Mondrian](https://trismegiste.github.io/Mondrian) :warning: — A set of static analysis and refactoring tools which use graph theory.
 
