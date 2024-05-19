@@ -237,6 +237,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [hspak/brightnessztl ![GitHub Repo Stars](https://img.shields.io/github/stars/hspak/brightnessztl) ![GitHub last commit](https://img.shields.io/github/last-commit/hspak/brightnessztl)](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
 * [thejoshwolfe/hexdump-zip ![GitHub Repo Stars](https://img.shields.io/github/stars/thejoshwolfe/hexdump-zip) ![GitHub last commit](https://img.shields.io/github/last-commit/thejoshwolfe/hexdump-zip)](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
 * [kubkon/zacho ![GitHub Repo Stars](https://img.shields.io/github/stars/kubkon/zacho) ![GitHub last commit](https://img.shields.io/github/last-commit/kubkon/zacho)](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
+* [weskoerber/mac_address ![GitHub Repo Stars](https://img.shields.io/github/stars/weskoerber/mac_address) ![GitHub last commit](https://img.shields.io/github/last-commit/weskoerber/mac_address)](https://github.com/weskoerber/mac_address) - A cross-platform library to retrieve the MAC address from your network interfaces without libc.
 
 
 ## Zig development tools
