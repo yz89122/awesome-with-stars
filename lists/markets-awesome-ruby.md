@@ -155,6 +155,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## Analytics
 
+* [ActiveAnalytics ![GitHub Repo Stars](https://img.shields.io/github/stars/BaseSecrete/active_analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/BaseSecrete/active_analytics)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 * [Ahoy ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/ahoy) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/ahoy)](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps.
 * [Impressionist ![GitHub Repo Stars](https://img.shields.io/github/stars/charlotte-ruby/impressionist) ![GitHub last commit](https://img.shields.io/github/last-commit/charlotte-ruby/impressionist)](https://github.com/charlotte-ruby/impressionist) - Rails Plugin that tracks impressions and page views.
 * [Legato ![GitHub Repo Stars](https://img.shields.io/github/stars/tpitale/legato) ![GitHub last commit](https://img.shields.io/github/last-commit/tpitale/legato)](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API.
