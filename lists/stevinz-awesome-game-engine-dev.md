@@ -295,7 +295,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
     - 🎉 [msdf-c ![GitHub Repo Stars](https://img.shields.io/github/stars/solenum/msdf-c) ![GitHub last commit](https://img.shields.io/github/last-commit/solenum/msdf-c)](https://github.com/solenum/msdf-c) - Multi-channel signed distance field generator.
-    - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    - �� [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -1189,7 +1189,7 @@ _Exploring specialty game engine / game development topics and features._
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
-    - �� [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+    - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
     - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
