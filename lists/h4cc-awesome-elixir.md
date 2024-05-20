@@ -818,6 +818,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Frameworks
 *Web development frameworks.*
 
+* [Ash Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/ash-project/ash) ![GitHub last commit](https://img.shields.io/github/last-commit/ash-project/ash)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 * [exelli ![GitHub Repo Stars](https://img.shields.io/github/stars/pigmej/exelli) ![GitHub last commit](https://img.shields.io/github/last-commit/pigmej/exelli)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 * [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
 * [kitto ![GitHub Repo Stars](https://img.shields.io/github/stars/kittoframework/kitto) ![GitHub last commit](https://img.shields.io/github/last-commit/kittoframework/kitto)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
@@ -832,6 +833,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [RIG ![GitHub Repo Stars](https://img.shields.io/github/stars/Accenture/reactive-interaction-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/Accenture/reactive-interaction-gateway)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 * [sugar ![GitHub Repo Stars](https://img.shields.io/github/stars/sugar-framework/sugar) ![GitHub last commit](https://img.shields.io/github/last-commit/sugar-framework/sugar)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot ![GitHub Repo Stars](https://img.shields.io/github/stars/hexedpackets/trot) ![GitHub last commit](https://img.shields.io/github/last-commit/hexedpackets/trot)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+
 
 ## Games
 *Libraries for and implementations of games.*

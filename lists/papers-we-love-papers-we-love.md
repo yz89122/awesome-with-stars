@@ -45,6 +45,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
+* [eugeneyan/applied-ml GitHub repository ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneyan/applied-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneyan/applied-ml)](https://github.com/eugeneyan/applied-ml)
 
 Please check out our [wiki-page ![GitHub Repo Stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love) ![GitHub last commit](https://img.shields.io/github/last-commit/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 

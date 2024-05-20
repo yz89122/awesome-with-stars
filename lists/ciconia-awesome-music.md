@@ -24,6 +24,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Audacity ![GitHub Repo Stars](https://img.shields.io/github/stars/audacity/audacity) ![GitHub last commit](https://img.shields.io/github/last-commit/audacity/audacity)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
+* [OpenUtau ![GitHub Repo Stars](https://img.shields.io/github/stars/stakira/openutau) ![GitHub last commit](https://img.shields.io/github/last-commit/stakira/openutau)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 * [snd](https://sourceforge.net/projects/snd/) - Snd is a sound editor modelled loosely after Emacs.
 * [Stargate DAW ![GitHub Repo Stars](https://img.shields.io/github/stars/stargatedaw/stargate) ![GitHub last commit](https://img.shields.io/github/last-commit/stargatedaw/stargate)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 * [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
