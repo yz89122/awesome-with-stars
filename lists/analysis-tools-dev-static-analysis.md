@@ -1048,7 +1048,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2>Ruby</h2>
 
 
-- [brakeman](https://brakemanscanner.org) �� A static analysis security vulnerability scanner for Ruby on Rails applications.
+- [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
 - [bundler-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/rubysec/bundler-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/rubysec/bundler-audit)](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database ![GitHub Repo Stars](https://img.shields.io/github/stars/rubysec/ruby-advisory-db) ![GitHub last commit](https://img.shields.io/github/last-commit/rubysec/ruby-advisory-db)](https://github.com/rubysec/ruby-advisory-db).
 
