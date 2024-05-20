@@ -218,7 +218,7 @@ Meteo
 
 #### Backend-Driven
 
-- [Dynamic Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dengyin2000/dynamic_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/dengyin2000/dynamic_widget)](https://github.com/dengyin2000/dynamic_widget) [1500���] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
+- [Dynamic Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dengyin2000/dynamic_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/dengyin2000/dynamic_widget)](https://github.com/dengyin2000/dynamic_widget) [1500⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 
 ### Image
 
