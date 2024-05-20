@@ -270,6 +270,7 @@
 - [mpas/marp-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mpas/marp-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mpas/marp-nvim)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
 - [Myzel394/easytables.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Myzel394/easytables.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Myzel394/easytables.nvim)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 - [MeanderingProgrammer/markdown.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MeanderingProgrammer/markdown.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MeanderingProgrammer/markdown.nvim)](https://github.com/MeanderingProgrammer/markdown.nvim) - Improve viewing markdown files directly.
+- [arminveres/md-pdf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/arminveres/md-pdf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/arminveres/md-pdf.nvim)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
 
 ### PHP
 
