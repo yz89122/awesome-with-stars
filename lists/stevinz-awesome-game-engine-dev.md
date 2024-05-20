@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Scripting
     - 🎉 [Duktape ![GitHub Repo Stars](https://img.shields.io/github/stars/svaarala/duktape) ![GitHub last commit](https://img.shields.io/github/last-commit/svaarala/duktape)](https://github.com/svaarala/duktape) - Embeddable JavaScript engine with a focus on portability and compact footprint.
     - 🎉 [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
-    - 🎉 [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
+    - �� [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
     - 🎉 [QuickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/bellard/quickjs) ![GitHub last commit](https://img.shields.io/github/last-commit/bellard/quickjs)](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
 
 ### C++
@@ -361,7 +361,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -507,7 +507,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
-    - 🎉 [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
+    - ���� [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 - C++: Math
     - 🎉 [OpenGL Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/g-truc/glm) ![GitHub last commit](https://img.shields.io/github/last-commit/g-truc/glm)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network
@@ -543,7 +543,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Cereal ![GitHub Repo Stars](https://img.shields.io/github/stars/USCiLab/cereal) ![GitHub last commit](https://img.shields.io/github/last-commit/USCiLab/cereal)](https://github.com/USCiLab/cereal) - Header-only C++11 serialization library.
     - 🎉 [Cista++ ![GitHub Repo Stars](https://img.shields.io/github/stars/felixguendling/cista) ![GitHub last commit](https://img.shields.io/github/last-commit/felixguendling/cista)](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
-    - ��� [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
+    - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
     - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
