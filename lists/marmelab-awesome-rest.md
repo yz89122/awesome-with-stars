@@ -131,7 +131,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [node-restify ![GitHub Repo Stars](https://img.shields.io/github/stars/restify/node-restify) ![GitHub last commit](https://img.shields.io/github/last-commit/restify/node-restify)](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
 * [Sails.js](https://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers ![GitHub Repo Stars](https://img.shields.io/github/stars/jspears/mers) ![GitHub last commit](https://img.shields.io/github/last-commit/jspears/mers)](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
-* [Baucis ![GitHub Repo Stars](https://img.shields.io/github/stars/wprl/baucis) ![GitHub last commit](https://img.shields.io/github/last-commit/wprl/baucis)](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
+* [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful ![GitHub Repo Stars](https://img.shields.io/github/stars/flatiron/resourceful) ![GitHub last commit](https://img.shields.io/github/last-commit/flatiron/resourceful)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](https://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 * [Feathers](https://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.

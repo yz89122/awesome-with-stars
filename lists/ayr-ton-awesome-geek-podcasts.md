@@ -251,7 +251,7 @@ A curated list of podcasts we like to listen to.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) - Jornalismo de peito aberto
 * [Matando Robôs Gigantes](https://matandorobosgigantes.com/) - Podcast que trata de cultura pop, tecnologia, quadrinhos, filmes e mais.
 * [NautilusLink](https://soundcloud.com/nautiluslink) - Podcast sobre video-games.
-* [Nerd Show Cast](https://open.spotify.com/show/454WlbRaPRlAC3qFZRXpPF) - Podcast que explora o universo nerd e tecnológico.
+* [Nerd Show Cast](https://open.spotify.com/show/454WlbRaPRlAC3qFZRXpPF) - Podcast que explora o universo nerd e tecnol��gico.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 * [Opencast](https://anchor.fm/opencast) - Tecnologia, Software Livre e inovação em um bate-papo descontraído e cheio de referências ao mundo unix-like.
@@ -343,7 +343,7 @@ A curated list of podcasts we like to listen to.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
-* [Le podcast 🎙 AWS ☁️ en français ���🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
+* [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 
 ## In German
 
