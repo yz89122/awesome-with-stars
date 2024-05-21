@@ -422,7 +422,8 @@
 - [miversen33/sunglasses.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/miversen33/sunglasses.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/miversen33/sunglasses.nvim)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 - [rasulomaroff/reactive.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rasulomaroff/reactive.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rasulomaroff/reactive.nvim)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 - [moyiz/command-and-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/moyiz/command-and-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/moyiz/command-and-cursor.nvim)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
-
+- [rachartier/tiny-devicons-auto-colors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-devicons-auto-colors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-devicons-auto-colors.nvim)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+  
 ## Colorscheme
 
 ### Tree-sitter Supported Colorscheme
@@ -556,7 +557,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Colorscheme Creation
 
-- [tjdevries/colorbuddy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tjdevries/colorbuddy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tjdevries/colorbuddy.nvim)](https://github.com/tjdevries/colorbuddy.nvim) - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes ����.
+- [tjdevries/colorbuddy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tjdevries/colorbuddy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tjdevries/colorbuddy.nvim)](https://github.com/tjdevries/colorbuddy.nvim) - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes 😄.
 - [norcalli/nvim-base16.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/norcalli/nvim-base16.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/norcalli/nvim-base16.lua)](https://github.com/norcalli/nvim-base16.lua) - Programmatic Lua library for setting base16 themes.
 - [rktjmp/lush.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rktjmp/lush.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rktjmp/lush.nvim)](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in Lua, with real-time feedback.
 - [roobert/palette.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/palette.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/palette.nvim)](https://github.com/roobert/palette.nvim) - A beautiful, versatile, systematic, theme system.
