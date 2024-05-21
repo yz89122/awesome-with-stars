@@ -810,7 +810,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Services
 
-* [deps.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/deps-rs/deps.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/deps-rs/deps.rs)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+* [deps.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/deps-rs/deps.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/deps-rs/deps.rs)](https://github.com/deps-rs/deps.rs) �� Detect outdated or insecure dependencies
 * [docs.rs](https://docs.rs) — Automatic documentation generation of crates
 
 ### Static analysis
