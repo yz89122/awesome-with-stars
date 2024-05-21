@@ -53,7 +53,10 @@ Table of contents:
   * [Drag/Drop](#drag/drop)
   * [Editor Components](#editor-components)
   * [File Upload](#file-upload)
-  * [Form Controls](#form-controls)
+  * [Forms](#forms)
+    * [General](#general)
+    * [Form Controls](#form-controls)
+    * [Validation](#validation)
   * [Icons](#icons)
   * [Keyboard Mouse](#keyboard-mouse)
   * [Layout Components](#layout-components)
@@ -544,26 +547,44 @@ become an Angular expert.
 * [ngx-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/ngx-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/ngx-flow)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/flow.js) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/flow.js)](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
-#### Form Controls
+#### Forms
 
-* [ngx-emoji-mart ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-emoji-mart) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-emoji-mart)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
-* [ngx-color ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-color) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-color)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
-* [ngx-colors ![GitHub Repo Stars](https://img.shields.io/github/stars/KroneCorylus/ngx-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/KroneCorylus/ngx-colors)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
-* [ngx-color-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-color-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-color-picker)](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
-* [angular-colorful ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-eco/angular-colorful) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-eco/angular-colorful)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
+##### General
+
 * [angular-imask ![GitHub Repo Stars](https://img.shields.io/github/stars/uNmAnNeR/imaskjs) ![GitHub last commit](https://img.shields.io/github/last-commit/uNmAnNeR/imaskjs)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 * [ngx-mask ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-mask) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-mask)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 * [maskito ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/maskito) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/maskito)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
+* [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
+* [formio ![GitHub Repo Stars](https://img.shields.io/github/stars/formio/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/formio/angular)](https://github.com/formio/angular) - JSON powered forms for Angular.
+* [ng-dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/udos86/ng-dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/udos86/ng-dynamic-forms)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
+* [fluent-form ![GitHub Repo Stars](https://img.shields.io/github/stars/fluent-form/fluent-form) ![GitHub last commit](https://img.shields.io/github/last-commit/fluent-form/fluent-form)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+* [reactive-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/reactive-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/reactive-forms)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+* [ng-signal-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/timdeschryver/ng-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/timdeschryver/ng-signal-forms)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+* [ngx-sub-form ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnc/ngx-sub-form) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnc/ngx-sub-form)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
+* [forms-typed ![GitHub Repo Stars](https://img.shields.io/github/stars/gparlakov/forms-typed) ![GitHub last commit](https://img.shields.io/github/last-commit/gparlakov/forms-typed)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+
+##### Form Controls
+
+* [ngx-emoji-mart ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-emoji-mart) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-emoji-mart)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
+* [ngx-color ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-color) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-color)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
+* [ngx-colors ![GitHub Repo Stars](https://img.shields.io/github/stars/KroneCorylus/ngx-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/KroneCorylus/ngx-colors)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
+* [ngx-color-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-color-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-color-picker)](https://github.com/zefoy/ngx-color-picker) - Color picker widget.
+* [angular-colorful ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-eco/angular-colorful) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-eco/angular-colorful)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
 * [angular2-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/CuppaLabs/angular2-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/CuppaLabs/angular2-multiselect-dropdown)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
 * [ng-select ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-select/ng-select) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-select/ng-select)](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
 * [ngx-numeric-range-form-field ![GitHub Repo Stars](https://img.shields.io/github/stars/dineeek/ngx-numeric-range-form-field) ![GitHub last commit](https://img.shields.io/github/last-commit/dineeek/ngx-numeric-range-form-field)](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
 * [file-input-accessor ![GitHub Repo Stars](https://img.shields.io/github/stars/jwelker110/file-input-accessor) ![GitHub last commit](https://img.shields.io/github/last-commit/jwelker110/file-input-accessor)](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
+
+##### Validation
+
+* [ngx-valdemort ![GitHub Repo Stars](https://img.shields.io/github/stars/Ninja-Squad/ngx-valdemort) ![GitHub last commit](https://img.shields.io/github/last-commit/Ninja-Squad/ngx-valdemort)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+* [ngx-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/why520crazy/ngx-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/why520crazy/ngx-validator)](https://github.com/why520crazy/ngx-validator) - About
+Angular 7+ Validator, a library handle validation messages easy and automatic.
+* [validointi ![GitHub Repo Stars](https://img.shields.io/github/stars/validointi/validointi) ![GitHub last commit](https://img.shields.io/github/last-commit/validointi/validointi)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
+* [ngx-reactive-forms-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-reactive-forms-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-reactive-forms-utils)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
+* [angular-reactive-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/davidwalschots/angular-reactive-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/davidwalschots/angular-reactive-validation)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 * [ngx-formcontrol-errors ![GitHub Repo Stars](https://img.shields.io/github/stars/dgonzalez870/ngx-formcontrol-errors) ![GitHub last commit](https://img.shields.io/github/last-commit/dgonzalez870/ngx-formcontrol-errors)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 * [error-tailor ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/error-tailor) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/error-tailor)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
-* [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-* [formio ![GitHub Repo Stars](https://img.shields.io/github/stars/formio/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/formio/angular)](https://github.com/formio/angular) - JSON powered forms for Angular.
-* [ng-dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/udos86/ng-dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/udos86/ng-dynamic-forms)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
-* [reactive-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/reactive-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/reactive-forms)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 #### Icons
 
@@ -634,6 +655,9 @@ become an Angular expert.
 * [jscutlery devkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
 * [angular components ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [lithium-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/lVlyke/lithium-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/lVlyke/lithium-angular)](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
+* [rxweb ![GitHub Repo Stars](https://img.shields.io/github/stars/rxweb/rxweb) ![GitHub last commit](https://img.shields.io/github/last-commit/rxweb/rxweb)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+* [jsonforms ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipsesource/jsonforms) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipsesource/jsonforms)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+* [ngspot ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitryEfimenko/ngspot) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryEfimenko/ngspot)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 
 #### Modals
 
