@@ -182,12 +182,14 @@
 
 ### Official Resources
 
-- [Official Guide](http://vuejs.org/guide/)
+- [Documentation](https://vuejs.org/)
 - [API Reference](http://vuejs.org/api/)
-- [GitHub Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue)
-- [Release Notes ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue/releases)
+- [GitHub Repo](https://github.com/vuejs/)
+- [Release Notes ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/core) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/core)](https://github.com/vuejs/core/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
+- [IDE Language Support ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/language-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/language-tools)](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
+- [Awesome Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/awesome-vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/awesome-vite)](https://github.com/vitejs/awesome-vite)
 
 ### External Resources
 
@@ -491,7 +493,7 @@
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立开发者训练营���Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
@@ -523,7 +525,7 @@
 - [**Vue(2.0) + Node.js: A blog content manage system (CMS)** ![GitHub Repo Stars](https://img.shields.io/github/stars/ycwalker/CMS-of-Blog) ![GitHub last commit](https://img.shields.io/github/last-commit/ycwalker/CMS-of-Blog)](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
 - [ngexplorer-quasar ![GitHub Repo Stars](https://img.shields.io/github/stars/gustaYo/ngexplorer-quasar) ![GitHub last commit](https://img.shields.io/github/last-commit/gustaYo/ngexplorer-quasar)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework ![GitHub Repo Stars](https://img.shields.io/github/stars/rstoenescu/quasar-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/rstoenescu/quasar-framework)](https://github.com/rstoenescu/quasar-framework)
 - [zhihu-daily-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/moonou/zhihu-daily-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/moonou/zhihu-daily-vue)](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
-- [loopback-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/qxl1231/generator-loopback-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/qxl1231/generator-loopback-vue)](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page ��页功能,authenticate 权限控制,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231)
+- [loopback-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/qxl1231/generator-loopback-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/qxl1231/generator-loopback-vue)](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page 分页功能,authenticate 权限控制,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231)
 - [**vue-s3-dropzone** ![GitHub Repo Stars](https://img.shields.io/github/stars/kfei/vue-s3-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/kfei/vue-s3-dropzone)](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
 - [**easy-vue** ![GitHub Repo Stars](https://img.shields.io/github/stars/TIGERB/easy-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/TIGERB/easy-vue)](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 - [Vuex Events Messaging Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/metricloop/vuex-events-messaging-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/metricloop/vuex-events-messaging-demo)](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
@@ -3036,6 +3038,8 @@ _Utilities not directly related to the UI_
 - [vue-next-rx ![GitHub Repo Stars](https://img.shields.io/github/stars/NOPR9D/vue-next-rx) ![GitHub last commit](https://img.shields.io/github/last-commit/NOPR9D/vue-next-rx)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 - [fontawesome-autogen ![GitHub Repo Stars](https://img.shields.io/github/stars/GTANAdam/fontawesome-autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/GTANAdam/fontawesome-autogen)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
 - [vue-macros](https://vue-macros.dev) - Explore and extend more macros and syntax sugar to Vue.
+- [unplugin-vue-components ![GitHub Repo Stars](https://img.shields.io/github/stars/unplugin/unplugin-vue-components) ![GitHub last commit](https://img.shields.io/github/last-commit/unplugin/unplugin-vue-components)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
+- [unplugin-auto-import ![GitHub Repo Stars](https://img.shields.io/github/stars/unplugin/unplugin-auto-import) ![GitHub last commit](https://img.shields.io/github/last-commit/unplugin/unplugin-auto-import)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
 #### Typescript
 
