@@ -1034,7 +1034,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
-- [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
+- [styler](https://styler.r-lib.org) ��� Formatting of R source code files and pretty-printing of R code.
 
 
 <a name="rego" />
