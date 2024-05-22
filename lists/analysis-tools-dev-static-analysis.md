@@ -890,7 +890,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Qafoo Quality Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/Qafoo/QualityAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/Qafoo/QualityAnalyzer)](https://github.com/Qafoo/QualityAnalyzer) :warning: — Visualizes metrics and source code.
 
-- [rector](https://getrector.org) — Instant Upgrades and Automated Refactoring of any PHP 5.3+ code. It upgrades your code for PHP 7.4, 8.0 and beyond. Rector promises a low false-positive rate because it looks for narrowly defined AST (abstract syntax tree) patterns.  The main use-case are tackling technical debt in your legacy code and removing dead code. Rector provides a set of special rules for Symfony, Doctrine, PHPUnit, and many more.
+- [rector](https://getrector.org) ��� Instant Upgrades and Automated Refactoring of any PHP 5.3+ code. It upgrades your code for PHP 7.4, 8.0 and beyond. Rector promises a low false-positive rate because it looks for narrowly defined AST (abstract syntax tree) patterns.  The main use-case are tackling technical debt in your legacy code and removing dead code. Rector provides a set of special rules for Symfony, Doctrine, PHPUnit, and many more.
 
 - [Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/Reflection)](https://github.com/phpDocumentor/Reflection) — Reflection library to do Static Analysis for PHP Projects
 
@@ -1279,7 +1279,7 @@ Kani verifies:
 
 - [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
-- [stc](https://stc.dudy.dev) �� Speedy TypeScript type checker written in Rust
+- [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
 
 - [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see [this issue ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/tslint) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/tslint)](https://github.com/palantir/tslint/issues/4534) for more details. `typescript-eslint` is now your best option for linting TypeScript.
 TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
