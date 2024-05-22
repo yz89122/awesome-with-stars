@@ -177,6 +177,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada22.html) - The 2022 revision to the Ada Standard, usually known as Ada 2022.
 - [adalib ![GitHub Repo Stars](https://img.shields.io/github/stars/reznikmm/adalib) ![GitHub last commit](https://img.shields.io/github/last-commit/reznikmm/adalib)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
+- [Ada 2022 Reference Card ![GitHub Repo Stars](https://img.shields.io/github/stars/bracke/AdaReferenceCard) ![GitHub last commit](https://img.shields.io/github/last-commit/bracke/AdaReferenceCard)](https://github.com/bracke/AdaReferenceCard/releases) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
 
 ## Community
 

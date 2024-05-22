@@ -58,6 +58,7 @@ Table of contents:
     * [Form Controls](#form-controls)
     * [Validation](#validation)
   * [Icons](#icons)
+  * [Images](#images)
   * [Keyboard Mouse](#keyboard-mouse)
   * [Layout Components](#layout-components)
   * [Loaders](#loaders)
@@ -378,7 +379,6 @@ become an Angular expert.
 * [Strich](https://docs.strich.io/angular-integration-guide.html) - STRICH is a JavaScript library for real-time, multi-format barcode scanning directly in the web browser.
 * [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
 * [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
-* [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [angular-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/descope/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/descope/angular-sdk)](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
 * [angular-electron ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-electron)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
 * [Postcat ![GitHub Repo Stars](https://img.shields.io/github/stars/Postcatlab/postcat) ![GitHub last commit](https://img.shields.io/github/last-commit/Postcatlab/postcat)](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
@@ -629,6 +629,16 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [icon-lib-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/dimaslz/icon-lib-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/dimaslz/icon-lib-builder)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
 * [svg-icons-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-extensions/svg-icons-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-extensions/svg-icons-builder)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
 * [ngx-fast-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/push-based/ngx-fast-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/push-based/ngx-fast-svg)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+
+#### Images
+
+* [ngx-img-fallback ![GitHub Repo Stars](https://img.shields.io/github/stars/VadimDez/ngx-img-fallback) ![GitHub last commit](https://img.shields.io/github/last-commit/VadimDez/ngx-img-fallback)](https://github.com/VadimDez/ngx-img-fallback) - Load placeholder image on image error, Angular 5+.
+* [ngx-image-zoom ![GitHub Repo Stars](https://img.shields.io/github/stars/wittlock/ngx-image-zoom) ![GitHub last commit](https://img.shields.io/github/last-commit/wittlock/ngx-image-zoom)](https://github.com/wittlock/ngx-image-zoom) - Angular component for zoomable images.
+* [ngx-image-compress ![GitHub Repo Stars](https://img.shields.io/github/stars/dfa1234/ngx-image-compress) ![GitHub last commit](https://img.shields.io/github/last-commit/dfa1234/ngx-image-compress)](https://github.com/dfa1234/ngx-image-compress) - Angular library for uploading and compressing images.
+* [ngx-image-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/Mawi137/ngx-image-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/Mawi137/ngx-image-cropper)](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
+* [ng-cloudimage-responsive ![GitHub Repo Stars](https://img.shields.io/github/stars/scaleflex/ng-cloudimage-responsive) ![GitHub last commit](https://img.shields.io/github/last-commit/scaleflex/ng-cloudimage-responsive)](https://github.com/scaleflex/ng-cloudimage-responsive) - Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size. 
+* [angular-cropperjs ![GitHub Repo Stars](https://img.shields.io/github/stars/matheusdavidson/angular-cropperjs) ![GitHub last commit](https://img.shields.io/github/last-commit/matheusdavidson/angular-cropperjs)](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js ![GitHub Repo Stars](https://img.shields.io/github/stars/fengyuanchen/cropperjs) ![GitHub last commit](https://img.shields.io/github/last-commit/fengyuanchen/cropperjs)](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
+* [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 
 #### Keyboard Mouse
 
