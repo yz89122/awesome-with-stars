@@ -232,7 +232,16 @@
       <li><a href="#server-applications">Server Applications</a></li>
       <li><a href="#stream-processing">Stream Processing</a></li>
       <li><a href="#template-engines">Template Engines</a></li>
-      <li><a href="#testing">Testing</a></li>
+      <li>
+<a href="#testing">Testing</a>
+        <ul>
+          <li><a href="#testing-frameworks">Testing Frameworks</a></li>
+          <li><a href="#mock">Mock</a></li>
+          <li><a href="#fuzzing-and-delta-debuggingreducingshrinking">Fuzzing and delta-debugging/reducing/shrinking</a></li>
+          <li><a href="#selenium-and-browser-control-tools">Selenium and browser control tools</a></li>
+          <li><a href="#fail-injection">Fail injection</a></li>
+        </ul>
+      </li>
       <li>
 <a href="#text-processing">Text Processing</a>
         <ul>
@@ -2396,6 +2405,8 @@ additional ordered map implementations.</p>
   <li>
 <a href="https://github.com/therecipe/qt">qt <img src="https://img.shields.io/github/stars/therecipe/qt" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/therecipe/qt" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).</li>
   <li>
+<a href="https://github/roblillack/spot">Spot</a> - Reactive, cross-platform desktop GUI toolkit.</li>
+  <li>
 <a href="https://github.com/andlabs/ui">ui <img src="https://img.shields.io/github/stars/andlabs/ui" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/andlabs/ui" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Platform-native GUI library for Go. Cross platform.</li>
   <li>
 <a href="https://github.com/richardwilkes/unison">unison <img src="https://img.shields.io/github/stars/richardwilkes/unison" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/richardwilkes/unison" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported.</li>
@@ -2812,6 +2823,8 @@ additional ordered map implementations.</p>
 <a href="https://github.com/samber/slog-formatter">slog-formatter <img src="https://img.shields.io/github/stars/samber/slog-formatter" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/samber/slog-formatter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Common formatters for slog and helpers to build your own.</li>
   <li>
 <a href="https://github.com/samber/slog-multi">slog-multi <img src="https://img.shields.io/github/stars/samber/slog-multi" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/samber/slog-multi" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Chain of slog.Handler (pipeline, fanout…).</li>
+  <li>
+<a href="https://gitlab.com/greyxor/slogor">slogor</a> - A colorful slog handler.</li>
   <li>
 <a href="https://github.com/davecgh/go-spew">spew <img src="https://img.shields.io/github/stars/davecgh/go-spew" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/davecgh/go-spew" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Implements a deep pretty printer for Go data structures to aid in debugging.</li>
   <li>
@@ -4224,210 +4237,204 @@ additional ordered map implementations.</p>
 
 <p><em>Libraries for testing codebases and generating test data.</em></p>
 
+<h3 id="testing-frameworks">Testing Frameworks</h3>
+
 <ul>
   <li>
-    <p>Testing Frameworks</p>
-
-    <ul>
-      <li>
 <a href="https://apitest.dev">apitest</a> - Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of sequence diagrams.</li>
-      <li>
+  <li>
 <a href="https://github.com/go-playground/assert">assert <img src="https://img.shields.io/github/stars/go-playground/assert" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/go-playground/assert" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Basic Assertion Library used along side native go testing, with building blocks for custom assertions.</li>
-      <li>
+  <li>
 <a href="https://github.com/cavaliercoder/badio">badio <img src="https://img.shields.io/github/stars/cavaliercoder/badio" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cavaliercoder/badio" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Extensions to Go’s <code class="language-plaintext highlighter-rouge">testing/iotest</code> package.</li>
-      <li>
+  <li>
 <a href="https://github.com/h2non/baloo">baloo <img src="https://img.shields.io/github/stars/h2non/baloo" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h2non/baloo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Expressive and versatile end-to-end HTTP API testing made easy.</li>
-      <li>
+  <li>
 <a href="https://github.com/carlmjohnson/be">be <img src="https://img.shields.io/github/stars/carlmjohnson/be" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/carlmjohnson/be" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The minimalist generic test assertion library.</li>
-      <li>
+  <li>
 <a href="https://github.com/fulldump/biff">biff <img src="https://img.shields.io/github/stars/fulldump/biff" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fulldump/biff" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Bifurcation testing framework, BDD compatible.</li>
-      <li>
+  <li>
 <a href="https://github.com/percolate/charlatan">charlatan <img src="https://img.shields.io/github/stars/percolate/charlatan" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/percolate/charlatan" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool to generate fake interface implementations for tests.</li>
-      <li>
+  <li>
 <a href="https://github.com/SimonBaeumer/commander">commander <img src="https://img.shields.io/github/stars/SimonBaeumer/commander" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/SimonBaeumer/commander" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for testing cli applications on windows, linux and osx.</li>
-      <li>
+  <li>
 <a href="https://github.com/bradleyjkemp/cupaloy">cupaloy <img src="https://img.shields.io/github/stars/bradleyjkemp/cupaloy" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/bradleyjkemp/cupaloy" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple snapshot testing addon for your test framework.</li>
-      <li>
+  <li>
 <a href="https://github.com/khaiql/dbcleaner">dbcleaner <img src="https://img.shields.io/github/stars/khaiql/dbcleaner" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/khaiql/dbcleaner" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Clean database for testing purpose, inspired by <code class="language-plaintext highlighter-rouge">database_cleaner</code> in Ruby.</li>
-      <li>
+  <li>
 <a href="https://github.com/viant/dsunit">dsunit <img src="https://img.shields.io/github/stars/viant/dsunit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/viant/dsunit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Datastore testing for SQL, NoSQL, structured files.</li>
-      <li>
+  <li>
 <a href="https://github.com/fergusstrange/embedded-postgres">embedded-postgres <img src="https://img.shields.io/github/stars/fergusstrange/embedded-postgres" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fergusstrange/embedded-postgres" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.</li>
-      <li>
+  <li>
 <a href="https://github.com/viant/endly">endly <img src="https://img.shields.io/github/stars/viant/endly" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/viant/endly" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Declarative end to end functional testing.</li>
-      <li>
+  <li>
 <a href="https://github.com/rekby/fixenv">fixenv <img src="https://img.shields.io/github/stars/rekby/fixenv" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rekby/fixenv" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Fixture manage engine, inspired by pytest fixtures.</li>
-      <li>
+  <li>
 <a href="https://github.com/fluentassert/verify">fluentassert <img src="https://img.shields.io/github/stars/fluentassert/verify" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/fluentassert/verify" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Extensible, type-safe, fluent assertion Go library.</li>
-      <li>
+  <li>
 <a href="https://github.com/suzuki-shunsuke/flute">flute <img src="https://img.shields.io/github/stars/suzuki-shunsuke/flute" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/suzuki-shunsuke/flute" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - HTTP client testing framework.</li>
-      <li>
+  <li>
 <a href="https://github.com/verdverm/frisby">frisby <img src="https://img.shields.io/github/stars/verdverm/frisby" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/verdverm/frisby" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - REST API testing framework.</li>
-      <li>
+  <li>
 <a href="https://github.com/hedhyw/gherkingen">gherkingen <img src="https://img.shields.io/github/stars/hedhyw/gherkingen" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hedhyw/gherkingen" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - BDD boilerplate generator and framework.</li>
-      <li>
+  <li>
 <a href="https://onsi.github.io/ginkgo/">ginkgo</a> - BDD Testing Framework for Go.</li>
-      <li>
+  <li>
 <a href="https://github.com/orlangure/gnomock">gnomock <img src="https://img.shields.io/github/stars/orlangure/gnomock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/orlangure/gnomock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks.</li>
-      <li>
+  <li>
 <a href="https://github.com/msoap/go-carpet">go-carpet <img src="https://img.shields.io/github/stars/msoap/go-carpet" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/msoap/go-carpet" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for viewing test coverage in terminal.</li>
-      <li>
+  <li>
 <a href="https://github.com/google/go-cmp">go-cmp <img src="https://img.shields.io/github/stars/google/go-cmp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/google/go-cmp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Package for comparing Go values in tests.</li>
-      <li>
+  <li>
 <a href="https://github.com/Eun/go-hit">go-hit <img src="https://img.shields.io/github/stars/Eun/go-hit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/Eun/go-hit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Hit is an http integration test framework written in golang.</li>
-      <li>
+  <li>
 <a href="https://github.com/zimmski/go-mutesting">go-mutesting <img src="https://img.shields.io/github/stars/zimmski/go-mutesting" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zimmski/go-mutesting" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Mutation testing for Go source code.</li>
-      <li>
+  <li>
 <a href="https://github.com/arikama/go-mysql-test-container">go-mysql-test-container <img src="https://img.shields.io/github/stars/arikama/go-mysql-test-container" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/arikama/go-mysql-test-container" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Golang MySQL testcontainer to help with MySQL integration testing.</li>
-      <li>
+  <li>
 <a href="http://github.com/gkampitakis/go-snaps">go-snaps <img src="https://img.shields.io/github/stars/gkampitakis/go-snaps" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gkampitakis/go-snaps" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Jest-like snapshot testing in Golang.</li>
-      <li>
+  <li>
 <a href="https://github.com/maxatome/go-testdeep">go-testdeep <img src="https://img.shields.io/github/stars/maxatome/go-testdeep" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/maxatome/go-testdeep" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Extremely flexible golang deep comparison, extends the go testing package.</li>
-      <li>
+  <li>
 <a href="https://github.com/maargenton/go-testpredicate">go-testpredicate <img src="https://img.shields.io/github/stars/maargenton/go-testpredicate" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/maargenton/go-testpredicate" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Test predicate style assertions library with extensive diagnostics output.</li>
-      <li>
+  <li>
 <a href="https://github.com/dnaeon/go-vcr">go-vcr <img src="https://img.shields.io/github/stars/dnaeon/go-vcr" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dnaeon/go-vcr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Record and replay your HTTP interactions for fast, deterministic and accurate tests.</li>
-      <li>
+  <li>
 <a href="https://github.com/franela/goblin">goblin <img src="https://img.shields.io/github/stars/franela/goblin" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/franela/goblin" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Mocha like testing framework of Go.</li>
-      <li>
+  <li>
 <a href="https://github.com/qiniu/goc">goc <img src="https://img.shields.io/github/stars/qiniu/goc" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/qiniu/goc" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Goc is a comprehensive coverage testing system for The Go Programming Language.</li>
-      <li>
+  <li>
 <a href="https://labix.org/gocheck">gocheck</a> - More advanced testing framework alternative to gotest.</li>
-      <li>
+  <li>
 <a href="https://github.com/smartystreets/goconvey/">GoConvey <img src="https://img.shields.io/github/stars/smartystreets/goconvey" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/smartystreets/goconvey" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - BDD-style framework with web UI and live reload.</li>
-      <li>
+  <li>
 <a href="https://github.com/corbym/gocrest">gocrest <img src="https://img.shields.io/github/stars/corbym/gocrest" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/corbym/gocrest" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Composable hamcrest-like matchers for Go assertions.</li>
-      <li>
+  <li>
 <a href="https://github.com/cucumber/godog">godog <img src="https://img.shields.io/github/stars/cucumber/godog" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cucumber/godog" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Cucumber BDD framework for Go.</li>
-      <li>
+  <li>
 <a href="https://github.com/appleboy/gofight">gofight <img src="https://img.shields.io/github/stars/appleboy/gofight" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/appleboy/gofight" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - API Handler Testing for Golang Router framework.</li>
-      <li>
+  <li>
 <a href="https://github.com/corbym/gogiven">gogiven <img src="https://img.shields.io/github/stars/corbym/gogiven" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/corbym/gogiven" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - YATSPEC-like BDD testing framework for Go.</li>
-      <li>
+  <li>
 <a href="https://github.com/jfilipczyk/gomatch">gomatch <img src="https://img.shields.io/github/stars/jfilipczyk/gomatch" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jfilipczyk/gomatch" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - library created for testing JSON against patterns.</li>
-      <li>
+  <li>
 <a href="https://onsi.github.io/gomega/">gomega</a> - Rspec like matcher/assertion library.</li>
-      <li>
+  <li>
 <a href="https://github.com/stv0g/gont">Gont <img src="https://img.shields.io/github/stars/stv0g/gont" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stv0g/gont" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Go network testing toolkit for testing building complex network topologies using Linux namespaces.</li>
-      <li>
+  <li>
 <a href="https://github.com/stesla/gospecify">gospecify <img src="https://img.shields.io/github/stars/stesla/gospecify" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stesla/gospecify" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - This provides a BDD syntax for testing your Go code. It should be familiar to anybody who has used libraries such as rspec.</li>
-      <li>
+  <li>
 <a href="https://github.com/pavlo/gosuite">gosuite <img src="https://img.shields.io/github/stars/pavlo/gosuite" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pavlo/gosuite" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Brings lightweight test suites with setup/teardown facilities to <code class="language-plaintext highlighter-rouge">testing</code> by leveraging Go1.7’s Subtests.</li>
-      <li>
+  <li>
 <a href="https://github.com/ysmood/got">got <img src="https://img.shields.io/github/stars/ysmood/got" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/ysmood/got" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An enjoyable golang test framework.</li>
-      <li>
+  <li>
 <a href="https://github.com/gotestyourself/gotest.tools">gotest.tools <img src="https://img.shields.io/github/stars/gotestyourself/gotest.tools" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gotestyourself/gotest.tools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A collection of packages to augment the go testing package and support common patterns.</li>
-      <li>
+  <li>
 <a href="https://github.com/rdrdr/hamcrest">Hamcrest <img src="https://img.shields.io/github/stars/rdrdr/hamcrest" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/rdrdr/hamcrest" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.</li>
-      <li>
+  <li>
 <a href="https://github.com/gavv/httpexpect">httpexpect <img src="https://img.shields.io/github/stars/gavv/httpexpect" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gavv/httpexpect" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Concise, declarative, and easy to use end-to-end HTTP and REST API testing.</li>
-      <li>
+  <li>
 <a href="https://github.com/matryer/is">is <img src="https://img.shields.io/github/stars/matryer/is" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/matryer/is" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Professional lightweight testing mini-framework for Go.</li>
-      <li>
+  <li>
 <a href="https://github.com/kinbiko/jsonassert">jsonassert <img src="https://img.shields.io/github/stars/kinbiko/jsonassert" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/kinbiko/jsonassert" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Package for verifying that your JSON payloads are serialized correctly.</li>
-      <li>
+  <li>
 <a href="https://github.com/dedalqq/omg.testingtools">omg.testingtools <img src="https://img.shields.io/github/stars/dedalqq/omg.testingtools" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dedalqq/omg.testingtools" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - The simple library for change a values of private fields for testing.</li>
-      <li>
+  <li>
 <a href="https://github.com/yookoala/restit">restit <img src="https://img.shields.io/github/stars/yookoala/restit" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/yookoala/restit" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Go micro framework to help writing RESTful API integration test.</li>
-      <li>
+  <li>
 <a href="https://github.com/jgroeneveld/schema">schema <img src="https://img.shields.io/github/stars/jgroeneveld/schema" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jgroeneveld/schema" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Quick and easy expression matching for JSON schemas used in requests and responses.</li>
-      <li>
+  <li>
 <a href="https://github.com/elgohr/stop-and-go">stop-and-go <img src="https://img.shields.io/github/stars/elgohr/stop-and-go" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/elgohr/stop-and-go" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Testing helper for concurrency.</li>
-      <li>
+  <li>
 <a href="https://github.com/adamluzsi/testcase">testcase <img src="https://img.shields.io/github/stars/adamluzsi/testcase" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/adamluzsi/testcase" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Idiomatic testing framework for Behavior Driven Development.</li>
-      <li>
+  <li>
+<a href="https://github.com/madflojo/testcerts">testcerts <img src="https://img.shields.io/github/stars/madflojo/testcerts" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/madflojo/testcerts" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Dynamically generate self-signed certificates and certificate authorities within your test functions.</li>
+  <li>
 <a href="https://github.com/testcontainers/testcontainers-go">testcontainers-go <img src="https://img.shields.io/github/stars/testcontainers/testcontainers-go" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/testcontainers/testcontainers-go" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.</li>
-      <li>
+  <li>
 <a href="https://github.com/go-testfixtures/testfixtures">testfixtures <img src="https://img.shields.io/github/stars/go-testfixtures/testfixtures" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/go-testfixtures/testfixtures" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A helper for Rails’ like test fixtures to test database applications.</li>
-      <li>
+  <li>
 <a href="https://github.com/stretchr/testify">Testify <img src="https://img.shields.io/github/stars/stretchr/testify" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/stretchr/testify" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Sacred extension to the standard go testing package.</li>
-      <li>
+  <li>
 <a href="https://github.com/zhulongcheng/testsql">testsql <img src="https://img.shields.io/github/stars/zhulongcheng/testsql" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zhulongcheng/testsql" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generate test data from SQL files before testing and clear it after finished.</li>
-      <li>
+  <li>
 <a href="https://github.com/MarvinJWendt/testza">testza <img src="https://img.shields.io/github/stars/MarvinJWendt/testza" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/MarvinJWendt/testza" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Full-featured test framework with nice colorized output.</li>
-      <li>
+  <li>
 <a href="https://github.com/jgroeneveld/trial">trial <img src="https://img.shields.io/github/stars/jgroeneveld/trial" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jgroeneveld/trial" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Quick and easy extendable assertions without introducing much boilerplate.</li>
-      <li>
+  <li>
 <a href="https://github.com/vcaesar/tt">Tt <img src="https://img.shields.io/github/stars/vcaesar/tt" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vcaesar/tt" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Simple and colorful test tools.</li>
-      <li>
+  <li>
 <a href="https://github.com/posener/wstest">wstest <img src="https://img.shields.io/github/stars/posener/wstest" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/posener/wstest" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Websocket client for unit-testing a websocket http.Handler.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Mock</p>
+</ul>
 
-    <ul>
-      <li>
+<h3 id="mock">Mock</h3>
+
+<ul>
+  <li>
 <a href="https://github.com/maxbrunsfeld/counterfeiter">counterfeiter <img src="https://img.shields.io/github/stars/maxbrunsfeld/counterfeiter" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/maxbrunsfeld/counterfeiter" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for generating self-contained mock objects.</li>
-      <li>
+  <li>
 <a href="https://gitlab.com/so_literate/genmock">genmock</a> - Go mocking system with code generator for building calls of the interface methods.</li>
-      <li>
+  <li>
 <a href="https://github.com/elgohr/go-localstack">go-localstack <img src="https://img.shields.io/github/stars/elgohr/go-localstack" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/elgohr/go-localstack" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool for using localstack in AWS testing.</li>
-      <li>
+  <li>
 <a href="https://github.com/DATA-DOG/go-sqlmock">go-sqlmock <img src="https://img.shields.io/github/stars/DATA-DOG/go-sqlmock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/DATA-DOG/go-sqlmock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Mock SQL driver for testing database interactions.</li>
-      <li>
+  <li>
 <a href="https://github.com/DATA-DOG/go-txdb">go-txdb <img src="https://img.shields.io/github/stars/DATA-DOG/go-txdb" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/DATA-DOG/go-txdb" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Single transaction based database driver mainly for testing purposes.</li>
-      <li>
+  <li>
 <a href="https://github.com/h2non/gock">gock <img src="https://img.shields.io/github/stars/h2non/gock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/h2non/gock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Versatile HTTP mocking made easy.</li>
-      <li>
+  <li>
 <a href="https://github.com/golang/mock">gomock <img src="https://img.shields.io/github/stars/golang/mock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/golang/mock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Mocking framework for the Go programming language.</li>
-      <li>
+  <li>
 <a href="https://github.com/seborama/govcr">govcr <img src="https://img.shields.io/github/stars/seborama/govcr" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/seborama/govcr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - HTTP mock for Golang: record and replay HTTP interactions for offline testing.</li>
-      <li>
+  <li>
 <a href="https://github.com/SpectoLabs/hoverfly">hoverfly <img src="https://img.shields.io/github/stars/SpectoLabs/hoverfly" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/SpectoLabs/hoverfly" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.</li>
-      <li>
+  <li>
 <a href="https://github.com/jarcoal/httpmock">httpmock <img src="https://img.shields.io/github/stars/jarcoal/httpmock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/jarcoal/httpmock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Easy mocking of HTTP responses from external resources.</li>
-      <li>
+  <li>
 <a href="https://github.com/gojuno/minimock">minimock <img src="https://img.shields.io/github/stars/gojuno/minimock" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/gojuno/minimock" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Mock generator for Go interfaces.</li>
-      <li>
+  <li>
 <a href="https://github.com/vektra/mockery">mockery <img src="https://img.shields.io/github/stars/vektra/mockery" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/vektra/mockery" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Tool to generate Go interfaces.</li>
-      <li>
+  <li>
 <a href="https://github.com/tv42/mockhttp">mockhttp <img src="https://img.shields.io/github/stars/tv42/mockhttp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tv42/mockhttp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Mock object for Go http.ResponseWriter.</li>
-      <li>
+  <li>
 <a href="https://github.com/GuilhermeCaruso/mooncake">mooncake <img src="https://img.shields.io/github/stars/GuilhermeCaruso/mooncake" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/GuilhermeCaruso/mooncake" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A simple way to generate mocks for multiple purposes.</li>
-      <li>
+  <li>
 <a href="https://github.com/cabify/timex">timex <img src="https://img.shields.io/github/stars/cabify/timex" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/cabify/timex" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A test-friendly replacement for the native <code class="language-plaintext highlighter-rouge">time</code> package.</li>
-      <li>
+  <li>
 <a href="https://github.com/xhd2015/xgo">xgo <img src="https://img.shields.io/github/stars/xhd2015/xgo" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/xhd2015/xgo" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A general pureposed function mocking library.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Fuzzing and delta-debugging/reducing/shrinking.</p>
+</ul>
 
-    <ul>
-      <li>
+<h2 id="fuzzing-and-delta-debuggingreducingshrinking">Fuzzing and delta-debugging/reducing/shrinking</h2>
+
+<ul>
+  <li>
 <a href="https://github.com/dvyukov/go-fuzz">go-fuzz <img src="https://img.shields.io/github/stars/dvyukov/go-fuzz" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dvyukov/go-fuzz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Randomized testing system.</li>
-      <li>
+  <li>
 <a href="https://github.com/google/gofuzz">gofuzz <img src="https://img.shields.io/github/stars/google/gofuzz" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/google/gofuzz" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Library for populating go objects with random values.</li>
-      <li>
+  <li>
 <a href="https://github.com/zimmski/tavor">Tavor <img src="https://img.shields.io/github/stars/zimmski/tavor" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/zimmski/tavor" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generic fuzzing and delta-debugging framework.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Selenium and browser control tools.</p>
+</ul>
 
-    <ul>
-      <li>
-<a href="https://github.com/mafredri/cdp">cdp <img src="https://img.shields.io/github/stars/mafredri/cdp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mafredri/cdp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.</li>
-      <li>
-<a href="https://github.com/knq/chromedp">chromedp <img src="https://img.shields.io/github/stars/knq/chromedp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/knq/chromedp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.</li>
-      <li>
-<a href="https://github.com/aerokube/ggr">ggr <img src="https://img.shields.io/github/stars/aerokube/ggr" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aerokube/ggr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a lightweight server that routes and proxies Selenium WebDriver requests to multiple Selenium hubs.</li>
-      <li>
-<a href="https://github.com/mxschmitt/playwright-go">playwright-go <img src="https://img.shields.io/github/stars/mxschmitt/playwright-go" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mxschmitt/playwright-go" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - browser automation library to control Chromium, Firefox and WebKit with a single API.</li>
-      <li>
-<a href="https://github.com/go-rod/rod">rod <img src="https://img.shields.io/github/stars/go-rod/rod" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/go-rod/rod" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Devtools driver to make web automation and scraping easy.</li>
-      <li>
-<a href="https://github.com/aerokube/selenoid">selenoid <img src="https://img.shields.io/github/stars/aerokube/selenoid" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aerokube/selenoid" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - alternative Selenium hub server that launches browsers within containers.</li>
-    </ul>
-  </li>
+<h2 id="selenium-and-browser-control-tools">Selenium and browser control tools</h2>
+
+<ul>
   <li>
-    <p>Fail injection</p>
-    <ul>
-      <li>
+<a href="https://github.com/mafredri/cdp">cdp <img src="https://img.shields.io/github/stars/mafredri/cdp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mafredri/cdp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.</li>
+  <li>
+<a href="https://github.com/knq/chromedp">chromedp <img src="https://img.shields.io/github/stars/knq/chromedp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/knq/chromedp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.</li>
+  <li>
+<a href="https://github.com/aerokube/ggr">ggr <img src="https://img.shields.io/github/stars/aerokube/ggr" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aerokube/ggr" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a lightweight server that routes and proxies Selenium WebDriver requests to multiple Selenium hubs.</li>
+  <li>
+<a href="https://github.com/mxschmitt/playwright-go">playwright-go <img src="https://img.shields.io/github/stars/mxschmitt/playwright-go" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/mxschmitt/playwright-go" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - browser automation library to control Chromium, Firefox and WebKit with a single API.</li>
+  <li>
+<a href="https://github.com/go-rod/rod">rod <img src="https://img.shields.io/github/stars/go-rod/rod" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/go-rod/rod" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - A Devtools driver to make web automation and scraping easy.</li>
+  <li>
+<a href="https://github.com/aerokube/selenoid">selenoid <img src="https://img.shields.io/github/stars/aerokube/selenoid" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aerokube/selenoid" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - alternative Selenium hub server that launches browsers within containers.</li>
+</ul>
+
+<h3 id="fail-injection">Fail injection</h3>
+<ul>
+  <li>
 <a href="https://github.com/pingcap/failpoint">failpoint <img src="https://img.shields.io/github/stars/pingcap/failpoint" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pingcap/failpoint" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - An implementation of <a href="https://www.freebsd.org/cgi/man.cgi?query=fail">failpoints</a> for Golang.</li>
-    </ul>
-  </li>
 </ul>
 
 <p><strong><a href="#contents">⬆ back to top</a></strong></p>
