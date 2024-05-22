@@ -1034,7 +1034,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
-- [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
+- [styler](https://styler.r-lib.org) ��� Formatting of R source code files and pretty-printing of R code.
 
 
 <a name="rego" />
@@ -2119,7 +2119,7 @@ but with the following improvements:
 
 - [Credential Digger ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/credential-digger) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate. 
 
-- [Datree](https://datree.io/) �� A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
+- [Datree](https://datree.io/) — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
 - [detect-secrets ![GitHub Repo Stars](https://img.shields.io/github/stars/Yelp/detect-secrets) ![GitHub last commit](https://img.shields.io/github/last-commit/Yelp/detect-secrets)](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
 It does this by running periodic diff outputs against heuristically crafted regex statements,  to identify whether any new secret has been committed. This way, it avoids the overhead of digging  through all git history, as well as the need to scan the entire repository every time.
