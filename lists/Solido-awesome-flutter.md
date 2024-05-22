@@ -687,7 +687,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Slack](https://linktr.ee/flutter_france)
 - [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
-### 🇩��� Germany
+### 🇩🇪 Germany
 
 - Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/) - [Stuttgart](https://www.meetup.com/Flutter-Stuttgart/) - [Munich](https://www.meetup.com/Flutter-Munich)
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school) - [Munich](https://twitter.com/FlutterMunich)
@@ -709,7 +709,7 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇮🇱 Israel
 - Facebook [Flutter Israel Developers](https://www.facebook.com/groups/2779846762051712)
 
-### 🇮�� Indonesia
+### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
 ### 🇯🇵 Japan
