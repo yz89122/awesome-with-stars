@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Scripting
     - 🎉 [Duktape ![GitHub Repo Stars](https://img.shields.io/github/stars/svaarala/duktape) ![GitHub last commit](https://img.shields.io/github/last-commit/svaarala/duktape)](https://github.com/svaarala/duktape) - Embeddable JavaScript engine with a focus on portability and compact footprint.
     - 🎉 [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
-    - ���� [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
+    - ��� [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
     - 🎉 [QuickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/bellard/quickjs) ![GitHub last commit](https://img.shields.io/github/last-commit/bellard/quickjs)](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
 
 ### C++
@@ -449,7 +449,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [Libigl ![GitHub Repo Stars](https://img.shields.io/github/stars/libigl/libigl) ![GitHub last commit](https://img.shields.io/github/last-commit/libigl/libigl)](https://github.com/libigl/libigl) - Simple geometry processing library.
     - 🎉 [MeshOptimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/zeux/meshoptimizer) ![GitHub last commit](https://img.shields.io/github/last-commit/zeux/meshoptimizer)](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render.
     - 🎉 [Polygon Mesh Processing Library ![GitHub Repo Stars](https://img.shields.io/github/stars/pmp-library/pmp-library) ![GitHub last commit](https://img.shields.io/github/last-commit/pmp-library/pmp-library)](https://github.com/pmp-library/pmp-library) - Processing / visualizing polygon surface meshes.
-    - �� [PolyPartition ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanfratric/polypartition) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanfratric/polypartition)](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
+    - 🎉 [PolyPartition ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanfratric/polypartition) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanfratric/polypartition)](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
     - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
     - 🎉 [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
     - 🎉 [Seam-aware Decimater ![GitHub Repo Stars](https://img.shields.io/github/stars/songrun/SeamAwareDecimater) ![GitHub last commit](https://img.shields.io/github/last-commit/songrun/SeamAwareDecimater)](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs, based on [Seamless](https://cragl.cs.gmu.edu/seamless/).
@@ -640,7 +640,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Go: Geometry
     - 🎉 [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
 - Go: Graphics
-    - �� [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
+    - 🎉 [ln ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/ln) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/ln)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
 ### Haxe
 - 📚 [Awesome Haxe ![GitHub Repo Stars](https://img.shields.io/github/stars/nadako/awesome-haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/nadako/awesome-haxe)](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
