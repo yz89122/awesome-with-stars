@@ -573,7 +573,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    - 🔒 [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
+    - ��� [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus on performance, cache locality and DX.
     - 🎉 [LeoECS ![GitHub Repo Stars](https://img.shields.io/github/stars/Leopotam/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/Leopotam/ecs)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to _Unity_.
 - C#: Game Engine w/Editor
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
@@ -1189,7 +1189,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Fire intro shader using noise textures and masking.
     - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
 - Lines
-    - ���� [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
+    - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
     - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
     - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
