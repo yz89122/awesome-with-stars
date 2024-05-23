@@ -320,7 +320,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [flawfinder](http://dwheeler.com/flawfinder/) — Finds possible security weaknesses.
 
-- [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) �� Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
+- [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
 - [Frama-C](https://www.frama-c.com) — A sound and extensible static analyzer for C code.
 
@@ -762,7 +762,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 <h2>Nim</h2>
 
 
-- [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
+- [DrNim](https://nim-lang.org/docs/drnim.html) �� DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 
 - [nimfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/FedericoCeratto/nimfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/FedericoCeratto/nimfmt)](https://github.com/FedericoCeratto/nimfmt) :warning: — Nim code formatter / linter / style checker
 
