@@ -67,6 +67,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Schemix - Generate Prisma Schemas with TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/ridafkih/schemix) ![GitHub last commit](https://img.shields.io/github/last-commit/ridafkih/schemix)](https://github.com/ridafkih/schemix)
 - [Prismock - Run tests in isolation with an in-memory implementation of Prisma ![GitHub Repo Stars](https://img.shields.io/github/stars/morintd/prismock) ![GitHub last commit](https://img.shields.io/github/last-commit/morintd/prismock)](https://github.com/morintd/prismock)
 - [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files ![GitHub Repo Stars](https://img.shields.io/github/stars/MrLeebo/prisma-ast) ![GitHub last commit](https://img.shields.io/github/last-commit/MrLeebo/prisma-ast)](https://github.com/MrLeebo/prisma-ast)
+- [prisma-query-formatter - Substitute params and format queries for logging ![GitHub Repo Stars](https://img.shields.io/github/stars/s1owjke/prisma-query-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/s1owjke/prisma-query-formatter)](https://github.com/s1owjke/prisma-query-formatter)
 
 ### :man_technologist: Prisma Clients
 
