@@ -272,7 +272,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
 * 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
 * 📝 [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
-* ��� [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
+* 📝 [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
 * 📝 [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
 
 ### Analytic Number Theory
@@ -361,8 +361,8 @@ All resources are freely available except those with a 💲 icon.
 
 ## Geometry and Topology
 
-* ���� [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
-* 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+* 📝 [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
+* �� [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman

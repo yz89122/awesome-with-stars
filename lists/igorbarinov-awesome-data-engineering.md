@@ -128,6 +128,8 @@
 - [AWS Data Wranlger ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data on AWS.
 - [Airbyte](https://airbyte.io/) - Open-source data integration for modern data teams.
 - [Sling](https://slingdata.io/) - Sling is CLI data integration tool specialized in moving data between databases, as well as storage systems.
+- [Meltano](https://meltano.com/) - CLI & code-first ELT.
+  - [Singer SDK](https://sdk.meltano.com) - The fastest way to build custom data extractors and loaders compliant with the Singer Spec.
 
 ## File System
 
