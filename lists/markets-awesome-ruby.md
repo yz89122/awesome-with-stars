@@ -83,6 +83,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Form Builder](#form-builder)
 * [Game Development and Graphics](#game-development-and-graphics)
 * [Gem Generators](#gem-generators)
+* [Gem Servers](#gem-servers)
 * [Geolocation](#geolocation)
 * [Git Tools](#git-tools)
 * [GraphQL](#graphql)
@@ -726,6 +727,13 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [Gemsmith ![GitHub Repo Stars](https://img.shields.io/github/stars/bkuhlmann/gemsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/bkuhlmann/gemsmith)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 * [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
+
+## Gem Servers
+
+* [Gemfast ![GitHub Repo Stars](https://img.shields.io/github/stars/gemfast/server) ![GitHub last commit](https://img.shields.io/github/last-commit/gemfast/server)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
+* [Gem in a box ![GitHub Repo Stars](https://img.shields.io/github/stars/geminabox/geminabox) ![GitHub last commit](https://img.shields.io/github/last-commit/geminabox/geminabox)](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
+* [Gemirro ![GitHub Repo Stars](https://img.shields.io/github/stars/PierreRambaud/gemirro) ![GitHub last commit](https://img.shields.io/github/last-commit/PierreRambaud/gemirro)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
+* [Gemstash ![GitHub Repo Stars](https://img.shields.io/github/stars/rubygems/gemstash) ![GitHub last commit](https://img.shields.io/github/last-commit/rubygems/gemstash)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
 
 ## Geolocation
 
