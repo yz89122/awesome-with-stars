@@ -441,7 +441,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [crabz ![GitHub Repo Stars](https://img.shields.io/github/stars/sstadick/crabz) ![GitHub last commit](https://img.shields.io/github/last-commit/sstadick/crabz)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status ![GitHub Repo Stars](https://img.shields.io/github/stars/sstadick/crabz) ![GitHub last commit](https://img.shields.io/github/last-commit/sstadick/crabz)](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 * [cristianoliveira/funzzy ![GitHub Repo Stars](https://img.shields.io/github/stars/cristianoliveira/funzzy) ![GitHub last commit](https://img.shields.io/github/last-commit/cristianoliveira/funzzy)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 * [dalance/procs ![GitHub Repo Stars](https://img.shields.io/github/stars/dalance/procs) ![GitHub last commit](https://img.shields.io/github/last-commit/dalance/procs)](https://github.com/dalance/procs) — A modern replacement for 'ps' [![Regression ![GitHub Repo Stars](https://img.shields.io/github/stars/dalance/procs) ![GitHub last commit](https://img.shields.io/github/last-commit/dalance/procs)](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
-* [ddh ![GitHub Repo Stars](https://img.shields.io/github/stars/darakian/ddh) ![GitHub last commit](https://img.shields.io/github/last-commit/darakian/ddh)](https://github.com/darakian/ddh) ��� Fast duplicate file finder
+* [ddh ![GitHub Repo Stars](https://img.shields.io/github/stars/darakian/ddh) ![GitHub last commit](https://img.shields.io/github/last-commit/darakian/ddh)](https://github.com/darakian/ddh) — Fast duplicate file finder
 * [diskonaut ![GitHub Repo Stars](https://img.shields.io/github/stars/imsnif/diskonaut) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/diskonaut)](https://github.com/imsnif/diskonaut) — Terminal visual disk space navigator
 * [dust ![GitHub Repo Stars](https://img.shields.io/github/stars/bootandy/dust) ![GitHub last commit](https://img.shields.io/github/last-commit/bootandy/dust)](https://github.com/bootandy/dust) — A more intuitive version of du
 * [eza-community/eza ![GitHub Repo Stars](https://img.shields.io/github/stars/eza-community/eza) ![GitHub last commit](https://img.shields.io/github/last-commit/eza-community/eza)](https://github.com/eza-community/eza) — A replacement for 'ls'
@@ -810,7 +810,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Services
 
-* [deps.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/deps-rs/deps.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/deps-rs/deps.rs)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+* [deps.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/deps-rs/deps.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/deps-rs/deps.rs)](https://github.com/deps-rs/deps.rs) �� Detect outdated or insecure dependencies
 * [docs.rs](https://docs.rs) — Automatic documentation generation of crates
 
 ### Static analysis
