@@ -1730,7 +1730,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/) — Lightning-fast linter for .env files. Written in Rust
 
-- [gixy ![GitHub Repo Stars](https://img.shields.io/github/stars/yandex/gixy) ![GitHub last commit](https://img.shields.io/github/last-commit/yandex/gixy)](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
+- [gixy ![GitHub Repo Stars](https://img.shields.io/github/stars/yandex/gixy) ![GitHub last commit](https://img.shields.io/github/last-commit/yandex/gixy)](https://github.com/yandex/gixy) ��� A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
 
 
 <a name="configmanagement" />
