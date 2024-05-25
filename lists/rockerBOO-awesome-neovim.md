@@ -1155,6 +1155,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [esensar/nvim-dev-container ![GitHub Repo Stars](https://img.shields.io/github/stars/esensar/nvim-dev-container) ![GitHub last commit](https://img.shields.io/github/last-commit/esensar/nvim-dev-container)](https://github.com/esensar/nvim-dev-container) - Neovim devcontainer.json and general development container support.
 - [miversen33/netman.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/miversen33/netman.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/miversen33/netman.nvim)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 - [niuiic/remote.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/remote.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/remote.nvim)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+- [nosduco/remote-sshfs.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nosduco/remote-sshfs.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nosduco/remote-sshfs.nvim)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
 
 ## Split and Window
 
