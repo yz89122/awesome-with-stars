@@ -352,7 +352,7 @@ Meteo
 ### Clone
 
 - [GitTouch ![GitHub Repo Stars](https://img.shields.io/github/stars/pd4d10/git-touch) ![GitHub last commit](https://img.shields.io/github/last-commit/pd4d10/git-touch)](https://github.com/pd4d10/git-touch) [1493⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
-- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435��] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
+- [RustDesk ![GitHub Repo Stars](https://img.shields.io/github/stars/rustdesk/rustdesk) ![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk)](https://github.com/rustdesk/rustdesk) [62435⭐] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
 
 ### Machine Learning
 
@@ -516,7 +516,7 @@ This section contains libraries that take an experimental or unorthodox approach
 ### Top
 
 - [Flutter Team Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/samples) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/samples)](https://github.com/flutter/samples) [16544⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/flutter)](https://github.com/orgs/flutter/people)
-- [Flutter Common Widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/flutter-common-widgets-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/flutter-common-widgets-app)](https://github.com/alibaba/flutter-common-widgets-app) [23562⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
+- [Flutter Common Widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/flutter-common-widgets-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/flutter-common-widgets-app)](https://github.com/alibaba/flutter-common-widgets-app) [23562��] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
 - [Music Player ![GitHub Repo Stars](https://img.shields.io/github/stars/iampawan/Flutter-Music-Player) ![GitHub last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-Music-Player)](https://github.com/iampawan/Flutter-Music-Player) [1675⭐] - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [WhatTodo ![GitHub Repo Stars](https://img.shields.io/github/stars/burhanrashid52/WhatTodo) ![GitHub last commit](https://img.shields.io/github/last-commit/burhanrashid52/WhatTodo)](https://github.com/burhanrashid52/WhatTodo) [1132⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 - [FlutterGram ![GitHub Repo Stars](https://img.shields.io/github/stars/mdanics/fluttergram) ![GitHub last commit](https://img.shields.io/github/last-commit/mdanics/fluttergram)](https://github.com/mdanics/fluttergram) [2284⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
