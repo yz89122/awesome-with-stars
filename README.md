@@ -8,9 +8,9 @@
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
+			<a href="https://sindresorhus.com/week-number">Week Number</a>
 			<br>
-			<sup>Display the time remaining today in your menu bar</sup>
+			<sup>The current week number in your menu bar</sup>
 		</h2>
 	</div>
 	<br>
@@ -657,6 +657,7 @@
 - [Security Card Games ![GitHub Repo Stars](https://img.shields.io/github/stars/Karneades/awesome-security-card-games) ![GitHub last commit](https://img.shields.io/github/last-commit/Karneades/awesome-security-card-games)](./lists/Karneades-awesome-security-card-games.md) [*Origin*](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata ![GitHub Repo Stars](https://img.shields.io/github/stars/satta/awesome-suricata) ![GitHub last commit](https://img.shields.io/github/last-commit/satta/awesome-suricata)](./lists/satta-awesome-suricata.md) [*Origin*](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/FonduAI/awesome-prompt-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/FonduAI/awesome-prompt-injection)](./lists/FonduAI-awesome-prompt-injection.md) [*Origin*](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+- [Detection Engineering ![GitHub Repo Stars](https://img.shields.io/github/stars/infosecB/awesome-detection-engineering) ![GitHub last commit](https://img.shields.io/github/last-commit/infosecB/awesome-detection-engineering)](./lists/infosecB-awesome-detection-engineering.md) [*Origin*](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 
 ## Content Management Systems
 
