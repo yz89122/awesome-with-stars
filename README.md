@@ -593,6 +593,7 @@
 - [Cassandra ![GitHub Repo Stars](https://img.shields.io/github/stars/Anant/awesome-cassandra) ![GitHub last commit](https://img.shields.io/github/last-commit/Anant/awesome-cassandra)](./lists/Anant-awesome-cassandra.md) [*Origin*](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine ![GitHub Repo Stars](https://img.shields.io/github/stars/taosdata/awesome-tdengine) ![GitHub last commit](https://img.shields.io/github/last-commit/taosdata/awesome-tdengine)](./lists/taosdata-awesome-tdengine.md) [*Origin*](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase ![GitHub Repo Stars](https://img.shields.io/github/stars/lyqht/awesome-supabase) ![GitHub last commit](https://img.shields.io/github/last-commit/lyqht/awesome-supabase)](./lists/lyqht-awesome-supabase.md) [*Origin*](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+- [PocketBase ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/awesome-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/awesome-pocketbase)](./lists/benallfree-awesome-pocketbase.md) [*Origin*](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
 
 ## Media
 
