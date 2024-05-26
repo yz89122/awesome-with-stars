@@ -192,7 +192,7 @@
 
 - [webtorrent ![GitHub Repo Stars](https://img.shields.io/github/stars/webtorrent/webtorrent) ![GitHub last commit](https://img.shields.io/github/last-commit/webtorrent/webtorrent)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
 - [peerflix ![GitHub Repo Stars](https://img.shields.io/github/stars/mafintosh/peerflix) ![GitHub last commit](https://img.shields.io/github/last-commit/mafintosh/peerflix)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-- [ipfs ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/js-ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/js-ipfs)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+- [ipfs ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/helia) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/helia)](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki ![GitHub Repo Stars](https://img.shields.io/github/stars/mafintosh/peerwiki) ![GitHub last commit](https://img.shields.io/github/last-commit/mafintosh/peerwiki)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast ![GitHub Repo Stars](https://img.shields.io/github/stars/mafintosh/peercast) ![GitHub last commit](https://img.shields.io/github/last-commit/mafintosh/peercast)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
