@@ -310,7 +310,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/github/stars/PistonDevelopers/piston) ![GitHub last commit](https://img.shields.io/github/last-commit/PistonDevelopers/piston)](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).
 
-* [chess-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/thomas-mauran/chess-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/thomas-mauran/chess-tui)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
+* [chess-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/thomas-mauran/chess-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/thomas-mauran/chess-tui)](https://github.com/thomas-mauran/chess-tui) ��� A Chess TUI implementation ♟️
 * [citybound ![GitHub Repo Stars](https://img.shields.io/github/stars/citybound/citybound) ![GitHub last commit](https://img.shields.io/github/last-commit/citybound/citybound)](https://github.com/citybound/citybound) — The city sim you deserve
 * [cristicbz/rust-doom ![GitHub Repo Stars](https://img.shields.io/github/stars/cristicbz/rust-doom) ![GitHub last commit](https://img.shields.io/github/last-commit/cristicbz/rust-doom)](https://github.com/cristicbz/rust-doom) — A renderer for Doom, may progress to being a playable game
 * [doukutsu-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/doukutsu-rs/doukutsu-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/doukutsu-rs/doukutsu-rs)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
