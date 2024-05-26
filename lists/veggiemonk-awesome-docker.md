@@ -305,6 +305,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 
 ### Security
 
+-   [Anchor ![GitHub Repo Stars](https://img.shields.io/github/stars/SongStitch/anchor) ![GitHub last commit](https://img.shields.io/github/last-commit/SongStitch/anchor)](https://github.com/SongStitch/anchor/) - A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles [@SongStitch](https://github.com/songStitch/)
 -   [Anchor Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/anchore/anchore) ![GitHub last commit](https://img.shields.io/github/last-commit/anchore/anchore)](https://github.com/anchore/anchore) - Analyze images for CVE vulnerabilities and against custom security policies by [@Anchor](https://github.com/anchore)
 -   [Aqua Security](https://www.aquasec.com) :heavy_dollar_sign: - Securing container-based applications from Dev to Production on any platform
 -   [bane ![GitHub Repo Stars](https://img.shields.io/github/stars/genuinetools/bane) ![GitHub last commit](https://img.shields.io/github/last-commit/genuinetools/bane)](https://github.com/genuinetools/bane) - AppArmor profile generator for Docker containers by [@genuinetools][genuinetools]
