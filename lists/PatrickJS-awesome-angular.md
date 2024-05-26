@@ -63,6 +63,7 @@ Table of contents:
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [Scroll](#scroll)
   * [State Management](#state-management)
   * [Storage](#storage)
   * [Tables](#tables)
@@ -233,7 +234,7 @@ Table of contents:
 
 #### Cheatsheet
 
-* [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs does not have a cheatsheet.
+* [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs do not have a cheatsheet.
 * [List of 100 Angular Interview questions and answers ![GitHub Repo Stars](https://img.shields.io/github/stars/sudheerj/angular-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/sudheerj/angular-interview-questions)](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
@@ -458,6 +459,7 @@ become an Angular expert.
 * [angular-animations-explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/williamjuan027/angular-animations-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/williamjuan027/angular-animations-explorer)](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
 * [ngx-notation-reveal ![GitHub Repo Stars](https://img.shields.io/github/stars/namitoyokota/ngx-notation-reveal) ![GitHub last commit](https://img.shields.io/github/last-commit/namitoyokota/ngx-notation-reveal)](https://github.com/namitoyokota/ngx-notation-reveal) - Angular component to add rough notation animation when element is visible.
 * [ngx-typed2 ![GitHub Repo Stars](https://img.shields.io/github/stars/shiv-source/ngx-typed2) ![GitHub last commit](https://img.shields.io/github/last-commit/shiv-source/ngx-typed2)](https://github.com/shiv-source/ngx-typed2) - An Angular Typing Animation Library.
+* [ngx-count-animation ![GitHub Repo Stars](https://img.shields.io/github/stars/hm21/ngx-count-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/hm21/ngx-count-animation)](https://github.com/hm21/ngx-count-animation) - A package that elegantly animates number changes, creating a visually engaging transition from one value to another, perfect for counting or displaying real-time data updates.
 
 #### Calendars
 
@@ -478,6 +480,7 @@ become an Angular expert.
 * [ngx-owl-carousel-o ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalii-andriiovskyi/ngx-owl-carousel-o) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalii-andriiovskyi/ngx-owl-carousel-o)](https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o) - owl-carousel for Angular >=6.
 * [angular2-image-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/BenjaminBrandmeier/angular2-image-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/BenjaminBrandmeier/angular2-image-gallery)](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
 * [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
+* [ngx-drag-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/bfwg/ngx-drag-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/bfwg/ngx-drag-scroll)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 
 #### Charts
 
@@ -515,8 +518,6 @@ become an Angular expert.
 * [ngx-mutation-observer ![GitHub Repo Stars](https://img.shields.io/github/stars/fidian/ngx-mutation-observer) ![GitHub last commit](https://img.shields.io/github/last-commit/fidian/ngx-mutation-observer)](https://github.com/fidian/ngx-mutation-observer) - Get Angular 8+ events fired when an element is mutated in the DOM.
 * [ngx-visibility ![GitHub Repo Stars](https://img.shields.io/github/stars/fidian/ngx-visibility) ![GitHub last commit](https://img.shields.io/github/last-commit/fidian/ngx-visibility)](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
 * [ng-in-viewport ![GitHub Repo Stars](https://img.shields.io/github/stars/k3nsei/ng-in-viewport) ![GitHub last commit](https://img.shields.io/github/last-commit/k3nsei/ng-in-viewport)](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
-* [ngx-ui-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/dhilt/ngx-ui-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/dhilt/ngx-ui-scroll)](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
-* [ngx-page-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/Nolanus/ngx-page-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/Nolanus/ngx-page-scroll)](https://github.com/Nolanus/ngx-page-scroll) - Animated scrolling functionality for Angular written in pure TypeScript.
 * [ngx-dynamic-hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/MTobisch/ngx-dynamic-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/MTobisch/ngx-dynamic-hooks)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 * [edit-in-place ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/edit-in-place) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/edit-in-place)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [ng-let ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-let) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-let)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
@@ -630,6 +631,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 
 * [ngx-img-fallback ![GitHub Repo Stars](https://img.shields.io/github/stars/VadimDez/ngx-img-fallback) ![GitHub last commit](https://img.shields.io/github/last-commit/VadimDez/ngx-img-fallback)](https://github.com/VadimDez/ngx-img-fallback) - Load placeholder image on image error, Angular 5+.
 * [ngx-image-zoom ![GitHub Repo Stars](https://img.shields.io/github/stars/wittlock/ngx-image-zoom) ![GitHub last commit](https://img.shields.io/github/last-commit/wittlock/ngx-image-zoom)](https://github.com/wittlock/ngx-image-zoom) - Angular component for zoomable images.
+* [ngx-image-hero ![GitHub Repo Stars](https://img.shields.io/github/stars/hm21/ngx-image-hero) ![GitHub last commit](https://img.shields.io/github/last-commit/hm21/ngx-image-hero)](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
 * [ngx-image-compress ![GitHub Repo Stars](https://img.shields.io/github/stars/dfa1234/ngx-image-compress) ![GitHub last commit](https://img.shields.io/github/last-commit/dfa1234/ngx-image-compress)](https://github.com/dfa1234/ngx-image-compress) - Angular library for uploading and compressing images.
 * [ngx-image-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/Mawi137/ngx-image-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/Mawi137/ngx-image-cropper)](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
 * [ng-cloudimage-responsive ![GitHub Repo Stars](https://img.shields.io/github/stars/scaleflex/ng-cloudimage-responsive) ![GitHub last commit](https://img.shields.io/github/last-commit/scaleflex/ng-cloudimage-responsive)](https://github.com/scaleflex/ng-cloudimage-responsive) - Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size. 
@@ -646,18 +648,13 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 
 #### Layout Components
 
-* [@robingenz/ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/robingenz/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/robingenz/ngx-infinite-scroll)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
-* [angular-fullpage ![GitHub Repo Stars](https://img.shields.io/github/stars/alvarotrigo/angular-fullpage) ![GitHub last commit](https://img.shields.io/github/last-commit/alvarotrigo/angular-fullpage)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
 * [angular-split ![GitHub Repo Stars](https://img.shields.io/github/stars/bertrandg/angular-split) ![GitHub last commit](https://img.shields.io/github/last-commit/bertrandg/angular-split)](https://github.com/bertrandg/angular-split) - Angular split component.
-* [ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/orizens/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/orizens/ngx-infinite-scroll)](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
 * [egjs-infinitegrid ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-infinitegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-infinitegrid)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
-* [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 * [overview ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/overview) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/overview)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 * [ngx-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/ngbracket/ngx-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/ngbracket/ngx-layout)](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
 * [ng-sortgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzerk/ng-sortgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzerk/ng-sortgrid)](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
 * [angular-gridster2 ![GitHub Repo Stars](https://img.shields.io/github/stars/tiberiuzuld/angular-gridster2) ![GitHub last commit](https://img.shields.io/github/last-commit/tiberiuzuld/angular-gridster2)](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
 * [angular-grid-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/katoid/angular-grid-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/katoid/angular-grid-layout)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
-* [lithium-ngx-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/lVlyke/lithium-ngx-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/lVlyke/lithium-ngx-virtual-scroll)](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
 
 #### Loaders
 
@@ -718,6 +715,19 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-sonner ![GitHub Repo Stars](https://img.shields.io/github/stars/tutkli/ngx-sonner) ![GitHub last commit](https://img.shields.io/github/last-commit/tutkli/ngx-sonner)](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [angular-bootstrap-toast-service ![GitHub Repo Stars](https://img.shields.io/github/stars/svierk/angular-bootstrap-toast-service) ![GitHub last commit](https://img.shields.io/github/last-commit/svierk/angular-bootstrap-toast-service)](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 * [angular2-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/flauc/angular2-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/flauc/angular2-notifications)](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
+
+#### Scroll
+
+* [ngx-ui-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/dhilt/ngx-ui-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/dhilt/ngx-ui-scroll)](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
+* [ngx-page-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/Nolanus/ngx-page-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/Nolanus/ngx-page-scroll)](https://github.com/Nolanus/ngx-page-scroll) - Animated scrolling functionality for Angular written in pure TypeScript.
+* [ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/orizens/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/orizens/ngx-infinite-scroll)](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
+* [ngx-scroll-animations ![GitHub Repo Stars](https://img.shields.io/github/stars/hm21/ngx-scroll-animations) ![GitHub last commit](https://img.shields.io/github/last-commit/hm21/ngx-scroll-animations)](https://github.com/hm21/ngx-scroll-animations) - This minimalistic Angular directive, free from external dependencies, empowers you to effortlessly implement CSS animations on elements. These animations trigger when an element comes into view through scrolling on the page. It seamlessly integrates with your choice of CSS animations.
+* [lithium-ngx-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/lVlyke/lithium-ngx-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/lVlyke/lithium-ngx-virtual-scroll)](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
+* [@robingenz/ngx-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/robingenz/ngx-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/robingenz/ngx-infinite-scroll)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
+* [angular-fullpage ![GitHub Repo Stars](https://img.shields.io/github/stars/alvarotrigo/angular-fullpage) ![GitHub last commit](https://img.shields.io/github/last-commit/alvarotrigo/angular-fullpage)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
+* [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
+* [OverlayScrollbars ![GitHub Repo Stars](https://img.shields.io/github/stars/KingSora/OverlayScrollbars) ![GitHub last commit](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars)](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+* [ng-table-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/diprokon/ng-table-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/diprokon/ng-table-virtual-scroll)](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
 
 #### State Management
 
@@ -826,9 +836,7 @@ for Bootstrap 5 & Angular 17.
 
 #### Viewers
 
-* [egjs-flicking ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-flicking) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-flicking)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 * [ng2-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/VadimDez/ng2-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/VadimDez/ng2-pdf-viewer)](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
-* [ngu-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/sheikalthaf/ngu-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/sheikalthaf/ngu-carousel)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
 * [ngx-extended-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/stephanrauh/ngx-extended-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/stephanrauh/ngx-extended-pdf-viewer)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 * [ng2-pdfjs-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/intbot/ng2-pdfjs-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/intbot/ng2-pdfjs-viewer)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 * [ngx-json-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/hivivo/ngx-json-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/hivivo/ngx-json-viewer)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
