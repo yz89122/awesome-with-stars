@@ -791,7 +791,7 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇹🇷 Turkey
 
 - [Twitter](https://twitter.com/flutter_turkiye)
-- [Medium](https://medium.com/flutter-t��rkiye/)
+- [Medium](https://medium.com/flutter-türkiye/)
 - [Telegram Channel](https://t.me/FlutterTurk)
 - [Telegram Group](https://t.me/FlutterTR)
 - [Slack](https://bit.ly/flutterTR)
