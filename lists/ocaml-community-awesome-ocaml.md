@@ -288,7 +288,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Formal Software Verification
 
 - [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
-- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+- [Why3](http://why3.lri.fr/) ��� Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
 
@@ -372,7 +372,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Logging
 
-- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) ��� A dumb OCaml logger.
+- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt ![GitHub Repo Stars](https://img.shields.io/github/stars/codinuum/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/codinuum/volt)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 

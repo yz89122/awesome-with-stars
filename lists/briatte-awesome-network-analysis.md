@@ -304,7 +304,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Network Science IGERT at the University of California at Santa Barbara (UCSB)](http://networkscience.igert.ucsb.edu/) - Features an [NSF-funded](http://www.igert.org/) graduate programme.
 -   [Networks, Computation, and Social Dynamics Lab](http://www.ncasd.org/) - Headed by Carter T. Butts. Part of the [Center for Networks and Relational Analysis](http://relationalanalysis.org/) (CNRA) at the University of California in Irvine.
 -   [Northeastern University Network Science Institute](http://www.networkscienceinstitute.org/) - Features a PhD in Network Science program.
--   [Northeastern University Center for Complex Network Research](https://www.northeastern.edu/research/centers/center-for-complex-network-research-ccnr/) - Led by Albert-László Barabási.
+-   [Northeastern University Center for Complex Network Research](https://www.northeastern.edu/research/centers/center-for-complex-network-research-ccnr/) - Led by Albert-Lászl�� Barabási.
 -   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
 -   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - Non-profit study group of ecological networks (“food webs”).
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
