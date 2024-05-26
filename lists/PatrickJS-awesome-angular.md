@@ -384,6 +384,7 @@ become an Angular expert.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [google-pay-button ![GitHub Repo Stars](https://img.shields.io/github/stars/google-pay/google-pay-button) ![GitHub last commit](https://img.shields.io/github/last-commit/google-pay/google-pay-button)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 * [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+* [ngx-disqus ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-disqus) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-disqus)](https://github.com/MurhafSousli/ngx-disqus) - Disqus for Angular.
 
 #### Site Templates
 
@@ -526,6 +527,8 @@ become an Angular expert.
 * [safe-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/embarq/safe-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/embarq/safe-pipe)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 * [ngxd ![GitHub Repo Stars](https://img.shields.io/github/stars/Indigosoft/ngxd) ![GitHub last commit](https://img.shields.io/github/last-commit/Indigosoft/ngxd)](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
 * [ngx-quicklink ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-quicklink) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-quicklink)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+* [ngx-highlightjs ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-highlightjs) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-highlightjs)](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
+* [ngx-sharebuttons ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-sharebuttons) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-sharebuttons)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons. 
 
 #### Drag/Drop
 
@@ -590,6 +593,7 @@ become an Angular expert.
 * [ngx-bootstrap-icons-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/gdgvda/ngx-bootstrap-icons-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/gdgvda/ngx-bootstrap-icons-picker)](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - Just a Bootstrap Icons Picker for Angular.
 * [ngx-filesaver ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-filesaver) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-filesaver)](https://github.com/cipchk/ngx-filesaver) - Simple file save with [FileSaver.js ![GitHub Repo Stars](https://img.shields.io/github/stars/eligrey/FileSaver.js) ![GitHub last commit](https://img.shields.io/github/last-commit/eligrey/FileSaver.js)](https://github.com/eligrey/FileSaver.js).
 * [angular-star-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/BioPhoton/angular-star-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/BioPhoton/angular-star-rating)](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
+* [ngx-bar-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-bar-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-bar-rating)](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
 
 ##### Validation
 
@@ -728,6 +732,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-scrolltop ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-scrolltop) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-scrolltop)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 * [OverlayScrollbars ![GitHub Repo Stars](https://img.shields.io/github/stars/KingSora/OverlayScrollbars) ![GitHub last commit](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars)](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 * [ng-table-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/diprokon/ng-table-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/diprokon/ng-table-virtual-scroll)](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
+* [ngx-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-scrollbar)](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
 
 #### State Management
 
