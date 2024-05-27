@@ -125,7 +125,6 @@ The purpose of this document is to provide a quick overview over existing packag
 #### General
 
 - [steam ![GitHub Repo Stars](https://img.shields.io/github/stars/ValvePython/steam) ![GitHub last commit](https://img.shields.io/github/last-commit/ValvePython/steam)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
-- [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd ![GitHub Repo Stars](https://img.shields.io/github/stars/Lagg/steamodd) ![GitHub last commit](https://img.shields.io/github/last-commit/Lagg/steamodd)](https://github.com/Lagg/steamodd) - Steam tools library.
 - [steampy ![GitHub Repo Stars](https://img.shields.io/github/stars/bukson/steampy) ![GitHub last commit](https://img.shields.io/github/last-commit/bukson/steampy)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 - [SteamAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/smiley/steamapi) ![GitHub last commit](https://img.shields.io/github/last-commit/smiley/steamapi)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
