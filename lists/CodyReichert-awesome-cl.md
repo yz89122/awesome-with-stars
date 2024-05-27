@@ -611,6 +611,7 @@ Implementations
   * see also: [sbcl-librarian ![GitHub Repo Stars](https://img.shields.io/github/stars/quil-lang/sbcl-librarian) ![GitHub last commit](https://img.shields.io/github/last-commit/quil-lang/sbcl-librarian)](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Tutorial](https://lispcookbook.github.io/cl-cookbook/dynamic-libraries.html).
   * [SBCL-GOODIES ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/sbcl-goodies) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/sbcl-goodies)](https://github.com/sionescu/sbcl-goodies) - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. [MIT][200].
   * [Nightly Windows builds of SBCL ![GitHub Repo Stars](https://img.shields.io/github/stars/olnw/sbcl-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/olnw/sbcl-builds)](https://github.com/olnw/sbcl-builds) -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/sbcl_bin) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/sbcl_bin)](https://github.com/roswell/sbcl_bin/releases/).
+  * [SBCL on Chocolatey for Windows](https://community.chocolatey.org/packages/sbcl) (unofficial)
 * ⭐ [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
   * [eclweb ![GitHub Repo Stars](https://img.shields.io/github/stars/chee/eclweb) ![GitHub last commit](https://img.shields.io/github/last-commit/chee/eclweb)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
@@ -1704,6 +1705,7 @@ Unit Testing
 See also:
 
 * [testieren](https://cicadas.surf/cgit/colin/testiere.git/about/) - a testing utility where tests are included at the top of a `defun/t` form. They are run when you recompile your functions interactively. With mocking and stubbing support. [GPL3][2].
+* [cl-hamcrest ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/cl-hamcrest) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-hamcrest)](https://github.com/40ants/cl-hamcrest) -  a set of [Hamcrest](https://hamcrest.org/) matchers that can be combined to create flexible expressions of intent. Helps make your unittests more readable by using  assertions such as `has-plist-entries`, `has-slots`, `has-length`, `contains`, `contains-in-any-order`, `has-all`… [BSD_3Clause][15].
 
 Editor utilities:
 
