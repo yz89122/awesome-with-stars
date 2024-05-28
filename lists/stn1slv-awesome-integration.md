@@ -837,7 +837,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [YAML (⭐318) ![GitHub Repo Stars](https://img.shields.io/github/stars/yaml/yaml-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/yaml/yaml-spec)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable-->
 ### Integration Styles
 - [File Transfer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html) - Data is exchanged through file exchange between applications.
