@@ -225,7 +225,7 @@
 - 📁 [V-Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/v-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-dashboard)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - 📁 [Petra ![GitHub Repo Stars](https://img.shields.io/github/stars/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template)](https://github.com/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
 - 📁 [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
-- 📁 [OhMySMTP Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmysmtp/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmysmtp/templates)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+- �� [OhMySMTP Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmysmtp/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmysmtp/templates)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 - 📁 [Admin One Vue 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/justboil/admin-one-vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/justboil/admin-one-vue-tailwind)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
@@ -235,7 +235,7 @@
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
-- 📁 [Astro Template Dante ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/dante-astro-theme)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- �� [Astro Template Dante ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/dante-astro-theme)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## Starters & Themes
 
@@ -301,7 +301,7 @@
 - 🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
 - 🔧 [Tailwind CSS with Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/raytiley/tailwind-ember-example) ![GitHub last commit](https://img.shields.io/github/last-commit/raytiley/tailwind-ember-example)](https://github.com/raytiley/tailwind-ember-example) - How to add Tailwind CSS to an Ember application.
 - 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
-- 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
+- ���� [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
 - 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
