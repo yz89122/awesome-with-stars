@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
-    - ��� [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
+    - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
     - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/khronosGroup/Vulkan-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/khronosGroup/Vulkan-samples)](https://github.com/khronosGroup/Vulkan-samples)]
     - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
@@ -309,7 +309,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Geometry
     - 🎉 [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
     - 🎉 [Marching Squares ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_msquares.h) - Convert images into triangles. [[Info](https://prideout.net/marching-squares)]
-    - 🎉 [Octasphere ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_octasphere.h) - Generates triangle meshes for spheres, boxes, and capsules. [[Info](https://prideout.net/blog/octasphere/)]
+    - ��� [Octasphere ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_octasphere.h) - Generates triangle meshes for spheres, boxes, and capsules. [[Info](https://prideout.net/blog/octasphere/)]
     - 🎉 [Par_Shapes ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_shapes.h) - Triangle meshes including solids, spheres and more. [[Info](https://prideout.net/shapes)]
     - 🎉 [Par_Streamlines ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_streamlines.h) - Triangulating thick lines, béziers, streamlines. [[Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/streamlines_demo) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/streamlines_demo)](https://github.com/prideout/streamlines_demo) | [Info](https://prideout.net/blog/par_streamlines/)]
 - C: Graphics - 2D
@@ -448,7 +448,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [GeometronLib ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/GeometronLib) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/GeometronLib)](https://github.com/LukasBanana/GeometronLib) - Meshes for 3D shapes (cube, sphere, etc.) and ray / geometry intersection.
     - 🔒 [Libigl ![GitHub Repo Stars](https://img.shields.io/github/stars/libigl/libigl) ![GitHub last commit](https://img.shields.io/github/last-commit/libigl/libigl)](https://github.com/libigl/libigl) - Simple geometry processing library.
     - 🎉 [MeshOptimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/zeux/meshoptimizer) ![GitHub last commit](https://img.shields.io/github/last-commit/zeux/meshoptimizer)](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render.
-    - 🎉 [Polygon Mesh Processing Library ![GitHub Repo Stars](https://img.shields.io/github/stars/pmp-library/pmp-library) ![GitHub last commit](https://img.shields.io/github/last-commit/pmp-library/pmp-library)](https://github.com/pmp-library/pmp-library) - Processing / visualizing polygon surface meshes.
+    - ��� [Polygon Mesh Processing Library ![GitHub Repo Stars](https://img.shields.io/github/stars/pmp-library/pmp-library) ![GitHub last commit](https://img.shields.io/github/last-commit/pmp-library/pmp-library)](https://github.com/pmp-library/pmp-library) - Processing / visualizing polygon surface meshes.
     - 🎉 [PolyPartition ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanfratric/polypartition) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanfratric/polypartition)](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
     - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
     - 🎉 [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
@@ -1122,7 +1122,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Sight & Light](https://ncase.me/sight-and-light/) - How to create 2D visibility / shadow effects for your game. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/ncase/sight-and-light) ![GitHub last commit](https://img.shields.io/github/last-commit/ncase/sight-and-light)](https://github.com/ncase/sight-and-light)]
     - 📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Common technique for calculating field of view.
 - Shadows 3D
-    - ��� [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
+    - 📚 [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
     - 📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) - Great exploration of screen space shadows.
     - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - Shadow mapping and the techniques used to acheive it.
 - Volumetric
