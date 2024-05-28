@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
-    - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
+    - ��� [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
     - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/khronosGroup/Vulkan-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/khronosGroup/Vulkan-samples)](https://github.com/khronosGroup/Vulkan-samples)]
     - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
@@ -1122,7 +1122,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Sight & Light](https://ncase.me/sight-and-light/) - How to create 2D visibility / shadow effects for your game. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/ncase/sight-and-light) ![GitHub last commit](https://img.shields.io/github/last-commit/ncase/sight-and-light)](https://github.com/ncase/sight-and-light)]
     - 📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Common technique for calculating field of view.
 - Shadows 3D
-    - 📚 [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
+    - ��� [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
     - 📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) - Great exploration of screen space shadows.
     - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - Shadow mapping and the techniques used to acheive it.
 - Volumetric
