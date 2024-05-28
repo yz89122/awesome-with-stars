@@ -320,7 +320,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [cpplint ![GitHub Repo Stars](https://img.shields.io/github/stars/google/styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/google/styleguide)](https://github.com/google/styleguide/tree/gh-pages/cpplint) — Automated C++ checker that follows Google's style guide.
 
-- [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) — Quality metrics for C code.
+- [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) �� Quality metrics for C code.
 
 - [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
