@@ -476,6 +476,7 @@
 - [Apache Spark ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-spark/awesome-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-spark/awesome-spark)](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik ![GitHub Repo Stars](https://img.shields.io/github/stars/ambster-public/awesome-qlik) ![GitHub last commit](https://img.shields.io/github/last-commit/ambster-public/awesome-qlik)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk ![GitHub Repo Stars](https://img.shields.io/github/stars/sduff/awesome-splunk) ![GitHub last commit](https://img.shields.io/github/last-commit/sduff/awesome-splunk)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+- [Network Analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/briatte/awesome-network-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/briatte/awesome-network-analysis)](https://github.com/briatte/awesome-network-analysis#readme)
 
 ## Theory
 
@@ -718,7 +719,6 @@
 ## Networking
 
 - [Software-Defined Networking ![GitHub Repo Stars](https://img.shields.io/github/stars/sdnds-tw/awesome-sdn) ![GitHub last commit](https://img.shields.io/github/last-commit/sdnds-tw/awesome-sdn)](https://github.com/sdnds-tw/awesome-sdn#readme)
-- [Network Analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/briatte/awesome-network-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/briatte/awesome-network-analysis)](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools ![GitHub Repo Stars](https://img.shields.io/github/stars/caesar0301/awesome-pcaptools) ![GitHub last commit](https://img.shields.io/github/last-commit/caesar0301/awesome-pcaptools)](https://github.com/caesar0301/awesome-pcaptools#readme)
 - [Real-Time Communications ![GitHub Repo Stars](https://img.shields.io/github/stars/rtckit/awesome-rtc) ![GitHub last commit](https://img.shields.io/github/last-commit/rtckit/awesome-rtc)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP ![GitHub Repo Stars](https://img.shields.io/github/stars/eozer/awesome-snmp) ![GitHub last commit](https://img.shields.io/github/last-commit/eozer/awesome-snmp)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
