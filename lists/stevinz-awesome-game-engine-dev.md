@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Scripting
     - 🎉 [Duktape ![GitHub Repo Stars](https://img.shields.io/github/stars/svaarala/duktape) ![GitHub last commit](https://img.shields.io/github/last-commit/svaarala/duktape)](https://github.com/svaarala/duktape) - Embeddable JavaScript engine with a focus on portability and compact footprint.
     - 🎉 [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
-    - ��� [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
+    - 🎉 [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
     - 🎉 [QuickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/bellard/quickjs) ![GitHub last commit](https://img.shields.io/github/last-commit/bellard/quickjs)](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
 
 ### C++
@@ -600,7 +600,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D) ![GitHub last commit](https://img.shields.io/github/last-commit/tainicom/Aether.Physics2D)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
-    - �� [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
+    - 🎉 [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks ![GitHub Repo Stars](https://img.shields.io/github/stars/Facepunch/Facepunch.Steamworks) ![GitHub last commit](https://img.shields.io/github/last-commit/Facepunch/Facepunch.Steamworks)](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
 
