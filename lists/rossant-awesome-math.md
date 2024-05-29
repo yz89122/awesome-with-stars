@@ -193,7 +193,7 @@ All resources are freely available except those with a 💲 icon.
 **Content Format** \
 📖 Books \
 🎥 Videos \
-📝 Lecture notes, slides, articles, papers
+��� Lecture notes, slides, articles, papers
 
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
@@ -362,7 +362,7 @@ All resources are freely available except those with a 💲 icon.
 ## Geometry and Topology
 
 * 📝 [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
-* �� [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+* 📝 [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
 * 📝 [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 * 📝 [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 * 📝 [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
@@ -502,7 +502,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - Peter Philip
 * 📝 [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * 📝 [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
-* 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
+* ��� [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
 * 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
 * 📝 [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
