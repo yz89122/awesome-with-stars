@@ -50,7 +50,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *Backup/restore/recovery tools*
 
-- [Dumpling ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/dumpling) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/dumpling)](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+- [Dumpling ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/tidb) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/tidb)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper ![GitHub Repo Stars](https://img.shields.io/github/stars/maxbube/mydumper) ![GitHub last commit](https://img.shields.io/github/last-commit/maxbube/mydumper)](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
@@ -66,7 +66,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 ## Binlog-Replication
 
-- [DM ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/dm) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/dm)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+- [DM ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/tiflow) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/tiflow)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus ![GitHub Repo Stars](https://img.shields.io/github/stars/flike/kingbus) ![GitHub last commit](https://img.shields.io/github/last-commit/flike/kingbus)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple ![GitHub Repo Stars](https://img.shields.io/github/stars/google/mysql-ripple) ![GitHub last commit](https://img.shields.io/github/last-commit/google/mysql-ripple)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 
