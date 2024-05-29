@@ -312,7 +312,7 @@ A developer's exprience in golang.
 
 [<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frontcover_REV_HM.png?itok=ns0fk-16" width="120px"/>](https://www.nostarch.com/blackhatgo)
 
-In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go���s offensive capabilities.
+In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
 ### 2020 - [Writing An Interpreter In Go](https://interpreterbook.com/)
 <img src="https://interpreterbook.com/img/cover-cb2da3d1.png" width="120px"/>
