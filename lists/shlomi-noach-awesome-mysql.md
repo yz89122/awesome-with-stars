@@ -155,7 +155,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *Proxies to MySQL*
 
-- [MaxScale ![GitHub Repo Stars](https://img.shields.io/github/stars/mariadb-corporation/MaxScale) ![GitHub last commit](https://img.shields.io/github/last-commit/mariadb-corporation/MaxScale)](https://github.com/mariadb-corporation/MaxScale) - open-source, database-centric proxy.
 - [Mixer ![GitHub Repo Stars](https://img.shields.io/github/stars/siddontang/mixer) ![GitHub last commit](https://img.shields.io/github/last-commit/siddontang/mixer)](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
 - [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL ![GitHub Repo Stars](https://img.shields.io/github/stars/renecannao/proxysql) ![GitHub last commit](https://img.shields.io/github/last-commit/renecannao/proxysql)](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
@@ -206,7 +205,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [gh-ost ![GitHub Repo Stars](https://img.shields.io/github/stars/github/gh-ost) ![GitHub last commit](https://img.shields.io/github/last-commit/github/gh-ost)](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql ![GitHub Repo Stars](https://img.shields.io/github/stars/siddontang/go-mysql) ![GitHub last commit](https://img.shields.io/github/last-commit/siddontang/go-mysql)](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
-- [openark kit](http://code.openark.org/forge/openark-kit) - a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python.
 - [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
