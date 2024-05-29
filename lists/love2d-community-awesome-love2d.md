@@ -370,7 +370,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 * [Tutorial on making an Arkanoid-type game ![GitHub Repo Stars](https://img.shields.io/github/stars/noooway/love2d_arkanoid_tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/noooway/love2d_arkanoid_tutorial)](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
-* [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching L��VE from the ground up.
+* [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 * [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
 * [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web.
 
