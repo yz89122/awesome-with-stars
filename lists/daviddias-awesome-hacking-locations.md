@@ -491,7 +491,7 @@ Wikipedia: https://en.wikipedia.org/wiki/C-base
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ��� | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
+✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
 
 #### Schiller Bar
 
