@@ -139,7 +139,7 @@ And obvious your secret weapon – Pen and paper!
 
 ### JavaScript
 * [GreenSock](http://greensock.com/) – Ultra high-performance, professional-grade animation for the modern web.
-* [Velocity.js](http://julian.com/research/velocity/) �� Accelerated JavaScript animation.
+* [Velocity.js](http://julian.com/research/velocity/) – Accelerated JavaScript animation.
 * [Impulse](http://impulse.luster.io/) – High-performance interactions for mobile web.
 * [AniJS](http://anijs.github.io/) – Animations by declared data-attributes.
 * [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – Minimalistic animation library in JavaScript.
