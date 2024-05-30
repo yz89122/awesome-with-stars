@@ -163,6 +163,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [Comprehensive XDP offload---Handling the edge cases](https://www.netdevconf.org/2.2/session.html?viljoen-xdpoffload-talk) - An update on the topic above.
 - [hBPF - eBPF in hardware ![GitHub Repo Stars](https://img.shields.io/github/stars/rprinz08/hBPF) ![GitHub last commit](https://img.shields.io/github/last-commit/rprinz08/hBPF)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
 - [OpenCSD eBPF SSD offloading ![GitHub Repo Stars](https://img.shields.io/github/stars/Dantali0n/qemu-csd) ![GitHub last commit](https://img.shields.io/github/last-commit/Dantali0n/qemu-csd)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
+- [Delilah: eBPF-offload on Computational Storage](https://dl.acm.org/doi/pdf/10.1145/3592980.3595319) - Delilah is a Computational Storage Processor (CSP) built for eBPF offload to storage devices.
 
 ## Tutorials
 
