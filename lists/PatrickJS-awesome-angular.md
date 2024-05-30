@@ -854,6 +854,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-extended-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/stephanrauh/ngx-extended-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/stephanrauh/ngx-extended-pdf-viewer)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 * [ng2-pdfjs-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/intbot/ng2-pdfjs-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/intbot/ng2-pdfjs-viewer)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 * [ngx-json-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/hivivo/ngx-json-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/hivivo/ngx-json-viewer)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
+* [ngx-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ngx-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ngx-diff)](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
 
 #### Misc Components
 
@@ -873,6 +874,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/tinesoft/ngx-cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/tinesoft/ngx-cookieconsent)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
 * [ngx-cookie-service ![GitHub Repo Stars](https://img.shields.io/github/stars/stevermeister/ngx-cookie-service) ![GitHub last commit](https://img.shields.io/github/last-commit/stevermeister/ngx-cookie-service)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies ![GitHub Repo Stars](https://img.shields.io/github/stars/BCJTI/ng2-cookies) ![GitHub last commit](https://img.shields.io/github/last-commit/BCJTI/ng2-cookies)](https://github.com/BCJTI/ng2-cookies) library.
 * [gui ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/gui) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/gui)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
+* [ng2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ng2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ng2csv)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 
 #### RxJS
 
@@ -930,6 +932,7 @@ for Bootstrap 5 & Angular 17.
 #### HTTP
 
 * [angular2-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/auth0/angular2-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/auth0/angular2-jwt)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
+* [ngx-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ngx-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ngx-jwt)](https://github.com/rars/ngx-jwt) - Angular library for injecting JWT tokens to HTTP requests.
 * [ng-http-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-http-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-http-caching)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 * [cashew ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/cashew) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
