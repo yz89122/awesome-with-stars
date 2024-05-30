@@ -153,6 +153,7 @@
 
 - [Stacks.js ![GitHub Repo Stars](https://img.shields.io/github/stars/hirosystems/stacks.js) ![GitHub last commit](https://img.shields.io/github/last-commit/hirosystems/stacks.js)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 - [stacks.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/52/stacks.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/52/stacks.rs)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
+- [stacks.py ![GitHub Repo Stars](https://img.shields.io/github/stars/rohitverma007/stackspy) ![GitHub last commit](https://img.shields.io/github/last-commit/rohitverma007/stackspy)](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks blockchain.
 
 ### CLI
 
