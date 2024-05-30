@@ -166,6 +166,7 @@ _Info on topics necessary for designing and developing game engines._
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
     - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
+    - 📚 [Paper Bug](https://www.jeremyong.com/paperbug/) - Indexed compendium of graphics programming papers.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
@@ -244,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -391,6 +392,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Game Engine w/Editor
     - 🎉 [AnKi 3D Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/godlikepanos/anki-3d-engine)](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
     - 🔒 [Crown Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/crownengine/crown) ![GitHub last commit](https://img.shields.io/github/last-commit/crownengine/crown)](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
+    - 🎉 [Crystal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/neelmewada/CrystalEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/neelmewada/CrystalEngine)](https://github.com/neelmewada/CrystalEngine) - Vulkan backend with PBR and styled GUI (_CrystalWidgets_).
     - 🎉 [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🔒 [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/BobbyAnguelov/Esoterica) ![GitHub last commit](https://img.shields.io/github/last-commit/BobbyAnguelov/Esoterica)](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
@@ -427,6 +429,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/LuminoEngine/Lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/LuminoEngine/Lumino)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/NazaraEngine/NazaraEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NazaraEngine/NazaraEngine)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
     - 🎉 [nCine ![GitHub Repo Stars](https://img.shields.io/github/stars/nCine/nCine) ![GitHub last commit](https://img.shields.io/github/last-commit/nCine/nCine)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
+    - 🎉 [Octave ![GitHub Repo Stars](https://img.shields.io/github/stars/mholtkamp/octave) ![GitHub last commit](https://img.shields.io/github/last-commit/mholtkamp/octave)](https://github.com/mholtkamp/octave) - 3D game engine for GameCube, Wii, 3DS, and more.
     - 🎉 [ORX ![GitHub Repo Stars](https://img.shields.io/github/stars/orx/orx) ![GitHub last commit](https://img.shields.io/github/last-commit/orx/orx)](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel ![GitHub Repo Stars](https://img.shields.io/github/stars/elnormous/ouzel) ![GitHub last commit](https://img.shields.io/github/last-commit/elnormous/ouzel)](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
@@ -800,6 +803,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Taro ![GitHub Repo Stars](https://img.shields.io/github/stars/moddio/taro) ![GitHub last commit](https://img.shields.io/github/last-commit/moddio/taro)](https://github.com/moddio/taro) - Multiplayer engine with _Box2D_ physics, aka _Moddio_. [[Website](https://www.modd.io)]
 - JavaScript: Game Framework
     - 🎉 [Crafty ![GitHub Repo Stars](https://img.shields.io/github/stars/craftyjs/Crafty) ![GitHub last commit](https://img.shields.io/github/last-commit/craftyjs/Crafty)](https://github.com/craftyjs/Crafty) - Create 2D games in a structured way.
+    - 🎉 [Excalibur ![GitHub Repo Stars](https://img.shields.io/github/stars/excaliburjs/Excalibur) ![GitHub last commit](https://img.shields.io/github/last-commit/excaliburjs/Excalibur)](https://github.com/excaliburjs/Excalibur) - Friendly TypeScript 2D game engine for the web.
     - 🎉 [Galacean ![GitHub Repo Stars](https://img.shields.io/github/stars/galacean/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/galacean/engine)](https://github.com/galacean/engine) - Web/Mobile-first engine built on WebGL and glTF.
     - 🎉 [Kaboom ![GitHub Repo Stars](https://img.shields.io/github/stars/replit/kaboom) ![GitHub last commit](https://img.shields.io/github/last-commit/replit/kaboom)](https://github.com/replit/kaboom) - Simple 2D framework.
     - 🎉 [LittleJS ![GitHub Repo Stars](https://img.shields.io/github/stars/KilledByAPixel/LittleJS) ![GitHub last commit](https://img.shields.io/github/last-commit/KilledByAPixel/LittleJS)](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D framework with WebGL rendering.
@@ -843,6 +847,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [RedGL ![GitHub Repo Stars](https://img.shields.io/github/stars/redcamel/RedGL2) ![GitHub last commit](https://img.shields.io/github/last-commit/redcamel/RedGL2)](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     - 🎉 [Regl ![GitHub Repo Stars](https://img.shields.io/github/stars/regl-project/regl) ![GitHub last commit](https://img.shields.io/github/last-commit/regl-project/regl)](https://github.com/regl-project/regl) - Fast functional WebGL.
     - 🎉 [SwissGL ![GitHub Repo Stars](https://img.shields.io/github/stars/google/swissgl) ![GitHub last commit](https://img.shields.io/github/last-commit/google/swissgl)](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2.
+    - 🎉 [ThingJS ![GitHub Repo Stars](https://img.shields.io/github/stars/uinosoft/t3d.js) ![GitHub last commit](https://img.shields.io/github/last-commit/uinosoft/t3d.js)](https://github.com/uinosoft/t3d.js) - Lightweight, extendable 3D library, aka _t3d_.
     - 🎉 [Three.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/three.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/three.js)](https://github.com/mrdoob/three.js/) 🔥 - General-purpose 3D library. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/0xAxiome/awesome-threejs) ![GitHub last commit](https://img.shields.io/github/last-commit/0xAxiome/awesome-threejs)](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
     - 🎉 [TWGL ![GitHub Repo Stars](https://img.shields.io/github/stars/greggman/twgl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/greggman/twgl.js)](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. [[Examples](http://twgljs.org/)]
     - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
