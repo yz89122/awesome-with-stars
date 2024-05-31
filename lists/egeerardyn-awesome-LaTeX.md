@@ -247,7 +247,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 ## Templates
 
-- [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resum��s, theses, books, presentations, … for LaTeX.
+- [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
 - [Ultimate Beamer Theme List ![GitHub Repo Stars](https://img.shields.io/github/stars/martinbjeldbak/ultimate-beamer-theme-list) ![GitHub last commit](https://img.shields.io/github/last-commit/martinbjeldbak/ultimate-beamer-theme-list)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 - [LaTeX Beamer Theme Overview ![GitHub Repo Stars](https://img.shields.io/github/stars/UweZiegenhagen/LaTeX-Beamer-Theme-Overview) ![GitHub last commit](https://img.shields.io/github/last-commit/UweZiegenhagen/LaTeX-Beamer-Theme-Overview)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
 
