@@ -139,6 +139,7 @@
   - [smart_open ![GitHub Repo Stars](https://img.shields.io/github/stars/RaRe-Technologies/smart_open) ![GitHub last commit](https://img.shields.io/github/last-commit/RaRe-Technologies/smart_open)](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2).
 - [Alluxio](https://www.alluxio.org/) - Alluxio is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce.
 - [CEPH](https://ceph.com/) - Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
+- [JuiceFS ![GitHub Repo Stars](https://img.shields.io/github/stars/juicedata/juicefs) ![GitHub last commit](https://img.shields.io/github/last-commit/juicedata/juicefs)](https://github.com/juicedata/juicefs) - JuiceFS is a high-performance Cloud-Native file system driven by object storage for large-scale data storage.
 - [OrangeFS](https://www.orangefs.org/) - Orange File System is a branch of the Parallel Virtual File System.
 - [SnackFS ![GitHub Repo Stars](https://img.shields.io/github/stars/tuplejump/snackfs-release) ![GitHub last commit](https://img.shields.io/github/last-commit/tuplejump/snackfs-release)](https://github.com/tuplejump/snackfs-release) - SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra.
 - [GlusterFS](https://www.gluster.org/) - Gluster Filesystem.
