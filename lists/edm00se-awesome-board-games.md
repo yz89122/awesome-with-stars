@@ -2065,7 +2065,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   1–4 |        12 | 30��120 Min |
+|   1–4 |        12 | 30–120 Min |
 
 ### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
 

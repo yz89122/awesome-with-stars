@@ -222,6 +222,7 @@ Table of contents:
 * [house of angular](https://houseofangular.io/blog/)
 * [thisdot labs](https://www.thisdot.co/blog?tags=angular)
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
+* [ninja-squad](https://blog.ninja-squad.com/)
 * [marmicode](https://marmicode.io/learn/everything)
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
@@ -231,6 +232,8 @@ Table of contents:
 * [Thomas Laforge](https://medium.com/@thomas.laforge)
 * [Rainer Hahnekamp](https://medium.com/@rainer-hahnekamp)
 * [Evgeniy Oz](https://medium.com/@eugeniyoz)
+* [Tomas Trajan](https://tomastrajan.medium.com/)
+* [Igor Katsuba](https://blog.katsuba.dev/)
 
 #### Cheatsheet
 
@@ -393,6 +396,7 @@ become an Angular expert.
 * [google-pay-button ![GitHub Repo Stars](https://img.shields.io/github/stars/google-pay/google-pay-button) ![GitHub last commit](https://img.shields.io/github/last-commit/google-pay/google-pay-button)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 * [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 * [ngx-disqus ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-disqus) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-disqus)](https://github.com/MurhafSousli/ngx-disqus) - Disqus for Angular.
+* [ngx-papaparse ![GitHub Repo Stars](https://img.shields.io/github/stars/alberthaff/ngx-papaparse) ![GitHub last commit](https://img.shields.io/github/last-commit/alberthaff/ngx-papaparse)](https://github.com/alberthaff/ngx-papaparse) - [Papa Parse](https://www.papaparse.com) wrapper.
 
 #### Site Templates
 
@@ -504,6 +508,7 @@ become an Angular expert.
 * [carbon-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-charts)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [dag ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dag) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dag)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 * [ngx-simple-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular2Guy/ngx-simple-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular2Guy/ngx-simple-charts)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
+* [ng-flowchart ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-wenzel/ng-flowchart) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-wenzel/ng-flowchart)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
 
 #### Dates
 
@@ -875,6 +880,8 @@ for Bootstrap 5 & Angular 17.
 * [ngx-cookie-service ![GitHub Repo Stars](https://img.shields.io/github/stars/stevermeister/ngx-cookie-service) ![GitHub last commit](https://img.shields.io/github/last-commit/stevermeister/ngx-cookie-service)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies ![GitHub Repo Stars](https://img.shields.io/github/stars/BCJTI/ng2-cookies) ![GitHub last commit](https://img.shields.io/github/last-commit/BCJTI/ng2-cookies)](https://github.com/BCJTI/ng2-cookies) library.
 * [gui ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/gui) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/gui)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ng2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ng2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ng2csv)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
+* [@ui-router/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ui-router/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ui-router/angular)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
+* [ngx-csv-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/tofiqquadri/ngx-csv-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/tofiqquadri/ngx-csv-parser)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 
 #### RxJS
 
@@ -938,6 +945,9 @@ for Bootstrap 5 & Angular 17.
 * [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 * [angular-http-cache-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-http-cache-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-http-cache-interceptor)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
 * [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilkisiela/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/apollo-angular)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
+* [buoy ![GitHub Repo Stars](https://img.shields.io/github/stars/buoy-graphql/buoy) ![GitHub last commit](https://img.shields.io/github/last-commit/buoy-graphql/buoy)](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
+* [ngx-generic-rest-service ![GitHub Repo Stars](https://img.shields.io/github/stars/jm2097/ngx-generic-rest-service) ![GitHub last commit](https://img.shields.io/github/last-commit/jm2097/ngx-generic-rest-service)](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
+* [@ngify/http ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 
 #### Security
 
