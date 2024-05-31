@@ -99,7 +99,7 @@
 
 ## Data Comparison
 
-- [datacompy ![GitHub Repo Stars](https://img.shields.io/github/stars/capitalone/datacompy) ![GitHub last commit](https://img.shields.io/github/last-commit/capitalone/datacompy)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels. 
+- [datacompy ![GitHub Repo Stars](https://img.shields.io/github/stars/capitalone/datacompy) ![GitHub last commit](https://img.shields.io/github/last-commit/capitalone/datacompy)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
 ## Data Ingestion
 
@@ -113,19 +113,19 @@
   - [kafka-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/yahoo/kafka-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/kafka-manager)](https://github.com/yahoo/kafka-manager) - A tool for managing Apache Kafka.
   - [kafka-node ![GitHub Repo Stars](https://img.shields.io/github/stars/SOHU-Co/kafka-node) ![GitHub last commit](https://img.shields.io/github/last-commit/SOHU-Co/kafka-node)](https://github.com/SOHU-Co/kafka-node) - Node.js client for Apache Kafka 0.8.
   - [Secor ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/secor) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/secor)](https://github.com/pinterest/secor) - Pinterest's Kafka to S3 distributed consumer.
-  - [Kafka-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/kafka-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/kafka-logger)](https://github.com/uber/kafka-logger) - Kafka-winston logger for Node.js from uber.
+  - [Kafka-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/kafka-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/kafka-logger)](https://github.com/uber/kafka-logger) - Kafka-winston logger for Node.js from Uber.
 - [AWS Kinesis](https://aws.amazon.com/kinesis/) - A fully managed, cloud-based service for real-time data processing over large, distributed data streams.
 - [RabbitMQ](https://www.rabbitmq.com/) - Robust messaging for applications.
-- [dlt](https://www.dlthub.com) - A fast&simple pipeline building library for python data devs, runs in notebooks, cloud functions, airflow, etc. 
+- [dlt](https://www.dlthub.com) - A fast&simple pipeline building library for python data devs, runs in notebooks, cloud functions, airflow, etc.
 - [FluentD](https://www.fluentd.org) - An open source data collector for unified logging layer.
 - [Embulk](https://www.embulk.org) - An open source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
 - [Apache Sqoop](https://sqoop.apache.org) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.
 - [Heka ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla-services/heka) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla-services/heka)](https://github.com/mozilla-services/heka) - Data Acquisition and Processing Made Easy. Deprecated.
-- [Gobblin ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-gobblin) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-gobblin)](https://github.com/apache/incubator-gobblin) - Universal data ingestion framework for Hadoop from Linkedin.
+- [Gobblin ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-gobblin) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-gobblin)](https://github.com/apache/incubator-gobblin) - Universal data ingestion framework for Hadoop from LinkedIn.
 - [Nakadi](https://nakadi.io) - Nakadi is an open source event messaging platform that provides a REST API on top of Kafka-like queues.
 - [Pravega](https://www.pravega.io) - Pravega provides a new storage abstraction - a stream - for continuous and unbounded data.
 - [Apache Pulsar](https://pulsar.apache.org/) - Apache Pulsar is an open-source distributed pub-sub messaging system.
-- [AWS Data Wranlger ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data on AWS.
+- [AWS Data Wrangler ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data on AWS.
 - [Airbyte](https://airbyte.io/) - Open-source data integration for modern data teams.
 - [Sling](https://slingdata.io/) - Sling is CLI data integration tool specialized in moving data between databases, as well as storage systems.
 - [Meltano](https://meltano.com/) - CLI & code-first ELT.
@@ -138,10 +138,10 @@
 - [AWS S3](https://aws.amazon.com/s3/) - Object storage built to retrieve any amount of data from anywhere.
   - [smart_open ![GitHub Repo Stars](https://img.shields.io/github/stars/RaRe-Technologies/smart_open) ![GitHub last commit](https://img.shields.io/github/last-commit/RaRe-Technologies/smart_open)](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2).
 - [Alluxio](https://www.alluxio.org/) - Alluxio is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce.
-- [CEPH](https://ceph.com/) - Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
+- [CEPH](https://ceph.com/) - Ceph is a unified, distributed storage system designed for excellent performance, reliability, and scalability.
 - [JuiceFS ![GitHub Repo Stars](https://img.shields.io/github/stars/juicedata/juicefs) ![GitHub last commit](https://img.shields.io/github/last-commit/juicedata/juicefs)](https://github.com/juicedata/juicefs) - JuiceFS is a high-performance Cloud-Native file system driven by object storage for large-scale data storage.
 - [OrangeFS](https://www.orangefs.org/) - Orange File System is a branch of the Parallel Virtual File System.
-- [SnackFS ![GitHub Repo Stars](https://img.shields.io/github/stars/tuplejump/snackfs-release) ![GitHub last commit](https://img.shields.io/github/last-commit/tuplejump/snackfs-release)](https://github.com/tuplejump/snackfs-release) - SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra.
+- [SnackFS ![GitHub Repo Stars](https://img.shields.io/github/stars/tuplejump/snackfs-release) ![GitHub last commit](https://img.shields.io/github/last-commit/tuplejump/snackfs-release)](https://github.com/tuplejump/snackfs-release) - SnackFS is our bite-sized, lightweight HDFS compatible file system built over Cassandra.
 - [GlusterFS](https://www.gluster.org/) - Gluster Filesystem.
 - [XtreemFS](https://www.xtreemfs.org/) - Fault-tolerant distributed file system for all storage needs.
 - [SeaweedFS ![GitHub Repo Stars](https://img.shields.io/github/stars/chrislusf/seaweedfs) ![GitHub last commit](https://img.shields.io/github/last-commit/chrislusf/seaweedfs)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
@@ -176,7 +176,7 @@
 - [Robinhood's Faust ![GitHub Repo Stars](https://img.shields.io/github/stars/faust-streaming/faust) ![GitHub last commit](https://img.shields.io/github/last-commit/faust-streaming/faust)](https://github.com/faust-streaming/faust) - Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
 - [HStreamDB ![GitHub Repo Stars](https://img.shields.io/github/stars/hstreamdb/hstream) ![GitHub last commit](https://img.shields.io/github/last-commit/hstreamdb/hstream)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 - [Kuiper ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/kuiper) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/kuiper)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
-- [Zilla ![GitHub Repo Stars](https://img.shields.io/github/stars/aklivity/zilla) ![GitHub last commit](https://img.shields.io/github/last-commit/aklivity/zilla)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+- [Zilla ![GitHub Repo Stars](https://img.shields.io/github/stars/aklivity/zilla) ![GitHub last commit](https://img.shields.io/github/last-commit/aklivity/zilla)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 
 ## Batch Processing
 
@@ -213,7 +213,7 @@
 - [ZingChart](https://www.zingchart.com/) - Fast JavaScript charts for any data set.
 - [C3.js](https://c3js.org) - D3-based reusable chart library.
 - [D3.js](https://d3js.org/) - A JavaScript library for manipulating documents based on data.
-  - [D3Plus](https://d3plus.org) - D3's simplier, easier to use cousin. Mostly predefined templates that you can just plug data in.
+  - [D3Plus](https://d3plus.org) - D3's simpler, easier to use cousin. Mostly predefined templates that you can just plug data in.
 - [SmoothieCharts](https://smoothiecharts.org) - A JavaScript Charting Library for Streaming Data.
 - [PyXley ![GitHub Repo Stars](https://img.shields.io/github/stars/stitchfix/pyxley) ![GitHub last commit](https://img.shields.io/github/last-commit/stitchfix/pyxley)](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React.
 - [Plotly ![GitHub Repo Stars](https://img.shields.io/github/stars/plotly/dash) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash)](https://github.com/plotly/dash) - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
@@ -227,10 +227,10 @@
 - [Luigi ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/luigi) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/luigi)](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs.
 - [CronQ ![GitHub Repo Stars](https://img.shields.io/github/stars/seatgeek/cronq) ![GitHub last commit](https://img.shields.io/github/last-commit/seatgeek/cronq)](https://github.com/seatgeek/cronq) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luige. Deprecated.
 - [Cascading](https://www.cascading.org/) - Java based application development platform.
-- [Airflow ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/airflow) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/airflow)](https://github.com/apache/airflow) - Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
-- [Azkaban](https://azkaban.github.io/) - Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows.
+- [Airflow ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/airflow) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/airflow)](https://github.com/apache/airflow) - Airflow is a system to programmatically author, schedule, and monitor data pipelines.
+- [Azkaban](https://azkaban.github.io/) - Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows.
 - [Oozie](https://oozie.apache.org/) - Oozie is a workflow scheduler system to manage Apache Hadoop jobs.
-- [Pinball ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/pinball) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/pinball)](https://github.com/pinterest/pinball) - DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
+- [Pinball ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/pinball) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/pinball)](https://github.com/pinterest/pinball) - DAG based workflow manager. Job flows are defined programmatically in Python. Support output passing between jobs.
 - [Dagster ![GitHub Repo Stars](https://img.shields.io/github/stars/dagster-io/dagster) ![GitHub last commit](https://img.shields.io/github/last-commit/dagster-io/dagster)](https://github.com/dagster-io/dagster) - Dagster is an open-source Python library for building data applications.
 - [Kedro](https://kedro.readthedocs.io/en/latest/) - Kedro is a framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
 - [Dataform](https://dataform.co/) - An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
@@ -250,13 +250,13 @@
 
 ## ELK Elastic Logstash Kibana
 
-- [docker-logstash ![GitHub Repo Stars](https://img.shields.io/github/stars/pblittle/docker-logstash) ![GitHub last commit](https://img.shields.io/github/last-commit/pblittle/docker-logstash)](https://github.com/pblittle/docker-logstash) - A highly configurable logstash (1.4.4) - docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2).
+- [docker-logstash ![GitHub Repo Stars](https://img.shields.io/github/stars/pblittle/docker-logstash) ![GitHub last commit](https://img.shields.io/github/last-commit/pblittle/docker-logstash)](https://github.com/pblittle/docker-logstash) - A highly configurable Logstash (1.4.4) - Docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2).
 - [elasticsearch-jdbc ![GitHub Repo Stars](https://img.shields.io/github/stars/jprante/elasticsearch-jdbc) ![GitHub last commit](https://img.shields.io/github/last-commit/jprante/elasticsearch-jdbc)](https://github.com/jprante/elasticsearch-jdbc) - JDBC importer for Elasticsearch.
 - [ZomboDB ![GitHub Repo Stars](https://img.shields.io/github/stars/zombodb/zombodb) ![GitHub last commit](https://img.shields.io/github/last-commit/zombodb/zombodb)](https://github.com/zombodb/zombodb) - Postgres Extension that allows creating an index backed by Elasticsearch.
 
 ## Docker
 
-- [Gockerize ![GitHub Repo Stars](https://img.shields.io/github/stars/redbooth/gockerize) ![GitHub last commit](https://img.shields.io/github/last-commit/redbooth/gockerize)](https://github.com/redbooth/gockerize) - Package golang service into minimal docker containers.
+- [Gockerize ![GitHub Repo Stars](https://img.shields.io/github/stars/redbooth/gockerize) ![GitHub last commit](https://img.shields.io/github/last-commit/redbooth/gockerize)](https://github.com/redbooth/gockerize) - Package golang service into minimal Docker containers.
 - [Flocker ![GitHub Repo Stars](https://img.shields.io/github/stars/ClusterHQ/flocker) ![GitHub last commit](https://img.shields.io/github/last-commit/ClusterHQ/flocker)](https://github.com/ClusterHQ/flocker) - Easily manage Docker containers & their data.
 - [Rancher](https://rancher.com/rancher-os/) - RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.
 - [Kontena](https://www.kontena.io/) - Application Containers for Masses.
@@ -265,8 +265,8 @@
 - [cAdvisor ![GitHub Repo Stars](https://img.shields.io/github/stars/google/cadvisor) ![GitHub last commit](https://img.shields.io/github/last-commit/google/cadvisor)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [Micro S3 persistence ![GitHub Repo Stars](https://img.shields.io/github/stars/figadore/micro-s3-persistence) ![GitHub last commit](https://img.shields.io/github/last-commit/figadore/micro-s3-persistence)](https://github.com/figadore/micro-s3-persistence) - Docker microservice for saving/restoring volume data to S3.
 - [Rocker-compose ![GitHub Repo Stars](https://img.shields.io/github/stars/grammarly/rocker-compose) ![GitHub last commit](https://img.shields.io/github/last-commit/grammarly/rocker-compose)](https://github.com/grammarly/rocker-compose) - Docker composition tool with idempotency features for deploying apps composed of multiple containers. Deprecated.
-- [Nomad ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/nomad) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/nomad)](https://github.com/hashicorp/nomad) - Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads.
-- [ImageLayers](https://imagelayers.io/) - Vizualize docker images and the layers that compose them.
+- [Nomad ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/nomad) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/nomad)](https://github.com/hashicorp/nomad) - Nomad is a cluster manager, designed for both long-lived services and short-lived batch processing workloads.
+- [ImageLayers](https://imagelayers.io/) - Visualize Docker images and the layers that compose them.
 
 ## Datasets
 
@@ -280,7 +280,7 @@
 
 - [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 - [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
-- [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+- [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
 
 ## Monitoring
 
@@ -304,7 +304,7 @@
 
 ### Forums
 
-- [/r/dataengineering](https://www.reddit.com/r/dataengineering/) - News, tips and background on Data Engineering.
+- [/r/dataengineering](https://www.reddit.com/r/dataengineering/) - News, tips, and background on Data Engineering.
 - [/r/etl](https://www.reddit.com/r/ETL/) - Subreddit focused on ETL.
 
 ### Conferences
