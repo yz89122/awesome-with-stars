@@ -287,7 +287,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Meziantou.Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/meziantou/Meziantou.Analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/meziantou/Meziantou.Analyzer)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
 
-- [NDepend](http://www.ndepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
+- [NDepend](http://www.ndepend.com) :copyright: ��� Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
 - [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 
@@ -527,7 +527,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
 
-- [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
+- [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) ��� Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
 - [GolangCI-Lint](https://golangci-lint.run) — Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
 
@@ -754,7 +754,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [luacheck ![GitHub Repo Stars](https://img.shields.io/github/stars/lunarmodules/luacheck) ![GitHub last commit](https://img.shields.io/github/last-commit/lunarmodules/luacheck)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
 
-- [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
+- [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) ��� lualint performs luac-based static analysis of global variable usage in Lua source code.
 
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — An IDE for statically typed Lua development.
 
