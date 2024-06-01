@@ -19,6 +19,7 @@ Table of contents:
 * [Angular](#angular)
   * [Official Resources](#official-resources)
   * [Community](#community)
+  * [Podcasts](#podcasts)
   * [Newsletters](#newsletters)
   * [X](#X)
     * [angular-team](#angular-team)
@@ -110,8 +111,6 @@ Table of contents:
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on X](https://x.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-* [AngularAir](https://angularair.com/) podcast and live broadcast.
-* [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
 * [Angular Expo](https://angularexpo.com/) showcase.
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
@@ -120,6 +119,15 @@ Table of contents:
 * [madewithangular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 * [angular.love](https://angular.love/) - Polish community for Angular fans.
 * [angular hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+
+#### Podcasts
+
+* [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular)
+* [Angular Experts](https://angularexperts.io/podcasts/)
+* [Angular Air](https://angularair.com/)
+* [Angular Plus Show](https://open.spotify.com/show/1PrLErQHBqBhZsRV1KHhGM) 
+* [Angular Master Podcast](https://www.youtube.com/playlist?list=PLYJFRoKhU5SNcu5GBjIn4X3oVpy4fP1wV)
+* [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - Conversations about Angular in Spanish. 
 
 #### Newsletters
 
