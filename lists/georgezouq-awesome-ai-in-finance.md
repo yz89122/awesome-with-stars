@@ -229,7 +229,7 @@ Do it in real world!
 
 ### GYM Environment
 
-- �� [TradingGym ![GitHub Repo Stars](https://img.shields.io/github/stars/Yvictor/TradingGym) ![GitHub last commit](https://img.shields.io/github/last-commit/Yvictor/TradingGym)](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent.
+- 🌟 [TradingGym ![GitHub Repo Stars](https://img.shields.io/github/stars/Yvictor/TradingGym) ![GitHub last commit](https://img.shields.io/github/last-commit/Yvictor/TradingGym)](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent.
 - [TradzQAI ![GitHub Repo Stars](https://img.shields.io/github/stars/kkuette/TradzQAI) ![GitHub last commit](https://img.shields.io/github/last-commit/kkuette/TradzQAI)](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
 - [btgym ![GitHub Repo Stars](https://img.shields.io/github/stars/Kismuz/btgym) ![GitHub last commit](https://img.shields.io/github/last-commit/Kismuz/btgym)](https://github.com/Kismuz/btgym) - Scalable, event-driven, deep-learning-friendly backtesting library.
 
