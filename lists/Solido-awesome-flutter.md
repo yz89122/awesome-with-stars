@@ -494,7 +494,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flip ![GitHub Repo Stars](https://img.shields.io/github/stars/RedBrogdon/flutterflip) ![GitHub last commit](https://img.shields.io/github/last-commit/RedBrogdon/flutterflip)](https://github.com/RedBrogdon/flutterflip) [264⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
 - [TRex ![GitHub Repo Stars](https://img.shields.io/github/stars/renancaraujo/trex-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/renancaraujo/trex-flame)](https://github.com/renancaraujo/trex-flame) [6⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crush ![GitHub Repo Stars](https://img.shields.io/github/stars/boeledi/flutter_crush) ![GitHub last commit](https://img.shields.io/github/last-commit/boeledi/flutter_crush)](https://github.com/boeledi/flutter_crush) [558⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
-- [Tetris ![GitHub Repo Stars](https://img.shields.io/github/stars/boyan01/flutter-tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/boyan01/flutter-tetris)](https://github.com/boyan01/flutter-tetris) [1563⭐] - Tetris game by [YangBin](https://github.com/boyan01)
+- [Tetris ![GitHub Repo Stars](https://img.shields.io/github/stars/boyan01/flutter-tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/boyan01/flutter-tetris)](https://github.com/boyan01/flutter-tetris) [1563���] - Tetris game by [YangBin](https://github.com/boyan01)
 
 #### Game Engine resources
 

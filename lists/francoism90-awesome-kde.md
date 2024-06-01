@@ -134,6 +134,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Polonium](https://zeroxoneafour.github.io/polonium/) - The successor of Bismuth for KDE Plasma 6.
 - [Window AppMenu Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-appmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-appmenu)](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
 - [Window Title Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-title) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-title)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+- [Karousel ![GitHub Repo Stars](https://img.shields.io/github/stars/peterfajdiga/karousel) ![GitHub last commit](https://img.shields.io/github/last-commit/peterfajdiga/karousel)](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 
 #### KCM Modules and Systems
 
