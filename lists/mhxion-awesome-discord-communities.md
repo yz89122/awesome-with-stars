@@ -786,7 +786,7 @@ Language: English \
 
 [__KivyMD__](https://discord.com/invite/wu3qBST) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp"> ![GitHub Repo Stars](https://img.shields.io/github/stars/HeaTTheatR/KivyMD) ![GitHub last commit](https://img.shields.io/github/last-commit/HeaTTheatR/KivyMD)](https://github.com/HeaTTheatR/KivyMD) \
 Notable Channels: `#general`, `#support`, `#suggestions-for-improvements`, `#users-gallery`, `#kivymd-studio` \
-Language: English, русский \
+Language: English, русск��й \
 <br>
 
 ### Ruby
