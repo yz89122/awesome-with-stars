@@ -237,6 +237,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Based on training with human supervision
 - Based on learning incrementally on fly
 - Based on data points comparison and pattern detection
+
+### Comparison
+- [datacompy ![GitHub Repo Stars](https://img.shields.io/github/stars/capitalone/datacompy) ![GitHub last commit](https://img.shields.io/github/last-commit/capitalone/datacompy)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
   
 #### Supervised Learning
 
