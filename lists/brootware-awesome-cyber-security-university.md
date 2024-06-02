@@ -34,7 +34,14 @@
 
 Cyber Security University is A curated list of awesome and free educational resources that focus on learning by doing.
 
-There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path, Bonus practices/latest CVEs and Extremely Hard rooms to do. The tasks are linear in nature of the difficulty. So it's recommended to do it in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+There are 6 parts to this. 
+1. Introduction and Pre-security
+2. Free Beginner Red Team Path
+3. Free Beginner Blue Team Path
+4. Bonus practices
+5. Latest CVEs
+6. Extremely Hard rooms
+The tasks are linear in nature of the difficulty. So it's recommended to do it in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
 <!--lint disable double-link-->
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md` ![GitHub Repo Stars](https://img.shields.io/github/stars/brootware/Cyber-Security-University) ![GitHub last commit](https://img.shields.io/github/last-commit/brootware/Cyber-Security-University)](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
@@ -123,7 +130,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Bolt](https://tryhackme.com/room/bolt) - Bolt themed machine to root into.
 
 <!--lint disable double-link-->
-[↑](#contents)<!--lint enable double-link-->
+[���](#contents)<!--lint enable double-link-->
 
 ### Level 5 - Reverse Engineering & Pwn
 
