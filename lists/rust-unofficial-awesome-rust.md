@@ -221,7 +221,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [svm-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alloy-rs/svm-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alloy-rs/svm-rs)](https://github.com/alloy-rs/svm-rs) — Solidity-Compiler Version Manager.
 * [tendermint-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tendermint-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tendermint-rs)](https://github.com/informalsystems/tendermint-rs) — Tendermint blockchain data structures and clients
 * [wagyu ![GitHub Repo Stars](https://img.shields.io/github/stars/howardwu/wagyu) ![GitHub last commit](https://img.shields.io/github/last-commit/howardwu/wagyu)](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
-* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
+* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) �� Zcash is an implementation of the "Zerocash" protocol.
 
 ### Database
 
@@ -1083,7 +1083,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Concurrency
 
-* [crossbeam-rs/crossbeam ![GitHub Repo Stars](https://img.shields.io/github/stars/crossbeam-rs/crossbeam) ![GitHub last commit](https://img.shields.io/github/last-commit/crossbeam-rs/crossbeam)](https://github.com/crossbeam-rs/crossbeam) �� Support for parallelism and low-level concurrency
+* [crossbeam-rs/crossbeam ![GitHub Repo Stars](https://img.shields.io/github/stars/crossbeam-rs/crossbeam) ![GitHub last commit](https://img.shields.io/github/last-commit/crossbeam-rs/crossbeam)](https://github.com/crossbeam-rs/crossbeam) — Support for parallelism and low-level concurrency
 * [orium/archery ![GitHub Repo Stars](https://img.shields.io/github/stars/orium/archery) ![GitHub last commit](https://img.shields.io/github/last-commit/orium/archery)](https://github.com/orium/archery) [[archery](https://crates.io/crates/archery)] — Library to abstract from `Rc`/`Arc` pointer types. [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/orium/archery) ![GitHub last commit](https://img.shields.io/github/last-commit/orium/archery)](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
 * [Rayon ![GitHub Repo Stars](https://img.shields.io/github/stars/rayon-rs/rayon) ![GitHub last commit](https://img.shields.io/github/last-commit/rayon-rs/rayon)](https://github.com/rayon-rs/rayon) — A data parallelism library
 * [rustcc/coroutine-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/rustcc/coroutine-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/rustcc/coroutine-rs)](https://github.com/rustcc/coroutine-rs) — Coroutine Library
