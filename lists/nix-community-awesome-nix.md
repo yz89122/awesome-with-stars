@@ -36,6 +36,7 @@
 * [NixOS Modules](#nixos-modules)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
 * [Overlays](#overlays)
+* [Distributions](#distributions)
 * [Community](#community)
 
 ## Resources
@@ -273,6 +274,10 @@
 * [nixpkgs-wayland ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixpkgs-wayland) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixpkgs-wayland)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NUR) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NUR)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 * [System Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/system-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/system-manager)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
+
+## Distributions
+
+* [NixNG ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixNG) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixNG)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
 
 ## Community
 
