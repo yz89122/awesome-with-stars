@@ -3334,6 +3334,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vite-svg-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/jpkleemans/vite-svg-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/jpkleemans/vite-svg-loader)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 - [vue-sfc-split ![GitHub Repo Stars](https://img.shields.io/github/stars/gVguy/vue-sfc-split) ![GitHub last commit](https://img.shields.io/github/last-commit/gVguy/vue-sfc-split)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 - [webpack-plugin-qiniu-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/cduyzh/webpack-plugin-qiniu-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/cduyzh/webpack-plugin-qiniu-upload)](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
+- [vite-plugin-svg-sfc ![GitHub Repo Stars](https://img.shields.io/github/stars/Kaciras/vite-plugin-svg-sfc) ![GitHub last commit](https://img.shields.io/github/last-commit/Kaciras/vite-plugin-svg-sfc)](https://github.com/Kaciras/vite-plugin-svg-sfc) Vite plugin to load SVG file as vue SFC, supports HMR & <style> block.
 
 #### Page Navigation
 
