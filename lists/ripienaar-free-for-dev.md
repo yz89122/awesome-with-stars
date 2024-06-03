@@ -1679,7 +1679,7 @@ Update Time, five active automations, webhooks.
   * [Clicky](https://clicky.com) — Website Analytics Platform. Free Plan for one website with 3000 views analytics.
   * [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
   * [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
-  * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
+  * [amplitude.com](https://amplitude.com/) ��� 1 million monthly events, up to 2 apps
   * [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open-source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy-to-use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. The free tier is for non-commercial use and includes unlimited sites, six months of data retention, and 100k pageviews/month.
   * [Google Analytics](https://analytics.google.com/) — Google Analytics
   * [MetricsWave](https://metricswave.com) — Privacy-friendly Google Analytics alternative for developers. Free plan allows 20k pageviews per month without credit card.
