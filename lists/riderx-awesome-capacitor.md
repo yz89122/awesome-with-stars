@@ -13,9 +13,8 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
-	
-<h2><a href="https://capgo.app/consulting/"> Hire a Capacitor consultant 💪</a></h2>
+  <h2><a href="https://capgo.app/?ref=awesomelist"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=awesomelist"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
 <br>
 
@@ -98,6 +97,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
     - [Appcenter ![GitHub Repo Stars](https://img.shields.io/github/stars/capacitor-community/appcenter-sdk-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/appcenter-sdk-capacitor)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
     - [Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/capacitor-community/appcenter-sdk-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/appcenter-sdk-capacitor)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
     - [Crashes ![GitHub Repo Stars](https://img.shields.io/github/stars/capacitor-community/appcenter-sdk-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/appcenter-sdk-capacitor)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
+- [MQTT v5 ![GitHub Repo Stars](https://img.shields.io/github/stars/antonymarion/capacitorjs-mqtt-native-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/antonymarion/capacitorjs-mqtt-native-plugin)](https://github.com/antonymarion/capacitorjs-mqtt-native-plugin) - A native plugin for using MQTT v5 with correlation data and Request/Response Pattern
 - [Native audio ![GitHub Repo Stars](https://img.shields.io/github/stars/capacitor-community/native-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/native-audio)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market ![GitHub Repo Stars](https://img.shields.io/github/stars/capacitor-community/native-market) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/native-market)](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Photoviewer ![GitHub Repo Stars](https://img.shields.io/github/stars/capacitor-community/photoviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/capacitor-community/photoviewer)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
