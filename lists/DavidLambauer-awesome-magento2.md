@@ -145,6 +145,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [bitExpert/phpstan-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/phpstan-magento)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 - [Dot Env ![GitHub Repo Stars](https://img.shields.io/github/stars/zepgram/magento-dotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/zepgram/magento-dotenv)](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component - Implementing Symfony Dotenv.
 - [Rest Client ![GitHub Repo Stars](https://img.shields.io/github/stars/zepgram/module-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/zepgram/module-rest)](https://github.com/zepgram/module-rest) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
+- [Magento 2 Model Generator / CRUD Generator](https://www.model-generator.com/) - A more up-to-date version of a Magento 2 Model & CRUD Generator by [Michiel Gerritsen](https://github.com/michielgerritsen)
 
 ### Deployment
 
