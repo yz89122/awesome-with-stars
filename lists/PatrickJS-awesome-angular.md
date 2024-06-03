@@ -426,6 +426,7 @@ become an Angular expert.
 * [gradient-able-free-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/gradient-able-free-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/gradient-able-free-admin-template)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 * [angular-ngrx-frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/tarlepp/angular-ngrx-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/tarlepp/angular-ngrx-frontend)](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
 * [Threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnnyDevNull/ng-three-template) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnnyDevNull/ng-three-template)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
+* [zen ![GitHub Repo Stars](https://img.shields.io/github/stars/ZenSoftware/zen) ![GitHub last commit](https://img.shields.io/github/last-commit/ZenSoftware/zen)](https://github.com/ZenSoftware/zen) - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
 
 #### Generators
 
@@ -518,6 +519,7 @@ become an Angular expert.
 * [dag ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/dag) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/dag)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 * [ngx-simple-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular2Guy/ngx-simple-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular2Guy/ngx-simple-charts)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
 * [ng-flowchart ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-wenzel/ng-flowchart) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-wenzel/ng-flowchart)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
+* [ngx-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/xieziyu/ngx-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/xieziyu/ngx-echarts)](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-echarts)](https://github.com/apache/incubator-echarts).
 
 #### Dates
 
@@ -551,6 +553,7 @@ become an Angular expert.
 * [ngx-quicklink ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-quicklink) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-quicklink)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 * [ngx-highlightjs ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-highlightjs) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-highlightjs)](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-sharebuttons) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-sharebuttons)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
+* [ngx-pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/danrevah/ngx-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/danrevah/ngx-pipes)](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
 
 #### Drag and Drop
 
@@ -584,6 +587,7 @@ become an Angular expert.
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) - Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support.
 * [ngx-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/ngx-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/ngx-flow)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/flow.js) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/flow.js)](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
+* [file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/pIvan/file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/pIvan/file-upload)](https://github.com/pIvan/file-upload) - Angular module used for file upload.
 
 #### Forms
 
@@ -671,6 +675,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [virtual-keyboard-javascript ![GitHub Repo Stars](https://img.shields.io/github/stars/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io)](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, & Vue.
 * [angular-touch-keyboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mohsen77sk/angular-touch-keyboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mohsen77sk/angular-touch-keyboard)](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
 * [hotkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/hotkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/hotkeys)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
+* [ngx-contextmenu ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfectMemory/ngx-contextmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfectMemory/ngx-contextmenu)](https://github.com/PerfectMemory/ngx-contextmenu) - A context menu component for Angular.
 
 #### Layout Components
 
@@ -837,6 +842,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-material-extensions/password-strength ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-material-extensions/password-strength) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-material-extensions/password-strength)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [angular material components ![GitHub Repo Stars](https://img.shields.io/github/stars/h2qutc/angular-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/h2qutc/angular-material-components)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+* [ng-matero/extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-matero/extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-matero/extensions)](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
 
 ##### Bootstrap Based
 
@@ -1039,6 +1045,7 @@ for Bootstrap 5 & Angular 17.
 * [angular update guide](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.  
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
+* [ng-morph ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-morph) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-morph)](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
 
 #### Internationalization
 
