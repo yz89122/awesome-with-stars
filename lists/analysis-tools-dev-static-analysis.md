@@ -291,7 +291,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 
-- [Roslynator ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefPihrt/Roslynator) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefPihrt/Roslynator)](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
+- [Roslynator ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefPihrt/Roslynator) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefPihrt/Roslynator)](https://github.com/JosefPihrt/Roslynator) ��� A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
@@ -320,7 +320,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [cpplint ![GitHub Repo Stars](https://img.shields.io/github/stars/google/styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/google/styleguide)](https://github.com/google/styleguide/tree/gh-pages/cpplint) — Automated C++ checker that follows Google's style guide.
 
-- [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) �� Quality metrics for C code.
+- [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) — Quality metrics for C code.
 
 - [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
@@ -754,7 +754,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [luacheck ![GitHub Repo Stars](https://img.shields.io/github/stars/lunarmodules/luacheck) ![GitHub last commit](https://img.shields.io/github/last-commit/lunarmodules/luacheck)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
 
-- [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) ��� lualint performs luac-based static analysis of global variable usage in Lua source code.
+- [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
 
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — An IDE for statically typed Lua development.
 
@@ -1042,7 +1042,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
-- [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
+- [styler](https://styler.r-lib.org) �� Formatting of R source code files and pretty-printing of R code.
 
 
 <a name="rego" />
