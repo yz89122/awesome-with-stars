@@ -59,6 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 <!-- lint disable double-link -->
 - [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/eslint-config-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/eslint-config-standard)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/standard)](https://github.com/feross/standard).
 - [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/eslint-config-xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/eslint-config-xo)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo).
+- [Antfu Eslint Config ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/eslint-config) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/eslint-config)](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
 ### Other Configs
 
