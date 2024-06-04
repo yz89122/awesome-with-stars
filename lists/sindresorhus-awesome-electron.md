@@ -331,7 +331,7 @@ Made with Electron.
 
 - [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
 - [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
-- [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) ����
+- [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
 ## Videos
 
