@@ -120,6 +120,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [madewithangular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 * [angular.love](https://angular.love/) - Polish community for Angular fans.
 * [angular hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+* [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 
 #### Podcasts
 
@@ -340,6 +341,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TechStackNation](https://www.youtube.com/@techstacknation)
 * [Angular Love](https://www.youtube.com/@angularlove)
 * [NG NEWS](https://www.youtube.com/@ng-news)
+* [Learning Partner](https://www.youtube.com/@LearningPartnerDigital)
+* [Code Deck](https://www.youtube.com/@codedeck)
+* [Igor Sedov](https://www.youtube.com/@theigorsedov)
 
 #### Style Guides
 
@@ -406,6 +410,9 @@ become an Angular expert.
 * [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 * [ngx-disqus ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-disqus) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-disqus)](https://github.com/MurhafSousli/ngx-disqus) - Disqus for Angular.
 * [ngx-papaparse ![GitHub Repo Stars](https://img.shields.io/github/stars/alberthaff/ngx-papaparse) ![GitHub last commit](https://img.shields.io/github/last-commit/alberthaff/ngx-papaparse)](https://github.com/alberthaff/ngx-papaparse) - [Papa Parse](https://www.papaparse.com) wrapper.
+* [renovate-config-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/renovate-config-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/renovate-config-angular)](https://github.com/d-koppenhagen/renovate-config-angular) - Angular shareable config for [Renovate](https://www.mend.io/renovate/).
+* [ngx-grapesjs ![GitHub Repo Stars](https://img.shields.io/github/stars/Developer-Plexscape/ngx-grapesjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Developer-Plexscape/ngx-grapesjs)](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
+* [gojs-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/NorthwoodsSoftware/gojs-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/NorthwoodsSoftware/gojs-angular)](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 
 #### Site Templates
 
@@ -483,6 +490,9 @@ become an Angular expert.
 * [ngx-notation-reveal ![GitHub Repo Stars](https://img.shields.io/github/stars/namitoyokota/ngx-notation-reveal) ![GitHub last commit](https://img.shields.io/github/last-commit/namitoyokota/ngx-notation-reveal)](https://github.com/namitoyokota/ngx-notation-reveal) - Angular component to add rough notation animation when element is visible.
 * [ngx-typed2 ![GitHub Repo Stars](https://img.shields.io/github/stars/shiv-source/ngx-typed2) ![GitHub last commit](https://img.shields.io/github/last-commit/shiv-source/ngx-typed2)](https://github.com/shiv-source/ngx-typed2) - An Angular Typing Animation Library.
 * [ngx-count-animation ![GitHub Repo Stars](https://img.shields.io/github/stars/hm21/ngx-count-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/hm21/ngx-count-animation)](https://github.com/hm21/ngx-count-animation) - A package that elegantly animates number changes, creating a visually engaging transition from one value to another, perfect for counting or displaying real-time data updates.
+* [ng-auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/ajitzero/ng-auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/ajitzero/ng-auto-animate)](https://github.com/ajitzero/ng-auto-animate) - Angular Directive (library) for FormKit's [Auto Animate](https://auto-animate.formkit.com).
+* [layout-projection ![GitHub Repo Stars](https://img.shields.io/github/stars/Char2sGu/layout-projection) ![GitHub last commit](https://img.shields.io/github/last-commit/Char2sGu/layout-projection)](https://github.com/Char2sGu/layout-projection) - Beautify the Web with awesome layout animations.
+* [ngx-easy-view-transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-easy-view-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-easy-view-transitions)](https://github.com/DerStimmler/ngx-easy-view-transitions) - Angular library for easier use of the View Transitions API.
 
 #### Calendars
 
@@ -563,6 +573,7 @@ become an Angular expert.
 * [ng-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-dnd/ng-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-dnd/ng-dnd)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [ngx-file-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/telebroad/ngx-file-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/telebroad/ngx-file-drag-drop)](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
+* [moveable ![GitHub Repo Stars](https://img.shields.io/github/stars/daybrush/moveable) ![GitHub last commit](https://img.shields.io/github/last-commit/daybrush/moveable)](https://github.com/daybrush/moveable) - Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable.
 
 #### Editor Components
 
@@ -620,6 +631,7 @@ become an Angular expert.
 * [ngx-filesaver ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-filesaver) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-filesaver)](https://github.com/cipchk/ngx-filesaver) - Simple file save with [FileSaver.js ![GitHub Repo Stars](https://img.shields.io/github/stars/eligrey/FileSaver.js) ![GitHub last commit](https://img.shields.io/github/last-commit/eligrey/FileSaver.js)](https://github.com/eligrey/FileSaver.js).
 * [angular-star-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/BioPhoton/angular-star-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/BioPhoton/angular-star-rating)](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
 * [ngx-bar-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-bar-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-bar-rating)](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
+* [angular-code-input ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexMiniApps/angular-code-input) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexMiniApps/angular-code-input)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
 
 ##### Validation
 
@@ -875,6 +887,8 @@ for Bootstrap 5 & Angular 17.
 * [ng2-pdfjs-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/intbot/ng2-pdfjs-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/intbot/ng2-pdfjs-viewer)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 * [ngx-json-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/hivivo/ngx-json-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/hivivo/ngx-json-viewer)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 * [ngx-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ngx-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ngx-diff)](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
+* [infinite-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/daybrush/infinite-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/daybrush/infinite-viewer)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
+* [ngx-doc-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcelh1983/document-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcelh1983/document-viewer)](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
 
 #### Misc Components
 
@@ -897,6 +911,11 @@ for Bootstrap 5 & Angular 17.
 * [ng2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ng2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ng2csv)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 * [@ui-router/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ui-router/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ui-router/angular)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
 * [ngx-csv-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/tofiqquadri/ngx-csv-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/tofiqquadri/ngx-csv-parser)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
+* [angular-tag-cloud-module ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/angular-tag-cloud-module) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/angular-tag-cloud-module)](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
+* [ngx-lipsum ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/ngx-lipsum) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/ngx-lipsum)](https://github.com/d-koppenhagen/ngx-lipsum) - Easily use lorem-ipsum dummy texts in your angular app as directive, component or by using a service.
+* [angular-audio-context ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-audio-context) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-audio-context)](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
+* [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
+* [angular-twitter-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/angular-twitter-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/angular-twitter-timeline)](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 
 #### RxJS
 
@@ -1046,6 +1065,7 @@ for Bootstrap 5 & Angular 17.
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 * [ng-morph ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-morph) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-morph)](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
+* [ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/eneajaho/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/eneajaho/ngx-libs)](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
 
 #### Internationalization
 
@@ -1061,6 +1081,8 @@ for Bootstrap 5 & Angular 17.
 * [ngx-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-translate/core) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-translate/core)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 * [ngx-translate-module-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngx-translate-module-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngx-translate-module-loader)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
 * [ngx-translate-multi-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-translate-multi-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-translate-multi-http-loader)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
+
+---
 
 #### License
 

@@ -279,7 +279,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter ![GitHub Repo Stars](https://img.shields.io/github/stars/tsteinholz/LoveShaderConverter) ![GitHub last commit](https://img.shields.io/github/last-commit/tsteinholz/LoveShaderConverter)](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
-* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a L��VE shader.
+* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
 * [Moonshine ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/moonshine) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/moonshine)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 * [ShaderScan ![GitHub Repo Stars](https://img.shields.io/github/stars/idbrii/love-shaderscan) ![GitHub last commit](https://img.shields.io/github/last-commit/idbrii/love-shaderscan)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
@@ -324,7 +324,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Patchy ![GitHub Repo Stars](https://img.shields.io/github/stars/excessive/patchy) ![GitHub last commit](https://img.shields.io/github/last-commit/excessive/patchy)](https://github.com/excessive/patchy) - 9patch library.
 * [Slicy ![GitHub Repo Stars](https://img.shields.io/github/stars/wqferr/slicy) ![GitHub last commit](https://img.shields.io/github/last-commit/wqferr/slicy)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan ![GitHub Repo Stars](https://img.shields.io/github/stars/zombrodo/plan) ![GitHub last commit](https://img.shields.io/github/last-commit/zombrodo/plan)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
-* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
+* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the L��VE game engine.
 * [SafeWord ![GitHub Repo Stars](https://img.shields.io/github/stars/josefnpat/safeword) ![GitHub last commit](https://img.shields.io/github/last-commit/josefnpat/safeword)](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
 * [Slab ![GitHub Repo Stars](https://img.shields.io/github/stars/flamendless/Slab) ![GitHub last commit](https://img.shields.io/github/last-commit/flamendless/Slab)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/SUIT) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/SUIT)](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
