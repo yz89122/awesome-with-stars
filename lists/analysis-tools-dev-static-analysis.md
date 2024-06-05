@@ -754,7 +754,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [luacheck ![GitHub Repo Stars](https://img.shields.io/github/stars/lunarmodules/luacheck) ![GitHub last commit](https://img.shields.io/github/last-commit/lunarmodules/luacheck)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
 
-- [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
+- [lualint ![GitHub Repo Stars](https://img.shields.io/github/stars/philips/lualint) ![GitHub last commit](https://img.shields.io/github/last-commit/philips/lualint)](https://github.com/philips/lualint) ��� lualint performs luac-based static analysis of global variable usage in Lua source code.
 
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — An IDE for statically typed Lua development.
 
