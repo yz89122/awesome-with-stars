@@ -336,7 +336,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 * [ESP32 Drone](https://hackaday.io/project/188578-esp32-drone) - no traditional FPV, but low cost quad using ESP32 board, 2022.
 * [Wifree-copter](https://open-diy-projects.com/wifree-copter/) - Easy 3D printed copter that uses RPI as WIFI remote control with App, 2016.
 
-## Security & Safety ����
+## Security & Safety 🪂
 
 ### Simulators 🌐
 
