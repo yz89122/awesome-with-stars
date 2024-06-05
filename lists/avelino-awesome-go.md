@@ -3041,6 +3041,7 @@ _Full stack web frameworks._
 ## WebAssembly
 
 - [dom ![GitHub Repo Stars](https://img.shields.io/github/stars/dennwc/dom) ![GitHub last commit](https://img.shields.io/github/last-commit/dennwc/dom)](https://github.com/dennwc/dom) - DOM library.
+- [Extism Go SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/extism/go-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/extism/go-sdk)](https://github.com/extism/go-sdk) - Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps.
 - [go-canvas ![GitHub Repo Stars](https://img.shields.io/github/stars/markfarnan/go-canvas) ![GitHub last commit](https://img.shields.io/github/last-commit/markfarnan/go-canvas)](https://github.com/markfarnan/go-canvas) - Library to use HTML5 Canvas, with all drawing within go code.
 - [tinygo ![GitHub Repo Stars](https://img.shields.io/github/stars/tinygo-org/tinygo) ![GitHub last commit](https://img.shields.io/github/last-commit/tinygo-org/tinygo)](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [vert ![GitHub Repo Stars](https://img.shields.io/github/stars/norunners/vert) ![GitHub last commit](https://img.shields.io/github/last-commit/norunners/vert)](https://github.com/norunners/vert) - Interop between Go and JS values.
