@@ -954,7 +954,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [cohesion ![GitHub Repo Stars](https://img.shields.io/github/stars/mschwager/cohesion) ![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/cohesion)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
 
-- [deal](https://deal.readthedocs.io/) — Design by contract for Python. Write bug-free code.  By adding a few decorators to your code, you get for free tests, static analysis, formal verification, and much more.
+- [deal](https://deal.readthedocs.io/) ��� Design by contract for Python. Write bug-free code.  By adding a few decorators to your code, you get for free tests, static analysis, formal verification, and much more.
 
 - [Dlint ![GitHub Repo Stars](https://img.shields.io/github/stars/dlint-py/dlint) ![GitHub last commit](https://img.shields.io/github/last-commit/dlint-py/dlint)](https://github.com/dlint-py/dlint) :warning: — A tool for ensuring Python code is secure.
 
