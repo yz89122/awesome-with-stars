@@ -1045,6 +1045,7 @@ _Embedding other languages inside your go code._
 - [go-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/go-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/go-lua)](https://github.com/Shopify/go-lua) - Port of the Lua 5.2 VM to pure Go.
 - [go-php ![GitHub Repo Stars](https://img.shields.io/github/stars/deuill/go-php) ![GitHub last commit](https://img.shields.io/github/last-commit/deuill/go-php)](https://github.com/deuill/go-php) - PHP bindings for Go.
 - [go-python ![GitHub Repo Stars](https://img.shields.io/github/stars/sbinet/go-python) ![GitHub last commit](https://img.shields.io/github/last-commit/sbinet/go-python)](https://github.com/sbinet/go-python) - naive go bindings to the CPython C-API.
+- [goal](https://codeberg.org/anaseto/goal) - An embeddable scripting array language.
 - [goja ![GitHub Repo Stars](https://img.shields.io/github/stars/dop251/goja) ![GitHub last commit](https://img.shields.io/github/last-commit/dop251/goja)](https://github.com/dop251/goja) - ECMAScript 5.1(+) implementation in Go.
 - [golua ![GitHub Repo Stars](https://img.shields.io/github/stars/aarzilli/golua) ![GitHub last commit](https://img.shields.io/github/last-commit/aarzilli/golua)](https://github.com/aarzilli/golua) - Go bindings for Lua C API.
 - [gopher-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/yuin/gopher-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/yuin/gopher-lua)](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler written in Go.
