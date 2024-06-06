@@ -493,7 +493,7 @@
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立开发者训练营��Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
@@ -2533,6 +2533,7 @@ _Edit images_
 - [vue-picture-cut ![GitHub Repo Stars](https://img.shields.io/github/stars/987153776/vue-picture-cut) ![GitHub last commit](https://img.shields.io/github/last-commit/987153776/vue-picture-cut)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 - [vue-img-cutter ![GitHub Repo Stars](https://img.shields.io/github/stars/acccccccb/vue-img-cutter) ![GitHub last commit](https://img.shields.io/github/last-commit/acccccccb/vue-img-cutter)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 - [vue-picture-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/chengpeiquan/vue-picture-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/chengpeiquan/vue-picture-cropper)](https://github.com/chengpeiquan/vue-picture-cropper) - A simple and easy-to-use picture cropping component for Vue 3.
+- [vue-polygon-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/TaTo30/vue-polygon-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/TaTo30/vue-polygon-cropper)](https://github.com/TaTo30/vue-polygon-cropper) - A simple component to crop images in polygon shapes. [Demo](https://stackblitz.com/edit/vitejs-vite-urtqie?file=src%2FApp.vue) 
 
 _Display images_
 
