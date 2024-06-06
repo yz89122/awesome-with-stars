@@ -221,7 +221,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [svm-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alloy-rs/svm-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alloy-rs/svm-rs)](https://github.com/alloy-rs/svm-rs) — Solidity-Compiler Version Manager.
 * [tendermint-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tendermint-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tendermint-rs)](https://github.com/informalsystems/tendermint-rs) — Tendermint blockchain data structures and clients
 * [wagyu ![GitHub Repo Stars](https://img.shields.io/github/stars/howardwu/wagyu) ![GitHub last commit](https://img.shields.io/github/last-commit/howardwu/wagyu)](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
-* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) �� Zcash is an implementation of the "Zerocash" protocol.
+* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
 
 ### Database
 
@@ -793,7 +793,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) — TOML support in vscode
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
     * [crates ![GitHub Repo Stars](https://img.shields.io/github/stars/serayuzgur/crates) ![GitHub last commit](https://img.shields.io/github/last-commit/serayuzgur/crates)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
-    * [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
+    * [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) ��� Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
 
 ### Profiling
