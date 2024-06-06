@@ -245,7 +245,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 
 ## Platforms
-*Ports for Platforms other than the ones officially supported by L��VE*
+*Ports for Platforms other than the ones officially supported by LÖVE*
 
 * [LoveDos ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/lovedos) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/lovedos)](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
