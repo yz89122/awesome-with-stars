@@ -221,7 +221,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [svm-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alloy-rs/svm-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alloy-rs/svm-rs)](https://github.com/alloy-rs/svm-rs) — Solidity-Compiler Version Manager.
 * [tendermint-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tendermint-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tendermint-rs)](https://github.com/informalsystems/tendermint-rs) — Tendermint blockchain data structures and clients
 * [wagyu ![GitHub Repo Stars](https://img.shields.io/github/stars/howardwu/wagyu) ![GitHub last commit](https://img.shields.io/github/last-commit/howardwu/wagyu)](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
-* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) �� Zcash is an implementation of the "Zerocash" protocol.
+* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
 
 ### Database
 
@@ -1878,7 +1878,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [Little Book of Rust Books](https://lborb.github.io/book/) — Curated list of rust books and how-tos.
   * [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
   * [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) — A book that introduces to Rust language.
-  * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) — a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+  * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) ��� a collection of runnable examples that illustrate various Rust concepts and standard libraries.
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
   * [Rust Flashcards ![GitHub Repo Stars](https://img.shields.io/github/stars/ad-si/Rust-Flashcards) ![GitHub last commit](https://img.shields.io/github/last-commit/ad-si/Rust-Flashcards)](https://github.com/ad-si/Rust-Flashcards) — Over 550 flashcards to learn Rust from first principles.
   * [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
