@@ -76,6 +76,7 @@ sellers who aren’t evil for physical resources.</p>
 <p><strong>Table of Contents</strong></p>
 
 <ul>
+  <li><a href="#artificial-intelligence-ai-llms">Artificial Intelligence (AI, LLMs)</a></li>
   <li><a href="#audio">Audio</a></li>
   <li><a href="#build-systems">Build Systems</a></li>
   <li>
@@ -128,6 +129,7 @@ sellers who aren’t evil for physical resources.</p>
   <li>
 <a href="#language-extensions">Language extensions</a>
     <ul>
+      <li><a href="#pattern-matching">Pattern matching</a></li>
       <li><a href="#portability-layers">Portability layers</a></li>
       <li><a href="#changing-the-syntax">Changing the syntax</a></li>
       <li><a href="#clos-extensions">CLOS extensions</a></li>
@@ -230,7 +232,7 @@ sellers who aren’t evil for physical resources.</p>
       <li><a href="#job-processing">Job processing</a></li>
     </ul>
   </li>
-  <li><a href="#regex">Regex</a></li>
+  <li><a href="#regular-expressions-and-string-parsing">Regular expressions and string parsing</a></li>
   <li>
 <a href="#scripting">Scripting</a>
     <ul>
@@ -296,6 +298,41 @@ sellers who aren’t evil for physical resources.</p>
 </ul>
 
 <!-- markdown-toc end -->
+
+<h1 id="artificial-intelligence-ai-llms">Artificial Intelligence (AI, LLMs)</h1>
+
+<p>Around the OpenAI API:</p>
+
+<ul>
+  <li>
+<a href="https://codeberg.org/kilianmh/openai-openapi-client">openai-openapi-client</a> - semi-automatically generated Openapi client updated frequently from the <a href="https://github.com/openai/openai-openapi/blob/master/openapi.yaml">official Openapi specification <img src="https://img.shields.io/github/stars/openai/openai-openapi" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/openai/openai-openapi" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>. AGPL-3.
+    <ul>
+      <li>available on Ultralisp.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/atgreen/cl-completions">cl-completions <img src="https://img.shields.io/github/stars/atgreen/cl-completions" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/atgreen/cl-completions" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - LLM completions.
+    <ul>
+      <li>makes it easy to create GPT functions in Common Lisp.</li>
+      <li>Ollama support.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/atgreen/cl-embeddings">cl-embeddings <img src="https://img.shields.io/github/stars/atgreen/cl-embeddings" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/atgreen/cl-embeddings" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - LLM embeddings.</li>
+  <li>
+<a href="https://github.com/atgreen/cl-chroma">cl-chroma <img src="https://img.shields.io/github/stars/atgreen/cl-chroma" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/atgreen/cl-chroma" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - the vecor DB interface.</li>
+</ul>
+
+<p>demos: <a href="https://github.com/atgreen/cl-rag-example">cl-rag-example <img src="https://img.shields.io/github/stars/atgreen/cl-rag-example" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/atgreen/cl-rag-example" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> and <a href="https://github.com/atgreen/cl-chat">cl-chat <img src="https://img.shields.io/github/stars/atgreen/cl-chat" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/atgreen/cl-chat" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>, a LLM chat library and web UI.</p>
+
+<p>Educational:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/norvig/paip-lisp">PAIP-lisp <img src="https://img.shields.io/github/stars/norvig/paip-lisp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/norvig/paip-lisp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Lisp code for the textbook <a href="https://norvig.github.io/paip-lisp/#/">“Paradigms of Artificial Intelligence Programming”</a>.</li>
+  <li>
+<a href="https://github.com/aimacode/aima-lisp">AIMA-lisp <img src="https://img.shields.io/github/stars/aimacode/aima-lisp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/aimacode/aima-lisp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> -  Common Lisp implementation of algorithms from Russell and Norvig’s “Artificial Intelligence - A Modern Approach”.</li>
+</ul>
 
 <h1 id="audio">Audio</h1>
 
@@ -769,6 +806,10 @@ ASDF, Qlot and Roswell.</li>
 <a href="https://github.com/dtenny/clj-con">clj-con <img src="https://img.shields.io/github/stars/dtenny/clj-con" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dtenny/clj-con" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Clojure-style concurrency operations in Common Lisp. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/dtenny/clj-re/">clj-re <img src="https://img.shields.io/github/stars/dtenny/clj-re" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dtenny/clj-re" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Clojure-style regular expression functions.</li>
+  <li>
+<a href="https://github.com/dtenny/clj-arrows">clj-arrows <img src="https://img.shields.io/github/stars/dtenny/clj-arrows" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dtenny/clj-arrows" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> -  Clojure-compatible threading/transformation/arrow macros for Common Lisp.</li>
+  <li>
+<a href="https://github.com/dtenny/with-redefs">with-redefs <img src="https://img.shields.io/github/stars/dtenny/with-redefs" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dtenny/with-redefs" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - enables rebinding of global functions, inspired by Clojure’s with-redefs.</li>
 </ul>
 
 <h2 id="erlang">Erlang</h2>
@@ -1172,11 +1213,16 @@ processes. It has
 <a href="https://github.com/alex-gutev/generic-cl/">generic-cl <img src="https://img.shields.io/github/stars/alex-gutev/generic-cl" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/alex-gutev/generic-cl" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). <a href="https://opensource.org/licenses/MIT">MIT</a>. See also the more lightweight <a href="https://github.com/pnathan/generic-comparability">generic-comparability <img src="https://img.shields.io/github/stars/pnathan/generic-comparability" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/pnathan/generic-comparability" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a>. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
   <li>
 <a href="https://common-lisp.net/project/anaphora/">anaphora</a> - A collection of anaphoric macros. Public domain.</li>
-  <li>⭐ <a href="https://github.com/guicho271828/trivia/">trivia <img src="https://img.shields.io/github/stars/guicho271828/trivia" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/guicho271828/trivia" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Optimized pattern-matching library. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
   <li>
 <a href="https://github.com/hipeta/arrow-macros">arrow-macros <img src="https://img.shields.io/github/stars/hipeta/arrow-macros" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hipeta/arrow-macros" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Clojure-like threading macros. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
   <li>
 <a href="https://github.com/hu-dwim/hu.dwim.walker">hu.dwim.walker <img src="https://img.shields.io/github/stars/hu-dwim/hu.dwim.walker" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/hu-dwim/hu.dwim.walker" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a code walker and unwalker (aka AST parser and unparser). <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>. See also <a href="http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html">this blog post</a>.</li>
+</ul>
+
+<h2 id="pattern-matching">Pattern matching</h2>
+
+<ul>
+  <li>⭐ <a href="https://github.com/guicho271828/trivia/">trivia <img src="https://img.shields.io/github/stars/guicho271828/trivia" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/guicho271828/trivia" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - Optimized pattern-matching library. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 </ul>
 
 <h2 id="portability-layers">Portability layers</h2>
@@ -1580,6 +1626,8 @@ programming library in the style of Eiffel’s Design by Contract ™. Public 
     <ul>
       <li>with a web version: <a href="https://norvig.github.io/paip-lisp/#/">https://norvig.github.io/paip-lisp/</a>
 </li>
+      <li>
+<a href="https://github.com/norvig/paip-lisp">PAIP-lisp <img src="https://img.shields.io/github/stars/norvig/paip-lisp" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/norvig/paip-lisp" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> -  Lisp code for the textbook “Paradigms of Artificial Intelligence Programming”.</li>
     </ul>
   </li>
 </ul>
@@ -2428,12 +2476,19 @@ informed when one any of them crash and die. <a href="https://opensource.org/lic
 <a href="https://github.com/tsikov/clerk">clerk <img src="https://img.shields.io/github/stars/tsikov/clerk" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/tsikov/clerk" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a cron-like scheduler with sane DSL. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 
-<h1 id="regex">Regex</h1>
+<h1 id="regular-expressions-and-string-parsing">Regular expressions and string parsing</h1>
 
 <ul>
   <li>⭐ <a href="http://weitz.de/cl-ppcre/">cl-ppcre</a> - Portable, Perl-compatible regular expressions. <a href="https://directory.fsf.org/wiki?title=License:FreeBSD">FreeBSD</a>.</li>
   <li>
 <a href="https://github.com/no-defun-allowed/one-more-re-nightmare">one-more-re-nightmare <img src="https://img.shields.io/github/stars/no-defun-allowed/one-more-re-nightmare" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/no-defun-allowed/one-more-re-nightmare" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> - a fast-ish regular expression compiler in Common Lisp. <a href="https://directory.fsf.org/wiki/License:BSD_2Clause">BSD_2Clause</a>.</li>
+</ul>
+
+<p>See also:</p>
+
+<ul>
+  <li>
+<a href="https://github.com/dtenny/rexxparse">rexxparse <img src="https://img.shields.io/github/stars/dtenny/rexxparse" alt="GitHub Repo Stars" referrerpolicy="no-referrer" loading="lazy"> <img src="https://img.shields.io/github/last-commit/dtenny/rexxparse" alt="GitHub last commit" referrerpolicy="no-referrer" loading="lazy"></a> -  A string parsing tool inspired by the REXX PARSE construct. MIT.</li>
 </ul>
 
 <p>See also clj-re above.</p>
