@@ -210,6 +210,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Authentication and Authorization
 
+* [Abblix OIDC Server ![GitHub Repo Stars](https://img.shields.io/github/stars/Abblix/Oidc.Server) ![GitHub last commit](https://img.shields.io/github/last-commit/Abblix/Oidc.Server)](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **[$][Free for non-commercial use]**
 * [ASP.NET Identity ![GitHub Repo Stars](https://img.shields.io/github/stars/aspnet/Identity) ![GitHub last commit](https://img.shields.io/github/last-commit/aspnet/Identity)](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 * [ASP.NET SAML ![GitHub Repo Stars](https://img.shields.io/github/stars/jitbit/AspNetSaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jitbit/AspNetSaml)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 * [Logibit Hawk ![GitHub Repo Stars](https://img.shields.io/github/stars/logibit/logibit.hawk) ![GitHub last commit](https://img.shields.io/github/last-commit/logibit/logibit.hawk)](https://github.com/logibit/logibit.hawk/) - A F# [Hawk ![GitHub Repo Stars](https://img.shields.io/github/stars/outmoded/hawk) ![GitHub last commit](https://img.shields.io/github/last-commit/outmoded/hawk)](https://github.com/outmoded/hawk) authentication library
@@ -227,6 +228,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MASA.Blazor ![GitHub Repo Stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor) ![GitHub last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 * [Megabit.Blazorise ![GitHub Repo Stars](https://img.shields.io/github/stars/Megabit/Blazorise) ![GitHub last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 * [blazork8s ![GitHub Repo Stars](https://img.shields.io/github/stars/weibaohui/blazork8s) ![GitHub last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+* [MudBlazor ![GitHub Repo Stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor) ![GitHub last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor)](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
 
 ## Blockchain
 
@@ -403,6 +405,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Database Drivers
 
+* [DuckDB.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/Giorgi/DuckDB.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/Giorgi/DuckDB.NET)](https://github.com/Giorgi/DuckDB.NET) - .NET data provider for DuckDB
 * [MySQL Connector](https://dev.mysql.com/downloads/connector/net/) - Connector/Net is a fully-managed ADO.NET driver for MySQL
 * [Npgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/npgsql/Npgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/npgsql/Npgsql)](https://github.com/npgsql/Npgsql) - .NET data provider for PostgreSQL
 * [MongoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-csharp-driver)](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# driver
