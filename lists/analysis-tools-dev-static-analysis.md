@@ -810,7 +810,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [DesignPatternDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/Halleck45/DesignPatternDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/Halleck45/DesignPatternDetector)](https://github.com/Halleck45/DesignPatternDetector) — Detection of design patterns in PHP code.
 
-- [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/PHP-CS-Fixer)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
+- [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) ��� Combine [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/PHP-CS-Fixer)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 
 - [Enlightn](https://www.laravel-enlightn.com/) — A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
 
@@ -854,7 +854,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [php7cc ![GitHub Repo Stars](https://img.shields.io/github/stars/sstalle/php7cc) ![GitHub last commit](https://img.shields.io/github/last-commit/sstalle/php7cc)](https://github.com/sstalle/php7cc) :warning: — PHP 7 Compatibility Checker.
 
-- [php7mar ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexia/php7mar) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexia/php7mar)](https://github.com/Alexia/php7mar) :warning: ��� Assist developers in porting their code quickly to PHP 7.
+- [php7mar ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexia/php7mar) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexia/php7mar)](https://github.com/Alexia/php7mar) :warning: — Assist developers in porting their code quickly to PHP 7.
 
 - [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) — Detects violations of a defined set of coding standards.
 
