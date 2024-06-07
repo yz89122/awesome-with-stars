@@ -221,7 +221,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [svm-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alloy-rs/svm-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alloy-rs/svm-rs)](https://github.com/alloy-rs/svm-rs) — Solidity-Compiler Version Manager.
 * [tendermint-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tendermint-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tendermint-rs)](https://github.com/informalsystems/tendermint-rs) — Tendermint blockchain data structures and clients
 * [wagyu ![GitHub Repo Stars](https://img.shields.io/github/stars/howardwu/wagyu) ![GitHub last commit](https://img.shields.io/github/last-commit/howardwu/wagyu)](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
-* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
+* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) �� Zcash is an implementation of the "Zerocash" protocol.
 
 ### Database
 
@@ -408,7 +408,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [cargo-audit](https://crates.io/crates/cargo-audit) — Audit Cargo.lock for crates with security vulnerabilities
 * [cargo-auditable](https://crates.io/crates/cargo-auditable) — Make production Rust binaries auditable
 * [cargo-crev](https://crates.io/crates/cargo-crev) — A cryptographically verifiable code review system for the cargo package manager.
-* [cargo-deny](https://crates.io/crates/cargo-deny) — Cargo plugin to help you manage large dependency graphs
+* [cargo-deny](https://crates.io/crates/cargo-deny) ��� Cargo plugin to help you manage large dependency graphs
 * [Cherrybomb ![GitHub Repo Stars](https://img.shields.io/github/stars/blst-security/cherrybomb) ![GitHub last commit](https://img.shields.io/github/last-commit/blst-security/cherrybomb)](https://github.com/blst-security/cherrybomb) — Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 * [cotp ![GitHub Repo Stars](https://img.shields.io/github/stars/replydev/cotp) ![GitHub last commit](https://img.shields.io/github/last-commit/replydev/cotp)](https://github.com/replydev/cotp) — Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 * [entropic-security/xgadget ![GitHub Repo Stars](https://img.shields.io/github/stars/entropic-security/xgadget) ![GitHub last commit](https://img.shields.io/github/last-commit/entropic-security/xgadget)](https://github.com/entropic-security/xgadget) [[xgadget](https://crates.io/crates/xgadget)] — Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions ![GitHub Repo Stars](https://img.shields.io/github/stars/entropic-security/xgadget) ![GitHub last commit](https://img.shields.io/github/last-commit/entropic-security/xgadget)](https://github.com/entropic-security/xgadget/workflows/test/badge.svg)](https://github.com/entropic-security/xgadget/actions)

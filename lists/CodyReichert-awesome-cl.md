@@ -32,6 +32,7 @@ sellers who aren't evil for physical resources.
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
+- [Artificial Intelligence (AI, LLMs)](#artificial-intelligence-ai-llms)
 - [Audio](#audio)
 - [Build Systems](#build-systems)
 - [Compilers, code generators](#compilers-code-generators)
@@ -66,6 +67,7 @@ sellers who aren't evil for physical resources.
 - [JSON](#json)
 - [YAML](#yaml)
 - [Language extensions](#language-extensions)
+    - [Pattern matching](#pattern-matching)
     - [Portability layers](#portability-layers)
     - [Changing the syntax](#changing-the-syntax)
     - [CLOS extensions](#clos-extensions)
@@ -130,7 +132,7 @@ sellers who aren't evil for physical resources.
     - [Actors pattern](#actors-pattern)
     - [Event processing](#event-processing)
     - [Job processing](#job-processing)
-- [Regex](#regex)
+- [Regular expressions and string parsing](#regular-expressions-and-string-parsing)
 - [Scripting](#scripting)
     - [Writing, running scripts](#writing-running-scripts)
     - [Command-line options parsers](#command-line-options-parsers)
@@ -183,6 +185,26 @@ sellers who aren't evil for physical resources.
 - [Contributing](#contributing)
 
 <!-- markdown-toc end -->
+
+Artificial Intelligence (AI, LLMs)
+==========================================
+
+Around the OpenAI API:
+
+* [openai-openapi-client](https://codeberg.org/kilianmh/openai-openapi-client) - semi-automatically generated Openapi client updated frequently from the [official Openapi specification ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-openapi) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-openapi)](https://github.com/openai/openai-openapi/blob/master/openapi.yaml). AGPL-3.
+  * available on Ultralisp.
+* [cl-completions ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-completions) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-completions)](https://github.com/atgreen/cl-completions) - LLM completions.
+  * makes it easy to create GPT functions in Common Lisp.
+  * Ollama support.
+* [cl-embeddings ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-embeddings) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-embeddings)](https://github.com/atgreen/cl-embeddings) - LLM embeddings.
+* [cl-chroma ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-chroma) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-chroma)](https://github.com/atgreen/cl-chroma) - the vecor DB interface.
+
+demos: [cl-rag-example ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-rag-example) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-rag-example)](https://github.com/atgreen/cl-rag-example) and [cl-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-chat)](https://github.com/atgreen/cl-chat), a LLM chat library and web UI.
+
+Educational:
+
+* [PAIP-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/norvig/paip-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/norvig/paip-lisp)](https://github.com/norvig/paip-lisp) - Lisp code for the textbook ["Paradigms of Artificial Intelligence Programming"](https://norvig.github.io/paip-lisp/#/).
+* [AIMA-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/aimacode/aima-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/aimacode/aima-lisp)](https://github.com/aimacode/aima-lisp) -  Common Lisp implementation of algorithms from Russell and Norvig's "Artificial Intelligence - A Modern Approach".
 
 
 Audio
@@ -456,6 +478,8 @@ See also those libraries:
 * [cl-oju ![GitHub Repo Stars](https://img.shields.io/github/stars/eigenhombre/cl-oju) ![GitHub last commit](https://img.shields.io/github/last-commit/eigenhombre/cl-oju)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT][200].
 * [clj-con ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-con) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-con)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT][200].
 * [clj-re ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-re) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-re)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
+* [clj-arrows ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-arrows) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-arrows)](https://github.com/dtenny/clj-arrows) -  Clojure-compatible threading/transformation/arrow macros for Common Lisp.
+* [with-redefs ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/with-redefs) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/with-redefs)](https://github.com/dtenny/with-redefs) - enables rebinding of global functions, inspired by Clojure's with-redefs.
 
 ## Erlang ##
 
@@ -679,9 +703,14 @@ Language extensions
 * [rutils ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/rutils) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/rutils)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT][200].
 * [generic-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/alex-gutev/generic-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-gutev/generic-cl)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT][200]. See also the more lightweight [generic-comparability ![GitHub Repo Stars](https://img.shields.io/github/stars/pnathan/generic-comparability) ![GitHub last commit](https://img.shields.io/github/last-commit/pnathan/generic-comparability)](https://github.com/pnathan/generic-comparability). [LLGPL][8].
 * [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
-* ⭐ [trivia ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/trivia) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/trivia)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL][8].
 * [arrow-macros ![GitHub Repo Stars](https://img.shields.io/github/stars/hipeta/arrow-macros) ![GitHub last commit](https://img.shields.io/github/last-commit/hipeta/arrow-macros)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT][200].
 * [hu.dwim.walker ![GitHub Repo Stars](https://img.shields.io/github/stars/hu-dwim/hu.dwim.walker) ![GitHub last commit](https://img.shields.io/github/last-commit/hu-dwim/hu.dwim.walker)](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD][15]. See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
+
+Pattern matching
+--------------------
+
+* ⭐ [trivia ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/trivia) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/trivia)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL][8].
+
 
 Portability layers
 ------------------
@@ -923,6 +952,7 @@ Advanced
 * [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS][21] - An old, but very thorough book on CLOS.
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp][157] - A book on programming AI that covers some advanced Lisp.
   * with a web version: [https://norvig.github.io/paip-lisp/](https://norvig.github.io/paip-lisp/#/)
+  * [PAIP-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/norvig/paip-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/norvig/paip-lisp)](https://github.com/norvig/paip-lisp) -  Lisp code for the textbook "Paradigms of Artificial Intelligence Programming".
 
 Other books
 -----------
@@ -1425,11 +1455,15 @@ Job processing
 * [clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/tsikov/clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/tsikov/clerk)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT][200].
 
 
-Regex
-=====
+Regular expressions and string parsing
+===============================================
 
 * ⭐ [cl-ppcre](http://weitz.de/cl-ppcre/) - Portable, Perl-compatible regular expressions. [FreeBSD][39].
 * [one-more-re-nightmare ![GitHub Repo Stars](https://img.shields.io/github/stars/no-defun-allowed/one-more-re-nightmare) ![GitHub last commit](https://img.shields.io/github/last-commit/no-defun-allowed/one-more-re-nightmare)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD_2Clause][17].
+
+See also:
+
+* [rexxparse ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/rexxparse) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/rexxparse)](https://github.com/dtenny/rexxparse) -  A string parsing tool inspired by the REXX PARSE construct. MIT.
 
 See also clj-re above.
 
