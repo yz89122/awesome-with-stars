@@ -84,6 +84,7 @@
 - [SEPTun ![GitHub Repo Stars](https://img.shields.io/github/stars/pevma/SEPTun) ![GitHub last commit](https://img.shields.io/github/last-commit/pevma/SEPTun)](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
 - [SEPTun-Mark-II ![GitHub Repo Stars](https://img.shields.io/github/stars/pevma/SEPTun-Mark-II) ![GitHub last commit](https://img.shields.io/github/last-commit/pevma/SEPTun-Mark-II)](https://github.com/pevma/SEPTun-Mark-II) - Suricata Extreme Performance Tuning guide - Mark II.
 - [suricata-4-analysts ![GitHub Repo Stars](https://img.shields.io/github/stars/StamusNetworks/suricata-4-analysts) ![GitHub last commit](https://img.shields.io/github/last-commit/StamusNetworks/suricata-4-analysts)](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst's Guide to Suricata.
+- [Suricata Community Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/sidallocation/suricata-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/sidallocation/suricata-style-guide)](https://github.com/sidallocation/suricata-style-guide) - A collaborative document to collect style guidelines from the community of rule writers.
 
 
 ## Analysis Tools
