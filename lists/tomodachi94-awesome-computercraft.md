@@ -67,7 +67,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [GEMU ![GitHub Repo Stars](https://img.shields.io/github/stars/9551-Dev/GEMU) ![GitHub last commit](https://img.shields.io/github/last-commit/9551-Dev/GEMU)](https://github.com/9551-Dev/GEMU) -  CraftOS-PC graphics mode emulator based on Pixelbox.
 - [gist](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists.
 - [Howl ![GitHub Repo Stars](https://img.shields.io/github/stars/SquidDev-CC/Howl) ![GitHub last commit](https://img.shields.io/github/last-commit/SquidDev-CC/Howl)](https://github.com/SquidDev-CC/Howl) -  A build system for CC and CC:T.
-- [LuaIDE](http://www.computercraft.info/forums2/index.php?/topic/12347-) -  A full-fledged IDE for editing Lua files in-game.
+- [LuaIDE](https://web.archive.org/web/20230211195528/http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/) -  A full-fledged IDE for editing Lua files in-game.
 - [Mildly Better Shell (MBS) ![GitHub Repo Stars](https://img.shields.io/github/stars/SquidDev-CC/mbs) ![GitHub last commit](https://img.shields.io/github/last-commit/SquidDev-CC/mbs)](https://github.com/SquidDev-CC/mbs) -  An improved shell that includes scrollback and improved resolution of completions.
 - [ModemShark](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8) -  Modem packet sniffer with a simple UI.
 - [netshell ![GitHub Repo Stars](https://img.shields.io/github/stars/lyqyd/cc-netshell) ![GitHub last commit](https://img.shields.io/github/last-commit/lyqyd/cc-netshell)](https://github.com/lyqyd/cc-netshell) -  Access a computer's shell from another computer.
@@ -79,18 +79,18 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Library
 
 - [Acidity ![GitHub Repo Stars](https://img.shields.io/github/stars/9551-Dev/acidity) ![GitHub last commit](https://img.shields.io/github/last-commit/9551-Dev/acidity)](https://github.com/9551-Dev/acidity) -  A simple [procedual world generation](https://cdn.discordapp.com/attachments/477911902152949771/1078015614712565770/image.png)-oriented noise generation library.
-- [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305).
+- [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
 - Anavrins' hashing libraries:
     - [MD5](https://pastebin.com/6PVSRckQ) -  Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
     - [SHA-1](https://pastebin.com/SfL7vxP3) -  Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) with [HMAC](https://en.wikipedia.org/wiki/HMAC) support.
-    - [SHA-256](http://www.computercraft.info/forums2/index.php?/topic/8169-) -  Implementation of [SHA-256](https://en.wikipedia.org/wiki/SHA-2) with support for [HMAC](https://en.wikipedia.org/wiki/HMAC) and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
+    - [SHA-256](https://web.archive.org/web/20230211193054/http://www.computercraft.info/forums2/index.php?/topic/8169-sha-256-in-pure-lua/) -  Implementation of [SHA-256](https://en.wikipedia.org/wiki/SHA-2) with support for [HMAC](https://en.wikipedia.org/wiki/HMAC) and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
 - [AUKit](https://mcjack123.github.io/AUKit/) -  The quintessential audio processing and conversion library for ComputerCraft. 
 - [Basalt](https://basalt.madefor.cc/) -  A GUI library emphasizing the user experience.
 - [Bigfont](https://pastebin.com/3LfWxRWh) -  A library that makes writing something in different font sizes easy.
 - [C3D](https://c3d.madefor.cc/) -  An advanced 3D rendering API.
 - [CC-Archive ![GitHub Repo Stars](https://img.shields.io/github/stars/MCJack123/CC-Archive) ![GitHub last commit](https://img.shields.io/github/last-commit/MCJack123/CC-Archive)](https://github.com/MCJack123/CC-Archive) -  Various libraries for archiving and unarchiving files.
 - [dbprotect](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363) -  A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions.
-- [ecc.lua](https://www.computercraft.info/forums2/index.php?/topic/29803-) -  Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography).
+- [ecc.lua](https://web.archive.org/web/20190808224502/http://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) -  Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). <!-- FIXME: Broken link -->
 - [ecnet ![GitHub Repo Stars](https://img.shields.io/github/stars/migeyel/ecnet) ![GitHub last commit](https://img.shields.io/github/last-commit/migeyel/ecnet)](https://github.com/migeyel/ecnet) -  Secure network communications in ComputerCraft.
 - [GuiH](https://guih.madefor.cc) -  A powerful GUI and graphics library.
 - [IsometriH ![GitHub Repo Stars](https://img.shields.io/github/stars/9551-Dev/IsometriH) ![GitHub last commit](https://img.shields.io/github/last-commit/9551-Dev/IsometriH)](https://github.com/9551-Dev/IsometriH) -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
@@ -191,16 +191,16 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 #### Basics
 - [Direwolf20's tutorials](https://www.youtube.com/watch?v=wrUHUhfCY5A) -  A series of videos explaining the basics of ComputerCraft programming. 
 - [Sethbling's tutorials](https://www.youtube.com/watch?v=DSsx4VSe-Uk) -  See above.
-- Lyqyd's *Computer Basics* series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)) -  Though a bit dated, they are excellent for the beginnings of your journey.
+- Lyqyd's *Computer Basics* series ([I](https://web.archive.org/web/20170617144334/http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i/), [II](https://web.archive.org/web/20230719181359/https://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](https://web.archive.org/web/20230719181437/https://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)) -  Though a bit dated, they are excellent for the beginnings of your journey.
 - [The FTB Wiki's Getting Started guide for ComputerCraft](https://ftb.fandom.com/wiki/Getting_Started_(ComputerCraft)) -  A useful all-around resource for getting started.
 
 #### Moderate or advanced
-- [Bomb Bloke's *Guide to Coroutines*](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/) -  Explains why you should not use coroutines, and includes tutorials on using them. 
+- [Bomb Bloke's *Guide to Coroutines*](https://web.archive.org/web/20230210142049/https://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/) -  Explains why you should not use coroutines, and includes tutorials on using them.
 
 ### Charts, tables, and calculators
 
 - [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png) -  Demonstrates how coroutines work. Each column represents one coroutine's code flow.
-- [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png) -  Demonstrates the flow of events when a program runs.
+- [KingOfGamesYami's event flow chart](https://forums.computercraft.cc/index.php?topic=26.0) -  Demonstrates the flow of events when a program runs.
 <!--lint ignore-->
 - [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png) -  Contains decimal and hex mappings to ComputerCraft font characters.
 - [Emma's ComputerCraft compatibility chart](https://docs.google.com/spreadsheets/d/1s4d21cL3QrUyegEzYaVXvqDr1zNorgyZ-fDWeopIC1k/edit?usp=sharing) -  Shows compatibility across emulators and in-game mods.
@@ -215,7 +215,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ## Resources
 
 - [Tweaked.cc documentation](https://tweaked.cc) -  Contains documentation for most methods in CC and CC:T.
-- [CC's forums](https://computercraft.info/forums2) -  An extremely valuable resource, filled with tutorials and programs.
+- [CC's forums](https://computercraft.info/forums2) -  An extremely valuable resource, filled with tutorials and programs. <!-- FIXME: Broken link -->
 - [CC:T's forums](https://forums.computercraft.cc) -  Also extremely valuable, but is newer.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe) -  A Discord server for getting help with programming in CC and CC:T.
 - [ComputerCraft's subreddit](https://reddit.com/r/computercraft) - A subreddit for showing off your ComputerCraft creations, as well as getting help.
