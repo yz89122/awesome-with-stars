@@ -21,7 +21,8 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html) - Lockheed Martin's framework that outlines the 7 stages commonly observed in a cyber attack.
 - [MaGMa (Management, Growth and Metrics & Assessment) Use Case Defintion Model](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - A business-centric approach for defining threat detection use cases.
 - [Synthetic Adversarial Log Objects (SALO) | Splunk ![GitHub Repo Stars](https://img.shields.io/github/stars/splunk/salo) ![GitHub last commit](https://img.shields.io/github/last-commit/splunk/salo)](https://github.com/splunk/salo) - Synthetic Adversarial Log Objects (SALO) is a framework for the generation of log events without the need for infrastructure or actions to initiate the event that causes a log event.
-- [The Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - Outlines 19 aphorisms that serve as universal principles for the creation of high quality detection content. 
+- [The Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - Outlines 19 aphorisms that serve as universal principles for the creation of high quality detection content.
+- [Blue-team-as-Code - the Spiral of Joy | Den Iuzvyk, Oleg Kolesnikov](https://sansorg.egnyte.com/dl/KTc16ldiqv) - Blue-Team-as-Code: Lessons From Real-world Red Team Detection Automation Using Logs
 
 ## Detection Content & Signatures
 
@@ -59,6 +60,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Loghub ![GitHub Repo Stars](https://img.shields.io/github/stars/logpai/loghub) ![GitHub last commit](https://img.shields.io/github/last-commit/logpai/loghub)](https://github.com/logpai/loghub) - Opensource and freely available security data sources for research and testing.
 - [Elastalert | Yelp ![GitHub Repo Stars](https://img.shields.io/github/stars/Yelp/elastalert) ![GitHub last commit](https://img.shields.io/github/last-commit/Yelp/elastalert)](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
 - [Matano ![GitHub Repo Stars](https://img.shields.io/github/stars/matanolabs/matano) ![GitHub last commit](https://img.shields.io/github/last-commit/matanolabs/matano)](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
+- [Microsoft XDR Advanced Hunting Schema](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables) To help with multi-table queries, you can use the advanced hunting schema, which includes tables and columns with event information and details about devices, alerts, identities, and other entity types.
 
 ## General Resources
  
