@@ -259,7 +259,7 @@ _For a more complete list see [Awesome Serverless ![GitHub Repo Stars](https://i
 - [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
-- [For Static Sites, There���s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
+- [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 - [Jamstack and Netlify: Do We really need another buzzword?](https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword)
 - [The Jamstack Startup Landscape](https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917)
