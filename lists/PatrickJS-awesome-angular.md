@@ -119,7 +119,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/maartentibau/angular-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/maartentibau/angular-logos)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
-* [madewithangular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
+* [made with angular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
+* [built with analog ![GitHub Repo Stars](https://img.shields.io/github/stars/TechShowcase/builtwithanalog) ![GitHub last commit](https://img.shields.io/github/last-commit/TechShowcase/builtwithanalog)](https://github.com/TechShowcase/builtwithanalog) - Showcase and market your AnalogJS apps.
 * [angular.love](https://angular.love/) - Polish community for Angular fans.
 * [angular hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 * [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
@@ -291,6 +292,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.
 * [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
+* [angular-unit-test-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/duluca/angular-unit-test-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/duluca/angular-unit-test-helper)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 
 #### CLI
 
@@ -368,6 +370,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
 * [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
 * [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
+* [Angular Design Patterns and Best Practices ![GitHub Repo Stars](https://img.shields.io/github/stars/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) ![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Angular-Design-Patterns-and-Best-Practices)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 
 #### On-Site Training
 
@@ -417,6 +420,7 @@ become an Angular expert.
 * [renovate-config-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/renovate-config-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/renovate-config-angular)](https://github.com/d-koppenhagen/renovate-config-angular) - Angular shareable config for [Renovate](https://www.mend.io/renovate/).
 * [ngx-grapesjs ![GitHub Repo Stars](https://img.shields.io/github/stars/Developer-Plexscape/ngx-grapesjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Developer-Plexscape/ngx-grapesjs)](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [gojs-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/NorthwoodsSoftware/gojs-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/NorthwoodsSoftware/gojs-angular)](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
+* [anguhashblog ![GitHub Repo Stars](https://img.shields.io/github/stars/AnguHashBlog/anguhashblog) ![GitHub last commit](https://img.shields.io/github/last-commit/AnguHashBlog/anguhashblog)](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
 
 #### Site Templates
 
@@ -552,6 +556,7 @@ become an Angular expert.
 * [ngx-simple-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular2Guy/ngx-simple-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular2Guy/ngx-simple-charts)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
 * [ng-flowchart ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-wenzel/ng-flowchart) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-wenzel/ng-flowchart)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
 * [ngx-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/xieziyu/ngx-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/xieziyu/ngx-echarts)](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-echarts)](https://github.com/apache/incubator-echarts).
+* [angular-fusioncharts ![GitHub Repo Stars](https://img.shields.io/github/stars/fusioncharts/angular-fusioncharts) ![GitHub last commit](https://img.shields.io/github/last-commit/fusioncharts/angular-fusioncharts)](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
 
 #### Dates
 
@@ -655,6 +660,7 @@ become an Angular expert.
 * [angular-star-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/BioPhoton/angular-star-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/BioPhoton/angular-star-rating)](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
 * [ngx-bar-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-bar-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-bar-rating)](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
 * [angular-code-input ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexMiniApps/angular-code-input) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexMiniApps/angular-code-input)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
+* [ng-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/NileshPatel17/ng-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/NileshPatel17/ng-multiselect-dropdown)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 
 ##### Validation
 
@@ -721,6 +727,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-sortgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzerk/ng-sortgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzerk/ng-sortgrid)](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
 * [angular-gridster2 ![GitHub Repo Stars](https://img.shields.io/github/stars/tiberiuzuld/angular-gridster2) ![GitHub last commit](https://img.shields.io/github/last-commit/tiberiuzuld/angular-gridster2)](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
 * [angular-grid-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/katoid/angular-grid-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/katoid/angular-grid-layout)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
+* [ng2-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-tree)](https://github.com/valor-software/ng2-tree) - Angular tree component.
 
 #### Loaders
 
@@ -737,6 +744,8 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/angular-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/angular-loaders)](https://github.com/pjlamb12/angular-loaders) - Angular loader components.
 * [ngx-loader-indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/jsdaddy/ngx-loader-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/jsdaddy/ngx-loader-indicator)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
 * [ngx-skeleton-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-skeleton-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-skeleton-loader)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+* [angular-svg-round-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/crisbeto/angular-svg-round-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/crisbeto/angular-svg-round-progressbar)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
+* [ng-circle-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/bootsoon/ng-circle-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/bootsoon/ng-circle-progress)](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 
 #### Maps
 
@@ -766,6 +775,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngxtension-platform ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxtension/ngxtension-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxtension/ngxtension-platform)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 * [spartan ![GitHub Repo Stars](https://img.shields.io/github/stars/goetzrobin/spartan) ![GitHub last commit](https://img.shields.io/github/last-commit/goetzrobin/spartan)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
 * [ngx-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/jfcere/ngx-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/jfcere/ngx-markdown)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
+* [ngify ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 
 #### Modals
 
@@ -865,6 +875,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-semantic ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-semantic/ngx-semantic) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-semantic/ngx-semantic)](https://github.com/ngx-semantic/ngx-semantic) - A new take on an Angular implementation for Semantic UI.
 * [ngx-float-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/tonysamperi/ngx-float-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/tonysamperi/ngx-float-ui)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
 * [orchestrator ![GitHub Repo Stars](https://img.shields.io/github/stars/orchestratora/orchestrator) ![GitHub last commit](https://img.shields.io/github/last-commit/orchestratora/orchestrator)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
+* [winonang ![GitHub Repo Stars](https://img.shields.io/github/stars/winona-ui/winonang) ![GitHub last commit](https://img.shields.io/github/last-commit/winona-ui/winonang)](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 
 ##### Material Based
 
@@ -925,6 +936,7 @@ for Bootstrap 5 & Angular 17.
 * [falso ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/falso) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/falso)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 * [helipopper ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/helipopper) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/helipopper)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 * [popover ![GitHub Repo Stars](https://img.shields.io/github/stars/ncstate-sat/popover) ![GitHub last commit](https://img.shields.io/github/last-commit/ncstate-sat/popover)](https://github.com/ncstate-sat/popover) - Popover component for Angular.
+* [angular-confirmation-popover ![GitHub Repo Stars](https://img.shields.io/github/stars/mattlewis92/angular-confirmation-popover) ![GitHub last commit](https://img.shields.io/github/last-commit/mattlewis92/angular-confirmation-popover)](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
 * [ngx-device-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/AhsanAyaz/ngx-device-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/AhsanAyaz/ngx-device-detector)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 * [ngx-feature-toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-feature-toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-feature-toggle)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 * [runtime-config-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/runtime-config-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/runtime-config-loader)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
