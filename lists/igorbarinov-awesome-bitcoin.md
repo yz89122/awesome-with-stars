@@ -56,10 +56,11 @@ A curated list of bitcoin services and tools for software developers
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
 * [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
+* [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
-* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
+* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -73,6 +74,7 @@ A curated list of bitcoin services and tools for software developers
 * [Coinb.in](https://coinb.in)
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
+* [Green](https://blockstream.com/green/)
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
@@ -80,11 +82,12 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
-* [BlockTrail](https://www.blocktrail.com/BTC) 
+* [BlockTrail](https://www.blocktrail.com/BTC)
 * [Bitcoin Transaction Explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/JornC/bitcoin-transaction-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/JornC/bitcoin-transaction-explorer)](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates.
+* [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
 
 ## C Libraries
 * [libsecp256k1 ![GitHub Repo Stars](https://img.shields.io/github/stars/bitcoin-core/secp256k1) ![GitHub last commit](https://img.shields.io/github/last-commit/bitcoin-core/secp256k1)](https://github.com/bitcoin-core/secp256k1)
@@ -114,6 +117,11 @@ A curated list of bitcoin services and tools for software developers
 * [bitcoinrb ![GitHub Repo Stars](https://img.shields.io/github/stars/chaintope/bitcoinrb) ![GitHub last commit](https://img.shields.io/github/last-commit/chaintope/bitcoinrb)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
 * [bech32rb ![GitHub Repo Stars](https://img.shields.io/github/stars/azuchi/bech32rb) ![GitHub last commit](https://img.shields.io/github/last-commit/azuchi/bech32rb)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 * [bip-schnorrrb ![GitHub Repo Stars](https://img.shields.io/github/stars/chaintope/bip-schnorrrb) ![GitHub last commit](https://img.shields.io/github/last-commit/chaintope/bip-schnorrrb)](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
+
+## Rust Libraries
+* [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
+* [Rust Bitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-bitcoin/rust-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-bitcoin/rust-bitcoin)](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
 
 ## Python Libraries
 * [BlockTrail SDK Python ![GitHub Repo Stars](https://img.shields.io/github/stars/blocktrail/blocktrail-sdk-python) ![GitHub last commit](https://img.shields.io/github/last-commit/blocktrail/blocktrail-sdk-python)](https://github.com/blocktrail/blocktrail-sdk-python)
@@ -167,6 +175,7 @@ A curated list of bitcoin services and tools for software developers
 * [Fullnode ![GitHub Repo Stars](https://img.shields.io/github/stars/moneybutton/yours-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/moneybutton/yours-bitcoin)](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
 * [Bitcore Node ![GitHub Repo Stars](https://img.shields.io/github/stars/bitpay/bitcore-node) ![GitHub last commit](https://img.shields.io/github/last-commit/bitpay/bitcore-node)](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
 * [Bitcore ![GitHub Repo Stars](https://img.shields.io/github/stars/bitpay/bitcore) ![GitHub last commit](https://img.shields.io/github/last-commit/bitpay/bitcore)](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
+* [Bitcoin Core](https://bitcoincore.org/) - direct descendant of the original Bitcoin implementation in C++
 
 ## Read
 * [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
@@ -191,6 +200,7 @@ A curated list of bitcoin services and tools for software developers
 * [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 * [Svrgnty.com: Everything Bitcoin](https://svrgnty.com/) A curated list of the best Bitcoin resources.
 * [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
+* [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning ressource for bitcoin developers
 ---
 
 Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list thing.
