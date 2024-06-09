@@ -493,7 +493,7 @@
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营��Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
@@ -598,7 +598,7 @@
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more ![GitHub Repo Stars](https://img.shields.io/github/stars/kadro/vue-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/kadro/vue-boilerplate)](https://github.com/kadro/vue-boilerplate)
 - [vue.js 与 laravel 结合的前后端分离开发模板 ![GitHub Repo Stars](https://img.shields.io/github/stars/wmhello/laravel_template_with_vue) ![GitHub last commit](https://img.shields.io/github/last-commit/wmhello/laravel_template_with_vue)](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
 - [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
-- [Vue Online Shopping Mall ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerDos/Mall-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerDos/Mall-Vue)](https://github.com/PowerDos/Mall-Vue) - A online shopping mall SPA demo, 基于 VUE 开发的前后端分离电子商城前端项目
+- [Vue Online Shopping Mall ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerDos/Mall-Vue) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerDos/Mall-Vue)](https://github.com/PowerDos/Mall-Vue) - A online shopping mall SPA demo, 基于 VUE 开发的前后端分离电子商城���端项目
 - [FUE ![GitHub Repo Stars](https://img.shields.io/github/stars/elaijuh/fue) ![GitHub last commit](https://img.shields.io/github/last-commit/elaijuh/fue)](https://github.com/elaijuh/fue) - Admin SPA client and server-side boilerplate with Vue.js + Vue Router + Vuex + Vuetify + FeathersJS
 - [Vue + TypeScript Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/ffxsam/vue-typescript-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/ffxsam/vue-typescript-cookbook)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 - [Vuejs Examples](https://vuejsexamples.com/)
