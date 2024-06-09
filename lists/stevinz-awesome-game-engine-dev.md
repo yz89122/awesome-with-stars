@@ -598,7 +598,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Gui
     - 🎉 [Avalonia ![GitHub Repo Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia) ![GitHub last commit](https://img.shields.io/github/last-commit/AvaloniaUI/Avalonia)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
     - 🎉 [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
-    - 🎉 [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
+    - ���� [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
@@ -1363,7 +1363,7 @@ _Resources to help bring video games and game engines alive._
 - Music
     - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - High-quality loops and packs used for music creation.
     - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
-    - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
+    - �� [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 - Sound Effects
