@@ -43,10 +43,10 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Community
 
+- [Discord](https://discord.gg/yuKCWxEy)
 - [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit)
 - [GitHub Discussions ![GitHub Repo Stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit/discussions)
 - [Twitter](https://twitter.com/buildWithLit)
-- [Slack](https://lit.dev/slack-invite/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 - [YouTube](https://www.youtube.com/channel/UCok4ZKSzM3jY7JQRMlF-DPg/)
 
