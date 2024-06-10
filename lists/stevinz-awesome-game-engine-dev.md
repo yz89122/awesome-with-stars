@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- �� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -393,7 +393,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [AnKi 3D Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/godlikepanos/anki-3d-engine)](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
     - 🔒 [Crown Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/crownengine/crown) ![GitHub last commit](https://img.shields.io/github/last-commit/crownengine/crown)](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
     - 🎉 [Crystal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/neelmewada/CrystalEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/neelmewada/CrystalEngine)](https://github.com/neelmewada/CrystalEngine) - Vulkan backend with PBR and styled GUI (_CrystalWidgets_).
-    - ��� [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
+    - 🎉 [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🔒 [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/BobbyAnguelov/Esoterica) ![GitHub last commit](https://img.shields.io/github/last-commit/BobbyAnguelov/Esoterica)](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
     - 🎉 [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/volcoma/EtherealEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/volcoma/EtherealEngine)](https://github.com/volcoma/EtherealEngine) - Cross-platform game engine and editor.
@@ -598,7 +598,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Gui
     - 🎉 [Avalonia ![GitHub Repo Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia) ![GitHub last commit](https://img.shields.io/github/last-commit/AvaloniaUI/Avalonia)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
     - 🎉 [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
-    - 🎉 [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
+    - ��� [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
