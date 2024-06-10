@@ -350,6 +350,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Code Deck](https://www.youtube.com/@codedeck)
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
 * [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
+* [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
 
 #### Style Guides
 
@@ -421,6 +422,7 @@ become an Angular expert.
 * [ngx-grapesjs ![GitHub Repo Stars](https://img.shields.io/github/stars/Developer-Plexscape/ngx-grapesjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Developer-Plexscape/ngx-grapesjs)](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [gojs-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/NorthwoodsSoftware/gojs-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/NorthwoodsSoftware/gojs-angular)](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 * [anguhashblog ![GitHub Repo Stars](https://img.shields.io/github/stars/AnguHashBlog/anguhashblog) ![GitHub last commit](https://img.shields.io/github/last-commit/AnguHashBlog/anguhashblog)](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
+* [angular-tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-tauri)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 
 #### Site Templates
 
@@ -446,6 +448,7 @@ become an Angular expert.
 * [zen ![GitHub Repo Stars](https://img.shields.io/github/stars/ZenSoftware/zen) ![GitHub last commit](https://img.shields.io/github/last-commit/ZenSoftware/zen)](https://github.com/ZenSoftware/zen) - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
 * [Colorlib](https://colorlib.com/wp/free-angular-templates/)
 * [HTMLrev](https://htmlrev.com/free-angular-templates.html)
+* [wails-template-angular-latest ![GitHub Repo Stars](https://img.shields.io/github/stars/mJehanno/wails-template-angular-latest) ![GitHub last commit](https://img.shields.io/github/last-commit/mJehanno/wails-template-angular-latest)](https://github.com/mJehanno/wails-template-angular-latest) - A generated [wails](https://wails.io) template, currently supports Angular 17.
 
 ##### Paid
 
@@ -952,6 +955,7 @@ for Bootstrap 5 & Angular 17.
 * [angular-audio-context ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-audio-context) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-audio-context)](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
 * [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
 * [angular-twitter-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/angular-twitter-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/angular-twitter-timeline)](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
+* [ng-parsel ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/ng-parsel) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/ng-parsel)](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 
 #### RxJS
 
