@@ -1693,7 +1693,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <span class="kd">var</span> <span class="nx">foo</span><span class="err">\</span><span class="nx">u200Cbar</span> <span class="o">=</span> <span class="mi">42</span><span class="p">;</span>
 
 <span class="c1">// This is *not* a bitwise left shift (`&lt;&lt;`):</span>
-<span class="kd">var</span> <span class="nx">〱</span><span class="err">��</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">〱〱</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
 <span class="c1">// This is, though:</span>
 <span class="nx">〱〱</span> <span class="o">&lt;&lt;</span> <span class="nx">〱〱</span><span class="p">;</span> <span class="c1">// 8</span>
 
@@ -1737,7 +1737,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <span class="nx">transformAllTags</span><span class="p">(</span><span class="dl">'</span><span class="s1">ᅠ</span><span class="dl">'</span><span class="p">);</span>
 
 <span class="c1">// An actual HTML element node designed to look like a comment node, using the U+01C3 LATIN LETTER RETROFLEX CLICK </span>
-<span class="c1">//	&lt;��-- name="viewport" content="width=device-width"&gt;&lt;/ǃ--&gt;</span>
+<span class="c1">//	&lt;ǃ-- name="viewport" content="width=device-width"&gt;&lt;/ǃ--&gt;</span>
 <span class="nx">transformAllTags</span><span class="p">(</span><span class="dl">'</span><span class="s1">ǃ--</span><span class="dl">'</span><span class="p">);</span>
 
 <span class="c1">// or even &lt;ᅠ⃝</span>
