@@ -411,14 +411,14 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1F8E](https://codepoints.net/U+1F8E?lang=en) | `ᾎ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI | `ἆ`, `ι`         | U+1F06, U+03B9         |
 | [U+1F8F](https://codepoints.net/U+1F8F?lang=en) | `ᾏ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI | `ἇ`, `ι`         | U+1F07, U+03B9         |
 | [U+1F90](https://codepoints.net/U+1F90?lang=en) | `ᾐ`       | GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI                      | `ἠ`, `ι`         | U+1F20, U+03B9         |
-| [U+1F91](https://codepoints.net/U+1F91?lang=en) | `ᾑ`       | GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI                      | `��`, `ι`         | U+1F21, U+03B9         |
+| [U+1F91](https://codepoints.net/U+1F91?lang=en) | `ᾑ`       | GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI                      | `ἡ`, `ι`         | U+1F21, U+03B9         |
 | [U+1F92](https://codepoints.net/U+1F92?lang=en) | `ᾒ`       | GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI            | `ἢ`, `ι`         | U+1F22, U+03B9         |
 | [U+1F93](https://codepoints.net/U+1F93?lang=en) | `ᾓ`       | GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI            | `ἣ`, `ι`         | U+1F23, U+03B9         |
 | [U+1F94](https://codepoints.net/U+1F94?lang=en) | `ᾔ`       | GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI             | `ἤ`, `ι`         | U+1F24, U+03B9         |
 | [U+1F95](https://codepoints.net/U+1F95?lang=en) | `ᾕ`       | GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI             | `ἥ`, `ι`         | U+1F25, U+03B9         |
 | [U+1F96](https://codepoints.net/U+1F96?lang=en) | `ᾖ`       | GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI      | `ἦ`, `ι`         | U+1F26, U+03B9         |
 | [U+1F97](https://codepoints.net/U+1F97?lang=en) | `ᾗ`       | GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI      | `ἧ`, `ι`         | U+1F27, U+03B9         |
-| [U+1F98](https://codepoints.net/U+1F98?lang=en) | `���`       | GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI                   | `ἠ`, `ι`         | U+1F20, U+03B9         |
+| [U+1F98](https://codepoints.net/U+1F98?lang=en) | `ᾘ`       | GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI                   | `ἠ`, `ι`         | U+1F20, U+03B9         |
 | [U+1F99](https://codepoints.net/U+1F99?lang=en) | `ᾙ`       | GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI                   | `ἡ`, `ι`         | U+1F21, U+03B9         |
 | [U+1F9A](https://codepoints.net/U+1F9A?lang=en) | `ᾚ`       | GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI         | `ἢ`, `ι`         | U+1F22, U+03B9         |
 | [U+1F9B](https://codepoints.net/U+1F9B?lang=en) | `ᾛ`       | GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI         | `ἣ`, `ι`         | U+1F23, U+03B9         |
@@ -595,7 +595,7 @@ var Ꙭൽↈⴱ = 'huh';
 var foo\u200Cbar = 42;
 
 // This is *not* a bitwise left shift (`<<`):
-var ���〱 = 2;
+var 〱〱 = 2;
 // This is, though:
 〱〱 << 〱〱; // 8
 
