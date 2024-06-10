@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -495,7 +495,7 @@ _Language specific game engine development libraries / frameworks / code._
     - ⭐ [RmlUi ![GitHub Repo Stars](https://img.shields.io/github/stars/mikke89/RmlUi) ![GitHub last commit](https://img.shields.io/github/last-commit/mikke89/RmlUi)](https://github.com/mikke89/RmlUi) - Turns HTML / CSS source files into vertices and draw commands. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
     - ⭐ [Turbo Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/fruxo/turbobadger) ![GitHub last commit](https://img.shields.io/github/last-commit/fruxo/turbobadger)](https://github.com/fruxo/turbobadger) - Gui library for hardware accelerated apps & games. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
     - 🔒 [Wt ![GitHub Repo Stars](https://img.shields.io/github/stars/emweb/wt) ![GitHub last commit](https://img.shields.io/github/last-commit/emweb/wt)](https://github.com/emweb/wt) - Web gui library in modern C++. [[Website](https://www.webtoolkit.eu/wt)]
-    - 🔒 [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
+    - ���� [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
 - C++: Input
     - 🎉 [Gainput ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/gainput) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/gainput)](https://github.com/jkuhlmann/gainput) - Easy to use input library.
     - 🎉 [OIS ![GitHub Repo Stars](https://img.shields.io/github/stars/wgois/OIS) ![GitHub last commit](https://img.shields.io/github/last-commit/wgois/OIS)](https://github.com/wgois/OIS) - Object-oriented input system. Compatiable with many operating systems.
@@ -1016,7 +1016,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Vulkano ![GitHub Repo Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![GitHub last commit](https://img.shields.io/github/last-commit/vulkano-rs/vulkano)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 - Rust: Gui
     - 🔒 [Azul ![GitHub Repo Stars](https://img.shields.io/github/stars/fschutt/azul) ![GitHub last commit](https://img.shields.io/github/last-commit/fschutt/azul)](https://github.com/fschutt/azul) - Desktop gui framework.
-    - 🎉 [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
+    - ��� [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
     - 🎉 [Druid ![GitHub Repo Stars](https://img.shields.io/github/stars/linebender/druid) ![GitHub last commit](https://img.shields.io/github/last-commit/linebender/druid)](https://github.com/linebender/druid) - Data-first gui design toolkit.
     - 🎉 [egui ![GitHub Repo Stars](https://img.shields.io/github/stars/emilk/egui) ![GitHub last commit](https://img.shields.io/github/last-commit/emilk/egui)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. [[Demo](https://www.egui.rs/)]
     - 🔒 [Slint ![GitHub Repo Stars](https://img.shields.io/github/stars/slint-ui/slint) ![GitHub last commit](https://img.shields.io/github/last-commit/slint-ui/slint)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly _SixtyFPS_. [[Website](https://slint-ui.com/)]
