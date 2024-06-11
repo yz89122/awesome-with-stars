@@ -23,7 +23,6 @@ Follow [@fregante](https://fregante.com) for more webext-related news.
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
 - [Safari Extensions documentation](https://developer.apple.com/safari/extensions/) - Developer documentation on building Safari extensions. Technically not WebExtensions, the API is completely different.
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
-- [Porting Chrome Extensions to Firefox](https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
 - [Browser Extension Standard](https://browserext.github.io/browserext/) - Standard for the API, supported by Mozilla, Opera and Microsoft.
 
 ## Community
@@ -64,6 +63,7 @@ Apps that help you manage your extensions.
 - [webextension-manifest-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/jsmnbom/webextension-manifest-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/jsmnbom/webextension-manifest-loader)](https://github.com/jsmnbom/webextension-manifest-loader) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
 - [webpack-extension-reloader ![GitHub Repo Stars](https://img.shields.io/github/stars/rubenspgcavalcante/webpack-extension-reloader) ![GitHub last commit](https://img.shields.io/github/last-commit/rubenspgcavalcante/webpack-extension-reloader)](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A Webpack plugin to automatically reload browser extensions during development.
 - [webpack-target-webextension ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-webextension/webpack-target-webextension) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-webextension/webpack-target-webextension)](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
+- [Extension.js ![GitHub Repo Stars](https://img.shields.io/github/stars/cezaraugusto/extension.js) ![GitHub last commit](https://img.shields.io/github/last-commit/cezaraugusto/extension.js)](https://github.com/cezaraugusto/extension.js) - Plug-and-play, zero-config, cross-browser extension development tool.
 
 ## Testing
 
