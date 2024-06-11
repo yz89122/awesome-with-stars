@@ -782,6 +782,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [pluffie/md-babel.nvim](https://codeberg.org/pluffie/md-babel.nvim) - Run code chunks from Markdown files, like org-babel.
 - [mistricky/codesnap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mistricky/codesnap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mistricky/codesnap.nvim)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 - [AlejandroSuero/freeze-code.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/AlejandroSuero/freeze-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/AlejandroSuero/freeze-code.nvim)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/freeze) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/freeze)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
+- [ysmb-wtsg/in-and-out.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ysmb-wtsg/in-and-out.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ysmb-wtsg/in-and-out.nvim)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
 
 ### CSV Files
 
