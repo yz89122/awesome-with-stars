@@ -32,6 +32,8 @@ GeoJSON utilities that will make your life easier.
 * [geojson-polygon-labels ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewharvey/geojson-polygon-labels) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewharvey/geojson-polygon-labels)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 * [geojsontools ![GitHub Repo Stars](https://img.shields.io/github/stars/micolous/geojsontools) ![GitHub last commit](https://img.shields.io/github/last-commit/micolous/geojsontools)](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
 * [geojson-indoor-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/armanjr/geojson-indoor-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/armanjr/geojson-indoor-tools)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
+* [geojson-shave ![GitHub Repo Stars](https://img.shields.io/github/stars/ben-n93/geojson-shave) ![GitHub last commit](https://img.shields.io/github/last-commit/ben-n93/geojson-shave)](https://github.com/ben-n93/geojson-shave): a Python command-line tool for reducing the size of GeoJSON files.
+
 
 
 ### editors & viewers
