@@ -44,6 +44,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
+  * [Cloud Storage](#cloud-storage)
   * [Database](#database)
   * [Database Drivers](#database-drivers)
   * [DateTime](#datetime)
@@ -154,7 +155,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FFImageLoading - Fast & Furious Image Loading ![GitHub Repo Stars](https://img.shields.io/github/stars/luberda-molinet/FFImageLoading) ![GitHub last commit](https://img.shields.io/github/last-commit/luberda-molinet/FFImageLoading)](https://github.com/luberda-molinet/FFImageLoading) - This Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms, Xamarin.Mac / Xamarin.Tizen and Windows (UWP, WinRT)
 * [Ocelot ![GitHub Repo Stars](https://img.shields.io/github/stars/ThreeMammals/Ocelot) ![GitHub last commit](https://img.shields.io/github/last-commit/ThreeMammals/Ocelot)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * [CommandQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/CommandQuery) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/CommandQuery)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
-* [Cloud Storage ![GitHub Repo Stars](https://img.shields.io/github/stars/managedcode/Storage) ![GitHub last commit](https://img.shields.io/github/last-commit/managedcode/Storage)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
 
 ## Application Frameworks
 
@@ -384,6 +384,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SecurityDriven.Inferno ![GitHub Repo Stars](https://img.shields.io/github/stars/sdrapkin/SecurityDriven.Inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/sdrapkin/SecurityDriven.Inferno)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 * [CryptoNet ![GitHub Repo Stars](https://img.shields.io/github/stars/maythamfahmi/CryptoNet) ![GitHub last commit](https://img.shields.io/github/last-commit/maythamfahmi/CryptoNet)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
+## Cloud Storage
+
+* [Foundatio ![GitHub Repo Stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio) ![GitHub last commit](https://img.shields.io/github/last-commit/FoundatioFx/Foundatio)](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
+* [FluentStorage ![GitHub Repo Stars](https://img.shields.io/github/stars/robinrodricks/FluentStorage) ![GitHub last commit](https://img.shields.io/github/last-commit/robinrodricks/FluentStorage)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
+* [Stowage ![GitHub Repo Stars](https://img.shields.io/github/stars/aloneguid/stowage) ![GitHub last commit](https://img.shields.io/github/last-commit/aloneguid/stowage)](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
+* [Cloud Storage ![GitHub Repo Stars](https://img.shields.io/github/stars/managedcode/Storage) ![GitHub last commit](https://img.shields.io/github/last-commit/managedcode/Storage)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
+
 ## Database
 
 * [SliccDB ![GitHub Repo Stars](https://img.shields.io/github/stars/pmikstacki/SliccDB) ![GitHub last commit](https://img.shields.io/github/last-commit/pmikstacki/SliccDB)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
@@ -415,8 +422,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cassandra ![GitHub Repo Stars](https://img.shields.io/github/stars/datastax/csharp-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/datastax/csharp-driver)](https://github.com/datastax/csharp-driver) - DataStax .NET driver for Apache Cassandra
 * [Couchbase ![GitHub Repo Stars](https://img.shields.io/github/stars/couchbase/couchbase-net-client) ![GitHub last commit](https://img.shields.io/github/last-commit/couchbase/couchbase-net-client)](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
-* [FluentStorage ![GitHub Repo Stars](https://img.shields.io/github/stars/robinrodricks/FluentStorage) ![GitHub last commit](https://img.shields.io/github/last-commit/robinrodricks/FluentStorage)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
-* [Stowage ![GitHub Repo Stars](https://img.shields.io/github/stars/aloneguid/stowage) ![GitHub last commit](https://img.shields.io/github/last-commit/aloneguid/stowage)](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
 
 ## Datetime
 
@@ -449,7 +454,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Akka.net ![GitHub Repo Stars](https://img.shields.io/github/stars/akkadotnet/akka.net) ![GitHub last commit](https://img.shields.io/github/last-commit/akkadotnet/akka.net)](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community-driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
 * [Zebus ![GitHub Repo Stars](https://img.shields.io/github/stars/Abc-Arbitrage/Zebus) ![GitHub last commit](https://img.shields.io/github/last-commit/Abc-Arbitrage/Zebus)](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 * [FsShelter ![GitHub Repo Stars](https://img.shields.io/github/stars/Prolucid/FsShelter) ![GitHub last commit](https://img.shields.io/github/last-commit/Prolucid/FsShelter)](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
-* [Foundatio ![GitHub Repo Stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio) ![GitHub last commit](https://img.shields.io/github/last-commit/FoundatioFx/Foundatio)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 * [MBrace](https://github.com/mbraceproject) - Integrated Data Scripting for the Cloud
 * [protoactor-dotnet ![GitHub Repo Stars](https://img.shields.io/github/stars/AsynkronIT/protoactor-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/AsynkronIT/protoactor-dotnet)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
