@@ -428,7 +428,7 @@
 - [rasulomaroff/reactive.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rasulomaroff/reactive.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rasulomaroff/reactive.nvim)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 - [moyiz/command-and-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/moyiz/command-and-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/moyiz/command-and-cursor.nvim)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 - [rachartier/tiny-devicons-auto-colors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-devicons-auto-colors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-devicons-auto-colors.nvim)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
-  
+
 ## Colorscheme
 
 ### Tree-sitter Supported Colorscheme
@@ -877,6 +877,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [pianocomposer321/officer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pianocomposer321/officer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pianocomposer321/officer.nvim)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 - [speelbarrow/spLauncher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/speelbarrow/spLauncher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/speelbarrow/spLauncher.nvim)](https://github.com/speelbarrow/spLauncher.nvim) - For launching tasks, I guess.
 - [al1-ce/just.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/al1-ce/just.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/al1-ce/just.nvim)](https://github.com/al1-ce/just.nvim) - Task runner for justfiles.
+- [niuiic/task.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/task.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/task.nvim)](https://github.com/niuiic/task.nvim) - Another highly configurable task manager that enables seamless interaction with tasks.
 
 ## Neovim Lua Development
 
