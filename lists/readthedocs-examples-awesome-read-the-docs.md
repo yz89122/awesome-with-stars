@@ -42,7 +42,6 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [MkDocs projects](#mkdocs-projects)
 - [API Reference](#api-reference)
 - [Science projects](#science-projects)
-- [Example projects](#example-projects)
 - [Tag cloud](#tag-cloud)
 
 <!-- CONTENT -->
@@ -87,12 +86,6 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [TomoBank](https://tomobank.readthedocs.io/) - A big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx**.
 
 <!-- END CONTENT -->
-
-## Example projects
-
-- [Basic Sphinx example ![GitHub Repo Stars](https://img.shields.io/github/stars/readthedocs-examples/example-sphinx-basic) ![GitHub last commit](https://img.shields.io/github/last-commit/readthedocs-examples/example-sphinx-basic)](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
-- [Basic MkDocs example ![GitHub Repo Stars](https://img.shields.io/github/stars/readthedocs-examples/example-mkdocs-basic) ![GitHub last commit](https://img.shields.io/github/last-commit/readthedocs-examples/example-mkdocs-basic)](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
-- [Jupyter Book example ![GitHub Repo Stars](https://img.shields.io/github/stars/readthedocs-examples/example-jupyter-book) ![GitHub last commit](https://img.shields.io/github/last-commit/readthedocs-examples/example-jupyter-book)](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-notebook** **#sphinx**.
 
 ## Tag cloud
 
