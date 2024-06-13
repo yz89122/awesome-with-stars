@@ -79,6 +79,9 @@ that the library allows to generate QR codes.
 
 - [sylnsfar/qrcode `W` ![GitHub Repo Stars](https://img.shields.io/github/stars/sylnsfar/qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/sylnsfar/qrcode)](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
 
+### Ruby
+- [rqrcode `W` ![GitHub Repo Stars](https://img.shields.io/github/stars/whomwah/rqrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/whomwah/rqrcode)](https://github.com/whomwah/rqrcode) - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
+
 ### Objective-C
 
 - [SGQRCode `R` ![GitHub Repo Stars](https://img.shields.io/github/stars/kingsic/SGQRCode) ![GitHub last commit](https://img.shields.io/github/last-commit/kingsic/SGQRCode)](https://github.com/kingsic/SGQRCode) - Easy to use QR code scan library for iOS.

@@ -165,7 +165,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Orca](https://100r.co/site/orca.html) - Live coding environment to quickly create procedural sequencers.
 - [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
 - [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
-- [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
+- [Melrōse](https://melr��se.org/) - A MIDI producing environment for creating (live) music.
 - [Glicol](https://glicol.org) - Graph-oriented live coding language and music/audio DSP library written in Rust.
 
 ### Web Programming • Libraries
