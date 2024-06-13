@@ -201,7 +201,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Let's build a compiler in Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/mkchoi212/LBAC-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/mkchoi212/LBAC-Swift)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟 
 * [Register VM ![GitHub Repo Stars](https://img.shields.io/github/stars/brianhill/register-vm-in-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/brianhill/register-vm-in-swift)](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dimsumthinking/TurtlePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dimsumthinking/TurtlePlayground)](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳
-* [Swift Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/xavieryao/Swift-Brainfuck) ![GitHub last commit](https://img.shields.io/github/last-commit/xavieryao/Swift-Brainfuck)](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ��
+* [Swift Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/xavieryao/Swift-Brainfuck) ![GitHub last commit](https://img.shields.io/github/last-commit/xavieryao/Swift-Brainfuck)](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳
 
 ### Machine Learning
 
@@ -260,7 +260,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Bach Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamwieber/BachPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamwieber/BachPlayground)](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [PlayerNode Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/genedelisa/PlayerNodePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/genedelisa/PlayerNodePlayground)](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
 * [Miles ![GitHub Repo Stars](https://img.shields.io/github/stars/lalomts/Miles) ![GitHub last commit](https://img.shields.io/github/last-commit/lalomts/Miles)](https://github.com/lalomts/Miles) - A Swift Playground that creates jazz improvisations in any key using AudioToolbox and AVFoundation. 
-* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.��
+* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
 
 ## Mathematics
