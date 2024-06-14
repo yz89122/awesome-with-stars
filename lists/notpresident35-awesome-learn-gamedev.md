@@ -393,7 +393,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [The Book of Shaders](https://thebookofshaders.com/00/) 🟪 - A book on GLSL pixel shaders.
 
 
-[Catlike Coding](https://catlikecoding.com/unity/tutorials/) ���� - Unity and HLSL Shader Tutorials.
+[Catlike Coding](https://catlikecoding.com/unity/tutorials/) 🟪 - Unity and HLSL Shader Tutorials.
 
 [Shadertoy](https://www.shadertoy.com/) - An online shader editor and hosting/sharing site.
 
