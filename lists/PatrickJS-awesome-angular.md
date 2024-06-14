@@ -75,6 +75,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Layout Components](#layout-components)
   * [Loaders](#loaders)
   * [Maps](#maps)
+  * [Markdown](#markdown)
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
@@ -255,6 +256,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Tomas Trajan](https://tomastrajan.medium.com/)
 * [Igor Katsuba](https://blog.katsuba.dev/)
 * [ng serve](https://www.ngserve.io/)
+* [Tomasz Ducin](https://ducin.dev/blog)
 
 ##### Books
 
@@ -271,6 +273,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
 * [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 * [Angular Design Patterns and Best Practices ![GitHub Repo Stars](https://img.shields.io/github/stars/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) ![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Angular-Design-Patterns-and-Best-Practices)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
+* [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 
 ##### Cheatsheet
 
@@ -440,6 +443,7 @@ become an Angular expert.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [angularx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/cordobo/angularx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/cordobo/angularx-qrcode)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
+* [create-tauri-app ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/create-tauri-app) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/create-tauri-app)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 
 ##### Spring Boot
 
@@ -724,8 +728,6 @@ become an Angular expert.
 * [ngx-simple-text-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/Raiper34/ngx-simple-text-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Raiper34/ngx-simple-text-editor)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 * [ngx-quill ![GitHub Repo Stars](https://img.shields.io/github/stars/KillerCodeMonkey/ngx-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/KillerCodeMonkey/ngx-quill)](https://github.com/KillerCodeMonkey/ngx-quill) - Angular (>=2) components for the Quill Rich Text Editor.
 * [ngx-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/ngx-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/ngx-editor)](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
-* [ngx-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/instance-oom/ngx-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/instance-oom/ngx-markdown-editor)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
-* [angular-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/angular-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/angular-markdown-editor)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [code-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ngstack/code-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ngstack/code-editor)](https://github.com/ngstack/code-editor) - Code editor component for Angular applications.
 * [ngx-wig ![GitHub Repo Stars](https://img.shields.io/github/stars/stevermeister/ngx-wig) ![GitHub last commit](https://img.shields.io/github/last-commit/stevermeister/ngx-wig)](https://github.com/stevermeister/ngx-wig) - Angular(also Angular 17) WYSIWYG HTML Rich Text Editor.
 * [ngx-monaco-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/jean-merelis/ngx-monaco-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/jean-merelis/ngx-monaco-editor)](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
@@ -868,6 +870,13 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-maplibre-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/maplibre/ngx-maplibre-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/maplibre/ngx-maplibre-gl)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
+#### Markdown
+
+* [ngx-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/jfcere/ngx-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/jfcere/ngx-markdown)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
+* [ngx-remark ![GitHub Repo Stars](https://img.shields.io/github/stars/ericleib/ngx-remark) ![GitHub last commit](https://img.shields.io/github/last-commit/ericleib/ngx-remark)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+* [ngx-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/instance-oom/ngx-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/instance-oom/ngx-markdown-editor)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
+* [angular-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/angular-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/angular-markdown-editor)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
+
 #### Mixed utilities
 
 * [rx-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/rx-angular/rx-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/rx-angular/rx-angular)](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
@@ -886,7 +895,6 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ts-cacheable ![GitHub Repo Stars](https://img.shields.io/github/stars/angelnikolov/ts-cacheable) ![GitHub last commit](https://img.shields.io/github/last-commit/angelnikolov/ts-cacheable)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
 * [ngxtension-platform ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxtension/ngxtension-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxtension/ngxtension-platform)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 * [spartan ![GitHub Repo Stars](https://img.shields.io/github/stars/goetzrobin/spartan) ![GitHub last commit](https://img.shields.io/github/last-commit/goetzrobin/spartan)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
-* [ngx-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/jfcere/ngx-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/jfcere/ngx-markdown)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 * [ngify ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 
 #### Modals
