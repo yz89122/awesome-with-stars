@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -531,7 +531,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Boost.PFR ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/pfr) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/pfr)](https://github.com/boostorg/pfr) - Basic reflection C++14 library, part of the Boost Libraries.
     - 🎉 [Magic Enum ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/magic_enum) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/magic_enum)](https://github.com/Neargye/magic_enum) - Header-only C++17, provides static reflection for enums.
     - 🎉 [Meta ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/meta)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
-    - ��� [Nameof ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/nameof) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/nameof)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
+    - 🎉 [Nameof ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/nameof) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/nameof)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
     - 🎉 [Ponder ![GitHub Repo Stars](https://img.shields.io/github/stars/billyquith/ponder) ![GitHub last commit](https://img.shields.io/github/last-commit/billyquith/ponder)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
     - 🎉 [Reflect ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/reflect) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/reflect)](https://github.com/stevinz/reflect) - Small, flexible, single-header library for runtime reflection and meta data in C++11.
     - 🎉 [RTTR ![GitHub Repo Stars](https://img.shields.io/github/stars/rttrorg/rttr) ![GitHub last commit](https://img.shields.io/github/last-commit/rttrorg/rttr)](https://github.com/rttrorg/rttr) - Reflection for C++11.
@@ -1016,7 +1016,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Vulkano ![GitHub Repo Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![GitHub last commit](https://img.shields.io/github/last-commit/vulkano-rs/vulkano)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 - Rust: Gui
     - 🔒 [Azul ![GitHub Repo Stars](https://img.shields.io/github/stars/fschutt/azul) ![GitHub last commit](https://img.shields.io/github/last-commit/fschutt/azul)](https://github.com/fschutt/azul) - Desktop gui framework.
-    - �� [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
+    - 🎉 [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
     - 🎉 [Druid ![GitHub Repo Stars](https://img.shields.io/github/stars/linebender/druid) ![GitHub last commit](https://img.shields.io/github/last-commit/linebender/druid)](https://github.com/linebender/druid) - Data-first gui design toolkit.
     - 🎉 [egui ![GitHub Repo Stars](https://img.shields.io/github/stars/emilk/egui) ![GitHub last commit](https://img.shields.io/github/last-commit/emilk/egui)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. [[Demo](https://www.egui.rs/)]
     - 🔒 [Slint ![GitHub Repo Stars](https://img.shields.io/github/stars/slint-ui/slint) ![GitHub last commit](https://img.shields.io/github/last-commit/slint-ui/slint)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly _SixtyFPS_. [[Website](https://slint-ui.com/)]
