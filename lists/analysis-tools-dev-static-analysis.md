@@ -720,7 +720,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [TypL](https://typl.dev) :warning: — With TypL, you just write completely standard JS, and the tool figures out your types via powerful inferencing.
 
-- [xo ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo) — Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
+- [xo ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo) ��� Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
 
 - [yardstick ![GitHub Repo Stars](https://img.shields.io/github/stars/calmh/yardstick) ![GitHub last commit](https://img.shields.io/github/last-commit/calmh/yardstick)](https://github.com/calmh/yardstick) :warning: — Javascript code metrics.
 
