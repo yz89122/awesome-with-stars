@@ -273,7 +273,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [z.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/skywind3000/z.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/skywind3000/z.lua)](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
 * [zoxide ![GitHub Repo Stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide) ![GitHub last commit](https://img.shields.io/github/last-commit/ajeetdsouza/zoxide)](https://github.com/ajeetdsouza/zoxide) - cd anywhere without typing in long paths.
 
-**[⬆ back to top](#table-of-contents)**
+**[��� back to top](#table-of-contents)**
 
 ## Communication
 
