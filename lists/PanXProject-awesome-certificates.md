@@ -77,7 +77,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
 | [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
 | [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | [🏅](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc) |
-| [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security) | Great Learning | Beginner | 3 | 🏆 |
+| [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security) | Great Learning | Beginner | 3 | ���� |
 | [Types of Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security) | Great Learning | Beginner | 1 | 🏆 |
 | [Cyber Forensics](https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-forensics) | Great Learning | Beginner | 1 | 🏆 |
 | [Introduction to Information Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security) | Great Learning | Beginner | 2 | 🏆 |
