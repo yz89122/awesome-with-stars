@@ -27,7 +27,7 @@ document**.
 
 ## Word Processors
 
-- [Marktext](https://marktext.app/) - Markdown text editor.
+- [Marktext ![GitHub Repo Stars](https://img.shields.io/github/stars/marktext/marktext) ![GitHub last commit](https://img.shields.io/github/last-commit/marktext/marktext)](https://github.com/marktext/marktext) - Markdown text editor.
 - [R Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/rstudio/rstudio) ![GitHub last commit](https://img.shields.io/github/last-commit/rstudio/rstudio)](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown ![GitHub Repo Stars](https://img.shields.io/github/stars/rstudio/bookdown) ![GitHub last commit](https://img.shields.io/github/last-commit/rstudio/bookdown)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
