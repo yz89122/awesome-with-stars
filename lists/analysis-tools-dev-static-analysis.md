@@ -17,18 +17,18 @@ This project would not be possible without the generous support of our sponsors.
 <table>
    <tr>
       <td>
-         <a href="https://www.bearer.com">
-            <picture >
-               <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/bearer-dark.svg">
-               <img width="200px" alt="Bearer" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/bearer-light.svg">
-            </picture>
-         </a>
-      </td>
-      <td>
          <a href="https://bugprove.com">
             <picture >
                <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/bugprove-dark.svg">
                <img width="200px" alt="BugProve" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/bugprove-light.svg">
+            </picture>
+         </a>
+      </td>
+      <td>
+         <a href="https://www.betterscan.io">
+            <picture >
+               <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/betterscan-dark.svg">
+               <img width="200px" alt="Betterscan" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/betterscan-light.svg">
             </picture>
          </a>
       </td>
@@ -40,9 +40,16 @@ This project would not be possible without the generous support of our sponsors.
             </picture>
          </a>
       </td>
-      <td><a href="https://codescene.com/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/codescene.svg" /></a></td>
-      <td><a href="https://semgrep.dev/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/semgrep.svg" /></a></td>
-      <td><a href="https://offensive360.com/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/offensive360.png" /></a></td>
+      <td>
+         <a href="https://semgrep.dev/">
+            <img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/semgrep.svg" />
+         </a>
+      </td>
+      <td>
+         <a href="https://offensive360.com/">
+            <img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/offensive360.png" />
+         </a>
+      </td>
    </tr>
 </table>
 
@@ -513,7 +520,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [goast ![GitHub Repo Stars](https://img.shields.io/github/stars/m-mizutani/goast) ![GitHub last commit](https://img.shields.io/github/last-commit/m-mizutani/goast)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
-- [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
+- [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) :warning: — Checks that no globals are present.
 
 - [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
@@ -956,7 +963,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [deal](https://deal.readthedocs.io/) — Design by contract for Python. Write bug-free code.  By adding a few decorators to your code, you get for free tests, static analysis, formal verification, and much more.
 
-- [Dlint ![GitHub Repo Stars](https://img.shields.io/github/stars/dlint-py/dlint) ![GitHub last commit](https://img.shields.io/github/last-commit/dlint-py/dlint)](https://github.com/dlint-py/dlint) :warning: — A tool for ensuring Python code is secure.
+- [Dlint ![GitHub Repo Stars](https://img.shields.io/github/stars/dlint-py/dlint) ![GitHub last commit](https://img.shields.io/github/last-commit/dlint-py/dlint)](https://github.com/dlint-py/dlint) — A tool for ensuring Python code is secure.
 
 - [Dodgy ![GitHub Repo Stars](https://img.shields.io/github/stars/landscapeio/dodgy) ![GitHub last commit](https://img.shields.io/github/last-commit/landscapeio/dodgy)](https://github.com/landscapeio/dodgy) — Dodgy is a very basic tool to run against your codebase to search for "dodgy" looking values. It is a series of simple regular expressions designed to detect things such as accidental SCM diff checkins, or passwords or secret keys hard coded into files.
 
@@ -1350,7 +1357,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
 
-- [Betterscan CE ![GitHub Repo Stars](https://img.shields.io/github/stars/marcinguy/betterscan-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/marcinguy/betterscan-ce)](https://github.com/marcinguy/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
+- [Betterscan CE ![GitHub Repo Stars](https://img.shields.io/github/stars/tcosolutions/betterscan-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/tcosolutions/betterscan-ce)](https://github.com/tcosolutions/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
 
 - [biome](https://biomejs.dev) — A toolchain for web projects, aimed to provide functionalities to maintain them. Biome formats and lints code in a fraction of a second. It is the successor to Rome. It is designed to eventually replace Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and others.
 
@@ -1451,7 +1458,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Hound CI](https://houndci.com) — Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 
-- [imhotep ![GitHub Repo Stars](https://img.shields.io/github/stars/justinabrahms/imhotep) ![GitHub last commit](https://img.shields.io/github/last-commit/justinabrahms/imhotep)](https://github.com/justinabrahms/imhotep) — Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
+- [imhotep ![GitHub Repo Stars](https://img.shields.io/github/stars/justinabrahms/imhotep) ![GitHub last commit](https://img.shields.io/github/last-commit/justinabrahms/imhotep)](https://github.com/justinabrahms/imhotep) :warning: — Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
 
 - [include-gardener ![GitHub Repo Stars](https://img.shields.io/github/stars/feddischson/include_gardener) ![GitHub last commit](https://img.shields.io/github/last-commit/feddischson/include_gardener)](https://github.com/feddischson/include_gardener) :warning: — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 
@@ -1582,7 +1589,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Understand](https://www.scitools.com) :copyright: — Code visualization tool that provides code analysis, standards testing, metrics, graphing, dependency analysis and more for Ada, VHDL, and others.
 
-- [Unibeautify](https://unibeautify.com) — Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more.
+- [Unibeautify](https://unibeautify.com) :warning: — Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more.
 
 - [Upsource](https://www.jetbrains.com/upsource) :copyright: — Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.
 
@@ -2091,7 +2098,7 @@ but with the following improvements:
 
 - [promformat ![GitHub Repo Stars](https://img.shields.io/github/stars/facetoe/promformat) ![GitHub last commit](https://img.shields.io/github/last-commit/facetoe/promformat)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
 
-- [promval ![GitHub Repo Stars](https://img.shields.io/github/stars/facetoe/promval) ![GitHub last commit](https://img.shields.io/github/last-commit/facetoe/promval)](https://github.com/facetoe/promval) — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
+- [promval ![GitHub Repo Stars](https://img.shields.io/github/stars/facetoe/promval) ![GitHub last commit](https://img.shields.io/github/last-commit/facetoe/promval)](https://github.com/facetoe/promval) :warning: — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 
 <a name="protobuf" />
