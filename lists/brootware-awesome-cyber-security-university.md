@@ -334,7 +334,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://brootware.github.io"><img src="https://avatars.githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://github.com/brootware/cyber-security-university/commits?author=brootware" title="Documentation">📖</a> <a href="https://github.com/brootware/cyber-security-university/commits?author=brootware" title="Code">💻</a></td>
-    <td align="center"><a href="https://lucidcode.com"><img src="https://avatars.githubusercontent.com/u/1631870?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Paul Coder</b></sub></a><br /><a href="https://github.com/brootware/cyber-security-university/commits?author=IAmCoder" title="Documentation">����</a></td>
+    <td align="center"><a href="https://lucidcode.com"><img src="https://avatars.githubusercontent.com/u/1631870?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Paul Coder</b></sub></a><br /><a href="https://github.com/brootware/cyber-security-university/commits?author=IAmCoder" title="Documentation">📖</a></td>
   </tr>
 </table>
 
