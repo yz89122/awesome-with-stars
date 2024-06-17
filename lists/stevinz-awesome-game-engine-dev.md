@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -669,7 +669,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Flixel-Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/Dovyski/flixel-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/Dovyski/flixel-studio)](https://github.com/Dovyski/flixel-studio) - Embeddable, in-game editor for _HaxeFlixel_.
     - 🎉 [Hide ![GitHub Repo Stars](https://img.shields.io/github/stars/heapsio/hide) ![GitHub last commit](https://img.shields.io/github/last-commit/heapsio/hide)](https://github.com/heapsio/hide) - Extensible IDE for the _Heaps_ 3D graphic engine.
     - 🎉 [LDtk ![GitHub Repo Stars](https://img.shields.io/github/stars/deepnight/ldtk) ![GitHub last commit](https://img.shields.io/github/last-commit/deepnight/ldtk)](https://github.com/deepnight/ldtk) 🔥 - Modern, lightweight and efficient 2D level editor. [[Website](https://ldtk.io)]
-    - ��� [Starling ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/starling) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/starling)](https://github.com/openfl/starling) - Popular (_Angry Birds_) 2D game engine built on _OpenFL_. [[Editor](http://starlingbuilder.github.io) | [Website](https://gamua.com/starling/)]
+    - 🎉 [Starling ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/starling) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/starling)](https://github.com/openfl/starling) - Popular (_Angry Birds_) 2D game engine built on _OpenFL_. [[Editor](http://starlingbuilder.github.io) | [Website](https://gamua.com/starling/)]
 - Haxe: Game Framework
     - 🎉 [Ceramic ![GitHub Repo Stars](https://img.shields.io/github/stars/ceramic-engine/ceramic) ![GitHub last commit](https://img.shields.io/github/last-commit/ceramic-engine/ceramic)](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework. [[Examples](https://ceramic-engine.com/examples/)]
     - 🎉 [Citrus ![GitHub Repo Stars](https://img.shields.io/github/stars/DaVikingCode/Citrus-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/DaVikingCode/Citrus-Engine)](https://github.com/DaVikingCode/Citrus-Engine) - ActionScript 3 based 2D/3D framework. [[Website](http://citrusengine.com/)]
