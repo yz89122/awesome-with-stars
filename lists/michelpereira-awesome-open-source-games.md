@@ -239,6 +239,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Native
 
 ### Action
+- [Hypersomnia ![GitHub Repo Stars](https://img.shields.io/github/stars/TeamHypersomnia/Hypersomnia) ![GitHub last commit](https://img.shields.io/github/last-commit/TeamHypersomnia/Hypersomnia)](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
 - [OpenTomb ![GitHub Repo Stars](https://img.shields.io/github/stars/opentomb/OpenTomb) ![GitHub last commit](https://img.shields.io/github/last-commit/opentomb/OpenTomb)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
 
 ### Arcade
@@ -300,11 +301,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Freeablo ![GitHub Repo Stars](https://img.shields.io/github/stars/wheybags/freeablo) ![GitHub last commit](https://img.shields.io/github/last-commit/wheybags/freeablo)](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
 - [NetHack ![GitHub Repo Stars](https://img.shields.io/github/stars/NetHack/NetHack) ![GitHub last commit](https://img.shields.io/github/last-commit/NetHack/NetHack)](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
 - [OpenMW ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMW/openmw) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMW/openmw)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
+- [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) - An open source game based on the source code of Pixel Dungeon by Watabou.
 - [The Legend of Zelda: Mystery of Solarus DX ![GitHub Repo Stars](https://img.shields.io/github/stars/christopho/zsdx) ![GitHub last commit](https://img.shields.io/github/last-commit/christopho/zsdx)](https://github.com/christopho/zsdx) - Sequel to The Legend of Zelda: A Link to the Past released on the SNES.
 - [Valyria Tear ![GitHub Repo Stars](https://img.shields.io/github/stars/Bertram25/ValyriaTear) ![GitHub last commit](https://img.shields.io/github/last-commit/Bertram25/ValyriaTear)](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
 
 ### Platform
 
+- [AAAAXY ![GitHub Repo Stars](https://img.shields.io/github/stars/divVerent/aaaaxy) ![GitHub last commit](https://img.shields.io/github/last-commit/divVerent/aaaaxy)](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [Captain Holetooth ![GitHub Repo Stars](https://img.shields.io/github/stars/hirnbix/captain-holetooth) ![GitHub last commit](https://img.shields.io/github/last-commit/hirnbix/captain-holetooth)](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 - [Commander Genius ![GitHub Repo Stars](https://img.shields.io/github/stars/gerstrong/Commander-Genius) ![GitHub last commit](https://img.shields.io/github/last-commit/gerstrong/Commander-Genius)](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 - [DDraceNetwork ![GitHub Repo Stars](https://img.shields.io/github/stars/ddnet/ddnet) ![GitHub last commit](https://img.shields.io/github/last-commit/ddnet/ddnet)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
@@ -373,6 +376,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Last Colony ![GitHub Repo Stars](https://img.shields.io/github/stars/adityaravishankar/last-colony) ![GitHub last commit](https://img.shields.io/github/last-commit/adityaravishankar/last-colony)](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript.
 - [MegaGlest ![GitHub Repo Stars](https://img.shields.io/github/stars/MegaGlest/megaglest-source) ![GitHub last commit](https://img.shields.io/github/last-commit/MegaGlest/megaglest-source)](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 - [Micropolis ![GitHub Repo Stars](https://img.shields.io/github/stars/SimHacker/micropolis) ![GitHub last commit](https://img.shields.io/github/last-commit/SimHacker/micropolis)](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
+- [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game.
 - [Openage ![GitHub Repo Stars](https://img.shields.io/github/stars/SFTtech/openage) ![GitHub last commit](https://img.shields.io/github/last-commit/SFTtech/openage)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenDungeons ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenDungeons/OpenDungeons) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDungeons/OpenDungeons)](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous.
 - [OpenFodder ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenFodder/openfodder) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenFodder/openfodder)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
