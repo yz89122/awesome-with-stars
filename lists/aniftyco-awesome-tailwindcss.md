@@ -213,7 +213,7 @@
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
-- 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
+- ���� [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
@@ -330,7 +330,7 @@
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
-- �� [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
+- 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
 <p align="center">
