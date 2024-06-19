@@ -131,6 +131,7 @@ A curated list of bitcoin services and tools for software developers
 * [pycoin ![GitHub Repo Stars](https://img.shields.io/github/stars/richardkiss/pycoin) ![GitHub last commit](https://img.shields.io/github/last-commit/richardkiss/pycoin)](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 * [bitcoin_tools ![GitHub Repo Stars](https://img.shields.io/github/stars/sr-gi/bitcoin_tools) ![GitHub last commit](https://img.shields.io/github/last-commit/sr-gi/bitcoin_tools)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 * [oogway ![GitHub Repo Stars](https://img.shields.io/github/stars/merwane/oogway) ![GitHub last commit](https://img.shields.io/github/last-commit/merwane/oogway)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
+* [pybtc ![GitHub Repo Stars](https://img.shields.io/github/stars/mohanson/pybtc) ![GitHub last commit](https://img.shields.io/github/last-commit/mohanson/pybtc)](https://github.com/mohanson/pybtc) - Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.
 
 ## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
