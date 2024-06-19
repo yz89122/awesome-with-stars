@@ -394,7 +394,7 @@ Meteo
 - [NFC Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/matteocrippa/flutter-nfc-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/matteocrippa/flutter-nfc-reader)](https://github.com/matteocrippa/flutter-nfc-reader) [382⭐] - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 - [Beacon broadcast ![GitHub Repo Stars](https://img.shields.io/github/stars/pszklarska/beacon_broadcast) ![GitHub last commit](https://img.shields.io/github/last-commit/pszklarska/beacon_broadcast)](https://github.com/pszklarska/beacon_broadcast) [82⭐] - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 - [Reactive Ble ![GitHub Repo Stars](https://img.shields.io/github/stars/PhilipsHue/flutter_reactive_ble) ![GitHub last commit](https://img.shields.io/github/last-commit/PhilipsHue/flutter_reactive_ble)](https://github.com/PhilipsHue/flutter_reactive_ble) [643⭐] - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
-- [NFC Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/okadan/flutter-nfc-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/okadan/flutter-nfc-manager)](https://github.com/okadan/flutter-nfc-manager) [187⭐] - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+- [NFC Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/okadan/flutter-nfc-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/okadan/flutter-nfc-manager)](https://github.com/okadan/flutter-nfc-manager) [187��] - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ### Storage
 
