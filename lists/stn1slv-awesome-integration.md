@@ -228,7 +228,7 @@ System integration is the process of linking together different IT systems (com
 - [Spring Integration (⭐1.5k) ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-integration) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-integration)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable-->
 ### iPaaS
 *Integration Platform as a Service (iPaaS) is a cloud-based platform that enables businesses to integrate different systems, applications, and data sources with ease. It provides a unified platform for managing data flows between various systems, simplifying the process of integrating different systems and automating workflows. iPaaS tools typically provide a visual interface for designing, deploying, and managing integrations, as well as pre-built connectors and APIs for integrating with popular systems and services.*
