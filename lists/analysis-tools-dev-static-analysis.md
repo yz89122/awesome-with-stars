@@ -909,7 +909,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/Reflection)](https://github.com/phpDocumentor/Reflection) — Reflection library to do Static Analysis for PHP Projects
 
-- [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
+- [Symfony Insight](https://insight.symfony.com/) :copyright: �� Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
 - [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) — A static analysis engine.
 
