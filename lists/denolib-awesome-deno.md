@@ -281,6 +281,7 @@ This list is a collection of the best Deno modules and resources.
 - [opine ![GitHub Repo Stars](https://img.shields.io/github/stars/asos-craigmorten/opine) ![GitHub last commit](https://img.shields.io/github/last-commit/asos-craigmorten/opine)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/asos-craigmorten/opine-http-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/asos-craigmorten/opine-http-proxy)](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [wren ![GitHub Repo Stars](https://img.shields.io/github/stars/zaiste/wren) ![GitHub last commit](https://img.shields.io/github/last-commit/zaiste/wren)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+- [primate](https://primatejs.com) - A polymorphic development platform
 
 ### WebSocket
 - [deno-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/deno-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/deno-websocket)](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
@@ -451,7 +452,7 @@ This list is a collection of the best Deno modules and resources.
 - [《Deno进阶开发笔记》 ![GitHub Repo Stars](https://img.shields.io/github/stars/chenshenhai/deno_note) ![GitHub last commit](https://img.shields.io/github/last-commit/chenshenhai/deno_note)](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nugine/deno-manual-cn) ![GitHub last commit](https://img.shields.io/github/last-commit/Nugine/deno-manual-cn)](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
-- [Node之父 - Deno，一个新的JS���行时](https://www.bilibili.com/video/av52038617)
+- [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
 
