@@ -1147,6 +1147,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [std_json_io ![GitHub Repo Stars](https://img.shields.io/github/stars/hassox/std_json_io) ![GitHub last commit](https://img.shields.io/github/last-commit/hassox/std_json_io)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 * [url_unroller ![GitHub Repo Stars](https://img.shields.io/github/stars/semanticart/url_unroller) ![GitHub last commit](https://img.shields.io/github/last-commit/semanticart/url_unroller)](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 * [vessel ![GitHub Repo Stars](https://img.shields.io/github/stars/whitfin/vessel) ![GitHub last commit](https://img.shields.io/github/last-commit/whitfin/vessel)](https://github.com/whitfin/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
+* [weighted_random ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnJocoo/weighted_random) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnJocoo/weighted_random)](https://github.com/JohnJocoo/weighted_random) - Weighted random picking.
 
 ## Native Implemented Functions
 *Tools and libraries working with Erlang NIF.*
