@@ -146,7 +146,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Air](https://angularair.com/)
 * [Angular Plus Show](https://open.spotify.com/show/1PrLErQHBqBhZsRV1KHhGM)
 * [Angular Master Podcast](https://www.youtube.com/playlist?list=PLYJFRoKhU5SNcu5GBjIn4X3oVpy4fP1wV)
-* [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - Conversations about Angular in Spanish.
+* [Angular Catch Up](https://angular-catch-up.podbean.com/)
+* [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - (Spanish)
 
 ##### X
 
@@ -497,6 +498,7 @@ become an Angular expert.
 * [anguhashblog ![GitHub Repo Stars](https://img.shields.io/github/stars/AnguHashBlog/anguhashblog) ![GitHub last commit](https://img.shields.io/github/last-commit/AnguHashBlog/anguhashblog)](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
 * [angular-tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-tauri)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 * [ngx-three ![GitHub Repo Stars](https://img.shields.io/github/stars/demike/ngx-three) ![GitHub last commit](https://img.shields.io/github/last-commit/demike/ngx-three)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
+* [ngx-facebook-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-facebook-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-facebook-messenger)](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 
 #### Internationalization
 
@@ -563,6 +565,7 @@ become an Angular expert.
 * [Colorlib](https://colorlib.com/wp/free-angular-templates/)
 * [HTMLrev](https://htmlrev.com/free-angular-templates.html)
 * [wails-template-angular-latest ![GitHub Repo Stars](https://img.shields.io/github/stars/mJehanno/wails-template-angular-latest) ![GitHub last commit](https://img.shields.io/github/last-commit/mJehanno/wails-template-angular-latest)](https://github.com/mJehanno/wails-template-angular-latest) - A generated [wails](https://wails.io) template, currently supports Angular 17.
+* [carbon-angular-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-angular-starter)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
 
 ##### Paid
 
@@ -621,6 +624,8 @@ become an Angular expert.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 * [ng-morph ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-morph) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-morph)](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
 * [ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/eneajaho/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/eneajaho/ngx-libs)](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
+* [ng16-dep-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/danielglejzner/ng16-dep-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/danielglejzner/ng16-dep-audit)](https://github.com/danielglejzner/ng16-dep-audit) - Quickly check which dependencies stop you from upgrading!
+* [ngx-maintenance ![GitHub Repo Stars](https://img.shields.io/github/stars/danielglejzner/ngx-maintenance) ![GitHub last commit](https://img.shields.io/github/last-commit/danielglejzner/ngx-maintenance)](https://github.com/danielglejzner/ngx-maintenance) - Can't upgrade to Angular 16+ due to old View Engine dependencies? This automates the hassle so you can easily upgrade!
 
 ---
 
@@ -639,6 +644,7 @@ become an Angular expert.
 * [ng-auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/ajitzero/ng-auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/ajitzero/ng-auto-animate)](https://github.com/ajitzero/ng-auto-animate) - Angular Directive (library) for FormKit's [Auto Animate](https://auto-animate.formkit.com).
 * [layout-projection ![GitHub Repo Stars](https://img.shields.io/github/stars/Char2sGu/layout-projection) ![GitHub last commit](https://img.shields.io/github/last-commit/Char2sGu/layout-projection)](https://github.com/Char2sGu/layout-projection) - Beautify the Web with awesome layout animations.
 * [ngx-easy-view-transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-easy-view-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-easy-view-transitions)](https://github.com/DerStimmler/ngx-easy-view-transitions) - Angular library for easier use of the View Transitions API.
+* [ngx-typed-writer ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-typed-writer) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-typed-writer)](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
 
 #### Calendars
 
@@ -678,6 +684,7 @@ become an Angular expert.
 * [ng-flowchart ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-wenzel/ng-flowchart) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-wenzel/ng-flowchart)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
 * [ngx-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/xieziyu/ngx-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/xieziyu/ngx-echarts)](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-echarts)](https://github.com/apache/incubator-echarts).
 * [angular-fusioncharts ![GitHub Repo Stars](https://img.shields.io/github/stars/fusioncharts/angular-fusioncharts) ![GitHub last commit](https://img.shields.io/github/last-commit/fusioncharts/angular-fusioncharts)](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
+* [ngu-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/uiuniversal/ngu-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/uiuniversal/ngu-flow)](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
 
 #### Dates
 
@@ -746,6 +753,7 @@ become an Angular expert.
 * [ngx-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/ngx-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/ngx-flow)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js ![GitHub Repo Stars](https://img.shields.io/github/stars/flowjs/flow.js) ![GitHub last commit](https://img.shields.io/github/last-commit/flowjs/flow.js)](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 * [file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/pIvan/file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/pIvan/file-upload)](https://github.com/pIvan/file-upload) - Angular module used for file upload.
+* [ngx-filepond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/ngx-filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/ngx-filepond)](https://github.com/pqina/ngx-filepond) - A handy [FilePond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/filepond)](https://github.com/pqina/filepond) adapter component for Angular.
 
 #### Forms
 
@@ -919,6 +927,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-bootstrap-toast-service ![GitHub Repo Stars](https://img.shields.io/github/stars/svierk/angular-bootstrap-toast-service) ![GitHub last commit](https://img.shields.io/github/last-commit/svierk/angular-bootstrap-toast-service)](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 * [angular2-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/flauc/angular2-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/flauc/angular2-notifications)](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/OneSignal/onesignal-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/OneSignal/onesignal-ngx)](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
+* [ngx-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/ngx-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/ngx-notifier)](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 
 #### Scroll
 
@@ -1016,6 +1025,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-float-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/tonysamperi/ngx-float-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/tonysamperi/ngx-float-ui)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
 * [orchestrator ![GitHub Repo Stars](https://img.shields.io/github/stars/orchestratora/orchestrator) ![GitHub last commit](https://img.shields.io/github/last-commit/orchestratora/orchestrator)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
 * [winonang ![GitHub Repo Stars](https://img.shields.io/github/stars/winona-ui/winonang) ![GitHub last commit](https://img.shields.io/github/last-commit/winona-ui/winonang)](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
+* [carbon-components-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-components-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-components-angular)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
 
 ##### Material Based
 
@@ -1091,6 +1101,9 @@ for Bootstrap 5 & Angular 17.
 * [angular-twitter-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/angular-twitter-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/angular-twitter-timeline)](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ng-parsel ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/ng-parsel) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/ng-parsel)](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [ngx-signal-immutability ![GitHub Repo Stars](https://img.shields.io/github/stars/zuriscript/ngx-signal-immutability) ![GitHub last commit](https://img.shields.io/github/last-commit/zuriscript/ngx-signal-immutability)](https://github.com/zuriscript/ngx-signal-immutability) - Compile-time and runtime immutability for Angular signals.
+* [angular-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/angular-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/angular-paginator)](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
+* [ngx-flamegraph ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-flamegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-flamegraph)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
+* [angular-compiler-output ![GitHub Repo Stars](https://img.shields.io/github/stars/JeanMeche/angular-compiler-output) ![GitHub last commit](https://img.shields.io/github/last-commit/JeanMeche/angular-compiler-output)](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given angular template.
 
 ---
 
@@ -1141,6 +1154,7 @@ for Bootstrap 5 & Angular 17.
 * [rxjs-insights ![GitHub Repo Stars](https://img.shields.io/github/stars/ksz-ksz/rxjs-insights) ![GitHub last commit](https://img.shields.io/github/last-commit/ksz-ksz/rxjs-insights)](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 * [observable-webworker ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnc/observable-webworker) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnc/observable-webworker)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 * [ng-event-bus ![GitHub Repo Stars](https://img.shields.io/github/stars/cristiammercado/ng-event-bus) ![GitHub last commit](https://img.shields.io/github/last-commit/cristiammercado/ng-event-bus)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
+* [audit-debounce ![GitHub Repo Stars](https://img.shields.io/github/stars/loreanvictor/audit-debounce) ![GitHub last commit](https://img.shields.io/github/last-commit/loreanvictor/audit-debounce)](https://github.com/loreanvictor/audit-debounce) - RxJS operator to debounce and audit simultaenously.
 
 #### TypeScript
 
