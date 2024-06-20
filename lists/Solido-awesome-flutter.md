@@ -539,7 +539,7 @@ This section contains libraries that take an experimental or unorthodox approach
 ## Utilities
 
 - [Launcher Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/franzsilva/flutter_launcher_icons) ![GitHub last commit](https://img.shields.io/github/last-commit/franzsilva/flutter_launcher_icons)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
-- [FlutterIcon](http://fluttericon.com/) [414⭐] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
+- [FlutterIcon](http://fluttericon.com/) [414���] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM ![GitHub Repo Stars](https://img.shields.io/github/stars/leoafarias/fvm) ![GitHub last commit](https://img.shields.io/github/last-commit/leoafarias/fvm)](https://github.com/leoafarias/fvm) [4351⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Flutter Flavorizr ![GitHub Repo Stars](https://img.shields.io/github/stars/AngeloAvv/flutter_flavorizr) ![GitHub last commit](https://img.shields.io/github/last-commit/AngeloAvv/flutter_flavorizr)](https://github.com/AngeloAvv/flutter_flavorizr) [423⭐] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 - [Fontify ![GitHub Repo Stars](https://img.shields.io/github/stars/westracer/fontify) ![GitHub last commit](https://img.shields.io/github/last-commit/westracer/fontify)](https://github.com/westracer/fontify) [104⭐] - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
