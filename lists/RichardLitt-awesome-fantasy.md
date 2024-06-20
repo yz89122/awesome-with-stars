@@ -710,7 +710,7 @@ This book is quite realistic and reminded me of the stories my grandparents have
 
 Although the author gets a little too detailed in some of his descriptions about unimportant details making the story slower than most, the magic system is unique and well thought out. The detail helps build a world you can imagine existing. - [@depperm](https://github.com/depperm)
 
-> Although Rhennthyl is the son of a leading wool merchant in L’Excelsis, the capital of Solidar, the most powerful nation on Terahnar, he has spent years becoming a journeyman artist and is skilled and diligent enough to be considered for the status of master artisan��in another two years. Then, in a single moment, his entire life is transformed when his master patron is killed in a flash fire, and Rhenn discovers he is an imager—one of the few in the entire world of Terahnar who can visualize things and make them real.
+> Although Rhennthyl is the son of a leading wool merchant in L’Excelsis, the capital of Solidar, the most powerful nation on Terahnar, he has spent years becoming a journeyman artist and is skilled and diligent enough to be considered for the status of master artisan—in another two years. Then, in a single moment, his entire life is transformed when his master patron is killed in a flash fire, and Rhenn discovers he is an imager—one of the few in the entire world of Terahnar who can visualize things and make them real.
 >
 >He must leave his family and join the Collegium of Imagisle.  Imagers live separately from the rest of society because of their abilities (they can do accidental magic even while asleep), and because they are both feared and vulnerable.
 >
