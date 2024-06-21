@@ -3375,7 +3375,7 @@ _Software written in Go._
 
 _Where to discover new Go libraries._
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## Benchmarks
 
