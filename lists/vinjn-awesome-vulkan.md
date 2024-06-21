@@ -85,7 +85,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) (for mobile)
 * Epic
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
-*  Khronos
+* Khronos
    * [Vulkan Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/KhronosGroup/Vulkan-Guide) ![GitHub last commit](https://img.shields.io/github/last-commit/KhronosGroup/Vulkan-Guide)](https://github.com/KhronosGroup/Vulkan-Guide)
 * [LunarG](https://lunarg.com)
     * [Vulkan SDK](https://vulkan.lunarg.com/)
@@ -98,6 +98,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Automatic RelaxedPrecision Decoration and Conversion in Spirv-Opt](https://www.lunarg.com/news-insights/white-papers/automatic-relaxedprecision-decoration-and-conversion-in-spirv-opt/)
     * [SPIR-V Legalization and Size Reduction with spirv-opt](https://www.lunarg.com/news-insights/white-papers/spir-v-legalization-and-size-reduction-with-spirv-opt/)
     * [All White Papers](https://www.lunarg.com/vulkan-white-papers/)
+* Community
+    * [VulkanHub](https://vkdoc.net) 
 
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - Meta post on how to learn Vulkan
@@ -223,7 +225,6 @@ drm/kms.
    *  [Tephra ![GitHub Repo Stars](https://img.shields.io/github/stars/Dolkar/Tephra) ![GitHub last commit](https://img.shields.io/github/last-commit/Dolkar/Tephra)](https://github.com/Dolkar/Tephra) - A modern C++17 graphics and compute library filling the gap between Vulkan and high-level APIs like OpenGL. [MIT]
    *  [The-Forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ConfettiFX/The-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ConfettiFX/The-Forge)](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
    *  [VKFS ![GitHub Repo Stars](https://img.shields.io/github/stars/MHDtA-dev/VKFS) ![GitHub last commit](https://img.shields.io/github/last-commit/MHDtA-dev/VKFS)](https://github.com/MHDtA-dev/VKFS) - Cross-platform easy-to-use C++ framework that allows you to quickly initialize Vulkan and get a ready-made environment. Provides high-level abstraction over basic Vulkan objects.
-   *  [VkHLF ![GitHub Repo Stars](https://img.shields.io/github/stars/nvpro-pipeline/VkHLF) ![GitHub last commit](https://img.shields.io/github/last-commit/nvpro-pipeline/VkHLF)](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [[LICENSE]](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
    *  [Vulkan Launchpad ![GitHub Repo Stars](https://img.shields.io/github/stars/cg-tuwien/VulkanLaunchpad) ![GitHub last commit](https://img.shields.io/github/last-commit/cg-tuwien/VulkanLaunchpad)](https://github.com/cg-tuwien/VulkanLaunchpad) - Vulkan framework for Windows, macOS, and Linux. Especially well-suited for Vulkan beginners, used in university education, by the Research Unit of Computer Graphics, TU Wien. [MIT]
        * [Vulkan Launchpad Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/cg-tuwien/VulkanLaunchpadStarter) ![GitHub last commit](https://img.shields.io/github/last-commit/cg-tuwien/VulkanLaunchpadStarter)](https://github.com/cg-tuwien/VulkanLaunchpadStarter) - Starter template containing additional functionality and assets. [[LICENSE]](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
 
@@ -249,6 +250,9 @@ drm/kms.
 * Shaders
    *  [glslang ![GitHub Repo Stars](https://img.shields.io/github/stars/KhronosGroup/glslang) ![GitHub last commit](https://img.shields.io/github/last-commit/KhronosGroup/glslang)](https://github.com/KhronosGroup/glslang) - Library for compiling glsl to spirv [BSD 3-Clause]
    *  [SPIRV-Cross ![GitHub Repo Stars](https://img.shields.io/github/stars/KhronosGroup/SPIRV-Cross) ![GitHub last commit](https://img.shields.io/github/last-commit/KhronosGroup/SPIRV-Cross)](https://github.com/KhronosGroup/SPIRV-Cross) - Library for reflection of spirv, simplify the creation of Vulkan pipeline layouts [ Apache-2.0 License]
+
+* Outdated ⚠️
+   *  [VkHLF ![GitHub Repo Stars](https://img.shields.io/github/stars/nvpro-pipeline/VkHLF) ![GitHub last commit](https://img.shields.io/github/last-commit/nvpro-pipeline/VkHLF)](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [[LICENSE]](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
 
 ## Bindings
 *  [ash ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikKlein/ash) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikKlein/ash)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. [MIT]
