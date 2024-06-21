@@ -306,6 +306,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/winpthreads ![GitHub Repo Stars](https://img.shields.io/github/stars/kassane/winpthreads-zigbuild) ![GitHub last commit](https://img.shields.io/github/last-commit/kassane/winpthreads-zigbuild)](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 * [raysan5/raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 * [jmcnamara/libxlsxwriter ![GitHub Repo Stars](https://img.shields.io/github/stars/jmcnamara/libxlsxwriter) ![GitHub last commit](https://img.shields.io/github/last-commit/jmcnamara/libxlsxwriter)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
+* [alexrp/libffi ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrp/libffi) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrp/libffi)](https://github.com/alexrp/libffi) - libffi with a Zig build script.
 
 ### C++
 
