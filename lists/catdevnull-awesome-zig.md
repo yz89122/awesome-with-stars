@@ -244,6 +244,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [marler8997/zigup ![GitHub Repo Stars](https://img.shields.io/github/stars/marler8997/zigup) ![GitHub last commit](https://img.shields.io/github/last-commit/marler8997/zigup)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 * [korandoru/setup-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/korandoru/setup-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/korandoru/setup-zig)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 * [weskoerber/zvm ![GitHub Repo Stars](https://img.shields.io/github/stars/weskoerber/zvm) ![GitHub last commit](https://img.shields.io/github/last-commit/weskoerber/zvm)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
+* [vezel-dev/zig-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/vezel-dev/zig-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/vezel-dev/zig-sdk)](https://github.com/vezel-dev/zig-sdk) - MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 
 
 ### Package managers
