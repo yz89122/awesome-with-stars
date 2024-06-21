@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -678,7 +678,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [HaxeFlixel ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/flixel) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/flixel)](https://github.com/HaxeFlixel/flixel) - Cross-platform 2D game framework powered by _OpenFL_. [[Website](https://haxeflixel.com/)]
     - 🎉 [OpenFL ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/openfl) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/openfl)](https://github.com/openfl/openfl) - Open source implementation of the [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash) API. [[Website](https://www.openfl.org/)]
 - Haxe: Graphics
-    - 🎉 [Heaps ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps) 🔥 - Cross-platform 2D/3D engine (by creators of Haxe). [[Website](https://heaps.io)]
+    - 🎉 [Heaps ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps) ���� - Cross-platform 2D/3D engine (by creators of Haxe). [[Website](https://heaps.io)]
     - 🎉 [Kha ![GitHub Repo Stars](https://img.shields.io/github/stars/Kode/Kha) ![GitHub last commit](https://img.shields.io/github/last-commit/Kode/Kha)](https://github.com/Kode/Kha) - Ultra-portable, high-performance multimedia framework.
     - 🎉 [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
 - Haxe: Gui
@@ -694,7 +694,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Jelly Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelapfelbeck/jellyPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelapfelbeck/jellyPhysics)](https://github.com/michaelapfelbeck/jellyPhysics) - Soft body 2D physics engine.
     - 🎉 [Nape ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4) - Fast, friendly 2D rigid body physics engine. [[Demos](https://joecreates.github.io/napephys/)]
 - Haxe: Serialization / Storage
-    - 🎉 [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
+    - �� [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
     - 🎉 [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
     - 🎉 [HxBit ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/hxbit) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/hxbit)](https://github.com/HeapsIO/hxbit) - Binary serialization and network synchronization library.
 - Haxe: Utility

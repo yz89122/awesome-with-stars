@@ -497,7 +497,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
 
 
-[LoSpec](https://lospec.com/) 🟪 - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
+[LoSpec](https://lospec.com/) �� - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
 
 
 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) 🟪 - An exhaustive series on drawing people from a reputable channel.
