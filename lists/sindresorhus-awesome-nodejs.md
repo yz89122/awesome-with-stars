@@ -632,6 +632,7 @@
 	- [TypeORM ![GitHub Repo Stars](https://img.shields.io/github/stars/typeorm/typeorm) ![GitHub last commit](https://img.shields.io/github/last-commit/typeorm/typeorm)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
 	- [MikroORM ![GitHub Repo Stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/mikro-orm/mikro-orm)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 	- [Prisma ![GitHub Repo Stars](https://img.shields.io/github/stars/prisma/prisma) ![GitHub last commit](https://img.shields.io/github/last-commit/prisma/prisma)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+ 	- [Drizzle ORM ![GitHub Repo Stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/drizzle-team/drizzle-orm)](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
 - Query builder
 	- [Knex ![GitHub Repo Stars](https://img.shields.io/github/stars/knex/knex) ![GitHub last commit](https://img.shields.io/github/last-commit/knex/knex)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
