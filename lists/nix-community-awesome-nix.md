@@ -24,6 +24,7 @@
     * [Crystal](#crystal)
     * [Elm](#elm)
     * [Haskell](#haskell)
+    * [Haxe](#haxe)
     * [Node.js](#nodejs)
     * [OCaml](#ocaml)
     * [PHP](#php)
@@ -189,6 +190,10 @@
 * [haskell.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/input-output-hk/haskell.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/input-output-hk/haskell.nix)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 * [nix-haskell-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewbauer/nix-haskell-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewbauer/nix-haskell-mode)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [nixkell ![GitHub Repo Stars](https://img.shields.io/github/stars/pwm/nixkell) ![GitHub last commit](https://img.shields.io/github/last-commit/pwm/nixkell)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+
+### Haxe
+* [haxix ![GitHub Repo Stars](https://img.shields.io/github/stars/MadMcCrow/haxix) ![GitHub last commit](https://img.shields.io/github/last-commit/MadMcCrow/haxix)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
+* [kebab ![GitHub Repo Stars](https://img.shields.io/github/stars/bwkam/kebab) ![GitHub last commit](https://img.shields.io/github/last-commit/bwkam/kebab)](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
 ### Node.js
 
