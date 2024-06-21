@@ -766,7 +766,7 @@ Royalty free music! Don't forget to check the license.
 [What is a Games Producer?](https://www.screenskills.com/job-profiles/browse/games/production/games-producer-games/) 💠 - An explanation of the production role, and resources on how to become a producer.
 
 
-[Video Game Production Resources](https://www.breakingthewheel.com/video-game-production-resources/) ���� - A collection of resources for producers, categorized by purpose. Targets soft skills such as entrepreneurship, management, and marketing.
+[Video Game Production Resources](https://www.breakingthewheel.com/video-game-production-resources/) 🟪 - A collection of resources for producers, categorized by purpose. Targets soft skills such as entrepreneurship, management, and marketing.
 
 
 [Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - A collection of books, tools, conference talks, and other resources for producers.
