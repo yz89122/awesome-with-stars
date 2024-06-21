@@ -161,6 +161,10 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
+#### Godot 4.x
+
+- [Kaleidoscope ![GitHub Repo Stars](https://img.shields.io/github/stars/Elesh-Norn/kaleidoscope) ![GitHub last commit](https://img.shields.io/github/last-commit/Elesh-Norn/kaleidoscope)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+
 #### Godot 3.2+
 
 - [Godot Demo Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/godot-demo-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/godot-demo-projects)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
