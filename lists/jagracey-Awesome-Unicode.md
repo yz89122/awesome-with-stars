@@ -595,7 +595,7 @@ var Ꙭൽↈⴱ = 'huh';
 var foo\u200Cbar = 42;
 
 // This is *not* a bitwise left shift (`<<`):
-var 〱〱 = 2;
+var 〱��� = 2;
 // This is, though:
 〱〱 << 〱〱; // 8
 
