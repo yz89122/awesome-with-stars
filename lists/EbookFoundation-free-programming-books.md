@@ -120,7 +120,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
-+ [Vietnamese / Tiếng Vi��t](books/free-programming-books-vi.md)
++ [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets
 
@@ -160,7 +160,7 @@ This project lists books and other resources grouped by genres:
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
-+ [Telugu / తెలుగు](courses/free-courses-te.md)
++ [Telugu / తెలు���ు](courses/free-courses-te.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
