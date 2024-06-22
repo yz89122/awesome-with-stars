@@ -127,7 +127,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [Next-Fire-Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/hrushikedar33/next-fire-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/hrushikedar33/next-fire-auth)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 - [NextJS Chargebee Subscription ![GitHub Repo Stars](https://img.shields.io/github/stars/bharathvaj-ganesan/chargebee-saas-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/bharathvaj-ganesan/chargebee-saas-stack)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 - [Next.js Enterprise ![GitHub Repo Stars](https://img.shields.io/github/stars/Blazity/next-enterprise) ![GitHub last commit](https://img.shields.io/github/last-commit/Blazity/next-enterprise)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
-- [Start UI [web]](https://github.com/BearStudio/start-ui-web) - �� opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+- [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 
 ## Extensions
 
