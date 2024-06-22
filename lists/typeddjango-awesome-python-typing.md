@@ -88,6 +88,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [flake8-typing-only-imports ![GitHub Repo Stars](https://img.shields.io/github/stars/sondrelg/flake8-typing-only-imports) ![GitHub last commit](https://img.shields.io/github/last-commit/sondrelg/flake8-typing-only-imports)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 - [flake8-type-ignore](https://gitlab.com/jonafato/flake8-type-ignore/) - flake8 plugin to disallow type: ignore comments in your typed Python code.
 - [wemake-python-styleguide ![GitHub Repo Stars](https://img.shields.io/github/stars/wemake-services/wemake-python-styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/wemake-services/wemake-python-styleguide)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+- [Ruff ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ruff) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ruff)](https://github.com/astral-sh/ruff/) - Extremely fast linter which supports lint rules from many other lint tools, such as flake8.
 
 ### Testing
 
