@@ -818,7 +818,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='korean'></a>
 ### Korean
 
-* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 ��는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
+* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 없는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
 * [emacsbook][repo-emacsbook] (cc-nc)
 * 꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 ([Site][site-osdi], cc-nc-nd)
 
@@ -835,7 +835,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
-* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
+* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教��，全面介绍nginx模块的开发以及它的内部原理
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial

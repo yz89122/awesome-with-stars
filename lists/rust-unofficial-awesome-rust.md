@@ -221,7 +221,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [svm-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/alloy-rs/svm-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/alloy-rs/svm-rs)](https://github.com/alloy-rs/svm-rs) — Solidity-Compiler Version Manager.
 * [tendermint-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/informalsystems/tendermint-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/informalsystems/tendermint-rs)](https://github.com/informalsystems/tendermint-rs) — Tendermint blockchain data structures and clients
 * [wagyu ![GitHub Repo Stars](https://img.shields.io/github/stars/howardwu/wagyu) ![GitHub last commit](https://img.shields.io/github/last-commit/howardwu/wagyu)](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
-* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
+* [zcash ![GitHub Repo Stars](https://img.shields.io/github/stars/zcash/zcash) ![GitHub last commit](https://img.shields.io/github/last-commit/zcash/zcash)](https://github.com/zcash/zcash) �� Zcash is an implementation of the "Zerocash" protocol.
 
 ### Database
 
@@ -1768,7 +1768,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 * [beneills/quantum ![GitHub Repo Stars](https://img.shields.io/github/stars/beneills/quantum) ![GitHub last commit](https://img.shields.io/github/last-commit/beneills/quantum)](https://github.com/beneills/quantum) — Advanced quantum computer simulator
 * [bytecodealliance/wasmtime ![GitHub Repo Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime) ![GitHub last commit](https://img.shields.io/github/last-commit/bytecodealliance/wasmtime)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status ![GitHub Repo Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime) ![GitHub last commit](https://img.shields.io/github/last-commit/bytecodealliance/wasmtime)](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
-* [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) �� CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
+* [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) — CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
 * [oxidecomputer/propolis ![GitHub Repo Stars](https://img.shields.io/github/stars/oxidecomputer/propolis) ![GitHub last commit](https://img.shields.io/github/last-commit/oxidecomputer/propolis)](https://github.com/oxidecomputer/propolis) — Userspace program for illumos bhyve kernel modules
 * [saurvs/hypervisor-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/saurvs/hypervisor-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/saurvs/hypervisor-rs)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
