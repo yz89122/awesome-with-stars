@@ -248,6 +248,7 @@
 - [ray-x/web-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-x/web-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-x/web-tools.nvim)](https://github.com/ray-x/web-tools.nvim) - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 - [roobert/tailwindcss-colorizer-cmp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
 - [luckasRanarison/tailwind-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/luckasRanarison/tailwind-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/luckasRanarison/tailwind-tools.nvim)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial TailwindCSS tooling.
+- [cjodo/convert.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cjodo/convert.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cjodo/convert.nvim)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
 
 ### Markdown and LaTeX
 
