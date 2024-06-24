@@ -293,7 +293,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [nginx-proxy][nginxproxy] - Automated nginx proxy for Docker containers using docker-gen by [@jwilder][jwilder]
 -   [Swarm Ingress Router ![GitHub Repo Stars](https://img.shields.io/github/stars/tpbowden/swarm-ingress-router) ![GitHub last commit](https://img.shields.io/github/last-commit/tpbowden/swarm-ingress-router)](https://github.com/tpbowden/swarm-ingress-router) :skull: - Route DNS names to Swarm services based on labels. By [@tpbowden](https://github.com/tpbowden/)
 -   [Swarm Router ![GitHub Repo Stars](https://img.shields.io/github/stars/flavioaiello/swarm-router) ![GitHub last commit](https://img.shields.io/github/last-commit/flavioaiello/swarm-router)](https://github.com/flavioaiello/swarm-router) - A «zero config» service name based router for docker swarm mode with a fresh and more secure approach. By [@flavioaiello](https://github.com/flavioaiello)
--   [Træf��k ![GitHub Repo Stars](https://img.shields.io/github/stars/containous/traefik) ![GitHub last commit](https://img.shields.io/github/last-commit/containous/traefik)](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
+-   [Træfɪk ![GitHub Repo Stars](https://img.shields.io/github/stars/containous/traefik) ![GitHub last commit](https://img.shields.io/github/last-commit/containous/traefik)](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
 
 ### Runtime
 
@@ -806,7 +806,7 @@ Services to securely store your Docker images.
 -   [CVE Scanning Alpine images with Multi-stage builds in Docker 17.05 ![GitHub Repo Stars](https://img.shields.io/github/stars/tomwillfixit/alpine-cvecheck) ![GitHub last commit](https://img.shields.io/github/last-commit/tomwillfixit/alpine-cvecheck)](https://github.com/tomwillfixit/alpine-cvecheck) by [@tomwillfixit](https://twitter.com/tomwillfixit)
 -   [Docker Secure Deployment Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/AonCyberLabs/Docker-Secure-Deployment-Guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/AonCyberLabs/Docker-Secure-Deployment-Guidelines)](https://github.com/AonCyberLabs/Docker-Secure-Deployment-Guidelines)
 -   [Docker Security - Quick Reference](https://binarymist.io/publication/docker-security/)
--   [Docker Security: Are Your Containers Tightly Secured to the Ship? SlideShare](https://fr.slideshare.net/MichaelBoelen/docker-security-are-your-containers-tightly-secured-to-the-ship)
+-   [Docker Security: Are Your Containers Tightly Secured to the Ship? SlideShare](https://www.slideshare.net/slideshow/docker-security-are-your-containers-tightly-secured-to-the-ship/43834790)
 -   [How CVE's are handled on Offical Docker Images ![GitHub Repo Stars](https://img.shields.io/github/stars/docker-library/official-images) ![GitHub last commit](https://img.shields.io/github/last-commit/docker-library/official-images)](https://github.com/docker-library/official-images/issues/1448)
 -   [Lynis is an open source security auditing tool including Docker auditing](https://cisofy.com/lynis/)
 -   [Security Best Practices for Building Docker Images](https://linux-audit.com/tags/docker/)
