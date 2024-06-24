@@ -494,7 +494,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [Qt](https://github.com/qt) - Industry standard gui library. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeroyal/Qt-Guide) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeroyal/Qt-Guide)](https://github.com/mikeroyal/Qt-Guide) | [Website](https://www.qt.io)]
     - ⭐ [RmlUi ![GitHub Repo Stars](https://img.shields.io/github/stars/mikke89/RmlUi) ![GitHub last commit](https://img.shields.io/github/last-commit/mikke89/RmlUi)](https://github.com/mikke89/RmlUi) - Turns HTML / CSS source files into vertices and draw commands. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
     - ⭐ [Turbo Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/fruxo/turbobadger) ![GitHub last commit](https://img.shields.io/github/last-commit/fruxo/turbobadger)](https://github.com/fruxo/turbobadger) - Gui library for hardware accelerated apps & games. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
-    - ���� [Wt ![GitHub Repo Stars](https://img.shields.io/github/stars/emweb/wt) ![GitHub last commit](https://img.shields.io/github/last-commit/emweb/wt)](https://github.com/emweb/wt) - Web gui library in modern C++. [[Website](https://www.webtoolkit.eu/wt)]
+    - 🔒 [Wt ![GitHub Repo Stars](https://img.shields.io/github/stars/emweb/wt) ![GitHub last commit](https://img.shields.io/github/last-commit/emweb/wt)](https://github.com/emweb/wt) - Web gui library in modern C++. [[Website](https://www.webtoolkit.eu/wt)]
     - 🔒 [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
 - C++: Input
     - 🎉 [Gainput ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/gainput) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/gainput)](https://github.com/jkuhlmann/gainput) - Easy to use input library.
@@ -1192,7 +1192,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Ordered dithering in glsl using 8x8 Bayer Dithering.
 - Fire
     - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Fire intro shader using noise textures and masking.
-    - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
+    - ���� [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
