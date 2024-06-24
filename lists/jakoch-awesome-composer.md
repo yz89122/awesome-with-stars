@@ -7,7 +7,7 @@
 
 You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/stars/ziadoz/awesome-php) ![GitHub last commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php)](https://github.com/ziadoz/awesome-php).
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/jakoch/awesome-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/jakoch/awesome-composer)](https://github.com/jakoch/awesome-composer/blob/main/.github/CONTRIBUTING.md) before contributing.*
 
 ## Composer
 
