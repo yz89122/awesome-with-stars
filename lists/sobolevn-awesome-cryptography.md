@@ -133,6 +133,7 @@ A curated list of cryptography resources and links.
 
 - [Awesome crypto-papers ![GitHub Repo Stars](https://img.shields.io/github/stars/pFarb/awesome-crypto-papers) ![GitHub last commit](https://img.shields.io/github/last-commit/pFarb/awesome-crypto-papers)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 - [Awesome HE ![GitHub Repo Stars](https://img.shields.io/github/stars/jonaschn/awesome-he) ![GitHub last commit](https://img.shields.io/github/last-commit/jonaschn/awesome-he)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+- [TLS Cipher Suites](https://stellastra.com/cipher-suite) - A list of TLS cipher suites and their security ratings. 
 
 ## Tools
 
