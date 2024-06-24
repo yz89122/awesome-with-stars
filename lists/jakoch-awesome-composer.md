@@ -1,4 +1,5 @@
-## Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
+<!--lint disable double-link awesome-toc-->
+# Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build on Windows ![GitHub Repo Stars](https://img.shields.io/github/stars/jakoch/awesome-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/jakoch/awesome-composer)](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml/badge.svg?branch=main)](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
 
@@ -11,7 +12,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 ## Composer
 
 - [Official Website](https://getcomposer.org/)
-- [Github ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/composer) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/composer)](https://github.com/composer/composer)
+- [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/composer) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/composer)](https://github.com/composer/composer)
 - [Issues ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/composer) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/composer)](https://github.com/composer/composer/issues)
 - [Source ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/composer) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/composer)](https://github.com/composer/composer/tree/HEAD/src/Composer)
 - [Documentation](https://getcomposer.org/doc/)
@@ -25,14 +26,14 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 #### Stack Overflow
 
 - You might use the following tags: `composer-php`, `packagist`, `satis` + `php`.
-- [Ask a new question](http://stackoverflow.com/questions/ask?tags=composer-php+php)
-- [Find questions tagged `composer-php`](http://stackoverflow.com/questions/tagged/composer-php)
+- [Ask a new question](https://stackoverflow.com/questions/ask?tags=composer-php+php)
+- [Find questions tagged `composer-php`](https://stackoverflow.com/questions/tagged/composer-php)
 
 #### IRC
 
 - IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
 
----------------------------------------------------------
+---
 
 ## Plugins
 
@@ -63,7 +64,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Prestissimo ![GitHub Repo Stars](https://img.shields.io/github/stars/hirak/prestissimo) ![GitHub last commit](https://img.shields.io/github/last-commit/hirak/prestissimo)](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 - [Composer-Curl-Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ngyuki/composer-curl-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/ngyuki/composer-curl-plugin)](https://github.com/ngyuki/composer-curl-plugin) - The plugin uses `phpext_curl` for downloading packages.
 - [Composer-Custom-Directory-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/mnsami/composer-custom-directory-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/mnsami/composer-custom-directory-installer)](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
-- [Composer-Dependency-Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/shipmonk-rnd/composer-dependency-analyser) ![GitHub last commit](https://img.shields.io/github/last-commit/shipmonk-rnd/composer-dependency-analyser)](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.  
+- [Composer-Dependency-Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/shipmonk-rnd/composer-dependency-analyser) ![GitHub last commit](https://img.shields.io/github/last-commit/shipmonk-rnd/composer-dependency-analyser)](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [Graph-Composer ![GitHub Repo Stars](https://img.shields.io/github/stars/clue/graph-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/clue/graph-composer)](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 - [PackageVersions ![GitHub Repo Stars](https://img.shields.io/github/stars/Ocramius/PackageVersions) ![GitHub last commit](https://img.shields.io/github/last-commit/Ocramius/PackageVersions)](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
@@ -73,11 +74,11 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Composer-Git-Hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/BrainMaestro/composer-git-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/BrainMaestro/composer-git-hooks)](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/flex) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/flex)](https://github.com/symfony/flex) - Provides [recipe-based ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/recipes)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 - [Narrowspark-Automatic ![GitHub Repo Stars](https://img.shields.io/github/stars/narrowspark/automatic) ![GitHub last commit](https://img.shields.io/github/last-commit/narrowspark/automatic)](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
-- [PHPCodeSniffer-Composer-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/DealerDirect/phpcodesniffer-composer-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/DealerDirect/phpcodesniffer-composer-installer)](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - The plugin enables you to install [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
+- [PHPCodeSniffer-Composer-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCSStandards/composer-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCSStandards/composer-installer)](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
 - [Composer-Warmup ![GitHub Repo Stars](https://img.shields.io/github/stars/jderusse/composer-warmup) ![GitHub last commit](https://img.shields.io/github/last-commit/jderusse/composer-warmup)](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy ![GitHub Repo Stars](https://img.shields.io/github/stars/fxpio/foxy) ![GitHub last commit](https://img.shields.io/github/last-commit/fxpio/foxy)](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
-- [NodeJS-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodingmachine/nodejs-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodingmachine/nodejs-installer)](https://github.com/thecodingmachine/nodejs-installer) - Installer for NodeJS and npm.
-- [Node-Composer ![GitHub Repo Stars](https://img.shields.io/github/stars/mariusbuescher/node-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/mariusbuescher/node-composer)](https://github.com/mariusbuescher/node-composer) - Installer for NodeJS, npm and yarn.
+- [NodeJS-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodingmachine/nodejs-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodingmachine/nodejs-installer)](https://github.com/thecodingmachine/nodejs-installer) - Installer for Node.js and npm.
+- [Node-Composer ![GitHub Repo Stars](https://img.shields.io/github/stars/mariusbuescher/node-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/mariusbuescher/node-composer)](https://github.com/mariusbuescher/node-composer) - Installer for Node.js, npm and yarn.
 - [Imposter-Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/typisttech/imposter-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/typisttech/imposter-plugin)](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Composer Preload ![GitHub Repo Stars](https://img.shields.io/github/stars/Ayesh/Composer-Preload) ![GitHub last commit](https://img.shields.io/github/last-commit/Ayesh/Composer-Preload)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 - [PHP Inc ![GitHub Repo Stars](https://img.shields.io/github/stars/krakphp/php-inc) ![GitHub last commit](https://img.shields.io/github/last-commit/krakphp/php-inc)](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
@@ -95,10 +96,10 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 
 ## Tools
 
-- [Composer SemVer Checker](https://semver.mwl.be) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
+- [Composer SemVer Checker](https://semver.madewithlove.com/) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
 - [Composer-Yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/igorw/composer-yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/igorw/composer-yaml)](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
 - [Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/franzliedke/studio) ![GitHub last commit](https://img.shields.io/github/last-commit/franzliedke/studio)](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
-- [OctoLinker Browser Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/OctoLinker/OctoLinker) ![GitHub last commit](https://img.shields.io/github/last-commit/OctoLinker/OctoLinker)](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
+- [OctoLinker Browser Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/OctoLinker/OctoLinker) ![GitHub last commit](https://img.shields.io/github/last-commit/OctoLinker/OctoLinker)](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on GitHub.
 - [ComposerRequireChecker ![GitHub Repo Stars](https://img.shields.io/github/stars/maglnet/ComposerRequireChecker) ![GitHub last commit](https://img.shields.io/github/last-commit/maglnet/ComposerRequireChecker)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 - [Composer-Unused ![GitHub Repo Stars](https://img.shields.io/github/stars/composer-unused/composer-unused) ![GitHub last commit](https://img.shields.io/github/last-commit/composer-unused/composer-unused)](https://github.com/composer-unused/composer-unused) - A CLI tool, which scans your code and shows unused Composer dependencies.
 - [Composer-Normalize ![GitHub Repo Stars](https://img.shields.io/github/stars/ergebnis/composer-normalize) ![GitHub last commit](https://img.shields.io/github/last-commit/ergebnis/composer-normalize)](https://github.com/ergebnis/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
@@ -122,19 +123,18 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 
 ## Services
 
-- [Packanalyst](https://packanalyst.com/) - Packanalyst is a service that lets you browse in any PHP class / interface / trait defined in Packagist.
-- [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
+- [Dependabot ![GitHub Repo Stars](https://img.shields.io/github/stars/features/security) ![GitHub last commit](https://img.shields.io/github/last-commit/features/security)](https://github.com/features/security/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
----------------------------------------------------------
+---
 
 ## Tutorials
 
-- [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
+- [A beginners guide to Composer](https://www.digitalocean.com/community/tutorials/a-beginners-guide-to-composer)
 - [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
-- [Easy package management with Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
+- [Easy package management with Composer](https://code.tutsplus.com/easy-package-management-with-composer--net-25530t)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
-- [PHP Composer Magento Tutorial by Alan Storm](https://alanstorm.com/php_composer_magento_tutorial/ )
+- [PHP Composer Magento Tutorial by Alan Storm](https://alanastorm.com/php_composer_magento_tutorial/)
 - [Creating and Using Composer Packages](https://hub.packtpub.com/creating-and-using-composer-packages/)
 
 ## Blogs
@@ -143,20 +143,20 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Nils Adermann (naderman)](https://naderman.de/)
 - [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
 - [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html)
-- [The long journey of making PHP’s Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
+- [The long journey of making PHPs Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
 
 ## Videos
 
 - [Composer Best Practices 2018 - Nils Adermann @ scotphp18](https://www.youtube.com/watch?v=eQkFjMfyqFY)
 - [Composer Best Practices 2018 - Nils Adermann @ phpday 2018](https://www.youtube.com/watch?v=EpvihKaQyLs)
 - [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
-- [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
+- [Composer Best Practices — Jordi Boggiano @ phptek 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
 - [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
 - [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
 - [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 - [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
 - [Composer 2 - Jordi Boggiano @ Symfony UK usergroup 2020](https://www.youtube.com/watch?v=BAgwWhRo82w)
-- [Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017](https://www.youtube.com/watch?v=pjvbn6TBZqM) 
+- [Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017](https://www.youtube.com/watch?v=pjvbn6TBZqM)
 
 ## Slides
 
@@ -187,7 +187,7 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
   - [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
   - [Lessons Learned Building the Composer Internals (2018)](http://slides.seld.be/?file=2018-04-20+Lessons+Learned+Building+the+Composer+Internals.html)
 
----------------------------------------------------------
+---
 
 ## Packagist
 
@@ -208,12 +208,12 @@ About metadata mirrors: https://packagist.org/mirrors
 - South America
   - Brazil - [packagist.com.br](https://packagist.com.br)
 - Africa
-  - South Africa - [packagist.co.za](packagist.co.za)
+  - South Africa - [packagist.co.za](https://packagist.co.za)
 - Asia
-  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
+  - China - [https://pkg.xyz/](https://pkg.xyz/), [https://developer.aliyun.com/composer](https://developer.aliyun.com/composer)
   - India - [https://packagist.in/](https://packagist.in/)
-  - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
+  - Korea - [https://packagist.kr/](https://packagist.kr/)
 
 ## Composer Repositories
 
@@ -221,7 +221,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - https://github.com/slince/composer-registry-manager - The plugin helps you to switch between different composer repositories.
 
 ### Private repositories
-- [fxpio/tug ![GitHub Repo Stars](https://img.shields.io/github/stars/fxpio/tug) ![GitHub last commit](https://img.shields.io/github/last-commit/fxpio/tug)](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or Gitlab services.
+- [fxpio/tug ![GitHub Repo Stars](https://img.shields.io/github/stars/fxpio/tug) ![GitHub last commit](https://img.shields.io/github/last-commit/fxpio/tug)](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
 
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
@@ -246,8 +246,8 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ### Satis
 
-- [Gitlab-Composer ![GitHub Repo Stars](https://img.shields.io/github/stars/wemakecustom/gitlab-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/wemakecustom/gitlab-composer)](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
-- [Satisfy ![GitHub Repo Stars](https://img.shields.io/github/stars/ludofleury/satisfy) ![GitHub last commit](https://img.shields.io/github/last-commit/ludofleury/satisfy)](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
+- [GitLab-Composer ![GitHub Repo Stars](https://img.shields.io/github/stars/wemakecustom/gitlab-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/wemakecustom/gitlab-composer)](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for GitLab repositories.
+- [Satisfy ![GitHub Repo Stars](https://img.shields.io/github/stars/project-satisfy/satisfy) ![GitHub last commit](https://img.shields.io/github/last-commit/project-satisfy/satisfy)](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI.
 - [Satis Control Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/realshadow/satis-control-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/realshadow/satis-control-panel)](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
 - [Satis Go ![GitHub Repo Stars](https://img.shields.io/github/stars/benschw/satis-go) ![GitHub last commit](https://img.shields.io/github/last-commit/benschw/satis-go)](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
@@ -255,9 +255,9 @@ About metadata mirrors: https://packagist.org/mirrors
 
 - [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
----------------------------------------------------------
+---
 
-## License
+## Copyright
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
