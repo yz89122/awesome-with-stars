@@ -295,7 +295,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Fonts
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
-    - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    - ��� [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -471,7 +471,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/strah19/Ember) ![GitHub last commit](https://img.shields.io/github/last-commit/strah19/Ember)](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
     - 🎉 [Filament ![GitHub Repo Stars](https://img.shields.io/github/stars/google/filament) ![GitHub last commit](https://img.shields.io/github/last-commit/google/filament)](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by _Google_.
     - 🎉 [Forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ConfettiFX/The-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ConfettiFX/The-Forge)](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
-    - 🎉 [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.
+    - �� [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.
     - 🎉 [Intermediate Graphics Library (IGL) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/igl) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/igl)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/LLGL) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/LLGL)](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mosra/magnum) ![GitHub last commit](https://img.shields.io/github/last-commit/mosra/magnum)](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
@@ -1192,7 +1192,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Ordered dithering in glsl using 8x8 Bayer Dithering.
 - Fire
     - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Fire intro shader using noise textures and masking.
-    - ���� [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
+    - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
@@ -1363,7 +1363,7 @@ _Resources to help bring video games and game engines alive._
 - Music
     - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - High-quality loops and packs used for music creation.
     - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
-    - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
+    - ���� [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 - Sound Effects
