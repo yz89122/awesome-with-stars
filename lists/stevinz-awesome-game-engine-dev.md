@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -1192,7 +1192,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Ordered dithering in glsl using 8x8 Bayer Dithering.
 - Fire
     - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Fire intro shader using noise textures and masking.
-    - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
+    - ���� [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
 - Lines
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
