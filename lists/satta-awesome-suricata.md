@@ -110,6 +110,7 @@
 - [3CORESec NIDS - Sinkholes](https://dtection.io/ruleset/3cs_sinkholes) - Suricata ruleset focused on a curated list of public malware sinkholes (free).
 - [PAW Patrules](https://pawpatrules.fr) - Another free (CC BY-NC-SA) collection of rules for the Suricata engine.
 - [opnsense-suricata-nmaps ![GitHub Repo Stars](https://img.shields.io/github/stars/aleksibovellan/opnsense-suricata-nmaps) ![GitHub last commit](https://img.shields.io/github/last-commit/aleksibovellan/opnsense-suricata-nmaps)](https://github.com/aleksibovellan/opnsense-suricata-nmaps) - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
+- [Antiphishing ![GitHub Repo Stars](https://img.shields.io/github/stars/julioliraup/Antiphishing) ![GitHub last commit](https://img.shields.io/github/last-commit/julioliraup/Antiphishing)](https://github.com/julioliraup/Antiphishing) - Suricata rules and datasets to detect phishing attacks.
 
 
 ## Rule/Security Content Management and Handling
