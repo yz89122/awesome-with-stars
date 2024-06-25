@@ -503,7 +503,7 @@ become an Angular expert.
 
 #### Internationalization
 
-* [transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/transloco)](https://github.com/ngneat/transloco) - ��� 😍 The internationalization (i18n) library for Angular.
 * [ngx-tolgee ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [localess ![GitHub Repo Stars](https://img.shields.io/github/stars/Lessify/localess) ![GitHub last commit](https://img.shields.io/github/last-commit/Lessify/localess)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
 * [typesafe-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanhofer/typesafe-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanhofer/typesafe-i18n)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
