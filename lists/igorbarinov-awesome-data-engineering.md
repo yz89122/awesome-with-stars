@@ -130,6 +130,7 @@
 - [Sling](https://slingdata.io/) - Sling is CLI data integration tool specialized in moving data between databases, as well as storage systems.
 - [Meltano](https://meltano.com/) - CLI & code-first ELT.
   - [Singer SDK](https://sdk.meltano.com) - The fastest way to build custom data extractors and loaders compliant with the Singer Spec.
+- [Google Sheets ETL ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/google-sheets-etl) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/google-sheets-etl)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
 
 ## File System
 
@@ -191,7 +192,6 @@
 - [Data Mechanics](https://www.datamechanics.co) - A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.
 - [Tez](https://tez.apache.org/) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
 - [Bistro ![GitHub Repo Stars](https://img.shields.io/github/stars/asavinov/bistro) ![GitHub last commit](https://img.shields.io/github/last-commit/asavinov/bistro)](https://github.com/asavinov/bistro) - A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via _functions_ and processes data via _columns operations_ as opposed to having only set operations in conventional approaches like MapReduce or SQL.
-
 - Batch ML
   - [H2O](https://www.h2o.ai/) - Fast scalable machine learning API for smarter applications.
   - [Mahout](https://mahout.apache.org/) - An environment for quickly creating scalable performant machine learning applications.
@@ -242,6 +242,7 @@
 - [Prefect](https://prefect.io/) - Prefect is an orchestration and observability platform. With it, developers can rapidly build and scale resilient code, and triage disruptions effortlessly.
 - [Multiwoven ![GitHub Repo Stars](https://img.shields.io/github/stars/Multiwoven/multiwoven) ![GitHub last commit](https://img.shields.io/github/last-commit/Multiwoven/multiwoven)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 - [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
+- [Kestra ![GitHub Repo Stars](https://img.shields.io/github/stars/kestra-io/kestra) ![GitHub last commit](https://img.shields.io/github/last-commit/kestra-io/kestra)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
 
 ## Data Lake Management
 
@@ -315,3 +316,4 @@
 
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
 - [The Data Stack Show](https://datastackshow.com/) - A show where they talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.
+

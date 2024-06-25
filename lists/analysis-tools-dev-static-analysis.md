@@ -697,7 +697,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [es6-plato ![GitHub Repo Stars](https://img.shields.io/github/stars/the-simian/es6-plato) ![GitHub last commit](https://img.shields.io/github/last-commit/the-simian/es6-plato)](https://github.com/the-simian/es6-plato) :warning: — Visualize JavaScript (ES6) source complexity.
 
-- [escomplex ![GitHub Repo Stars](https://img.shields.io/github/stars/jared-stilwell/escomplex) ![GitHub last commit](https://img.shields.io/github/last-commit/jared-stilwell/escomplex)](https://github.com/jared-stilwell/escomplex) :warning: ��� Software complexity analysis of JavaScript-family abstract syntax trees.
+- [escomplex ![GitHub Repo Stars](https://img.shields.io/github/stars/jared-stilwell/escomplex) ![GitHub last commit](https://img.shields.io/github/last-commit/jared-stilwell/escomplex)](https://github.com/jared-stilwell/escomplex) :warning: — Software complexity analysis of JavaScript-family abstract syntax trees.
 
 - [Esprima](https://esprima.org) :warning: — ECMAScript parsing infrastructure for multipurpose analysis.
 
@@ -833,7 +833,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 
-- [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) �� A Static Security Scanner.
+- [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) — A Static Security Scanner.
 
 - [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 
