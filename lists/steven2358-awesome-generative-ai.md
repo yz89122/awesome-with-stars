@@ -67,6 +67,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [Source code ![GitHub Repo Stars](https://img.shields.io/github/stars/danny-avila/LibreChat) ![GitHub last commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat)](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code ![GitHub Repo Stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mckaywrigley/chatbot-ui)](https://github.com/mckaywrigley/chatbot-ui).
+- [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs like OpenAI’s GPT-4 or Groq. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/janhq/jan) ![GitHub last commit](https://img.shields.io/github/last-commit/janhq/jan)](https://github.com/janhq/jan)
 
 ### Search engines
 
@@ -172,6 +173,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all ![GitHub Repo Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all) ![GitHub last commit](https://img.shields.io/github/last-commit/nomic-ai/gpt4all)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+- [LLM App ![GitHub Repo Stars](https://img.shields.io/github/stars/pathwaycom/llm-app) ![GitHub last commit](https://img.shields.io/github/last-commit/pathwaycom/llm-app)](https://github.com/pathwaycom/llm-app) - Open-source Python library to build real-time LLM-enabled data pipeline.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
