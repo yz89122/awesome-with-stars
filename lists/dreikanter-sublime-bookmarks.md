@@ -152,7 +152,7 @@ Plugins:
 - [Material theme ![GitHub Repo Stars](https://img.shields.io/github/stars/equinusocio/material-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/equinusocio/material-theme)](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. http://equinsuocha.io/material-theme
 - [Predawn ![GitHub Repo Stars](https://img.shields.io/github/stars/jamiewilson/predawn) ![GitHub last commit](https://img.shields.io/github/last-commit/jamiewilson/predawn)](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
 - [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
-- [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. http://kkga.github.io/spacegray
+- [Spacegray](http://kkga.github.io/spacegray/) �� A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. http://kkga.github.io/spacegray
 
 Related extensions:
 
