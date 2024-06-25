@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 <!-- lint disable double-link -->
 - [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/eslint-config-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/eslint-config-standard)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/standard)](https://github.com/feross/standard).
 - [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/eslint-config-xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/eslint-config-xo)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/xojs/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/xojs/xo)](https://github.com/xojs/xo).
-- [Antfu Eslint Config ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/eslint-config) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/eslint-config)](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
+- [Antfu Eslint Config ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/eslint-config) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/eslint-config)](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset.
 
 ### Other Configs
 
@@ -76,7 +76,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Preconfigured Configs with ESLint Set up
 
 - [Node.js Standard Style ![GitHub Repo Stars](https://img.shields.io/github/stars/geek/node-style) ![GitHub last commit](https://img.shields.io/github/last-commit/geek/node-style)](https://github.com/geek/node-style) - Node.js core config.
-- [eslint-config-prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/eslint-config-prettier)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
+- [eslint-config-prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/eslint-config-prettier)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
 - [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/standard)](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint ![GitHub Repo Stars](https://img.shields.io/github/stars/supermind/superlint) ![GitHub last commit](https://img.shields.io/github/last-commit/supermind/superlint)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 - [XO ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/xo) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/xo)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
@@ -276,7 +276,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Parsers
 
-- [babel-eslint-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/babel/babel) ![GitHub last commit](https://img.shields.io/github/last-commit/babel/babel)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - @babel/eslint-parser allows you to lint ALL valid Babel code with the fantastic ESLint.
+- [babel-eslint-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/babel/babel) ![GitHub last commit](https://img.shields.io/github/last-commit/babel/babel)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - Allows you to lint ALL valid Babel code with the fantastic ESLint.
 - [TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/typescript-eslint/typescript-eslint)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript ![GitHub Repo Stars](https://img.shields.io/github/stars/RokuRoad/eslint-plugin-roku) ![GitHub last commit](https://img.shields.io/github/last-commit/RokuRoad/eslint-plugin-roku)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 - [GraphQL ![GitHub Repo Stars](https://img.shields.io/github/stars/dotansimha/graphql-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/dotansimha/graphql-eslint)](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
@@ -286,7 +286,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 <!-- ignore is to keep "github" lower-case -->
 <!--lint ignore awesome-spell-check-->
 
-- [html ![GitHub Repo Stars](https://img.shields.io/github/stars/shuoshubao/eslint-formatter-html) ![GitHub last commit](https://img.shields.io/github/last-commit/shuoshubao/eslint-formatter-html)](https://github.com/shuoshubao/eslint-formatter-html) - A enhanced ESLint formatter
+- [html ![GitHub Repo Stars](https://img.shields.io/github/stars/shuoshubao/eslint-formatter-html) ![GitHub last commit](https://img.shields.io/github/last-commit/shuoshubao/eslint-formatter-html)](https://github.com/shuoshubao/eslint-formatter-html) - A enhanced ESLint formatter.
 - [badger ![GitHub Repo Stars](https://img.shields.io/github/stars/brettz9/eslint-formatter-badger) ![GitHub last commit](https://img.shields.io/github/last-commit/brettz9/eslint-formatter-badger)](https://github.com/brettz9/eslint-formatter-badger) - Make SVG-based badges summarizing ESLint results (e.g., for use on a README).
 - [git-log ![GitHub Repo Stars](https://img.shields.io/github/stars/JamieMason/eslint-formatter-git-log) ![GitHub last commit](https://img.shields.io/github/last-commit/JamieMason/eslint-formatter-git-log)](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
 - [github ![GitHub Repo Stars](https://img.shields.io/github/stars/hipstersmoothie/eslint-formatter-github) ![GitHub last commit](https://img.shields.io/github/last-commit/hipstersmoothie/eslint-formatter-github)](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
