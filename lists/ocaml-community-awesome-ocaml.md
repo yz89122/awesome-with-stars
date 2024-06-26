@@ -372,7 +372,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Logging
 
-- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) ��� A dumb OCaml logger.
+- [dolog ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/dolog) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/dolog)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt ![GitHub Repo Stars](https://img.shields.io/github/stars/codinuum/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/codinuum/volt)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
@@ -407,7 +407,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Syntax extensions without Camlp4: let's do it!](https://www.lexifi.com/ocaml/syntax-extensions-without-camlp4-lets-do-it/)
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
 - **Syntax Extensions**:
-  - [ppx_import ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ppx_import) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ppx_import)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+  - [ppx_import ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ppx_import) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ppx_import)](https://github.com/ocaml-ppx/ppx_import) �� Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
   - [ppx_string_interpolate ![GitHub Repo Stars](https://img.shields.io/github/stars/sheijk/ppx_string_interpolate) ![GitHub last commit](https://img.shields.io/github/last-commit/sheijk/ppx_string_interpolate)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
   - [ppx_monad ![GitHub Repo Stars](https://img.shields.io/github/stars/rizo/ppx_monad) ![GitHub last commit](https://img.shields.io/github/last-commit/rizo/ppx_monad)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
