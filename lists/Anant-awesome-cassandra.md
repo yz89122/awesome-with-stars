@@ -326,7 +326,7 @@ This is a curated list of awesome [Cassandra ![GitHub Repo Stars](https://img.sh
 
 #### Search / Secondary Indexes
 
-- [Tuning DSE Search](http://www.datastax.com/dev/blog/tuning-dse-search) - Tuning DSE Search – Indexing latency and query latency.
+- [Tuning DSE Search](http://www.datastax.com/dev/blog/tuning-dse-search) - Tuning DSE Search ��� Indexing latency and query latency.
 - [Cassandra Lucene Index ![GitHub Repo Stars](https://img.shields.io/github/stars/Stratio/cassandra-lucene-index) ![GitHub last commit](https://img.shields.io/github/last-commit/Stratio/cassandra-lucene-index)](https://github.com/Stratio/cassandra-lucene-index) - Lucene based secondary indexes for Cassandra.
 - [Elassandra](http://www.elassandra.io/) - Elassandra = Elasticsearch as a Cassandra secondary index.
 - [cassandra-trigger ![GitHub Repo Stars](https://img.shields.io/github/stars/gradeup/cassandra-trigger) ![GitHub last commit](https://img.shields.io/github/last-commit/gradeup/cassandra-trigger)](https://github.com/gradeup/cassandra-trigger) - Cassandra trigger to push realtime updates to elasticsearch.
