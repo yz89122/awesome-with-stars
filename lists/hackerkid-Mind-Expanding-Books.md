@@ -698,12 +698,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
 
-## Credits
+# Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
 * [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
 * All the [contributors ![GitHub Repo Stars](https://img.shields.io/github/stars/hackerkid/Mind-Expanding-Books) ![GitHub last commit](https://img.shields.io/github/last-commit/hackerkid/Mind-Expanding-Books)](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
-## License
+# License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vishnu Ks](https://github.com/hackerkid) has waived all copyright and related or neighboring rights to this work.
