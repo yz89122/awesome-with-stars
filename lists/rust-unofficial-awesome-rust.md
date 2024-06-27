@@ -496,7 +496,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 ### Text editors
 
-* [amp](https://amp.rs) �� Inspired by Vi/Vim.
+* [amp](https://amp.rs) — Inspired by Vi/Vim.
 * [emacs-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/emacs-ng/emacs-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/emacs-ng/emacs-ng)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
 * [gchp/iota ![GitHub Repo Stars](https://img.shields.io/github/stars/gchp/iota) ![GitHub last commit](https://img.shields.io/github/last-commit/gchp/iota)](https://github.com/gchp/iota) — A simple text editor
 * [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/helix-editor/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix)](https://github.com/helix-editor/helix) — A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/helix-editor/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix)](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
