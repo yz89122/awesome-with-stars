@@ -120,7 +120,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Magnopus**](https:&#x2F;&#x2F;www.magnopus.com&#x2F;) | [LA] [London] | unite the physical and digital worlds with extraordinary experiences | [🌐](https:&#x2F;&#x2F;www.magnopus.com&#x2F;current-openings)
 | [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [🌐](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
 | [**Map**](http:&#x2F;&#x2F;mapprojectoffice.com&#x2F;) | [London] | industrial designers who believe great design can solve problems | [🌐](https:&#x2F;&#x2F;universal.pinpointhq.com&#x2F;)
-| [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [📧](mailto:jobs@marshmallowlaserfeast.com)
+| [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [��](mailto:jobs@marshmallowlaserfeast.com)
 | [**Master of Shapes**](https:&#x2F;&#x2F;masterofshapes.com&#x2F;) | [LA] | a space surfing, geometry taming, buffalo riding, Future House | 
 | [**Midnight Commercial**](http:&#x2F;&#x2F;midnightcommercial.com&#x2F;) | [NYC] | unite the disparate digital and physical worlds | 
 | [**Midwest Immersive**](https:&#x2F;&#x2F;www.mwimmersive.com&#x2F;) | [Chicago] | immersive experiences for brands and agencies, projection mapping, LED lighting, games and app development | 
@@ -192,7 +192,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](mailto:jobs@vtprodesign.com)
 | [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
-| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [��](mailto:jobs@weareroyale.com)
+| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation | [🌐](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;channels&#x2F;219.html)
