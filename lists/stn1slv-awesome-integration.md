@@ -137,7 +137,7 @@ System integration is the process of linking together different IT systems (com
   - [Mockoon (⭐6k) ![GitHub Repo Stars](https://img.shields.io/github/stars/mockoon/mockoon) ![GitHub last commit](https://img.shields.io/github/last-commit/mockoon/mockoon)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
   - [MockServer (⭐4.5k) ![GitHub Repo Stars](https://img.shields.io/github/stars/mock-server/mockserver) ![GitHub last commit](https://img.shields.io/github/last-commit/mock-server/mockserver)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
   - [Mocky (⭐2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/MockyAbstract/Mocky) ![GitHub last commit](https://img.shields.io/github/last-commit/MockyAbstract/Mocky)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-  - [Prism (��4k) ![GitHub Repo Stars](https://img.shields.io/github/stars/stoplightio/prism) ![GitHub last commit](https://img.shields.io/github/last-commit/stoplightio/prism)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
+  - [Prism (⭐4k) ![GitHub Repo Stars](https://img.shields.io/github/stars/stoplightio/prism) ![GitHub last commit](https://img.shields.io/github/last-commit/stoplightio/prism)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
   - [WireMock (⭐6.1k) ![GitHub Repo Stars](https://img.shields.io/github/stars/tomakehurst/wiremock) ![GitHub last commit](https://img.shields.io/github/last-commit/tomakehurst/wiremock)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 - Testing tools and frameworks
   - [Apache JMeter (⭐8k) ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/jmeter)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
@@ -228,7 +228,7 @@ System integration is the process of linking together different IT systems (com
 - [Spring Integration (⭐1.5k) ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-integration) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-integration)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable-->
 ### iPaaS
 *Integration Platform as a Service (iPaaS) is a cloud-based platform that enables businesses to integrate different systems, applications, and data sources with ease. It provides a unified platform for managing data flows between various systems, simplifying the process of integrating different systems and automating workflows. iPaaS tools typically provide a visual interface for designing, deploying, and managing integrations, as well as pre-built connectors and APIs for integrating with popular systems and services.*
