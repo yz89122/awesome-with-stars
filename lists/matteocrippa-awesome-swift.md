@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1063 | June 27, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1064 | June 27, 2024 |
 
 In parternship with:
 
@@ -358,6 +358,7 @@ In parternship with:
 *Quick libs to get access to third party API services* [back to top](#readme) 
 
 * [GitHubAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/serhii-londar/GithubAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/serhii-londar/GithubAPI)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+* [GitHubRestAPISwiftOpenAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/Wei18/github-rest-api-swift-openapi) ![GitHub last commit](https://img.shields.io/github/last-commit/Wei18/github-rest-api-swift-openapi)](https://github.com/Wei18/github-rest-api-swift-openapi) - Scheduled generated GitHub's REST API as Swift code from OpenAPI specification.
 * [PXGoogleDirections ![GitHub Repo Stars](https://img.shields.io/github/stars/poulpix/PXGoogleDirections) ![GitHub last commit](https://img.shields.io/github/last-commit/poulpix/PXGoogleDirections)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [RandomUserSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/dingwilson/RandomUserSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/dingwilson/RandomUserSwift)](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 * [reddift ![GitHub Repo Stars](https://img.shields.io/github/stars/sonsongithub/reddift) ![GitHub last commit](https://img.shields.io/github/last-commit/sonsongithub/reddift)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
