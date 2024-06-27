@@ -53,7 +53,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-- [RTranslator ![GitHub Repo Stars](https://img.shields.io/github/stars/niedev/RTranslator) ![GitHub last commit](https://img.shields.io/github/last-commit/niedev/RTranslator)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
+- [RTranslator ![GitHub Repo Stars](https://img.shields.io/github/stars/niedev/RTranslator) ![GitHub last commit](https://img.shields.io/github/last-commit/niedev/RTranslator)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 - [Crow Translate ![GitHub Repo Stars](https://img.shields.io/github/stars/crow-translate/crow-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/crow-translate/crow-translate)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 - [Copy Translator ![GitHub Repo Stars](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator) ![GitHub last commit](https://img.shields.io/github/last-commit/CopyTranslator/CopyTranslator)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [LibreTranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/uav4geo/LibreTranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/uav4geo/LibreTranslate)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
