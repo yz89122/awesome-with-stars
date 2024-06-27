@@ -98,6 +98,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [NgRx](#ngrx)
 * [RxJS](#rxjs)
 * [TypeScript](#typescript)
+* [Other Lists](#other-lists)
 * [License](#license)
 
 ### Angular
@@ -260,6 +261,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Igor Katsuba](https://blog.katsuba.dev/)
 * [ng serve](https://www.ngserve.io/)
 * [Tomasz Ducin](https://ducin.dev/blog)
+* [This is Angular](https://dev.to/this-is-angular)
 
 ##### Books
 
@@ -1184,6 +1186,14 @@ for Bootstrap 5 & Angular 17.
 * [superstruct ![GitHub Repo Stars](https://img.shields.io/github/stars/ianstormtaylor/superstruct) ![GitHub last commit](https://img.shields.io/github/last-commit/ianstormtaylor/superstruct)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 * [typebox ![GitHub Repo Stars](https://img.shields.io/github/stars/sinclairzx81/typebox) ![GitHub last commit](https://img.shields.io/github/last-commit/sinclairzx81/typebox)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod ![GitHub Repo Stars](https://img.shields.io/github/stars/colinhacks/zod) ![GitHub last commit](https://img.shields.io/github/last-commit/colinhacks/zod)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
+#### Other Lists
+
+> This Awesome List excludes some libraries that don't yet support Angular 16+.  If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
+
+* [awesome-utils-dev/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/pegaltier/awesome-utils-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/pegaltier/awesome-utils-dev)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
+* [awesome-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/DaanDeSmedt/awesome-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/DaanDeSmedt/awesome-angular)](https://github.com/DaanDeSmedt/awesome-angular)
+* [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 
 ---
 
