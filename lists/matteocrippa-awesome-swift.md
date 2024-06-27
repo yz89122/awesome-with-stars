@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1058 | April 23, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1063 | June 27, 2024 |
 
 In parternship with:
 
@@ -329,6 +329,7 @@ In parternship with:
 *Libs to help with animation* [back to top](#readme) 
 
 * [Advance ![GitHub Repo Stars](https://img.shields.io/github/stars/timdonnelly/Advance) ![GitHub last commit](https://img.shields.io/github/last-commit/timdonnelly/Advance)](https://github.com/timdonnelly/Advance) - A powerful animation framework for iOS, tvOS, and OS X.
+* [AnimatedGradient ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/AnimatedGradient) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/AnimatedGradient)](https://github.com/exyte/AnimatedGradient) - Animated linear gradient library written with SwiftUI
 * [ChainPageCollectionView ![GitHub Repo Stars](https://img.shields.io/github/stars/jindulys/ChainPageCollectionView) ![GitHub last commit](https://img.shields.io/github/last-commit/jindulys/ChainPageCollectionView)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 * [CocoaSprings ![GitHub Repo Stars](https://img.shields.io/github/stars/MacPaw/CocoaSprings) ![GitHub last commit](https://img.shields.io/github/last-commit/MacPaw/CocoaSprings)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
 * [Comets ![GitHub Repo Stars](https://img.shields.io/github/stars/cruisediary/Comets) ![GitHub last commit](https://img.shields.io/github/last-commit/cruisediary/Comets)](https://github.com/cruisediary/Comets) - Animating Particles.
@@ -913,6 +914,7 @@ In parternship with:
 
 * [BFKit-Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/FabrizioBrancati/BFKit-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/FabrizioBrancati/BFKit-Swift)](https://github.com/FabrizioBrancati/BFKit-Swift) :penguin: - A collection of useful classes, structs and extensions to develop Apps faster.
 * [C4iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/C4Labs/C4iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/C4Labs/C4iOS)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+* [ContactsChangeNotifier ![GitHub Repo Stars](https://img.shields.io/github/stars/yonat/ContactsChangeNotifier) ![GitHub last commit](https://img.shields.io/github/last-commit/yonat/ContactsChangeNotifier)](https://github.com/yonat/ContactsChangeNotifier) - Which contacts changed outside your app? Better CNContactStoreDidChange notification: Get real changes, without the noise.
 
 ### Layout
 *Libs to help you with layout.* [back to top](#readme) 
@@ -941,6 +943,7 @@ In parternship with:
 * [EasyPeasy ![GitHub Repo Stars](https://img.shields.io/github/stars/nakiostudio/EasyPeasy) ![GitHub last commit](https://img.shields.io/github/last-commit/nakiostudio/EasyPeasy)](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 * [EasySwiftLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/Pimine/EasySwiftLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/Pimine/EasySwiftLayout)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
 * [EZLayout ![GitHub Repo Stars](https://img.shields.io/github/stars/alexliubj/EZAnchor) ![GitHub last commit](https://img.shields.io/github/last-commit/alexliubj/EZAnchor)](https://github.com/alexliubj/EZAnchor) - An easier and faster way to code Autolayout.
+* [FixFlex ![GitHub Repo Stars](https://img.shields.io/github/stars/psharanda/FixFlex) ![GitHub last commit](https://img.shields.io/github/last-commit/psharanda/FixFlex)](https://github.com/psharanda/FixFlex) - Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView.
 * [HypeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperconnect/HypeUI) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperconnect/HypeUI)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 * [KVConstraintKit ![GitHub Repo Stars](https://img.shields.io/github/stars/keshavvishwkarma/KVConstraintKit) ![GitHub last commit](https://img.shields.io/github/last-commit/keshavvishwkarma/KVConstraintKit)](https://github.com/keshavvishwkarma/KVConstraintKit) - An Impressive Autolayout DSL for iOS, tvOS & OSX.
 * [MisterFusion ![GitHub Repo Stars](https://img.shields.io/github/stars/marty-suzuki/MisterFusion) ![GitHub last commit](https://img.shields.io/github/last-commit/marty-suzuki/MisterFusion)](https://github.com/marty-suzuki/MisterFusion) - DSL for AutoLayout, supports Size Class.
@@ -962,6 +965,7 @@ In parternship with:
 * [Localize ![GitHub Repo Stars](https://img.shields.io/github/stars/andresilvagomez/Localize) ![GitHub last commit](https://img.shields.io/github/last-commit/andresilvagomez/Localize)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Localize-Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelroy/Localize-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelroy/Localize-Swift)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Locheck ![GitHub Repo Stars](https://img.shields.io/github/stars/Asana/locheck) ![GitHub last commit](https://img.shields.io/github/last-commit/Asana/locheck)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
+* [StringSwitch](https://stringswitch.com) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
 * [SwiftGen-L10n ![GitHub Repo Stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen) ![GitHub last commit](https://img.shields.io/github/last-commit/SwiftGen/SwiftGen)](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 * [Translatio ![GitHub Repo Stars](https://img.shields.io/github/stars/andrealufino/Translatio) ![GitHub last commit](https://img.shields.io/github/last-commit/andrealufino/Translatio)](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
 
@@ -1684,6 +1688,7 @@ In parternship with:
 * [EtherWalletKit ![GitHub Repo Stars](https://img.shields.io/github/stars/SteadyAction/EtherWalletKit) ![GitHub last commit](https://img.shields.io/github/last-commit/SteadyAction/EtherWalletKit)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 * [ExceptionCatcher ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/ExceptionCatcher) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/ExceptionCatcher)](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions.
 * [EZSwiftExtensions ![GitHub Repo Stars](https://img.shields.io/github/stars/Esqarrouth/EZSwiftExtensions) ![GitHub last commit](https://img.shields.io/github/last-commit/Esqarrouth/EZSwiftExtensions)](https://github.com/Esqarrouth/EZSwiftExtensions) - How standard types and classes were supposed to work.
+* [FlagAndCountryCode ![GitHub Repo Stars](https://img.shields.io/github/stars/exyte/FlagAndCountryCode) ![GitHub last commit](https://img.shields.io/github/last-commit/exyte/FlagAndCountryCode)](https://github.com/exyte/FlagAndCountryCode) - FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI
 * [FluentQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/MihaelIsaev/FluentQuery) ![GitHub last commit](https://img.shields.io/github/last-commit/MihaelIsaev/FluentQuery)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 * [GoodExtensions-iOS ![GitHub Repo Stars](https://img.shields.io/github/stars/GoodRequest/GoodExtensions-iOS) ![GitHub last commit](https://img.shields.io/github/last-commit/GoodRequest/GoodExtensions-iOS)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
 * [GoodUIKit ![GitHub Repo Stars](https://img.shields.io/github/stars/GoodRequest/GoodUIKit) ![GitHub last commit](https://img.shields.io/github/last-commit/GoodRequest/GoodUIKit)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
