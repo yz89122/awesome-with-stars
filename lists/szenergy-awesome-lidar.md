@@ -23,6 +23,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
     - [Ground segmentation](#ground-segmentation)
     - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
     - [Object detection and object tracking](#object-detection-and-object-tracking)
+    - [LIDAR-other-sensor calibration](#lidar-other-sensor-calibration)
   - [Simulators](#simulators)
   - [Related awesome](#related-awesome)
   - [Others](#others)
@@ -32,6 +33,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - Any list item with an OctoCat :octocat: has a GitHub repo or organization
 - Any list item with a RedCircle :red_circle: has YouTube videos or channel
 - Any list item with a Paper :newspaper: has a scientific paper or detailed description
+- Any list item with a ![](https://img.shields.io/badge/ROS-2-34aec5) is [`ROS 2`](https://docs.ros.org/) compatible
 
 ## Manufacturers
 
@@ -41,13 +43,13 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [C++/Python library :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/valgur/velodyne_decoder) ![GitHub last commit](https://img.shields.io/github/last-commit/valgur/velodyne_decoder)](https://github.com/valgur/velodyne_decoder)
 - [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/Ouster-lidar)
-  - [GitHub organization :octocat:](https://github.com/ouster-lidar)
+  - [GitHub organization :octocat:](https://github.com/ouster-lidar) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Livox](https://www.livoxtech.com/) - LIDAR manufacturer.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
-  - [GitHub organization :octocat:](https://github.com/Livox-SDK)
+  - [GitHub organization :octocat:](https://github.com/Livox-SDK) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer, the headquarter is located in Waldkirch, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
-  - [GitHub organization :octocat:](https://github.com/SICKAG)
+  - [GitHub organization :octocat:](https://github.com/SICKAG) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer, headquartered in Osaka, Japan.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
 - [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR). Pioneer is headquartered in Tokyo, Japan.
@@ -60,10 +62,10 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub organization :octocat:](https://github.com/HesaiTechnology)
 - [Robosense](http://www.robosense.ai/) - RoboSense (Suteng Innovation Technology Co., Ltd.) is a LIDAR sensor, AI algorithm and IC chipset maufactuirer based in Shenzhen and Beijing (China).
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
-  - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
+  - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [LSLIDAR](https://www.lslidar.com/) - LSLiDAR (Leishen Intelligent System Co., Ltd.) is a LIDAR sensor manufacturer and complete solution provider based in Shenzhen, China.
   - [YouTube channel :red_circle:](https://www.youtube.com/@lslidar2015)
-  - [GitHub organization :octocat:](https://github.com/Lslidar)
+  - [GitHub organization :octocat:](https://github.com/Lslidar) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) - Innoviz technologies / specializes in solid-state LIDARs.
@@ -74,7 +76,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
 - [Blickfeld](https://www.blickfeld.com/) - Blickfeld is a solid-state LIDAR manufacturer for autonomous mobility and IoT, based in München, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
-  - [GitHub organization :octocat:](https://github.com/Blickfeld)
+  - [GitHub organization :octocat:](https://github.com/Blickfeld) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Neuvition](https://www.neuvition.com/) - Neuvition is a solid-state LIDAR manufacturer based in Wujiang, China.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
 - [Aeva](https://www.aeva.com/) - Aeva is bringing the next wave of perception technology to all devices for automated driving, consumer electronics, health, industrial robotics and security, Mountain View, California, USA.
@@ -90,7 +92,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Pepperl+Fuchs](https://www.pepperl-fuchs.com/) - Is a global technology company, specialized in innovative automation solutions and sensor technologies, such as LiDAR, based in Mannheim, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/pepperl-fuchs)
   - [YouTube channel :red_circle:](https://www.youtube.com/user/PepperlFuchsUSA)
-  - [GitHub organization :octocat:](https://github.com/PepperlFuchs)
+  - [GitHub organization :octocat:](https://github.com/PepperlFuchs) ![](https://img.shields.io/badge/ROS-2-34aec5)
 
 ## Datasets
 
@@ -107,7 +109,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
-- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
+- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud. ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Semantic KITTI](http://semantic-kitti.org/) - Dataset for semantic and panoptic scene segmentation.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
 - [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
@@ -132,7 +134,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 ## Libraries
 
 - [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl) ![GitHub last commit](https://img.shields.io/github/last-commit/PointCloudLibrary/pcl)](https://github.com/PointCloudLibrary/pcl)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl) ![GitHub last commit](https://img.shields.io/github/last-commit/PointCloudLibrary/pcl)](https://github.com/PointCloudLibrary/pcl) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/intel-isl/Open3D) ![GitHub last commit](https://img.shields.io/github/last-commit/intel-isl/Open3D)](https://github.com/intel-isl/Open3D)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
@@ -154,7 +156,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 ## Frameworks
 
 - [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
-  - [GitLab repository :octocat:](https://gitlab.com/autowarefoundation/autoware.ai)
+  - [GitHub oragnization :octocat:](https://github.com/autowarefoundation) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [Paper :newspaper:](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
 - [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/ApolloAuto/apollo) ![GitHub last commit](https://img.shields.io/github/last-commit/ApolloAuto/apollo)](https://github.com/ApolloAuto/apollo)
@@ -169,7 +171,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 - [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
 - [KISS-ICP :red_circle:](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PRBonn/kiss-icp) ![GitHub last commit](https://img.shields.io/github/last-commit/PRBonn/kiss-icp)](https://github.com/PRBonn/kiss-icp)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PRBonn/kiss-icp) ![GitHub last commit](https://img.shields.io/github/last-commit/PRBonn/kiss-icp)](https://github.com/PRBonn/kiss-icp) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ### Semantic segmentation
@@ -206,7 +208,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/LimHyungTae/patchwork) ![GitHub last commit](https://img.shields.io/github/last-commit/LimHyungTae/patchwork)](https://github.com/LimHyungTae/patchwork)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
 - [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/url-kaist/patchwork-plusplus-ros) ![GitHub last commit](https://img.shields.io/github/last-commit/url-kaist/patchwork-plusplus-ros)](https://github.com/url-kaist/patchwork-plusplus-ros)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/url-kaist/patchwork-plusplus-ros) ![GitHub last commit](https://img.shields.io/github/last-commit/url-kaist/patchwork-plusplus-ros)](https://github.com/url-kaist/patchwork-plusplus-ros) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
 
 
@@ -214,7 +216,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/RobustFieldAutonomyLab/LeGO-LOAM) ![GitHub last commit](https://img.shields.io/github/last-commit/RobustFieldAutonomyLab/LeGO-LOAM)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-- [Cartographer :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/cartographer-project/cartographer) ![GitHub last commit](https://img.shields.io/github/last-commit/cartographer-project/cartographer)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+- [Cartographer :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/cartographer-project/cartographer) ![GitHub last commit](https://img.shields.io/github/last-commit/cartographer-project/cartographer)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PRBonn/semantic_suma) ![GitHub last commit](https://img.shields.io/github/last-commit/PRBonn/semantic_suma)](https://github.com/PRBonn/semantic_suma/)
@@ -223,7 +225,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PRBonn/OverlapNet) ![GitHub last commit](https://img.shields.io/github/last-commit/PRBonn/OverlapNet)](https://github.com/PRBonn/OverlapNet)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 - [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/TixiaoShan/LIO-SAM) ![GitHub last commit](https://img.shields.io/github/last-commit/TixiaoShan/LIO-SAM)](https://github.com/TixiaoShan/LIO-SAM)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/TixiaoShan/LIO-SAM) ![GitHub last commit](https://img.shields.io/github/last-commit/TixiaoShan/LIO-SAM)](https://github.com/TixiaoShan/LIO-SAM) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
 - [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/irapkaist/removert) ![GitHub last commit](https://img.shields.io/github/last-commit/irapkaist/removert)](https://github.com/irapkaist/removert)
@@ -243,25 +245,33 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/jkk-research/urban_road_filter) ![GitHub last commit](https://img.shields.io/github/last-commit/jkk-research/urban_road_filter)](https://github.com/jkk-research/urban_road_filter)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
+## LIDAR-other-sensor calibration
+
+- [direct_visual_lidar_calibration](https://koide3.github.io/direct_visual_lidar_calibration/) - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/koide3/direct_visual_lidar_calibration) ![GitHub last commit](https://img.shields.io/github/last-commit/koide3/direct_visual_lidar_calibration)](https://github.com/koide3/direct_visual_lidar_calibration) ![](https://img.shields.io/badge/ROS-2-34aec5)
+  - [Paper :newspaper:](https://staff.aist.go.jp/k.koide/assets/pdf/icra2023.pdf)
+- [OpenCalib :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/PJLab-ADG/SensorsCalibration) ![GitHub last commit](https://img.shields.io/github/last-commit/PJLab-ADG/SensorsCalibration)](https://github.com/PJLab-ADG/SensorsCalibration) - A Multi-sensor Calibration Toolbox for Autonomous Driving
+  - [Paper :newspaper:](https://arxiv.org/pdf/2205.14087)
+
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 - [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/osrf/gazebo) ![GitHub last commit](https://img.shields.io/github/last-commit/osrf/gazebo)](https://github.com/osrf/gazebo)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/osrf/gazebo) ![GitHub last commit](https://img.shields.io/github/last-commit/osrf/gazebo)](https://github.com/osrf/gazebo) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/carla-simulator/carla) ![GitHub last commit](https://img.shields.io/github/last-commit/carla-simulator/carla)](https://github.com/carla-simulator/carla)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/carla-simulator/carla) ![GitHub last commit](https://img.shields.io/github/last-commit/carla-simulator/carla)](https://github.com/carla-simulator/carla) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 - [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/lgsvl/simulator) ![GitHub last commit](https://img.shields.io/github/last-commit/lgsvl/simulator)](https://github.com/lgsvl/simulator)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
 - [OSSDC SIM ![GitHub Repo Stars](https://img.shields.io/github/stars/OSSDC/OSSDC-SIM) ![GitHub last commit](https://img.shields.io/github/last-commit/OSSDC/OSSDC-SIM)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/OSSDC/OSSDC-SIM) ![GitHub last commit](https://img.shields.io/github/last-commit/OSSDC/OSSDC-SIM)](https://github.com/OSSDC/OSSDC-SIM)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/OSSDC/OSSDC-SIM) ![GitHub last commit](https://img.shields.io/github/last-commit/OSSDC/OSSDC-SIM)](https://github.com/OSSDC/OSSDC-SIM) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 - [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/AirSim) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/AirSim)](https://github.com/microsoft/AirSim)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
 - [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/tier4/AWSIM) ![GitHub last commit](https://img.shields.io/github/last-commit/tier4/AWSIM)](https://github.com/tier4/AWSIM)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/tier4/AWSIM) ![GitHub last commit](https://img.shields.io/github/last-commit/tier4/AWSIM)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 
@@ -269,7 +279,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [Awesome point cloud analysis :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/Yochengliu/awesome-point-cloud-analysis)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 - [Awesome robotics :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/Kiloreux/awesome-robotics) ![GitHub last commit](https://img.shields.io/github/last-commit/Kiloreux/awesome-robotics)](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Awesome robotics libraries :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/jslee02/awesome-robotics-libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/jslee02/awesome-robotics-libraries)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-- [Awesome ROS 2 :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/fkromer/awesome-ros2) ![GitHub last commit](https://img.shields.io/github/last-commit/fkromer/awesome-ros2)](https://github.com/fkromer/awesome-ros2#readme)
+- [Awesome ROS 2 :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/fkromer/awesome-ros2) ![GitHub last commit](https://img.shields.io/github/last-commit/fkromer/awesome-ros2)](https://github.com/fkromer/awesome-ros2#readme) ![](https://img.shields.io/badge/ROS-2-34aec5)
 - [Awesome artificial intelligence :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence) ![GitHub last commit](https://img.shields.io/github/last-commit/owainlewis/awesome-artificial-intelligence)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Awesome computer vision :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision) ![GitHub last commit](https://img.shields.io/github/last-commit/jbhuang0604/awesome-computer-vision)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Awesome machine learning :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/josephmisiti/awesome-machine-learning)](https://github.com/josephmisiti/awesome-machine-learning#readme)
@@ -294,7 +304,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 - [Photogrammetry importer :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/SBCV/Blender-Addon-Photogrammetry-Importer) ![GitHub last commit](https://img.shields.io/github/last-commit/SBCV/Blender-Addon-Photogrammetry-Importer)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 - [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
-  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/foxglove/studio) ![GitHub last commit](https://img.shields.io/github/last-commit/foxglove/studio)](https://github.com/foxglove/studio)
+  - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/foxglove/studio) ![GitHub last commit](https://img.shields.io/github/last-commit/foxglove/studio)](https://github.com/foxglove/studio) ![](https://img.shields.io/badge/ROS-2-34aec5)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 - [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
   - [GitHub repository :octocat: ![GitHub Repo Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab) ![GitHub last commit](https://img.shields.io/github/last-commit/cnr-isti-vclab/meshlab)](https://github.com/cnr-isti-vclab/meshlab) 
