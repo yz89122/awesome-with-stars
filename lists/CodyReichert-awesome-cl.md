@@ -1272,6 +1272,7 @@ Others
 * [find-port ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/find-port)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
 * [cl-wget ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-wget/cl-wget) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-wget/cl-wget)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
 * [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT][200].
+* [cl-cookie ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/cl-cookie) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-cookie)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 
 
 ### Email
