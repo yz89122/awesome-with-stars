@@ -671,6 +671,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 * GDB
   * [gdbgui ![GitHub Repo Stars](https://img.shields.io/github/stars/cs01/gdbgui) ![GitHub last commit](https://img.shields.io/github/last-commit/cs01/gdbgui)](https://github.com/cs01/gdbgui) - Browser based frontend for gdb to debug C, C++, Rust, and go.
+* [kxxt/tracexec ![GitHub Repo Stars](https://img.shields.io/github/stars/kxxt/tracexec) ![GitHub last commit](https://img.shields.io/github/last-commit/kxxt/tracexec)](https://github.com/kxxt/tracexec) [[tracexec](https://crates.io/crates/tracexec)] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 * LLDB
   * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - A LLDB extension for [Visual Studio Code](https://code.visualstudio.com/).
 
