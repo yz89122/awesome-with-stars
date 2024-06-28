@@ -464,7 +464,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 - [elvis ![GitHub Repo Stars](https://img.shields.io/github/stars/inaka/elvis) ![GitHub last commit](https://img.shields.io/github/last-commit/inaka/elvis)](https://github.com/inaka/elvis) — Erlang Style Reviewer.
 
-- [Primitive Erlang Security Tool (PEST) ![GitHub Repo Stars](https://img.shields.io/github/stars/okeuday/pest) ![GitHub last commit](https://img.shields.io/github/last-commit/okeuday/pest)](https://github.com/okeuday/pest) �� A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
+- [Primitive Erlang Security Tool (PEST) ![GitHub Repo Stars](https://img.shields.io/github/stars/okeuday/pest) ![GitHub last commit](https://img.shields.io/github/last-commit/okeuday/pest)](https://github.com/okeuday/pest) — A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
 
 
 <a name="fsharp" />
