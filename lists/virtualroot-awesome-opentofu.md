@@ -82,7 +82,7 @@
 
 ### Tests
 
-- [Terratest ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntwork-io/terratest) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntwork-io/terratest)](https://github.com/gruntwork-io/terratest) - Go library that makes it easier to write automated tests for your infrastructure code.
+- [Terratest ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntwork-io/terratest) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntwork-io/terratest)](https://github.com/gruntwork-io/terratest) - Go library that makes writing automated tests for your infrastructure code easier.
 
 ### State
 
@@ -101,12 +101,13 @@
 *Alternatives to Terraform Cloud.*
 
 - [digger ![GitHub Repo Stars](https://img.shields.io/github/stars/diggerhq/digger) ![GitHub last commit](https://img.shields.io/github/last-commit/diggerhq/digger)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-- [terrakube ![GitHub Repo Stars](https://img.shields.io/github/stars/AzBuilder/terrakube) ![GitHub last commit](https://img.shields.io/github/last-commit/AzBuilder/terrakube)](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
+- [terrakube ![GitHub Repo Stars](https://img.shields.io/github/stars/AzBuilder/terrakube) ![GitHub last commit](https://img.shields.io/github/last-commit/AzBuilder/terrakube)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [tofutf ![GitHub Repo Stars](https://img.shields.io/github/stars/tofutf/tofutf) ![GitHub last commit](https://img.shields.io/github/last-commit/tofutf/tofutf)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 - [walrus ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/walrus) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/walrus)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
 
 ### Registry
 
+- [library.tf](https://library.tf/) - An indexer of registries for providers and modules with insights and documentation.
 - [boring-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/boring-registry/boring-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/boring-registry/boring-registry)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 - [hermitcrab ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/hermitcrab) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/hermitcrab)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 - [terrac ![GitHub Repo Stars](https://img.shields.io/github/stars/haoliangyu/terrac) ![GitHub last commit](https://img.shields.io/github/last-commit/haoliangyu/terrac)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
