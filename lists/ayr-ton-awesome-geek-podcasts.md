@@ -263,7 +263,7 @@ A curated list of podcasts we like to listen to.
 * [Quero Ouvir (Coisa de Nerd – Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
 * [Quebradev](https://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
-* [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, hist��ria e outros.
+* [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 * [SciCast](https://open.spotify.com/show/0qfFcilKpNKkXy8TbZ4moP) - Podcast que explora a ciência e temas relacionados, incluindo tecnologia.
 * [Showmetech](https://open.spotify.com/show/57lV7FKAvxwAJ3HIZNCmI6) - Podcast abrangendo notícias de tecnologia e inovações.
 * [Sinapse](https://open.spotify.com/show/59fUC0CFgoMfiLDXCuhjUM)- Podcast sobre neurociência e temas interdisciplinares.
