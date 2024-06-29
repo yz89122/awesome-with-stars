@@ -690,7 +690,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
-### 🇪🇹 Ethiopia
+### 🇪�� Ethiopia
 
 - [Telegram](https://t.me/flutter_forum/)
 
