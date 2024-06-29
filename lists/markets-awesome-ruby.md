@@ -704,6 +704,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Guard::LiveReload ![GitHub Repo Stars](https://img.shields.io/github/stars/guard/guard-livereload) ![GitHub last commit](https://img.shields.io/github/last-commit/guard/guard-livereload)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 * [Listen ![GitHub Repo Stars](https://img.shields.io/github/stars/guard/listen) ![GitHub last commit](https://img.shields.io/github/last-commit/guard/listen)](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 * [Rerun ![GitHub Repo Stars](https://img.shields.io/github/stars/alexch/rerun) ![GitHub last commit](https://img.shields.io/github/last-commit/alexch/rerun)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+* [Retest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexb52/retest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexb52/retest)](https://github.com/alexb52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
 
 ## Form Builder
 
