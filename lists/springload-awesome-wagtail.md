@@ -318,7 +318,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) by Harris Lapiroff.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) by Zarina Mustapha.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) by Ryan Verner.
-- [Wagtail in the Cloud – Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Daniele Procida.
+- [Wagtail in the Cloud �� Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Daniele Procida.
 - [Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018](https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Michael Harrison.
 - [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
 - [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
@@ -338,7 +338,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/LUKKIEN/wagtail-marketing-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/LUKKIEN/wagtail-marketing-addons)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 - [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
-- [Wagtail & GraphQL ��� Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
+- [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) by Brian Smith & Eric Sherman. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
 - [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) by Timothy Allen.
 - [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) by Vince Salvino.
@@ -446,7 +446,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [dev.hel.fi ![GitHub Repo Stars](https://img.shields.io/github/stars/City-of-Helsinki/devheldev) ![GitHub last commit](https://img.shields.io/github/last-commit/City-of-Helsinki/devheldev)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
 - [Digital Helsinki ![GitHub Repo Stars](https://img.shields.io/github/stars/City-of-Helsinki/digihel) ![GitHub last commit](https://img.shields.io/github/last-commit/City-of-Helsinki/digihel)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 - [Secure the News ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securethenews) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securethenews)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
-- [HackSoft ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hacksoft.io) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hacksoft.io)](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
+- [HackSoft ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hacksoft.io) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hacksoft.io)](https://github.com/HackSoftware/hacksoft.io) –��Website for HackSoft.
 - [HackConf ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hackconf.bg) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hackconf.bg)](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 - [RTEI ![GitHub Repo Stars](https://img.shields.io/github/stars/okfn/rtei) ![GitHub last commit](https://img.shields.io/github/last-commit/okfn/rtei)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 - [BVSPCA ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
