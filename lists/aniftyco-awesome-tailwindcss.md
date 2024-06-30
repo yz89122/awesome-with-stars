@@ -190,7 +190,7 @@
 - 🧩 [Tailwind Cards ![GitHub Repo Stars](https://img.shields.io/github/stars/hasinhayder/tailwind-cards) ![GitHub last commit](https://img.shields.io/github/last-commit/hasinhayder/tailwind-cards)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 - 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
-- 🧩📁 [Jakarta LTE ![GitHub Repo Stars](https://img.shields.io/github/stars/zeroblack-c/jakarta-lte) ![GitHub last commit](https://img.shields.io/github/last-commit/zeroblack-c/jakarta-lte)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
+- 🧩�� [Jakarta LTE ![GitHub Repo Stars](https://img.shields.io/github/stars/zeroblack-c/jakarta-lte) ![GitHub last commit](https://img.shields.io/github/last-commit/zeroblack-c/jakarta-lte)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 - 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
@@ -213,7 +213,7 @@
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
-- ���� [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
+- 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
