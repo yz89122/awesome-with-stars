@@ -260,7 +260,7 @@ A curated list of podcasts we like to listen to.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento técnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
 * [Podtrash](http://www.td1p.com/) - Um podcast sobre filmes trash, feito por adoradores do trash.
-* [Quero Ouvir (Coisa de Nerd – Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
+* [Quero Ouvir (Coisa de Nerd �� Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
 * [Quebradev](https://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
@@ -295,7 +295,7 @@ A curated list of podcasts we like to listen to.
 * [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - Mundo maker, software y hardware libre, proyectos, actividades y eventos organizados por la asociación Bricolabs.
 * [Davidochobits podcast](https://www.ochobitshacenunbyte.com/category/miscelaneos/) - Free Software, GNU y Linux.
 * [deployando.me](https://deployando.me/) - Podcast de tecnologia para sysadmins y devops.
-* [Eduardo Collado](https://www.eduardocollado.com/) - Administraci��n de redes. No sólo de hosting y redes vive el hombre.
+* [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
 * [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
 * [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
 * [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
