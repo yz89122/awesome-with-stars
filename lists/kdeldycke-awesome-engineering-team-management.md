@@ -187,7 +187,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 - “Hiring isn't the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.” ([source](https://twitter.com/kellan/status/1205113384632500224)).
 
-- “The CEO positions himself as a controlling, micromanaging individual at the center of everything. This makes it possible for the CEO to intercept financials and other crucial numbers en route to people who might catch on.” ([source](https://news.ycombinator.com/item?id=24519247)) - Or how fraud can endure at the top level. That's generally why you need a board of directors as an oversight.
+- “The CEO positions himself as a controlling, micromanaging individual at the center of everything. This makes it possible for the CEO to intercept financials and other crucial numbers en route to people who might catch on.�� ([source](https://news.ycombinator.com/item?id=24519247)) - Or how fraud can endure at the top level. That's generally why you need a board of directors as an oversight.
 
 ### CTO & VP of Engineering
 
