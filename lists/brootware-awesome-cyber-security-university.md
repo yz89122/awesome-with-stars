@@ -279,7 +279,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Most Recent threats](<https://tryhackme.com/module/recent-threats>) - Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.
 
 <!--lint disable double-link-->
-[��](#contents)<!--lint enable double-link-->
+[↑](#contents)<!--lint enable double-link-->
 
 ## Bonus Windows
 
