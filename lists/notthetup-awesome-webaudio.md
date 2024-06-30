@@ -94,6 +94,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [Audio-motion interface ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxAlyokhin/audio-motion-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxAlyokhin/audio-motion-interface)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 - [Topos](https://topos.raphaelforment.fr) - A Web based live coding environment inspired by the Monome Teletype. Uses Web Audio and MIDI.
 - [Online Sequencer](https://onlinesequencer.net) - A simple and easy-to-use sequencer with plenty of functionality, based around the Web Audio API.
+- [Binary Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxAlyokhin/binary-synth) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxAlyokhin/binary-synth)](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
 
 ## Resources
 
