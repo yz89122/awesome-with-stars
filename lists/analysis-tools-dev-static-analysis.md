@@ -833,7 +833,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 
-- [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) �� A Static Security Scanner.
+- [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) — A Static Security Scanner.
 
 - [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 
@@ -1456,7 +1456,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Hopper ![GitHub Repo Stars](https://img.shields.io/github/stars/cuplv/hopper) ![GitHub last commit](https://img.shields.io/github/last-commit/cuplv/hopper)](https://github.com/cuplv/hopper) :warning: — A static analysis tool written in scala for languages that run on JVM.
 
-- [Hound CI](https://houndci.com) — Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
+- [Hound CI](https://houndci.com) :warning: — Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 
 - [imhotep ![GitHub Repo Stars](https://img.shields.io/github/stars/justinabrahms/imhotep) ![GitHub last commit](https://img.shields.io/github/last-commit/justinabrahms/imhotep)](https://github.com/justinabrahms/imhotep) :warning: — Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
 
