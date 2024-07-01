@@ -85,7 +85,8 @@ See [ebu/awesome-broadcasting ![GitHub Repo Stars](https://img.shields.io/github
 **[`^        back to top        ^`](#Contents)**
 
 - [Livescript ![GitHub Repo Stars](https://img.shields.io/github/stars/Netlob/livescript) ![GitHub last commit](https://img.shields.io/github/last-commit/Netlob/livescript)](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
-- [StageClock](http://notelek.com/StageClock/) - StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information. `⚠ freemium`.
+- [Ontime ![GitHub Repo Stars](https://img.shields.io/github/stars/cpvalente/ontime) ![GitHub last commit](https://img.shields.io/github/last-commit/cpvalente/ontime)](https://github.com/cpvalente/ontime) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
+- [stagetimer.io](https://stagetimer.io) - Browser-based remote-controlled countdown timer.  `⚠ freemium`.
 
 ### CADs
 

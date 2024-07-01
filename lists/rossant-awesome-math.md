@@ -404,7 +404,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (UPenn)
 * 📝 [Introduction to Topology](http://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf)
-* ���� [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) - Alex Küronya
+* 📝 [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) - Alex Küronya
 * 📝 [Introductory Topology](http://www.math.clemson.edu/~jimlb/Teaching/2009-10/Math986/Topology.pdf) - Jim L. Brown
 * 📝 [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
@@ -435,7 +435,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
-* ��� [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
+* 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 * 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * 📝 [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
@@ -476,7 +476,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Functional Analysis
 
-* ��� [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
+* 📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 * 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 * 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
