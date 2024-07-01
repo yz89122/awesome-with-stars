@@ -177,6 +177,7 @@
 - [Angelo Pirola ![GitHub Repo Stars](https://img.shields.io/github/stars/angelodotnet/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/angelodotnet/ama)](https://github.com/angelodotnet/ama) - Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.
 - [Can Tecim ![GitHub Repo Stars](https://img.shields.io/github/stars/cantecim/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/cantecim/ama)](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
 - [Jan-Hendrik Heuing ![GitHub Repo Stars](https://img.shields.io/github/stars/jheuing/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/jheuing/ama)](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
+- [Sarvsav Sharma ![GitHub Repo Stars](https://img.shields.io/github/stars/sarvsav/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/sarvsav/ama)](https://github.com/sarvsav/ama) - Aspiring green software developer passionate about sustainable coding, specializing in Go.
 
 #### Ask these organizations anything!
 
