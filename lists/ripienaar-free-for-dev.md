@@ -776,7 +776,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, seven days archive, 50 MB/month
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, seven days retention
-  * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, seven days retention
+  * [sumologic.com](https://www.sumologic.com/) ��� Free up to 500 MB/day, seven days retention
   * [logflare.app](https://logflare.app/) — Free for up to 12,960,000 entries per app per month, 3 days retention
   * [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
   * [logzab.com](https://logzab.com/) — Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
