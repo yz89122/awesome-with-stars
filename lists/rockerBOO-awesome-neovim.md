@@ -657,6 +657,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [willothy/veil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/willothy/veil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/willothy/veil.nvim)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 - [TobinPalmer/Tip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TobinPalmer/Tip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TobinPalmer/Tip.nvim)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 - [CWood-sdf/spaceport.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CWood-sdf/spaceport.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CWood-sdf/spaceport.nvim)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+- [mong8se/actually.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mong8se/actually.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mong8se/actually.nvim)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ## Icon
 
@@ -790,6 +791,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [AlejandroSuero/freeze-code.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/AlejandroSuero/freeze-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/AlejandroSuero/freeze-code.nvim)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/freeze) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/freeze)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 - [ysmb-wtsg/in-and-out.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ysmb-wtsg/in-and-out.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ysmb-wtsg/in-and-out.nvim)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
 - [ChuufMaster/buffer-vacuum ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuufMaster/buffer-vacuum) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuufMaster/buffer-vacuum)](https://github.com/ChuufMaster/buffer-vacuum) - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
+- [mong8se/buffish.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mong8se/buffish.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mong8se/buffish.nvim)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
 
 ### CSV Files
 
