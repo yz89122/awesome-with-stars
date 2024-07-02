@@ -776,7 +776,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, seven days archive, 50 MB/month
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, seven days retention
-  * [sumologic.com](https://www.sumologic.com/) �� Free up to 500 MB/day, seven days retention
+  * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, seven days retention
   * [logflare.app](https://logflare.app/) — Free for up to 12,960,000 entries per app per month, 3 days retention
   * [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
   * [logzab.com](https://logzab.com/) — Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
@@ -1152,6 +1152,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in your app's backend. For example, send a Slack message or add a Google Sheet row when an event fires in your app. Free up to 5,000 tasks per month.
   * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
   * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications of 50,000/month, and 1000 data objects in the table.
+  * [bismuth.cloud](https://www.bismuth.cloud/) — Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.
   * [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox that includes the platform, SDK, and a library of components that can be used to build and tailor apps.
   * [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
   * [convex.dev](https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and WebSockets to stream updates to various clients. Free for small projects - up to 1M records, 5M monthly function calls.
