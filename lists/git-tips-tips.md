@@ -789,7 +789,7 @@ git diff --word-diff
 git difftool [-t <tool>] <commit1> <commit2> <path>
 ```
 
-## Don’t consider changes for tracked file.
+## Don��t consider changes for tracked file.
 ```sh
 git update-index --assume-unchanged <file_name>
 ```
