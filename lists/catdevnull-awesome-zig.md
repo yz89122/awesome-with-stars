@@ -190,6 +190,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [dantecatalfamo/9p-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/dantecatalfamo/9p-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/dantecatalfamo/9p-zig)](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 * [karlseguin/singleflight.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/singleflight.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/singleflight.zig)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 * [kassane/lean4-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/kassane/lean4-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/kassane/lean4-zig)](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
+* [attron/astroz ![GitHub Repo Stars](https://img.shields.io/github/stars/ATTron/astroz) ![GitHub last commit](https://img.shields.io/github/last-commit/ATTron/astroz)](https://github.com/ATTron/astroz) - Astronomical and Spacecraft Toolkit.
 
 
 ## Network
