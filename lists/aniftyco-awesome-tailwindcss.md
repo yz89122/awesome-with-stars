@@ -284,8 +284,8 @@
 - 🚀 [Vitailse ![GitHub Repo Stars](https://img.shields.io/github/stars/zynth17/vitailse) ![GitHub last commit](https://img.shields.io/github/last-commit/zynth17/vitailse)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 - 🚀 [Vite-Boot ![GitHub Repo Stars](https://img.shields.io/github/stars/kirklin/vite-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/kirklin/vite-boot)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - 🚀 [AstroWind ![GitHub Repo Stars](https://img.shields.io/github/stars/onwidget/astrowind) ![GitHub last commit](https://img.shields.io/github/last-commit/onwidget/astrowind)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
-- 🚀 [Angular-Tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/angular-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/angular-tailwind)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
-- 🚀 [Vue-Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/luciano-work/vue-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/luciano-work/vue-resume)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+- 🚀 [Angular-Tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/lannodev/angular-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/lannodev/angular-tailwind)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+- 🚀 [Vue-Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/lannodev/vue-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/lannodev/vue-resume)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## Learning
 
