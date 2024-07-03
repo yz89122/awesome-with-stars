@@ -559,7 +559,7 @@ Royalty-Free Textures, Models, HDRIs, and Assets!
 [The Animator's Survival Kit](http://www.theanimatorssurvivalkit.com) 🟪 - An essential resource for any animator. Has a price tag, but if you want to get a job in industry, it is well worth your money.
 
 
-[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) �� - A visual tutorial series on a fundamental part of animation.
+[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) 💠 - A visual tutorial series on a fundamental part of animation.
 
 
 [Hybrid 02 Maya Rig](https://oninationsquad.gumroad.com/l/hybrid02) - A humanoid rig for Maya, free for non-commercial use.
