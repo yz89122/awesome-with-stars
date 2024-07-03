@@ -374,7 +374,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Unity Essentials](https://learn.unity.com/pathway/unity-essentials) | Unity | Beginner | 336 | [🏅](https://www.credly.com/org/unity/badge/unity-essentials-pathway) |
-| [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) | Unity | Beginer | 2000 | [���](https://www.credly.com/org/unity/badge/unity-junior-programmer)
+| [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) | Unity | Beginer | 2000 | [🏅](https://www.credly.com/org/unity/badge/unity-junior-programmer)
 | [Creative Core](https://learn.unity.com/pathway/creative-core) | Unity | Beginer | 1680 | [🏅](https://www.credly.com/org/unity/badge/unity-creative-core)
 | [VR Development](https://learn.unity.com/pathway/vr-development) | Unity | Beginer | 1000 | [🏅](https://www.credly.com/org/unity/badge/unity-vr-development)
 | [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginer | 1344 | [🏅](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
