@@ -357,6 +357,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Security
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
 
+* [AntiXSS ![GitHub Repo Stars](https://img.shields.io/github/stars/voku/anti-xss) ![GitHub last commit](https://img.shields.io/github/last-commit/voku/anti-xss)](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ![GitHub Repo Stars](https://img.shields.io/github/stars/jedisct1/libsodium) ![GitHub last commit](https://img.shields.io/github/last-commit/jedisct1/libsodium)](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ![GitHub Repo Stars](https://img.shields.io/github/stars/ezyang/htmlpurifier) ![GitHub last commit](https://img.shields.io/github/last-commit/ezyang/htmlpurifier)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [Optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/jenssegers/optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/jenssegers/optimus)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
