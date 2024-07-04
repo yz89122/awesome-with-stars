@@ -337,7 +337,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 | Char | Code Point | Output Char |
 |------|------------|-------------|
-| �� | 0x00DF | `SS` |
+| ß | 0x00DF | `SS` |
 | ı | 0x0131 | `I`  |
 | ſ | 0x017F | `S`  |
 | ﬀ | 0xFB00 | `FF` |
