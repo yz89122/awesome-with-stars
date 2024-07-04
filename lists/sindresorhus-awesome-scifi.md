@@ -210,7 +210,7 @@ The books are real page turners with its mix of high politics, space battles, an
 
 Books:
 - [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
-- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] ����
+- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
 - [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
 - [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
 - [Nemesis Games](https://www.goodreads.com/book/show/22886612-nemesis-games) [4.4]
@@ -382,7 +382,7 @@ This book is filled with a quiet suspense that is almost palpable; in that, it d
 <details>
   <summary>Description</summary>
 
-  > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
+  > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits��just behind a Raman airlock door.
 </details>
 
 #### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) (1972) _by [Arkady Strugatsky & Boris Strugatsky](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)_ [4.2]
@@ -414,7 +414,7 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
 <details>
   <summary>Description</summary>
 
-  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe���
+  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
 </details>
 
 ##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [4.0]
