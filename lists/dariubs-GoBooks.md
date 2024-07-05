@@ -372,7 +372,7 @@ Write your own fast, reliable, and cross-platform command-line tools with the Go
 
 <img src="https://images.manning.com/360/480/resize/book/d/af5a665-64b2-45cc-9543-d072437c27c2/Gumus-MEAP-HI.png" width="120px"/>
 
-Effective Go is a practical guide to writing high-quality code that’s easy to test and maintain. The book is full of best practices to adopt and anti-patterns to dodge. It explores what makes Go so dramatically different from other languages, and how you can still leverage your existing skills into writing excellent Go code. Aimed at Go beginners looking to graduate to serious Go development, you���ll write and test command line applications, web API clients and servers, concurrent programs, and more.
+Effective Go is a practical guide to writing high-quality code that’s easy to test and maintain. The book is full of best practices to adopt and anti-patterns to dodge. It explores what makes Go so dramatically different from other languages, and how you can still leverage your existing skills into writing excellent Go code. Aimed at Go beginners looking to graduate to serious Go development, you’ll write and test command line applications, web API clients and servers, concurrent programs, and more.
 
 ### 2021 - [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333)
 
