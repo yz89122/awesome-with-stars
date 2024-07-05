@@ -159,6 +159,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
+- 🎨🔧 [Design GUI](https://designgui.io) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
@@ -242,7 +243,7 @@
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 - 📟 [Create React App with PurgeCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/DemianD/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/DemianD/create-react-app-tailwindcss)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
-- �� [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
+- 📟 [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
 - 📟💼 [Laravel Front-end Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/laravel-frontend-presets/tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/laravel-frontend-presets/tailwindcss)](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
 - 📟💼 [Laravel Dark Front-end Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/Naoray/dark-tailwind-preset) ![GitHub last commit](https://img.shields.io/github/last-commit/Naoray/dark-tailwind-preset)](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for Laravel.
 - 🚀 [Create React App with EmotionJS ![GitHub Repo Stars](https://img.shields.io/github/stars/muhajirframe/react-tailwind-emotion-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/muhajirframe/react-tailwind-emotion-starter)](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
