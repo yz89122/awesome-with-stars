@@ -295,7 +295,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Fonts
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
-    - ��� [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
