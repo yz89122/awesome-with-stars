@@ -42,6 +42,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Developer tools](#developer-tools)
   * [Documentation tools](#documentation-tools)
   * [Generators](#generators)
+    * [NET](#net)
     * [Node](#node)
     * [Spring Boot](#spring-boot)
   * [HTTP](#http)
@@ -443,6 +444,11 @@ become an Angular expert.
 
 #### Generators
 
+##### NET
+
+* [abp ![GitHub Repo Stars](https://img.shields.io/github/stars/abpframework/abp) ![GitHub last commit](https://img.shields.io/github/last-commit/abpframework/abp)](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
+* [LymeStack](https://www.lymestack.com/) - LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps.
+
 ##### Node
 
 * [teleport-code-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/teleporthq/teleport-code-generators)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
@@ -519,6 +525,7 @@ become an Angular expert.
 * [ngx-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-translate/core) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-translate/core)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 * [ngx-translate-module-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngx-translate-module-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngx-translate-module-loader)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
 * [ngx-translate-multi-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-translate-multi-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-translate-multi-http-loader)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
+* [angular-ecmascript-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/json-derulo/angular-ecmascript-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/json-derulo/angular-ecmascript-intl)](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 
 #### Security
 
@@ -621,6 +628,7 @@ become an Angular expert.
 * [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
 * [angular-unit-test-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/duluca/angular-unit-test-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/duluca/angular-unit-test-helper)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
+* [ngentest ![GitHub Repo Stars](https://img.shields.io/github/stars/allenhwkim/ngentest) ![GitHub last commit](https://img.shields.io/github/last-commit/allenhwkim/ngentest)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 
 #### Updating
 
@@ -672,6 +680,7 @@ become an Angular expert.
 * [angular2-image-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/BenjaminBrandmeier/angular2-image-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/BenjaminBrandmeier/angular2-image-gallery)](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
 * [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 * [ngx-drag-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/bfwg/ngx-drag-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/bfwg/ngx-drag-scroll)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
+* [ng-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-slider)](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 
 #### Charts
 
@@ -724,6 +733,8 @@ become an Angular expert.
 * [ngx-highlightjs ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-highlightjs) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-highlightjs)](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-sharebuttons) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-sharebuttons)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 * [ngx-pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/danrevah/ngx-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/danrevah/ngx-pipes)](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
+* [nglrx/pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/nglrx/pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/nglrx/pipes)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
+* [ng-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-helpers)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 
 #### Drag and Drop
 
@@ -759,6 +770,7 @@ become an Angular expert.
 * [ngx-uploadx ![GitHub Repo Stars](https://img.shields.io/github/stars/kukhariev/ngx-uploadx) ![GitHub last commit](https://img.shields.io/github/last-commit/kukhariev/ngx-uploadx)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 * [file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/pIvan/file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/pIvan/file-upload)](https://github.com/pIvan/file-upload) - Angular module used for file upload.
 * [ngx-filepond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/ngx-filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/ngx-filepond)](https://github.com/pqina/ngx-filepond) - A handy [FilePond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/filepond)](https://github.com/pqina/filepond) adapter component for Angular.
+* [ngx-file-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/georgipeltekov/ngx-file-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/georgipeltekov/ngx-file-drop)](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 
 #### Forms
 
@@ -793,6 +805,7 @@ become an Angular expert.
 * [ngx-bar-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-bar-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-bar-rating)](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
 * [angular-code-input ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexMiniApps/angular-code-input) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexMiniApps/angular-code-input)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
 * [ng-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/NileshPatel17/ng-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/NileshPatel17/ng-multiselect-dropdown)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
+* [angular-iban ![GitHub Repo Stars](https://img.shields.io/github/stars/fundsaccess/angular-iban) ![GitHub last commit](https://img.shields.io/github/last-commit/fundsaccess/angular-iban)](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
 
 ##### Validation
 
@@ -860,6 +873,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-gridster2 ![GitHub Repo Stars](https://img.shields.io/github/stars/tiberiuzuld/angular-gridster2) ![GitHub last commit](https://img.shields.io/github/last-commit/tiberiuzuld/angular-gridster2)](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
 * [angular-grid-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/katoid/angular-grid-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/katoid/angular-grid-layout)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 * [ng2-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-tree)](https://github.com/valor-software/ng2-tree) - Angular tree component.
+* [gridstack ![GitHub Repo Stars](https://img.shields.io/github/stars/gridstack/gridstack.js) ![GitHub last commit](https://img.shields.io/github/last-commit/gridstack/gridstack.js)](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
 
 #### Loaders
 
@@ -1054,6 +1068,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [angular material components ![GitHub Repo Stars](https://img.shields.io/github/stars/h2qutc/angular-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/h2qutc/angular-material-components)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
 * [ng-matero/extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-matero/extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-matero/extensions)](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
+* [angular-material-css-vars ![GitHub Repo Stars](https://img.shields.io/github/stars/johannesjo/angular-material-css-vars) ![GitHub last commit](https://img.shields.io/github/last-commit/johannesjo/angular-material-css-vars)](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with Angular Material.
 
 ##### Bootstrap Based
 
@@ -1118,6 +1133,7 @@ for Bootstrap 5 & Angular 17.
 * [angular-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/angular-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/angular-paginator)](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
 * [ngx-flamegraph ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-flamegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-flamegraph)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [angular-compiler-output ![GitHub Repo Stars](https://img.shields.io/github/stars/JeanMeche/angular-compiler-output) ![GitHub last commit](https://img.shields.io/github/last-commit/JeanMeche/angular-compiler-output)](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given angular template.
+* [ng-dynamic-mf ![GitHub Repo Stars](https://img.shields.io/github/stars/LoaderB0T/ng-dynamic-mf) ![GitHub last commit](https://img.shields.io/github/last-commit/LoaderB0T/ng-dynamic-mf)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 
 ---
 
