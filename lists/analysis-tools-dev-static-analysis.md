@@ -417,7 +417,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Delphi</h2>
 
 
-- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) — A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
+- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) �� A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
 
 - [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A _Pro_ edition includes a command line tool for automation purposes.
 
@@ -833,7 +833,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 
-- [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) �� A Static Security Scanner.
+- [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) — A Static Security Scanner.
 
 - [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 
