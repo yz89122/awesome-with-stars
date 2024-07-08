@@ -201,7 +201,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Let's build a compiler in Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/mkchoi212/LBAC-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/mkchoi212/LBAC-Swift)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟 
 * [Register VM ![GitHub Repo Stars](https://img.shields.io/github/stars/brianhill/register-vm-in-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/brianhill/register-vm-in-swift)](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dimsumthinking/TurtlePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dimsumthinking/TurtlePlayground)](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳
-* [Swift Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/xavieryao/Swift-Brainfuck) ![GitHub last commit](https://img.shields.io/github/last-commit/xavieryao/Swift-Brainfuck)](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳
+* [Swift Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/xavieryao/Swift-Brainfuck) ![GitHub last commit](https://img.shields.io/github/last-commit/xavieryao/Swift-Brainfuck)](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ��
 
 ### Machine Learning
 
@@ -227,7 +227,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Core Image
 
 * [Interpolation Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/Interpolation-Playground-) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/Interpolation-Playground-)](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others! ⏳
-* [CoreImage for Swift Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/CoreImageForSwiftPlaygrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/CoreImageForSwiftPlaygrounds)](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟 ⏳
+* [CoreImage for Swift Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/CoreImageForSwiftPlaygrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/CoreImageForSwiftPlaygrounds)](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". �� ⏳
 * [Image Processor ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenbrudvik/ImageProcessor) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenbrudvik/ImageProcessor)](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms. ⏳
 
 ### Metal
