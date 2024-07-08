@@ -154,7 +154,7 @@ Write code that writes code with Elixir macros. Macros make metaprogramming poss
 
 <img src="https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/jaerlang2_hu6d6484fd7d993fffccac9fd34a29e94f_1016144_500x0_resize_q75_box.jpg" width="120px"/>
 
-A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
+A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you��ll learn how to write parallel programs that scale effortlessly on multicore systems.
 
 ### [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
 
@@ -217,7 +217,7 @@ Give users the real-time experience they expect, by using Elixir and Phoenix Cha
 
 <img src="https://pragprog.com/titles/lmelixir/testing-elixir/lmelixir-500.jpg" width="120px"/>
 
-Elixir offers new paradigms, and challenges you to test in unconventional ways. Start with ExUnit: almost everything you need to write tests covering all levels of detail, from unit to integration, but only if you know how to use it to the fullest—we��ll show you how. Explore testing Elixir-specific challenges such as OTP-based modules, asynchronous code, Ecto-based applications, and Phoenix applications. Explore new tools like Mox for mocks and StreamData for property-based testing. Armed with this knowledge, you can create test suites that add value to your production cycle and guard you from regressions.
+Elixir offers new paradigms, and challenges you to test in unconventional ways. Start with ExUnit: almost everything you need to write tests covering all levels of detail, from unit to integration, but only if you know how to use it to the fullest—we’ll show you how. Explore testing Elixir-specific challenges such as OTP-based modules, asynchronous code, Ecto-based applications, and Phoenix applications. Explore new tools like Mox for mocks and StreamData for property-based testing. Armed with this knowledge, you can create test suites that add value to your production cycle and guard you from regressions.
 
 ### [Exploring Graphs with Elixir](https://pragprog.com/titles/thgraphs/exploring-graphs-with-elixir/)
 
