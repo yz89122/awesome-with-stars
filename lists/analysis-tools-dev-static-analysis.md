@@ -417,7 +417,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Delphi</h2>
 
 
-- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) — A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
+- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) �� A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
 
 - [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A _Pro_ edition includes a command line tool for automation purposes.
 
@@ -452,7 +452,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 
-- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) :warning: — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
+- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
 
 
 <a name="erlang" />
