@@ -493,7 +493,7 @@
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立开发者训练营���Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
@@ -1328,7 +1328,7 @@ _Set of components + responsive layout system_
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ManukMinasyan/stellar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ManukMinasyan/stellar-ui)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
-- [Shadcn UI ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/shadcn-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/shadcn-vue)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](<https://github.com/shadcn-ui/ui>) (re-usable components built with [Radix Vue](<https://github.com/radix-vue/radix-vue>) and [Tailwind CSS](<https://github.com/tailwindlabs/tailwindcss>)).
+- [Shadcn UI ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/shadcn-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/shadcn-vue)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn-ui/ui)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/radix-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/radix-vue)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)).
 
 #### Mobile
 
@@ -1891,6 +1891,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue3-chart-v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/vutran6853/vue3-chart-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/vutran6853/vue3-chart-v2)](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 - [vue-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisheanan/vue-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisheanan/vue-gauge)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 - [vue-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/ecomfe/vue-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/vue-echarts)](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
+- [vue-data-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/graphieros/vue-data-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/graphieros/vue-data-ui)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 
 #### Time
 
@@ -2408,7 +2409,7 @@ _Date / datetime / time Picker_
 - [vue3-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/hcg1023/vue3-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/hcg1023/vue3-dnd)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 - [sortablejs-vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxLeiter/sortablejs-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxLeiter/sortablejs-vue3)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 - [vue-fluid-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosjorger/vue-fluid-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosjorger/vue-fluid-dnd)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
-  
+
 ##### Autocomplete
 
 _Autosuggest / autocomplete / typeahead_
@@ -2534,7 +2535,7 @@ _Edit images_
 - [vue-picture-cut ![GitHub Repo Stars](https://img.shields.io/github/stars/987153776/vue-picture-cut) ![GitHub last commit](https://img.shields.io/github/last-commit/987153776/vue-picture-cut)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 - [vue-img-cutter ![GitHub Repo Stars](https://img.shields.io/github/stars/acccccccb/vue-img-cutter) ![GitHub last commit](https://img.shields.io/github/last-commit/acccccccb/vue-img-cutter)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 - [vue-picture-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/chengpeiquan/vue-picture-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/chengpeiquan/vue-picture-cropper)](https://github.com/chengpeiquan/vue-picture-cropper) - A simple and easy-to-use picture cropping component for Vue 3.
-- [vue-polygon-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/TaTo30/vue-polygon-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/TaTo30/vue-polygon-cropper)](https://github.com/TaTo30/vue-polygon-cropper) - A simple component to crop images in polygon shapes. [Demo](https://stackblitz.com/edit/vitejs-vite-urtqie?file=src%2FApp.vue) 
+- [vue-polygon-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/TaTo30/vue-polygon-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/TaTo30/vue-polygon-cropper)](https://github.com/TaTo30/vue-polygon-cropper) - A simple component to crop images in polygon shapes. [Demo](https://stackblitz.com/edit/vitejs-vite-urtqie?file=src%2FApp.vue)
 
 _Display images_
 
@@ -2671,7 +2672,6 @@ _Display images_
 #### Authentication
 
 - [vue-auth-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ndrbrt/vue-auth-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ndrbrt/vue-auth-ui)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
-
 
 ### UI Utilities
 
