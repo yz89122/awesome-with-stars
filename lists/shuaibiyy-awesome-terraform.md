@@ -65,6 +65,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
 - [Terraform PDF Doc ![GitHub Repo Stars](https://img.shields.io/github/stars/dohsimpson/terraform-doc-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/dohsimpson/terraform-doc-pdf)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
+- [Terraform Roadmap](https://roadmap.sh/terraform)
 - [Terragrunt Reference Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terragrunt-reference-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terragrunt-reference-architecture)](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - Language-specific communities:
   - [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
