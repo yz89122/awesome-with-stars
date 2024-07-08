@@ -210,7 +210,7 @@ The books are real page turners with its mix of high politics, space battles, an
 
 Books:
 - [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
-- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
+- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] ����
 - [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
 - [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
 - [Nemesis Games](https://www.goodreads.com/book/show/22886612-nemesis-games) [4.4]
@@ -414,7 +414,7 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
 <details>
   <summary>Description</summary>
 
-  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
+  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe���
 </details>
 
 ##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [4.0]
@@ -642,7 +642,7 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 <details>
   <summary>Description</summary>
 
-  > Lilith Iyapo has just lost her husband and son when atomic fire consumes Earth��the last stage of the planet’s final war. Hundreds of years later Lilith awakes, deep in the hold of a massive alien spacecraft piloted by the Oankali—who arrived just in time to save humanity from extinction. They have kept Lilith and other survivors asleep for centuries, as they learned whatever they could about Earth. Now it is time for Lilith to lead them back to her home world, but life among the Oankali on the newly resettled planet will be nothing like it was before.
+  > Lilith Iyapo has just lost her husband and son when atomic fire consumes Earth—the last stage of the planet’s final war. Hundreds of years later Lilith awakes, deep in the hold of a massive alien spacecraft piloted by the Oankali—who arrived just in time to save humanity from extinction. They have kept Lilith and other survivors asleep for centuries, as they learned whatever they could about Earth. Now it is time for Lilith to lead them back to her home world, but life among the Oankali on the newly resettled planet will be nothing like it was before.
   >
   > The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet’s untamed wilderness. But their children will not be human. Not exactly.
 </details>
