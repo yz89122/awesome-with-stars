@@ -102,6 +102,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 - [PyMySQL ![GitHub Repo Stars](https://img.shields.io/github/stars/PyMySQL/PyMySQL) ![GitHub last commit](https://img.shields.io/github/last-commit/PyMySQL/PyMySQL)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem ![GitHub Repo Stars](https://img.shields.io/github/stars/brianmario/mysql2) ![GitHub last commit](https://img.shields.io/github/last-commit/brianmario/mysql2)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
+- [MyZql ![GitHub Repo Stars](https://img.shields.io/github/stars/speed2exe/myzql) ![GitHub last commit](https://img.shields.io/github/last-commit/speed2exe/myzql)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
 ## Deployment
 
