@@ -578,6 +578,12 @@ become an Angular expert.
 * [HTMLrev](https://htmlrev.com/free-angular-templates.html)
 * [wails-template-angular-latest ![GitHub Repo Stars](https://img.shields.io/github/stars/mJehanno/wails-template-angular-latest) ![GitHub last commit](https://img.shields.io/github/last-commit/mJehanno/wails-template-angular-latest)](https://github.com/mJehanno/wails-template-angular-latest) - A generated [wails](https://wails.io) template, currently supports Angular 17.
 * [carbon-angular-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-angular-starter)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
+* [front-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/starter-kits-usmb/front-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/starter-kits-usmb/front-angular)](https://github.com/starter-kits-usmb/front-angular) - This starter kit use angular version 18.0.0 and includes the following features: scalable folder structure, linter and Prettier, routing and lazy loading, authentication service, light design system, toast and modal service, Jest test setup and Docker compose.
+* [tailkit-starter-kit-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelcave/tailkit-starter-kit-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelcave/tailkit-starter-kit-angular)](https://github.com/pixelcave/tailkit-starter-kit-angular) - Angular Starter Kit for using [Tailkit UI](https://tailkit.com/) components out of the box in your project.
+* [angular-tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/lannodev/angular-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/lannodev/angular-tailwind)](https://github.com/lannodev/angular-tailwind) - Angular & Tailwind CSS Admin Dashboard Starter Kit.
+* [angular-starter-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/svierk/angular-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/svierk/angular-starter-kit)](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
+* [fractal-boilerplate-lua-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) ![GitHub last commit](https://img.shields.io/github/last-commit/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular)](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
+* [angular-nestjs-starter-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/JangoCG/angular-nestjs-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/JangoCG/angular-nestjs-starter-kit)](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
 
 ##### Paid
 
@@ -1054,6 +1060,12 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [winonang ![GitHub Repo Stars](https://img.shields.io/github/stars/winona-ui/winonang) ![GitHub last commit](https://img.shields.io/github/last-commit/winona-ui/winonang)](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 * [carbon-components-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-components-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-components-angular)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
 * [ng-primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-primitives/ng-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-primitives/ng-primitives)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
+* [dyte-io/ui-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/dyte-io/ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/dyte-io/ui-kit)](https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library) - Dyte's UI Kit is a prebuilt design library of UI components that makes it easy to integrate video and voice calls into any app or website within minutes.
+* [onega-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/osspkg/onega-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/osspkg/onega-ui)](https://github.com/osspkg/onega-ui) - A modern and stylish UI kit that offers a wide range of UI components and elements to create professional and attractive websites.
+* [sky-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/skysoft-tech/sky-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/skysoft-tech/sky-ui)](https://github.com/skysoft-tech/sky-ui) - Angular UI kit.
+* [ngx-neumorphic ![GitHub Repo Stars](https://img.shields.io/github/stars/koskosergej/ngx-neumorphic) ![GitHub last commit](https://img.shields.io/github/last-commit/koskosergej/ngx-neumorphic)](https://github.com/koskosergej/ngx-neumorphic) - Angular Neomorphism UI kit.
+* [ng-zen ![GitHub Repo Stars](https://img.shields.io/github/stars/Kordrad/ng-zen) ![GitHub last commit](https://img.shields.io/github/last-commit/Kordrad/ng-zen)](https://github.com/Kordrad/ng-zen) - A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase.
+* [pupakit ![GitHub Repo Stars](https://img.shields.io/github/stars/bimeister/pupakit) ![GitHub last commit](https://img.shields.io/github/last-commit/bimeister/pupakit)](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 
 ##### Material Based
 
@@ -1076,11 +1088,14 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 for Bootstrap 5 & Angular 17.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem.
 * [ngx-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ngx-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ngx-bootstrap)](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
+* [design-angular-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/italia/design-angular-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/italia/design-angular-kit)](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
+for the creation of web applications developed with Angular.
 
 ##### Tailwind CSS Based
 
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [David UI Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/david-ui-org/david-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/david-ui-org/david-ui-angular)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
+* [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
 
 ##### Node Based
 
@@ -1134,6 +1149,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-flamegraph ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-flamegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-flamegraph)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [angular-compiler-output ![GitHub Repo Stars](https://img.shields.io/github/stars/JeanMeche/angular-compiler-output) ![GitHub last commit](https://img.shields.io/github/last-commit/JeanMeche/angular-compiler-output)](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given angular template.
 * [ng-dynamic-mf ![GitHub Repo Stars](https://img.shields.io/github/stars/LoaderB0T/ng-dynamic-mf) ![GitHub last commit](https://img.shields.io/github/last-commit/LoaderB0T/ng-dynamic-mf)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
+* [ngx-font-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-font-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-font-picker)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 
 ---
 
