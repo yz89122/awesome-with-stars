@@ -193,7 +193,7 @@ Survey methods and price discovery techniques to find the right price point.
 
 - [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter) - PSM is a market technique for determining consumer price preferences. Allows for drawing a revenue curve to estimate the price point delivering the maximum revenue.
 
-- [Pricing niche products](https://kevinlynagh.com/notes/pricing-niche-products/) - “The most compelling argument against simply picking a price, though, is that it limits how much you can learn about your market.” Then the author setup vickrey auctions to discover price.
+- [Pricing niche products](https://kevinlynagh.com/notes/pricing-niche-products/) - “The most compelling argument against simply picking a price, though, is that it limits how much you can learn about your market.��� Then the author setup vickrey auctions to discover price.
 
 - [Finding the max revenue price mark for digital products](https://medium.com/@hovm/finding-the-max-revenue-price-mark-for-digital-products-24cef24f746d) - “To find the optimal price that provides maximum revenue for your product you will need to field-test several price points; you then reconstruct the revenue curve and find the peak.”
 
