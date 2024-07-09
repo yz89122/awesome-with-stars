@@ -534,7 +534,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
 
-- [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) ��� Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
+- [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
 - [GolangCI-Lint](https://golangci-lint.run) — Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
 
@@ -707,7 +707,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
 
-- [JSLint ![GitHub Repo Stars](https://img.shields.io/github/stars/douglascrockford/JSLint) ![GitHub last commit](https://img.shields.io/github/last-commit/douglascrockford/JSLint)](https://github.com/douglascrockford/JSLint) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) �� The JavaScript Code Quality Tool.
+- [JSLint ![GitHub Repo Stars](https://img.shields.io/github/stars/douglascrockford/JSLint) ![GitHub last commit](https://img.shields.io/github/last-commit/douglascrockford/JSLint)](https://github.com/douglascrockford/JSLint) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — The JavaScript Code Quality Tool.
 
 - [JSPrime](https://dpnishant.github.io/jsprime) :warning: — Static security analysis tool.
 
