@@ -1043,7 +1043,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2>R</h2>
 
 
-- [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) �� Quantifies the cyclomatic complexity of R functions / expressions.
+- [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) ��� Quantifies the cyclomatic complexity of R functions / expressions.
 
 - [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
 
