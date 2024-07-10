@@ -64,7 +64,7 @@ coding style guides and development practices across the web.
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 + [Principles of writing consistent, idiomatic CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/necolas/idiomatic-css) ![GitHub last commit](https://img.shields.io/github/last-commit/necolas/idiomatic-css)](https://github.com/necolas/idiomatic-css#readme)
-+ [HTML and CSS code guide ![GitHub Repo Stars](https://img.shields.io/github/stars/mdo/code-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/mdo/code-guide)](https://github.com/mdo/code-guide#readme)
++ [HTML and CSS code guide](https://codeguide.co/)
 + [General CSS notes, advice and guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/csswizardry/CSS-Guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/csswizardry/CSS-Guidelines)](https://github.com/csswizardry/CSS-Guidelines#readme)
 
 ### Sass
@@ -97,8 +97,8 @@ coding style guides and development practices across the web.
 
 ### C&#35;
 
-+ [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-+ [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index)
++ [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
++ [Framework Design Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)
 
 ### Clojure
 
@@ -139,7 +139,7 @@ coding style guides and development practices across the web.
 
 + [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
 + [NYTimes Objective-C Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/NYTimes/objective-c-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/NYTimes/objective-c-style-guide)](https://github.com/NYTimes/objective-c-style-guide#readme)
-+ [The official raywenderlich.com Objective-C style guide ![GitHub Repo Stars](https://img.shields.io/github/stars/raywenderlich/objective-c-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/raywenderlich/objective-c-style-guide)](https://github.com/raywenderlich/objective-c-style-guide#readme)
++ [The official raywenderlich.com Objective-C style guide ![GitHub Repo Stars](https://img.shields.io/github/stars/kodecocodes/objective-c-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/kodecocodes/objective-c-style-guide)](https://github.com/kodecocodes/objective-c-style-guide#readme)
 
 ### PHP
 
@@ -152,17 +152,17 @@ coding style guides and development practices across the web.
 
 ### Python
 
-+ [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
++ [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
 + [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 ### Ruby
 
-+ [The Ruby Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop-hq/ruby-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop-hq/ruby-style-guide)](https://github.com/rubocop-hq/ruby-style-guide#readme)
-+ [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
++ [Ruby Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop/ruby-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop/ruby-style-guide)](https://github.com/rubocop/ruby-style-guide#readme)
++ [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-+ [The Rust Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-dev-tools/fmt-rfcs) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-dev-tools/fmt-rfcs)](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
++ [Rust Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/rust)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
 
 ### Scala
 
@@ -180,7 +180,7 @@ coding style guides and development practices across the web.
 
 ### Swift
 
-+ [The Official raywenderlich.com Swift Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/raywenderlich/swift-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/raywenderlich/swift-style-guide)](https://github.com/raywenderlich/swift-style-guide#readme)
++ [The Official Kodeco Swift Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/kodecocodes/swift-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/kodecocodes/swift-style-guide)](https://github.com/kodecocodes/swift-style-guide#readme)
 
 ### Vimscript
 
@@ -195,16 +195,16 @@ coding style guides and development practices across the web.
 
 ### RSpec
 
-+ [Better Specs { rspec guidelines with ruby }](http://www.betterspecs.org/)
-+ [The RSpec Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop-hq/rspec-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop-hq/rspec-style-guide)](https://github.com/rubocop-hq/rspec-style-guide#readme)
++ [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
++ [RSpec Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop/rspec-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop/rspec-style-guide)](https://github.com/rubocop/rspec-style-guide#readme)
 
 ### Rails
 
-+ [The Rails Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop-hq/rails-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop-hq/rails-style-guide)](https://github.com/rubocop-hq/rails-style-guide#readme)
++ [Rails Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop/rails-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop/rails-style-guide)](https://github.com/rubocop/rails-style-guide#readme)
 
 ### Vue
 
-+ [The official style guide for Vue-specific code](https://vuejs.org/v2/style-guide/)
++ [The official style guide for Vue-specific code](https://vuejs.org/style-guide/)
 
 ## Other
 
@@ -219,7 +219,7 @@ coding style guides and development practices across the web.
 
 ### Bots
 
-+ [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
++ [Principles of bot design](https://learn.microsoft.com/en-us/previous-versions/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 + [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
 ### CLI
@@ -232,7 +232,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-+ [favicon-cheat-sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/audreyr/favicon-cheat-sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/audreyr/favicon-cheat-sheet)](https://github.com/audreyr/favicon-cheat-sheet#readme)
++ [favicon-cheat-sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/audreyfeldroy/favicon-cheat-sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/audreyfeldroy/favicon-cheat-sheet)](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
 
 ### iOS
 
@@ -270,7 +270,7 @@ coding style guides and development practices across the web.
 
 ### Writing
 
-+ [Writing style](https://atlassian.design/server/foundations/writing-style/)
++ [Writing style](https://atlassian.design/content/writing-style/)
 + [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 + [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
 + [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
