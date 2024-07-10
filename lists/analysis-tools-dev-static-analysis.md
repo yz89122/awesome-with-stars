@@ -417,7 +417,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Delphi</h2>
 
 
-- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) ��� A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
+- [DelphiLint ![GitHub Repo Stars](https://img.shields.io/github/stars/integrated-application-development/delphilint) ![GitHub last commit](https://img.shields.io/github/last-commit/integrated-application-development/delphilint)](https://github.com/integrated-application-development/delphilint) — A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
 
 - [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A _Pro_ edition includes a command line tool for automation purposes.
 
@@ -815,7 +815,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [deptrac ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deptrac) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deptrac)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 
-- [DesignPatternDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/Halleck45/DesignPatternDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/Halleck45/DesignPatternDetector)](https://github.com/Halleck45/DesignPatternDetector) �� Detection of design patterns in PHP code.
+- [DesignPatternDetector ![GitHub Repo Stars](https://img.shields.io/github/stars/Halleck45/DesignPatternDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/Halleck45/DesignPatternDetector)](https://github.com/Halleck45/DesignPatternDetector) — Detection of design patterns in PHP code.
 
 - [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfPHP/PHP-CS-Fixer)](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 
