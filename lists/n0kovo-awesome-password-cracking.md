@@ -139,7 +139,6 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 
 ## Misc
 - [hashgen ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclone-github/hashgen) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclone-github/hashgen)](https://github.com/cyclone-github/hashgen) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
-- [hashID ![GitHub Repo Stars](https://img.shields.io/github/stars/psypanda/hashID) ![GitHub last commit](https://img.shields.io/github/last-commit/psypanda/hashID)](https://github.com/psypanda/hashID) - Software to identify the different types of hashes.
 - [Name That Hash ![GitHub Repo Stars](https://img.shields.io/github/stars/HashPals/Name-That-Hash) ![GitHub last commit](https://img.shields.io/github/last-commit/HashPals/Name-That-Hash)](https://github.com/HashPals/Name-That-Hash) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
 
 
@@ -254,7 +253,7 @@ Read [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/n
 - [pdfrip ![GitHub Repo Stars](https://img.shields.io/github/stars/mufeedvh/pdfrip) ![GitHub last commit](https://img.shields.io/github/last-commit/mufeedvh/pdfrip)](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 
 ### JKS
-- [JKS private key cracker ![GitHub Repo Stars](https://img.shields.io/github/stars/floyd-fuh/JKS-private-key-cracker-hashcat) ![GitHub last commit](https://img.shields.io/github/last-commit/floyd-fuh/JKS-private-key-cracker-hashcat)](https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat) - Cracking passwords of private key entries in a JKS fileCracking passwords of private key entries in a JKS file.
+- [JKS private key cracker ![GitHub Repo Stars](https://img.shields.io/github/stars/floyd-fuh/JKS-private-key-cracker-hashcat) ![GitHub last commit](https://img.shields.io/github/last-commit/floyd-fuh/JKS-private-key-cracker-hashcat)](https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat) - Cracking passwords of private key entries in a JKS file.
 
 ### ZIP
 - [bkcrack ![GitHub Repo Stars](https://img.shields.io/github/stars/kimci86/bkcrack) ![GitHub last commit](https://img.shields.io/github/last-commit/kimci86/bkcrack)](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
