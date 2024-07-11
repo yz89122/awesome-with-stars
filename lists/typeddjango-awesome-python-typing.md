@@ -73,7 +73,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Backports and improvements
 
 - [future-typing ![GitHub Repo Stars](https://img.shields.io/github/stars/PrettyWood/future-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/PrettyWood/future-typing)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
-- [typing-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typing) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typing)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
+- [typing-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typing_extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typing_extensions)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
 - [typing-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/bojiang/typing_utils) ![GitHub last commit](https://img.shields.io/github/last-commit/bojiang/typing_utils)](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get_origin) & add issubtype & more.
 
 ## Tools
