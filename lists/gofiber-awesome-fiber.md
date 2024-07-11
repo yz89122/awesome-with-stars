@@ -131,7 +131,7 @@ Recipes for Fiber.
 - [EricLau1/go-fiber-auth-api ![GitHub Repo Stars](https://img.shields.io/github/stars/EricLau1/go-fiber-auth-api) ![GitHub last commit](https://img.shields.io/github/last-commit/EricLau1/go-fiber-auth-api)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 - [alpody/golang-fiber-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/alpody/golang-fiber-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alpody/golang-fiber-realworld-example-app)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger. 
 
-## ���️ Tools
+## 🛠️ Tools
 Several tools to make Fiber usage easier.
 - [go-dawn/dawn ![GitHub Repo Stars](https://img.shields.io/github/stars/go-dawn/dawn) ![GitHub last commit](https://img.shields.io/github/last-commit/go-dawn/dawn)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 - [tompston/gomakeme ![GitHub Repo Stars](https://img.shields.io/github/stars/tompston/gomakeme) ![GitHub last commit](https://img.shields.io/github/last-commit/tompston/gomakeme)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
