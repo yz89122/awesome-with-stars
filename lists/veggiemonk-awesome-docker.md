@@ -293,7 +293,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [nginx-proxy][nginxproxy] - Automated nginx proxy for Docker containers using docker-gen by [@jwilder][jwilder]
 -   [Swarm Ingress Router ![GitHub Repo Stars](https://img.shields.io/github/stars/tpbowden/swarm-ingress-router) ![GitHub last commit](https://img.shields.io/github/last-commit/tpbowden/swarm-ingress-router)](https://github.com/tpbowden/swarm-ingress-router) :skull: - Route DNS names to Swarm services based on labels. By [@tpbowden](https://github.com/tpbowden/)
 -   [Swarm Router ![GitHub Repo Stars](https://img.shields.io/github/stars/flavioaiello/swarm-router) ![GitHub last commit](https://img.shields.io/github/last-commit/flavioaiello/swarm-router)](https://github.com/flavioaiello/swarm-router) - A «zero config» service name based router for docker swarm mode with a fresh and more secure approach. By [@flavioaiello](https://github.com/flavioaiello)
--   [Træf��k ![GitHub Repo Stars](https://img.shields.io/github/stars/containous/traefik) ![GitHub last commit](https://img.shields.io/github/last-commit/containous/traefik)](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
+-   [Træfɪk ![GitHub Repo Stars](https://img.shields.io/github/stars/containous/traefik) ![GitHub last commit](https://img.shields.io/github/last-commit/containous/traefik)](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
 
 ### Runtime
 
