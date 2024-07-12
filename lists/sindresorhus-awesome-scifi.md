@@ -382,7 +382,7 @@ This book is filled with a quiet suspense that is almost palpable; in that, it d
 <details>
   <summary>Description</summary>
 
-  > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
+  > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits���just behind a Raman airlock door.
 </details>
 
 #### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) (1972) _by [Arkady Strugatsky & Boris Strugatsky](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)_ [4.2]
