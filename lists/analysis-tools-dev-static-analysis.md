@@ -519,7 +519,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [go-consistent ![GitHub Repo Stars](https://img.shields.io/github/stars/Quasilyte/go-consistent) ![GitHub last commit](https://img.shields.io/github/last-commit/Quasilyte/go-consistent)](https://github.com/Quasilyte/go-consistent) — Analyzer that helps you to make your Go programs more consistent.
 
-- [go-critic ![GitHub Repo Stars](https://img.shields.io/github/stars/go-critic/go-critic) ![GitHub last commit](https://img.shields.io/github/last-commit/go-critic/go-critic)](https://github.com/go-critic/go-critic) �� Go source code linter that maintains checks which are currently not implemented in other linters.
+- [go-critic ![GitHub Repo Stars](https://img.shields.io/github/stars/go-critic/go-critic) ![GitHub last commit](https://img.shields.io/github/last-commit/go-critic/go-critic)](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
 
 - [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
 
@@ -608,7 +608,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 <h2>Haskell</h2>
 
 
-- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: — Haskell source code formatter
+- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: ��� Haskell source code formatter
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
@@ -996,7 +996,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyanalyze](https://pyanalyze.readthedocs.io/en/latest/) — A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and type errors. It can be extended to add additional rules and perform checks specific to particular functions.
 
-- [PyCodeQual](https://pycodequ.al) :copyright: �� PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
+- [PyCodeQual](https://pycodequ.al) :copyright: — PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
 
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) — (Formerly `pep8`) Check Python code against some of the style conventions in PEP 8.
 
