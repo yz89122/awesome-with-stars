@@ -229,7 +229,7 @@ Meteo
 
 - [Calendar Carousel Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dooboolab/flutter_calendar_carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/dooboolab/flutter_calendar_carousel)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab ![GitHub Repo Stars](https://img.shields.io/github/stars/dooboolab/flutter_calendar_carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/dooboolab/flutter_calendar_carousel)](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/aleksanderwozniak/table_calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/aleksanderwozniak/table_calendar)](https://github.com/aleksanderwozniak/table_calendar) [1752⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
-- [Time Planner ![GitHub Repo Stars](https://img.shields.io/github/stars/Jamalianpour/time_planner) ![GitHub last commit](https://img.shields.io/github/last-commit/Jamalianpour/time_planner)](https://github.com/Jamalianpour/time_planner) [214��] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+- [Time Planner ![GitHub Repo Stars](https://img.shields.io/github/stars/Jamalianpour/time_planner) ![GitHub last commit](https://img.shields.io/github/last-commit/Jamalianpour/time_planner)](https://github.com/Jamalianpour/time_planner) [214⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
 
 #### Backend-Driven
 
@@ -462,7 +462,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Backend
 
-- [Dynamic Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dengyin2000/dynamic_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/dengyin2000/dynamic_widget)](https://github.com/dengyin2000/dynamic_widget) [1525���] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
+- [Dynamic Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dengyin2000/dynamic_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/dengyin2000/dynamic_widget)](https://github.com/dengyin2000/dynamic_widget) [1525⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 - [NETCoreSync ![GitHub Repo Stars](https://img.shields.io/github/stars/aldycool/NETCoreSync) ![GitHub last commit](https://img.shields.io/github/last-commit/aldycool/NETCoreSync)](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor ![GitHub Repo Stars](https://img.shields.io/github/stars/simolus3/moor) ![GitHub last commit](https://img.shields.io/github/last-commit/simolus3/moor)](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
 - [Parse for Flutter ![GitHub Repo Stars](https://img.shields.io/github/stars/parse-community/Parse-SDK-Flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/parse-community/Parse-SDK-Flutter)](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) [568⭐] Open source backend framework by [ParsePlatform](https://parseplatform.org/).
 - [Serverpod ![GitHub Repo Stars](https://img.shields.io/github/stars/serverpod/serverpod) ![GitHub last commit](https://img.shields.io/github/last-commit/serverpod/serverpod)](https://github.com/serverpod/serverpod) - Write your server-side code and API in Dart.
@@ -510,7 +510,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Open source games
 
-- [Flip ![GitHub Repo Stars](https://img.shields.io/github/stars/RedBrogdon/flutterflip) ![GitHub last commit](https://img.shields.io/github/last-commit/RedBrogdon/flutterflip)](https://github.com/RedBrogdon/flutterflip) [263���] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
+- [Flip ![GitHub Repo Stars](https://img.shields.io/github/stars/RedBrogdon/flutterflip) ![GitHub last commit](https://img.shields.io/github/last-commit/RedBrogdon/flutterflip)](https://github.com/RedBrogdon/flutterflip) [263⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
 - [Crush ![GitHub Repo Stars](https://img.shields.io/github/stars/boeledi/flutter_crush) ![GitHub last commit](https://img.shields.io/github/last-commit/boeledi/flutter_crush)](https://github.com/boeledi/flutter_crush) [563⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Tetris ![GitHub Repo Stars](https://img.shields.io/github/stars/boyan01/flutter-tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/boyan01/flutter-tetris)](https://github.com/boyan01/flutter-tetris) [1567⭐] - Tetris game by [YangBin](https://github.com/boyan01)
 
