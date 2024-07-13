@@ -608,7 +608,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 <h2>Haskell</h2>
 
 
-- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: — Haskell source code formatter
+- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: ��� Haskell source code formatter
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
