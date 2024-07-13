@@ -436,7 +436,7 @@ Build, test, and deploy pipelines are configured by default.
 
 Build a simple and robust RESTful API.
 
-- [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [��� ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 - [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gradle/gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/gradle/gradle)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 - [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
@@ -466,7 +466,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
 - [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/expo)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-- [Digital Ocean](https://www.digitalocean.com/) - [��️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
+- [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 - [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 ##### Resources
