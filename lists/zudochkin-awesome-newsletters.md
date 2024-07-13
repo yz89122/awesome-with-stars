@@ -407,7 +407,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 - [Flutter Croissants](https://flutter-croissants.com/). Receive every Monday all the news about Flutter and the world of mobility.
 - [Flutter Digest](https://flutter-digest.com/). 🇫🇷 A weekly French newsletter about Flutter and Dart.
-- [Android Croissants](https://android-croissants.com/). 🇫🇷 Every Monday morning, receive the latest news, tutorials, tips… about Android.
+- [Android Croissants](https://android-croissants.com/). 🇫🇷 Every Monday morning, receive the latest news, tutorials, tips��� about Android.
 - [Flutter Tap](https://fluttertap.com/). Flutter Tap is a free weekly newsletter that helps you to stay cutting-edge with your Flutter development.
 
 ## Artificial Intelligence / Machine Learning / Big Data
