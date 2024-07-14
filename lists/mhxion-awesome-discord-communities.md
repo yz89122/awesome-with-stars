@@ -1054,7 +1054,7 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 ### WebAssembly Frameworks
 
-[WebAssembly↰](#webassembly) • [Web Frameworks↰](#web-frameworks)
+[WebAssembly↰](#webassembly) ��� [Web Frameworks↰](#web-frameworks)
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/seed_rs.webp">
 
