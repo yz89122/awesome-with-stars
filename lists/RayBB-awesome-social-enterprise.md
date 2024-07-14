@@ -191,7 +191,7 @@ Academic institutions researching social enterprise:
 * [CSED](https://csedottawa.ca) - Canada based nonprofit helping develop, launch, and grow social enterprises.
 * [Common Good Solutions](https://commongoodsolutions.ca) - Canada based B-corp helping governments, community organizations and entrepreneurs.
 
-## People ��
+## People 🧑
 
 ### Authors
 * [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author)) - Co-authored books on on social enterprise and highly active in community.
