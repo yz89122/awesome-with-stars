@@ -497,7 +497,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
 
 
-[LoSpec](https://lospec.com/) 🟪 - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
+[LoSpec](https://lospec.com/) ��� - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
 
 
 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) 🟪 - An exhaustive series on drawing people from a reputable channel.
@@ -559,7 +559,7 @@ Royalty-Free Textures, Models, HDRIs, and Assets!
 [The Animator's Survival Kit](http://www.theanimatorssurvivalkit.com) 🟪 - An essential resource for any animator. Has a price tag, but if you want to get a job in industry, it is well worth your money.
 
 
-[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) �� - A visual tutorial series on a fundamental part of animation.
+[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) 💠 - A visual tutorial series on a fundamental part of animation.
 
 
 [Hybrid 02 Maya Rig](https://oninationsquad.gumroad.com/l/hybrid02) - A humanoid rig for Maya, free for non-commercial use.
