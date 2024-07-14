@@ -132,6 +132,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular.love](https://angular.love/) - Polish community for Angular fans.
 * [angular hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 * [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
+* [opensauced pizza](https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent) - Insights on GitHub repositories using the Angular topic.
 
 ##### Newsletters
 
@@ -687,6 +688,7 @@ become an Angular expert.
 * [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 * [ngx-drag-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/bfwg/ngx-drag-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/bfwg/ngx-drag-scroll)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 * [ng-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-slider)](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
+* [keen-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/rcbyr/keen-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/rcbyr/keen-slider)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 
 #### Charts
 
