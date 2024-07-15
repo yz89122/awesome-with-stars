@@ -262,6 +262,8 @@ This list will be upgraded soon
 - [Docgen ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/capacitor-docgen) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/capacitor-docgen)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
 - [Plugin generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/create-capacitor-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/create-capacitor-plugin)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
 - [Assets ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/capacitor-assets) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/capacitor-assets)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+- [Tailwind Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/tailwind-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/tailwind-capacitor)](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies
+- [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 
 ## Learning
 
