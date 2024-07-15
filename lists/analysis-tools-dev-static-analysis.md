@@ -996,7 +996,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyanalyze](https://pyanalyze.readthedocs.io/en/latest/) — A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and type errors. It can be extended to add additional rules and perform checks specific to particular functions.
 
-- [PyCodeQual](https://pycodequ.al) :copyright: — PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
+- [PyCodeQual](https://pycodequ.al) :copyright: ��� PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
 
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) — (Formerly `pep8`) Check Python code against some of the style conventions in PEP 8.
 
@@ -2139,7 +2139,7 @@ but with the following improvements:
 
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
-- [Credential Digger ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/credential-digger) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger)](https://github.com/SAP/credential-digger) ��� Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate. 
+- [Credential Digger ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/credential-digger) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate. 
 
 - [Datree](https://datree.io/) — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
