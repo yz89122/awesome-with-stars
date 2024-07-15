@@ -608,7 +608,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 <h2>Haskell</h2>
 
 
-- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: ��� Haskell source code formatter
+- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: — Haskell source code formatter
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
@@ -902,7 +902,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpsa ![GitHub Repo Stars](https://img.shields.io/github/stars/ovr/phpsa) ![GitHub last commit](https://img.shields.io/github/last-commit/ovr/phpsa)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
 
-- [PHPStan](https://phpstan.org) — PHP Static Analysis Tool - discover bugs in your code without running it!
+- [PHPStan](https://phpstan.org) �� PHP Static Analysis Tool - discover bugs in your code without running it!
 
 - [Progpilot ![GitHub Repo Stars](https://img.shields.io/github/stars/designsecurity/progpilot) ![GitHub last commit](https://img.shields.io/github/last-commit/designsecurity/progpilot)](https://github.com/designsecurity/progpilot) — A static analysis tool for security purposes.
 
