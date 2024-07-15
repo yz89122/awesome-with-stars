@@ -388,6 +388,8 @@ become an Angular expert.
 * [supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.  
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
+* [cryptr-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptr-auth/cryptr-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptr-auth/cryptr-angular)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
+* [angular-authentication ![GitHub Repo Stars](https://img.shields.io/github/stars/nikosanif/angular-authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/nikosanif/angular-authentication)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
 
 #### Builders
 
@@ -527,6 +529,7 @@ become an Angular expert.
 * [ngx-translate-module-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ngx-translate-module-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ngx-translate-module-loader)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
 * [ngx-translate-multi-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-translate-multi-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-translate-multi-http-loader)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 * [angular-ecmascript-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/json-derulo/angular-ecmascript-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/json-derulo/angular-ecmascript-intl)](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
+* [i18n-ally ![GitHub Repo Stars](https://img.shields.io/github/stars/lokalise/i18n-ally) ![GitHub last commit](https://img.shields.io/github/last-commit/lokalise/i18n-ally)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 
 #### Security
 
@@ -606,6 +609,7 @@ become an Angular expert.
 * [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
 * [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/) - Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components.
 * [ng-mocks ![GitHub Repo Stars](https://img.shields.io/github/stars/help-me-mom/ng-mocks) ![GitHub last commit](https://img.shields.io/github/last-commit/help-me-mom/ng-mocks)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
+* [ng-mocks-sandbox ![GitHub Repo Stars](https://img.shields.io/github/stars/help-me-mom/ng-mocks-sandbox) ![GitHub last commit](https://img.shields.io/github/last-commit/help-me-mom/ng-mocks-sandbox)](https://github.com/help-me-mom/ng-mocks-sandbox) - A repo with guides and examples for unit tests in Angular applications using ng-mocks.
 * [auto-spies ![GitHub Repo Stars](https://img.shields.io/github/stars/hirezio/auto-spies) ![GitHub last commit](https://img.shields.io/github/last-commit/hirezio/auto-spies)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes.
 * [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 * [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.  
@@ -636,6 +640,7 @@ become an Angular expert.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
 * [angular-unit-test-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/duluca/angular-unit-test-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/duluca/angular-unit-test-helper)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 * [ngentest ![GitHub Repo Stars](https://img.shields.io/github/stars/allenhwkim/ngentest) ![GitHub last commit](https://img.shields.io/github/last-commit/allenhwkim/ngentest)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
+* [angular-testing-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/babybeet/angular-testing-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/babybeet/angular-testing-kit)](https://github.com/babybeet/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 
 #### Updating
 
@@ -946,6 +951,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngify ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 * [ng-vibe ![GitHub Repo Stars](https://img.shields.io/github/stars/boris-jenicek/ng-vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/boris-jenicek/ng-vibe)](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
 * [angular-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/mikelgo/angular-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mikelgo/angular-kit)](https://github.com/mikelgo/angular-kit) - A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements.
+* [angular-ru-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular-RU/angular-ru-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular-RU/angular-ru-sdk)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
 
 #### Modals
 
@@ -996,6 +1002,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [xstate ![GitHub Repo Stars](https://img.shields.io/github/stars/statelyai/xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/statelyai/xstate)](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 * [signalstory ![GitHub Repo Stars](https://img.shields.io/github/stars/zuriscript/signalstory) ![GitHub last commit](https://img.shields.io/github/last-commit/zuriscript/signalstory)](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
 * [ngx-sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/politie/ngx-sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/politie/ngx-sherlock)](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/politie/sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/politie/sherlock)](https://github.com/politie/sherlock) distributed reactive state management library.
+* [tansu ![GitHub Repo Stars](https://img.shields.io/github/stars/AmadeusITGroup/tansu) ![GitHub last commit](https://img.shields.io/github/last-commit/AmadeusITGroup/tansu)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 
 #### Storage
 
