@@ -420,7 +420,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Social Network Evolution and Actor Oriented Models](https://doi.org/10.4000/msh.2750) (_Mathematics & Social Sciences_, 1997).
 -   [Statistical Models for Social Networks](https://doi.org/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
 -   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](https://arxiv.org/abs/0912.5410); _Foundations and Trends in Machine Learning_, 2010).
--   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](https://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on ��[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
+-   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](https://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
 
 [fienberg2012]: http://www.stat.cmu.edu/~brian/780/hw01/Fienberg%20(2012)%20A%20Brief%20History%20of%20Statistical%20Models%20for%20Network%20Analysis%20and%20Open%20Challenges.pdf
 
