@@ -14,6 +14,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Audit and performance](#audit-and-performance)
 - [Azure](#azure)
 - [Cache](#cache)
+- [CDP](#cdp)
 - [Commerce](#commerce)
 - [Configuration](#configuration)
 - [Containers](#containers)
@@ -108,6 +109,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CacheCounters ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewkenny/CacheCounters) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewkenny/CacheCounters)](https://github.com/matthewkenny/CacheCounters) - Report Sitecore cache size information into Windows performance counters.
 - [Sitecore Rules-Based Output Caching ![GitHub Repo Stars](https://img.shields.io/github/stars/zkniebel/Sitecore-Advanced-Output-Caching) ![GitHub last commit](https://img.shields.io/github/last-commit/zkniebel/Sitecore-Advanced-Output-Caching)](https://github.com/zkniebel/Sitecore-Advanced-Output-Caching) - Provides rules-based Sitecore output caching variance support, enabling the caching of personalized components and other components that require more complex cache variance logic.
 - [Dictionary Flush Partial Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/jbluemink/DictionaryFlushPartialCache) ![GitHub last commit](https://img.shields.io/github/last-commit/jbluemink/DictionaryFlushPartialCache)](https://github.com/jbluemink/DictionaryFlushPartialCache) - Flashes Partial HTML Cache on changes to Sitecore Dictionary items.
+
+## CDP
+
+- [Sitecore CDP Serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanyoung-dev/sitecore-cdp-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanyoung-dev/sitecore-cdp-serializer)](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
 
 ## Commerce
 
