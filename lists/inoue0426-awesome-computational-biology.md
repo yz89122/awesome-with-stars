@@ -17,8 +17,10 @@ A knowledge collection of databases, software and papers related to computationa
   - [Genome](#genome)
   - [Disease](#disease)
   - [Interaction](#interaction)
+- [API](#api)
 - [Preprocess](#preprocess)
 - [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
+  - [Drug Response Prediction](#drug-response-prediction)
   - [Drug Repurposing](#drug-repurposing)
   - [Drug Target Interaction](#drug-target-interaction)
   - [Compound Protein Interaction](#compound-protein-interaction)
@@ -77,6 +79,11 @@ A knowledge collection of databases, software and papers related to computationa
   - [STRING](https://string-db.org/) - Protein-Protein Interaction Networks for several organisms.
   - [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
   - [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
+- Knowledge Graph
+  - [Drug Mechanism Database (DrugMechDB) ![GitHub Repo Stars](https://img.shields.io/github/stars/SuLab/DrugMechDB) ![GitHub last commit](https://img.shields.io/github/last-commit/SuLab/DrugMechDB)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+ 
+## API
+- [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
 
 ## Preprocess
 
@@ -86,6 +93,10 @@ A knowledge collection of databases, software and papers related to computationa
 - [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 
 ## Machine Learning Tasks and Models
+
+## Drug Response Prediction
+- [drGAT ![GitHub Repo Stars](https://img.shields.io/github/stars/inoue0426/drGAT) ![GitHub last commit](https://img.shields.io/github/last-commit/inoue0426/drGAT)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
+- 
 
 ### Drug Repurposing
 
@@ -110,6 +121,9 @@ A knowledge collection of databases, software and papers related to computationa
 
 - [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - LLM for chemical and molecule science
 - [BioGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/BioGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/BioGPT)](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
+- [GeneGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/ncbi/GeneGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/ncbi/GeneGPT)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
+- [GenePT ![GitHub Repo Stars](https://img.shields.io/github/stars/yiqunchen/GenePT) ![GitHub last commit](https://img.shields.io/github/last-commit/yiqunchen/GenePT)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
+- 
 
 
 
