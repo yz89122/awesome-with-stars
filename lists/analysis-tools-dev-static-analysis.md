@@ -362,7 +362,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) :copyright: — Identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.
 
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) :copyright: — Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) :copyright: �� Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.
 
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) — Frontend to drive the Clang Static Analyzer built into Clang via a regular build.
 
@@ -519,7 +519,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [go-consistent ![GitHub Repo Stars](https://img.shields.io/github/stars/Quasilyte/go-consistent) ![GitHub last commit](https://img.shields.io/github/last-commit/Quasilyte/go-consistent)](https://github.com/Quasilyte/go-consistent) — Analyzer that helps you to make your Go programs more consistent.
 
-- [go-critic ![GitHub Repo Stars](https://img.shields.io/github/stars/go-critic/go-critic) ![GitHub last commit](https://img.shields.io/github/last-commit/go-critic/go-critic)](https://github.com/go-critic/go-critic) �� Go source code linter that maintains checks which are currently not implemented in other linters.
+- [go-critic ![GitHub Repo Stars](https://img.shields.io/github/stars/go-critic/go-critic) ![GitHub last commit](https://img.shields.io/github/last-commit/go-critic/go-critic)](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
 
 - [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
 

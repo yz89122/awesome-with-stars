@@ -1264,7 +1264,7 @@ _Software to help with game engine / video game development._
     - 🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/audacity/audacity) ![GitHub last commit](https://img.shields.io/github/last-commit/audacity/audacity)](https://github.com/audacity/audacity)]
     - 🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
     - 🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
-    - ���� [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/BleuBleu/FamiStudio) ![GitHub last commit](https://img.shields.io/github/last-commit/BleuBleu/FamiStudio)](https://github.com/BleuBleu/FamiStudio)]
+    - 🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/BleuBleu/FamiStudio) ![GitHub last commit](https://img.shields.io/github/last-commit/BleuBleu/FamiStudio)](https://github.com/BleuBleu/FamiStudio)]
     - 💸 [fmod](https://www.fmod.com) - Popular (_Hades_, _Celeste_, _Untitled Goose Game_) audio software for games.
     - 🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lmms/lmms) ![GitHub last commit](https://img.shields.io/github/last-commit/lmms/lmms)](https://github.com/lmms/lmms)]
     - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
