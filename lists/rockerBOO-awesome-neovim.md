@@ -279,6 +279,7 @@
 - [arminveres/md-pdf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/arminveres/md-pdf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/arminveres/md-pdf.nvim)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
 - [ChuufMaster/markdown-toc ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuufMaster/markdown-toc) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuufMaster/markdown-toc)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 - [OXY2DEV/markview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/markview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/markview.nvim)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
+- [Kicamon/markdown-table-mode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kicamon/markdown-table-mode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kicamon/markdown-table-mode.nvim)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 
 ### PHP
 
