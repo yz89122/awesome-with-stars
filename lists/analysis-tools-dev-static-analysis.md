@@ -898,7 +898,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpqa - jakzal ![GitHub Repo Stars](https://img.shields.io/github/stars/jakzal/phpqa) ![GitHub last commit](https://img.shields.io/github/last-commit/jakzal/phpqa)](https://github.com/jakzal/phpqa) — Many tools for PHP static analysis in one container.
 
-- [phpqa - jmolivas ![GitHub Repo Stars](https://img.shields.io/github/stars/jmolivas/phpqa) ![GitHub last commit](https://img.shields.io/github/last-commit/jmolivas/phpqa)](https://github.com/jmolivas/phpqa) �� PHPQA all-in-one Analyzer CLI tool.
+- [phpqa - jmolivas ![GitHub Repo Stars](https://img.shields.io/github/stars/jmolivas/phpqa) ![GitHub last commit](https://img.shields.io/github/last-commit/jmolivas/phpqa)](https://github.com/jmolivas/phpqa) — PHPQA all-in-one Analyzer CLI tool.
 
 - [phpsa ![GitHub Repo Stars](https://img.shields.io/github/stars/ovr/phpsa) ![GitHub last commit](https://img.shields.io/github/last-commit/ovr/phpsa)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
 
