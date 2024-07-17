@@ -68,7 +68,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Unofficial PocketBase Clients (SDKs)
 
-- [Go ![GitHub Repo Stars](https://img.shields.io/github/stars/r--w/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/r--w/pocketbase)](https://github.com/r--w/pocketbase)
+- [Go ![GitHub Repo Stars](https://img.shields.io/github/stars/pluja/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/pluja/pocketbase)](https://github.com/pluja/pocketbase)
 - [Kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/agrevster/pocketbase-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/agrevster/pocketbase-kotlin)](https://github.com/agrevster/pocketbase-kotlin)
 - [Python (Sync) ![GitHub Repo Stars](https://img.shields.io/github/stars/vaphes/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/vaphes/pocketbase)](https://github.com/vaphes/pocketbase)
 - [Python (Async) ![GitHub Repo Stars](https://img.shields.io/github/stars/thijsmie/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/thijsmie/pocketbase)](https://github.com/thijsmie/pocketbase)
