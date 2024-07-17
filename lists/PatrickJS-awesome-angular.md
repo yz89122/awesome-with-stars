@@ -1162,6 +1162,7 @@ for the creation of web applications developed with Angular.
 * [ng-dynamic-mf ![GitHub Repo Stars](https://img.shields.io/github/stars/LoaderB0T/ng-dynamic-mf) ![GitHub last commit](https://img.shields.io/github/last-commit/LoaderB0T/ng-dynamic-mf)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 * [ngx-font-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-font-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-font-picker)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-flagr ![GitHub Repo Stars](https://img.shields.io/github/stars/pBouillon/ngx-flagr) ![GitHub last commit](https://img.shields.io/github/last-commit/pBouillon/ngx-flagr)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
+* [module-federation-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/module-federation-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/module-federation-plugin)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 
 ---
 
