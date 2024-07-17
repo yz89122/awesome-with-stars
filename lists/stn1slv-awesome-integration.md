@@ -136,7 +136,7 @@ System integration is the process of linking together different IT systems (com
   - [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
   - [Mockoon (⭐6.1k) ![GitHub Repo Stars](https://img.shields.io/github/stars/mockoon/mockoon) ![GitHub last commit](https://img.shields.io/github/last-commit/mockoon/mockoon)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
   - [MockServer (⭐4.5k) ![GitHub Repo Stars](https://img.shields.io/github/stars/mock-server/mockserver) ![GitHub last commit](https://img.shields.io/github/last-commit/mock-server/mockserver)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-  - [Mocky (⭐2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/MockyAbstract/Mocky) ![GitHub last commit](https://img.shields.io/github/last-commit/MockyAbstract/Mocky)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
+  - [Mocky (��2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/MockyAbstract/Mocky) ![GitHub last commit](https://img.shields.io/github/last-commit/MockyAbstract/Mocky)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
   - [Prism (⭐4.1k) ![GitHub Repo Stars](https://img.shields.io/github/stars/stoplightio/prism) ![GitHub last commit](https://img.shields.io/github/last-commit/stoplightio/prism)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
   - [WireMock (⭐6.1k) ![GitHub Repo Stars](https://img.shields.io/github/stars/tomakehurst/wiremock) ![GitHub last commit](https://img.shields.io/github/last-commit/tomakehurst/wiremock)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 - Testing tools and frameworks
@@ -201,7 +201,7 @@ System integration is the process of linking together different IT systems (com
 - [WSO2 Enterprise Integrator (⭐367) ![GitHub Repo Stars](https://img.shields.io/github/stars/wso2/product-ei) ![GitHub last commit](https://img.shields.io/github/last-commit/wso2/product-ei)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 <!--lint disable-->
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 <!--lint enable-->
 ### ETL
 *ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.*
