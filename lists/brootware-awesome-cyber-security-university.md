@@ -130,7 +130,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Bolt](https://tryhackme.com/room/bolt) - Bolt themed machine to root into.
 
 <!--lint disable double-link-->
-[���](#contents)<!--lint enable double-link-->
+[↑](#contents)<!--lint enable double-link-->
 
 ### Level 5 - Reverse Engineering & Pwn
 
