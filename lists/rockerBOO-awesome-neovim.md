@@ -208,6 +208,7 @@
 - [simplegpt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/simplegpt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/simplegpt.nvim)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 - [Exafunction/codeium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 - [CopilotC-Nvim/CopilotChat.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CopilotC-Nvim/CopilotChat.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CopilotC-Nvim/CopilotChat.nvim)](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+- [tzachar/cmp-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/tzachar/cmp-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/tzachar/cmp-ai)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 
 ## Programming Languages Support
 
@@ -637,7 +638,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [rafcamlet/tabline-framework.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rafcamlet/tabline-framework.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rafcamlet/tabline-framework.nvim)](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
 - [nanozuki/tabby.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nanozuki/tabby.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nanozuki/tabby.nvim)](https://github.com/nanozuki/tabby.nvim) - A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer.
 - [roobert/bufferline-cycle-windowless.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/bufferline-cycle-windowless.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/bufferline-cycle-windowless.nvim)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
-- [mg979/tabline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mg979/tabline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mg979/tabline.nvim)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 ### Cursorline
 
