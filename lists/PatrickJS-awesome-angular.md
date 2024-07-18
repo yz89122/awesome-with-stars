@@ -448,6 +448,7 @@ become an Angular expert.
 * [Firebase Hosting](https://firebase.google.com/docs/app-hosting/get-started)
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-schule/angular-cli-ghpages)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+* [ngx-aws-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/Jefiozie/ngx-aws-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/Jefiozie/ngx-aws-deploy)](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 
 #### Developer tools
 
