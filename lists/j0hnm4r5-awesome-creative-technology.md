@@ -134,7 +134,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**NCompass**](https:&#x2F;&#x2F;ncompassonline.com&#x2F;) | [LA] | brand and marketing solutions creating experiences that integrate the latest technology and creative | 
 | [**Neon Global**](https:&#x2F;&#x2F;www.neonglobal.com&#x2F;) | [Singapore] | world class and epic experiences that are innovative, creative and exciting | [🌐](https:&#x2F;&#x2F;www.neonglobal.com&#x2F;en&#x2F;connect&#x2F;)
 | [**NeoPangea**](https:&#x2F;&#x2F;www.neopangea.com&#x2F;) | [Reading, PA] | microsites, games, VR&#x2F;AR, digital, social | 
-| [**NEXT&#x2F;NOW**](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;) | [Chicago] | brand activations, immersive environments, emerging technologies | [���](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;careers)
+| [**NEXT&#x2F;NOW**](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;) | [Chicago] | brand activations, immersive environments, emerging technologies | [🌐](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;careers)
 | [**NGX Interactive**](https:&#x2F;&#x2F;ngxinteractive.com&#x2F;) | [Vancouver] | pushing new technologies to create experiences that are vivid and meaningful | [🌐](https:&#x2F;&#x2F;ngxinteractive.recruitee.com&#x2F;)
 | [**Night Kitchen**](https:&#x2F;&#x2F;www.whatscookin.com&#x2F;) | [Philadelphia] | dynamic digital experiences, online exhibitions, digital strategy, storytelling | [📧](mailto:jobs@whatscookin.com)
 | [**Nohlab**](https:&#x2F;&#x2F;nohlab.com&#x2F;works) | [Istanbul] | producing interdisciplinary experiences around art, design and technology | [📧](mailto:apply@nohlab.com)
