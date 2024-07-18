@@ -146,6 +146,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Google Translate Keyboard Shortcut ![GitHub Repo Stars](https://img.shields.io/github/stars/Greenek/google-translate-keyboard-shortcut-userscript) ![GitHub last commit](https://img.shields.io/github/last-commit/Greenek/google-translate-keyboard-shortcut-userscript)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Reddit Search On Google ![GitHub Repo Stars](https://img.shields.io/github/stars/marioortizmanero/reddit-search-on-google) ![GitHub last commit](https://img.shields.io/github/last-commit/marioortizmanero/reddit-search-on-google)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+* [Share Google Slides Control ![GitHub Repo Stars](https://img.shields.io/github/stars/LostInBrittany/share-google-slides-control) ![GitHub last commit](https://img.shields.io/github/last-commit/LostInBrittany/share-google-slides-control)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
 
 ### Media
