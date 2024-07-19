@@ -695,6 +695,7 @@ become an Angular expert.
 * [layout-projection ![GitHub Repo Stars](https://img.shields.io/github/stars/Char2sGu/layout-projection) ![GitHub last commit](https://img.shields.io/github/last-commit/Char2sGu/layout-projection)](https://github.com/Char2sGu/layout-projection) - Beautify the Web with awesome layout animations.
 * [ngx-easy-view-transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-easy-view-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-easy-view-transitions)](https://github.com/DerStimmler/ngx-easy-view-transitions) - Angular library for easier use of the View Transitions API.
 * [ngx-typed-writer ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-typed-writer) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-typed-writer)](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
+* [angular-shiki-magic-move ![GitHub Repo Stars](https://img.shields.io/github/stars/tutkli/angular-shiki-magic-move) ![GitHub last commit](https://img.shields.io/github/last-commit/tutkli/angular-shiki-magic-move)](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki ![GitHub Repo Stars](https://img.shields.io/github/stars/shikijs/shiki) ![GitHub last commit](https://img.shields.io/github/last-commit/shikijs/shiki)](https://github.com/shikijs/shiki).
 
 #### Calendars
 
