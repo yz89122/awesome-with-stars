@@ -556,7 +556,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 - [govulncheck](https://go.dev/blog/vuln) — Govulncheck reports known vulnerabilities that affect Go code.  It uses static analysis of source code or a binary's symbol table to narrow down reports to only those that could affect the application.
 By default, govulncheck makes requests to the Go vulnerability database at https://vuln.go.dev. Requests to the vulnerability database contain only module paths, not code or other properties of your program.
 
-- [ineffassign ![GitHub Repo Stars](https://img.shields.io/github/stars/gordonklaus/ineffassign) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/ineffassign)](https://github.com/gordonklaus/ineffassign) — Detect ineffectual assignments in Go code.
+- [ineffassign ![GitHub Repo Stars](https://img.shields.io/github/stars/gordonklaus/ineffassign) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/ineffassign)](https://github.com/gordonklaus/ineffassign) ��� Detect ineffectual assignments in Go code.
 
 - [interfacer ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
