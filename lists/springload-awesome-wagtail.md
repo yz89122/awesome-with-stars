@@ -293,7 +293,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) by Edd Baldry.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) by Tom Dyson.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) by Bertrand Bordage.
-- [The Zen of Wagtail – Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
+- [The Zen of Wagtail ��� Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) by Matt Westcott.
 - [Plone to Wagtail – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=2m57s) by Coen van der Kamp.
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=24m9s) by Simon de Haan.
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
@@ -449,7 +449,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [HackSoft ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hacksoft.io) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hacksoft.io)](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 - [HackConf ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hackconf.bg) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hackconf.bg)](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 - [RTEI ![GitHub Repo Stars](https://img.shields.io/github/stars/okfn/rtei) ![GitHub last commit](https://img.shields.io/github/last-commit/okfn/rtei)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
-- [BVSPCA ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) ��� Bow Valley SPCA website.
+- [BVSPCA ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 - [Project TIER ![GitHub Repo Stars](https://img.shields.io/github/stars/ProjectTIER/projecttier.org) ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectTIER/projecttier.org)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 - [SecureDrop ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securedrop.org) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securedrop.org)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 - [Consumer Financial Protection Bureau ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/consumerfinance.gov) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/consumerfinance.gov)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
