@@ -272,7 +272,7 @@ Forms.) – <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47">
 
 <h2 id="calculating-surrogate-pairs">Calculating Surrogate Pairs</h2>
 
-<p>The Unicode character <strong>💩 Pile of Poo (U+1F4A9)</strong> in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we’re using hexidecimal notation.</p>
+<p>The Unicode character <strong>���� Pile of Poo (U+1F4A9)</strong> in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we’re using hexidecimal notation.</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="kd">var</span> <span class="nx">High_Surrogate</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">Code_Point</span><span class="p">){</span> <span class="k">return</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">((</span><span class="nx">Code_Point</span> <span class="o">-</span> <span class="mh">0x10000</span><span class="p">)</span> <span class="o">/</span> <span class="mh">0x400</span><span class="p">)</span> <span class="o">+</span> <span class="mh">0xD800</span> <span class="p">};</span>
  <span class="kd">var</span> <span class="nx">Low_Surrogate</span>  <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">Code_Point</span><span class="p">){</span> <span class="k">return</span> <span class="p">(</span><span class="nx">Code_Point</span> <span class="o">-</span> <span class="mh">0x10000</span><span class="p">)</span> <span class="o">%</span> <span class="mh">0x400</span> <span class="o">+</span> <span class="mh">0xDC00</span> <span class="p">};</span>
@@ -418,7 +418,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 | <code class="language-plaintext highlighter-rouge">' '</code>    | U+1680 OGHAM SPACE MARK                  | a space that looks like a dash. Great to bring programmers close to madness: 1 +  2 === 3.                                                                                                     |
 | <code class="language-plaintext highlighter-rouge">';'</code>    | U+037E GREEK QUESTION MARK               | a look-alike to the semicolon. Also a fun way to annoy developers.                                                                                                                             |
 | <code class="language-plaintext highlighter-rouge">'‭'</code>    | U+202D                                   | change the text direction to Left-to-Right.                                                                                                                                                    |
-| <code class="language-plaintext highlighter-rouge">'‮'</code>‭ ‭ | U+202E                                   | change the text direction to Right-to-Left:                                                                                                                                     |
+| <code class="language-plaintext highlighter-rouge">'‮'</code>��� ‭ | U+202E                                   | change the text direction to Right-to-Left:                                                                                                                                     |
 | <code class="language-plaintext highlighter-rouge">'ꓸ'</code> | U+A4F8 LISU LETTER TONE MYA TI |A lookalike for the period character. |
 | <code class="language-plaintext highlighter-rouge">'ꓹ'</code> | U+A4F9 LISU LETTER TONE NA PO |A lookalike for the comma character.|
 | <code class="language-plaintext highlighter-rouge">'ꓼ'</code> | U+A4FC LISU LETTER TONE MYA NA |A lookalike for the semi-colon character.|
@@ -1297,7 +1297,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
       <td><code class="language-plaintext highlighter-rouge">ΐ</code></td>
       <td>GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA</td>
       <td>
-<code class="language-plaintext highlighter-rouge">ι</code>, <code class="language-plaintext highlighter-rouge">̈</code>, <code class="language-plaintext highlighter-rouge">́</code>
+<code class="language-plaintext highlighter-rouge">ι</code>, <code class="language-plaintext highlighter-rouge">̈</code>, <code class="language-plaintext highlighter-rouge">��</code>
 </td>
       <td>U+03B9, U+0308, U+0301</td>
     </tr>
@@ -1575,7 +1575,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
     <tr>
       <td>U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469</td>
       <td>
-<img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/apple/apple_2764.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png" referrerpolicy="no-referrer" loading="lazy">
+<img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="❤���‍" src="http://unicode.org/reports/tr51/images/apple/apple_2764.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png" referrerpolicy="no-referrer" loading="lazy"> <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png" referrerpolicy="no-referrer" loading="lazy">
 </td>
       <td><img height="36" width="auto" alt="couple with heart: woman, woman" src="http://unicode.org/reports/tr51/images/apple/apple_1f469_200d_2764_fe0f_200d_1f469.png" referrerpolicy="no-referrer" loading="lazy"></td>
     </tr>
