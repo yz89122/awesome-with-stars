@@ -1146,6 +1146,7 @@ for the creation of web applications developed with Angular.
 * [skyux ![GitHub Repo Stars](https://img.shields.io/github/stars/blackbaud/skyux) ![GitHub last commit](https://img.shields.io/github/last-commit/blackbaud/skyux)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
 * [ngx-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-ui-tour)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/benmarch/angular-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/benmarch/angular-ui-tour)](https://github.com/benmarch/angular-ui-tour).
 * [ngx-tour-wizard ![GitHub Repo Stars](https://img.shields.io/github/stars/tonysamperi/ngx-tour-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/tonysamperi/ngx-tour-wizard)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+* [bdc-walkthrough ![GitHub Repo Stars](https://img.shields.io/github/stars/Broadcom/bdc-walkthrough) ![GitHub last commit](https://img.shields.io/github/last-commit/Broadcom/bdc-walkthrough)](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 
 #### Viewers
 
