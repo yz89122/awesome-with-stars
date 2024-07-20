@@ -118,6 +118,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Community
 
+* [Angular Discord Channel](https://discord.com/invite/angular)
 * [`#angular`](https://x.com/hashtag/angular) hashtag on X.
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
@@ -413,6 +414,7 @@ become an Angular expert.
 * [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
 * [cryptr-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptr-auth/cryptr-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptr-auth/cryptr-angular)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
 * [angular-authentication ![GitHub Repo Stars](https://img.shields.io/github/stars/nikosanif/angular-authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/nikosanif/angular-authentication)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
+* [ngx-security ![GitHub Repo Stars](https://img.shields.io/github/stars/mselerin/ngx-security) ![GitHub last commit](https://img.shields.io/github/last-commit/mselerin/ngx-security)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 
 #### Builders
 
@@ -980,6 +982,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/mikelgo/angular-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mikelgo/angular-kit)](https://github.com/mikelgo/angular-kit) - A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements.
 * [angular-ru-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular-RU/angular-ru-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular-RU/angular-ru-sdk)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
 * [dfts-common ![GitHub Repo Stars](https://img.shields.io/github/stars/Dafnik/dfts-common) ![GitHub last commit](https://img.shields.io/github/last-commit/Dafnik/dfts-common)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
+* [sba-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sinequa/sba-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sinequa/sba-angular)](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
 
 #### Modals
 
@@ -1219,6 +1222,7 @@ for the creation of web applications developed with Angular.
 * [ngrx-rtk-query ![GitHub Repo Stars](https://img.shields.io/github/stars/SaulMoro/ngrx-rtk-query) ![GitHub last commit](https://img.shields.io/github/last-commit/SaulMoro/ngrx-rtk-query)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
 * [ngrx-action-bundles ![GitHub Repo Stars](https://img.shields.io/github/stars/IliaIdakiev/ngrx-action-bundles) ![GitHub last commit](https://img.shields.io/github/last-commit/IliaIdakiev/ngrx-action-bundles)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
+* [ngx-view-state ![GitHub Repo Stars](https://img.shields.io/github/stars/yurakhomitsky/ngx-view-state) ![GitHub last commit](https://img.shields.io/github/last-commit/yurakhomitsky/ngx-view-state)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 
 #### RxJS
 
