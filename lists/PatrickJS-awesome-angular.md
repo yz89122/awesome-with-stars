@@ -135,6 +135,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 * [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 * [opensauced pizza](https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent) - Insights on GitHub repositories using the Angular topic.
+* [angular-memes ![GitHub Repo Stars](https://img.shields.io/github/stars/dzhavat/angular-memes) ![GitHub last commit](https://img.shields.io/github/last-commit/dzhavat/angular-memes)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 
 ##### Newsletters
 
