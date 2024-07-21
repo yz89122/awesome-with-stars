@@ -588,7 +588,7 @@
 ### Humanize
 
 - [pretty-bytes ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pretty-bytes) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pretty-bytes)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-- [pretty-ms ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pretty-ms) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pretty-ms)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+- [pretty-ms ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pretty-ms) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pretty-ms)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` �� `15d 11h 23m 20s`.
 - [ms ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/ms) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/ms)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 - [pretty-error ![GitHub Repo Stars](https://img.shields.io/github/stars/AriaMinaei/pretty-error) ![GitHub last commit](https://img.shields.io/github/last-commit/AriaMinaei/pretty-error)](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [read-art ![GitHub Repo Stars](https://img.shields.io/github/stars/Tjatse/node-readability) ![GitHub last commit](https://img.shields.io/github/last-commit/Tjatse/node-readability)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
