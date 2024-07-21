@@ -159,6 +159,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TestCafe ![GitHub Repo Stars](https://img.shields.io/github/stars/DevExpress/testcafe) ![GitHub last commit](https://img.shields.io/github/last-commit/DevExpress/testcafe)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava ![GitHub Repo Stars](https://img.shields.io/github/stars/avajs/ava) ![GitHub last commit](https://img.shields.io/github/last-commit/avajs/ava)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
+* [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 
 ### Assertion
 
@@ -251,6 +252,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Blockly ![GitHub Repo Stars](https://img.shields.io/github/stars/google/blockly) ![GitHub last commit](https://img.shields.io/github/last-commit/google/blockly)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million ![GitHub Repo Stars](https://img.shields.io/github/stars/aidenybai/million) ![GitHub last commit](https://img.shields.io/github/last-commit/aidenybai/million)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup ![GitHub Repo Stars](https://img.shields.io/github/stars/whatsup/whatsup) ![GitHub last commit](https://img.shields.io/github/last-commit/whatsup/whatsup)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+* [Remult ![GitHub Repo Stars](https://img.shields.io/github/stars/remult/remult) ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 
 ## Node-Powered CMS Frameworks
 
@@ -471,6 +473,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [map-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/dawidjaniga/map-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/dawidjaniga/map-countdown)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 * [dayjs ![GitHub Repo Stars](https://img.shields.io/github/stars/iamkun/dayjs) ![GitHub last commit](https://img.shields.io/github/last-commit/iamkun/dayjs)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 * [luxon ![GitHub Repo Stars](https://img.shields.io/github/stars/moment/luxon) ![GitHub last commit](https://img.shields.io/github/last-commit/moment/luxon)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+* [tempo ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/tempo) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/tempo)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
 
 ## String
 *String Libraries.*
@@ -639,6 +642,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [benchmark.js ![GitHub Repo Stars](https://img.shields.io/github/stars/bestiejs/benchmark.js) ![GitHub last commit](https://img.shields.io/github/last-commit/bestiejs/benchmark.js)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [matcha ![GitHub Repo Stars](https://img.shields.io/github/stars/logicalparadox/matcha) ![GitHub last commit](https://img.shields.io/github/last-commit/logicalparadox/matcha)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+* [bencher ![GitHub Repo Stars](https://img.shields.io/github/stars/bencherdev/bencher) ![GitHub last commit](https://img.shields.io/github/last-commit/bencherdev/bencher)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## Web Worker
 
@@ -1050,6 +1054,7 @@ https://listjs.com
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 * [Functional-Light JavaScript ![GitHub Repo Stars](https://img.shields.io/github/stars/getify/Functional-Light-JS) ![GitHub last commit](https://img.shields.io/github/last-commit/getify/Functional-Light-JS)](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmcdermott/clean-code-javascript)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+* [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 
 
 # Other Awesome Lists
