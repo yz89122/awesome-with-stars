@@ -616,6 +616,7 @@ become an Angular expert.
 * [fractal-boilerplate-lua-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) ![GitHub last commit](https://img.shields.io/github/last-commit/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular)](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
 * [angular-nestjs-starter-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/JangoCG/angular-nestjs-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/JangoCG/angular-nestjs-starter-kit)](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
 * [angular-sample-app ![GitHub Repo Stars](https://img.shields.io/github/stars/descope-sample-apps/angular-sample-app) ![GitHub last commit](https://img.shields.io/github/last-commit/descope-sample-apps/angular-sample-app)](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
+* [Angular-18-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/Gentleman-Programming/Angular-18-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/Gentleman-Programming/Angular-18-boilerplate)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
 
 ##### Paid
 
@@ -1057,6 +1058,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [ngx-export-as ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-export-as) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-export-as)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+* [datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/datagrid)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 
 #### Tooltips
 
@@ -1267,6 +1269,7 @@ for the creation of web applications developed with Angular.
 * [superstruct ![GitHub Repo Stars](https://img.shields.io/github/stars/ianstormtaylor/superstruct) ![GitHub last commit](https://img.shields.io/github/last-commit/ianstormtaylor/superstruct)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 * [typebox ![GitHub Repo Stars](https://img.shields.io/github/stars/sinclairzx81/typebox) ![GitHub last commit](https://img.shields.io/github/last-commit/sinclairzx81/typebox)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod ![GitHub Repo Stars](https://img.shields.io/github/stars/colinhacks/zod) ![GitHub last commit](https://img.shields.io/github/last-commit/colinhacks/zod)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+* [valibot ![GitHub Repo Stars](https://img.shields.io/github/stars/fabian-hiller/valibot) ![GitHub last commit](https://img.shields.io/github/last-commit/fabian-hiller/valibot)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 
 #### Other Lists
 
