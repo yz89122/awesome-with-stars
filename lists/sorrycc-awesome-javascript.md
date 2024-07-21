@@ -1001,6 +1001,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Gridsome ![GitHub Repo Stars](https://img.shields.io/github/stars/gridsome/gridsome) ![GitHub last commit](https://img.shields.io/github/last-commit/gridsome/gridsome)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 * [Docusaurus ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/docusaurus) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/docusaurus)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 * [Next.js ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+* [Lume ![GitHub Repo Stars](https://img.shields.io/github/stars/lumeland/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lumeland/lume)](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ## SDK
 
