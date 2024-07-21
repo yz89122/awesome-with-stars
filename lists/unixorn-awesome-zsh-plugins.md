@@ -300,7 +300,7 @@ Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto ![GitHub Re
 
 **Zinit** is an innovative and probably (because of the Turbo) the fastest plugin manager with support for:
 
-- Turbo mode – 80% faster ZSH startup! for example: instead of 200 ms, it'll be 40 ms
+- Turbo mode �� 80% faster ZSH startup! for example: instead of 200 ms, it'll be 40 ms
 - Completion management (selectively disable and enable completions)
 - Snippets (↔ regular files downloaded via-URL, e.g.: scripts) and through them Oh My Zsh and Prezto plugins support (→ low overhead)
 - Annexes (↔ Zinit extensions)
