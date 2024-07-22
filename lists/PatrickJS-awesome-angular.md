@@ -416,6 +416,7 @@ become an Angular expert.
 * [cryptr-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptr-auth/cryptr-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptr-auth/cryptr-angular)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
 * [angular-authentication ![GitHub Repo Stars](https://img.shields.io/github/stars/nikosanif/angular-authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/nikosanif/angular-authentication)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
 * [ngx-security ![GitHub Repo Stars](https://img.shields.io/github/stars/mselerin/ngx-security) ![GitHub last commit](https://img.shields.io/github/last-commit/mselerin/ngx-security)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
+* [ngx-clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/anagstef/ngx-clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/anagstef/ngx-clerk)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 
 #### Builders
 
@@ -936,6 +937,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-skeleton-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-skeleton-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-skeleton-loader)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 * [angular-svg-round-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/crisbeto/angular-svg-round-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/crisbeto/angular-svg-round-progressbar)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 * [ng-circle-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/bootsoon/ng-circle-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/bootsoon/ng-circle-progress)](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
+* [ngx-loading-buttons ![GitHub Repo Stars](https://img.shields.io/github/stars/dkreider/ngx-loading-buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/dkreider/ngx-loading-buttons)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
 
 #### Loggers
 

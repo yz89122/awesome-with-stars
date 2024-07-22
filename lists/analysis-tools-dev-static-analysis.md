@@ -238,7 +238,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
-- [flawfinder](http://dwheeler.com/flawfinder/) — Finds possible security weaknesses.
+- [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
 
 - [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
@@ -338,7 +338,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
-- [flawfinder](http://dwheeler.com/flawfinder/) — Finds possible security weaknesses.
+- [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
 
 - [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
@@ -816,7 +816,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [dephpend ![GitHub Repo Stars](https://img.shields.io/github/stars/mihaeu/dephpend) ![GitHub last commit](https://img.shields.io/github/last-commit/mihaeu/dephpend)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
 
-- [deprecation-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deprecation-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deprecation-detector)](https://github.com/sensiolabs-de/deprecation-detector) — Finds usages of deprecated (Symfony) code.
+- [deprecation-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deprecation-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deprecation-detector)](https://github.com/sensiolabs-de/deprecation-detector) ��� Finds usages of deprecated (Symfony) code.
 
 - [deptrac ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deptrac) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deptrac)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 
