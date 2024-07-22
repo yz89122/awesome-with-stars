@@ -560,6 +560,8 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [ptdewey/darkearth-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/darkearth-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/darkearth-nvim)](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
 - [uloco/bluloco.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/uloco/bluloco.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/uloco/bluloco.nvim)](https://github.com/uloco/bluloco.nvim) - A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
 - [slugbyte/lackluster.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/slugbyte/lackluster.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/slugbyte/lackluster.nvim)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+- [0xstepit/flow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/0xstepit/flow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/0xstepit/flow.nvim)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+
 
 ### Lua Colorscheme
 
