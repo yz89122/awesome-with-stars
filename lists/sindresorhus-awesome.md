@@ -611,6 +611,7 @@
 - [TDengine ![GitHub Repo Stars](https://img.shields.io/github/stars/taosdata/awesome-tdengine) ![GitHub last commit](https://img.shields.io/github/last-commit/taosdata/awesome-tdengine)](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase ![GitHub Repo Stars](https://img.shields.io/github/stars/lyqht/awesome-supabase) ![GitHub last commit](https://img.shields.io/github/last-commit/lyqht/awesome-supabase)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 - [PocketBase ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/awesome-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/awesome-pocketbase)](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
+- [Neon ![GitHub Repo Stars](https://img.shields.io/github/stars/tyaga001/awesome-neon) ![GitHub last commit](https://img.shields.io/github/last-commit/tyaga001/awesome-neon)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
 ## Media
 
