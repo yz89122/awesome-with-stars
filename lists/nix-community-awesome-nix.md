@@ -23,6 +23,7 @@
     * [Clojure](#clojure)
     * [Crystal](#crystal)
     * [Elm](#elm)
+    * [Gleam](#gleam)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
     * [Node.js](#nodejs)
@@ -164,6 +165,7 @@
 ## DevOps
 
 * [Makes ![GitHub Repo Stars](https://img.shields.io/github/stars/fluidattacks/makes) ![GitHub last commit](https://img.shields.io/github/last-commit/fluidattacks/makes)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+* [nixidy ![GitHub Repo Stars](https://img.shields.io/github/stars/arnarg/nixidy) ![GitHub last commit](https://img.shields.io/github/last-commit/arnarg/nixidy)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 * [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/divnix/std) ![GitHub last commit](https://img.shields.io/github/last-commit/divnix/std)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## Programming Languages
@@ -183,6 +185,10 @@
 ### Elm
 
 * [elm2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/cachix/elm2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/cachix/elm2nix)](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
+
+### Gleam
+
+* [nix-gleam ![GitHub Repo Stars](https://img.shields.io/github/stars/arnarg/nix-gleam) ![GitHub last commit](https://img.shields.io/github/last-commit/arnarg/nix-gleam)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
 ### Haskell
 
