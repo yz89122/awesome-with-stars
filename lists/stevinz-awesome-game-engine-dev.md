@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -495,7 +495,7 @@ _Language specific game engine development libraries / frameworks / code._
     - ⭐ [RmlUi ![GitHub Repo Stars](https://img.shields.io/github/stars/mikke89/RmlUi) ![GitHub last commit](https://img.shields.io/github/last-commit/mikke89/RmlUi)](https://github.com/mikke89/RmlUi) - Turns HTML / CSS source files into vertices and draw commands. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
     - ⭐ [Turbo Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/fruxo/turbobadger) ![GitHub last commit](https://img.shields.io/github/last-commit/fruxo/turbobadger)](https://github.com/fruxo/turbobadger) - Gui library for hardware accelerated apps & games. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
     - 🔒 [Wt ![GitHub Repo Stars](https://img.shields.io/github/stars/emweb/wt) ![GitHub last commit](https://img.shields.io/github/last-commit/emweb/wt)](https://github.com/emweb/wt) - Web gui library in modern C++. [[Website](https://www.webtoolkit.eu/wt)]
-    - ���� [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
+    - 🔒 [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
 - C++: Input
     - 🎉 [Gainput ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/gainput) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/gainput)](https://github.com/jkuhlmann/gainput) - Easy to use input library.
     - 🎉 [OIS ![GitHub Repo Stars](https://img.shields.io/github/stars/wgois/OIS) ![GitHub last commit](https://img.shields.io/github/last-commit/wgois/OIS)](https://github.com/wgois/OIS) - Object-oriented input system. Compatiable with many operating systems.
@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
     - 🌎 [Blazor ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/aspnetcore) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
-    - ��� [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
+    - 🎉 [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
@@ -633,7 +633,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - ���� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
