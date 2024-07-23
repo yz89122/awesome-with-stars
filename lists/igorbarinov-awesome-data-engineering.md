@@ -178,6 +178,7 @@
 - [HStreamDB ![GitHub Repo Stars](https://img.shields.io/github/stars/hstreamdb/hstream) ![GitHub last commit](https://img.shields.io/github/last-commit/hstreamdb/hstream)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 - [Kuiper ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/kuiper) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/kuiper)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 - [Zilla ![GitHub Repo Stars](https://img.shields.io/github/stars/aklivity/zilla) ![GitHub last commit](https://img.shields.io/github/last-commit/aklivity/zilla)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
+- [SwimOS ![GitHub Repo Stars](https://img.shields.io/github/stars/swimos/swim-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/swimos/swim-rust)](https://github.com/swimos/swim-rust) - A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.
 
 ## Batch Processing
 

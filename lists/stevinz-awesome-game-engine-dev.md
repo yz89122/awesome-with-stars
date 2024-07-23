@@ -236,7 +236,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
-- 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
+- ��� [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Gui frameworks across all platforms and languages.
 
 ### Programming
 - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -464,7 +464,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [C++ Bitmap Library ![GitHub Repo Stars](https://img.shields.io/github/stars/ArashPartow/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/ArashPartow/bitmap)](https://github.com/ArashPartow/bitmap) - Featured bitmap loading and manipulation library.
     - 🎉 [QNanoPainter ![GitHub Repo Stars](https://img.shields.io/github/stars/QUItCoding/qnanopainter) ![GitHub last commit](https://img.shields.io/github/last-commit/QUItCoding/qnanopainter)](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated vector drawing library for _Qt_, powered by _NanoVG_.
     - 🎉 [Skia ![GitHub Repo Stars](https://img.shields.io/github/stars/google/skia) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia)](https://github.com/google/skia) - Complete 2D graphics library used in Chrome by _Google_. [[Website](https://skia.org)]
-    - 🎉 [vg-renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/jdryg/vg-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/jdryg/vg-renderer)](https://github.com/jdryg/vg-renderer) - 2D vector graphics renderer for _Bgfx_, based on ideas from _NanoVG_.
+    - �� [vg-renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/jdryg/vg-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/jdryg/vg-renderer)](https://github.com/jdryg/vg-renderer) - 2D vector graphics renderer for _Bgfx_, based on ideas from _NanoVG_.
 - C++: Graphics - 3D
     - 🎉 [Bgfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bkaradzic/bgfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bkaradzic/bgfx)](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, rendering library.
     - 🎉 [Diligent Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/DiligentGraphics/DiligentEngine)](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform graphics API abstraction library.
