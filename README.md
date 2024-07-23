@@ -758,6 +758,7 @@
 - [Algorand ![GitHub Repo Stars](https://img.shields.io/github/stars/aorumbayev/awesome-algorand) ![GitHub last commit](https://img.shields.io/github/last-commit/aorumbayev/awesome-algorand)](./lists/aorumbayev-awesome-algorand.md) [*Origin*](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet ![GitHub Repo Stars](https://img.shields.io/github/stars/zolagonano/awesome-zeronet) ![GitHub last commit](https://img.shields.io/github/last-commit/zolagonano/awesome-zeronet)](./lists/zolagonano-awesome-zeronet.md) [*Origin*](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos/awesome-cosmos) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/awesome-cosmos)](./lists/cosmos-awesome-cosmos.md) [*Origin*](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [Tor ![GitHub Repo Stars](https://img.shields.io/github/stars/polycarbohydrate/awesome-tor) ![GitHub last commit](https://img.shields.io/github/last-commit/polycarbohydrate/awesome-tor)](./lists/polycarbohydrate-awesome-tor.md) [*Origin*](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 
 ## Health and Social Science
 
