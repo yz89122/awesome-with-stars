@@ -207,7 +207,7 @@ Meteo
 - [Offline ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/flutter_offline) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/flutter_offline)](https://github.com/jogboms/flutter_offline) [1017⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [ShowCaseView ![GitHub Repo Stars](https://img.shields.io/github/stars/simformsolutions/flutter_showcaseview) ![GitHub last commit](https://img.shields.io/github/last-commit/simformsolutions/flutter_showcaseview)](https://github.com/simformsolutions/flutter_showcaseview) [1427⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Mix ![GitHub Repo Stars](https://img.shields.io/github/stars/leoafarias/mix) ![GitHub last commit](https://img.shields.io/github/last-commit/leoafarias/mix)](https://github.com/leoafarias/mix) [460⭐] - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
-- [Blurhash ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/flutter_blurhash) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/flutter_blurhash)](https://github.com/fluttercommunity/flutter_blurhash) [507⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
+- [Blurhash ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/flutter_blurhash) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/flutter_blurhash)](https://github.com/fluttercommunity/flutter_blurhash) [507��] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
 
 
 #### Material Design
@@ -400,7 +400,7 @@ Meteo
 - [AppAvailability ![GitHub Repo Stars](https://img.shields.io/github/stars/pichillilorenzo/flutter_appavailability) ![GitHub last commit](https://img.shields.io/github/last-commit/pichillilorenzo/flutter_appavailability)](https://github.com/pichillilorenzo/flutter_appavailability) [91⭐] - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [File Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelpruivo/plugins_flutter_file_picker) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelpruivo/plugins_flutter_file_picker)](https://github.com/miguelpruivo/plugins_flutter_file_picker) [1276⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 - [VPN ![GitHub Repo Stars](https://img.shields.io/github/stars/X-dea/Flutter_VPN) ![GitHub last commit](https://img.shields.io/github/last-commit/X-dea/Flutter_VPN)](https://github.com/X-dea/Flutter_VPN) [341⭐] - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
-- [Geolocator ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-geolocator) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-geolocator)](https://github.com/baseflow/flutter-geolocator) [1215⭐] - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+- [Geolocator ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-geolocator) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-geolocator)](https://github.com/baseflow/flutter-geolocator) [1215���] - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
 - [Permission Handler ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-permission-handler) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-permission-handler)](https://github.com/baseflow/flutter-permission-handler) [1994⭐] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 - [Live Activities ![GitHub Repo Stars](https://img.shields.io/github/stars/istornz/live_activities) ![GitHub last commit](https://img.shields.io/github/last-commit/istornz/live_activities)](https://github.com/istornz/live_activities) [148⭐] - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
 
@@ -642,7 +642,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
 - [Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
-- [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
+- [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简���
 - [Hashnode](https://hashnode.com/n/flutter) - Read and write posts, participate in discussions or ask questions.
 
 #### Misc
