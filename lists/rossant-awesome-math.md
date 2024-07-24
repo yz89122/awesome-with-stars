@@ -479,7 +479,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 * 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
-* 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
+* �� [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * 📝 [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * 📝 [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * 📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
@@ -604,7 +604,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * 📝 [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
-* �� [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
+* 📝 [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 # Students Lecture Notes
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
