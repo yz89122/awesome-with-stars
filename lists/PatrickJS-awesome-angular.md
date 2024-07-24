@@ -466,6 +466,7 @@ become an Angular expert.
 * [angular-cli-ghpages ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-schule/angular-cli-ghpages)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 * [ngx-aws-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/Jefiozie/ngx-aws-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/Jefiozie/ngx-aws-deploy)](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 * [analog-publish-gh-pages ![GitHub Repo Stars](https://img.shields.io/github/stars/k9n-dev/analog-publish-gh-pages) ![GitHub last commit](https://img.shields.io/github/last-commit/k9n-dev/analog-publish-gh-pages)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
+* [Genezio ![GitHub Repo Stars](https://img.shields.io/github/stars/Genez-io/genezio) ![GitHub last commit](https://img.shields.io/github/last-commit/Genez-io/genezio)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 
 #### Developer tools
 
