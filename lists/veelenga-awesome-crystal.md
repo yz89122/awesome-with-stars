@@ -234,7 +234,7 @@ described in [RFC 8032]
 
 ## Debugging
 * [backtracer.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/Sija/backtracer.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/Sija/backtracer.cr)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-* [debug.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/Sija/debug.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/Sija/debug.cr)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+* [debug.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/Sija/debug.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/Sija/debug.cr)](https://github.com/Sija/debug.cr) - `debug!(���)` macro for `pp`-style debugging
 
 ## Dependency Injection
  * [Athena Dependency Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/athena-framework/dependency-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/athena-framework/dependency-injection)](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
