@@ -543,6 +543,7 @@ become an Angular expert.
 * [angular-tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-tauri)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 * [ngx-three ![GitHub Repo Stars](https://img.shields.io/github/stars/demike/ngx-three) ![GitHub last commit](https://img.shields.io/github/last-commit/demike/ngx-three)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-facebook-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-facebook-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-facebook-messenger)](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
+* [angular-sdk-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/splitio/angular-sdk-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/splitio/angular-sdk-plugin)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
 
 #### Internationalization
 
@@ -953,6 +954,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 #### Maps
 
 * [angular-cesium ![GitHub Repo Stars](https://img.shields.io/github/stars/TGFTech/angular-cesium) ![GitHub last commit](https://img.shields.io/github/last-commit/TGFTech/angular-cesium)](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
+* [cesium-angular-example ![GitHub Repo Stars](https://img.shields.io/github/stars/Developer-Plexscape/cesium-angular-example) ![GitHub last commit](https://img.shields.io/github/last-commit/Developer-Plexscape/cesium-angular-example)](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 * [ngx-mapbox-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/Wykks/ngx-mapbox-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/Wykks/ngx-mapbox-gl)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 * [ng-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-maps/ng-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-maps/ng-maps)](https://github.com/ng-maps/ng-maps) - Modular map components for angular.
 * [ngx-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/bluehalo/ngx-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/bluehalo/ngx-leaflet)](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
@@ -1202,6 +1204,7 @@ for the creation of web applications developed with Angular.
 * [ngx-font-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-font-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-font-picker)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-flagr ![GitHub Repo Stars](https://img.shields.io/github/stars/pBouillon/ngx-flagr) ![GitHub last commit](https://img.shields.io/github/last-commit/pBouillon/ngx-flagr)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [module-federation-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/module-federation-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/module-federation-plugin)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+* [ng2-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/moribvndvs/ng2-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/moribvndvs/ng2-idle)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 
 ---
 
