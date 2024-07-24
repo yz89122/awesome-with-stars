@@ -476,7 +476,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 <h2>F#</h2>
 
 
-- [FSharpLint](https://fsprojects.github.io/FSharpLint) �� Lint tool for F#.
+- [FSharpLint](https://fsprojects.github.io/FSharpLint) — Lint tool for F#.
 
 
 <a name="fortran" />
@@ -862,7 +862,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
 
-- [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
+- [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: �� Library emulating the PHP internal reflection.
 
 - [php7cc ![GitHub Repo Stars](https://img.shields.io/github/stars/sstalle/php7cc) ![GitHub last commit](https://img.shields.io/github/last-commit/sstalle/php7cc)](https://github.com/sstalle/php7cc) :warning: — PHP 7 Compatibility Checker.
 
