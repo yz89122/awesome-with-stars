@@ -731,6 +731,13 @@ Language: English \
 Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`, `#jobs`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/php_community.webp">
+
+[__PHP Community Chat__](https://discord.gg/nh9QV3u39U) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://phpcommunity.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/phpcommunity) \
+Notable Channels: `#phpc`, `#php-internals`, `#php-doc`, `#php-internals`, `#phpc-foundation`\
+Language: English \
+<br>
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/tenancy.webp">
 
 [__Tenancy__](https://discord.com/invite/4amsQJ7) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://tenancy.dev/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/tenancy) \
@@ -1813,6 +1820,13 @@ Language: English, عربي, español, polski
 [__Official Unity Discord__](https://discord.com/invite/unity) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://unity.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Unity-Technologies) \
 Notable Channels: `#general-unity`, `#game-jams`, `#completed-projects`, `#unitytips`, `#general-code`, `#editor-extensions`, `#dots`, `#shaders`, `#mobile`, `#machine-learning`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/orx_community.webp">
+
+[__ORX Engine Community__](https://discord.com/invite/aC84aJJ) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://orx-project.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/orx) \
+Notable Channels: `#general`, `#support`, `#learning`, `#orx`, `#projects`, `#wiki`, `#live` \
+Language: English \
+<br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/panda3d.webp">
 
