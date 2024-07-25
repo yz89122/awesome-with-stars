@@ -1129,6 +1129,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-neumorphic ![GitHub Repo Stars](https://img.shields.io/github/stars/koskosergej/ngx-neumorphic) ![GitHub last commit](https://img.shields.io/github/last-commit/koskosergej/ngx-neumorphic)](https://github.com/koskosergej/ngx-neumorphic) - Angular Neomorphism UI kit.
 * [ng-zen ![GitHub Repo Stars](https://img.shields.io/github/stars/Kordrad/ng-zen) ![GitHub last commit](https://img.shields.io/github/last-commit/Kordrad/ng-zen)](https://github.com/Kordrad/ng-zen) - A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase.
 * [pupakit ![GitHub Repo Stars](https://img.shields.io/github/stars/bimeister/pupakit) ![GitHub last commit](https://img.shields.io/github/last-commit/bimeister/pupakit)](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
+* [ngwr ![GitHub Repo Stars](https://img.shields.io/github/stars/thekhegay/ngwr) ![GitHub last commit](https://img.shields.io/github/last-commit/thekhegay/ngwr)](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 
 ##### Material Based
 
