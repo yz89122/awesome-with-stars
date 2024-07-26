@@ -17,7 +17,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Databases ![GitHub Repo Stars](https://img.shields.io/github/stars/JanVanRyswyck/awesome-talks) ![GitHub last commit](https://img.shields.io/github/last-commit/JanVanRyswyck/awesome-talks)](https://github.com/JanVanRyswyck/awesome-talks#databases)
   - [Security ![GitHub Repo Stars](https://img.shields.io/github/stars/JanVanRyswyck/awesome-talks) ![GitHub last commit](https://img.shields.io/github/last-commit/JanVanRyswyck/awesome-talks)](https://github.com/JanVanRyswyck/awesome-talks#security)
   - [Cognitive Development ![GitHub Repo Stars](https://img.shields.io/github/stars/JanVanRyswyck/awesome-talks) ![GitHub last commit](https://img.shields.io/github/last-commit/JanVanRyswyck/awesome-talks)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
-  - [Cryptocurrencies ![GitHub Repo Stars](https://img.shields.io/github/stars/JanVanRyswyck/awesome-talks) ![GitHub last commit](https://img.shields.io/github/last-commit/JanVanRyswyck/awesome-talks)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
 
