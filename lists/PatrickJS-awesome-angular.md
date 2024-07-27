@@ -981,6 +981,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-remark ![GitHub Repo Stars](https://img.shields.io/github/stars/ericleib/ngx-remark) ![GitHub last commit](https://img.shields.io/github/last-commit/ericleib/ngx-remark)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 * [ngx-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/instance-oom/ngx-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/instance-oom/ngx-markdown-editor)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
 * [angular-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/angular-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/angular-markdown-editor)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
+* [ngx-markdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/notiz-dev/ngx-markdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/notiz-dev/ngx-markdoc)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 
 #### Mixed utilities
 
