@@ -866,6 +866,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [klen/nvim-test ![GitHub Repo Stars](https://img.shields.io/github/stars/klen/nvim-test) ![GitHub last commit](https://img.shields.io/github/last-commit/klen/nvim-test)](https://github.com/klen/nvim-test) - A Neovim wrapper for running tests.
 - [nvim-neotest/neotest ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-neotest/neotest) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-neotest/neotest)](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within Neovim.
 - [andythigpen/nvim-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/andythigpen/nvim-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/andythigpen/nvim-coverage)](https://github.com/andythigpen/nvim-coverage) - Displays coverage information in the sign column.
+- [quolpr/quicktest.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
 
 ## Code Runner
 
