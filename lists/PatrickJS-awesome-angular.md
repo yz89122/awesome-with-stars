@@ -586,7 +586,7 @@ become an Angular expert.
 
 #### SEO
 
-* [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! ��
+* [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, X Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 * [ngaox](https://www.npmjs.com/package/@ngaox/seo) - Take Your Angular App Development to the Next Level with Ngaox: Seamless Content Integration, SVG Icon Optimization & Inlining, Advanced SEO & Social-Media Management, and More.
 * [ngx-seo ![GitHub Repo Stars](https://img.shields.io/github/stars/avivharuzi/ngx-seo) ![GitHub last commit](https://img.shields.io/github/last-commit/avivharuzi/ngx-seo)](https://github.com/avivharuzi/ngx-seo) - Update SEO title and meta tags easily in Angular apps.
 * [seo-analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/maddevsio/seo-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/maddevsio/seo-analyzer)](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects.
