@@ -494,7 +494,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [UnitTest++ ![GitHub Repo Stars](https://img.shields.io/github/stars/unittest-cpp/unittest-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/unittest-cpp/unittest-cpp)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 * [Unity ![GitHub Repo Stars](https://img.shields.io/github/stars/ThrowTheSwitch/Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/ThrowTheSwitch/Unity)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. [MIT]
 * [utest.h ![GitHub Repo Stars](https://img.shields.io/github/stars/sheredom/utest.h) ![GitHub last commit](https://img.shields.io/github/last-commit/sheredom/utest.h)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
-* [μt ![GitHub Repo Stars](https://img.shields.io/github/stars/boost-experimental/ut) ![GitHub last commit](https://img.shields.io/github/last-commit/boost-experimental/ut)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. [Boost]
+* [μt ![GitHub Repo Stars](https://img.shields.io/github/stars/boost-experimental/ut) ![GitHub last commit](https://img.shields.io/github/last-commit/boost-experimental/ut)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free ��(micro)/Unit Testing Framework. [Boost]
 * [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
 ## Documentation
