@@ -158,6 +158,7 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
   - [Hack Programming Language](https://hacklang.org/)
   - [Haxe Programming Language](https://haxe.org/)
   - [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
+  - [Mazeppa ![GitHub Repo Stars](https://img.shields.io/github/stars/mazeppa-dev/mazeppa) ![GitHub last commit](https://img.shields.io/github/last-commit/mazeppa-dev/mazeppa)](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
   - [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
   - [OCaml-Java](http://www.ocamljava.org/) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
@@ -271,7 +272,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
     - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
     - [ocp-index-top ![GitHub Repo Stars](https://img.shields.io/github/stars/reynir/ocp-index-top) ![GitHub last commit](https://img.shields.io/github/last-commit/reynir/ocp-index-top)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
-  - [ocp-indent](http://www.typerex.org/ocp-indent.html) ��� Indentation tool for OCaml, to be used from editors like Emacs and Vim.
+  - [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/def-lkb/ocp-indent-vim) ![GitHub last commit](https://img.shields.io/github/last-commit/def-lkb/ocp-indent-vim)](https://github.com/def-lkb/ocp-indent-vim).
 - **Code coverage**:
   - [Bisect_ppx ![GitHub Repo Stars](https://img.shields.io/github/stars/aantron/bisect_ppx) ![GitHub last commit](https://img.shields.io/github/last-commit/aantron/bisect_ppx)](https://github.com/aantron/bisect_ppx)
