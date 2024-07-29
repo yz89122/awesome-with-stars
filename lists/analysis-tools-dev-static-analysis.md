@@ -501,7 +501,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
-- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) �� Finds assignments/declarations with too many blank identifiers.
+- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
@@ -1519,7 +1519,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Qwiet AI](https://qwiet.ai/) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 
-- [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) :warning: — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
+- [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 
 - [relint ![GitHub Repo Stars](https://img.shields.io/github/stars/codingjoe/relint) ![GitHub last commit](https://img.shields.io/github/last-commit/codingjoe/relint)](https://github.com/codingjoe/relint) — A static file linter that allows you to write custom rules using regular expressions (RegEx).
 
@@ -2135,7 +2135,7 @@ but with the following improvements:
 <h2>Security/SAST</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/) ��� Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
+- [AzSK](https://azsk.azurewebsites.net/) — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
