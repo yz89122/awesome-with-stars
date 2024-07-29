@@ -1577,6 +1577,9 @@ Starter kits:
   * with example programs for a console program, accessing the Win32 API, displaying a GUI with IUP, running an OpenGL window.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
 
+Tools:
+
+- [Quicksearch ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/quicksearch) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/quicksearch)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
 
 Slime extensions:
 
@@ -1584,7 +1587,6 @@ Slime extensions:
   - the Lisp system browser
   - [SLIME doc contrib ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/slime-doc-contribs) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/slime-doc-contribs)](https://github.com/mmontone/slime-doc-contribs) - enhance the default help buffer.
   - [Quicklisp systems ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/quicklisp-systems) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/quicklisp-systems)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
-  - [Quicksearch ![GitHub Repo Stars](https://img.shields.io/github/stars/tkych/quicksearch) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/quicksearch)](https://github.com/tkych/quicksearch)
   - [Slime breakpoints ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/slime-breakpoints) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/slime-breakpoints)](https://github.com/mmontone/slime-breakpoints)
   - [Slite ![GitHub Repo Stars](https://img.shields.io/github/stars/tdrhq/slite) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/slite)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
   - [Quicklisp-apropos ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/quicklisp-apropos) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/quicklisp-apropos)](https://github.com/mmontone/quicklisp-apropos) - Perform `apropos` queries across libraries in Quicklisp (full-text search on symbol names, classes, documentation…).
