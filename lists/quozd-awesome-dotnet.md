@@ -61,6 +61,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Event aggregator and messenger](#event-aggregator-and-messenger)
   * [Exceptions](#exceptions)
   * [Extensions libraries](#extensions)
+  * [Feature Management](#feature-management)
   * [Functional programming](#functional-programming)
   * [Game](#game)
   * [GIS](#gis)
@@ -220,6 +221,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 * [openiddict ![GitHub Repo Stars](https://img.shields.io/github/stars/openiddict/openiddict-core) ![GitHub last commit](https://img.shields.io/github/last-commit/openiddict/openiddict-core)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
+* [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code **[$]**
+* [SAML IdentityServer](https://www.identityserver.com/products/saml2p) - Add SAML 2P support to your Duende IdentityServer **[$]**
+* [SAML OpenIddict](https://www.openiddictcomponents.com/home/) - Add SAML 2P support to your OpenIddict **[$]**
 
 ## Blazor
 
@@ -263,6 +267,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cache Tower ![GitHub Repo Stars](https://img.shields.io/github/stars/TurnerSoftware/CacheTower) ![GitHub last commit](https://img.shields.io/github/last-commit/TurnerSoftware/CacheTower)](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 * [FusionCache ![GitHub Repo Stars](https://img.shields.io/github/stars/jodydonetti/ZiggyCreatures.FusionCache) ![GitHub last commit](https://img.shields.io/github/last-commit/jodydonetti/ZiggyCreatures.FusionCache)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 * [LazyCache ![GitHub Repo Stars](https://img.shields.io/github/stars/alastairtree/LazyCache) ![GitHub last commit](https://img.shields.io/github/last-commit/alastairtree/LazyCache)](https://github.com/alastairtree/LazyCache) - A simple, developer friendly, in-memory thread-safe caching service. It leverages Microsoft.Extensions.Caching and Lazy to provide performance and reliability in heavy load scenarios.
+* [BitFaster.Caching ![GitHub Repo Stars](https://img.shields.io/github/stars/bitfaster/BitFaster.Caching) ![GitHub last commit](https://img.shields.io/github/last-commit/bitfaster/BitFaster.Caching)](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.   
 
 ## Calendar
 
@@ -432,6 +437,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Decompilation
 
 * [dnSpy ![GitHub Repo Stars](https://img.shields.io/github/stars/0xd4d/dnSpy) ![GitHub last commit](https://img.shields.io/github/last-commit/0xd4d/dnSpy)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+* [dnSpyEx ![GitHub Repo Stars](https://img.shields.io/github/stars/dnSpyEx/dnSpy) ![GitHub last commit](https://img.shields.io/github/last-commit/dnSpyEx/dnSpy)](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of dnSpy
 * [ILSpy](https://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [JustDecompile Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/telerik/JustDecompileEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/telerik/JustDecompileEngine)](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of [JustDecompile](https://www.telerik.com/products/decompiler.aspx)
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code. It can create Visual Studio solutions based on the original binary files in a straight-forward way. **[Proprietary]** **[Free]**
@@ -512,6 +518,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ExtensionMethods.Net](https://www.extensionmethod.net/csharp) - Site with collection of extension methods
 * [Z.ExtensionMethods ![GitHub Repo Stars](https://img.shields.io/github/stars/zzzprojects/Z.ExtensionMethods) ![GitHub last commit](https://img.shields.io/github/last-commit/zzzprojects/Z.ExtensionMethods)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
+## Feature management
+* [Microsoft.FeatureManagement ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/FeatureManagement-Dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/FeatureManagement-Dotnet)](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose applicaiton functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+
 ## Functional programming
 
 * [Curryfy ![GitHub Repo Stars](https://img.shields.io/github/stars/leandromoh/Curryfy) ![GitHub last commit](https://img.shields.io/github/last-commit/leandromoh/Curryfy)](https://github.com/leandromoh/Curryfy) - Provides strongly typed extensions methods for C# delegates to take advantages of functional programming techniques, like currying and partial application.
@@ -537,6 +546,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [osu!framework ![GitHub Repo Stars](https://img.shields.io/github/stars/ppy/osu-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/ppy/osu-framework)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 * [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [Foster ![GitHub Repo Stars](https://img.shields.io/github/stars/FosterFramework/Foster) ![GitHub last commit](https://img.shields.io/github/last-commit/FosterFramework/Foster)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
+* [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 
 ## GIS
 
@@ -966,6 +976,7 @@ metadata in media files, including video, audio, and photo formats
 * [RepoDb ![GitHub Repo Stars](https://img.shields.io/github/stars/mikependon/RepoDb) ![GitHub last commit](https://img.shields.io/github/last-commit/mikependon/RepoDb)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 * [Venflow ![GitHub Repo Stars](https://img.shields.io/github/stars/TwentyFourMinutes/Venflow) ![GitHub last commit](https://img.shields.io/github/last-commit/TwentyFourMinutes/Venflow)](https://github.com/TwentyFourMinutes/Venflow) - A super fast and lightweight ORM for PostgreSQL.
 * [MongoFramework ![GitHub Repo Stars](https://img.shields.io/github/stars/TurnerSoftware/MongoFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/TurnerSoftware/MongoFramework)](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
+* [Friflo.Json.Fliox ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
 
 ## Package Management
 
@@ -1014,7 +1025,6 @@ metadata in media files, including video, audio, and photo formats
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ## Queue
-
 * [CAP ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnetcore/CAP) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnetcore/CAP)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 * [Cap.Outbox ![GitHub Repo Stars](https://img.shields.io/github/stars/dex-it/dex-common) ![GitHub last commit](https://img.shields.io/github/last-commit/dex-it/dex-common)](https://github.com/dex-it/dex-common/tree/main/src/Dex.Cap) - Implementation of the Outbox pattern and OnceExecutor service that guarantees idempotence: the operation will be performed once
 * [NServiceBus ![GitHub Repo Stars](https://img.shields.io/github/stars/Particular/NServiceBus) ![GitHub last commit](https://img.shields.io/github/last-commit/Particular/NServiceBus)](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
@@ -1034,6 +1044,7 @@ metadata in media files, including video, audio, and photo formats
 * [Brighter ![GitHub Repo Stars](https://img.shields.io/github/stars/BrighterCommand/Brighter) ![GitHub last commit](https://img.shields.io/github/last-commit/BrighterCommand/Brighter)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
 * [SlimMessageBus ![GitHub Repo Stars](https://img.shields.io/github/stars/zarusz/SlimMessageBus) ![GitHub last commit](https://img.shields.io/github/last-commit/zarusz/SlimMessageBus)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+* [AsyncMonolith ![GitHub Repo Stars](https://img.shields.io/github/stars/Timmoth/AsyncMonolith) ![GitHub last commit](https://img.shields.io/github/last-commit/Timmoth/AsyncMonolith)](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
 
 ## RPC
 
@@ -1253,6 +1264,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Browsers
 
 * [CefSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/cefsharp/CefSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/cefsharp/CefSharp)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+* [SharpBrowser ![GitHub Repo Stars](https://img.shields.io/github/stars/sharpbrowser/SharpBrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/sharpbrowser/SharpBrowser)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
 
 ## Web Frameworks
 
