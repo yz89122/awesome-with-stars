@@ -651,6 +651,7 @@ become an Angular expert.
 * [Template Monster](https://www.templatemonster.com/custom/website-templates-angular/)
 * [NobleUI](https://nobleui.com/angular/)
 * [ThemesBrand](https://themesbrand.com/judia/angular.html)
+* [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
 
 #### Testing
 
@@ -1134,6 +1135,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-zen ![GitHub Repo Stars](https://img.shields.io/github/stars/Kordrad/ng-zen) ![GitHub last commit](https://img.shields.io/github/last-commit/Kordrad/ng-zen)](https://github.com/Kordrad/ng-zen) - A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase.
 * [pupakit ![GitHub Repo Stars](https://img.shields.io/github/stars/bimeister/pupakit) ![GitHub last commit](https://img.shields.io/github/last-commit/bimeister/pupakit)](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 * [ngwr ![GitHub Repo Stars](https://img.shields.io/github/stars/thekhegay/ngwr) ![GitHub last commit](https://img.shields.io/github/last-commit/thekhegay/ngwr)](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
+* [Windmillcode-Angular-CDK ![GitHub Repo Stars](https://img.shields.io/github/stars/WindMillCode/Windmillcode-Angular-CDK) ![GitHub last commit](https://img.shields.io/github/last-commit/WindMillCode/Windmillcode-Angular-CDK)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 
 ##### Material Based
 
