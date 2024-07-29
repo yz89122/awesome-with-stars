@@ -675,7 +675,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [RefactorFirst ![GitHub Repo Stars](https://img.shields.io/github/stars/jimbethancourt/RefactorFirst) ![GitHub last commit](https://img.shields.io/github/last-commit/jimbethancourt/RefactorFirst)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 
-- [Soot](https://soot-oss.github.io/soot) �� A framework for analyzing and transforming Java and Android applications.
+- [Soot](https://soot-oss.github.io/soot) — A framework for analyzing and transforming Java and Android applications.
 
 - [Spoon](https://spoon.gforge.inria.fr) — Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.
 
