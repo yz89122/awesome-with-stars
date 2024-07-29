@@ -681,7 +681,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
 - Meetup [Calgary](https://www.meetup.com/FlutterCalgary)
 
-### ��🇮 Côte d'Ivoire (Ivory Coast)
+### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
@@ -690,7 +690,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
-### 🇪🇹 Ethiopia
+### 🇪�� Ethiopia
 
 - [Telegram](https://t.me/flutter_forum/)
 
@@ -740,7 +740,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
 - Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
 
-### 🇲��� Malaysia
+### 🇲🇾 Malaysia
 
 - Telegram [Flutter/Dart Dev Malaysia](https://t.me/flutterdevmalaysia)
 
