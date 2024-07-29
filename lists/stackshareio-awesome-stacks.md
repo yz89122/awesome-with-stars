@@ -409,7 +409,7 @@ The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 Self-hosted open source devops and collaboration tools, suitable for enterprise.
 
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [��� ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
+- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
 - [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hubotio/hubot) ![GitHub last commit](https://img.shields.io/github/last-commit/hubotio/hubot)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
@@ -480,7 +480,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.
 
 - [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/Unity-Technologies/UnityCsReference) ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/UnityCsReference)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
-- [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
+- [Plastic SCM](https://www.plasticscm.com/) - [���️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 - [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 
 ##### Resources
