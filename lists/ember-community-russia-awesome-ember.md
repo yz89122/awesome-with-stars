@@ -277,6 +277,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/Addepar/ember-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/Addepar/ember-charts)](https://github.com/Addepar/ember-charts) - A charting library built with the Ember.js and d3.js frameworks. 
 - [ember-sparkles ![GitHub Repo Stars](https://img.shields.io/github/stars/LocusEnergy/ember-sparkles) ![GitHub last commit](https://img.shields.io/github/last-commit/LocusEnergy/ember-sparkles)](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers.
 - [ember-highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/ahmadsoe/ember-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadsoe/ember-highcharts)](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
+- [ember-c3 ![GitHub Repo Stars](https://img.shields.io/github/stars/Glavin001/ember-c3) ![GitHub last commit](https://img.shields.io/github/last-commit/Glavin001/ember-c3)](https://github.com/Glavin001/ember-c3) - An addon library for C3, a D3-based reusable chart library and more compatible.
 
 ### CI/CD
 
