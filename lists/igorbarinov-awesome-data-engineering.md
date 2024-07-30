@@ -96,6 +96,7 @@
   - [cayley ![GitHub Repo Stars](https://img.shields.io/github/stars/cayleygraph/cayley) ![GitHub last commit](https://img.shields.io/github/last-commit/cayleygraph/cayley)](https://github.com/cayleygraph/cayley) - An open-source graph database. Google.
   - [Snappydata ![GitHub Repo Stars](https://img.shields.io/github/stars/SnappyDataInc/snappydata) ![GitHub last commit](https://img.shields.io/github/last-commit/SnappyDataInc/snappydata)](https://github.com/SnappyDataInc/snappydata) - SnappyData: OLTP + OLAP Database built on Apache Spark.
   - [TimescaleDB](https://www.timescale.com/) - Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.
+  - [DuckDB](https://duckdb.org/) - DuckDB is a fast in-process analytical database that has zero external dependencies, runs on Linux/macOS/Windows, offers a rich SQL dialect, and is free and extensible.
 
 ## Data Comparison
 
