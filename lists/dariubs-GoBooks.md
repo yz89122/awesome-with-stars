@@ -425,7 +425,7 @@ This book covers the key benefits and common issues of microservices, helping yo
 
 You’ll start by learning about the importance of using the right principles and standards in order to achieve the key benefits of microservice architecture. The following chapters will explain why the Go programming language is one of the most popular languages for microservice development and lay down the foundations for the next chapters of the book. You’ll explore the foundational aspects of Go microservice development including service scaffolding, service discovery, data serialization, synchronous and asynchronous communication, deployment, and testing. After covering the development aspects, you’ll progress to maintenance and reliability topics. The last part focuses on more advanced topics of Go microservice development including system reliability, observability, maintainability, and scalability. In this part, you’ll dive into the best practices and examples which illustrate how to apply the key ideas to existing applications, using the services scaffolded in the previous part as examples.
 
-By the end of this book, you’ll have gained hands-on experience with everything you need to develop scalable, reliable and performant microservices using Go.
+By the end of this book, you��ll have gained hands-on experience with everything you need to develop scalable, reliable and performant microservices using Go.
 
 
 ### 2022 - [Event-Driven Architecture in Golang](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012)
