@@ -111,6 +111,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Promotion Text Kata ![GitHub Repo Stars](https://img.shields.io/github/stars/nealhu/promotion-text-kata) ![GitHub last commit](https://img.shields.io/github/last-commit/nealhu/promotion-text-kata)](https://github.com/nealhu/promotion-text-kata)
   - [Args Kata ![GitHub Repo Stars](https://img.shields.io/github/stars/nealhu/args-kata) ![GitHub last commit](https://img.shields.io/github/last-commit/nealhu/args-kata)](https://github.com/nealhu/args-kata)
   - [CodeCrafters(Build your own Git, Redis, Docker etc.)](https://app.codecrafters.io/tracks?r=8Ol)
+  - [Tennis Refactoring Kata ![GitHub Repo Stars](https://img.shields.io/github/stars/emilybache/Tennis-Refactoring-Kata) ![GitHub last commit](https://img.shields.io/github/last-commit/emilybache/Tennis-Refactoring-Kata)](https://github.com/emilybache/Tennis-Refactoring-Kata)
   
 ## Contribution
   
