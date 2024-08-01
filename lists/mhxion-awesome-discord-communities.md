@@ -1365,7 +1365,7 @@ Language: English \
 
 ### Linux Distributions
 
-[Gaming on Linux↴](#gaming-on-linux)
+[Gaming on Linux���](#gaming-on-linux)
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/arch_linux_unofficial.webp">
 

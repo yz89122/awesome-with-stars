@@ -247,7 +247,7 @@ Apps people use when taking transit.
 ##### General GIS Applications for making transit visualizations
  - [Felt](https://felt.com/) - An aestically pleasing Modern GIS software.
  - [Google Mymaps](https://www.google.ca/maps/about/mymaps/) - Create and share custom maps with Google My Maps.
- - [Google��Earth](https://www.google.com/earth/about/) - Create and share custom maps with one of the the world's most detailed statelite applications.
+ - [Google Earth](https://www.google.com/earth/about/) - Create and share custom maps with one of the the world's most detailed statelite applications.
 
 #### Transit Map Aggregation
  - [UrbanRail.Net](http://www.urbanrail.net/) - Worldwide reference map of urban rail transport (metros,trams,commuter rail) with detailed and up-to-date information.
