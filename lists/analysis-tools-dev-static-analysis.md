@@ -501,7 +501,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
-- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
+- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) �� Finds assignments/declarations with too many blank identifiers.
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
@@ -1284,7 +1284,7 @@ Kani verifies:
 
 - [Frink](http://catless.ncl.ac.uk/Programs/Frink) — A Tcl formatting and static check program (can prettify the program, minimise, obfuscate or just sanity check it).
 
-- [Nagelfar](https://sourceforge.net/projects/nagelfar) �� A static syntax checker for Tcl.
+- [Nagelfar](https://sourceforge.net/projects/nagelfar) — A static syntax checker for Tcl.
 
 - [tclchecker ![GitHub Repo Stars](https://img.shields.io/github/stars/ActiveState/tdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ActiveState/tdk)](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — A static syntax analysis module (as part of [TDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ActiveState/tdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ActiveState/tdk)](https://github.com/ActiveState/tdk)).
 
