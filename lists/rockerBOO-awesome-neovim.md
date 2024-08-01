@@ -921,6 +921,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [anuvyklack/animation.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 - [nfrid/treesitter-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/nfrid/treesitter-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/nfrid/treesitter-utils)](https://github.com/nfrid/treesitter-utils) - Some useful Treesitter methods.
 - [nvim-lusc ![GitHub Repo Stars](https://img.shields.io/github/stars/svermeulen/nvim-lusc) ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/nvim-lusc)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+- [CWood-sdf/banana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CWood-sdf/banana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CWood-sdf/banana.nvim)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
 ## Fennel
 
