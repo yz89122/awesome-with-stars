@@ -461,6 +461,7 @@ become an Angular expert.
 * [angular-serve-and-run ![GitHub Repo Stars](https://img.shields.io/github/stars/dot-build/angular-serve-and-run) ![GitHub last commit](https://img.shields.io/github/last-commit/dot-build/angular-serve-and-run)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
 * [ngx-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/bluehalo/ngx-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/bluehalo/ngx-starter)](https://github.com/bluehalo/ngx-starter) - An [@angular/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular-cli)](https://github.com/angular/angular-cli) based starter containing common components and services as well as a reference site.
 * [ngx-stylesweep ![GitHub Repo Stars](https://img.shields.io/github/stars/BernardoGiordano/ngx-stylesweep) ![GitHub last commit](https://img.shields.io/github/last-commit/BernardoGiordano/ngx-stylesweep)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
+* [ng-chrome-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-chrome-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-chrome-extension)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 
 #### Deployment
 
