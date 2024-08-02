@@ -43,11 +43,13 @@
 
 ## Features
 
-- [End-to-end encryption for state files](https://opentofu.org/docs/intro/whats-new/#state-encryption)
+- [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
+- [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
+- [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)
+- [1.7 - Provider-defined functions](https://opentofu.org/docs/v1.7/intro/whats-new/#provider-defined-functions)
+- [1.7 - Removed block](https://opentofu.org/docs/v1.7/intro/whats-new/#removed-block)
+- [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
-- [Provider-defined functions](https://opentofu.org/docs/intro/whats-new/#provider-defined-functions)
-- [Removed block](https://opentofu.org/docs/intro/whats-new/#removed-block)
-- [Loopable import blocks](https://opentofu.org/docs/intro/whats-new/#loopable-import-blocks)
 
 ## Tools
 
@@ -67,6 +69,7 @@
 - [Terragrunt ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntwork-io/terragrunt)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 - [Terramate ![GitHub Repo Stars](https://img.shields.io/github/stars/terramate-io/terramate) ![GitHub last commit](https://img.shields.io/github/last-commit/terramate-io/terramate)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 - [easy_infra ![GitHub Repo Stars](https://img.shields.io/github/stars/SeisoLLC/easy_infra) ![GitHub last commit](https://img.shields.io/github/last-commit/SeisoLLC/easy_infra)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
+- [pug ![GitHub Repo Stars](https://img.shields.io/github/stars/leg100/pug) ![GitHub last commit](https://img.shields.io/github/last-commit/leg100/pug)](https://github.com/leg100/pug) - A terminal user interface for power users.
 - [tf ![GitHub Repo Stars](https://img.shields.io/github/stars/dex4er/tf) ![GitHub last commit](https://img.shields.io/github/last-commit/dex4er/tf)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 - [tfam ![GitHub Repo Stars](https://img.shields.io/github/stars/Ant0wan/tfam) ![GitHub last commit](https://img.shields.io/github/last-commit/Ant0wan/tfam)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe ![GitHub Repo Stars](https://img.shields.io/github/stars/Ant0wan/tfexe) ![GitHub last commit](https://img.shields.io/github/last-commit/Ant0wan/tfexe)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
