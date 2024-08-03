@@ -433,6 +433,7 @@ become an Angular expert.
 * [angular-authentication ![GitHub Repo Stars](https://img.shields.io/github/stars/nikosanif/angular-authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/nikosanif/angular-authentication)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
 * [ngx-security ![GitHub Repo Stars](https://img.shields.io/github/stars/mselerin/ngx-security) ![GitHub last commit](https://img.shields.io/github/last-commit/mselerin/ngx-security)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 * [ngx-clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/anagstef/ngx-clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/anagstef/ngx-clerk)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
+* [ng-supabase ![GitHub Repo Stars](https://img.shields.io/github/stars/rustygreen/ng-supabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rustygreen/ng-supabase)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 
 #### Builders
 
@@ -751,6 +752,7 @@ become an Angular expert.
 * [fullcalendar-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/fullcalendar/fullcalendar-angular)](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
 * [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
+* [angular-calendar-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/oOps1627/angular-calendar-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/oOps1627/angular-calendar-timeline)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 
 #### Carousels
 
@@ -847,6 +849,7 @@ become an Angular expert.
 * [ngx-monaco-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/jean-merelis/ngx-monaco-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/jean-merelis/ngx-monaco-editor)](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
 * [ngx-property-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/heinerwalter/ngx-property-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/heinerwalter/ngx-property-editor)](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/ngx-tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/ngx-tiptap)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
+* [tinymce-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/tinymce/tinymce-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/tinymce/tinymce-angular)](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
 
 #### File Upload
 
@@ -892,6 +895,7 @@ become an Angular expert.
 * [angular-code-input ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexMiniApps/angular-code-input) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexMiniApps/angular-code-input)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
 * [ng-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/NileshPatel17/ng-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/NileshPatel17/ng-multiselect-dropdown)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 * [angular-iban ![GitHub Repo Stars](https://img.shields.io/github/stars/fundsaccess/angular-iban) ![GitHub last commit](https://img.shields.io/github/last-commit/fundsaccess/angular-iban)](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
+* [ngx-autosize-input ![GitHub Repo Stars](https://img.shields.io/github/stars/joshuawwright/ngx-autosize-input) ![GitHub last commit](https://img.shields.io/github/last-commit/joshuawwright/ngx-autosize-input)](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
 
 ##### Validation
 
