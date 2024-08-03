@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ���� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -295,7 +295,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Fonts
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
-    - �� [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -531,7 +531,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Boost.PFR ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/pfr) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/pfr)](https://github.com/boostorg/pfr) - Basic reflection C++14 library, part of the Boost Libraries.
     - 🎉 [Magic Enum ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/magic_enum) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/magic_enum)](https://github.com/Neargye/magic_enum) - Header-only C++17, provides static reflection for enums.
     - 🎉 [Meta ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/meta)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
-    - 🎉 [Nameof ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/nameof) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/nameof)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
+    - ���� [Nameof ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/nameof) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/nameof)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
     - 🎉 [Ponder ![GitHub Repo Stars](https://img.shields.io/github/stars/billyquith/ponder) ![GitHub last commit](https://img.shields.io/github/last-commit/billyquith/ponder)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
     - 🎉 [Reflect ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/reflect) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/reflect)](https://github.com/stevinz/reflect) - Small, flexible, single-header library for runtime reflection and meta data in C++11.
     - 🎉 [RTTR ![GitHub Repo Stars](https://img.shields.io/github/stars/rttrorg/rttr) ![GitHub last commit](https://img.shields.io/github/last-commit/rttrorg/rttr)](https://github.com/rttrorg/rttr) - Reflection for C++11.
