@@ -83,6 +83,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [QR Codes](#qr-codes)
   * [Scroll](#scroll)
   * [State Management](#state-management)
   * [Storage](#storage)
@@ -474,6 +475,7 @@ become an Angular expert.
 * [ngx-aws-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/Jefiozie/ngx-aws-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/Jefiozie/ngx-aws-deploy)](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 * [analog-publish-gh-pages ![GitHub Repo Stars](https://img.shields.io/github/stars/k9n-dev/analog-publish-gh-pages) ![GitHub last commit](https://img.shields.io/github/last-commit/k9n-dev/analog-publish-gh-pages)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
 * [Genezio ![GitHub Repo Stars](https://img.shields.io/github/stars/Genez-io/genezio) ![GitHub last commit](https://img.shields.io/github/last-commit/Genez-io/genezio)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
+* [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 
 #### Developer tools
 
@@ -515,7 +517,6 @@ become an Angular expert.
 * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
-* [angularx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/cordobo/angularx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/cordobo/angularx-qrcode)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
 * [create-tauri-app ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/create-tauri-app) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/create-tauri-app)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 
 ##### Spring Boot
@@ -1054,6 +1055,14 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/OneSignal/onesignal-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/OneSignal/onesignal-ngx)](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [ngx-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/ngx-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/ngx-notifier)](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 
+#### QR Codes
+
+* [ng-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mnahkies/ng-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mnahkies/ng-qrcode)](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
+* [angularx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/cordobo/angularx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/cordobo/angularx-qrcode)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
+* [dfts-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/Dafnik/dfts-common) ![GitHub last commit](https://img.shields.io/github/last-commit/Dafnik/dfts-common)](https://github.com/Dafnik/dfts-common/tree/main/libs/dfts-qrcode) - A tiny and simple-to-use JavaScript / TypeScript QR-Code generator library. Fully type-safe and ES modules compatible.
+* [ngx-scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing-js/ngx-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing-js/ngx-scanner)](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
+* [qrcode.angular ![GitHub Repo Stars](https://img.shields.io/github/stars/OriginRing/qrcode.angular) ![GitHub last commit](https://img.shields.io/github/last-commit/OriginRing/qrcode.angular)](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
+
 #### Scroll
 
 * [ngx-ui-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/dhilt/ngx-ui-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/dhilt/ngx-ui-scroll)](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
@@ -1071,7 +1080,6 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 #### State Management
 
 * [universal-model-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/universal-model/universal-model-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/universal-model/universal-model-angular)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
-* [akita ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce/akita) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce/akita)](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 * [ng-simple-state ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-simple-state) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-simple-state)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcisbee/exome) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcisbee/exome)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 * [ngxs ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxs/store) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxs/store)](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
