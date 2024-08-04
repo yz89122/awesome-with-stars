@@ -267,7 +267,7 @@ Learn how to build a full-stack production ready note taking app using Serverles
 - [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 - [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
-- [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [Create React App](https://facebook.github.io/create-react-app/) - [����](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ##### Resources
 
@@ -466,7 +466,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
 - [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/expo)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-- [Digital Ocean](https://www.digitalocean.com/) - [��️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
+- [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 - [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 ##### Resources
