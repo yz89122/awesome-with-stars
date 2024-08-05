@@ -21,6 +21,7 @@ This list is a collection of the best Deno modules and resources.
   - [Frontend development](#frontend-development)
   - [Frontend framework](#frontend-framework)
   - [Game engine](#game-engine)
+  - [LLM](#llm)
   - [Logging](#logging)
   - [Machine Learning](#machine-learning)
   - [Mail](#mail)
@@ -139,6 +140,9 @@ This list is a collection of the best Deno modules and resources.
 ### Image
 - [ImageScript ![GitHub Repo Stars](https://img.shields.io/github/stars/matmen/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/matmen/ImageScript)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 - [monke ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/monke) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/monke)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
+
+### LLM
+- [duckduckgo-ai-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/mumu-lhl/duckduckgo-ai-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/mumu-lhl/duckduckgo-ai-chat)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
 ### Logging
 - [sentry_deno ![GitHub Repo Stars](https://img.shields.io/github/stars/GJZwiers/sentry_deno) ![GitHub last commit](https://img.shields.io/github/last-commit/GJZwiers/sentry_deno)](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
@@ -409,7 +413,6 @@ This list is a collection of the best Deno modules and resources.
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
-- [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
 - [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
 - [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)
 
