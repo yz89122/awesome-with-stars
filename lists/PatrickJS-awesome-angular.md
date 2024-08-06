@@ -50,6 +50,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [HTTP](#http)
   * [Integrations](#integrations)
   * [Internationalization](#internationalization)
+  * [Monorepos](#monorepos)
   * [Security](#security)
   * [SEO](#seo)
   * [Server-Side Rendering](#server-side-rendering)
@@ -440,7 +441,6 @@ become an Angular expert.
 
 * [Webpack](https://webpack.js.org)
 * [ESBuild](https://esbuild.github.io/)
-* [Nx ![GitHub Repo Stars](https://img.shields.io/github/stars/nrwl/nx) ![GitHub last commit](https://img.shields.io/github/last-commit/nrwl/nx)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI.
 * [Angular Builders ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
 * [Jest Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade.
 * [Custom Webpack ![GitHub Repo Stars](https://img.shields.io/github/stars/just-jeb/angular-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/just-jeb/angular-builders)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack)
@@ -589,6 +589,12 @@ become an Angular expert.
 * [angular-ecmascript-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/json-derulo/angular-ecmascript-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/json-derulo/angular-ecmascript-intl)](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 * [i18n-ally ![GitHub Repo Stars](https://img.shields.io/github/stars/lokalise/i18n-ally) ![GitHub last commit](https://img.shields.io/github/last-commit/lokalise/i18n-ally)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [ngx-translate-router ![GitHub Repo Stars](https://img.shields.io/github/stars/gilsdav/ngx-translate-router) ![GitHub last commit](https://img.shields.io/github/last-commit/gilsdav/ngx-translate-router)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
+
+#### Monorepos
+
+* [Nx ![GitHub Repo Stars](https://img.shields.io/github/stars/nrwl/nx) ![GitHub last commit](https://img.shields.io/github/last-commit/nrwl/nx)](https://github.com/nrwl/nx) - Nx is a build system with built-in tooling and advanced CI capabilities. It helps you maintain and scale monorepos, both locally and on CI.
+* [Turbo ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/turbo) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/turbo)](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+* [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 
 #### Security
 
@@ -948,6 +954,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-cloudimage-responsive ![GitHub Repo Stars](https://img.shields.io/github/stars/scaleflex/ng-cloudimage-responsive) ![GitHub last commit](https://img.shields.io/github/last-commit/scaleflex/ng-cloudimage-responsive)](https://github.com/scaleflex/ng-cloudimage-responsive) - Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size.
 * [angular-cropperjs ![GitHub Repo Stars](https://img.shields.io/github/stars/matheusdavidson/angular-cropperjs) ![GitHub last commit](https://img.shields.io/github/last-commit/matheusdavidson/angular-cropperjs)](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js ![GitHub Repo Stars](https://img.shields.io/github/stars/fengyuanchen/cropperjs) ![GitHub last commit](https://img.shields.io/github/last-commit/fengyuanchen/cropperjs)](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+* [img-comparison-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/sneas/img-comparison-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/sneas/img-comparison-slider)](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
 
 #### Keyboard Mouse
 
