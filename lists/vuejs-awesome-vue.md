@@ -493,7 +493,7 @@
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立开发者训练营���Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
@@ -3564,7 +3564,7 @@ _Create documentation_
 - [@vuedoc/md](https://gitlab.com/vuedoc/md) - Generate a Markdown Documentation for a Vue file.
 - [jsdoc-vue-component ![GitHub Repo Stars](https://img.shields.io/github/stars/ccqgithub/jsdoc-vue-component) ![GitHub last commit](https://img.shields.io/github/last-commit/ccqgithub/jsdoc-vue-component)](https://github.com/ccqgithub/jsdoc-vue-component) - A jsodc3 plugin that extract vue SFC info(name, props, events...) to document.
 - [jsdoc-vuedoc ![GitHub Repo Stars](https://img.shields.io/github/stars/ccqgithub/jsdoc-vuedoc) ![GitHub last commit](https://img.shields.io/github/last-commit/ccqgithub/jsdoc-vuedoc)](https://github.com/ccqgithub/jsdoc-vuedoc) - A jsdoc3 plugin use `@vuedoc/md`.
-- [vue-storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/mattrothenberg/vue-storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/mattrothenberg/vue-storybook)](https://github.com/mattrothenberg/vue-storybook) �� Add `<story>` blocks to your Vue single file components for tighter integration of Vue + [Storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybooks/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybooks/storybook)](https://github.com/storybooks/storybook)
+- [vue-storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/mattrothenberg/vue-storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/mattrothenberg/vue-storybook)](https://github.com/mattrothenberg/vue-storybook) – Add `<story>` blocks to your Vue single file components for tighter integration of Vue + [Storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybooks/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybooks/storybook)](https://github.com/storybooks/storybook)
 - [vue-patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/learn-vuejs/vue-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/learn-vuejs/vue-patterns)](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 - [vuese ![GitHub Repo Stars](https://img.shields.io/github/stars/vuese/vuese) ![GitHub last commit](https://img.shields.io/github/last-commit/vuese/vuese)](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [vue-dotmd-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/mengdu/vue-dotmd-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/mengdu/vue-dotmd-loader)](https://github.com/mengdu/vue-dotmd-loader) - A webpack loader for loader markdown file transform to vue file.

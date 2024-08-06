@@ -1849,7 +1849,7 @@ Update Time, five active automations, webhooks.
 
 ## Browser-based hardware emulation written in Javascript
 
-  * [JsLinux](https://bellard.org/jslinux) ��� a really fast x86 virtual machine capable of running Linux and Windows 2k.
+  * [JsLinux](https://bellard.org/jslinux) — a really fast x86 virtual machine capable of running Linux and Windows 2k.
   * [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  an OpenRISC virtual machine capable of running Linux with network support.
   * [v86](https://copy.sh/v86) — an x86 virtual machine capable of running Linux and other OS directly into the browser.
 
