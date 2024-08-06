@@ -1018,13 +1018,13 @@
 
 > Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
 
-![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+![Connect four image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Connect_Four.gif)
 
 | Players | Min. Age |  Time |
 | ------: | -------: | ----: |
 |       2 |        6 | 1-10m |
 
-### [Gorgasali: Battle Royale](https://www.gorgasalibr.com)
+### [Gorgasali: Battle Royale](hhttps://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale)
 
 > Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
 
@@ -1280,7 +1280,7 @@
 
 > Pax Viking is a card driven game where you compete over cards in a common market in combination with strategic movement of longships on the map. You can play cards you buy on map locations you control through your longships; create trading posts, claim benefits from events and more. You can also play cards on your jarlboard, adding abilities to your player through friends, allies and gods. Through your actions you collect followers to give you power and influence for your final bid: to be the first king of Sweden.
 
-![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
+![Pax Viking image](https://cf.geekdo-images.com/Jvq10Wf6csC6P72tVOBwYA__itemrep/img/V8ERSuCUibRS82UDF_dxNXOmUro=/fit-in/246x300/filters:strip_icc()/pic5794320.jpg)
 
 | Players | Min. Age |   Time   |
 | ------: | -------: | -------: |
@@ -2437,7 +2437,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
 
-> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens���all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
+> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
 
 ![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
 

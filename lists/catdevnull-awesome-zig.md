@@ -173,6 +173,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [tiehuis/zig-raytrace ![GitHub Repo Stars](https://img.shields.io/github/stars/tiehuis/zig-raytrace) ![GitHub last commit](https://img.shields.io/github/last-commit/tiehuis/zig-raytrace)](https://github.com/tiehuis/zig-raytrace) - Simple raytracer.
 * [donpdonp/zootdeck ![GitHub Repo Stars](https://img.shields.io/github/stars/donpdonp/zootdeck) ![GitHub last commit](https://img.shields.io/github/last-commit/donpdonp/zootdeck)](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint ![GitHub Repo Stars](https://img.shields.io/github/stars/MasterQ32/ZigPaint) ![GitHub last commit](https://img.shields.io/github/last-commit/MasterQ32/ZigPaint)](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
+* [olexij-christian/zgtk3 ![GitHub Repo Stars](https://img.shields.io/github/stars/olexij-christian/zgtk3) ![GitHub last commit](https://img.shields.io/github/last-commit/olexij-christian/zgtk3)](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
 
 ## Misc libraries
 * [natecraddock/ziglua ![GitHub Repo Stars](https://img.shields.io/github/stars/natecraddock/ziglua) ![GitHub last commit](https://img.shields.io/github/last-commit/natecraddock/ziglua)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
