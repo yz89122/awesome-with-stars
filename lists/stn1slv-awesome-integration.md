@@ -201,7 +201,7 @@ System integration is the process of linking together different IT systems (com
 - [WSO2 Enterprise Integrator (⭐369) ![GitHub Repo Stars](https://img.shields.io/github/stars/wso2/product-ei) ![GitHub last commit](https://img.shields.io/github/last-commit/wso2/product-ei)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 <!--lint disable-->
-**[�� back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable-->
 ### ETL
 *ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.*
