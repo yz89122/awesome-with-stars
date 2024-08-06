@@ -614,6 +614,7 @@ become an Angular expert.
 * [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
 * [angular-prerender ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-prerender) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-prerender)](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
+* [ngx-ssr-code-remover ![GitHub Repo Stars](https://img.shields.io/github/stars/xsip/ngx-ssr-code-remover) ![GitHub last commit](https://img.shields.io/github/last-commit/xsip/ngx-ssr-code-remover)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 
 #### Site Templates
 
@@ -788,6 +789,8 @@ become an Angular expert.
 * [ngx-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/xieziyu/ngx-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/xieziyu/ngx-echarts)](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-echarts)](https://github.com/apache/incubator-echarts).
 * [angular-fusioncharts ![GitHub Repo Stars](https://img.shields.io/github/stars/fusioncharts/angular-fusioncharts) ![GitHub last commit](https://img.shields.io/github/last-commit/fusioncharts/angular-fusioncharts)](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
 * [ngu-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/uiuniversal/ngu-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/uiuniversal/ngu-flow)](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
+* [highcharts-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/highcharts/highcharts-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/highcharts/highcharts-angular)](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
+* [angular-highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/cebor/angular-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/cebor/angular-highcharts)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 
 #### Dates
 
@@ -1172,6 +1175,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [pupakit ![GitHub Repo Stars](https://img.shields.io/github/stars/bimeister/pupakit) ![GitHub last commit](https://img.shields.io/github/last-commit/bimeister/pupakit)](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 * [ngwr ![GitHub Repo Stars](https://img.shields.io/github/stars/thekhegay/ngwr) ![GitHub last commit](https://img.shields.io/github/last-commit/thekhegay/ngwr)](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 * [Windmillcode-Angular-CDK ![GitHub Repo Stars](https://img.shields.io/github/stars/WindMillCode/Windmillcode-Angular-CDK) ![GitHub last commit](https://img.shields.io/github/last-commit/WindMillCode/Windmillcode-Angular-CDK)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
+* [ng-vcl ![GitHub Repo Stars](https://img.shields.io/github/stars/vcl/ng-vcl) ![GitHub last commit](https://img.shields.io/github/last-commit/vcl/ng-vcl)](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 
 ##### Material Based
 
@@ -1274,6 +1278,7 @@ for the creation of web applications developed with Angular.
 * [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
+* [awesome-cordova-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/danielsogl/awesome-cordova-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/danielsogl/awesome-cordova-plugins)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 
 #### NgRx
 
