@@ -41,6 +41,7 @@ Further resources:
       - [Speech Recognition](#cpp-speech-recognition)
       - [Sequence Analysis](#cpp-sequence-analysis)
       - [Gesture Detection](#cpp-gesture-detection)
+      - [Reinforcement Learning](#cpp-reinforcement-learning)
   - [Common Lisp](#common-lisp)
       - [General-Purpose Machine Learning](#common-lisp-general-purpose-machine-learning)
   - [Clojure](#clojure)
@@ -280,6 +281,10 @@ Further resources:
 <a name="cpp-gesture-detection"></a>
 #### Gesture Detection
 * [grt ![GitHub Repo Stars](https://img.shields.io/github/stars/nickgillian/grt) ![GitHub last commit](https://img.shields.io/github/last-commit/nickgillian/grt)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+
+<a name="cpp-reinforcement-learning"></a>
+#### Reinforcement Learning
+* [RLtools ![GitHub Repo Stars](https://img.shields.io/github/stars/rl-tools/rl-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/rl-tools/rl-tools)](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented header-only in pure, dependency-free C++ (Python bindings available as well).
 
 <a name="common-lisp"></a>
 ## Common Lisp
@@ -1271,7 +1276,7 @@ be
 * [PyBroker ![GitHub Repo Stars](https://img.shields.io/github/stars/edtechre/pybroker) ![GitHub last commit](https://img.shields.io/github/last-commit/edtechre/pybroker)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
 * [Frouros ![GitHub Repo Stars](https://img.shields.io/github/stars/IFCA/frouros) ![GitHub last commit](https://img.shields.io/github/last-commit/IFCA/frouros)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 * [CometML ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-examples)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
-
+* [Okrolearn ![GitHub Repo Stars](https://img.shields.io/github/stars/Okerew/okrolearn) ![GitHub last commit](https://img.shields.io/github/last-commit/Okerew/okrolearn)](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization

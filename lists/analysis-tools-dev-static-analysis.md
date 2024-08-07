@@ -816,7 +816,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [dephpend ![GitHub Repo Stars](https://img.shields.io/github/stars/mihaeu/dephpend) ![GitHub last commit](https://img.shields.io/github/last-commit/mihaeu/dephpend)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
 
-- [deprecation-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deprecation-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deprecation-detector)](https://github.com/sensiolabs-de/deprecation-detector) �� Finds usages of deprecated (Symfony) code.
+- [deprecation-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deprecation-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deprecation-detector)](https://github.com/sensiolabs-de/deprecation-detector) — Finds usages of deprecated (Symfony) code.
 
 - [deptrac ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deptrac) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deptrac)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 
@@ -860,7 +860,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
-- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
+- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) ��� PHP spell check library.
 
 - [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
 
@@ -962,7 +962,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [Bowler](https://pybowler.io/) — Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
 
-- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: ��� Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
 
 - [cohesion ![GitHub Repo Stars](https://img.shields.io/github/stars/mschwager/cohesion) ![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/cohesion)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
 
