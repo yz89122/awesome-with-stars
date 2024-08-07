@@ -819,7 +819,7 @@ Featured playlists: `Machine Learning Systems`, `Graph Neural Networks`, `more v
 Content about: Python for AI and Finance \
 Featured playlists: `Python Programming for Finance`, `Machine Learning with Python`, `Neural Networks from Scratch in Python`.
 
-[�� Back to the top](#contents)
+[🔼 Back to the top](#contents)
 
 ## DevOps
 
