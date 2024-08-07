@@ -22,11 +22,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
-		</a>
-		<br>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -38,17 +33,6 @@
 				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
 			</div>
 		</a>
-		<br>
-		<a href="https://strapi.io/?ref=sindresorhus">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
-			</div>
-			<b>Strapi is the leading open-source headless CMS.</b>
-			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
 		<br>
 		<a href="https://serpapi.com#gh-light-mode-only">
 			<div>
@@ -86,6 +70,21 @@
 			<b>The better identity infrastructure for developers</b>
 			<div>
 				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
+			<div>
+				<picture>
+					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
+					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
+					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
+				</picture>
+			</div>
+			<b>Encore is the Development Platform for building type-safe distributed systems.</b>
+			<div>
+				<sup>Move faster with end-to-end tooling from local development to automating DevOps and infrastructure in your AWS/GCP.</sup>
 			</div>
 		</a>
 		<br>
@@ -345,7 +344,7 @@
 - [cross-env ![GitHub Repo Stars](https://img.shields.io/github/stars/kentcdodds/cross-env) ![GitHub last commit](https://img.shields.io/github/last-commit/kentcdodds/cross-env)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs ![GitHub Repo Stars](https://img.shields.io/github/stars/shelljs/shelljs) ![GitHub last commit](https://img.shields.io/github/last-commit/shelljs/shelljs)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 - [sudo-block ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sudo-block) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sudo-block)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
-- [sparkly ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sparkly) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sparkly)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+- [sparkly ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sparkly) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sparkly)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃���▂▇`.
 - [Bit ![GitHub Repo Stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string ![GitHub Repo Stars](https://img.shields.io/github/stars/bokub/gradient-string) ![GitHub last commit](https://img.shields.io/github/last-commit/bokub/gradient-string)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 - [oclif ![GitHub Repo Stars](https://img.shields.io/github/stars/oclif/oclif) ![GitHub last commit](https://img.shields.io/github/last-commit/oclif/oclif)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.

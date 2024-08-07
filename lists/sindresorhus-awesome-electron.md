@@ -26,31 +26,6 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 ---
 
-<div align="center">
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
-		</p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="180"/>
-		</a>
-		<br>
-		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="230"/>
-		</a>
-		<br>
-		<br>
-	</p>
-</div>
-
----
-
 <br>
 
 ## Contents

@@ -44,6 +44,7 @@
 			</div>
 		</a>
 		<br>
+		<br>
 		<a href="https://serpapi.com#gh-light-mode-only">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
@@ -87,9 +88,9 @@
 		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
 			<div>
 				<picture>
-					<source width="220" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
-					<source width="220" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
-					<img width="220" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
+					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
+					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
+					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
 				</picture>
 			</div>
 			<b>Encore is the Development Platform for building type-safe distributed systems.</b>
