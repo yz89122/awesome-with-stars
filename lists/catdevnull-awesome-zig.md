@@ -231,7 +231,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [zigwasm/wasmtime-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/zigwasm/wasmtime-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/zigwasm/wasmtime-zig)](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 * [batiati/mustache-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/batiati/mustache-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/batiati/mustache-zig)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 * [floscodes/zerve ![GitHub Repo Stars](https://img.shields.io/github/stars/floscodes/zerve) ![GitHub last commit](https://img.shields.io/github/last-commit/floscodes/zerve)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
-
+* [zon-dev/zinc ![GitHub Repo Stars](https://img.shields.io/github/stars/zon-dev/zinc) ![GitHub last commit](https://img.shields.io/github/last-commit/zon-dev/zinc)](https://github.com/zon-dev/zinc) - Zinc is a framework focusing on high performance, usability, security, and extensibility.
 
 ## System tools
 * [pbui-project/pbui-main ![GitHub Repo Stars](https://img.shields.io/github/stars/pbui-project/pbui-main) ![GitHub last commit](https://img.shields.io/github/last-commit/pbui-project/pbui-main)](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.
