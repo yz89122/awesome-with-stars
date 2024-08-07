@@ -195,7 +195,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - How to use the canvas element to draw WebGL graphics.
 - Graphics API: WebGPU
     - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Open source, cross-platform implementation of the WebGPU standard, by _Google_.
-    - 🌎 [WebGPU ![GitHub Repo Stars](https://img.shields.io/github/stars/gpuweb/gpuweb) ![GitHub last commit](https://img.shields.io/github/last-commit/gpuweb/gpuweb)](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Next generation web 3D graphics API. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/gpuweb/gpuweb) ![GitHub last commit](https://img.shields.io/github/last-commit/gpuweb/gpuweb)](https://github.com/gpuweb/gpuweb)]
+    - �� [WebGPU ![GitHub Repo Stars](https://img.shields.io/github/stars/gpuweb/gpuweb) ![GitHub last commit](https://img.shields.io/github/last-commit/gpuweb/gpuweb)](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Next generation web 3D graphics API. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/gpuweb/gpuweb) ![GitHub last commit](https://img.shields.io/github/last-commit/gpuweb/gpuweb)](https://github.com/gpuweb/gpuweb)]
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by _Apple_.
 - Pipeline: GPGPU
     - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Developed by _NVIDIA_ for parallel computing and programming.
