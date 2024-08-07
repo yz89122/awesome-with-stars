@@ -26,6 +26,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Configuration](#configuration)
     - [Cryptography](#cryptography)
     - [CSV](#csv)
+    - [Data Visualization](#data-visualization)
     - [Date and Time](#date-and-time)
     - [Debugging](#debugging)
     - [Deployment](#deployment)
@@ -512,6 +513,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecsv ![GitHub Repo Stars](https://img.shields.io/github/stars/erpuno/ecsv) ![GitHub last commit](https://img.shields.io/github/last-commit/erpuno/ecsv)](https://github.com/erpuno/ecsv) - Fast libcsv-based stream parser for Elixir.
 * [ex_csv ![GitHub Repo Stars](https://img.shields.io/github/stars/CargoSense/ex_csv) ![GitHub last commit](https://img.shields.io/github/last-commit/CargoSense/ex_csv)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [nimble_csv ![GitHub Repo Stars](https://img.shields.io/github/stars/plataformatec/nimble_csv) ![GitHub last commit](https://img.shields.io/github/last-commit/plataformatec/nimble_csv)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+
+## Data Visualization
+*Libraries for creating visualizations with data.*
+
+* [plox ![GitHub Repo Stars](https://img.shields.io/github/stars/gridpoint-com/plox) ![GitHub last commit](https://img.shields.io/github/last-commit/gridpoint-com/plox)](https://github.com/gridpoint-com/plox) - Server-side rendered SVG graphing components for Phoenix and LiveView.
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -1074,6 +1080,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rulex ![GitHub Repo Stars](https://img.shields.io/github/stars/awetzel/rulex) ![GitHub last commit](https://img.shields.io/github/last-commit/awetzel/rulex)](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
 * [shorter_maps ![GitHub Repo Stars](https://img.shields.io/github/stars/meyercm/shorter_maps) ![GitHub last commit](https://img.shields.io/github/last-commit/meyercm/shorter_maps)](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 * [typed_struct ![GitHub Repo Stars](https://img.shields.io/github/stars/ejpcmac/typed_struct) ![GitHub last commit](https://img.shields.io/github/last-commit/ejpcmac/typed_struct)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
+* [typed_structor ![GitHub Repo Stars](https://img.shields.io/github/stars/elixir-typed-structor/typed_structor) ![GitHub last commit](https://img.shields.io/github/last-commit/elixir-typed-structor/typed_structor)](https://github.com/elixir-typed-structor/typed_structor) - A library for defining structs with types effortlessly.
 * [unsafe ![GitHub Repo Stars](https://img.shields.io/github/stars/whitfin/unsafe) ![GitHub last commit](https://img.shields.io/github/last-commit/whitfin/unsafe)](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
 
 ## Markdown
@@ -1238,6 +1245,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_shortcuts ![GitHub Repo Stars](https://img.shields.io/github/stars/MishaConway/ecto_shortcuts) ![GitHub last commit](https://img.shields.io/github/last-commit/MishaConway/ecto_shortcuts)](https://github.com/MishaConway/ecto_shortcuts) - Shortcuts for common operations in ecto.
 * [ecto_shortuuid ![GitHub Repo Stars](https://img.shields.io/github/stars/gpedic/ecto_shortuuid) ![GitHub last commit](https://img.shields.io/github/last-commit/gpedic/ecto_shortuuid)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs ![GitHub Repo Stars](https://img.shields.io/github/stars/gpedic/ex_shortuuid) ![GitHub last commit](https://img.shields.io/github/last-commit/gpedic/ex_shortuuid)](https://github.com/gpedic/ex_shortuuid).
 * [ecto_validation_case ![GitHub Repo Stars](https://img.shields.io/github/stars/danielberkompas/ecto_validation_case) ![GitHub last commit](https://img.shields.io/github/last-commit/danielberkompas/ecto_validation_case)](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
+* [ecto_watch ![GitHub Repo Stars](https://img.shields.io/github/stars/cheerfulstoic/ecto_watch) ![GitHub last commit](https://img.shields.io/github/last-commit/cheerfulstoic/ecto_watch)](https://github.com/cheerfulstoic/ecto_watch) - Allows you to easily get notifications about database changes directly from PostgreSQL.
 * [ectophile ![GitHub Repo Stars](https://img.shields.io/github/stars/gjaldon/ectophile) ![GitHub last commit](https://img.shields.io/github/last-commit/gjaldon/ectophile)](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [elastic ![GitHub Repo Stars](https://img.shields.io/github/stars/radar/elastic) ![GitHub last commit](https://img.shields.io/github/last-commit/radar/elastic)](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
 * [elastix ![GitHub Repo Stars](https://img.shields.io/github/stars/werbitzky/elastix) ![GitHub last commit](https://img.shields.io/github/last-commit/werbitzky/elastix)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
