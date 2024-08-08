@@ -183,6 +183,20 @@ Language: English
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/kilonova.webp">
+
+[__Kilonova__](https://discord.com/invite/Qa6Ytgh) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://kilonova.ro/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp"> ![GitHub Repo Stars](https://img.shields.io/github/stars/KiloProjects/Kilonova) ![GitHub last commit](https://img.shields.io/github/last-commit/KiloProjects/Kilonova)](https://github.com/KiloProjects/Kilonova) \
+Notable Channels: `#general`, `#platform-errors`, `#platform-bugs`, `#suggestions`, `#support`, `#solution-discussions` \
+Language: Romanian \
+<br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/roalgo.webp">
+
+[__RoAlgo__](https://discord.com/invite/roalgo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/roalgo-discord) \
+Notable Channels: `#general`, `#general-avansati`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
+Language: Romanian, English \
+<br>
+
 ## Art of Computer Science
 
 [<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
