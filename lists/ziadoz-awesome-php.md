@@ -70,6 +70,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Internationalisation and Localisation](#internationalisation-and-localisation)
   - [Serverless](#serverless)
   - [Configuration](#configuration)
+  - [LLMs](#llms)
   - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
@@ -798,6 +799,15 @@ Libraries to help manage database schemas and migrations.
 * [PHP Dotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/vlucas/phpdotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/vlucas/phpdotenv)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/dotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/dotenv)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
 * [Yo! Symfony TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/yosymfony/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/yosymfony/toml)](https://github.com/yosymfony/toml) - A PHP parser for [TOML ![GitHub Repo Stars](https://img.shields.io/github/stars/toml-lang/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/toml-lang/toml)](https://github.com/toml-lang/toml).
+
+### LLMs
+*Libraries for working with Large Language Models.*
+
+* [Instructor for PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/cognesy/instructor-php) ![GitHub last commit](https://img.shields.io/github/last-commit/cognesy/instructor-php)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+* [LLPhant ![GitHub Repo Stars](https://img.shields.io/github/stars/theodo-group/LLPhant) ![GitHub last commit](https://img.shields.io/github/last-commit/theodo-group/LLPhant)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+* [OpenAI Client ![GitHub Repo Stars](https://img.shields.io/github/stars/openai-php/client) ![GitHub last commit](https://img.shields.io/github/last-commit/openai-php/client)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+* [OpenAI Client for Laravel ![GitHub Repo Stars](https://img.shields.io/github/stars/openai-php/laravel) ![GitHub last commit](https://img.shields.io/github/last-commit/openai-php/laravel)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+* [PHP Mistral AI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SoftCreatR/php-mistral-ai-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/SoftCreatR/php-mistral-ai-sdk)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*

@@ -543,6 +543,7 @@ become an Angular expert.
 * [ngx-generic-rest-service ![GitHub Repo Stars](https://img.shields.io/github/stars/jm2097/ngx-generic-rest-service) ![GitHub last commit](https://img.shields.io/github/last-commit/jm2097/ngx-generic-rest-service)](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
 * [@ngify/http ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 * [ngx-http-annotations ![GitHub Repo Stars](https://img.shields.io/github/stars/manudss/ngx-http-annotations) ![GitHub last commit](https://img.shields.io/github/last-commit/manudss/ngx-http-annotations)](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Mixalloff/ngx-http-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Mixalloff/ngx-http-rest)](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
+* [ng-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/ng-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/ng-http-loader)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 
 #### Integrations
 
@@ -594,6 +595,7 @@ become an Angular expert.
 * [angular-ecmascript-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/json-derulo/angular-ecmascript-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/json-derulo/angular-ecmascript-intl)](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 * [i18n-ally ![GitHub Repo Stars](https://img.shields.io/github/stars/lokalise/i18n-ally) ![GitHub last commit](https://img.shields.io/github/last-commit/lokalise/i18n-ally)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [ngx-translate-router ![GitHub Repo Stars](https://img.shields.io/github/stars/gilsdav/ngx-translate-router) ![GitHub last commit](https://img.shields.io/github/last-commit/gilsdav/ngx-translate-router)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
+* [intl-tel-input-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/intl-tel-input-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/intl-tel-input-ng)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input ![GitHub Repo Stars](https://img.shields.io/github/stars/jackocnr/intl-tel-input) ![GitHub last commit](https://img.shields.io/github/last-commit/jackocnr/intl-tel-input)](https://github.com/jackocnr/intl-tel-input).
 
 #### Monorepos
 
@@ -960,6 +962,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-cropperjs ![GitHub Repo Stars](https://img.shields.io/github/stars/matheusdavidson/angular-cropperjs) ![GitHub last commit](https://img.shields.io/github/last-commit/matheusdavidson/angular-cropperjs)](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js ![GitHub Repo Stars](https://img.shields.io/github/stars/fengyuanchen/cropperjs) ![GitHub last commit](https://img.shields.io/github/last-commit/fengyuanchen/cropperjs)](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [img-comparison-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/sneas/img-comparison-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/sneas/img-comparison-slider)](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
+* [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 
 #### Keyboard Mouse
 
