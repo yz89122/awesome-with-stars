@@ -93,9 +93,9 @@
 					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
 				</picture>
 			</div>
-			<b>Encore is the Development Platform for building type-safe distributed systems.</b>
+			<b>The development platform for building type-safe distributed systems</b>
 			<div>
-				<sup>Move faster with end-to-end tooling from local development to automating DevOps and infrastructure in your AWS/GCP.</sup>
+				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
 			</div>
 		</a>
 		<br>

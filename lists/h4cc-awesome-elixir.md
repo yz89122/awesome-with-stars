@@ -1988,6 +1988,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
 * [Elixir Tab ![GitHub Repo Stars](https://img.shields.io/github/stars/efexen/elixir-tab) ![GitHub last commit](https://img.shields.io/github/last-commit/efexen/elixir-tab)](https://github.com/efexen/elixir-tab) - Chrome Extension which helps you learn the Elixir core lib.
 * [Elixir vs Ruby | How Switching To Elixir Made Our Team Better](https://foxbox.com/blog/elixir-vs-ruby/) - Long-form post that explains in detail when and why you should choose Elixir over Ruby.
+* [Learn With Me: Elixir](https://inquisitivedeveloper.com/tag/lwm-elixir/) - A series where I learn Elixir and you can learn along with me.
 * [The Little Schemer in Elixir ![GitHub Repo Stars](https://img.shields.io/github/stars/jwhiteman/a-little-elixir-goes-a-long-way) ![GitHub last commit](https://img.shields.io/github/last-commit/jwhiteman/a-little-elixir-goes-a-long-way)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 * [xElixir ![GitHub Repo Stars](https://img.shields.io/github/stars/exercism/xelixir) ![GitHub last commit](https://img.shields.io/github/last-commit/exercism/xelixir)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
