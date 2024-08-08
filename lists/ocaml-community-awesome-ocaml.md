@@ -204,7 +204,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
     - [ppx_pgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/tizoc/ppx_pgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/tizoc/ppx_pgsql)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
-  - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) �� An interface to PostgreSQL through the C API (`libpq`).
+  - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
   - [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/sqlite3-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/sqlite3-ocaml)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
   - [ocaml-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/0xffea/ocaml-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/0xffea/ocaml-redis)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
@@ -633,9 +633,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/AngryLawyer/commonjs_of_ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/AngryLawyer/commonjs_of_ocaml)](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
   - [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-  - [ocaml-uri ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-uri) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-uri)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+  - [ocaml-uri ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-uri) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-uri)](https://github.com/mirage/ocaml-uri) �� RFC3986 URI parsing library.
   - [Goji ![GitHub Repo Stars](https://img.shields.io/github/stars/klakplok/goji) ![GitHub last commit](https://img.shields.io/github/last-commit/klakplok/goji)](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
-  - [Syndic ![GitHub Repo Stars](https://img.shields.io/github/stars/Cumulus/Syndic) ![GitHub last commit](https://img.shields.io/github/last-commit/Cumulus/Syndic)](https://github.com/Cumulus/Syndic) ��� RSS and Atom feed parsing
+  - [Syndic ![GitHub Repo Stars](https://img.shields.io/github/stars/Cumulus/Syndic) ![GitHub last commit](https://img.shields.io/github/last-commit/Cumulus/Syndic)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
   - [ocaml-mustache ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/ocaml-mustache) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/ocaml-mustache)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
   - [atdjs ![GitHub Repo Stars](https://img.shields.io/github/stars/barko/atdjs) ![GitHub last commit](https://img.shields.io/github/last-commit/barko/atdjs)](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js_of_ocaml.
   - [jingoo ![GitHub Repo Stars](https://img.shields.io/github/stars/tategakibunko/jingoo) ![GitHub last commit](https://img.shields.io/github/last-commit/tategakibunko/jingoo)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
