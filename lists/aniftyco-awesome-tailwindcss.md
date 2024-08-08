@@ -213,7 +213,7 @@
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
-- 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
+- �� [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 - 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 🧩 [Indie UI](https://ui.indie-starter.dev) - Rich styled UI components.
@@ -291,7 +291,7 @@
 
 ## Learning
 
-**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+**Legend**: �� Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
 - 💙🧪 [Plugin Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-plugin-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-plugin-examples)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 - 🧪 [Tailwind Dark Mode Theme Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/huphtur/tailwind-theme-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/huphtur/tailwind-theme-switcher)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
