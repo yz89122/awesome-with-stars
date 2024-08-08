@@ -47,6 +47,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     * [NET](#net)
     * [Node](#node)
     * [Spring Boot](#spring-boot)
+  * [GraphQL](#graphql)
   * [HTTP](#http)
   * [Integrations](#integrations)
   * [Internationalization](#internationalization)
@@ -513,7 +514,6 @@ become an Angular expert.
 ##### Node
 
 * [teleport-code-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/teleporthq/teleport-code-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/teleporthq/teleport-code-generators)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
-* [graphql-code-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/dotansimha/graphql-code-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/dotansimha/graphql-code-generator)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
@@ -524,6 +524,14 @@ become an Angular expert.
 * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
 * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular.
 
+#### GraphQL
+
+* [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilkisiela/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/apollo-angular)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
+* [buoy ![GitHub Repo Stars](https://img.shields.io/github/stars/buoy-graphql/buoy) ![GitHub last commit](https://img.shields.io/github/last-commit/buoy-graphql/buoy)](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
+* [graphql-code-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/dotansimha/graphql-code-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/dotansimha/graphql-code-generator)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+* [hasura ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/learn-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/learn-graphql)](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
+* [tailcall](https://tailcall.run/blog/graphql-angular-client/) - This comprehensive guide dives into five powerful approaches for integrating GraphQL into your Angular applications.
+
 #### HTTP
 
 * [angular2-jwt ![GitHub Repo Stars](https://img.shields.io/github/stars/auth0/angular2-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/auth0/angular2-jwt)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
@@ -532,15 +540,12 @@ become an Angular expert.
 * [cashew ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/cashew) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/cashew)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [convoyr ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/convoyr) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/convoyr)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 * [angular-http-cache-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-http-cache-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-http-cache-interceptor)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
-* [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilkisiela/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilkisiela/apollo-angular)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
-* [buoy ![GitHub Repo Stars](https://img.shields.io/github/stars/buoy-graphql/buoy) ![GitHub last commit](https://img.shields.io/github/last-commit/buoy-graphql/buoy)](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
 * [ngx-generic-rest-service ![GitHub Repo Stars](https://img.shields.io/github/stars/jm2097/ngx-generic-rest-service) ![GitHub last commit](https://img.shields.io/github/last-commit/jm2097/ngx-generic-rest-service)](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
 * [@ngify/http ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 * [ngx-http-annotations ![GitHub Repo Stars](https://img.shields.io/github/stars/manudss/ngx-http-annotations) ![GitHub last commit](https://img.shields.io/github/last-commit/manudss/ngx-http-annotations)](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Mixalloff/ngx-http-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Mixalloff/ngx-http-rest)](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 
 #### Integrations
 
-* [apollo-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-angular)](https://github.com/apollographql/apollo-angular) - Caching GraphQL client for Angular and every GraphQL server.
 * [ckeditor5-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5-angular)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 * [ckeditor4-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-angular)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 * [TailwindCSS + Angular](https://tailwindcss.com/docs/guides/angular) - Integrate Angular app with Tailwind.
@@ -1129,6 +1134,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-export-as ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-export-as) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-export-as)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/datagrid)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 * [angular-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/l-lin/angular-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/l-lin/angular-datatables)](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
+* [angular-slickgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/Angular-Slickgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/Angular-Slickgrid)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mleibman/SlickGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mleibman/SlickGrid)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 
 #### Tooltips
 
