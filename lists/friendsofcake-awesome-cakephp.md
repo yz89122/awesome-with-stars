@@ -252,7 +252,7 @@ Additional lists you might find useful:
 - [Muffin/Webservices ORM plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/usemuffin/webservice) ![GitHub last commit](https://img.shields.io/github/last-commit/usemuffin/webservice)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 - [Connehito/CakephpMasterReplica plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Connehito/cakephp-master-replica) ![GitHub last commit](https://img.shields.io/github/last-commit/Connehito/cakephp-master-replica)](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 - 🍰 [Itosho/EasyQuery plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/itosho/easy-query) ![GitHub last commit](https://img.shields.io/github/last-commit/itosho/easy-query)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
-- 🍰 [Icings/Partitionable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/partitionable) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/partitionable)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+- ���� [Icings/Partitionable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/partitionable) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/partitionable)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## PDF
 *Plugins and software for working with PDF files.*
@@ -299,7 +299,7 @@ Additional lists you might find useful:
 *Search Engine Optimization.*
 
 - 🍰 [Muffin/Slug plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Slug) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Slug)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
-- 🍰 [Tools:Slugged ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- ���� [Tools:Slugged ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
 *Plugins and repositories around app skeletons.*
