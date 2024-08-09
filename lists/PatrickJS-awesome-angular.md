@@ -437,6 +437,7 @@ become an Angular expert.
 * [ngx-security ![GitHub Repo Stars](https://img.shields.io/github/stars/mselerin/ngx-security) ![GitHub last commit](https://img.shields.io/github/last-commit/mselerin/ngx-security)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 * [ngx-clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/anagstef/ngx-clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/anagstef/ngx-clerk)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 * [ng-supabase ![GitHub Repo Stars](https://img.shields.io/github/stars/rustygreen/ng-supabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rustygreen/ng-supabase)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
+* [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
 
 #### Builders
 
