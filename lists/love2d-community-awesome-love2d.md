@@ -245,7 +245,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 
 ## Platforms
-*Ports for Platforms other than the ones officially supported by L��VE*
+*Ports for Platforms other than the ones officially supported by LÖVE*
 
 * [LoveDos ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/lovedos) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/lovedos)](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
@@ -279,7 +279,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter ![GitHub Repo Stars](https://img.shields.io/github/stars/tsteinholz/LoveShaderConverter) ![GitHub last commit](https://img.shields.io/github/last-commit/tsteinholz/LoveShaderConverter)](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
-* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
+* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a L��VE shader.
 * [Moonshine ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/moonshine) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/moonshine)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 * [ShaderScan ![GitHub Repo Stars](https://img.shields.io/github/stars/idbrii/love-shaderscan) ![GitHub last commit](https://img.shields.io/github/last-commit/idbrii/love-shaderscan)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
@@ -374,7 +374,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 * [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
-* [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging L��VE games for the web.
+* [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web.
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
