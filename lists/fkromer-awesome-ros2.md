@@ -407,7 +407,7 @@ Feel free to checkout the GitHub [ROS2 organization](https://github.com/ros2) to
 - Arm DDS Security library: Adding secure security to ROS2
 - ROS2: Supercharging the Jaguar4x4
 - Performance Test - A Tool for Communication Middleware Performance Measuring
-- ROS2 for Android, iOS and Universal Windows Platform: a demonstration of ROS2’s portability, and cross-platform and cross-language capabilities
+- ROS2 for Android, iOS and Universal Windows Platform: a demonstration of ROS2���s portability, and cross-platform and cross-language capabilities
 - Integrating ROS and ROS2 on mixed-critical robotic systems based on embedded heterogeneous platforms
 - Towards ROS 2 microcontroller meta cross-compilation
 - Node.js Client & Web Bridge Ready for ROS 2.0
