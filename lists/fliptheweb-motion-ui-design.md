@@ -90,7 +90,7 @@ List of all possible software that can produce UI animations separated by using 
 	* [How To Prototype UI Animations In Keynote](http://www.smashingmagazine.com/2015/08/animating-in-keynote/).
 
 ### Visual programming
-* [Quartz Composer](https://developer.apple.com/downloads/) ��� MacOS app with node-based visual programming language for prototyping MacOS/iOS apps:
+* [Quartz Composer](https://developer.apple.com/downloads/) – MacOS app with node-based visual programming language for prototyping MacOS/iOS apps:
   * [The 4 Minute Guide to Quartz Composer](https://vimeo.com/88468610) (:movie_camera: video).
   * [Introducing Origami for QC](https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181).
   * [Origami](https://facebook.github.io/origami/) – A tool for creating modern UI by Facebook.
@@ -121,7 +121,7 @@ And obvious your secret weapon – Pen and paper!
 
 ## Libraries
 * [Web Animation Infographics](http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html) – Great (but old) infographic with libraries by used technology.
-* [Bouncy Ball](https://sparkbox.github.io/bouncy-ball/) ��� Comparing animation techniques by showing how to bounce a ball with each one.
+* [Bouncy Ball](https://sparkbox.github.io/bouncy-ball/) – Comparing animation techniques by showing how to bounce a ball with each one.
 
 ### CSS
 * [Animate.css](http://daneden.github.io/animate.css/) – Collections of CSS animations.
