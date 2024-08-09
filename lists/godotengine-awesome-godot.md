@@ -44,7 +44,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Pocket Broomball ![GitHub Repo Stars](https://img.shields.io/github/stars/dulvui/pocket-broomball) ![GitHub last commit](https://img.shields.io/github/last-commit/dulvui/pocket-broomball)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D ![GitHub Repo Stars](https://img.shields.io/github/stars/JulianWels/portal2d) ![GitHub last commit](https://img.shields.io/github/last-commit/JulianWels/portal2d)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
-- [SuperStarfighter ![GitHub Repo Stars](https://img.shields.io/github/stars/notapixelstudio/superstarfighter) ![GitHub last commit](https://img.shields.io/github/last-commit/notapixelstudio/superstarfighter)](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
+- [Starship Olympics ![GitHub Repo Stars](https://img.shields.io/github/stars/notapixelstudio/starship-olympics) ![GitHub last commit](https://img.shields.io/github/last-commit/notapixelstudio/starship-olympics)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
 - [TuxBuilder ![GitHub Repo Stars](https://img.shields.io/github/stars/Alzter/TuxBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/Alzter/TuxBuilder)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 #### Godot 3.1
