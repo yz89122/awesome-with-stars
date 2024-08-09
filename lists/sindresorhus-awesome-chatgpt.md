@@ -265,6 +265,7 @@
 - [ChatGPT-MD ![GitHub Repo Stars](https://img.shields.io/github/stars/bramses/chatgpt-md) ![GitHub last commit](https://img.shields.io/github/last-commit/bramses/chatgpt-md)](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 - [Chapyter ![GitHub Repo Stars](https://img.shields.io/github/stars/chapyter/chapyter) ![GitHub last commit](https://img.shields.io/github/last-commit/chapyter/chapyter)](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
 - [I Don't Care About Commit Message ![GitHub Repo Stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message) ![GitHub last commit](https://img.shields.io/github/last-commit/mefengl/vscode-i-dont-care-about-commit-message)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
+- [Python Smart Exceptions ![GitHub Repo Stars](https://img.shields.io/github/stars/roma-guru/smart-exceptions) ![GitHub last commit](https://img.shields.io/github/last-commit/roma-guru/smart-exceptions)](https://github.com/roma-guru/smart-exceptions) - AI-powered Python exceptions debugging.
 
 ## Packages
 
