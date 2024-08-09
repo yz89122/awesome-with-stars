@@ -1194,6 +1194,7 @@ _Awesome game development libraries._
 
 - [Azul3D ![GitHub Repo Stars](https://img.shields.io/github/stars/azul3d/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/azul3d/engine)](https://github.com/azul3d/engine) - 3D game engine written in Go.
 - [Ebitengine ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/ebiten) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/ebiten)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+- [ecs ![GitHub Repo Stars](https://img.shields.io/github/stars/andygeiss/ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/andygeiss/ecs)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 - [engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
 - [fantasyname ![GitHub Repo Stars](https://img.shields.io/github/stars/s0rg/fantasyname) ![GitHub last commit](https://img.shields.io/github/last-commit/s0rg/fantasyname)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 - [g3n ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - Go 3D Game Engine.
@@ -2874,6 +2875,7 @@ _Libraries for working with UUIDs._
 _Libraries for validation._
 
 - [checkdigit ![GitHub Repo Stars](https://img.shields.io/github/stars/osamingo/checkdigit) ![GitHub last commit](https://img.shields.io/github/last-commit/osamingo/checkdigit)](https://github.com/osamingo/checkdigit) - Provide check digit algorithms (Luhn, Verhoeff, Damm) and calculators (ISBN, EAN, JAN, UPC, etc.).
+- [go-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/tiendc/go-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/tiendc/go-validator)](https://github.com/tiendc/go-validator) - Validation library using Generics.
 - [gody ![GitHub Repo Stars](https://img.shields.io/github/stars/guiferpa/gody) ![GitHub last commit](https://img.shields.io/github/last-commit/guiferpa/gody)](https://github.com/guiferpa/gody) - :balloon: A lightweight struct validator for Go.
 - [govalid ![GitHub Repo Stars](https://img.shields.io/github/stars/twharmon/govalid) ![GitHub last commit](https://img.shields.io/github/last-commit/twharmon/govalid)](https://github.com/twharmon/govalid) - Fast, tag-based validation for structs.
 - [govalidator ![GitHub Repo Stars](https://img.shields.io/github/stars/asaskevich/govalidator) ![GitHub last commit](https://img.shields.io/github/last-commit/asaskevich/govalidator)](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.
