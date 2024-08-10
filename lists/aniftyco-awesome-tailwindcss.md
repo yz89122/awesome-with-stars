@@ -236,12 +236,12 @@
 - 📁 [Flowbite Admin Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-admin-dashboard)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id) ![GitHub last commit](https://img.shields.io/github/last-commit/fortezhuo/fortezhuo.my.id)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus ![GitHub Repo Stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus) ![GitHub last commit](https://img.shields.io/github/last-commit/chrismwilliams/astro-theme-cactus)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
-- 📁 [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
+- ��� [Astro Template Ovidius ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/ovidius-astro-theme)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante ![GitHub Repo Stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/JustGoodUI/dante-astro-theme)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## Starters & Themes
 
-**Legend**: 💼 Package · ���� Command line tool/generator · 🚀 Cloneable
+**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 - 📟 [Create React App with PurgeCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/DemianD/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/DemianD/create-react-app-tailwindcss)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset ![GitHub Repo Stars](https://img.shields.io/github/stars/use-preset/laravel-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/use-preset/laravel-tailwindcss)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.

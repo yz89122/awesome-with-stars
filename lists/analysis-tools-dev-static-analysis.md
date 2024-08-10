@@ -501,7 +501,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
-- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) �� Finds assignments/declarations with too many blank identifiers.
+- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
@@ -2135,7 +2135,7 @@ but with the following improvements:
 <h2>Security/SAST</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/) ��� Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
+- [AzSK](https://azsk.azurewebsites.net/) �� Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
