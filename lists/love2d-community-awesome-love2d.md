@@ -245,7 +245,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 
 ## Platforms
-*Ports for Platforms other than the ones officially supported by L��VE*
+*Ports for Platforms other than the ones officially supported by LÖVE*
 
 * [LoveDos ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/lovedos) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/lovedos)](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
@@ -374,7 +374,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 * [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
-* [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging L��VE games for the web.
+* [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web.
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
