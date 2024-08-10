@@ -66,7 +66,6 @@ A knowledge collection of databases, software and papers related to computationa
   - [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
   - [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
   - [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions. 
-  - [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
   - [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 - Drug (-Cell line) Response
   - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
@@ -81,6 +80,7 @@ A knowledge collection of databases, software and papers related to computationa
   - [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 - Knowledge Graph
   - [Drug Mechanism Database (DrugMechDB) ![GitHub Repo Stars](https://img.shields.io/github/stars/SuLab/DrugMechDB) ![GitHub last commit](https://img.shields.io/github/last-commit/SuLab/DrugMechDB)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+  - [DRKG ![GitHub Repo Stars](https://img.shields.io/github/stars/gnn4dr/DRKG) ![GitHub last commit](https://img.shields.io/github/last-commit/gnn4dr/DRKG)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
  
 ## API
 - [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
@@ -96,12 +96,10 @@ A knowledge collection of databases, software and papers related to computationa
 
 ## Drug Response Prediction
 - [drGAT ![GitHub Repo Stars](https://img.shields.io/github/stars/inoue0426/drGAT) ![GitHub last commit](https://img.shields.io/github/last-commit/inoue0426/drGAT)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
-- 
 
 ### Drug Repurposing
 
-- [DeepPurpose ![GitHub Repo Stars](https://img.shields.io/github/stars/kexinhuang12345/DeepPurpose) ![GitHub last commit](https://img.shields.io/github/last-commit/kexinhuang12345/DeepPurpose)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on. 
-- [DRKG ![GitHub Repo Stars](https://img.shields.io/github/stars/gnn4dr/DRKG) ![GitHub last commit](https://img.shields.io/github/last-commit/gnn4dr/DRKG)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+- [DeepPurpose ![GitHub Repo Stars](https://img.shields.io/github/stars/kexinhuang12345/DeepPurpose) ![GitHub last commit](https://img.shields.io/github/last-commit/kexinhuang12345/DeepPurpose)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing. 
 
 ### Drug Target Interaction
 
