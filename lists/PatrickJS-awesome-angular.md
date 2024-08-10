@@ -498,6 +498,7 @@ become an Angular expert.
 * [Angular Jester](https://marketplace.visualstudio.com/items?itemName=michael-fontecchio.angular-jester) - Generate Jest spec files for Angular projects.
 * [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
 * [VS Code Angular HTML](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) - Syntax highlighting for angular HTML Template files.
+* [angular-scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/EPAM-JS-Competency-center/angular-scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/EPAM-JS-Competency-center/angular-scaffold)](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
 
 #### Documentation tools
 
@@ -677,6 +678,7 @@ become an Angular expert.
 * [gradient-able-free-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/gradient-able-free-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/gradient-able-free-admin-template)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 * [mantis-free-angular-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/mantis-free-angular-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/mantis-free-angular-admin-template)](https://github.com/codedthemes/mantis-free-angular-admin-template)
 * [datta-able-free-angular-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/datta-able-free-angular-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/datta-able-free-angular-admin-template)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
+* [sanity-template-angular-clean ![GitHub Repo Stars](https://img.shields.io/github/stars/sanity-io/sanity-template-angular-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/sanity-io/sanity-template-angular-clean)](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 
 ##### Paid
 
