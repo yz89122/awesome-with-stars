@@ -165,7 +165,7 @@ Articles about Fiber written by the community.
 - [Create a CRUD app with Go Fiber, docker, and Postgres](https://dev.to/divrhino/create-a-crud-app-with-go-fiber-docker-and-postgres-47e3)
 
 
-## 📺 Videos
+## ���� Videos
 Video tutorials created by the community about Fiber.
 
 - [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
