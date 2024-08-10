@@ -50,6 +50,9 @@
 - [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
 - [The Rails 7 Way](https://leanpub.com/therails7way)
 
+#### Video courses
+- [Full Stack Rails Mastery](https://learnetto.com/users/hrishio/courses/full-stack-rails-mastery)
+
 #### Video tutorials
 
 - [RailsCasts](http://railscasts.com) *(inactive since 2013)
@@ -395,6 +398,7 @@
 
 - [ace-rails-ap ![GitHub Repo Stars](https://img.shields.io/github/stars/codykrieger/ace-rails-ap) ![GitHub last commit](https://img.shields.io/github/last-commit/codykrieger/ace-rails-ap)](https://github.com/codykrieger/ace-rails-ap) - A gem to integrate ajax.org cloud9 editor into Rails asset pipeline. [:red_circle:](https://rubygems.org/gems/ace-rails-ap)
 - [action_policy ![GitHub Repo Stars](https://img.shields.io/github/stars/palkan/action_policy) ![GitHub last commit](https://img.shields.io/github/last-commit/palkan/action_policy)](https://github.com/palkan/action_policy) - A tool to handle authorization. [:red_circle:](https://rubygems.org/gems/action_policy)
+- [actionview-svelte-handler](https://codeberg.org/reesericci/actionview-svelte-handler) - An Action View template handler to seamlessly integrate Svelte views. [:red_circle:](https://rubygems.org/gems/actionview-svelte-handler)
 - [active_decorator ![GitHub Repo Stars](https://img.shields.io/github/stars/amatsuda/active_decorator) ![GitHub last commit](https://img.shields.io/github/last-commit/amatsuda/active_decorator)](https://github.com/amatsuda/active_decorator) - A gem to keep views & helpers object-oriented. [:red_circle:](https://rubygems.org/gems/active_decorator)
 - [active_enum ![GitHub Repo Stars](https://img.shields.io/github/stars/adzap/active_enum) ![GitHub last commit](https://img.shields.io/github/last-commit/adzap/active_enum)](https://github.com/adzap/active_enum) - A gem to provide enum classes [:red_circle:](https://rubygems.org/gems/active_enum)
 - [activeadmin ![GitHub Repo Stars](https://img.shields.io/github/stars/activeadmin/activeadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/activeadmin/activeadmin)](https://github.com/activeadmin/activeadmin) - A gem to provide admin panel. [:red_circle:](https://rubygems.org/gems/activeadmin)
