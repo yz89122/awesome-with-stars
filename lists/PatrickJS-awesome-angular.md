@@ -64,8 +64,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Animations](#animations)
   * [Calendars](#calendars)
   * [Carousels](#carousels)
-  * [Dates](#dates)
   * [Charts](#charts)
+  * [Dates](#dates)
   * [DOM](#dom)
   * [Drag and Drop](#drag-and-drop)
   * [Editor Components](#editor-components)
@@ -580,6 +580,8 @@ become an Angular expert.
 * [ngx-three ![GitHub Repo Stars](https://img.shields.io/github/stars/demike/ngx-three) ![GitHub last commit](https://img.shields.io/github/last-commit/demike/ngx-three)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-facebook-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-facebook-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-facebook-messenger)](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 * [angular-sdk-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/splitio/angular-sdk-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/splitio/angular-sdk-plugin)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
+* [ngx-stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/richnologies/ngx-stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/richnologies/ngx-stripe)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+* [ngx-socket-io ![GitHub Repo Stars](https://img.shields.io/github/stars/rodgc/ngx-socket-io) ![GitHub last commit](https://img.shields.io/github/last-commit/rodgc/ngx-socket-io)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 
 #### Internationalization
 
@@ -882,6 +884,7 @@ become an Angular expert.
 * [file-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/pIvan/file-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/pIvan/file-upload)](https://github.com/pIvan/file-upload) - Angular module used for file upload.
 * [ngx-filepond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/ngx-filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/ngx-filepond)](https://github.com/pqina/ngx-filepond) - A handy [FilePond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/filepond)](https://github.com/pqina/filepond) adapter component for Angular.
 * [ngx-file-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/georgipeltekov/ngx-file-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/georgipeltekov/ngx-file-drop)](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
+* [uppy](https://uppy.io/docs/angular/) - [Uppy ![GitHub Repo Stars](https://img.shields.io/github/stars/transloadit/uppy) ![GitHub last commit](https://img.shields.io/github/last-commit/transloadit/uppy)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
 
 #### Forms
 
@@ -1315,6 +1318,7 @@ for the creation of web applications developed with Angular.
 * [ngrx-action-bundles ![GitHub Repo Stars](https://img.shields.io/github/stars/IliaIdakiev/ngrx-action-bundles) ![GitHub last commit](https://img.shields.io/github/last-commit/IliaIdakiev/ngrx-action-bundles)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 * [ngx-view-state ![GitHub Repo Stars](https://img.shields.io/github/stars/yurakhomitsky/ngx-view-state) ![GitHub last commit](https://img.shields.io/github/last-commit/yurakhomitsky/ngx-view-state)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
+* [store-service ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxp/store-service) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxp/store-service)](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
 
 #### RxJS
 
