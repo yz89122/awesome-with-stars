@@ -266,6 +266,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Validator.js Wrapper Directive ![GitHub Repo Stars](https://img.shields.io/github/stars/ktutnik/graphql-directive) ![GitHub last commit](https://img.shields.io/github/last-commit/ktutnik/graphql-directive)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 - [WunderGraph Cosmo ![GitHub Repo Stars](https://img.shields.io/github/stars/wundergraph/cosmo) ![GitHub last commit](https://img.shields.io/github/last-commit/wundergraph/cosmo)](https://github.com/wundergraph/cosmo) - The Open-Source GraphQL Federation Solution with Full Lifecycle API Management for (Federated) GraphQL. Schema Registry, composition checks, analytics, metrics, tracing and routing.
 - [graphql-go-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/wundergraph/graphql-go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/wundergraph/graphql-go-tools)](https://github.com/wundergraph/graphql-go-tools) - A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more.
+- [graphql-sunset ![GitHub Repo Stars](https://img.shields.io/github/stars/sophiabits/graphql-sunset) ![GitHub last commit](https://img.shields.io/github/last-commit/sophiabits/graphql-sunset)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
 
 <a name="js-example" />
 
@@ -684,7 +685,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Brangr ![GitHub Repo Stars](https://img.shields.io/github/stars/networkimprov/brangr) ![GitHub last commit](https://img.shields.io/github/last-commit/networkimprov/brangr)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
 - [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor.
 - [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - An HTTP Client that supports editing GraphQL queries.
-- [Bruno ![GitHub Repo Stars](https://img.shields.io/github/stars/usebruno/bruno) ![GitHub last commit](https://img.shields.io/github/last-commit/usebruno/bruno)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language. 
+- [Bruno ![GitHub Repo Stars](https://img.shields.io/github/stars/usebruno/bruno) ![GitHub last commit](https://img.shields.io/github/last-commit/usebruno/bruno)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 - [Escape GraphMan ![GitHub Repo Stars](https://img.shields.io/github/stars/Escape-Technologies/graphman) ![GitHub last commit](https://img.shields.io/github/last-commit/Escape-Technologies/graphman)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 - [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 - [GraphQL Birdseye ![GitHub Repo Stars](https://img.shields.io/github/stars/Novvum/graphql-birdseye) ![GitHub last commit](https://img.shields.io/github/last-commit/Novvum/graphql-birdseye)](https://github.com/Novvum/graphql-birdseye) – View any GraphQL schema as a dynamic and interactive graph.
@@ -873,7 +874,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
 - [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
 - [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
-- [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization) 
+- [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization)
 
 <a name="post" />
 
