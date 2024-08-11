@@ -284,7 +284,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IPinfo](https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
   * [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames, and ASN details. Free for personal and business users.
   * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
-  * [IPTrace](https://iptrace.io) ��� An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data.
+  * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [JSON Serve] (https://jsonserve.com/) — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.
@@ -569,7 +569,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## CI and CD
 
-  * [AccessLint ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/accesslint) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/accesslint)](https://github.com/marketplace/accesslint) �� AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
+  * [AccessLint ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/accesslint) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/accesslint)](https://github.com/marketplace/accesslint) — AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
   * [appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.
   * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
   * [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. The free tier allows unlimited apps and deployments for 5 domains and 2 users.
