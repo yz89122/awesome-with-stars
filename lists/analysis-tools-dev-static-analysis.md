@@ -501,7 +501,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
-- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
+- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) �� Finds assignments/declarations with too many blank identifiers.
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
@@ -692,7 +692,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) ��� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 

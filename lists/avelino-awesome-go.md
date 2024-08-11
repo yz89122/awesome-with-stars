@@ -1767,7 +1767,7 @@ _**Unofficial** set of patterns for structuring projects._
 - [scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/catchplay/scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/catchplay/scaffold)](https://github.com/catchplay/scaffold) - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 - [wangyoucao577/go-project-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/wangyoucao577/go-project-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/wangyoucao577/go-project-layout)](https://github.com/wangyoucao577/go-project-layout) - Set of practices and discussions on how to structure Go project layout.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ### Strings
 
