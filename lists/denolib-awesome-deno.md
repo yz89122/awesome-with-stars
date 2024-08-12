@@ -430,7 +430,7 @@ This list is a collection of the best Deno modules and resources.
   - [Slides](https://docs.google.com/presentation/d/1BjvZx5S8noVfFINptH4jfKfqh9jB9nXlFC0I3oIDtg4/edit)
 - [Rafał Pocztarski - What is Deno? A new runtime for modern JavaScript and TypeScript backends for 2020s - Deno Warsaw](https://www.youtube.com/watch?v=aI5A9zvYSjk)
 - [Michał Sabiniarz - How to contribute to Deno? - Deno Warsaw](https://www.youtube.com/watch?v=LAtjnKLbPpw)
-- [Bartek Iwa��czuk - Deno internals, how modern runtime is built - Deno Warsaw](https://www.youtube.com/watch?v=qt7fbmypAFk)
+- [Bartek Iwańczuk - Deno internals, how modern runtime is built - Deno Warsaw](https://www.youtube.com/watch?v=qt7fbmypAFk)
   - [Slides](https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing)
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 - [Bert Belder - Deno - dotJS 2019](https://www.youtube.com/watch?v=puXyo1jGQys)
@@ -455,7 +455,7 @@ This list is a collection of the best Deno modules and resources.
 - [《Deno进阶开发笔记》 ![GitHub Repo Stars](https://img.shields.io/github/stars/chenshenhai/deno_note) ![GitHub last commit](https://img.shields.io/github/last-commit/chenshenhai/deno_note)](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nugine/deno-manual-cn) ![GitHub last commit](https://img.shields.io/github/last-commit/Nugine/deno-manual-cn)](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
-- [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
+- [Node���父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
 
