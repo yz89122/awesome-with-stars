@@ -272,7 +272,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
 * 📝 [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
-* 📝 [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
+* �� [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
 * 📝 [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
 * 📝 [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
 
@@ -340,7 +340,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * 📝 [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * 📝 [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
-* ��� [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
+* 📝 [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
 
 ### Lie Algebras
 
@@ -435,11 +435,11 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
-* 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
+* ���� [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 * 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * 📝 [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
-* ��� [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
+* 📝 [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
 * 📝 [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * 📝 [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 * 📝 [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
@@ -479,7 +479,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 * 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
-* ���� [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
+* 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * 📝 [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * 📝 [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * 📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
@@ -489,7 +489,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
 * 📝 [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
-* 📝 [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
+* �� [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)

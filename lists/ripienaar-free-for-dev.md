@@ -194,7 +194,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic; also you have an ionic repo
-  * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
+  * [NotABug](https://notabug.org) �� NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
   * [OSDN](https://osdn.net/) - OSDN.net is a free-of-charge service for open-source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories.
   * [Pagure.io](https://pagure.io) — Pagure.io is a free and open source software code collaboration platform for FOSS-licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
@@ -444,7 +444,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Spectrum](https://spectrum.chat/) - Create public or private communities for free.
   * [StatusPile](https://www.statuspile.com/) - A status page of status pages. Could you track the status pages of your upstream providers?
   * [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, and 1 GB storage.
-  * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
+  * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer��to‑peer. No plugins, signup, or payment required
   * [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
   * [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.
   * [Tefter](https://tefter.io) - Bookmarking app with a powerful Slack integration. Free for open-source teams.
@@ -569,7 +569,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## CI and CD
 
-  * [AccessLint ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/accesslint) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/accesslint)](https://github.com/marketplace/accesslint) — AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
+  * [AccessLint ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/accesslint) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/accesslint)](https://github.com/marketplace/accesslint) ��� AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
   * [appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.
   * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
   * [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. The free tier allows unlimited apps and deployments for 5 domains and 2 users.
