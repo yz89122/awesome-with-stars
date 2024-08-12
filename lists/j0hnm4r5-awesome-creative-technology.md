@@ -155,7 +155,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**RGI Creative**](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;) | [Cleveland] | corporate experience design, museums exhibits and displays | [🌐](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;contactform)
 | [**Rosie Lee Creative**](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;) | [London] [Amsterdam] [NYC] | design, creative, digital and consultancy | [🌐](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;jobs)
 | [**S1T2**](https:&#x2F;&#x2F;s1t2.com&#x2F;) | [Sydney] [Melbourne] [Shanghai] | We create interactive experiences that immerse audiences in the future of storytelling through technology. | 
-| [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [��](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
+| [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [🌐](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
 | [**Seeeklab**](https:&#x2F;&#x2F;www.seeeklab.com&#x2F;en&#x2F;) | [Xiamen] | marketing events, interactive installation | 
 | [**Set Reset**](https:&#x2F;&#x2F;set-reset.com&#x2F;) | [London] | transforming data into compelling stories that fuel growth and create opportunity | 
 | [**SOSO**](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;) | [Boston] [San Diego] | delivering real human impact across physical and virtual space, placemaking and storytelling | [🌐](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;careers&#x2F;)
@@ -192,7 +192,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](mailto:jobs@vtprodesign.com)
 | [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
-| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](mailto:jobs@weareroyale.com)
+| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [��](mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation | [🌐](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;channels&#x2F;219.html)

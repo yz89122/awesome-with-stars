@@ -7,6 +7,7 @@
 [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://gophers.slack.com/messages/awesome)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-go/)
+[![Last Commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://img.shields.io/github/last-commit/avelino/awesome-go)
 
 We use the _[Golang Bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/gobridge/about-us) ![GitHub last commit](https://img.shields.io/github/last-commit/gobridge/about-us)](https://github.com/gobridge/about-us/blob/master/README.md)_ community Slack for instant communication, follow the [form here to join](https://invite.slack.golangbridge.org/).
 
@@ -1203,6 +1204,7 @@ _Awesome game development libraries._
 - [go3d ![GitHub Repo Stars](https://img.shields.io/github/stars/ungerik/go3d) ![GitHub last commit](https://img.shields.io/github/last-commit/ungerik/go3d)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 - [gonet ![GitHub Repo Stars](https://img.shields.io/github/stars/xtaci/gonet) ![GitHub last commit](https://img.shields.io/github/last-commit/xtaci/gonet)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 - [goworld ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaonanln/goworld) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaonanln/goworld)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
+- [grid ![GitHub Repo Stars](https://img.shields.io/github/stars/s0rg/grid) ![GitHub last commit](https://img.shields.io/github/last-commit/s0rg/grid)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
 - [Harfang3D ![GitHub Repo Stars](https://img.shields.io/github/stars/harfang3d/harfang3d) ![GitHub last commit](https://img.shields.io/github/last-commit/harfang3d/harfang3d)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev ![GitHub Repo Stars](https://img.shields.io/github/stars/harfang3d/harfang-go) ![GitHub last commit](https://img.shields.io/github/last-commit/harfang3d/harfang-go)](https://github.com/harfang3d/harfang-go)).
 - [Leaf ![GitHub Repo Stars](https://img.shields.io/github/stars/name5566/leaf) ![GitHub last commit](https://img.shields.io/github/last-commit/name5566/leaf)](https://github.com/name5566/leaf) - Lightweight game server framework.
 - [nano ![GitHub Repo Stars](https://img.shields.io/github/stars/lonng/nano) ![GitHub last commit](https://img.shields.io/github/last-commit/lonng/nano)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
