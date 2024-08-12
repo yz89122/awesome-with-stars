@@ -501,7 +501,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
-- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
+- [dogsled ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/dogsled) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/dogsled)](https://github.com/alexkohler/dogsled) �� Finds assignments/declarations with too many blank identifiers.
 
 - [dupl ![GitHub Repo Stars](https://img.shields.io/github/stars/mibk/dupl) ![GitHub last commit](https://img.shields.io/github/last-commit/mibk/dupl)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
@@ -860,7 +860,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
-- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) �� PHP spell check library.
+- [php-speller ![GitHub Repo Stars](https://img.shields.io/github/stars/mekras/php-speller) ![GitHub last commit](https://img.shields.io/github/last-commit/mekras/php-speller)](https://github.com/mekras/php-speller) — PHP spell check library.
 
 - [PHP-Token-Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/Andrewsville/PHP-Token-Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/Andrewsville/PHP-Token-Reflection)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
 
@@ -962,7 +962,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [Bowler](https://pybowler.io/) — Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
 
-- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: �� Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+- [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
 
 - [cohesion ![GitHub Repo Stars](https://img.shields.io/github/stars/mschwager/cohesion) ![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/cohesion)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
 

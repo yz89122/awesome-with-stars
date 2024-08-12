@@ -232,6 +232,7 @@
 - [quarto-dev/quarto-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
 - [iabdelkareem/csharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 - [jim-at-jibba/micropython.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jim-at-jibba/micropython.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jim-at-jibba/micropython.nvim)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
+- [neolooong/whichpy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 
 ### Golang
 
@@ -1027,6 +1028,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Nexmean/caskey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nexmean/caskey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nexmean/caskey.nvim)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 - [Wansmer/langmapper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Wansmer/langmapper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Wansmer/langmapper.nvim)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
 - [tris203/hawtkeys.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tris203/hawtkeys.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tris203/hawtkeys.nvim)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+- [mawkler/demicolon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mawkler/demicolon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mawkler/demicolon.nvim)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-textobjects)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 
 ## Mouse
 
