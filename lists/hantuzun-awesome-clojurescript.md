@@ -231,7 +231,7 @@
 - [Fulcro](http://fulcrologic.github.io/fulcro) – A library for development of single-page full-stack web applications in clj/cljs.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
-- [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
+- [Luminus](http://www.luminusweb.net/) �� It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato ![GitHub Repo Stars](https://img.shields.io/github/stars/macchiato-framework/macchiato-core) ![GitHub last commit](https://img.shields.io/github/last-commit/macchiato-framework/macchiato-core)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies ![GitHub Repo Stars](https://img.shields.io/github/stars/swannodette/mies) ![GitHub last commit](https://img.shields.io/github/last-commit/swannodette/mies)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 - [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.

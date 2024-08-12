@@ -1137,6 +1137,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [TensorSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/qoncept/TensorSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/qoncept/TensorSwift)](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
 - [DL4S ![GitHub Repo Stars](https://img.shields.io/github/stars/palle-k/DL4S) ![GitHub last commit](https://img.shields.io/github/last-commit/palle-k/DL4S)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
 - [SwiftCoreMLTools ![GitHub Repo Stars](https://img.shields.io/github/stars/JacopoMangiavacchi/SwiftCoreMLTools) ![GitHub last commit](https://img.shields.io/github/last-commit/JacopoMangiavacchi/SwiftCoreMLTools)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
+- [iOS-GenAI-Sampler ![GitHub Repo Stars](https://img.shields.io/github/stars/shu223/iOS-GenAI-Sampler) ![GitHub last commit](https://img.shields.io/github/last-commit/shu223/iOS-GenAI-Sampler)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
 
 **[back to top](#contributing-and-collaborating)**
 

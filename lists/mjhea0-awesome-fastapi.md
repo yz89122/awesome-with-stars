@@ -63,7 +63,7 @@
 
 #### ORMs
 
-- [Edgy ORM ![GitHub Repo Stars](https://img.shields.io/github/stars/tarsil/edgy) ![GitHub last commit](https://img.shields.io/github/last-commit/tarsil/edgy)](https://github.com/tarsil/edgy) - Complex databases made simple.
+- [Edgy ORM ![GitHub Repo Stars](https://img.shields.io/github/stars/dymmond/edgy) ![GitHub last commit](https://img.shields.io/github/last-commit/dymmond/edgy)](https://github.com/dymmond/edgy) - Complex databases made simple.
 - [FastAPI SQLAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/mfreeborn/fastapi-sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/mfreeborn/fastapi-sqlalchemy)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
 - [Fastapi-SQLA ![GitHub Repo Stars](https://img.shields.io/github/stars/dialoguemd/fastapi-sqla) ![GitHub last commit](https://img.shields.io/github/last-commit/dialoguemd/fastapi-sqla)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 - [FastAPIwee ![GitHub Repo Stars](https://img.shields.io/github/stars/Ignisor/FastAPIwee) ![GitHub last commit](https://img.shields.io/github/last-commit/Ignisor/FastAPIwee)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/peewee) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee) models.
@@ -157,7 +157,7 @@
 
 - [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation.
 - [Tutorial](https://fastapi.tiangolo.com/tutorial/) - Official tutorial showing you how to use FastAPI with most of its features, step by step.
-- [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/tiangolo/fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/fastapi)](https://github.com/tiangolo/fastapi) - Hosted on GitHub.
+- [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapi/fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi/fastapi)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
 - [Discord](https://discord.com/invite/VQjSZaeJmf) - Chat with other FastAPI users.
 
 ### External Resources
@@ -224,11 +224,12 @@
 
 (Platforms-as-a-Service)
 
-- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
-- [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Deta](https://www.deta.sh/) ([example](https://dev.to/athulcajay/fastapi-deta-ni5))
+- [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo ![GitHub Repo Stars](https://img.shields.io/github/stars/fly-apps/hello-fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/fly-apps/hello-fastapi)](https://github.com/fly-apps/hello-fastapi))
+- [Google App Engine](https://cloud.google.com/appengine/)
+- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 
 ### IaaS
 
@@ -258,7 +259,8 @@ Compute:
 
 ### Boilerplate
 
-- [Full Stack FastAPI and PostgreSQL - Base Project Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/tiangolo/full-stack-fastapi-template) ![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/full-stack-fastapi-template)](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application generator, which includes FastAPI, PostgreSQL, Docker, Celery, Vue frontend, automatic HTTPS and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
+- [Full Stack FastAPI and PostgreSQL - Base Project Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapi/full-stack-fastapi-template) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi/full-stack-fastapi-template)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
+, which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 - [FastAPI and Tortoise ORM ![GitHub Repo Stars](https://img.shields.io/github/stars/prostomarkeloff/fastapi-tortoise) ![GitHub last commit](https://img.shields.io/github/last-commit/prostomarkeloff/fastapi-tortoise)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
 - [FastAPI Model Server Skeleton ![GitHub Repo Stars](https://img.shields.io/github/stars/eightBEC/fastapi-ml-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/eightBEC/fastapi-ml-skeleton)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
 - [cookiecutter-spacy-fastapi ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/cookiecutter-spacy-fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/cookiecutter-spacy-fastapi)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
