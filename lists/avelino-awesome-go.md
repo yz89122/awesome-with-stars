@@ -347,7 +347,7 @@ _Libraries and tools help with build automation._
 
 _Libraries for building Console Applications and Console User Interfaces._
 
-- [asciigraph ![GitHub Repo Stars](https://img.shields.io/github/stars/guptarohit/asciigraph) ![GitHub last commit](https://img.shields.io/github/last-commit/guptarohit/asciigraph)](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [asciigraph ![GitHub Repo Stars](https://img.shields.io/github/stars/guptarohit/asciigraph) ![GitHub last commit](https://img.shields.io/github/last-commit/guptarohit/asciigraph)](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈�� in command line apps with no other dependencies.
 - [aurora ![GitHub Repo Stars](https://img.shields.io/github/stars/logrusorgru/aurora) ![GitHub last commit](https://img.shields.io/github/last-commit/logrusorgru/aurora)](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
 - [box-cli-maker ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/box-cli-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/box-cli-maker)](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 - [bubble-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Evertras/bubble-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Evertras/bubble-table)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
@@ -1280,6 +1280,7 @@ _Tools for managing and working with Goroutines._
 
 - [ants ![GitHub Repo Stars](https://img.shields.io/github/stars/panjf2000/ants) ![GitHub last commit](https://img.shields.io/github/last-commit/panjf2000/ants)](https://github.com/panjf2000/ants) - A high-performance and low-cost goroutine pool in Go.
 - [artifex ![GitHub Repo Stars](https://img.shields.io/github/stars/borderstech/artifex) ![GitHub last commit](https://img.shields.io/github/last-commit/borderstech/artifex)](https://github.com/borderstech/artifex) - Simple in-memory job queue for Golang using worker-based dispatching.
+- [async ![GitHub Repo Stars](https://img.shields.io/github/stars/yaitoo/async) ![GitHub last commit](https://img.shields.io/github/last-commit/yaitoo/async)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
 - [async ![GitHub Repo Stars](https://img.shields.io/github/stars/reugn/async) ![GitHub last commit](https://img.shields.io/github/last-commit/reugn/async)](https://github.com/reugn/async) - An alternative sync library for Go (Future, Promise, Locks).
 - [async ![GitHub Repo Stars](https://img.shields.io/github/stars/studiosol/async) ![GitHub last commit](https://img.shields.io/github/last-commit/studiosol/async)](https://github.com/studiosol/async) - A safe way to execute functions asynchronously, recovering them in case of panic.
 - [async-job ![GitHub Repo Stars](https://img.shields.io/github/stars/lab210-dev/async-job) ![GitHub last commit](https://img.shields.io/github/last-commit/lab210-dev/async-job)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
@@ -1337,6 +1338,7 @@ _Libraries for building GUI Applications._
 _Toolkits_
 
 - [app ![GitHub Repo Stars](https://img.shields.io/github/stars/murlokswarm/app) ![GitHub last commit](https://img.shields.io/github/last-commit/murlokswarm/app)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
+- [Cogent Core ![GitHub Repo Stars](https://img.shields.io/github/stars/cogentcore/core) ![GitHub last commit](https://img.shields.io/github/last-commit/cogentcore/core)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 - [DarwinKit ![GitHub Repo Stars](https://img.shields.io/github/stars/progrium/darwinkit) ![GitHub last commit](https://img.shields.io/github/last-commit/progrium/darwinkit)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 - [energy ![GitHub Repo Stars](https://img.shields.io/github/stars/energye/energy) ![GitHub last commit](https://img.shields.io/github/last-commit/energye/energy)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
 - [fyne ![GitHub Repo Stars](https://img.shields.io/github/stars/fyne-io/fyne) ![GitHub last commit](https://img.shields.io/github/last-commit/fyne-io/fyne)](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
