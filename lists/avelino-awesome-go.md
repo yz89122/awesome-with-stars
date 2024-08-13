@@ -1462,6 +1462,7 @@ _Libraries for programming devices of the IoT._
 - [mainflux ![GitHub Repo Stars](https://img.shields.io/github/stars/Mainflux/mainflux) ![GitHub last commit](https://img.shields.io/github/last-commit/Mainflux/mainflux)](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
 - [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 - [sensorbee ![GitHub Repo Stars](https://img.shields.io/github/stars/sensorbee/sensorbee) ![GitHub last commit](https://img.shields.io/github/last-commit/sensorbee/sensorbee)](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
+- [shifu ![GitHub Repo Stars](https://img.shields.io/github/stars/Edgenesis/shifu) ![GitHub last commit](https://img.shields.io/github/last-commit/Edgenesis/shifu)](https://github.com/Edgenesis/shifu) - Kubernetes native IoT development framework.
 - [smart-home ![GitHub Repo Stars](https://img.shields.io/github/stars/e154/smart-home) ![GitHub last commit](https://img.shields.io/github/last-commit/e154/smart-home)](https://github.com/e154/smart-home) - Software package for IoT automation.
 
 **[⬆ back to top](#contents)**
