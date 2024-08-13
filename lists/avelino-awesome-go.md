@@ -75,6 +75,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
   - [Configuration](#configuration)
   - [Continuous Integration](#continuous-integration)
   - [CSS Preprocessors](#css-preprocessors)
+  - [Data Integration Frameworks](#data-integration-frameworks)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
     - [Bit-packing and Compression](#bit-packing-and-compression)
     - [Bit Sets](#bit-sets)
@@ -538,6 +539,16 @@ _Libraries for preprocessing CSS files._
 
 - [gcss ![GitHub Repo Stars](https://img.shields.io/github/stars/yosssi/gcss) ![GitHub last commit](https://img.shields.io/github/last-commit/yosssi/gcss)](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
 - [go-libsass ![GitHub Repo Stars](https://img.shields.io/github/stars/wellington/go-libsass) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/go-libsass)](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
+
+**[⬆ back to top](#contents)**
+
+## Data Integration Frameworks
+
+_Frameworks for performing ELT / ETL_
+
+- [Benthos ![GitHub Repo Stars](https://img.shields.io/github/stars/benthosdev/benthos) ![GitHub last commit](https://img.shields.io/github/last-commit/benthosdev/benthos)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
+- [CloudQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudquery/cloudquery) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudquery/cloudquery)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
+- [omniparser ![GitHub Repo Stars](https://img.shields.io/github/stars/jf-tech/omniparser) ![GitHub last commit](https://img.shields.io/github/last-commit/jf-tech/omniparser)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 
 **[⬆ back to top](#contents)**
 
@@ -1651,7 +1662,6 @@ _Libraries that implement messaging systems._
 - [APNs2 ![GitHub Repo Stars](https://img.shields.io/github/stars/sideshow/apns2) ![GitHub last commit](https://img.shields.io/github/last-commit/sideshow/apns2)](https://github.com/sideshow/apns2) - HTTP/2 Apple Push Notification provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps.
 - [Asynq ![GitHub Repo Stars](https://img.shields.io/github/stars/hibiken/asynq) ![GitHub last commit](https://img.shields.io/github/last-commit/hibiken/asynq)](https://github.com/hibiken/asynq) - A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
 - [Beaver ![GitHub Repo Stars](https://img.shields.io/github/stars/Clivern/Beaver) ![GitHub last commit](https://img.shields.io/github/last-commit/Clivern/Beaver)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
-- [Benthos ![GitHub Repo Stars](https://img.shields.io/github/stars/Jeffail/benthos) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeffail/benthos)](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
 - [Bus ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaturan/bus) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaturan/bus)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
 - [Centrifugo ![GitHub Repo Stars](https://img.shields.io/github/stars/centrifugal/centrifugo) ![GitHub last commit](https://img.shields.io/github/last-commit/centrifugal/centrifugo)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 - [Chanify ![GitHub Repo Stars](https://img.shields.io/github/stars/chanify/chanify) ![GitHub last commit](https://img.shields.io/github/last-commit/chanify/chanify)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
@@ -2510,7 +2520,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [gonameparts ![GitHub Repo Stars](https://img.shields.io/github/stars/polera/gonameparts) ![GitHub last commit](https://img.shields.io/github/last-commit/polera/gonameparts)](https://github.com/polera/gonameparts) - Parses human names into individual name parts.
 - [ltsv ![GitHub Repo Stars](https://img.shields.io/github/stars/Wing924/ltsv) ![GitHub last commit](https://img.shields.io/github/last-commit/Wing924/ltsv)](https://github.com/Wing924/ltsv) - High performance [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) reader for Go.
 - [normalize ![GitHub Repo Stars](https://img.shields.io/github/stars/avito-tech/normalize) ![GitHub last commit](https://img.shields.io/github/last-commit/avito-tech/normalize)](https://github.com/avito-tech/normalize) - Sanitize, normalize and compare fuzzy text.
-- [omniparser ![GitHub Repo Stars](https://img.shields.io/github/stars/jf-tech/omniparser) ![GitHub last commit](https://img.shields.io/github/last-commit/jf-tech/omniparser)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 - [parseargs-go ![GitHub Repo Stars](https://img.shields.io/github/stars/nproc/parseargs-go) ![GitHub last commit](https://img.shields.io/github/last-commit/nproc/parseargs-go)](https://github.com/nproc/parseargs-go) - string argument parser that understands quotes and backslashes.
 - [parth ![GitHub Repo Stars](https://img.shields.io/github/stars/codemodus/parth) ![GitHub last commit](https://img.shields.io/github/last-commit/codemodus/parth)](https://github.com/codemodus/parth) - URL path segmentation parsing.
 - [prattle ![GitHub Repo Stars](https://img.shields.io/github/stars/askeladdk/prattle) ![GitHub last commit](https://img.shields.io/github/last-commit/askeladdk/prattle)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
@@ -2865,6 +2874,7 @@ _General utilities and tools to make your life easier._
 
 _Libraries for working with UUIDs._
 
+- [fastuuid ![GitHub Repo Stars](https://img.shields.io/github/stars/rekby/fastuuid) ![GitHub last commit](https://img.shields.io/github/last-commit/rekby/fastuuid)](https://github.com/rekby/fastuuid) - Fast generate UUIDv4 as string or bytes.
 - [goid ![GitHub Repo Stars](https://img.shields.io/github/stars/jakehl/goid) ![GitHub last commit](https://img.shields.io/github/last-commit/jakehl/goid)](https://github.com/jakehl/goid) - Generate and Parse RFC4122 compliant V4 UUIDs.
 - [gouid ![GitHub Repo Stars](https://img.shields.io/github/stars/twharmon/gouid) ![GitHub last commit](https://img.shields.io/github/last-commit/twharmon/gouid)](https://github.com/twharmon/gouid) - Generate cryptographically secure random string IDs with just one allocation.
 - [nanoid ![GitHub Repo Stars](https://img.shields.io/github/stars/aidarkhanov/nanoid) ![GitHub last commit](https://img.shields.io/github/last-commit/aidarkhanov/nanoid)](https://github.com/aidarkhanov/nanoid) - A tiny and efficient Go unique string ID generator.
