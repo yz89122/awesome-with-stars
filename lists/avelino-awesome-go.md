@@ -2367,8 +2367,8 @@ _Libraries for testing codebases and generating test data._
 ### Testing Frameworks
 
 - [apitest](https://apitest.dev) - Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of sequence diagrams.
+- [arch-go ![GitHub Repo Stars](https://img.shields.io/github/stars/fdaines/arch-go) ![GitHub last commit](https://img.shields.io/github/last-commit/fdaines/arch-go)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
 - [assert ![GitHub Repo Stars](https://img.shields.io/github/stars/go-playground/assert) ![GitHub last commit](https://img.shields.io/github/last-commit/go-playground/assert)](https://github.com/go-playground/assert) - Basic Assertion Library used along side native go testing, with building blocks for custom assertions.
-- [badio ![GitHub Repo Stars](https://img.shields.io/github/stars/cavaliercoder/badio) ![GitHub last commit](https://img.shields.io/github/last-commit/cavaliercoder/badio)](https://github.com/cavaliercoder/badio) - Extensions to Go's `testing/iotest` package.
 - [baloo ![GitHub Repo Stars](https://img.shields.io/github/stars/h2non/baloo) ![GitHub last commit](https://img.shields.io/github/last-commit/h2non/baloo)](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy.
 - [be ![GitHub Repo Stars](https://img.shields.io/github/stars/carlmjohnson/be) ![GitHub last commit](https://img.shields.io/github/last-commit/carlmjohnson/be)](https://github.com/carlmjohnson/be) - The minimalist generic test assertion library.
 - [biff ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldump/biff) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldump/biff)](https://github.com/fulldump/biff) - Bifurcation testing framework, BDD compatible.
