@@ -293,7 +293,9 @@
 
 ## Distributions
 
+* [nixbsd ![GitHub Repo Stars](https://img.shields.io/github/stars/nixos-bsd/nixbsd) ![GitHub last commit](https://img.shields.io/github/last-commit/nixos-bsd/nixbsd)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
 * [NixNG ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixNG) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixNG)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+* [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## Community
 
