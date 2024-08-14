@@ -387,7 +387,7 @@ Meteo
 
 ### Device
 
-- [WebView ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-flitter/flutter_webview_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-flitter/flutter_webview_plugin)](https://github.com/dart-flitter/flutter_webview_plugin) [1475��] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
+- [WebView ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-flitter/flutter_webview_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-flitter/flutter_webview_plugin)](https://github.com/dart-flitter/flutter_webview_plugin) [1475⭐] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [Location ![GitHub Repo Stars](https://img.shields.io/github/stars/Lyokone/flutterlocation) ![GitHub last commit](https://img.shields.io/github/last-commit/Lyokone/flutterlocation)](https://github.com/Lyokone/flutterlocation) [1074⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
 - [Geolocation ![GitHub Repo Stars](https://img.shields.io/github/stars/loup-v/geolocation) ![GitHub last commit](https://img.shields.io/github/last-commit/loup-v/geolocation)](https://github.com/loup-v/geolocation) [225⭐] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
