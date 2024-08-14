@@ -576,7 +576,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [revive](https://revive.run) — Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 
-- [safesql ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/safesql) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/safesql)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
+- [safesql ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/safesql) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/safesql)](https://github.com/stripe/safesql) :warning: ��� Static analysis tool for Golang that protects against SQL injections.
 
 - [shisho ![GitHub Repo Stars](https://img.shields.io/github/stars/flatt-security/shisho) ![GitHub last commit](https://img.shields.io/github/last-commit/flatt-security/shisho)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
@@ -802,7 +802,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer/) — Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-- [churn-php ![GitHub Repo Stars](https://img.shields.io/github/stars/bmitch/churn-php) ![GitHub last commit](https://img.shields.io/github/last-commit/bmitch/churn-php)](https://github.com/bmitch/churn-php) �� Helps discover good candidates for refactoring.
+- [churn-php ![GitHub Repo Stars](https://img.shields.io/github/stars/bmitch/churn-php) ![GitHub last commit](https://img.shields.io/github/last-commit/bmitch/churn-php)](https://github.com/bmitch/churn-php) — Helps discover good candidates for refactoring.
 
 - [composer-dependency-analyser ![GitHub Repo Stars](https://img.shields.io/github/stars/shipmonk-rnd/composer-dependency-analyser) ![GitHub last commit](https://img.shields.io/github/last-commit/shipmonk-rnd/composer-dependency-analyser)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 
