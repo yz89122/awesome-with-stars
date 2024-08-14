@@ -703,7 +703,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   3–5 |        12 | 90–150 Min |
+|   3–5 |        12 | 90���150 Min |
 
 
 ### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
