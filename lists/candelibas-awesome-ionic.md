@@ -72,7 +72,6 @@ An "awesome" list of the Ionic resources
 * [Authenticate Ionic with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
 
 #### Unit Testing
-* [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
 * [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 * [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
@@ -167,6 +166,7 @@ An "awesome" list of the Ionic resources
 * [Ionic 4 Google login with Firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/enappd/Ionic-4-google-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/enappd/Ionic-4-google-auth)](https://github.com/enappd/Ionic-4-google-auth) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) [NEW]
 * [Translation in Ionic 4 - Internationalization and localization ![GitHub Repo Stars](https://img.shields.io/github/stars/enappd/ionic4-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/enappd/ionic4-i18n)](https://github.com/enappd/ionic4-i18n) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) [NEW]
 * [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) [NEW]
+* [Ionic Timer App ![GitHub Repo Stars](https://img.shields.io/github/stars/imjohnbo/ionic2-timer) ![GitHub last commit](https://img.shields.io/github/last-commit/imjohnbo/ionic2-timer)](https://github.com/imjohnbo/ionic2-timer)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
