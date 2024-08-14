@@ -811,6 +811,7 @@ become an Angular expert.
 * [ngu-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/uiuniversal/ngu-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/uiuniversal/ngu-flow)](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
 * [highcharts-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/highcharts/highcharts-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/highcharts/highcharts-angular)](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [angular-highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/cebor/angular-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/cebor/angular-highcharts)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
+* [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
 #### Dates
 
