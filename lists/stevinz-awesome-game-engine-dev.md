@@ -927,7 +927,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Clipboard.js ![GitHub Repo Stars](https://img.shields.io/github/stars/zenorocha/clipboard.js) ![GitHub last commit](https://img.shields.io/github/last-commit/zenorocha/clipboard.js)](https://github.com/zenorocha/clipboard.js) - Small, modern copy to clipboard.
     - 🎉 [Day.js ![GitHub Repo Stars](https://img.shields.io/github/stars/iamkun/dayjs) ![GitHub last commit](https://img.shields.io/github/last-commit/iamkun/dayjs)](https://github.com/iamkun/dayjs) - Fast 2kB alternative to [Moment.js ![GitHub Repo Stars](https://img.shields.io/github/stars/moment/moment) ![GitHub last commit](https://img.shields.io/github/last-commit/moment/moment)](https://github.com/moment/moment) with the same modern API.
     - 🎉 [i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/i18next/i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/i18next/i18next)](https://github.com/i18next/i18next) - Popular internationalization framework.
-    - 🎉 [jQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/jquery/jquery) ![GitHub last commit](https://img.shields.io/github/last-commit/jquery/jquery)](https://github.com/jquery/jquery) - Fast and feature-rich JavaScript library. [[Website](https://jquery.com)]
+    - ��� [jQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/jquery/jquery) ![GitHub last commit](https://img.shields.io/github/last-commit/jquery/jquery)](https://github.com/jquery/jquery) - Fast and feature-rich JavaScript library. [[Website](https://jquery.com)]
     - 🎉 [PreloadJS ![GitHub Repo Stars](https://img.shields.io/github/stars/CreateJS/PreloadJS) ![GitHub last commit](https://img.shields.io/github/last-commit/CreateJS/PreloadJS)](https://github.com/CreateJS/PreloadJS) - Preloading assets w/progress events.
     - 🎉 [Struct Vec ![GitHub Repo Stars](https://img.shields.io/github/stars/moomoolive/struct-vec) ![GitHub last commit](https://img.shields.io/github/last-commit/moomoolive/struct-vec)](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - JavaScript: Timeline
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
