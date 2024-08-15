@@ -898,7 +898,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Search
 
   * [algolia.com](https://www.algolia.com/) — Hosted search solution with typo-tolerance, relevance, and UI libraries to easily create search experiences. The free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
-  * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
+  * [bonsai.io](https://bonsai.io/) ��� Free 1 GB memory and 1 GB storage
   * [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.
   * [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g. in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
@@ -1674,7 +1674,7 @@ Update Time, five active automations, webhooks.
   * [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
   * [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
   * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
-  * [mockaroo](https://mockaroo.com/) — Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
+  * [mockaroo](https://mockaroo.com/) ��� Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
   * [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
   * [Paiza](https://paiza.cloud/en/) — Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
   * [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript, and TypeScript out of the box, reloads your browsers and makes it easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
