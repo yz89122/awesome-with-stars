@@ -791,6 +791,7 @@ become an Angular expert.
 * [ngx-drag-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/bfwg/ngx-drag-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/bfwg/ngx-drag-scroll)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 * [ng-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-slider)](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 * [keen-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/rcbyr/keen-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/rcbyr/keen-slider)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
+* [ngx-darkbox-gallery-library ![GitHub Repo Stars](https://img.shields.io/github/stars/failed-successfully/ngx-darkbox-gallery-library) ![GitHub last commit](https://img.shields.io/github/last-commit/failed-successfully/ngx-darkbox-gallery-library)](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
 
 #### Charts
 
