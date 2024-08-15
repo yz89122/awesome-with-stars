@@ -106,7 +106,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### Development & Programming
 
 - [Kate](https://kate-editor.org/) - Kate is a Feature-Packed Code Editor with advanced support for LSP, Syntax Highlighting, multi-cursoe and more 📌.
-- [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP 📌.
+- [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP ���.
 - [Kompare](https://apps.kde.org/kompare/) - A diff/patch frontend 📌.
 - [Okteta](https://apps.kde.org/okteta/) - Hex Editor 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
@@ -139,7 +139,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### KCM Modules and Systems
 
 - [kcm-wacomtablet](https://invent.kde.org/plasma/wacomtablet/) - KDE GUI for the Wacom Linux Drivers 📌.
-- [kde-gtk-config](https://invent.kde.org/plasma/kde-gtk-config) - GTK2 and GTK3 Configurator for KDE 📌.
+- [kde-gtk-config](https://invent.kde.org/plasma/kde-gtk-config) - GTK2 and GTK3 Configurator for KDE ����.
 - [kded_rotation ![GitHub Repo Stars](https://img.shields.io/github/stars/dos1/kded_rotation) ![GitHub last commit](https://img.shields.io/github/last-commit/dos1/kded_rotation)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 
 #### Themes
