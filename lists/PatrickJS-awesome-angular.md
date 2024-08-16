@@ -851,6 +851,7 @@ become an Angular expert.
 * [ngx-pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/danrevah/ngx-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/danrevah/ngx-pipes)](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
 * [nglrx/pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/nglrx/pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/nglrx/pipes)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 * [ng-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-helpers)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
+* [ng-condition ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-condition) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-condition)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 
 #### Drag and Drop
 
@@ -1067,6 +1068,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-ru-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular-RU/angular-ru-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular-RU/angular-ru-sdk)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
 * [dfts-common ![GitHub Repo Stars](https://img.shields.io/github/stars/Dafnik/dfts-common) ![GitHub last commit](https://img.shields.io/github/last-commit/Dafnik/dfts-common)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
 * [sba-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sinequa/sba-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sinequa/sba-angular)](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
+* [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 
 #### Modals
 
