@@ -156,6 +156,7 @@
 
 ### Automation
 - [Puppeteer IDE ![GitHub Repo Stars](https://img.shields.io/github/stars/gajananpp/puppeteer-ide-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/gajananpp/puppeteer-ide-extension)](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
+- [k6 browser ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/xk6-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/xk6-browser)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
 
 ## Alumni
 Old projects, likely not maintained any longer… But still cool.
