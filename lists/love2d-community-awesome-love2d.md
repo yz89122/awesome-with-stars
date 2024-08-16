@@ -62,7 +62,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Animation
 *Animation & Frame-Managing Libraries*
 
-* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a L��ve backend.
+* [andross ![GitHub Repo Stars](https://img.shields.io/github/stars/pfirsich/andross) ![GitHub last commit](https://img.shields.io/github/last-commit/pfirsich/andross)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [anim8 ![GitHub Repo Stars](https://img.shields.io/github/stars/kikito/anim8) ![GitHub last commit](https://img.shields.io/github/last-commit/kikito/anim8)](https://github.com/kikito/anim8) - Animation library.
 * [animx ![GitHub Repo Stars](https://img.shields.io/github/stars/YoungNeer/animx) ![GitHub last commit](https://img.shields.io/github/last-commit/YoungNeer/animx)](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
 * [Aseprite loader ![GitHub Repo Stars](https://img.shields.io/github/stars/elloramir/love-ase) ![GitHub last commit](https://img.shields.io/github/last-commit/elloramir/love-ase)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
@@ -324,7 +324,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Patchy ![GitHub Repo Stars](https://img.shields.io/github/stars/excessive/patchy) ![GitHub last commit](https://img.shields.io/github/last-commit/excessive/patchy)](https://github.com/excessive/patchy) - 9patch library.
 * [Slicy ![GitHub Repo Stars](https://img.shields.io/github/stars/wqferr/slicy) ![GitHub last commit](https://img.shields.io/github/last-commit/wqferr/slicy)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan ![GitHub Repo Stars](https://img.shields.io/github/stars/zombrodo/plan) ![GitHub last commit](https://img.shields.io/github/last-commit/zombrodo/plan)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
-* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
+* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the L��VE game engine.
 * [SafeWord ![GitHub Repo Stars](https://img.shields.io/github/stars/josefnpat/safeword) ![GitHub last commit](https://img.shields.io/github/last-commit/josefnpat/safeword)](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
 * [Slab ![GitHub Repo Stars](https://img.shields.io/github/stars/flamendless/Slab) ![GitHub last commit](https://img.shields.io/github/last-commit/flamendless/Slab)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/SUIT) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/SUIT)](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
