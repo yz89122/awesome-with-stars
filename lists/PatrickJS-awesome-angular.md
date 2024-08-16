@@ -547,6 +547,7 @@ become an Angular expert.
 * [@ngify/http ![GitHub Repo Stars](https://img.shields.io/github/stars/ngify/ngify) ![GitHub last commit](https://img.shields.io/github/last-commit/ngify/ngify)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 * [ngx-http-annotations ![GitHub Repo Stars](https://img.shields.io/github/stars/manudss/ngx-http-annotations) ![GitHub last commit](https://img.shields.io/github/last-commit/manudss/ngx-http-annotations)](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Mixalloff/ngx-http-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Mixalloff/ngx-http-rest)](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 * [ng-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/ng-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/ng-http-loader)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
+* [ngx-signalify ![GitHub Repo Stars](https://img.shields.io/github/stars/alcfeoh/ngx-signalify) ![GitHub last commit](https://img.shields.io/github/last-commit/alcfeoh/ngx-signalify)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 
 #### Integrations
 
@@ -1092,6 +1093,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [dfts-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/Dafnik/dfts-common) ![GitHub last commit](https://img.shields.io/github/last-commit/Dafnik/dfts-common)](https://github.com/Dafnik/dfts-common/tree/main/libs/dfts-qrcode) - A tiny and simple-to-use JavaScript / TypeScript QR-Code generator library. Fully type-safe and ES modules compatible.
 * [ngx-scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing-js/ngx-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing-js/ngx-scanner)](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
 * [qrcode.angular ![GitHub Repo Stars](https://img.shields.io/github/stars/OriginRing/qrcode.angular) ![GitHub last commit](https://img.shields.io/github/last-commit/OriginRing/qrcode.angular)](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
+* [ng-qrcode-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-qrcode-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-qrcode-svg)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 
 #### Scroll
 
