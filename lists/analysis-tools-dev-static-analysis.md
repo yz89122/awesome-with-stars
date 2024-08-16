@@ -240,7 +240,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
 
-- [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
+- [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
 - [Frama-C](https://www.frama-c.com) — A sound and extensible static analyzer for C code.
 
@@ -340,7 +340,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [flawfinder](http://dwheeler.com/flawfinder/) :warning: — Finds possible security weaknesses.
 
-- [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
+- [flint++ ![GitHub Repo Stars](https://img.shields.io/github/stars/JossWhittle/FlintPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/JossWhittle/FlintPlusPlus)](https://github.com/JossWhittle/FlintPlusPlus) :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
 - [Frama-C](https://www.frama-c.com) — A sound and extensible static analyzer for C code.
 
@@ -916,7 +916,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
-- [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) — A static analysis engine.
+- [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) ��� A static analysis engine.
 
 - [twig-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/asm89/twig-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/asm89/twig-lint)](https://github.com/asm89/twig-lint) — twig-lint is a lint tool for your twig files.
 

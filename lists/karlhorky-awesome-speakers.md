@@ -495,7 +495,7 @@ https://twitter.com/varya_en
 Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 https://twitter.com/bebraw
 
-## France ����🇷
+## France 🇫🇷
 
 ### Lille
 
@@ -1145,7 +1145,7 @@ https://twitter.com/luisabrpereira
 Topics: Ember, JavaScript\
 https://twitter.com/maskedwarrior
 
-## Romania 🇷🇴
+## Romania ����🇴
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/martonkodok" height="70px" width="70px" align="left" alt="" />
 
