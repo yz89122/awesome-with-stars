@@ -916,7 +916,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
-- [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) — A static analysis engine.
+- [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) ��� A static analysis engine.
 
 - [twig-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/asm89/twig-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/asm89/twig-lint)](https://github.com/asm89/twig-lint) — twig-lint is a lint tool for your twig files.
 
@@ -1050,7 +1050,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 
-- [goodpractice](https://mangothecat.github.io/goodpractice) �� Analyses the source code for R packages and provides best-practice recommendations.
+- [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
