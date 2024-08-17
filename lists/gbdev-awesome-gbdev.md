@@ -485,7 +485,7 @@ Complete and open source games.
 ## Reverse Engineering
 
 - [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-- [pokemontools ![GitHub Repo Stars](https://img.shields.io/github/stars/pret/pokemon-reverse-engineering-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokemon-reverse-engineering-tools)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pok��mon games.
+- [pokemontools ![GitHub Repo Stars](https://img.shields.io/github/stars/pret/pokemon-reverse-engineering-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pret/pokemon-reverse-engineering-tools)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 - [Reverse Engineering the GameBoy Tetris ![GitHub Repo Stars](https://img.shields.io/github/stars/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris) ![GitHub last commit](https://img.shields.io/github/last-commit/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
