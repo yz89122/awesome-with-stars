@@ -195,7 +195,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 ### Posts
 
-- **[I��m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
+- **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
 
   The challenge that started it all for Pieter. It inspired me to do something similar. What matters is to create and ship a lot, learning in the process, until something is worth pushing further.
 
