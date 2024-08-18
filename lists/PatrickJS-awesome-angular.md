@@ -405,6 +405,7 @@ become an Angular expert.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [angular-webxr-art-sample ![GitHub Repo Stars](https://img.shields.io/github/stars/google-gemini/angular-webxr-art-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/google-gemini/angular-webxr-art-sample)](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
+* [deep-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/deep-chat)](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 
 #### Analytics
 
@@ -548,6 +549,7 @@ become an Angular expert.
 * [ngx-http-annotations ![GitHub Repo Stars](https://img.shields.io/github/stars/manudss/ngx-http-annotations) ![GitHub last commit](https://img.shields.io/github/last-commit/manudss/ngx-http-annotations)](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Mixalloff/ngx-http-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Mixalloff/ngx-http-rest)](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 * [ng-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/ng-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/ng-http-loader)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [ngx-signalify ![GitHub Repo Stars](https://img.shields.io/github/stars/alcfeoh/ngx-signalify) ![GitHub last commit](https://img.shields.io/github/last-commit/alcfeoh/ngx-signalify)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+* [angular-odata ![GitHub Repo Stars](https://img.shields.io/github/stars/diegomvh/angular-odata) ![GitHub last commit](https://img.shields.io/github/last-commit/diegomvh/angular-odata)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 
 #### Integrations
 
