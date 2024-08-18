@@ -3574,7 +3574,7 @@ _Where to discover new Go libraries._
 - [Golang Turkey](https://kommunity.com/goturkiye)
 - [Golang Vancouver, BC](https://www.meetup.com/golangvan/)
 - [Golang Vienna, Austria](https://www.meetup.com/viennago/)
-- [Golang ��осква](https://www.meetup.com/Golang-Moscow/)
+- [Golang Москва](https://www.meetup.com/Golang-Moscow/)
 - [GoSF - San Francisco, CA](https://www.meetup.com/golangsf)
 - [Istanbul Golang](https://www.meetup.com/Istanbul-Golang/)
 - [Lagos Gophers](https://www.meetup.com/GolangNigeria/)
