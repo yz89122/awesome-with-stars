@@ -839,10 +839,10 @@ Libraries to help manage database schemas and migrations.
 * [ClassPreloader ![GitHub Repo Stars](https://img.shields.io/github/stars/ClassPreloader/ClassPreloader) ![GitHub last commit](https://img.shields.io/github/last-commit/ClassPreloader/ClassPreloader)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 * [Ganesha ![GitHub Repo Stars](https://img.shields.io/github/stars/ackintosh/ganesha) ![GitHub last commit](https://img.shields.io/github/last-commit/ackintosh/ganesha)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 * [Hprose-PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/hprose/hprose-php) ![GitHub last commit](https://img.shields.io/github/last-commit/hprose/hprose-php)](https://github.com/hprose/hprose-php) - A cross-language RPC.
+* [Laravel Serializable Closure ![GitHub Repo Stars](https://img.shields.io/github/stars/laravel/serializable-closure) ![GitHub last commit](https://img.shields.io/github/last-commit/laravel/serializable-closure)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA ![GitHub Repo Stars](https://img.shields.io/github/stars/ARCANEDEV/noCAPTCHA) ![GitHub last commit](https://img.shields.io/github/last-commit/ARCANEDEV/noCAPTCHA)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta ![GitHub Repo Stars](https://img.shields.io/github/stars/whiteoctober/Pagerfanta) ![GitHub last commit](https://img.shields.io/github/last-commit/whiteoctober/Pagerfanta)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodingmachine/safe) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodingmachine/safe)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
-* [SuperClosure ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremeamia/super_closure) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremeamia/super_closure)](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 # Software
 *Software for creating a development environment.*
