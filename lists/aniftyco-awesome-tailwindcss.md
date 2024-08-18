@@ -166,7 +166,7 @@
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- 💙��� [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+- 💙📚 [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
 - 📚 [VueTailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
@@ -202,7 +202,7 @@
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker ![GitHub Repo Stars](https://img.shields.io/github/stars/kenhyuwa/litepie-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/kenhyuwa/litepie-datepicker)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
-- 🧩 [Tailwind Datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/tailwind-datepicker)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+- ���� [Tailwind Datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/tailwind-datepicker)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 - 🧩 [Tailwind Typeahead ![GitHub Repo Stars](https://img.shields.io/github/stars/basarozcan/vue-tailwindcss-typeahead) ![GitHub last commit](https://img.shields.io/github/last-commit/basarozcan/vue-tailwindcss-typeahead)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 - 🧩 [Material Tailwind](https://material-tailwind.com) - Easy to use components library for Tailwind CSS and Material Design.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
