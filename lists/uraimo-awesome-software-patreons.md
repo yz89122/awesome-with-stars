@@ -260,7 +260,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Matthieu Napoli ![GitHub Repo Stars](https://img.shields.io/github/stars/users/mnapoli) ![GitHub last commit](https://img.shields.io/github/last-commit/users/mnapoli)](https://github.com/users/mnapoli/sponsorship) - Bref, PHP-DI and other PHP libraries.
 - [Max Bridgland ![GitHub Repo Stars](https://img.shields.io/github/stars/users/M4cs) ![GitHub last commit](https://img.shields.io/github/last-commit/users/M4cs)](https://github.com/users/M4cs/sponsorship) - Various pentesting frameworks and tools.
 - [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
-- [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
+- [Michal Čiha��](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nick Sweeting ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/pirate) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/pirate)](https://github.com/sponsors/pirate) - ArchiveBox and OSS contributions but also articles and documentation.
 - [Nicolas Hafner ![GitHub Repo Stars](https://img.shields.io/github/stars/users/Shinmera) ![GitHub last commit](https://img.shields.io/github/last-commit/users/Shinmera)](https://github.com/users/Shinmera/sponsorship) - Various Common Lisp libraries.
