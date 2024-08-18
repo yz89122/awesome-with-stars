@@ -112,7 +112,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93) | Saylor Academy |Professional|42 | 🏆|
-| [REST API](https://www.hackerrank.com/skills-verification/rest_api_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
+| [REST API](https://www.hackerrank.com/skills-verification/rest_api_intermediate) | HackerRank |Intermediate| 1.5 | ��|
 | [MongoDB Basics](https://university.mongodb.com/courses/M001/about) | MongoDB |Beginner| 8.5 | 🏆|
 | [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about) | MongoDB |Beginner| 2 | 🏆|
 | [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | 🏆|
@@ -183,7 +183,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Career in Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science) | Great Learning |Beginner| 1 | 🏆 |
 | [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science) | Great Learning |Beginner| 1 | 🏆 |
 | [Data Science Mathematics](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics) | Great Learning |Beginner| 1 | 🏆 |
-| [R for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
+| [R for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science) | Great Learning |Beginner| 2 | ���� |
 | [Statistical Methods for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making) | Great Learning |Beginner| 2 | 🏆 |
 | [Probability for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
 | [Data Preprocessing](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-preprocessing) | Great Learning |Beginner| 2 | 🏆 |
