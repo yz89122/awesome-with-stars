@@ -389,7 +389,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * 📝 [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
-* ��� [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
+* 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
 * 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * 📝 [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
@@ -604,7 +604,7 @@ All resources are freely available except those with a 💲 icon.
 ## Mathematical Physics
 
 * 📝 [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
-* 📝 [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
+* �� [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * 📝 [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 # Students Lecture Notes
