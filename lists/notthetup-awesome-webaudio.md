@@ -107,6 +107,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 - [Percussion Synthesis Using Web Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/irritant/WAC-2016-Tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/irritant/WAC-2016-Tutorial)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 - [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
+- [audio-katas ![GitHub Repo Stars](https://img.shields.io/github/stars/survivejs/audio-katas) ![GitHub last commit](https://img.shields.io/github/last-commit/survivejs/audio-katas)](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
 
 ### Books
 
