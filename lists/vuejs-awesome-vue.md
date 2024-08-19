@@ -9,6 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
+- [Awesome Vue.js  ](#awesome-vuejs--)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -31,7 +32,7 @@
   - [Interactive Experiences](#interactive-experiences)
   - [Enterprise Usage](#enterprise-usage)
   - [A11y](#a11y)
-- [Components & Libraries](#components--libraries)
+- [Components \& Libraries](#components--libraries)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
     - [Mobile](#mobile)
@@ -343,7 +344,7 @@
 - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) on [egghead.io](https://egghead.io/)
 - [Vue.js 2 - Getting Started](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07)
 - [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
-- [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
+- [Türkçe VueJS E��itim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 - [Let's Vue! - OpenLecture 2017.01 in Russian](https://youtu.be/7pmw5gvWAf8) on YouTube by Illya Klymov ([@xanf](https://github.com/xanf/))
 - [Bootstrapping your first Vue.js application using vue-cli](https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/) by [@afropolymath](https://twitter.com/afropolymath)
 - [Build vue-hackernews-2.0 from Scratch ![GitHub Repo Stars](https://img.shields.io/github/stars/Detachment/Build-vue-hackernews-2.0-from-scratch) ![GitHub last commit](https://img.shields.io/github/last-commit/Detachment/Build-vue-hackernews-2.0-from-scratch)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
@@ -493,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用��发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -656,6 +657,7 @@
 - [Customizable Vue video chat app ![GitHub Repo Stars](https://img.shields.io/github/stars/daily-demos/vue-call-object) ![GitHub last commit](https://img.shields.io/github/last-commit/daily-demos/vue-call-object)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 - [Vue3-Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/cerino-ligutom/Vue3-Starter) ![GitHub last commit](https://img.shields.io/github/last-commit/cerino-ligutom/Vue3-Starter)](https://github.com/cerino-ligutom/Vue3-Starter) A boilerplate with an opinion on how to structure your files/folders with a few examples such as **Vue Router** navigation guards, theming with **TailwindCSS**, form validation w/ **Vuelidate**, localization with **Fluent**, etc.
 - [Text Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/devisasari/text-editor-vue-3) ![GitHub last commit](https://img.shields.io/github/last-commit/devisasari/text-editor-vue-3)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
+- [umo editor ![GitHub Repo Stars](https://img.shields.io/github/stars/umodoc/editor) ![GitHub last commit](https://img.shields.io/github/last-commit/umodoc/editor)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 - [Vue 3 + Laravel v9 - Boilerplate / Starter kit ![GitHub Repo Stars](https://img.shields.io/github/stars/fsgreco/vue3-laravel-api) ![GitHub last commit](https://img.shields.io/github/last-commit/fsgreco/vue3-laravel-api)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
 - [h5 ![GitHub Repo Stars](https://img.shields.io/github/stars/gyt95/h5) ![GitHub last commit](https://img.shields.io/github/last-commit/gyt95/h5)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 - [Vitesse Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
@@ -953,6 +955,7 @@
 - [slidev ![GitHub Repo Stars](https://img.shields.io/github/stars/slidevjs/slidev) ![GitHub last commit](https://img.shields.io/github/last-commit/slidevjs/slidev)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) ![GitHub last commit](https://img.shields.io/github/last-commit/qier222/YesPlayMusic)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 - [douyin ![GitHub Repo Stars](https://img.shields.io/github/stars/zyronon/douyin) ![GitHub last commit](https://img.shields.io/github/last-commit/zyronon/douyin)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
+- [Go-Vue-Chat-Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/CoffeeeAtNight/Go-Vue-Chat-Starter) ![GitHub last commit](https://img.shields.io/github/last-commit/CoffeeeAtNight/Go-Vue-Chat-Starter)](https://github.com/CoffeeeAtNight/Go-Vue-Chat-Starter) - A simple chat application starter project built with Vue.js and Go, featuring WebSocket communication, PrimeVue/PrimeFlex for the UI.
 
 ### Commercial Products
 
@@ -1741,7 +1744,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 #### Icons
 
 - [vue-awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Justineo/vue-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/Justineo/vue-awesome)](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
-- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
 - [vue-icon-font ![GitHub Repo Stars](https://img.shields.io/github/stars/ganl/vue-icon-font) ![GitHub last commit](https://img.shields.io/github/last-commit/ganl/vue-icon-font)](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).
 - [vue-ionicons ![GitHub Repo Stars](https://img.shields.io/github/stars/mazipan/vue-ionicons) ![GitHub last commit](https://img.shields.io/github/last-commit/mazipan/vue-ionicons)](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
 - [vue-ico ![GitHub Repo Stars](https://img.shields.io/github/stars/paulcollett/vue-ico) ![GitHub last commit](https://img.shields.io/github/last-commit/paulcollett/vue-ico)](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling
@@ -1803,6 +1806,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [SDropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/storinka/dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/storinka/dropdown)](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
 - [vue-awesome-sidebar ![GitHub Repo Stars](https://img.shields.io/github/stars/amirkian007/vue-awesome-sidebar) ![GitHub last commit](https://img.shields.io/github/last-commit/amirkian007/vue-awesome-sidebar)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
 - [vue-use-fixed-header ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/vue-use-fixed-header) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/vue-use-fixed-header)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
+- [navpress ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronlamz/navpress) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronlamz/navpress)](https://github.com/aaronlamz/navpress) - NavPress is a CLI tool for generating static navigation websites. It allows you to quickly build a navigation site through a configuration file.
 
 #### Minus Plus Input
 
@@ -1893,6 +1897,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisheanan/vue-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisheanan/vue-gauge)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 - [vue-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/ecomfe/vue-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/vue-echarts)](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [vue-data-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/graphieros/vue-data-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/graphieros/vue-data-ui)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
+- [vue-speedometer ![GitHub Repo Stars](https://img.shields.io/github/stars/palerdot/vue-speedometer) ![GitHub last commit](https://img.shields.io/github/last-commit/palerdot/vue-speedometer)](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
 
 #### Time
 
@@ -2009,6 +2014,7 @@ _Display non-editable events in a Calendar_
 - [simple-vue-camera ![GitHub Repo Stars](https://img.shields.io/github/stars/BastiaanJansen/simple-vue-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/BastiaanJansen/simple-vue-camera)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 - [vue-vision-camera ![GitHub Repo Stars](https://img.shields.io/github/stars/xulihang/vue-vision-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/xulihang/vue-vision-camera)](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
 - [1llest-waveform-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/codeacme17/1llest-waveform-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/codeacme17/1llest-waveform-vue)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+- [Vue-Player ![GitHub Repo Stars](https://img.shields.io/github/stars/display-design-studio/vue-player) ![GitHub last commit](https://img.shields.io/github/last-commit/display-design-studio/vue-player)](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
 #### Infinite Scroll
 

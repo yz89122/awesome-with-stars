@@ -1094,8 +1094,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [autumnai/collenchyma ![GitHub Repo Stars](https://img.shields.io/github/stars/autumnai/collenchyma) ![GitHub last commit](https://img.shields.io/github/last-commit/autumnai/collenchyma)](https://github.com/autumnai/collenchyma) - An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
   * [luqmana/rust-opencl ![GitHub Repo Stars](https://img.shields.io/github/stars/luqmana/rust-opencl) ![GitHub last commit](https://img.shields.io/github/last-commit/luqmana/rust-opencl)](https://github.com/luqmana/rust-opencl) - [OpenCL](https://www.khronos.org/opencl/) bindings
 * Science
+  * [Axect/Peroxide ![GitHub Repo Stars](https://img.shields.io/github/stars/Axect/Peroxide) ![GitHub last commit](https://img.shields.io/github/last-commit/Axect/Peroxide)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
   * [cpmech/russell ![GitHub Repo Stars](https://img.shields.io/github/stars/cpmech/russell) ![GitHub last commit](https://img.shields.io/github/last-commit/cpmech/russell)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
-  * [indigits/scirust ![GitHub Repo Stars](https://img.shields.io/github/stars/indigits/scirust) ![GitHub last commit](https://img.shields.io/github/last-commit/indigits/scirust)](https://github.com/indigits/scirust) - Scientific computing library
 * Statrs
   * [statrs-dev/statrs ![GitHub Repo Stars](https://img.shields.io/github/stars/statrs-dev/statrs) ![GitHub last commit](https://img.shields.io/github/last-commit/statrs-dev/statrs)](https://github.com/statrs-dev/statrs) - Robust statistical computation library
 
