@@ -389,7 +389,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * 📝 [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
-* ���� [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
+* 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
 * 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * 📝 [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
@@ -534,7 +534,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois)
 * 📝 [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
-* �� [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
+* 📝 [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
 * 📝 [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * 📝 [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
 * 📝 [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
