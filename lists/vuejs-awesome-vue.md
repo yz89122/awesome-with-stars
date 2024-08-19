@@ -296,6 +296,7 @@
 - [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7136740-evolucion-de-vue-parte-iii)
 - [React vs Vue - their communities (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
 - [Views on Vue (weekly podcast on Vue)](https://topenddevs.com/podcasts/views-on-vue)
+- [DejaVue - The Vue podcast to remember](https://dejavue.fm/)
 
 ### Youtube Channels
 
@@ -525,7 +526,7 @@
 - [**Vue(2.0) + Node.js: A blog content manage system (CMS)** ![GitHub Repo Stars](https://img.shields.io/github/stars/ycwalker/CMS-of-Blog) ![GitHub last commit](https://img.shields.io/github/last-commit/ycwalker/CMS-of-Blog)](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
 - [ngexplorer-quasar ![GitHub Repo Stars](https://img.shields.io/github/stars/gustaYo/ngexplorer-quasar) ![GitHub last commit](https://img.shields.io/github/last-commit/gustaYo/ngexplorer-quasar)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework ![GitHub Repo Stars](https://img.shields.io/github/stars/rstoenescu/quasar-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/rstoenescu/quasar-framework)](https://github.com/rstoenescu/quasar-framework)
 - [zhihu-daily-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/moonou/zhihu-daily-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/moonou/zhihu-daily-vue)](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
-- [loopback-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/qxl1231/generator-loopback-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/qxl1231/generator-loopback-vue)](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page ���页功能,authenticate 权限控制,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231)
+- [loopback-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/qxl1231/generator-loopback-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/qxl1231/generator-loopback-vue)](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page 分页功能,authenticate 权限控制,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231)
 - [**vue-s3-dropzone** ![GitHub Repo Stars](https://img.shields.io/github/stars/kfei/vue-s3-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/kfei/vue-s3-dropzone)](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
 - [**easy-vue** ![GitHub Repo Stars](https://img.shields.io/github/stars/TIGERB/easy-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/TIGERB/easy-vue)](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 - [Vuex Events Messaging Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/metricloop/vuex-events-messaging-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/metricloop/vuex-events-messaging-demo)](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
@@ -2371,6 +2372,7 @@ _Date / datetime / time Picker_
 - [@vueform/multiselect ![GitHub Repo Stars](https://img.shields.io/github/stars/vueform/multiselect) ![GitHub last commit](https://img.shields.io/github/last-commit/vueform/multiselect)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 - [vue-country-code ![GitHub Repo Stars](https://img.shields.io/github/stars/hantrongbinh/vue-country-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hantrongbinh/vue-country-code)](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country Code Select
 - [vue-cool-box-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/hassan-jahan/vue-cool-box-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/hassan-jahan/vue-cool-box-selector)](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ ~1KB
+- [vue3-select-component ![GitHub Repo Stars](https://img.shields.io/github/stars/TotomInc/vue3-select-component) ![GitHub last commit](https://img.shields.io/github/last-commit/TotomInc/vue3-select-component)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more ~4.4KB
 
 ##### Slider
 
@@ -3684,6 +3686,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-component-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/vue-component-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/vue-component-starter)](https://github.com/peterroe/vue-component-starter) - A template to help you create vue3.x component.
 - [Vue3-SPA-starter-template ![GitHub Repo Stars](https://img.shields.io/github/stars/M-Media-Group/Vue3-SPA-starter-template) ![GitHub last commit](https://img.shields.io/github/last-commit/M-Media-Group/Vue3-SPA-starter-template)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 - [vue-x-platforms ![GitHub Repo Stars](https://img.shields.io/github/stars/NativeScript/vue-x-platforms) ![GitHub last commit](https://img.shields.io/github/last-commit/NativeScript/vue-x-platforms)](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
+- [mevn-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafacagri/mevn-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafacagri/mevn-boilerplate)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 
 #### Client
 
