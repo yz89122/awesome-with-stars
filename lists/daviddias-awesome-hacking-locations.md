@@ -478,7 +478,7 @@ Wifi | Power | Climatization  | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Germany 🇩🇪
+# Germany ���🇪
 
 ## Berlin
 
@@ -1654,7 +1654,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-  ✔ | ✔| [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM
+  ��� | ✔| [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM
 
 ### Palo Alto, CA <a id="palo-alto-ca"></a>
 
@@ -1765,7 +1765,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am
+✔ | ✔ | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am
 
 
 ## Massachusetts <a id="massachusetts"></a>
