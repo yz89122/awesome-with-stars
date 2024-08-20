@@ -848,7 +848,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Assumptions ![GitHub Repo Stars](https://img.shields.io/github/stars/rskuipers/php-assumptions) ![GitHub last commit](https://img.shields.io/github/last-commit/rskuipers/php-assumptions)](https://github.com/rskuipers/php-assumptions) — Checks for weak assumptions.
 
-- [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
+- [PHP Coding Standards Fixer](https://cs.symfony.com) �� Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 
 - [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 
