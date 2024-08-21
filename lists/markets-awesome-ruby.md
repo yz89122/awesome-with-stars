@@ -481,6 +481,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/sparklemotion/sqlite3-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/sparklemotion/sqlite3-ruby)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 * [SQL Server ![GitHub Repo Stars](https://img.shields.io/github/stars/rails-sqlserver/activerecord-sqlserver-adapter) ![GitHub last commit](https://img.shields.io/github/last-commit/rails-sqlserver/activerecord-sqlserver-adapter)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 * [TinyTDS ![GitHub Repo Stars](https://img.shields.io/github/stars/rails-sqlserver/tiny_tds) ![GitHub last commit](https://img.shields.io/github/last-commit/rails-sqlserver/tiny_tds)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+* [Trilogy ![GitHub Repo Stars](https://img.shields.io/github/stars/trilogy-libraries/trilogy) ![GitHub last commit](https://img.shields.io/github/last-commit/trilogy-libraries/trilogy)](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
 
 ## Database Tools
 

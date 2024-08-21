@@ -1130,7 +1130,7 @@ See also:
 
 * [cl-html5-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/rotatef/cl-html5-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/rotatef/cl-html5-parser)](https://github.com/rotatef/cl-html5-parser) -  HTML5 parser for Common Lisp. GPL3.0.
   * a port of the Python library html5lib.
-  * compared to Plump: Plump is a mix of an XML and an HTML parser and breaks on some HTML rules ([example ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/plump) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/plump)](https://github.com/Shinmera/plump/issues/50]), while cl-html5-parser is a fully compliant HTML parser.
+  * compared to Plump: Plump is a mix of an XML and an HTML parser and breaks on some HTML rules ([example ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/plump) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/plump)](https://github.com/Shinmera/plump/issues/50)), while cl-html5-parser is a fully compliant HTML parser.
 
 Querying HTML/DOM, web scraping
 ---------------------------------------
