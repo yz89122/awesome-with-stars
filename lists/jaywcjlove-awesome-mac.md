@@ -159,6 +159,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 
 > [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
+* [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
 * [EME ![GitHub Repo Stars](https://img.shields.io/github/stars/egoist/eme) ![GitHub last commit](https://img.shields.io/github/last-commit/egoist/eme)](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 * [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
