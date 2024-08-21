@@ -63,6 +63,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
 
 - [Awesome Go](#awesome-go)
   - [Contents](#contents)
+  - [Actor Model](#actor-model)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Audio and Music](#audio-and-music)
   - [Authentication and OAuth](#authentication-and-oauth)
@@ -208,10 +209,20 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
 
 **[⬆ back to top](#contents)**
 
+## Actor Model
+
+_Libraries for building actor-based programs._
+
+- [Ergo ![GitHub Repo Stars](https://img.shields.io/github/stars/ergo-services/ergo) ![GitHub last commit](https://img.shields.io/github/last-commit/ergo-services/ergo)](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
+- [Goakt ![GitHub Repo Stars](https://img.shields.io/github/stars/Tochemey/goakt) ![GitHub last commit](https://img.shields.io/github/last-commit/Tochemey/goakt)](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
+- [Hollywood ![GitHub Repo Stars](https://img.shields.io/github/stars/anthdm/hollywood) ![GitHub last commit](https://img.shields.io/github/last-commit/anthdm/hollywood)](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
+- [ProtoActor ![GitHub Repo Stars](https://img.shields.io/github/stars/asynkron/protoactor-go) ![GitHub last commit](https://img.shields.io/github/last-commit/asynkron/protoactor-go)](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+
 ## Artificial Intelligence
 
 _Libraries for building programs that leverage AI._
 
+- [fun](gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [langchaingo ![GitHub Repo Stars](https://img.shields.io/github/stars/tmc/langchaingo) ![GitHub last commit](https://img.shields.io/github/last-commit/tmc/langchaingo)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 - [LocalAI ![GitHub Repo Stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorganca/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorganca/ollama)](https://github.com/jmorganca/ollama) - Run large language models locally.

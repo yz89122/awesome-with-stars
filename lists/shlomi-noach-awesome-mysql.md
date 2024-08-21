@@ -45,6 +45,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/prometheus)](https://github.com/prometheus/prometheus)/[mysqld_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/mysqld_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/mysqld_exporter)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 - [pstop ![GitHub Repo Stars](https://img.shields.io/github/stars/sjmudd/ps-top) ![GitHub last commit](https://img.shields.io/github/last-commit/sjmudd/ps-top)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
+- [Dolphie ![GitHub Repo Stars](https://img.shields.io/github/stars/charles-001/dolphie) ![GitHub last commit](https://img.shields.io/github/last-commit/charles-001/dolphie)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
 
 ## Backup
 
