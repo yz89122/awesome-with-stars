@@ -113,6 +113,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Wagtail-Constance ![GitHub Repo Stars](https://img.shields.io/github/stars/MechanisM/wagtail-constance) ![GitHub last commit](https://img.shields.io/github/last-commit/MechanisM/wagtail-constance)](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
 - [Wagtail-Flags ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/wagtail-flags) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/wagtail-flags)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+- [Wagtail-Waffle ![GitHub Repo Stars](https://img.shields.io/github/stars/TheCodingSheikh/wagtail-waffle) ![GitHub last commit](https://img.shields.io/github/last-commit/TheCodingSheikh/wagtail-waffle)](https://github.com/TheCodingSheikh/wagtail-waffle) - Manage Django Waffle in Wagtail.
 
 ### E-commerce
 
@@ -241,6 +242,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [cookiecutter-wagtail-vix ![GitHub Repo Stars](https://img.shields.io/github/stars/engineervix/cookiecutter-wagtail-vix) ![GitHub last commit](https://img.shields.io/github/last-commit/engineervix/cookiecutter-wagtail-vix)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
 - [Wagtail Quickstart with docker ![GitHub Repo Stars](https://img.shields.io/github/stars/saevarom/wagtail-start-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/saevarom/wagtail-start-docker)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 - [State Design System (DSFR) starter ![GitHub Repo Stars](https://img.shields.io/github/stars/numerique-gouv/content-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/numerique-gouv/content-manager)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+
+### Templates (start command)
+
+- [Wagtail tutorial template ![GitHub Repo Stars](https://img.shields.io/github/stars/thibaudcolas/wagtail-tutorial-template) ![GitHub last commit](https://img.shields.io/github/last-commit/thibaudcolas/wagtail-tutorial-template)](https://github.com/thibaudcolas/wagtail-tutorial-template)
+- [Wagtail news template ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-news-template) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-news-template)](https://github.com/torchbox/wagtail-news-template)
 
 ## Resources
 
@@ -449,7 +455,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [HackSoft ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hacksoft.io) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hacksoft.io)](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 - [HackConf ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSoftware/hackconf.bg) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSoftware/hackconf.bg)](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 - [RTEI ![GitHub Repo Stars](https://img.shields.io/github/stars/okfn/rtei) ![GitHub last commit](https://img.shields.io/github/last-commit/okfn/rtei)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
-- [BVSPCA ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) ��� Bow Valley SPCA website.
+- [BVSPCA ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 - [Project TIER ![GitHub Repo Stars](https://img.shields.io/github/stars/ProjectTIER/projecttier.org) ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectTIER/projecttier.org)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 - [SecureDrop ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securedrop.org) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securedrop.org)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 - [Consumer Financial Protection Bureau ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/consumerfinance.gov) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/consumerfinance.gov)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
