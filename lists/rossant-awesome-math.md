@@ -218,7 +218,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
 * 📝 [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * 📝 [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
-* ��� [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
+* 📝 [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 * 📝 [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
 * 📝 [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
 * 📝 [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
