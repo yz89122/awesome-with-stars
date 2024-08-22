@@ -279,7 +279,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter ![GitHub Repo Stars](https://img.shields.io/github/stars/tsteinholz/LoveShaderConverter) ![GitHub last commit](https://img.shields.io/github/last-commit/tsteinholz/LoveShaderConverter)](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
-* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
+* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a L��VE shader.
 * [Moonshine ![GitHub Repo Stars](https://img.shields.io/github/stars/vrld/moonshine) ![GitHub last commit](https://img.shields.io/github/last-commit/vrld/moonshine)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 * [ShaderScan ![GitHub Repo Stars](https://img.shields.io/github/stars/idbrii/love-shaderscan) ![GitHub last commit](https://img.shields.io/github/last-commit/idbrii/love-shaderscan)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
@@ -395,7 +395,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code.
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode.
-	* [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. L��ve specific launch.json example provided.
+	* [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
 * [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
