@@ -315,7 +315,7 @@ Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto ![GitHub Re
 - Services ↔ a single-instance, background plugins
 - Also, in general: all the mechanisms from the ZSH Plugin Standard – Zinit is a reference implementation of the standard.
 
-The project is very active – currently > 3100 commits.
+The project is very active ��� currently > 3100 commits.
 
 ### [zinit-4 ![GitHub Repo Stars](https://img.shields.io/github/stars/psprint/Zinit-4) ![GitHub last commit](https://img.shields.io/github/last-commit/psprint/Zinit-4)](https://github.com/psprint/Zinit-4)
 
@@ -730,7 +730,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [conda-init ![GitHub Repo Stars](https://img.shields.io/github/stars/commiyou/conda-init-zsh-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/commiyou/conda-init-zsh-plugin)](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so [conda](https://conda.io) doesn't mess up `tmux`.
 - [condaenv ![GitHub Repo Stars](https://img.shields.io/github/stars/saravanabalagi/zsh-plugin-condaenv) ![GitHub last commit](https://img.shields.io/github/last-commit/saravanabalagi/zsh-plugin-condaenv)](https://github.com/saravanabalagi/zsh-plugin-condaenv) - Provides a `condaenv_prompt_info` function which returns the current `conda` environment name.
 - [confer ![GitHub Repo Stars](https://img.shields.io/github/stars/SleepyBag/zsh-confer) ![GitHub last commit](https://img.shields.io/github/last-commit/SleepyBag/zsh-confer)](https://github.com/SleepyBag/zsh-confer) - Tries to find program configuration files automatically so you can do things like `conf vim` to edit your `vim` configuration files.
-- [containers ![GitHub Repo Stars](https://img.shields.io/github/stars/redxtech/zsh-containers) ![GitHub last commit](https://img.shields.io/github/last-commit/redxtech/zsh-containers)](https://github.com/redxtech/zsh-containers) - Provides aliases and better interoperability between [podman(https://podman.io)] and [docker](https://docker.com) commands based on which you have installed.
+- [containers ![GitHub Repo Stars](https://img.shields.io/github/stars/redxtech/zsh-containers) ![GitHub last commit](https://img.shields.io/github/last-commit/redxtech/zsh-containers)](https://github.com/redxtech/zsh-containers) - Provides aliases and better interoperability between [podman](https://podman.io) and [docker](https://docker.com) commands based on which you have installed.
 - [copy-pasta ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisPenner/copy-pasta) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisPenner/copy-pasta)](https://github.com/ChrisPenner/copy-pasta) - Copy and paste files in your terminal like you would in a GUI.
 - [copyzshell ![GitHub Repo Stars](https://img.shields.io/github/stars/rutchkiwi/copyzshell) ![GitHub last commit](https://img.shields.io/github/last-commit/rutchkiwi/copyzshell)](https://github.com/rutchkiwi/copyzshell) - A ZSH plugin to copy your shell configuration to another machine over `ssh`.
 - [crash ![GitHub Repo Stars](https://img.shields.io/github/stars/molovo/crash) ![GitHub last commit](https://img.shields.io/github/last-commit/molovo/crash)](https://github.com/molovo/crash) - Adds proper error handling, exceptions and try/catch for ZSH.
