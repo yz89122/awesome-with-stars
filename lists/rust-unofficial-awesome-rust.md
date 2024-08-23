@@ -382,6 +382,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 ### Package Managers
 
 * [helsing-ai/buffrs ![GitHub Repo Stars](https://img.shields.io/github/stars/helsing-ai/buffrs) ![GitHub last commit](https://img.shields.io/github/last-commit/helsing-ai/buffrs)](https://github.com/helsing-ai/buffrs) [[buffrs](https://crates.io/crates/buffrs)] - A modern package manager for protocol buffers and gRPC architectures.
+* [rebos](https://crates.io/crates/rebos) - A declarative way to automate package management on any linux distro [![crate](https://img.shields.io/crates/v/rebos?logo=rust)](https://crates.io/crates/rebos)
 
 ### Payments
 
@@ -1050,7 +1051,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     * [ihalila/pancurses ![GitHub Repo Stars](https://img.shields.io/github/stars/ihalila/pancurses) ![GitHub last commit](https://img.shields.io/github/last-commit/ihalila/pancurses)](https://github.com/ihalila/pancurses) [[pancurses](https://crates.io/crates/pancurses)] - curses library, supports linux and windows
     * [jeaye/ncurses-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/jeaye/ncurses-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/jeaye/ncurses-rs)](https://github.com/jeaye/ncurses-rs) [[ncurses](https://crates.io/crates/ncurses)] - [ncurses](https://www.gnu.org/software/ncurses/) bindings
   * [ogham/rust-term-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/ogham/rust-term-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/ogham/rust-term-grid)](https://github.com/ogham/rust-term-grid) [[term_grid](https://crates.io/crates/term_grid)] - Library for putting things in a grid
-  * [ratatui-org/ratatui ![GitHub Repo Stars](https://img.shields.io/github/stars/ratatui-org/ratatui) ![GitHub last commit](https://img.shields.io/github/last-commit/ratatui-org/ratatui)](https://github.com/ratatui-org/ratatui) [[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
+  * [ratatui-org/ratatui ![GitHub Repo Stars](https://img.shields.io/github/stars/ratatui/ratatui) ![GitHub last commit](https://img.shields.io/github/last-commit/ratatui/ratatui)](https://github.com/ratatui/ratatui) [[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
   * [redox-os/termion ![GitHub Repo Stars](https://img.shields.io/github/stars/redox-os/termion) ![GitHub last commit](https://img.shields.io/github/last-commit/redox-os/termion)](https://github.com/redox-os/termion) [[termion](https://crates.io/crates/termion)] - bindless library for controlling terminals/TTY
   * [ruterm](https://crates.io/crates/ruterm) - tiny & simple library for working with TTY
   * Termbox
