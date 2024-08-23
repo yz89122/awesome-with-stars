@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- �� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
     - 🌎 [Blazor ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/aspnetcore) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
-    - �� [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
+    - 🎉 [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
@@ -633,7 +633,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - ��� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
@@ -694,7 +694,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Jelly Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelapfelbeck/jellyPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelapfelbeck/jellyPhysics)](https://github.com/michaelapfelbeck/jellyPhysics) - Soft body 2D physics engine.
     - 🎉 [Nape ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4) - Fast, friendly 2D rigid body physics engine. [[Demos](https://joecreates.github.io/napephys/)]
 - Haxe: Serialization / Storage
-    - 🎉 [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
+    - ��� [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
     - 🎉 [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
     - 🎉 [HxBit ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/hxbit) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/hxbit)](https://github.com/HeapsIO/hxbit) - Binary serialization and network synchronization library.
 - Haxe: Utility
@@ -1015,7 +1015,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Glium ![GitHub Repo Stars](https://img.shields.io/github/stars/glium/glium) ![GitHub last commit](https://img.shields.io/github/last-commit/glium/glium)](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
     - 🎉 [Kiss3D ![GitHub Repo Stars](https://img.shields.io/github/stars/sebcrozet/kiss3d) ![GitHub last commit](https://img.shields.io/github/last-commit/sebcrozet/kiss3d)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
     - 🎉 [Miniquad ![GitHub Repo Stars](https://img.shields.io/github/stars/not-fl3/miniquad) ![GitHub last commit](https://img.shields.io/github/last-commit/not-fl3/miniquad)](https://github.com/not-fl3/miniquad) - Cross platform rendering.
-    - 🎉 [Vulkano ![GitHub Repo Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![GitHub last commit](https://img.shields.io/github/last-commit/vulkano-rs/vulkano)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
+    - ���� [Vulkano ![GitHub Repo Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![GitHub last commit](https://img.shields.io/github/last-commit/vulkano-rs/vulkano)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 - Rust: Gui
     - 🔒 [Azul ![GitHub Repo Stars](https://img.shields.io/github/stars/fschutt/azul) ![GitHub last commit](https://img.shields.io/github/last-commit/fschutt/azul)](https://github.com/fschutt/azul) - Desktop gui framework.
     - 🎉 [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
