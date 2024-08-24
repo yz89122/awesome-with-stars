@@ -444,7 +444,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Elixir</h2>
 
 
-- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) ��� A static code analysis tool with a focus on code consistency and teaching.
+- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) — A static code analysis tool with a focus on code consistency and teaching.
 
 - [dialyxir ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyjh/dialyxir) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
@@ -856,7 +856,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
 
-- [PHP Semantic Versioning Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) :warning: ��� Suggests a next version according to semantic versioning.
+- [PHP Semantic Versioning Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/tomzx/php-semver-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/tomzx/php-semver-checker)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
 
 - [PHP-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/nikic/PHP-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/nikic/PHP-Parser)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
