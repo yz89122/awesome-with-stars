@@ -264,6 +264,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Maaack's Menus Template ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Menus-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Menus-Template)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Scene-Loader) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Scene-Loader)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 - [PixelPen ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelpen-dev/pixelpen) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelpen-dev/pixelpen)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+- [TerraBrush ![GitHub Repo Stars](https://img.shields.io/github/stars/spimort/TerraBrush) ![GitHub last commit](https://img.shields.io/github/last-commit/spimort/TerraBrush)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 #### Godot 3.2+
 
