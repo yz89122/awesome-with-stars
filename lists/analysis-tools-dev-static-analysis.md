@@ -848,7 +848,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Assumptions ![GitHub Repo Stars](https://img.shields.io/github/stars/rskuipers/php-assumptions) ![GitHub last commit](https://img.shields.io/github/last-commit/rskuipers/php-assumptions)](https://github.com/rskuipers/php-assumptions) — Checks for weak assumptions.
 
-- [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
+- [PHP Coding Standards Fixer](https://cs.symfony.com) �� Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 
 - [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 
@@ -916,7 +916,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
-- [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) �� A static analysis engine.
+- [Tuli ![GitHub Repo Stars](https://img.shields.io/github/stars/ircmaxell/Tuli) ![GitHub last commit](https://img.shields.io/github/last-commit/ircmaxell/Tuli)](https://github.com/ircmaxell/Tuli) — A static analysis engine.
 
 - [twig-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/asm89/twig-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/asm89/twig-lint)](https://github.com/asm89/twig-lint) — twig-lint is a lint tool for your twig files.
 
