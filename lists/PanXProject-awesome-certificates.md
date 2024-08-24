@@ -314,7 +314,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) | Unity | Beginner | 2000 | [🏅](https://www.credly.com/org/unity/badge/unity-junior-programmer)
 | [Creative Core](https://learn.unity.com/pathway/creative-core) | Unity | Beginner | 1680 | [🏅](https://www.credly.com/org/unity/badge/unity-creative-core)
 | [VR Development](https://learn.unity.com/pathway/vr-development) | Unity | Beginner | 1000 | [🏅](https://www.credly.com/org/unity/badge/unity-vr-development)
-| [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginner | 1344 | [��](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
+| [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginner | 1344 | [🏅](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
