@@ -12,6 +12,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
+  - [XR] (#xr)
 - [Projects](#projects)
 - [Templates](#templates)
 - [Demos](#demos)
@@ -111,6 +112,17 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 - [Cheese Hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/khairul169/cheese-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/khairul169/cheese-hunter)](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
+### XR
+
+#### Godot 4.1
+
+ - [Piggy Rescue ![GitHub Repo Stars](https://img.shields.io/github/stars/surreal6/piggyRescue) ![GitHub last commit](https://img.shields.io/github/last-commit/surreal6/piggyRescue)](https://github.com/surreal6/piggyRescue) - Fun little example game where you chase and rescue little pigs.
+
+#### Godot 3.5
+
+ - [Beep Saber VR ![GitHub Repo Stars](https://img.shields.io/github/stars/NeoSpark314/BeepSaber) ![GitHub last commit](https://img.shields.io/github/last-commit/NeoSpark314/BeepSaber)](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
+ - [Friday Night Funkin` ![GitHub Repo Stars](https://img.shields.io/github/stars/this-is-bennyk/Funkin-VR) ![GitHub last commit](https://img.shields.io/github/last-commit/this-is-bennyk/Funkin-VR)](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
+
 ## Projects
 
 *Non-game Open source projects made with Godot (tools/utilities).*
@@ -140,6 +152,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 4.2+
 
+- [Godot XR Template ![GitHub Repo Stars](https://img.shields.io/github/stars/godotVR/godot-xr-template) ![GitHub last commit](https://img.shields.io/github/last-commit/godotVR/godot-xr-template)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 - [Maaack's Game Template ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Game-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Game-Template)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 #### Godot 3.5+
@@ -259,6 +272,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
 - [Dialogue Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Rubonnek/dialogue-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Rubonnek/dialogue-engine)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Godot Google Play Game Services ![GitHub Repo Stars](https://img.shields.io/github/stars/Iakobs/godot-play-game-services) ![GitHub last commit](https://img.shields.io/github/last-commit/Iakobs/godot-play-game-services)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
+- [Godot XR Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/godotvr/godot-xr-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/godotvr/godot-xr-tools)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
 - [LimboAI ![GitHub Repo Stars](https://img.shields.io/github/stars/limbonaut/limboai) ![GitHub last commit](https://img.shields.io/github/last-commit/limbonaut/limboai)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 - [Maaack's Game Template Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Game-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Game-Template)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Menus-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Menus-Template)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
