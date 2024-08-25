@@ -96,7 +96,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [pb_hooks starter kit ![GitHub Repo Stars](https://img.shields.io/github/stars/benallfree/ts-pb-hooks-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/benallfree/ts-pb-hooks-starter)](https://github.com/benallfree/ts-pb-hooks-starter) - Build PocketBase JavaScript hooks using TypeScript.
 - [PocketBase Typegen ![GitHub Repo Stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen) ![GitHub last commit](https://img.shields.io/github/last-commit/patmood/pocketbase-typegen)](https://github.com/patmood/pocketbase-typegen) - Generate TypeScript types from the SQLite db file.
-- [pocketbase-ts ![GitHub Repo Stars](https://img.shields.io/github/stars/Solaris9/pocketbase-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/Solaris9/pocketbase-ts)](https://github.com/Solaris9/pocketbase-ts) - A simplified PocketBase SDK to ease the developer experience. Modular API. Strongly typed Schemas.
 - [typed-pocketbase ![GitHub Repo Stars](https://img.shields.io/github/stars/david-plugge/typed-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/david-plugge/typed-pocketbase)](https://github.com/david-plugge/typed-pocketbase) - Generate types from your PocketBase instance and enjoy fully type-safe queries.
 
 ## SQLite tools
