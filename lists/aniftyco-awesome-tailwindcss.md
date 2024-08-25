@@ -202,7 +202,7 @@
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker ![GitHub Repo Stars](https://img.shields.io/github/stars/kenhyuwa/litepie-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/kenhyuwa/litepie-datepicker)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
-- ��� [Tailwind Datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/tailwind-datepicker)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+- 🧩 [Tailwind Datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/tailwind-datepicker)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 - 🧩 [Tailwind Typeahead ![GitHub Repo Stars](https://img.shields.io/github/stars/basarozcan/vue-tailwindcss-typeahead) ![GitHub last commit](https://img.shields.io/github/last-commit/basarozcan/vue-tailwindcss-typeahead)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 - 🧩 [Material Tailwind](https://material-tailwind.com) - Easy to use components library for Tailwind CSS and Material Design.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
@@ -302,7 +302,7 @@
 - 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
 - 🧪 [“Open” landing page ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/tailwindcss-open-template) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/tailwindcss-open-template)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
 - 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
-- 🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
+- �� [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
 - 🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
 - 🔧 [Tailwind CSS with Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/raytiley/tailwind-ember-example) ![GitHub last commit](https://img.shields.io/github/last-commit/raytiley/tailwind-ember-example)](https://github.com/raytiley/tailwind-ember-example) - How to add Tailwind CSS to an Ember application.
 - 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
