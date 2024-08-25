@@ -772,7 +772,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Log Management
 
-  * [bugfender.com](https://bugfender.com/) �� Free up to 100k log lines/day with 24 hours retention
+  * [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with seven days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, 200MB/day with seven days retention
   * [logz.io](https://logz.io/) — Free up to 1 GB/day, one day retention

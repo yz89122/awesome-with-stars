@@ -97,6 +97,7 @@
 - [16x Prompt](https://prompt.16x.engineer) - Cross-platform app to add source code and formatting instructions into prompt for coding tasks. ($)
 - [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
 - [ScreenSnapAI](https://screensnap.ai) - Native macOS app to chat about captured screenshots. ($)
+- [QChatGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/timamus/QChatGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/timamus/QChatGPT)](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with the Quasar framework. (Electron)
 
 ## Web apps
 
@@ -177,6 +178,7 @@
 - [ChatGPT Infinity ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/chatgpt-infinity)](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [Meeper ![GitHub Repo Stars](https://img.shields.io/github/stars/pas1ko/meeper) ![GitHub last commit](https://img.shields.io/github/last-commit/pas1ko/meeper)](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
 - [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
+- [SwiftStyle AI ![GitHub Repo Stars](https://img.shields.io/github/stars/swiftstyleai/swiftstyleai) ![GitHub last commit](https://img.shields.io/github/last-commit/swiftstyleai/swiftstyleai)](https://github.com/swiftstyleai/swiftstyleai) - An open-source Chrome extension that customizes content to match your unique style and brand voice.
 
 **User scripts**
 
