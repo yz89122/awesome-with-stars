@@ -867,6 +867,7 @@ become an Angular expert.
 * [nglrx/pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/nglrx/pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/nglrx/pipes)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 * [ng-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-helpers)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 * [ng-condition ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-condition) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-condition)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+* [ngx-sticky-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/matheo/ngx-sticky-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/matheo/ngx-sticky-kit)](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 
 #### Drag and Drop
 
