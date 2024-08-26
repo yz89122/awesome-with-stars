@@ -1050,7 +1050,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 
-- [goodpractice](https://mangothecat.github.io/goodpractice) �� Analyses the source code for R packages and provides best-practice recommendations.
+- [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
 
 - [lintr ![GitHub Repo Stars](https://img.shields.io/github/stars/jimhester/lintr) ![GitHub last commit](https://img.shields.io/github/last-commit/jimhester/lintr)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
@@ -1700,7 +1700,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 <h2>Build tools</h2>
 
 
-- [checkmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtazz/checkmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtazz/checkmake)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
+- [checkmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtazz/checkmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtazz/checkmake)](https://github.com/mrtazz/checkmake) :warning: — Linter / Analyzer for Makefiles.
 
 - [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) — A verifier for FreeBSD and DragonFlyBSD port directories.
 
@@ -1996,7 +1996,7 @@ but with the following improvements:
 <h2>Makefiles</h2>
 
 
-- [checkmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtazz/checkmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtazz/checkmake)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
+- [checkmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtazz/checkmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtazz/checkmake)](https://github.com/mrtazz/checkmake) :warning: — Linter / Analyzer for Makefiles.
 
 - [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) — A verifier for FreeBSD and DragonFlyBSD port directories.
 
@@ -2007,7 +2007,7 @@ but with the following improvements:
 
 - [markdownlint ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidAnson/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidAnson/markdownlint)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
-- [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
+- [mdformat](https://mdformat.rtfd.io) :warning: — CommonMark compliant Markdown formatter
 
 - [mdl ![GitHub Repo Stars](https://img.shields.io/github/stars/mivok/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/mivok/markdownlint)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 
