@@ -419,7 +419,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 * 📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
-* ��� [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
+* 📝 [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
 * 📝 [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
 
@@ -435,7 +435,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
-* �� [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
+* 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 * 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
@@ -567,7 +567,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * 📝 [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
-* 📝 [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
+* ���� [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
 
 
 ## Numerical Analysis
