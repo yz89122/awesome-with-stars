@@ -551,6 +551,10 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
 * [pngload-fast ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-mirror/pngload) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-mirror/pngload)](https://github.com/lisp-mirror/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
+* [imago ![GitHub Repo Stars](https://img.shields.io/github/stars/tokenrove/imago) ![GitHub last commit](https://img.shields.io/github/last-commit/tokenrove/imago)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
+  * supports images in png, pcx, portable bitmap (.pnm), Truevision TGA (.tga) and jpeg formats
+  * allows for: resizing, rotation, emboss effect, inverting colors, adjusting contrast, manipulating color elements, composing pictures, drawing simple primitives…
+  * is integrated with common-lisp-jupyter.
 
 Those are bindings:
 
@@ -835,7 +839,7 @@ Contract programming
 Typing
 ------
 
-* �� [Coalton ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
+* 👍 [Coalton ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
 * 👍 [trivial-types ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/trivial-types) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/trivial-types)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types ![GitHub Repo Stars](https://img.shields.io/github/stars/stylewarning/cl-algebraic-data-type) ![GitHub last commit](https://img.shields.io/github/last-commit/stylewarning/cl-algebraic-data-type)](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
@@ -1151,6 +1155,7 @@ HTML generators and templates
 * ⭐ [cl-who](http://weitz.de/cl-who/) - The venerable HTML generator. [FreeBSD][39].
 * ⭐ [Djula ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/djula) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/djula)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat][14].
   - [cl-djula-tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/rajasegar/cl-djula-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/rajasegar/cl-djula-tailwind)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
+  - [djula-template-designer ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/djula-template-designer) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/djula-template-designer)](https://github.com/mmontone/djula-template-designer) - a template designer tool.
 * [TEN ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/ten) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/ten)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT][200].
 * [eco ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/eco) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/eco)](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat][14].
 * [cl-closure-template ![GitHub Repo Stars](https://img.shields.io/github/stars/archimag/cl-closure-template) ![GitHub last commit](https://img.shields.io/github/last-commit/archimag/cl-closure-template)](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates, where compiling a template creates a function that generates the result. [LLGPL][8].
@@ -1812,7 +1817,8 @@ Date and time
 Duration processing library built on top of local-time. [MIT][200].
   * see this fork: [humanize-duration ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/humanize-duration) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/humanize-duration)](https://github.com/40ants/humanize-duration), that outputs only significant parts of a duration object. Has localization suport.
 * [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL][8].
-* [calendar-date ![GitHub Repo Stars](https://img.shields.io/github/stars/takagi/calendar-date) ![GitHub last commit](https://img.shields.io/github/last-commit/takagi/calendar-date)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT][200].
+* [calendar-times ![GitHub Repo Stars](https://img.shields.io/github/stars/copyleft/calendar-times) ![GitHub last commit](https://img.shields.io/github/last-commit/copyleft/calendar-times)](https://github.com/copyleft/calendar-times) - a calendar time library implemented on top of the LOCAL-TIME library. It features zoned calendar times and calculations.
+  * see also: [calendar-date ![GitHub Repo Stars](https://img.shields.io/github/stars/takagi/calendar-date) ![GitHub last commit](https://img.shields.io/github/last-commit/takagi/calendar-date)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT][200].
 * [periods ![GitHub Repo Stars](https://img.shields.io/github/stars/jwiegley/periods) ![GitHub last commit](https://img.shields.io/github/last-commit/jwiegley/periods)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD_3Clause][15].
   * with [some documentation](https://lisp-maintainers.github.io/periods/)
 * [stopclock ![GitHub Repo Stars](https://img.shields.io/github/stars/Gleefre/stopclock) ![GitHub last commit](https://img.shields.io/github/last-commit/Gleefre/stopclock)](https://github.com/Gleefre/stopclock) - a library for measuring time using (stop)clocks. It allows you to create a clock, pause it, resume it and change its speed. [Apache2.0][89].
