@@ -214,6 +214,7 @@
 - [tzachar/cmp-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/tzachar/cmp-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/tzachar/cmp-ai)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 - [milanglacier/minuet-ai.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/minuet-ai.nvim)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 - [yetone/avante.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yetone/avante.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yetone/avante.nvim)](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
+- [StubbornVegeta/llm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StubbornVegeta/llm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StubbornVegeta/llm.nvim)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 
 ## Programming Languages Support
 
@@ -260,6 +261,8 @@
 - [roobert/tailwindcss-colorizer-cmp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
 - [luckasRanarison/tailwind-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/luckasRanarison/tailwind-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/luckasRanarison/tailwind-tools.nvim)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial TailwindCSS tooling.
 - [cjodo/convert.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cjodo/convert.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cjodo/convert.nvim)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
+- [farias-hecdin/CSSVarViewer ![GitHub Repo Stars](https://img.shields.io/github/stars/farias-hecdin/CSSVarViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarViewer)](https://github.com/farias-hecdin/CSSVarViewer) - Easily visualize the content of your CSS variables in a virtual text.
+- [farias-hecdin/CSSVarHighlight ![GitHub Repo Stars](https://img.shields.io/github/stars/farias-hecdin/CSSVarHighlight) ![GitHub last commit](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarHighlight)](https://github.com/farias-hecdin/CSSVarHighlight) - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 
 ### Markdown and LaTeX
 
@@ -569,6 +572,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [slugbyte/lackluster.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/slugbyte/lackluster.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/slugbyte/lackluster.nvim)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 - [0xstepit/flow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/0xstepit/flow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/0xstepit/flow.nvim)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 - [samharju/serene.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/samharju/serene.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/samharju/serene.nvim)](https://github.com/samharju/serene.nvim) - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+- [killitar/obscure.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/killitar/obscure.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/killitar/obscure.nvim)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins.
 
 ### Lua Colorscheme
 
@@ -830,6 +834,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [s1n7ax/nvim-terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/s1n7ax/nvim-terminal) ![GitHub last commit](https://img.shields.io/github/last-commit/s1n7ax/nvim-terminal)](https://github.com/s1n7ax/nvim-terminal) - A simple & easy to use multi-terminal plugin.
 - [m00qek/baleia.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m00qek/baleia.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m00qek/baleia.nvim)](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor).
 - [samjwill/nvim-unception ![GitHub Repo Stars](https://img.shields.io/github/stars/samjwill/nvim-unception) ![GitHub last commit](https://img.shields.io/github/last-commit/samjwill/nvim-unception)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
+- [kassio/neoterm ![GitHub Repo Stars](https://img.shields.io/github/stars/kassio/neoterm) ![GitHub last commit](https://img.shields.io/github/last-commit/kassio/neoterm)](https://github.com/kassio/neoterm) - Wrapper of some `:terminal` functions.
 - [nyngwang/NeoTerm.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/nyngwang/NeoTerm.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/nyngwang/NeoTerm.lua)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 - [idanarye/nvim-channelot ![GitHub Repo Stars](https://img.shields.io/github/stars/idanarye/nvim-channelot) ![GitHub last commit](https://img.shields.io/github/last-commit/idanarye/nvim-channelot)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 - [chomosuke/term-edit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
@@ -1124,6 +1129,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [hiberabyss/bzlops.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/hiberabyss/bzlops.vim) ![GitHub last commit](https://img.shields.io/github/last-commit/hiberabyss/bzlops.vim)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
 - [altermo/iedit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/altermo/iedit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/altermo/iedit.nvim)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 - [ptdewey/yankbank-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/yankbank-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/yankbank-nvim)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+- [OXY2DEV/foldtext.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/foldtext.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/foldtext.nvim)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
 
 ### Comment
 
