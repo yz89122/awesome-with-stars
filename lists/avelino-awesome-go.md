@@ -226,6 +226,7 @@ _Libraries for building programs that leverage AI._
 - [langchaingo ![GitHub Repo Stars](https://img.shields.io/github/stars/tmc/langchaingo) ![GitHub last commit](https://img.shields.io/github/last-commit/tmc/langchaingo)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 - [LocalAI ![GitHub Repo Stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorganca/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorganca/ollama)](https://github.com/jmorganca/ollama) - Run large language models locally.
+- [OllamaFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/presbrey/ollamafarm) ![GitHub last commit](https://img.shields.io/github/last-commit/presbrey/ollamafarm)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
 **[⬆ back to top](#contents)**
 

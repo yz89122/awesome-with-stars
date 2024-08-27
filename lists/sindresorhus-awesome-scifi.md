@@ -226,7 +226,7 @@ This book will teach you to stretch your imagination and see things in a differe
 <details>
   <summary>Description</summary>
 
-  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines—are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines���are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
   >
   > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 </details>
@@ -258,7 +258,7 @@ Books:
 - [Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire) [4.2] 🔥
 - [Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation) [4.3] 🔥
 
-#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] ��� 🔥
+#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] 🌟 🔥
 
 Archetypal tale of mad science with the theme of 'how far can Science go' that arguably spawned the modern genre of Science Fiction. - [@katamaritaco](https://github.com/katamaritaco)
 
