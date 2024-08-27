@@ -212,6 +212,7 @@ Audio
 
 Music composition:
 
+* [OpenMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/openmusic-project/openmusic) ![GitHub last commit](https://img.shields.io/github/last-commit/openmusic-project/openmusic)](https://github.com/openmusic-project/openmusic/) visual programming / computer-aided composition environment. [GPL3][2]. Developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France.
 * [OM7 ![GitHub Repo Stars](https://img.shields.io/github/stars/openmusic-project/om7) ![GitHub last commit](https://img.shields.io/github/last-commit/openmusic-project/om7)](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
   * an extension: [rq ![GitHub Repo Stars](https://img.shields.io/github/stars/openmusic-project/RQ) ![GitHub last commit](https://img.shields.io/github/last-commit/openmusic-project/RQ)](https://github.com/openmusic-project/RQ) - a library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
 * [Incudine](http://incudine.sourceforge.net/) -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -428,6 +429,7 @@ lock-free, concurrent, key/value index with efficient memory-mapped persistence 
 * [cl-competitive ![GitHub Repo Stars](https://img.shields.io/github/stars/privet-kitty/cl-competitive) ![GitHub last commit](https://img.shields.io/github/last-commit/privet-kitty/cl-competitive)](https://github.com/privet-kitty/cl-competitive) - Common Lisp algorithms collection for competitive programming. Public domain, CCO or MIT.
 * [nonempty ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/cl-nonempty) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/cl-nonempty)](https://github.com/fosskers/cl-nonempty) -  Non-empty collections for Common Lisp.  [LGPL3][9].
 * [cl-hash-util ![GitHub Repo Stars](https://img.shields.io/github/stars/orthecreedence/cl-hash-util) ![GitHub last commit](https://img.shields.io/github/last-commit/orthecreedence/cl-hash-util)](https://github.com/orthecreedence/cl-hash-util) - Hash-table creation, access, and manipulation utilities. [MIT][200].
+* [cl-permutation ![GitHub Repo Stars](https://img.shields.io/github/stars/stylewarning/cl-permutation) ![GitHub last commit](https://img.shields.io/github/last-commit/stylewarning/cl-permutation)](https://github.com/stylewarning/cl-permutation) -  Permutations and permutation groups in Common Lisp. [BSD_3Clause][15].
 
 Accessing data structures:
 
@@ -833,7 +835,7 @@ Contract programming
 Typing
 ------
 
-* 👍 [Coalton ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
+* �� [Coalton ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
 * 👍 [trivial-types ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/trivial-types) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/trivial-types)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types ![GitHub Repo Stars](https://img.shields.io/github/stars/stylewarning/cl-algebraic-data-type) ![GitHub last commit](https://img.shields.io/github/last-commit/stylewarning/cl-algebraic-data-type)](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
@@ -1366,6 +1368,7 @@ Numerical and Scientific
 * [cl-geometry ![GitHub Repo Stars](https://img.shields.io/github/stars/Ramarren/cl-geometry) ![GitHub last commit](https://img.shields.io/github/last-commit/Ramarren/cl-geometry)](https://github.com/Ramarren/cl-geometry/) - a system for two dimensional computational geometry for Common Lisp. [MIT][200].
 * [Vellum ![GitHub Repo Stars](https://img.shields.io/github/stars/sirherrbatka/vellum) ![GitHub last commit](https://img.shields.io/github/last-commit/sirherrbatka/vellum)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD_2Clause.
 * [rtg-math ![GitHub Repo Stars](https://img.shields.io/github/stars/cbaggers/rtg-math) ![GitHub last commit](https://img.shields.io/github/last-commit/cbaggers/rtg-math)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD_2Clause.
+
 
 Planning solvers:
 
@@ -2003,6 +2006,7 @@ Security
 --------
 
 * [cl-isolated ![GitHub Repo Stars](https://img.shields.io/github/stars/kanru/cl-isolated) ![GitHub last commit](https://img.shields.io/github/last-commit/kanru/cl-isolated)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0][agpl3].
+* [secret-values ![GitHub Repo Stars](https://img.shields.io/github/stars/rotatef/secret-values) ![GitHub last commit](https://img.shields.io/github/last-commit/rotatef/secret-values)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
 
 System interface
 --------------------
