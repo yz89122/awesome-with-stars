@@ -215,6 +215,7 @@
 - [milanglacier/minuet-ai.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/minuet-ai.nvim)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 - [yetone/avante.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yetone/avante.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yetone/avante.nvim)](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
 - [StubbornVegeta/llm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StubbornVegeta/llm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StubbornVegeta/llm.nvim)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+- [3v0k4/exit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3v0k4/exit.nvim)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 
 ## Programming Languages Support
 
