@@ -67,7 +67,7 @@ Misc
 - [scapy-benchmarks ![GitHub Repo Stars](https://img.shields.io/github/stars/gpotter2/scapy-benchmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/gpotter2/scapy-benchmarks)](https://github.com/gpotter2/scapy-benchmarks) - A small test suite that tracks the evolution of Scapy's performance.
 - [sshame ![GitHub Repo Stars](https://img.shields.io/github/stars/HynekPetrak/sshame) ![GitHub last commit](https://img.shields.io/github/last-commit/HynekPetrak/sshame)](https://github.com/HynekPetrak/sshame) - Tool to brute force SSH public-key authentication.
 - [TIDoS Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/0xInfection/TIDoS-Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/0xInfection/TIDoS-Framework)](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
-- [h2spacex ![GitHub Repo Stars](https://img.shields.io/github/stars/nxenon/h2spacex) ![GitHub last commit](https://img.shields.io/github/last-commit/nxenon/h2spacex)](https://github.com/nxenon/h2spacex) - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2)
+- [h2spacex ![GitHub Repo Stars](https://img.shields.io/github/stars/nxenon/h2spacex) ![GitHub last commit](https://img.shields.io/github/last-commit/nxenon/h2spacex)](https://github.com/nxenon/h2spacex) - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
 
 ## Exploits
 

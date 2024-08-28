@@ -123,7 +123,7 @@ A curated list of podcasts we like to listen to.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
 * [Javascript Jabber](https://devchat.tv/podcasts/js-jabber/) - Weekly podcast discussion about Javascript on the front and back ends.
 * [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
-* [Ladybug Podcast](https://ladybug.dev/) �� An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
+* [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
 * [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
@@ -234,7 +234,7 @@ A curated list of podcasts we like to listen to.
 * [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
 * [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 * [DevNaEstrada](https://devnaestrada.com.br/) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
-* [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
+* [Drag��es de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 * [Elemencast](https://elemencast.github.io/) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
 * [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 * [FalaDev](https://anchor.fm/faladev) - Passando a maior parte do tempo escrevendo código, chegou o momento de se reunir e falar sobre o universo da programação.
