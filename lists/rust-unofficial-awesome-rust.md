@@ -1570,6 +1570,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 [[log](https://crates.io/keywords/log)]
 
+* [donnie4w/tklog ![GitHub Repo Stars](https://img.shields.io/github/stars/donnie4w/tklog) ![GitHub last commit](https://img.shields.io/github/last-commit/donnie4w/tklog)](https://github.com/donnie4w/tklog "donnie4w/tklog") - lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving.
 * [estk/log4rs ![GitHub Repo Stars](https://img.shields.io/github/stars/estk/log4rs) ![GitHub last commit](https://img.shields.io/github/last-commit/estk/log4rs)](https://github.com/estk/log4rs) - highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
 * [rbatis/fast_log ![GitHub Repo Stars](https://img.shields.io/github/stars/rbatis/fast_log) ![GitHub last commit](https://img.shields.io/github/last-commit/rbatis/fast_log)](https://github.com/rbatis/fast_log) - Async log High-performance asynchronous logging
 * [rust-lang/log ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/log) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/log)](https://github.com/rust-lang/log) - Logging implementation
