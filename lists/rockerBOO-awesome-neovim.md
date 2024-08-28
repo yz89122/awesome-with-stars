@@ -812,6 +812,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [niuiic/todo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/todo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/todo.nvim)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 - [QuentinGruber/timespent.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/QuentinGruber/timespent.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/QuentinGruber/timespent.nvim)](https://github.com/QuentinGruber/timespent.nvim) - Display time spent on projects / files.
 - [SunnyTamang/pendulum.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SunnyTamang/pendulum.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SunnyTamang/pendulum.nvim)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+- [ptdewey/pendulum-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 
 ### CSV Files
 
