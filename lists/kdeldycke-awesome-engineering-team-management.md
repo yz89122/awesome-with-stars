@@ -579,7 +579,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [The Surprising Traits of Good Remote Leaders](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) - “the confidence, intelligence and extroversion that have long propelled ambitious workers into the executive suite are not enough online because they simply don't translate into virtual leadership. (…) Instead, workers who are organized, dependable and productive take the reins of virtual teams.” As the [source paper](https://link.springer.com/article/10.1007/s10869-020-09698-0) say it best: “virtually, the emphasis shifts from saying to doing.”
 
-- [Things to look for when hiring remote workers](https://news.ycombinator.com/item?id=17022563) - “1. You have to adhere to employment laws within the country you're hiring from; 2. To employ someone full time, many countries require you to have a legally entity within that country; 3. Prioritize countries where we have the most interest; 4. Keep a healthy timezone overlap in each of our teams.”
+- [Things to look for when hiring remote workers](https://news.ycombinator.com/item?id=17022563) - “1. You have to adhere to employment laws within the country you're hiring from; 2. To employ someone full time, many countries require you to have a legally entity within that country; 3. Prioritize countries where we have the most interest; 4. Keep a healthy timezone overlap in each of our teams.��
 
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - Compilation of easy rules and processes to bootstrap a remote team.
 
