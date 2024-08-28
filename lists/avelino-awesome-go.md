@@ -1774,7 +1774,7 @@ _Libraries for working with dependency injection._
 - [ore ![GitHub Repo Stars](https://img.shields.io/github/stars/firasdarwish/ore) ![GitHub last commit](https://img.shields.io/github/last-commit/firasdarwish/ore)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 - [wire ![GitHub Repo Stars](https://img.shields.io/github/stars/Fs02/wire) ![GitHub last commit](https://img.shields.io/github/last-commit/Fs02/wire)](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ### Project Layout
 

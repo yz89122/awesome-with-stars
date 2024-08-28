@@ -1228,6 +1228,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngwr ![GitHub Repo Stars](https://img.shields.io/github/stars/thekhegay/ngwr) ![GitHub last commit](https://img.shields.io/github/last-commit/thekhegay/ngwr)](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 * [Windmillcode-Angular-CDK ![GitHub Repo Stars](https://img.shields.io/github/stars/WindMillCode/Windmillcode-Angular-CDK) ![GitHub last commit](https://img.shields.io/github/last-commit/WindMillCode/Windmillcode-Angular-CDK)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 * [ng-vcl ![GitHub Repo Stars](https://img.shields.io/github/stars/vcl/ng-vcl) ![GitHub last commit](https://img.shields.io/github/last-commit/vcl/ng-vcl)](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
+* [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 
 ##### Material Based
 
