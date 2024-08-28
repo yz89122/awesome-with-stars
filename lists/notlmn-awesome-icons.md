@@ -59,7 +59,7 @@ Logos of different brands or companies or technologies.
 - [Devicon ![GitHub Repo Stars](https://img.shields.io/github/stars/devicons/devicon) ![GitHub last commit](https://img.shields.io/github/last-commit/devicons/devicon)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 - [Simple icons ![GitHub Repo Stars](https://img.shields.io/github/stars/simple-icons/simple-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/simple-icons/simple-icons)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
 - [VectorLogoZone ![GitHub Repo Stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone) ![GitHub last commit](https://img.shields.io/github/last-commit/VectorLogoZone/vectorlogozone)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
-- [Token Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/0xa3k5/token-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/0xa3k5/token-icons)](https://github.com/0xa3k5/token-icons#readme) - Over 2,500 optimized SVG crypto & network icons as React components and SVG imports for web3.
+- [Web3 Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/0xa3k5/web3icons) ![GitHub last commit](https://img.shields.io/github/last-commit/0xa3k5/web3icons)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
 ## Special
 
