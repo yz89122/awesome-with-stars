@@ -429,6 +429,7 @@ become an Angular expert.
 * [ngx-matomo-client ![GitHub Repo Stars](https://img.shields.io/github/stars/EmmanuelRoux/ngx-matomo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/EmmanuelRoux/ngx-matomo-client)](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
 * [angulartics2 ![GitHub Repo Stars](https://img.shields.io/github/stars/angulartics/angulartics2) ![GitHub last commit](https://img.shields.io/github/last-commit/angulartics/angulartics2)](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 * [angular-google-tag-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/mzuccaroli/angular-google-tag-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/mzuccaroli/angular-google-tag-manager)](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your angular project.
+* [litlyx ![GitHub Repo Stars](https://img.shields.io/github/stars/Litlyx/litlyx) ![GitHub last commit](https://img.shields.io/github/last-commit/Litlyx/litlyx)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 
 #### Authentication
 
@@ -1332,6 +1333,8 @@ for the creation of web applications developed with Angular.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
 * [awesome-cordova-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/danielsogl/awesome-cordova-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/danielsogl/awesome-cordova-plugins)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
+* [ionic-angular-library ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-library) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-library)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+* [ionic-angular-collect-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-collect-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-collect-icons)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it.
 
 #### NgRx
 
