@@ -351,7 +351,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 
 * [APIGen ![GitHub Repo Stars](https://img.shields.io/github/stars/apigen/apigen) ![GitHub last commit](https://img.shields.io/github/last-commit/apigen/apigen)](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io ![GitHub Repo Stars](https://img.shields.io/github/stars/dauxio/daux.io) ![GitHub last commit](https://img.shields.io/github/last-commit/dauxio/daux.io)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
-* [PHP Documentor 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/phpDocumentor)](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
+* [phpDocumentor](https://phpdoc.org/) - A documentation generator.
 * [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [zircote/swagger-php ![GitHub Repo Stars](https://img.shields.io/github/stars/zircote/swagger-php) ![GitHub last commit](https://img.shields.io/github/last-commit/zircote/swagger-php)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
@@ -406,7 +406,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for managing code quality, formatting and linting.*
 
 * [CaptainHook ![GitHub Repo Stars](https://img.shields.io/github/stars/captainhookphp/captainhook) ![GitHub last commit](https://img.shields.io/github/last-commit/captainhookphp/captainhook)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
-* [PHP CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCSStandards/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCSStandards/PHP_CodeSniffer)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHP-CS-Fixer/PHP-CS-Fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHP-CS-Fixer/PHP-CS-Fixer)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 * [PHP Mess Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/phpmd/phpmd) ![GitHub last commit](https://img.shields.io/github/last-commit/phpmd/phpmd)](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHPCheckstyle ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCheckstyle/phpcheckstyle) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCheckstyle/phpcheckstyle)](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
