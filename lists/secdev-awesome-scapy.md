@@ -15,7 +15,7 @@ You can also [explore Scapy topics ![GitHub Repo Stars](https://img.shields.io/g
 
 ## Tools
 
-*Tools that use Scapy (a lot) or extend it*
+Tools that use Scapy (a lot) or extend it.
 
 Fun
 - [pwnagotchi ![GitHub Repo Stars](https://img.shields.io/github/stars/evilsocket/pwnagotchi) ![GitHub last commit](https://img.shields.io/github/last-commit/evilsocket/pwnagotchi)](https://github.com/evilsocket/pwnagotchi) - Your AI pet that hacks WiFI to grow. It's super cute.
@@ -71,7 +71,7 @@ Misc
 
 ## Exploits
 
-*Exploits that use Scapy. This does not count the ones included by default*
+Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
