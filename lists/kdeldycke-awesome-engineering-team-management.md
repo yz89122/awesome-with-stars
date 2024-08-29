@@ -691,7 +691,7 @@ Where your product lies in the value chain and how to position it in the market.
 
 - [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400) - Your organization will end up with Atlassian products because “their business model is: 1. Collect requirement lists from customers and prospective customers; 2. Make sure their product checks every damn box, no matter how stupid.”
 
-- “Linear roadmaps are misleading�� ([source](https://twitter.com/PavelASamsonov/status/1296818042928861184)).
+- “Linear roadmaps are misleading” ([source](https://twitter.com/PavelASamsonov/status/1296818042928861184)).
 
 ### User-Centered Design
 
