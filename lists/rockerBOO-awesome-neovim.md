@@ -164,6 +164,7 @@
 - [rachartier/tiny-inline-diagnostic.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-inline-diagnostic.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-inline-diagnostic.nvim)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 - [chrisgrieser/nvim-lsp-endhints ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-lsp-endhints) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-lsp-endhints)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [rachartier/tiny-code-action.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-code-action.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-code-action.nvim)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
+- [mawkler/refjump.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mawkler/refjump.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mawkler/refjump.nvim)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
 
 #### LSP Installer
 
