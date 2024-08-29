@@ -378,7 +378,7 @@ Meteo
 #### Augmented Reality
 
 - [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [789⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
-- [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [426⭐] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+- [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [426���] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## Plugins
 
@@ -451,7 +451,7 @@ Simon Binder](https://github.com/simolus3)
 ### Widgets
 
 - [Hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/rrousselGit/flutter_hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/rrousselGit/flutter_hooks)](https://github.com/rrousselGit/flutter_hooks) [3060⭐] - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
-- [Functional widget ![GitHub Repo Stars](https://img.shields.io/github/stars/rrousselGit/functional_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/rrousselGit/functional_widget)](https://github.com/rrousselGit/functional_widget) [586⭐] - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
+- [Functional widget ![GitHub Repo Stars](https://img.shields.io/github/stars/rrousselGit/functional_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/rrousselGit/functional_widget)](https://github.com/rrousselGit/functional_widget) [586���] - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
 ### Data
 
