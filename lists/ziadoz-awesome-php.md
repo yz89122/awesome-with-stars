@@ -330,6 +330,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [PHPSpec ![GitHub Repo Stars](https://img.shields.io/github/stars/phpspec/phpspec) ![GitHub last commit](https://img.shields.io/github/last-commit/phpspec/phpspec)](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phpunit) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phpunit)](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+* [PHPUnit Polyfills ![GitHub Repo Stars](https://img.shields.io/github/stars/Yoast/PHPUnit-Polyfills) ![GitHub last commit](https://img.shields.io/github/last-commit/Yoast/PHPUnit-Polyfills)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 * [Prophecy ![GitHub Repo Stars](https://img.shields.io/github/stars/phpspec/prophecy) ![GitHub last commit](https://img.shields.io/github/last-commit/phpspec/prophecy)](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [VFS Stream ![GitHub Repo Stars](https://img.shields.io/github/stars/bovigo/vfsStream) ![GitHub last commit](https://img.shields.io/github/last-commit/bovigo/vfsStream)](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
