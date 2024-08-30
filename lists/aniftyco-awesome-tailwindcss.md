@@ -178,7 +178,7 @@
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
 - 📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
 - 📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
-- 📚 [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
+- ��� [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
 - 📚 [Tailkits](https://tailkits.com/) - Curated Tailwind CSS components, templates, UI kits, resources, tools & more.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
