@@ -497,7 +497,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [bodyclose ![GitHub Repo Stars](https://img.shields.io/github/stars/timakin/bodyclose) ![GitHub last commit](https://img.shields.io/github/last-commit/timakin/bodyclose)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
 
-- [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) — Finds unused code.
+- [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) �� Finds unused code.
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
@@ -1012,7 +1012,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyright ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/pyright) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/pyright)](https://github.com/Microsoft/pyright) — Static type checker for Python, created to address gaps in existing tools like mypy.
 
-- [pyroma ![GitHub Repo Stars](https://img.shields.io/github/stars/regebro/pyroma) ![GitHub last commit](https://img.shields.io/github/last-commit/regebro/pyroma)](https://github.com/regebro/pyroma) ��� Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved.
+- [pyroma ![GitHub Repo Stars](https://img.shields.io/github/stars/regebro/pyroma) ![GitHub last commit](https://img.shields.io/github/last-commit/regebro/pyroma)](https://github.com/regebro/pyroma) — Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved.
 
 - [Pysa](https://pyre-check.org/docs/pysa-basics.html) — A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 
