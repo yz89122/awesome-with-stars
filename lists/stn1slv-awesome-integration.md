@@ -246,7 +246,7 @@ System integration is the process of linking together different IT systems (com
 - [Workato](https://www.workato.com/) - A single platform for integration and workflow automation across your organization, providing software engineers with a powerful platform for simplifying integration processes and streamlining operations.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 <!--lint enable-->
 ### MaaS
 *Cloud Messaging as a Service (MaaS) refers to cloud-based messaging platforms that enable reliable, secure, and scalable communication between distributed applications and services. These platforms provide various messaging patterns such as publish-subscribe, request-reply, and streaming. They also offer features such as message routing, filtering, transformation, and persistence, and support various protocols and APIs for integration with different systems.*
