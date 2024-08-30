@@ -840,7 +840,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) — A Static Security Scanner.
 
-- [pdepend](https://pdepend.org) ��� Calculates software metrics like cyclomatic complexity for PHP code.
+- [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 
 - [phan ![GitHub Repo Stars](https://img.shields.io/github/stars/phan/phan) ![GitHub last commit](https://img.shields.io/github/last-commit/phan/phan)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
 
