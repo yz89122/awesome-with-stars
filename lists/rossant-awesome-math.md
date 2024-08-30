@@ -419,7 +419,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 * 📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
-* 📝 [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
+* ��� [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
 * 📝 [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
 
@@ -435,7 +435,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
-* 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
+* �� [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 * 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
@@ -446,7 +446,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
 * 📝 [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
 * 📝 [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
-* ��� [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
+* 📝 [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 * 📝 [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 * 📝 [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
 * 📝 [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)

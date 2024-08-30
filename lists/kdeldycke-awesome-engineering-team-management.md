@@ -461,7 +461,7 @@ Expansive lists of well-known models and concepts.
 
 - [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - “A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.”
 
-- [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - “Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.”
+- [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - ���Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.”
 
 ### Behavioral
 
