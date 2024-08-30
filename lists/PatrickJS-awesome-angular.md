@@ -514,6 +514,7 @@ become an Angular expert.
 * [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
 * [VS Code Angular HTML](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) - Syntax highlighting for angular HTML Template files.
 * [angular-scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/EPAM-JS-Competency-center/angular-scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/EPAM-JS-Competency-center/angular-scaffold)](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
+* [vscode-angulartools ![GitHub Repo Stars](https://img.shields.io/github/stars/CoderAllan/vscode-angulartools) ![GitHub last commit](https://img.shields.io/github/last-commit/CoderAllan/vscode-angulartools)](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
 
 #### Documentation tools
 
@@ -810,6 +811,7 @@ become an Angular expert.
 * [ng-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-slider)](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 * [keen-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/rcbyr/keen-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/rcbyr/keen-slider)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 * [ngx-darkbox-gallery-library ![GitHub Repo Stars](https://img.shields.io/github/stars/failed-successfully/ngx-darkbox-gallery-library) ![GitHub last commit](https://img.shields.io/github/last-commit/failed-successfully/ngx-darkbox-gallery-library)](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
+* [slidecontent-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/slidecontent-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/slidecontent-angular)](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 
 #### Charts
 
@@ -983,6 +985,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [icon-lib-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/dimaslz/icon-lib-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/dimaslz/icon-lib-builder)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
 * [svg-icons-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-extensions/svg-icons-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-extensions/svg-icons-builder)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
 * [ngx-fast-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/push-based/ngx-fast-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/push-based/ngx-fast-svg)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+* [angular-techs-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/angular-techs-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/angular-techs-logos)](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 
 #### Images
 
@@ -1335,6 +1338,7 @@ for the creation of web applications developed with Angular.
 * [awesome-cordova-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/danielsogl/awesome-cordova-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/danielsogl/awesome-cordova-plugins)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 * [ionic-angular-library ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-library) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-library)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
 * [ionic-angular-collect-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-collect-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-collect-icons)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it.
+* [IDEA-Ionic8-extra ![GitHub Repo Stars](https://img.shields.io/github/stars/iter-idea/IDEA-Ionic8-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/iter-idea/IDEA-Ionic8-extra)](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 
 #### NgRx
 
