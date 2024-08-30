@@ -329,7 +329,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lisa Adams and Codie Roelf.
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) by Harris Lapiroff.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) by Zarina Mustapha.
-- [Running a Multi-Site Newsroom in Wagtail �� Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) by Ryan Verner.
+- [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) by Ryan Verner.
 - [Wagtail in the Cloud – Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Daniele Procida.
 - [Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018](https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Michael Harrison.
 - [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
@@ -338,14 +338,14 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
 - [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057) by Chris Adams. Code.
-- [Debug templates ��� Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) by Coen van der Kamp.
+- [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) by Coen van der Kamp.
 - [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) by Duco Dokter.
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) by Chris Adams.
 - [[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067) by Thibaud Colas.
 - [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
 - [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
 - [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
-- [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/fourdigits/wagtail_textract) ![GitHub last commit](https://img.shields.io/github/last-commit/fourdigits/wagtail_textract)](https://github.com/fourdigits/wagtail_textract).
+- [wagtail-textract �� Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/fourdigits/wagtail_textract) ![GitHub last commit](https://img.shields.io/github/last-commit/fourdigits/wagtail_textract)](https://github.com/fourdigits/wagtail_textract).
 - [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
 - [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/LUKKIEN/wagtail-marketing-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/LUKKIEN/wagtail-marketing-addons)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 - [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
