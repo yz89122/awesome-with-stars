@@ -497,7 +497,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [bodyclose ![GitHub Repo Stars](https://img.shields.io/github/stars/timakin/bodyclose) ![GitHub last commit](https://img.shields.io/github/last-commit/timakin/bodyclose)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
 
-- [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) �� Finds unused code.
+- [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) — Finds unused code.
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
@@ -840,7 +840,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Parse ![GitHub Repo Stars](https://img.shields.io/github/stars/psecio/parse) ![GitHub last commit](https://img.shields.io/github/last-commit/psecio/parse)](https://github.com/psecio/parse) — A Static Security Scanner.
 
-- [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
+- [pdepend](https://pdepend.org) ��� Calculates software metrics like cyclomatic complexity for PHP code.
 
 - [phan ![GitHub Repo Stars](https://img.shields.io/github/stars/phan/phan) ![GitHub last commit](https://img.shields.io/github/last-commit/phan/phan)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
 
