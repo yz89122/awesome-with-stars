@@ -232,7 +232,7 @@ A curated list of podcasts we like to listen to.
 * [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
 * [Dash](https://jogabilida.de/category/podcasts/podcast-games/dash/) - Podcast sobre games em que cada episódio explora um game, tema, franquia ou desenvolvedor a fundo, servindo até como um mini-doc em áudio.
-* [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ci��ncia de dados para falar do mercado de trabalho, carreira e novidades.
+* [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
 * [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 * [DevNaEstrada](https://devnaestrada.com.br/) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
 * [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
@@ -342,7 +342,7 @@ A curated list of podcasts we like to listen to.
 
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [Les Cast Codeurs](https://lescastcodeurs.com) - Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
-* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en fran��ais.
+* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
