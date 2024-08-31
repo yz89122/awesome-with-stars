@@ -398,6 +398,7 @@ become an Angular expert.
 * [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
 * [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
 * [astral-accessibility ![GitHub Repo Stars](https://img.shields.io/github/stars/verto-health/astral-accessibility) ![GitHub last commit](https://img.shields.io/github/last-commit/verto-health/astral-accessibility)](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
+* [angular-vlibras ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-a11y/angular-vlibras) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-a11y/angular-vlibras)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
 
 #### AI
 
@@ -419,6 +420,7 @@ become an Angular expert.
 * [angular-webxr-art-sample ![GitHub Repo Stars](https://img.shields.io/github/stars/google-gemini/angular-webxr-art-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/google-gemini/angular-webxr-art-sample)](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [deep-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/deep-chat)](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
+* [abbi-ng-ai-image-descriptor ![GitHub Repo Stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor) ![GitHub last commit](https://img.shields.io/github/last-commit/slsfi/abbi-ng-ai-image-descriptor)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 
 #### Analytics
 
@@ -700,6 +702,7 @@ become an Angular expert.
 * [mantis-free-angular-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/mantis-free-angular-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/mantis-free-angular-admin-template)](https://github.com/codedthemes/mantis-free-angular-admin-template)
 * [datta-able-free-angular-admin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/codedthemes/datta-able-free-angular-admin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/codedthemes/datta-able-free-angular-admin-template)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 * [sanity-template-angular-clean ![GitHub Repo Stars](https://img.shields.io/github/stars/sanity-io/sanity-template-angular-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/sanity-io/sanity-template-angular-clean)](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
+* [angular-templates ![GitHub Repo Stars](https://img.shields.io/github/stars/hawkgs/angular-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/hawkgs/angular-templates)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 
 ##### Paid
 
@@ -1322,6 +1325,7 @@ for the creation of web applications developed with Angular.
 * [ngx-flagr ![GitHub Repo Stars](https://img.shields.io/github/stars/pBouillon/ngx-flagr) ![GitHub last commit](https://img.shields.io/github/last-commit/pBouillon/ngx-flagr)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [module-federation-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/module-federation-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/module-federation-plugin)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 * [ng2-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/moribvndvs/ng2-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/moribvndvs/ng2-idle)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+* [ng2-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/hawkgs/ng2-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/hawkgs/ng2-gauge)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
 ---
 
