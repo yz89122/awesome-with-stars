@@ -497,7 +497,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [bodyclose ![GitHub Repo Stars](https://img.shields.io/github/stars/timakin/bodyclose) ![GitHub last commit](https://img.shields.io/github/last-commit/timakin/bodyclose)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
 
-- [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) �� Finds unused code.
+- [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) — Finds unused code.
 
 - [dingo-hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/nickng/dingo-hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/nickng/dingo-hunter)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
 
@@ -1415,6 +1415,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [CodeSee](https://www.codesee.io/) :copyright: — CodeSee is mapping and automating your app's services, directories, file dependencies, and code changes. It's like Google Map, but for code.t
 
 - [CodeSonar from GrammaTech](https://codesecure.com/our-products/codesonar/) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
+
+- [Codety](https://www.codety.io) :copyright: — Codety Scanner is a comprehensive source code scanner that embeds 5000+ static code analysis rules, which aim to detect code issues for 20+ programming languages and IaC tools.
 
 - [Codiga](https://www.codiga.io) :copyright: — Automated Code Reviews and Technical Debt management platform that supports 12+ languages.
 

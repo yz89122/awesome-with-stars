@@ -265,7 +265,7 @@
 - 🚀 [Gatsby Starter + Emotion JS ![GitHub Repo Stars](https://img.shields.io/github/stars/muhajirframe/gatsby-tailwind-emotion-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/muhajirframe/gatsby-tailwind-emotion-starter)](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
 - 🚀 [Gatsby Starter Opinionated ![GitHub Repo Stars](https://img.shields.io/github/stars/mjsarfatti/gatsby-starter-tailwind-opinionated) ![GitHub last commit](https://img.shields.io/github/last-commit/mjsarfatti/gatsby-starter-tailwind-opinionated)](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
 - 🚀 [Create React App Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/kriswep/cra-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/kriswep/cra-tailwindcss)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
-- 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/create-react-app-tailwindcss)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
+- ���� [Create React App with PurgeCSS + Autoprefixer + CSSNano ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/create-react-app-tailwindcss)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
 - 🚀 [Dogpatch ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-pallot/dogpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-pallot/dogpatch)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
 - 🚀 [Next.js Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/oddstronaut/tailwind-next) ![GitHub last commit](https://img.shields.io/github/last-commit/oddstronaut/tailwind-next)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 - 🚀 [Sapper & Svelte Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/EricPKerr/sapper-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/EricPKerr/sapper-tailwindcss-starter)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
@@ -341,7 +341,7 @@
 <p align="center">
   <br />
   <br />
-  ·
+  ��
   <br />
   <br />
   <sub>Contributions welcome! Read the <a href="CONTRIBUTING.md">contribution guidelines</a> first.</sub>
