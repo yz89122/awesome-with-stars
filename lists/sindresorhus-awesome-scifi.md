@@ -226,7 +226,7 @@ This book will teach you to stretch your imagination and see things in a differe
 <details>
   <summary>Description</summary>
 
-  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines���are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines—are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
   >
   > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 </details>
@@ -623,7 +623,7 @@ This space opera novel reminds me of a series of _Star Trek_ episodes, if [Rodde
   > The book can be roughly divided into four sections corresponding to the four short stories on which it was based. In the first part, the _Space Beagle_ is infiltrated by Coeurl, a starving, intelligent and vicious cat-like carnivore with tentacles on its shoulders. In the second, the ship is almost destroyed by internal warfare caused by telepathic contact with a race of bird-like aliens. The third features Ixtl, a scarlet alien that kidnaps several crew members in order to implant parasitic eggs in their stomachs. In the last section, the crew battles Anabis, a galaxy-spanning consciousness.
 </details>
 
-#### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) _by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)_ [3.8] 🌟 🔥
+#### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) _by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)_ [3.8] �� 🔥
 
 This is always fun; it's a classic, and it is fun remembering what science fiction was like before there were tropes. - [@RichardLitt](https://github.com/RichardLitt)
 
