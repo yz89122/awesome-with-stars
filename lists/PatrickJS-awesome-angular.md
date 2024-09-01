@@ -954,6 +954,7 @@ become an Angular expert.
 * [ng-signal-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/timdeschryver/ng-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/timdeschryver/ng-signal-forms)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 * [ngx-sub-form ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnc/ngx-sub-form) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnc/ngx-sub-form)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 * [forms-typed ![GitHub Repo Stars](https://img.shields.io/github/stars/gparlakov/forms-typed) ![GitHub last commit](https://img.shields.io/github/last-commit/gparlakov/forms-typed)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+* [ngx-vest-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/simplifiedcourses/ngx-vest-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/simplifiedcourses/ngx-vest-forms)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 
 ##### Form Controls
 
