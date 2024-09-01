@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- �� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -400,7 +400,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [ezEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ezEngine/ezEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ezEngine/ezEngine)](https://github.com/ezEngine/ezEngine) - Game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
     - 🎉 [FIFE ![GitHub Repo Stars](https://img.shields.io/github/stars/fifengine/fifengine) ![GitHub last commit](https://img.shields.io/github/last-commit/fifengine/fifengine)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
     - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
-    - 🎉 [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
+    - ��� [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     - 🎉 [Lina Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/inanevin/LinaEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/inanevin/LinaEngine)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
     - 🎉 [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorton06/Lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorton06/Lumos)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
     - 🎉 [Lumix Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/nem0/LumixEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/nem0/LumixEngine)](https://github.com/nem0/LumixEngine) - A 3D game engine with _Dear ImGui_ based editor.
@@ -694,7 +694,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Jelly Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelapfelbeck/jellyPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelapfelbeck/jellyPhysics)](https://github.com/michaelapfelbeck/jellyPhysics) - Soft body 2D physics engine.
     - 🎉 [Nape ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4) - Fast, friendly 2D rigid body physics engine. [[Demos](https://joecreates.github.io/napephys/)]
 - Haxe: Serialization / Storage
-    - ��� [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
+    - 🎉 [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
     - 🎉 [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
     - 🎉 [HxBit ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/hxbit) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/hxbit)](https://github.com/HeapsIO/hxbit) - Binary serialization and network synchronization library.
 - Haxe: Utility
@@ -1015,7 +1015,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Glium ![GitHub Repo Stars](https://img.shields.io/github/stars/glium/glium) ![GitHub last commit](https://img.shields.io/github/last-commit/glium/glium)](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
     - 🎉 [Kiss3D ![GitHub Repo Stars](https://img.shields.io/github/stars/sebcrozet/kiss3d) ![GitHub last commit](https://img.shields.io/github/last-commit/sebcrozet/kiss3d)](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
     - 🎉 [Miniquad ![GitHub Repo Stars](https://img.shields.io/github/stars/not-fl3/miniquad) ![GitHub last commit](https://img.shields.io/github/last-commit/not-fl3/miniquad)](https://github.com/not-fl3/miniquad) - Cross platform rendering.
-    - ���� [Vulkano ![GitHub Repo Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![GitHub last commit](https://img.shields.io/github/last-commit/vulkano-rs/vulkano)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
+    - 🎉 [Vulkano ![GitHub Repo Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![GitHub last commit](https://img.shields.io/github/last-commit/vulkano-rs/vulkano)](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 - Rust: Gui
     - 🔒 [Azul ![GitHub Repo Stars](https://img.shields.io/github/stars/fschutt/azul) ![GitHub last commit](https://img.shields.io/github/last-commit/fschutt/azul)](https://github.com/fschutt/azul) - Desktop gui framework.
     - 🎉 [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
