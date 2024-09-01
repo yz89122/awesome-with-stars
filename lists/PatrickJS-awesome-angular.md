@@ -66,6 +66,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Calendars](#calendars)
   * [Carousels](#carousels)
   * [Charts](#charts)
+  * [Data Grids](#data-grids)
   * [Dates](#dates)
   * [DOM](#dom)
   * [Drag and Drop](#drag-and-drop)
@@ -90,7 +91,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Scroll](#scroll)
   * [State Management](#state-management)
   * [Storage](#storage)
-  * [Tables](#tables)
   * [Tooltips](#tooltips)
   * [UI Libraries](#ui-libraries)
     * [Unspecified](#unspecified)
@@ -602,6 +602,7 @@ become an Angular expert.
 * [angular-sdk-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/splitio/angular-sdk-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/splitio/angular-sdk-plugin)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
 * [ngx-stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/richnologies/ngx-stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/richnologies/ngx-stripe)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 * [ngx-socket-io ![GitHub Repo Stars](https://img.shields.io/github/stars/rodgc/ngx-socket-io) ![GitHub last commit](https://img.shields.io/github/last-commit/rodgc/ngx-socket-io)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
+* [angular-three ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-threejs/angular-three) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-threejs/angular-three)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/three.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/three.js)](https://github.com/mrdoob/three.js).
 
 #### Internationalization
 
@@ -636,6 +637,7 @@ become an Angular expert.
 * [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
 * [Github Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
+* [HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular) - Angular Security  Checklist.
 
 #### SEO
 
@@ -839,6 +841,23 @@ become an Angular expert.
 * [angular-highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/cebor/angular-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/cebor/angular-highcharts)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
+#### Data Grids
+
+* [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
+* [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/IgniteUI/igniteui-angular)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
+* [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - SheetJS is a JavaScript library for reading and writing data from spreadsheets.
+* [ngx-easy-table ![GitHub Repo Stars](https://img.shields.io/github/stars/ssuperczynski/ngx-easy-table) ![GitHub last commit](https://img.shields.io/github/last-commit/ssuperczynski/ngx-easy-table)](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
+* [active-table ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/active-table) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/active-table)](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
+* [jsgrids ![GitHub Repo Stars](https://img.shields.io/github/stars/statico/jsgrids) ![GitHub last commit](https://img.shields.io/github/last-commit/statico/jsgrids)](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
+* [ui-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-ui/ui-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-ui/ui-grid)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
+* [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
+* [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
+* [ngx-export-as ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-export-as) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-export-as)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+* [datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/datagrid)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
+* [angular-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/l-lin/angular-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/l-lin/angular-datatables)](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
+* [angular-slickgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/Angular-Slickgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/Angular-Slickgrid)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mleibman/SlickGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mleibman/SlickGrid)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
+* [revogrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/revogrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/revogrid)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+
 #### Dates
 
 * [ngx-date-fns ![GitHub Repo Stars](https://img.shields.io/github/stars/joanllenas/ngx-date-fns) ![GitHub last commit](https://img.shields.io/github/last-commit/joanllenas/ngx-date-fns)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
@@ -853,6 +872,7 @@ become an Angular expert.
 * [ngx-multiple-dates ![GitHub Repo Stars](https://img.shields.io/github/stars/lekhmanrus/ngx-multiple-dates) ![GitHub last commit](https://img.shields.io/github/last-commit/lekhmanrus/ngx-multiple-dates)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
 * [ng-datetime ![GitHub Repo Stars](https://img.shields.io/github/stars/ressurectit/ng-datetime) ![GitHub last commit](https://img.shields.io/github/last-commit/ressurectit/ng-datetime)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 * [time2blocks-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/antonioconselheiro/time2blocks-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/antonioconselheiro/time2blocks-ngx)](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
+* [dhutaryan/ngx-mat-timepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dhutaryan/ngx-mat-timepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dhutaryan/ngx-mat-timepicker)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 
 #### DOM
 
@@ -1167,22 +1187,6 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-async-local-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrilletuzi/angular-async-local-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrilletuzi/angular-async-local-storage)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
 * [ng-web-apis/storage ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-web-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-web-apis)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
 * [ngx-odm ![GitHub Repo Stars](https://img.shields.io/github/stars/voznik/ngx-odm) ![GitHub last commit](https://img.shields.io/github/last-commit/voznik/ngx-odm)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
-
-#### Tables
-
-* [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
-* [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/IgniteUI/igniteui-angular)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
-* [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - SheetJS is a JavaScript library for reading and writing data from spreadsheets.
-* [ngx-easy-table ![GitHub Repo Stars](https://img.shields.io/github/stars/ssuperczynski/ngx-easy-table) ![GitHub last commit](https://img.shields.io/github/last-commit/ssuperczynski/ngx-easy-table)](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
-* [active-table ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/active-table) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/active-table)](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
-* [jsgrids ![GitHub Repo Stars](https://img.shields.io/github/stars/statico/jsgrids) ![GitHub last commit](https://img.shields.io/github/last-commit/statico/jsgrids)](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
-* [ui-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-ui/ui-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-ui/ui-grid)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
-* [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
-* [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
-* [ngx-export-as ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-export-as) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-export-as)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
-* [datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/datagrid)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
-* [angular-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/l-lin/angular-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/l-lin/angular-datatables)](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
-* [angular-slickgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/Angular-Slickgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/Angular-Slickgrid)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mleibman/SlickGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mleibman/SlickGrid)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 
 #### Tooltips
 
