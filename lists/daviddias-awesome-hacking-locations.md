@@ -478,7 +478,7 @@ Wifi | Power | Climatization  | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Germany ����🇪
+# Germany 🇩🇪
 
 ## Berlin
 
@@ -606,7 +606,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Italy 🇮🇹
+# Italy ��🇹
 
 ## Rome
 
@@ -1355,7 +1355,7 @@ Naver Map: http://naver.me/FjThMRso
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday
+��� | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday
 
 ![](http://www.speedtest.net/result/7264247601.png)
 
