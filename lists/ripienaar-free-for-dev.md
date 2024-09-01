@@ -416,7 +416,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs, calendars, etc. Free for up to 10 users.
-  * [Keybase](https://keybase.io/) — Keybase is a FOSS alternative to Slack; it keeps everyone's chats and files safe, from families to communities to companies.
+  * [Keybase](https://keybase.io/) ��� Keybase is a FOSS alternative to Slack; it keeps everyone's chats and files safe, from families to communities to companies.
   * [Google Meet](https://meet.google.com/) — Use Google Meet for your business's online video meeting needs. Meet provides secure, easy-to-join online meetings.
   * [/meet for Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group, or DM. Free without any limitations.
   * [Livecycle](https://www.livecycle.io/) — Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open-source projects.
