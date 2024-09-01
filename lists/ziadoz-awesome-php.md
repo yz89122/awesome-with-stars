@@ -175,7 +175,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Micro Frameworks
 *Micro frameworks and routers.*
 
-* [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
+* [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Minicli ![GitHub Repo Stars](https://img.shields.io/github/stars/minicli/minicli) ![GitHub last commit](https://img.shields.io/github/last-commit/minicli/minicli)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly ![GitHub Repo Stars](https://img.shields.io/github/stars/mnapoli/silly) ![GitHub last commit](https://img.shields.io/github/last-commit/mnapoli/silly)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
@@ -547,7 +547,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
 * [Money ![GitHub Repo Stars](https://img.shields.io/github/stars/moneyphp/money) ![GitHub last commit](https://img.shields.io/github/last-commit/moneyphp/money)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-* [Brick\Money ![GitHub Repo Stars](https://img.shields.io/github/stars/brick/money) ![GitHub last commit](https://img.shields.io/github/last-commit/brick/money)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+* [Brick Money ![GitHub Repo Stars](https://img.shields.io/github/stars/brick/money) ![GitHub last commit](https://img.shields.io/github/last-commit/brick/money)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/omnipay) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/omnipay)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum ![GitHub Repo Stars](https://img.shields.io/github/stars/payum/payum) ![GitHub last commit](https://img.shields.io/github/last-commit/payum/payum)](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopsys Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsys/shopsys) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsys/shopsys)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
@@ -657,7 +657,7 @@ Libraries to help manage database schemas and migrations.
 * [TwitterOAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/abraham/twitteroauth) ![GitHub last commit](https://img.shields.io/github/last-commit/abraham/twitteroauth)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
-*Libraries for working with markup and CSS formats.
+*Libraries for working with markup and CSS formats.*
 
 * [Cebe Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cebe/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cebe/markdown)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 * [CommonMark PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/commonmark) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/commonmark)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
@@ -701,7 +701,7 @@ Libraries to help manage database schemas and migrations.
 ### Numbers
 *Libraries for working with numbers.*
 
-* [Brick\Math ![GitHub Repo Stars](https://img.shields.io/github/stars/brick/math) ![GitHub last commit](https://img.shields.io/github/last-commit/brick/math)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
+* [Brick Math ![GitHub Repo Stars](https://img.shields.io/github/stars/brick/math) ![GitHub last commit](https://img.shields.io/github/last-commit/brick/math)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [ByteUnits ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielelana/byte-units) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielelana/byte-units)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [DecimalObject ![GitHub Repo Stars](https://img.shields.io/github/stars/php-collective/decimal-object) ![GitHub last commit](https://img.shields.io/github/last-commit/php-collective/decimal-object)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 * [IP ![GitHub Repo Stars](https://img.shields.io/github/stars/darsyn/ip) ![GitHub last commit](https://img.shields.io/github/last-commit/darsyn/ip)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
