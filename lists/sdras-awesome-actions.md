@@ -32,6 +32,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Database](#database)
+  - [Networking](#networking)
   - [Localization](#localization)
   - [Fun](#fun)
   - [Cheat Sheet](#cheat-sheet)
@@ -90,6 +91,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [actions/setup-java: Java ![GitHub Repo Stars](https://img.shields.io/github/stars/actions/setup-java) ![GitHub last commit](https://img.shields.io/github/last-commit/actions/setup-java)](https://github.com/actions/setup-java)
 - [actions/setup-ruby: Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/actions/setup-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/actions/setup-ruby)](https://github.com/actions/setup-ruby)
 - [actions/setup-elixir: Elixir ![GitHub Repo Stars](https://img.shields.io/github/stars/actions/setup-elixir) ![GitHub last commit](https://img.shields.io/github/last-commit/actions/setup-elixir)](https://github.com/actions/setup-elixir)
+- [actions/setup-julia: Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/julia-actions/setup-julia) ![GitHub last commit](https://img.shields.io/github/last-commit/julia-actions/setup-julia)](https://github.com/julia-actions/setup-julia)
 
 ### Create your Actions
 
@@ -228,6 +230,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action Locks ![GitHub Repo Stars](https://img.shields.io/github/stars/abatilo/github-action-locks) ![GitHub last commit](https://img.shields.io/github/last-commit/abatilo/github-action-locks)](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter ![GitHub Repo Stars](https://img.shields.io/github/stars/dorny/paths-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/dorny/paths-filter)](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras ![GitHub Repo Stars](https://img.shields.io/github/stars/TeamTigers/minisauras) ![GitHub last commit](https://img.shields.io/github/last-commit/TeamTigers/minisauras)](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [Website to GIF ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/website-to-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/website-to-gif)](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
+- [Interactive Inputs - Runtime workflow inputs ![GitHub Repo Stars](https://img.shields.io/github/stars/boasiHQ/interactive-inputs) ![GitHub last commit](https://img.shields.io/github/last-commit/boasiHQ/interactive-inputs)](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
 
 #### Environments
 
@@ -271,6 +275,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run performance testing with artillery.io ![GitHub Repo Stars](https://img.shields.io/github/stars/kenju/github-actions-artillery) ![GitHub last commit](https://img.shields.io/github/last-commit/kenju/github-actions-artillery)](https://github.com/kenju/github-actions-artillery)
 - [Detect Flaky Tests with BuildPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/Workshop64/buildpulse-action) ![GitHub last commit](https://img.shields.io/github/last-commit/Workshop64/buildpulse-action)](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests ![GitHub Repo Stars](https://img.shields.io/github/stars/IgnusG/jest-report-action) ![GitHub last commit](https://img.shields.io/github/last-commit/IgnusG/jest-report-action)](https://github.com/IgnusG/jest-report-action)
+- [Run Julia tests ![GitHub Repo Stars](https://img.shields.io/github/stars/julia-actions/julia-runtest) ![GitHub last commit](https://img.shields.io/github/last-commit/julia-actions/julia-runtest)](https://github.com/julia-actions/julia-runtest)
 
 #### Linting
 
@@ -281,6 +286,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lint terraform files using tflint, with reviewdog output on the PR ![GitHub Repo Stars](https://img.shields.io/github/stars/reviewdog/action-tflint) ![GitHub last commit](https://img.shields.io/github/last-commit/reviewdog/action-tflint)](https://github.com/reviewdog/action-tflint)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide ![GitHub Repo Stars](https://img.shields.io/github/stars/peter-evans/autopep8) ![GitHub last commit](https://img.shields.io/github/last-commit/peter-evans/autopep8)](https://github.com/peter-evans/autopep8)
 - [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json` ![GitHub Repo Stars](https://img.shields.io/github/stars/ergebnis/composer-normalize-action) ![GitHub last commit](https://img.shields.io/github/last-commit/ergebnis/composer-normalize-action)](https://github.com/ergebnis/composer-normalize-action)
+- [Run `stolt/lean-package-validator` to ensure your package has only the required `runtime` artifacts ![GitHub Repo Stars](https://img.shields.io/github/stars/raphaelstolt/lean-package-validator-action) ![GitHub last commit](https://img.shields.io/github/last-commit/raphaelstolt/lean-package-validator-action)](https://github.com/raphaelstolt/lean-package-validator-action)
 - [Run Go lint checks on PR event ![GitHub Repo Stars](https://img.shields.io/github/stars/ArangoGutierrez/GoLinty-Action) ![GitHub last commit](https://img.shields.io/github/last-commit/ArangoGutierrez/GoLinty-Action)](https://github.com/ArangoGutierrez/GoLinty-Action)
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package ![GitHub Repo Stars](https://img.shields.io/github/stars/MarvinJWendt/run-node-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/MarvinJWendt/run-node-formatter)](https://github.com/MarvinJWendt/run-node-formatter)
 - [Stylelinter - GitHub Action that runs stylelint ![GitHub Repo Stars](https://img.shields.io/github/stars/exelban/stylelint) ![GitHub last commit](https://img.shields.io/github/last-commit/exelban/stylelint)](https://github.com/exelban/stylelint)
@@ -525,10 +531,15 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/fabasoad/setup-brainfuck-action) ![GitHub last commit](https://img.shields.io/github/last-commit/fabasoad/setup-brainfuck-action)](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
 - [Publish Go Binaries to GitHub Release Assets ![GitHub Repo Stars](https://img.shields.io/github/stars/wangyoucao577/go-release-action) ![GitHub last commit](https://img.shields.io/github/last-commit/wangyoucao577/go-release-action)](https://github.com/wangyoucao577/go-release-action)
 - [Setup COBOL ![GitHub Repo Stars](https://img.shields.io/github/stars/fabasoad/setup-cobol-action) ![GitHub last commit](https://img.shields.io/github/last-commit/fabasoad/setup-cobol-action)](https://github.com/fabasoad/setup-cobol-action)
+- [Check Gradle version ![GitHub Repo Stars](https://img.shields.io/github/stars/madhead/check-gradle-version) ![GitHub last commit](https://img.shields.io/github/last-commit/madhead/check-gradle-version)](https://github.com/madhead/check-gradle-version) - Keep your Gradle version up to date.
 
 ### Database
 
 - [Setup Cassandra Schema ![GitHub Repo Stars](https://img.shields.io/github/stars/fabasoad/setup-cassandra-action) ![GitHub last commit](https://img.shields.io/github/last-commit/fabasoad/setup-cassandra-action)](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
+### Networking
+
+- [Setup ZeroTier ![GitHub Repo Stars](https://img.shields.io/github/stars/zerotier/github-action) ![GitHub last commit](https://img.shields.io/github/last-commit/zerotier/github-action)](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
 
 ### Localization
 
