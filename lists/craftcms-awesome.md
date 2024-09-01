@@ -332,7 +332,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md). If you see
 - [10 Reasons Why We Love Craft CMS](http://taechogroup.com/blog/10-reasons-why-we-love-craft-cms) by Taecho Group
 - [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by Adam Fairholm/New Media Campaigns - `19 May 2017`
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital - `18 Apr 2017`
-- [An Overview of Pixel & Tonic��s Craft CMS](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) by Matthew Soyka - `21 Feb 2017`
+- [An Overview of Pixel & Tonic’s Craft CMS](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) by Matthew Soyka - `21 Feb 2017`
 - [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) by Chris Cox/Made by Bridge - `17 Nov 2021`
 - [Craft CMS Vs WordPress: Why Choose Craft?](https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d) - `19 June 2018`
 - [Crazy About Craft](http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started) by Nathan Huening/New Media Campaigns - `27 Feb 2017`
