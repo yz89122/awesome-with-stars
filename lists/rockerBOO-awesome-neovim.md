@@ -216,7 +216,7 @@
 - [tzachar/cmp-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/tzachar/cmp-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/tzachar/cmp-ai)](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 - [milanglacier/minuet-ai.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/minuet-ai.nvim)](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 - [yetone/avante.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yetone/avante.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yetone/avante.nvim)](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
-- [StubbornVegeta/llm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StubbornVegeta/llm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StubbornVegeta/llm.nvim)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+- [Kurama622/llm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kurama622/llm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kurama622/llm.nvim)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 - [3v0k4/exit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3v0k4/exit.nvim)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 
 ## Programming Languages Support
@@ -295,6 +295,7 @@
 - [ChuufMaster/markdown-toc ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuufMaster/markdown-toc) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuufMaster/markdown-toc)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 - [OXY2DEV/markview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/markview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/markview.nvim)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
 - [Kicamon/markdown-table-mode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kicamon/markdown-table-mode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kicamon/markdown-table-mode.nvim)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+- [SCJangra/table-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SCJangra/table-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SCJangra/table-nvim)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
 ### PHP
 
