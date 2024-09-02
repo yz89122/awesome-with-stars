@@ -311,7 +311,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [CatUI ![GitHub Repo Stars](https://img.shields.io/github/stars/wilhantian/catui) ![GitHub last commit](https://img.shields.io/github/last-commit/wilhantian/catui)](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [GOOi ![GitHub Repo Stars](https://img.shields.io/github/stars/tavuntu/gooi) ![GitHub last commit](https://img.shields.io/github/last-commit/tavuntu/gooi)](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
-* [Gsp��t](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
+* [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
 * [Helium ![GitHub Repo Stars](https://img.shields.io/github/stars/qeffects/helium) ![GitHub last commit](https://img.shields.io/github/last-commit/qeffects/helium)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 * [Layouter ![GitHub Repo Stars](https://img.shields.io/github/stars/nekromoff/layouter) ![GitHub last commit](https://img.shields.io/github/last-commit/nekromoff/layouter)](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
