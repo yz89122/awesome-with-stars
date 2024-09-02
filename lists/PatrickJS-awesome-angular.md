@@ -421,6 +421,7 @@ become an Angular expert.
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [deep-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/deep-chat)](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [abbi-ng-ai-image-descriptor ![GitHub Repo Stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor) ![GitHub last commit](https://img.shields.io/github/last-commit/slsfi/abbi-ng-ai-image-descriptor)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+* [ng-flexbot ![GitHub Repo Stars](https://img.shields.io/github/stars/arolleaguekeng/ng-flexbot) ![GitHub last commit](https://img.shields.io/github/last-commit/arolleaguekeng/ng-flexbot)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
 
 #### Analytics
 
@@ -1333,6 +1334,7 @@ for the creation of web applications developed with Angular.
 * [module-federation-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/module-federation-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/module-federation-plugin)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 * [ng2-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/moribvndvs/ng2-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/moribvndvs/ng2-idle)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng2-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/hawkgs/ng2-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/hawkgs/ng2-gauge)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
+* [ngx-angular-query-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/raysuelzer/ngx-angular-query-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/raysuelzer/ngx-angular-query-builder)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/zebzhao/Angular-QueryBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/zebzhao/Angular-QueryBuilder)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
 
 ---
 
@@ -1368,6 +1370,7 @@ for the creation of web applications developed with Angular.
 * [angular-ngrx-nx-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoslig/angular-ngrx-nx-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoslig/angular-ngrx-nx-realworld-example-app)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 * [ngx-view-state ![GitHub Repo Stars](https://img.shields.io/github/stars/yurakhomitsky/ngx-view-state) ![GitHub last commit](https://img.shields.io/github/last-commit/yurakhomitsky/ngx-view-state)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 * [store-service ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxp/store-service) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxp/store-service)](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
+* [ngrx-entity-relationship ![GitHub Repo Stars](https://img.shields.io/github/stars/satanTime/ngrx-entity-relationship) ![GitHub last commit](https://img.shields.io/github/last-commit/satanTime/ngrx-entity-relationship)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 
 #### RxJS
 
