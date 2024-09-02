@@ -332,6 +332,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-cookbook)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
+- [Anthropic courses ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/courses) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/courses)](https://github.com/anthropics/courses) - Anthropic's educational courses.
 
 ## More lists
 
