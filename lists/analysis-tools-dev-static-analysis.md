@@ -976,7 +976,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [flake8 ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/flake8) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/flake8)](https://github.com/PyCQA/flake8) — A wrapper around `pyflakes`, `pycodestyle` and `mccabe`.
 
-- [flakeheaven](https://pypi.org/project/flakeheaven/) — flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.
+- [flakeheaven](https://pypi.org/project/flakeheaven/) �� flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.
 
 - [InspectorTiger ![GitHub Repo Stars](https://img.shields.io/github/stars/thg-consulting/it) ![GitHub last commit](https://img.shields.io/github/last-commit/thg-consulting/it)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 
