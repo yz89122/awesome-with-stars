@@ -366,6 +366,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Frappe Datatable ![GitHub Repo Stars](https://img.shields.io/github/stars/frappe/datatable) ![GitHub last commit](https://img.shields.io/github/last-commit/frappe/datatable)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 * [Luckysheet ![GitHub Repo Stars](https://img.shields.io/github/stars/mengshukeji/Luckysheet) ![GitHub last commit](https://img.shields.io/github/last-commit/mengshukeji/Luckysheet)](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
  * [Jspreadsheet CE ![GitHub Repo Stars](https://img.shields.io/github/stars/jspreadsheet/ce) ![GitHub last commit](https://img.shields.io/github/last-commit/jspreadsheet/ce)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
+ * [RevoGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/revogrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/revogrid)](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
 
 ## Editors
 
@@ -630,6 +631,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
 * [Synapses ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdimosthenis/Synapses) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdimosthenis/Synapses)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [m2cgen ![GitHub Repo Stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
+* [JS-PyTorch ![GitHub Repo Stars](https://img.shields.io/github/stars/eduardoleao052/js-pytorch) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardoleao052/js-pytorch)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
 ## Browser Detection
 
