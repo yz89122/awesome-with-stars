@@ -263,7 +263,7 @@
 - 🚀 [Gatsby Starter Simplicity ![GitHub Repo Stars](https://img.shields.io/github/stars/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
 - 🚀 [Gatsby Starter + TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/ecklf/gatsby-typescript-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/ecklf/gatsby-typescript-tailwind)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
 - 🚀 [Gatsby Starter + Emotion JS ![GitHub Repo Stars](https://img.shields.io/github/stars/muhajirframe/gatsby-tailwind-emotion-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/muhajirframe/gatsby-tailwind-emotion-starter)](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
-- ��� [Gatsby Starter Opinionated ![GitHub Repo Stars](https://img.shields.io/github/stars/mjsarfatti/gatsby-starter-tailwind-opinionated) ![GitHub last commit](https://img.shields.io/github/last-commit/mjsarfatti/gatsby-starter-tailwind-opinionated)](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
+- 🚀 [Gatsby Starter Opinionated ![GitHub Repo Stars](https://img.shields.io/github/stars/mjsarfatti/gatsby-starter-tailwind-opinionated) ![GitHub last commit](https://img.shields.io/github/last-commit/mjsarfatti/gatsby-starter-tailwind-opinionated)](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
 - 🚀 [Create React App Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/kriswep/cra-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/kriswep/cra-tailwindcss)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 - 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/create-react-app-tailwindcss)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
 - 🚀 [Dogpatch ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-pallot/dogpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-pallot/dogpatch)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
@@ -294,7 +294,7 @@
 
 ## Learning
 
-**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial �� 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
 - 💙🧪 [Plugin Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-plugin-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-plugin-examples)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 - 🧪 [Tailwind Dark Mode Theme Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/huphtur/tailwind-theme-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/huphtur/tailwind-theme-switcher)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
@@ -315,7 +315,7 @@
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
-- 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
+- ��� [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
