@@ -3259,6 +3259,7 @@ _Software written in Go._
 ### DevOps Tools
 
 - [abbreviate ![GitHub Repo Stars](https://img.shields.io/github/stars/dnnrly/abbreviate) ![GitHub last commit](https://img.shields.io/github/last-commit/dnnrly/abbreviate)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
+- [alaz ![GitHub Repo Stars](https://img.shields.io/github/stars/ddosify/alaz) ![GitHub last commit](https://img.shields.io/github/last-commit/ddosify/alaz)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 - [aptly ![GitHub Repo Stars](https://img.shields.io/github/stars/smira/aptly) ![GitHub last commit](https://img.shields.io/github/last-commit/smira/aptly)](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
 - [aurora ![GitHub Repo Stars](https://img.shields.io/github/stars/xuri/aurora) ![GitHub last commit](https://img.shields.io/github/last-commit/xuri/aurora)](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 - [awsenv ![GitHub Repo Stars](https://img.shields.io/github/stars/soniah/awsenv) ![GitHub last commit](https://img.shields.io/github/last-commit/soniah/awsenv)](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.
