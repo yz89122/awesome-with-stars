@@ -465,7 +465,7 @@ Go's 2022 introduction of generics opens up a whole new world of programming in 
 
 <a href="https://bitfieldconsulting.com/books/tests"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/28e50f0d-5d77-42a4-8122-1e6d2a581849/cover+%28no+version%29.png?content-type=image%2Fpng" width="120px"/></a>
 
-Go’s built-in support for testing puts tests front and centre of any software project, from command-line tools to sophisticated backend servers and APIs. This book will introduce you to all Go’s testing facilities, show you how to use them to write tests for the trickiest things, and distils the collected wisdom of the Go community on best practices for testing Go programs. Crammed with hundreds of code examples, the book uses real tests and real problems to show you exactly what to do, step by step.
+Go��s built-in support for testing puts tests front and centre of any software project, from command-line tools to sophisticated backend servers and APIs. This book will introduce you to all Go’s testing facilities, show you how to use them to write tests for the trickiest things, and distils the collected wisdom of the Go community on best practices for testing Go programs. Crammed with hundreds of code examples, the book uses real tests and real problems to show you exactly what to do, step by step.
 
 ### 2022 - [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
 
