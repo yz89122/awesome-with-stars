@@ -277,6 +277,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Gaufrette ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/Gaufrette) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/Gaufrette)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [PHP FFmpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/PHP-FFmpeg/PHP-FFmpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/PHP-FFmpeg/PHP-FFmpeg)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 * [UnifiedArchive ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/UnifiedArchive) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/UnifiedArchive)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+* [Parquet ![GitHub Repo Stars](https://img.shields.io/github/stars/flow-php/parquet) ![GitHub last commit](https://img.shields.io/github/last-commit/flow-php/parquet)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format 
 
 ### Streams
 *Libraries for working with streams.*
