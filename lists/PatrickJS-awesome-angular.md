@@ -275,6 +275,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Tomasz Ducin](https://ducin.dev/blog)
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
+* [qupaya](https://qupaya.com/blog/)
 
 ##### Books
 
@@ -773,6 +774,7 @@ become an Angular expert.
 * [ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/eneajaho/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/eneajaho/ngx-libs)](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
 * [ng16-dep-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/danielglejzner/ng16-dep-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/danielglejzner/ng16-dep-audit)](https://github.com/danielglejzner/ng16-dep-audit) - Quickly check which dependencies stop you from upgrading!
 * [ngx-maintenance ![GitHub Repo Stars](https://img.shields.io/github/stars/danielglejzner/ngx-maintenance) ![GitHub last commit](https://img.shields.io/github/last-commit/danielglejzner/ngx-maintenance)](https://github.com/danielglejzner/ngx-maintenance) - Can't upgrade to Angular 16+ due to old View Engine dependencies? This automates the hassle so you can easily upgrade!
+* [fast-facts/ng-update ![GitHub Repo Stars](https://img.shields.io/github/stars/fast-facts/ng-update) ![GitHub last commit](https://img.shields.io/github/last-commit/fast-facts/ng-update)](https://github.com/fast-facts/ng-update) - A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 
 ---
 
@@ -1244,6 +1246,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [Windmillcode-Angular-CDK ![GitHub Repo Stars](https://img.shields.io/github/stars/WindMillCode/Windmillcode-Angular-CDK) ![GitHub last commit](https://img.shields.io/github/last-commit/WindMillCode/Windmillcode-Angular-CDK)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 * [ng-vcl ![GitHub Repo Stars](https://img.shields.io/github/stars/vcl/ng-vcl) ![GitHub last commit](https://img.shields.io/github/last-commit/vcl/ng-vcl)](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
+* [po-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/po-ui/po-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/po-ui/po-angular)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 
 ##### Material Based
 
