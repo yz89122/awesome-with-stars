@@ -266,7 +266,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/)| Open University | Intermediate| 10 |    🏆 |
+| [Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/)| Open University | Intermediate| 10 |    ���� |
 | [Electronic Applications](https://www.open.edu/openlearn/science-maths-technology/electronic-applications/)| Open University | Intermediate| 10 |    🏆 |
 | [Embedded Systems](https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/) | Academy Europe |Intermediate| 30 |🏆|
 | [Embedded Systems ES](https://www.mindluster.com/certificate/2234) | Mind Luster |Intermediate|8 | 🏆|
