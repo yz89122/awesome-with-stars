@@ -121,7 +121,7 @@
 - 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind CSS Colors](http://tailwindcsscolors.com) - Cheat sheet for Tailwind CSS colors.
-- 🎨🌍🔧 [Tailwind Gradients](http://tailwindgradients.com) - Collection of gradients using Tailwind CSS classes.
+- ����🌍🔧 [Tailwind Gradients](http://tailwindgradients.com) - Collection of gradients using Tailwind CSS classes.
 - 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
 - 🌍🔧💼 [Twind ![GitHub Repo Stars](https://img.shields.io/github/stars/tw-in-js/twind) ![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
