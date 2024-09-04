@@ -473,7 +473,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/sl3p) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/sl3p)](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [smart-pointers ![GitHub Repo Stars](https://img.shields.io/github/stars/alire-project/smart_pointers) ![GitHub last commit](https://img.shields.io/github/last-commit/alire-project/smart_pointers)](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart_Pointer.
 - [hungarian-algorithm ![GitHub Repo Stars](https://img.shields.io/github/stars/fastrgv/HungarianAlgorithm) ![GitHub last commit](https://img.shields.io/github/last-commit/fastrgv/HungarianAlgorithm)](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
-- [sal](https://web.archive.org/web/20240525031005/https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library): customized containers, AUnit extensions and various generics.
+- [sal](https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 - [nb-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/andgi/NBAda) ![GitHub last commit](https://img.shields.io/github/last-commit/andgi/NBAda)](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
