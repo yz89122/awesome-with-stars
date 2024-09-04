@@ -315,6 +315,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 * [Angular Checklist ![GitHub Repo Stars](https://img.shields.io/github/stars/typebytes/angular-checklist) ![GitHub last commit](https://img.shields.io/github/last-commit/typebytes/angular-checklist)](https://github.com/typebytes/angular-checklist)
 * [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
+* [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React & Vue all at once.
 
 ##### Exercises
 
@@ -900,6 +901,7 @@ become an Angular expert.
 * [ng-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/ng-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/ng-helpers)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 * [ng-condition ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-condition) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-condition)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 * [ngx-sticky-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/matheo/ngx-sticky-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/matheo/ngx-sticky-kit)](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
+* [ngx-ellipsis ![GitHub Repo Stars](https://img.shields.io/github/stars/lentschi/ngx-ellipsis) ![GitHub last commit](https://img.shields.io/github/last-commit/lentschi/ngx-ellipsis)](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
 
 #### Drag and Drop
 
@@ -1087,6 +1089,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/bluehalo/ngx-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/bluehalo/ngx-leaflet)](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
 * [ngx-maplibre-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/maplibre/ngx-maplibre-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/maplibre/ngx-maplibre-gl)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
+* [ng-azure-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudleclerc/ng-azure-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudleclerc/ng-azure-maps)](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
 
 #### Markdown
 

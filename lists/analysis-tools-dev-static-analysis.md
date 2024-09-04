@@ -710,7 +710,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [hegel](https://hegel.js.org) — A static type checker for JavaScript with a bias on type inference and strong type systems.
 
-- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
+- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) �� Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
 
 - [JSLint ![GitHub Repo Stars](https://img.shields.io/github/stars/douglascrockford/JSLint) ![GitHub last commit](https://img.shields.io/github/last-commit/douglascrockford/JSLint)](https://github.com/douglascrockford/JSLint) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — The JavaScript Code Quality Tool.
 
@@ -834,7 +834,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Mondrian](https://trismegiste.github.io/Mondrian) :warning: — A set of static analysis and refactoring tools which use graph theory.
 
-- [Nitpick CI](https://nitpick-ci.com) :copyright: �� Automated PHP code review.
+- [Nitpick CI](https://nitpick-ci.com) :copyright: — Automated PHP code review.
 
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 

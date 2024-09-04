@@ -25,6 +25,8 @@
     - [2023 - Go Faster](#2023---go-faster)
     - [2023 - Shipping Go](#2023---shipping-go)
     - [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming-2nd-edition)
+    - [2024 - Go Programming - From Beginner to Professional, 2nd Edition](#2024---go-programming---from-beginner-to-professional)   
+
   - [Advanced Books](#advanced-books)
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
     - [2018 - Security with Go](#2018---security-with-go)
@@ -278,6 +280,22 @@ This book helps you:
 - Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
 - Learn how to use Go's advanced development tools
 
+### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF)
+
+<img src="https://content.packt.com/_/image/original/B18621/cover_image_large.jpg" width="120px"/>
+
+Go Programming – From Beginner to Professional is a comprehensive guide that takes your proficiency in the Go programming language from novice to expert. Starting with fundamental concepts, this book covers variables, command-line tools, and working with data before delving into advanced concepts, including error handling, interfaces, and generics, harnessing Go’s latest features through hands-on exercises. Along the way, you’ll learn to structure projects using Go modules, manage packages effectively, and master debugging techniques. As you progress, you’ll get to grips with practical application-centric aspects such as command-line programming, file manipulation, and working with SQL databases. Additionally, the book explores web server development, RESTful APIs, and utilizing the Go HTTP client to interact with web applications. Further enhancing your Go skills, you’ll learn concurrent programming, testing methodologies, Go tools, and how to deploy applications in the cloud. Throughout the book, you’ll uncover Go’s hidden gems and gain insights into time manipulation, best practices, and more. By the end of this book, you’ll have worked through practical exercises and activities that’ll equip you with the knowledge and skills needed to excel as a proficient Go developer, primed for success in real-world projects.
+
+What you will learn
+- Understand the Go syntax and apply it proficiently to handle data and write functions
+- Debug your Go code to troubleshoot development problems
+- Safely handle errors and recover from panics
+- Implement polymorphism using interfaces and gain insight into generics
+- Work with files and connect to popular external databases
+- Create an HTTP client and server and work with a RESTful web API
+- Use concurrency to design efficient software
+- Use Go tools to simplify development and improve your code
+
 
 
 ## Advanced Books
@@ -434,7 +452,7 @@ By the end of this book, you’ll have gained hands-on experience with everythin
 
 Event-driven architecture in Golang is an approach used to develop applications that shares state changes asynchronously, internally, and externally using messages. EDA applications are better suited at handling situations that need to scale up quickly and the chances of individual component failures are less likely to bring your system crashing down. This is why EDA is a great thing to learn and this book is designed to get you started with the help of step-by-step explanations of essential concepts, practical examples, and more.
 
-You’ll begin building event-driven microservices, including patterns to handle data consistency and resiliency. Not only will you learn the patterns behind event-driven microservices but also how to communicate using asynchronous messaging with event streams. You’ll then build an application made of several microservices that communicates using both choreographed and orchestrated messaging.
+You���ll begin building event-driven microservices, including patterns to handle data consistency and resiliency. Not only will you learn the patterns behind event-driven microservices but also how to communicate using asynchronous messaging with event streams. You’ll then build an application made of several microservices that communicates using both choreographed and orchestrated messaging.
 
 By the end of this book, you’ll be able to build and deploy your own event-driven microservices using asynchronous communication.
 
