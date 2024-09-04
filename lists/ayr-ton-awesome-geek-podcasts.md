@@ -236,7 +236,7 @@ A curated list of podcasts we like to listen to.
 * [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
 * [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 * [DevNaEstrada](https://devnaestrada.com.br/) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
-* [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ci��ncia de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
+* [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 * [Elemencast](https://elemencast.github.io/) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
 * [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 * [FalaDev](https://anchor.fm/faladev) - Passando a maior parte do tempo escrevendo código, chegou o momento de se reunir e falar sobre o universo da programação.
