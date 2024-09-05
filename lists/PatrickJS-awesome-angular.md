@@ -475,6 +475,7 @@ become an Angular expert.
 * [ngx-electronify ![GitHub Repo Stars](https://img.shields.io/github/stars/bampakoa/ngx-electronify) ![GitHub last commit](https://img.shields.io/github/last-commit/bampakoa/ngx-electronify)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
 * [dotenv-run ![GitHub Repo Stars](https://img.shields.io/github/stars/chihab/dotenv-run) ![GitHub last commit](https://img.shields.io/github/last-commit/chihab/dotenv-run)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 * [ng-packagr ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-packagr/ng-packagr) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-packagr/ng-packagr)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
+* [angular-env-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/igorissen/angular-env-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/igorissen/angular-env-builder)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 
 #### CLI
 
@@ -844,6 +845,7 @@ become an Angular expert.
 * [highcharts-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/highcharts/highcharts-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/highcharts/highcharts-angular)](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [angular-highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/cebor/angular-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/cebor/angular-highcharts)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
+* [zingchart-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/zingchart/zingchart-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/zingchart/zingchart-angular)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 
 #### Data Grids
 
@@ -861,6 +863,7 @@ become an Angular expert.
 * [angular-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/l-lin/angular-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/l-lin/angular-datatables)](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
 * [angular-slickgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/Angular-Slickgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/Angular-Slickgrid)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mleibman/SlickGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mleibman/SlickGrid)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 * [revogrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/revogrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/revogrid)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+* [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ZingGrid/zinggrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ZingGrid/zinggrid)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 
 #### Dates
 
@@ -1380,6 +1383,7 @@ for the creation of web applications developed with Angular.
 * [ngx-view-state ![GitHub Repo Stars](https://img.shields.io/github/stars/yurakhomitsky/ngx-view-state) ![GitHub last commit](https://img.shields.io/github/last-commit/yurakhomitsky/ngx-view-state)](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 * [store-service ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxp/store-service) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxp/store-service)](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
 * [ngrx-entity-relationship ![GitHub Repo Stars](https://img.shields.io/github/stars/satanTime/ngrx-entity-relationship) ![GitHub last commit](https://img.shields.io/github/last-commit/satanTime/ngrx-entity-relationship)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
+* [ngx-signal-store-query ![GitHub Repo Stars](https://img.shields.io/github/stars/k3nsei/ngx-signal-store-query) ![GitHub last commit](https://img.shields.io/github/last-commit/k3nsei/ngx-signal-store-query)](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 
 #### RxJS
 
