@@ -943,6 +943,7 @@ become an Angular expert.
 * [ngx-filepond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/ngx-filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/ngx-filepond)](https://github.com/pqina/ngx-filepond) - A handy [FilePond ![GitHub Repo Stars](https://img.shields.io/github/stars/pqina/filepond) ![GitHub last commit](https://img.shields.io/github/last-commit/pqina/filepond)](https://github.com/pqina/filepond) adapter component for Angular.
 * [ngx-file-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/georgipeltekov/ngx-file-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/georgipeltekov/ngx-file-drop)](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 * [uppy](https://uppy.io/docs/angular/) - [Uppy ![GitHub Repo Stars](https://img.shields.io/github/stars/transloadit/uppy) ![GitHub last commit](https://img.shields.io/github/last-commit/transloadit/uppy)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
+* [ngx-custom-material-file-input ![GitHub Repo Stars](https://img.shields.io/github/stars/daemons88/ngx-custom-material-file-input) ![GitHub last commit](https://img.shields.io/github/last-commit/daemons88/ngx-custom-material-file-input)](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 
 #### Forms
 
@@ -1185,6 +1186,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/politie/ngx-sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/politie/ngx-sherlock)](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/politie/sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/politie/sherlock)](https://github.com/politie/sherlock) distributed reactive state management library.
 * [tansu ![GitHub Repo Stars](https://img.shields.io/github/stars/AmadeusITGroup/tansu) ![GitHub last commit](https://img.shields.io/github/last-commit/AmadeusITGroup/tansu)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 * [@tethys/store ![GitHub Repo Stars](https://img.shields.io/github/stars/worktile/store) ![GitHub last commit](https://img.shields.io/github/last-commit/worktile/store)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
+* [angular-redux ![GitHub Repo Stars](https://img.shields.io/github/stars/reduxjs/angular-redux) ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/angular-redux)](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
 
 #### Storage
 
@@ -1280,6 +1282,7 @@ for the creation of web applications developed with Angular.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [David UI Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/david-ui-org/david-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/david-ui-org/david-ui-angular)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
+* [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline ![GitHub Repo Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline) ![GitHub last commit](https://img.shields.io/github/last-commit/htmlstreamofficial/preline)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 
 ##### Node Based
 
