@@ -226,7 +226,7 @@ This book will teach you to stretch your imagination and see things in a differe
 <details>
   <summary>Description</summary>
 
-  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines���are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines—are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
   >
   > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 </details>
@@ -1002,6 +1002,16 @@ A lovely balm for the weary science fiction reader about a post-collapse utopian
 
   > Centuries before, robots of Panga gained self-awareness, laid down their tools, wandered, en masse into the wilderness, never to be seen again. They faded into myth and urban legend.
   > Now the life of the tea monk who tells this story is upended by the arrival of a robot, there to honor the old promise of checking in. The robot cannot go back until the question of "what do people need?" is answered. But the answer to that question depends on who you ask, and how. They will need to ask it a lot. Chambers' series asks: in a world where people have what they want, does having more matter?
+</details>
+
+#### [The Rolling Stones](https://www.goodreads.com/book/show/50848.The_Rolling_Stones) (1952) _by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)_ [3.9]
+
+A charming, fast-paced space adventure following the Stone family as they journey through the solar system, offering a delightful mix of humor, family dynamics, and interplanetary escapades. -[@Russolves](https://github.com/Russolves)
+
+<details>
+	<summary>Description</summary>
+  > It doesn’t seem likely for twins to have the same middle name. Even so, it’s clear that Castor and Pollux Stone both have "Trouble" written in that spot on their birth certificates. Of course, anyone who’s met their grandmother Hazel would know that they came by it honestly…
+  > Join the Stone twins as they connive, cajole, and bamboozle their way across the Solar System in the company of the most high-spirited and hilarious family in all of science fiction. This light-hearted tale has some of Heinlein’s sassiest dialogue (not to mention the famous Flat Cats incident!). Oddly enough, it’s also a true example of real family values–for when you’re a Stone, your family is your highest priority.
 </details>
 
 #### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.9]
