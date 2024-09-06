@@ -359,7 +359,7 @@ Meteo
 - [The Gorgeous Login ![GitHub Repo Stars](https://img.shields.io/github/stars/huextrat/TheGorgeousLogin) ![GitHub last commit](https://img.shields.io/github/last-commit/huextrat/TheGorgeousLogin)](https://github.com/huextrat/TheGorgeousLogin) [1725⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App ![GitHub Repo Stars](https://img.shields.io/github/stars/longhoang2984/flutter_payment_app_ui) ![GitHub last commit](https://img.shields.io/github/last-commit/longhoang2984/flutter_payment_app_ui)](https://github.com/longhoang2984/flutter_payment_app_ui) [303⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 - [FlutterFoodybite ![GitHub Repo Stars](https://img.shields.io/github/stars/JideGuru/FlutterFoodybite) ![GitHub last commit](https://img.shields.io/github/last-commit/JideGuru/FlutterFoodybite)](https://github.com/JideGuru/FlutterFoodybite) [1520⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
-- [Flutter Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/diegoveloper/flutter-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/diegoveloper/flutter-samples)](https://github.com/diegoveloper/flutter-samples) [3046���] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+- [Flutter Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/diegoveloper/flutter-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/diegoveloper/flutter-samples)](https://github.com/diegoveloper/flutter-samples) [3046⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App ![GitHub Repo Stars](https://img.shields.io/github/stars/gregertw/actingweb_firstapp) ![GitHub last commit](https://img.shields.io/github/last-commit/gregertw/actingweb_firstapp)](https://github.com/gregertw/actingweb_firstapp) [463⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw)
 - [Smart Washing Machine ![GitHub Repo Stars](https://img.shields.io/github/stars/pawlik92/flutter_whirlpool) ![GitHub last commit](https://img.shields.io/github/last-commit/pawlik92/flutter_whirlpool)](https://github.com/pawlik92/flutter_whirlpool) [868⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
@@ -494,7 +494,7 @@ Simon Binder](https://github.com/simolus3)
 
 This section contains libraries that take an experimental or unorthodox approach.
 
-- [styled_widget ![GitHub Repo Stars](https://img.shields.io/github/stars/ReinBentdal/styled_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/ReinBentdal/styled_widget)](https://github.com/ReinBentdal/styled_widget) [1239⭐] - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+- [styled_widget ![GitHub Repo Stars](https://img.shields.io/github/stars/ReinBentdal/styled_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/ReinBentdal/styled_widget)](https://github.com/ReinBentdal/styled_widget) [1239��] - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## Engines
 
@@ -681,7 +681,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
 - Meetup [Calgary](https://www.meetup.com/FlutterCalgary)
 
-### 🇨🇮 Côte d'Ivoire (Ivory Coast)
+### 🇨🇮 C��te d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
