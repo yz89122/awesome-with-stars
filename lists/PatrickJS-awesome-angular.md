@@ -846,6 +846,7 @@ become an Angular expert.
 * [angular-highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/cebor/angular-highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/cebor/angular-highcharts)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 * [zingchart-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/zingchart/zingchart-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/zingchart/zingchart-angular)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
+* [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
 #### Data Grids
 
@@ -864,6 +865,7 @@ become an Angular expert.
 * [angular-slickgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/Angular-Slickgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/Angular-Slickgrid)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mleibman/SlickGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mleibman/SlickGrid)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 * [revogrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/revogrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/revogrid)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 * [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ZingGrid/zinggrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ZingGrid/zinggrid)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
+* [ngx-panemu-table ![GitHub Repo Stars](https://img.shields.io/github/stars/panemu/ngx-panemu-table) ![GitHub last commit](https://img.shields.io/github/last-commit/panemu/ngx-panemu-table)](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 
 #### Dates
 
