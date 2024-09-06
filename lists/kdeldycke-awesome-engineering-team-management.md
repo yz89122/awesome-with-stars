@@ -449,7 +449,7 @@ Expansive lists of well-known models and concepts.
 
 - [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - “Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.” [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
 
-- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.” - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
+- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.�� - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 
 - [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
 
@@ -583,7 +583,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - Compilation of easy rules and processes to bootstrap a remote team.
 
-- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - “GitLab is the world's largest all-remote company”. Here is what it means and how it works.
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - “GitLab is the world's largest all-remote company���. Here is what it means and how it works.
 
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - “Remote workers are more productive than their office-bound counterparts.”
 
