@@ -1112,7 +1112,7 @@ Webpage: https://pt-pt.facebook.com/quatroaorato/
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ���️ | [Largo do Rato 4A, 1250-096 Lisboa](https://goo.gl/maps/BChdxAHRKmT2) | 8am - 20pm
+✔ | ✔ | ♨️ | [Largo do Rato 4A, 1250-096 Lisboa](https://goo.gl/maps/BChdxAHRKmT2) | 8am - 20pm
 
 ![](http://www.speedtest.net/result/7121883484.png)
 

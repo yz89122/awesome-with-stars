@@ -574,7 +574,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
-- [prealloc ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/prealloc) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/prealloc)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+- [prealloc ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/prealloc) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/prealloc)](https://github.com/alexkohler/prealloc) �� Finds slice declarations that could potentially be preallocated.
 
 - [Reviewdog ![GitHub Repo Stars](https://img.shields.io/github/stars/haya14busa/reviewdog) ![GitHub last commit](https://img.shields.io/github/last-commit/haya14busa/reviewdog)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
 
@@ -1030,7 +1030,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
 
-- [refurb ![GitHub Repo Stars](https://img.shields.io/github/stars/dosisod/refurb) ![GitHub last commit](https://img.shields.io/github/last-commit/dosisod/refurb)](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
+- [refurb ![GitHub Repo Stars](https://img.shields.io/github/stars/dosisod/refurb) ![GitHub last commit](https://img.shields.io/github/last-commit/dosisod/refurb)](https://github.com/dosisod/refurb) �� A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
 
 - [ruff](https://astral.sh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 
