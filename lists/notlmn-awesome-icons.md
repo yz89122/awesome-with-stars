@@ -47,6 +47,7 @@ General purpose icons used everywhere.
 - [VSCode Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-icons)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons ![GitHub Repo Stars](https://img.shields.io/github/stars/erikflowers/weather-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/erikflowers/weather-icons)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
+- Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
 
 ## Logos
 

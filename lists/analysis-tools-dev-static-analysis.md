@@ -1030,7 +1030,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
 
-- [refurb ![GitHub Repo Stars](https://img.shields.io/github/stars/dosisod/refurb) ![GitHub last commit](https://img.shields.io/github/last-commit/dosisod/refurb)](https://github.com/dosisod/refurb) �� A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
+- [refurb ![GitHub Repo Stars](https://img.shields.io/github/stars/dosisod/refurb) ![GitHub last commit](https://img.shields.io/github/last-commit/dosisod/refurb)](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
 
 - [ruff](https://astral.sh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 
