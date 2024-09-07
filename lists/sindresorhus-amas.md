@@ -191,6 +191,7 @@
 - [Ansible Taiwan ![GitHub Repo Stars](https://img.shields.io/github/stars/ansible-tw/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/ansible-tw/ama)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 - [IIIT Vadodara ![GitHub Repo Stars](https://img.shields.io/github/stars/iiitv/aua) ![GitHub last commit](https://img.shields.io/github/last-commit/iiitv/aua)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 - [Nikita Voloboev ![GitHub Repo Stars](https://img.shields.io/github/stars/nikitavoloboev/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/nikitavoloboev/ama)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+- [S Fox Jones ![GitHub Repo Stars](https://img.shields.io/github/stars/tj-commits/ama) ![GitHub last commit](https://img.shields.io/github/last-commit/tj-commits/ama)](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
 
 ---
 
