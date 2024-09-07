@@ -678,7 +678,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [HaxeFlixel ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/flixel) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/flixel)](https://github.com/HaxeFlixel/flixel) - Cross-platform 2D game framework powered by _OpenFL_. [[Website](https://haxeflixel.com/)]
     - 🎉 [OpenFL ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/openfl) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/openfl)](https://github.com/openfl/openfl) - Open source implementation of the [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash) API. [[Website](https://www.openfl.org/)]
 - Haxe: Graphics
-    - 🎉 [Heaps ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps) �� - Cross-platform 2D/3D engine (by creators of Haxe). [[Website](https://heaps.io)]
+    - 🎉 [Heaps ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/heaps) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/heaps)](https://github.com/HeapsIO/heaps) 🔥 - Cross-platform 2D/3D engine (by creators of Haxe). [[Website](https://heaps.io)]
     - 🎉 [Kha ![GitHub Repo Stars](https://img.shields.io/github/stars/Kode/Kha) ![GitHub last commit](https://img.shields.io/github/last-commit/Kode/Kha)](https://github.com/Kode/Kha) - Ultra-portable, high-performance multimedia framework.
     - 🎉 [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
 - Haxe: Gui
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
