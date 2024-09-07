@@ -154,7 +154,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4     | 🏆     |
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
-| [Data Visualisation in Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau) | Great Learning |Beginner| 1 | ��� |
+| [Data Visualisation in Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau) | Great Learning |Beginner| 1 | 🏆 |
 | [Data Visualization With Power BI](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi) | Great Learning |Beginner| 2 | 🏆 |
 | [Mastering Big Data Analytics](https://www.mygreatlearning.com/academy/learn-for-free/courses/mastering-big-data-analytics) | Great Learning |Intermediate| 19 | 🏆 |
 | [Data Visualization with Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/foundations-of-data-visualization-using-tableau) | Great Learning |Beginner| 2 | 🏆 |
