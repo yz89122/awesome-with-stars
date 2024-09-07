@@ -332,7 +332,7 @@ The best way to create a versatile and scalable PHP Web Application! It sure wil
 - [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-### FReMP: Flask ReactJS MongoDB Python [���](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
+### FReMP: Flask ReactJS MongoDB Python [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
 
 FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
@@ -480,7 +480,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.
 
 - [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/Unity-Technologies/UnityCsReference) ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/UnityCsReference)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
-- [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
+- [Plastic SCM](https://www.plasticscm.com/) - [��️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 - [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 
 ##### Resources
