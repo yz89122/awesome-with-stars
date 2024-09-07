@@ -245,7 +245,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★☆ | [Power up C++ with the Standard Template Library - Topcoder: Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/), [Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/) | An introductory tutorial on basic C++ STLs. |
-| ★★☆ | [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217) | Learn more about C++ I/O optimizations. |
+| ★★�� | [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217) | Learn more about C++ I/O optimizations. |
 | ★★☆ | [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643) ... [What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest) | Plentiful C++ tricks for competitive programming. Note that some should be used with care. |
 | ★★★ | [C++ STL: Policy based data structures - Codeforces: Part 1](http://codeforces.com/blog/entry/11080), [Part 2](http://codeforces.com/blog/entry/13279) | Detailed introduction to the extra data structures implemented in GNU C++. The official documentation can be found [here](https://gcc.gnu.org/onlinedocs/libstdc++/ext/pb_ds/). |
 | ★☆☆ | [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html) | A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++. |
@@ -304,7 +304,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426) |
 | ★★☆ | [Graph Editor](https://csacademy.com/app/graph_editor/) | A fantastic tool to create and visualize graphs. |
-| ★★☆ | [tcframe ![GitHub Repo Stars](https://img.shields.io/github/stars/ia-toki/tcframe) ![GitHub last commit](https://img.shields.io/github/last-commit/ia-toki/tcframe)](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
+| ���★☆ | [tcframe ![GitHub Repo Stars](https://img.shields.io/github/stars/ia-toki/tcframe) ![GitHub last commit](https://img.shields.io/github/last-commit/ia-toki/tcframe)](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
 | ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
 | ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
 | ★★☆ | [Kattis](https://open.kattis.com/) | Kattis assists in contest preparation (E-mail them for assistance). |
