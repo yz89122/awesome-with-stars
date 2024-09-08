@@ -424,7 +424,7 @@ Simon Binder](https://github.com/simolus3)
 ### Services
 
 - [OneSignal ![GitHub Repo Stars](https://img.shields.io/github/stars/OneSignal/OneSignal-Flutter-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/OneSignal/OneSignal-Flutter-SDK)](https://github.com/OneSignal/OneSignal-Flutter-SDK) [605⭐] - Push notification service by [OneSignal](https://github.com/OneSignal)
-- [In App Review ![GitHub Repo Stars](https://img.shields.io/github/stars/britannio/in_app_review) ![GitHub last commit](https://img.shields.io/github/last-commit/britannio/in_app_review)](https://github.com/britannio/in_app_review) [288��] - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
+- [In App Review ![GitHub Repo Stars](https://img.shields.io/github/stars/britannio/in_app_review) ![GitHub last commit](https://img.shields.io/github/last-commit/britannio/in_app_review)](https://github.com/britannio/in_app_review) [288⭐] - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
 
 
 ## Frameworks
