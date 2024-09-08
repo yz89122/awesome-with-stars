@@ -507,7 +507,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
 * 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
 * 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
-* ��� [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
+* ���� [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
 * 📝 [Differential Equations](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (1922)
 
@@ -538,7 +538,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
 * 📝 [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * 📝 [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
-* 📝 [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
+* �� [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 * 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * 📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
