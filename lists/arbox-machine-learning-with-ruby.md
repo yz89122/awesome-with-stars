@@ -361,7 +361,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   - _Text Classification using Support Vector Machines in Ruby_ by [Rimas Silkaitis](https://twitter.com/neovintage)
     <sup>[[post](http://neovintage.org/2011/11/14/text-classification-using-support/)]</sup>
 - 2010
-  - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
+  - _bayes_motel ��� Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
   - _Intelligent Ruby: Getting Started with Machine Learning_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[video](https://vimeo.com/22513786)]</sup>
