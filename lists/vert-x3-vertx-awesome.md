@@ -1,6 +1,6 @@
 # Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-logo.svg" align="right" width="250">](http://vertx.io)
+[<img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-logo.svg" align="right" width="250" alt="Vert.x logo">](http://vertx.io)
 
 *Awesome Vert.x* is a list of awesome frameworks, libraries or other components related to
 [Vert.x ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse/vert.x) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse/vert.x)](https://github.com/eclipse/vert.x).
