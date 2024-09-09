@@ -166,7 +166,7 @@
 
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
-- 💙��� [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
 - 📚 [VueTailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
