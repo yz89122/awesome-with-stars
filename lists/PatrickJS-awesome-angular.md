@@ -824,6 +824,7 @@ become an Angular expert.
 * [keen-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/rcbyr/keen-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/rcbyr/keen-slider)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 * [ngx-darkbox-gallery-library ![GitHub Repo Stars](https://img.shields.io/github/stars/failed-successfully/ngx-darkbox-gallery-library) ![GitHub last commit](https://img.shields.io/github/last-commit/failed-successfully/ngx-darkbox-gallery-library)](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
 * [slidecontent-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/slidecontent-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/slidecontent-angular)](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
+* [ngx-hm-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/ZouYouShun/ngx-hm-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/ZouYouShun/ngx-hm-carousel)](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
 
 #### Charts
 
@@ -949,6 +950,7 @@ become an Angular expert.
 * [ngx-file-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/georgipeltekov/ngx-file-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/georgipeltekov/ngx-file-drop)](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 * [uppy](https://uppy.io/docs/angular/) - [Uppy ![GitHub Repo Stars](https://img.shields.io/github/stars/transloadit/uppy) ![GitHub last commit](https://img.shields.io/github/last-commit/transloadit/uppy)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
 * [ngx-custom-material-file-input ![GitHub Repo Stars](https://img.shields.io/github/stars/daemons88/ngx-custom-material-file-input) ![GitHub last commit](https://img.shields.io/github/last-commit/daemons88/ngx-custom-material-file-input)](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
+* [ngxf-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/ZouYouShun/ngxf-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/ZouYouShun/ngxf-uploader)](https://github.com/ZouYouShun/ngxf-uploader) - File uploader for Angular 18+.
 
 #### Forms
 
