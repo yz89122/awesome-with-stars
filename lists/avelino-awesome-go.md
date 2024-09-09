@@ -916,6 +916,7 @@ _Libraries for building and using SQL._
 ### Search and Analytic Databases
 
 - [clickhouse-go ![GitHub Repo Stars](https://img.shields.io/github/stars/ClickHouse/clickhouse-go) ![GitHub last commit](https://img.shields.io/github/last-commit/ClickHouse/clickhouse-go)](https://github.com/ClickHouse/clickhouse-go/) - ClickHouse SQL client for Go with a `database/sql` compatibility.
+- [effdsl ![GitHub Repo Stars](https://img.shields.io/github/stars/sdqri/effdsl) ![GitHub last commit](https://img.shields.io/github/last-commit/sdqri/effdsl)](https://github.com/sdqri/effdsl) - Elasticsearch query builder for Go.
 - [elastic ![GitHub Repo Stars](https://img.shields.io/github/stars/olivere/elastic) ![GitHub last commit](https://img.shields.io/github/last-commit/olivere/elastic)](https://github.com/olivere/elastic) - Elasticsearch client for Go.
 - [elasticsql ![GitHub Repo Stars](https://img.shields.io/github/stars/cch123/elasticsql) ![GitHub last commit](https://img.shields.io/github/last-commit/cch123/elasticsql)](https://github.com/cch123/elasticsql) - Convert sql to elasticsearch dsl in Go.
 - [elastigo ![GitHub Repo Stars](https://img.shields.io/github/stars/mattbaird/elastigo) ![GitHub last commit](https://img.shields.io/github/last-commit/mattbaird/elastigo)](https://github.com/mattbaird/elastigo) - Elasticsearch client library.
