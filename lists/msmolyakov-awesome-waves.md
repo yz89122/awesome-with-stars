@@ -241,7 +241,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Greek
 
-- [Telegram](https://t.me/wavesdappsgr) - Telegram κοινότητα για προγραμματιστές dApps.
+- [Telegram](https://t.me/wavesdappsgr) - Telegram κ��ινότητα για προγραμματιστές dApps.
 
 ### Hindi
 
