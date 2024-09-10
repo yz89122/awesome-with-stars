@@ -320,7 +320,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * 📝 [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * 📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* �� [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * 📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * 📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -389,7 +389,7 @@ All resources are freely available except those with a 💲 icon.
 ### Algebraic Geometry
 
 * 📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
-* 📝 [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
+* ���� [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
 * 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
 * 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
