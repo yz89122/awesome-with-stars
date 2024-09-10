@@ -436,7 +436,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/aorumbayev/Awesome-Algorand) ![GitHub last commit](https://img.shields.io/github/last-commit/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/blob/main/contributing.md) first.
 
-Special thanks to everyone who forked or starred the repository ���️
+Special thanks to everyone who forked or starred the repository ❤️
 
 [![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
 
