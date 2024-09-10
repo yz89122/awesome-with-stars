@@ -315,7 +315,7 @@ Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto ![GitHub Re
 - Services ↔ a single-instance, background plugins
 - Also, in general: all the mechanisms from the ZSH Plugin Standard – Zinit is a reference implementation of the standard.
 
-The project is very active ��� currently > 3100 commits.
+The project is very active – currently > 3100 commits.
 
 ### [zinit-4 ![GitHub Repo Stars](https://img.shields.io/github/stars/psprint/Zinit-4) ![GitHub last commit](https://img.shields.io/github/last-commit/psprint/Zinit-4)](https://github.com/psprint/Zinit-4)
 
