@@ -67,6 +67,7 @@
 - [ZeroStep ![GitHub Repo Stars](https://img.shields.io/github/stars/zerostep-ai/zerostep) ![GitHub last commit](https://img.shields.io/github/last-commit/zerostep-ai/zerostep)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
 - [POMWright ![GitHub Repo Stars](https://img.shields.io/github/stars/DyHex/POMWright) ![GitHub last commit](https://img.shields.io/github/last-commit/DyHex/POMWright)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 - [playwright-magic-steps ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-magic-steps) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-magic-steps)](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
+- [playwright-network-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-network-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-network-cache)](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 
 ## Reporters
 
