@@ -67,7 +67,7 @@ Libraries for creating web maps:
 - [Google Maps](https://developers.google.com/maps/documentation/javascript) - Google Maps API for JavaScript.
 - [Wrld.js ![GitHub Repo Stars](https://img.shields.io/github/stars/wrld3d/wrld.js) ![GitHub last commit](https://img.shields.io/github/last-commit/wrld3d/wrld.js)](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/) - JavaScript library that uses WebGL to render interactive maps from vector tiles.
-- [ArcGIS API for JS](https://developers.arcgis.com/javascript/3/) - A lightweight way to embed maps and tasks in web applications.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive web apps for the browser.
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 - [Map Forecast API ![GitHub Repo Stars](https://img.shields.io/github/stars/windycom/API) ![GitHub last commit](https://img.shields.io/github/last-commit/windycom/API)](https://github.com/windycom/API) - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps.
 
@@ -153,6 +153,7 @@ Data available for download:
 - [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data available for download.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
 - [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - An international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
+- [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery, download, and management platform.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly:

@@ -2146,7 +2146,7 @@ _Unofficial libraries for package and dependency management._
 - [nut ![GitHub Repo Stars](https://img.shields.io/github/stars/jingweno/nut) ![GitHub last commit](https://img.shields.io/github/last-commit/jingweno/nut)](https://github.com/jingweno/nut) - Vendor Go dependencies.
 - [VenGO ![GitHub Repo Stars](https://img.shields.io/github/stars/DamnWidget/VenGO) ![GitHub last commit](https://img.shields.io/github/last-commit/DamnWidget/VenGO)](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Performance
 
