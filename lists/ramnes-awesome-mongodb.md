@@ -272,9 +272,6 @@ Services:
  - [Mongolastic ![GitHub Repo Stars](https://img.shields.io/github/stars/ozlerhakan/mongolastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ozlerhakan/mongolastic)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster ![GitHub Repo Stars](https://img.shields.io/github/stars/rick446/mmm) ![GitHub last commit](https://img.shields.io/github/last-commit/rick446/mmm)](https://github.com/rick446/mmm) - Multi-master replication
 
-Services:
- - [ProvenDB](https://www.provendb.com/) -  Blockchain based Data integrity solution for MongoDB
-
 ### Deployment
  - [ansible-role-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/UnderGreen/ansible-role-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/UnderGreen/ansible-role-mongodb)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/edelight/chef-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/edelight/chef-mongodb)](https://github.com/edelight/chef-mongodb) - Chef cookbook
