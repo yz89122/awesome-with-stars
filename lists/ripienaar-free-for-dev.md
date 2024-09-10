@@ -303,7 +303,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mocko.dev](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
   * [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/julien-lafont/Mocky) ![GitHub last commit](https://img.shields.io/github/last-commit/julien-lafont/Mocky)](https://github.com/julien-lafont/Mocky).
   * [reqres.in](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
-  * [microenv.com](https://microenv.com) —  Create fake REST API for developers with the possibility to generate code and app in a docker container.
+  * [microenv.com](https://microenv.com) ���  Create fake REST API for developers with the possibility to generate code and app in a docker container.
   * [neptune.ai](https://neptune.ai/) - Log, store, display, organize, compare, and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
   * [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
   * [Nordigen](https://nordigen.com) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
@@ -1136,6 +1136,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provides one free instance that never sleeps and a free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups for Elixir/Phoenix apps.
   * [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
   * [Hop](https://hop.io/) — Web services hosting platform without configs. Free tier with 1x Shared CPU, 512MB RAM and 3GB Storage.
+  * [Lade](https://www.lade.io/) - Lade is a cloud platform built for developers. The free tier includes five services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.
   * [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
   * [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
