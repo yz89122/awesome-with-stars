@@ -37,7 +37,7 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
 * Training materials:
   * [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
-  * [UNT Web Archiving Course 2022 ![GitHub Repo Stars](https://img.shields.io/github/stars/vphill/web-archiving-course) ![GitHub last commit](https://img.shields.io/github/last-commit/vphill/web-archiving-course)](https://github.com/vphill/web-archiving-course)
+  * [UNT Web Archiving Course ![GitHub Repo Stars](https://img.shields.io/github/stars/vphill/web-archiving-course) ![GitHub last commit](https://img.shields.io/github/last-commit/vphill/web-archiving-course)](https://github.com/vphill/web-archiving-course)
   * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.

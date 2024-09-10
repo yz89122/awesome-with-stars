@@ -327,7 +327,7 @@ This list is a collection of the best Deno modules and resources.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
-- [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
+- [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. ����
 
 ## Showcases
 
