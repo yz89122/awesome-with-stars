@@ -248,6 +248,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/kit) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [component-template ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/component-template) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/component-template)](https://github.com/sveltejs/component-template) - A base for building shareable components.
 - [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+- [https://saasstarter.work] - A open source, fast, and free to host Svelte SaaS template
 
 ## Utilities
 
