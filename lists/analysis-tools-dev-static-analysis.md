@@ -916,7 +916,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [rector](https://getrector.org) — Instant Upgrades and Automated Refactoring of any PHP 5.3+ code. It upgrades your code for PHP 7.4, 8.0 and beyond. Rector promises a low false-positive rate because it looks for narrowly defined AST (abstract syntax tree) patterns.  The main use-case are tackling technical debt in your legacy code and removing dead code. Rector provides a set of special rules for Symfony, Doctrine, PHPUnit, and many more.
 
-- [Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/Reflection)](https://github.com/phpDocumentor/Reflection) — Reflection library to do Static Analysis for PHP Projects
+- [Reflection ![GitHub Repo Stars](https://img.shields.io/github/stars/phpDocumentor/Reflection) ![GitHub last commit](https://img.shields.io/github/last-commit/phpDocumentor/Reflection)](https://github.com/phpDocumentor/Reflection) �� Reflection library to do Static Analysis for PHP Projects
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
@@ -964,7 +964,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [Black](https://black.readthedocs.io/en/stable) — The uncompromising Python code formatter.
 
-- [Bowler](https://pybowler.io/) — Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
+- [Bowler](https://pybowler.io/) �� Safe code refactoring for modern Python.  Bowler is a refactoring tool for manipulating Python at the syntax tree level.  It enables safe, large scale code modifications while guaranteeing that the  resulting code compiles and runs. It provides both a simple command line interface  and a fluent API in Python for generating complex code modifications in code.
 
 - [ciocheck ![GitHub Repo Stars](https://img.shields.io/github/stars/ContinuumIO/ciocheck) ![GitHub last commit](https://img.shields.io/github/last-commit/ContinuumIO/ciocheck)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
 
