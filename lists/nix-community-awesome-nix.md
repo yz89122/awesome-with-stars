@@ -72,6 +72,7 @@
 
 ## Installation Media
 
+* [nixos-anywhere ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixos-anywhere) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixos-anywhere)](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH.
 * [nixos-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixos-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixos-generators)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 * [nixos-infect ![GitHub Repo Stars](https://img.shields.io/github/stars/elitak/nixos-infect) ![GitHub last commit](https://img.shields.io/github/last-commit/elitak/nixos-infect)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 * [nixos-up ![GitHub Repo Stars](https://img.shields.io/github/stars/samuela/nixos-up) ![GitHub last commit](https://img.shields.io/github/last-commit/samuela/nixos-up)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
