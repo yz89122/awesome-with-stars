@@ -919,6 +919,7 @@ become an Angular expert.
 * [ngx-file-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/telebroad/ngx-file-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/telebroad/ngx-file-drag-drop)](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 * [moveable ![GitHub Repo Stars](https://img.shields.io/github/stars/daybrush/moveable) ![GitHub last commit](https://img.shields.io/github/last-commit/daybrush/moveable)](https://github.com/daybrush/moveable) - Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable.
+* [angular-drag-drop-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/skutam/angular-drag-drop-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/skutam/angular-drag-drop-layout)](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
 
 #### Editor Components
 
@@ -989,6 +990,7 @@ become an Angular expert.
 * [ng-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/NileshPatel17/ng-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/NileshPatel17/ng-multiselect-dropdown)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 * [angular-iban ![GitHub Repo Stars](https://img.shields.io/github/stars/fundsaccess/angular-iban) ![GitHub last commit](https://img.shields.io/github/last-commit/fundsaccess/angular-iban)](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
 * [ngx-autosize-input ![GitHub Repo Stars](https://img.shields.io/github/stars/joshuawwright/ngx-autosize-input) ![GitHub last commit](https://img.shields.io/github/last-commit/joshuawwright/ngx-autosize-input)](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
+* [angular-cc-library ![GitHub Repo Stars](https://img.shields.io/github/stars/timofei-iatsenko/angular-cc-library) ![GitHub last commit](https://img.shields.io/github/last-commit/timofei-iatsenko/angular-cc-library)](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
 
 ##### Validation
 
@@ -1217,6 +1219,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-tippy-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/farengeyt451/ngx-tippy-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/farengeyt451/ngx-tippy-wrapper)](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js ![GitHub Repo Stars](https://img.shields.io/github/stars/atomiks/tippyjs) ![GitHub last commit](https://img.shields.io/github/last-commit/atomiks/tippyjs)](https://github.com/atomiks/tippyjs).
 * [tooltip-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/chandumaram/tooltip-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/chandumaram/tooltip-testing)](https://github.com/chandumaram/tooltip-testing) - Tooltip for Angular, forked from cm-angular-tooltip
 * [angular-ellipsis-tooltip ![GitHub Repo Stars](https://img.shields.io/github/stars/wandri/angular-ellipsis-tooltip) ![GitHub last commit](https://img.shields.io/github/last-commit/wandri/angular-ellipsis-tooltip)](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
+* [ngx-popovers ![GitHub Repo Stars](https://img.shields.io/github/stars/al-march/ngx-popovers) ![GitHub last commit](https://img.shields.io/github/last-commit/al-march/ngx-popovers)](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
 
 #### UI Libraries
 
