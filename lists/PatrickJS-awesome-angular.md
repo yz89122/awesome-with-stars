@@ -766,6 +766,7 @@ become an Angular expert.
 * [angular-testing-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/babybeet/angular-testing-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/babybeet/angular-testing-kit)](https://github.com/babybeet/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 * [nightwatch-plugin-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch-plugin-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/nightwatchjs/nightwatch-plugin-angular)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
 * [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based ![GitHub Repo Stars](https://img.shields.io/github/stars/puppeteer/puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/puppeteer/puppeteer)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
+* [ngx-testing-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/remscodes/ngx-testing-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/remscodes/ngx-testing-tools)](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 
 #### Updating
 

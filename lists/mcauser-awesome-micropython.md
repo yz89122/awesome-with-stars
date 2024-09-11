@@ -710,6 +710,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-fractions ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-fractions) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-fractions)](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
 * [Sun and Moon ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-samples)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 * [micropython-npyfile ![GitHub Repo Stars](https://img.shields.io/github/stars/jonnor/micropython-npyfile) ![GitHub last commit](https://img.shields.io/github/last-commit/jonnor/micropython-npyfile)](https://github.com/jonnor/micropython-npyfile/) - Numpy .npy file support for MicroPython, supports read/write/streaming.
+* [Micropython Perlin ![GitHub Repo Stars](https://img.shields.io/github/stars/sjaak31367/micropython_perlin) ![GitHub last commit](https://img.shields.io/github/last-commit/sjaak31367/micropython_perlin)](https://github.com/sjaak31367/micropython_perlin) - A Perlin noise generator module.
 
 ### Motion
 
