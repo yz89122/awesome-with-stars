@@ -709,7 +709,7 @@ YAML
 Language extensions
 ===================
 
-* ��� [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
+* ⭐ [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
 * 👍 [serapeum ![GitHub Repo Stars](https://img.shields.io/github/stars/TBRSS/serapeum) ![GitHub last commit](https://img.shields.io/github/last-commit/TBRSS/serapeum)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
 * [rutils ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/rutils) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/rutils)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT][200].
 * [generic-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/alex-gutev/generic-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-gutev/generic-cl)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT][200]. See also the more lightweight [generic-comparability ![GitHub Repo Stars](https://img.shields.io/github/stars/pnathan/generic-comparability) ![GitHub last commit](https://img.shields.io/github/last-commit/pnathan/generic-comparability)](https://github.com/pnathan/generic-comparability). [LLGPL][8].
