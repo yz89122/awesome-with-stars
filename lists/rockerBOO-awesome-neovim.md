@@ -802,6 +802,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [SunnyTamang/pendulum.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SunnyTamang/pendulum.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SunnyTamang/pendulum.nvim)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 - [ptdewey/pendulum-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 - [QuentinGruber/pomodoro.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
+- [rlychrisg/truncateline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rlychrisg/truncateline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rlychrisg/truncateline.nvim)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
 
 ### CSV Files
 
