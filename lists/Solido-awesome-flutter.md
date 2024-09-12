@@ -540,7 +540,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Trinity Orientation @ Univ Toronto ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewtory/trinity-orientation-2018) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewtory/trinity-orientation-2018)](https://github.com/matthewtory/trinity-orientation-2018) [618⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/DrPaulT/flutter-engine-test) ![GitHub last commit](https://img.shields.io/github/last-commit/DrPaulT/flutter-engine-test)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 - [TailorMade ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/tailor_made) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/tailor_made)](https://github.com/jogboms/tailor_made) [328⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
-- [Spacex-Go ![GitHub Repo Stars](https://img.shields.io/github/stars/jesusrp98/spacex-go) ![GitHub last commit](https://img.shields.io/github/last-commit/jesusrp98/spacex-go)](https://github.com/jesusrp98/spacex-go) [849⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+- [Spacex-Go ![GitHub Repo Stars](https://img.shields.io/github/stars/jesusrp98/spacex-go) ![GitHub last commit](https://img.shields.io/github/last-commit/jesusrp98/spacex-go)](https://github.com/jesusrp98/spacex-go) [849���] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 - [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/AmitJoki/Enigma) ![GitHub last commit](https://img.shields.io/github/last-commit/AmitJoki/Enigma)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 - [Chillify ![GitHub Repo Stars](https://img.shields.io/github/stars/KarimElghamry/chillify) ![GitHub last commit](https://img.shields.io/github/last-commit/KarimElghamry/chillify)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 - [Pokedex ![GitHub Repo Stars](https://img.shields.io/github/stars/scitbiz/flutter_pokedex) ![GitHub last commit](https://img.shields.io/github/last-commit/scitbiz/flutter_pokedex)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
@@ -740,7 +740,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
 - Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
 
-### 🇲🇾 Malaysia
+### 🇲�� Malaysia
 
 - Telegram [Flutter/Dart Dev Malaysia](https://t.me/flutterdevmalaysia)
 
