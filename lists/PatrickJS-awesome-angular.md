@@ -500,6 +500,7 @@ become an Angular expert.
 * [analog-publish-gh-pages ![GitHub Repo Stars](https://img.shields.io/github/stars/k9n-dev/analog-publish-gh-pages) ![GitHub last commit](https://img.shields.io/github/last-commit/k9n-dev/analog-publish-gh-pages)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
 * [Genezio ![GitHub Repo Stars](https://img.shields.io/github/stars/Genez-io/genezio) ![GitHub last commit](https://img.shields.io/github/last-commit/Genez-io/genezio)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 * [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
+* [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered ![GitHub Repo Stars](https://img.shields.io/github/stars/zeropsio/recipe-analog-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/zeropsio/recipe-analog-nodejs)](https://github.com/zeropsio/recipe-analog-nodejs) and [static ![GitHub Repo Stars](https://img.shields.io/github/stars/zeropsio/recipe-analog-static) ![GitHub last commit](https://img.shields.io/github/last-commit/zeropsio/recipe-analog-static)](https://github.com/zeropsio/recipe-analog-static), a breeze.
 
 #### Developer tools
 
