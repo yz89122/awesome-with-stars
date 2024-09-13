@@ -618,7 +618,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Flame ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame)](https://github.com/flame-engine/flame) - Minimalist _Flutter_ based 2D game engine. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/awesome-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame)](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
 
 ### F#
-- �� [Awesome F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsprojects/awesome-fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/fsprojects/awesome-fsharp)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
+- 📚 [Awesome F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsprojects/awesome-fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/fsprojects/awesome-fsharp)](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
 - 🌎 [F#](https://fsharp.org) - Functional-first language for .NET, prioritizing expressive code and parallelism.
 - F#: Audio
     - 🔒 [FSound ![GitHub Repo Stars](https://img.shields.io/github/stars/albertp007/FSound) ![GitHub last commit](https://img.shields.io/github/last-commit/albertp007/FSound)](https://github.com/albertp007/FSound) - Sound processing library.
