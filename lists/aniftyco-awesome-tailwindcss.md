@@ -164,9 +164,9 @@
 
 ## UI Libraries, Components & Templates
 
-**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
+**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · �� Templates
 
-- 💙��� [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
 - 📚 [VueTailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
@@ -289,7 +289,7 @@
 - 🚀 [Next JS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Next-js-Boilerplate)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 - 🚀 [Vitailse ![GitHub Repo Stars](https://img.shields.io/github/stars/zynth17/vitailse) ![GitHub last commit](https://img.shields.io/github/last-commit/zynth17/vitailse)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 - 🚀 [Vite-Boot ![GitHub Repo Stars](https://img.shields.io/github/stars/kirklin/vite-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/kirklin/vite-boot)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
-- 🚀 [AstroWind ![GitHub Repo Stars](https://img.shields.io/github/stars/onwidget/astrowind) ![GitHub last commit](https://img.shields.io/github/last-commit/onwidget/astrowind)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+- ���� [AstroWind ![GitHub Repo Stars](https://img.shields.io/github/stars/onwidget/astrowind) ![GitHub last commit](https://img.shields.io/github/last-commit/onwidget/astrowind)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/lannodev/angular-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/lannodev/angular-tailwind)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/lannodev/vue-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/lannodev/vue-resume)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
