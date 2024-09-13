@@ -494,7 +494,7 @@ Simon Binder](https://github.com/simolus3)
 
 This section contains libraries that take an experimental or unorthodox approach.
 
-- [styled_widget ![GitHub Repo Stars](https://img.shields.io/github/stars/ReinBentdal/styled_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/ReinBentdal/styled_widget)](https://github.com/ReinBentdal/styled_widget) [1239���] - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+- [styled_widget ![GitHub Repo Stars](https://img.shields.io/github/stars/ReinBentdal/styled_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/ReinBentdal/styled_widget)](https://github.com/ReinBentdal/styled_widget) [1239⭐] - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## Engines
 
@@ -690,7 +690,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
-### 🇪🇹 Ethiopia
+### 🇪�� Ethiopia
 
 - [Telegram](https://t.me/flutter_forum/)
 
