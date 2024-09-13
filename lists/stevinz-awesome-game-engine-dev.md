@@ -267,7 +267,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: App Framework
     - 🎉 [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
     - 🎉 [MiniFB ![GitHub Repo Stars](https://img.shields.io/github/stars/emoon/minifb) ![GitHub last commit](https://img.shields.io/github/last-commit/emoon/minifb)](https://github.com/emoon/minifb) - Creates a cross-platform frame buffer for drawing pixels.
-    - ���� [SDL ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
+    - 🎉 [SDL ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
     - 🎉 [Sokol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol) 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
 - C: Audio
     - ⭐ [Miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/miniaudio)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
@@ -495,7 +495,7 @@ _Language specific game engine development libraries / frameworks / code._
     - ⭐ [RmlUi ![GitHub Repo Stars](https://img.shields.io/github/stars/mikke89/RmlUi) ![GitHub last commit](https://img.shields.io/github/last-commit/mikke89/RmlUi)](https://github.com/mikke89/RmlUi) - Turns HTML / CSS source files into vertices and draw commands. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
     - ⭐ [Turbo Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/fruxo/turbobadger) ![GitHub last commit](https://img.shields.io/github/last-commit/fruxo/turbobadger)](https://github.com/fruxo/turbobadger) - Gui library for hardware accelerated apps & games. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
     - 🔒 [Wt ![GitHub Repo Stars](https://img.shields.io/github/stars/emweb/wt) ![GitHub last commit](https://img.shields.io/github/last-commit/emweb/wt)](https://github.com/emweb/wt) - Web gui library in modern C++. [[Website](https://www.webtoolkit.eu/wt)]
-    - �� [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
+    - 🔒 [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
 - C++: Input
     - 🎉 [Gainput ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/gainput) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/gainput)](https://github.com/jkuhlmann/gainput) - Easy to use input library.
     - 🎉 [OIS ![GitHub Repo Stars](https://img.shields.io/github/stars/wgois/OIS) ![GitHub last commit](https://img.shields.io/github/last-commit/wgois/OIS)](https://github.com/wgois/OIS) - Object-oriented input system. Compatiable with many operating systems.
@@ -633,7 +633,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - �� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
