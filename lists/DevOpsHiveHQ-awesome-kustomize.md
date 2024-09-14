@@ -13,6 +13,18 @@
 
 Contributions are welcome, add links through [pull requests ![GitHub Repo Stars](https://img.shields.io/github/stars/aabouzaid/awesome-kustomize) ![GitHub last commit](https://img.shields.io/github/last-commit/aabouzaid/awesome-kustomize)](https://github.com/aabouzaid/awesome-kustomize/pulls) or create an issue to start a discussion.
 
+Push it forward and add the project badge in your repo to support the community! ⭐
+
+Markdown:
+
+```text
+[![Awesome Kustomize](https://devopshive.net/badges/awesome-kustomize.svg)](https://github.com/DevOpsHiveHQ/awesome-kustomize)
+```
+
+Preview:
+
+[![Awesome Kustomize](https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/awesome-kustomize-badge.svg)](https://github.com/DevOpsHiveHQ/awesome-kustomize)
+
 <!-- omit in toc -->
 ## Contents
 
