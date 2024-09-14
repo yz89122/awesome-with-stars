@@ -222,7 +222,7 @@ Meteo
 - [Wave ![GitHub Repo Stars](https://img.shields.io/github/stars/i-protoss/wave) ![GitHub last commit](https://img.shields.io/github/last-commit/i-protoss/wave)](https://github.com/i-protoss/wave) [1076⭐] - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe ![GitHub Repo Stars](https://img.shields.io/github/stars/iamSahdeep/liquid_swipe_flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/iamSahdeep/liquid_swipe_flutter)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 - [PhotoFilters ![GitHub Repo Stars](https://img.shields.io/github/stars/skkallayath/photofilters) ![GitHub last commit](https://img.shields.io/github/last-commit/skkallayath/photofilters)](https://github.com/skkallayath/photofilters) [402⭐] - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
-- [Shine ![GitHub Repo Stars](https://img.shields.io/github/stars/JonathanMonga/flutter_shine.dart) ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanMonga/flutter_shine.dart)](https://github.com/JonathanMonga/flutter_shine.dart) [145⭐]  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
+- [Shine ![GitHub Repo Stars](https://img.shields.io/github/stars/JonathanMonga/flutter_shine.dart) ![GitHub last commit](https://img.shields.io/github/last-commit/JonathanMonga/flutter_shine.dart)](https://github.com/JonathanMonga/flutter_shine.dart) [145��]  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
 - [Clay Containers ![GitHub Repo Stars](https://img.shields.io/github/stars/mcaubrey/clay_containers) ![GitHub last commit](https://img.shields.io/github/last-commit/mcaubrey/clay_containers)](https://github.com/mcaubrey/clay_containers) [432⭐] - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
 
 #### Calendar
@@ -681,7 +681,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
 - Meetup [Calgary](https://www.meetup.com/FlutterCalgary)
 
-### 🇨🇮 Côte d'Ivoire (Ivory Coast)
+### 🇨�� Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
