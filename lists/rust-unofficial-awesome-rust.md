@@ -937,6 +937,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [t3hmrman/async-dropper ![GitHub Repo Stars](https://img.shields.io/github/stars/t3hmrman/async-dropper) ![GitHub last commit](https://img.shields.io/github/last-commit/t3hmrman/async-dropper)](https://github.com/t3hmrman/async-dropper) [[async-dropper](https://crates.io/crates/async-dropper)] - Implementation of `AsyncDrop`
 * [TeaEntityLab/fpRust ![GitHub Repo Stars](https://img.shields.io/github/stars/TeaEntityLab/fpRust) ![GitHub last commit](https://img.shields.io/github/last-commit/TeaEntityLab/fpRust)](https://github.com/TeaEntityLab/fpRust) - Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust
 * [tokio-rs/tokio ![GitHub Repo Stars](https://img.shields.io/github/stars/tokio-rs/tokio) ![GitHub last commit](https://img.shields.io/github/last-commit/tokio-rs/tokio)](https://github.com/tokio-rs/tokio) - A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+* [tqwewe/kameo ![GitHub Repo Stars](https://img.shields.io/github/stars/tqwewe/kameo) ![GitHub last commit](https://img.shields.io/github/last-commit/tqwewe/kameo)](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
 * [Xudong-Huang/may ![GitHub Repo Stars](https://img.shields.io/github/stars/Xudong-Huang/may) ![GitHub last commit](https://img.shields.io/github/last-commit/Xudong-Huang/may)](https://github.com/Xudong-Huang/may) - Stackful coroutine library
 * [zonyitoo/coio-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/zonyitoo/coio-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/zonyitoo/coio-rs)](https://github.com/zonyitoo/coio-rs) - A coroutine I/O library with a working-stealing scheduler
 
@@ -1062,7 +1063,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Compression
 
 * [7z](https://7-zip.org/7z.html)
-  * [dyz1990/sevenz-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/dyz1990/sevenz-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/dyz1990/sevenz-rust)](https://github.com/dyz1990/sevenz-rust) [[sevenz-rust](https://crates.io/crates/sevenz-rust)] - A 7z decompressor/compressor written in pure rust. [![Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/dyz1990/sevenz-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/dyz1990/sevenz-rust)](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
+  * [[sevenz-rust](https://crates.io/crates/sevenz-rust)] - A 7z decompressor/compressor written in pure rust.
 * [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html)
   * [dropbox/rust-brotli ![GitHub Repo Stars](https://img.shields.io/github/stars/dropbox/rust-brotli) ![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/rust-brotli)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
   * [ende76/brotli-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/ende76/brotli-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/ende76/brotli-rs)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
