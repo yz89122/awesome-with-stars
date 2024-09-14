@@ -352,7 +352,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md). If you see
 ### Podcasts
 
 - [Craft.Podcast](http://craftpodcast.com/) - A voice for the #CraftCMS community.
-- [Craft CMS 3 as an Application Platform](https://devmode.fm/episodes/craft-cms-3-as-an-application-platform) - devmode.fm and Ben Crocker dis��cuss using Craft CMS 3 as an appli­ca­tion plat­form.
+- [Craft CMS 3 as an Application Platform](https://devmode.fm/episodes/craft-cms-3-as-an-application-platform) - devmode.fm and Ben Crocker dis­cuss using Craft CMS 3 as an appli­ca­tion plat­form.
 - [Craft CMS 3 with Pixel & Tonic Founder Brandon Kelly!](https://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly) - Get an insider’s view of the the devel­op­ment of Craft CMS 3.
 - [Dot All 2018 Conference Recap & Analysis, Live from Berlin!](https://devmode.fm/episodes/dot-all-2018-conference-recap-analysis-live-from-berlin) - The dev​Mode​.fm crew recaps the Dot All 2018 Con­fer­ence in Berlin.
 - [Talk­ing Craft CMS 3 RC1!](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
