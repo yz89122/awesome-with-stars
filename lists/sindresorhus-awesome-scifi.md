@@ -210,7 +210,7 @@ The books are real page turners with its mix of high politics, space battles, an
 
 Books:
 - [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
-- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
+- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] ����
 - [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
 - [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
 - [Nemesis Games](https://www.goodreads.com/book/show/22886612-nemesis-games) [4.4]
@@ -475,7 +475,7 @@ If you're going to read one Science Fiction book to get a broader perspective on
 <details>
   <summary>Description</summary>
 
-  > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon���s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
+  > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon’s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
 </details>
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.7]
