@@ -273,7 +273,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
 * 📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
 * 📝 [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
-* ���� [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
+* 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
@@ -321,7 +321,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
 * 📝 [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * 📝 [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
-* �� [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
+* 📝 [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
 
 ### Linear Algebra
 
@@ -490,7 +490,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 * 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
-* 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
+* �� [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * 📝 [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * 📝 [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
 * 📝 [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
@@ -548,7 +548,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * 📝 [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
 * 📝 [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
-* 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
+* �� [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * 📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 * 📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
