@@ -472,7 +472,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cpptrace ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremy-rifkin/cpptrace) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremy-rifkin/cpptrace)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. [MIT]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
-* [dbg-macro ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/dbg-macro) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/dbg-macro)](https://github.com/sharkdp/dbg-macro) - A dbg(���) macro for C++. [MIT]
+* [dbg-macro ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/dbg-macro) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/dbg-macro)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. [MIT]
 * [DebugViewPP ![GitHub Repo Stars](https://img.shields.io/github/stars/CobaltFusion/DebugViewPP) ![GitHub last commit](https://img.shields.io/github/last-commit/CobaltFusion/DebugViewPP)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [Boost]
 * [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 * [FakeIt ![GitHub Repo Stars](https://img.shields.io/github/stars/eranpeer/FakeIt) ![GitHub last commit](https://img.shields.io/github/last-commit/eranpeer/FakeIt)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. [MIT]
