@@ -120,7 +120,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Magnopus**](https:&#x2F;&#x2F;www.magnopus.com&#x2F;) | [LA] [London] | unite the physical and digital worlds with extraordinary experiences | [🌐](https:&#x2F;&#x2F;www.magnopus.com&#x2F;current-openings)
 | [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [🌐](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
 | [**Map**](http:&#x2F;&#x2F;mapprojectoffice.com&#x2F;) | [London] | industrial designers who believe great design can solve problems | [🌐](https:&#x2F;&#x2F;universal.pinpointhq.com&#x2F;)
-| [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [��](mailto:jobs@marshmallowlaserfeast.com)
+| [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [📧](mailto:jobs@marshmallowlaserfeast.com)
 | [**Master of Shapes**](https:&#x2F;&#x2F;masterofshapes.com&#x2F;) | [LA] | a space surfing, geometry taming, buffalo riding, Future House | 
 | [**Midnight Commercial**](http:&#x2F;&#x2F;midnightcommercial.com&#x2F;) | [NYC] | unite the disparate digital and physical worlds | 
 | [**Midwest Immersive**](https:&#x2F;&#x2F;www.mwimmersive.com&#x2F;) | [Chicago] | immersive experiences for brands and agencies, projection mapping, LED lighting, games and app development | 
@@ -177,7 +177,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**TAD**](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;) | [NYC] [London] | digital experiences, technology and architecture, designed to inspire people. | [🌐](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;home&#x2F;opportunities)
 | [**tamschick**](https:&#x2F;&#x2F;tamschick.com&#x2F;) | [Berlin] | media and architectural narrative design, exhibitions, branded space, musuems | [🌐](https:&#x2F;&#x2F;tamschick.factorialhr.com&#x2F;)
 | [**Team Epiphany**](https:&#x2F;&#x2F;www.teamepiphany.com&#x2F;) | [NYC] [LA] | influencer marketing, IRL, vertical integration | [📧](mailto:info@teamepiphany.com)
-| [**Tellart**](https:&#x2F;&#x2F;www.tellart.com&#x2F;) | [Providence] [Amsterdam] [San Francisco] | transformative experiences, invention, physical &amp; digital experiences, new technologies | [📧](mailto:careers@tellart.com)
+| [**Tellart**](https:&#x2F;&#x2F;www.tellart.com&#x2F;) | [Providence] [Amsterdam] [San Francisco] | transformative experiences, invention, physical &amp; digital experiences, new technologies | [��](mailto:careers@tellart.com)
 | [**The Gathery**](http:&#x2F;&#x2F;www.thegathery.com&#x2F;) | [NYC] | editorially-born creative agency specializing in brand marketing and content creation | [🌐](https:&#x2F;&#x2F;www.thegathery.com&#x2F;careers)
 | [**The Lab at Rockwell Group**](https:&#x2F;&#x2F;www.labatrockwellgroup.com) | [NYC] | architecture and design, branded experiences, immersive environments, pop ups | 
 | [**The Projects**](http:&#x2F;&#x2F;theprojects.com&#x2F;) | [London] [LA] [NYC] [Sydney] | brand consultancy, meaningful experiences, tell stories | 
