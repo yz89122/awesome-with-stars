@@ -245,7 +245,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768) - “Don't act like know-it-all; Openly admit if they don't know something; Try to figure stuff out together”.
 
-- [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - ���It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
+- [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - “It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
 
 - [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
 
@@ -499,7 +499,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 - [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 
-- ��Community already exists, you just create a communication platform for it” ([source](https://news.ycombinator.com/item?id=21828666)) - Or why trying to create a community from the ground up might not be the right way of looking at things: a better and more subtle strategy would be to empowers the already existing channels and make them visible.
+- “Community already exists, you just create a communication platform for it” ([source](https://news.ycombinator.com/item?id=21828666)) - Or why trying to create a community from the ground up might not be the right way of looking at things: a better and more subtle strategy would be to empowers the already existing channels and make them visible.
 
 - [OpenTeams](https://openteam.info) - “Teams can visualize their network of interactions, and also, cross this data with information on a teams demographic, professional, and psychological characteristics.” As manager, make sure these metrics bring positive outcome to the team. It is easy to have them instrumentalized for political reasons.
 
@@ -573,7 +573,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [The Framing of the Developer](https://www.amazingcto.com/develop-for-impact-not-for-backlog/) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - “My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (…) I see now that my 'refactoring' was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication��.
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - “My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (…) I see now that my 'refactoring' was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication”.
 
 ## Remote Work
 
@@ -753,7 +753,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/) - “A hand drawn picture about the current system is a belief. Decisions should never be based on beliefs. Not in engineering. (…) As software is highly contextual we cannot predict specific problems. We can only predict classes of problems.” And that's why it is hard to estimate software projects: because developer's main activity is a long process of deducting the assumptions a system is built on.
 
-- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) - “The NASA dataset contains 93 rows (that is not a typo, there is no power-of-ten missing), COCOMO 63 rows, Desharnais 81 rows, and (…) the China dataset contains 499 rows.��
+- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) - “The NASA dataset contains 93 rows (that is not a typo, there is no power-of-ten missing), COCOMO 63 rows, Desharnais 81 rows, and (…) the China dataset contains 499 rows.”
 
 ### Tickets
 
