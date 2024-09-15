@@ -574,7 +574,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## System Programming
 
 - [Mirage OS ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/mirage) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/mirage)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-- [ocaml-fat ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-fat) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-fat)](https://github.com/mirage/ocaml-fat) �� Read and write FAT-format filesystems from OCaml.
+- [ocaml-fat ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-fat) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-fat)](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
 - [ocaml-git ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-git) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-git)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 - [ocaml-vchan ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-vchan) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-vchan)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
@@ -633,7 +633,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/AngryLawyer/commonjs_of_ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/AngryLawyer/commonjs_of_ocaml)](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
   - [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-  - [ocaml-uri ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-uri) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-uri)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+  - [ocaml-uri ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-uri) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-uri)](https://github.com/mirage/ocaml-uri) �� RFC3986 URI parsing library.
   - [Goji ![GitHub Repo Stars](https://img.shields.io/github/stars/klakplok/goji) ![GitHub last commit](https://img.shields.io/github/last-commit/klakplok/goji)](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic ![GitHub Repo Stars](https://img.shields.io/github/stars/Cumulus/Syndic) ![GitHub last commit](https://img.shields.io/github/last-commit/Cumulus/Syndic)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
   - [ocaml-mustache ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/ocaml-mustache) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/ocaml-mustache)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
