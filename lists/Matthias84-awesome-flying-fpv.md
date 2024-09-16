@@ -222,7 +222,7 @@ Cameras feed the onboard videotransmitter for downlink or record as DVR with hig
 * [STORM32BGC ![GitHub Repo Stars](https://img.shields.io/github/stars/olliw42/storm32bgc) ![GitHub last commit](https://img.shields.io/github/last-commit/olliw42/storm32bgc)](https://github.com/olliw42/storm32bgc) - Firmware and brushless gimbal controller.
 * [Open Brushless Gimbal](https://www.thingiverse.com/thing:110731) - 2013.
 
-## GPS ����️
+## GPS 🛰️
 
 Global Navigation Systems like GPS allow to determine the current position of your drone. Consumer GPS modules are cheap, but some can be tweaked to gain better accuracy on postprcessing or live.
 

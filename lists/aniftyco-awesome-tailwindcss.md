@@ -164,9 +164,9 @@
 
 ## UI Libraries, Components & Templates
 
-**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
+**Legend**: 💙 Official resource · �� Library · 🧩 Components · 📁 Templates
 
-- 💙��� [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
 - 📚 [VueTailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
@@ -330,7 +330,7 @@
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
 - 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
-- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
+- �� [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 - 🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
