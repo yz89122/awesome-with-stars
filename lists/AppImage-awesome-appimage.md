@@ -193,6 +193,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [Publish-AppImage for .NET ![GitHub Repo Stars](https://img.shields.io/github/stars/kuiperzone/Publish-AppImage) ![GitHub last commit](https://img.shields.io/github/last-commit/kuiperzone/Publish-AppImage)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 - [.NET Core AppImage example ![GitHub Repo Stars](https://img.shields.io/github/stars/ppy/osu-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/ppy/osu-deploy)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 - [PupNet Deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/kuiperzone/PupNet-Deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/kuiperzone/PupNet-Deploy)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
+- [DotnetPackaging ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperJMN/DotnetPackaging) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperJMN/DotnetPackaging)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
 
 ### Deployment tools for Flash applications
 
