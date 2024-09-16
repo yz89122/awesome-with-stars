@@ -850,6 +850,7 @@ become an Angular expert.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 * [zingchart-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/zingchart/zingchart-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/zingchart/zingchart-angular)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 * [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+* [angular-google-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/FERNman/angular-google-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/FERNman/angular-google-charts)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 
 #### Data Grids
 
@@ -992,6 +993,8 @@ become an Angular expert.
 * [angular-iban ![GitHub Repo Stars](https://img.shields.io/github/stars/fundsaccess/angular-iban) ![GitHub last commit](https://img.shields.io/github/last-commit/fundsaccess/angular-iban)](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
 * [ngx-autosize-input ![GitHub Repo Stars](https://img.shields.io/github/stars/joshuawwright/ngx-autosize-input) ![GitHub last commit](https://img.shields.io/github/last-commit/joshuawwright/ngx-autosize-input)](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
 * [angular-cc-library ![GitHub Repo Stars](https://img.shields.io/github/stars/timofei-iatsenko/angular-cc-library) ![GitHub last commit](https://img.shields.io/github/last-commit/timofei-iatsenko/angular-cc-library)](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
+* [ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/webcat12345/ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/webcat12345/ngx-ui-switch)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
+* [olt-ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/OuterlimitsTech/olt-ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/OuterlimitsTech/olt-ngx-ui-switch)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 
 ##### Validation
 
