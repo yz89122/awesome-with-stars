@@ -277,7 +277,7 @@ A curated list of podcasts we like to listen to.
 * [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
 * [PH Santos Podcast](https://open.spotify.com/show/08zI81PqsvRqnzPvBElIKZ?si=8ca629191f074b25) - Podcast do Comunicador e Crítico de Cinema PH Santos, focado em séries e filmes.
-* [Olá, Gabs](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=8e20c3b64c1a4ce7) - Podcast sobre tecnologia de maneira bem humana. Reflexõe, histórias e tecnologia.
+* [Ol��, Gabs](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=8e20c3b64c1a4ce7) - Podcast sobre tecnologia de maneira bem humana. Reflexõe, histórias e tecnologia.
 
 ## In Spanish
 
@@ -291,7 +291,7 @@ A curated list of podcasts we like to listen to.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
-* [Python en espa��ol](https://podcast.jcea.es/python/) - Python en tu idioma
+* [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
 * [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - Mundo maker, software y hardware libre, proyectos, actividades y eventos organizados por la asociación Bricolabs.
