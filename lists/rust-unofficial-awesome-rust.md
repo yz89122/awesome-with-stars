@@ -19,6 +19,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Image processing](#image-processing)
   * [Industrial automation](#industrial-automation)
   * [Message Queue](#message-queue)
+  * [MLOps](#mlops)
   * [Observability](#observability)
   * [Operating systems](#operating-systems)
   * [Package Managers](#package-managers)
@@ -361,6 +362,10 @@ See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/git
 ### Message Queue
 
 * [RobustMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/robustmq/robustmq) ![GitHub last commit](https://img.shields.io/github/last-commit/robustmq/robustmq)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
+
+### MLOps
+
+* [TensorZero ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorzero/tensorzero) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorzero/tensorzero)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
 
 ### Observability
 
