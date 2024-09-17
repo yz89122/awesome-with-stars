@@ -595,7 +595,7 @@ As an online service provider, you're exposed to fraud, crime and abuses. You'll
 
 - [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
 
-- [MIDAS: Detecting Microcluster Anomalies in Edge Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/bhatiasiddharth/MIDAS) ![GitHub last commit](https://img.shields.io/github/last-commit/bhatiasiddharth/MIDAS)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to ��detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+- [MIDAS: Detecting Microcluster Anomalies in Edge Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/bhatiasiddharth/MIDAS) ![GitHub last commit](https://img.shields.io/github/last-commit/bhatiasiddharth/MIDAS)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
 
 - [Gephi ![GitHub Repo Stars](https://img.shields.io/github/stars/gephi/gephi) ![GitHub last commit](https://img.shields.io/github/last-commit/gephi/gephi)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
 
