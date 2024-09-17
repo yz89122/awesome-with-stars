@@ -155,7 +155,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Logic<a name=logic></a>
 ## Computational Complexity<a name=logic_computational_complexity></a>
 ### Books<a name=logic_computational_complexity_books></a>
-- [Pudl��k. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
+- [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 # Programming Language Theory<a name=programming_language_theory></a>
 ## Basics<a name=programming_language_theory_basics></a>
 ### Books<a name=programming_language_theory_basics_books></a>
