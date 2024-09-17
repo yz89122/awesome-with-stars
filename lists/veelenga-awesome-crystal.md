@@ -558,7 +558,7 @@ described in [RFC 8032]
  * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
  * [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
  * [Portuguese-speaking Telegram Group](https://t.me/crystalbrasil) - Bem vindos ao Crystal Brasil!
- * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро по��аловать, товарищ!
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey

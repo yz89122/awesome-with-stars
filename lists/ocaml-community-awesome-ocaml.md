@@ -368,6 +368,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [MLDonkey ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/mldonkey) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/mldonkey)](https://github.com/ygrek/mldonkey) - cross-platform multi-network peer-to-peer daemon
 - [Oni2 ![GitHub Repo Stars](https://img.shields.io/github/stars/onivim/oni2) ![GitHub last commit](https://img.shields.io/github/last-commit/onivim/oni2)](https://github.com/onivim/oni2) - Native, lightweight modal code editor.
 - [pfff ![GitHub Repo Stars](https://img.shields.io/github/stars/returntocorp/pfff) ![GitHub last commit](https://img.shields.io/github/last-commit/returntocorp/pfff)](https://github.com/returntocorp/pfff) - an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [Tezos](https://gitlab.com/tezos/tezos) - a self-upgradable Proof of Stake blockchain
 - [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
 - [xen-api ![GitHub Repo Stars](https://img.shields.io/github/stars/xapi-project/xen-api) ![GitHub last commit](https://img.shields.io/github/last-commit/xapi-project/xen-api)](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool.
 
