@@ -664,6 +664,7 @@ become an Angular expert.
 * [angular-prerender ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-prerender) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-prerender)](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 * [ngx-ssr-code-remover ![GitHub Repo Stars](https://img.shields.io/github/stars/xsip/ngx-ssr-code-remover) ![GitHub last commit](https://img.shields.io/github/last-commit/xsip/ngx-ssr-code-remover)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
+* [treaty ![GitHub Repo Stars](https://img.shields.io/github/stars/treatyjs/treaty) ![GitHub last commit](https://img.shields.io/github/last-commit/treatyjs/treaty)](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 
 #### Site Templates
 
@@ -998,6 +999,7 @@ become an Angular expert.
 * [angular-cc-library ![GitHub Repo Stars](https://img.shields.io/github/stars/timofei-iatsenko/angular-cc-library) ![GitHub last commit](https://img.shields.io/github/last-commit/timofei-iatsenko/angular-cc-library)](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
 * [ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/webcat12345/ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/webcat12345/ngx-ui-switch)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 * [olt-ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/OuterlimitsTech/olt-ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/OuterlimitsTech/olt-ngx-ui-switch)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
+* [auto-complete ![GitHub Repo Stars](https://img.shields.io/github/stars/ng2-ui/auto-complete) ![GitHub last commit](https://img.shields.io/github/last-commit/ng2-ui/auto-complete)](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 
 ##### Validation
 
