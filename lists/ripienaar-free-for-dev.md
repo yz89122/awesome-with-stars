@@ -438,7 +438,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Raindrop.io](https://raindrop.io) - Private and secure bookmarking app for macOS, Windows, Android, iOS, and Web. Free Unlimited Bookmarks and Collaboration.
   * [element.io](https://element.io/) — A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
   * [Rocket.Chat](https://rocket.chat/) - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging, and Full messaging history.
-  * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB
+  * [seafile.com](https://www.seafile.com/) ��� Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB
   * [Sema](https://www.semasoftware.com/) - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.
   * [Slab](https://slab.com/) — A modern knowledge management service for teams. Free for up to 10 users.
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
@@ -1917,7 +1917,7 @@ Update Time, five active automations, webhooks.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
   * [Tiledesk](https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
-  * [videoinu](https://videoinu.com) �� Create and edit screen recordings and other videos online.
+  * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
