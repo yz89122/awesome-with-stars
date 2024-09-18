@@ -276,6 +276,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
 * [qupaya](https://qupaya.com/blog/)
+* [Offering Solutions](https://offering.solutions/blog/)
 
 ##### Books
 
@@ -338,6 +339,7 @@ become an Angular expert.
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+* [Offering Solutions](https://offering.solutions/trainings/)
 
 ##### On-Site Training
 
@@ -346,6 +348,7 @@ become an Angular expert.
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
+* [Offering Solutions](https://offering.solutions/trainings/)
 
 ##### YouTube Channels
 
@@ -1300,6 +1303,7 @@ for the creation of web applications developed with Angular.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline ![GitHub Repo Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline) ![GitHub last commit](https://img.shields.io/github/last-commit/htmlstreamofficial/preline)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [ngxtw ![GitHub Repo Stars](https://img.shields.io/github/stars/William-Mba/ngxtw) ![GitHub last commit](https://img.shields.io/github/last-commit/William-Mba/ngxtw)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+* [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 
 ##### Node Based
 
