@@ -45,6 +45,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Developer tools](#developer-tools)
   * [Documentation tools](#documentation-tools)
   * [Generators](#generators)
+    * [Go](#go)
     * [NET](#net)
     * [Node](#node)
     * [Spring Boot](#spring-boot)
@@ -534,6 +535,10 @@ become an Angular expert.
 * [docgeni ![GitHub Repo Stars](https://img.shields.io/github/stars/docgeni/docgeni) ![GitHub last commit](https://img.shields.io/github/last-commit/docgeni/docgeni)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Generators
+
+##### Go
+
+* [goxygen ![GitHub Repo Stars](https://img.shields.io/github/stars/Shpota/goxygen) ![GitHub last commit](https://img.shields.io/github/last-commit/Shpota/goxygen)](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
 
 ##### NET
 
@@ -1273,6 +1278,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-vcl ![GitHub Repo Stars](https://img.shields.io/github/stars/vcl/ng-vcl) ![GitHub last commit](https://img.shields.io/github/last-commit/vcl/ng-vcl)](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 * [po-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/po-ui/po-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/po-ui/po-angular)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+* [pastanaga-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/plone/pastanaga-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/plone/pastanaga-angular)](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
 
 ##### Material Based
 
@@ -1306,6 +1312,8 @@ for the creation of web applications developed with Angular.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline ![GitHub Repo Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline) ![GitHub last commit](https://img.shields.io/github/last-commit/htmlstreamofficial/preline)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [ngxtw ![GitHub Repo Stars](https://img.shields.io/github/stars/William-Mba/ngxtw) ![GitHub last commit](https://img.shields.io/github/last-commit/William-Mba/ngxtw)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
+* [Rectangle UI ![GitHub Repo Stars](https://img.shields.io/github/stars/jarretthuang/rectangle-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/jarretthuang/rectangle-ui)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
+* [Mamba UI ![GitHub Repo Stars](https://img.shields.io/github/stars/Microwawe/mamba-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Microwawe/mamba-ui)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 
 ##### Node Based
 

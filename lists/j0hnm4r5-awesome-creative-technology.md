@@ -120,7 +120,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Magnopus**](https:&#x2F;&#x2F;www.magnopus.com&#x2F;) | [LA] [London] | unite the physical and digital worlds with extraordinary experiences | [🌐](https:&#x2F;&#x2F;www.magnopus.com&#x2F;current-openings)
 | [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [🌐](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
 | [**Map**](http:&#x2F;&#x2F;mapprojectoffice.com&#x2F;) | [London] | industrial designers who believe great design can solve problems | [🌐](https:&#x2F;&#x2F;universal.pinpointhq.com&#x2F;)
-| [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [����](mailto:jobs@marshmallowlaserfeast.com)
+| [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [📧](mailto:jobs@marshmallowlaserfeast.com)
 | [**Master of Shapes**](https:&#x2F;&#x2F;masterofshapes.com&#x2F;) | [LA] | a space surfing, geometry taming, buffalo riding, Future House | 
 | [**Midnight Commercial**](http:&#x2F;&#x2F;midnightcommercial.com&#x2F;) | [NYC] | unite the disparate digital and physical worlds | 
 | [**Midwest Immersive**](https:&#x2F;&#x2F;www.mwimmersive.com&#x2F;) | [Chicago] | immersive experiences for brands and agencies, projection mapping, LED lighting, games and app development | 
@@ -148,7 +148,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Patten Studio**](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;) | [NYC] | informed by research at the MIT Media Lab, experiences that connect people | [🌐](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;about&#x2F;)
 | [**Potion Design**](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;) | [NYC] | design and technology studio, interactive, musuems | [🌐](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;work-with-us)
 | [**pretty bloody simple**](https:&#x2F;&#x2F;www.prettybloodysimple.com) | [Munich] | interactive experiences, analog and digital, musuems | 
-| [**RadicalMedia**](https:&#x2F;&#x2F;www.radicalmedia.com&#x2F;) | [NYC] [LA] | commercials, documentaries, music videos, branded experiences, &amp; immersive environments | [📧](mailto:careers@radicalmedia.com)
+| [**RadicalMedia**](https:&#x2F;&#x2F;www.radicalmedia.com&#x2F;) | [NYC] [LA] | commercials, documentaries, music videos, branded experiences, &amp; immersive environments | [����](mailto:careers@radicalmedia.com)
 | [**Rare Volume**](https:&#x2F;&#x2F;rarevolume.com&#x2F;) | [NYC] | design and technology studio, interactive video walls | [🌐](https:&#x2F;&#x2F;rarevolume.com&#x2F;about&#x2F;)
 | [**Red Paper Heart**](https:&#x2F;&#x2F;redpaperheart.com) | [NYC] | art from real world interaction | [📧](mailto:jobs@redpaperheart.com)
 | [**Relative Scale**](https:&#x2F;&#x2F;relativescale.com&#x2F;) | [Raleigh] | bespoke digital products and experiences for brands and institutions | 
