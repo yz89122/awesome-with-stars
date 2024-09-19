@@ -2120,7 +2120,7 @@ but with the following improvements:
 
 - [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 
-- [protolint ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheimuta/protolint) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheimuta/protolint)](https://github.com/yoheimuta/protolint) — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+- [protolint ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheimuta/protolint) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheimuta/protolint)](https://github.com/yoheimuta/protolint) ��� Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 
 
 <a name="puppet" />
