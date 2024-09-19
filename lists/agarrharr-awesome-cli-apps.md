@@ -288,7 +288,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [eureka ![GitHub Repo Stars](https://img.shields.io/github/stars/simeg/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/simeg/eureka)](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli ![GitHub Repo Stars](https://img.shields.io/github/stars/insanum/sncli) ![GitHub last commit](https://img.shields.io/github/last-commit/insanum/sncli)](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/darrikonn/td-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/darrikonn/td-cli)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
-- [taskell ![GitHub Repo Stars](https://img.shields.io/github/stars/smallhadroncollider/taskell) ![GitHub last commit](https://img.shields.io/github/last-commit/smallhadroncollider/taskell)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook ![GitHub Repo Stars](https://img.shields.io/github/stars/klaussinani/taskbook) ![GitHub last commit](https://img.shields.io/github/last-commit/klaussinani/taskbook)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote ![GitHub Repo Stars](https://img.shields.io/github/stars/dnote/dnote) ![GitHub last commit](https://img.shields.io/github/last-commit/dnote/dnote)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb ![GitHub Repo Stars](https://img.shields.io/github/stars/xwmx/nb) ![GitHub last commit](https://img.shields.io/github/last-commit/xwmx/nb)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
@@ -364,7 +363,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wallpaper-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/wallpaper-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/wallpaper-cli)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer ![GitHub Repo Stars](https://img.shields.io/github/stars/mjswensen/themer) ![GitHub last commit](https://img.shields.io/github/last-commit/mjswensen/themer)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper ![GitHub Repo Stars](https://img.shields.io/github/stars/jackel27/jackpaper) ![GitHub last commit](https://img.shields.io/github/last-commit/jackel27/jackpaper)](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
-- [pywal ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanaraps/pywal) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanaraps/pywal)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 - [QuickWall ![GitHub Repo Stars](https://img.shields.io/github/stars/deepjyoti30/QuickWall) ![GitHub last commit](https://img.shields.io/github/last-commit/deepjyoti30/QuickWall)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 
@@ -379,7 +377,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### System Interaction Utilities
 
-- [neofetch ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanaraps/neofetch) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanaraps/neofetch)](https://github.com/dylanaraps/neofetch) - System information tool.
+- [fastfetch ![GitHub Repo Stars](https://img.shields.io/github/stars/fastfetch-cli/fastfetch) ![GitHub last commit](https://img.shields.io/github/last-commit/fastfetch-cli/fastfetch)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 - [battery-level-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/gillstrom/battery-level-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/gillstrom/battery-level-cli)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/brightness-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/brightness-cli)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows ![GitHub Repo Stars](https://img.shields.io/github/stars/sondreb/win-brightness) ![GitHub last commit](https://img.shields.io/github/last-commit/sondreb/win-brightness)](https://github.com/sondreb/win-brightness)).
 - [yank ![GitHub Repo Stars](https://img.shields.io/github/stars/mptre/yank) ![GitHub last commit](https://img.shields.io/github/last-commit/mptre/yank)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
@@ -492,7 +490,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [Vifm](https://vifm.info/) - VI influnced file manager.
 - [nnn ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/nnn) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/nnn)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf ![GitHub Repo Stars](https://img.shields.io/github/stars/gokcehan/lf) ![GitHub last commit](https://img.shields.io/github/last-commit/gokcehan/lf)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
-- [fff ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanaraps/fff) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanaraps/fff)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 - [clifm ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-arch/clifm) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-arch/clifm)](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l ![GitHub Repo Stars](https://img.shields.io/github/stars/elfmz/far2l) ![GitHub last commit](https://img.shields.io/github/last-commit/elfmz/far2l)](https://github.com/elfmz/far2l) - Orthodox file manager.
 
