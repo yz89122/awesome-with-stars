@@ -63,7 +63,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Generate Supabase Database Types GitHub Action ![GitHub Repo Stars](https://img.shields.io/github/stars/lyqht/generate-supabase-db-types-github-action) ![GitHub last commit](https://img.shields.io/github/last-commit/lyqht/generate-supabase-db-types-github-action)](https://github.com/lyqht/generate-supabase-db-types-github-action) - GitHub action to generate types based on your Supabase database. 
 - [Supabase Cache Helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/psteinroe/supabase-cache-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/psteinroe/supabase-cache-helpers)](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
-
+- [Bemi for Supabase JS ![GitHub Repo Stars](https://img.shields.io/github/stars/BemiHQ/bemi-supabase-js) ![GitHub last commit](https://img.shields.io/github/last-commit/BemiHQ/bemi-supabase-js)](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 
 ## Online Courses
 
