@@ -962,7 +962,7 @@ A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, 
 
 Books:
 - [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
-- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room) ����
+- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room) 🔥
 - [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window) 🔥
 - [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill) 🔥
 - [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy) 🔥
