@@ -366,7 +366,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) — Frontend to drive the Clang Static Analyzer built into Clang via a regular build.
 
-- [splint](http://splint.org) ��� Annotation-assisted static program checker.
+- [splint](http://splint.org) — Annotation-assisted static program checker.
 
 - [SVF](https://svf-tools.github.io/SVF) — A static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.
 

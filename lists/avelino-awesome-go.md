@@ -531,6 +531,7 @@ _Libraries for configuration parsing._
 
 _Tools for help with continuous integration._
 
+- [abstruse ![GitHub Repo Stars](https://img.shields.io/github/stars/bleenco/abstruse) ![GitHub last commit](https://img.shields.io/github/last-commit/bleenco/abstruse)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 - [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 - [CDS ![GitHub Repo Stars](https://img.shields.io/github/stars/ovh/cds) ![GitHub last commit](https://img.shields.io/github/last-commit/ovh/cds)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 - [dot ![GitHub Repo Stars](https://img.shields.io/github/stars/opnlabs/dot) ![GitHub last commit](https://img.shields.io/github/last-commit/opnlabs/dot)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
