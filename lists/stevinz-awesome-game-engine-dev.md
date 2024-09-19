@@ -495,7 +495,7 @@ _Language specific game engine development libraries / frameworks / code._
     - ⭐ [RmlUi ![GitHub Repo Stars](https://img.shields.io/github/stars/mikke89/RmlUi) ![GitHub last commit](https://img.shields.io/github/last-commit/mikke89/RmlUi)](https://github.com/mikke89/RmlUi) - Turns HTML / CSS source files into vertices and draw commands. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
     - ⭐ [Turbo Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/fruxo/turbobadger) ![GitHub last commit](https://img.shields.io/github/last-commit/fruxo/turbobadger)](https://github.com/fruxo/turbobadger) - Gui library for hardware accelerated apps & games. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
     - 🔒 [Wt ![GitHub Repo Stars](https://img.shields.io/github/stars/emweb/wt) ![GitHub last commit](https://img.shields.io/github/last-commit/emweb/wt)](https://github.com/emweb/wt) - Web gui library in modern C++. [[Website](https://www.webtoolkit.eu/wt)]
-    - 🔒 [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
+    - ��� [wxWidgets ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/wxWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/wxWidgets)](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui using native controls. [[Website](https://wxwidgets.org)]
 - C++: Input
     - 🎉 [Gainput ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/gainput) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/gainput)](https://github.com/jkuhlmann/gainput) - Easy to use input library.
     - 🎉 [OIS ![GitHub Repo Stars](https://img.shields.io/github/stars/wgois/OIS) ![GitHub last commit](https://img.shields.io/github/last-commit/wgois/OIS)](https://github.com/wgois/OIS) - Object-oriented input system. Compatiable with many operating systems.
@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
     - 🌎 [Blazor ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/aspnetcore) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
-    - 🎉 [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
+    - �� [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
@@ -633,7 +633,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - ��� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
