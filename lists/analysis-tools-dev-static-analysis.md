@@ -444,7 +444,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Elixir</h2>
 
 
-- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) �� A static code analysis tool with a focus on code consistency and teaching.
+- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) — A static code analysis tool with a focus on code consistency and teaching.
 
 - [dialyxir ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyjh/dialyxir) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 

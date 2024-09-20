@@ -85,6 +85,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Loggers](#loggers)
   * [Maps](#maps)
   * [Markdown](#markdown)
+  * [Media](#media)
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
@@ -552,6 +553,7 @@ become an Angular expert.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [create-tauri-app ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/create-tauri-app) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/create-tauri-app)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
+* [skulljs](https://skulljs.github.io/) - Skulljs aims to give a standardized file structure to create web applications based on popular Javascript / Typescript frameworks.
 
 ##### Spring Boot
 
@@ -565,6 +567,7 @@ become an Angular expert.
 * [graphql-code-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/dotansimha/graphql-code-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/dotansimha/graphql-code-generator)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 * [hasura ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/learn-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/learn-graphql)](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 * [tailcall](https://tailcall.run/blog/graphql-angular-client/) - This comprehensive guide dives into five powerful approaches for integrating GraphQL into your Angular applications.
+* [apollo-orbit ![GitHub Repo Stars](https://img.shields.io/github/stars/wassim-k/apollo-orbit) ![GitHub last commit](https://img.shields.io/github/last-commit/wassim-k/apollo-orbit)](https://github.com/wassim-k/apollo-orbit) - A fully-featured GraphQL client for Angular with modular state management.
 
 #### HTTP
 
@@ -1124,6 +1127,15 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/angular-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/angular-markdown-editor)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [ngx-markdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/notiz-dev/ngx-markdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/notiz-dev/ngx-markdoc)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 
+#### Media
+
+* [angular-audio-context ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-audio-context) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-audio-context)](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
+* [silicon-audio-wave ![GitHub Repo Stars](https://img.shields.io/github/stars/joldibaev/silicon-audio-wave) ![GitHub last commit](https://img.shields.io/github/last-commit/joldibaev/silicon-audio-wave)](https://github.com/joldibaev/silicon-audio-wave) - Very simple audio wave system from Silicon.
+* [ngx-plyr ![GitHub Repo Stars](https://img.shields.io/github/stars/atom-platform/ngx-plyr) ![GitHub last commit](https://img.shields.io/github/last-commit/atom-platform/ngx-plyr)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr ![GitHub Repo Stars](https://img.shields.io/github/stars/sampotts/plyr) ![GitHub last commit](https://img.shields.io/github/last-commit/sampotts/plyr)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
+* [byteark-player-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/byteark/byteark-player-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/byteark/byteark-player-angular)](https://github.com/byteark/byteark-player-angular) - Player Container from [ByteArk](https://www.byteark.com/).
+* [Vidstack ![GitHub Repo Stars](https://img.shields.io/github/stars/vidstack/player) ![GitHub last commit](https://img.shields.io/github/last-commit/vidstack/player)](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout&provider=video).
+* [dyte-io/ui-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/dyte-io/ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/dyte-io/ui-kit)](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.
+
 #### Mixed utilities
 
 * [rx-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/rx-angular/rx-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/rx-angular/rx-angular)](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
@@ -1360,7 +1372,6 @@ for the creation of web applications developed with Angular.
 * [ngx-csv-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/tofiqquadri/ngx-csv-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/tofiqquadri/ngx-csv-parser)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 * [angular-tag-cloud-module ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/angular-tag-cloud-module) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/angular-tag-cloud-module)](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ngx-lipsum ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/ngx-lipsum) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/ngx-lipsum)](https://github.com/d-koppenhagen/ngx-lipsum) - Easily use lorem-ipsum dummy texts in your angular app as directive, component or by using a service.
-* [angular-audio-context ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/angular-audio-context) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/angular-audio-context)](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
 * [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
 * [angular-twitter-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/angular-twitter-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/angular-twitter-timeline)](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ng-parsel ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/ng-parsel) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/ng-parsel)](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
