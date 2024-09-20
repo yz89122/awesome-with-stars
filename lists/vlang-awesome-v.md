@@ -185,7 +185,7 @@
 ### Database clients
 
 - [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - MongoDB driver for V.
-- [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/Coachonko/redis) ![GitHub last commit](https://img.shields.io/github/last-commit/Coachonko/redis)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
+- [redict ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/redict) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/redict)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vmemcached ![GitHub Repo Stars](https://img.shields.io/github/stars/blacktrub/vmemcached) ![GitHub last commit](https://img.shields.io/github/last-commit/blacktrub/vmemcached)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis ![GitHub Repo Stars](https://img.shields.io/github/stars/xiusin/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/xiusin/vredis)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
@@ -273,13 +273,13 @@
 - [pcre2 ![GitHub Repo Stars](https://img.shields.io/github/stars/srackham/pcre2) ![GitHub last commit](https://img.shields.io/github/last-commit/srackham/pcre2)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 - [read_xlsx_v ![GitHub Repo Stars](https://img.shields.io/github/stars/fanlia/read_xlsx_v) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/read_xlsx_v)](https://github.com/fanlia/read_xlsx_v) - Read xlsx using vlang.
 - [Rosie-RPL ![GitHub Repo Stars](https://img.shields.io/github/stars/jdonnerstag/vlang-rosie) ![GitHub last commit](https://img.shields.io/github/last-commit/jdonnerstag/vlang-rosie)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
-- [slugify ![GitHub Repo Stars](https://img.shields.io/github/stars/Coachonko/slugify) ![GitHub last commit](https://img.shields.io/github/last-commit/Coachonko/slugify)](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
+- [slugify ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/slugify) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/slugify)](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 - [strfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/BenStigsen/strfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/BenStigsen/strfmt)](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 - [text-processing ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtemkaKun/text-processing) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtemkaKun/text-processing)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 - [v-regex ![GitHub Repo Stars](https://img.shields.io/github/stars/spytheman/v-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/spytheman/v-regex)](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [vxml ![GitHub Repo Stars](https://img.shields.io/github/stars/walkingdevel/vxml) ![GitHub last commit](https://img.shields.io/github/last-commit/walkingdevel/vxml)](https://github.com/walkingdevel/vxml) - Pure V library for parsing XML to a DOM.
 - [whisker ![GitHub Repo Stars](https://img.shields.io/github/stars/hungrybluedev/whisker) ![GitHub last commit](https://img.shields.io/github/last-commit/hungrybluedev/whisker)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
-- [lexical_uuid ![GitHub Repo Stars](https://img.shields.io/github/stars/Coachonko/lexical_uuid) ![GitHub last commit](https://img.shields.io/github/last-commit/Coachonko/lexical_uuid)](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
+- [lexical_uuid ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/lexical_uuid) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/lexical_uuid)](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ### User Interface toolkits
 
@@ -295,6 +295,7 @@
 ### Utility
 
 - [dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/ttytm/dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/ttytm/dialog)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
+- [dotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/dotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/dotenv)](https://github.com/einar-hjortdal/dotenv) - Loads environment variables from a .env file for development purposes.
 - [json2v ![GitHub Repo Stars](https://img.shields.io/github/stars/ldedev/Json2V) ![GitHub last commit](https://img.shields.io/github/last-commit/ldedev/Json2V)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc ![GitHub Repo Stars](https://img.shields.io/github/stars/magic003/objc) ![GitHub last commit](https://img.shields.io/github/last-commit/magic003/objc)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/range) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/range)](https://github.com/Delta456/range) - Functionality of Python's range() in V.
@@ -317,7 +318,7 @@
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexferl/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexferl/vest)](https://github.com/alexferl/vest) - A REST client in V.
 - [vex ![GitHub Repo Stars](https://img.shields.io/github/stars/nedpals/vex) ![GitHub last commit](https://img.shields.io/github/last-commit/nedpals/vex)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest ![GitHub Repo Stars](https://img.shields.io/github/stars/withs/vigest) ![GitHub last commit](https://img.shields.io/github/last-commit/withs/vigest)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
-- [vistas ![GitHub Repo Stars](https://img.shields.io/github/stars/Coachonko/vistas) ![GitHub last commit](https://img.shields.io/github/last-commit/Coachonko/vistas)](https://github.com/Coachonko/vistas) - Central file server API.
+- [vistas ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/vistas) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/vistas)](https://github.com/einar-hjortdal/vistas) - Central file server API.
 - [vweb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/v) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/v)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [vxbloauth ![GitHub Repo Stars](https://img.shields.io/github/stars/WolvesFortress/vxbl-oauth) ![GitHub last commit](https://img.shields.io/github/last-commit/WolvesFortress/vxbl-oauth)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west ![GitHub Repo Stars](https://img.shields.io/github/stars/Dracks/West) ![GitHub last commit](https://img.shields.io/github/last-commit/Dracks/West)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
