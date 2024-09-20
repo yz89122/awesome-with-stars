@@ -310,7 +310,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 * 📝 [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
 * 📝 [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
-* 📝 [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
+* �� [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
 * 📝 [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
 * 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
 * 📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
@@ -443,7 +443,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
 * 📝 [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
-* 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
+* ���� [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
@@ -490,7 +490,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
 * 📝 [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
-* ���� [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
+* 📝 [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 * 📝 [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * 📝 [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * 📝 [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
@@ -552,7 +552,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * 📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
-* 📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
+* ��� [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * 📝 [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 * 📝 [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
 * 📝 [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
