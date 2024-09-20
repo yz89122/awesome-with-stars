@@ -258,7 +258,7 @@ Books:
 - [Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire) [4.2] 🔥
 - [Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation) [4.3] 🔥
 
-#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] 🌟 🔥
+#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] ���� 🔥
 
 Archetypal tale of mad science with the theme of 'how far can Science go' that arguably spawned the modern genre of Science Fiction. - [@katamaritaco](https://github.com/katamaritaco)
 
@@ -1619,7 +1619,7 @@ _Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots
   
   > Technology controls almost everything in our modern-day world, from remote entry on our cars to access to our homes, from the flight controls of our airplanes to the movements of the entire world economy. Thousands of autonomous computer programs, or daemons, make our networked world possible, running constantly in the background of our lives, trafficking e-mail, transferring money, and monitoring power grids. For the most part, daemons are benign, but the same can’t always be said for the people who design them.
   >
-  > Matthew Sobol was a legendary computer game designer—the architect behind half-a-dozen popular online games. His premature death depressed both gamers and his company’s stock price. But Sobol��s fans aren’t the only ones to note his passing. When his obituary is posted online, a previously dormant daemon activates, initiating a chain of events intended to unravel the fabric of our hyper-efficient, interconnected world. With Sobol’s secrets buried along with him, and as new layers of his daemon are unleashed at every turn, it’s up to an unlikely alliance to decipher his intricate plans and wrest the world from the grasp of a nameless, faceless enemy—or learn to live in a society in which we are no longer in control…
+  > Matthew Sobol was a legendary computer game designer—the architect behind half-a-dozen popular online games. His premature death depressed both gamers and his company’s stock price. But Sobol’s fans aren’t the only ones to note his passing. When his obituary is posted online, a previously dormant daemon activates, initiating a chain of events intended to unravel the fabric of our hyper-efficient, interconnected world. With Sobol’s secrets buried along with him, and as new layers of his daemon are unleashed at every turn, it’s up to an unlikely alliance to decipher his intricate plans and wrest the world from the grasp of a nameless, faceless enemy—or learn to live in a society in which we are no longer in control…
   >
   > Computer technology expert Daniel Suarez blends haunting high-tech realism with gripping suspense in an authentic, complex thriller in the tradition of Michael Crichton, Neal Stephenson, and William Gibson.
 </details>
