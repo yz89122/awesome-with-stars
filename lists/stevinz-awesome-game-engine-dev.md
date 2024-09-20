@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ���� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -295,7 +295,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Fonts
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
-    - �� [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -927,7 +927,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Clipboard.js ![GitHub Repo Stars](https://img.shields.io/github/stars/zenorocha/clipboard.js) ![GitHub last commit](https://img.shields.io/github/last-commit/zenorocha/clipboard.js)](https://github.com/zenorocha/clipboard.js) - Small, modern copy to clipboard.
     - 🎉 [Day.js ![GitHub Repo Stars](https://img.shields.io/github/stars/iamkun/dayjs) ![GitHub last commit](https://img.shields.io/github/last-commit/iamkun/dayjs)](https://github.com/iamkun/dayjs) - Fast 2kB alternative to [Moment.js ![GitHub Repo Stars](https://img.shields.io/github/stars/moment/moment) ![GitHub last commit](https://img.shields.io/github/last-commit/moment/moment)](https://github.com/moment/moment) with the same modern API.
     - 🎉 [i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/i18next/i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/i18next/i18next)](https://github.com/i18next/i18next) - Popular internationalization framework.
-    - 🎉 [jQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/jquery/jquery) ![GitHub last commit](https://img.shields.io/github/last-commit/jquery/jquery)](https://github.com/jquery/jquery) - Fast and feature-rich JavaScript library. [[Website](https://jquery.com)]
+    - ��� [jQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/jquery/jquery) ![GitHub last commit](https://img.shields.io/github/last-commit/jquery/jquery)](https://github.com/jquery/jquery) - Fast and feature-rich JavaScript library. [[Website](https://jquery.com)]
     - 🎉 [PreloadJS ![GitHub Repo Stars](https://img.shields.io/github/stars/CreateJS/PreloadJS) ![GitHub last commit](https://img.shields.io/github/last-commit/CreateJS/PreloadJS)](https://github.com/CreateJS/PreloadJS) - Preloading assets w/progress events.
     - 🎉 [Struct Vec ![GitHub Repo Stars](https://img.shields.io/github/stars/moomoolive/struct-vec) ![GitHub last commit](https://img.shields.io/github/last-commit/moomoolive/struct-vec)](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - JavaScript: Timeline
