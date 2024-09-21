@@ -123,6 +123,7 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [Taxy ![GitHub Repo Stars](https://img.shields.io/github/stars/picoHz/taxy) ![GitHub last commit](https://img.shields.io/github/last-commit/picoHz/taxy)](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
 - [Proxelar ![GitHub Repo Stars](https://img.shields.io/github/stars/emanuele-em/proxelar) ![GitHub last commit](https://img.shields.io/github/last-commit/emanuele-em/proxelar)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
 - [diff.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/xfbs/diff.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/xfbs/diff.rs)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
+- [konnektoren.help ![GitHub Repo Stars](https://img.shields.io/github/stars/Konnektoren/konnektoren-web-game) ![GitHub last commit](https://img.shields.io/github/last-commit/Konnektoren/konnektoren-web-game)](https://github.com/Konnektoren/konnektoren-web-game) - An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. [Web App](https://konnektoren.help)
 
 ## Templates
 
