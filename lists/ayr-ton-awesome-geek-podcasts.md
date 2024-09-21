@@ -291,7 +291,7 @@ A curated list of podcasts we like to listen to.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
-* [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
+* [Python en espa��ol](https://podcast.jcea.es/python/) - Python en tu idioma
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
 * [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - Mundo maker, software y hardware libre, proyectos, actividades y eventos organizados por la asociación Bricolabs.
@@ -349,7 +349,7 @@ A curated list of podcasts we like to listen to.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 * [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 * [S'informer sur la tech](https://www.abonnel.fr/podcasts/tech) - C'est Cédric Abonnel's blog audio, des vidéos et un wiki, traitant des technologies. Vous retrouverez mes expériences et Cédric Abonnel's découvertes sur la sécurité, l'informatique, le hack et les loisirs techniques.
-* [Burger Tech](https://www.mindcast.fr/@burgerTech) - Dans ce podcast, nous adoptons une approche décontractée, teintée d��humour et parfois d’irrévérence, pour aborder l’actualité tech. Nous partageons des anecdotes hilarantes et surprenantes que nous dénichons sur le Web, engageons des conversations moqueuses, débattons de manière semi-sérieuse et proposons des réflexions empreintes d’humour.
+* [Burger Tech](https://www.mindcast.fr/@burgerTech) - Dans ce podcast, nous adoptons une approche décontractée, teintée d’humour et parfois d’irrévérence, pour aborder l’actualité tech. Nous partageons des anecdotes hilarantes et surprenantes que nous dénichons sur le Web, engageons des conversations moqueuses, débattons de manière semi-sérieuse et proposons des réflexions empreintes d’humour.
 
 ## In German
 
