@@ -481,6 +481,7 @@ become an Angular expert.
 * [dotenv-run ![GitHub Repo Stars](https://img.shields.io/github/stars/chihab/dotenv-run) ![GitHub last commit](https://img.shields.io/github/last-commit/chihab/dotenv-run)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 * [ng-packagr ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-packagr/ng-packagr) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-packagr/ng-packagr)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 * [angular-env-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/igorissen/angular-env-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/igorissen/angular-env-builder)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
+* [ng-rspack-build ![GitHub Repo Stars](https://img.shields.io/github/stars/Coly010/ng-rspack-build) ![GitHub last commit](https://img.shields.io/github/last-commit/Coly010/ng-rspack-build)](https://github.com/Coly010/ng-rspack-build) - [Rspack ![GitHub Repo Stars](https://img.shields.io/github/stars/web-infra-dev/rspack) ![GitHub last commit](https://img.shields.io/github/last-commit/web-infra-dev/rspack)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
 
 #### CLI
 
