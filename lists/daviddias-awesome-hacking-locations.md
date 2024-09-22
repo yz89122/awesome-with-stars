@@ -1062,7 +1062,7 @@ Webpage: http://4sq.com/2fHRcQF
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | �� | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
+✔ | ✔ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
 
 ![](http://beta.speedtest.net/result/6938533453.png)
 
@@ -1259,7 +1259,7 @@ Webpage: http://www.cafevitoria.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm ��� 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 
