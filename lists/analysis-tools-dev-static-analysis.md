@@ -444,7 +444,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Elixir</h2>
 
 
-- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) — A static code analysis tool with a focus on code consistency and teaching.
+- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) ��� A static code analysis tool with a focus on code consistency and teaching.
 
 - [dialyxir ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyjh/dialyxir) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
@@ -856,7 +856,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 
-- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) :warning: — A Static Code Analyzer for PHP.
+- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) :warning: ��� A Static Code Analyzer for PHP.
 
 - [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
 
@@ -1012,7 +1012,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pylyzers](https://mtshiba.github.io/pylyzer/) — A static code analyzer / language server for Python, written in Rust, focused on type checking and readable output.
 
-- [pyre-check](https://pyre-check.org) — A fast, scalable type checker for large Python codebases.
+- [pyre-check](https://pyre-check.org) �� A fast, scalable type checker for large Python codebases.
 
 - [pyright ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/pyright) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/pyright)](https://github.com/Microsoft/pyright) — Static type checker for Python, created to address gaps in existing tools like mypy.
 
