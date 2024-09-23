@@ -70,6 +70,7 @@ A collection of awesome things regarding the React ecosystem.
 - [fluentui ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/fluentui) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7 ![GitHub Repo Stars](https://img.shields.io/github/stars/framework7io/framework7) ![GitHub last commit](https://img.shields.io/github/last-commit/framework7io/framework7)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit ![GitHub Repo Stars](https://img.shields.io/github/stars/ariakit/ariakit) ![GitHub last commit](https://img.shields.io/github/last-commit/ariakit/ariakit)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+- [mantine ![GitHub Repo Stars](https://img.shields.io/github/stars/mantinedev/mantine) ![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine)](https://github.com/mantinedev/mantine) - Fully featured React components library
 
 
 #### React State Management and Data Fetching
@@ -202,6 +203,7 @@ A collection of awesome things regarding the React ecosystem.
 - [auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/auto-animate)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
 - [react-tsparticles ![GitHub Repo Stars](https://img.shields.io/github/stars/matteobruni/tsparticles) ![GitHub last commit](https://img.shields.io/github/last-commit/matteobruni/tsparticles)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt ![GitHub Repo Stars](https://img.shields.io/github/stars/mkosir/react-parallax-tilt) ![GitHub last commit](https://img.shields.io/github/last-commit/mkosir/react-parallax-tilt)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [simple-parallax-js ![GitHub Repo Stars](https://img.shields.io/github/stars/geosigno/simpleParallax.js) ![GitHub last commit](https://img.shields.io/github/last-commit/geosigno/simpleParallax.js)](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
 #### React Integration
 
@@ -245,6 +247,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Contribution
 
-This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (��◠‿◠)
+This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
