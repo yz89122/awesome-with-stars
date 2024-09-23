@@ -615,6 +615,7 @@ additional ordered map implementations.
 
 - [cmap ![GitHub Repo Stars](https://img.shields.io/github/stars/lrita/cmap) ![GitHub last commit](https://img.shields.io/github/last-commit/lrita/cmap)](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
 - [dict ![GitHub Repo Stars](https://img.shields.io/github/stars/srfrog/dict) ![GitHub last commit](https://img.shields.io/github/last-commit/srfrog/dict)](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
+- [go-shelve ![GitHub Repo Stars](https://img.shields.io/github/stars/lucmq/go-shelve) ![GitHub last commit](https://img.shields.io/github/last-commit/lucmq/go-shelve)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
 - [goradd/maps ![GitHub Repo Stars](https://img.shields.io/github/stars/goradd/maps) ![GitHub last commit](https://img.shields.io/github/last-commit/goradd/maps)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### Miscellaneous Data Structures and Algorithms
