@@ -799,7 +799,7 @@ Iteration
 * [cl-transducers](https://git.sr.ht/~fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3][9].
   * "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
   * "It is, in general, the most complete implementation of the Transducer pattern."
-  * a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
+  * a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`��
 * [snakes ![GitHub Repo Stars](https://img.shields.io/github/stars/BnMcGn/snakes) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/snakes)](https://github.com/BnMcGn/snakes) - Python style generators for Common Lisp. Includes a port of itertools. [Apache2][89].
 * [picl ![GitHub Repo Stars](https://img.shields.io/github/stars/anlsh/picl) ![GitHub last commit](https://img.shields.io/github/last-commit/anlsh/picl)](https://github.com/anlsh/picl) - An (almost) complete port of Python's itertools package, complete with laziness where applicable, and not relying on cl-cont. [MIT][200].
 * [gtwiwtg](https://cicadas.surf/cgit/colin/gtwiwtg.git/about/) - A lazy sequences library. Similar to 'series' but not as complete. However it has a 'modern' API with stuff like `take`, `filter`, `for`, `fold`, etc. that is easy to use.
