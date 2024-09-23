@@ -65,7 +65,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Bluecadet**](https:&#x2F;&#x2F;www.bluecadet.com&#x2F;) | [Philadelphia] [NYC] | experience design across digital and physical environments, visitor centers | [🌐](https:&#x2F;&#x2F;www.bluecadet.com&#x2F;contact&#x2F;careers&#x2F;#custom-shortcode-4)
 | [**BRC Imagination Arts**](https:&#x2F;&#x2F;www.brcweb.com&#x2F;) | [Burbank, CA] [Edinburgh] [Amsterdam] | brand and cultural stories, strategy, animation, digital and hybrid experiences | 
 | [**BRDG Studios**](https:&#x2F;&#x2F;www.brdg.co&#x2F;) | [Philadelphia] | digital moments in physical spaces, retail environments, art galleries, events | [🌐](https:&#x2F;&#x2F;brdg.co&#x2F;careers&#x2F;)
-| [**BREAKFAST**](https:&#x2F;&#x2F;breakfastny.com&#x2F;) | [NYC] | software-&#x2F;hardware-driven artworks, flip discs | [🌐](https:&#x2F;&#x2F;breakfaststudio.com&#x2F;jobs)
+| [**BREAKFAST**](https:&#x2F;&#x2F;breakfastny.com&#x2F;) | [NYC] | software-&#x2F;hardware-driven artworks, flip discs | [��](https:&#x2F;&#x2F;breakfaststudio.com&#x2F;jobs)
 | [**Breeze Creative**](https:&#x2F;&#x2F;www.breezecreative.com&#x2F;) | [NYC] [Miami] | interactive experience design, family entertainment, museums, playgrounds, educational institutions | 
 | [**Bright**](https:&#x2F;&#x2F;brig.ht&#x2F;) | [Paris] | data visualization, digital installations, experiential sites, video games | [🌐](https:&#x2F;&#x2F;brig.ht&#x2F;contact)
 | [**C&amp;G Partners**](https:&#x2F;&#x2F;www.cgpartnersllc.com&#x2F;) | [NYC] | branding, digital installations, exhibits and environments, signage, wayfinding, websites | [🌐](https:&#x2F;&#x2F;www.cgpartnersllc.com&#x2F;about&#x2F;careers&#x2F;)

@@ -89,8 +89,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## Entertainment
 
-- [football-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ManrajGrover/football-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/football-cli)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
-- [pockyt ![GitHub Repo Stars](https://img.shields.io/github/stars/arvindch/pockyt) ![GitHub last commit](https://img.shields.io/github/last-commit/arvindch/pockyt)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [newsboat ![GitHub Repo Stars](https://img.shields.io/github/stars/newsboat/newsboat) ![GitHub last commit](https://img.shields.io/github/last-commit/newsboat/newsboat)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Music
@@ -109,15 +107,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [swaglyrics-for-spotify ![GitHub Repo Stars](https://img.shields.io/github/stars/SwagLyrics/SwagLyrics-For-Spotify) ![GitHub last commit](https://img.shields.io/github/last-commit/SwagLyrics/SwagLyrics-For-Spotify)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr ![GitHub Repo Stars](https://img.shields.io/github/stars/yne/dzr) ![GitHub last commit](https://img.shields.io/github/last-commit/yne/dzr)](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active ![GitHub Repo Stars](https://img.shields.io/github/stars/deep5050/radio-active) ![GitHub last commit](https://img.shields.io/github/last-commit/deep5050/radio-active)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
-
-### Social Media
-
-- [facebook-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/specious/facebook-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/specious/facebook-cli)](https://github.com/specious/facebook-cli) - Facebook command line interface.
-- [Rainbowstream ![GitHub Repo Stars](https://img.shields.io/github/stars/DTVD/rainbowstream) ![GitHub last commit](https://img.shields.io/github/last-commit/DTVD/rainbowstream)](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-- [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
-- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
-- [irssi ![GitHub Repo Stars](https://img.shields.io/github/stars/irssi/irssi) ![GitHub last commit](https://img.shields.io/github/last-commit/irssi/irssi)](https://github.com/irssi/irssi) - IRC chat client.
-- [kirc ![GitHub Repo Stars](https://img.shields.io/github/stars/mcpcpc/kirc) ![GitHub last commit](https://img.shields.io/github/last-commit/mcpcpc/kirc)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [mpvc ![GitHub Repo Stars](https://img.shields.io/github/stars/gmt4/mpvc) ![GitHub last commit](https://img.shields.io/github/last-commit/gmt4/mpvc)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
 ### Video
 
@@ -145,6 +135,12 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Bible.Js CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/BibleJS/BibleApp) ![GitHub last commit](https://img.shields.io/github/last-commit/BibleJS/BibleApp)](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead ![GitHub Repo Stars](https://img.shields.io/github/stars/sunsations/speed_read) ![GitHub last commit](https://img.shields.io/github/last-commit/sunsations/speed_read)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/djadmin/medium-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/djadmin/medium-cli)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+
+### Chat
+
+- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
+- [irssi ![GitHub Repo Stars](https://img.shields.io/github/stars/irssi/irssi) ![GitHub last commit](https://img.shields.io/github/last-commit/irssi/irssi)](https://github.com/irssi/irssi) - IRC chat client.
+- [kirc ![GitHub Repo Stars](https://img.shields.io/github/stars/mcpcpc/kirc) ![GitHub last commit](https://img.shields.io/github/last-commit/mcpcpc/kirc)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## Development
 
