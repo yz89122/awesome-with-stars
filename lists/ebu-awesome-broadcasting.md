@@ -19,6 +19,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Multimedia content processing](#multimedia-content-processing)
   * [Network & Storage Testing](#network--storage-testing)
   * [NMOS](#nmos)
+  * [Podcasting](#podcasting)
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
@@ -87,6 +88,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Aurena ![GitHub Repo Stars](https://img.shields.io/github/stars/thaytan/aurena) ![GitHub last commit](https://img.shields.io/github/last-commit/thaytan/aurena)](https://github.com/thaytan/aurena) - A network distributed media playback system.
 * [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more.
+* [Bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/svt/bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/svt/bridge)](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [ffplayout ![GitHub Repo Stars](https://img.shields.io/github/stars/ffplayout/ffplayout) ![GitHub last commit](https://img.shields.io/github/last-commit/ffplayout/ffplayout)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 * [Macadam ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/macadam) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/macadam)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/sevruga) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/sevruga)](https://github.com/Streampunk/sevruga)) graphics.
@@ -224,6 +226,15 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
 * [NVIDIA NMOS Library ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA/nvnmos) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/nvnmos)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
 
+## Podcasting
+
+* [AntennaPod ![GitHub Repo Stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod) ![GitHub last commit](https://img.shields.io/github/last-commit/AntennaPod/AntennaPod)](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
+* [Anytime Podcast Player ![GitHub Repo Stars](https://img.shields.io/github/stars/amugofjava/anytime_podcast_player) ![GitHub last commit](https://img.shields.io/github/last-commit/amugofjava/anytime_podcast_player)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
+* [Castopod ![GitHub Repo Stars](https://img.shields.io/github/stars/ad-aures/castopod) ![GitHub last commit](https://img.shields.io/github/last-commit/ad-aures/castopod)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
+* [gPodder ![GitHub Repo Stars](https://img.shields.io/github/stars/gpodder/gpodder) ![GitHub last commit](https://img.shields.io/github/last-commit/gpodder/gpodder)](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
+* [Podlove Publisher ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-publisher) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-publisher)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher)).
+* [Podlove Web Player ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-ui)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player)).
+
 ## Radio Production
 
 * [Airtime ![GitHub Repo Stars](https://img.shields.io/github/stars/sourcefabric/airtime) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcefabric/airtime)](https://github.com/sourcefabric/airtime) - Radio management application for remote broadcast automation (via web-based schedule).
@@ -269,6 +280,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 ## Streaming
 
 * [Owncast ![GitHub Repo Stars](https://img.shields.io/github/stars/owncast/owncast) ![GitHub last commit](https://img.shields.io/github/last-commit/owncast/owncast)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (https://owncast.online/)
+* [PeerTube ![GitHub Repo Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube) ![GitHub last commit](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.

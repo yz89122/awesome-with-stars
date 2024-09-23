@@ -55,7 +55,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Frameworks
 
 - [next ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js) - The React Framework
-- [blitz ![GitHub Repo Stars](https://img.shields.io/github/stars/blitz-js/blitz) ![GitHub last commit](https://img.shields.io/github/last-commit/blitz-js/blitz)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
 - [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [gatsby ![GitHub Repo Stars](https://img.shields.io/github/stars/gatsbyjs/gatsby) ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [react-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/react-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
@@ -71,7 +70,7 @@ A collection of awesome things regarding the React ecosystem.
 - [framework7 ![GitHub Repo Stars](https://img.shields.io/github/stars/framework7io/framework7) ![GitHub last commit](https://img.shields.io/github/last-commit/framework7io/framework7)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit ![GitHub Repo Stars](https://img.shields.io/github/stars/ariakit/ariakit) ![GitHub last commit](https://img.shields.io/github/last-commit/ariakit/ariakit)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [mantine ![GitHub Repo Stars](https://img.shields.io/github/stars/mantinedev/mantine) ![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine)](https://github.com/mantinedev/mantine) - Fully featured React components library
-
+- [react-email ![GitHub Repo Stars](https://img.shields.io/github/stars/resend/react-email) ![GitHub last commit](https://img.shields.io/github/last-commit/resend/react-email)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 
 #### React State Management and Data Fetching
 
@@ -82,7 +81,6 @@ A collection of awesome things regarding the React ecosystem.
 - [swr ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/swr) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/swr)](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [apollo-client ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 - [relay ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/relay) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/relay)](https://github.com/facebook/relay) - A framework for building data-driven React applications
-- [recoil ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookexperimental/Recoil) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/Recoil)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [jotai ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/jotai) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/jotai)](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate ![GitHub Repo Stars](https://img.shields.io/github/stars/statelyai/xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/statelyai/xstate)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector ![GitHub Repo Stars](https://img.shields.io/github/stars/zerobias/effector) ![GitHub last commit](https://img.shields.io/github/last-commit/zerobias/effector)](https://github.com/zerobias/effector) - Business logic with ease
@@ -94,7 +92,6 @@ A collection of awesome things regarding the React ecosystem.
 
 - [styled-components ![GitHub Repo Stars](https://img.shields.io/github/stars/styled-components/styled-components) ![GitHub last commit](https://img.shields.io/github/last-commit/styled-components/styled-components)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion ![GitHub Repo Stars](https://img.shields.io/github/stars/emotion-js/emotion) ![GitHub last commit](https://img.shields.io/github/last-commit/emotion-js/emotion)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-- [linaria ![GitHub Repo Stars](https://img.shields.io/github/stars/callstack/linaria) ![GitHub last commit](https://img.shields.io/github/last-commit/callstack/linaria)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/vanilla-extract) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/vanilla-extract)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
 #### React Routing
@@ -181,6 +178,7 @@ A collection of awesome things regarding the React ecosystem.
 - [victory ![GitHub Repo Stars](https://img.shields.io/github/stars/FormidableLabs/victory) ![GitHub last commit](https://img.shields.io/github/last-commit/FormidableLabs/victory)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [react-vis ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/react-vis) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/react-vis)](https://github.com/uber/react-vis) - Data Visualization Components
 - [nivo ![GitHub Repo Stars](https://img.shields.io/github/stars/plouc/nivo) ![GitHub last commit](https://img.shields.io/github/last-commit/plouc/nivo)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
+- [xyflow ![GitHub Repo Stars](https://img.shields.io/github/stars/xyflow/xyflow) ![GitHub last commit](https://img.shields.io/github/last-commit/xyflow/xyflow)](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
 
 #### React Renderers
 
@@ -194,7 +192,6 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs ![GitHub Repo Stars](https://img.shields.io/github/stars/formatjs/formatjs) ![GitHub last commit](https://img.shields.io/github/last-commit/formatjs/formatjs)](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/i18next/react-i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/i18next/react-i18next)](https://github.com/i18next/react-i18next) - Internationalization for React done right
-- [typesafe-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanhofer/typesafe-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanhofer/typesafe-i18n)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
 #### React Graphics and Animations
 
@@ -233,7 +230,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Native Navigation
 
 - [react-navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/react-navigation/react-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/react-navigation/react-navigation)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-- [expo-router ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/router) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/router)](https://github.com/expo/router) - The File-based router for universal React Native apps
 
 #### React Native Awesome Components
 
