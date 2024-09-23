@@ -640,6 +640,7 @@ become an Angular expert.
 * [i18n-ally ![GitHub Repo Stars](https://img.shields.io/github/stars/lokalise/i18n-ally) ![GitHub last commit](https://img.shields.io/github/last-commit/lokalise/i18n-ally)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [ngx-translate-router ![GitHub Repo Stars](https://img.shields.io/github/stars/gilsdav/ngx-translate-router) ![GitHub last commit](https://img.shields.io/github/last-commit/gilsdav/ngx-translate-router)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
 * [intl-tel-input-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/intl-tel-input-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/intl-tel-input-ng)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input ![GitHub Repo Stars](https://img.shields.io/github/stars/jackocnr/intl-tel-input) ![GitHub last commit](https://img.shields.io/github/last-commit/jackocnr/intl-tel-input)](https://github.com/jackocnr/intl-tel-input).
+* [ng-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/antimprisacaru/ng-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/antimprisacaru/ng-intl)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
 
 #### Monorepos
 
