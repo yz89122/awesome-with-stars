@@ -540,7 +540,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [iquilezles.org](https://iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
 - [ibreakdownshaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
-- [adriancourrèges.com](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
+- [adriancourr��ges.com](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
 - [clicktorelease.com](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
 - [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
 - [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
