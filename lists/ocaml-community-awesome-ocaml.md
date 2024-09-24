@@ -172,7 +172,7 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
   - [Liquid ML ![GitHub Repo Stars](https://img.shields.io/github/stars/benfaerber/liquid-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/benfaerber/liquid-ml)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
 - **Parser and Lexer Generators**:
-  - [Opal ![GitHub Repo Stars](https://img.shields.io/github/stars/pyrocat101/opal) ![GitHub last commit](https://img.shields.io/github/last-commit/pyrocat101/opal)](https://github.com/pyrocat101/opal) ��� Self-contained monadic parser combinators for OCaml.
+  - [Opal ![GitHub Repo Stars](https://img.shields.io/github/stars/pyrocat101/opal) ![GitHub last commit](https://img.shields.io/github/last-commit/pyrocat101/opal)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
   - [Sedlex ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/sedlex) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/sedlex)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir is a LR(1) parser generator for OCaml.
     - See [ocaml-parsing ![GitHub Repo Stars](https://img.shields.io/github/stars/smolkaj/ocaml-parsing) ![GitHub last commit](https://img.shields.io/github/last-commit/smolkaj/ocaml-parsing)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
