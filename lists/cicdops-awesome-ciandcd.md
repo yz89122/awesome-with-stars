@@ -231,7 +231,7 @@ The tools for web site deploy
 ## Delivery
 The tools for software delivery  
 * [sl-release](https://xebialabs.com/products/xl-release)  Orchestrate your Continuous Delivery pipelines. Simple. Flexible. End-to-End  
-* [archiva](http://archiva.apache.org/index.cgi)  Apache Archiva��� is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository. It is the perfect companion for build tools such as Maven, Continuum, and ANT  
+* [archiva](http://archiva.apache.org/index.cgi)  Apache Archiva™ is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository. It is the perfect companion for build tools such as Maven, Continuum, and ANT  
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
