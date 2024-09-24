@@ -327,7 +327,7 @@ This list is a collection of the best Deno modules and resources.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
-- [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
+- [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. ��
 
 ## Showcases
 
@@ -451,7 +451,7 @@ This list is a collection of the best Deno modules and resources.
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
-- [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
+- [Node之父ry：Node���的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 - [《Deno进阶开发笔记》 ![GitHub Repo Stars](https://img.shields.io/github/stars/chenshenhai/deno_note) ![GitHub last commit](https://img.shields.io/github/last-commit/chenshenhai/deno_note)](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nugine/deno-manual-cn) ![GitHub last commit](https://img.shields.io/github/last-commit/Nugine/deno-manual-cn)](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
