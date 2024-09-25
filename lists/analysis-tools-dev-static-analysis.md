@@ -444,7 +444,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Elixir</h2>
 
 
-- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) — A static code analysis tool with a focus on code consistency and teaching.
+- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) �� A static code analysis tool with a focus on code consistency and teaching.
 
 - [dialyxir ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyjh/dialyxir) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
@@ -1290,7 +1290,7 @@ Kani verifies:
 
 - [Nagelfar](https://sourceforge.net/projects/nagelfar) — A static syntax checker for Tcl.
 
-- [tclchecker ![GitHub Repo Stars](https://img.shields.io/github/stars/ActiveState/tdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ActiveState/tdk)](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) �� A static syntax analysis module (as part of [TDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ActiveState/tdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ActiveState/tdk)](https://github.com/ActiveState/tdk)).
+- [tclchecker ![GitHub Repo Stars](https://img.shields.io/github/stars/ActiveState/tdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ActiveState/tdk)](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — A static syntax analysis module (as part of [TDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ActiveState/tdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ActiveState/tdk)](https://github.com/ActiveState/tdk)).
 
 
 <a name="typescript" />
