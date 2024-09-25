@@ -813,7 +813,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 * 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
-* 🕸��� Lightweight: No composer dependencies
+* 🕸️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
 
@@ -2120,7 +2120,7 @@ but with the following improvements:
 
 - [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 
-- [protolint ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheimuta/protolint) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheimuta/protolint)](https://github.com/yoheimuta/protolint) — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+- [protolint ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheimuta/protolint) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheimuta/protolint)](https://github.com/yoheimuta/protolint) ��� Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 
 
 <a name="puppet" />
