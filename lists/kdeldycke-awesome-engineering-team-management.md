@@ -583,7 +583,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - Compilation of easy rules and processes to bootstrap a remote team.
 
-- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - ��GitLab is the world's largest all-remote company”. Here is what it means and how it works.
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - “GitLab is the world's largest all-remote company”. Here is what it means and how it works.
 
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - “Remote workers are more productive than their office-bound counterparts.”
 
@@ -605,7 +605,7 @@ Two humans + a (virtual) room = a meeting.
 
 The most important meetings you'll have are frequent 1:1s with your direct reports.
 
-- “1on1s are the managers Swiss army knife” ([source](https://news.ycombinator.com/item?id=22341739)) - Another advice from the source: make them walk'n'talks.
+- ���1on1s are the managers Swiss army knife” ([source](https://news.ycombinator.com/item?id=22341739)) - Another advice from the source: make them walk'n'talks.
 
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 

@@ -623,6 +623,7 @@ become an Angular expert.
 * [ngx-stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/richnologies/ngx-stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/richnologies/ngx-stripe)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 * [ngx-socket-io ![GitHub Repo Stars](https://img.shields.io/github/stars/rodgc/ngx-socket-io) ![GitHub last commit](https://img.shields.io/github/last-commit/rodgc/ngx-socket-io)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 * [angular-three ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-threejs/angular-three) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-threejs/angular-three)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/three.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/three.js)](https://github.com/mrdoob/three.js).
+* [limitless-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/limitless-angular/limitless-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/limitless-angular/limitless-angular)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
 
 #### Internationalization
 
@@ -1477,11 +1478,12 @@ for the creation of web applications developed with Angular.
 
 #### Other Lists
 
-> This Awesome List excludes some libraries that don't yet support Angular 16+.  If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
+> This Awesome List excludes some libraries that don't yet support Angular 16+. If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
 
 * [awesome-utils-dev/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/pegaltier/awesome-utils-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/pegaltier/awesome-utils-dev)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
 * [awesome-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/DaanDeSmedt/awesome-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/DaanDeSmedt/awesome-angular)](https://github.com/DaanDeSmedt/awesome-angular)
 * [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
+* [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
 
 ---
 
