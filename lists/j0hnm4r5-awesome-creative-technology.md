@@ -134,7 +134,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**NCompass**](https:&#x2F;&#x2F;ncompassonline.com&#x2F;) | [LA] | brand and marketing solutions creating experiences that integrate the latest technology and creative | 
 | [**Neon Global**](https:&#x2F;&#x2F;www.neonglobal.com&#x2F;) | [Singapore] | world class and epic experiences that are innovative, creative and exciting | [🌐](https:&#x2F;&#x2F;www.neonglobal.com&#x2F;en&#x2F;connect&#x2F;)
 | [**NeoPangea**](https:&#x2F;&#x2F;www.neopangea.com&#x2F;) | [Reading, PA] | microsites, games, VR&#x2F;AR, digital, social | 
-| [**NEXT&#x2F;NOW**](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;) | [Chicago] | brand activations, immersive environments, emerging technologies | [🌐](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;careers)
+| [**NEXT&#x2F;NOW**](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;) | [Chicago] | brand activations, immersive environments, emerging technologies | [���](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;careers)
 | [**NGX Interactive**](https:&#x2F;&#x2F;ngxinteractive.com&#x2F;) | [Vancouver] | pushing new technologies to create experiences that are vivid and meaningful | [🌐](https:&#x2F;&#x2F;ngxinteractive.recruitee.com&#x2F;)
 | [**Night Kitchen**](https:&#x2F;&#x2F;www.whatscookin.com&#x2F;) | [Philadelphia] | dynamic digital experiences, online exhibitions, digital strategy, storytelling | [📧](mailto:jobs@whatscookin.com)
 | [**Nohlab**](https:&#x2F;&#x2F;nohlab.com&#x2F;works) | [Istanbul] | producing interdisciplinary experiences around art, design and technology | [📧](mailto:apply@nohlab.com)
@@ -192,7 +192,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](mailto:jobs@vtprodesign.com)
 | [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
-| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [��](mailto:jobs@weareroyale.com)
+| [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation | [🌐](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;channels&#x2F;219.html)
