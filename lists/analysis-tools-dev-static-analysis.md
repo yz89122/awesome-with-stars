@@ -444,7 +444,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>Elixir</h2>
 
 
-- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) — A static code analysis tool with a focus on code consistency and teaching.
+- [credo ![GitHub Repo Stars](https://img.shields.io/github/stars/rrrene/credo) ![GitHub last commit](https://img.shields.io/github/last-commit/rrrene/credo)](https://github.com/rrrene/credo) �� A static code analysis tool with a focus on code consistency and teaching.
 
 - [dialyxir ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyjh/dialyxir) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyjh/dialyxir)](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
@@ -813,7 +813,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 * 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
-* 🕸️ Lightweight: No composer dependencies
+* ��️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
 
@@ -856,7 +856,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 
-- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) :warning: — A Static Code Analyzer for PHP.
+- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) :warning: �� A Static Code Analyzer for PHP.
 
 - [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
 
@@ -2120,7 +2120,7 @@ but with the following improvements:
 
 - [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 
-- [protolint ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheimuta/protolint) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheimuta/protolint)](https://github.com/yoheimuta/protolint) ��� Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+- [protolint ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheimuta/protolint) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheimuta/protolint)](https://github.com/yoheimuta/protolint) — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 
 
 <a name="puppet" />
