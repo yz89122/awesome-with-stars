@@ -263,7 +263,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
   * [Geekflare API](https://geekflare.com/api) - Geekflare API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
   * [GeoCod](https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
-  * [GeoDataSource](https://www.geodatasource.com) �� Location search service looks up city names using latitude and longitude coordinates. Free API queries up to 500 times per month.
+  * [GeoDataSource](https://www.geodatasource.com) — Location search service looks up city names using latitude and longitude coordinates. Free API queries up to 500 times per month.
   * [Geolocated.io](https://geolocated.io) — IP Geolocation API with multi-continent servers, offering a forever free plan with 60000 requests per month for hobbyists.
   * [Glitterly](https://glitterly.app/) - Programmatically generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
   * [GoodData](https://www.gooddata.com/) - Data as a Service - Create interactive and insightful dashboards. The free tier comes with five workspaces and 100 MB/workspace.
@@ -354,7 +354,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
   * [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
-  * [Zenscrape](https://zenscrape.com/web-scraping-api) ��� Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
+  * [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
   * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
   * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. Ten thousand free requests/month.
