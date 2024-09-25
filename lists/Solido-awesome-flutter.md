@@ -381,7 +381,7 @@ Meteo
 #### Augmented Reality
 
 - [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [798⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
-- [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [433��] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+- [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [433⭐] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## Plugins
 
@@ -457,7 +457,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Data
 
-- [Graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) [3243��] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+- [Graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) [3243⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 - [GeoFlutterFire ![GitHub Repo Stars](https://img.shields.io/github/stars/DarshanGowda0/GeoFlutterFire) ![GitHub last commit](https://img.shields.io/github/last-commit/DarshanGowda0/GeoFlutterFire)](https://github.com/DarshanGowda0/GeoFlutterFire) [305⭐] - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 - [Ferry ![GitHub Repo Stars](https://img.shields.io/github/stars/gql-dart/ferry) ![GitHub last commit](https://img.shields.io/github/last-commit/gql-dart/ferry)](https://github.com/gql-dart/ferry) [600⭐] - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
 

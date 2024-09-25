@@ -12,7 +12,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
-  - [XR] (#xr)
+  - [XR](#xr)
 - [Projects](#projects)
 - [Templates](#templates)
 - [Demos](#demos)
@@ -84,11 +84,11 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 4.3
 
+- [LibreAim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokorpo/LibreAim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokorpo/LibreAim)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [OpenLiberty ![GitHub Repo Stars](https://img.shields.io/github/stars/FOSS-Supremacy/OpenLiberty) ![GitHub last commit](https://img.shields.io/github/last-commit/FOSS-Supremacy/OpenLiberty)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
 #### Godot 4.2
 
-- [LibreAim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokorpo/LibreAim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokorpo/LibreAim)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [Reia ![GitHub Repo Stars](https://img.shields.io/github/stars/Quaint-Studios/Reia) ![GitHub last commit](https://img.shields.io/github/last-commit/Quaint-Studios/Reia)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 
 #### Godot 3.2+
