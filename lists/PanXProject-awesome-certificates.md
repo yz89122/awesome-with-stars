@@ -300,7 +300,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
-| [Introduction to Cloud Computing](https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing) | EC-Council |Beginner|3 | ��|
+| [Introduction to Cloud Computing](https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing) | EC-Council |Beginner|3 | 🏆|
 | [Cloud Foundations](https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-foundations) | Great Learning |Beginner| 1.5 | 🏆|
 | [Cloud Essentials Knowledge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | Amazon | Intermediate | 10 | 🏅 |
 
