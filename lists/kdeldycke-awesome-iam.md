@@ -111,7 +111,7 @@ Here we set out the big picture: definition and strategic importance of the doma
 
 - [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098) - “Overly permissive AWS IAM policies that allowed `s3:GetObject` to `*` (all) resources”, led to \$80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.
 
-- [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/) - A little *click-baity*, but author admit that ���It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”
+- [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/) - A little *click-baity*, but author admit that “It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”
 
 ## Security
 
@@ -595,7 +595,7 @@ As an online service provider, you're exposed to fraud, crime and abuses. You'll
 
 - [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
 
-- [MIDAS: Detecting Microcluster Anomalies in Edge Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/bhatiasiddharth/MIDAS) ![GitHub last commit](https://img.shields.io/github/last-commit/bhatiasiddharth/MIDAS)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to ���detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+- [MIDAS: Detecting Microcluster Anomalies in Edge Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/bhatiasiddharth/MIDAS) ![GitHub last commit](https://img.shields.io/github/last-commit/bhatiasiddharth/MIDAS)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
 
 - [Gephi ![GitHub Repo Stars](https://img.shields.io/github/stars/gephi/gephi) ![GitHub last commit](https://img.shields.io/github/last-commit/gephi/gephi)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
 
