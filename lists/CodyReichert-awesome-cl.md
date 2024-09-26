@@ -1104,6 +1104,8 @@ See also:
 * [hermetic ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/hermetic) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/hermetic)](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
 * [live-reload ![GitHub Repo Stars](https://img.shields.io/github/stars/knobo/live-reload) ![GitHub last commit](https://img.shields.io/github/last-commit/knobo/live-reload)](https://github.com/knobo/live-reload) - Live reload prototype for clack. [LLGPL][8].
 * [clack-static-asset-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/fisxoj/clack-static-asset-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/fisxoj/clack-static-asset-middleware)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT][200].
+* [lack-expression-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/daninus14/lack-compression-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/daninus14/lack-compression-cache)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
+* [lack-rerouter ![GitHub Repo Stars](https://img.shields.io/github/stars/daninus14/lack-rerouter) ![GitHub last commit](https://img.shields.io/github/last-commit/daninus14/lack-rerouter)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
 
 For routing, we can also use Snooze (see below).
 
