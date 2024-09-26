@@ -702,8 +702,9 @@ and search for JSON RPC below.
 YAML
 ====
 
+* 👍 [cl-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/cl-yaml.git) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/cl-yaml.git)](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
+* [nyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/jasom/nyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/jasom/nyaml)](https://github.com/jasom/nyaml) - A lisp native YAML parser. MIT.
 * [cl-yacclyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/mabragor/cl-yaclyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mabragor/cl-yaclyaml)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3][2].
-* [cl-yaml ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/cl-yaml.git) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/cl-yaml.git)](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
 
 
 Language extensions
