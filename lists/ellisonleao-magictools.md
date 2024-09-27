@@ -379,7 +379,7 @@ _Audio editors, sounds collections and more._
 - :free: [FamiTracker ![GitHub Repo Stars](https://img.shields.io/github/stars/Dn-Programming-Core-Management/Dn-FamiTracker) ![GitHub last commit](https://img.shields.io/github/last-commit/Dn-Programming-Core-Management/Dn-FamiTracker)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 - :tada: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 - :tada: [LMMS](https://lmms.io/) - Cross-platform music production software.
-- :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire�� support.
+- :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 - :tada: [MilkyTracker ![GitHub Repo Stars](https://img.shields.io/github/stars/milkytracker/MilkyTracker) ![GitHub last commit](https://img.shields.io/github/last-commit/milkytracker/MilkyTracker)](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 - :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
