@@ -931,7 +931,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 <h2>PL/SQL</h2>
 
 
-- [ZPA](https://felipezorzo.com.br/zpa/) — Z PL/SQL Analyzer (ZPA) is an extensible code analyzer for PL/SQL and Oracle SQL. It can be integrated with SonarQube.
+- [ZPA](https://felipezorzo.com.br/zpa/) ��� Z PL/SQL Analyzer (ZPA) is an extensible code analyzer for PL/SQL and Oracle SQL. It can be integrated with SonarQube.
 
 
 <a name="perl" />
