@@ -150,7 +150,7 @@
 - 💼 [react-with-class ![GitHub Repo Stars](https://img.shields.io/github/stars/antomics/react-with-class) ![GitHub last commit](https://img.shields.io/github/last-commit/antomics/react-with-class)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
 - 💼 [twined-components ![GitHub Repo Stars](https://img.shields.io/github/stars/lowfront/twined-components) ![GitHub last commit](https://img.shields.io/github/last-commit/lowfront/twined-components)](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
 - 💼 [Tails DevTools ![GitHub Repo Stars](https://img.shields.io/github/stars/vechai/tails-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vechai/tails-devtools)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
-- 💼 [Impulse.dev ![GitHub Repo Stars](https://img.shields.io/github/stars/impulse-oss/impulse) ![GitHub last commit](https://img.shields.io/github/last-commit/impulse-oss/impulse)](https://github.com/impulse-oss/impulse) �� UI editor for Tailwind CSS and React that edits your code.
+- 💼 [Impulse.dev ![GitHub Repo Stars](https://img.shields.io/github/stars/impulse-oss/impulse) ![GitHub last commit](https://img.shields.io/github/last-commit/impulse-oss/impulse)](https://github.com/impulse-oss/impulse) – UI editor for Tailwind CSS and React that edits your code.
 - 💼 [Tailiscope.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/danielvolchek/tailiscope.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/danielvolchek/tailiscope.nvim)](https://github.com/danielvolchek/tailiscope.nvim) - Tailwind CSS cheat sheet integrated in Neovim.
 - 💼 [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in Raycast Launcher.
 - 💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
@@ -166,7 +166,7 @@
 
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
-- 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 💙��� [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
 - 📚 [VueTailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/alfonsobries/vue-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/alfonsobries/vue-tailwind)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
@@ -178,7 +178,7 @@
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
 - 📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
-- ���� [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
+- 📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
 - 📚 [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
 - 📚 [Tailkits](https://tailkits.com/) - Curated Tailwind CSS components, templates, UI kits, resources, tools & more.
