@@ -494,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应用开��](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -2527,6 +2527,7 @@ _Switch / on/off toggle / checkbox_
 - [@mycure/vue-wysiwyg ![GitHub Repo Stars](https://img.shields.io/github/stars/mycurelabs/vue-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/mycurelabs/vue-wysiwyg)](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 - [ckeditor4-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor4-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor4-vue)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 - [vue-quill ![GitHub Repo Stars](https://img.shields.io/github/stars/vueup/vue-quill) ![GitHub last commit](https://img.shields.io/github/last-commit/vueup/vue-quill)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+- [vue-quilly ![GitHub Repo Stars](https://img.shields.io/github/stars/alekswebnet/vue-quilly) ![GitHub last commit](https://img.shields.io/github/last-commit/alekswebnet/vue-quilly)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 
 ##### Image Manipulation
 
