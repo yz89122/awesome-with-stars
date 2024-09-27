@@ -289,7 +289,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### Research Groups (USA)
 
-> Network-focused research centers, (reading) groups, institutes, labs – you name it – based in the USA.
+> Network-focused research centers, (reading) groups, institutes, labs �� you name it – based in the USA.
 
 -   [Annenberg Networks Network (ANN)](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
 -   [Center for Applied Network Analysis (CANA)](https://usccana.github.io/) - Research group based at the University of Southern California School of Medicine.

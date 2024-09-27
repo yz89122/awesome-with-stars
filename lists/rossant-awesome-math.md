@@ -256,7 +256,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 * 📝 [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 * 📝 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
-* 📝 [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
+* 📝 [Programming in Martin-Lof���s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
 
 ### Homotopy Type Theory
 
@@ -310,7 +310,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 * 📝 [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
 * 📝 [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
-* 📝 [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
+* ���� [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
 * 📝 [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
 * 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
 * 📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
@@ -320,7 +320,7 @@ All resources are freely available except those with a 💲 icon.
 ### Group Theory
 
 * 📝 [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
-* ��� [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
+* 📝 [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * 📝 [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
 * 📝 [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
 
