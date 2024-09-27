@@ -168,6 +168,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+    * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -200,7 +201,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [pijul.com](https://pijul.com/) - Unlimited free and open source distributed version control system. Its distinctive feature is based on a sound theory of patches, which makes it easy to learn, use, and distribute. Solves many problems of git/hg/svn/darcs.
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS, and nonprofit organizations
-  * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB of space
+  * [projectlocker.com](https://projectlocker.com) ��� One free private project (Git and Subversion) with 50 MB of space
   * [RocketGit](https://rocketgit.com) — Repository Hosting based on Git. Unlimited Public and private repositories.
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
@@ -1348,7 +1349,6 @@ Update Time, five active automations, webhooks.
   * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
   * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally, running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
   * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
-  * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
   * [btunnel](https://www.btunnel.in/) — Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
 
 **[⬆️ Back to Top](#table-of-contents)**
