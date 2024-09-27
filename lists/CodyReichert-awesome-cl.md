@@ -774,7 +774,7 @@ Bringing the speed of Static Dispatch to CLOS. [LLGPL][8].
 
 Writing terser defclass forms:
 
-* [defclass-std ![GitHub Repo Stars](https://img.shields.io/github/stars/EuAndreh/defclass-std) ![GitHub last commit](https://img.shields.io/github/last-commit/EuAndreh/defclass-std)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8].
+* [defclass-std ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/defclass-std) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/defclass-std)](https://github.com/lisp-maintainers/defclass-std) - a shortcut macro to write DEFCLASS and PRINT-OBJECT forms quickly. [LLGPL][8].
 * [nclasses ![GitHub Repo Stars](https://img.shields.io/github/stars/atlas-engineer/nclasses) ![GitHub last commit](https://img.shields.io/github/last-commit/atlas-engineer/nclasses)](https://github.com/atlas-engineer/nclasses) - Syntactic sugar for class and generic function declarations. Fork of [hu.dwim.defclass-star ![GitHub Repo Stars](https://img.shields.io/github/stars/hu-dwim/hu.dwim.defclass-star) ![GitHub last commit](https://img.shields.io/github/last-commit/hu-dwim/hu.dwim.defclass-star)](https://github.com/hu-dwim/hu.dwim.defclass-star). Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. [BSD][15].
 
 And also:
