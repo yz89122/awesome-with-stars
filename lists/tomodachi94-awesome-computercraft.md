@@ -153,6 +153,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Economy
 
 - [Kristify](https://kristify.madefor.cc/) - Software for highly customizable Krist shops in modern versions of ComputerCraft, powered by [Basalt](https://basalt.madefor.cc).
+- [LP ![GitHub Repo Stars](https://img.shields.io/github/stars/migeyel/lp) ![GitHub last commit](https://img.shields.io/github/last-commit/migeyel/lp)](https://github.com/migeyel/lp) - A Krist shop which dynamically adjusts buy and sell prices based on supply and demand.
 - [msks ![GitHub Repo Stars](https://img.shields.io/github/stars/MasonGulu/msks) ![GitHub last commit](https://img.shields.io/github/last-commit/MasonGulu/msks)](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
 
 ### Mod-specific programs
