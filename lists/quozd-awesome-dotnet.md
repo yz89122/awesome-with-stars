@@ -317,6 +317,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 * [BlogEngine.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/rxtur/BlogEngine.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/rxtur/BlogEngine.NET)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 * [Squidex ![GitHub Repo Stars](https://img.shields.io/github/stars/Squidex/squidex) ![GitHub last commit](https://img.shields.io/github/last-commit/Squidex/squidex)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square&cacheSeconds=86400) - Open source headless CMS and content management hub.  https://squidex.io
+* [fluent-cms ![GitHub Repo Stars](https://img.shields.io/github/stars/fluent-cms/fluent-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/fluent-cms/fluent-cms)](https://github.com/fluent-cms/fluent-cms) - RESTful CRUD (Create, Read, Update, Delete) APIs, Admin Panel web pages,a GraphQL-style query designer and a WYSIWYG web page designer, all fully configurable without writing code.
 
 ## Code Analysis and Metrics
 
@@ -1270,7 +1271,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Frameworks
 
 * [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
-* [Coalesce](https://coalesce.intellitect.com/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
+* [Coalesce ![GitHub Repo Stars](https://img.shields.io/github/stars/IntelliTect/Coalesce) ![GitHub last commit](https://img.shields.io/github/last-commit/IntelliTect/Coalesce)](https://github.com/IntelliTect/Coalesce/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
 * [CodeBehind Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/elanatframework/Code_behind) ![GitHub last commit](https://img.shields.io/github/last-commit/elanatframework/Code_behind)](https://github.com/elanatframework/Code_behind) - Modern and powerful back-end framework under ASP.NET Core.
 * [FubuMVC ![GitHub Repo Stars](https://img.shields.io/github/stars/DarthFubuMVC/fubumvc) ![GitHub last commit](https://img.shields.io/github/last-commit/DarthFubuMVC/fubumvc)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 * [NancyFx ![GitHub Repo Stars](https://img.shields.io/github/stars/NancyFx/Nancy) ![GitHub last commit](https://img.shields.io/github/last-commit/NancyFx/Nancy)](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP-based services on .NET and Mono
@@ -1325,6 +1326,7 @@ metadata in media files, including video, audio, and photo formats
 
 # Other Lists
 
+* [List of Automated Testing Tools and Frameworks for .NET ![GitHub Repo Stars](https://img.shields.io/github/stars/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET)](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET) - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
 * [.NET-libraries-that-make-your-life-easier ![GitHub Repo Stars](https://img.shields.io/github/stars/tallesl/net-libraries-that-make-your-life-easier) ![GitHub last commit](https://img.shields.io/github/last-commit/tallesl/net-libraries-that-make-your-life-easier)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 * [awesome-LINQ ![GitHub Repo Stars](https://img.shields.io/github/stars/aloisdg/awesome-linq) ![GitHub last commit](https://img.shields.io/github/last-commit/aloisdg/awesome-linq)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 * [awesome-analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Cybermaxs/awesome-analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Cybermaxs/awesome-analyzers)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
