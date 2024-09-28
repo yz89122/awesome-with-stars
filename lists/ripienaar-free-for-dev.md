@@ -201,7 +201,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [pijul.com](https://pijul.com/) - Unlimited free and open source distributed version control system. Its distinctive feature is based on a sound theory of patches, which makes it easy to learn, use, and distribute. Solves many problems of git/hg/svn/darcs.
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS, and nonprofit organizations
-  * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB of space
+  * [projectlocker.com](https://projectlocker.com) ��� One free private project (Git and Subversion) with 50 MB of space
   * [RocketGit](https://rocketgit.com) — Repository Hosting based on Git. Unlimited Public and private repositories.
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
@@ -819,7 +819,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
   * [alerty.ai](https://www.alerty.ai) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
-  * [appdynamics.com](https://www.appdynamics.com/) �� Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
+  * [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
   * [appneta.com](https://www.appneta.com/) — Free with 1-hour data retention
   * [appspector.com](https://appspector.com/) - Mission control for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).
   * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
