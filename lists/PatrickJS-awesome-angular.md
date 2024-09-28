@@ -533,6 +533,7 @@ become an Angular expert.
 * [angular-scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/EPAM-JS-Competency-center/angular-scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/EPAM-JS-Competency-center/angular-scaffold)](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
 * [vscode-angulartools ![GitHub Repo Stars](https://img.shields.io/github/stars/CoderAllan/vscode-angulartools) ![GitHub last commit](https://img.shields.io/github/last-commit/CoderAllan/vscode-angulartools)](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
 * [ngx-schematics-utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/DSI-HUG/ngx-schematics-utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/DSI-HUG/ngx-schematics-utilities)](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
+* [angular-library-template ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-library-template) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-library-template)](https://github.com/lazycuh/angular-library-template) - A template for creating Angular libraries.
 
 #### Documentation tools
 
@@ -789,6 +790,7 @@ become an Angular expert.
 * [nightwatch-plugin-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch-plugin-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/nightwatchjs/nightwatch-plugin-angular)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
 * [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based ![GitHub Repo Stars](https://img.shields.io/github/stars/puppeteer/puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/puppeteer/puppeteer)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 * [ngx-testing-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/remscodes/ngx-testing-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/remscodes/ngx-testing-tools)](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
+* [angular-testing-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-testing-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-testing-kit)](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 
 #### Updating
 
@@ -1190,6 +1192,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular2-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/flauc/angular2-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/flauc/angular2-notifications)](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/OneSignal/onesignal-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/OneSignal/onesignal-ngx)](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [ngx-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/ngx-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/ngx-notifier)](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
+* [angular-notification ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-notification)](https://github.com/lazycuh/angular-notification) - A singleton, global Angular service to programmatically show notifications.
 
 #### QR Codes
 
@@ -1256,6 +1259,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [tooltip-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/chandumaram/tooltip-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/chandumaram/tooltip-testing)](https://github.com/chandumaram/tooltip-testing) - Tooltip for Angular, forked from cm-angular-tooltip
 * [angular-ellipsis-tooltip ![GitHub Repo Stars](https://img.shields.io/github/stars/wandri/angular-ellipsis-tooltip) ![GitHub last commit](https://img.shields.io/github/last-commit/wandri/angular-ellipsis-tooltip)](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
 * [ngx-popovers ![GitHub Repo Stars](https://img.shields.io/github/stars/al-march/ngx-popovers) ![GitHub last commit](https://img.shields.io/github/last-commit/al-march/ngx-popovers)](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
+* [angular-tooltip ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-tooltip) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-tooltip)](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 
 #### UI Libraries
 
@@ -1398,6 +1402,8 @@ for the creation of web applications developed with Angular.
 * [ng2-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/moribvndvs/ng2-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/moribvndvs/ng2-idle)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng2-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/hawkgs/ng2-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/hawkgs/ng2-gauge)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 * [ngx-angular-query-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/raysuelzer/ngx-angular-query-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/raysuelzer/ngx-angular-query-builder)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/zebzhao/Angular-QueryBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/zebzhao/Angular-QueryBuilder)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
+* [angular-confirmation-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-confirmation-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-confirmation-capture)](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
+* [angular-anchored-floating-box ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-anchored-floating-box) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-anchored-floating-box)](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a TemplateRef or component.
 
 ---
 
