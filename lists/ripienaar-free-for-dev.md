@@ -312,7 +312,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
   * [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. The free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
   * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
-  * [parsehub.com](https://parsehub.com/) ��� Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
+  * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
   * [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
@@ -819,7 +819,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
   * [alerty.ai](https://www.alerty.ai) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
-  * [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
+  * [appdynamics.com](https://www.appdynamics.com/) �� Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
   * [appneta.com](https://www.appneta.com/) — Free with 1-hour data retention
   * [appspector.com](https://appspector.com/) - Mission control for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).
   * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.

@@ -186,7 +186,7 @@ _Developers creating art projects and contributing to art-related open source to
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC.
 - [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
-- [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
+- [Øyvind Kol��s](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
 - [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 - [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
