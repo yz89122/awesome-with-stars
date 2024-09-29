@@ -952,7 +952,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 The formatting can be controlled with command line parameters. The default parameter settings approximately follow the suggestions in the Perl Style Guide. 
 Besides reformatting scripts, Perltidy can be a great help in tracking down errors with missing or extra braces, parentheses, and square brackets because it is very good at localizing errors.
 
-- [zarn ![GitHub Repo Stars](https://img.shields.io/github/stars/htrgouvea/zarn) ![GitHub last commit](https://img.shields.io/github/last-commit/htrgouvea/zarn)](https://github.com/htrgouvea/zarn) — A lightweight static security analysis tool for modern Perl Apps
+- [zarn ![GitHub Repo Stars](https://img.shields.io/github/stars/htrgouvea/zarn) ![GitHub last commit](https://img.shields.io/github/last-commit/htrgouvea/zarn)](https://github.com/htrgouvea/zarn) �� A lightweight static security analysis tool for modern Perl Apps
 
 
 <a name="python" />

@@ -678,7 +678,7 @@ In parternship with:
 *Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse ![GitHub Repo Stars](https://img.shields.io/github/stars/square/Cleanse) ![GitHub last commit](https://img.shields.io/github/last-commit/square/Cleanse)](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
-* [Corridor ![GitHub Repo Stars](https://img.shields.io/github/stars/symentis/Corridor) ![GitHub last commit](https://img.shields.io/github/last-commit/symentis/Corridor)](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
+* [Corridor ![GitHub Repo Stars](https://img.shields.io/github/stars/symentis/Corridor) ![GitHub last commit](https://img.shields.io/github/last-commit/symentis/Corridor)](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection ��Framework.
 * [Deli ![GitHub Repo Stars](https://img.shields.io/github/stars/kawoou/Deli) ![GitHub last commit](https://img.shields.io/github/last-commit/kawoou/Deli)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
 * [DIKit ![GitHub Repo Stars](https://img.shields.io/github/stars/Liftric/DIKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Liftric/DIKit)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 * [Dip ![GitHub Repo Stars](https://img.shields.io/github/stars/AliSoftware/Dip) ![GitHub last commit](https://img.shields.io/github/last-commit/AliSoftware/Dip)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
