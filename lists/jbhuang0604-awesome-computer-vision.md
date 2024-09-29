@@ -743,7 +743,7 @@ Non-uniform Deblurring
 
 #### Writing
  * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (MIT)
- * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Fr��do Durand (MIT)
+ * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Frédo Durand (MIT)
  * [How to Write a Bad Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - Frédo Durand (MIT)
  * [How to write a good CVPR submission](http://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) - William T. Freeman (MIT)
  * [How to write a great research paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Simon Peyton Jones (Microsoft Research)

@@ -264,7 +264,7 @@ Learn how to build a full-stack production ready note taking app using Serverles
 - [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 - [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
 - [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - Securely manage and synchronize app data for your users across their mobile devices.
-- [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
+- [Amazon S3](https://aws.amazon.com/s3/) - [���️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 - [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
 - [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
