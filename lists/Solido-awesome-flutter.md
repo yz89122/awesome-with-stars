@@ -361,7 +361,7 @@ Meteo
 - [Mates ![GitHub Repo Stars](https://img.shields.io/github/stars/CodemateLtd/FlutterMates) ![GitHub last commit](https://img.shields.io/github/last-commit/CodemateLtd/FlutterMates)](https://github.com/CodemateLtd/FlutterMates) [592⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 - [The Gorgeous Login ![GitHub Repo Stars](https://img.shields.io/github/stars/huextrat/TheGorgeousLogin) ![GitHub last commit](https://img.shields.io/github/last-commit/huextrat/TheGorgeousLogin)](https://github.com/huextrat/TheGorgeousLogin) [1736⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App ![GitHub Repo Stars](https://img.shields.io/github/stars/longhoang2984/flutter_payment_app_ui) ![GitHub last commit](https://img.shields.io/github/last-commit/longhoang2984/flutter_payment_app_ui)](https://github.com/longhoang2984/flutter_payment_app_ui) [304⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
-- [FlutterFoodybite ![GitHub Repo Stars](https://img.shields.io/github/stars/JideGuru/FlutterFoodybite) ![GitHub last commit](https://img.shields.io/github/last-commit/JideGuru/FlutterFoodybite)](https://github.com/JideGuru/FlutterFoodybite) [1567⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+- [FlutterFoodybite ![GitHub Repo Stars](https://img.shields.io/github/stars/JideGuru/FlutterFoodybite) ![GitHub last commit](https://img.shields.io/github/last-commit/JideGuru/FlutterFoodybite)](https://github.com/JideGuru/FlutterFoodybite) [1567���] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/diegoveloper/flutter-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/diegoveloper/flutter-samples)](https://github.com/diegoveloper/flutter-samples) [3083⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App ![GitHub Repo Stars](https://img.shields.io/github/stars/gregertw/actingweb_firstapp) ![GitHub last commit](https://img.shields.io/github/last-commit/gregertw/actingweb_firstapp)](https://github.com/gregertw/actingweb_firstapp) [476⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw)
 - [Smart Washing Machine ![GitHub Repo Stars](https://img.shields.io/github/stars/pawlik92/flutter_whirlpool) ![GitHub last commit](https://img.shields.io/github/last-commit/pawlik92/flutter_whirlpool)](https://github.com/pawlik92/flutter_whirlpool) [880⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
@@ -786,7 +786,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
 - Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
-### ���🇺 Russia
+### 🇷🇺 Russia
 
 - [Telegram](https://t.me/rudart)
 - [Telegram - Oh, my Flutter](https://t.me/ohmyflutter)
