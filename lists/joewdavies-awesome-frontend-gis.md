@@ -131,7 +131,7 @@ Data available for download:
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation) - Global elevation tiles.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
-- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface.
+- [ETOPO1](https://www.ngdc.noaa.gov/mgg) - 1 arc-minute global relief model of Earth's surface.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - Population figures in grid cells.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - Location of postal codes across Europe.
 - [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
@@ -142,7 +142,9 @@ Data available for download:
 - [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery and management platform.
 - [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - Locations of healthcare services in Europe.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
+- [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
+- [NASA SEDAC](https://sedac.ciesin.columbia.edu/data/set/urbanspatial-guppd-v1) - Global Urban Polygons and Points Dataset.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data.
 - [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
@@ -170,7 +172,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 - [movebank-api ![GitHub Repo Stars](https://img.shields.io/github/stars/movebank/movebank-api-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/movebank/movebank-api-doc)](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
-- [OpenAQ](https://docs.openaq.org/docs) - Largest open-source air quality data platform.
+- [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
 - [Open Charge Map API](https://openchargemap.org/site/develop/api) - Public registry of electric vehicle charging locations.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
