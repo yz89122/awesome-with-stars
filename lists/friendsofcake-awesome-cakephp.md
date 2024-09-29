@@ -280,7 +280,7 @@ Additional lists you might find useful:
 ## Search
 *Plugins and software for indexing and performing search queries on data.*
 
-- 🍰 [Cake/ElasticSearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/elastic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/elastic-search)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+- ��� [Cake/ElasticSearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/elastic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/elastic-search)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - 🍰 [PlumSearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/plum_search) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/plum_search)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - 🍰 [Search plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/search) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/search)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - 🍰 [Tags plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tags) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tags)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
