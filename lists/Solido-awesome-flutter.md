@@ -786,7 +786,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
 - Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
-### 🇷🇺 Russia
+### 🇷�� Russia
 
 - [Telegram](https://t.me/rudart)
 - [Telegram - Oh, my Flutter](https://t.me/ohmyflutter)

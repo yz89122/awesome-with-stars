@@ -226,7 +226,7 @@
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindadmin/admin) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindadmin/admin)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
-- ��� [Landing Gradients](https://landing-gradients.netlify.app) - Landing page template using gradients (1.7+).
+- 📁 [Landing Gradients](https://landing-gradients.netlify.app) - Landing page template using gradients (1.7+).
 - 📁 [Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/mohusman360/mohusman360.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/mohusman360/mohusman360.github.io)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
 - 📁 [Simple Light ![GitHub Repo Stars](https://img.shields.io/github/stars/cruip/tailwind-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/cruip/tailwind-landing-page-template)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 - 📁 [V-Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/v-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-dashboard)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
