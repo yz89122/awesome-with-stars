@@ -706,7 +706,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 
-- [complexity-report ![GitHub Repo Stars](https://img.shields.io/github/stars/escomplex/complexity-report) ![GitHub last commit](https://img.shields.io/github/last-commit/escomplex/complexity-report)](https://github.com/escomplex/complexity-report) :warning: — Software complexity analysis for JavaScript projects.
+- [complexity-report ![GitHub Repo Stars](https://img.shields.io/github/stars/escomplex/complexity-report) ![GitHub last commit](https://img.shields.io/github/last-commit/escomplex/complexity-report)](https://github.com/escomplex/complexity-report) :warning: ��� Software complexity analysis for JavaScript projects.
 
 - [DeepScan](https://deepscan.io) :copyright: — An analyzer for JavaScript which targets runtime errors and quality issues rather than coding conventions.
 
