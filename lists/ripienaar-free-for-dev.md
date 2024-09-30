@@ -896,7 +896,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
   * [Whitespace](https://whitespace.dev) – One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
 
-**[⬆��� Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Search
 

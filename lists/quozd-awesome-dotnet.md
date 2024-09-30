@@ -134,6 +134,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Algorithms and Data structures
 
+* [OneOf ![GitHub Repo Stars](https://img.shields.io/github/stars/mcintyre321/OneOf) ![GitHub last commit](https://img.shields.io/github/last-commit/mcintyre321/OneOf)](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
 * [Algorithmia ![GitHub Repo Stars](https://img.shields.io/github/stars/SolutionsDesign/Algorithmia) ![GitHub last commit](https://img.shields.io/github/last-commit/SolutionsDesign/Algorithmia)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 * [C# Algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/aalhour/C-Sharp-Algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/aalhour/C-Sharp-Algorithms)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 * [Towel ![GitHub Repo Stars](https://img.shields.io/github/stars/ZacharyPatten/Towel) ![GitHub last commit](https://img.shields.io/github/last-commit/ZacharyPatten/Towel)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
@@ -365,6 +366,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Amplifier.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/tech-quantum/Amplifier.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/tech-quantum/Amplifier.NET)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 * [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
 * [Lib.Harmony ![GitHub Repo Stars](https://img.shields.io/github/stars/pardeike/Harmony) ![GitHub last commit](https://img.shields.io/github/last-commit/pardeike/Harmony)](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
+* [dotnet-repl ![GitHub Repo Stars](https://img.shields.io/github/stars/jonsequitur/dotnet-repl) ![GitHub last commit](https://img.shields.io/github/last-commit/jonsequitur/dotnet-repl)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
 
 ## Compression
 
@@ -958,6 +960,7 @@ metadata in media files, including video, audio, and photo formats
 * [Dapper ![GitHub Repo Stars](https://img.shields.io/github/stars/StackExchange/Dapper) ![GitHub last commit](https://img.shields.io/github/last-commit/StackExchange/Dapper)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/tmsmith/Dapper-Extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/tmsmith/Dapper-Extensions)](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [Dapper.FastCRUD ![GitHub Repo Stars](https://img.shields.io/github/stars/MoonStorm/Dapper.FastCRUD) ![GitHub last commit](https://img.shields.io/github/last-commit/MoonStorm/Dapper.FastCRUD)](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
+* [DapperQueryBuilder ![GitHub Repo Stars](https://img.shields.io/github/stars/Drizin/DapperQueryBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/Drizin/DapperQueryBuilder)](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
 * [SqlSugar ![GitHub Repo Stars](https://img.shields.io/github/stars/donet5/SqlSugar) ![GitHub last commit](https://img.shields.io/github/last-commit/donet5/SqlSugar)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
@@ -1025,6 +1028,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+* [InterpolatedSql ![GitHub Repo Stars](https://img.shields.io/github/stars/Drizin/InterpolatedSql) ![GitHub last commit](https://img.shields.io/github/last-commit/Drizin/InterpolatedSql)](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
 
 ## Queue
 * [CAP ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnetcore/CAP) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnetcore/CAP)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
@@ -1321,6 +1325,7 @@ metadata in media files, including video, audio, and photo formats
   
 ## Source Generator
 
+* [CodegenCS ![GitHub Repo Stars](https://img.shields.io/github/stars/Drizin/CodegenCS) ![GitHub last commit](https://img.shields.io/github/last-commit/Drizin/CodegenCS)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator. 
 * [M31.FluentAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/m31coding/M31.FluentAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/m31coding/M31.FluentAPI)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 * [Supernova.Enum.Generators ![GitHub Repo Stars](https://img.shields.io/github/stars/EngRajabi/Enum.Source.Generator) ![GitHub last commit](https://img.shields.io/github/last-commit/EngRajabi/Enum.Source.Generator)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 
