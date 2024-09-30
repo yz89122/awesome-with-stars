@@ -184,7 +184,7 @@ Additional lists you might find useful:
 *Plugins for manipulating images.*
 
 - 🍰 [ADmad/Glide plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-glide) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-glide)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
-- 🍰 [QrCodePlugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-qrcode)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+- �� [QrCodePlugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-qrcode)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
