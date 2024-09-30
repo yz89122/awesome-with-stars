@@ -480,7 +480,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.
 
 - [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/Unity-Technologies/UnityCsReference) ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/UnityCsReference)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
-- [Plastic SCM](https://www.plasticscm.com/) - [���️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
+- [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/PlasticSCM/plastic-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/PlasticSCM/plastic-docker)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 - [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 
 ##### Resources
