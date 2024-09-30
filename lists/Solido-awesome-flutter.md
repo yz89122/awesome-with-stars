@@ -381,7 +381,7 @@ Meteo
 #### Augmented Reality
 
 - [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [798⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
-- [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [433⭐] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+- [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [433���] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## Plugins
 
@@ -396,7 +396,7 @@ Meteo
 - [Local Notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_local_notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_local_notifications)](https://github.com/MaikuB/flutter_local_notifications) [2441⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/builttoroam/device_calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/builttoroam/device_calendar)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/g123k/flutter_app_badger) ![GitHub last commit](https://img.shields.io/github/last-commit/g123k/flutter_app_badger)](https://github.com/g123k/flutter_app_badger) [308⭐] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
-- [UDID ![GitHub Repo Stars](https://img.shields.io/github/stars/GigaDroid/flutter_udid) ![GitHub last commit](https://img.shields.io/github/last-commit/GigaDroid/flutter_udid)](https://github.com/GigaDroid/flutter_udid) [245⭐] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
+- [UDID ![GitHub Repo Stars](https://img.shields.io/github/stars/GigaDroid/flutter_udid) ![GitHub last commit](https://img.shields.io/github/last-commit/GigaDroid/flutter_udid)](https://github.com/GigaDroid/flutter_udid) [245��] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
 - [Downloader ![GitHub Repo Stars](https://img.shields.io/github/stars/hnvn/flutter_downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/hnvn/flutter_downloader)](https://github.com/hnvn/flutter_downloader) [906⭐] - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 - [InAppWebView ![GitHub Repo Stars](https://img.shields.io/github/stars/pichillilorenzo/flutter_inappwebview) ![GitHub last commit](https://img.shields.io/github/last-commit/pichillilorenzo/flutter_inappwebview)](https://github.com/pichillilorenzo/flutter_inappwebview) [3178⭐] - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability ![GitHub Repo Stars](https://img.shields.io/github/stars/pichillilorenzo/flutter_appavailability) ![GitHub last commit](https://img.shields.io/github/last-commit/pichillilorenzo/flutter_appavailability)](https://github.com/pichillilorenzo/flutter_appavailability) [92⭐] - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
@@ -457,7 +457,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Data
 
-- [Graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) [3243⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+- [Graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) [3243���] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 - [GeoFlutterFire ![GitHub Repo Stars](https://img.shields.io/github/stars/DarshanGowda0/GeoFlutterFire) ![GitHub last commit](https://img.shields.io/github/last-commit/DarshanGowda0/GeoFlutterFire)](https://github.com/DarshanGowda0/GeoFlutterFire) [305⭐] - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 - [Ferry ![GitHub Repo Stars](https://img.shields.io/github/stars/gql-dart/ferry) ![GitHub last commit](https://img.shields.io/github/last-commit/gql-dart/ferry)](https://github.com/gql-dart/ferry) [600⭐] - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
 
