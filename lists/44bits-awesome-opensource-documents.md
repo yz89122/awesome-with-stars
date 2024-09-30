@@ -210,7 +210,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * Mozilla Developer Network ([Site][site-mdn], cc-by-sa) - Shared knowledge for the Open Web
 * [The Little Introduction To Programming][repo-tlitp] ([Site][site-tlitp], cc-nc) - This book will teach you the fundamentals of programming and act as a foundation for whatever your programming goals may be.
 * [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
-* [WHAT IS CODE?][repo-what-is-code] ([Site][site-what-is-code], cc-nc-nd) - Paul Ford’s “What Is Code?”
+* [WHAT IS CODE?][repo-what-is-code] ([Site][site-what-is-code], cc-nc-nd) - Paul Ford’s ��What Is Code?”
 
 [site-what-is-code]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 [repo-what-is-code]: https://github.com/BloombergMedia/whatiscode
@@ -853,7 +853,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ## Japanese
 
 * [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development
-* [はてな教科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
+* [はてな���科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
 
 [repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
 [repo-and-training]: https://github.com/mixi-inc/AndroidTraining
