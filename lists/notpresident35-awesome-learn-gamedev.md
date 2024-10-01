@@ -184,7 +184,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
 
-[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) 💠 - An extensive tutorial series.
+[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) ���� - An extensive tutorial series.
 
 
 [Game Engine Architecture](https://www.gameenginebook.com/) 🟪 - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
@@ -393,7 +393,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [The Book of Shaders](https://thebookofshaders.com/00/) 🟪 - A book on GLSL pixel shaders.
 
 
-[Catlike Coding](https://catlikecoding.com/unity/tutorials/) 🟪 - Unity and HLSL Shader Tutorials.
+[Catlike Coding](https://catlikecoding.com/unity/tutorials/) ���� - Unity and HLSL Shader Tutorials.
 
 [Shadertoy](https://www.shadertoy.com/) - An online shader editor and hosting/sharing site.
 
