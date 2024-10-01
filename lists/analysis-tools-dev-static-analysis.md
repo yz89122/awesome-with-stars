@@ -1044,7 +1044,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 
-- [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) �� Find unused classes, functions and variables in Python code.
+- [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 
 - [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
