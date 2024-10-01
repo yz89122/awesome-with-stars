@@ -2,7 +2,7 @@
 
 ![](https://github.com/dotintent/awesome-ble/raw/main/.github/awesome-ble.png)
 
-Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
+**Bluetooth Low Energy (BLE)**: Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
 
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
@@ -86,6 +86,7 @@ _Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BL
 
 - [Flutter Blue Plus ![GitHub Repo Stars](https://img.shields.io/github/stars/boskokg/flutter_blue_plus) ![GitHub last commit](https://img.shields.io/github/last-commit/boskokg/flutter_blue_plus)](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 - [Flutter Reactive BLE ![GitHub Repo Stars](https://img.shields.io/github/stars/PhilipsHue/flutter_reactive_ble) ![GitHub last commit](https://img.shields.io/github/last-commit/PhilipsHue/flutter_reactive_ble)](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
+- [Flutter BLELib ![GitHub Repo Stars](https://img.shields.io/github/stars/dotintent/FlutterBleLib) ![GitHub last commit](https://img.shields.io/github/last-commit/dotintent/FlutterBleLib)](https://github.com/dotintent/FlutterBleLib) - Bluetooth Low Energy library for Flutter with support for simulating peripherals.
 
 ## Tool
 
@@ -93,6 +94,7 @@ _Development and testing tools for Bluetooth Low Energy (BLE) applications, incl
 
 - [Bettercap ![GitHub Repo Stars](https://img.shields.io/github/stars/bettercap/bettercap) ![GitHub last commit](https://img.shields.io/github/last-commit/bettercap/bettercap)](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
 - [nRF Connect ![GitHub Repo Stars](https://img.shields.io/github/stars/NordicSemiconductor/pc-nrfconnect-core) ![GitHub last commit](https://img.shields.io/github/last-commit/NordicSemiconductor/pc-nrfconnect-core)](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
+- [BLE Simulator](https://play.google.com/store/apps/details?id=com.withintent.ble.simulator&hl=en) - A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.
 
 ## Web
 
