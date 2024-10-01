@@ -41,6 +41,7 @@ _Framework useful to develop your BLE peripherals._
 
 - [Matter ![GitHub Repo Stars](https://img.shields.io/github/stars/project-chip/connectedhomeip) ![GitHub last commit](https://img.shields.io/github/last-commit/project-chip/connectedhomeip)](https://github.com/project-chip/connectedhomeip) - Matter
 - [ESP-IDF ![GitHub Repo Stars](https://img.shields.io/github/stars/espressif/esp-idf) ![GitHub last commit](https://img.shields.io/github/last-commit/espressif/esp-idf)](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
+- [Zephyr ![GitHub Repo Stars](https://img.shields.io/github/stars/zephyrproject-rtos/zephyr) ![GitHub last commit](https://img.shields.io/github/last-commit/zephyrproject-rtos/zephyr)](https://github.com/zephyrproject-rtos/zephyr) - Zephyr
 
 ## Library
 
