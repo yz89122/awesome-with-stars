@@ -302,10 +302,10 @@
 - 🧪 [Tailwind Dark Mode Theme Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/huphtur/tailwind-theme-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/huphtur/tailwind-theme-switcher)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 - 🧪 [Acquia ![GitHub Repo Stars](https://img.shields.io/github/stars/opdavies/rebuilding-acquia) ![GitHub last commit](https://img.shields.io/github/last-commit/opdavies/rebuilding-acquia)](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 - 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
-- 🧪 [“Open” landing page ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/tailwindcss-open-template) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/tailwindcss-open-template)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
+- 🧪 [“Open” landing page ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/tailwindcss-open-template) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/tailwindcss-open-template)](https://github.com/michelegera/tailwindcss-open-template/) - “Open�� landing page template by Cruip built with Tailwind CSS Boilerplate.
 - 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
 - 🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
-- �� [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
+- 🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
 - 🔧 [Tailwind CSS with Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/raytiley/tailwind-ember-example) ![GitHub last commit](https://img.shields.io/github/last-commit/raytiley/tailwind-ember-example)](https://github.com/raytiley/tailwind-ember-example) - How to add Tailwind CSS to an Ember application.
 - 🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
 - 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
@@ -321,7 +321,7 @@
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
-- 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
+- ��� [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
 - 🎬 [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg) - Learn how CSS variables can bridge the gap between Framer Motion and Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
