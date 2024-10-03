@@ -1049,6 +1049,7 @@ become an Angular expert.
 * [ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/webcat12345/ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/webcat12345/ngx-ui-switch)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 * [olt-ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/OuterlimitsTech/olt-ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/OuterlimitsTech/olt-ngx-ui-switch)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 * [auto-complete ![GitHub Repo Stars](https://img.shields.io/github/stars/ng2-ui/auto-complete) ![GitHub last commit](https://img.shields.io/github/last-commit/ng2-ui/auto-complete)](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
+* [ngx-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/pkovzz/ngx-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/pkovzz/ngx-otp-input)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 
 ##### Validation
 
