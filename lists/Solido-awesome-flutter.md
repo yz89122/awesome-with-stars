@@ -453,7 +453,7 @@ Simon Binder](https://github.com/simolus3)
 ### Widgets
 
 - [Hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/rrousselGit/flutter_hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/rrousselGit/flutter_hooks)](https://github.com/rrousselGit/flutter_hooks) [3119⭐] - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
-- [Functional widget ![GitHub Repo Stars](https://img.shields.io/github/stars/rrousselGit/functional_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/rrousselGit/functional_widget)](https://github.com/rrousselGit/functional_widget) [595��] - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
+- [Functional widget ![GitHub Repo Stars](https://img.shields.io/github/stars/rrousselGit/functional_widget) ![GitHub last commit](https://img.shields.io/github/last-commit/rrousselGit/functional_widget)](https://github.com/rrousselGit/functional_widget) [595⭐] - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
 ### Data
 
