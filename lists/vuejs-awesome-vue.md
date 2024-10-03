@@ -494,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应��开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -3340,7 +3340,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [VueInBrowserLoader ![GitHub Repo Stars](https://img.shields.io/github/stars/SeregPie/VueInBrowserLoader) ![GitHub last commit](https://img.shields.io/github/last-commit/SeregPie/VueInBrowserLoader)](https://github.com/SeregPie/VueInBrowserLoader) - Loads a .vue file from the given URL and compiles it to a component directly in the browser.
 - [vue-separate-files-webpack-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/NetCZ/vue-separate-files-webpack-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/NetCZ/vue-separate-files-webpack-loader)](https://github.com/NetCZ/vue-separate-files-webpack-loader) - Webpack loader for separated Vue components parts
 - [vue-svg-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/visualfanatic/vue-svg-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/visualfanatic/vue-svg-loader)](https://github.com/visualfanatic/vue-svg-loader) - webpack loader that lets you use SVG files as Vue components
-- [vue-registrar ![GitHub Repo Stars](https://img.shields.io/github/stars/AmirrezaNasiri/vue-registrar) ![GitHub last commit](https://img.shields.io/github/last-commit/AmirrezaNasiri/vue-registrar)](https://github.com/AmirrezaNasiri/vue-registrar) - ☘�� A package that dynamically registers your components and vuex modules - Makes your code a lot readable!
+- [vue-registrar ![GitHub Repo Stars](https://img.shields.io/github/stars/AmirrezaNasiri/vue-registrar) ![GitHub last commit](https://img.shields.io/github/last-commit/AmirrezaNasiri/vue-registrar)](https://github.com/AmirrezaNasiri/vue-registrar) - ☘️ A package that dynamically registers your components and vuex modules - Makes your code a lot readable!
 - [vue-automatic-import-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/hunterliu1003/vue-automatic-import-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/hunterliu1003/vue-automatic-import-loader)](https://github.com/hunterliu1003/vue-automatic-import-loader) - webpack loader that auto import your Vue single file components by using a match function.
 - [vue-aimg-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/chenxinan/vue-aimg-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/chenxinan/vue-aimg-loader)](https://github.com/chenxinan/vue-aimg-loader) - A easy way to use image in Vue template without write css.
 - [vite-svg-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/jpkleemans/vite-svg-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/jpkleemans/vite-svg-loader)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
