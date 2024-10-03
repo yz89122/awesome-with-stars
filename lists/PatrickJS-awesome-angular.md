@@ -633,6 +633,7 @@ become an Angular expert.
 * [ngx-fabric-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-fabric-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-fabric-wrapper)](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
 * [ngx-three-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-three-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-three-globe)](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
 * [vike-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike-angular)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
+* [stream-chat-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/GetStream/stream-chat-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/GetStream/stream-chat-angular)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
 
 #### Internationalization
 
