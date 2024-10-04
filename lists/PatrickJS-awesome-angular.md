@@ -1174,6 +1174,7 @@ become an Angular expert.
 * [ngx-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/instance-oom/ngx-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/instance-oom/ngx-markdown-editor)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
 * [angular-markdown-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/angular-markdown-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/angular-markdown-editor)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [ngx-markdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/notiz-dev/ngx-markdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/notiz-dev/ngx-markdoc)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
+* [ngx-md ![GitHub Repo Stars](https://img.shields.io/github/stars/dimpu/ngx-md) ![GitHub last commit](https://img.shields.io/github/last-commit/dimpu/ngx-md)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 
 #### Media
 
@@ -1447,6 +1448,7 @@ for the creation of web applications developed with Angular.
 * [ngx-neon-underline ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-neon-underline) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-neon-underline)](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
 * [ngx-lamp ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-lamp) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-lamp)](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-globe)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
+* [ngx-copypaste ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-copypaste) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-copypaste)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
 ---
 
