@@ -1016,7 +1016,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyflakes](https://pypi.org/project/pyflakes) — Check Python source files for errors.
 
-- [pylint](http://pylint.pycqa.org/en/latest) �� Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
+- [pylint](http://pylint.pycqa.org/en/latest) — Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
 
 - [pylyzers](https://mtshiba.github.io/pylyzer/) — A static code analyzer / language server for Python, written in Rust, focused on type checking and readable output.
 
