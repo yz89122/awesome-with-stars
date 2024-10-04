@@ -139,7 +139,7 @@
 
 ### Engines
 
-- [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/XRFoundation/XREngine) ![GitHub last commit](https://img.shields.io/github/last-commit/XRFoundation/XREngine)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+- [iR Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/ir-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/ir-engine)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 - [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
