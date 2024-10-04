@@ -876,6 +876,7 @@ become an Angular expert.
 * [ngx-darkbox-gallery-library ![GitHub Repo Stars](https://img.shields.io/github/stars/failed-successfully/ngx-darkbox-gallery-library) ![GitHub last commit](https://img.shields.io/github/last-commit/failed-successfully/ngx-darkbox-gallery-library)](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
 * [slidecontent-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/slidecontent-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/slidecontent-angular)](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 * [ngx-hm-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/ZouYouShun/ngx-hm-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/ZouYouShun/ngx-hm-carousel)](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
+* [ngx-stories ![GitHub Repo Stars](https://img.shields.io/github/stars/Gauravdarkslayer/ngx-stories) ![GitHub last commit](https://img.shields.io/github/last-commit/Gauravdarkslayer/ngx-stories)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 
 #### Charts
 
@@ -1211,6 +1212,7 @@ become an Angular expert.
 * [sba-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sinequa/sba-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sinequa/sba-angular)](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
 * [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 * [angular-toolbox ![GitHub Repo Stars](https://img.shields.io/github/stars/pechemann/angular-toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/pechemann/angular-toolbox)](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
+* [ngx-lift ![GitHub Repo Stars](https://img.shields.io/github/stars/wghglory/ngx-lift) ![GitHub last commit](https://img.shields.io/github/last-commit/wghglory/ngx-lift)](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
 
 #### Modals
 

@@ -128,6 +128,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
   - [Messaging](#messaging)
   - [Microsoft Office](#microsoft-office)
     - [Microsoft Excel](#microsoft-excel)
+    - [Microsoft Word](#microsoft-word)
   - [Miscellaneous](#miscellaneous)
     - [Dependency Injection](#dependency-injection)
     - [Project Layout](#project-layout)
@@ -147,6 +148,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
   - [Package Management](#package-management)
   - [Performance](#performance)
   - [Query Language](#query-language)
+  - [Reflection](#reflection)
   - [Resource Embedding](#resource-embedding)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Security](#security)
@@ -1259,8 +1261,7 @@ _Tools that generate Go code._
 - [generis ![GitHub Repo Stars](https://img.shields.io/github/stars/senselogic/GENERIS) ![GitHub last commit](https://img.shields.io/github/last-commit/senselogic/GENERIS)](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
 - [go-enum ![GitHub Repo Stars](https://img.shields.io/github/stars/abice/go-enum) ![GitHub last commit](https://img.shields.io/github/last-commit/abice/go-enum)](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 - [go-linq ![GitHub Repo Stars](https://img.shields.io/github/stars/ahmetalpbalkan/go-linq) ![GitHub last commit](https://img.shields.io/github/last-commit/ahmetalpbalkan/go-linq)](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
-- [goderive ![GitHub Repo Stars](https://img.shields.io/github/stars/awalterschulze/goderive) ![GitHub last commit](https://img.shields.io/github/last-commit/awalterschulze/goderive)](https://github.com/awalterschulze/goderive) - Derives functions from input types.
-- [gotype ![GitHub Repo Stars](https://img.shields.io/github/stars/wzshiming/gotype) ![GitHub last commit](https://img.shields.io/github/last-commit/wzshiming/gotype)](https://github.com/wzshiming/gotype) - Golang source code parsing, usage like reflect package.
+- [goderive ![GitHub Repo Stars](https://img.shields.io/github/stars/awalterschulze/goderive) ![GitHub last commit](https://img.shields.io/github/last-commit/awalterschulze/goderive)](https://github.com/awalterschulze/goderive) - Derives functions from input types
 - [goverter ![GitHub Repo Stars](https://img.shields.io/github/stars/jmattheis/goverter) ![GitHub last commit](https://img.shields.io/github/last-commit/jmattheis/goverter)](https://github.com/jmattheis/goverter) - Generate converters by defining an interface.
 - [GoWrap ![GitHub Repo Stars](https://img.shields.io/github/stars/hexdigest/gowrap) ![GitHub last commit](https://img.shields.io/github/last-commit/hexdigest/gowrap)](https://github.com/hexdigest/gowrap) - Generate decorators for Go interfaces using simple templates.
 - [interfaces ![GitHub Repo Stars](https://img.shields.io/github/stars/rjeczalik/interfaces) ![GitHub last commit](https://img.shields.io/github/last-commit/rjeczalik/interfaces)](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
@@ -1862,7 +1863,6 @@ _These libraries were placed here because none of the other categories seemed to
 - [go-openapi](https://github.com/go-openapi) - Collection of packages to parse and utilize open-api schemas.
 - [go-resiliency ![GitHub Repo Stars](https://img.shields.io/github/stars/eapache/go-resiliency) ![GitHub last commit](https://img.shields.io/github/last-commit/eapache/go-resiliency)](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
 - [go-unarr ![GitHub Repo Stars](https://img.shields.io/github/stars/gen2brain/go-unarr) ![GitHub last commit](https://img.shields.io/github/last-commit/gen2brain/go-unarr)](https://github.com/gen2brain/go-unarr) - Decompression library for RAR, TAR, ZIP and 7z archives.
-- [goenum ![GitHub Repo Stars](https://img.shields.io/github/stars/lvyahui8/goenum) ![GitHub last commit](https://img.shields.io/github/last-commit/lvyahui8/goenum)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
 - [gofakeit ![GitHub Repo Stars](https://img.shields.io/github/stars/brianvoe/gofakeit) ![GitHub last commit](https://img.shields.io/github/last-commit/brianvoe/gofakeit)](https://github.com/brianvoe/gofakeit) - Random data generator written in go.
 - [gommit ![GitHub Repo Stars](https://img.shields.io/github/stars/antham/gommit) ![GitHub last commit](https://img.shields.io/github/last-commit/antham/gommit)](https://github.com/antham/gommit) - Analyze git commit messages to ensure they follow defined patterns.
 - [gopsutil ![GitHub Repo Stars](https://img.shields.io/github/stars/shirou/gopsutil) ![GitHub last commit](https://img.shields.io/github/last-commit/shirou/gopsutil)](https://github.com/shirou/gopsutil) - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
@@ -2193,6 +2193,19 @@ _Unofficial libraries for package and dependency management._
 
 **[⬆ back to top](#contents)**
 
+## Reflection
+
+- [copy ![GitHub Repo Stars](https://img.shields.io/github/stars/gotidy/copy) ![GitHub last commit](https://img.shields.io/github/last-commit/gotidy/copy)](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
+- [Deepcopier ![GitHub Repo Stars](https://img.shields.io/github/stars/ulule/deepcopier) ![GitHub last commit](https://img.shields.io/github/last-commit/ulule/deepcopier)](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
+- [go-deepcopy ![GitHub Repo Stars](https://img.shields.io/github/stars/tiendc/go-deepcopy) ![GitHub last commit](https://img.shields.io/github/last-commit/tiendc/go-deepcopy)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
+- [goenum ![GitHub Repo Stars](https://img.shields.io/github/stars/lvyahui8/goenum) ![GitHub last commit](https://img.shields.io/github/last-commit/lvyahui8/goenum)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
+- [gotype ![GitHub Repo Stars](https://img.shields.io/github/stars/wzshiming/gotype) ![GitHub last commit](https://img.shields.io/github/last-commit/wzshiming/gotype)](https://github.com/wzshiming/gotype) - Golang source code parsing, usage like reflect package.
+- [gpath ![GitHub Repo Stars](https://img.shields.io/github/stars/tenntenn/gpath) ![GitHub last commit](https://img.shields.io/github/last-commit/tenntenn/gpath)](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
+- [objwalker ![GitHub Repo Stars](https://img.shields.io/github/stars/rekby/objwalker) ![GitHub last commit](https://img.shields.io/github/last-commit/rekby/objwalker)](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
+- [reflectutils ![GitHub Repo Stars](https://img.shields.io/github/stars/muir/reflectutils) ![GitHub last commit](https://img.shields.io/github/last-commit/muir/reflectutils)](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
+
+**[⬆ back to top](#contents)**
+
 ## Resource Embedding
 
 - [debme ![GitHub Repo Stars](https://img.shields.io/github/stars/leaanthony/debme) ![GitHub last commit](https://img.shields.io/github/last-commit/leaanthony/debme)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
@@ -2496,13 +2509,13 @@ _Libraries for testing codebases and generating test data._
 - [timex ![GitHub Repo Stars](https://img.shields.io/github/stars/cabify/timex) ![GitHub last commit](https://img.shields.io/github/last-commit/cabify/timex)](https://github.com/cabify/timex) - A test-friendly replacement for the native `time` package.
 - [xgo ![GitHub Repo Stars](https://img.shields.io/github/stars/xhd2015/xgo) ![GitHub last commit](https://img.shields.io/github/last-commit/xhd2015/xgo)](https://github.com/xhd2015/xgo) - A general pureposed function mocking library.
 
-## Fuzzing and delta-debugging/reducing/shrinking
+### Fuzzing and delta-debugging/reducing/shrinking
 
 - [go-fuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/dvyukov/go-fuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/dvyukov/go-fuzz)](https://github.com/dvyukov/go-fuzz) - Randomized testing system.
 - [gofuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/google/gofuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/google/gofuzz)](https://github.com/google/gofuzz) - Library for populating go objects with random values.
 - [Tavor ![GitHub Repo Stars](https://img.shields.io/github/stars/zimmski/tavor) ![GitHub last commit](https://img.shields.io/github/last-commit/zimmski/tavor)](https://github.com/zimmski/tavor) - Generic fuzzing and delta-debugging framework.
 
-## Selenium and browser control tools
+### Selenium and browser control tools
 
 - [cdp ![GitHub Repo Stars](https://img.shields.io/github/stars/mafredri/cdp) ![GitHub last commit](https://img.shields.io/github/last-commit/mafredri/cdp)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 - [chromedp ![GitHub Repo Stars](https://img.shields.io/github/stars/knq/chromedp) ![GitHub last commit](https://img.shields.io/github/last-commit/knq/chromedp)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
@@ -2751,7 +2764,6 @@ _General utilities and tools to make your life easier._
 - [config-file-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/Boeing/config-file-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/Boeing/config-file-validator)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 - [contextplus ![GitHub Repo Stars](https://img.shields.io/github/stars/contextplus/contextplus) ![GitHub last commit](https://img.shields.io/github/last-commit/contextplus/contextplus)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
 - [cookie ![GitHub Repo Stars](https://img.shields.io/github/stars/syntaqx/cookie) ![GitHub last commit](https://img.shields.io/github/last-commit/syntaqx/cookie)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
-- [copy ![GitHub Repo Stars](https://img.shields.io/github/stars/gotidy/copy) ![GitHub last commit](https://img.shields.io/github/last-commit/gotidy/copy)](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
 - [copy-pasta ![GitHub Repo Stars](https://img.shields.io/github/stars/jutkko/copy-pasta) ![GitHub last commit](https://img.shields.io/github/last-commit/jutkko/copy-pasta)](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
 - [countries ![GitHub Repo Stars](https://img.shields.io/github/stars/biter777/countries) ![GitHub last commit](https://img.shields.io/github/last-commit/biter777/countries)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
 - [countries ![GitHub Repo Stars](https://img.shields.io/github/stars/pioz/countries) ![GitHub last commit](https://img.shields.io/github/last-commit/pioz/countries)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
@@ -2762,7 +2774,6 @@ _General utilities and tools to make your life easier._
 - [cvt ![GitHub Repo Stars](https://img.shields.io/github/stars/shockerli/cvt) ![GitHub last commit](https://img.shields.io/github/last-commit/shockerli/cvt)](https://github.com/shockerli/cvt) - Easy and safe convert any value to another type.
 - [dbt ![GitHub Repo Stars](https://img.shields.io/github/stars/nikogura/dbt) ![GitHub last commit](https://img.shields.io/github/last-commit/nikogura/dbt)](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 - [Death ![GitHub Repo Stars](https://img.shields.io/github/stars/vrecan/death) ![GitHub last commit](https://img.shields.io/github/last-commit/vrecan/death)](https://github.com/vrecan/death) - Managing go application shutdown with signals.
-- [Deepcopier ![GitHub Repo Stars](https://img.shields.io/github/stars/ulule/deepcopier) ![GitHub last commit](https://img.shields.io/github/last-commit/ulule/deepcopier)](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 - [delve ![GitHub Repo Stars](https://img.shields.io/github/stars/derekparker/delve) ![GitHub last commit](https://img.shields.io/github/last-commit/derekparker/delve)](https://github.com/derekparker/delve) - Go debugger.
 - [dive ![GitHub Repo Stars](https://img.shields.io/github/stars/wagoodman/dive) ![GitHub last commit](https://img.shields.io/github/last-commit/wagoodman/dive)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
 - [dlog ![GitHub Repo Stars](https://img.shields.io/github/stars/kirillDanshin/dlog) ![GitHub last commit](https://img.shields.io/github/last-commit/kirillDanshin/dlog)](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
@@ -2818,7 +2829,6 @@ _General utilities and tools to make your life easier._
 - [gostrutils ![GitHub Repo Stars](https://img.shields.io/github/stars/ik5/gostrutils) ![GitHub last commit](https://img.shields.io/github/last-commit/ik5/gostrutils)](https://github.com/ik5/gostrutils) - Collections of string manipulation and conversion functions.
 - [gotenv ![GitHub Repo Stars](https://img.shields.io/github/stars/subosito/gotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/subosito/gotenv)](https://github.com/subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go.
 - [goval ![GitHub Repo Stars](https://img.shields.io/github/stars/maja42/goval) ![GitHub last commit](https://img.shields.io/github/last-commit/maja42/goval)](https://github.com/maja42/goval) - Evaluate arbitrary expressions in Go.
-- [gpath ![GitHub Repo Stars](https://img.shields.io/github/stars/tenntenn/gpath) ![GitHub last commit](https://img.shields.io/github/last-commit/tenntenn/gpath)](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
 - [graterm ![GitHub Repo Stars](https://img.shields.io/github/stars/skovtunenko/graterm) ![GitHub last commit](https://img.shields.io/github/last-commit/skovtunenko/graterm)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
 - [grofer ![GitHub Repo Stars](https://img.shields.io/github/stars/pesos/grofer) ![GitHub last commit](https://img.shields.io/github/last-commit/pesos/grofer)](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang!
 - [gubrak ![GitHub Repo Stars](https://img.shields.io/github/stars/novalagung/gubrak) ![GitHub last commit](https://img.shields.io/github/last-commit/novalagung/gubrak)](https://github.com/novalagung/gubrak) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
@@ -2857,7 +2867,6 @@ _General utilities and tools to make your life easier._
 - [netbug ![GitHub Repo Stars](https://img.shields.io/github/stars/e-dard/netbug) ![GitHub last commit](https://img.shields.io/github/last-commit/e-dard/netbug)](https://github.com/e-dard/netbug) - Easy remote profiling of your services.
 - [nfdump ![GitHub Repo Stars](https://img.shields.io/github/stars/chrispassas/nfdump) ![GitHub last commit](https://img.shields.io/github/last-commit/chrispassas/nfdump)](https://github.com/chrispassas/nfdump) - Read nfdump netflow files.
 - [nostromo ![GitHub Repo Stars](https://img.shields.io/github/stars/pokanop/nostromo) ![GitHub last commit](https://img.shields.io/github/last-commit/pokanop/nostromo)](https://github.com/pokanop/nostromo) - CLI for building powerful aliases.
-- [objwalker ![GitHub Repo Stars](https://img.shields.io/github/stars/rekby/objwalker) ![GitHub last commit](https://img.shields.io/github/last-commit/rekby/objwalker)](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
 - [okrun ![GitHub Repo Stars](https://img.shields.io/github/stars/xta/okrun) ![GitHub last commit](https://img.shields.io/github/last-commit/xta/okrun)](https://github.com/xta/okrun) - go run error steamroller.
 - [olaf ![GitHub Repo Stars](https://img.shields.io/github/stars/btnguyen2k/olaf) ![GitHub last commit](https://img.shields.io/github/last-commit/btnguyen2k/olaf)](https://github.com/btnguyen2k/olaf) - Twitter Snowflake implemented in Go.
 - [onecache ![GitHub Repo Stars](https://img.shields.io/github/stars/adelowo/onecache) ![GitHub last commit](https://img.shields.io/github/last-commit/adelowo/onecache)](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
@@ -2869,7 +2878,6 @@ _General utilities and tools to make your life easier._
 - [pointer ![GitHub Repo Stars](https://img.shields.io/github/stars/xorcare/pointer) ![GitHub last commit](https://img.shields.io/github/last-commit/xorcare/pointer)](https://github.com/xorcare/pointer) - Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
 - [ptr ![GitHub Repo Stars](https://img.shields.io/github/stars/gotidy/ptr) ![GitHub last commit](https://img.shields.io/github/last-commit/gotidy/ptr)](https://github.com/gotidy/ptr) - Package that provide functions for simplified creation of pointers from constants of basic types.
 - [rclient ![GitHub Repo Stars](https://img.shields.io/github/stars/zpatrick/rclient) ![GitHub last commit](https://img.shields.io/github/last-commit/zpatrick/rclient)](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
-- [reflectutils ![GitHub Repo Stars](https://img.shields.io/github/stars/muir/reflectutils) ![GitHub last commit](https://img.shields.io/github/last-commit/muir/reflectutils)](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
 - [remote-touchpad ![GitHub Repo Stars](https://img.shields.io/github/stars/Unrud/remote-touchpad) ![GitHub last commit](https://img.shields.io/github/last-commit/Unrud/remote-touchpad)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 - [repeat ![GitHub Repo Stars](https://img.shields.io/github/stars/ssgreg/repeat) ![GitHub last commit](https://img.shields.io/github/last-commit/ssgreg/repeat)](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.
 - [request ![GitHub Repo Stars](https://img.shields.io/github/stars/mozillazg/request) ![GitHub last commit](https://img.shields.io/github/last-commit/mozillazg/request)](https://github.com/mozillazg/request) - Go HTTP Requests for Humans™.
