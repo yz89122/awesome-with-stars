@@ -318,6 +318,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Enhanced Splitter ![GitHub Repo Stars](https://img.shields.io/github/stars/hiltonjanfield/jquery.enhsplitter) ![GitHub last commit](https://img.shields.io/github/last-commit/hiltonjanfield/jquery.enhsplitter)](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
 * [tabulous.js ![GitHub Repo Stars](https://img.shields.io/github/stars/aarondo/tabulous.js) ![GitHub last commit](https://img.shields.io/github/last-commit/aarondo/tabulous.js)](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/x-editable) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/x-editable)](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+* [macon ![GitHub Repo Stars](https://img.shields.io/github/stars/LoganTann/macon) ![GitHub last commit](https://img.shields.io/github/last-commit/LoganTann/macon)](https://github.com/LoganTann/macon) - Tiny utility (430B) to create reactive jquery components using a JSX-like syntax.
 
 [Back to top](#awesome-jquery)
 
