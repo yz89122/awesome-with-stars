@@ -32,16 +32,18 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 ### 2D
 
-#### Godot 4.2
+#### Godot 4.0+
 
+- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/poder-solar) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/poder-solar)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+- [Unknown Horizons ![GitHub Repo Stars](https://img.shields.io/github/stars/unknown-horizons/godot-port) ![GitHub last commit](https://img.shields.io/github/last-commit/unknown-horizons/godot-port)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3.2+
 
+- [Breakable ![GitHub Repo Stars](https://img.shields.io/github/stars/didier-v/breakable) ![GitHub last commit](https://img.shields.io/github/last-commit/didier-v/breakable)](https://github.com/didier-v/breakable) - A breakout-like game.
 - [Everplast ![GitHub Repo Stars](https://img.shields.io/github/stars/WraithWinterly/Everplast) ![GitHub last commit](https://img.shields.io/github/last-commit/WraithWinterly/Everplast)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 - [Falling Square ![GitHub Repo Stars](https://img.shields.io/github/stars/EmilienLeroy/FallingSquare) ![GitHub last commit](https://img.shields.io/github/last-commit/EmilienLeroy/FallingSquare)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 - [Flappy Race ![GitHub Repo Stars](https://img.shields.io/github/stars/Jibby-Games/Flappy-Race) ![GitHub last commit](https://img.shields.io/github/last-commit/Jibby-Games/Flappy-Race)](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
-- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Pocket Broomball ![GitHub Repo Stars](https://img.shields.io/github/stars/dulvui/pocket-broomball) ![GitHub last commit](https://img.shields.io/github/last-commit/dulvui/pocket-broomball)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D ![GitHub Repo Stars](https://img.shields.io/github/stars/JulianWels/portal2d) ![GitHub last commit](https://img.shields.io/github/last-commit/JulianWels/portal2d)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 - [ROTA ![GitHub Repo Stars](https://img.shields.io/github/stars/HarmonyHoney/ROTA) ![GitHub last commit](https://img.shields.io/github/last-commit/HarmonyHoney/ROTA)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
@@ -55,11 +57,9 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Circle Jump ![GitHub Repo Stars](https://img.shields.io/github/stars/kidscancode/circle_jump) ![GitHub last commit](https://img.shields.io/github/last-commit/kidscancode/circle_jump)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
 - [Haldric ![GitHub Repo Stars](https://img.shields.io/github/stars/wesnoth/haldric) ![GitHub last commit](https://img.shields.io/github/last-commit/wesnoth/haldric)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 - [SealedBite ![GitHub Repo Stars](https://img.shields.io/github/stars/securas/SealedBite) ![GitHub last commit](https://img.shields.io/github/last-commit/securas/SealedBite)](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam.
-- [Unknown Horizons ![GitHub Repo Stars](https://img.shields.io/github/stars/unknown-horizons/godot-port) ![GitHub last commit](https://img.shields.io/github/last-commit/unknown-horizons/godot-port)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3.0
 
-- [Breakable ![GitHub Repo Stars](https://img.shields.io/github/stars/didier-v/breakable) ![GitHub last commit](https://img.shields.io/github/last-commit/didier-v/breakable)](https://github.com/didier-v/breakable) - A breakout-like game.
 - [Memory Game ![GitHub Repo Stars](https://img.shields.io/github/stars/Tzoop/MemoryGame) ![GitHub last commit](https://img.shields.io/github/last-commit/Tzoop/MemoryGame)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 
 #### Godot 2.1
@@ -87,19 +87,20 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 - [LibreAim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokorpo/LibreAim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokorpo/LibreAim)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [OpenLiberty ![GitHub Repo Stars](https://img.shields.io/github/stars/FOSS-Supremacy/OpenLiberty) ![GitHub last commit](https://img.shields.io/github/last-commit/FOSS-Supremacy/OpenLiberty)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+- [Thrive ![GitHub Repo Stars](https://img.shields.io/github/stars/Revolutionary-Games/Thrive) ![GitHub last commit](https://img.shields.io/github/last-commit/Revolutionary-Games/Thrive)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 4.2
 
 - [Reia ![GitHub Repo Stars](https://img.shields.io/github/stars/Quaint-Studios/Reia) ![GitHub last commit](https://img.shields.io/github/last-commit/Quaint-Studios/Reia)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
+- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
+- [Tanks of Freedom II ![GitHub Repo Stars](https://img.shields.io/github/stars/P1X-in/Tanks-of-Freedom-3-D) ![GitHub last commit](https://img.shields.io/github/last-commit/P1X-in/Tanks-of-Freedom-3-D)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+
 
 #### Godot 3.2+
 
 - [Ball2Box ![GitHub Repo Stars](https://img.shields.io/github/stars/dulvui/ball2box) ![GitHub last commit](https://img.shields.io/github/last-commit/dulvui/ball2box)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 - [Boom ![GitHub Repo Stars](https://img.shields.io/github/stars/FelicePollano/Boom) ![GitHub last commit](https://img.shields.io/github/last-commit/FelicePollano/Boom)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 - [Broken Seals ![GitHub Repo Stars](https://img.shields.io/github/stars/Relintai/broken_seals) ![GitHub last commit](https://img.shields.io/github/last-commit/Relintai/broken_seals)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
-- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-- [Tanks of Freedom II ![GitHub Repo Stars](https://img.shields.io/github/stars/P1X-in/Tanks-of-Freedom-3-D) ![GitHub last commit](https://img.shields.io/github/last-commit/P1X-in/Tanks-of-Freedom-3-D)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
-- [Thrive ![GitHub Repo Stars](https://img.shields.io/github/stars/Revolutionary-Games/Thrive) ![GitHub last commit](https://img.shields.io/github/last-commit/Revolutionary-Games/Thrive)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 3.1
 
@@ -128,10 +129,14 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
-#### Godot 4.0
+#### Godot 4.0+
 
 - [Clipboard Narrator ![GitHub Repo Stars](https://img.shields.io/github/stars/lesleyrs/clipboard-narrator) ![GitHub last commit](https://img.shields.io/github/last-commit/lesleyrs/clipboard-narrator)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 - [GodSVG ![GitHub Repo Stars](https://img.shields.io/github/stars/MewPurPur/GodSVG) ![GitHub last commit](https://img.shields.io/github/last-commit/MewPurPur/GodSVG)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
+- [Lorien ![GitHub Repo Stars](https://img.shields.io/github/stars/mbrlabs/Lorien) ![GitHub last commit](https://img.shields.io/github/last-commit/mbrlabs/Lorien)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+- [Material Maker ![GitHub Repo Stars](https://img.shields.io/github/stars/RodZill4/material-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/RodZill4/material-maker)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+- [Pixelorama ![GitHub Repo Stars](https://img.shields.io/github/stars/Orama-Interactive/Pixelorama) ![GitHub last commit](https://img.shields.io/github/last-commit/Orama-Interactive/Pixelorama)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
+- [ProtonGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/protongraph/protongraph) ![GitHub last commit](https://img.shields.io/github/last-commit/protongraph/protongraph)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 #### Godot 3.5+
 
@@ -141,10 +146,6 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 - [Arrow ![GitHub Repo Stars](https://img.shields.io/github/stars/mhgolkar/Arrow) ![GitHub last commit](https://img.shields.io/github/last-commit/mhgolkar/Arrow)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 - [Godello ![GitHub Repo Stars](https://img.shields.io/github/stars/alfredbaudisch/Godello) ![GitHub last commit](https://img.shields.io/github/last-commit/alfredbaudisch/Godello)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
-- [Lorien ![GitHub Repo Stars](https://img.shields.io/github/stars/mbrlabs/Lorien) ![GitHub last commit](https://img.shields.io/github/last-commit/mbrlabs/Lorien)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
-- [Material Maker ![GitHub Repo Stars](https://img.shields.io/github/stars/RodZill4/material-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/RodZill4/material-maker)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
-- [Pixelorama ![GitHub Repo Stars](https://img.shields.io/github/stars/Orama-Interactive/Pixelorama) ![GitHub last commit](https://img.shields.io/github/last-commit/Orama-Interactive/Pixelorama)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
-- [ProtonGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/protongraph/protongraph) ![GitHub last commit](https://img.shields.io/github/last-commit/protongraph/protongraph)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 - [vpuppr ![GitHub Repo Stars](https://img.shields.io/github/stars/virtual-puppet-project/vpuppr) ![GitHub last commit](https://img.shields.io/github/last-commit/virtual-puppet-project/vpuppr)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ## Templates
@@ -279,6 +280,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Maaack's Menus Template ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Menus-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Menus-Template)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/Maaack/Godot-Scene-Loader) ![GitHub last commit](https://img.shields.io/github/last-commit/Maaack/Godot-Scene-Loader)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 - [PixelPen ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelpen-dev/pixelpen) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelpen-dev/pixelpen)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+- [Shaker ![GitHub Repo Stars](https://img.shields.io/github/stars/Eneskp3441/Shaker) ![GitHub last commit](https://img.shields.io/github/last-commit/Eneskp3441/Shaker)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 - [TerraBrush ![GitHub Repo Stars](https://img.shields.io/github/stars/spimort/TerraBrush) ![GitHub last commit](https://img.shields.io/github/last-commit/spimort/TerraBrush)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 #### Godot 3.2+
