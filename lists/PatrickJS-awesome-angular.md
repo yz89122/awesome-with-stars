@@ -392,6 +392,7 @@ become an Angular expert.
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
+* [JSgigs](https://www.youtube.com/@jsgigs4909)
 
 ##### Style Guides
 
@@ -634,6 +635,7 @@ become an Angular expert.
 * [ngx-three-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-three-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-three-globe)](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
 * [vike-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike-angular)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 * [stream-chat-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/GetStream/stream-chat-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/GetStream/stream-chat-angular)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
+* [gong ![GitHub Repo Stars](https://img.shields.io/github/stars/fullstack-lang/gong) ![GitHub last commit](https://img.shields.io/github/last-commit/fullstack-lang/gong)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 
 #### Internationalization
 
@@ -689,6 +691,7 @@ become an Angular expert.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 * [ngx-ssr-code-remover ![GitHub Repo Stars](https://img.shields.io/github/stars/xsip/ngx-ssr-code-remover) ![GitHub last commit](https://img.shields.io/github/last-commit/xsip/ngx-ssr-code-remover)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 * [treaty ![GitHub Repo Stars](https://img.shields.io/github/stars/treatyjs/treaty) ![GitHub last commit](https://img.shields.io/github/last-commit/treatyjs/treaty)](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
+* [analog-stuff ![GitHub Repo Stars](https://img.shields.io/github/stars/joshuamorony/analog-stuff) ![GitHub last commit](https://img.shields.io/github/last-commit/joshuamorony/analog-stuff)](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
 
 #### Site Templates
 
@@ -1213,6 +1216,7 @@ become an Angular expert.
 * [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 * [angular-toolbox ![GitHub Repo Stars](https://img.shields.io/github/stars/pechemann/angular-toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/pechemann/angular-toolbox)](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 * [ngx-lift ![GitHub Repo Stars](https://img.shields.io/github/stars/wghglory/ngx-lift) ![GitHub last commit](https://img.shields.io/github/last-commit/wghglory/ngx-lift)](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
+* [firestitch ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/Firestitch) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/Firestitch)](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
 
 #### Modals
 
