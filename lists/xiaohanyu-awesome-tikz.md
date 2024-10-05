@@ -70,6 +70,7 @@ Tools
 -   [awesome-latex-drawing ![GitHub Repo Stars](https://img.shields.io/github/stars/xinychen/awesome-latex-drawing) ![GitHub last commit](https://img.shields.io/github/last-commit/xinychen/awesome-latex-drawing)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 -   [sane_tikz ![GitHub Repo Stars](https://img.shields.io/github/stars/negrinho/sane_tikz) ![GitHub last commit](https://img.shields.io/github/last-commit/negrinho/sane_tikz)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 -   [quiver ![GitHub Repo Stars](https://img.shields.io/github/stars/varkor/quiver) ![GitHub last commit](https://img.shields.io/github/last-commit/varkor/quiver)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
+-   [TikZiT](https://tikzit.github.io/) - A GUI editor designed for graphs and string diagrams.
 
 Libraries
 ---------
