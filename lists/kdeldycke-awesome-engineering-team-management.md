@@ -449,7 +449,7 @@ Expansive lists of well-known models and concepts.
 
 - [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - “Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.” [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
 
-- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.” - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
+- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.�� - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 
 - [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
 
@@ -605,7 +605,7 @@ Two humans + a (virtual) room = a meeting.
 
 The most important meetings you'll have are frequent 1:1s with your direct reports.
 
-- ���1on1s are the managers Swiss army knife” ([source](https://news.ycombinator.com/item?id=22341739)) - Another advice from the source: make them walk'n'talks.
+- “1on1s are the managers Swiss army knife” ([source](https://news.ycombinator.com/item?id=22341739)) - Another advice from the source: make them walk'n'talks.
 
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 
