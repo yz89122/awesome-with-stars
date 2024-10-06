@@ -458,7 +458,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
   - [Diskuv OCaml ![GitHub Repo Stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/diskuv/dkml-installer-ocaml)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
-  - [makorel ![GitHub Repo Stars](https://img.shields.io/github/stars/sagotch/makorel) ![GitHub last commit](https://img.shields.io/github/last-commit/sagotch/makorel)](https://github.com/sagotch/makorel) �� Release OPAM packages easily.
+  - [makorel ![GitHub Repo Stars](https://img.shields.io/github/stars/sagotch/makorel) ![GitHub last commit](https://img.shields.io/github/last-commit/sagotch/makorel)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
   - [esy ![GitHub Repo Stars](https://img.shields.io/github/stars/esy/esy) ![GitHub last commit](https://img.shields.io/github/last-commit/esy/esy)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 - **Build Tools**:
@@ -619,7 +619,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Tools**:
   - [COW ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-cow) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-cow)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
-    has many relevant web libraries —
+    has many relevant web libraries ���
     [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
     html parser,
     [Netasn1](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netasn1.html)
