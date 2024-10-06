@@ -123,8 +123,8 @@ Share the list with your classmates, your friends and everyone :)
 | ★☆☆ | [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb | This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covers various topics relevant to competitive programming. |
 | ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. ... 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
-| ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
-| ��★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
+| ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國���演算法程式設計競賽訓練指南 (Chinese Traditional) |
+| ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
 
 ### Books for Algorithms
 
@@ -166,7 +166,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [UVa](https://uva.onlinejudge.org/) | An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](https://uhunt.onlinejudge.org/id/0) following its "Competitive Programming Exercise" section. |
 | ★★☆ | [HackerRank](https://www.hackerrank.com) | HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains. |
 | ★★☆ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. Most Chinese competitive programmers began their journey here. The platform is really dated so mysterious compilation and run-time issues may occur. |
-| ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
+| ��★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
 | ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. |
 | ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml) | COJ is hosted by University of Informatics Sciences (UCI, by its acronym in Spanish), located in Cuba. Feature ACM ICPC and Progressive contest styles, mostly from Caribbean and Latin American problem setters, also has problem classifier and contest calendar. |
 | ★★☆ | [CS Academy](https://csacademy.com) | New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks. It supports live chat, interactive lessons and an integrated online editor (that actually works). |
@@ -187,7 +187,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
-| ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
+| ★★�� | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
 ### Contest Calendars
 > Calendars for impending programming contests.  

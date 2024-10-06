@@ -201,7 +201,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [pijul.com](https://pijul.com/) - Unlimited free and open source distributed version control system. Its distinctive feature is based on a sound theory of patches, which makes it easy to learn, use, and distribute. Solves many problems of git/hg/svn/darcs.
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS, and nonprofit organizations
-  * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB of space
+  * [projectlocker.com](https://projectlocker.com) ��� One free private project (Git and Subversion) with 50 MB of space
   * [RocketGit](https://rocketgit.com) — Repository Hosting based on Git. Unlimited Public and private repositories.
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
@@ -457,7 +457,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [BookmarkOS.com](https://bookmarkos.com) - Free all-on-one bookmark manager, tab manager, and task manager in a customizable online desktop with folder collaboration.
   * [typetalk.com](https://www.typetalk.com/) — Share and discuss ideas with your team through instant messaging on the web or your mobile
   * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
-  * [whereby.com](https://whereby.com/) �� One-click video conversations, for free (formerly known as appear.in)
+  * [whereby.com](https://whereby.com/) — One-click video conversations, for free (formerly known as appear.in)
   * [windmill.dev](https://windmill.dev/) - Windmill is an open-source developer platform to quickly build production-grade multi-step automation and internal apps from minimal Python and Typescript scripts. As a free user, you can create and be a member of at most three non-premium workspaces.
   * [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. The free tier provides up to 10 videos, 1 GB of storage, and 10 GB of bandwidth/per month
   * [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync free for up to 3 personas and two collaborators.
@@ -1224,7 +1224,7 @@ Update Time, five active automations, webhooks.
   * [HelioHost](https://heliohost.org) — Non-profit free web hosting with Plesk control panel, PHP, Node.js, Python, Django, Flask, .NET, Perl, CGI, MySQL, PostgreSQL, SQLite, IMAP/POP3/SMTP email, unlimited bandwidth, free subdomains, 1000 MB storage for free with the option to upgrade.
   * [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) — Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
   * [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with SFPT access for file upload and download, php available.
-  * [Neocities](https://neocities.org) �� Static, 1 GB free storage with 200 GB Bandwidth.
+  * [Neocities](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [Netlify](https://www.netlify.com/) — Builds, deploys and hosts static site/app free for 100 GB data and 100 GB/month bandwidth.
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation, and more
