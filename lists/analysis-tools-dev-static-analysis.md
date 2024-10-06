@@ -1608,7 +1608,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [TscanCode ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/TscanCode) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/TscanCode)](https://github.com/Tencent/TscanCode) — A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.
 
-- [Undebt ![GitHub Repo Stars](https://img.shields.io/github/stars/Yelp/undebt) ![GitHub last commit](https://img.shields.io/github/last-commit/Yelp/undebt)](https://github.com/Yelp/undebt) ��� Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions.
+- [Undebt ![GitHub Repo Stars](https://img.shields.io/github/stars/Yelp/undebt) ![GitHub last commit](https://img.shields.io/github/last-commit/Yelp/undebt)](https://github.com/Yelp/undebt) — Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions.
 
 - [Understand](https://www.scitools.com) :copyright: — Code visualization tool that provides code analysis, standards testing, metrics, graphing, dependency analysis and more for Ada, VHDL, and others.
 
