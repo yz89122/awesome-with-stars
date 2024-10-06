@@ -619,7 +619,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Tools**:
   - [COW ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-cow) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-cow)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
-    has many relevant web libraries ���
+    has many relevant web libraries —
     [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
     html parser,
     [Netasn1](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netasn1.html)
