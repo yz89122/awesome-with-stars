@@ -65,6 +65,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## Free Music Scores
 
+* [bayanguru](https://bayanguru.org/) - engraving and publishing system that produces high quality sheet music for bayan in PDF.
 * [cellist/Lilypond-Sheet-Music ![GitHub Repo Stars](https://img.shields.io/github/stars/cellist/Lilypond-Sheet-Music) ![GitHub last commit](https://img.shields.io/github/last-commit/cellist/Lilypond-Sheet-Music)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 * [ciconia/music ![GitHub Repo Stars](https://img.shields.io/github/stars/ciconia/music) ![GitHub last commit](https://img.shields.io/github/last-commit/ciconia/music)](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
