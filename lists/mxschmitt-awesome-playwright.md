@@ -80,6 +80,7 @@
 - [qase ![GitHub Repo Stars](https://img.shields.io/github/stars/qase-tms/qase-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/qase-tms/qase-javascript)](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
 - [echoed ![GitHub Repo Stars](https://img.shields.io/github/stars/mrasu/echoed) ![GitHub last commit](https://img.shields.io/github/last-commit/mrasu/echoed)](https://github.com/mrasu/echoed) - Makes tests observable by visualizing OpenTelemetry data in HTML.
 - [playwright-slack-report ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanrosello-og/playwright-slack-report) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanrosello-og/playwright-slack-report)](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
+- [TestCollab ![GitHub Repo Stars](https://img.shields.io/github/stars/TCSoftInc/playwright-integration) ![GitHub last commit](https://img.shields.io/github/last-commit/TCSoftInc/playwright-integration)](https://github.com/TCSoftInc/playwright-integration) - Run Playwright scripts and populate results back into [TestCollab](https://testcollab.com) test management tool.
 
 ## Showcases
 

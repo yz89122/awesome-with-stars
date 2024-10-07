@@ -478,7 +478,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
-* �� [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
+* 📝 [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
 * 📝 [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * 📝 [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
