@@ -40,7 +40,6 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [A first look at Gatling, a DSL based load test tool](https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/)
 - [Gatling: Take your performance tests to the next level](https://www.thoughtworks.com/insights/blog/gatling-take-your-performance-tests-next-level)
 - [Load Testing with Gatling. The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
-- [Performance testing with Gatling](https://automationrhapsody.com/performance-testing-with-gatling/)
 
 ## Tutorials
 
@@ -71,10 +70,10 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
 - [gatling-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/mnogu/gatling-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/mnogu/gatling-mqtt)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 - [gatling-kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/mnogu/gatling-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/mnogu/gatling-kafka)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
-- [gatling-kafka-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Tinkoff/gatling-kafka-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Tinkoff/gatling-kafka-plugin)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-- [gatling-amqp-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Tinkoff/gatling-amqp-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Tinkoff/gatling-amqp-plugin)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-- [gatling-jdbc-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Tinkoff/gatling-jdbc-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Tinkoff/gatling-jdbc-plugin)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-- [gatling-picatinny ![GitHub Repo Stars](https://img.shields.io/github/stars/Tinkoff/gatling-picatinny) ![GitHub last commit](https://img.shields.io/github/last-commit/Tinkoff/gatling-picatinny)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+- [gatling-kafka-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-kafka-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-kafka-plugin)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+- [gatling-amqp-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-amqp-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-amqp-plugin)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+- [gatling-jdbc-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-jdbc-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-jdbc-plugin)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+- [gatling-picatinny ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-picatinny) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-picatinny)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 - [gatling-sql ![GitHub Repo Stars](https://img.shields.io/github/stars/tmcgrath/gatling-sql) ![GitHub last commit](https://img.shields.io/github/last-commit/tmcgrath/gatling-sql)](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
 - [gatling-tcp-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/scalecube/gatling-tcp-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/scalecube/gatling-tcp-extensions)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 - [gatling-thrift ![GitHub Repo Stars](https://img.shields.io/github/stars/3tty0n/gatling-thrift) ![GitHub last commit](https://img.shields.io/github/last-commit/3tty0n/gatling-thrift)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
@@ -103,7 +102,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [dakiya ![GitHub Repo Stars](https://img.shields.io/github/stars/rupeshmore/dakiya) ![GitHub last commit](https://img.shields.io/github/last-commit/rupeshmore/dakiya)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
 - [gatling.g8 ![GitHub Repo Stars](https://img.shields.io/github/stars/gatling/gatling.g8) ![GitHub last commit](https://img.shields.io/github/last-commit/gatling/gatling.g8)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
-- [gatling-template.g8 ![GitHub Repo Stars](https://img.shields.io/github/stars/Tinkoff/gatling-template.g8) ![GitHub last commit](https://img.shields.io/github/last-commit/Tinkoff/gatling-template.g8)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
+- [gatling-template.g8 ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-template.g8) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-template.g8)](https://github.com/galax-io/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## CI
 
