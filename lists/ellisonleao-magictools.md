@@ -87,6 +87,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [EzSpriteSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/z64me/EzSpriteSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/z64me/EzSpriteSheet)](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
 - :tada: [Libgdx Texture Packer ![GitHub Repo Stars](https://img.shields.io/github/stars/libgdx/libgdx) ![GitHub last commit](https://img.shields.io/github/last-commit/libgdx/libgdx)](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
+- :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 - :tada: [Tilesplit ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexPoulsen/tilesplit) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexPoulsen/tilesplit)](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
