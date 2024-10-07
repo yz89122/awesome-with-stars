@@ -248,7 +248,7 @@ Isaac Asimov's original "Foundation Trilogy" is a mesmerizing voyage into the re
 <details>
   <summary>Description</summary>
 
-  > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire��both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
+  > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
   >
   > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 </details>
@@ -608,7 +608,7 @@ All of Asher's _Polity_ novels are chock full of amazing technology, vibrant cha
 <details>
   <summary>Description</summary>
 
-  > The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
+  > The phrase ��world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
   >
   > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity. He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
 </details>

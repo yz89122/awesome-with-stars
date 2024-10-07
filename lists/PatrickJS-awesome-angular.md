@@ -1035,6 +1035,7 @@ become an Angular expert.
 * [forms-typed ![GitHub Repo Stars](https://img.shields.io/github/stars/gparlakov/forms-typed) ![GitHub last commit](https://img.shields.io/github/last-commit/gparlakov/forms-typed)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
 * [ngx-vest-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/simplifiedcourses/ngx-vest-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/simplifiedcourses/ngx-vest-forms)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 * [ngx-currency ![GitHub Repo Stars](https://img.shields.io/github/stars/nbfontana/ngx-currency) ![GitHub last commit](https://img.shields.io/github/last-commit/nbfontana/ngx-currency)](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
+* [ngx-super-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/naologic/ngx-super-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/naologic/ngx-super-forms)](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
 
 ##### Form Controls
 
