@@ -681,7 +681,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) — Checks dependencies for known, publicly disclosed, vulnerabilities.
 
-- [qulice](https://www.qulice.com) — Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
+- [qulice](https://www.qulice.com) �� Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
 
 - [RefactorFirst ![GitHub Repo Stars](https://img.shields.io/github/stars/jimbethancourt/RefactorFirst) ![GitHub last commit](https://img.shields.io/github/last-commit/jimbethancourt/RefactorFirst)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 

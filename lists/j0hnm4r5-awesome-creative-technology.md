@@ -155,7 +155,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**RGI Creative**](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;) | [Cleveland] | corporate experience design, museums exhibits and displays | [🌐](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;contactform)
 | [**Rosie Lee Creative**](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;) | [London] [Amsterdam] [NYC] | design, creative, digital and consultancy | [🌐](https:&#x2F;&#x2F;rosieleecreative.com&#x2F;jobs)
 | [**S1T2**](https:&#x2F;&#x2F;s1t2.com&#x2F;) | [Sydney] [Melbourne] [Shanghai] | We create interactive experiences that immerse audiences in the future of storytelling through technology. | 
-| [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [🌐](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
+| [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [���](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
 | [**Seeeklab**](https:&#x2F;&#x2F;www.seeeklab.com&#x2F;en&#x2F;) | [Xiamen] | marketing events, interactive installation | 
 | [**Set Reset**](https:&#x2F;&#x2F;set-reset.com&#x2F;) | [London] | transforming data into compelling stories that fuel growth and create opportunity | 
 | [**SOSO**](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;) | [Boston] [San Diego] | delivering real human impact across physical and virtual space, placemaking and storytelling | [🌐](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;careers&#x2F;)
