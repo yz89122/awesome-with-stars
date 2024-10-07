@@ -221,7 +221,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [ODMantic ![GitHub Repo Stars](https://img.shields.io/github/stars/art049/odmantic) ![GitHub last commit](https://img.shields.io/github/last-commit/art049/odmantic)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
  - [scrapy-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/sebdah/scrapy-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/sebdah/scrapy-mongodb)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
  - [TxMongo ![GitHub Repo Stars](https://img.shields.io/github/stars/twisted/txmongo) ![GitHub last commit](https://img.shields.io/github/last-commit/twisted/txmongo)](https://github.com/twisted/txmongo) - Twisted's MongoDB driver
- - [μMongo ![GitHub Repo Stars](https://img.shields.io/github/stars/Scille/umongo) ![GitHub last commit](https://img.shields.io/github/last-commit/Scille/umongo)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+ - [��Mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/Scille/umongo) ![GitHub last commit](https://img.shields.io/github/last-commit/Scille/umongo)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ### R
  - [mongolite ![GitHub Repo Stars](https://img.shields.io/github/stars/jeroen/mongolite) ![GitHub last commit](https://img.shields.io/github/last-commit/jeroen/mongolite)](https://github.com/jeroen/mongolite) - Fast and simple client for R
