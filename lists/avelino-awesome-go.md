@@ -224,6 +224,7 @@ _Libraries for building actor-based programs._
 
 _Libraries for building programs that leverage AI._
 
+- [chromem-go ![GitHub Repo Stars](https://img.shields.io/github/stars/philippgille/chromem-go) ![GitHub last commit](https://img.shields.io/github/last-commit/philippgille/chromem-go)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [langchaingo ![GitHub Repo Stars](https://img.shields.io/github/stars/tmc/langchaingo) ![GitHub last commit](https://img.shields.io/github/last-commit/tmc/langchaingo)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 - [LocalAI ![GitHub Repo Stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
