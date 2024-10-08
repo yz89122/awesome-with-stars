@@ -588,7 +588,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [shisho ![GitHub Repo Stars](https://img.shields.io/github/stars/flatt-security/shisho) ![GitHub last commit](https://img.shields.io/github/last-commit/flatt-security/shisho)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
-- [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
+- [staticcheck](https://staticcheck.io) ��� Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
@@ -1268,7 +1268,7 @@ Kani verifies:
 
 - [bashate ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/bashate) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/bashate)](https://github.com/openstack/bashate) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
 
-- [i-Code CNES for Shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lequal/i-CodeCNES) ![GitHub last commit](https://img.shields.io/github/last-commit/lequal/i-CodeCNES)](https://github.com/lequal/i-CodeCNES) �� An open source static code analysis tool for Shell and Fortran (77 and 90).
+- [i-Code CNES for Shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lequal/i-CodeCNES) ![GitHub last commit](https://img.shields.io/github/last-commit/lequal/i-CodeCNES)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Shell and Fortran (77 and 90).
 
 - [kmdr ![GitHub Repo Stars](https://img.shields.io/github/stars/ediardo/kmdr-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ediardo/kmdr-cli)](https://github.com/ediardo/kmdr-cli) — CLI tool for learning commands from your terminal. kmdr delivers a break down of commands with every attribute explained.
 
