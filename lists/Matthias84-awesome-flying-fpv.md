@@ -440,7 +440,7 @@ Every hobby makes more fun and progress if you share your ideas and questions to
 
 * [Dronecode foundation](https://www.dronecode.org) - Home for MavLink, QGroundcontrol and PX4, part of Linux foundation.
 * [FPV Freedom Coalation](https://fpvfc.org/) - Keep drones hackabel and safe.
-* [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero) - 🇩�� Events, local communities, assurance, ... .
+* [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero) - 🇩🇪 Events, local communities, assurance, ... .
 * [Deutscher Aero Club e.V.](https://www.daec.de) - 🇩🇪.
 
 ### Forums & Social Media
