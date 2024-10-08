@@ -9,6 +9,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) is based
 
 [![Website](https://img.shields.io/badge/Website-Online-2B5BAE)](https://analysis-tools.dev)
 ![CI](https://github.com/analysis-tools-dev/static-analysis/workflows/CI/badge.svg)
+[![Links ![GitHub Repo Stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/analysis-tools-dev/static-analysis)](https://github.com/analysis-tools-dev/static-analysis/actions/workflows/links.yml/badge.svg)](https://github.com/analysis-tools-dev/static-analysis/actions/workflows/links.yml)
 
 ## Sponsors
 
@@ -309,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
