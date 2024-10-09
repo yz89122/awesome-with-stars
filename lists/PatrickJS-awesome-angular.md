@@ -280,6 +280,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Offering Solutions](https://offering.solutions/blog/)
 * [Daniel Kreider](https://danielk.tech/)
 * [Amadou Sall](https://www.amadousall.com/)
+* [Angular Philosophies ![GitHub Repo Stars](https://img.shields.io/github/stars/tomavic/angular-philosophies) ![GitHub last commit](https://img.shields.io/github/last-commit/tomavic/angular-philosophies)](https://github.com/tomavic/angular-philosophies)
 
 ##### Books
 
