@@ -494,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开��](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -2784,7 +2784,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 
 - [vue-not-visible ![GitHub Repo Stars](https://img.shields.io/github/stars/PxyUp/vue-not-visible) ![GitHub last commit](https://img.shields.io/github/last-commit/PxyUp/vue-not-visible)](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 - [vue-window-size ![GitHub Repo Stars](https://img.shields.io/github/stars/mya-ake/vue-window-size) ![GitHub last commit](https://img.shields.io/github/last-commit/mya-ake/vue-window-size)](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
-- [vue-responsive-text ![GitHub Repo Stars](https://img.shields.io/github/stars/shwilliam/vue-responsive-text) ![GitHub last commit](https://img.shields.io/github/last-commit/shwilliam/vue-responsive-text)](https://github.com/shwilliam/vue-responsive-text) - ��� Component that scales its child node in relation to its parent node's width
+- [vue-responsive-text ![GitHub Repo Stars](https://img.shields.io/github/stars/shwilliam/vue-responsive-text) ![GitHub last commit](https://img.shields.io/github/last-commit/shwilliam/vue-responsive-text)](https://github.com/shwilliam/vue-responsive-text) - ↔ Component that scales its child node in relation to its parent node's width
 - [v-hide ![GitHub Repo Stars](https://img.shields.io/github/stars/ventralnet/v-hide) ![GitHub last commit](https://img.shields.io/github/last-commit/ventralnet/v-hide)](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show. Keeps layout space in the DOM
 
 #### Scroll
