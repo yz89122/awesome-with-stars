@@ -279,6 +279,7 @@ This list is a collection of the best Deno modules and resources.
 - [danet ![GitHub Repo Stars](https://img.shields.io/github/stars/Savory/Danet) ![GitHub last commit](https://img.shields.io/github/last-commit/Savory/Danet)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [drash ![GitHub Repo Stars](https://img.shields.io/github/stars/drashland/deno-drash) ![GitHub last commit](https://img.shields.io/github/last-commit/drashland/deno-drash)](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [faster ![GitHub Repo Stars](https://img.shields.io/github/stars/hviana/faster) ![GitHub last commit](https://img.shields.io/github/last-commit/hviana/faster)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+- [faster_react ![GitHub Repo Stars](https://img.shields.io/github/stars/hviana/faster_react) ![GitHub last commit](https://img.shields.io/github/last-commit/hviana/faster_react)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
 - [hono ![GitHub Repo Stars](https://img.shields.io/github/stars/honojs/hono) ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [oak ![GitHub Repo Stars](https://img.shields.io/github/stars/oakserver/oak) ![GitHub last commit](https://img.shields.io/github/last-commit/oakserver/oak)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
   - [oak-http-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/asos-craigmorten/oak-http-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/asos-craigmorten/oak-http-proxy)](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
@@ -479,7 +480,7 @@ This list is a collection of the best Deno modules and resources.
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
-- [Dive into Deno：プロセス起動からTypeScriptが実行される���で](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
+- [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
 ### Korean
 
