@@ -1418,6 +1418,7 @@ _Set of admin template_
 - [Geeker-Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin) ![GitHub last commit](https://img.shields.io/github/last-commit/HalseySpicy/Geeker-Admin)](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
 - [gin-vue-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin)](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
+- [vue-start-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/loicduong/vue-start-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/loicduong/vue-start-admin)](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
    
 #### Server-side rendering
 
