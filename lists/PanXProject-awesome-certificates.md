@@ -462,7 +462,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [KICKOFF](https://www.pmi.org/kickoff)<!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | ���� |
+| [KICKOFF](https://www.pmi.org/kickoff)<!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
 
