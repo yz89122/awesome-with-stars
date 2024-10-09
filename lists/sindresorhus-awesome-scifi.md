@@ -210,7 +210,7 @@ The books are real page turners with its mix of high politics, space battles, an
 
 Books:
 - [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
-- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
+- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] ��
 - [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
 - [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
 - [Nemesis Games](https://www.goodreads.com/book/show/22886612-nemesis-games) [4.4]
@@ -248,7 +248,7 @@ Isaac Asimov's original "Foundation Trilogy" is a mesmerizing voyage into the re
 <details>
   <summary>Description</summary>
 
-  > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire��both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
+  > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
   >
   > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 </details>
@@ -1619,7 +1619,7 @@ _Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots
   
   > Technology controls almost everything in our modern-day world, from remote entry on our cars to access to our homes, from the flight controls of our airplanes to the movements of the entire world economy. Thousands of autonomous computer programs, or daemons, make our networked world possible, running constantly in the background of our lives, trafficking e-mail, transferring money, and monitoring power grids. For the most part, daemons are benign, but the same can’t always be said for the people who design them.
   >
-  > Matthew Sobol was a legendary computer game designer—the architect behind half-a-dozen popular online games. His premature death depressed both gamers and his company’s stock price. But Sobol’s fans aren’t the only ones to note his passing. When his obituary is posted online, a previously dormant daemon activates, initiating a chain of events intended to unravel the fabric of our hyper-efficient, interconnected world. With Sobol’s secrets buried along with him, and as new layers of his daemon are unleashed at every turn, it’s up to an unlikely alliance to decipher his intricate plans and wrest the world from the grasp of a nameless, faceless enemy—or learn to live in a society in which we are no longer in control…
+  > Matthew Sobol was a legendary computer game designer—the architect behind half-a-dozen popular online games. His premature death depressed both gamers and his company’s stock price. But Sobol��s fans aren’t the only ones to note his passing. When his obituary is posted online, a previously dormant daemon activates, initiating a chain of events intended to unravel the fabric of our hyper-efficient, interconnected world. With Sobol’s secrets buried along with him, and as new layers of his daemon are unleashed at every turn, it’s up to an unlikely alliance to decipher his intricate plans and wrest the world from the grasp of a nameless, faceless enemy—or learn to live in a society in which we are no longer in control…
   >
   > Computer technology expert Daniel Suarez blends haunting high-tech realism with gripping suspense in an authentic, complex thriller in the tradition of Michael Crichton, Neal Stephenson, and William Gibson.
 </details>
