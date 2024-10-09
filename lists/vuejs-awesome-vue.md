@@ -322,7 +322,7 @@
 - [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) on oguzhan.in
 - [Vue.js VideoTutoral Series in Spanish (3-8-2016)](https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7) on YouTube by Juan Andrés Núñez
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
-- [**讲解 Vue.js 官网 中文-含代码、百��云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs-learn)](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
+- [**讲解 Vue.js 官网 中文-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs-learn)](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
@@ -2784,7 +2784,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 
 - [vue-not-visible ![GitHub Repo Stars](https://img.shields.io/github/stars/PxyUp/vue-not-visible) ![GitHub last commit](https://img.shields.io/github/last-commit/PxyUp/vue-not-visible)](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 - [vue-window-size ![GitHub Repo Stars](https://img.shields.io/github/stars/mya-ake/vue-window-size) ![GitHub last commit](https://img.shields.io/github/last-commit/mya-ake/vue-window-size)](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
-- [vue-responsive-text ![GitHub Repo Stars](https://img.shields.io/github/stars/shwilliam/vue-responsive-text) ![GitHub last commit](https://img.shields.io/github/last-commit/shwilliam/vue-responsive-text)](https://github.com/shwilliam/vue-responsive-text) - ↔ Component that scales its child node in relation to its parent node's width
+- [vue-responsive-text ![GitHub Repo Stars](https://img.shields.io/github/stars/shwilliam/vue-responsive-text) ![GitHub last commit](https://img.shields.io/github/last-commit/shwilliam/vue-responsive-text)](https://github.com/shwilliam/vue-responsive-text) - ��� Component that scales its child node in relation to its parent node's width
 - [v-hide ![GitHub Repo Stars](https://img.shields.io/github/stars/ventralnet/v-hide) ![GitHub last commit](https://img.shields.io/github/last-commit/ventralnet/v-hide)](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show. Keeps layout space in the DOM
 
 #### Scroll
