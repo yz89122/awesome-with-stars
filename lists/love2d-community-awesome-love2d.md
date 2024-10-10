@@ -369,6 +369,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [require.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/premek/require.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/premek/require.lua)](https://github.com/premek/require.lua) - Require all files in a folder.
 * [splashy ![GitHub Repo Stars](https://img.shields.io/github/stars/videah/splashy) ![GitHub last commit](https://img.shields.io/github/last-commit/videah/splashy)](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua ![GitHub Repo Stars](https://img.shields.io/github/stars/azoyan/ShakeDetectorLua) ![GitHub last commit](https://img.shields.io/github/last-commit/azoyan/ShakeDetectorLua)](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
+* [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick ![GitHub Repo Stars](https://img.shields.io/github/stars/bjornbytes/tick) ![GitHub last commit](https://img.shields.io/github/last-commit/bjornbytes/tick)](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 
 ## Tutorials
