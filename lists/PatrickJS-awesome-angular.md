@@ -804,6 +804,7 @@ become an Angular expert.
 * [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based ![GitHub Repo Stars](https://img.shields.io/github/stars/puppeteer/puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/puppeteer/puppeteer)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 * [ngx-testing-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/remscodes/ngx-testing-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/remscodes/ngx-testing-tools)](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 * [angular-testing-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-testing-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-testing-kit)](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
+* [playwright-ng-schematics ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/playwright-ng-schematics) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/playwright-ng-schematics)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
 #### Updating
 
