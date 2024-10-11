@@ -1420,6 +1420,8 @@ for the creation of web applications developed with Angular.
 * [infinite-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/daybrush/infinite-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/daybrush/infinite-viewer)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
 * [ngx-doc-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcelh1983/document-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcelh1983/document-viewer)](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
 * [ngx-treeview2 ![GitHub Repo Stars](https://img.shields.io/github/stars/TapBeep/ngx-treeview2) ![GitHub last commit](https://img.shields.io/github/last-commit/TapBeep/ngx-treeview2)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
+* [ngx-imageviewer ![GitHub Repo Stars](https://img.shields.io/github/stars/viobui/ngx-imageviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/viobui/ngx-imageviewer)](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
+* [ngx-json-schema-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/jy95/ngx-json-schema-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/jy95/ngx-json-schema-viewer)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
 
 #### Misc Components
 
