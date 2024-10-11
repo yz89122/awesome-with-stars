@@ -67,6 +67,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Calendars](#calendars)
   * [Carousels](#carousels)
   * [Charts](#charts)
+  * [Cookies](#cookies)
   * [Data Grids](#data-grids)
   * [Dates](#dates)
   * [DOM](#dom)
@@ -910,6 +911,13 @@ become an Angular expert.
 * [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/FERNman/angular-google-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/FERNman/angular-google-charts)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 
+#### Cookies
+
+* [ngx-cookie-service ![GitHub Repo Stars](https://img.shields.io/github/stars/stevermeister/ngx-cookie-service) ![GitHub last commit](https://img.shields.io/github/last-commit/stevermeister/ngx-cookie-service)](https://github.com/stevermeister/ngx-cookie-service) - Angular service for cookies. Originally based on the [ng2-cookies ![GitHub Repo Stars](https://img.shields.io/github/stars/BCJTI/ng2-cookies) ![GitHub last commit](https://img.shields.io/github/last-commit/BCJTI/ng2-cookies)](https://github.com/BCJTI/ng2-cookies) library.
+* [ngx-cookie-consent ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/ngx-cookie-consent) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/ngx-cookie-consent)](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
+* [ngx-cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/tinesoft/ngx-cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/tinesoft/ngx-cookieconsent)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
+* [cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/orestbida/cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
+
 #### Data Grids
 
 * [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
@@ -1436,8 +1444,6 @@ for the creation of web applications developed with Angular.
 * [ngx-feature-toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-feature-toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-feature-toggle)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 * [runtime-config-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/runtime-config-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/runtime-config-loader)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [ng-polymorpheus ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-polymorpheus) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-polymorpheus)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
-* [ngx-cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/tinesoft/ngx-cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/tinesoft/ngx-cookieconsent)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
-* [ngx-cookie-service ![GitHub Repo Stars](https://img.shields.io/github/stars/stevermeister/ngx-cookie-service) ![GitHub last commit](https://img.shields.io/github/last-commit/stevermeister/ngx-cookie-service)](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies ![GitHub Repo Stars](https://img.shields.io/github/stars/BCJTI/ng2-cookies) ![GitHub last commit](https://img.shields.io/github/last-commit/BCJTI/ng2-cookies)](https://github.com/BCJTI/ng2-cookies) library.
 * [gui ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/gui) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/gui)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ng2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ng2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ng2csv)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 * [@ui-router/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/ui-router/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ui-router/angular)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
