@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -461,7 +461,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [V-HACD ![GitHub Repo Stars](https://img.shields.io/github/stars/kmammou/v-hacd) ![GitHub last commit](https://img.shields.io/github/last-commit/kmammou/v-hacd)](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
 - C++: Graphics - 2D
     - 🎉 [Blend2D ![GitHub Repo Stars](https://img.shields.io/github/stars/blend2d/blend2d) ![GitHub last commit](https://img.shields.io/github/last-commit/blend2d/blend2d)](https://github.com/blend2d/blend2d) - High-performance 2D vector graphics engine. [[Website](https://blend2d.com/)]
-    - ���� [C++ Bitmap Library ![GitHub Repo Stars](https://img.shields.io/github/stars/ArashPartow/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/ArashPartow/bitmap)](https://github.com/ArashPartow/bitmap) - Featured bitmap loading and manipulation library.
+    - 🎉 [C++ Bitmap Library ![GitHub Repo Stars](https://img.shields.io/github/stars/ArashPartow/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/ArashPartow/bitmap)](https://github.com/ArashPartow/bitmap) - Featured bitmap loading and manipulation library.
     - 🎉 [QNanoPainter ![GitHub Repo Stars](https://img.shields.io/github/stars/QUItCoding/qnanopainter) ![GitHub last commit](https://img.shields.io/github/last-commit/QUItCoding/qnanopainter)](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated vector drawing library for _Qt_, powered by _NanoVG_.
     - 🎉 [Skia ![GitHub Repo Stars](https://img.shields.io/github/stars/google/skia) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia)](https://github.com/google/skia) - Complete 2D graphics library used in Chrome by _Google_. [[Website](https://skia.org)]
     - 🎉 [vg-renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/jdryg/vg-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/jdryg/vg-renderer)](https://github.com/jdryg/vg-renderer) - 2D vector graphics renderer for _Bgfx_, based on ideas from _NanoVG_.
@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
     - 🌎 [Blazor ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/aspnetcore) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
-    - 🎉 [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
+    - ��� [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
@@ -633,7 +633,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - ���� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
