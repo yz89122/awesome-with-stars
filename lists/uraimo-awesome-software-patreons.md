@@ -273,7 +273,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Povilas Kanapickas](https://www.patreon.com/p12tic) - X server, Buildbot CI, Barrier and many others.
 - [Raph Levien ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/raphlinus) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/raphlinus)](https://github.com/sponsors/raphlinus) - druid and other Rust projects.
 - [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
-- [Ren�� Rebe](https://www.patreon.com/user?u=9504919) - T2 System Development Environment.
+- [René Rebe](https://www.patreon.com/user?u=9504919) - T2 System Development Environment.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
 - [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
