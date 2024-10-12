@@ -197,7 +197,7 @@ Compilations and repositories of open geospatial datasets:
 - [Public APIs ![GitHub Repo Stars](https://img.shields.io/github/stars/public-apis-dev/public-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/public-apis-dev/public-apis)](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
 - [WRI](https://www.wri.org/data) - World Resources Institute.
 
-## ���� Notebooks 
+## 📒 Notebooks 
 Some JavaScript notebooks to help you code:
 
 ### Beginner
