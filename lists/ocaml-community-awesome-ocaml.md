@@ -421,7 +421,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Metrics
 
-- [prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/prometheus)](https://github.com/mirage/prometheus) �� OCaml client library for Prometheus monitoring.
+- [prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/prometheus)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ## Mobile Applications
 
