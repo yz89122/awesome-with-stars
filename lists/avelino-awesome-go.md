@@ -3158,7 +3158,7 @@ _Full stack web frameworks._
 - [go-ole ![GitHub Repo Stars](https://img.shields.io/github/stars/go-ole/go-ole) ![GitHub last commit](https://img.shields.io/github/last-commit/go-ole/go-ole)](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 - [gosddl ![GitHub Repo Stars](https://img.shields.io/github/stars/MonaxGT/gosddl) ![GitHub last commit](https://img.shields.io/github/last-commit/MonaxGT/gosddl)](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## XML
 
