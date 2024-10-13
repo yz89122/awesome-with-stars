@@ -449,6 +449,7 @@ become an Angular expert.
 * [angulartics2 ![GitHub Repo Stars](https://img.shields.io/github/stars/angulartics/angulartics2) ![GitHub last commit](https://img.shields.io/github/last-commit/angulartics/angulartics2)](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 * [angular-google-tag-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/mzuccaroli/angular-google-tag-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/mzuccaroli/angular-google-tag-manager)](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your angular project.
 * [litlyx ![GitHub Repo Stars](https://img.shields.io/github/stars/Litlyx/litlyx) ![GitHub last commit](https://img.shields.io/github/last-commit/Litlyx/litlyx)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+* [plausible ![GitHub Repo Stars](https://img.shields.io/github/stars/plausible/analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/plausible/analytics)](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. Works without any extra configuration on [single page applications](https://plausible.io/docs/spa-support).
 
 #### Authentication
 
