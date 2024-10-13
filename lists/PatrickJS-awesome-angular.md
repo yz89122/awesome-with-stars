@@ -979,6 +979,8 @@ become an Angular expert.
 * [ng-condition ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-condition) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-condition)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 * [ngx-sticky-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/matheo/ngx-sticky-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/matheo/ngx-sticky-kit)](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 * [ngx-ellipsis ![GitHub Repo Stars](https://img.shields.io/github/stars/lentschi/ngx-ellipsis) ![GitHub last commit](https://img.shields.io/github/last-commit/lentschi/ngx-ellipsis)](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
+* [ngx-func-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/ko1ebayev/ngx-func-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/ko1ebayev/ngx-func-pipe)](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
+* [ngx-pipes-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/SlyTed/ngx-pipes-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/SlyTed/ngx-pipes-toolkit)](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
 
 #### Drag and Drop
 
@@ -1233,6 +1235,7 @@ become an Angular expert.
 * [angular-toolbox ![GitHub Repo Stars](https://img.shields.io/github/stars/pechemann/angular-toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/pechemann/angular-toolbox)](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 * [ngx-lift ![GitHub Repo Stars](https://img.shields.io/github/stars/wghglory/ngx-lift) ![GitHub last commit](https://img.shields.io/github/last-commit/wghglory/ngx-lift)](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
 * [firestitch ![GitHub Repo Stars](https://img.shields.io/github/stars/orgs/Firestitch) ![GitHub last commit](https://img.shields.io/github/last-commit/orgs/Firestitch)](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
+* [ngx-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/studiohyperdrive/ngx-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/studiohyperdrive/ngx-tools)](https://github.com/studiohyperdrive/ngx-tools) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
 
 #### Modals
 
