@@ -498,7 +498,7 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 - Understand the differences between Concurrency and Parallelism.
 - Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
 - Understand the various concurrency interaction patterns and be able to apply the one that best fits the problem at hand.
-- Take a deep dive into Go’s concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
+- Take a deep dive into Go���s concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
 - Be able to diagnose concurrency and performance issues using Go’s profiler, execution tracing, and benchmarking tools.
 - Be able to identify when code needs optimizing, what needs optimizing and how.
 - Have a catalog of concurrency and performance patterns that you can quickly apply to your projects.
