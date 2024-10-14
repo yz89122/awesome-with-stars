@@ -91,6 +91,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Sass ![GitHub Repo Stars](https://img.shields.io/github/stars/sass/sass) ![GitHub last commit](https://img.shields.io/github/last-commit/sass/sass)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS ![GitHub Repo Stars](https://img.shields.io/github/stars/thysultan/stylis.js) ![GitHub last commit](https://img.shields.io/github/last-commit/thysultan/stylis.js)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
+* [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -263,6 +264,7 @@ Here is a [CSS in JS techniques comparison ![GitHub Repo Stars](https://img.shie
 
 ## Miscellaneous
 
+* [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
