@@ -263,7 +263,7 @@
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
 - [VueJS Kenya - Twitter Account](https://twitter.com/KenyaVue)
 - [VueJS Magyar - Facebook Group [Hungarian]](https://www.facebook.com/groups/huvuejs/)
-- [VueJS Bangladesh - Facebook Group] (https://www.facebook.com/groups/764064325433370)
+- [VueJS Bangladesh - Facebook Group](https://www.facebook.com/groups/764064325433370)
 
 ### Conferences
 
@@ -494,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发���训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立���发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -1611,7 +1611,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [vue-radial-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/wyzant-dev/vue-radial-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/wyzant-dev/vue-radial-progress)](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
 - [vue-simple-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/dzwillia/vue-simple-spinner) ![GitHub last commit](https://img.shields.io/github/last-commit/dzwillia/vue-simple-spinner)](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
 - [vue-wait ![GitHub Repo Stars](https://img.shields.io/github/stars/f/vue-wait) ![GitHub last commit](https://img.shields.io/github/last-commit/f/vue-wait)](https://github.com/f/vue-wait) - Complex Loader Management for Vue/Vuex and Nuxt applications.
 - [vue-progress-path ![GitHub Repo Stars](https://img.shields.io/github/stars/Akryum/vue-progress-path) ![GitHub last commit](https://img.shields.io/github/last-commit/Akryum/vue-progress-path)](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
@@ -1642,6 +1641,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-img-lazy-tiny ![GitHub Repo Stars](https://img.shields.io/github/stars/peterroe/vue-img-lazy-tiny) ![GitHub last commit](https://img.shields.io/github/last-commit/peterroe/vue-img-lazy-tiny)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 - [vue3-ui-preloader ![GitHub Repo Stars](https://img.shields.io/github/stars/gbast0s/vue3-ui-preloader) ![GitHub last commit](https://img.shields.io/github/last-commit/gbast0s/vue3-ui-preloader)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 - [vue-default-page ![GitHub Repo Stars](https://img.shields.io/github/stars/zero-one-code/vue-default-page) ![GitHub last commit](https://img.shields.io/github/last-commit/zero-one-code/vue-default-page)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+- [vue3-radial-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/jairoblatt/vue3-radial-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/jairoblatt/vue3-radial-progress)](https://github.com/jairoblatt/vue3-radial-progress) - Radial progress bar component for Vue 3
 
 ##### Progress Bar
 

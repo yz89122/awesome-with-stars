@@ -98,7 +98,6 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 ## Frameworks :art:
 
 * [AgnosticUI](https://www.agnosticui.com/) - Accessible CSS component primitives that also work with React, Vue 3, Svelte, and Angular.
-* [Awsm.css](https://igoradamenko.github.io/awsm.css/) - Simple CSS library for semantic HTML markup.
 * [Bonsai](https://www.bonsaicss.com/) - A complete Utility First CSS Framework for less than 50kb.
 * [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
@@ -135,7 +134,6 @@ _[You can find more frameworks at "awesome-css-frameworks" ![GitHub Repo Stars](
 ## Toolkits :wrench:
 
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-* [Susy](https://www.oddbird.net/susy/) - Responsive layout toolkit for Sass.
 
 <sub>[⇧ back to top](#contents)</sub>
 
