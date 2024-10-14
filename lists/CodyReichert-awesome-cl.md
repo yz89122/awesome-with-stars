@@ -414,6 +414,7 @@ Data Structures
 
 * 👍 [str ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-str) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-str)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200].
 * 👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL][8].
+  * an extension: [jfon](https://git.sr.ht/~skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
 * [trivial-extensible-sequences ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/trivial-extensible-sequences) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/trivial-extensible-sequences)](https://github.com/Shinmera/trivial-extensible-sequences) - Portability library for the extensible sequences protocol ([SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences)). [zlib][33].
 * [bst ![GitHub Repo Stars](https://img.shields.io/github/stars/glv2/bst) ![GitHub last commit](https://img.shields.io/github/last-commit/glv2/bst)](https://github.com/glv2/bst) - Binary Search Tree. [GPL3][2].
 * [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT][200].
@@ -775,7 +776,7 @@ Bringing the speed of Static Dispatch to CLOS. [LLGPL][8].
 Writing terser defclass forms:
 
 * [defclass-std ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/defclass-std) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/defclass-std)](https://github.com/lisp-maintainers/defclass-std) - a shortcut macro to write DEFCLASS and PRINT-OBJECT forms quickly. [LLGPL][8].
-* [nclasses ![GitHub Repo Stars](https://img.shields.io/github/stars/atlas-engineer/nclasses) ![GitHub last commit](https://img.shields.io/github/last-commit/atlas-engineer/nclasses)](https://github.com/atlas-engineer/nclasses) - Syntactic sugar for class and generic function declarations. Fork of [hu.dwim.defclass-star ![GitHub Repo Stars](https://img.shields.io/github/stars/hu-dwim/hu.dwim.defclass-star) ![GitHub last commit](https://img.shields.io/github/last-commit/hu-dwim/hu.dwim.defclass-star)](https://github.com/hu-dwim/hu.dwim.defclass-star). Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. [BSD][15].
+* [nclasses ![GitHub Repo Stars](https://img.shields.io/github/stars/atlas-engineer/nclasses) ![GitHub last commit](https://img.shields.io/github/last-commit/atlas-engineer/nclasses)](https://github.com/atlas-engineer/nclasses) - Syntactic sugar for class and generic function declarations. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. [BSD][15].
 
 And also:
 
@@ -828,6 +829,7 @@ Non-deterministic, logic programming
   languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
   solving Project Euler puzzles. [MIT][200].
 * [Screamer+ ![GitHub Repo Stars](https://img.shields.io/github/stars/yakovzaytsev/screamer-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/yakovzaytsev/screamer-plus)](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT][200].
+* [AP5](https://ap5.com/) - allows users to program in a model of first order logic or a relational database. 1989, updated 2024. Public domain.
 * [Temperance ![GitHub Repo Stars](https://img.shields.io/github/stars/sjl/temperance) ![GitHub last commit](https://img.shields.io/github/last-commit/sjl/temperance)](https://github.com/sjl/temperance) - logic programming. [MIT][200]. A focus on performance, with General Game Playing in mind.
 
 Reactive programming
