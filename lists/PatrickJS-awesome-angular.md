@@ -643,6 +643,7 @@ become an Angular expert.
 * [gong ![GitHub Repo Stars](https://img.shields.io/github/stars/fullstack-lang/gong) ![GitHub last commit](https://img.shields.io/github/last-commit/fullstack-lang/gong)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 * [adyen-angular-online-payments ![GitHub Repo Stars](https://img.shields.io/github/stars/adyen-examples/adyen-angular-online-payments) ![GitHub last commit](https://img.shields.io/github/last-commit/adyen-examples/adyen-angular-online-payments)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 * [ngx-culqi ![GitHub Repo Stars](https://img.shields.io/github/stars/lperezp/ngx-culqi) ![GitHub last commit](https://img.shields.io/github/last-commit/lperezp/ngx-culqi)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example ![GitHub Repo Stars](https://img.shields.io/github/stars/lperezp/culqi-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/lperezp/culqi-angular)](https://github.com/lperezp/culqi-angular).
+* [ngx-tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/Brakebein/ngx-tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/Brakebein/ngx-tagify)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/yaireo/tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/yaireo/tagify)](https://github.com/yaireo/tagify/).
 
 #### Internationalization
 
@@ -859,6 +860,7 @@ become an Angular expert.
 * [ngx-spotlight ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-spotlight) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-spotlight)](https://github.com/omnedia/ngx-spotlight) - An Angular library that creates a spotlight effect using SVG animations. The component highlights sections of your page when they enter the viewport, with customizable spotlight colors and optional animations.
 * [ngx-starry-sky ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-starry-sky) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-starry-sky)](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
 * [ngx-connection-beam ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-connection-beam) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-connection-beam)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
+* [ngx-countUp ![GitHub Repo Stars](https://img.shields.io/github/stars/inorganik/ngx-countUp) ![GitHub last commit](https://img.shields.io/github/last-commit/inorganik/ngx-countUp)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 
 #### Calendars
 
@@ -1113,6 +1115,7 @@ become an Angular expert.
 * [svg-icons-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-extensions/svg-icons-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-extensions/svg-icons-builder)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
 * [ngx-fast-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/push-based/ngx-fast-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/push-based/ngx-fast-svg)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
 * [angular-techs-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/angular-techs-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/angular-techs-logos)](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
+* [ngx-x-browser-svg-mask ![GitHub Repo Stars](https://img.shields.io/github/stars/bmartinson/ngx-x-browser-svg-mask) ![GitHub last commit](https://img.shields.io/github/last-commit/bmartinson/ngx-x-browser-svg-mask)](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
 
 #### Images
 
@@ -1258,6 +1261,7 @@ become an Angular expert.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/OneSignal/onesignal-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/OneSignal/onesignal-ngx)](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [ngx-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/sibiraj-s/ngx-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/sibiraj-s/ngx-notifier)](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 * [angular-notification ![GitHub Repo Stars](https://img.shields.io/github/stars/lazycuh/angular-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/lazycuh/angular-notification)](https://github.com/lazycuh/angular-notification) - A singleton, global Angular service to programmatically show notifications.
+* [ngx-toastr-message ![GitHub Repo Stars](https://img.shields.io/github/stars/One-Zero-Code/ngx-toastr-message) ![GitHub last commit](https://img.shields.io/github/last-commit/One-Zero-Code/ngx-toastr-message)](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 
 #### QR Codes
 
