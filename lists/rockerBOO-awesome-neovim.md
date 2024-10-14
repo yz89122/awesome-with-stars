@@ -927,6 +927,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nvim-lusc ![GitHub Repo Stars](https://img.shields.io/github/stars/svermeulen/nvim-lusc) ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/nvim-lusc)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
 - [CWood-sdf/banana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CWood-sdf/banana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CWood-sdf/banana.nvim)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 - [OXY2DEV/helpview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/helpview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/helpview.nvim)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
+- [niuiic/omega.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/omega.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/omega.nvim)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
 
 ## Fennel
 
