@@ -592,7 +592,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### iOS Examples
 
-- [frontpage-ios-app ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/frontpage-ios-app) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/frontpage-ios-app)](https://github.com/apollographql/frontpage-ios-app) - 📄 Apollo "hello world" app, for iOS.
+- [frontpage-ios-app ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/frontpage-ios-app) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/frontpage-ios-app)](https://github.com/apollographql/frontpage-ios-app) - �� Apollo "hello world" app, for iOS.
 
 <a name="clojurescript" />
 
