@@ -1184,6 +1184,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [niuiic/multiple-session.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/multiple-session.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/multiple-session.nvim)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
 - [RutaTang/spectacle.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/RutaTang/spectacle.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/RutaTang/spectacle.nvim)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 - [coffebar/neovim-project ![GitHub Repo Stars](https://img.shields.io/github/stars/coffebar/neovim-project) ![GitHub last commit](https://img.shields.io/github/last-commit/coffebar/neovim-project)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+- [njayman/season.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/njayman/season.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/njayman/season.nvim)](https://github.com/njayman/season.nvim) - A lightweight plugin to manage session based on current working directory.
 
 ## Remote Development
 
