@@ -849,7 +849,7 @@ Typing
 ------
 
 * 👍 [Coalton ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
-* �� [trivial-types ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/trivial-types) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/trivial-types)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
+* 👍 [trivial-types ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/trivial-types) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/trivial-types)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types ![GitHub Repo Stars](https://img.shields.io/github/stars/stylewarning/cl-algebraic-data-type) ![GitHub last commit](https://img.shields.io/github/last-commit/stylewarning/cl-algebraic-data-type)](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
 
