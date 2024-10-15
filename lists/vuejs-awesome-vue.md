@@ -494,8 +494,8 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-- [宁皓网独立开发者训练营：Vue 前端���用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [宁皓网独立���发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
 
@@ -2897,6 +2897,7 @@ _Seamless scrolling_
 - [v-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitronik/v-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitronik/v-paginator)](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your html templates with ssr support.
 - [vue-use-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/Sun0fABeach/vue-use-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/Sun0fABeach/vue-use-paginator)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 - [vueginate ![GitHub Repo Stars](https://img.shields.io/github/stars/lombervid/vueginate) ![GitHub last commit](https://img.shields.io/github/last-commit/lombervid/vueginate)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
+- [vue-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/asika32764/vue-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/asika32764/vue-pagination)](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
 
 #### Animation
 
