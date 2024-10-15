@@ -589,7 +589,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [shisho ![GitHub Repo Stars](https://img.shields.io/github/stars/flatt-security/shisho) ![GitHub last commit](https://img.shields.io/github/last-commit/flatt-security/shisho)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
-- [staticcheck](https://staticcheck.io) ��� Go static analysis that specialises in finding bugs, simplifying code and improving performance.
+- [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
@@ -991,6 +991,8 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [flakeheaven](https://pypi.org/project/flakeheaven/) — flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.
 
+- [Griffe](https://mkdocstrings.github.io/griffe/) — Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
+
 - [InspectorTiger ![GitHub Repo Stars](https://img.shields.io/github/stars/thg-consulting/it) ![GitHub last commit](https://img.shields.io/github/last-commit/thg-consulting/it)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 
 - [jedi](https://jedi.readthedocs.io/en/latest) — Autocompletion/static analysis library for Python.
@@ -1025,7 +1027,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pyright ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/pyright) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/pyright)](https://github.com/Microsoft/pyright) — Static type checker for Python, created to address gaps in existing tools like mypy.
 
-- [pyroma ![GitHub Repo Stars](https://img.shields.io/github/stars/regebro/pyroma) ![GitHub last commit](https://img.shields.io/github/last-commit/regebro/pyroma)](https://github.com/regebro/pyroma) — Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved.
+- [pyroma ![GitHub Repo Stars](https://img.shields.io/github/stars/regebro/pyroma) ![GitHub last commit](https://img.shields.io/github/last-commit/regebro/pyroma)](https://github.com/regebro/pyroma) :warning: — Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved.
 
 - [Pysa](https://pyre-check.org/docs/pysa-basics.html) — A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 
@@ -1049,7 +1051,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
-- [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
+- [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) :warning: — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
 
 - [xenon](https://xenon.readthedocs.io) :warning: — Monitor code complexity using [`radon` ![GitHub Repo Stars](https://img.shields.io/github/stars/rubik/radon) ![GitHub last commit](https://img.shields.io/github/last-commit/rubik/radon)](https://github.com/rubik/radon).
 

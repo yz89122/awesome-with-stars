@@ -420,7 +420,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introductory Topology](http://www.math.clemson.edu/~jimlb/Teaching/2009-10/Math986/Topology.pdf) - Jim L. Brown
 * 📝 [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
-* ���� [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
+* 📝 [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
 * 📝 [Topology Topics](http://mathonline.wikidot.com/topology)
 
 ### Algebraic Topology
@@ -443,7 +443,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
 * 📝 [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
-* 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
+* ��� [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
@@ -552,13 +552,13 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * 📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
-* 📝 [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
+* �� [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * 📝 [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 * 📝 [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
 * 📝 [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
 * 📝 [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 * 📝 [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
-* �� [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
+* 📝 [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
 * 📝 [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman
 
 ### Statistical Learning
