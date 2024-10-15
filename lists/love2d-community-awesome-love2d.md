@@ -335,6 +335,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
 * [Inky ![GitHub Repo Stars](https://img.shields.io/github/stars/Keyslam/Inky) ![GitHub last commit](https://img.shields.io/github/last-commit/Keyslam/Inky)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Badar 🌕 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nabeel20/Badar) ![GitHub last commit](https://img.shields.io/github/last-commit/Nabeel20/Badar)](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
+* [MeowUI ![GitHub Repo Stars](https://img.shields.io/github/stars/MoonGameLab/MeowUI) ![GitHub last commit](https://img.shields.io/github/last-commit/MoonGameLab/MeowUI)](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
 
 ## Utilities
 *Non-Game specific libraries and tools*
