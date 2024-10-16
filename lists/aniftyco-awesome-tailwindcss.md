@@ -178,7 +178,7 @@
 - 📚 [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
-- ���� [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
+- 📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
 - 📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
 - 📚 [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
