@@ -1342,7 +1342,7 @@ Update Time, five active automations, webhooks.
   * [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel).
   * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
   * [cname.dev](https://cname.dev/) — Free and secure dynamic reverse proxy service.
-  * [serveo](https://serveo.net/) — Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
+  * [serveo](https://serveo.net/) �� Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
   * [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
   * [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
   * Google STUN — [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)
