@@ -2,6 +2,15 @@
 
 ##### Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
 
+Open technology provides an opportunity for various stakeholders to collaborate efforts to improve public transit.
+
+Elements of open technology include:
+- Open standards
+- Open data
+- Open source software (both as consumer-facing apps like OpenTripPlanner and developer tools like the GTFS Validator)
+
+This list is focused around the open technology ecosystem for public transportation. Included technologies may be open source themselves and/or rely on open standards and/or open data.
+
 Have something to add or change? Open a [pull request ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/awesome-transit)](https://github.com/MobilityData/awesome-transit/pulls) or [issue ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/awesome-transit)](https://github.com/MobilityData/awesome-transit/issues) at [MobilityData/awesome-transit ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/awesome-transit)](https://github.com/MobilityData/awesome-transit).
 
 ------------------------------
