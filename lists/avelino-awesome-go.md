@@ -1185,6 +1185,7 @@ _Packages for accounting and finance._
 - [techan ![GitHub Repo Stars](https://img.shields.io/github/stars/sdcoffey/techan) ![GitHub last commit](https://img.shields.io/github/last-commit/sdcoffey/techan)](https://github.com/sdcoffey/techan) - Technical analysis library with advanced market analysis and trading strategies.
 - [ticker ![GitHub Repo Stars](https://img.shields.io/github/stars/achannarasappa/ticker) ![GitHub last commit](https://img.shields.io/github/last-commit/achannarasappa/ticker)](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 - [transaction ![GitHub Repo Stars](https://img.shields.io/github/stars/claygod/transaction) ![GitHub last commit](https://img.shields.io/github/last-commit/claygod/transaction)](https://github.com/claygod/transaction) - Embedded transactional database of accounts, running in multithreaded mode.
+- [udecimal ![GitHub Repo Stars](https://img.shields.io/github/stars/quagmt/udecimal) ![GitHub last commit](https://img.shields.io/github/last-commit/quagmt/udecimal)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
 - [vat ![GitHub Repo Stars](https://img.shields.io/github/stars/dannyvankooten/vat) ![GitHub last commit](https://img.shields.io/github/last-commit/dannyvankooten/vat)](https://github.com/dannyvankooten/vat) - VAT number validation & EU VAT rates.
 
 **[⬆ back to top](#contents)**
@@ -3391,7 +3392,7 @@ _Software written in Go._
 - [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 - [winrm-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/masterzen/winrm-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/masterzen/winrm-cli)](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ### Other Software
 
