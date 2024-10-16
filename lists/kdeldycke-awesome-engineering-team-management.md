@@ -377,7 +377,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
 
-- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
+- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.�� ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
 
 - [6 Signs You're a Micromanager (And What to Do Instead)](https://unito.io/blog/micromanagement-signs/) - “You're more involved with your employees than ever, yet they seem disgruntled, unhappy, and less productive than usual. Your check-ins seem to go unappreciated. And no one seems receptive to all of your great feedback on their work. What's going on? Well, we hate to break it to you, but you might be a micromanager.”
 
@@ -449,7 +449,7 @@ Expansive lists of well-known models and concepts.
 
 - [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - “Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.” [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
 
-- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.�� - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
+- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.” - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 
 - [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
 
@@ -583,7 +583,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - Compilation of easy rules and processes to bootstrap a remote team.
 
-- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - “GitLab is the world's largest all-remote company���. Here is what it means and how it works.
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - “GitLab is the world's largest all-remote company”. Here is what it means and how it works.
 
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - “Remote workers are more productive than their office-bound counterparts.”
 
