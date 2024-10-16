@@ -1302,6 +1302,7 @@ These tools are used externally to Neovim to enhance the experience.
 - [gennaro-tedesco/boilit ![GitHub Repo Stars](https://img.shields.io/github/stars/gennaro-tedesco/boilit) ![GitHub last commit](https://img.shields.io/github/last-commit/gennaro-tedesco/boilit)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 - [m00qek/plugin-template.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m00qek/plugin-template.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m00qek/plugin-template.nvim)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 - [ellisonleao/nvim-plugin-template ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/nvim-plugin-template) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/nvim-plugin-template)](https://github.com/ellisonleao/nvim-plugin-template) - Another Neovim plugin template, using GitHub's template feature.
+- [2KAbhishek/template.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2kabhishek/template.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2kabhishek/template.nvim)](https://github.com/2kabhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 
 ### OS-specific
 
