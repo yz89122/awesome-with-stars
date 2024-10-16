@@ -467,7 +467,7 @@
 
 ### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
 
-> Players take turns rolling the dice — which feature six unique symbols — then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
+> Players take turns rolling the dice — which feature six unique symbols �� then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
 
 ![Cobra Paw image](https://cf.geekdo-images.com/4dwXEEXmCGd8JIiRg7njUA__itemrep/img/vEPbqyeRa30jmstCkz2rkvHom5E=/fit-in/246x300/filters:strip_icc()/pic5349983.png)
 
