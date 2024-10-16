@@ -3392,7 +3392,7 @@ _Software written in Go._
 - [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 - [winrm-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/masterzen/winrm-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/masterzen/winrm-cli)](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ### Other Software
 
@@ -3774,5 +3774,6 @@ _Add the group of your city/country here (send **PR**)_
 
 - [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
 - [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
+- [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
 **[⬆ back to top](#contents)**
