@@ -494,7 +494,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立���发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -3378,7 +3378,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/fjc0k/vue-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/fjc0k/vue-messenger)](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
 - [vue-uuid-v4 ![GitHub Repo Stars](https://img.shields.io/github/stars/estudioliver/vue-uuid.git) ![GitHub last commit](https://img.shields.io/github/last-commit/estudioliver/vue-uuid.git)](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
 - [vue-async-operations ![GitHub Repo Stars](https://img.shields.io/github/stars/devstark-com/vue-async-operations) ![GitHub last commit](https://img.shields.io/github/last-commit/devstark-com/vue-async-operations)](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
-- [vue-direction ![GitHub Repo Stars](https://img.shields.io/github/stars/shwilliam/vue-direction) ![GitHub last commit](https://img.shields.io/github/last-commit/shwilliam/vue-direction)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
+- [vue-direction ![GitHub Repo Stars](https://img.shields.io/github/stars/shwilliam/vue-direction) ![GitHub last commit](https://img.shields.io/github/last-commit/shwilliam/vue-direction)](https://github.com/shwilliam/vue-direction) - ��� Direction aware hover in Vuejs
 - [vue-unique-id ![GitHub Repo Stars](https://img.shields.io/github/stars/berniegp/vue-unique-id) ![GitHub last commit](https://img.shields.io/github/last-commit/berniegp/vue-unique-id)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 - [stfalcon-vue-di ![GitHub Repo Stars](https://img.shields.io/github/stars/stfalcon-studio/stfalcon-vue-di) ![GitHub last commit](https://img.shields.io/github/last-commit/stfalcon-studio/stfalcon-vue-di)](https://github.com/stfalcon-studio/stfalcon-vue-di) - ⭐️ Lightweight DI for vue components️ ❤️
 - [vue-uuid ![GitHub Repo Stars](https://img.shields.io/github/stars/VitorLuizC/vue-uuid) ![GitHub last commit](https://img.shields.io/github/last-commit/VitorLuizC/vue-uuid)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
