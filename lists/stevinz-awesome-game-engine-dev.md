@@ -638,7 +638,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
     - 🎉 [Ebitengine ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/ebiten) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/ebiten)](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library.
-    - ���� [Engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - A 2D game framework.
+    - 🎉 [Engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - A 2D game framework.
     - 🎉 [Pixel ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel)](https://github.com/faiface/pixel) - Hand-crafted 2D game library. [[Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/pixel-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/pixel-examples)](https://github.com/faiface/pixel-examples)]
 - Go: Geometry
     - 🎉 [3D Mesh Simplification ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/simplify)](https://github.com/fogleman/simplify) - 3D mesh simplification.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
