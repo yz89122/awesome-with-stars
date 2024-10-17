@@ -350,6 +350,7 @@
 - [fnune/recall.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fnune/recall.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fnune/recall.nvim)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 - [niuiic/track.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/track.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/track.nvim)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
 - [tristone13th/lspmark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tristone13th/lspmark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tristone13th/lspmark.nvim)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
+- [EvWilson/spelunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EvWilson/spelunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EvWilson/spelunk.nvim)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 
 ## Search
 
@@ -1224,6 +1225,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [otavioschwanck/tmux-awesome-manager.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/otavioschwanck/tmux-awesome-manager.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/otavioschwanck/tmux-awesome-manager.nvim)](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) - Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
 - [karshPrime/only-tmux.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karshPrime/only-tmux.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karshPrime/only-tmux.nvim)](https://github.com/karshPrime/only-tmux.nvim) - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
 - [karshPrime/tmux-compile.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karshPrime/tmux-compile.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karshPrime/tmux-compile.nvim)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
+- [EvWilson/slimux.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EvWilson/slimux.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EvWilson/slimux.nvim)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
 
 ## Game
 
