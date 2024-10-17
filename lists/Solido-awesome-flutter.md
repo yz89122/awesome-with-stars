@@ -605,7 +605,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### Spanish
 
-- [C��digo Flutter](https://open.spotify.com/show/3QUTYR6jspNxHK8akJFxYf?si=MZtgjIMyTi6-WgN9Go6vZQ) - by [Guillermo García](https://guillermogarcia.es/).
+- [Código Flutter](https://open.spotify.com/show/3QUTYR6jspNxHK8akJFxYf?si=MZtgjIMyTi6-WgN9Go6vZQ) - by [Guillermo García](https://guillermogarcia.es/).
 
 ### Russian
 
@@ -687,7 +687,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
 
-### ����🇰 Denmark
+### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
