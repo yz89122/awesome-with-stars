@@ -1205,6 +1205,7 @@ become an Angular expert.
 * [ngx-maplibre-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/maplibre/ngx-maplibre-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/maplibre/ngx-maplibre-gl)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/components) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/components)](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 * [ng-azure-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudleclerc/ng-azure-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudleclerc/ng-azure-maps)](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
+* [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
 
 #### Markdown
 
