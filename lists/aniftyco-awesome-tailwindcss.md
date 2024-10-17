@@ -190,7 +190,7 @@
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
-- 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
+- ���� [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 - 🧩 [Tailwind Cards ![GitHub Repo Stars](https://img.shields.io/github/stars/hasinhayder/tailwind-cards) ![GitHub last commit](https://img.shields.io/github/last-commit/hasinhayder/tailwind-cards)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 - 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
@@ -202,7 +202,7 @@
 - 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
 - 🧩 [Daisy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/daisyui) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
-- 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
+- �� [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker ![GitHub Repo Stars](https://img.shields.io/github/stars/kenhyuwa/litepie-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/kenhyuwa/litepie-datepicker)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 - 🧩 [Tailwind Datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/tailwind-datepicker)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
@@ -270,7 +270,7 @@
 - 🚀 [Create React App Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/kriswep/cra-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/kriswep/cra-tailwindcss)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 - 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/create-react-app-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/create-react-app-tailwindcss)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
 - 🚀 [Dogpatch ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-pallot/dogpatch) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-pallot/dogpatch)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
-- 🚀 [Next.js Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/oddstronaut/tailwind-next) ![GitHub last commit](https://img.shields.io/github/last-commit/oddstronaut/tailwind-next)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
+- ��� [Next.js Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/oddstronaut/tailwind-next) ![GitHub last commit](https://img.shields.io/github/last-commit/oddstronaut/tailwind-next)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 - 🚀 [Sapper & Svelte Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/EricPKerr/sapper-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/EricPKerr/sapper-tailwindcss-starter)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
 - 🚀 [Netlify Lambda Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/HugoDF/netlify-lambda-tailwind-static-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/HugoDF/netlify-lambda-tailwind-static-starter)](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
 - 🚀 [Hugo Theme Starter with Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/dirkolbrich/hugo-theme-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/dirkolbrich/hugo-theme-tailwindcss-starter)](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.

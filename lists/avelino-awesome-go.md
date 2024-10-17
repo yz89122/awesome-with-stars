@@ -358,7 +358,7 @@ _Libraries and tools help with build automation._
 - [taskctl ![GitHub Repo Stars](https://img.shields.io/github/stars/taskctl/taskctl) ![GitHub last commit](https://img.shields.io/github/last-commit/taskctl/taskctl)](https://github.com/taskctl/taskctl) - Concurrent task runner.
 - [xc ![GitHub Repo Stars](https://img.shields.io/github/stars/joerdav/xc) ![GitHub last commit](https://img.shields.io/github/last-commit/joerdav/xc)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## Command Line
 
@@ -3392,7 +3392,7 @@ _Software written in Go._
 - [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 - [winrm-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/masterzen/winrm-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/masterzen/winrm-cli)](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ### Other Software
 
