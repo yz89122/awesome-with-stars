@@ -353,7 +353,7 @@ The most consumer friendly trainer simulators are commercial, but available for 
 * [GAZEBOsim ![GitHub Repo Stars](https://img.shields.io/github/stars/gazebosim/gz-sim) ![GitHub last commit](https://img.shields.io/github/last-commit/gazebosim/gz-sim)](https://github.com/gazebosim/gz-sim) - Multi robot.
 * ROS supports simulations like described [by PX4](https://docs.px4.io/master/en/ros/ros2_comm.html).
 
-### Checklists ��
+### Checklists 📋
 
 Malfunction can have dramatic consequences, as well as your drone can cause massive damages. To avoid unnecessary risks, a step by step protocol and documentation is mandatory for every flight in case you might use your insurance.
 
@@ -434,7 +434,7 @@ Depending on the country you live in, the laws and legal rules of airspace may v
 * [Urząd Lotnictwa Cywilnego](https://drony.ulc.gov.pl) - 🇵🇱 Urząd Lotnictwa Cywilnego - allows to apply for license in Poland and EU
 * [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - 🇵🇱 List of regulations regarding operations of UAV in Poland
 
-## Communities ��️
+## Communities 🗣️
 
 Every hobby makes more fun and progress if you share your ideas and questions to others. Beside the UAV pilot communities there are plenty of modder and hackers out there.
 
