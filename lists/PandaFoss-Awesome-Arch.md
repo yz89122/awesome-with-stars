@@ -195,7 +195,7 @@ You can also contribute to the maintenance of the list by making a small donatio
 
 I need your support! ❤️
 
-## Contributors ���
+## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
