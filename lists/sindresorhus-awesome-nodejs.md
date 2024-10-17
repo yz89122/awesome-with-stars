@@ -725,7 +725,7 @@
 
 - [napi-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/napi-rs/napi-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/napi-rs/napi-rs)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
 - [Neon ![GitHub Repo Stars](https://img.shields.io/github/stars/neon-bindings/neon) ![GitHub last commit](https://img.shields.io/github/last-commit/neon-bindings/neon)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-- [Edge.js ![GitHub Repo Stars](https://img.shields.io/github/stars/tjanczuk/edge) ![GitHub last commit](https://img.shields.io/github/last-commit/tjanczuk/edge)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
+- [Edge.js ![GitHub Repo Stars](https://img.shields.io/github/stars/agracio/edge-js) ![GitHub last commit](https://img.shields.io/github/last-commit/agracio/edge-js)](https://github.com/agracio/edge-js) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
 - [DotNetJS ![GitHub Repo Stars](https://img.shields.io/github/stars/Elringus/DotNetJS) ![GitHub last commit](https://img.shields.io/github/last-commit/Elringus/DotNetJS)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ### Natural language processing

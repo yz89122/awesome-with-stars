@@ -65,6 +65,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
   * [Calendars](#calendars)
+  * [Captcha](#captcha)
   * [Carousels](#carousels)
   * [Charts](#charts)
   * [Cookies](#cookies)
@@ -872,6 +873,14 @@ become an Angular expert.
 * [angular-year-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/IOMechs/angular-year-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/IOMechs/angular-year-calendar)](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/oOps1627/angular-calendar-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/oOps1627/angular-calendar-timeline)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+
+#### Captcha
+
+* [ngx-turnstile ![GitHub Repo Stars](https://img.shields.io/github/stars/verto-health/ngx-turnstile) ![GitHub last commit](https://img.shields.io/github/last-commit/verto-health/ngx-turnstile)](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
+* [ng-hcaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/leNicDev/ng-hcaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/leNicDev/ng-hcaptcha)](https://github.com/leNicDev/ng-hcaptcha) - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
+* [angular-yandex-smart-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/flowXM/angular-yandex-smart-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/flowXM/angular-yandex-smart-captcha)](https://github.com/flowXM/angular-yandex-smart-captcha) - This library adds the Yandex SmartCaptcha component to your Angular application, providing an easy way to integrate CAPTCHA protection into your forms and other user interactions.
+* [go-captcha-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/wenlng/go-captcha-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/wenlng/go-captcha-angular)](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
+* [ng-recaptcha-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/LakhveerChahal/ng-recaptcha-2) ![GitHub last commit](https://img.shields.io/github/last-commit/LakhveerChahal/ng-recaptcha-2)](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/DethAriel/ng-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/DethAriel/ng-recaptcha)](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
 
 #### Carousels
 
