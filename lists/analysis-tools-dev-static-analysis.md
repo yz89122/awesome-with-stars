@@ -589,7 +589,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [shisho ![GitHub Repo Stars](https://img.shields.io/github/stars/flatt-security/shisho) ![GitHub last commit](https://img.shields.io/github/last-commit/flatt-security/shisho)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
-- [staticcheck](https://staticcheck.io) ��� Go static analysis that specialises in finding bugs, simplifying code and improving performance.
+- [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
