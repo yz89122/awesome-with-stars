@@ -189,6 +189,8 @@ sellers who aren't evil for physical resources.
 Artificial Intelligence (AI, LLMs)
 ==========================================
 
+* [llama.cl ![GitHub Repo Stars](https://img.shields.io/github/stars/snunez1/llama.cl) ![GitHub last commit](https://img.shields.io/github/last-commit/snunez1/llama.cl)](https://github.com/snunez1/llama.cl) - a Common Lisp port of Karpathy's llama2.c to idiomatic Common Lisp. MIT.
+
 Around the OpenAI API:
 
 * [openai-openapi-client](https://codeberg.org/kilianmh/openai-openapi-client) - semi-automatically generated Openapi client updated frequently from the [official Openapi specification ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-openapi) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-openapi)](https://github.com/openai/openai-openapi/blob/master/openapi.yaml). AGPL-3.
@@ -317,10 +319,13 @@ See also [legochain ![GitHub Repo Stars](https://img.shields.io/github/stars/def
 Database
 ========
 
-* NEW [endatabas ![GitHub Repo Stars](https://img.shields.io/github/stars/endatabas/endb) ![GitHub last commit](https://img.shields.io/github/last-commit/endatabas/endb)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0][89].
+* [cl-yesql ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/cl-yesql) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/cl-yesql)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT][200].
+
+See also:
+
+* [endatabas ![GitHub Repo Stars](https://img.shields.io/github/stars/endatabas/endb) ![GitHub last commit](https://img.shields.io/github/last-commit/endatabas/endb)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0][89].
   - built in Common Lisp and Rust.
   - in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
-* [cl-yesql ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/cl-yesql) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/cl-yesql)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT][200].
 
 ORMs
 ----
@@ -392,6 +397,8 @@ Wrappers
 Migration tools
 ---------------
 
+(recall that Mito handles migrations)
+
 * [cl-migratum ![GitHub Repo Stars](https://img.shields.io/github/stars/dnaeon/cl-migratum) ![GitHub last commit](https://img.shields.io/github/last-commit/dnaeon/cl-migratum)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD_3Clause][15].
 * [postmodern-passenger-pigeon ![GitHub Repo Stars](https://img.shields.io/github/stars/fisxoj/postmodern-passenger-pigeon) ![GitHub last commit](https://img.shields.io/github/last-commit/fisxoj/postmodern-passenger-pigeon)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
 
@@ -407,6 +414,7 @@ Tools
 -----
 
 * ⭐ [pgloader ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/pgloader) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/pgloader)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+  * obligatory blog post: [Why is pgloader so much faster?](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/) (hint: it was re-written from Python to Common Lisp)
 
 
 Data Structures
@@ -968,6 +976,8 @@ Advanced
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp][157] - A book on programming AI that covers some advanced Lisp.
   * with a web version: [https://norvig.github.io/paip-lisp/](https://norvig.github.io/paip-lisp/#/)
   * [PAIP-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/norvig/paip-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/norvig/paip-lisp)](https://github.com/norvig/paip-lisp) -  Lisp code for the textbook "Paradigms of Artificial Intelligence Programming".
+* [Norvig's Lisp style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
+  * and [lisp-lang.org's style guide](https://lisp-lang.org/style-guide/)
 
 Other books
 -----------
@@ -1545,6 +1555,7 @@ Readline, ncurses and other graphical helpers
   colorized text, horizontal lines, progress bars, (un)ordered lists
   and tables on ANSI-compliant terminals. [GPL3][2].
 * [cl-progress-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/sirherrbatka/cl-progress-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/sirherrbatka/cl-progress-bar)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT][200].
+  * and [progressons ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/progressons) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/progressons)](https://github.com/vindarel/progressons), a progress bar on one line, for real an dumb terminals. MIT.
 
 Shells, shells interfaces
 -------------------------
@@ -1766,8 +1777,8 @@ Unit Testing
 
 * ⭐ [FiveAM ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/fiveam) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/fiveam)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
   * [fiveam-matchers ![GitHub Repo Stars](https://img.shields.io/github/stars/tdrhq/fiveam-matchers) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/fiveam-matchers)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0][89].
-* [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT][200].
 * [Parachute ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/parachute) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/parachute)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib][33].
+* [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT][200].
 * [Mockingbird ![GitHub Repo Stars](https://img.shields.io/github/stars/Chream/mockingbird) ![GitHub last commit](https://img.shields.io/github/last-commit/Chream/mockingbird)](https://github.com/Chream/mockingbird) - A small
   stubbing and mocking library for Common Lisp. Can also check wether
   a stubbed function was called, how many times and with which
@@ -1946,6 +1957,8 @@ Git
 * [cl-git](https://cl-git.russellsim.org/) - a CFFI interface to the libgit2 library. [LGPL3][9].
 * [legit](https://shinmera.github.io/legit/) - an interface to the Git binary. [zlib][33].
 * [git-api ![GitHub Repo Stars](https://img.shields.io/github/stars/fourier/git-api) ![GitHub last commit](https://img.shields.io/github/last-commit/fourier/git-api)](https://github.com/fourier/git-api) - Common Lisp library to access a git repository. It doesn't need git or libgit installed. [BSD][15].
+
+See also the [Lem editor's Git interface](https://lem-project.github.io/usage/usage/#version-control-with-lemlegit-git-experimental)!
 
 i18n
 ----

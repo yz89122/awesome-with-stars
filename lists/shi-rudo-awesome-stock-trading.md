@@ -276,5 +276,5 @@ Cassidy chronicles the rise and fall of the dot-com bubble with insight and flai
 - 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
 - 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
 - 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com) - One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
-- 🇪��� [Euronext](https://www.euronext.com/en) - A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
+- 🇪🇺 [Euronext](https://www.euronext.com/en) - A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
 - 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse. 
