@@ -924,6 +924,7 @@ become an Angular expert.
 * [zingchart-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/zingchart/zingchart-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/zingchart/zingchart-angular)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 * [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/FERNman/angular-google-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/FERNman/angular-google-charts)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+* [ngx-flexmonster ![GitHub Repo Stars](https://img.shields.io/github/stars/flexmonster/ngx-flexmonster) ![GitHub last commit](https://img.shields.io/github/last-commit/flexmonster/ngx-flexmonster)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
 
 #### Cookies
 
@@ -1100,6 +1101,8 @@ become an Angular expert.
 * [angular-reactive-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/davidwalschots/angular-reactive-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/davidwalschots/angular-reactive-validation)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 * [ngx-formcontrol-errors ![GitHub Repo Stars](https://img.shields.io/github/stars/dgonzalez870/ngx-formcontrol-errors) ![GitHub last commit](https://img.shields.io/github/last-commit/dgonzalez870/ngx-formcontrol-errors)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 * [error-tailor ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/error-tailor) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/error-tailor)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+* [ngx-validator-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/dynimorius/ngx-validator-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/dynimorius/ngx-validator-pack)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+to simplify usage and allow quick customization.
 
 #### Icons
 
@@ -1186,6 +1189,8 @@ become an Angular expert.
 * [angular-svg-round-progressbar ![GitHub Repo Stars](https://img.shields.io/github/stars/crisbeto/angular-svg-round-progressbar) ![GitHub last commit](https://img.shields.io/github/last-commit/crisbeto/angular-svg-round-progressbar)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 * [ng-circle-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/bootsoon/ng-circle-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/bootsoon/ng-circle-progress)](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 * [ngx-loading-buttons ![GitHub Repo Stars](https://img.shields.io/github/stars/dkreider/ngx-loading-buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/dkreider/ngx-loading-buttons)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+* [ngx-lazy-directive ![GitHub Repo Stars](https://img.shields.io/github/stars/tuphan-27/ngx-lazy-directive) ![GitHub last commit](https://img.shields.io/github/last-commit/tuphan-27/ngx-lazy-directive)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
+* [ngx-fastboot ![GitHub Repo Stars](https://img.shields.io/github/stars/KernelPanic92/ngx-fastboot) ![GitHub last commit](https://img.shields.io/github/last-commit/KernelPanic92/ngx-fastboot)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 
 #### Loggers
 
