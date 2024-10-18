@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -569,7 +569,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [interfacer ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/interfacer) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/interfacer)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
-- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: — Report long lines.
+- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) :warning: ��� Report long lines.
 
 - [maligned ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/maligned) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/maligned)](https://github.com/mdempsky/maligned) :warning: — Detect structs that would take less memory if their fields were sorted.
 
@@ -2348,7 +2348,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 ## More Collections
 
-- [Clean code linters ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/clean-code-linters) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/clean-code-linters)](https://github.com/collections/clean-code-linters) ��� A collection of linters in github collections
+- [Clean code linters ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/clean-code-linters) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/clean-code-linters)](https://github.com/collections/clean-code-linters) — A collection of linters in github collections
 - [Code Quality Checker Tools For PHP Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/code-quality-in-php) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/code-quality-in-php)](https://github.com/collections/code-quality-in-php) — A collection of PHP linters in github collections
 - [go-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/dominikh/go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikh/go-tools)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 - [linters ![GitHub Repo Stars](https://img.shields.io/github/stars/mcandre/linters) ![GitHub last commit](https://img.shields.io/github/last-commit/mcandre/linters)](https://github.com/mcandre/linters) — An introduction to static code analysis

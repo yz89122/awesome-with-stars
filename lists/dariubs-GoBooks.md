@@ -31,6 +31,7 @@
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
     - [2018 - Security with Go](#2018---security-with-go)
     - [2019 - A Go Developer's Notebook](#2019---a-go-developers-notebook)
+    - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
     - [2020 - Black Hat Go](#2020---black-hat-go)
     - [2020 - Writing An Interpreter In Go](#2020---writing-an-interpreter-in-go)
     - [2020 - Writing A Compiler In Go](#2020---writing-a-compiler-in-go)
@@ -60,7 +61,6 @@
     - [Ultimate Go Notebook](#ultimate-go-notebook)
 
   - [Web Development](#web-development)
-    - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
     - [2020 - 12 Factor Applications with Docker and Go](#2020---12-factor-applications-with-docker-and-go)
     - [2021 - Webapps in Go the anti textbook *Free*](#2021---webapps-in-go-the-anti-textbook-free)
     - [2021 - Build SaaS apps in Go](#2021---build-saas-apps-in-go)
@@ -285,7 +285,7 @@ This book helps you:
 
 <img src="https://content.packt.com/_/image/original/B18621/cover_image_large.jpg" width="120px"/>
 
-Go Programming – From Beginner to Professional is a comprehensive guide that takes your proficiency in the Go programming language from novice to expert. Starting with fundamental concepts, this book covers variables, command-line tools, and working with data before delving into advanced concepts, including error handling, interfaces, and generics, harnessing Go��s latest features through hands-on exercises. Along the way, you’ll learn to structure projects using Go modules, manage packages effectively, and master debugging techniques. As you progress, you’ll get to grips with practical application-centric aspects such as command-line programming, file manipulation, and working with SQL databases. Additionally, the book explores web server development, RESTful APIs, and utilizing the Go HTTP client to interact with web applications. Further enhancing your Go skills, you’ll learn concurrent programming, testing methodologies, Go tools, and how to deploy applications in the cloud. Throughout the book, you’ll uncover Go’s hidden gems and gain insights into time manipulation, best practices, and more. By the end of this book, you’ll have worked through practical exercises and activities that’ll equip you with the knowledge and skills needed to excel as a proficient Go developer, primed for success in real-world projects.
+Go Programming – From Beginner to Professional is a comprehensive guide that takes your proficiency in the Go programming language from novice to expert. Starting with fundamental concepts, this book covers variables, command-line tools, and working with data before delving into advanced concepts, including error handling, interfaces, and generics, harnessing Go’s latest features through hands-on exercises. Along the way, you’ll learn to structure projects using Go modules, manage packages effectively, and master debugging techniques. As you progress, you’ll get to grips with practical application-centric aspects such as command-line programming, file manipulation, and working with SQL databases. Additionally, the book explores web server development, RESTful APIs, and utilizing the Go HTTP client to interact with web applications. Further enhancing your Go skills, you’ll learn concurrent programming, testing methodologies, Go tools, and how to deploy applications in the cloud. Throughout the book, you’ll uncover Go’s hidden gems and gain insights into time manipulation, best practices, and more. By the end of this book, you’ll have worked through practical exercises and activities that’ll equip you with the knowledge and skills needed to excel as a proficient Go developer, primed for success in real-world projects.
 
 What you will learn
 - Understand the Go syntax and apply it proficiently to handle data and write functions
@@ -498,7 +498,7 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 - Understand the differences between Concurrency and Parallelism.
 - Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
 - Understand the various concurrency interaction patterns and be able to apply the one that best fits the problem at hand.
-- Take a deep dive into Go���s concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
+- Take a deep dive into Go’s concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
 - Be able to diagnose concurrency and performance issues using Go’s profiler, execution tracing, and benchmarking tools.
 - Be able to identify when code needs optimizing, what needs optimizing and how.
 - Have a catalog of concurrency and performance patterns that you can quickly apply to your projects.

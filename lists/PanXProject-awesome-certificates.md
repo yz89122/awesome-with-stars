@@ -182,7 +182,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Popular Applications of Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/popular-applications-of-data-science) | Great Learning |Beginner| 1 | 🏆 |
 | [Career in Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science) | Great Learning |Beginner| 1 | 🏆 |
 | [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science) | Great Learning |Beginner| 1 | 🏆 |
-| [Data Science Mathematics](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics) | Great Learning |Beginner| 1 | ��� |
+| [Data Science Mathematics](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics) | Great Learning |Beginner| 1 | 🏆 |
 | [R for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
 | [Statistical Methods for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making) | Great Learning |Beginner| 2 | 🏆 |
 | [Probability for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
@@ -503,7 +503,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [How to Select a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_select_shape) | UMaine New Media | intermediate| 0.1 | 🏅 |
 | [How to Insert a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape) | UMaine New Media | intermediate| 0.1 | 🏅 |
 
-[��️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ### Illustrator
