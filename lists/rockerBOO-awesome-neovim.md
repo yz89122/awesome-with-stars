@@ -351,6 +351,7 @@
 - [niuiic/track.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/track.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/track.nvim)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
 - [tristone13th/lspmark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tristone13th/lspmark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tristone13th/lspmark.nvim)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 - [EvWilson/spelunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EvWilson/spelunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EvWilson/spelunk.nvim)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+- [2KAbhishek/markit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/markit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/markit.nvim)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
 
 ## Search
 
@@ -808,8 +809,9 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ptdewey/pendulum-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 - [QuentinGruber/pomodoro.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 - [rlychrisg/truncateline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rlychrisg/truncateline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rlychrisg/truncateline.nvim)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
+- [EL-MASTOR/bufferlist.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EL-MASTOR/bufferlist.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EL-MASTOR/bufferlist.nvim)](https://github.com/EL-MASTOR/bufferlist.nvim) - A super fast, lightweight, minimal and super easy buffer manager.
 - [ellisonleao/dotenv.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
-  
+
 ### CSV Files
 
 - [VidocqH/data-viewer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/VidocqH/data-viewer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/VidocqH/data-viewer.nvim)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
@@ -931,6 +933,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [CWood-sdf/banana.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CWood-sdf/banana.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CWood-sdf/banana.nvim)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 - [OXY2DEV/helpview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/helpview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/helpview.nvim)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 - [niuiic/omega.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/omega.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/omega.nvim)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
+- [2KAbhishek/utils.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2kabhishek/utils.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2kabhishek/utils.nvim)](https://github.com/2kabhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 
 ## Fennel
 
@@ -978,6 +981,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ldelossa/gh.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ldelossa/gh.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ldelossa/gh.nvim)](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
 - [topaxi/gh-actions.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/topaxi/gh-actions.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/topaxi/gh-actions.nvim)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
 - [rawnly/gist.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rawnly/gist.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rawnly/gist.nvim)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+- [2KAbhishek/octohub.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2kabhishek/octohub.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2kabhishek/octohub.nvim)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ## Motion
 
