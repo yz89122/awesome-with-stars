@@ -338,7 +338,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
   * [ScraperBox](https://scraperbox.com/) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. The free plan has 1000 requests per month.
   * [ScrapingDog](https://scrapingdog.com/) — Scrapingdog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also includes Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans are available.
-  * [scrapinghub.com](https://scrapinghub.com) �� Data scraping with visual interface and plugins. The free plan includes unlimited scraping on a shared server.
+  * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. The free plan includes unlimited scraping on a shared server.
   * [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
   * [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
   * [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available.
