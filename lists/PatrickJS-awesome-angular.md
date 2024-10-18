@@ -1064,6 +1064,7 @@ become an Angular expert.
 * [ngx-currency ![GitHub Repo Stars](https://img.shields.io/github/stars/nbfontana/ngx-currency) ![GitHub last commit](https://img.shields.io/github/last-commit/nbfontana/ngx-currency)](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
 * [ngx-super-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/naologic/ngx-super-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/naologic/ngx-super-forms)](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
 * [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
+* [ngx-smart-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/AditechGH/ngx-smart-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/AditechGH/ngx-smart-forms)](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
 
 ##### Form Controls
 
