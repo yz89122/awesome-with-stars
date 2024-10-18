@@ -10,6 +10,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [React](#react)
 - [Svelte](#svelte)
 - [Vue](#vue)
+- [Solid](#solid)
 - [Dart/Flutter](#dartflutter)
 - [C#](#c)
 - [D](#d)
@@ -48,6 +49,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Quasar starter kit ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronblondeau/pocketbase_quasar_starter) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronblondeau/pocketbase_quasar_starter)](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt ![GitHub Repo Stars](https://img.shields.io/github/stars/j-wil/pocket-nuxt) ![GitHub last commit](https://img.shields.io/github/last-commit/j-wil/pocket-nuxt)](https://github.com/j-wil/pocket-nuxt) - A Nuxt3 PocketBase starter that builds into a single binary.
 
+## Solid
+
+- [Solid-pocketbase-hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/kirill-dev-pro/solid-pocketbase-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/kirill-dev-pro/solid-pocketbase-hooks)](https://github.com/kirill-dev-pro/solid-pocketbase-hooks) - Pocketbase hooks for Solid.js
+
 ## Dart/Flutter
 
 - [PocketBase Drift ![GitHub Repo Stars](https://img.shields.io/github/stars/rodydavis/pocketbase_drift) ![GitHub last commit](https://img.shields.io/github/last-commit/rodydavis/pocketbase_drift)](https://github.com/rodydavis/pocketbase_drift) - A PocketBase client cached with Drift.
@@ -84,7 +89,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Fly.io ![GitHub Repo Stars](https://img.shields.io/github/stars/pocketbase/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase)](https://github.com/pocketbase/pocketbase/discussions/537) - Guide to deploy for free in Fly.io.
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/kdpuvvadi/pocketbase)](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases.
-- [PocketBase on Dokku ![GitHub Repo Stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/blockshiftnetwork/dokku-pocketbase)](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. 
+- [PocketBase on Dokku ![GitHub Repo Stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/blockshiftnetwork/dokku-pocketbase)](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly.
 
 ## Native Go Plugins
 
