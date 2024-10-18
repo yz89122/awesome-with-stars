@@ -340,7 +340,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057) by Chris Adams. Code.
 - [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) by Coen van der Kamp.
-- [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) by Duco Dokter.
+- [Wagtail Headless with HATEOAS �� Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) by Duco Dokter.
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) by Chris Adams.
 - [[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067) by Thibaud Colas.
 - [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
