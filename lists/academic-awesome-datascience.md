@@ -358,6 +358,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [Deepchecks ![GitHub Repo Stars](https://img.shields.io/github/stars/deepchecks/deepchecks) ![GitHub last commit](https://img.shields.io/github/last-commit/deepchecks/deepchecks)](https://github.com/deepchecks/deepchecks)
 * [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 * [interpretable](https://pypi.org/project/interpretable)
+* [XGBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost)
+* [LightGBM ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/LightGBM) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/LightGBM)](https://github.com/microsoft/LightGBM)
+* [CatBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/catboost/catboost) ![GitHub last commit](https://img.shields.io/github/last-commit/catboost/catboost)](https://github.com/catboost/catboost)
+* [JAX ![GitHub Repo Stars](https://img.shields.io/github/stars/google/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax)](https://github.com/google/jax)
 
 ### Deep Learning Packages
 
@@ -455,6 +459,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [C3](https://c3js.org/)
 - [TensorWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/tensorwatch) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/tensorwatch)](https://github.com/microsoft/tensorwatch)
 - [geomap](https://pypi.org/project/geomap/)
+- [Dash](https://plotly.com/dash/)
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -561,6 +566,21 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Opik ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik) | Evaluate, test, and ship LLM applications across your dev and production lifecycles. |
 | [Synthical](https://synthical.com) | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place |
 | [teeplot ![GitHub Repo Stars](https://img.shields.io/github/stars/mmore500/teeplot) ![GitHub last commit](https://img.shields.io/github/last-commit/mmore500/teeplot)](https://github.com/mmore500/teeplot) | Workflow tool to automatically organize data visualization output |
+| [Streamlit ![GitHub Repo Stars](https://img.shields.io/github/stars/streamlit/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit) | App framework for Machine Learning and Data Science projects |
+| [Gradio ![GitHub Repo Stars](https://img.shields.io/github/stars/gradio-app/gradio) ![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio) | Create customizable UI components around machine learning models |
+| [Weights & Biases ![GitHub Repo Stars](https://img.shields.io/github/stars/wandb/wandb) ![GitHub last commit](https://img.shields.io/github/last-commit/wandb/wandb)](https://github.com/wandb/wandb) | Experiment tracking, dataset versioning, and model management |
+| [DVC ![GitHub Repo Stars](https://img.shields.io/github/stars/iterative/dvc) ![GitHub last commit](https://img.shields.io/github/last-commit/iterative/dvc)](https://github.com/iterative/dvc) | Open-source version control system for machine learning projects |
+| [Optuna ![GitHub Repo Stars](https://img.shields.io/github/stars/optuna/optuna) ![GitHub last commit](https://img.shields.io/github/last-commit/optuna/optuna)](https://github.com/optuna/optuna) | Automatic hyperparameter optimization software framework |
+| [Ray Tune ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-project/ray) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray)](https://github.com/ray-project/ray) | Scalable hyperparameter tuning library |
+| [Apache Airflow ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/airflow) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/airflow)](https://github.com/apache/airflow) | Platform to programmatically author, schedule, and monitor workflows |
+| [Prefect ![GitHub Repo Stars](https://img.shields.io/github/stars/PrefectHQ/prefect) ![GitHub last commit](https://img.shields.io/github/last-commit/PrefectHQ/prefect)](https://github.com/PrefectHQ/prefect) | Workflow management system for modern data stacks |
+| [Kedro ![GitHub Repo Stars](https://img.shields.io/github/stars/kedro-org/kedro) ![GitHub last commit](https://img.shields.io/github/last-commit/kedro-org/kedro)](https://github.com/kedro-org/kedro) | Open-source Python framework for creating reproducible, maintainable data science code |
+| [SHAP ![GitHub Repo Stars](https://img.shields.io/github/stars/slundberg/shap) ![GitHub last commit](https://img.shields.io/github/last-commit/slundberg/shap)](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
+| [LIME ![GitHub Repo Stars](https://img.shields.io/github/stars/marcotcr/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/marcotcr/lime)](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
+| [flyte ![GitHub Repo Stars](https://img.shields.io/github/stars/flyteorg/flyte) ![GitHub last commit](https://img.shields.io/github/last-commit/flyteorg/flyte)](https://github.com/flyteorg/flyte) | Workflow automation platform for machine learning |
+| [dbt ![GitHub Repo Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core) ![GitHub last commit](https://img.shields.io/github/last-commit/dbt-labs/dbt-core)](https://github.com/dbt-labs/dbt-core) | Data build tool |
+| [SHAP ![GitHub Repo Stars](https://img.shields.io/github/stars/slundberg/shap) ![GitHub last commit](https://img.shields.io/github/last-commit/slundberg/shap)](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
+| [LIME ![GitHub Repo Stars](https://img.shields.io/github/stars/marcotcr/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/marcotcr/lime)](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 
 
 ## Literature and Media
@@ -801,7 +821,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Datacast](https://jameskle.com/writes/category/Datacast)
 - [DataFramed](https://www.datacamp.com/community/podcast)
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
-- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
+- [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
 - [Learning Machines 101](https://www.learningmachines101.com/)
 - [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 - [Linear Digressions](https://lineardigressions.com/)
