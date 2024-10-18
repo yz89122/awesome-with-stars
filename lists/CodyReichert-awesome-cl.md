@@ -415,11 +415,11 @@ Data Structures
 * 👍 [str ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-str) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-str)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200].
 * 👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL][8].
   * an extension: [jfon](https://git.sr.ht/~skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
+* [sycamore ![GitHub Repo Stars](https://img.shields.io/github/stars/ndantam/sycamore) ![GitHub last commit](https://img.shields.io/github/last-commit/ndantam/sycamore)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD_3Clause][15].
+  - comparison: [FSet vs. Sycamore](https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html)
 * [trivial-extensible-sequences ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/trivial-extensible-sequences) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/trivial-extensible-sequences)](https://github.com/Shinmera/trivial-extensible-sequences) - Portability library for the extensible sequences protocol ([SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences)). [zlib][33].
 * [bst ![GitHub Repo Stars](https://img.shields.io/github/stars/glv2/bst) ![GitHub last commit](https://img.shields.io/github/last-commit/glv2/bst)](https://github.com/glv2/bst) - Binary Search Tree. [GPL3][2].
 * [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT][200].
-* [sycamore ![GitHub Repo Stars](https://img.shields.io/github/stars/ndantam/sycamore) ![GitHub last commit](https://img.shields.io/github/last-commit/ndantam/sycamore)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD_3Clause][15].
-* [genhash ![GitHub Repo Stars](https://img.shields.io/github/stars/pnathan/genhash) ![GitHub last commit](https://img.shields.io/github/last-commit/pnathan/genhash)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
 * [cl-ctrie ![GitHub Repo Stars](https://img.shields.io/github/stars/danlentz/cl-ctrie) ![GitHub last commit](https://img.shields.io/github/last-commit/danlentz/cl-ctrie)](https://github.com/danlentz/cl-ctrie) -
 lock-free, concurrent, key/value index with efficient memory-mapped persistence and fast transient storage models. [MIT][200].
 * [cl-data-structures ![GitHub Repo Stars](https://img.shields.io/github/stars/sirherrbatka/cl-data-structures) ![GitHub last commit](https://img.shields.io/github/last-commit/sirherrbatka/cl-data-structures)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD][15].
@@ -682,18 +682,19 @@ JSON
   * it doesn't crash on invalid input (jsown), doesn't choke on large datasets (Jonathan), and more.
   * v1.0 released in the Quicklisp dist of February, 2023.
   * "I believe jzon to be the superior choice and hope for it to become the new, true de-facto library in the world of JSON-in-CL once and for all."
-* [jonathan ![GitHub Repo Stars](https://img.shields.io/github/stars/Rudolph-Miller/jonathan) ![GitHub last commit](https://img.shields.io/github/last-commit/Rudolph-Miller/jonathan)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT][200].
-* [cl-json ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplispers/cl-json) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/cl-json)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT][14].
-* [jsown ![GitHub Repo Stars](https://img.shields.io/github/stars/madnificent/jsown) ![GitHub last commit](https://img.shields.io/github/last-commit/madnificent/jsown)](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
 * [shasht ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/shasht) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/shasht)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT][14].
   - " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Crolleton.
+* [cl-json ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplispers/cl-json) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/cl-json)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT][14].
+  * "cl-json and yason are still the work horses if you need fine control, but speed is not their forte." @sabracrolleton
 
-See this [extensive comparison](https://sabracrolleton.github.io/json-review) of JSON libraries.
+See this [extensive comparison](https://sabracrolleton.github.io/json-review) of many more JSON libraries.
 
 JSON tools:
 
 * [NJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/atlas-engineer/njson) ![GitHub last commit](https://img.shields.io/github/last-commit/atlas-engineer/njson)](https://github.com/atlas-engineer/njson) - Parser-agnostic JSON indexing (with JSON Pointer support), destructuring, and validation framework. [BSD][15].
 * [json-mop ![GitHub Repo Stars](https://img.shields.io/github/stars/gschjetne/json-mop) ![GitHub last commit](https://img.shields.io/github/last-commit/gschjetne/json-mop)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT][200].
+  * depends on YASON
+  * for JSON libraries that don't do it natively (jzon, shasht and cl-json are able to *encode* CLOS objects to JSON out of the box, and cl-json has the ability to *decode* JSON objects into a "fluid-class" CLOS object.)
 * [cl-json-pointer ![GitHub Repo Stars](https://img.shields.io/github/stars/y2q-actionman/cl-json-pointer) ![GitHub last commit](https://img.shields.io/github/last-commit/y2q-actionman/cl-json-pointer)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT][200].
 * [cl-jwk ![GitHub Repo Stars](https://img.shields.io/github/stars/dnaeon/cl-jwk) ![GitHub last commit](https://img.shields.io/github/last-commit/dnaeon/cl-jwk)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 
@@ -739,16 +740,12 @@ A large list of portability layers is collected here: [portability.cl/](https://
 Changing the syntax
 -------------------
 
-* [cl21 ![GitHub Repo Stars](https://img.shields.io/github/stars/cl21/cl21) ![GitHub last commit](https://img.shields.io/github/last-commit/cl21/cl21)](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14].
-* [clamp ![GitHub Repo Stars](https://img.shields.io/github/stars/malisper/Clamp) ![GitHub last commit](https://img.shields.io/github/last-commit/malisper/Clamp)](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0][51].
-  * also [arc-compat ![GitHub Repo Stars](https://img.shields.io/github/stars/g000001/arc-compat) ![GitHub last commit](https://img.shields.io/github/last-commit/g000001/arc-compat)](https://github.com/g000001/arc-compat) -  Arc compatible package. Perl Foundation's Artistic Licence 2.0.
-* [cl-syntax ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/cl-syntax) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/cl-syntax)](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8].
-* [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. Public domain.
 * [cl-annot ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/cl-annot) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/cl-annot)](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL][8].
   * [cl-annot-revisit ![GitHub Repo Stars](https://img.shields.io/github/stars/y2q-actionman/cl-annot-revisit) ![GitHub last commit](https://img.shields.io/github/last-commit/y2q-actionman/cl-annot-revisit)](https://github.com/y2q-actionman/cl-annot-revisit/) -  re-implementation of cl-annot. WTFPL.
-* [cl-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/reader) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/reader)](https://github.com/digikar99/reader) - A utility library
-intended at providing reader macros for lambdas, mapping, accessors,
-hash-tables and hash-sets. [MIT][200].
+* [cl-syntax ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/cl-syntax) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/cl-syntax)](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8].
+* [cl-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/reader) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/reader)](https://github.com/digikar99/reader) - A utility library intended at providing reader macros for lambdas, mapping, accessors, hash-tables and hash-sets. [MIT][200].
+* [clamp ![GitHub Repo Stars](https://img.shields.io/github/stars/malisper/Clamp) ![GitHub last commit](https://img.shields.io/github/last-commit/malisper/Clamp)](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0][51].
+  * also [arc-compat ![GitHub Repo Stars](https://img.shields.io/github/stars/g000001/arc-compat) ![GitHub last commit](https://img.shields.io/github/last-commit/g000001/arc-compat)](https://github.com/g000001/arc-compat) -  Arc compatible package. Perl Foundation's Artistic Licence 2.0.
 
 For strings:
 
@@ -816,7 +813,7 @@ Lambda shorthands
 * [cl-punch ![GitHub Repo Stars](https://img.shields.io/github/stars/windymelt/cl-punch) ![GitHub last commit](https://img.shields.io/github/last-commit/windymelt/cl-punch)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT][200].
 
 
-See also CL21 and [Rutils ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/rutils) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/rutils)](https://github.com/vseloved/rutils).
+See also [Rutils ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/rutils) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/rutils)](https://github.com/vseloved/rutils).
 
 
 Non-deterministic, logic programming
@@ -923,9 +920,9 @@ Coding platforms
 Web Development
 --------
 
+* [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) - An introductory tutorial covering web server setup, routing, weblocks, templating, error handling, packaging, hot reloading, database connection, and deployment, amongst other topics in the current lisp web development ecosystem.
 * [Lisp for the Web](https://leanpub.com/lispweb) - A book that walks you through building a voting web application in three tiers.
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) - Simple tutorials using [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/cl-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/cl-redis)](https://github.com/vseloved/cl-redis), [restas ![GitHub Repo Stars](https://img.shields.io/github/stars/archimag/restas) ![GitHub last commit](https://img.shields.io/github/last-commit/archimag/restas)](https://github.com/archimag/restas), [SEXML ![GitHub Repo Stars](https://img.shields.io/github/stars/madnificent/SEXML) ![GitHub last commit](https://img.shields.io/github/last-commit/madnificent/SEXML)](https://github.com/madnificent/SEXML), [Postmodern ![GitHub Repo Stars](https://img.shields.io/github/stars/marijnh/Postmodern) ![GitHub last commit](https://img.shields.io/github/last-commit/marijnh/Postmodern)](https://github.com/marijnh/Postmodern), and more.
-* [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) - An introductory tutorial covering web server setup, routing, weblocks, templating, error handling, packaging, hot reloading, database connection, and deployment, amongst other topics in the current lisp web development ecosystem.
 
 Reference
 ---------
@@ -998,10 +995,9 @@ Library Manager
 * ⭐ [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
   * [ql-https ![GitHub Repo Stars](https://img.shields.io/github/stars/rudolfochrist/ql-https) ![GitHub last commit](https://img.shields.io/github/last-commit/rudolfochrist/ql-https)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
   * [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
-* 👍 [CLPM](https://www.clpm.dev) - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. [BSD_2Clause][17].
-  * CLPM comes as a pre-built binary, supports HTTPS by default, supports installing multiple package versions, supports versioned systems, and more.
+* 👍 (NEW! as of May, 2023) [ocicl ![GitHub Repo Stars](https://img.shields.io/github/stars/ocicl/ocicl) ![GitHub last commit](https://img.shields.io/github/last-commit/ocicl/ocicl)](https://github.com/ocicl/ocicl) - a new and experimental alternative to Quicklisp, built on tools from the world of containers. [MIT][200].
 * [Ultralisp](http://ultralisp.org/) - A Quicklisp distribution which updates every 5 minutes and to which one can add his project in one click. [BSD][15].
-* 👍[Roswell ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/roswell)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
+* [Roswell ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/roswell)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
 * [Qlot ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/qlot) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/qlot)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat][14].
   * how to [use it from the Lisp REPL ![GitHub Repo Stars](https://img.shields.io/github/stars/svetlyak40wt/qlot-without-roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/svetlyak40wt/qlot-without-roswell)](https://github.com/svetlyak40wt/qlot-without-roswell) without Roswell.
 * [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT][200].
@@ -1009,7 +1005,8 @@ Library Manager
 
 see also:
 
-* (NEW! as of May, 2023) [ocicl ![GitHub Repo Stars](https://img.shields.io/github/stars/ocicl/ocicl) ![GitHub last commit](https://img.shields.io/github/last-commit/ocicl/ocicl)](https://github.com/ocicl/ocicl) - a new and experimental alternative to Quicklisp, built on tools from the world of containers. [MIT][200].
+* [CLPM](https://www.clpm.dev) - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. [BSD_2Clause][17].
+  * CLPM comes as a pre-built binary, supports HTTPS by default, supports installing multiple package versions, supports versioned systems, and more.
 * [trivial-system-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/trivial-system-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/trivial-system-loader)](https://github.com/atgreen/trivial-system-loader) -  A system installation/loading abstraction for Common Lisp.
   * play nice with people using another library manager than Quicklisp: instead of hard-coding `(ql:quickload :mysystem)`, use `(tsl:load-system :mysystem)`. tsl:load-system will first try to use ocicl if available, then quicklisp, then plain asdf:load-system.
 
@@ -1133,10 +1130,10 @@ See OpenAPI, OData and other libraries below.
 
 ### Isomorphic web frameworks
 
-* [Weblocks (Reblocks) ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/reblocks) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/reblocks)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL][8].
-  - example code bases: [Ultralisp ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralisp/ultralisp) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralisp/ultralisp)](https://github.com/ultralisp/ultralisp/), [krasnodar ![GitHub Repo Stars](https://img.shields.io/github/stars/lct23/krasnodar) ![GitHub last commit](https://img.shields.io/github/last-commit/lct23/krasnodar)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
 * [CLOG ![GitHub Repo Stars](https://img.shields.io/github/stars/rabbibotton/clog) ![GitHub last commit](https://img.shields.io/github/last-commit/rabbibotton/clog)](https://github.com/rabbibotton/clog) - The Common Lisp Omnificent GUI. Uses web technology to produce graphical user interfaces for applications locally or remotely. [BSD_3Clause][15].
   - CLOG is based on the ideas of GNOGA, a framework the author wrote for Ada and used in commercial production code since 2013.
+* [Weblocks (Reblocks) ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/reblocks) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/reblocks)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL][8].
+  - example code bases: [Ultralisp ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralisp/ultralisp) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralisp/ultralisp)](https://github.com/ultralisp/ultralisp/), [krasnodar ![GitHub Repo Stars](https://img.shields.io/github/stars/lct23/krasnodar) ![GitHub last commit](https://img.shields.io/github/last-commit/lct23/krasnodar)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
 * [Interactive SSR ![GitHub Repo Stars](https://img.shields.io/github/stars/interactive-ssr/client) ![GitHub last commit](https://img.shields.io/github/last-commit/interactive-ssr/client)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
   - it is not unlike Phoenix LiveView or Hotwire.
 
@@ -1457,13 +1454,10 @@ Actors pattern
 --------------
 
 * 👍 [Sento ![GitHub Repo Stars](https://img.shields.io/github/stars/mdbergmann/cl-gserver) ![GitHub last commit](https://img.shields.io/github/last-commit/mdbergmann/cl-gserver)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2][89].
-* [erlangen ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneia/erlangen) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneia/erlangen)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3][2].
-* [Actors ![GitHub Repo Stars](https://img.shields.io/github/stars/aarvid/Actors) ![GitHub last commit](https://img.shields.io/github/last-commit/aarvid/Actors)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
-* [common-lisp-actors ![GitHub Repo Stars](https://img.shields.io/github/stars/naveensundarg/Common-Lisp-Actors) ![GitHub last commit](https://img.shields.io/github/last-commit/naveensundarg/Common-Lisp-Actors)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD_2Clause][17].
-* [memento-mori ![GitHub Repo Stars](https://img.shields.io/github/stars/zkat/memento-mori) ![GitHub last commit](https://img.shields.io/github/last-commit/zkat/memento-mori)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT][200].
 
 See also:
 
+* [Actors ![GitHub Repo Stars](https://img.shields.io/github/stars/aarvid/Actors) ![GitHub last commit](https://img.shields.io/github/last-commit/aarvid/Actors)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
 * [lisp-actors ![GitHub Repo Stars](https://img.shields.io/github/stars/dbmcclain/Lisp-Actors) ![GitHub last commit](https://img.shields.io/github/last-commit/dbmcclain/Lisp-Actors)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
   * it was part of the [Emotiq blockchain ![GitHub Repo Stars](https://img.shields.io/github/stars/emotiq/emotiq) ![GitHub last commit](https://img.shields.io/github/last-commit/emotiq/emotiq)](https://github.com/emotiq/emotiq/blob/dev/src/test/blockchain-test.lisp) (a discontinued project)
   * does remoting, includes a threading abstraction layer library similar to Bordeaux-Threads.
