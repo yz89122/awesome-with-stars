@@ -380,7 +380,7 @@ Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto ![GitHub Re
 
 - Turbo mode – 80% faster ZSH startup! for example: instead of 200 ms, it'll be 40 ms
 - Completion management (selectively disable and enable completions)
-- Snippets (↔ regular files downloaded via-URL, e.g.: scripts) and through them Oh My Zsh and Prezto plugins support (��� low overhead)
+- Snippets (↔ regular files downloaded via-URL, e.g.: scripts) and through them Oh My Zsh and Prezto plugins support (→ low overhead)
 - Annexes (↔ Zinit extensions)
 - Reports (from the plugin loads – plugins are no longer black boxes)
 - Plugin unloading (allows e.g.: dynamic theme switching)
