@@ -27,6 +27,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
 - [Markdown](#markdown)
+- [MLOps](#mlops)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
@@ -71,6 +72,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [electron ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) _(label: good-first-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [F3D ![GitHub Repo Stars](https://img.shields.io/github/stars/f3d-app/f3d) ![GitHub last commit](https://img.shields.io/github/last-commit/f3d-app/f3d)](https://github.com/f3d-app/f3d) _(label: good first issue)_ <br> Fast and minimalist 3D viewer.
 - [Godot Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/godot)](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [MiniOB ![GitHub Repo Stars](https://img.shields.io/github/stars/oceanbase/miniob) ![GitHub last commit](https://img.shields.io/github/last-commit/oceanbase/miniob)](https://github.com/oceanbase/miniob) _(label: good-first-issue)_ <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
 - [MoveIt ![GitHub Repo Stars](https://img.shields.io/github/stars/ros-planning/moveit) ![GitHub last commit](https://img.shields.io/github/last-commit/ros-planning/moveit)](https://github.com/ros-planning/moveit) _(label: good-first-issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 - [projectM ![GitHub Repo Stars](https://img.shields.io/github/stars/projectM-visualizer/projectm) ![GitHub last commit](https://img.shields.io/github/last-commit/projectM-visualizer/projectm)](https://github.com/projectM-visualizer/projectm) _(label: good-first-issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 - [Roc Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/roc-streaming/roc-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/roc-streaming/roc-toolkit)](https://github.com/roc-streaming/roc-toolkit) _(label: help-wanted)_ <br> A toolkit for real-time audio streaming over the network.
@@ -213,7 +215,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte)](https://github.com/sveltejs/svelte) _(label: good-first-issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 - [swag-for-dev ![GitHub Repo Stars](https://img.shields.io/github/stars/swapagarwal/swag-for-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/swapagarwal/swag-for-dev)](https://github.com/swapagarwal/swag-for-dev) _(label: good-first-issue)_ <br> Swag opportunities for developers.
 - [Tessel 2 CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/tessel/t2-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tessel/t2-cli)](https://github.com/tessel/t2-cli) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
-- [Time to Leave ![GitHub Repo Stars](https://img.shields.io/github/stars/thamara/time-to-leave) ![GitHub last commit](https://img.shields.io/github/last-commit/thamara/time-to-leave)](https://github.com/thamara/time-to-leave) _(label: good-first-issue)_ <br> Working hours time tracker app based on Electron and Javascript.
+- [Time to Leave ![GitHub Repo Stars](https://img.shields.io/github/stars/thamara/time-to-leave) ![GitHub last commit](https://img.shields.io/github/last-commit/thamara/time-to-leave)](https://github.com/thamara/time-to-leave) _(label: good first issue)_ <br> Working hours time tracker app based on Electron and Javascript.
 - [Vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) _(label: good-first-issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Video Hub App ![GitHub Repo Stars](https://img.shields.io/github/stars/whyboris/Video-Hub-App) ![GitHub last commit](https://img.shields.io/github/last-commit/whyboris/Video-Hub-App)](https://github.com/whyboris/Video-Hub-App) _(label: good-first-issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js ![GitHub Repo Stars](https://img.shields.io/github/stars/videojs/video.js) ![GitHub last commit](https://img.shields.io/github/last-commit/videojs/video.js)](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
@@ -227,6 +229,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Julia
 
+- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good-first-issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
 - [Julia Language: Good first issue ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good-first-issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Help wanted ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
@@ -244,6 +247,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Markdown
 
 - [tldr-pages ![GitHub Repo Stars](https://img.shields.io/github/stars/tldr-pages/tldr) ![GitHub last commit](https://img.shields.io/github/last-commit/tldr-pages/tldr)](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
+
+## MLOps
+
+- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 
 ## Perl
 
@@ -308,6 +315,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [scikit-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn/scikit-learn)](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy ![GitHub Repo Stars](https://img.shields.io/github/stars/scrapy/scrapy) ![GitHub last commit](https://img.shields.io/github/last-commit/scrapy/scrapy)](https://github.com/scrapy/scrapy) _(label: good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
 - [Sorting-Algorithms-Visualizer ![GitHub Repo Stars](https://img.shields.io/github/stars/LucasPilla/Sorting-Algorithms-Visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/LucasPilla/Sorting-Algorithms-Visualizer)](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good-first-issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
+- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 - [SymPy ![GitHub Repo Stars](https://img.shields.io/github/stars/sympy/sympy) ![GitHub last commit](https://img.shields.io/github/last-commit/sympy/sympy)](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [tree-sitter-legesher-python ![GitHub Repo Stars](https://img.shields.io/github/stars/legesher/tree-sitter-legesher-python) ![GitHub last commit](https://img.shields.io/github/last-commit/legesher/tree-sitter-legesher-python)](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
 - [wemake-python-styleguide ![GitHub Repo Stars](https://img.shields.io/github/stars/wemake-services/wemake-python-styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/wemake-services/wemake-python-styleguide)](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
@@ -344,6 +352,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Rust-Clippy ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/rust-clippy) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/rust-clippy)](https://github.com/rust-lang/rust-clippy) _(label: good-first-issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang-nursery/rustfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang-nursery/rustfmt)](https://github.com/rust-lang-nursery/rustfmt) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Servo ![GitHub Repo Stars](https://img.shields.io/github/stars/servo/servo) ![GitHub last commit](https://img.shields.io/github/last-commit/servo/servo)](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
+- [Sniffnet ![GitHub Repo Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) ![GitHub last commit](https://img.shields.io/github/last-commit/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet) _(label: good-first-issue)_ <br> Application to comfortably monitor network traffic.
 - [TiKV ![GitHub Repo Stars](https://img.shields.io/github/stars/tikv/tikv) ![GitHub last commit](https://img.shields.io/github/last-commit/tikv/tikv)](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
 
@@ -396,7 +405,7 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://github.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>Thamara Andrade</b></sub></a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/MixeroTN"><img src="https://avatars.githubusercontent.com/u/40803091" width="60px;" alt=""/><br/><sub><b>Michał Gołkowski</b></sub></a></td></tr></table>
 
 ## License
 

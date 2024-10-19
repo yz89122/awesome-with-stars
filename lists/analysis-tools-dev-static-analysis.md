@@ -2348,7 +2348,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 ## More Collections
 
-- [Clean code linters ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/clean-code-linters) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/clean-code-linters)](https://github.com/collections/clean-code-linters) ��� A collection of linters in github collections
+- [Clean code linters ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/clean-code-linters) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/clean-code-linters)](https://github.com/collections/clean-code-linters) — A collection of linters in github collections
 - [Code Quality Checker Tools For PHP Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/code-quality-in-php) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/code-quality-in-php)](https://github.com/collections/code-quality-in-php) — A collection of PHP linters in github collections
 - [go-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/dominikh/go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikh/go-tools)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 - [linters ![GitHub Repo Stars](https://img.shields.io/github/stars/mcandre/linters) ![GitHub last commit](https://img.shields.io/github/last-commit/mcandre/linters)](https://github.com/mcandre/linters) — An introduction to static code analysis
