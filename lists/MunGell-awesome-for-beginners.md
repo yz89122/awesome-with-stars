@@ -1,4 +1,4 @@
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First Pull Request Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
@@ -97,6 +97,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [containerd ![GitHub Repo Stars](https://img.shields.io/github/stars/containerd/containerd) ![GitHub last commit](https://img.shields.io/github/last-commit/containerd/containerd)](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/cli)](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
+- [Dragonfly ![GitHub Repo Stars](https://img.shields.io/github/stars/dragonflyoss/Dragonfly2) ![GitHub last commit](https://img.shields.io/github/last-commit/dragonflyoss/Dragonfly2)](https://github.com/dragonflyoss/Dragonfly2) _(label: good-first-issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 - [Helm ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes/helm) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes/helm)](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
 - [httpexpect ![GitHub Repo Stars](https://img.shields.io/github/stars/gavv/httpexpect) ![GitHub last commit](https://img.shields.io/github/last-commit/gavv/httpexpect)](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Hugo ![GitHub Repo Stars](https://img.shields.io/github/stars/gohugoio/hugo) ![GitHub last commit](https://img.shields.io/github/last-commit/gohugoio/hugo)](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang

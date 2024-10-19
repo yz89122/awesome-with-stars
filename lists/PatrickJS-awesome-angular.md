@@ -996,6 +996,7 @@ become an Angular expert.
 * [ngx-ellipsis ![GitHub Repo Stars](https://img.shields.io/github/stars/lentschi/ngx-ellipsis) ![GitHub last commit](https://img.shields.io/github/last-commit/lentschi/ngx-ellipsis)](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
 * [ngx-func-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/ko1ebayev/ngx-func-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/ko1ebayev/ngx-func-pipe)](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
 * [ngx-pipes-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/SlyTed/ngx-pipes-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/SlyTed/ngx-pipes-toolkit)](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
+* [ngx-nullish ![GitHub Repo Stars](https://img.shields.io/github/stars/piecioshka/ngx-nullish) ![GitHub last commit](https://img.shields.io/github/last-commit/piecioshka/ngx-nullish)](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 
 #### Drag and Drop
 
