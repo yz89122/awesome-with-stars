@@ -220,7 +220,7 @@ More info [here](http://tensorflow.org).
 * [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
 * [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) semantic segmentation and handling the TFRecord file format.
 * [TensorFlow Android Guide](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc) - Android TensorFlow Machine Learning Example.
-* [TensorFlow Optimizations on Modern Intel�� Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
+* [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
 * [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 * [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) How Does The Machine Learning Library TensorFlow Work?
 
