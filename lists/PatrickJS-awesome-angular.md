@@ -900,6 +900,7 @@ become an Angular expert.
 * [slidecontent-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/criar-art/slidecontent-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/criar-art/slidecontent-angular)](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 * [ngx-hm-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/ZouYouShun/ngx-hm-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/ZouYouShun/ngx-hm-carousel)](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
 * [ngx-stories ![GitHub Repo Stars](https://img.shields.io/github/stars/Gauravdarkslayer/ngx-stories) ![GitHub last commit](https://img.shields.io/github/last-commit/Gauravdarkslayer/ngx-stories)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
+* [carousel-library ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/carousel-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/carousel-library)](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 
 #### Charts
 
