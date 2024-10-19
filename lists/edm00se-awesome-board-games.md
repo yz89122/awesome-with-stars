@@ -749,7 +749,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   1��4 |        14 | 60–120 Min |
+|   1–4 |        14 | 60–120 Min |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
