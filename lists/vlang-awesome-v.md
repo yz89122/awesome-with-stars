@@ -248,6 +248,7 @@
 - [vplot ![GitHub Repo Stars](https://img.shields.io/github/stars/erdetn/vplot) ![GitHub last commit](https://img.shields.io/github/last-commit/erdetn/vplot)](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vsl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vsl)](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vtl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vtl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vtl)](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
+- [NeuralNetworks-V-Module ![GitHub Repo Stars](https://img.shields.io/github/stars/Eliyaan/NeuralNetworks-V-Module) ![GitHub last commit](https://img.shields.io/github/last-commit/Eliyaan/NeuralNetworks-V-Module)](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
 ### Serial Communications
 
