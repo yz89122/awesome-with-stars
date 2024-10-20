@@ -190,7 +190,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***Synthese***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
-* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***Synthese***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
+* [Abduction���− the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***Synthese***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***Spatial Cognition***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
 
