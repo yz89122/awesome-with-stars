@@ -317,7 +317,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### Research Groups (Other)
 
-> Network-focused research centers, (reading) groups, institutes, labs – you name it ��� based outside of the USA.
+> Network-focused research centers, (reading) groups, institutes, labs – you name it – based outside of the USA.
 
 -   [Cambridge Networks Network (CNN)](http://www.cnn.group.cam.ac.uk/) - Research network on complex networks.
 -   [Centre for Business Network Analysis, University of Greenwich](http://www.gre.ac.uk/business/research/centres/cbna/home) - Focused on economic/organisational network analysis.
