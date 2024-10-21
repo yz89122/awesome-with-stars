@@ -1121,6 +1121,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
 * [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 * [Keyboard Cowboy ![GitHub Repo Stars](https://img.shields.io/github/stars/zenangst/KeyboardCowboy) ![GitHub last commit](https://img.shields.io/github/last-commit/zenangst/KeyboardCowboy)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
+* [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
 
 ### Window Management
 
