@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) &nbsp;<sup>Shortcut URL: [`regex.cool`](https://regex.cool/)</sup>
 </div>
 
-Awesome Regex curates the best regular expression tools, tutorials, libraries, and other resources. It covers all major regex flavors, and currently includes especially deep coverage of regular expressions in JavaScript.
+Awesome Regex curates the best regular expression tools, tutorials, libraries, and other resources, covering all major regex flavors.
 
 > Regular expressions (regex or regexp) are a powerful and concise way to search, parse, and process text. They're built into many programming languages, text editors, IDEs, database engines, word processors, and other tools.
 
@@ -142,7 +142,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 ### Traditional
 
 - [Regular-Expressions.info](https://www.regular-expressions.info/) - Covers numerous regex flavors.
-- [The Modern JavaScript Tutorial: Regular expressions](https://javascript.info/regular-expressions) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/javascript-tutorial/en.javascript.info) ![GitHub last commit](https://img.shields.io/github/last-commit/javascript-tutorial/en.javascript.info)](https://github.com/javascript-tutorial/en.javascript.info)] - Guide to using regexes in modern JavaScript.
+- [The Modern JavaScript Tutorial: Regular expressions](https://javascript.info/regular-expressions) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/javascript-tutorial/en.javascript.info) ![GitHub last commit](https://img.shields.io/github/last-commit/javascript-tutorial/en.javascript.info)](https://github.com/javascript-tutorial/en.javascript.info)] - Guide to using regexes in JavaScript.
   - Languages: 🇺🇸, 🇪🇸, 🇫🇷, 🇮🇹, 🇯🇵, 🇷🇺, 🇺🇦, 🇨🇳 (partial for [others](https://javascript.info/translate)).
 
 <details>
@@ -250,7 +250,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 - [Performance of Regular Expressions](https://medium.com/textmaster-engineering/performance-of-regular-expressions-81371f569698) - On backtracking performance, with detailed examples.
 </details>
 
-### Regex engine optimizations
+### Regex engine optimization
 
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) - On non-backtracking engines. A [follow up](https://swtch.com/~rsc/regexp/regexp3.html) includes comparisons of RE2 and PCRE performance.
 - [Regular Expression Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/) and [.NET 5](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/) - Includes detailed explanations of performance optimizations.
@@ -290,7 +290,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 ### Alternative regex builders and engines
 
-- [regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) - Context-aware regex template tag with advanced features and best practices built-in.
+- [regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex)](https://github.com/slevithan/regex) - Regex template tag for readable, high-performance, native JS regexes.
 - [XRegExp ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/xregexp) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/xregexp)](https://github.com/slevithan/xregexp) \[[*home*](https://xregexp.com/)] - Extended regex syntax, flags, and utils; useful for backcompat.
 - [incr-regex-package ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/incr-regex-package) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/incr-regex-package)](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput ![GitHub Repo Stars](https://img.shields.io/github/stars/nurulc/react-rxinput) ![GitHub last commit](https://img.shields.io/github/last-commit/nurulc/react-rxinput)](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
 - [node-re2 ![GitHub Repo Stars](https://img.shields.io/github/stars/uhop/node-re2) ![GitHub last commit](https://img.shields.io/github/last-commit/uhop/node-re2)](https://github.com/uhop/node-re2) - Bindings for RE2, a non-backtracking engine.
@@ -304,7 +304,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 ### Regex processors
 
-- AST builders: [regexp-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitrySoshnikov/regexp-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitrySoshnikov/regexp-tree)](https://github.com/DmitrySoshnikov/regexp-tree) (includes optimizer, etc.), [regexpp ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint-community/regexpp) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint-community/regexpp)](https://github.com/eslint-community/regexpp) (used by ESLint), [regjsparser ![GitHub Repo Stars](https://img.shields.io/github/stars/jviereck/regjsparser) ![GitHub last commit](https://img.shields.io/github/last-commit/jviereck/regjsparser)](https://github.com/jviereck/regjsparser)/[regjsgen ![GitHub Repo Stars](https://img.shields.io/github/stars/bnjmnt4n/regjsgen) ![GitHub last commit](https://img.shields.io/github/last-commit/bnjmnt4n/regjsgen)](https://github.com/bnjmnt4n/regjsgen).
+- AST builders: [regexpp ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint-community/regexpp) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint-community/regexpp)](https://github.com/eslint-community/regexpp) (used by ESLint), [regexp-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitrySoshnikov/regexp-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitrySoshnikov/regexp-tree)](https://github.com/DmitrySoshnikov/regexp-tree) (includes optimizer, etc.), [regjsparser ![GitHub Repo Stars](https://img.shields.io/github/stars/jviereck/regjsparser) ![GitHub last commit](https://img.shields.io/github/last-commit/jviereck/regjsparser)](https://github.com/jviereck/regjsparser)/[regjsgen ![GitHub Repo Stars](https://img.shields.io/github/stars/bnjmnt4n/regjsgen) ![GitHub last commit](https://img.shields.io/github/last-commit/bnjmnt4n/regjsgen)](https://github.com/bnjmnt4n/regjsgen).
   - [AST Explorer: RegExp](https://astexplorer.net/#/gist/56d33dc28d07c7f57bdf5ca0f4061320/c6b67a829334151af01ba55960c653e4462df437) - View ASTs generated by regexp-tree, regexpp, and regjsparser.
   - [regexp-ast-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/RunDevelopment/regexp-ast-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/RunDevelopment/regexp-ast-analysis)](https://github.com/RunDevelopment/regexp-ast-analysis) \[[*docs*](https://rundevelopment.github.io/regexp-ast-analysis/docs/latest/)] - Analyze AST nodes produced by regexpp.
 - Highlight regex syntax: [Regex Colorizer ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/regex-colorizer) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/regex-colorizer)](https://github.com/slevithan/regex-colorizer) \[[*home*](https://slevithan.github.io/regex-colorizer/demo/)], [CodeMirror PCRE mode ![GitHub Repo Stars](https://img.shields.io/github/stars/xavierog/codemirror-mode-pcre) ![GitHub last commit](https://img.shields.io/github/last-commit/xavierog/codemirror-mode-pcre)](https://github.com/xavierog/codemirror-mode-pcre).
