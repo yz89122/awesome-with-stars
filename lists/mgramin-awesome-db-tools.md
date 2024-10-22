@@ -217,6 +217,7 @@ Building API for your Data
 - [restSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/restsql/restsql) ![GitHub last commit](https://img.shields.io/github/last-commit/restsql/restsql)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 - [resquel ![GitHub Repo Stars](https://img.shields.io/github/stars/formio/resquel) ![GitHub last commit](https://img.shields.io/github/last-commit/formio/resquel)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sandman2 ![GitHub Repo Stars](https://img.shields.io/github/stars/jeffknupp/sandman2) ![GitHub last commit](https://img.shields.io/github/last-commit/jeffknupp/sandman2)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
+- [soul ![GitHub Repo Stars](https://img.shields.io/github/stars/thevahidal/soul) ![GitHub last commit](https://img.shields.io/github/last-commit/thevahidal/soul)](https://github.com/thevahidal/soul) - Automatic SQLite RESTful and realtime API server.
 - [VulcanSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/Canner/vulcan-sql) ![GitHub last commit](https://img.shields.io/github/last-commit/Canner/vulcan-sql)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
 
 ## Application platforms
