@@ -670,7 +670,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [HuntBugs ![GitHub Repo Stars](https://img.shields.io/github/stars/amaembo/huntbugs) ![GitHub last commit](https://img.shields.io/github/last-commit/amaembo/huntbugs)](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — Comes bundled with a lot of inspections for Java and Kotlin and includes tools for refactoring, formatting and more.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: �� Comes bundled with a lot of inspections for Java and Kotlin and includes tools for refactoring, formatting and more.
 
 - [JArchitect](https://www.jarchitect.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
