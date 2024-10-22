@@ -559,7 +559,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [SourceLevel](https://sourcelevel.io/) — Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
-  * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
+  * [zoompf.com](https://zoompf.com/) ��� Fix the performance of your web sites, detailed analysis
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1451,7 +1451,7 @@ Update Time, five active automations, webhooks.
   * [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
   * [filestack.com](https://www.filestack.com/) — File picker, transform, and deliver, free for 250 files, 500 transformations, and 3 GB bandwidth
   * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
-  * [freetools.site](https://freetools.site/) �� Free online tools. Convert or edit documents, images, audio, video, and more.
+  * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video, and more.
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
