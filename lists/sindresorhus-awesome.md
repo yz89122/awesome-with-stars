@@ -888,6 +888,7 @@
 - [Astrophotography ![GitHub Repo Stars](https://img.shields.io/github/stars/lunohodov/awesome-astrophotography) ![GitHub last commit](https://img.shields.io/github/last-commit/lunohodov/awesome-astrophotography)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC ![GitHub Repo Stars](https://img.shields.io/github/stars/dstdev/awesome-hpc) ![GitHub last commit](https://img.shields.io/github/last-commit/dstdev/awesome-hpc)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxFil/awesome-geocaching) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxFil/awesome-geocaching)](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+- [Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/awesome-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/awesome-regex)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 
 ## Related
 
