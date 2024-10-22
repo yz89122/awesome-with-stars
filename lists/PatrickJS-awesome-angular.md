@@ -64,6 +64,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Updating](#updating)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
+  * [Breadcrumbs](#breadcrumbs)
   * [Calendars](#calendars)
   * [Captcha](#captcha)
   * [Carousels](#carousels)
@@ -866,6 +867,15 @@ become an Angular expert.
 * [ngx-connection-beam ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-connection-beam) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-connection-beam)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 * [ngx-countUp ![GitHub Repo Stars](https://img.shields.io/github/stars/inorganik/ngx-countUp) ![GitHub last commit](https://img.shields.io/github/last-commit/inorganik/ngx-countUp)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 
+#### Breadcrumbs
+
+* [xng-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvunnam/xng-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvunnam/xng-breadcrumb)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [olt-ngx-breadcrumbs ![GitHub Repo Stars](https://img.shields.io/github/stars/OuterlimitsTech/olt-ngx-breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/OuterlimitsTech/olt-ngx-breadcrumbs)](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
+* [ngx-breadcrumpy ![GitHub Repo Stars](https://img.shields.io/github/stars/dirkluijk/ngx-breadcrumpy) ![GitHub last commit](https://img.shields.io/github/last-commit/dirkluijk/ngx-breadcrumpy)](https://github.com/dirkluijk/ngx-breadcrumpy) - An awesome library to easily add breadcrumbs to your Angular application.
+* [ngx-crumbs ![GitHub Repo Stars](https://img.shields.io/github/stars/henczi/ngx-crumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/henczi/ngx-crumbs)](https://github.com/henczi/ngx-crumbs) - An ultimate breadcrumbs service for Angular.
+* [breadcrumbs ![GitHub Repo Stars](https://img.shields.io/github/stars/ez-ng/breadcrumbs) ![GitHub last commit](https://img.shields.io/github/last-commit/ez-ng/breadcrumbs)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
+* [ngx-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/code-workers-io/ngx-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/code-workers-io/ngx-breadcrumb)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
+
 #### Calendars
 
 * [angular-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/mattlewis92/angular-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/mattlewis92/angular-calendar)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
@@ -1049,6 +1059,7 @@ become an Angular expert.
 * [ngx-custom-material-file-input ![GitHub Repo Stars](https://img.shields.io/github/stars/daemons88/ngx-custom-material-file-input) ![GitHub last commit](https://img.shields.io/github/last-commit/daemons88/ngx-custom-material-file-input)](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 * [ngxf-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/ZouYouShun/ngxf-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/ZouYouShun/ngxf-uploader)](https://github.com/ZouYouShun/ngxf-uploader) - File uploader for Angular 18+.
 * [ngx-dropzone-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-dropzone-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-dropzone-wrapper)](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for [Dropzone](https://www.dropzone.dev/).
+* [ngx-fileupload ![GitHub Repo Stars](https://img.shields.io/github/stars/r-hannuschka/ngx-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/r-hannuschka/ngx-fileupload)](https://github.com/r-hannuschka/ngx-fileupload) - [ngx-file-upload/core ![GitHub Repo Stars](https://img.shields.io/github/stars/r-hannuschka/ngx-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/r-hannuschka/ngx-fileupload)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/core) only contains services and classes to enable file upload with Angular. [ngx-file-upload/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/r-hannuschka/ngx-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/r-hannuschka/ngx-fileupload)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/ui) contains components and pipes to provide a UI.
 
 #### Forms
 
@@ -1472,7 +1483,6 @@ for the creation of web applications developed with Angular.
 #### Misc Components
 
 * [ngx-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
-* [xng-breadcrumb ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvunnam/xng-breadcrumb) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvunnam/xng-breadcrumb)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-portal ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-portal) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-portal)](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
 * [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
 * [rx-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
@@ -1570,6 +1580,7 @@ for the creation of web applications developed with Angular.
 * [ng-event-bus ![GitHub Repo Stars](https://img.shields.io/github/stars/cristiammercado/ng-event-bus) ![GitHub last commit](https://img.shields.io/github/last-commit/cristiammercado/ng-event-bus)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 * [audit-debounce ![GitHub Repo Stars](https://img.shields.io/github/stars/loreanvictor/audit-debounce) ![GitHub last commit](https://img.shields.io/github/last-commit/loreanvictor/audit-debounce)](https://github.com/loreanvictor/audit-debounce) - RxJS operator to debounce and audit simultaenously.
 * [rxjs-typewriter ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/rxjs-typewriter) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/rxjs-typewriter)](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
+* [ngx-safe-subscribe ![GitHub Repo Stars](https://img.shields.io/github/stars/Badisi/ngx-safe-subscribe) ![GitHub last commit](https://img.shields.io/github/last-commit/Badisi/ngx-safe-subscribe)](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 
 #### TypeScript
 
