@@ -1260,7 +1260,7 @@ Kani verifies:
 
 - [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 
-- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) ��� Scala compiler plugin for static code analysis.
+- [scapegoat ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scapegoat)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
 
 - [WartRemover](https://www.wartremover.org) — A flexible Scala code linting tool.
 
