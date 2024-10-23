@@ -143,6 +143,7 @@ Other places you can look for MicroPython Libraries:
 
 #### DNS
 
+* [aiodns ![GitHub Repo Stars](https://img.shields.io/github/stars/vshymanskyy/aiodns) ![GitHub last commit](https://img.shields.io/github/last-commit/vshymanskyy/aiodns)](https://github.com/vshymanskyy/aiodns) - A small, versatile DNS client that provides an async version of `getaddrinfo` and works with any connectivity.
 * [ICantBelieveItsNotDNS ![GitHub Repo Stars](https://img.shields.io/github/stars/yschaeff/ICantBelieveItsNotDNS) ![GitHub last commit](https://img.shields.io/github/last-commit/yschaeff/ICantBelieveItsNotDNS)](https://github.com/yschaeff/ICantBelieveItsNotDNS) - "I Can't Believe It's Not DNS!" (ICBIND) is an authoritative DNS server for the ESP8266 written in MicroPython.
 * [MicroDNSSrv ![GitHub Repo Stars](https://img.shields.io/github/stars/jczic/MicroDNSSrv) ![GitHub last commit](https://img.shields.io/github/last-commit/jczic/MicroDNSSrv)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 * [tinydns ![GitHub Repo Stars](https://img.shields.io/github/stars/belyalov/tinydns) ![GitHub last commit](https://img.shields.io/github/last-commit/belyalov/tinydns)](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
@@ -1185,6 +1186,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-extmod-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/prusnak/micropython-extmod-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/prusnak/micropython-extmod-generator)](https://github.com/prusnak/micropython-extmod-generator) - Generator for MicroPython external modules written in C.
 * [micropython-package-template ![GitHub Repo Stars](https://img.shields.io/github/stars/brainelectronics/micropython-package-template) ![GitHub last commit](https://img.shields.io/github/last-commit/brainelectronics/micropython-package-template)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
 * [micropython-usermod](https://micropython-usermod.readthedocs.io) - Online book about MicroPython external modules writen in C.
+* [wasm2mpy ![GitHub Repo Stars](https://img.shields.io/github/stars/vshymanskyy/wasm2mpy) ![GitHub last commit](https://img.shields.io/github/last-commit/vshymanskyy/wasm2mpy)](https://github.com/vshymanskyy/wasm2mpy) - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
 
 ### Debugging
 
@@ -1207,6 +1209,7 @@ Other places you can look for MicroPython Libraries:
 * [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python/MicroPython/CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
+* [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
 * [Pyboard File Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/joewez/PyboardFileManager) ![GitHub last commit](https://img.shields.io/github/last-commit/joewez/PyboardFileManager)](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.
 * [uPIDE ![GitHub Repo Stars](https://img.shields.io/github/stars/harbaum/upide) ![GitHub last commit](https://img.shields.io/github/last-commit/harbaum/upide)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 

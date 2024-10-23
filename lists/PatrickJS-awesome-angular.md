@@ -601,6 +601,7 @@ become an Angular expert.
 * [ng-http-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/mpalourdio/ng-http-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/mpalourdio/ng-http-loader)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [ngx-signalify ![GitHub Repo Stars](https://img.shields.io/github/stars/alcfeoh/ngx-signalify) ![GitHub last commit](https://img.shields.io/github/last-commit/alcfeoh/ngx-signalify)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 * [angular-odata ![GitHub Repo Stars](https://img.shields.io/github/stars/diegomvh/angular-odata) ![GitHub last commit](https://img.shields.io/github/last-commit/diegomvh/angular-odata)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
+* [ngx-http-retry ![GitHub Repo Stars](https://img.shields.io/github/stars/itpixelz/ngx-http-retry) ![GitHub last commit](https://img.shields.io/github/last-commit/itpixelz/ngx-http-retry)](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 
 #### Integrations
 
@@ -1012,6 +1013,7 @@ become an Angular expert.
 * [ngx-func-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/ko1ebayev/ngx-func-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/ko1ebayev/ngx-func-pipe)](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
 * [ngx-pipes-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/SlyTed/ngx-pipes-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/SlyTed/ngx-pipes-toolkit)](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
 * [ngx-nullish ![GitHub Repo Stars](https://img.shields.io/github/stars/piecioshka/ngx-nullish) ![GitHub last commit](https://img.shields.io/github/last-commit/piecioshka/ngx-nullish)](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
+* [ngx-interpolation ![GitHub Repo Stars](https://img.shields.io/github/stars/yassine-klilich/ngx-interpolation) ![GitHub last commit](https://img.shields.io/github/last-commit/yassine-klilich/ngx-interpolation)](https://github.com/yassine-klilich/ngx-interpolation) - An Angular lightweight library to interprate string interpolation expressions.
 
 #### Drag and Drop
 
@@ -1111,6 +1113,7 @@ become an Angular expert.
 * [olt-ngx-ui-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/OuterlimitsTech/olt-ngx-ui-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/OuterlimitsTech/olt-ngx-ui-switch)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 * [auto-complete ![GitHub Repo Stars](https://img.shields.io/github/stars/ng2-ui/auto-complete) ![GitHub last commit](https://img.shields.io/github/last-commit/ng2-ui/auto-complete)](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 * [ngx-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/pkovzz/ngx-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/pkovzz/ngx-otp-input)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
+* [ngx-show-hide-password ![GitHub Repo Stars](https://img.shields.io/github/stars/osahner/ngx-show-hide-password) ![GitHub last commit](https://img.shields.io/github/last-commit/osahner/ngx-show-hide-password)](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
 
 ##### Validation
 
