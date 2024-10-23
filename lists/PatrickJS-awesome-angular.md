@@ -676,7 +676,7 @@ become an Angular expert.
 #### Monorepos
 
 * [Nx ![GitHub Repo Stars](https://img.shields.io/github/stars/nrwl/nx) ![GitHub last commit](https://img.shields.io/github/last-commit/nrwl/nx)](https://github.com/nrwl/nx) - Nx is a build system with built-in tooling and advanced CI capabilities. It helps you maintain and scale monorepos, both locally and on CI.
-* [Turbo ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/turbo) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/turbo)](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust ��� including Turbopack and Turborepo.
+* [Turbo ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/turbo) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/turbo)](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 * [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 
 #### Security
