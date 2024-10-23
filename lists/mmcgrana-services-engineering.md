@@ -71,7 +71,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 
 * [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
 * [Agile Retrospectives: Making Good Teams Great](http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649) (Derby et al.)
-* [Better: A Surgeon��s Notes on Performance](http://www.amazon.com/dp/0312427654) (Gawande)
+* [Better: A Surgeon’s Notes on Performance](http://www.amazon.com/dp/0312427654) (Gawande)
 * [The Checklist Manifesto: How to Get Things Right](http://www.amazon.com/The-Checklist-Manifesto-ebook/dp/B0030V0PEW) (Gawande)
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 * [Resilience Engineering in Practice](http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/) (Hollnagel et al.)
