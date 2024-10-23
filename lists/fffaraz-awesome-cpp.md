@@ -416,7 +416,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
 * [ClickHouse ![GitHub Repo Stars](https://img.shields.io/github/stars/ClickHouse/clickhouse-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ClickHouse/clickhouse-cpp)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. [Apache2]
-* [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. [MIT]
+* [CrossDB ![GitHub Repo Stars](https://img.shields.io/github/stars/crossdb-org/crossdb) ![GitHub last commit](https://img.shields.io/github/last-commit/crossdb-org/crossdb)](https://github.com/crossdb-org/crossdb) - Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. [MPL-2.0] [website](https://crossdb.org/)
+* [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. [MIT] [website](https://duckdb.org/)
 * [hiberlite ![GitHub Repo Stars](https://img.shields.io/github/stars/paulftw/hiberlite) ![GitHub last commit](https://img.shields.io/github/last-commit/paulftw/hiberlite)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/hiredis) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/hiredis)](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [Infinity ![GitHub Repo Stars](https://img.shields.io/github/stars/infiniflow/infinity) ![GitHub last commit](https://img.shields.io/github/last-commit/infiniflow/infinity)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. [Apache2]
