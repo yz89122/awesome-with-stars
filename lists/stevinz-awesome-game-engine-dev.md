@@ -267,7 +267,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: App Framework
     - 🎉 [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
     - 🎉 [MiniFB ![GitHub Repo Stars](https://img.shields.io/github/stars/emoon/minifb) ![GitHub last commit](https://img.shields.io/github/last-commit/emoon/minifb)](https://github.com/emoon/minifb) - Creates a cross-platform frame buffer for drawing pixels.
-    - ��� [SDL ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
+    - 🎉 [SDL ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
     - 🎉 [Sokol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol) 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
 - C: Audio
     - ⭐ [Miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/miniaudio)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
