@@ -376,7 +376,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tavily AI](https://tavily.com/) - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
   * [Zuplo](https://zuplo.com) - Free API Management platform to design, build, and deploy APIs to the Edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[���️ Back to Top](#table-of-contents)**
 
 ## Artifact Repos
 
@@ -1924,7 +1924,7 @@ Update Time, five active automations, webhooks.
 
 ## Remote Desktop Tools
 
-  * [Getscreen.me](https://getscreen.me) ��  Free for 2 devices, no limits on the number and duration of sessions
+  * [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!

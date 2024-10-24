@@ -457,7 +457,7 @@ This list is a collection of the best Deno modules and resources.
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 - [《Deno进阶开发笔记》 ![GitHub Repo Stars](https://img.shields.io/github/stars/chenshenhai/deno_note) ![GitHub last commit](https://img.shields.io/github/last-commit/chenshenhai/deno_note)](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册 ![GitHub Repo Stars](https://img.shields.io/github/stars/Nugine/deno-manual-cn) ![GitHub last commit](https://img.shields.io/github/last-commit/Nugine/deno-manual-cn)](https://github.com/Nugine/deno-manual-cn/)
-- [Deno ���文开发者社区](https://deno.js.cn)
+- [Deno 中文开发者社区](https://deno.js.cn)
 - [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
