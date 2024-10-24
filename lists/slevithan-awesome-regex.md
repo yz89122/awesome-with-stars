@@ -157,7 +157,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 ### With interactive exercises
 
 - [RegexLearn](https://regexlearn.com/) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/aykutkardas/regexlearn.com) ![GitHub last commit](https://img.shields.io/github/last-commit/aykutkardas/regexlearn.com)](https://github.com/aykutkardas/regexlearn.com)] - Interactive tutorial and practice problems.
-  - Languages: 🇺🇸, 🇹🇷, 🇷🇺, 🇪���, 🇨🇳, 🇩🇪, 🇺🇦, 🇫🇷, 🇵🇱, 🇰🇷, 🇧🇷, 🇨🇿, 🇬🇪.
+  - Languages: 🇺🇸, 🇹🇷, 🇷🇺, 🇪🇸, 🇨🇳, 🇩🇪, 🇺🇦, 🇫🇷, 🇵🇱, 🇰🇷, 🇧🇷, 🇨🇿, 🇬🇪.
 - [RegexOne](https://regexone.com/) - Interactive tutorial and practice problems.
 
 ### Videos
