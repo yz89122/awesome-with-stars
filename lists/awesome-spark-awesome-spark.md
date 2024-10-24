@@ -13,13 +13,12 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Kotlin for Apache Spark ![GitHub Repo Stars](https://img.shields.io/github/stars/Kotlin/kotlin-spark-api) ![GitHub last commit](https://img.shields.io/github/last-commit/Kotlin/kotlin-spark-api)](https://github.com/Kotlin/kotlin-spark-api) <img src="https://img.shields.io/github/last-commit/Kotlin/kotlin-spark-api.svg"> - Kotlin API bindings and extensions.
-* [Mobius ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/Mobius) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/Mobius)](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
 * [.NET for Apache Spark ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/spark)](https://github.com/dotnet/spark) <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
 * [sparklyr ![GitHub Repo Stars](https://img.shields.io/github/stars/rstudio/sparklyr) ![GitHub last commit](https://img.shields.io/github/last-commit/rstudio/sparklyr)](https://github.com/rstudio/sparklyr) <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr` ![GitHub Repo Stars](https://img.shields.io/github/stars/hadley/dplyr) ![GitHub last commit](https://img.shields.io/github/last-commit/hadley/dplyr)](https://github.com/hadley/dplyr).
 * [sparkle ![GitHub Repo Stars](https://img.shields.io/github/stars/tweag/sparkle) ![GitHub last commit](https://img.shields.io/github/last-commit/tweag/sparkle)](https://github.com/tweag/sparkle) <img src="https://img.shields.io/github/last-commit/tweag/sparkle.svg"> - Haskell on Apache Spark.
 * [spark-connect-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/sjrusso8/spark-connect-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
 * [spark-connect-go ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark-connect-go) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark-connect-go)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
-* [spark-connect-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/mdrakiburrahman/spark-connect-csharp) ![GitHub last commit](https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
+* [spark-connect-csharp ![GitHub Repo Stars](https://img.shields.io/github/stars/mdrakiburrahman/spark-connect-csharp) ![GitHub last commit](https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
 
 ### Notebooks and IDEs
 * [almond](https://almond.sh/) <img src="https://img.shields.io/github/last-commit/almond-sh/almond.svg"> - A scala kernel for [Jupyter](https://jupyter.org/).
@@ -30,8 +29,8 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### General Purpose Libraries
 
 * [itachi ![GitHub Repo Stars](https://img.shields.io/github/stars/yaooqinn/itachi) ![GitHub last commit](https://img.shields.io/github/last-commit/yaooqinn/itachi)](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
-* [spark-daria ![GitHub Repo Stars](https://img.shields.io/github/stars/mrpowers/spark-daria) ![GitHub last commit](https://img.shields.io/github/last-commit/mrpowers/spark-daria)](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
-* [quinn ![GitHub Repo Stars](https://img.shields.io/github/stars/mrpowers/quinn) ![GitHub last commit](https://img.shields.io/github/last-commit/mrpowers/quinn)](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
+* [spark-daria ![GitHub Repo Stars](https://img.shields.io/github/stars/mrpowers-io/spark-daria) ![GitHub last commit](https://img.shields.io/github/last-commit/mrpowers-io/spark-daria)](https://github.com/mrpowers-io/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
+* [quinn ![GitHub Repo Stars](https://img.shields.io/github/stars/mrpowers-io/quinn) ![GitHub last commit](https://img.shields.io/github/last-commit/mrpowers-io/quinn)](https://github.com/mrpowers-io/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers-io/quinn.svg"> - A native PySpark implementation of spark-daria.
 * [Apache DataFu ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/datafu) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/datafu)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 * [Joblib Apache Spark Backend ![GitHub Repo Stars](https://img.shields.io/github/stars/joblib/joblib-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/joblib/joblib-spark)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib` ![GitHub Repo Stars](https://img.shields.io/github/stars/joblib/joblib) ![GitHub last commit](https://img.shields.io/github/last-commit/joblib/joblib)](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
 
@@ -46,6 +45,8 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Storage
 
 * [Delta Lake ![GitHub Repo Stars](https://img.shields.io/github/stars/delta-io/delta) ![GitHub last commit](https://img.shields.io/github/last-commit/delta-io/delta)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+* [Apache Hudi ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/hudi) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/hudi)](https://github.com/apache/hudi) <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+* [Apache Iceberg ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/iceberg) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/iceberg)](https://github.com/apache/iceberg) <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
 * [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
 
 ### Bioinformatics
@@ -89,7 +90,6 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Utilities
 
 * [sparkly ![GitHub Repo Stars](https://img.shields.io/github/stars/Tubular/sparkly) ![GitHub last commit](https://img.shields.io/github/last-commit/Tubular/sparkly)](https://github.com/Tubular/sparkly) <img src="https://img.shields.io/github/last-commit/Tubular/sparkly.svg"> - Helpers & syntactic sugar for PySpark.
-* [pyspark-stubs ![GitHub Repo Stars](https://img.shields.io/github/stars/zero323/pyspark-stubs) ![GitHub last commit](https://img.shields.io/github/last-commit/zero323/pyspark-stubs)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 * [Flintrock ![GitHub Repo Stars](https://img.shields.io/github/stars/nchammas/flintrock) ![GitHub last commit](https://img.shields.io/github/last-commit/nchammas/flintrock)](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
 * [Optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/ironmussa/Optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/ironmussa/Optimus)](https://github.com/ironmussa/Optimus/) <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
 
@@ -106,11 +106,16 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Apache Beam](https://beam.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/beam.svg"> - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
 * [Koalas ![GitHub Repo Stars](https://img.shields.io/github/stars/databricks/koalas) ![GitHub last commit](https://img.shields.io/github/last-commit/databricks/koalas)](https://github.com/databricks/koalas) <img src="https://img.shields.io/github/last-commit/databricks/koalas.svg"> - Pandas DataFrame API on top of Apache Spark.
 
-### Testing
+### Data quality
 
 * [deequ ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/deequ) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/deequ)](https://github.com/awslabs/deequ) <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+* [python-deequ ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/python-deequ) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/python-deequ)](https://github.com/awslabs/python-deequ) <img src="https://img.shields.io/github/last-commit/awslabs/python-deequ.svg"> - Python API for Deequ.
+
+### Testing
+
 * [spark-testing-base ![GitHub Repo Stars](https://img.shields.io/github/stars/holdenk/spark-testing-base) ![GitHub last commit](https://img.shields.io/github/last-commit/holdenk/spark-testing-base)](https://github.com/holdenk/spark-testing-base) <img src="https://img.shields.io/github/last-commit/holdenk/spark-testing-base.svg"> - Collection of base test classes.
-* [spark-fast-tests ![GitHub Repo Stars](https://img.shields.io/github/stars/MrPowers/spark-fast-tests) ![GitHub last commit](https://img.shields.io/github/last-commit/MrPowers/spark-fast-tests)](https://github.com/MrPowers/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/MrPowers/spark-fast-tests.svg"> - A lightweight and fast testing framework.
+* [spark-fast-tests ![GitHub Repo Stars](https://img.shields.io/github/stars/mrpowers-io/spark-fast-tests) ![GitHub last commit](https://img.shields.io/github/last-commit/mrpowers-io/spark-fast-tests)](https://github.com/mrpowers-io/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-fast-tests.svg"> - A lightweight and fast testing framework.
+* [chispa ![GitHub Repo Stars](https://img.shields.io/github/stars/MrPowers/chispa) ![GitHub last commit](https://img.shields.io/github/last-commit/MrPowers/chispa)](https://github.com/MrPowers/chispa) <img src="https://img.shields.io/github/last-commit/MrPowers/chispa.svg"> - PySpark test helpers with beautiful error messages.
 
 ### Web Archives
 
