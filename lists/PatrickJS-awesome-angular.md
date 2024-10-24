@@ -1126,6 +1126,7 @@ become an Angular expert.
 * [error-tailor ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/error-tailor) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/error-tailor)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
 * [ngx-validator-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/dynimorius/ngx-validator-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/dynimorius/ngx-validator-pack)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
 to simplify usage and allow quick customization.
+* [ngx-error-msg ![GitHub Repo Stars](https://img.shields.io/github/stars/fakeJan499/ngx-error-msg) ![GitHub last commit](https://img.shields.io/github/last-commit/fakeJan499/ngx-error-msg)](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
 
 #### Icons
 
