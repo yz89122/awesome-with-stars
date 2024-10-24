@@ -848,7 +848,7 @@ Contract programming
 --------------------
 
 * [quid-pro-quo ![GitHub Repo Stars](https://img.shields.io/github/stars/sellout/quid-pro-quo) ![GitHub last commit](https://img.shields.io/github/last-commit/sellout/quid-pro-quo)](https://github.com/sellout/quid-pro-quo) - a contract
-  programming library in the style of Eiffel’s Design by Contract���™. Public domain.
+  programming library in the style of Eiffel’s Design by Contract ™. Public domain.
 
 Typing
 ------
