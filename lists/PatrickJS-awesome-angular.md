@@ -478,6 +478,7 @@ become an Angular expert.
 * [ngx-clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/anagstef/ngx-clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/anagstef/ngx-clerk)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 * [ng-supabase ![GitHub Repo Stars](https://img.shields.io/github/stars/rustygreen/ng-supabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rustygreen/ng-supabase)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 * [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
+* [appwrite ![GitHub Repo Stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
 
 #### Builders
 
@@ -941,6 +942,7 @@ become an Angular expert.
 * [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/FERNman/angular-google-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/FERNman/angular-google-charts)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [ngx-flexmonster ![GitHub Repo Stars](https://img.shields.io/github/stars/flexmonster/ngx-flexmonster) ![GitHub last commit](https://img.shields.io/github/last-commit/flexmonster/ngx-flexmonster)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
+* [ngx-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-graph)](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
 
 #### Cookies
 
