@@ -1365,7 +1365,7 @@ $ git ink
 • hbsfy ................................................. 2015-10-21
 ✓ master ................................................ 2015-10-22
 • nda-ads4 .............................................. 2015-10-22
-��� remove-equalize_content_height ........................ 2015-10-21
+• remove-equalize_content_height ........................ 2015-10-21
 • remove-exorcise ....................................... 2015-10-21
     - Need to DRY up exorcise function
     - Does not map properly when uglified
