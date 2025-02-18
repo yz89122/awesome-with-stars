@@ -553,7 +553,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [deepscan.io](https://deepscan.io) — Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
   * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
-  * [eversql.com](https://www.eversql.com/) — EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
+  * [eversql.com](https://www.eversql.com/) ��� EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
