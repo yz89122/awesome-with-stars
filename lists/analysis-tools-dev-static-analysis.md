@@ -418,7 +418,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [effective_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 
-- [lint ![GitHub Repo Stars](https://img.shields.io/github/stars/passsy/dart-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/passsy/dart-lint)](https://github.com/passsy/dart-lint) :warning: — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
+- [lint ![GitHub Repo Stars](https://img.shields.io/github/stars/passsy/dart-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/passsy/dart-lint)](https://github.com/passsy/dart-lint) — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
 
 - [Linter for dart](https://dart-lang.github.io/linter) — Style linter for Dart.
 
@@ -534,7 +534,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [goast ![GitHub Repo Stars](https://img.shields.io/github/stars/m-mizutani/goast) ![GitHub last commit](https://img.shields.io/github/last-commit/m-mizutani/goast)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
-- [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) :warning: — Checks that no globals are present.
+- [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
 - [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
@@ -1212,7 +1212,7 @@ Kani verifies:
 
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 
-- [Rudra ![GitHub Repo Stars](https://img.shields.io/github/stars/sslab-gatech/Rudra) ![GitHub last commit](https://img.shields.io/github/last-commit/sslab-gatech/Rudra)](https://github.com/sslab-gatech/Rudra) — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
+- [Rudra ![GitHub Repo Stars](https://img.shields.io/github/stars/sslab-gatech/Rudra) ![GitHub last commit](https://img.shields.io/github/last-commit/sslab-gatech/Rudra)](https://github.com/sslab-gatech/Rudra) :warning: — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
 
 - [Rust Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang-nursery/rls) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang-nursery/rls)](https://github.com/rust-lang-nursery/rls) :warning: — Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 
@@ -1438,6 +1438,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [Codety](https://www.codety.io) :copyright: — Codety Scanner is a comprehensive source code scanner that embeds 5000+ static code analysis rules, which aim to detect code issues for 20+ programming languages and IaC tools.
 
 - [Codiga](https://www.codiga.io) :copyright: — Automated Code Reviews and Technical Debt management platform that supports 12+ languages.
+
+- [Corgea](https://corgea.com/) :copyright: — Corgea is an AI-powered SAST scanner that helps developers find and fix insecure code.  It finds business logic flaws, broken authentication, API vulnerabilities, and more with little false positives. Additionally, it automatically writes security fixes for them to approve.  Corgea integrates with GitHub, GitLab, Azure DevOps, IDEs and CLI. It is free to try it.
 
 - [Corrode ![GitHub Repo Stars](https://img.shields.io/github/stars/jameysharp/corrode) ![GitHub last commit](https://img.shields.io/github/last-commit/jameysharp/corrode)](https://github.com/jameysharp/corrode) :warning: — Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors. Superseded by C2Rust.
 
@@ -1714,7 +1716,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [rust-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/Shnatsel/rust-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/Shnatsel/rust-audit)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
-- [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
+- [Twiggy](https://rustwasm.github.io/twiggy) :warning: — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 - [VMware chap ![GitHub Repo Stars](https://img.shields.io/github/stars/vmware/chap) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware/chap)](https://github.com/vmware/chap) — chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption.  It is sufficiently reliable that it can be used in automation to catch leaks before  they are committed. As an interactive tool, it helps explain memory growth,  can identify some forms of corruption, and supplements a debugger  by giving the status of various memory locations. 
 
@@ -2304,7 +2306,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>Webassembly</h2>
 
 
-- [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
+- [Twiggy](https://rustwasm.github.io/twiggy) :warning: — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 
 <a name="writing" />
