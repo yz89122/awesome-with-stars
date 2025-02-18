@@ -25,61 +25,82 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Software
 
-### Security
-- [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
-- [OWASP ZAP ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
-
-### Make your life easier
-- [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
-- [GoodLooks ![GitHub Repo Stars](https://img.shields.io/github/stars/dashcamio/goodlooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dashcamio/goodlooks)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
-- [TestingBot](https://testingbot.com) - Run automated, manual and visual tests on a wide range of browsers and devices.
-- [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
-- [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
-- [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
-- [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
-- [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
-- [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
-- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
-- [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
-- [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-- [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
-- [TestLink ![GitHub Repo Stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code) ![GitHub last commit](https://img.shields.io/github/last-commit/TestLinkOpenSourceTRMS/testlink-code)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
-- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
-- [recheck-web ![GitHub Repo Stars](https://img.shields.io/github/stars/retest/recheck-web) ![GitHub last commit](https://img.shields.io/github/last-commit/retest/recheck-web)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
-- [Kiwi TCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwitcms/Kiwi)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-- [Testomatio](https://testomat.io/) Modern TCMS allows sync of manual and automated tests in one place. Allure, TestRail, Xray alternative. FREE subscription forever is available.
-- [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-- [QA Wolf ![GitHub Repo Stars](https://img.shields.io/github/stars/qawolf/qawolf) ![GitHub last commit](https://img.shields.io/github/last-commit/qawolf/qawolf)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
-- [Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/getsynth/synth) ![GitHub last commit](https://img.shields.io/github/last-commit/getsynth/synth)](https://github.com/getsynth/synth) - Open Source test data generator.
-- [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
-- [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
-- [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
-- [DeepfakeHTTP ![GitHub Repo Stars](https://img.shields.io/github/stars/xnbox/DeepfakeHTTP) ![GitHub last commit](https://img.shields.io/github/last-commit/xnbox/DeepfakeHTTP)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
-- [Keploy ![GitHub Repo Stars](https://img.shields.io/github/stars/keploy/keploy) ![GitHub last commit](https://img.shields.io/github/last-commit/keploy/keploy)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
-- [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
-- [Touca ![GitHub Repo Stars](https://img.shields.io/github/stars/trytouca/trytouca) ![GitHub last commit](https://img.shields.io/github/last-commit/trytouca/trytouca)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
-- [test-each ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/test-each) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/test-each)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
-- [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
-- [RestQA ![GitHub Repo Stars](https://img.shields.io/github/stars/restqa/restqa) ![GitHub last commit](https://img.shields.io/github/last-commit/restqa/restqa)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
-- [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
-- [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
+### API Testing
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
-- [Hercules ![GitHub Repo Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules) ![GitHub last commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules)](https://github.com/test-zeus-ai/testzeus-hercules) - World's first open source end to end testing agent.
-- [Hyperbrowser](https://hyperbrowser.ai) - A platform for running and scaling headless browsers with built-in features for session recording, CAPTCHA solving, proxies, etc to easily run tests at scale.
-- [MixedVoices](https://mixedvoices.xyz) - An Open Source tool for analyzing and evaluating AI Voice agents
+- [Keploy ![GitHub Repo Stars](https://img.shields.io/github/stars/keploy/keploy) ![GitHub last commit](https://img.shields.io/github/last-commit/keploy/keploy)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+- [RestQA ![GitHub Repo Stars](https://img.shields.io/github/stars/restqa/restqa) ![GitHub last commit](https://img.shields.io/github/last-commit/restqa/restqa)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
+- [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
 
-### Web3 and Blockchain
-- [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
-- [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-- [Foundry ![GitHub Repo Stars](https://img.shields.io/github/stars/foundry-rs/foundry) ![GitHub last commit](https://img.shields.io/github/last-commit/foundry-rs/foundry)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
-- [Robot Framework Solidity Testing Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jg8481/Robot-Framework-Solidity-Testing-Toolkit)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
-- [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
-- [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+### Security Testing
+- [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
+- [OWASP ZAP ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 
-### Other
-- [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
-- [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
+### Service Virtualization
+- [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
+- [DeepfakeHTTP ![GitHub Repo Stars](https://img.shields.io/github/stars/xnbox/DeepfakeHTTP) ![GitHub last commit](https://img.shields.io/github/last-commit/xnbox/DeepfakeHTTP)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+- [WireMock ![GitHub Repo Stars](https://img.shields.io/github/stars/wiremock/wiremock) ![GitHub last commit](https://img.shields.io/github/last-commit/wiremock/wiremock)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+
+### Visual Testing
+- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
+- [GoodLooks ![GitHub Repo Stars](https://img.shields.io/github/stars/dashcamio/goodlooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dashcamio/goodlooks)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
+- [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
+- [recheck-web ![GitHub Repo Stars](https://img.shields.io/github/stars/retest/recheck-web) ![GitHub last commit](https://img.shields.io/github/last-commit/retest/recheck-web)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
+- [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
+
+### UI & End-to-End Testing
+- [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
+- [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
+- [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
+- [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
+- [Hercules ![GitHub Repo Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules) ![GitHub last commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+- [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
+- [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
+- [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+- [QA Wolf ![GitHub Repo Stars](https://img.shields.io/github/stars/qawolf/qawolf) ![GitHub last commit](https://img.shields.io/github/last-commit/qawolf/qawolf)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+
+### Test Management
+- [Kiwi TCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwitcms/Kiwi)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+- [TestLink ![GitHub Repo Stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code) ![GitHub last commit](https://img.shields.io/github/last-commit/TestLinkOpenSourceTRMS/testlink-code)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
+- [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
+
+### Test Data Management
+- [Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/getsynth/synth) ![GitHub last commit](https://img.shields.io/github/last-commit/getsynth/synth)](https://github.com/getsynth/synth) - Open-source test data generator.
+- [Touca ![GitHub Repo Stars](https://img.shields.io/github/stars/trytouca/trytouca) ![GitHub last commit](https://img.shields.io/github/last-commit/trytouca/trytouca)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+- [test-each ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/test-each) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/test-each)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
+
+### Browser Extensions & Utilities
+- [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
+- [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
+- [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
+- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
+- [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
+- [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
+
+### Accessibility & Usability Testing
+- [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
+
+### Performance & Load Testing
+- [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+
+### Web3 & Blockchain Testing
+- [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
+- [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
+- [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
+- [Foundry ![GitHub Repo Stars](https://img.shields.io/github/stars/foundry-rs/foundry) ![GitHub last commit](https://img.shields.io/github/last-commit/foundry-rs/foundry)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
+- [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
+- [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
+- [Robot Framework Solidity Testing Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jg8481/Robot-Framework-Solidity-Testing-Toolkit)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
+
+### Test Automation Frameworks
+- [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
+
+### Screen Recording & Session Replays
+- [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
+- [Replayable](https://replayable.io) - Desktop dashcam for capturing manual testing sessions.
+
+### Mind Mapping & Documentation
+- [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.
+
 
 ## Books
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
