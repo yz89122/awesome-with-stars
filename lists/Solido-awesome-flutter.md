@@ -187,7 +187,7 @@ Meteo
 
 #### Drawers
 
-- [Hidden Drawer Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/RafaelBarbosatec/hidden_drawer_menu) ![GitHub last commit](https://img.shields.io/github/last-commit/RafaelBarbosatec/hidden_drawer_menu)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [351⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
+- [Hidden Drawer Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/RafaelBarbosatec/hidden_drawer_menu) ![GitHub last commit](https://img.shields.io/github/last-commit/RafaelBarbosatec/hidden_drawer_menu)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [351��] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Flutter Inner Drawer ![GitHub Repo Stars](https://img.shields.io/github/stars/Dn-a/flutter_inner_drawer) ![GitHub last commit](https://img.shields.io/github/last-commit/Dn-a/flutter_inner_drawer)](https://github.com/Dn-a/flutter_inner_drawer) [513⭐] - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 #### Bottom bars
