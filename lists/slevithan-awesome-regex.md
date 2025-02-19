@@ -115,7 +115,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 *Visualize how your regular expressions are structured or operate.*
 
 - [Regex Vis](https://regex-vis.com/) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/Bowen7/regex-vis) ![GitHub last commit](https://img.shields.io/github/last-commit/Bowen7/regex-vis)](https://github.com/Bowen7/regex-vis)] - Create railroad diagrams, with visual editor. Flavor: JavaScript.
-  - Languages: 🇺🇸, 🇨🇳.
+  - Languages: 🇺🇸, 🇨����.
 - [Regulex](https://jex.im/regulex/) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/CJex/regulex) ![GitHub last commit](https://img.shields.io/github/last-commit/CJex/regulex)](https://github.com/CJex/regulex)] - Create railroad diagrams. Flavor: JavaScript.
 - [Nodexr](https://www.nodexr.net/) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/Jcparkyn/nodexr) ![GitHub last commit](https://img.shields.io/github/last-commit/Jcparkyn/nodexr)](https://github.com/Jcparkyn/nodexr)] - Graphical editor with visual hierarchy. Flavor: .NET.
 
