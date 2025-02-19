@@ -3057,7 +3057,7 @@ _Full stack web frameworks._
 - [rye ![GitHub Repo Stars](https://img.shields.io/github/stars/InVisionApp/rye) ![GitHub last commit](https://img.shields.io/github/last-commit/InVisionApp/rye)](https://github.com/InVisionApp/rye) - Tiny Go middleware library (with canned Middlewares) that supports JWT, CORS, Statsd, and Go 1.7 context.
 - [stats ![GitHub Repo Stars](https://img.shields.io/github/stars/thoas/stats) ![GitHub last commit](https://img.shields.io/github/last-commit/thoas/stats)](https://github.com/thoas/stats) - Go middleware that stores various information about your web application.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ### Routers
 
