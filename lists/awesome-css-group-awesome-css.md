@@ -334,7 +334,7 @@ Here is a [CSS in JS techniques comparison ![GitHub Repo Stars](https://img.shie
 * [Una Kravets](https://twitter.com/Una) - Front-end @IBMDesign. Sassvocate, community builder, & handcrafter. STEMinist :) Open source all the things.
 * [Zoe M. Gillenwater](https://twitter.com/zomigi) - Web designer/developer specializing in CSS, RWD, UX, & accessibility.
 * [Zoltán Szőgyényi](https://twitter.com/zoltanszogyenyi) - Web developer, Co-founder at Themesberg. I'm building Glass UI.
-* [앗킨스 탭](https://twitter.com/tabatkins) - Literally Jenn Schiffer's Mom.
+* [���킨스 탭](https://twitter.com/tabatkins) - Literally Jenn Schiffer's Mom.
 
 <sub>[⇧ back to top](#contents)</sub>
 
