@@ -2113,7 +2113,7 @@ cool but WIP:
 Plotting with text:
 
 * [cl-text-plot ![GitHub Repo Stars](https://img.shields.io/github/stars/moneylobster/cl-text-plot) ![GitHub last commit](https://img.shields.io/github/last-commit/moneylobster/cl-text-plot)](https://github.com/moneylobster/cl-text-plot/) -  Plot with text in Common Lisp. No licence specified.
-* [cl-spark ![GitHub Repo Stars](https://img.shields.io/github/stars/tkych/cl-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/cl-spark)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁���▃▅▇". [MIT][200].
+* [cl-spark ![GitHub Repo Stars](https://img.shields.io/github/stars/tkych/cl-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/cl-spark)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT][200].
 
 See also the chart facilities of IUP and ltk-plotchart (GUI section).
 
