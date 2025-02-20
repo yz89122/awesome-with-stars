@@ -289,6 +289,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate ![GitHub Repo Stars](https://img.shields.io/github/stars/xtemplate/xtemplate) ![GitHub last commit](https://img.shields.io/github/last-commit/xtemplate/xtemplate)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko ![GitHub Repo Stars](https://img.shields.io/github/stars/marko-js/marko) ![GitHub last commit](https://img.shields.io/github/last-commit/marko-js/marko)](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig ![GitHub Repo Stars](https://img.shields.io/github/stars/paularmstrong/swig) ![GitHub last commit](https://img.shields.io/github/last-commit/paularmstrong/swig)](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
 
 ## Game Engines
 * [A-Frame](https://aframe.io) - Make WebVR.
