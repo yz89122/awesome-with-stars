@@ -338,7 +338,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | 🏆 |
+| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | ��� |
 | [Android Studio Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-studio-tutorial) | Great Learning | Beginner | 1 | 🏆 |
 | [Android App Development](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development ) | Great Learning | Beginner | 1.5 | 🏆 |
 | [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  🏅 |	
@@ -517,7 +517,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Apply strokes and fills in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills) | UMaine New Media | Beginner| 0.1 | 🏅 |
 | [Apply gradient in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient) | UMaine New Media | intermediate| 0.1 | 🏅 |
 | [How to make an Infographic in Illustrator 1](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1) | UMaine New Media | Beginner| 0.22 | 🏅 |
-| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | 🏅 |
+| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | ���� |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 

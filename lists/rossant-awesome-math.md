@@ -573,7 +573,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
-* �� [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
+* 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
