@@ -1052,7 +1052,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 <!--lint disable double-link -->
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 <!--lint enable double-link -->
 
