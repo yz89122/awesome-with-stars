@@ -28,7 +28,6 @@
 - [Deep Learning](#deep-learning)
 	- [PyTorch](#pytorch)
 	- [TensorFlow](#tensorflow)
-	- [MXNet](#mxnet)
  	- [JAX](#jax)
 	- [Others](#others)
 - [Automated Machine Learning](#automated-machine-learning)
@@ -156,12 +155,6 @@
 * [Elephas ![GitHub Repo Stars](https://img.shields.io/github/stars/maxpumperla/elephas) ![GitHub last commit](https://img.shields.io/github/last-commit/maxpumperla/elephas)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 * [qkeras ![GitHub Repo Stars](https://img.shields.io/github/stars/google/qkeras) ![GitHub last commit](https://img.shields.io/github/last-commit/google/qkeras)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
-### MXNet
-* [MXNet ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-mxnet) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-mxnet)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
-* [Gluon ![GitHub Repo Stars](https://img.shields.io/github/stars/gluon-api/gluon-api) ![GitHub last commit](https://img.shields.io/github/last-commit/gluon-api/gluon-api)](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
-* [Xfer ![GitHub Repo Stars](https://img.shields.io/github/stars/amzn/xfer) ![GitHub last commit](https://img.shields.io/github/last-commit/amzn/xfer)](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
-* [MXNet ![GitHub Repo Stars](https://img.shields.io/github/stars/ROCmSoftwarePlatform/mxnet) ![GitHub last commit](https://img.shields.io/github/last-commit/ROCmSoftwarePlatform/mxnet)](https://github.com/ROCmSoftwarePlatform/mxnet) - HIP Port of MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/amd_big.png" alt="Possible to run on AMD GPU">
-
 ### JAX
 * [JAX ![GitHub Repo Stars](https://img.shields.io/github/stars/google/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 * [FLAX ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flax) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flax)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
@@ -184,7 +177,6 @@
 
 ## Natural Language Processing
 * [torchtext ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/text) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/text)](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [gluon-nlp ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/gluon-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/gluon-nlp)](https://github.com/dmlc/gluon-nlp) - NLP made easy. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 * [KerasNLP ![GitHub Repo Stars](https://img.shields.io/github/stars/keras-team/keras-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras-nlp)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
 * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
 * [NLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/nltk/nltk) ![GitHub last commit](https://img.shields.io/github/last-commit/nltk/nltk)](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
@@ -209,7 +201,6 @@
 ## Computer Vision
 * [torchvision ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/vision) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/vision)](https://github.com/pytorch/vision) - Datasets, Transforms, and Models specific to Computer Vision. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [PyTorch3D ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/pytorch3d) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/pytorch3d)](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [gluon-cv ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/gluon-cv) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/gluon-cv)](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 * [KerasCV ![GitHub Repo Stars](https://img.shields.io/github/stars/keras-team/keras-cv) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras-cv)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
 * [OpenCV ![GitHub Repo Stars](https://img.shields.io/github/stars/opencv/opencv) ![GitHub last commit](https://img.shields.io/github/last-commit/opencv/opencv)](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
 * [Decord ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/decord) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/decord)](https://github.com/dmlc/decord) - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
