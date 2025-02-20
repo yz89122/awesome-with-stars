@@ -301,7 +301,7 @@ Meteo
 
 ### Analytics
 
-- [Usage ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-lang/usage) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/usage)](https://github.com/dart-lang/usage) [146⭐] - Google Analytics wrapper for command-line, web, and Flutter apps
+- [Usage ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-lang/usage) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/usage)](https://github.com/dart-lang/usage) [146��] - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/flutterfire) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/flutterfire)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 
 ### Internationalization
