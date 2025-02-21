@@ -234,6 +234,7 @@
 - [milanglacier/yarepl.nvim#aider-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/milanglacier/yarepl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/milanglacier/yarepl.nvim)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 - [Davidyz/VectorCode ![GitHub Repo Stars](https://img.shields.io/github/stars/davidyz/vectorcode) ![GitHub last commit](https://img.shields.io/github/last-commit/davidyz/vectorcode)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
 - [dlants/magenta.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dlants/magenta.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dlants/magenta.nvim)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
+- [claudius.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
 
 <!--lint disable double-link -->
 
@@ -976,6 +977,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [theKnightsOfRohan/hexer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/theKnightsOfRohan/hexer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/theKnightsOfRohan/hexer.nvim)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
 - [rachartier/tiny-glimmer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.  
 - [neanvo/buben.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neanvo/buben.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neanvo/buben.nvim)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
+- [josephburgess/nvumi ![GitHub Repo Stars](https://img.shields.io/github/stars/josephburgess/nvumi) ![GitHub last commit](https://img.shields.io/github/last-commit/josephburgess/nvumi)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 
 ### CSV Files
 
