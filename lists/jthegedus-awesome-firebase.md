@@ -166,7 +166,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [Svarog ![GitHub Repo Stars](https://img.shields.io/github/stars/dantothefuture/svarog) ![GitHub last commit](https://img.shields.io/github/last-commit/dantothefuture/svarog)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 - 🔧 [Firetable ![GitHub Repo Stars](https://img.shields.io/github/stars/AntlerVC/firetable) ![GitHub last commit](https://img.shields.io/github/last-commit/AntlerVC/firetable)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - 🔧 [VSFire ![GitHub Repo Stars](https://img.shields.io/github/stars/toba/vsfire) ![GitHub last commit](https://img.shields.io/github/last-commit/toba/vsfire)](https://github.com/toba/vsfire) - Deprecated ~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~
-- �� [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
+- 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
 - 🔧 [asdf-firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/jthegedus/asdf-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/jthegedus/asdf-firebase)](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
