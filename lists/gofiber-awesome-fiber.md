@@ -155,6 +155,7 @@ Several tools to make Fiber usage easier.
 - [tompston/gomakeme ![GitHub Repo Stars](https://img.shields.io/github/stars/tompston/gomakeme) ![GitHub last commit](https://img.shields.io/github/last-commit/tompston/gomakeme)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 - [ryanbekhen/feserve ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanbekhen/feserve) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanbekhen/feserve)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
 - [deepmap/oapi-codegen ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmap/oapi-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmap/oapi-codegen)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+- [Alibaba/opentelemetry-go-auto-instrumentation ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/opentelemetry-go-auto-instrumentation) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/opentelemetry-go-auto-instrumentation)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
 
 ## 📖 Articles
 
