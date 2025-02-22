@@ -325,7 +325,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ##### Certification
 
-* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **[Free Weekend Feb 22-23](https://certificates.dev/angular/free-weekend)** UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING. Includes all theory, coding challenges, quizzes, and even a mock exam!
+* [Certificates.dev](https://certificates.dev/angular) - **[UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING NOW LIVE](https://certificates.dev/angular/free-weekend)** Includes all theory, coding challenges, quizzes, and even a mock exam!
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
@@ -372,6 +372,7 @@ become an Angular expert.
 * [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [lowgular](https://courses.lowgular.edu.pl/) - The best courses for your career path as an Angular Frontend Developer.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
+* [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
 
 ##### On-Site Training
 
@@ -468,6 +469,7 @@ become an Angular expert.
 * [ng-flexbot ![GitHub Repo Stars](https://img.shields.io/github/stars/arolleaguekeng/ng-flexbot) ![GitHub last commit](https://img.shields.io/github/last-commit/arolleaguekeng/ng-flexbot)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
 * [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
+* [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 
 #### Analytics
 
@@ -1220,6 +1222,7 @@ become an Angular expert.
 * [ngx-tinymce ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-tinymce) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-tinymce)](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 * [formly-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/sesan07/formly-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/sesan07/formly-editor)](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) forms.
 * [MagnetarQuill ![GitHub Repo Stars](https://img.shields.io/github/stars/scherenhaenden/MagnetarQuill) ![GitHub last commit](https://img.shields.io/github/last-commit/scherenhaenden/MagnetarQuill)](https://github.com/scherenhaenden/MagnetarQuill) - A versatile, extensible, and powerful WYSIWYG editor built with Angular, designed to streamline content creation with rich text, media, tables, and more. MagnetarQuill stands out with its plugin architecture, cross-browser support, and stunning theming options.
+* [ngx-editorjs2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Ba5ik7/ngx-editorjs2) ![GitHub last commit](https://img.shields.io/github/last-commit/Ba5ik7/ngx-editorjs2)](https://github.com/Ba5ik7/ngx-editorjs2) - A highly extensible block-style editor inspired by [Editor.js](https://editorjs.io/). It allows users to create and manage rich text content using a variety of customizable blocks while leveraging Angular's reactive capabilities. [https://github.com/Ba5ik7/ngx-editor-js2-blocks ![GitHub Repo Stars](https://img.shields.io/github/stars/Ba5ik7/ngx-editor-js2-blocks) ![GitHub last commit](https://img.shields.io/github/last-commit/Ba5ik7/ngx-editor-js2-blocks)](https://github.com/Ba5ik7/ngx-editor-js2-blocks) contain custom blocks that extend the editor with additional content types.
 
 #### File Upload
 
