@@ -673,6 +673,7 @@ become an Angular expert.
 * [ngx-pwa ![GitHub Repo Stars](https://img.shields.io/github/stars/Service-Soft/ngx-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/Service-Soft/ngx-pwa)](https://github.com/Service-Soft/ngx-pwa) - Provides additional functionality around Angular pwa's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.
 * [ngx-repository ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-repository) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-repository)](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (HTTP REST or Firestore) in your Angular project.
 * [ng-rest-client ![GitHub Repo Stars](https://img.shields.io/github/stars/gizm0bill/gzm) ![GitHub last commit](https://img.shields.io/github/last-commit/gizm0bill/gzm)](https://github.com/gizm0bill/gzm/tree/master/libs/ng-rest-client) - This library provides a set of decorators for simplifying HTTP requests. It enables developers to define RESTful API clients using decorators for common HTTP methods.
+* [ngx-http-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/InnovA2/ngx-http-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/InnovA2/ngx-http-helper)](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
 
 #### Integrations
 
@@ -730,6 +731,7 @@ become an Angular expert.
 * [ngx-reactify ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-reactify) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-reactify)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [Otter ![GitHub Repo Stars](https://img.shields.io/github/stars/AmadeusITGroup/otter) ![GitHub last commit](https://img.shields.io/github/last-commit/AmadeusITGroup/otter)](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
 * [ngx-serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-serializer)](https://github.com/paddls/ngx-serializer) - Angular wrapper of @paddls/ts-serializer library.
+* [ngx-pocketbase ![GitHub Repo Stars](https://img.shields.io/github/stars/BerniHC/ngx-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/BerniHC/ngx-pocketbase)](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/pocketbase/js-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/pocketbase/js-sdk)](https://github.com/pocketbase/js-sdk).
 
 #### Internationalization
 
@@ -1749,6 +1751,7 @@ to simplify usage and allow quick customization.
 * [ng-verse ![GitHub Repo Stars](https://img.shields.io/github/stars/lukonik/ng-verse) ![GitHub last commit](https://img.shields.io/github/last-commit/lukonik/ng-verse)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
 * [primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/primitives)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [xUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Rikarin/xui) ![GitHub last commit](https://img.shields.io/github/last-commit/Rikarin/xui)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
+* [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 
 ##### Material Based
 
