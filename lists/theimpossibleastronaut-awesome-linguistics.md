@@ -33,6 +33,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via WebLicht
 * [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
 * [textblob-de ![GitHub Repo Stars](https://img.shields.io/github/stars/markuskiller/textblob-de) ![GitHub last commit](https://img.shields.io/github/last-commit/markuskiller/textblob-de)](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
+* [tyo ![GitHub Repo Stars](https://img.shields.io/github/stars/mongsvo/tyo) ![GitHub last commit](https://img.shields.io/github/last-commit/mongsvo/tyo)](https://github.com/mongsvo/tyo) - A utility for finding Typo-Bridges.
 * [UralicNLP ![GitHub Repo Stars](https://img.shields.io/github/stars/mikahama/uralicNLP) ![GitHub last commit](https://img.shields.io/github/last-commit/mikahama/uralicNLP)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
