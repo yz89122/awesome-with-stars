@@ -1790,6 +1790,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Reverse engineering
 
 * [binarly-io/idalib ![GitHub Repo Stars](https://img.shields.io/github/stars/binarly-io/idalib) ![GitHub last commit](https://img.shields.io/github/last-commit/binarly-io/idalib)](https://github.com/binarly-io/idalib) [[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
+* [objdiff ![GitHub Repo Stars](https://img.shields.io/github/stars/encounter/objdiff) ![GitHub last commit](https://img.shields.io/github/last-commit/encounter/objdiff)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
 
 ### Scripting
 
