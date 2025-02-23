@@ -859,7 +859,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 
-- [PHP Insights ![GitHub Repo Stars](https://img.shields.io/github/stars/nunomaduro/phpinsights) ![GitHub last commit](https://img.shields.io/github/last-commit/nunomaduro/phpinsights)](https://github.com/nunomaduro/phpinsights) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
+- [PHP Insights ![GitHub Repo Stars](https://img.shields.io/github/stars/nunomaduro/phpinsights) ![GitHub last commit](https://img.shields.io/github/last-commit/nunomaduro/phpinsights)](https://github.com/nunomaduro/phpinsights) �� Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) — A Static Code Analyzer for PHP.
 
