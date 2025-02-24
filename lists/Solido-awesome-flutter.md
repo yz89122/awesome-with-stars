@@ -275,7 +275,7 @@ Meteo
 - [Fluro ![GitHub Repo Stars](https://img.shields.io/github/stars/goposse/fluro) ![GitHub last commit](https://img.shields.io/github/last-commit/goposse/fluro)](https://github.com/goposse/fluro) [3672⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [Get ![GitHub Repo Stars](https://img.shields.io/github/stars/jonataslaw/get) ![GitHub last commit](https://img.shields.io/github/last-commit/jonataslaw/get)](https://github.com/jonataslaw/get) [10245⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 - [Beamer ![GitHub Repo Stars](https://img.shields.io/github/stars/slovnicki/beamer) ![GitHub last commit](https://img.shields.io/github/last-commit/slovnicki/beamer)](https://github.com/slovnicki/beamer) [588⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
-- [auto_route ![GitHub Repo Stars](https://img.shields.io/github/stars/Milad-Akarie/auto_route_library) ![GitHub last commit](https://img.shields.io/github/last-commit/Milad-Akarie/auto_route_library)](https://github.com/Milad-Akarie/auto_route_library) [1570���] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
+- [auto_route ![GitHub Repo Stars](https://img.shields.io/github/stars/Milad-Akarie/auto_route_library) ![GitHub last commit](https://img.shields.io/github/last-commit/Milad-Akarie/auto_route_library)](https://github.com/Milad-Akarie/auto_route_library) [1570⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
 
 ### Auth
 
@@ -380,7 +380,7 @@ Meteo
 
 #### Augmented Reality
 
-- [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [798⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
+- [ARKit Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/olexale/arkit_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/olexale/arkit_flutter_plugin)](https://github.com/olexale/arkit_flutter_plugin) [798���] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 - [ARCore Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/giandifra/arcore_flutter_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/giandifra/arcore_flutter_plugin)](https://github.com/giandifra/arcore_flutter_plugin) [433⭐] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## Plugins
