@@ -325,7 +325,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ##### Certification
 
-* [Certificates.dev](https://certificates.dev/angular) - **[UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING NOW LIVE](https://certificates.dev/angular/free-weekend)** Includes all theory, coding challenges, quizzes, and even a mock exam!
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
@@ -1364,6 +1364,7 @@ to simplify usage and allow quick customization.
 * [Semantic icons ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilou88/semantic-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilou88/semantic-icons)](https://github.com/khalilou88/semantic-icons) - A collection of free and open source icons ready for use in your angular projects using the component attribute selector and the svg tag.
 * [coolshapes ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxpert/coolshapes) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxpert/coolshapes)](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
 * [lucide ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
+* [iconic ![GitHub Repo Stars](https://img.shields.io/github/stars/nginf/iconic) ![GitHub last commit](https://img.shields.io/github/last-commit/nginf/iconic)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
 
 #### Images
 
