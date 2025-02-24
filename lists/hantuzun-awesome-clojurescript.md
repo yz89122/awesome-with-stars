@@ -210,7 +210,7 @@
 
 
 ### Testing
-- [cljs.test ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test ![GitHub Repo Stars](https://img.shields.io/github/stars/cemerick/clojurescript.test) ![GitHub last commit](https://img.shields.io/github/last-commit/cemerick/clojurescript.test)](https://github.com/cemerick/clojurescript.test))
+- [cljs.test ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojurescript) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojurescript)](https://github.com/clojure/clojurescript/wiki/Testing) ��� Integrated test framework for ClojureScript (merged from [clojurescript.test ![GitHub Repo Stars](https://img.shields.io/github/stars/cemerick/clojurescript.test) ![GitHub last commit](https://img.shields.io/github/last-commit/cemerick/clojurescript.test)](https://github.com/cemerick/clojurescript.test))
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Speclj ![GitHub Repo Stars](https://img.shields.io/github/stars/slagyr/speclj) ![GitHub last commit](https://img.shields.io/github/last-commit/slagyr/speclj)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 - [test.check ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/test.check) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/test.check)](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
