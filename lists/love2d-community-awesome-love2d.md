@@ -58,6 +58,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 * [beehive.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/drhayes/beehive.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/drhayes/beehive.lua)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 * [Luafinding ![GitHub Repo Stars](https://img.shields.io/github/stars/GlorifiedPig/Luafinding) ![GitHub last commit](https://img.shields.io/github/last-commit/GlorifiedPig/Luafinding)](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
+* [LÖVElyTrees ![GitHub Repo Stars](https://img.shields.io/github/stars/Nrosa01/LOVElyTrees) ![GitHub last commit](https://img.shields.io/github/last-commit/Nrosa01/LOVElyTrees)](https://github.com/Nrosa01/LOVElyTrees) - Fully featured behaviour tree implementation with tree rendering.
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -200,6 +201,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [nvec ![GitHub Repo Stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93) ![GitHub last commit](https://img.shields.io/github/last-commit/MikuAuahDark/NPad93)](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
 * [shash ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/shash) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/shash)](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
 * [vector.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/themousery/vector.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/themousery/vector.lua)](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing.
+* [Vornmath ![GitHub Repo Stars](https://img.shields.io/github/stars/DUznanski/vornmath) ![GitHub last commit](https://img.shields.io/github/last-commit/DUznanski/vornmath)](https://github.com/DUznanski/vornmath) - The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.
 
 ## Music
 *Music related libraries*
@@ -408,9 +410,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Notepad++](https://notepad-plus-plus.org) - Notepad++ is a free source code editor and Notepad replacement that supports several languages.
 	* [LÖVE API for Notepad++ ![GitHub Repo Stars](https://img.shields.io/github/stars/dail8859/love-api-npp) ![GitHub last commit](https://img.shields.io/github/last-commit/dail8859/love-api-npp)](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++.
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
-	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code.
-	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode.
 	* [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
+	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode.
+	* [Lua Language Server](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) - Various language features for Lua to make development easier and faster; includes LÖVE code completion and documentation.
+	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code.
 * [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
@@ -431,6 +434,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [love-packager ![GitHub Repo Stars](https://img.shields.io/github/stars/simplifylabs/love-packager) ![GitHub last commit](https://img.shields.io/github/last-commit/simplifylabs/love-packager)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 * [boon ![GitHub Repo Stars](https://img.shields.io/github/stars/camchenry/boon) ![GitHub last commit](https://img.shields.io/github/last-commit/camchenry/boon)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+* [LÖVE Game Development & Automated Build System ![GitHub Repo Stars](https://img.shields.io/github/stars/Oval-Tutu/bootstrap-love2d-project) ![GitHub last commit](https://img.shields.io/github/last-commit/Oval-Tutu/bootstrap-love2d-project)](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
 * [love-export ![GitHub Repo Stars](https://img.shields.io/github/stars/dmoa/love-export) ![GitHub last commit](https://img.shields.io/github/last-commit/dmoa/love-export)](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
 * [love-release ![GitHub Repo Stars](https://img.shields.io/github/stars/MisterDA/love-release) ![GitHub last commit](https://img.shields.io/github/last-commit/MisterDA/love-release)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [lovesfx ![GitHub Repo Stars](https://img.shields.io/github/stars/tpimh/lovesfx) ![GitHub last commit](https://img.shields.io/github/last-commit/tpimh/lovesfx)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
