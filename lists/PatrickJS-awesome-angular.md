@@ -1365,6 +1365,7 @@ to simplify usage and allow quick customization.
 * [coolshapes ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxpert/coolshapes) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxpert/coolshapes)](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
 * [lucide ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 * [iconic ![GitHub Repo Stars](https://img.shields.io/github/stars/nginf/iconic) ![GitHub last commit](https://img.shields.io/github/last-commit/nginf/iconic)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
+* [angular-phosphor-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/aromero86/angular-phosphor-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/aromero86/angular-phosphor-icons)](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
 
 #### Images
 
@@ -1786,6 +1787,7 @@ for Bootstrap 5 & Angular 17.
 * [design-angular-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/italia/design-angular-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/italia/design-angular-kit)](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
 for the creation of web applications developed with Angular.
 * [ngx-bootstrap-components ![GitHub Repo Stars](https://img.shields.io/github/stars/dotted-labs/ngx-bootstrap-components) ![GitHub last commit](https://img.shields.io/github/last-commit/dotted-labs/ngx-bootstrap-components)](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
+* [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 
 ##### Tailwind CSS Based
 

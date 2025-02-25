@@ -253,6 +253,7 @@ ______________________________________________________________________
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
 - [Awesome ACG ![GitHub Repo Stars](https://img.shields.io/github/stars/soruly/awesome-acg) ![GitHub last commit](https://img.shields.io/github/last-commit/soruly/awesome-acg)](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
+- [Awesome Esports ![GitHub Repo Stars](https://img.shields.io/github/stars/strift/awesome-esports) ![GitHub last commit](https://img.shields.io/github/last-commit/strift/awesome-esports)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
 - [Awesome Gamedev ![GitHub Repo Stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Calinou/awesome-gamedev)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 - [data.world](https://data.world) - Datasets.

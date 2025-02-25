@@ -135,7 +135,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
 - [PHP Composer Magento Tutorial by Alan Storm](https://alanastorm.com/php_composer_magento_tutorial/)
-- [Creating and Using Composer Packages](https://hub.packtpub.com/creating-and-using-composer-packages/)
+- [Creating and Using Composer Packages](https://www.packtpub.com/en-us/learning/how-to-tutorials/creating-and-using-composer-packages/)
 
 ## Blogs
 
