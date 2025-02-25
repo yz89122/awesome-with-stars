@@ -523,6 +523,7 @@ become an Angular expert.
 * [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 * [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
+* [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations ![GitHub Repo Stars](https://img.shields.io/github/stars/Agilicus/samples) ![GitHub last commit](https://img.shields.io/github/last-commit/Agilicus/samples)](https://github.com/Agilicus/samples) to the Agilicus Platform.
 
 #### Builders
 
@@ -1182,6 +1183,7 @@ become an Angular expert.
 * [ng-dompurify ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-dompurify) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-dompurify)](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify ![GitHub Repo Stars](https://img.shields.io/github/stars/cure53/DOMPurify) ![GitHub last commit](https://img.shields.io/github/last-commit/cure53/DOMPurify)](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 * [ngx-windows ![GitHub Repo Stars](https://img.shields.io/github/stars/mateuszbilicz/ngx-windows) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuszbilicz/ngx-windows)](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
 * [ngx-speculative-link ![GitHub Repo Stars](https://img.shields.io/github/stars/push-based/ngx-speculative-link) ![GitHub last commit](https://img.shields.io/github/last-commit/push-based/ngx-speculative-link)](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChromeLabs/quicklink) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChromeLabs/quicklink)](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
+* [ngx-signal-pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/wassim-k/ngx-signal-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/wassim-k/ngx-signal-pipes)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 
 #### Drag and Drop
 
