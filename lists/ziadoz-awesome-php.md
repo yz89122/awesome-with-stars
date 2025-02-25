@@ -278,7 +278,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Gaufrette ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/Gaufrette) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/Gaufrette)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [PHP FFmpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/PHP-FFmpeg/PHP-FFmpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/PHP-FFmpeg/PHP-FFmpeg)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 * [UnifiedArchive ![GitHub Repo Stars](https://img.shields.io/github/stars/wapmorgan/UnifiedArchive) ![GitHub last commit](https://img.shields.io/github/last-commit/wapmorgan/UnifiedArchive)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-* [Parquet ![GitHub Repo Stars](https://img.shields.io/github/stars/flow-php/parquet) ![GitHub last commit](https://img.shields.io/github/last-commit/flow-php/parquet)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format 
+* [Parquet ![GitHub Repo Stars](https://img.shields.io/github/stars/flow-php/parquet) ![GitHub last commit](https://img.shields.io/github/last-commit/flow-php/parquet)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ### Streams
 *Libraries for working with streams.*
@@ -371,7 +371,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [random_compat ![GitHub Repo Stars](https://img.shields.io/github/stars/paragonie/random_compat) ![GitHub last commit](https://img.shields.io/github/last-commit/paragonie/random_compat)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [Roave Security Advisories ![GitHub Repo Stars](https://img.shields.io/github/stars/Roave/SecurityAdvisories) ![GitHub last commit](https://img.shields.io/github/last-commit/Roave/SecurityAdvisories)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 * [Secure Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/BePsvPT/secure-headers) ![GitHub last commit](https://img.shields.io/github/last-commit/BePsvPT/secure-headers)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
-* [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [SQLMap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [Zap ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
