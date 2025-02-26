@@ -404,7 +404,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [R 101](https://cognitiveclass.ai/courses/r-101) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
-| [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [����](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
+| [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
 | [R](https://www.hackerrank.com/skills-verification/r_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
