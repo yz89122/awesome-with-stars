@@ -57,7 +57,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 - [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
     - [Office](#office)
-    - [Markdown Tools](#markdown-tools-awesome-list)
+    - [Markdown Tools](#markdown-tools)
     - [Note-taking](#note-taking)
     - [Journaling](#journaling)
     - [Writing](#writing)
