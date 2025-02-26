@@ -164,6 +164,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 #### Godot 4
 
 - [Kaleidoscope ![GitHub Repo Stars](https://img.shields.io/github/stars/Elesh-Norn/kaleidoscope) ![GitHub last commit](https://img.shields.io/github/last-commit/Elesh-Norn/kaleidoscope)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+- [PlaneShooter ![GitHub Repo Stars](https://img.shields.io/github/stars/sarooptech/PlaneShooter) ![GitHub last commit](https://img.shields.io/github/last-commit/sarooptech/PlaneShooter)](https://github.com/sarooptech/PlaneShooter) - A 2D demo game to learn Godot 4.
 
 #### Godot 3
 
@@ -204,6 +205,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Cyclops Level Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/blackears/cyclopsLevelBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/blackears/cyclopsLevelBuilder)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
 - [Dialogue Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Rubonnek/dialogue-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Rubonnek/dialogue-engine)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Dialogue Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/nathanhoad/godot_dialogue_manager) ![GitHub last commit](https://img.shields.io/github/last-commit/nathanhoad/godot_dialogue_manager)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
+- [Event Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/bbbscarter/event-audio-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbscarter/event-audio-godot)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
 - [Fast Fourier Transform (FFT) ![GitHub Repo Stars](https://img.shields.io/github/stars/tavurth/godot-fft) ![GitHub last commit](https://img.shields.io/github/last-commit/tavurth/godot-fft)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 - [Friflo.Engine.ECS ![GitHub Repo Stars](https://img.shields.io/github/stars/friflo/Friflo.Json.Fliox) ![GitHub last commit](https://img.shields.io/github/last-commit/friflo/Friflo.Json.Fliox)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... *(Godot 3 and 4)*
 - [GdUnit4 ![GitHub Repo Stars](https://img.shields.io/github/stars/MikeSchulze/gdUnit4) ![GitHub last commit](https://img.shields.io/github/last-commit/MikeSchulze/gdUnit4)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.

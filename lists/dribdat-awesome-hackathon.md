@@ -152,6 +152,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [MLH Organizer Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/MLH/mlh-hackathon-organizer-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/MLH/mlh-hackathon-organizer-guide)](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
 - [MLH Software for Hackathons](https://guide.mlh.io/organizer-resources/software-for-hackathons) - A short and tidy list of hackathon software that overlaps with the one you're reading now.
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
+- [OpenHatch In-Person Event Handbook ![GitHub Repo Stars](https://img.shields.io/github/stars/openhatch/in-person-event-handbook) ![GitHub last commit](https://img.shields.io/github/last-commit/openhatch/in-person-event-handbook)](https://github.com/openhatch/in-person-event-handbook) - For getting your open source project ready for new contributors.
 - [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
 - [Zotero - Awesome Hackathon](https://www.zotero.org/groups/5538025/awesome_hackathons) - A web library of references on research into the Impacts, Landscape, Motivation and Organizing of hackathons.
 
