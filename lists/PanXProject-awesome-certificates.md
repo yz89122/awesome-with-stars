@@ -445,7 +445,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Service Hub Software Certification ](https://academy.hubspot.com/courses/hubspot-service-software)| HubSpot | Beginner | 2.1 | 🏆 |
-| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | �� |
+| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
 | [Customer Relationship Management](https://www.life-global.org/course/35-customer-relationship-management)| HP / Life Global | Beginner | 1 | 🏅 |
 | [Customer Service Test](https://www.testdome.com/tests/customer-service-test/91)| Test Dome | Intermediate | 0.15 | 🏆  |
 
