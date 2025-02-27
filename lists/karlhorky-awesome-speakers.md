@@ -1357,7 +1357,7 @@ Topics: Web Performance, Dev Tools\
 Topics: Progressive Web Apps, Modern Browser APIs\
 https://twitter.com/geek_timofey
 
-## United Kingdom 🇬🇧
+## United Kingdom 🇬���
 
 ### Birmingham
 
