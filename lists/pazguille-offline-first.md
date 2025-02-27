@@ -360,7 +360,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 [Building realtime collaborative offline-first apps with React, Redux, PouchDB and WebSockets](https://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
 (Pedro Teixeira - Nov 30, 2015)
 
-[Cache-limiting in Service Workers …again](https://adactio.com/journal/9888)
+[Cache-limiting in Service Workers ��again](https://adactio.com/journal/9888)
 (Jeremy Keith - Nov 29, 2015)
 
 [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)

@@ -65,7 +65,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/)  - Chat with Mistral AI's cutting-edge language models.
+- [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
 
 ### Custom interfaces
 
@@ -340,7 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Speech-to-text
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/whisper) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/whisper)](https://github.com/openai/whisper)
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
-- [Vibe Transcribe]() - all-in-one solution for effortless audio and video transcription. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/thewh1teagle/vibe)](https://github.com/thewh1teagle/vibe)
+- [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/thewh1teagle/vibe)](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ggerganov/whisper.cpp)](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 
 

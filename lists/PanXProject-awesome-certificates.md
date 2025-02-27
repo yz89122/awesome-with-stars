@@ -81,13 +81,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
 | [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
 | [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | [🏅](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc) |
-| [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security) | Great Learning | Beginner | 3 | 🏆 |
-| [Types of Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security) | Great Learning | Beginner | 1 | 🏆 |
-| [Cyber Forensics](https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-forensics) | Great Learning | Beginner | 1 | 🏆 |
-| [Introduction to Information Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security) | Great Learning | Beginner | 2 | 🏆 |
-| [Network Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/network-security) | Great Learning | Beginner | 1 | 🏆 |
-| [Advanced Cyber Security - Threats and Governance](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance) | Great Learning | Beginner | 2 | 🏆 |
-| [Encryption Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption) | Great Learning | Beginner | 1 | 🏆 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -137,7 +130,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Blockchain Masterclass](https://courses.cfte.education/free-online-blockchain-masterclass/) | Centre for Finance, Technology and Entrepreneurship |Beginner| - | 🏅|
-| [Blockchain Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics) | Great Learning |Beginner| 2.5 | 🏆|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
@@ -154,10 +146,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4     | 🏆     |
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
-| [Data Visualisation in Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau) | Great Learning |Beginner| 1 | 🏆 |
-| [Data Visualization With Power BI](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi) | Great Learning |Beginner| 2 | 🏆 |
-| [Mastering Big Data Analytics](https://www.mygreatlearning.com/academy/learn-for-free/courses/mastering-big-data-analytics) | Great Learning |Intermediate| 19 | 🏆 |
-| [Data Visualization with Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/foundations-of-data-visualization-using-tableau) | Great Learning |Beginner| 2 | 🏆 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -179,16 +167,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Data Science 101](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1)|
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | IBM / Cognitive Class |Beginner|4| [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-tools)|
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
-| [Popular Applications of Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/popular-applications-of-data-science) | Great Learning |Beginner| 1 | 🏆 |
-| [Career in Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science) | Great Learning |Beginner| 1 | 🏆 |
-| [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science) | Great Learning |Beginner| 1 | 🏆 |
-| [Data Science Mathematics](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics) | Great Learning |Beginner| 1 | 🏆 |
-| [R for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
-| [Statistical Methods for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making) | Great Learning |Beginner| 2 | 🏆 |
-| [Probability for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
-| [Data Preprocessing](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-preprocessing) | Great Learning |Beginner| 2 | 🏆 |
-| [SQL for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science) | Great Learning | Beginner | 3 | 🏆 |
-| [Data Science Foundation](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations) | Great Learning |Beginner| 2 | 🏆 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -231,7 +209,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | Intermediate | 4 | 🏆  |
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
 | [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
-| [Introduction to Artificial Intelligence](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1) | Great Learning | Beginner|  1.5 | 🏆 |
 | [Foundations of Prompt Engineering](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering) | Amazon | Intermediate | 4 | 🏆 |
 | [Generative AI for Decision Makers](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers) | Amazon | Beginner| 3 | 🏆 |
 | [Generative AI Fundamentals](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Data Bricks |Beginner|0.5 | 🏅 |
@@ -289,8 +266,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
-| [ChatGPT for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners) | Great Learning |Beginner| 2 | 🏆 |
-| [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | 🏆 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -301,7 +276,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
 | [Introduction to Cloud Computing](https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing) | EC-Council |Beginner|3 | 🏆|
-| [Cloud Foundations](https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-foundations) | Great Learning |Beginner| 1.5 | 🏆|
 | [Cloud Essentials Knowledge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | Amazon | Intermediate | 10 | 🏅 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
@@ -339,8 +313,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | 🏆 |
-| [Android Studio Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-studio-tutorial) | Great Learning | Beginner | 1 | 🏆 |
-| [Android App Development](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development ) | Great Learning | Beginner | 1.5 | 🏆 |
 | [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  🏅 |	
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
@@ -353,7 +325,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
-| [Introduction to Kubernetes](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1) | Great Learning | Beginner | 1.5 | 🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -421,7 +392,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
-| [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -474,7 +444,12 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Customer Relationship Management](https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management) | Great Learning | Beginner | 1 | 🏆 |
+| [Service Hub Software Certification ](https://academy.hubspot.com/courses/hubspot-service-software)| HubSpot | Beginner | 2.1 | 🏆 |
+| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
+| [Customer Relationship Management](https://www.life-global.org/course/35-customer-relationship-management)| HP / Life Global | Beginner | 1 | 🏅 |
+| [Customer Service Test](https://www.testdome.com/tests/customer-service-test/91)| Test Dome | Intermediate | 0.15 | 🏆  |
+
+
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -483,8 +458,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Data Analysis with Excel](https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-exploratory-data-analysis-with-excel) | Great Learning |Intermediate| 1.5 | 🏆 |
-| [Intro to Business Analytics](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-business-analytics) | Great Learning |Beginner| 1 | 🏆 |
 | [Business Intelligence Foundation Professional](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) | CertiProf |Beginner| 1 |🏅|
 | [Business Analysis Basics](https://www.simplilearn.com/introduction-to-business-analysis-free-course-skillup) | Simplilearn |Beginner| 2 | 🏆 |
 
@@ -497,7 +470,6 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Graphic Design with Photoshop](https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop) | Great Learning |Beginner| 1 | 🏆 |
 | [Adobe Photoshop](https://www.mindluster.com/certificate/1568/Adobe-Photoshop) | Mind Luster |Beginner| 1.4 | 🏆 |
 | [How to Erase a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_erase_shape) | UMaine New Media | intermediate| 0.13 | 🏅 |
 | [How to Select a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_select_shape) | UMaine New Media | intermediate| 0.1 | 🏅 |
