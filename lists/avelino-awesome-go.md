@@ -2094,7 +2094,7 @@ _Libraries for using OpenGL in Go._
 - [goxjs/glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/goxjs/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/goxjs/glfw)](https://github.com/goxjs/glfw) - Go cross-platform glfw library for creating an OpenGL context and receiving events.
 - [mathgl ![GitHub Repo Stars](https://img.shields.io/github/stars/go-gl/mathgl) ![GitHub last commit](https://img.shields.io/github/last-commit/go-gl/mathgl)](https://github.com/go-gl/mathgl) - Pure Go math package specialized for 3D math, with inspiration from GLM.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## ORM
 
