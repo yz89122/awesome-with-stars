@@ -773,7 +773,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Warsaw Twitter](https://twitter.com/flutterwarsaw)
 - [Flutter Warsaw YouTube Channel](https://www.youtube.com/channel/UCO7yMprO8cFwV4QnuhTMVlQ)
 - [Poznan Flutter Developer Group](https://www.meetup.com/poznan-flutter-developers/)
-- [Flutter Wroc��aw Meetup](https://www.meetup.com/Flutter-Wroc%C5%82aw/)
+- [Flutter Wrocław Meetup](https://www.meetup.com/Flutter-Wroc%C5%82aw/)
 - Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
 - Twitter [Tricity](https://twitter.com/FlutterTricity/)
 
@@ -786,7 +786,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
 - Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
-### 🇷🇺 Russia
+### ����🇺 Russia
 
 - [Telegram](https://t.me/rudart)
 - [Telegram - Oh, my Flutter](https://t.me/ohmyflutter)
