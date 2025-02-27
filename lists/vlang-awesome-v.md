@@ -33,6 +33,7 @@
 	- [File handling](#file-handling)
 	- [Game development](#game-development)
 	- [Graphics](#graphics-1)
+	- [Interoperability](#interoperability)
 	- [IRC](#irc)
 	- [Networking](#networking)
 	- [Operating system](#operating-system)
@@ -66,6 +67,9 @@
 ### Build Systems
 
 - [clockwork ![GitHub Repo Stars](https://img.shields.io/github/stars/emmathemartian/clockwork) ![GitHub last commit](https://img.shields.io/github/last-commit/emmathemartian/clockwork)](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
+- [vab ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vab) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vab)](https://github.com/vlang/vab) - The official V tool to build and package applications for Android.
+- [vab-sdl ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/vab-sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/vab-sdl)](https://github.com/larpon/vab-sdl) - Standalone and extra command for `vab` to build and package
+SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
@@ -175,7 +179,7 @@
 
 ### Audio
 
-- [miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/Larpon/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/Larpon/miniaudio)](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
+- [miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/miniaudio)](https://github.com/larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 - [vave ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/vave) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vave)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 - [vspeech ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/vspeech) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vspeech)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 
@@ -223,15 +227,19 @@
 
 ### Game development
 
+- [chipmunk2d ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/chipmunk2d) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/chipmunk2d)](https://github.com/larpon/chipmunk2d) - V wrapper of the Chipmunk2D physics library.
 - [engine ![GitHub Repo Stars](https://img.shields.io/github/stars/LouisSchmieder/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/LouisSchmieder/engine)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 - [raylib.v ![GitHub Repo Stars](https://img.shields.io/github/stars/irishgreencitrus/raylib.v) ![GitHub last commit](https://img.shields.io/github/last-commit/irishgreencitrus/raylib.v)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 - [shy ![GitHub Repo Stars](https://img.shields.io/github/stars/Larpon/shy) ![GitHub last commit](https://img.shields.io/github/last-commit/Larpon/shy)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 - [V_ecs ![GitHub Repo Stars](https://img.shields.io/github/stars/mohamedLT/V_ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/mohamedLT/V_ecs)](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
 - [vraylib ![GitHub Repo Stars](https://img.shields.io/github/stars/mohamedLT/vraylib) ![GitHub last commit](https://img.shields.io/github/last-commit/mohamedLT/vraylib)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 - [vraylib ![GitHub Repo Stars](https://img.shields.io/github/stars/MajorHard/vraylib) ![GitHub last commit](https://img.shields.io/github/last-commit/MajorHard/vraylib)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
+- [wren ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/wren) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/wren)](https://github.com/larpon/wren) - V wrapper around the excellent Wren scripting language.
 
 ### Graphics
 
+- [sdl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/sdl)](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
+- [sgldraw ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/sgldraw) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/sgldraw)](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
 - [V Earcut ![GitHub Repo Stars](https://img.shields.io/github/stars/Larpon/earcut) ![GitHub last commit](https://img.shields.io/github/last-commit/Larpon/earcut)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut ![GitHub Repo Stars](https://img.shields.io/github/stars/mapbox/earcut) ![GitHub last commit](https://img.shields.io/github/last-commit/mapbox/earcut)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 - [V_sokol_gp ![GitHub Repo Stars](https://img.shields.io/github/stars/mohamedLT/V_sokol_gp) ![GitHub last commit](https://img.shields.io/github/last-commit/mohamedLT/V_sokol_gp)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 - [viup ![GitHub Repo Stars](https://img.shields.io/github/stars/kjlaw89/viup) ![GitHub last commit](https://img.shields.io/github/last-commit/kjlaw89/viup)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
@@ -239,6 +247,12 @@
 - [vsdl2 ![GitHub Repo Stars](https://img.shields.io/github/stars/nsauzede/vsdl2) ![GitHub last commit](https://img.shields.io/github/last-commit/nsauzede/vsdl2)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsl.vcl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vsl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vsl)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 - [vbmp ![GitHub Repo Stars](https://img.shields.io/github/stars/dy-tea/vbmp) ![GitHub last commit](https://img.shields.io/github/last-commit/dy-tea/vbmp)](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
+- [voronoi ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/voronoi) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/voronoi)](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi ![GitHub Repo Stars](https://img.shields.io/github/stars/JCash/voronoi) ![GitHub last commit](https://img.shields.io/github/last-commit/JCash/voronoi)](https://github.com/JCash/voronoi).
+- [vqoi ![GitHub Repo Stars](https://img.shields.io/github/stars/Le0Developer/vqoi) ![GitHub last commit](https://img.shields.io/github/last-commit/Le0Developer/vqoi)](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
+
+### Interoperability
+
+- [jni ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/jni) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/jni)](https://github.com/larpon/jni) - V wrapper around the C Java Native Interface (Desktop + Android).
 
 ### IRC
 
