@@ -889,6 +889,7 @@
 - [Geocaching ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxFil/awesome-geocaching) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxFil/awesome-geocaching)](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/awesome-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/awesome-regex)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/lutzh/awesome-event-driven-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/lutzh/awesome-event-driven-architecture)](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
+- [Permacomputing ![GitHub Repo Stars](https://img.shields.io/github/stars/idematos/awesome-permacomputing) ![GitHub last commit](https://img.shields.io/github/last-commit/idematos/awesome-permacomputing)](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 
 ## Related
 
