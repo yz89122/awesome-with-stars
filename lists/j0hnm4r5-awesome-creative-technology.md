@@ -113,7 +113,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Immersive International**](https:&#x2F;&#x2F;www.immersive.international&#x2F;) | [London] [Shanghai] [Ottawa] [Hong Kong] [Cape Town] | live experiences and art installations in public, private and commercial spaces | 
 | [**Intergalactic**](https:&#x2F;&#x2F;intergalactic.com) | [Vancouver] [London] | mobile apps, interactive screens, web development, application design and visualization | [🌐](https:&#x2F;&#x2F;intergalactic.com&#x2F;careers)
 | [**Invisible North**](https:&#x2F;&#x2F;www.invisiblenorth.com&#x2F;) | [NYC] | culturally fluent, thoughtful experiences, bring brands to life | [📧](mailto:jobs@invisiblenorth.com)
-| [**Jam3**](https:&#x2F;&#x2F;www.jam3.com) | [Toronto] [LA] [Montevideo] [Amsterdam] | create modern experiences for tomorrow&#39;s brands | [🌐](https:&#x2F;&#x2F;media.monks.com&#x2F;careers)
+| [**Jam3**](https:&#x2F;&#x2F;www.jam3.com) | [Toronto] [LA] [Montevideo] [Amsterdam] | create modern experiences for tomorrow&#39;s brands | [���](https:&#x2F;&#x2F;media.monks.com&#x2F;careers)
 | [**Jason Sherwood Design**](http:&#x2F;&#x2F;jasonsherwooddesign.com&#x2F;) | [NYC] | television and broadway and concert stage design | 
 | [**Left Field Labs**](https:&#x2F;&#x2F;www.leftfieldlabs.com&#x2F;) | [LA] | products, platforms, and services that solve fundamental human challenges | [📧](mailto:talent@leftfieldlabs.com)
 | [**Listen**](https:&#x2F;&#x2F;wearelisten.com&#x2F;) | [NYC] | sensory-driven brand assets, modern cultural landscape, sound, experiences | 
@@ -291,7 +291,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
 | [**&amp;Walsh**](https:&#x2F;&#x2F;andwalsh.com&#x2F;) | [NYC] | brand strategy, art direction, design and production across all platforms | 
-| [**AKQA**](https:&#x2F;&#x2F;www.akqa.com&#x2F;) | [London] [SF] [S��o Paulo] [Melbourne] [Aarhus] [Miami] [Amsterdam] [Atlanta] [Auckland] [Berlin] [Cairo] [Cape Town] [Copenhagen] [Dubai] [Gothenburg] [Gurgaon] [Johannesburg] [Milan] [NYC] [Paris] [Portland, OR] [Riyadh] [Shanghai] [Stockholm] [Sydney] [Tokyo] [Venice] [DC] [Wellington] | the most powerful force in the universe isn’t technology, it’s imagination | 
+| [**AKQA**](https:&#x2F;&#x2F;www.akqa.com&#x2F;) | [London] [SF] [São Paulo] [Melbourne] [Aarhus] [Miami] [Amsterdam] [Atlanta] [Auckland] [Berlin] [Cairo] [Cape Town] [Copenhagen] [Dubai] [Gothenburg] [Gurgaon] [Johannesburg] [Milan] [NYC] [Paris] [Portland, OR] [Riyadh] [Shanghai] [Stockholm] [Sydney] [Tokyo] [Venice] [DC] [Wellington] | the most powerful force in the universe isn’t technology, it’s imagination | 
 | [**BUCK**](https:&#x2F;&#x2F;buck.co&#x2F;) | [LA] [NYC] [Sydney] [Amsterdam] | VR, AR, installation, real-time animation, 3D, experiential | 
 | [**Framestore**](https:&#x2F;&#x2F;www.framestore.com&#x2F;) | [London] [NYC] [Montreal] | virtual, augmented and mixed realities, location-based entertainment, and theme park rides | 
 | [**ManvsMachine**](https:&#x2F;&#x2F;mvsm.com&#x2F;) | [London] [LA] | multidimensional creative studio | 
