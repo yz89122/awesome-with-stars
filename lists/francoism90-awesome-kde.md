@@ -205,7 +205,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
 - [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets 📌.
-- [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
+- [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker ���.
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 - [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
 - [KDE Configs ![GitHub Repo Stars](https://img.shields.io/github/stars/shalva97/kde-configuration-files) ![GitHub last commit](https://img.shields.io/github/last-commit/shalva97/kde-configuration-files)](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
