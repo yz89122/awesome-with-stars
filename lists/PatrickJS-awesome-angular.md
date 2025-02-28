@@ -911,6 +911,7 @@ become an Angular expert.
 * [ThemesBrand](https://themesbrand.com/judia/angular.html)
 * [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
 * [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
+* [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.
 
 #### Testing
 
@@ -1244,6 +1245,7 @@ become an Angular expert.
 * [ngx-fileupload ![GitHub Repo Stars](https://img.shields.io/github/stars/r-hannuschka/ngx-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/r-hannuschka/ngx-fileupload)](https://github.com/r-hannuschka/ngx-fileupload) - [ngx-file-upload/core ![GitHub Repo Stars](https://img.shields.io/github/stars/r-hannuschka/ngx-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/r-hannuschka/ngx-fileupload)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/core) only contains services and classes to enable file upload with Angular. [ngx-file-upload/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/r-hannuschka/ngx-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/r-hannuschka/ngx-fileupload)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/ui) contains components and pipes to provide a UI.
 * [ngx-file-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/wh131462/ngx-file-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/wh131462/ngx-file-preview)](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
 * [ngx-image-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/osmanabdelsalam/ngx-image-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/osmanabdelsalam/ngx-image-upload)](https://github.com/osmanabdelsalam/ngx-image-upload) - A lightweight, customizable library for image uploads with preview, validation, and smooth animations. Supports Reactive Forms and `ngTemplate` for full flexibility.
+* [filestack-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/filestack/filestack-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/filestack/filestack-angular)](https://github.com/filestack/filestack-angular) - Integrate [Filestack](https://www.filestack.com/) into your Angular app for a faster, safer, and more reliable file upload experience.
 
 #### Forms
 
