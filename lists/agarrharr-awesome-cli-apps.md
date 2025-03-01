@@ -628,7 +628,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Graphics
 
 - [cli-mandelbrot ![GitHub Repo Stars](https://img.shields.io/github/stars/danyshaanan/cli-mandelbrot) ![GitHub last commit](https://img.shields.io/github/last-commit/danyshaanan/cli-mandelbrot)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-- [sparkly-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sparkly-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sparkly-cli)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃���▂▇..
+- [sparkly-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sparkly-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sparkly-cli)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/pastel) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/pastel)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 - [lowcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/juan-leon/lowcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/juan-leon/lowcharts)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
