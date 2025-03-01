@@ -1767,6 +1767,7 @@ to simplify usage and allow quick customization.
 * [primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/primitives)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [xUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Rikarin/xui) ![GitHub last commit](https://img.shields.io/github/last-commit/Rikarin/xui)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
+* [flexi-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TanerSaydam/flexi-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TanerSaydam/flexi-ui)](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
 
 ##### Material Based
 
