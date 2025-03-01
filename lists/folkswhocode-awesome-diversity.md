@@ -141,7 +141,7 @@ The following is a list of individual resources with actionable items for being 
 - [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How To Fight Sexism On Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
-- [Increase Diversity In Our Speaker Line Up ![GitHub Repo Stars](https://img.shields.io/github/stars/lnug/feedback) ![GitHub last commit](https://img.shields.io/github/last-commit/lnug/feedback)](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - By Soledad Penad��s.
+- [Increase Diversity In Our Speaker Line Up ![GitHub Repo Stars](https://img.shields.io/github/stars/lnug/feedback) ![GitHub last commit](https://img.shields.io/github/last-commit/lnug/feedback)](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - By Soledad Penadés.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
 - [So, You Just Learned There Are Issues With The Tech Industry. Now What? ![GitHub Repo Stars](https://img.shields.io/github/stars/stephmarx/so-you-just-learned) ![GitHub last commit](https://img.shields.io/github/last-commit/stephmarx/so-you-just-learned)](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
 - [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
