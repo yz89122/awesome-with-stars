@@ -240,7 +240,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   1 ��� 100 |        10 | 25m |
+|   1 – 100 |        10 | 25m |
 
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 

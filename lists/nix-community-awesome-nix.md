@@ -55,6 +55,7 @@
 * [Nix Notes ![GitHub Repo Stars](https://img.shields.io/github/stars/noteed/nix-notes) ![GitHub last commit](https://img.shields.io/github/last-commit/noteed/nix-notes)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts ![GitHub Repo Stars](https://img.shields.io/github/stars/alper/nix-shorts) ![GitHub last commit](https://img.shields.io/github/last-commit/alper/nix-shorts)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
+* [Nix Starter Config ![GitHub Repo Stars](https://img.shields.io/github/stars/Misterio77/nix-starter-configs) ![GitHub last commit](https://img.shields.io/github/last-commit/Misterio77/nix-starter-configs)](https://github.com/Misterio77/nix-starter-configs) - A few simple Nix Flake templates for getting started with NixOS + home-manager.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [NixOS & Flakes Book ![GitHub Repo Stars](https://img.shields.io/github/stars/ryan4yin/nixos-and-flakes-book) ![GitHub last commit](https://img.shields.io/github/last-commit/ryan4yin/nixos-and-flakes-book)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
@@ -66,6 +67,7 @@
 
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
+* [nix-search-tv ![GitHub Repo Stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv) ![GitHub last commit](https://img.shields.io/github/last-commit/3timeslazy/nix-search-tv)](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 * [NüschtOS Search ![GitHub Repo Stars](https://img.shields.io/github/stars/NuschtOS/search) ![GitHub last commit](https://img.shields.io/github/last-commit/NuschtOS/search)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
@@ -130,7 +132,7 @@
 * [nix-prefetch ![GitHub Repo Stars](https://img.shields.io/github/stars/msteen/nix-prefetch) ![GitHub last commit](https://img.shields.io/github/last-commit/msteen/nix-prefetch)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/utdemir/nix-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/utdemir/nix-tree)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 * [nurl ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nurl) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nurl)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
-* [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
+* [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix ![GitHub Repo Stars](https://img.shields.io/github/stars/nerdypepper/statix) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdypepper/statix)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ## Development
