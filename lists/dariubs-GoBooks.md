@@ -472,7 +472,7 @@ How and when should you apply performance efficiency optimization without wastin
 
 <img src="https://images.manning.com/360/480/resize/book/9/5990f3c-19fb-4945-b024-7280e616773f/Harsanyi-HI.png" width="120px"/>
 
-100 Go Mistakes and How to Avoid Them puts a spotlight on common errors in Go code you might not even know you’re making. You’ll explore key areas of the language such as concurrency, testing, data structures, and more—and learn how to avoid and fix mistakes in your own projects.
+100 Go Mistakes and How to Avoid Them puts a spotlight on common errors in Go code you might not even know you’re making. You’ll explore key areas of the language such as concurrency, testing, data structures, and more��and learn how to avoid and fix mistakes in your own projects.
 
 
 
