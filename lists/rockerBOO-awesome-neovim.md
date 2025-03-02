@@ -96,6 +96,7 @@
 - [roobert/activate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/roobert/activate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/roobert/activate.nvim)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 - [nvim-neorocks/rocks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-neorocks/rocks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-neorocks/rocks.nvim)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 - [echasnovski/mini.nvim#mini.deps ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+- [wsdjeg/nvim-plug ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
 
 <!--lint disable double-link -->
 
@@ -275,6 +276,7 @@
 - [yanskun/gotests.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yanskun/gotests.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yanskun/gotests.nvim)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests ![GitHub Repo Stars](https://img.shields.io/github/stars/cweill/gotests) ![GitHub last commit](https://img.shields.io/github/last-commit/cweill/gotests)](https://github.com/cweill/gotests).
 - [maxandron/goplements.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/maxandron/goplements.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/maxandron/goplements.nvim)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 - [Snikimonkd/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Snikimonkd/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Snikimonkd/cmp-go-pkgs)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
+- [Yu-Leo/gosigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 
 ### YAML
 
@@ -525,6 +527,7 @@
 - [LintaoAmons/cd-project.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LintaoAmons/cd-project.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LintaoAmons/cd-project.nvim)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 - [LucasTavaresA/headers.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LucasTavaresA/headers.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LucasTavaresA/headers.nvim)](https://github.com/LucasTavaresA/headers.nvim) - Zero-config header/footer warnings.
 - [zongben/proot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/proot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/proot.nvim)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
+- [wsdjeg/rooter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/rooter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/rooter.nvim)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
 
 <!--lint disable double-link -->
 

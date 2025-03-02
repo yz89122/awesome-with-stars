@@ -182,7 +182,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
   > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 </details>
 
-#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) _by [China Miéville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)_ [3.8]
+#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) _by [China Mi��ville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)_ [3.8]
 
 <details>
   <summary>Description</summary>
@@ -499,7 +499,7 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
   > Gene Wolfe’s _The Fifth Head of Cerberus_ is a universally acknowledged masterpiece of science fiction by one of the field’s most brilliant writers. Far out from Earth, two sister planets, Saint Anne and Saint Croix, circle each other in an eternal dance. It is said a race of shapeshifters once lived here, only to perish when men came. But one man believes they can still be found, somewhere in the back of the beyond.
   >
-  > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man’s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
+  > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man��s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
 </details>
 
 #### [The First Fifteen Lives of Harry August](https://www.goodreads.com/book/show/35066358-the-first-fifteen-lives-of-harry-august) (2014) _by [Claire North](https://en.wikipedia.org/wiki/Catherine_Webb) [4.01]
