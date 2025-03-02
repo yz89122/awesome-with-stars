@@ -448,6 +448,7 @@ become an Angular expert.
 * [astral-accessibility ![GitHub Repo Stars](https://img.shields.io/github/stars/verto-health/astral-accessibility) ![GitHub last commit](https://img.shields.io/github/last-commit/verto-health/astral-accessibility)](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 * [angular-vlibras ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-a11y/angular-vlibras) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-a11y/angular-vlibras)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
 * [a11y-accessibility-first ![GitHub Repo Stars](https://img.shields.io/github/stars/gagdmac/a11y-accessibility-first) ![GitHub last commit](https://img.shields.io/github/last-commit/gagdmac/a11y-accessibility-first)](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
+* [ngx-accessible-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ShakeelKadri/ngx-accessible-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ShakeelKadri/ngx-accessible-ui)](https://github.com/ShakeelKadri/ngx-accessible-ui) - Accessible Navigation & Menu Directives for Angular 9+. Directives comply with WCAG 2.1 Level AA and the European Accessibility Act 2025, ensuring a highly inclusive web experience.
 
 #### AI
 
@@ -474,6 +475,7 @@ become an Angular expert.
 * [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
+* [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 
 #### Analytics
 
