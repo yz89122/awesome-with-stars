@@ -427,6 +427,7 @@ become an Angular expert.
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 * [Kobi Hari](https://www.youtube.com/@kobihari)
+* [Code Step By Step](https://www.youtube.com/@codestepbystep)
 
 ##### Style Guides
 
@@ -449,6 +450,7 @@ become an Angular expert.
 * [angular-vlibras ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-a11y/angular-vlibras) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-a11y/angular-vlibras)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
 * [a11y-accessibility-first ![GitHub Repo Stars](https://img.shields.io/github/stars/gagdmac/a11y-accessibility-first) ![GitHub last commit](https://img.shields.io/github/last-commit/gagdmac/a11y-accessibility-first)](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
 * [ngx-accessible-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ShakeelKadri/ngx-accessible-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ShakeelKadri/ngx-accessible-ui)](https://github.com/ShakeelKadri/ngx-accessible-ui) - Accessible Navigation & Menu Directives for Angular 9+. Directives comply with WCAG 2.1 Level AA and the European Accessibility Act 2025, ensuring a highly inclusive web experience.
+* [easy ![GitHub Repo Stars](https://img.shields.io/github/stars/richpauly13/easy) ![GitHub last commit](https://img.shields.io/github/last-commit/richpauly13/easy)](https://github.com/richpauly13/easy) - **E**asy **A**ngular **S**tyles with a11**Y**.
 
 #### AI
 
@@ -1392,7 +1394,7 @@ to simplify usage and allow quick customization.
 * [Semantic icons ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilou88/semantic-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilou88/semantic-icons)](https://github.com/khalilou88/semantic-icons) - A collection of free and open source icons ready for use in your angular projects using the component attribute selector and the svg tag.
 * [coolshapes ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxpert/coolshapes) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxpert/coolshapes)](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
 * [lucide ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
-* [iconic ![GitHub Repo Stars](https://img.shields.io/github/stars/nginf/iconic) ![GitHub last commit](https://img.shields.io/github/last-commit/nginf/iconic)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
+* [@ngverse/icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ngverse/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ngverse/icons)](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [angular-phosphor-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/aromero86/angular-phosphor-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/aromero86/angular-phosphor-icons)](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
 
 #### Images
