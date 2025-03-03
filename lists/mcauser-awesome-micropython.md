@@ -157,6 +157,7 @@ Other places you can look for MicroPython Libraries:
 #### ESP-NOW
 
 * [mesh-espnow-micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/shariltumin/mesh-espnow-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/shariltumin/mesh-espnow-micropython)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+* [mp_espnow_wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/cnadler86/mp_espnow_wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/cnadler86/mp_espnow_wrapper)](https://github.com/cnadler86/mp_espnow_wrapper) - Send and receive data between ESPs over ESP-NOW without worries.
 
 #### Ethernet
 
@@ -484,6 +485,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-microbmp ![GitHub Repo Stars](https://img.shields.io/github/stars/jacklinquan/micropython-microbmp) ![GitHub last commit](https://img.shields.io/github/last-commit/jacklinquan/micropython-microbmp)](https://github.com/jacklinquan/micropython-microbmp) - A small Python module for BMP image processing.
 * [MicroPython_UPLOT ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_UPLOT) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_UPLOT)](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
 * [Tempe ![GitHub Repo Stars](https://img.shields.io/github/stars/unital/tempe) ![GitHub last commit](https://img.shields.io/github/last-commit/unital/tempe)](https://github.com/unital/tempe) - Efficient MicroPython graphics library built on top of `framebuf`.
+* [mp_jpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/cnadler86/mp_jpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/cnadler86/mp_jpeg)](https://github.com/cnadler86/mp_jpeg) - A very fast MicroPython JPEG encoder and decoder for the ESP32.
 
 #### GUI
 
@@ -563,8 +565,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ht1632c ![GitHub Repo Stars](https://img.shields.io/github/stars/vrialland/micropython-ht1632c) ![GitHub last commit](https://img.shields.io/github/last-commit/vrialland/micropython-ht1632c)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
 * [micropython-matrix8x8 ![GitHub Repo Stars](https://img.shields.io/github/stars/JanBednarik/micropython-matrix8x8) ![GitHub last commit](https://img.shields.io/github/last-commit/JanBednarik/micropython-matrix8x8)](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
 * [micropython-max7219 ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/micropython-max7219) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-max7219)](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
-* [micropython-wemos-led-matrix-shield ![GitHub Repo Stars](https://img.shields.io/github/stars/mactijn/micropython-wemos-led-matrix-shield) ![GitHub last commit](https://img.shields.io/github/last-commit/mactijn/micropython-wemos-led-matrix-shield)](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
-* [micropython-wemos-led-matrix ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-wemos-led-matrix) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-wemos-led-matrix)](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
+* [micropython-wemos-led-matrix-shield ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-wemos-led-matrix) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-wemos-led-matrix)](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 * [micropython-max7219 ![GitHub Repo Stars](https://img.shields.io/github/stars/vrialland/micropython-max7219) ![GitHub last commit](https://img.shields.io/github/last-commit/vrialland/micropython-max7219)](https://github.com/vrialland/micropython-max7219) - MicroPython driver for MAX7219 8x8 LED matrix.
 * [MatrixDisplay ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/MatrixDisplay) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/MatrixDisplay)](https://github.com/octaprog7/MatrixDisplay) - MicroPython module for work with MAX7219 LED matrix 8x8 display.
 * [LED_panel_upy ![GitHub Repo Stars](https://img.shields.io/github/stars/CatMeowByte/LED_panel_upy) ![GitHub last commit](https://img.shields.io/github/last-commit/CatMeowByte/LED_panel_upy)](https://github.com/CatMeowByte/LED_panel_upy) - MicroPython driver module for Panel P10 32x16 Matrix display and its variants.
@@ -669,6 +670,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-nunchuck ![GitHub Repo Stars](https://img.shields.io/github/stars/kfricke/micropython-nunchuck) ![GitHub last commit](https://img.shields.io/github/last-commit/kfricke/micropython-nunchuck)](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 * [esp32-microgamepad-ble ![GitHub Repo Stars](https://img.shields.io/github/stars/insighio/esp32-microgamepad-ble) ![GitHub last commit](https://img.shields.io/github/last-commit/insighio/esp32-microgamepad-ble)](https://github.com/insighio/esp32-microgamepad-ble) - Dual analog joystick on ESP32 over BLE (Nordic UART Service - NUS) using MicroPython.
 * [micropython-joystick-2-unit ![GitHub Repo Stars](https://img.shields.io/github/stars/HowManyOliversAreThere/micropython-joystick-2-unit) ![GitHub last commit](https://img.shields.io/github/last-commit/HowManyOliversAreThere/micropython-joystick-2-unit)](https://github.com/HowManyOliversAreThere/micropython-joystick-2-unit) - Driver for the [M5Stack Joystick 2 Unit](https://docs.m5stack.com/en/unit/Unit-JoyStick2).
+* [Micropython_Joystick ![GitHub Repo Stars](https://img.shields.io/github/stars/cnadler86/Micropython_Joystick) ![GitHub last commit](https://img.shields.io/github/last-commit/cnadler86/Micropython_Joystick)](https://github.com/cnadler86/Micropython_Joystick) - A simple and fast library for joysticks over ADC.
 
 #### Keyboard
 
@@ -751,6 +753,8 @@ Other places you can look for MicroPython Libraries:
 * [Micropython Perlin ![GitHub Repo Stars](https://img.shields.io/github/stars/sjaak31367/micropython_perlin) ![GitHub last commit](https://img.shields.io/github/last-commit/sjaak31367/micropython_perlin)](https://github.com/sjaak31367/micropython_perlin) - A Perlin noise generator module.
 
 ### Motion
+
+* [MicroPython Motor Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/cnadler86/MicroPython_Motor) ![GitHub last commit](https://img.shields.io/github/last-commit/cnadler86/MicroPython_Motor)](https://github.com/cnadler86/MicroPython_Motor) - General motor control libraries.
 
 #### DC Motor
 
@@ -1013,7 +1017,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Radiation
 
-* [micropython-geiger ![GitHub Repo Stars](https://img.shields.io/github/stars/Josep/micropython-geiger) ![GitHub last commit](https://img.shields.io/github/last-commit/Josep/micropython-geiger)](https://github.com/Josep/micropython-geiger) - Geiger counter with MicroPython card.
+* [micropython-geiger ![GitHub Repo Stars](https://img.shields.io/github/stars/Wangzhaotian725/micropython-geiger) ![GitHub last commit](https://img.shields.io/github/last-commit/Wangzhaotian725/micropython-geiger)](https://github.com/Wangzhaotian725/micropython-geiger) - Geiger counter with MicroPython card.
 * [ESPGeiger ![GitHub Repo Stars](https://img.shields.io/github/stars/biemster/ESPGeiger) ![GitHub last commit](https://img.shields.io/github/last-commit/biemster/ESPGeiger)](https://github.com/biemster/ESPGeiger) - MicroPython library for the ESP8266 Geiger counter.
 
 #### Soil Moisture
@@ -1195,7 +1199,7 @@ Other places you can look for MicroPython Libraries:
 * [3D rotation with quaternions ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-samples)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
 * [Bhavesh Kakwani](https://bhave.sh/) - MicroPython videos + written tutorials.
-* [CoderDojo Twin Cities MicroPython](https://www.coderdojotc.org/micropython/) - Full coding curriculum for teaching MicroPython to children.
+* [CoderDojo Twin Cities MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/CoderDojoTC/micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/CoderDojoTC/micropython)](https://github.com/CoderDojoTC/micropython) - Full coding curriculum for teaching MicroPython to children.
 * [MicroPython Tutorials for ESP32 boards](https://www.upesy.com/blogs/tutorials/tutorials-for-esp32-with-micropython-code) - Tutorials with code examples to learn the basic of MicroPython with ESP32 boards.
 * [Learn MicroPython with a Pi Pico board](https://www.upesy.com/blogs/tutorials/tutorials-for-rpi-pi-pico-with-micropython-code) - Tutorials on MicroPython with the Raspberry Pi Pico / RP240 boards.
 
@@ -1205,7 +1209,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://link.springer.com/book/10.1007/978-1-4842-3123-4) - By Charles Bell. ISBN 9781484231227.
 * [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2) - By Charles Bell. ISBN 9781484281345.
 * [MicroPython Cookbook](https://www.packtpub.com/en-us/product/micropython-cookbook-9781838641955) - By Marwan Alsabbagh. ISBN 9781838649951.
-* [Python for Microcontrollers: Getting Started with MicroPython](https://www.mheducation.com.au/python-for-microcontrollers-getting-started-with-micropython-9781259644535-aus) - By Donald Norris. ISBN 9781259644535.
+* [Python for Microcontrollers: Getting Started with MicroPython](https://www.mhprofessional.com/python-for-microcontrollers-getting-started-with-micropython-9781259644535-usa-group) - By Donald Norris. ISBN 9781259644535.
 * [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937) - By Yury Magda. ISBN 9781090900937.
 * [MicroPython Projects](https://www.packtpub.com/en-us/product/micropython-projects-9781789952537) - By Jacob Beningo. ISBN 9781789958034.
 * [Get Started with MicroPython on Raspberry Pi Pico 2nd Edition](https://store.rpipress.cc/collections/books/products/get-started-with-micropython-on-raspberry-pi-pico-2nd-edition) - By Gareth Halfacree and Ben Everard. ISBN 9781912047291.
@@ -1268,6 +1272,7 @@ Other places you can look for MicroPython Libraries:
 * [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
 * [Pyboard File Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/joewez/PyboardFileManager) ![GitHub last commit](https://img.shields.io/github/last-commit/joewez/PyboardFileManager)](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.
 * [uPIDE ![GitHub Repo Stars](https://img.shields.io/github/stars/harbaum/upide) ![GitHub last commit](https://img.shields.io/github/last-commit/harbaum/upide)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
+* [pye ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-hh/Micropython-Editor) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/Micropython-Editor)](https://github.com/robert-hh/Micropython-Editor) - On device editor.
 
 ### Logging
 
