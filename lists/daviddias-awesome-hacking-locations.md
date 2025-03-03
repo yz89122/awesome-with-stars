@@ -882,7 +882,7 @@ Webpage: http://www.coffeecorner.pl/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
+✔ | ��� | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
 
 #### Spółdzielnia Ogniwo
 
@@ -954,7 +954,7 @@ Wifi | Power | Address | Open Hours
 
 #### Café São Martinho
 
-> Small, unknown café near the city stadium. Has a pool table, small indoor garden, a small terrace, smoker and non-smoker areas. Not the regular hacker café, but an actual place for hackers that want some quiet place to be during the day, away from the commotion of the city center.
+> Small, unknown café near the city stadium. Has a pool table, small indoor garden, a small terrace, smoker and non-smoker areas. Not the regular hacker caf��, but an actual place for hackers that want some quiet place to be during the day, away from the commotion of the city center.
 
 Webpage: N/A
 

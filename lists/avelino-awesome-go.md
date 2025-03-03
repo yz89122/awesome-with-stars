@@ -1296,12 +1296,11 @@ _Geographic tools and servers_
 
 _Tools for compiling Go to other languages._
 
-- [c2go ![GitHub Repo Stars](https://img.shields.io/github/stars/goplus/c2go) ![GitHub last commit](https://img.shields.io/github/last-commit/goplus/c2go)](https://github.com/goplus/c2go) - Convert C code to Go code.
 - [c4go ![GitHub Repo Stars](https://img.shields.io/github/stars/Konstantin8105/c4go) ![GitHub last commit](https://img.shields.io/github/last-commit/Konstantin8105/c4go)](https://github.com/Konstantin8105/c4go) - Transpile C code to Go code.
 - [esp32 ![GitHub Repo Stars](https://img.shields.io/github/stars/andygeiss/esp32-transpiler) ![GitHub last commit](https://img.shields.io/github/last-commit/andygeiss/esp32-transpiler)](https://github.com/andygeiss/esp32-transpiler) - Transpile Go into Arduino code.
 - [f4go ![GitHub Repo Stars](https://img.shields.io/github/stars/Konstantin8105/f4go) ![GitHub last commit](https://img.shields.io/github/last-commit/Konstantin8105/f4go)](https://github.com/Konstantin8105/f4go) - Transpile FORTRAN 77 code to Go code.
+- [go2hx ![GitHub Repo Stars](https://img.shields.io/github/stars/go2hx/go2hx) ![GitHub last commit](https://img.shields.io/github/last-commit/go2hx/go2hx)](https://github.com/go2hx/go2hx) - Compiler from Go to Haxe to Javascript/C++/Java/C#.
 - [gopherjs ![GitHub Repo Stars](https://img.shields.io/github/stars/gopherjs/gopherjs) ![GitHub last commit](https://img.shields.io/github/last-commit/gopherjs/gopherjs)](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
-- [tardisgo ![GitHub Repo Stars](https://img.shields.io/github/stars/tardisgo/tardisgo) ![GitHub last commit](https://img.shields.io/github/last-commit/tardisgo/tardisgo)](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
 
 **[⬆ back to top](#contents)**
 
@@ -3464,7 +3463,7 @@ _Where to discover new Go libraries._
 - [GoDays](https://www.godays.io/) - Berlin, Germany.
 - [GoLab](https://golab.io/) - Florence, Italy.
 - [GopherChina](https://gopherchina.org) - Shanghai, China.
-- [GopherCon](https://www.gophercon.com/) - Denver, USA.
+- [GopherCon](https://www.gophercon.com/) - Varied Locations Each Year, USA.
 - [GopherCon Australia](https://gophercon.com.au/) - Sydney, Australia.
 - [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, Brazil.
 - [GopherCon Europe](https://gophercon.eu/) - Berlin, Germany.
