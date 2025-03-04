@@ -23,9 +23,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 <!--lint disable double-link-->
 - [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-<!--lint enable double-link-->
 - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/PowerToys) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/PowerToys)](https://github.com/microsoft/PowerToys)
 - [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
+<!--lint enable double-link-->
 
 ## Installation
 
@@ -67,14 +67,12 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [LocalLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/Darkdriller/PowerToys-Run-LocalLLm) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkdriller/PowerToys-Run-LocalLLm)](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [JohnnyDecimal ![GitHub Repo Stars](https://img.shields.io/github/stars/seguri/PowerToys-Run-JohnnyDecimal) ![GitHub last commit](https://img.shields.io/github/last-commit/seguri/PowerToys-Run-JohnnyDecimal)](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
 - [BrowserFavorite ![GitHub Repo Stars](https://img.shields.io/github/stars/Der-Penz/PowerToys-Run-BrowserFavorite) ![GitHub last commit](https://img.shields.io/github/last-commit/Der-Penz/PowerToys-Run-BrowserFavorite)](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) - Quickly open your Browser Bookmarks.
-- [Universal Search Suggestions ![GitHub Repo Stars](https://img.shields.io/github/stars/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin)](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.
-<!--lint disable double-link-->
+- [Universal Search Suggestions ![GitHub Repo Stars](https://img.shields.io/github/stars/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin)](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.<!--lint disable double-link-->
 - [Bang ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) - Search websites with DuckDuckGo !Bangs.
 - [DenCode ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dencode) - Encoding & Decoding.
 - [Dice ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
 - [Need ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
-- [Twitch ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.
-<!--lint enable double-link-->
+- [Twitch ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.<!--lint enable double-link-->
 
 ## Resources
 
