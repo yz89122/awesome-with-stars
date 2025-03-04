@@ -408,7 +408,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='ruby'></a>
 ### Ruby
 
-* [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather
+* [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa) - This is just a small Ruby book. It won���t crush you. It’s light as a feather
 * [Rails Guide][repo-rails-guide] ([Site][site-rails-guide], cc-sa) - Official Guide for Ruby on Rails
 * [The Rails Style Guide][repo-rails-style-guide] (cc) - A community-driven Ruby on Rails 4 style guide
 * [Ruby Style Guide][repo-ruby-style-guide] (cc) - A community-driven Ruby coding style guide
