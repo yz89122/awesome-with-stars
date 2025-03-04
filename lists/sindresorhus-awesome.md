@@ -757,6 +757,7 @@
 - [Playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/mxschmitt/awesome-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/mxschmitt/awesome-playwright)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap ![GitHub Repo Stars](https://img.shields.io/github/stars/fityanos/awesome-quality-assurance-roadmap) ![GitHub last commit](https://img.shields.io/github/last-commit/fityanos/awesome-quality-assurance-roadmap)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling ![GitHub Repo Stars](https://img.shields.io/github/stars/aliesbelik/awesome-gatling) ![GitHub last commit](https://img.shields.io/github/last-commit/aliesbelik/awesome-gatling)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+- [CodeRabbit ![GitHub Repo Stars](https://img.shields.io/github/stars/coderabbitai/awesome-coderabbit) ![GitHub last commit](https://img.shields.io/github/last-commit/coderabbitai/awesome-coderabbit)](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
 
 ## Miscellaneous
 
