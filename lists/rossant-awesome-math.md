@@ -352,7 +352,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * 📝 [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * 📝 [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
-* 📝 [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
+* �� [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
 * 📝 [Galois Theory](https://arxiv.org/pdf/2408.07499) — Tom Leinster (University of Edinburgh)
 
 ### Lie Algebras
@@ -575,7 +575,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
-* ���� [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
+* 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * 📝 [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
