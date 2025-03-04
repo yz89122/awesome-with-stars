@@ -79,7 +79,7 @@
 - [suricata-ls-vscode ![GitHub Repo Stars](https://img.shields.io/github/stars/StamusNetworks/suricata-ls-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/StamusNetworks/suricata-ls-vscode)](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
 - [suricata-highlight-vscode ![GitHub Repo Stars](https://img.shields.io/github/stars/dgenzer/suricata-highlight-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/dgenzer/suricata-highlight-vscode)](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 - [SublimeSuricata ![GitHub Repo Stars](https://img.shields.io/github/stars/ozuriexv/SublimeSuricata) ![GitHub last commit](https://img.shields.io/github/last-commit/ozuriexv/SublimeSuricata)](https://github.com/ozuriexv/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text.
-
+- [Suricata-Check](https://suricata-check.teuwen.net/readme.html) - ``suricata-check`` is a command-line utility to provide feedback on Suricata rules. It can detect issues such as covering syntax validity, interpretability, rule specificity, rule coverage, and efficiency.
 
 ## Documentation and Guides
 
