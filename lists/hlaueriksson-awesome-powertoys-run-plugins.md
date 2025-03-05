@@ -73,6 +73,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Dice ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
 - [Need ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
 - [Twitch ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.<!--lint enable double-link-->
+- [SVGL ![GitHub Repo Stars](https://img.shields.io/github/stars/SameerJS6/powertoys-svgl) ![GitHub last commit](https://img.shields.io/github/last-commit/SameerJS6/powertoys-svgl)](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy SVG logos via svgl.
 
 ## Resources
 
