@@ -371,14 +371,14 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 
 ### API Development and Analysis
 
+* [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
+* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
 * [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client. ![Freeware][Freeware Icon]
-* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
-* [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
-* [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 
 ### Network Analysis
 
@@ -1124,7 +1124,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/jigish/slate) ![GitHub last commit](https://img.shields.io/github/last-commit/jigish/slate)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 * [Swift Shift](https://swiftshift.app) - Use your mouse with a keyboard shortcut to move and resize your windows quickly. It offers options to customize the draggable areas and mouse behavior. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [Tiles](https://freemacsoft.net/tiles/) - Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar. ![Freeware][Freeware Icon]
-* [Topit ![GitHub Repo Stars](https://img.shields.io/github/stars/lihaoyun6/Topit) ![GitHub last commit](https://img.shields.io/github/last-commit/lihaoyun6/Topit)](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon ![GitHub Repo Stars](https://img.shields.io/github/stars/lihaoyun6/Topit) ![GitHub last commit](https://img.shields.io/github/last-commit/lihaoyun6/Topit)](https://github.com/lihaoyun6/Topit)
+* [Topit ![GitHub Repo Stars](https://img.shields.io/github/stars/lihaoyun6/Topit) ![GitHub last commit](https://img.shields.io/github/last-commit/lihaoyun6/Topit)](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.
 * [yabai ![GitHub Repo Stars](https://img.shields.io/github/stars/koekeishiya/yabai) ![GitHub last commit](https://img.shields.io/github/last-commit/koekeishiya/yabai)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
