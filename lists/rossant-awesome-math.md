@@ -352,7 +352,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * 📝 [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * 📝 [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
-* �� [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
+* 📝 [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
 * 📝 [Galois Theory](https://arxiv.org/pdf/2408.07499) — Tom Leinster (University of Edinburgh)
 
 ### Lie Algebras
@@ -617,7 +617,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * 📝 [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
-* 📝 [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
+* ���� [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 # Students Lecture Notes
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
