@@ -365,6 +365,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [XGBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost)
 * [LightGBM ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/LightGBM) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/LightGBM)](https://github.com/microsoft/LightGBM)
 * [CatBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/catboost/catboost) ![GitHub last commit](https://img.shields.io/github/last-commit/catboost/catboost)](https://github.com/catboost/catboost)
+* [PerpetualBooster ![GitHub Repo Stars](https://img.shields.io/github/stars/perpetual-ml/perpetual) ![GitHub last commit](https://img.shields.io/github/last-commit/perpetual-ml/perpetual)](https://github.com/perpetual-ml/perpetual)
 * [JAX ![GitHub Repo Stars](https://img.shields.io/github/stars/google/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax)](https://github.com/google/jax)
 
 ### Deep Learning Packages
