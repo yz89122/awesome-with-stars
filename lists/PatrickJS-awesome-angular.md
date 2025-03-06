@@ -576,6 +576,8 @@ become an Angular expert.
 * [Genezio ![GitHub Repo Stars](https://img.shields.io/github/stars/Genez-io/genezio) ![GitHub last commit](https://img.shields.io/github/last-commit/Genez-io/genezio)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 * [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 * [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered ![GitHub Repo Stars](https://img.shields.io/github/stars/zeropsio/recipe-analog-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/zeropsio/recipe-analog-nodejs)](https://github.com/zeropsio/recipe-analog-nodejs) and [static ![GitHub Repo Stars](https://img.shields.io/github/stars/zeropsio/recipe-analog-static) ![GitHub last commit](https://img.shields.io/github/last-commit/zeropsio/recipe-analog-static)](https://github.com/zeropsio/recipe-analog-static), a breeze.
+* [actions-angular-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/OrthoFi/actions-angular-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/OrthoFi/actions-angular-deploy)](https://github.com/OrthoFi/actions-angular-deploy)
+* [actions-angular-ci-cd ![GitHub Repo Stars](https://img.shields.io/github/stars/OrthoFi/actions-angular-ci-cd) ![GitHub last commit](https://img.shields.io/github/last-commit/OrthoFi/actions-angular-ci-cd)](https://github.com/OrthoFi/actions-angular-ci-cd)
 
 #### Developer tools
 
@@ -625,6 +627,7 @@ become an Angular expert.
 * [ngx-flagr ![GitHub Repo Stars](https://img.shields.io/github/stars/pBouillon/ngx-flagr) ![GitHub last commit](https://img.shields.io/github/last-commit/pBouillon/ngx-flagr)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [ngx-growthbook ![GitHub Repo Stars](https://img.shields.io/github/stars/carlcrede/ngx-growthbook-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/carlcrede/ngx-growthbook-workspace)](https://github.com/carlcrede/ngx-growthbook-workspace/tree/master/projects/ngx-growthbook) - An Angular wrapper for [GrowthBook](https://www.growthbook.io/), providing feature flags and A/B testing capabilities with full TypeScript support.
 * [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
+* [angular-unleash-proxy-client ![GitHub Repo Stars](https://img.shields.io/github/stars/Karelics/angular-unleash-proxy-client) ![GitHub last commit](https://img.shields.io/github/last-commit/Karelics/angular-unleash-proxy-client)](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js ![GitHub Repo Stars](https://img.shields.io/github/stars/Unleash/unleash-proxy-client-js) ![GitHub last commit](https://img.shields.io/github/last-commit/Unleash/unleash-proxy-client-js)](https://github.com/Unleash/unleash-proxy-client-js).
 
 #### Generators
 
