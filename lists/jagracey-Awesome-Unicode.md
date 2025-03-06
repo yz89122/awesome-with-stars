@@ -135,7 +135,7 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **���� Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
  var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
@@ -382,7 +382,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+0149](https://codepoints.net/U+0149?lang=en) | `ŉ`       | LATIN SMALL LETTER N PRECEDED BY APOSTROPHE                              | `ʼ`, `n`         | U+02BC, U+006E         |
 | [U+01F0](https://codepoints.net/U+01F0?lang=en) | `ǰ`       | LATIN SMALL LETTER J WITH CARON                                          | `j`, `̌`          | U+006A, U+030C         |
 | [U+0390](https://codepoints.net/U+0390?lang=en) | `ΐ`       | GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS                         | `ι`, `̈`, `́`      | U+03B9, U+0308, U+0301 |
-| [U+03B0](https://codepoints.net/U+03B0?lang=en) | `��`       | GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS                      | `υ`, `̈`, `́`      | U+03C5, U+0308, U+0301 |
+| [U+03B0](https://codepoints.net/U+03B0?lang=en) | `ΰ`       | GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS                      | `υ`, `̈`, `́`      | U+03C5, U+0308, U+0301 |
 | [U+0587](https://codepoints.net/U+0587?lang=en) | `և`       | ARMENIAN SMALL LIGATURE ECH YIWN                                         | `ե`, `ւ`         | U+0565, U+0582         |
 | [U+1E96](https://codepoints.net/U+1E96?lang=en) | `ẖ`       | LATIN SMALL LETTER H WITH LINE BELOW                                     | `h`, `̱`          | U+0068, U+0331         |
 | [U+1E97](https://codepoints.net/U+1E97?lang=en) | `ẗ`       | LATIN SMALL LETTER T WITH DIAERESIS                                      | `t`, `̈`          | U+0074, U+0308         |
