@@ -457,6 +457,7 @@ _Frameworks that support the development of games._
 - [LWJGL](https://www.lwjgl.org) - Robust framework that abstracts libraries like OpenGL/CL/AL.
 - [Mini2Dx](https://mini2dx.org) - Beginner-friendly, master-ready framework for rapidly prototyping and building 2D games.
 - [Void2D ![GitHub Repo Stars](https://img.shields.io/github/stars/xzripper/Void2D) ![GitHub last commit](https://img.shields.io/github/last-commit/xzripper/Void2D)](https://github.com/xzripper/Void2D) - High-level 2D game engine with built-in physics based on Swing.
+- [vulkan4j ![GitHub Repo Stars](https://img.shields.io/github/stars/chuigda/vulkan4j) ![GitHub last commit](https://img.shields.io/github/last-commit/chuigda/vulkan4j)](https://github.com/chuigda/vulkan4j) - Vulkan, OpenGL ES2 and GLFW Memory Allocator bindings.
 
 ### Geospatial
 
@@ -515,6 +516,7 @@ _Libraries that handle serialization to hypermedia types._
 - [hate ![GitHub Repo Stars](https://img.shields.io/github/stars/blackdoor/hate) ![GitHub last commit](https://img.shields.io/github/last-commit/blackdoor/hate)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 - [JSON-LD ![GitHub Repo Stars](https://img.shields.io/github/stars/jsonld-java/jsonld-java) ![GitHub last commit](https://img.shields.io/github/last-commit/jsonld-java/jsonld-java)](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation.
 - [Siren4J ![GitHub Repo Stars](https://img.shields.io/github/stars/eserating-chwy/siren4j) ![GitHub last commit](https://img.shields.io/github/last-commit/eserating-chwy/siren4j)](https://github.com/eserating-chwy/siren4j) - Library for the Siren specification.
+- [Spring HATEOAS ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-hateoas) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-hateoas)](https://github.com/spring-projects/spring-hateoas) - Standalone and Spring support for building hypermedia-based APIs using HAL, HAL FORMS, Collection+JSON, ALPS and UBER.
 
 ### IDE
 
@@ -537,6 +539,7 @@ _Libraries that assist with the creation, evaluation or manipulation of graphica
 - [TwelveMonkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/haraldk/TwelveMonkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/haraldk/TwelveMonkeys)](https://github.com/haraldk/TwelveMonkeys) - Collection of plugins that extend the number of supported image file formats.
 - [ZXing ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing/zxing) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing/zxing)](https://github.com/zxing/zxing) - Multi-format 1D/2D barcode image processing library.
 - [image-comparison ![GitHub Repo Stars](https://img.shields.io/github/stars/romankh3/image-comparison) ![GitHub last commit](https://img.shields.io/github/last-commit/romankh3/image-comparison)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+- [vips-ffm ![GitHub Repo Stars](https://img.shields.io/github/stars/lopcode/vips-ffm) ![GitHub last commit](https://img.shields.io/github/last-commit/lopcode/vips-ffm)](https://github.com/lopcode/vips-ffm) - Comprehensive bindings for libvips, using Java's "Foreign Function & Memory" API.
 - [scrimage](https://sksamuel.github.io/scrimage) - Immutable, functional, and performant JVM library for manipulation of images.
 
 ### Introspection
@@ -806,6 +809,7 @@ _APIs that handle the persistence of objects._
 - [EclipseLink](https://www.eclipse.org/eclipselink/) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
 - [Hibernate](http://hibernate.org/orm/) - Robust and widely used, with an active community. (LGPL-2.1-only)
 - [MyBatis ![GitHub Repo Stars](https://img.shields.io/github/stars/mybatis/mybatis-3) ![GitHub last commit](https://img.shields.io/github/last-commit/mybatis/mybatis-3)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
+- [MyBatis-Plus ![GitHub Repo Stars](https://img.shields.io/github/stars/baomidou/mybatis-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/baomidou/mybatis-plus)](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development.
 - [ObjectiveSql ![GitHub Repo Stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql) ![GitHub last commit](https://img.shields.io/github/last-commit/braisdom/ObjectiveSql)](https://github.com/braisdom/ObjectiveSql) - ActiveRecord ORM for rapid development and convention over configuration.
 - [Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 - [SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper) - Simple database and CSV mapper.
@@ -1079,6 +1083,7 @@ _Testing for the software development process that emerged from TDD and was heav
 
 _Everything related to the creation and handling of random data._
 
+- [AutoParams ![GitHub Repo Stars](https://img.shields.io/github/stars/AutoParams/AutoParams) ![GitHub last commit](https://img.shields.io/github/last-commit/AutoParams/AutoParams)](https://github.com/AutoParams/AutoParams) - Supports generating test data or combining scenarios for parameterized tests.
 - [Beanmother ![GitHub Repo Stars](https://img.shields.io/github/stars/keepcosmos/beanmother) ![GitHub last commit](https://img.shields.io/github/last-commit/keepcosmos/beanmother)](https://github.com/keepcosmos/beanmother) - Sets up beans from YAML fixtures.
 - [Datafaker ![GitHub Repo Stars](https://img.shields.io/github/stars/datafaker-net/datafaker) ![GitHub last commit](https://img.shields.io/github/last-commit/datafaker-net/datafaker)](https://github.com/datafaker-net/datafaker) - Modern fake data generator forked from Java Faker.
 - [Fixture Factory ![GitHub Repo Stars](https://img.shields.io/github/stars/six2six/fixture-factory) ![GitHub last commit](https://img.shields.io/github/last-commit/six2six/fixture-factory)](https://github.com/six2six/fixture-factory) - Generates fake objects from a template.
@@ -1218,6 +1223,7 @@ _Awesome Lists related to the Java & JVM ecosystem._
 - [Awesome Annotation Processing ![GitHub Repo Stars](https://img.shields.io/github/stars/gunnarmorling/awesome-annotation-processing) ![GitHub last commit](https://img.shields.io/github/last-commit/gunnarmorling/awesome-annotation-processing)](https://github.com/gunnarmorling/awesome-annotation-processing)
 - [Awesome Graal ![GitHub Repo Stars](https://img.shields.io/github/stars/neomatrix369/awesome-graal) ![GitHub last commit](https://img.shields.io/github/last-commit/neomatrix369/awesome-graal)](https://github.com/neomatrix369/awesome-graal)
 - [Awesome Gradle Plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/ksoichiro/awesome-gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/ksoichiro/awesome-gradle)](https://github.com/ksoichiro/awesome-gradle)
+- [Awesome J2ME ![GitHub Repo Stars](https://img.shields.io/github/stars/hstsethi/awesome-j2me) ![GitHub last commit](https://img.shields.io/github/last-commit/hstsethi/awesome-j2me)](https://github.com/hstsethi/awesome-j2me)
 - [AwesomeJavaFX ![GitHub Repo Stars](https://img.shields.io/github/stars/mhrimaz/AwesomeJavaFX) ![GitHub last commit](https://img.shields.io/github/last-commit/mhrimaz/AwesomeJavaFX)](https://github.com/mhrimaz/AwesomeJavaFX)
 - [Awesome JVM ![GitHub Repo Stars](https://img.shields.io/github/stars/deephacks/awesome-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/deephacks/awesome-jvm)](https://github.com/deephacks/awesome-jvm)
 - [Awesome Microservices ![GitHub Repo Stars](https://img.shields.io/github/stars/mfornos/awesome-microservices) ![GitHub last commit](https://img.shields.io/github/last-commit/mfornos/awesome-microservices)](https://github.com/mfornos/awesome-microservices)
