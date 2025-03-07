@@ -2331,7 +2331,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [proselint ![GitHub Repo Stars](https://img.shields.io/github/stars/amperser/proselint) ![GitHub last commit](https://img.shields.io/github/last-commit/amperser/proselint)](https://github.com/amperser/proselint) — A linter for English prose with a focus on writing style instead of grammar.
 
-- [vale](https://vale.sh) �� A syntax-aware linter for prose built with speed and extensibility in mind.
+- [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
 - [write-good ![GitHub Repo Stars](https://img.shields.io/github/stars/btford/write-good) ![GitHub last commit](https://img.shields.io/github/last-commit/btford/write-good)](https://github.com/btford/write-good) — A linter with a focus on eliminating "weasel words".
 

@@ -716,6 +716,7 @@ _Everything else._
 - [Svix ![GitHub Repo Stars](https://img.shields.io/github/stars/svix/svix-webhooks) ![GitHub last commit](https://img.shields.io/github/last-commit/svix/svix-webhooks)](https://github.com/svix/svix-webhooks/tree/main/java) - Library for the Svix API to send webhooks and verify signatures.
 - [Togglz](https://www.togglz.org) - Implementation of the Feature Toggles pattern.
 - [TypeTools ![GitHub Repo Stars](https://img.shields.io/github/stars/jhalterman/typetools) ![GitHub last commit](https://img.shields.io/github/last-commit/jhalterman/typetools)](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
+- [webcam-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/sarxos/webcam-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/sarxos/webcam-capture)](https://github.com/sarxos/webcam-capture) - Library for using built-in and external webcams directly in Java.
 - [XMLBeam ![GitHub Repo Stars](https://img.shields.io/github/stars/SvenEwald/xmlbeam) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenEwald/xmlbeam)](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
 - [yGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/yWorks/yGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/yWorks/yGuard)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
