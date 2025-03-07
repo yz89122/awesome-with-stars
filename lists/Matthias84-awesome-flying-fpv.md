@@ -289,7 +289,7 @@ Sensor values and control information are shared via common serial protocols whi
 * [openXsensor ![GitHub Repo Stars](https://img.shields.io/github/stars/openXsensor/openXsensor) ![GitHub last commit](https://img.shields.io/github/last-commit/openXsensor/openXsensor)](https://github.com/openXsensor/openXsensor) - Convert and alter telemetry protocols.
 * [OpenLog ![GitHub Repo Stars](https://img.shields.io/github/stars/sparkfun/OpenLog) ![GitHub last commit](https://img.shields.io/github/last-commit/sparkfun/OpenLog)](https://github.com/sparkfun/OpenLog) - With [blackbox ![GitHub Repo Stars](https://img.shields.io/github/stars/thenickdude/blackbox) ![GitHub last commit](https://img.shields.io/github/last-commit/thenickdude/blackbox)](https://github.com/thenickdude/blackbox/) firmware for blackbox data recorder (today usually part of main FC).
 
-## Mission Control & Basestation 🗺️
+## Mission Control & Basestation ���️
 
 Ground Control Stations (GCS) on laptops / tablets allow better overview of flight parameters and position for mission control during long range / time flights. Also see [Ardupilot.org - Choosing GCS](https://ardupilot.org/copter/docs/common-choosing-a-ground-station.html).
 
@@ -345,7 +345,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 * [ESP32 Drone](https://hackaday.io/project/188578-esp32-drone) - no traditional FPV, but low cost quad using ESP32 board, 2022.
 * [Wifree-copter](https://open-diy-projects.com/wifree-copter/) - Easy 3D printed copter that uses RPI as WIFI remote control with App, 2016.
 
-## Security & Safety 🪂
+## Security & Safety ���
 
 ### Simulators 🌐
 
