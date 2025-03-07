@@ -33,163 +33,179 @@ sellers who aren't evil for physical resources.
 **Table of Contents**
 
 - [Artificial Intelligence (AI, LLMs)](#artificial-intelligence-ai-llms)
+  - [Machine Learning](#machine-learning)
+  - [Natural Language Processing](#natural-language-processing)
 - [Audio](#audio)
 - [Build Systems](#build-systems)
 - [Compilers, code generators](#compilers-code-generators)
-    - [APL](#apl)
-    - [C, C++](#c-c)
+  - [APL](#apl)
+  - [C, C++](#c-c)
 - [Cryptography](#cryptography)
 - [Cryptocurrencies](#cryptocurrencies)
 - [Database](#database)
-    - [ORMs](#orms)
-    - [Persistent object databases](#persistent-object-databases)
-    - [Graph databases](#graph-databases)
-    - [Other DB wrappers](#other-db-wrappers)
-    - [Migration tools](#migration-tools)
-    - [To third parties](#to-third-parties)
-    - [Tools](#tools)
+  - [ORMs](#orms)
+  - [Persistent object databases](#persistent-object-databases)
+  - [Graph databases](#graph-databases)
+  - [Other DB wrappers](#other-db-wrappers)
+  - [Migration tools](#migration-tools)
+  - [To third parties](#to-third-parties)
+  - [Tools](#tools)
 - [Data Structures](#data-structures)
 - [Docker images](#docker-images)
 - [Foreign Function Interface, languages interop](#foreign-function-interface-languages-interop)
-    - [C](#c)
-    - [Clojure](#clojure)
-    - [Erlang](#erlang)
-    - [Java](#java)
-    - [Objective-C](#objective-c)
-    - [Python](#python)
-    - [.Net Core](#net-core)
-    - [Miscellaneous](#miscellaneous)
+  - [C](#c)
+  - [Clojure](#clojure)
+  - [Erlang](#erlang)
+  - [Java](#java)
+  - [Objective-C](#objective-c)
+  - [Python](#python)
+  - [.Net Core](#net-core)
+  - [Miscellaneous](#miscellaneous)
 - [Game Development](#game-development)
 - [Graphics](#graphics)
 - [GUI](#gui)
-    - [Mobile](#mobile)
+  - [Mobile](#mobile)
 - [Implementations](#implementations)
 - [JSON](#json)
 - [YAML](#yaml)
 - [Language extensions](#language-extensions)
-    - [Pattern matching](#pattern-matching)
-    - [Portability layers](#portability-layers)
-    - [Changing the syntax](#changing-the-syntax)
-    - [CLOS extensions](#clos-extensions)
-    - [Function extensions](#function-extensions)
-    - [Iteration](#iteration)
-    - [Lambda shorthands](#lambda-shorthands)
-    - [Non-deterministic, logic programming](#non-deterministic-logic-programming)
-    - [Reactive programming](#reactive-programming)
-    - [Contract programming](#contract-programming)
-    - [Typing](#typing)
-    - [Theorem provers](#theorem-provers)
+  - [Pattern matching](#pattern-matching)
+  - [Portability layers](#portability-layers)
+  - [Changing the syntax](#changing-the-syntax)
+  - [CLOS extensions](#clos-extensions)
+  - [Function extensions](#function-extensions)
+  - [Iteration](#iteration)
+  - [Lambda shorthands](#lambda-shorthands)
+  - [Non-deterministic, logic programming](#non-deterministic-logic-programming)
+  - [Reactive programming](#reactive-programming)
+  - [Contract programming](#contract-programming)
+  - [Typing](#typing)
+  - [Theorem provers](#theorem-provers)
 - [Learning and Tutorials](#learning-and-tutorials)
-    - [Online](#online)
-    - [Beginner](#beginner)
-    - [Intermediate](#intermediate)
-    - [Advanced](#advanced)
-    - [Coding platforms](#coding-platforms)
-    - [Web Development](#web-development)
-    - [Reference](#reference)
-    - [Offline](#offline)
-    - [Beginner](#beginner-1)
-    - [Intermediate](#intermediate-1)
-    - [Advanced](#advanced-1)
-    - [Other books](#other-books)
-    - [Community](#community)
+  - [Online](#online)
+  - [Beginner](#beginner)
+  - [Intermediate](#intermediate)
+  - [Advanced](#advanced)
+  - [Coding platforms](#coding-platforms)
+  - [Web Development](#web-development)
+  - [Reference](#reference)
+  - [Offline](#offline)
+  - [Beginner](#beginner-1)
+  - [Intermediate](#intermediate-1)
+  - [Advanced](#advanced-1)
+  - [Other books](#other-books)
+  - [Community](#community)
 - [Library Manager](#library-manager)
-    - [Interfaces to other package managers](#interfaces-to-other-package-managers)
-- [Machine Learning](#machine-learning)
-- [Natural Language Processing](#natural-language-processing)
+  - [Interfaces to other package managers](#interfaces-to-other-package-managers)
 - [Network and Internet](#network-and-internet)
-    - [HTTP clients](#http-clients)
-    - [HTTP Servers](#http-servers)
-        - [Hunchentoot plugins](#hunchentoot-plugins)
-        - [Clack plugins](#clack-plugins)
-    - [Web frameworks](#web-frameworks)
-        - [Isomorphic web frameworks](#isomorphic-web-frameworks)
-    - [Parsing html](#parsing-html)
-    - [Querying HTML/DOM, web scraping](#querying-htmldom-web-scraping)
-    - [HTML generators and templates](#html-generators-and-templates)
-    - [URI and IP handling](#uri-and-ip-handling)
-    - [Javascript](#javascript)
-    - [Deployment](#deployment)
-    - [Monitoring](#monitoring)
-    - [Websockets](#websockets)
-    - [Web development utilities](#web-development-utilities)
-        - [Assets management](#assets-management)
-        - [Browser tests](#browser-tests)
-        - [Form handling](#form-handling)
-        - [User login and password management](#user-login-and-password-management)
-        - [Web project skeletons and generators](#web-project-skeletons-and-generators)
-    - [Others](#others)
-        - [Email](#email)
-        - [OpenAPI, OData, OpenRPC](#openapi-odata-openrpc)
-        - [Static site generators](#static-site-generators)
-        - [Third-party APIs](#third-party-apis)
+  - [HTTP clients](#http-clients)
+  - [HTTP Servers](#http-servers)
+    - [Hunchentoot plugins](#hunchentoot-plugins)
+    - [Clack plugins](#clack-plugins)
+  - [Web frameworks](#web-frameworks)
+    - [Isomorphic web frameworks](#isomorphic-web-frameworks)
+  - [Parsing html](#parsing-html)
+  - [Querying HTML/DOM, web scraping](#querying-htmldom-web-scraping)
+  - [HTML generators and templates](#html-generators-and-templates)
+  - [URI and IP handling](#uri-and-ip-handling)
+  - [Javascript](#javascript)
+  - [Deployment](#deployment)
+  - [Monitoring](#monitoring)
+  - [Websockets](#websockets)
+  - [Web development utilities](#web-development-utilities)
+    - [Assets management](#assets-management)
+    - [Browser tests](#browser-tests)
+    - [Form handling](#form-handling)
+    - [User login and password management](#user-login-and-password-management)
+    - [Web project skeletons and generators](#web-project-skeletons-and-generators)
+  - [Others](#others)
+    - [Email](#email)
+    - [OpenAPI, OData, OpenRPC](#openapi-odata-openrpc)
+    - [Static site generators](#static-site-generators)
+    - [Third-party APIs](#third-party-apis)
 - [Numerical and Scientific](#numerical-and-scientific)
-    - [Matrix libraries](#matrix-libraries)
-    - [Statistics](#statistics)
-    - [Units](#units)
-    - [Utils](#utils)
+  - [Matrix libraries](#matrix-libraries)
+  - [Statistics](#statistics)
+  - [Units](#units)
+  - [Utils](#utils)
 - [Parallelism and Concurrency](#parallelism-and-concurrency)
-    - [Actors pattern](#actors-pattern)
-    - [Event processing](#event-processing)
-    - [Job processing](#job-processing)
+  - [Actors pattern](#actors-pattern)
+  - [Event processing](#event-processing)
+  - [Job processing](#job-processing)
 - [Regular expressions and string parsing](#regular-expressions-and-string-parsing)
 - [Scripting](#scripting)
-    - [Running scripts](#running-scripts)
-    - [Command-line options parsers](#command-line-options-parsers)
-    - [Readline, ncurses and other graphical helpers](#readline-ncurses-and-other-graphical-helpers)
-    - [Shells, shells interfaces](#shells-shells-interfaces)
-    - [System administration](#system-administration)
-    - [Other scripting utilities](#other-scripting-utilities)
+  - [Running scripts](#running-scripts)
+  - [Command-line options parsers](#command-line-options-parsers)
+  - [Readline, ncurses and other graphical helpers](#readline-ncurses-and-other-graphical-helpers)
+  - [Shells, shells interfaces](#shells-shells-interfaces)
+  - [System administration](#system-administration)
+  - [Other scripting utilities](#other-scripting-utilities)
 - [Text Editor Resources](#text-editor-resources)
-    - [Emacs](#emacs)
-    - [Vim & Neovim](#vim--neovim)
-    - [Eclipse](#eclipse)
-    - [Lem](#lem)
-    - [LispWorks](#lispworks)
-    - [Atom, Pulsar](#atom-pulsar)
-    - [Sublime Text](#sublime-text)
-    - [VSCode](#vscode)
-    - [JetBrains](#jetbrains)
-    - [Geany (experimental)](#geany-experimental)
-    - [Notebooks](#notebooks)
-    - [REPLs](#repls)
-    - [Online editors](#online-editors)
-    - [Apps](#apps)
+  - [Emacs](#emacs)
+  - [Vim & Neovim](#vim--neovim)
+  - [Eclipse](#eclipse)
+  - [Lem](#lem)
+  - [LispWorks](#lispworks)
+  - [Atom, Pulsar](#atom-pulsar)
+  - [Sublime Text](#sublime-text)
+  - [VSCode](#vscode)
+  - [JetBrains](#jetbrains)
+  - [Geany (experimental)](#geany-experimental)
+  - [Notebooks](#notebooks)
+  - [REPLs](#repls)
+  - [Online editors](#online-editors)
+  - [Apps](#apps)
 - [Text and binary parsers](#text-and-binary-parsers)
 - [Text Processing](#text-processing)
 - [Tools](#tools-1)
 - [Unit Testing](#unit-testing)
 - [Utilities](#utilities)
-    - [Caching (serialization)](#caching-serialization)
-    - [Caching (memoization)](#caching-memoization)
-    - [Compression / decompression](#compression--decompression)
-    - [Configuration](#configuration)
-    - [CSV](#csv)
-    - [Date and time](#date-and-time)
-    - [Data validation](#data-validation)
-    - [Developer utilities](#developer-utilities)
-    - [Documentation builders](#documentation-builders)
-    - [Files and directories](#files-and-directories)
-    - [Git](#git)
-    - [i18n](#i18n)
-    - [Linting, code formatting](#linting-code-formatting)
-    - [Literate programming](#literate-programming)
-    - [Logging](#logging)
-    - [Macro helpers](#macro-helpers)
-    - [Markdown](#markdown)
-    - [PDF](#pdf)
-    - [Plotting](#plotting)
-    - [Project skeletons](#project-skeletons)
-    - [Security](#security)
-    - [System interface](#system-interface)
-    - [XML](#xml)
-    - [Other](#other)
+  - [Caching (serialization)](#caching-serialization)
+  - [Caching (memoization)](#caching-memoization)
+  - [Compression / decompression](#compression--decompression)
+  - [Configuration](#configuration)
+  - [CSV](#csv)
+  - [Date and time](#date-and-time)
+  - [Data validation](#data-validation)
+  - [Developer utilities](#developer-utilities)
+  - [Documentation builders](#documentation-builders)
+  - [Files and directories](#files-and-directories)
+  - [Git](#git)
+  - [i18n](#i18n)
+  - [Linting, code formatting](#linting-code-formatting)
+  - [Literate programming](#literate-programming)
+  - [Logging](#logging)
+  - [Macro helpers](#macro-helpers)
+  - [Markdown](#markdown)
+  - [PDF](#pdf)
+  - [Plotting](#plotting)
+  - [Project skeletons](#project-skeletons)
+  - [Security](#security)
+  - [System interface](#system-interface)
+  - [XML](#xml)
+  - [Other](#other)
 - [Contributing](#contributing)
 
 <!-- markdown-toc end -->
 
 Artificial Intelligence (AI, LLMs)
 ==========================================
+
+Educational:
+
+* [PAIP-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/norvig/paip-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/norvig/paip-lisp)](https://github.com/norvig/paip-lisp) - Lisp code for the textbook ["Paradigms of Artificial Intelligence Programming"](https://norvig.github.io/paip-lisp/#/).
+* [AIMA-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/aimacode/aima-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/aimacode/aima-lisp)](https://github.com/aimacode/aima-lisp) -  Common Lisp implementation of algorithms from Russell and Norvig's "Artificial Intelligence - A Modern Approach".
+
+## Machine Learning
+
+* [MGL ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/mgl) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/mgl)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
+  * some parts originally contributed by Ravenpack International.
+  * used by its [author](https://github.com/melisgl) to [win ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/higgsml) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/higgsml)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
+  * more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
+* [clml ![GitHub Repo Stars](https://img.shields.io/github/stars/mmaul/clml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmaul/clml)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL][8].
+* [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/mgl-mat) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/mgl-mat)](https://github.com/melisgl/mgl-mat) and [LLA ![GitHub Repo Stars](https://img.shields.io/github/stars/tpapp/lla) ![GitHub last commit](https://img.shields.io/github/last-commit/tpapp/lla)](https://github.com/tpapp/lla).
+
+Credit: borretti.me's [State of CL Ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
 
 * [llama.cl ![GitHub Repo Stars](https://img.shields.io/github/stars/snunez1/llama.cl) ![GitHub last commit](https://img.shields.io/github/last-commit/snunez1/llama.cl)](https://github.com/snunez1/llama.cl) - a Common Lisp port of Karpathy's llama2.c to idiomatic Common Lisp. MIT.
 
@@ -209,11 +225,12 @@ Work In Progress:
 
 * [Caten ![GitHub Repo Stars](https://img.shields.io/github/stars/hikettei/Caten) ![GitHub last commit](https://img.shields.io/github/last-commit/hikettei/Caten)](https://github.com/hikettei/Caten) -  Deep Learning Compiler based on Polyhedral Compiler and Light-weight IRs, and Optimizing Pattern Matcher, written in Common Lisp
 
-Educational:
+## Natural Language Processing
 
-* [PAIP-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/norvig/paip-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/norvig/paip-lisp)](https://github.com/norvig/paip-lisp) - Lisp code for the textbook ["Paradigms of Artificial Intelligence Programming"](https://norvig.github.io/paip-lisp/#/).
-* [AIMA-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/aimacode/aima-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/aimacode/aima-lisp)](https://github.com/aimacode/aima-lisp) -  Common Lisp implementation of algorithms from Russell and Norvig's "Artificial Intelligence - A Modern Approach".
-
+* 🚀 [sparser ![GitHub Repo Stars](https://img.shields.io/github/stars/ddmcdonald/sparser) ![GitHub last commit](https://img.shields.io/github/last-commit/ddmcdonald/sparser)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse][209].
+  * > a model-driven, rule-based language text analysis system for large volume, high-precision information extraction. At its heart, Sparser is a bottom-up, phrase-structure-based chart parser, optimized for semantic grammars and partial parsing.
+* [cl-nlp ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/cl-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/cl-nlp)](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0][89].
+* [babel2 ![GitHub Repo Stars](https://img.shields.io/github/stars/lucas8/Babel2) ![GitHub last commit](https://img.shields.io/github/last-commit/lucas8/Babel2)](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0][89].
 
 Audio
 =====
@@ -554,7 +571,7 @@ For Emacs Lisp:
 Game Development
 ================
 
-* [Trial ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/trial) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/trial)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib][33].
+* [Trial ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/trial) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/trial)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. Custom: [zlib][33] with a political clause added.
   * the [Kandria](https://kandria.com/) game is built with Trial.
 * [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – with this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
 * [virality ![GitHub Repo Stars](https://img.shields.io/github/stars/bufferswap/ViralityEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/bufferswap/ViralityEngine)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT][200].
@@ -1059,7 +1076,7 @@ might help:
 * [print-licenses ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/print-licenses) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/print-licenses)](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT][200].
 * [asdf-dependency-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/asdf-dependency-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/asdf-dependency-graph)](https://github.com/digikar99/asdf-dependency-graph/) - A minimal wrapper around `dot` to generate an image of the dependencies graph.
 
-### Interfaces to other package managers
+## Interfaces to other package managers
 
 * [linux-packaging](https://gitlab.com/ralt/linux-packaging) - build .deb, .rpm or .pkg packages for your application with a single ASDF declaration. Uses fpm under the hood. [MIT][200].
 * [qldeb ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/qldeb) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/qldeb)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/deb-packager) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/deb-packager)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT][200].
@@ -1075,29 +1092,6 @@ See also:
 
 - [asdf-sbcl ![GitHub Repo Stars](https://img.shields.io/github/stars/smashedtoatoms/asdf-sbcl) ![GitHub last commit](https://img.shields.io/github/last-commit/smashedtoatoms/asdf-sbcl)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 - 📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
-
-Machine Learning
-================
-
-* [MGL ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/mgl) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/mgl)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
-  * some parts originally contributed by Ravenpack International.
-  * used by its [author](https://github.com/melisgl) to [win ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/higgsml) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/higgsml)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
-  * more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
-* [clml ![GitHub Repo Stars](https://img.shields.io/github/stars/mmaul/clml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmaul/clml)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL][8].
-* [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/mgl-mat) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/mgl-mat)](https://github.com/melisgl/mgl-mat) and [LLA ![GitHub Repo Stars](https://img.shields.io/github/stars/tpapp/lla) ![GitHub last commit](https://img.shields.io/github/last-commit/tpapp/lla)](https://github.com/tpapp/lla).
-
-Credit: borretti.me's [State of CL Ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
-
-
-Natural Language Processing
-===========================
-
-* 🚀 [sparser ![GitHub Repo Stars](https://img.shields.io/github/stars/ddmcdonald/sparser) ![GitHub last commit](https://img.shields.io/github/last-commit/ddmcdonald/sparser)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse][209].
-  * > a model-driven, rule-based language text analysis system for large volume, high-precision information extraction. At its heart, Sparser is a bottom-up, phrase-structure-based chart parser, optimized for semantic grammars and partial parsing.
-* [cl-nlp ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/cl-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/cl-nlp)](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0][89].
-* [babel2 ![GitHub Repo Stars](https://img.shields.io/github/stars/lucas8/Babel2) ![GitHub last commit](https://img.shields.io/github/last-commit/lucas8/Babel2)](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0][89].
-
-
 
 Network and Internet
 ====================
