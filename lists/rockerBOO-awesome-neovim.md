@@ -277,6 +277,7 @@
 - [maxandron/goplements.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/maxandron/goplements.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/maxandron/goplements.nvim)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 - [Snikimonkd/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Snikimonkd/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Snikimonkd/cmp-go-pkgs)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
 - [Yu-Leo/gosigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
+- [Yu-Leo/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/cmp-go-pkgs)](https://github.com/Yu-Leo/cmp-go-pkgs) - Cmp source providing the names of Go packages to import.
 
 ### YAML
 
@@ -982,6 +983,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [rachartier/tiny-glimmer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.  
 - [neanvo/buben.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neanvo/buben.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neanvo/buben.nvim)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 - [josephburgess/nvumi ![GitHub Repo Stars](https://img.shields.io/github/stars/josephburgess/nvumi) ![GitHub last commit](https://img.shields.io/github/last-commit/josephburgess/nvumi)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
+- [redoxahmii/json-to-types.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/redoxahmii/json-to-types.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/redoxahmii/json-to-types.nvim)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
 
 ### CSV Files
 
