@@ -14,7 +14,6 @@
 
 * New content contributions are not accepted at this time.
 * You can, however, report problems with the website or suggest improvements by [opening an issue ![GitHub Repo Stars](https://img.shields.io/github/stars/Chalarangelo/30-seconds-of-code) ![GitHub last commit](https://img.shields.io/github/last-commit/Chalarangelo/30-seconds-of-code)](https://github.com/Chalarangelo/30-seconds-of-code/issues/new).
-* You can also join the [community discussions ![GitHub Repo Stars](https://img.shields.io/github/stars/Chalarangelo/30-seconds-of-code) ![GitHub last commit](https://img.shields.io/github/last-commit/Chalarangelo/30-seconds-of-code)](https://github.com/Chalarangelo/30-seconds-of-code/discussions).
 
 ## Credits
 
