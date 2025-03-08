@@ -276,7 +276,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Cross-Platform
     - 🎉 [Cosmopolitan ![GitHub Repo Stars](https://img.shields.io/github/stars/jart/cosmopolitan) ![GitHub last commit](https://img.shields.io/github/last-commit/jart/cosmopolitan)](https://github.com/jart/cosmopolitan) - Build-once run-anywhere C library.
 - C: Entity Component System
-    - 🎉 [Flecs ![GitHub Repo Stars](https://img.shields.io/github/stars/SanderMertens/flecs) ![GitHub last commit](https://img.shields.io/github/last-commit/SanderMertens/flecs)](https://github.com/SanderMertens/flecs) - Fast and lightweight entity component system in C99.
+    - �� [Flecs ![GitHub Repo Stars](https://img.shields.io/github/stars/SanderMertens/flecs) ![GitHub last commit](https://img.shields.io/github/last-commit/SanderMertens/flecs)](https://github.com/SanderMertens/flecs) - Fast and lightweight entity component system in C99.
 - C: File Formats
     - 🎉 [Assimp ![GitHub Repo Stars](https://img.shields.io/github/stars/assimp/assimp) ![GitHub last commit](https://img.shields.io/github/last-commit/assimp/assimp)](https://github.com/assimp/assimp) - Open Asset Importer Library. Loads 40+ 3D file formats.
     - 🎉 [cgltf ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/cgltf) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/cgltf)](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer in C99.
