@@ -258,7 +258,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-[��️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Chatbots
@@ -322,7 +322,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [����](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
+| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 
@@ -390,7 +390,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | ��     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
