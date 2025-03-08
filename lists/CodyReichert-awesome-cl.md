@@ -2121,7 +2121,7 @@ Project skeletons
 * [cl-project ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/cl-project) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-project)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
 * [cl-project-with-docs ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/cl-project-with-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/cl-project-with-docs)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD][15].
 * [cl-cookieproject ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-cookieproject) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-cookieproject)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD_3Clause][15].
-  * test definitions, entry point to run from sources, build a binary, Roswell integration…
+  * test definitions, entry point to run from sources, build a binary, Roswell integration��
 * [cookiecutter-lisp-game ![GitHub Repo Stars](https://img.shields.io/github/stars/lockie/cookiecutter-lisp-game) ![GitHub last commit](https://img.shields.io/github/last-commit/lockie/cookiecutter-lisp-game)](https://github.com/lockie/cookiecutter-lisp-game) - An opinionated cookiecutter template for Common Lisp videogame projects. Allows to choose [backend middleware library](#graphics) between liballegro, raylib and SDL2. Contains CI scripts using [docker-lisp-gamedev](#docker-images) to automatically build binaries for Windows, MacOS and Linux.
 
 Security
