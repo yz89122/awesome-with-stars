@@ -177,7 +177,7 @@ http://oleg.fi/graafi/
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22 ![GitHub Repo Stars](https://img.shields.io/github/stars/erykpiast/cyclejs-mock) ![GitHub last commit](https://img.shields.io/github/last-commit/erykpiast/cyclejs-mock)](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0 ![GitHub Repo Stars](https://img.shields.io/github/stars/jeysal/pretty-format-snabbdom) ![GitHub last commit](https://img.shields.io/github/last-commit/jeysal/pretty-format-snabbdom)](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/jest) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/jest)](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ��0 ![GitHub Repo Stars](https://img.shields.io/github/stars/jeysal/pretty-format-snabbdom) ![GitHub last commit](https://img.shields.io/github/last-commit/jeysal/pretty-format-snabbdom)](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/jest) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/jest)](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
