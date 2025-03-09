@@ -167,6 +167,8 @@ _Tables and data grids._
 - [svelte-generic-table-pager ![GitHub Repo Stars](https://img.shields.io/github/stars/ivosdc/svelte-generic-table-pager) ![GitHub last commit](https://img.shields.io/github/last-commit/ivosdc/svelte-generic-table-pager)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 - [powertable ![GitHub Repo Stars](https://img.shields.io/github/stars/muonw/powertable) ![GitHub last commit](https://img.shields.io/github/last-commit/muonw/powertable)](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
 - [svelte-pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/jjagielka/svelte-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/jjagielka/svelte-pivottable)](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
+- [svelte-datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/svelte-datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/svelte-datagrid)](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
+- [@wjfe/dataview ![GitHub Repo Stars](https://img.shields.io/github/stars/WJSoftware/wjfe-dataview) ![GitHub last commit](https://img.shields.io/github/last-commit/WJSoftware/wjfe-dataview)](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
 
 ### Notification
 
@@ -325,6 +327,7 @@ _For Single Page Applications (SPAs) and more._
 - [@shaun/svelterouter ![GitHub Repo Stars](https://img.shields.io/github/stars/shaunlee/svelterouter) ![GitHub last commit](https://img.shields.io/github/last-commit/shaunlee/svelterouter)](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
 - [Elegua ![GitHub Repo Stars](https://img.shields.io/github/stars/howesteve/elegua) ![GitHub last commit](https://img.shields.io/github/last-commit/howesteve/elegua)](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
 - [svelte5-router ![GitHub Repo Stars](https://img.shields.io/github/stars/mateothegreat/svelte5-router) ![GitHub last commit](https://img.shields.io/github/last-commit/mateothegreat/svelte5-router)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+- [@wjfe/n-savant ![GitHub Repo Stars](https://img.shields.io/github/stars/WJSoftware/wjfe-n-savant) ![GitHub last commit](https://img.shields.io/github/last-commit/WJSoftware/wjfe-n-savant)](https://github.com/WJSoftware/wjfe-n-savant) - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
 
 ## Frameworks
 

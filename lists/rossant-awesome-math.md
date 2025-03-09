@@ -250,7 +250,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
 * 📝 [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
 * 📝 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
-* �� [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)
+* 📝 [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)
 
 ### Type Theory
 * 📝 [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
@@ -394,7 +394,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * 📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 * 📝 [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
-* 📝 [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
+* ��� [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
 * 📝 [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
 
 ### Algebraic Geometry
@@ -419,7 +419,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Topology](http://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf)
 * 📝 [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) - Alex Küronya
 * 📝 [Introductory Topology](http://www.math.clemson.edu/~jimlb/Teaching/2009-10/Math986/Topology.pdf) - Jim L. Brown
-* ���� [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
+* 📝 [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * 📝 [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
 * 📝 [Topology Topics](http://mathonline.wikidot.com/topology)
