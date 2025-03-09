@@ -362,7 +362,7 @@ The most consumer friendly trainer simulators are commercial, but available for 
 * [GAZEBOsim ![GitHub Repo Stars](https://img.shields.io/github/stars/gazebosim/gz-sim) ![GitHub last commit](https://img.shields.io/github/last-commit/gazebosim/gz-sim)](https://github.com/gazebosim/gz-sim) - Multi robot.
 * ROS supports simulations like described [by PX4](https://docs.px4.io/master/en/ros/ros2_comm.html).
 
-### Checklists ��
+### Checklists 📋
 
 Malfunction can have dramatic consequences, as well as your drone can cause massive damages. To avoid unnecessary risks, a step by step protocol and documentation is mandatory for every flight in case you might use your insurance.
 
