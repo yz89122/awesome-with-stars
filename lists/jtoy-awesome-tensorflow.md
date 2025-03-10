@@ -155,6 +155,7 @@ More info [here](http://tensorflow.org).
 * [DeepBay ![GitHub Repo Stars](https://img.shields.io/github/stars/ElPapi42/DeepBay) ![GitHub last commit](https://img.shields.io/github/last-commit/ElPapi42/DeepBay)](https://github.com/ElPapi42/DeepBay) - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules
 * [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabilistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
 * [TensorLayerX ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorlayer/TensorLayerX) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorlayer/TensorLayerX)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
+* [Txeo ![GitHub Repo Stars](https://img.shields.io/github/stars/rdabra/txeo) ![GitHub last commit](https://img.shields.io/github/last-commit/rdabra/txeo)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
 <a name="tools-utils" />
 
