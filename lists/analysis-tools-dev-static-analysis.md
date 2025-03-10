@@ -658,7 +658,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Doop](https://plast-lab.github.io/doop-pldi15-tutorial/) — Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 
-- [ENRE-java ![GitHub Repo Stars](https://img.shields.io/github/stars/xjtu-enre/ENRE-java) ![GitHub last commit](https://img.shields.io/github/last-commit/xjtu-enre/ENRE-java)](https://github.com/xjtu-enre/ENRE-java) — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-java is a ENtity Relationship Extractor for Java projects based on @Eclipse JDT/parser.
+- [ENRE-java ![GitHub Repo Stars](https://img.shields.io/github/stars/xjtu-enre/ENRE-java) ![GitHub last commit](https://img.shields.io/github/last-commit/xjtu-enre/ENRE-java)](https://github.com/xjtu-enre/ENRE-java) :warning: — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-java is a ENtity Relationship Extractor for Java projects based on @Eclipse JDT/parser.
 
 - [Error Prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 
@@ -2331,7 +2331,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [proselint ![GitHub Repo Stars](https://img.shields.io/github/stars/amperser/proselint) ![GitHub last commit](https://img.shields.io/github/last-commit/amperser/proselint)](https://github.com/amperser/proselint) — A linter for English prose with a focus on writing style instead of grammar.
 
-- [vale](https://vale.sh) �� A syntax-aware linter for prose built with speed and extensibility in mind.
+- [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
 - [write-good ![GitHub Repo Stars](https://img.shields.io/github/stars/btford/write-good) ![GitHub last commit](https://img.shields.io/github/last-commit/btford/write-good)](https://github.com/btford/write-good) — A linter with a focus on eliminating "weasel words".
 
