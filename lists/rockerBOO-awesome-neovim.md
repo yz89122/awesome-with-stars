@@ -984,6 +984,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [neanvo/buben.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neanvo/buben.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neanvo/buben.nvim)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 - [josephburgess/nvumi ![GitHub Repo Stars](https://img.shields.io/github/stars/josephburgess/nvumi) ![GitHub last commit](https://img.shields.io/github/last-commit/josephburgess/nvumi)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 - [redoxahmii/json-to-types.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/redoxahmii/json-to-types.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/redoxahmii/json-to-types.nvim)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
+- [ovk/endec.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ovk/endec.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ovk/endec.nvim)](https://github.com/ovk/endec.nvim) - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
 
 ### CSV Files
 
@@ -1641,6 +1642,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 - [MordechaiHadad/bob ![GitHub Repo Stars](https://img.shields.io/github/stars/MordechaiHadad/bob) ![GitHub last commit](https://img.shields.io/github/last-commit/MordechaiHadad/bob)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 - [NTBBloodbath/nvenv ![GitHub Repo Stars](https://img.shields.io/github/stars/NTBBloodbath/nvenv) ![GitHub last commit](https://img.shields.io/github/last-commit/NTBBloodbath/nvenv)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
+- [y3owk1n/nvs ![GitHub Repo Stars](https://img.shields.io/github/stars/y3owk1n/nvs) ![GitHub last commit](https://img.shields.io/github/last-commit/y3owk1n/nvs)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
 ### Boilerplate
 
