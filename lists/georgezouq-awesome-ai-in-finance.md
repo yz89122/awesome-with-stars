@@ -95,6 +95,7 @@ Price and Volume process with Technology Analysis Indices
 - [qtrader ![GitHub Repo Stars](https://img.shields.io/github/stars/filangel/qtrader) ![GitHub last commit](https://img.shields.io/github/last-commit/filangel/qtrader)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
 - [PGPortfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/ZhengyaoJiang/PGPortfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhengyaoJiang/PGPortfolio)](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 - [DeepDow ![GitHub Repo Stars](https://img.shields.io/github/stars/jankrepl/deepdow) ![GitHub last commit](https://img.shields.io/github/last-commit/jankrepl/deepdow)](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning.
+- [skfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/skfolio/skfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/skfolio/skfolio)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 
 ### High Frequency Trading
 
