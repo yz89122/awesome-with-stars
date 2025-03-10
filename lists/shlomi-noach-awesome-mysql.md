@@ -105,6 +105,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [PyMySQL ![GitHub Repo Stars](https://img.shields.io/github/stars/PyMySQL/PyMySQL) ![GitHub last commit](https://img.shields.io/github/last-commit/PyMySQL/PyMySQL)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem ![GitHub Repo Stars](https://img.shields.io/github/stars/brianmario/mysql2) ![GitHub last commit](https://img.shields.io/github/last-commit/brianmario/mysql2)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 - [MyZql ![GitHub Repo Stars](https://img.shields.io/github/stars/speed2exe/myzql) ![GitHub last commit](https://img.shields.io/github/last-commit/speed2exe/myzql)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+- [wtx ![GitHub Repo Stars](https://img.shields.io/github/stars/c410-f3r/wtx) ![GitHub last commit](https://img.shields.io/github/last-commit/c410-f3r/wtx)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## Deployment
 
