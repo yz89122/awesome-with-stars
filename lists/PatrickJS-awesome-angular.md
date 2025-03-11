@@ -943,6 +943,7 @@ become an Angular expert.
 * [ngx-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/ngx-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/ngx-playwright)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 * [playwright-ng-schematics ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/playwright-ng-schematics) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/playwright-ng-schematics)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [playwright-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/playwright-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/playwright-coverage)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
+* [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.
 
 ##### Component
 
@@ -975,6 +976,7 @@ become an Angular expert.
 * [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.
 * [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
+* [Angular-Storybook-Chromatic-CDD ![GitHub Repo Stars](https://img.shields.io/github/stars/leolanese/Angular-Storybook-Chromatic-CDD) ![GitHub last commit](https://img.shields.io/github/last-commit/leolanese/Angular-Storybook-Chromatic-CDD)](https://github.com/leolanese/Angular-Storybook-Chromatic-CDD) - Learn how to use [Chromatic](https://www.chromatic.com/) to test UI changes of Angular [Storybook](https://storybook.js.org/) components.
 
 ##### Helpers
 
