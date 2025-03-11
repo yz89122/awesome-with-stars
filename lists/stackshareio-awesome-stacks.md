@@ -267,7 +267,7 @@ Learn how to build a full-stack production ready note taking app using Serverles
 - [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 - [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
-- [Create React App](https://facebook.github.io/create-react-app/) - [����](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ##### Resources
 
@@ -332,7 +332,7 @@ The best way to create a versatile and scalable PHP Web Application! It sure wil
 - [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-### FReMP: Flask ReactJS MongoDB Python [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
+### FReMP: Flask ReactJS MongoDB Python [���](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
 
 FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 

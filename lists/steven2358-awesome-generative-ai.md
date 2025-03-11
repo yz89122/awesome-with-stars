@@ -199,6 +199,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclotruc/gitingest) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclotruc/gitingest)](https://github.com/cyclotruc/gitingest)
 - [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/yamadashy/repomix) ![GitHub last commit](https://img.shields.io/github/last-commit/yamadashy/repomix)](https://github.com/yamadashy/repomix)
 - [llama.cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ggml-org/llama.cpp)](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
+- [bitnet.cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/BitNet) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/BitNet)](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/BitNet) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/BitNet)](https://github.com/microsoft/BitNet)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
@@ -281,7 +282,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Image libraries
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
-- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL��E 2.
+- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
 - [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
 
