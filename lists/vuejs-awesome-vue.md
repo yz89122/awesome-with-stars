@@ -960,7 +960,6 @@ _Set of admin template_
 - [Geeker-Admin ![GitHub Repo Stars](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin) ![GitHub last commit](https://img.shields.io/github/last-commit/HalseySpicy/Geeker-Admin)](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
 - [gin-vue-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin)](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
-- [vue-start-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/loicduong/vue-start-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/loicduong/vue-start-admin)](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
 - [soybean-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin)](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
 
 #### Server-side rendering
@@ -1561,6 +1560,7 @@ _LocalStorage etc._
 - [pinia-orm ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeDredd/pinia-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeDredd/pinia-orm)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 - [pinia-persistedstate-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/iendeavor/pinia-plugin-persistedstate-2) ![GitHub last commit](https://img.shields.io/github/last-commit/iendeavor/pinia-plugin-persistedstate-2)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 - [tauri-plugin-pinia ![GitHub Repo Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store) ![GitHub last commit](https://img.shields.io/github/last-commit/ferreira-tb/tauri-store)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
+- [pinia-plugin-unstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/litingyes/pinia-plugin-unstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/litingyes/pinia-plugin-unstorage)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
 ##### Authentication/Authorization
 
