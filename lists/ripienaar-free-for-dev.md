@@ -182,7 +182,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.
 
-**[⬆�� Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Source Code Repos
 
@@ -1137,6 +1137,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/langfuse/langfuse) ![GitHub last commit](https://img.shields.io/github/last-commit/langfuse/langfuse)](https://github.com/langfuse/langfuse)
   * [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/pollinations/pollinations) ![GitHub last commit](https://img.shields.io/github/last-commit/pollinations/pollinations)](https://github.com/pollinations/pollinations)
   * [Othor AI](https://othor.ai/) - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/othorai/othor.ai) ![GitHub last commit](https://img.shields.io/github/last-commit/othorai/othor.ai)](https://github.com/othorai/othor.ai)
+  * [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
