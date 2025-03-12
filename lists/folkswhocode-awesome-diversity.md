@@ -238,7 +238,7 @@ Will Evans and Sinduja Rangarajan.
 - [Why We Shouldn't Underestimate The Power Of Diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) - By Joi Ito and Jeff Howe.
 - [Why Your Efforts To Fix Your Pipeline Aren’t Fixing Your Pipeline](https://chelseatroy.com/2018/04/12/why-your-efforts-to-fix-your-pipeline-arent-fixing-your-pipeline/) - By Chelsea Troy.
 - [Women And Minorities Are Penalized For Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) - By Stefanie K. Johnson and David R. Hekman.
-- [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) - By Project Include's Laura I. Gómez.
+- [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) - By Project Include's Laura I. G��mez.
 - [Your Company's Slack Is Probably Sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) - By Leah Fessler.
 - [Diversity in Tech](https://www.linkedin.com/pulse/diversity-tech-adam-e-recvlohe/) - By Adam Recvlohe
 
