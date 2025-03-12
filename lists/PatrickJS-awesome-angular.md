@@ -303,6 +303,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Amadou Sall](https://www.amadousall.com/)
 * [Angular Philosophies ![GitHub Repo Stars](https://img.shields.io/github/stars/tomavic/angular-philosophies) ![GitHub last commit](https://img.shields.io/github/last-commit/tomavic/angular-philosophies)](https://github.com/tomavic/angular-philosophies)
 * [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
+* [Playful Programming](https://playfulprogramming.com/)
 
 ##### Books
 
@@ -1521,6 +1522,7 @@ to simplify usage and allow quick customization.
 * [ngx-markdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/notiz-dev/ngx-markdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/notiz-dev/ngx-markdoc)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 * [ngx-md ![GitHub Repo Stars](https://img.shields.io/github/stars/dimpu/ngx-md) ![GitHub last commit](https://img.shields.io/github/last-commit/dimpu/ngx-md)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 * [ngx-textile ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent/ngx-textile) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent/ngx-textile)](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js ![GitHub Repo Stars](https://img.shields.io/github/stars/borgar/textile-js) ![GitHub last commit](https://img.shields.io/github/last-commit/borgar/textile-js)](https://github.com/borgar/textile-js).
+* [mdbook-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/mdbook-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/mdbook-angular)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
 
 #### Media
 
