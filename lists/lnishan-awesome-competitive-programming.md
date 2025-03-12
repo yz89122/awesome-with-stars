@@ -187,7 +187,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset?tags=dp) | CF (DP) |
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
-| ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
+| ★★☆ | [Lucky貓的 UVA���ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
 ### Contest Calendars
@@ -228,7 +228,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/indy256/codelibrary) ![GitHub last commit](https://img.shields.io/github/last-commit/indy256/codelibrary)](https://github.com/indy256/codelibrary). |
+| ★★��� | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/indy256/codelibrary) ![GitHub last commit](https://img.shields.io/github/last-commit/indy256/codelibrary)](https://github.com/indy256/codelibrary). |
 | ★★★ | [spaghetti-source/algorithm ![GitHub Repo Stars](https://img.shields.io/github/stars/spaghetti-source/algorithm) ![GitHub last commit](https://img.shields.io/github/last-commit/spaghetti-source/algorithm)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
 | ★★★ | [kth-competitive-programming/kactl ![GitHub Repo Stars](https://img.shields.io/github/stars/kth-competitive-programming/kactl) ![GitHub last commit](https://img.shields.io/github/last-commit/kth-competitive-programming/kactl)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen. | 
 | ★★☆ | [jaehyunp/stanfordacm ![GitHub Repo Stars](https://img.shields.io/github/stars/jaehyunp/stanfordacm) ![GitHub last commit](https://img.shields.io/github/last-commit/jaehyunp/stanfordacm)](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
@@ -328,7 +328,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
 | Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
 | LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
-| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.com/) |
+| Huang I-Wen (dreamoon) | [小��的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.com/) |
 | Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
 | Yuhao Du (TooDifficuIt, TooSimple, xudyh) | [xudyh (Chinese)](http://xudyh.github.io/) |
 
