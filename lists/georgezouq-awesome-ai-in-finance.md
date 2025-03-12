@@ -105,7 +105,7 @@ Price and Volume process with Technology Analysis Indices
 
 ### Event Drive
 
-- 🌟🌟 [stockpredictionai ![GitHub Repo Stars](https://img.shields.io/github/stars/borisbanushev/stockpredictionai) ![GitHub last commit](https://img.shields.io/github/last-commit/borisbanushev/stockpredictionai)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
+- ����🌟 [stockpredictionai ![GitHub Repo Stars](https://img.shields.io/github/stars/borisbanushev/stockpredictionai) ![GitHub last commit](https://img.shields.io/github/last-commit/borisbanushev/stockpredictionai)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
 - 🌟 [trump2cash ![GitHub Repo Stars](https://img.shields.io/github/stars/maxbbraun/trump2cash) ![GitHub last commit](https://img.shields.io/github/last-commit/maxbbraun/trump2cash)](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets.
 
 ### Crypto Currencies Strategies
