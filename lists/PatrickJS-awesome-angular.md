@@ -785,6 +785,7 @@ become an Angular expert.
 * [Crowdin](https://crowdin.com/) - Crowdin is AI-powered localization software for teams and businesses. Automate the translation of your content with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
 * [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
 * [ngx-i18n-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Ascor8522/ngx-i18n-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Ascor8522/ngx-i18n-tools)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx ![GitHub Repo Stars](https://img.shields.io/github/stars/Ascor8522/ngx-i18n-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Ascor8522/ngx-i18n-tools)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+* [ngx-translate-db ![GitHub Repo Stars](https://img.shields.io/github/stars/kinleyrabgay/ngx-translate-db) ![GitHub last commit](https://img.shields.io/github/last-commit/kinleyrabgay/ngx-translate-db)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
 
 #### Module Federation
 
@@ -1160,6 +1161,7 @@ become an Angular expert.
 * [@guiexpert/angular-table ![GitHub Repo Stars](https://img.shields.io/github/stars/guiexperttable/angular-19-table) ![GitHub last commit](https://img.shields.io/github/last-commit/guiexperttable/angular-19-table)](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
 * [ngx-tabulator-tables ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-tabulator-tables) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-tabulator-tables)](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 * [ngx-simple-material-table ![GitHub Repo Stars](https://img.shields.io/github/stars/holographic-blockchain/ngx-simple-material-table) ![GitHub last commit](https://img.shields.io/github/last-commit/holographic-blockchain/ngx-simple-material-table)](https://github.com/holographic-blockchain/ngx-simple-material-table) - Angular library to simplify usage of the Angular Material table component.
+* [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 
 #### Dates
 
@@ -1802,6 +1804,7 @@ to simplify usage and allow quick customization.
 * [xUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Rikarin/xui) ![GitHub last commit](https://img.shields.io/github/last-commit/Rikarin/xui)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 * [flexi-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TanerSaydam/flexi-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TanerSaydam/flexi-ui)](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
+* [@koobiq/angular-components ![GitHub Repo Stars](https://img.shields.io/github/stars/koobiq/angular-components) ![GitHub last commit](https://img.shields.io/github/last-commit/koobiq/angular-components)](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
 
 ##### Material Based
 
@@ -1845,6 +1848,7 @@ for the creation of web applications developed with Angular.
 * [Rectangle UI ![GitHub Repo Stars](https://img.shields.io/github/stars/jarretthuang/rectangle-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/jarretthuang/rectangle-ui)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 * [Mamba UI ![GitHub Repo Stars](https://img.shields.io/github/stars/Microwawe/mamba-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Microwawe/mamba-ui)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 * [FlyonUI ![GitHub Repo Stars](https://img.shields.io/github/stars/themeselection/flyonui) ![GitHub last commit](https://img.shields.io/github/last-commit/themeselection/flyonui)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
+* [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
 ##### Node Based
 
