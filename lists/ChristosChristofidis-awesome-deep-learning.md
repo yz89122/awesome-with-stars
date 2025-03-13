@@ -276,7 +276,7 @@
 30. [ Geoffrey Hinton ](http://www.cs.toronto.edu/~hinton/)
 31. [ George Dahl ](http://www.cs.toronto.edu/~gdahl/)
 32. [ Graham Taylor ](http://www.uoguelph.ca/~gwtaylor/)
-33. [ Gr��goire Montavon ](http://gregoire.montavon.name/)
+33. [ Grégoire Montavon ](http://gregoire.montavon.name/)
 34. [ Guido Francisco Montúfar ](http://personal-homepages.mis.mpg.de/montufar/)
 35. [ Guillaume Desjardins ](http://brainlogging.wordpress.com/)
 36. [ Hannes Schulz ](http://www.ais.uni-bonn.de/~schulz/)
