@@ -296,7 +296,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Articles • Tutorials
 
-#### Shaders • OpenGL • WebGL
+#### Shaders • OpenGL ��� WebGL
 
 - [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) - Part 1 of an introduction to shaders using threejs.
 - [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - Introduction to three.js from a creative coder perspective.
