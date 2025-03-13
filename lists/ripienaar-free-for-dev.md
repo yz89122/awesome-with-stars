@@ -2020,4 +2020,4 @@ HTML Themes and UI Kits to create your applications faster!
   * [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
 
 
-**[���️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
