@@ -447,7 +447,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FB4](https://codepoints.net/U+1FB4?lang=en) | `ᾴ`       | GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI                     | `ά`, `ι`         | U+03AC, U+03B9         |
 | [U+1FB6](https://codepoints.net/U+1FB6?lang=en) | `ᾶ`       | GREEK SMALL LETTER ALPHA WITH PERISPOMENI                                | `α`, `͂`          | U+03B1, U+0342         |
 | [U+1FB7](https://codepoints.net/U+1FB7?lang=en) | `ᾷ`       | GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI              | `α`, `͂`, `ι`     | U+03B1, U+0342, U+03B9 |
-| [U+1FBC](https://codepoints.net/U+1FBC?lang=en) | `��`       | GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI                           | `α`, `ι`         | U+03B1, U+03B9         |
+| [U+1FBC](https://codepoints.net/U+1FBC?lang=en) | `ᾼ`       | GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI                           | `α`, `ι`         | U+03B1, U+03B9         |
 | [U+1FC2](https://codepoints.net/U+1FC2?lang=en) | `ῂ`       | GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI                      | `ὴ`, `ι`         | U+1F74, U+03B9         |
 | [U+1FC3](https://codepoints.net/U+1FC3?lang=en) | `ῃ`       | GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI                                | `η`, `ι`         | U+03B7, U+03B9         |
 | [U+1FC4](https://codepoints.net/U+1FC4?lang=en) | `ῄ`       | GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI                       | `ή`, `ι`         | U+03AE, U+03B9         |
