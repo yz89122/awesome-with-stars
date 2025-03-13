@@ -240,7 +240,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>) - Medium level disk forensics challenge.
 
 <!--lint disable double-link-->
-[��](#contents)<!--lint enable double-link-->
+[↑](#contents)<!--lint enable double-link-->
 
 ### Level 5 - Malware and Reverse Engineering
 
