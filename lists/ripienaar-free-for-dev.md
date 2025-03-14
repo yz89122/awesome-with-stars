@@ -1523,7 +1523,7 @@ Update Time, five active automations, webhooks.
   * [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆��� Back to Top](#table-of-contents)**
 
 ## Design and UI
 
