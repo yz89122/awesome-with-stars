@@ -193,7 +193,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
 ### Lecture Videos<a name=algorithms_general_lecture_videos></a>
-- [Demaine/Ku/Soloman. Introduction to Algorithms. MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A first course on basic algorithms and data structures. — added by Erik himself!
+- [Demaine/Ku/Soloman. Introduction to Algorithms. MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A first course on basic algorithms and data structures. �� added by Erik himself!
 - [Demaine/Devadas/Lynch. Design and Analysis of algorithms. MIT](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) - A second course on algorithms and data structures. — added by Erik himself!
 - [Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
