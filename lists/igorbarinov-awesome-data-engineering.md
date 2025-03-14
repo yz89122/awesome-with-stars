@@ -28,6 +28,7 @@
   - [Forums](#forums)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
+  - [Books](#books)
 
 ## Databases
 
@@ -197,6 +198,7 @@
 - [Data Mechanics](https://www.datamechanics.co) - A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.
 - [Tez](https://tez.apache.org/) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
 - [Bistro ![GitHub Repo Stars](https://img.shields.io/github/stars/asavinov/bistro) ![GitHub last commit](https://img.shields.io/github/last-commit/asavinov/bistro)](https://github.com/asavinov/bistro) - A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via _functions_ and processes data via _columns operations_ as opposed to having only set operations in conventional approaches like MapReduce or SQL.
+- [Substation ![GitHub Repo Stars](https://img.shields.io/github/stars/brexhq/substation) ![GitHub last commit](https://img.shields.io/github/last-commit/brexhq/substation)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 - Batch ML
   - [H2O](https://www.h2o.ai/) - Fast scalable machine learning API for smarter applications.
   - [Mahout](https://mahout.apache.org/) - An environment for quickly creating scalable performant machine learning applications.
@@ -325,4 +327,8 @@
 
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
 - [The Data Stack Show](https://datastackshow.com/) - A show where they talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.
+
+### Books
+
+- [Snowflake Data Engineering](https://www.manning.com/books/snowflake-data-engineering) - A practical introduction to data engineering on the Snowflake cloud data platform.
 
