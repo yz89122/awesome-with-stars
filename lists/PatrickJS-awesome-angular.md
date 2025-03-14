@@ -498,6 +498,7 @@ become an Angular expert.
 * [ngx-segment-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/opendecide/ngx-segment-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/opendecide/ngx-segment-analytics)](https://github.com/opendecide/ngx-segment-analytics) - Provides an API for [Segment ![GitHub Repo Stars](https://img.shields.io/github/stars/segmentio/analytics-next) ![GitHub last commit](https://img.shields.io/github/last-commit/segmentio/analytics-next)](https://github.com/segmentio/analytics-next/).
 * [ngx-meta-pixel ![GitHub Repo Stars](https://img.shields.io/github/stars/Szymonexis/ngx-meta-pixel) ![GitHub last commit](https://img.shields.io/github/last-commit/Szymonexis/ngx-meta-pixel)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 * [clickstream-analytics-on-aws-web-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/aws-solutions/clickstream-analytics-on-aws-web-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/aws-solutions/clickstream-analytics-on-aws-web-sdk)](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) can help you easily collect click stream data from browser to your AWS environments through the data pipeline provisioned by this solution.
+* [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 
 #### Authentication
 
@@ -689,6 +690,7 @@ become an Angular expert.
 * [ngx-repository ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-repository) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-repository)](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (HTTP REST or Firestore) in your Angular project.
 * [ng-rest-client ![GitHub Repo Stars](https://img.shields.io/github/stars/gizm0bill/gzm) ![GitHub last commit](https://img.shields.io/github/last-commit/gizm0bill/gzm)](https://github.com/gizm0bill/gzm/tree/master/libs/ng-rest-client) - This library provides a set of decorators for simplifying HTTP requests. It enables developers to define RESTful API clients using decorators for common HTTP methods.
 * [ngx-http-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/InnovA2/ngx-http-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/InnovA2/ngx-http-helper)](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
+* [mbo-ez-angular-ez-http-client ![GitHub Repo Stars](https://img.shields.io/github/stars/morganbourse/mbo-ez-angular-ez-http-client) ![GitHub last commit](https://img.shields.io/github/last-commit/morganbourse/mbo-ez-angular-ez-http-client)](https://github.com/morganbourse/mbo-ez-angular-ez-http-client) - An ez Angular HTTP client inspired by Java [OpenFeign ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenFeign/feign) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenFeign/feign)](https://github.com/OpenFeign/feign) Client.
 
 #### Integrations
 
@@ -751,6 +753,8 @@ become an Angular expert.
 * [ng-storyblok ![GitHub Repo Stars](https://img.shields.io/github/stars/geometricpanda/ng-storyblok) ![GitHub last commit](https://img.shields.io/github/last-commit/geometricpanda/ng-storyblok)](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 * [ng-react-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/john310897/ng-react-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/john310897/ng-react-bridge)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
 * [zag-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/makuko/zag-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/makuko/zag-angular)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag ![GitHub Repo Stars](https://img.shields.io/github/stars/chakra-ui/zag) ![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/zag)](https://github.com/chakra-ui/zag).
+* [seatsio-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/seatsio/seatsio-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/seatsio/seatsio-angular)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
+* [ngx-kel-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/k0swe/ngx-kel-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/k0swe/ngx-kel-agent)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/k0swe/kel-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/k0swe/kel-agent)](https://github.com/k0swe/kel-agent).
 
 #### Internationalization
 
@@ -1540,6 +1544,7 @@ to simplify usage and allow quick customization.
 * [ngx-video-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/LennonReid/ngx-video-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/LennonReid/ngx-video-timeline)](https://github.com/LennonReid/ngx-video-timeline) - Video playback progress bar component.
 * [ngx-cam-shoot ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-cam-shoot) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-cam-shoot)](https://github.com/RzoDev/ngx-cam-shoot) - A streamlined Angular component that simplifies using your device's camera and accelerates image capture and saving.
 * [velt](https://velt.dev/) - Add AI powered collaboration features ridiculously fast.
+* [cometchat-uikit-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cometchat/cometchat-uikit-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/cometchat/cometchat-uikit-angular)](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
 
 #### Mixed utilities
 
@@ -1741,6 +1746,7 @@ to simplify usage and allow quick customization.
 * [ngx-odm ![GitHub Repo Stars](https://img.shields.io/github/stars/voznik/ngx-odm) ![GitHub last commit](https://img.shields.io/github/last-commit/voznik/ngx-odm)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 * [signaldb ![GitHub Repo Stars](https://img.shields.io/github/stars/maxnowack/signaldb) ![GitHub last commit](https://img.shields.io/github/last-commit/maxnowack/signaldb)](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
 * [dexie ![GitHub Repo Stars](https://img.shields.io/github/stars/dexie/Dexie.js) ![GitHub last commit](https://img.shields.io/github/last-commit/dexie/Dexie.js)](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB.
+* [angular-web-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/angular-web-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/angular-web-storage)](https://github.com/cipchk/angular-web-storage) - Angular decorator to save and restore of HTML5 Local & Session Storage.
 
 #### Tooltips
 
