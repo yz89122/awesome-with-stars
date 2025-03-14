@@ -81,7 +81,7 @@ Credit scoring is the term used to describe formal statistical methods used for 
 
 ## Peer-to-Peer Lending
 
-- [Network based credit risk models](https://www.tandfonline.com/doi/abs/10.1080/08982112.2019.1655159) - Peer-to-Peer lending platforms may lead to cost reduction, and to an improved user experience. These improvements may come at the price of inaccurate credit risk measurements. The authors propose to augment traditional credit scoring methods with ���alternative data” that consist of centrality measures derived from similarity networks among borrowers, deduced from their financial ratios.
+- [Network based credit risk models](https://www.tandfonline.com/doi/abs/10.1080/08982112.2019.1655159) - Peer-to-Peer lending platforms may lead to cost reduction, and to an improved user experience. These improvements may come at the price of inaccurate credit risk measurements. The authors propose to augment traditional credit scoring methods with “alternative data” that consist of centrality measures derived from similarity networks among borrowers, deduced from their financial ratios.
 
 ## Sample Selection
 
