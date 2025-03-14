@@ -226,7 +226,7 @@ This book will teach you to stretch your imagination and see things in a differe
 <details>
   <summary>Description</summary>
 
-  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines���are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines—are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
   >
   > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 </details>
@@ -608,7 +608,7 @@ All of Asher's _Polity_ novels are chock full of amazing technology, vibrant cha
 <details>
   <summary>Description</summary>
 
-  > The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
+  > The phrase ��world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
   >
   > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity. He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
 </details>
