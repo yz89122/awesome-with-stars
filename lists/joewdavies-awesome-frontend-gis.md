@@ -293,7 +293,7 @@ Videos of web mapping presentations and tutorials:
 - [Statistical Cartography - Design principles for statistical map design](https://www.youtube.com/watch?v=e803ElX5Q_c) - Julien Gaffuri.
 
 
-## 📚 Further reading
+## �� Further reading
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke.
 - [A Workbook for Interactive Cartography and Visualization on the Open Web ![GitHub Repo Stars](https://img.shields.io/github/stars/uwcartlab/webmapping) ![GitHub last commit](https://img.shields.io/github/last-commit/uwcartlab/webmapping)](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
