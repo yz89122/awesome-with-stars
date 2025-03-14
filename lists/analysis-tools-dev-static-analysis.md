@@ -518,7 +518,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [errwrap ![GitHub Repo Stars](https://img.shields.io/github/stars/fatih/errwrap) ![GitHub last commit](https://img.shields.io/github/last-commit/fatih/errwrap)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
-- [flen ![GitHub Repo Stars](https://img.shields.io/github/stars/lafolle/flen) ![GitHub last commit](https://img.shields.io/github/last-commit/lafolle/flen)](https://github.com/lafolle/flen) ��� Get info on length of functions in a Go package.
+- [flen ![GitHub Repo Stars](https://img.shields.io/github/stars/lafolle/flen) ![GitHub last commit](https://img.shields.io/github/last-commit/lafolle/flen)](https://github.com/lafolle/flen) — Get info on length of functions in a Go package.
 
 - [Go Meta Linter ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/gometalinter) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/gometalinter)](https://github.com/alecthomas/gometalinter) :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
 
@@ -546,7 +546,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
 `gofumpt` will never add rules which disagree with `gofmt` formatting. So we extend `gofmt` rather than compete with it.
 
-- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
+- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) �� Checks missing or unreferenced package imports.
 
 - [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
