@@ -92,7 +92,7 @@
 - [Backbone-Require-Boilerplate Explained](http://gregfranko.com/blog/backbone-require-boilerplate-explained/) by Greg Franko
 - [BackboneRails Screencasts](http://www.backbonerails.com/) - Learn to Build Web Apps Using Backbone + Rails
 - [Backbone.js with Derick Bailey](https://www.youtube.com/watch?v=VERQEr-bVTs) by Derick Bailey
-- [JavaScript Application Architecture with Backbone.js](http://www.youtube.com/watch?v=PGgZ7qRvoGE) by Mathias Sch��fer
+- [JavaScript Application Architecture with Backbone.js](http://www.youtube.com/watch?v=PGgZ7qRvoGE) by Mathias Schäfer
 - [An Introduction to Backbone.js](http://www.youtube.com/watch?v=PcTVQyrWSSs) by Sid Maestre
 - [Put Some Backbone.js in your Apps](http://www.youtube.com/watch?v=jM8KE_Fa6JI) by Sid Maestre
 - [Evolving Your JavaScript with Backbone.js](http://wordpress.tv/2013/09/05/k-adam-white-evolving-your-javascript-with-backbone-js/) by K Adam White
