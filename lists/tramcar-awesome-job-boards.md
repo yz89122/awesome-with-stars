@@ -27,6 +27,7 @@ A curated list of awesome niche job boards.
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+* [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
 
 ## Big Data
 
@@ -67,6 +68,7 @@ A curated list of awesome niche job boards.
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+* [UI/UX Jobs Board](https://uiuxjobsboard.com/)
 
 ## DevOps
 
@@ -95,6 +97,7 @@ A curated list of awesome niche job boards.
 
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
+* [Mecruit Job Board](https://www.mecruit.com/)
 
 ### Clojure
 
@@ -161,6 +164,7 @@ A curated list of awesome niche job boards.
 ## Remote
 
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
+* [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
@@ -193,6 +197,9 @@ A curated list of awesome niche job boards.
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 
+### Africa
+* [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+
 ### Canada
 
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
@@ -206,8 +213,9 @@ A curated list of awesome niche job boards.
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 
-## Africa
-* [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+### Latin America
+
+* [Findjobit](https://findjobit.com/jobs)
 
 ### United Kingdom
 
