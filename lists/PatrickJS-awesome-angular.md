@@ -755,6 +755,7 @@ become an Angular expert.
 * [zag-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/makuko/zag-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/makuko/zag-angular)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag ![GitHub Repo Stars](https://img.shields.io/github/stars/chakra-ui/zag) ![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/zag)](https://github.com/chakra-ui/zag).
 * [seatsio-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/seatsio/seatsio-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/seatsio/seatsio-angular)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 * [ngx-kel-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/k0swe/ngx-kel-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/k0swe/ngx-kel-agent)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/k0swe/kel-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/k0swe/kel-agent)](https://github.com/k0swe/kel-agent).
+* [foblex2D ![GitHub Repo Stars](https://img.shields.io/github/stars/siarheihuzarevich/foblex2D) ![GitHub last commit](https://img.shields.io/github/last-commit/siarheihuzarevich/foblex2D)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
 
 #### Internationalization
 
@@ -793,6 +794,7 @@ become an Angular expert.
 * [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
 * [ngx-i18n-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Ascor8522/ngx-i18n-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Ascor8522/ngx-i18n-tools)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx ![GitHub Repo Stars](https://img.shields.io/github/stars/Ascor8522/ngx-i18n-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Ascor8522/ngx-i18n-tools)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
 * [ngx-translate-db ![GitHub Repo Stars](https://img.shields.io/github/stars/kinleyrabgay/ngx-translate-db) ![GitHub last commit](https://img.shields.io/github/last-commit/kinleyrabgay/ngx-translate-db)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
+* [ngx-glagolize ![GitHub Repo Stars](https://img.shields.io/github/stars/alkorschun/ngx-glagolize) ![GitHub last commit](https://img.shields.io/github/last-commit/alkorschun/ngx-glagolize)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 
 #### Module Federation
 
@@ -952,6 +954,7 @@ become an Angular expert.
 * [playwright-ng-schematics ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/playwright-ng-schematics) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/playwright-ng-schematics)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [playwright-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/bgotink/playwright-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/bgotink/playwright-coverage)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 * [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.
+* [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
 
 ##### Component
 
@@ -1670,6 +1673,7 @@ to simplify usage and allow quick customization.
 * [ngx-perfect-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/Harvest-Dev/ngx-perfect-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/Harvest-Dev/ngx-perfect-scrollbar)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-perfect-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-perfect-scrollbar)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
 * [ngx-virtual-dnd-list ![GitHub Repo Stars](https://img.shields.io/github/stars/mfuu/ngx-virtual-dnd-list) ![GitHub last commit](https://img.shields.io/github/last-commit/mfuu/ngx-virtual-dnd-list)](https://github.com/mfuu/ngx-virtual-dnd-list) - A virtual scrolling list component that can be sorted by dragging.
 * [ngx-scroll-top ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/ngx-scroll-top) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/ngx-scroll-top)](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
+* [ngx-virtual-scroller ![GitHub Repo Stars](https://img.shields.io/github/stars/iharbeck/ngx-virtual-scroller) ![GitHub last commit](https://img.shields.io/github/last-commit/iharbeck/ngx-virtual-scroller)](https://github.com/iharbeck/ngx-virtual-scroller) - Displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, and multi-column.
 
 #### State Management
 
