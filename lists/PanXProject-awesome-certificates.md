@@ -194,7 +194,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4     | 🏆     |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4     | 🏆     |
 | [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4     | 🏆     |
-| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | ����     |
+| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | 🏆     |
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
 
@@ -290,7 +290,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [VR Development](https://learn.unity.com/pathway/vr-development) | Unity | Beginner | 1000 | [🏅](https://www.credly.com/org/unity/badge/unity-vr-development)
 | [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginner | 1344 | [🏅](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
 
-[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆�� ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Mobile App Development
