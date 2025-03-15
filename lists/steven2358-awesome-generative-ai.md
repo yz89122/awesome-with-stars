@@ -69,8 +69,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Custom interfaces
 
-- [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [Source code ![GitHub Repo Stars](https://img.shields.io/github/stars/danny-avila/LibreChat) ![GitHub last commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat)](https://github.com/danny-avila/LibreChat).
-- [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code ![GitHub Repo Stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mckaywrigley/chatbot-ui)](https://github.com/mckaywrigley/chatbot-ui).
+- [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/danny-avila/LibreChat) ![GitHub last commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat)](https://github.com/danny-avila/LibreChat).
+- [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mckaywrigley/chatbot-ui)](https://github.com/mckaywrigley/chatbot-ui).
 
 ### Search engines
 
@@ -212,6 +212,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/janhq/jan) ![GitHub last commit](https://img.shields.io/github/last-commit/janhq/jan)](https://github.com/janhq/jan)
 - [Msty](https://msty.app/) - A straightworward and powerful interface for local and online AI models.
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
+- [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/llm) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/llm)](https://github.com/simonw/llm)
 
 ## Agents
 
