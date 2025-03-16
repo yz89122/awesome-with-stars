@@ -280,7 +280,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 - [recheck ![GitHub Repo Stars](https://img.shields.io/github/stars/makenowjust-labs/recheck) ![GitHub last commit](https://img.shields.io/github/last-commit/makenowjust-labs/recheck)](https://github.com/makenowjust-labs/recheck) \[[*home*](https://makenowjust-labs.github.io/recheck/)] - JavaScript and Scala library for detecting ReDoS vulnerability. Can be used as an ESLint plugin.
 - [vuln-regex-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/davisjam/vuln-regex-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/davisjam/vuln-regex-detector)](https://github.com/davisjam/vuln-regex-detector) - Perl library for detecting ReDoS vulnerability.
 
-⚠️ These tools have limitations on supported syntax.
+⚠�� These tools have limitations on supported syntax.
 
 ## Collections of patterns
 
