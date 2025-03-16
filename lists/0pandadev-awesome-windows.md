@@ -303,7 +303,7 @@
 * [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
-* [Joplin](https://joplinapp.org/) - Joplin is an open-source note-taking and task management application that allows users to organize their notes, to-do lists, and even sync them across devices. Key Features of Joplin Markdown Support – Allows notes to be formatted using Markdown, making them highly customizable and easy to organize. Cross-Device Syncing – Syncs notes across multiple devices, including desktop, mobile, and cloud storage services. End-to-End Encryption – Ensures your notes are securely encrypted, protecting sensitive information from unauthorized access.  
+* [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software][oss]](https://github.com/laurent22/joplin)
 * [Kaas ![GitHub Repo Stars](https://img.shields.io/github/stars/0xfrankz/Kaas) ![GitHub last commit](https://img.shields.io/github/last-commit/0xfrankz/Kaas)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
@@ -462,9 +462,9 @@
 
 ## Window Management
 
-* [AltSnap ![GitHub Repo Stars](https://img.shields.io/github/stars/RamonUnch/AltSnap) ![GitHub last commit](https://img.shields.io/github/last-commit/RamonUnch/AltSnap)](https://github.com/RamonUnch/AltSnap) -  A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![oss]
-* [FancyZones ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/PowerToys) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/PowerToys)](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. ![oss]
-* [GlazeWM ![GitHub Repo Stars](https://img.shields.io/github/stars/glzr-io/glazewm) ![GitHub last commit](https://img.shields.io/github/last-commit/glzr-io/glazewm)](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm written in Rust. ![oss]
+* [AltSnap ![GitHub Repo Stars](https://img.shields.io/github/stars/RamonUnch/AltSnap) ![GitHub last commit](https://img.shields.io/github/last-commit/RamonUnch/AltSnap)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
+* [FancyZones ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/PowerToys) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/PowerToys)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
+* [GlazeWM ![GitHub Repo Stars](https://img.shields.io/github/stars/glzr-io/glazewm) ![GitHub last commit](https://img.shields.io/github/last-commit/glzr-io/glazewm)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
 
 ## Backers
 
