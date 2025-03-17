@@ -1234,6 +1234,7 @@ _Display non-editable events in a Calendar_
 
 - [vue-lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/tupilabs/vue-lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/tupilabs/vue-lumino)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 - [vue3-tabs-chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/viewweiwu/vue3-tabs-chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/viewweiwu/vue3-tabs-chrome)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+- [vue3-tabor ![GitHub Repo Stars](https://img.shields.io/github/stars/daylenjeez/vue3-tabor) ![GitHub last commit](https://img.shields.io/github/last-commit/daylenjeez/vue3-tabor)](https://github.com/daylenjeez/vue3-tabor) - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration.
 
 #### Form
 
@@ -1559,7 +1560,7 @@ _LocalStorage etc._
 - [pinia-xstate ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/pinia-xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/pinia-xstate)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 - [pinia-orm ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeDredd/pinia-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeDredd/pinia-orm)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 - [pinia-persistedstate-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/iendeavor/pinia-plugin-persistedstate-2) ![GitHub last commit](https://img.shields.io/github/last-commit/iendeavor/pinia-plugin-persistedstate-2)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
-- [tauri-plugin-pinia ![GitHub Repo Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store) ![GitHub last commit](https://img.shields.io/github/last-commit/ferreira-tb/tauri-store)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
+- [@tauri-store/pinia ![GitHub Repo Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store) ![GitHub last commit](https://img.shields.io/github/last-commit/ferreira-tb/tauri-store)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 - [pinia-plugin-unstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/litingyes/pinia-plugin-unstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/litingyes/pinia-plugin-unstorage)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
 ##### Authentication/Authorization
