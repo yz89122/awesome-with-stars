@@ -192,7 +192,7 @@ MERN stands for MongoDB, Express, React, Node. The four key technologies that ma
 
 Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.
 
-- [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
+- [GraphCMS](https://graphcms.com/) - [🛠��](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
 - [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
 
@@ -386,7 +386,7 @@ Tools to use to monitor your Rails app in production.
 Hosted tools to use to analyze user behavior for a web app.
 
 - [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
-- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [��️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
 - [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 - [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
