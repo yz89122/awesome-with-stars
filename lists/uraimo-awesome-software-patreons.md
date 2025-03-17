@@ -225,7 +225,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Bailey Burnsed](https://www.patreon.com/BaileyBurnsed) - FOSS Nerd developing open source games in Godot and Rust
 - [Daniel Gultsch ![GitHub Repo Stars](https://img.shields.io/github/stars/users/iNPUTmice) ![GitHub last commit](https://img.shields.io/github/last-commit/users/iNPUTmice)](https://github.com/users/iNPUTmice/sponsorship) - Conversations Jabber client.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
-- [Dave T��ht](https://www.patreon.com/dtaht) - Working on improving the Internet.
+- [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [David Hewitt ![GitHub Repo Stars](https://img.shields.io/github/stars/users/davidmhewitt) ![GitHub last commit](https://img.shields.io/github/last-commit/users/davidmhewitt)](https://github.com/users/davidmhewitt/sponsorship) - ElementaryOS contributor, Torrential, Clipped.
 - [Dimitri Fontaine ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/dimitri) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/dimitri)](https://github.com/sponsors/dimitri) - Various contributions to the PostgreSQL ecosystem (pgloader, pg_auto_failover), Emacs libraries (el-get), author.
 - [Dominik Honnef](https://www.patreon.com/dominikh), [#2 ![GitHub Repo Stars](https://img.shields.io/github/stars/users/dominikh) ![GitHub last commit](https://img.shields.io/github/last-commit/users/dominikh)](https://github.com/users/dominikh/sponsorship) - Working on tooling for the Go programming language.
