@@ -1592,6 +1592,7 @@ to simplify usage and allow quick customization.
 * [ngx-signal-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/milad-hub/ngx-signal-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/milad-hub/ngx-signal-plus)](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 * [ngx-nuts-and-bolts ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-nuts-and-bolts) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-nuts-and-bolts)](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
 * [ngx-common ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ngx-common) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ngx-common)](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
+* [ngx-signals-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/dszendrei/ngx-signals-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/dszendrei/ngx-signals-plus)](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 
 #### Modals
 
@@ -1685,6 +1686,7 @@ to simplify usage and allow quick customization.
 * [ngx-scroll-top ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/ngx-scroll-top) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/ngx-scroll-top)](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
 * [ngx-virtual-scroller ![GitHub Repo Stars](https://img.shields.io/github/stars/iharbeck/ngx-virtual-scroller) ![GitHub last commit](https://img.shields.io/github/last-commit/iharbeck/ngx-virtual-scroller)](https://github.com/iharbeck/ngx-virtual-scroller) - Displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, and multi-column.
 * [ng-inf-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/lukonik/ng-inf-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/lukonik/ng-inf-scroll)](https://github.com/lukonik/ng-inf-scroll) - A lightweight library for adding infinite scrolling to Angular apps.
+* [ng-mat-select-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/HaidarZ/ng-mat-select-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/HaidarZ/ng-mat-select-infinite-scroll)](https://github.com/HaidarZ/ng-mat-select-infinite-scroll) - Infinite Scroll directive for Angular Material select component.
 
 #### State Management
 
@@ -1945,6 +1947,7 @@ for the creation of web applications developed with Angular.
 * [ngememoize ![GitHub Repo Stars](https://img.shields.io/github/stars/akbarsaputrait/ngememoize) ![GitHub last commit](https://img.shields.io/github/last-commit/akbarsaputrait/ngememoize)](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
 * [ngx-gooey ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ngx-gooey) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ngx-gooey)](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
 * [angular-compile ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-compile) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-compile)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
+* [ngx-error-handling ![GitHub Repo Stars](https://img.shields.io/github/stars/gonzalad/ngx-error-handling) ![GitHub last commit](https://img.shields.io/github/last-commit/gonzalad/ngx-error-handling)](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
 
 ---
 
