@@ -1646,7 +1646,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Wotan ![GitHub Repo Stars](https://img.shields.io/github/stars/fimbullinter/wotan) ![GitHub last commit](https://img.shields.io/github/last-commit/fimbullinter/wotan)](https://github.com/fimbullinter/wotan) :warning: — Pluggable TypeScript and JavaScript linter.
 
-- [XCode](https://developer.apple.com/xcode) :copyright: — XCode provides a pretty decent UI for [Clang's](https://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C).
+- [XCode](https://developer.apple.com/xcode) :copyright: �� XCode provides a pretty decent UI for [Clang's](https://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C).
 
 
 ## Other
@@ -1873,7 +1873,7 @@ They offer flexible and unified reporting, seamless coverage insights, and robus
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
-* 🍰 Easy-to-use: No config needed for first try
+* ���� Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
 
 
