@@ -944,6 +944,7 @@ become an Angular expert.
 * [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
 * [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
 * [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.
+* [NgFast](https://ngfast.com/) - The Angular boilerplate for building SaaS, landing pages, and web apps fast—turning your ideas into income.
 
 #### Testing
 
@@ -1503,6 +1504,7 @@ to simplify usage and allow quick customization.
 * [dz-ngx-element ![GitHub Repo Stars](https://img.shields.io/github/stars/zdigambar/dz-ngx-element) ![GitHub last commit](https://img.shields.io/github/last-commit/zdigambar/dz-ngx-element)](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
 * [ngx-loading-overlay ![GitHub Repo Stars](https://img.shields.io/github/stars/shaman-apprentice/ngx-loading-overlay) ![GitHub last commit](https://img.shields.io/github/last-commit/shaman-apprentice/ngx-loading-overlay)](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
 * [square-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/mominrazashahid/square-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/mominrazashahid/square-progress)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
+* [ng-loading-skeleton ![GitHub Repo Stars](https://img.shields.io/github/stars/arbrim/ng-loading-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/arbrim/ng-loading-skeleton)](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
 
 #### Loggers
 
@@ -1833,6 +1835,7 @@ to simplify usage and allow quick customization.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 * [flexi-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TanerSaydam/flexi-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TanerSaydam/flexi-ui)](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
 * [@koobiq/angular-components ![GitHub Repo Stars](https://img.shields.io/github/stars/koobiq/angular-components) ![GitHub last commit](https://img.shields.io/github/last-commit/koobiq/angular-components)](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
+* [Vega](https://vega.hlprd.com/) - Vega includes reusable components and styles, in your framework of choice. Build product features faster, without recreating the same basic components for every project.
 
 ##### Material Based
 
