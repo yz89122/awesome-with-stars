@@ -263,6 +263,7 @@
 - [jim-at-jibba/micropython.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jim-at-jibba/micropython.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jim-at-jibba/micropython.nvim)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
 - [neolooong/whichpy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 - [nvim-java/nvim-java ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-java/nvim-java) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-java/nvim-java)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+- [kiyoon/haskell-scope-highlighting.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford. 
 
 ### Golang
 
@@ -343,6 +344,7 @@
 - [potamides/pantran.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/potamides/pantran.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/potamides/pantran.nvim)](https://github.com/potamides/pantran.nvim) - Translate your text with an interactive translation window.
 - [niuiic/translate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/translate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/translate.nvim)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 - [tanloong/interlaced.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tanloong/interlaced.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tanloong/interlaced.nvim)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
+- [kiyoon/Korean-IME.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/Korean-IME.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/Korean-IME.nvim)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
 
 <!--lint disable double-link -->
 
@@ -743,6 +745,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [luukvbaal/statuscol.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/luukvbaal/statuscol.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/luukvbaal/statuscol.nvim)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 - [mawkler/hml.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mawkler/hml.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mawkler/hml.nvim)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 - [neur1n/noline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neur1n/noline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neur1n/noline.nvim)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction ![GitHub Repo Stars](https://img.shields.io/github/stars/neur1n/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/neur1n/dotfiles)](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup ![GitHub Repo Stars](https://img.shields.io/github/stars/neur1n/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/neur1n/dotfiles)](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
+- [OXY2DEV/bars.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/bars.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/bars.nvim)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 
 ### Statusline
 
@@ -985,6 +988,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [josephburgess/nvumi ![GitHub Repo Stars](https://img.shields.io/github/stars/josephburgess/nvumi) ![GitHub last commit](https://img.shields.io/github/last-commit/josephburgess/nvumi)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 - [redoxahmii/json-to-types.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/redoxahmii/json-to-types.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/redoxahmii/json-to-types.nvim)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
 - [ovk/endec.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ovk/endec.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ovk/endec.nvim)](https://github.com/ovk/endec.nvim) - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
+- [kiyoon/jupynium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 
 ### CSV Files
 
@@ -1267,6 +1271,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ziontee113/syntax-tree-surfer ![GitHub Repo Stars](https://img.shields.io/github/stars/ziontee113/syntax-tree-surfer) ![GitHub last commit](https://img.shields.io/github/last-commit/ziontee113/syntax-tree-surfer)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 - [drybalka/tree-climber.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/drybalka/tree-climber.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/drybalka/tree-climber.nvim)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 - [atusy/treemonkey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim)](https://github.com/atusy/treemonkey.nvim) - Region selection with Tree-sitter nodes.
+- [kiyoon/treesitter-indent-object.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/treesitter-indent-object.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/treesitter-indent-object.nvim)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
 
 <!--lint disable double-link -->
 
@@ -1405,6 +1410,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [daltongd/yanklock.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/daltongd/yanklock.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/daltongd/yanklock.nvim)](https://github.com/daltongd/yanklock.nvim) - Temporarily lock the paste register to `"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible.
 - [zongben/capsoff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/capsoff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/capsoff.nvim)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
 - [kobbikobb/move-lines.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kobbikobb/move-lines.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kobbikobb/move-lines.nvim)](https://github.com/kobbikobb/move-lines.nvim) - Moves lines selected in virtual mode.
+- [kiyoon/telescope-insert-path.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/telescope-insert-path.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/telescope-insert-path.nvim)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
 
 ### Comment
 
@@ -1544,6 +1550,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [karshPrime/tmux-compile.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karshPrime/tmux-compile.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karshPrime/tmux-compile.nvim)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
 - [EvWilson/slimux.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EvWilson/slimux.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EvWilson/slimux.nvim)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
 - [juselara1/tmutils.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/juselara1/tmutils.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/juselara1/tmutils.nvim)](https://github.com/juselara1/tmutils.nvim) - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
+- [kiyoon/tmux-send.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/tmux-send.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/tmux-send.nvim)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 
 <!--lint disable double-link -->
 
