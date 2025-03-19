@@ -198,6 +198,6 @@ Several benchmarks to compare Fiber with other frameworks.
 - [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
 - [go-web-framework-benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/smallnest/go-web-framework-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/smallnest/go-web-framework-benchmark)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-### 👍 Contributing
+### �� Contributing
 
 Contribution guidelines can be found on [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/awesome-fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/awesome-fiber)](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md)
