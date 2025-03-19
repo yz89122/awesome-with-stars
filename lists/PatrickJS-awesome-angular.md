@@ -305,6 +305,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Philosophies ![GitHub Repo Stars](https://img.shields.io/github/stars/tomavic/angular-philosophies) ![GitHub last commit](https://img.shields.io/github/last-commit/tomavic/angular-philosophies)](https://github.com/tomavic/angular-philosophies)
 * [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 * [Playful Programming](https://playfulprogramming.com/)
+* [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
 
 ##### Books
 
@@ -1095,7 +1096,7 @@ become an Angular expert.
 
 * [ngu-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/uiuniversal/ngu-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/uiuniversal/ngu-carousel)](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
 * [ngx-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-slider/ngx-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-slider/ngx-slider)](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on angularjs-slider.
-* [ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-gallery)](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
+* [@MurhafSousli/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-gallery)](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
 * [ng-image-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/sanjayV/ng-image-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/sanjayV/ng-image-slider)](https://github.com/sanjayV/ng-image-slider) - Angular Image Slider with Lightbox.
 * [ngx-slick-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/leo6104/ngx-slick-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/leo6104/ngx-slick-carousel)](https://github.com/leo6104/ngx-slick-carousel) - Angular 17+ wrapper for slick plugin.
 * [ngx-splide ![GitHub Repo Stars](https://img.shields.io/github/stars/JustCommunication-ru/ngx-splide) ![GitHub last commit](https://img.shields.io/github/last-commit/JustCommunication-ru/ngx-splide)](https://github.com/JustCommunication-ru/ngx-splide) - Splide.js integration to Angular.
@@ -1115,6 +1116,7 @@ become an Angular expert.
 * [ngx-custom-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/devendramilmile121/ngx-custom-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/devendramilmile121/ngx-custom-carousel)](https://github.com/devendramilmile121/ngx-custom-carousel) - A feature-rich Angular 17 component crafted to elevate your carousel experience.
 * [ngx-edge-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/WingmanColt/ngx-edge-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/WingmanColt/ngx-edge-slider)](https://github.com/WingmanColt/ngx-edge-slider) - Highly flexible and customizable slider component designed for Angular applications. It offers an intuitive interface to manage slides, providing smooth transitions, autoplay functionality, responsive design, with interactive features like draggable slides and configurable navigation.
 * [embla-carousel-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/donaldxdonald/embla-carousel-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/donaldxdonald/embla-carousel-angular)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/davidjerleke/embla-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/davidjerleke/embla-carousel)](https://github.com/davidjerleke/embla-carousel).
+* [@vinlos/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/vinlos/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/vinlos/ngx-gallery)](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
 
 #### Charts
 
@@ -1241,6 +1243,7 @@ become an Angular expert.
 * [ngx-annotate-text ![GitHub Repo Stars](https://img.shields.io/github/stars/philenius/ngx-annotate-text) ![GitHub last commit](https://img.shields.io/github/last-commit/philenius/ngx-annotate-text)](https://github.com/philenius/ngx-annotate-text) - This Angular component library is perfect for tasks like visualizing named entity recognition, part of speech tagging, or annotating text datasets. It allows for interactively highlighting and annotating parts of text.
 * [ngx-responsive-if ![GitHub Repo Stars](https://img.shields.io/github/stars/bodnya29179/ngx-responsive-if) ![GitHub last commit](https://img.shields.io/github/last-commit/bodnya29179/ngx-responsive-if)](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
 * [ngx-copy-to-clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/ngx-copy-to-clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/ngx-copy-to-clipboard)](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - an Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
+* [ng-click-outside ![GitHub Repo Stars](https://img.shields.io/github/stars/Kr0san89/ng-click-outside) ![GitHub last commit](https://img.shields.io/github/last-commit/Kr0san89/ng-click-outside)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 
 #### Drag and Drop
 
