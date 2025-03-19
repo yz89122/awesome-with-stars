@@ -245,7 +245,7 @@ This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoD
 
 A Rails/JavaScript-based stack with modern/developer friendly technologies
 
-- [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [���� ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
+- [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
 - [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - React components can be used on the client and server side.
 - [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rmosolgo/graphql-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
 - [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
@@ -291,7 +291,7 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app using Vue and Electron.
 
 - [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [���� ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 - [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/reduxjs/redux) ![GitHub last commit](https://img.shields.io/github/last-commit/reduxjs/redux)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 - [Vue Router](https://router.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-router)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 - [Vue CLI](https://cli.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
@@ -332,7 +332,7 @@ The best way to create a versatile and scalable PHP Web Application! It sure wil
 - [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-### FReMP: Flask ReactJS MongoDB Python [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
+### FReMP: Flask ReactJS MongoDB Python [��](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
 
 FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
