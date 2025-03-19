@@ -245,7 +245,7 @@ This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoD
 
 A Rails/JavaScript-based stack with modern/developer friendly technologies
 
-- [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [��� ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
+- [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
 - [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - React components can be used on the client and server side.
 - [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/rmosolgo/graphql-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/rmosolgo/graphql-ruby)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
 - [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
@@ -386,7 +386,7 @@ Tools to use to monitor your Rails app in production.
 Hosted tools to use to analyze user behavior for a web app.
 
 - [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
-- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠���](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
 - [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 - [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
@@ -466,7 +466,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
 - [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/expo)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-- [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
+- [Digital Ocean](https://www.digitalocean.com/) - [��️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 - [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 ##### Resources
