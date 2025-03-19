@@ -317,7 +317,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **2D**
   - [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
-  - [cairo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Chris00/ocaml-cairo) ![GitHub last commit](https://img.shields.io/github/last-commit/Chris00/ocaml-cairo)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
+  - [cairo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Chris00/ocaml-cairo) ![GitHub last commit](https://img.shields.io/github/last-commit/Chris00/ocaml-cairo)](https://github.com/Chris00/ocaml-cairo) �� Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
   - [Vg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/vg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/vg)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 - **3D**
   - [glMLite ![GitHub Repo Stars](https://img.shields.io/github/stars/fccm/glMLite) ![GitHub last commit](https://img.shields.io/github/last-commit/fccm/glMLite)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
