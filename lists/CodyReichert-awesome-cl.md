@@ -1345,6 +1345,7 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 Others
 ------
 
+* [LASS ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/LASS) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/LASS)](https://github.com/Shinmera/LASS) -  Lisp Augmented Style Sheets. Largely inspired by SASS. Zlib.
 * [css-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/paddymul/css-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/paddymul/css-lite)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 * [find-port ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/find-port)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
 * [cl-wget ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-wget/cl-wget) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-wget/cl-wget)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].

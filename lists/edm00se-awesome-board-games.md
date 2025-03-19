@@ -523,7 +523,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2 – 4 |        8 | 30��45m |
+|   2 – 4 |        8 | 30–45m |
 
 ### [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
 
