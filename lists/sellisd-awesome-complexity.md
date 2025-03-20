@@ -108,6 +108,7 @@ A curated list of resources related to complex systems, the scientific field stu
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
 - [Stanford Complexity Group](https://www.youtube.com/user/StanfordComplexity/videos) - YouTube channel with videos from the group's events.
 - [Awesome Network Analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/briatte/awesome-network-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/briatte/awesome-network-analysis)](https://github.com/briatte/awesome-network-analysis) - Resources for analysis of network data.
+- [Complexity Explained ![GitHub Repo Stars](https://img.shields.io/github/stars/sellisd/awesome-complexity) ![GitHub last commit](https://img.shields.io/github/last-commit/sellisd/awesome-complexity)](https://github.com/sellisd/awesome-complexity) - Interactive educational website.
 
 ## Books
 
