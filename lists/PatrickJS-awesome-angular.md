@@ -1618,6 +1618,7 @@ to simplify usage and allow quick customization.
 * [ngx-concern ![GitHub Repo Stars](https://img.shields.io/github/stars/HeyItsBATMAN/ngx-concern) ![GitHub last commit](https://img.shields.io/github/last-commit/HeyItsBATMAN/ngx-concern)](https://github.com/HeyItsBATMAN/ngx-concern) - Angular library for creating simple, unstyled dialogs/modals and action-sheets/bottom-sheets.
 * [ngx-whats-new ![GitHub Repo Stars](https://img.shields.io/github/stars/4gray/ngx-whats-new) ![GitHub last commit](https://img.shields.io/github/last-commit/4gray/ngx-whats-new)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 * [ngx-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/soc221b/ngx-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/soc221b/ngx-dialog)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
+* [angular-signal-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/DDtMM/angular-signal-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/DDtMM/angular-signal-generators)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 #### Notifications
 
