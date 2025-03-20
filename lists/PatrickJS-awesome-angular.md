@@ -43,6 +43,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Builders](#builders)
   * [CLI](#cli)
   * [Deployment](#deployment)
+  * [Desktop](#desktop)
   * [Developer tools](#developer-tools)
   * [Documentation tools](#documentation-tools)
   * [Feature Flags](#feature-flags)
@@ -586,6 +587,18 @@ become an Angular expert.
 * [actions-angular-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/OrthoFi/actions-angular-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/OrthoFi/actions-angular-deploy)](https://github.com/OrthoFi/actions-angular-deploy)
 * [actions-angular-ci-cd ![GitHub Repo Stars](https://img.shields.io/github/stars/OrthoFi/actions-angular-ci-cd) ![GitHub last commit](https://img.shields.io/github/last-commit/OrthoFi/actions-angular-ci-cd)](https://github.com/OrthoFi/actions-angular-ci-cd)
 
+#### Desktop
+
+* [electron ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [angular-electron ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-electron)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
+* [neutralinojs ![GitHub Repo Stars](https://img.shields.io/github/stars/neutralinojs/neutralinojs) ![GitHub last commit](https://img.shields.io/github/last-commit/neutralinojs/neutralinojs)](https://github.com/neutralinojs/neutralinojs) - A lightweight and portable desktop application development framework. It lets you develop lightweight cross-platform desktop applications using JavaScript, HTML and CSS. Apps built with Neutralinojs can run on Linux, macOS, Windows, Web, and Chrome.
+* [nw.js ![GitHub Repo Stars](https://img.shields.io/github/stars/nwjs/nw.js) ![GitHub last commit](https://img.shields.io/github/last-commit/nwjs/nw.js)](https://github.com/nwjs/nw.js) - An app runtime based on Chromium and Node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all web technologies.
+* [nw-angular-example ![GitHub Repo Stars](https://img.shields.io/github/stars/nwutils/nw-angular-example) ![GitHub last commit](https://img.shields.io/github/last-commit/nwutils/nw-angular-example)](https://github.com/nwutils/nw-angular-example) - An example of integrating Angular with NW.js.
+* [tauri](https://v2.tauri.app/) - Create small, fast, secure, cross-platform applications.
+* [angular-tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-tauri)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
+* [create-tauri-app ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/create-tauri-app) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/create-tauri-app)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
+* [wails ![GitHub Repo Stars](https://img.shields.io/github/stars/wailsapp/wails) ![GitHub last commit](https://img.shields.io/github/last-commit/wailsapp/wails)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+
 #### Developer tools
 
 * [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
@@ -715,7 +728,6 @@ become an Angular expert.
 * [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
 * [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
 * [angular-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/descope/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/descope/angular-sdk)](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
-* [angular-electron ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-electron) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-electron)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
 * [Postcat ![GitHub Repo Stars](https://img.shields.io/github/stars/Postcatlab/postcat) ![GitHub last commit](https://img.shields.io/github/last-commit/Postcatlab/postcat)](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
 * [angulardart-community ![GitHub Repo Stars](https://img.shields.io/github/stars/angulardart-community/website) ![GitHub last commit](https://img.shields.io/github/last-commit/angulardart-community/website)](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
 * [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
@@ -727,7 +739,6 @@ become an Angular expert.
 * [ngx-grapesjs ![GitHub Repo Stars](https://img.shields.io/github/stars/Developer-Plexscape/ngx-grapesjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Developer-Plexscape/ngx-grapesjs)](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [gojs-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/NorthwoodsSoftware/gojs-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/NorthwoodsSoftware/gojs-angular)](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 * [anguhashblog ![GitHub Repo Stars](https://img.shields.io/github/stars/AnguHashBlog/anguhashblog) ![GitHub last commit](https://img.shields.io/github/last-commit/AnguHashBlog/anguhashblog)](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
-* [angular-tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/maximegris/angular-tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/maximegris/angular-tauri)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 * [ngx-three ![GitHub Repo Stars](https://img.shields.io/github/stars/demike/ngx-three) ![GitHub last commit](https://img.shields.io/github/last-commit/demike/ngx-three)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-facebook-messenger ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-facebook-messenger) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-facebook-messenger)](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 * [angular-sdk-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/splitio/angular-sdk-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/splitio/angular-sdk-plugin)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
