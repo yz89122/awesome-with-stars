@@ -155,6 +155,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [floooh/pacman.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/pacman.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/pacman.zig)](https://github.com/floooh/pacman.zig) - A Pacman clone.
 * [dantecatalfamo/OpenCSE ![GitHub Repo Stars](https://img.shields.io/github/stars/dantecatalfamo/OpenCSE) ![GitHub last commit](https://img.shields.io/github/last-commit/dantecatalfamo/OpenCSE)](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
 * [dbandstra/oxid ![GitHub Repo Stars](https://img.shields.io/github/stars/dbandstra/oxid) ![GitHub last commit](https://img.shields.io/github/last-commit/dbandstra/oxid)](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
+* [six519/YieArKUNGFUZig ![GitHub Repo Stars](https://img.shields.io/github/stars/six519/YieArKUNGFUZig) ![GitHub last commit](https://img.shields.io/github/last-commit/six519/YieArKUNGFUZig)](https://github.com/six519/YieArKUNGFUZig) - Yie Ar Kung-Fu clone with raylib.
 
 
 ## GUI
