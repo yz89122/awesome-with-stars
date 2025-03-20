@@ -202,6 +202,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [shash ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/shash) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/shash)](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
 * [vector.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/themousery/vector.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/themousery/vector.lua)](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing.
 * [Vornmath ![GitHub Repo Stars](https://img.shields.io/github/stars/DUznanski/vornmath) ![GitHub last commit](https://img.shields.io/github/last-commit/DUznanski/vornmath)](https://github.com/DUznanski/vornmath) - The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.
+* [polysec ![GitHub Repo Stars](https://img.shields.io/github/stars/dknight/polysec) ![GitHub last commit](https://img.shields.io/github/last-commit/dknight/polysec)](https://github.com/dknight/polysec) - A performant and lightweight library to detect polygon and rectangle intersections.
 
 ## Music
 *Music related libraries*
