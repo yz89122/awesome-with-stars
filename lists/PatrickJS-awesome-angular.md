@@ -1166,6 +1166,7 @@ become an Angular expert.
 * [ngx-hierarchy ![GitHub Repo Stars](https://img.shields.io/github/stars/rushik1992/ngx-hierarchy) ![GitHub last commit](https://img.shields.io/github/last-commit/rushik1992/ngx-hierarchy)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 * [ngx-relationship-visualiser ![GitHub Repo Stars](https://img.shields.io/github/stars/Rudgey84/ngx-relationship-visualiser) ![GitHub last commit](https://img.shields.io/github/last-commit/Rudgey84/ngx-relationship-visualiser)](https://github.com/Rudgey84/ngx-relationship-visualiser) - A D3 force-directed-graph, implemented in Typescript for Angular, generates a visualisation graph with customisable link lengths and multiple labels between nodes. The graph can handle new data that will update lines, nodes, links, and path labels.
 * [railz-visualizations ![GitHub Repo Stars](https://img.shields.io/github/stars/railz-ai/railz-visualizations) ![GitHub last commit](https://img.shields.io/github/last-commit/railz-ai/railz-visualizations)](https://github.com/railz-ai/railz-visualizations) - A collection of reusable web components that help you build a dashboard using normalized financial transactions and analytics from the FIS Accounting Data as a Service API.
+* [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
 
 #### Cookies
 
@@ -1390,6 +1391,7 @@ become an Angular expert.
 * [ng-country-select ![GitHub Repo Stars](https://img.shields.io/github/stars/wlucha/ng-country-select) ![GitHub last commit](https://img.shields.io/github/last-commit/wlucha/ng-country-select)](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
 * [ngx-card-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/filip194/ngx-card-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/filip194/ngx-card-wrapper)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jessepollak/card) ![GitHub last commit](https://img.shields.io/github/last-commit/jessepollak/card)](https://github.com/jessepollak/card), which provides a credit card form.
 * [ngx-cron ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-cron) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-cron)](https://github.com/swimlane/ngx-cron) - User-friendly cron input...
+* [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
 
 ##### JSON Forms
 
@@ -1402,6 +1404,7 @@ become an Angular expert.
 * [schema-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaspero/schema-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaspero/schema-forms)](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
 * [DynamicAngularForm ![GitHub Repo Stars](https://img.shields.io/github/stars/Brrake/DynamicAngularForm) ![GitHub last commit](https://img.shields.io/github/last-commit/Brrake/DynamicAngularForm)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 * [dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/dynamic-forms/dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/dynamic-forms/dynamic-forms)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
+* [json-forms-zorro-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/wojtek1150/json-forms-zorro-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/wojtek1150/json-forms-zorro-wrapper)](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
 
 ##### Validation
 
@@ -1419,6 +1422,7 @@ to simplify usage and allow quick customization.
 * [ngx-iban-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/SKaDiZZ/ngx-iban-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/SKaDiZZ/ngx-iban-validator)](https://github.com/SKaDiZZ/ngx-iban-validator) - IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit, and length IBAN validations.
 * [ngx-validators ![GitHub Repo Stars](https://img.shields.io/github/stars/marcellodotgg/ngx-validators) ![GitHub last commit](https://img.shields.io/github/last-commit/marcellodotgg/ngx-validators)](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
 * [ngx-reactive-form-class-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/abarghoud/ngx-reactive-form-class-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/abarghoud/ngx-reactive-form-class-validator)](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/typestack/class-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/typestack/class-validator)](https://github.com/typestack/class-validator) library.
+* [ng-error-tooltips ![GitHub Repo Stars](https://img.shields.io/github/stars/mkeller1992/ng-error-tooltips) ![GitHub last commit](https://img.shields.io/github/last-commit/mkeller1992/ng-error-tooltips)](https://github.com/mkeller1992/ng-error-tooltips) - An Angular library for reactive forms that displays tooltips on form inputs with errors, providing a user-friendly way to visualize validation messages.
 
 #### Icons
 
@@ -1894,6 +1898,7 @@ for Bootstrap 5 & Angular 17.
 for the creation of web applications developed with Angular.
 * [ngx-bootstrap-components ![GitHub Repo Stars](https://img.shields.io/github/stars/dotted-labs/ngx-bootstrap-components) ![GitHub last commit](https://img.shields.io/github/last-commit/dotted-labs/ngx-bootstrap-components)](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
 * [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
+* [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 
 ##### Tailwind CSS Based
 
