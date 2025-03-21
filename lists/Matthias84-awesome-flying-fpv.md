@@ -416,7 +416,7 @@ With 3D printing it is easy to get useful addons for your equipment and models
 * rotor guards
 * ...
 
-### Mobile Apps ���
+### Mobile Apps 📱
 
 Free and useful applications to use on your mobile device. Might be not nessesarry open source
 
