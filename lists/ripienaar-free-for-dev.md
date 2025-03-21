@@ -182,7 +182,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.
 
-**[⬆�� Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Source Code Repos
 
@@ -1311,7 +1311,7 @@ Update Time, five active automations, webhooks.
   * [sslip.io](https://sslip.io/) — Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
   * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
-  * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. One domain free
+  * [zonewatcher.com](https://zonewatcher.com) �� Automatic backups and DNS change monitoring. One domain free
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
@@ -1320,7 +1320,7 @@ Update Time, five active automations, webhooks.
 
 ## Domain
 
-  * [eu.org](https://nic.eu.org) �� Free eu.org domain. The request is usually approved in 14 days.
+  * [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
 
