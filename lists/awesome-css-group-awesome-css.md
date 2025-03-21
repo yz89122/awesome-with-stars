@@ -387,7 +387,7 @@ Here is a [CSS in JS techniques comparison ![GitHub Repo Stars](https://img.shie
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
 
-<sub>[��� back to top](#contents)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Maintainers
 
