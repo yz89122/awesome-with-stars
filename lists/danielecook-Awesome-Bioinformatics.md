@@ -75,6 +75,7 @@ Package suites gather software packages and installation tools for specific lang
 - **[SeqAn ![GitHub Repo Stars](https://img.shields.io/github/stars/seqan/seqan3) ![GitHub last commit](https://img.shields.io/github/last-commit/seqan/seqan3)](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
 - **[(Poly)merase ![GitHub Repo Stars](https://img.shields.io/github/stars/TimothyStiles/poly) ![GitHub last commit](https://img.shields.io/github/last-commit/TimothyStiles/poly)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 - **[Biocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/biocaml/biocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/biocaml/biocaml)](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
+- **[Biojava ![GitHub Repo Stars](https://img.shields.io/github/stars/biojava/biojava) ![GitHub last commit](https://img.shields.io/github/last-commit/biojava/biojava)](https://github.com/biojava/biojava)** - Java framework for processing biological data.
 
 ## Data Tools
 
