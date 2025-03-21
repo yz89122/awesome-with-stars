@@ -1108,6 +1108,7 @@ become an Angular expert.
 * [ngx-slider-recaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/mrzinkowin/ngx-slider-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/mrzinkowin/ngx-slider-recaptcha)](https://github.com/mrzinkowin/ngx-slider-recaptcha) - Customizable Angular library that provides a slider-based CAPTCHA component to help secure forms from spam and bot submissions.
 * [@semantic-components/re-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilou88/semantic-components) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilou88/semantic-components)](https://github.com/khalilou88/semantic-components/tree/main/libs/re-captcha) - Angular 19+ integration of Google's reCAPTCHA using **signal inputs** and **standalone components**.
 * [ng-cloudflare-turnstile ![GitHub Repo Stars](https://img.shields.io/github/stars/pangz-lab/ng-cloudflare-turnstile) ![GitHub last commit](https://img.shields.io/github/last-commit/pangz-lab/ng-cloudflare-turnstile)](https://github.com/pangz-lab/ng-cloudflare-turnstile) - An intuitive, lightweight and easy to integrate [Cloudflare turnstile](https://developers.cloudflare.com/turnstile/) component for Angular.
+* [trustcaptcha-angular](https://www.npmjs.com/package/@trustcaptcha/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
 
 #### Carousels
 
