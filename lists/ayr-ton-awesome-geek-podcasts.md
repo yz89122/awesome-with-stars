@@ -299,7 +299,7 @@ A curated list of podcasts we like to listen to.
 * [Davidochobits podcast](https://www.ochobitshacenunbyte.com/category/miscelaneos/) - Free Software, GNU y Linux.
 * [deployando.me](https://deployando.me/) - Podcast de tecnologia para sysadmins y devops.
 * [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
-* [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducci��n de audio y vídeo con herramientas libres.
+* [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
 * [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
 * [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
 * [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) - El mundo legal no mola nada... Píldoras de tecnología y derecho en 10 minutos.
