@@ -193,7 +193,7 @@
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
-- ��� [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
+- 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 - 🧩 [Tailwind Cards ![GitHub Repo Stars](https://img.shields.io/github/stars/hasinhayder/tailwind-cards) ![GitHub last commit](https://img.shields.io/github/last-commit/hasinhayder/tailwind-cards)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 - 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
