@@ -208,7 +208,7 @@ _Info on topics necessary for designing and developing game engines._
 
 ### Engine Development
 - Blog Articles
-    - ��� [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
+    - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 - Commercial Studios Research Divisions
@@ -303,7 +303,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Game Framework
     - 🎉 [CGL ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/cgl) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/cgl)](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
     - 🎉 [DOME ![GitHub Repo Stars](https://img.shields.io/github/stars/domeengine/dome) ![GitHub last commit](https://img.shields.io/github/last-commit/domeengine/dome)](https://github.com/domeengine/dome) - Melds SDL2 and the Wren scripting language. [[Website](https://domeengine.com/)]
-    - �� [Entrypoint ![GitHub Repo Stars](https://img.shields.io/github/stars/jimon/entrypoint) ![GitHub last commit](https://img.shields.io/github/last-commit/jimon/entrypoint)](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
+    - 🎉 [Entrypoint ![GitHub Repo Stars](https://img.shields.io/github/stars/jimon/entrypoint) ![GitHub last commit](https://img.shields.io/github/last-commit/jimon/entrypoint)](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
     - ⭐ [FWK ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/FWK) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/FWK)](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
     - 🎉 [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
