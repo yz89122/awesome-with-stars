@@ -359,7 +359,7 @@ Stack used to deploy and manage a cluster of Docker containerized applications u
 - [GKE](https://cloud.google.com/kubernetes-engine/) - [🛠](https://stackshare.io/google-kubernetes-engine) - Kubernetes cluster managed by Google.
 - [Kubernetes](https://kubernetes.io/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes/kubernetes) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes/kubernetes)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
 - [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
-- [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
+- [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠���](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
 ### Ethereum DApp [↗](https://awesomestacks.dev/ethereum-d-app)
 
