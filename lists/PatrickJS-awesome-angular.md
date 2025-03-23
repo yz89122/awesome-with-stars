@@ -21,7 +21,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Community](#community)
     * [Newsletters](#newsletters)
     * [Podcasts](#podcasts)
-    * [Seasonal](#seasonal)
+    * [Bluesky](#bluesky)
     * [X](#x)
       * [angular-team](#angular-team)
       * [experts](#experts)
@@ -182,11 +182,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Catch Up](https://angular-catch-up.podbean.com/)
 * [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - (Spanish)
 
-##### Seasonal
+##### Bluesky
 
-* [Angular Christmas Calendar](https://angularchristmascalendar.com/)
-* [Angular Love Advent Calendar](https://advent.angular.love/event)
-* [Advent of TypeScript](https://www.adventofts.com/)
+* [Angular Starter Pack by @brandonroberts.dev](https://bsky.app/starter-pack/brandonroberts.dev/3l7lzgkwkqu2n)
 
 ##### X
 
@@ -573,6 +571,7 @@ become an Angular expert.
 * [ngx-stylesweep ![GitHub Repo Stars](https://img.shields.io/github/stars/BernardoGiordano/ngx-stylesweep) ![GitHub last commit](https://img.shields.io/github/last-commit/BernardoGiordano/ngx-stylesweep)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 * [ng-chrome-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-chrome-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-chrome-extension)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 * [ngx-devs-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-devs/ngx-devs-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-devs/ngx-devs-cli)](https://github.com/ngx-devs/ngx-devs-cli) - Command-line interface (CLI) built in Node.js allow you to automate repetitive tasks and make your life easier when working with Angular projects.
+* [firebase-framework-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/firebase-framework-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/firebase-framework-tools)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase/firebase-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase/firebase-tools)](https://github.com/firebase/firebase-tools/) to add web framework support.
 
 #### Deployment
 
@@ -642,6 +641,7 @@ become an Angular expert.
 * [docgeni ![GitHub Repo Stars](https://img.shields.io/github/stars/docgeni/docgeni) ![GitHub last commit](https://img.shields.io/github/last-commit/docgeni/docgeni)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 * [trakk.js ![GitHub Repo Stars](https://img.shields.io/github/stars/trakkjs/trakk-js) ![GitHub last commit](https://img.shields.io/github/last-commit/trakkjs/trakk-js)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 * [ng-component-hierarchy-visualizer ![GitHub Repo Stars](https://img.shields.io/github/stars/timonkrebs/ng-component-hierarchy-visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/timonkrebs/ng-component-hierarchy-visualizer)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations.
+* [easy-template-x-angular-expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/alonrbar/easy-template-x-angular-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/alonrbar/easy-template-x-angular-expressions)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x ![GitHub Repo Stars](https://img.shields.io/github/stars/alonrbar/easy-template-x) ![GitHub last commit](https://img.shields.io/github/last-commit/alonrbar/easy-template-x)](https://github.com/alonrbar/easy-template-x).
 
 #### Feature Flags
 
@@ -1930,6 +1930,7 @@ for the creation of web applications developed with Angular.
 * [Mamba UI ![GitHub Repo Stars](https://img.shields.io/github/stars/Microwawe/mamba-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Microwawe/mamba-ui)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 * [FlyonUI ![GitHub Repo Stars](https://img.shields.io/github/stars/themeselection/flyonui) ![GitHub last commit](https://img.shields.io/github/last-commit/themeselection/flyonui)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
+* [angular-tailwind-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/quedicesebas/angular-tailwind-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/quedicesebas/angular-tailwind-ui)](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
 
 ##### Node Based
 
@@ -2078,6 +2079,7 @@ for the creation of web applications developed with Angular.
 * [type-fest ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/type-fest) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/type-fest)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 * [ts-serializer ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/ts-serializer) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/ts-serializer)](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 * [tsconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/smartrecruiters/tsconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/smartrecruiters/tsconfig)](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
+* [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
 
 #### Inspired by Angular
 
