@@ -1093,7 +1093,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cane ![GitHub Repo Stars](https://img.shields.io/github/stars/square/cane) ![GitHub last commit](https://img.shields.io/github/last-commit/square/cane)](https://github.com/square/cane) :warning: — Code quality threshold checking as part of your build.
 
-- [Churn ![GitHub Repo Stars](https://img.shields.io/github/stars/danmayer/churn) ![GitHub last commit](https://img.shields.io/github/last-commit/danmayer/churn)](https://github.com/danmayer/churn) — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
+- [Churn ![GitHub Repo Stars](https://img.shields.io/github/stars/danmayer/churn) ![GitHub last commit](https://img.shields.io/github/last-commit/danmayer/churn)](https://github.com/danmayer/churn) :warning: — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
 
 - [dawnscanner ![GitHub Repo Stars](https://img.shields.io/github/stars/thesp0nge/dawnscanner) ![GitHub last commit](https://img.shields.io/github/last-commit/thesp0nge/dawnscanner)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 
@@ -1168,7 +1168,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cargo-expand ![GitHub Repo Stars](https://img.shields.io/github/stars/dtolnay/cargo-expand) ![GitHub last commit](https://img.shields.io/github/last-commit/dtolnay/cargo-expand)](https://github.com/dtolnay/cargo-expand) — Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
 
-- [cargo-geiger ![GitHub Repo Stars](https://img.shields.io/github/stars/geiger-rs/cargo-geiger) ![GitHub last commit](https://img.shields.io/github/last-commit/geiger-rs/cargo-geiger)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+- [cargo-geiger ![GitHub Repo Stars](https://img.shields.io/github/stars/geiger-rs/cargo-geiger) ![GitHub last commit](https://img.shields.io/github/last-commit/geiger-rs/cargo-geiger)](https://github.com/geiger-rs/cargo-geiger) :warning: — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
 
 - [cargo-inspect ![GitHub Repo Stars](https://img.shields.io/github/stars/mre/cargo-inspect) ![GitHub last commit](https://img.shields.io/github/last-commit/mre/cargo-inspect)](https://github.com/mre/cargo-inspect) :warning: — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
 
@@ -1381,6 +1381,9 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [ApplicationInspector ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/ApplicationInspector) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ApplicationInspector)](https://github.com/microsoft/ApplicationInspector) — Creates reports of over 400 rule patterns for feature detection (e.g. the use of cryptography or version control in apps).
 
 - [ArchUnit](https://www.archunit.org) — Unit test your Java or Kotlin architecture.
+
+- [ast-grep](https://ast-grep.github.io/) — ast-grep is a powerful tool designed for managing code at scale using Abstract Syntax Trees (AST). Think of it as a hybrid of grep, eslint, and codemod, with the ability to search, lint, and rewrite code based on its structure rather than plain text.
+It supports multiple languages and is designed to be extensible, allowing you to register custom languages.
 
 - [Atom-Beautify](https://atom.io/packages/atom-beautify) :warning: — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
 
@@ -1986,7 +1989,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
 It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 
-- [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
+- [kube-hunter](https://aquasecurity.github.io/kube-hunter/) :warning: — Hunt for security weaknesses in Kubernetes clusters.
 
 - [kube-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/viglesiasce/kube-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/viglesiasce/kube-lint)](https://github.com/viglesiasce/kube-lint) — A linter for Kubernetes resources with a customizable rule set. You define a list of rules that you would like to validate against your  resources and kube-lint will evaluate those rules against them.
 
@@ -2211,7 +2214,7 @@ Kani verifies:
 
 - [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 
-- [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
+- [kube-hunter](https://aquasecurity.github.io/kube-hunter/) :warning: — Hunt for security weaknesses in Kubernetes clusters.
 
 - [lockfile-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/lirantal/lockfile-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/lockfile-lint)](https://github.com/lirantal/lockfile-lint) — Lint an npm or yarn lockfile to analyze and detect security issues
 
