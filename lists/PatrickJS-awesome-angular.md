@@ -327,6 +327,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
 * [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**
 * [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
+* [Enterprise Monorepo Angular Patterns](https://go.nx.dev/angular-patterns-ebook) - `Nx Core Team` **FREE**
 
 ##### Certification
 
@@ -719,6 +720,7 @@ become an Angular expert.
 * [ngx-http-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/InnovA2/ngx-http-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/InnovA2/ngx-http-helper)](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
 * [mbo-ez-angular-ez-http-client ![GitHub Repo Stars](https://img.shields.io/github/stars/morganbourse/mbo-ez-angular-ez-http-client) ![GitHub last commit](https://img.shields.io/github/last-commit/morganbourse/mbo-ez-angular-ez-http-client)](https://github.com/morganbourse/mbo-ez-angular-ez-http-client) - An ez Angular HTTP client inspired by Java [OpenFeign ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenFeign/feign) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenFeign/feign)](https://github.com/OpenFeign/feign) Client.
 * [ngx-sse-client ![GitHub Repo Stars](https://img.shields.io/github/stars/marcospds/ngx-sse-client) ![GitHub last commit](https://img.shields.io/github/last-commit/marcospds/ngx-sse-client)](https://github.com/marcospds/ngx-sse-client) - A simple **SSE** (Server Sent Events) client for Angular applications to replace the use of `EventSource`.
+* [@connectrpc/connect-web ![GitHub Repo Stars](https://img.shields.io/github/stars/connectrpc/connect-es) ![GitHub last commit](https://img.shields.io/github/last-commit/connectrpc/connect-es)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example ![GitHub Repo Stars](https://img.shields.io/github/stars/connectrpc/examples-es) ![GitHub last commit](https://img.shields.io/github/last-commit/connectrpc/examples-es)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
 
 #### Integrations
 
@@ -822,6 +824,7 @@ become an Angular expert.
 * [ngx-translate-db ![GitHub Repo Stars](https://img.shields.io/github/stars/kinleyrabgay/ngx-translate-db) ![GitHub last commit](https://img.shields.io/github/last-commit/kinleyrabgay/ngx-translate-db)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
 * [ngx-glagolize ![GitHub Repo Stars](https://img.shields.io/github/stars/alkorschun/ngx-glagolize) ![GitHub last commit](https://img.shields.io/github/last-commit/alkorschun/ngx-glagolize)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 * [locale-translator ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/locale-translator) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/locale-translator)](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
+* [tldraw-web-component ![GitHub Repo Stars](https://img.shields.io/github/stars/neosh11/tldraw-web-component) ![GitHub last commit](https://img.shields.io/github/last-commit/neosh11/tldraw-web-component)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw ![GitHub Repo Stars](https://img.shields.io/github/stars/tldraw/tldraw) ![GitHub last commit](https://img.shields.io/github/last-commit/tldraw/tldraw)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 
 #### Module Federation
 
@@ -1286,6 +1289,7 @@ become an Angular expert.
 * [ngx-draggable-dom ![GitHub Repo Stars](https://img.shields.io/github/stars/bmartinson/ngx-draggable-dom) ![GitHub last commit](https://img.shields.io/github/last-commit/bmartinson/ngx-draggable-dom)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
 * [ngx-drag-resize ![GitHub Repo Stars](https://img.shields.io/github/stars/dmytro-parfenov/ngx-drag-resize) ![GitHub last commit](https://img.shields.io/github/last-commit/dmytro-parfenov/ngx-drag-resize)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 * [ng-keyboard-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/johnhwhite/ng-keyboard-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/johnhwhite/ng-keyboard-sort)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
+* [ngx-draggable-widget-kama ![GitHub Repo Stars](https://img.shields.io/github/stars/KAMAELUA/ngx-draggable-widget-kama) ![GitHub last commit](https://img.shields.io/github/last-commit/KAMAELUA/ngx-draggable-widget-kama)](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/arup-banerjee/ngx-draggable-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/arup-banerjee/ngx-draggable-widget)](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
 
 #### Editor Components
 
@@ -1515,6 +1519,7 @@ to simplify usage and allow quick customization.
 * [ngx-van ![GitHub Repo Stars](https://img.shields.io/github/stars/otodockal/ngx-van) ![GitHub last commit](https://img.shields.io/github/last-commit/otodockal/ngx-van)](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
 * [ngx-swipe-menu ![GitHub Repo Stars](https://img.shields.io/github/stars/charlesschaefer/ngx-swipe-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/charlesschaefer/ngx-swipe-menu)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 * [ng-simple-sidebar ![GitHub Repo Stars](https://img.shields.io/github/stars/secanis/ng-simple-sidebar) ![GitHub last commit](https://img.shields.io/github/last-commit/secanis/ng-simple-sidebar)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
+* [ngx-bladex ![GitHub Repo Stars](https://img.shields.io/github/stars/karnavpargi/ngx-bladex) ![GitHub last commit](https://img.shields.io/github/last-commit/karnavpargi/ngx-bladex)](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 
 #### Loaders
 
@@ -1911,6 +1916,7 @@ for the creation of web applications developed with Angular.
 * [ngx-bootstrap-components ![GitHub Repo Stars](https://img.shields.io/github/stars/dotted-labs/ngx-bootstrap-components) ![GitHub last commit](https://img.shields.io/github/last-commit/dotted-labs/ngx-bootstrap-components)](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
 * [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
+* [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 
 ##### Tailwind CSS Based
 
