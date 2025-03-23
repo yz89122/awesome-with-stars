@@ -480,6 +480,7 @@ become an Angular expert.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 * [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
+* [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 
 #### Analytics
 
@@ -1101,6 +1102,7 @@ become an Angular expert.
 * [@schedule-x/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/schedule-x/schedule-x) ![GitHub last commit](https://img.shields.io/github/last-commit/schedule-x/schedule-x)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/oOps1627/angular-calendar-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/oOps1627/angular-calendar-timeline)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 * [ngx-resource-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/by-pinja/ngx-resource-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/by-pinja/ngx-resource-calendar)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
+* [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 
 #### Captcha
 
@@ -1268,6 +1270,7 @@ become an Angular expert.
 * [ngx-copy-to-clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/ngx-copy-to-clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/ngx-copy-to-clipboard)](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - an Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
 * [ng-click-outside ![GitHub Repo Stars](https://img.shields.io/github/stars/Kr0san89/ng-click-outside) ![GitHub last commit](https://img.shields.io/github/last-commit/Kr0san89/ng-click-outside)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 * [ngx-search-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/paulotokarskiglinski/ngx-search-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/paulotokarskiglinski/ngx-search-pipe)](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
+* [mTruncate ![GitHub Repo Stars](https://img.shields.io/github/stars/MomenWalid/Truncate) ![GitHub last commit](https://img.shields.io/github/last-commit/MomenWalid/Truncate)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
 
 #### Drag and Drop
 
@@ -1461,6 +1464,7 @@ to simplify usage and allow quick customization.
 * [lucide ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 * [@ngverse/icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ngverse/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ngverse/icons)](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [angular-phosphor-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/aromero86/angular-phosphor-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/aromero86/angular-phosphor-icons)](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
+* [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
 
 #### Images
 
@@ -1630,6 +1634,7 @@ to simplify usage and allow quick customization.
 * [ngx-signals-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/dszendrei/ngx-signals-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/dszendrei/ngx-signals-plus)](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 * [ngx-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/almazrpe/ngx-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/almazrpe/ngx-kit)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 * [ng-tool-collection ![GitHub Repo Stars](https://img.shields.io/github/stars/domideimel/ng-tool-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/domideimel/ng-tool-collection)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
+* [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 
 #### Modals
 
@@ -1659,6 +1664,7 @@ to simplify usage and allow quick customization.
 * [ng-fast-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/rperezll/ng-fast-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/rperezll/ng-fast-toast)](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 * [notifyx ![GitHub Repo Stars](https://img.shields.io/github/stars/awalhadi/notifyx) ![GitHub last commit](https://img.shields.io/github/last-commit/awalhadi/notifyx)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 * [web-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/web-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/web-notifier)](https://github.com/andreasnicolaou/web-notifier) - A lightweight and flexible web notification library that provides a simple API for handling browser notifications using RxJS observables.
+* [toastify ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/toastify) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/toastify)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 
 #### Printing
 
