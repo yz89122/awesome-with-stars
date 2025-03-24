@@ -8,7 +8,7 @@
 A curated list of awesome Crystal code and resources. Inspired by [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ![GitHub Repo Stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness) ![GitHub last commit](https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness)](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
-Search shards at [shards.info](https://shards.info) or follow announcements [Crystal [ANN]](https://crystal-ann.com) for more.
+Search shards at [shards.info](https://shards.info) for more.
 
 Contributions are welcome. Please take a quick look at the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/veelenga/awesome-crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/veelenga/awesome-crystal)](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) first.
 
@@ -583,7 +583,6 @@ described in [RFC 8032]
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [Crank ![GitHub Repo Stars](https://img.shields.io/github/stars/arktisklada/crank) ![GitHub last commit](https://img.shields.io/github/last-commit/arktisklada/crank)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
  * [cry ![GitHub Repo Stars](https://img.shields.io/github/stars/elorest/cry) ![GitHub last commit](https://img.shields.io/github/last-commit/elorest/cry)](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
- * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
  * [DeBot ![GitHub Repo Stars](https://img.shields.io/github/stars/jhass/DeBot) ![GitHub last commit](https://img.shields.io/github/last-commit/jhass/DeBot)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [icr ![GitHub Repo Stars](https://img.shields.io/github/stars/crystal-community/icr) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-community/icr)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [Invidious ![GitHub Repo Stars](https://img.shields.io/github/stars/iv-org/invidious) ![GitHub last commit](https://img.shields.io/github/last-commit/iv-org/invidious)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
