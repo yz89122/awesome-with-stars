@@ -1169,6 +1169,7 @@ _Display non-editable events in a Calendar_
 #### Markdown
 
 - [@f3ve/vue-markdown-it ![GitHub Repo Stars](https://img.shields.io/github/stars/f3ve/vue-markdown-it) ![GitHub last commit](https://img.shields.io/github/last-commit/f3ve/vue-markdown-it)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
+- [Vue Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/litingyes/vue-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/litingyes/vue-markdown)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 
 #### PDF
 
