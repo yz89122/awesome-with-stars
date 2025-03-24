@@ -179,7 +179,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [By Daniel Matarazzo ![GitHub Repo Stars](https://img.shields.io/github/stars/dbmzzo/Sublime-Text-2-Icon) ![GitHub last commit](https://img.shields.io/github/last-commit/dbmzzo/Sublime-Text-2-Icon)](https://github.com/dbmzzo/Sublime-Text-2-Icon)
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
-- [By Matheus Falcão](https://www.behance.net/gallery/22168387/Sublime-Text-Icon)
+- [By Matheus Falc��o](https://www.behance.net/gallery/22168387/Sublime-Text-Icon)
 - [By Shi Yan Hui ![GitHub Repo Stars](https://img.shields.io/github/stars/shiyanhui/Sublime-Text-Icon) ![GitHub last commit](https://img.shields.io/github/last-commit/shiyanhui/Sublime-Text-Icon)](https://github.com/shiyanhui/Sublime-Text-Icon)
 - [By Tomas Sykora ![GitHub Repo Stars](https://img.shields.io/github/stars/syky27/Sublime-Text-Icon) ![GitHub last commit](https://img.shields.io/github/last-commit/syky27/Sublime-Text-Icon)](https://github.com/syky27/Sublime-Text-Icon)
 
