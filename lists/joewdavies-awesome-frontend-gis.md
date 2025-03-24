@@ -277,7 +277,7 @@ Colour usage is very important in data visualisation and cartography. Here are s
 - [viz-palette](https://www.susielu.com/data-viz/viz-palette) - Tool optimized for tweaking, copying, and pasting colors in and out of JavaScript.
 
 
-## 📍 Icons
+## ��� Icons
 Icons to add to your GIS websites:
 - [font-GIS ![GitHub Repo Stars](https://img.shields.io/github/stars/Viglino/font-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/Viglino/font-gis)](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
 - [Map Icons Collection](https://mapicons.mapsmarker.com/) - A set of more than 1000 free and customizable icons to use as placemarks for your POI (Point of Interests) locations on your maps.

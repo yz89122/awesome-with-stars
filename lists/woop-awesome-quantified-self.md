@@ -182,6 +182,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 - [Firefly III ![GitHub Repo Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii) ![GitHub last commit](https://img.shields.io/github/last-commit/firefly-iii/firefly-iii)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 - [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
+- [Just Simple Finance](https://www.justsimple.finance) - An easy-to-use personal finance app (iOS and Android).
 
 ## Devices and Wearables
 
