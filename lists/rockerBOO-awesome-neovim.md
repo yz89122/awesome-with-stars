@@ -428,7 +428,7 @@
 - [zongben/navimark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/navimark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/navimark.nvim)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
 - [francescarpi/buffon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/francescarpi/buffon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/francescarpi/buffon.nvim)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 - [Beargruug/skipper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Beargruug/skipper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Beargruug/skipper.nvim)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
-
+- [mohseenrm/marko.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mohseenrm/marko.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mohseenrm/marko.nvim)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 <!--lint disable double-link -->
 
 **[⬆ back to top](#contents)**
