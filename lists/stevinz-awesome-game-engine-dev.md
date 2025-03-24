@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -506,7 +506,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Boost Libraries](https://github.com/boostorg) - Wide range of C++ libraries, many end up as part of the STL. [[Website](https://www.boost.org)]
     - 📚 [Gamedev Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/raizam/gamedev_libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/raizam/gamedev_libraries)](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
     - 📚 [Inqlude](https://inqlude.org) - List of libraries for developers of _Qt_-based apps.
-    - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
+    - �� [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
@@ -544,7 +544,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Serialization
     - 🎉 [Cap'n Proto ![GitHub Repo Stars](https://img.shields.io/github/stars/capnproto/capnproto) ![GitHub last commit](https://img.shields.io/github/last-commit/capnproto/capnproto)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system.
     - 🎉 [Cereal ![GitHub Repo Stars](https://img.shields.io/github/stars/USCiLab/cereal) ![GitHub last commit](https://img.shields.io/github/last-commit/USCiLab/cereal)](https://github.com/USCiLab/cereal) - Header-only C++11 serialization library.
-    - 🎉 [Cista++ ![GitHub Repo Stars](https://img.shields.io/github/stars/felixguendling/cista) ![GitHub last commit](https://img.shields.io/github/last-commit/felixguendling/cista)](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
+    - ���� [Cista++ ![GitHub Repo Stars](https://img.shields.io/github/stars/felixguendling/cista) ![GitHub last commit](https://img.shields.io/github/last-commit/felixguendling/cista)](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
     - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.

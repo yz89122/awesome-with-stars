@@ -18,6 +18,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [AI](#ai)
   * [Audio](#audio)
   * [Communications](#communications)
+  * [Cryptography](#cryptography)
   * [Display](#display)
   * [IO](#io)
   * [Mathematics](#mathematics)
@@ -60,6 +61,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
 * [upython-chat-gpt ![GitHub Repo Stars](https://img.shields.io/github/stars/karlsoderby/upython-chat-gpt) ![GitHub last commit](https://img.shields.io/github/last-commit/karlsoderby/upython-chat-gpt)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 * [emlearn-micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/emlearn/emlearn-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/emlearn/emlearn-micropython)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+* [mp_esp_dl_models ![GitHub Repo Stars](https://img.shields.io/github/stars/cnadler86/mp_esp_dl_models) ![GitHub last commit](https://img.shields.io/github/last-commit/cnadler86/mp_esp_dl_models)](https://github.com/cnadler86/mp_esp_dl_models) - MicroPython binding for the ESP DL vision models like face detection.
 
 ### Audio
 
@@ -446,6 +448,12 @@ Other places you can look for MicroPython Libraries:
 #### Zigbee
 
 * [ZbPy ![GitHub Repo Stars](https://img.shields.io/github/stars/osresearch/ZbPy) ![GitHub last commit](https://img.shields.io/github/last-commit/osresearch/ZbPy)](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
+
+### Cryptography
+
+#### Historical
+
+* [enigmapython ![GitHub Repo Stars](https://img.shields.io/github/stars/denismaggior8/micropython-enigma-python) ![GitHub last commit](https://img.shields.io/github/last-commit/denismaggior8/micropython-enigma-python)](https://github.com/denismaggior8/micropython-enigma-python) - A simple yet faithful library to emulate different Enigma machines models using MicroPython.
 
 ### Display
 
@@ -1258,6 +1266,7 @@ Other places you can look for MicroPython Libraries:
 ### Firmware
 
 * [micropython-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/jonahbron/micropython-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/jonahbron/micropython-builder)](https://github.com/jonahbron/micropython-builder) - Tool for building and flashing a custom MicroPython firmware.
+* [mpflash](https://pypi.org/project/mpflash/) -⚡Your Ultimate MicroPython Flashing Companion for stm32, rp2, esp32, esp8266, samd.
 
 ### IDEs
 
