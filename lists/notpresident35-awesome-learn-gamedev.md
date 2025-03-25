@@ -441,7 +441,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### VFX
 
 
-[Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) 💠🟪 - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
+[Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) ���🟪 - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
 
 
 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) 🟪 - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
