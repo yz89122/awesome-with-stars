@@ -277,7 +277,7 @@ Contributions are always welcome!
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
 * [Time To Detect - Netflix](https://www.youtube.com/watch?v=wsgpV67MLFo)
 * [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
-* [Building Twitter��s Next-Gen Alerting System](https://www.youtube.com/watch?v=jQggG0qIjTM)
+* [Building Twitter’s Next-Gen Alerting System](https://www.youtube.com/watch?v=jQggG0qIjTM)
 * [Instrumentation: Worst case performance matters](https://honeycomb.io/blog/2017/01/instrumentation-worst-case-performance-matters/)
 * [Instrumentation: What does 'uptime' mean?](https://honeycomb.io/blog/2017/01/instrumentation-what-does-uptime-mean/)
 * [Incidents + Outages at CircleCI: Our Playbook and What We’ve Learned](https://circleci.com/blog/incidents-outages-at-circleci-our-playbook-and-what-we-ve-learned/)
