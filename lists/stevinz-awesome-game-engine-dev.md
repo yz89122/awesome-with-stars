@@ -695,7 +695,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Nape ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFlixel/nape-haxe4) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFlixel/nape-haxe4)](https://github.com/HaxeFlixel/nape-haxe4) - Fast, friendly 2D rigid body physics engine. [[Demos](https://joecreates.github.io/napephys/)]
 - Haxe: Serialization / Storage
     - 🎉 [CastleDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncannasse/castle) ![GitHub last commit](https://img.shields.io/github/last-commit/ncannasse/castle)](https://github.com/ncannasse/castle) - Structured database with a local web service to edit it.
-    - ���� [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
+    - 🎉 [Format ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/format) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/format)](https://github.com/HaxeFoundation/format) - Various files formats support for Haxe.
     - 🎉 [HxBit ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/hxbit) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/hxbit)](https://github.com/HeapsIO/hxbit) - Binary serialization and network synchronization library.
 - Haxe: Utility
     - 🎉 [hexMachina ![GitHub Repo Stars](https://img.shields.io/github/stars/DoclerLabs/hexCore) ![GitHub last commit](https://img.shields.io/github/last-commit/DoclerLabs/hexCore)](https://github.com/DoclerLabs/hexCore) - Powerful modular MVC framework. [[Website](http://hexmachina.org/)]
@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Haxe-Blockly ![GitHub Repo Stars](https://img.shields.io/github/stars/nickmain/haxe-blockly) ![GitHub last commit](https://img.shields.io/github/last-commit/nickmain/haxe-blockly)](https://github.com/nickmain/haxe-blockly) - Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 
 ### Lua
-- 📚 [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
+- �� [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
 - Lua: Game Framework
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
