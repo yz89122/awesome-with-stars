@@ -394,7 +394,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * 📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 * 📝 [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
-* 📝 [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
+* ��� [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
 * 📝 [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
 
 ### Algebraic Geometry
@@ -535,7 +535,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
 * 📝 [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
-* ���� [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
+* 📝 [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * 📝 [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
 * 📝 [Probability and Statistics Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/mavam/stat-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/mavam/stat-cookbook)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
 * 📝 [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
