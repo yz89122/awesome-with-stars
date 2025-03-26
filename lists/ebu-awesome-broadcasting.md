@@ -98,6 +98,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Open Playout Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/jaskie/PlayoutAutomation) ![GitHub last commit](https://img.shields.io/github/last-commit/jaskie/PlayoutAutomation)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/Sofie-TV-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/Sofie-TV-automation)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+* [SPX - Graphics Controller ![GitHub Repo Stars](https://img.shields.io/github/stars/TuomoKu/SPX-GC) ![GitHub last commit](https://img.shields.io/github/last-commit/TuomoKu/SPX-GC)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
 * [Studio TV Player ![GitHub Repo Stars](https://img.shields.io/github/stars/jaskie/StudioTVPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/jaskie/StudioTVPlayer)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## Hybrid Radio
