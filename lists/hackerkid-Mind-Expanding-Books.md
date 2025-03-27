@@ -538,7 +538,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |
 | Of Fire and Stars Book |Audrey Coulthurst | [3.76](https://www.goodreads.com/book/show/25164304-of-fire-and-stars) | 2016 |
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-��-blue"/></a>
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |
