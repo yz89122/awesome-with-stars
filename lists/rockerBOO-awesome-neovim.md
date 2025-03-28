@@ -455,6 +455,7 @@
 - [MagicDuck/grug-far.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim)](https://github.com/MagicDuck/grug-far.nvim) - Buffer-based live search and replace with full power of `rg` flags. Grug like!
 - [chrisgrieser/nvim-rip-substitute ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-rip-substitute) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rip-substitute)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
 - [wsdjeg/flygrep.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/flygrep.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/flygrep.nvim)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
+- [prochri/telescope-all-recent.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/prochri/telescope-all-recent.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/prochri/telescope-all-recent.nvim)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
 
 <!--lint disable double-link -->
 
@@ -1221,6 +1222,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [moyiz/git-dev.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/moyiz/git-dev.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/moyiz/git-dev.nvim)](https://github.com/moyiz/git-dev.nvim) - Open remote Git repositories in the comfort of Neovim.
 - [SuperBo/fugit2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperBo/fugit2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperBo/fugit2.nvim)](https://github.com/SuperBo/fugit2.nvim) - Git GUI powered by [libgit2](https://libgit2.org).
 - [Yu-Leo/blame-column.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/blame-column.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/blame-column.nvim)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
+- [yutkat/git-rebase-auto-diff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim)](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
 
 ### GitHub
 
