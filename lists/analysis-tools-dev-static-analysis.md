@@ -1612,7 +1612,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [Super-Linter ![GitHub Repo Stars](https://img.shields.io/github/stars/github/super-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/github/super-linter)](https://github.com/github/super-linter) — Combination of multiple linters to install as a GitHub Action.
 
-- [Svace](https://www.ispras.ru/en/technologies/svace/) :copyright: — Static code analysis tool for Java,C,C++,C#,Go.
+- [Svace](https://www.ispras.ru/en/technologies/svace/) :copyright: �� Static code analysis tool for Java,C,C++,C#,Go.
 
 - [Synopsys](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: — A commercial static analysis platform that allows for scanning of multiple languages (C/C++, Android, C#, Java, JS, PHP, Python, Node.JS, Ruby, Fortran, and Swift).
 
