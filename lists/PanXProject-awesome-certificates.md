@@ -194,7 +194,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4     | 🏆     |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4     | 🏆     |
 | [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4     | 🏆     |
-| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | ��     |
+| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | 🏆     |
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
 
@@ -258,7 +258,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆��� ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Chatbots
@@ -322,7 +322,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
+| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [��](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 
@@ -489,7 +489,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Apply strokes and fills in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills) | UMaine New Media | Beginner| 0.1 | 🏅 |
 | [Apply gradient in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient) | UMaine New Media | intermediate| 0.1 | 🏅 |
 | [How to make an Infographic in Illustrator 1](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1) | UMaine New Media | Beginner| 0.22 | 🏅 |
-| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | 🏅 |
+| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | ���� |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
