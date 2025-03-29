@@ -517,7 +517,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * 📝 [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
 * 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
-* ���� [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
+* 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
 * 📝 [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
 * 📝 [Differential Equations](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (1922)
@@ -617,7 +617,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * 📝 [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
-* 📝 [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
+* ���� [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 # Students Lecture Notes
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
