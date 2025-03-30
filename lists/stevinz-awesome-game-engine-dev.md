@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -458,7 +458,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Seam-aware Decimater ![GitHub Repo Stars](https://img.shields.io/github/stars/songrun/SeamAwareDecimater) ![GitHub last commit](https://img.shields.io/github/last-commit/songrun/SeamAwareDecimater)](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs, based on [Seamless](https://cragl.cs.gmu.edu/seamless/).
     - 🎉 [Spheres ![GitHub Repo Stars](https://img.shields.io/github/stars/caosdoar/spheres) ![GitHub last commit](https://img.shields.io/github/last-commit/caosdoar/spheres)](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
     - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Utilities for input, output, and manipulation of 3D triangle meshes.
-    - �� [V-HACD ![GitHub Repo Stars](https://img.shields.io/github/stars/kmammou/v-hacd) ![GitHub last commit](https://img.shields.io/github/last-commit/kmammou/v-hacd)](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
+    - 🎉 [V-HACD ![GitHub Repo Stars](https://img.shields.io/github/stars/kmammou/v-hacd) ![GitHub last commit](https://img.shields.io/github/last-commit/kmammou/v-hacd)](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
 - C++: Graphics - 2D
     - 🎉 [Blend2D ![GitHub Repo Stars](https://img.shields.io/github/stars/blend2d/blend2d) ![GitHub last commit](https://img.shields.io/github/last-commit/blend2d/blend2d)](https://github.com/blend2d/blend2d) - High-performance 2D vector graphics engine. [[Website](https://blend2d.com/)]
     - 🎉 [C++ Bitmap Library ![GitHub Repo Stars](https://img.shields.io/github/stars/ArashPartow/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/ArashPartow/bitmap)](https://github.com/ArashPartow/bitmap) - Featured bitmap loading and manipulation library.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
