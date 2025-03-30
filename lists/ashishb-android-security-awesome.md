@@ -6,6 +6,7 @@
 [![Lint Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/ashishb/android-security-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/ashishb/android-security-awesome)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml)
 [![Lint YAML ![GitHub Repo Stars](https://img.shields.io/github/stars/ashishb/android-security-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/ashishb/android-security-awesome)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-yaml.yaml)
 [![Lint GitHub Actions ![GitHub Repo Stars](https://img.shields.io/github/stars/ashishb/android-security-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/ashishb/android-security-awesome)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-github-actions.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-github-actions.yaml)
+![GitHub contributors](https://img.shields.io/github/contributors/ashishb/android-security-awesome)
 
 A collection of Android security-related resources.
 
