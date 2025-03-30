@@ -575,7 +575,9 @@ Game Development
 
 * [Trial ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/trial) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/trial)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. Custom: [zlib][33] with a political clause added.
   * the [Kandria](https://kandria.com/) game is built with Trial.
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – with this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
+* [claw-raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/claw-raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/claw-raylib)](https://github.com/bohonghuang/claw-raylib) (2023) - Fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
+* [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/raylib)](https://github.com/fosskers/raylib/) (2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. MPL-2.
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – With this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
 * [virality ![GitHub Repo Stars](https://img.shields.io/github/stars/bufferswap/ViralityEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/bufferswap/ViralityEngine)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT][200].
 * [Xelf](https://gitlab.com/dto/xelf/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
 
@@ -602,9 +604,8 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
   * allows for: resizing, rotation, emboss effect, inverting colors, adjusting contrast, manipulating color elements, composing pictures, drawing simple primitives…
   * is integrated with common-lisp-jupyter.
 
-Those are bindings:
+These are bindings:
 
-* [cl-raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/claw-raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/claw-raylib)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
 * [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/glfw)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
 * [common-cv ![GitHub Repo Stars](https://img.shields.io/github/stars/byulparan/common-cv) ![GitHub last commit](https://img.shields.io/github/last-commit/byulparan/common-cv)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
 * [cl-cairo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/rpav/cl-cairo2) ![GitHub last commit](https://img.shields.io/github/last-commit/rpav/cl-cairo2)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0][54]
