@@ -176,7 +176,7 @@
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/knipferrc/tails-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/knipferrc/tails-ui)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- ��� [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+- 📚 [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.

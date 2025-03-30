@@ -691,7 +691,7 @@ Language: English
 
 [__ESLint__](https://discord.com/invite/8szcydm) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://eslint.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/eslint) \
 Notable Channels: `#tsc-meetings`, `#general`, `#help`, `#lookwhatimade`, `#developers`, `#season-of-docs` \
-Language: English, 日���語 \
+Language: English, 日本語 \
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/reasonml.webp">
