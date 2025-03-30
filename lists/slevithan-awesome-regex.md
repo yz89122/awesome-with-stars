@@ -342,7 +342,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 > Each edition from ES2019 to ES2023 added additional Unicode properties that can be used via `\p{…}` and `\P{…}` (see [lists ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint-community/regexpp) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint-community/regexpp)](https://github.com/eslint-community/regexpp/blob/main/src/unicode/properties.ts)). ES2021 added string method [`replaceAll` ![GitHub Repo Stars](https://img.shields.io/github/stars/tc39/proposal-string-replaceall) ![GitHub last commit](https://img.shields.io/github/last-commit/tc39/proposal-string-replaceall)](https://github.com/tc39/proposal-string-replaceall), although, when given a regex, the only difference from ES3's `replace` is that it throws if not using flag `g`.
 <details>
-  <summary>��� <b>See also</b></summary>
+  <summary>➕ <b>See also</b></summary>
   <br>
 
 - [*Regexes Got Good: The History And Future Of Regular Expressions In JavaScript*](https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/)
