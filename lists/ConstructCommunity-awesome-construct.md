@@ -75,6 +75,7 @@ Community supported channels.
 ### Construct 2
 
 - [AppPlayer-Electron ![GitHub Repo Stars](https://img.shields.io/github/stars/Floflis/AppPlayer-Electron) ![GitHub last commit](https://img.shields.io/github/last-commit/Floflis/AppPlayer-Electron)](https://github.com/Floflis/AppPlayer-Electron) - Preview apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
+- [Neo NW ![GitHub Repo Stars](https://img.shields.io/github/stars/kckarnige/NeoNWjsForC2) ![GitHub last commit](https://img.shields.io/github/last-commit/kckarnige/NeoNWjsForC2)](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW.js, replacing the outdated "NW.js for Construct 2" installer.
 
 ## Addons
 
