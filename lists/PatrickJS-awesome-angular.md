@@ -572,6 +572,7 @@ become an Angular expert.
 * [ng-chrome-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/larscom/ng-chrome-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/larscom/ng-chrome-extension)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 * [ngx-devs-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-devs/ngx-devs-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-devs/ngx-devs-cli)](https://github.com/ngx-devs/ngx-devs-cli) - Command-line interface (CLI) built in Node.js allow you to automate repetitive tasks and make your life easier when working with Angular projects.
 * [firebase-framework-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/firebase-framework-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/firebase-framework-tools)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase/firebase-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase/firebase-tools)](https://github.com/firebase/firebase-tools/) to add web framework support.
+* [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx ![GitHub Repo Stars](https://img.shields.io/github/stars/marmotz-dev/codx) ![GitHub last commit](https://img.shields.io/github/last-commit/marmotz-dev/codx)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 
 #### Deployment
 
@@ -1118,6 +1119,7 @@ become an Angular expert.
 * [@semantic-components/re-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilou88/semantic-components) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilou88/semantic-components)](https://github.com/khalilou88/semantic-components/tree/main/libs/re-captcha) - Angular 19+ integration of Google's reCAPTCHA using **signal inputs** and **standalone components**.
 * [ng-cloudflare-turnstile ![GitHub Repo Stars](https://img.shields.io/github/stars/pangz-lab/ng-cloudflare-turnstile) ![GitHub last commit](https://img.shields.io/github/last-commit/pangz-lab/ng-cloudflare-turnstile)](https://github.com/pangz-lab/ng-cloudflare-turnstile) - An intuitive, lightweight and easy to integrate [Cloudflare turnstile](https://developers.cloudflare.com/turnstile/) component for Angular.
 * [trustcaptcha-angular](https://www.npmjs.com/package/@trustcaptcha/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
+* [altcha ![GitHub Repo Stars](https://img.shields.io/github/stars/altcha-org/altcha) ![GitHub last commit](https://img.shields.io/github/last-commit/altcha-org/altcha)](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 
 #### Carousels
 
