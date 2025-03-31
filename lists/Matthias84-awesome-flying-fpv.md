@@ -269,7 +269,7 @@ This is more professional equipment to do beyond VLOS flights and not needed for
 * [DIY Helical Antenna For Long Range FPV](https://www.youtube.com/watch?v=aH0cW9XJ4D4) - 5,8GHz helical directional antenna for analog googles with 3D printed skeleton.
 * [Cloverleaf Antenna - Build Instructions](https://www.youtube.com/watch?v=JGm9ESx4yzE)- 5.8GHz omnidirectional antenna for analog video transmission.
 
-## Telemetry & Logs 📊
+## Telemetry & Logs ��
 
 Sensor values and control information are shared via common serial protocols which can be recorded onboard (blackbox) on internal SD cards at FC, or transferred to your TX handset or Groundstation. Useful to find lost drones, as well as debug and tune PID and flight behavior
 
@@ -441,7 +441,7 @@ Depending on the country you live in, the laws and legal rules of airspace may v
 * [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Grundlagen/Frequenzplan/frequenzplan-node.html) - 🇩🇪 Zulässige Sendefrequenzen und -Leistungen.
 
 * [Urząd Lotnictwa Cywilnego](https://drony.ulc.gov.pl) - 🇵🇱 Urząd Lotnictwa Cywilnego - allows to apply for license in Poland and EU
-* [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - 🇵�� List of regulations regarding operations of UAV in Poland
+* [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - 🇵🇱 List of regulations regarding operations of UAV in Poland
 
 ## Communities 🗣️
 
