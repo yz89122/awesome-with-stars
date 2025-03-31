@@ -617,7 +617,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 <h2>Haskell</h2>
 
 
-- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: �� Haskell source code formatter
+- [brittany ![GitHub Repo Stars](https://img.shields.io/github/stars/lspitzner/brittany) ![GitHub last commit](https://img.shields.io/github/last-commit/lspitzner/brittany)](https://github.com/lspitzner/brittany) :warning: — Haskell source code formatter
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) �� A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/google/closure-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-linter)](https://github.com/google/closure-linter) :warning: — Ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors.
 

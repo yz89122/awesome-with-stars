@@ -217,7 +217,7 @@ Give users the real-time experience they expect, by using Elixir and Phoenix Cha
 
 <img src="https://pragprog.com/titles/lmelixir/testing-elixir/lmelixir-500.jpg" width="120px"/>
 
-Elixir offers new paradigms, and challenges you to test in unconventional ways. Start with ExUnit: almost everything you need to write tests covering all levels of detail, from unit to integration, but only if you know how to use it to the fullest���we’ll show you how. Explore testing Elixir-specific challenges such as OTP-based modules, asynchronous code, Ecto-based applications, and Phoenix applications. Explore new tools like Mox for mocks and StreamData for property-based testing. Armed with this knowledge, you can create test suites that add value to your production cycle and guard you from regressions.
+Elixir offers new paradigms, and challenges you to test in unconventional ways. Start with ExUnit: almost everything you need to write tests covering all levels of detail, from unit to integration, but only if you know how to use it to the fullest—we’ll show you how. Explore testing Elixir-specific challenges such as OTP-based modules, asynchronous code, Ecto-based applications, and Phoenix applications. Explore new tools like Mox for mocks and StreamData for property-based testing. Armed with this knowledge, you can create test suites that add value to your production cycle and guard you from regressions.
 
 ### [Exploring Graphs with Elixir](https://pragprog.com/titles/thgraphs/exploring-graphs-with-elixir/)
 
