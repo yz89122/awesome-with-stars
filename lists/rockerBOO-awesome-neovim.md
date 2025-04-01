@@ -298,6 +298,7 @@
 - [farias-hecdin/CSSVarViewer ![GitHub Repo Stars](https://img.shields.io/github/stars/farias-hecdin/CSSVarViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarViewer)](https://github.com/farias-hecdin/CSSVarViewer) - Easily visualize the content of your CSS variables in a virtual text.
 - [farias-hecdin/CSSVarHighlight ![GitHub Repo Stars](https://img.shields.io/github/stars/farias-hecdin/CSSVarHighlight) ![GitHub last commit](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarHighlight)](https://github.com/farias-hecdin/CSSVarHighlight) - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 - [BibekBhusal0/nvim-shadcn ![GitHub Repo Stars](https://img.shields.io/github/stars/BibekBhusal0/nvim-shadcn) ![GitHub last commit](https://img.shields.io/github/last-commit/BibekBhusal0/nvim-shadcn)](https://github.com/BibekBhusal0/nvim-shadcn) - Easily add Shadcn UI components with telescope.
+- [azratul/expose-localhost.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/azratul/expose-localhost.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/azratul/expose-localhost.nvim)](https://github.com/azratul/expose-localhost.nvim) - Expose your local server to the internet with cloudflared or ngrok.
 
 ### Markdown and LaTeX
 
