@@ -132,6 +132,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [FuseBox ![GitHub Repo Stars](https://img.shields.io/github/stars/fuse-box/fuse-box) ![GitHub last commit](https://img.shields.io/github/last-commit/fuse-box/fuse-box)](https://github.com/fuse-box/fuse-box) - A bundler that does it right
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 * [bundle](https://bundle.js.org) - A quick online npm package size checker.
+* [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
 
 # Minimizers
 
