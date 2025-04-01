@@ -201,13 +201,14 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Database clients
 
+- [firebird ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/firebird) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/firebird)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
 - [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - MongoDB driver for V.
 - [redict ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/redict) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/redict)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [vduckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/rodabt/vduckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/rodabt/vduckdb)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 - [vmemcached ![GitHub Repo Stars](https://img.shields.io/github/stars/blacktrub/vmemcached) ![GitHub last commit](https://img.shields.io/github/last-commit/blacktrub/vmemcached)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis ![GitHub Repo Stars](https://img.shields.io/github/stars/xiusin/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/xiusin/vredis)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 - [vsql ![GitHub Repo Stars](https://img.shields.io/github/stars/lydiandy/vsql) ![GitHub last commit](https://img.shields.io/github/last-commit/lydiandy/vsql)](https://github.com/lydiandy/vsql) - A sql query builder for V.
-- [vduckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/rodabt/vduckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/rodabt/vduckdb)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 
 ### Discord
 
