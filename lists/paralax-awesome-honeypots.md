@@ -8,7 +8,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 
 # Contents
 
-- [Awesome Honeypots ![Awesome Honeypots ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)
+- [Awesome Honeypots ](#awesome-honeypots-)
 - [Contents](#contents)
   - [Related Lists](#related-lists)
   - [Honeypots](#honeypots)
@@ -84,6 +84,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [dhp ![GitHub Repo Stars](https://img.shields.io/github/stars/ciscocsirt/dhp) ![GitHub last commit](https://img.shields.io/github/last-commit/ciscocsirt/dhp)](https://github.com/ciscocsirt/dhp) - Simple Docker Honeypot server emulating small snippets of the Docker HTTP API.
   - [DolosHoneypot ![GitHub Repo Stars](https://img.shields.io/github/stars/Marist-Innovation-Lab/DolosHoneypot) ![GitHub last commit](https://img.shields.io/github/last-commit/Marist-Innovation-Lab/DolosHoneypot)](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN (software defined networking) honeypot.
   - [Ensnare ![GitHub Repo Stars](https://img.shields.io/github/stars/ahoernecke/ensnare) ![GitHub last commit](https://img.shields.io/github/last-commit/ahoernecke/ensnare)](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
+  - [GenAIPot ![GitHub Repo Stars](https://img.shields.io/github/stars/ls1911/GenAIPot) ![GitHub last commit](https://img.shields.io/github/last-commit/ls1911/GenAIPot)](https://github.com/ls1911/GenAIPot) - The first A.I based open source honeypot. supports POP3 and SMTP protocols and generates content using A.I based on user description.
   - [Helix ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeerg/helix-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeerg/helix-honeypot)](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
   - [honeycomb_plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/Cymmetria/honeycomb_plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/Cymmetria/honeycomb_plugins)](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
   - [honeydb] (https://honeydb.io/downloads) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
@@ -405,7 +406,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 - Spamtrap
 
   - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - Perl module that appears to provide the functionality of a standard SMTP server.
-  - [Mailoney ![GitHub Repo Stars](https://img.shields.io/github/stars/awhitehatter/mailoney) ![GitHub last commit](https://img.shields.io/github/last-commit/awhitehatter/mailoney)](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
+  - [Mailoney ![GitHub Repo Stars](https://img.shields.io/github/stars/phin3has/mailoney) ![GitHub last commit](https://img.shields.io/github/last-commit/phin3has/mailoney)](https://github.com/phin3has/mailoney) - SMTP honeypot written in python.
   - [SendMeSpamIDS.py ![GitHub Repo Stars](https://img.shields.io/github/stars/johestephan/VerySimpleHoneypot) ![GitHub last commit](https://img.shields.io/github/last-commit/johestephan/VerySimpleHoneypot)](https://github.com/johestephan/VerySimpleHoneypot) - Simple SMTP fetch all IDS and analyzer.
   - [Shiva ![GitHub Repo Stars](https://img.shields.io/github/stars/shiva-spampot/shiva) ![GitHub last commit](https://img.shields.io/github/last-commit/shiva-spampot/shiva)](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
     - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
