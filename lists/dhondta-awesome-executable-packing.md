@@ -432,6 +432,7 @@
 
 ### After 2010
 
+- [Astral-PE ![GitHub Repo Stars](https://img.shields.io/github/stars/DosX-dev/Astral-PE) ![GitHub last commit](https://img.shields.io/github/last-commit/DosX-dev/Astral-PE)](https://github.com/DosX-dev/Astral-PE) - Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64)
 - [Alienyze](https://alienyze.com) - Advanced software protection and security for Windows 32-bit executables.
 - [Alternate EXE Packer](https://www.alternate-tools.com/pages/c_exepacker.php) - Compression tool for executable files (type EXE) or DLL's relying on UPX 3.96.
 - [Amber ![GitHub Repo Stars](https://img.shields.io/github/stars/EgeBalci/amber) ![GitHub last commit](https://img.shields.io/github/last-commit/EgeBalci/amber)](https://github.com/EgeBalci/amber/releases) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
