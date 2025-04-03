@@ -1409,6 +1409,7 @@ become an Angular expert.
 * [ngx-card-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/filip194/ngx-card-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/filip194/ngx-card-wrapper)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jessepollak/card) ![GitHub last commit](https://img.shields.io/github/last-commit/jessepollak/card)](https://github.com/jessepollak/card), which provides a credit card form.
 * [ngx-cron ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-cron) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-cron)](https://github.com/swimlane/ngx-cron) - User-friendly cron input...
 * [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
+* [ngx-pwd ![GitHub Repo Stars](https://img.shields.io/github/stars/noelitocalma/ngx-pwd) ![GitHub last commit](https://img.shields.io/github/last-commit/noelitocalma/ngx-pwd)](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 
 ##### JSON Forms
 
