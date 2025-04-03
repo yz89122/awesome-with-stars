@@ -812,7 +812,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) 🟪 - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
+[Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) �� - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
 
 
 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
