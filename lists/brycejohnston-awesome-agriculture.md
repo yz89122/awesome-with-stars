@@ -23,15 +23,15 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 
 ## Automation and Robotics
 
-- [Ant Robotics](https://antrobotics.de/) development from Ecoterra bot
-- [Acorn Rover](https://github.com/Twisted-Fields) precision farming rover, Odrive, Python.
-- [Earth Rover](https://github.com/earthrover) Ag AGV ROS1 precision farming rover 
-- [EcoTerra Bot](https://ecoterrabot.com/) Delta & Rover
-- [FarmBot](https://github.com/farmbot) -  Open source precision gardening project.
+- [Ant Robotics](https://antrobotics.de/) - development from Ecoterra bot
+- [Acorn Rover](https://github.com/Twisted-Fields) - precision farming rover, Odrive, Python.
+- [Earth Rover](https://github.com/earthrover) - Ag AGV ROS1 precision farming rover 
+- [EcoTerra Bot](https://ecoterrabot.com/) - Delta & Rover
+- [FarmBot](https://github.com/farmbot) - Open source precision gardening project.
 - [Fields2Cover ![GitHub Repo Stars](https://img.shields.io/github/stars/Fields2Cover/Fields2Cover) ![GitHub last commit](https://img.shields.io/github/last-commit/Fields2Cover/Fields2Cover)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
-- [Romi project](https://media.romi-project.eu/documents/index.html) Europe-funded research project 
+- [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project 
 - [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
-- [Weedinator](https://hackaday.io/project/53896-weedinator-2019) Line following weeding robot
+- [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
 
 ## Calculators
 
@@ -53,8 +53,10 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 - [Open Plant Pathology](https://www.openplantpathology.org/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
 
 ## Datasets
-- [Growstuff](https://www.growstuff.org/crops) Record keeping & crop database, nice API
 - [CWFID ![GitHub Repo Stars](https://img.shields.io/github/stars/cwfid/dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/cwfid/dataset)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
+- [Growstuff](https://www.growstuff.org/crops) - Record keeping & crop database, nice API
+- [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) - Dataset containing leaf images of healthy and diseased plants, covering 38 disease classes across 14 different crops.
+- [SoybeanYield ![GitHub Repo Stars](https://img.shields.io/github/stars/saeedkhaki92/CNN-RNN-Yield-Prediction) ![GitHub last commit](https://img.shields.io/github/last-commit/saeedkhaki92/CNN-RNN-Yield-Prediction)](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file) - A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters. 
 - [TERRA REF](https://terraref.org) - 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103&origin_path=%2F))
 
 ## Data Standardization, Interoperability and APIs
