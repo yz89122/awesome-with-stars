@@ -243,7 +243,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Middlewares
 *Libraries for building application using middlewares.*
 
-* [PSR-7 Middlewares ![GitHub Repo Stars](https://img.shields.io/github/stars/oscarotero/psr7-middlewares) ![GitHub last commit](https://img.shields.io/github/last-commit/oscarotero/psr7-middlewares)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
+* [PSR-15 Middlewares ![GitHub Repo Stars](https://img.shields.io/github/stars/middlewares/psr15-middlewares) ![GitHub last commit](https://img.shields.io/github/last-commit/middlewares/psr15-middlewares)](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
 * [Relay ![GitHub Repo Stars](https://img.shields.io/github/stars/relayphp/Relay.Relay) ![GitHub last commit](https://img.shields.io/github/last-commit/relayphp/Relay.Relay)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 * [Laminas Stratigility ![GitHub Repo Stars](https://img.shields.io/github/stars/laminas/laminas-stratigility) ![GitHub last commit](https://img.shields.io/github/last-commit/laminas/laminas-stratigility)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
