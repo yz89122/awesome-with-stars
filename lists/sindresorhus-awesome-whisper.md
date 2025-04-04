@@ -2,7 +2,7 @@
 	<br>
 	<br>
 	<div>
-		<img src="https://github.com/sindresorhus/awesome-whisper/raw/master/media/logo.png" alt="Awesome Whisper">
+		<img src="https://github.com/sindresorhus/awesome-whisper/raw/main/media/logo.png" alt="Awesome Whisper">
 		<br>
 	</div>
 	<br>
