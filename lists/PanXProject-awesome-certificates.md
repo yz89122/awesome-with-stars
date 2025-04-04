@@ -258,7 +258,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-[���️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Chatbots
@@ -403,7 +403,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Quality Assurance Certification](https://www.freecodecamp.org/learn/quality-assurance/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) | Saylor Academy |Professional|52 | 🏆|
 | [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) | Saylor Academy |Professional|42 | 🏆|
-| [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) | Saylor Academy |Professional|38 | 🏆|
+| [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) | Saylor Academy |Professional|38 | ����|
 | [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67) | Saylor Academy |Professional|44 | 🏆|
 | [CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) | Saylor Academy |Professional|48 | 🏆|
 | [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) | Saylor Academy |Professional|45 | 🏆|
