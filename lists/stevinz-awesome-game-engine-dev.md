@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Wicked Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/turanszkij/WickedEngine)](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
 - C++: Gui
     - 🎉 [Crazy Eddie's GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/cegui/cegui) ![GitHub last commit](https://img.shields.io/github/last-commit/cegui/cegui)](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
-    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
+    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) ���� - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
@@ -506,7 +506,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Boost Libraries](https://github.com/boostorg) - Wide range of C++ libraries, many end up as part of the STL. [[Website](https://www.boost.org)]
     - 📚 [Gamedev Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/raizam/gamedev_libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/raizam/gamedev_libraries)](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
     - 📚 [Inqlude](https://inqlude.org) - List of libraries for developers of _Qt_-based apps.
-    - ���� [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
+    - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
