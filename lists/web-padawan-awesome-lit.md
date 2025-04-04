@@ -43,7 +43,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Community
 
-- [Discord](https://discord.gg/yuKCWxEy)
+- [Discord](https://discord.com/invite/buildWithLit)
 - [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit)
 - [GitHub Discussions ![GitHub Repo Stars](https://img.shields.io/github/stars/lit/lit) ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)](https://github.com/lit/lit/discussions)
 - [Twitter](https://twitter.com/buildWithLit)
