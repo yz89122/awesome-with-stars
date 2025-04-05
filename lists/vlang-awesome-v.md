@@ -262,6 +262,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Networking
 
+- [netaddr ![GitHub Repo Stars](https://img.shields.io/github/stars/gechandesu/netaddr) ![GitHub last commit](https://img.shields.io/github/last-commit/gechandesu/netaddr)](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 - [vibe ![GitHub Repo Stars](https://img.shields.io/github/stars/tobealive/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/tobealive/vibe)](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq ![GitHub Repo Stars](https://img.shields.io/github/stars/jordan-bonecutter/vmq) ![GitHub last commit](https://img.shields.io/github/last-commit/jordan-bonecutter/vmq)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
