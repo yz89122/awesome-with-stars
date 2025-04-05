@@ -148,7 +148,7 @@ Offers a complete setup for both small and enterprise-scale apps.
 - [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/jest) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/jest)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
 - [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint/eslint)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
 - [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/stylelint/stylelint) ![GitHub last commit](https://img.shields.io/github/last-commit/stylelint/stylelint)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-- [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) A tool to create, deploy and run applications inside containers.
+- [Docker](https://www.docker.com/) - [����](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) A tool to create, deploy and run applications inside containers.
 
 ##### Resources
 
