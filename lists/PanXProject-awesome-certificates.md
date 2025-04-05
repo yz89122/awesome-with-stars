@@ -194,7 +194,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4     | 🏆     |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4     | 🏆     |
 | [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4     | 🏆     |
-| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | 🏆     |
+| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | ����     |
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
 
@@ -322,7 +322,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [���](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
+| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 
