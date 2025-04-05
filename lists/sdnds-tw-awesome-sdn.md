@@ -202,7 +202,7 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [SDN核心技术剖析和实战指南](http://www.sdnlab.com/book/9480.html)
 - [Software Defined Networking with OpenFlow](https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow)
 - [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
-- [重构网络-SDN架构与实现](http://www.sdnlab.com/book/18762.html)
+- [重构网络-SDN架构与实��](http://www.sdnlab.com/book/18762.html)
 - [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
 - [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
