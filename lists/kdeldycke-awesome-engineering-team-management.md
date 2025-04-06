@@ -242,7 +242,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) - “I sat next to a senior software engineer for a year. Here's what I learnt.”
 
-- [5 Things I've Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - ���A programmer with 5 years of experienced has more industry tenure than half of the entire industry.” Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
+- [5 Things I've Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - “A programmer with 5 years of experienced has more industry tenure than half of the entire industry.” Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
 
 - [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768) - “Don't act like know-it-all; Openly admit if they don't know something; Try to figure stuff out together”.
 
