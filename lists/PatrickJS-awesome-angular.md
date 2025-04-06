@@ -1100,6 +1100,7 @@ become an Angular expert.
 * [ngx-dom-confetti ![GitHub Repo Stars](https://img.shields.io/github/stars/damingerdai/ngx-dom-confetti) ![GitHub last commit](https://img.shields.io/github/last-commit/damingerdai/ngx-dom-confetti)](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
 * [ngx-dotlottie-web ![GitHub Repo Stars](https://img.shields.io/github/stars/victor-enogwe/ngx-dotlottie-web) ![GitHub last commit](https://img.shields.io/github/last-commit/victor-enogwe/ngx-dotlottie-web)](https://github.com/victor-enogwe/ngx-dotlottie-web) - Angular JavaScript library for rendering Lottie and dotLottie animations in Node.js and web environments.
 * [afnaan-ngx-custom-cursor ![GitHub Repo Stars](https://img.shields.io/github/stars/afnaanulla/AfnaanNgx-cusotm-cursor) ![GitHub last commit](https://img.shields.io/github/last-commit/afnaanulla/AfnaanNgx-cusotm-cursor)](https://github.com/afnaanulla/AfnaanNgx-cusotm-cursor) - A customizable animated cursor for Angular applications. Enhance user experience with a stylish and interactive cursor effect.
+* [@ramiz4/typing-text](https://www.npmjs.com/package/@ramiz4/typing-text) - Angular directive for animated typing effects — smooth, customizable, and standalone.
 
 #### Calendars
 
@@ -1651,6 +1652,7 @@ to simplify usage and allow quick customization.
 * [ng-tool-collection ![GitHub Repo Stars](https://img.shields.io/github/stars/domideimel/ng-tool-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/domideimel/ng-tool-collection)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 * [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 * [@man-es/ngx-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/man-es/ngx-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/man-es/ngx-tools)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
+* [ngx-oneforall ![GitHub Repo Stars](https://img.shields.io/github/stars/love1024/ngx-oneforall) ![GitHub last commit](https://img.shields.io/github/last-commit/love1024/ngx-oneforall)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 
 #### Modals
 
