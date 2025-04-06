@@ -428,6 +428,7 @@ become an Angular expert.
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Code Step By Step](https://www.youtube.com/@codestepbystep)
+* [Programming Practicals](https://www.youtube.com/@programmingpracticals)
 
 ##### Style Guides
 
@@ -1280,6 +1281,7 @@ become an Angular expert.
 * [ng-click-outside ![GitHub Repo Stars](https://img.shields.io/github/stars/Kr0san89/ng-click-outside) ![GitHub last commit](https://img.shields.io/github/last-commit/Kr0san89/ng-click-outside)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 * [ngx-search-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/paulotokarskiglinski/ngx-search-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/paulotokarskiglinski/ngx-search-pipe)](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
 * [mTruncate ![GitHub Repo Stars](https://img.shields.io/github/stars/MomenWalid/Truncate) ![GitHub last commit](https://img.shields.io/github/last-commit/MomenWalid/Truncate)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
+* [ngx-autofocus ![GitHub Repo Stars](https://img.shields.io/github/stars/eurusik/ngx-autofocus) ![GitHub last commit](https://img.shields.io/github/last-commit/eurusik/ngx-autofocus)](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 #### Drag and Drop
 
