@@ -78,6 +78,7 @@ List of externally hosted middleware modules and maintained by the [Fiber team !
 List of third party middlewares and maintained by the Fiber team and community.
 
 - [casbin ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+- [circuitbreaker ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/circuitbreaker) - Circuit Breaker middleware for Fiber.
 - [fiberi18n ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
 - [fibernewrelic ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
 - [fibersentry ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/contrib) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/contrib)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
