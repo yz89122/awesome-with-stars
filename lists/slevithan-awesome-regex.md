@@ -291,7 +291,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 - [Regex DB](https://rgxdb.com/) - Solutions include basic descriptions and examples of matching and non-matching text.
 
 <details>
-  <summary>⚠️ <b>Word of warning</b></summary>
+  <summary>��️ <b>Word of warning</b></summary>
   <br>
 
 Many regexes found online are low quality. It's risky to use regexes you don't fully understand in code, since they might have false positives/negatives, be vulnerable to performance problems with certain target strings, or assume a different regex flavor.
