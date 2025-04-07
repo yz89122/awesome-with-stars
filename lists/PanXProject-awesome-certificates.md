@@ -315,7 +315,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | 🏆 |
 | [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  🏅 |	
 
-[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[���️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## DevOps
@@ -445,7 +445,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Service Hub Software Certification ](https://academy.hubspot.com/courses/hubspot-service-software)| HubSpot | Beginner | 2.1 | 🏆 |
-| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
+| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | �� |
 | [Customer Relationship Management](https://www.life-global.org/course/35-customer-relationship-management)| HP / Life Global | Beginner | 1 | 🏅 |
 | [Customer Service Test](https://www.testdome.com/tests/customer-service-test/91)| Test Dome | Intermediate | 0.15 | 🏆  |
 
