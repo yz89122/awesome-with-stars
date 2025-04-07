@@ -516,11 +516,14 @@ In development:
 
 See also those libraries:
 
-* [cl-oju ![GitHub Repo Stars](https://img.shields.io/github/stars/eigenhombre/cl-oju) ![GitHub last commit](https://img.shields.io/github/last-commit/eigenhombre/cl-oju)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT][200].
+* NEW! in 2025 [clj-coll ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-coll) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-coll)](https://github.com/dtenny/clj-coll) -  Clojure collection and sequence APIs in Common Lisp, with optional Clojure collection syntax. [Eclipse][209].
+  * provides immutable Cons, Queue, PersistentList, capabilities as well as Vector, Set, and Map analogues built on FSet (but accessed entirely via Clojure APIs).
+  * optional read syntax so you can type `{:a 1 :b 2}`, `#{1 2 3}`, and `[1 2 3]`.
 * [clj-con ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-con) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-con)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT][200].
 * [clj-re ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-re) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-re)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
 * [clj-arrows ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/clj-arrows) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/clj-arrows)](https://github.com/dtenny/clj-arrows) -  Clojure-compatible threading/transformation/arrow macros for Common Lisp.
 * [with-redefs ![GitHub Repo Stars](https://img.shields.io/github/stars/dtenny/with-redefs) ![GitHub last commit](https://img.shields.io/github/last-commit/dtenny/with-redefs)](https://github.com/dtenny/with-redefs) - enables rebinding of global functions, inspired by Clojure's with-redefs.
+* [cl-oju ![GitHub Repo Stars](https://img.shields.io/github/stars/eigenhombre/cl-oju) ![GitHub last commit](https://img.shields.io/github/last-commit/eigenhombre/cl-oju)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT][200].
 
 ## Erlang ##
 

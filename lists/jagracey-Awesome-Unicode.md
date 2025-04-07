@@ -135,7 +135,7 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **���� Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
  var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
@@ -404,7 +404,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1F87](https://codepoints.net/U+1F87?lang=en) | `ᾇ`       | GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI    | `ἇ`, `ι`         | U+1F07, U+03B9         |
 | [U+1F88](https://codepoints.net/U+1F88?lang=en) | `ᾈ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI                 | `ἀ`, `ι`         | U+1F00, U+03B9         |
 | [U+1F89](https://codepoints.net/U+1F89?lang=en) | `ᾉ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI                 | `ἁ`, `ι`         | U+1F01, U+03B9         |
-| [U+1F8A](https://codepoints.net/U+1F8A?lang=en) | `���`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI       | `ἂ`, `ι`         | U+1F02, U+03B9         |
+| [U+1F8A](https://codepoints.net/U+1F8A?lang=en) | `ᾊ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI       | `ἂ`, `ι`         | U+1F02, U+03B9         |
 | [U+1F8B](https://codepoints.net/U+1F8B?lang=en) | `ᾋ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI       | `ἃ`, `ι`         | U+1F03, U+03B9         |
 | [U+1F8C](https://codepoints.net/U+1F8C?lang=en) | `ᾌ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI        | `ἄ`, `ι`         | U+1F04, U+03B9         |
 | [U+1F8D](https://codepoints.net/U+1F8D?lang=en) | `ᾍ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI        | `ἅ`, `ι`         | U+1F05, U+03B9         |
