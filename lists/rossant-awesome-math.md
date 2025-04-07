@@ -273,7 +273,7 @@ All resources are freely available except those with a 💲 icon.
 ## Number Theory
 
 * 📝 [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
-* 📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
+* ��� [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
 * 📝 [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
 * 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
@@ -293,7 +293,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
 * 📝 [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * 📝 [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Str��mbergsson
+* 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
 
 ## Algebra
@@ -320,7 +320,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Group Theory
 
-* 📝 [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
+* �� [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
 * 📝 [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * 📝 [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
 * 📝 [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
@@ -444,7 +444,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 * 📝 [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
-* �� [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
+* 📝 [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
 * 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
@@ -575,7 +575,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
-* 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
+* �� [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
