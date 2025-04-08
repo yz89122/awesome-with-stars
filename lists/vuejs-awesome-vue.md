@@ -439,7 +439,7 @@
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
-- [宁皓网独立开发者训练营：Vue 前端���用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+- [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
 ### Examples
@@ -962,7 +962,7 @@ _Set of admin template_
 - [gin-vue-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin)](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 - [soybean-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin)](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
-- [AirPower4T ![GitHub Repo Stars](https://img.shields.io/github/stars/HammCn/AirPower4T) ![GitHub last commit](https://img.shields.io/github/last-commit/HammCn/AirPower4T)](https://github.com/HammCn/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+- [AirPower4T ![GitHub Repo Stars](https://img.shields.io/github/stars/AirPowerTeam/AirPower4T) ![GitHub last commit](https://img.shields.io/github/last-commit/AirPowerTeam/AirPower4T)](https://github.com/AirPowerTeam/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
 
 #### Server-side rendering
 
