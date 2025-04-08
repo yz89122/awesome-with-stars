@@ -656,6 +656,7 @@
 - [Silverstripe CMS ![GitHub Repo Stars](https://img.shields.io/github/stars/wernerkrauss/awesome-silverstripe-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/wernerkrauss/awesome-silverstripe-cms)](./lists/wernerkrauss-awesome-silverstripe-cms.md) [*Origin*](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 - [Directus ![GitHub Repo Stars](https://img.shields.io/github/stars/directus-community/awesome-directus) ![GitHub last commit](https://img.shields.io/github/last-commit/directus-community/awesome-directus)](./lists/directus-community-awesome-directus.md) [*Origin*](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 - [Plone ![GitHub Repo Stars](https://img.shields.io/github/stars/collective/awesome-plone) ![GitHub last commit](https://img.shields.io/github/last-commit/collective/awesome-plone)](./lists/collective-awesome-plone.md) [*Origin*](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
+- [Payload ![GitHub Repo Stars](https://img.shields.io/github/stars/DanailMinchev/awesome-payload) ![GitHub last commit](https://img.shields.io/github/last-commit/DanailMinchev/awesome-payload)](./lists/DanailMinchev-awesome-payload.md) [*Origin*](https://github.com/DanailMinchev/awesome-payload#readme) - Next.js native and open source headless CMS.
 
 ## Hardware
 
