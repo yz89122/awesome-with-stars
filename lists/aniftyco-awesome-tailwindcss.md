@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -201,7 +201,7 @@
 - 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
-- 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
+- ��� [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
 - 🧩 [Daisy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/daisyui) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
