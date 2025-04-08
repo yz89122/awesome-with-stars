@@ -1447,6 +1447,7 @@ to simplify usage and allow quick customization.
 * [ngx-validators ![GitHub Repo Stars](https://img.shields.io/github/stars/marcellodotgg/ngx-validators) ![GitHub last commit](https://img.shields.io/github/last-commit/marcellodotgg/ngx-validators)](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
 * [ngx-reactive-form-class-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/abarghoud/ngx-reactive-form-class-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/abarghoud/ngx-reactive-form-class-validator)](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/typestack/class-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/typestack/class-validator)](https://github.com/typestack/class-validator) library.
 * [ng-error-tooltips ![GitHub Repo Stars](https://img.shields.io/github/stars/mkeller1992/ng-error-tooltips) ![GitHub last commit](https://img.shields.io/github/last-commit/mkeller1992/ng-error-tooltips)](https://github.com/mkeller1992/ng-error-tooltips) - An Angular library for reactive forms that displays tooltips on form inputs with errors, providing a user-friendly way to visualize validation messages.
+* [ngx-forms-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/apalaciosdev/ngx-forms-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/apalaciosdev/ngx-forms-validator)](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
 
 #### Icons
 
@@ -1655,6 +1656,7 @@ to simplify usage and allow quick customization.
 * [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 * [@man-es/ngx-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/man-es/ngx-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/man-es/ngx-tools)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
 * [ngx-oneforall ![GitHub Repo Stars](https://img.shields.io/github/stars/love1024/ngx-oneforall) ![GitHub last commit](https://img.shields.io/github/last-commit/love1024/ngx-oneforall)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
+* [angular-signal-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/DDtMM/angular-signal-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/DDtMM/angular-signal-generators)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 #### Modals
 
@@ -1666,7 +1668,8 @@ to simplify usage and allow quick customization.
 * [ngx-concern ![GitHub Repo Stars](https://img.shields.io/github/stars/HeyItsBATMAN/ngx-concern) ![GitHub last commit](https://img.shields.io/github/last-commit/HeyItsBATMAN/ngx-concern)](https://github.com/HeyItsBATMAN/ngx-concern) - Angular library for creating simple, unstyled dialogs/modals and action-sheets/bottom-sheets.
 * [ngx-whats-new ![GitHub Repo Stars](https://img.shields.io/github/stars/4gray/ngx-whats-new) ![GitHub last commit](https://img.shields.io/github/last-commit/4gray/ngx-whats-new)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 * [ngx-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/soc221b/ngx-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/soc221b/ngx-dialog)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
-* [angular-signal-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/DDtMM/angular-signal-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/DDtMM/angular-signal-generators)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
+* [ng-modal-service ![GitHub Repo Stars](https://img.shields.io/github/stars/nhusby/ng-modal-service) ![GitHub last commit](https://img.shields.io/github/last-commit/nhusby/ng-modal-service)](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
+* [strictly-typed-mat-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/JustSolve-self-serve/strictly-typed-mat-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/JustSolve-self-serve/strictly-typed-mat-dialog)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
 #### Notifications
 
