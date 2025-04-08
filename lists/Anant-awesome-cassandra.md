@@ -513,7 +513,7 @@ This is a curated list of awesome [Cassandra ![GitHub Repo Stars](https://img.sh
 - [Amy Tobert](https://tobert.github.io/) - Amy Tobert is a full-stack engineer & leader with passion for sustainable systems and people-centered leadership. Her blog details different Cassandra deployments amont other topics.
 - [Christopher Batey: Cassandra](http://batey.info/cassandra.html) - Christopher Batey is a software engineer of over 15 years and is a primary contributor to Akka and occasional contributor to Cassandra.
 - [Distributed Bytes: Cassandra](https://distributedbytes.timojo.com/search/label/cassandra) - Tim Ojo is the creator of Distributed Bytes and software engineer at Capital one. These are a collection of his posts surrounding the topic of Cassandra.
-- [The Netflix Tech Blog](https://medium.com/netflix-techblog) - Learn about Netflix���s world class engineering efforts, company culture, product developments and more.
+- [The Netflix Tech Blog](https://medium.com/netflix-techblog) - Learn about Netflix’s world class engineering efforts, company culture, product developments and more.
 - [Spotify R&D / Engineering Blog : Cassandra](https://engineering.atspotify.com/tag/apache-cassandra/) - Cassandra related posts on Spotify's official technology blog.
 - [Ryan Svilha](https://lostechies.com/ryansvihla/tags) - Ryan Svilha is a principle engineer at DataStax. His blog posts covers topics surround Cassandra and associated tools.
 - [Anant](https://blog.anant.us/) - Anant builds and manages business platforms of which they connect customer experiences and information systems with real-time data platforms.
