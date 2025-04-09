@@ -294,7 +294,7 @@ _Developers contributing to multiple projects that ask to support their work._
 
 
 ## Other kinds of content
-_Articles, videos, podcasts, etc��_
+_Articles, videos, podcasts, etc…_
 
 ### Articles and Tutorials
 
