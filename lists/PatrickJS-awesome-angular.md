@@ -844,6 +844,7 @@ become an Angular expert.
 * [angular-microfrontend-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/gioboa/angular-microfrontend-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/gioboa/angular-microfrontend-demo)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 * [mfe-crossframework ![GitHub Repo Stars](https://img.shields.io/github/stars/igorhms/mfe-crossframework) ![GitHub last commit](https://img.shields.io/github/last-commit/igorhms/mfe-crossframework)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 * [backbase-micro-frontends ![GitHub Repo Stars](https://img.shields.io/github/stars/Backbase/backbase-micro-frontends) ![GitHub last commit](https://img.shields.io/github/last-commit/Backbase/backbase-micro-frontends)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
+* [ngx-mfe ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-mfe) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-mfe)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
 
 #### Monorepos
 
@@ -861,6 +862,7 @@ become an Angular expert.
 * [angular-spotflow-checkout ![GitHub Repo Stars](https://img.shields.io/github/stars/Spotflow-One/angular-spotflow-checkout) ![GitHub last commit](https://img.shields.io/github/last-commit/Spotflow-One/angular-spotflow-checkout)](https://github.com/Spotflow-One/angular-spotflow-checkout) - The [Spotflow](https://www.spotflow.one/) Angular SDK enables users to make payments with a streamlined checkout experience.
 * [angular4-paystack ![GitHub Repo Stars](https://img.shields.io/github/stars/ashinzekene/angular4-paystack) ![GitHub last commit](https://img.shields.io/github/last-commit/ashinzekene/angular4-paystack)](https://github.com/ashinzekene/angular4-paystack) - An Angular module that abstracts the complexity of making [Paystack](https://paystack.com/) payments.
 * [@Flutterwave/Angular-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/Flutterwave/Angular-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/Flutterwave/Angular-v3)](https://github.com/Flutterwave/Angular-v3) - Angular library for [Flutterwave](https://flutterwave.com/) for Business (F4B) v3 APIs.
+* [izipay ![GitHub Repo Stars](https://img.shields.io/github/stars/antonyayansi/izipay) ![GitHub last commit](https://img.shields.io/github/last-commit/antonyayansi/izipay)](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
 
 #### Security
 
@@ -1482,6 +1484,7 @@ to simplify usage and allow quick customization.
 * [@ngverse/icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ngverse/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ngverse/icons)](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [angular-phosphor-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/aromero86/angular-phosphor-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/aromero86/angular-phosphor-icons)](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
 * [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
+* [ngxi ![GitHub Repo Stars](https://img.shields.io/github/stars/adrian-ub/ngxi) ![GitHub last commit](https://img.shields.io/github/last-commit/adrian-ub/ngxi)](https://github.com/adrian-ub/ngxi) - A comprehensive collection of SVG icons for Angular applications that provides seamless integration with thousands of popular icons.
 
 #### Images
 
