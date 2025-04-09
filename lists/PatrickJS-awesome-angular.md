@@ -1657,6 +1657,7 @@ to simplify usage and allow quick customization.
 * [@man-es/ngx-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/man-es/ngx-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/man-es/ngx-tools)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
 * [ngx-oneforall ![GitHub Repo Stars](https://img.shields.io/github/stars/love1024/ngx-oneforall) ![GitHub last commit](https://img.shields.io/github/last-commit/love1024/ngx-oneforall)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 * [angular-signal-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/DDtMM/angular-signal-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/DDtMM/angular-signal-generators)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
+* [mmstack ![GitHub Repo Stars](https://img.shields.io/github/stars/mihajm/mmstack) ![GitHub last commit](https://img.shields.io/github/last-commit/mihajm/mmstack)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
 
 #### Modals
 
