@@ -168,7 +168,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | IBM / Cognitive Class |Beginner|4| [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-tools)|
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
 
-[��️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Big Data
