@@ -64,7 +64,8 @@ sellers who aren't evil for physical resources.
 - [Game Development](#game-development)
 - [Graphics](#graphics)
 - [GUI](#gui)
-  - [Mobile](#mobile)
+    - [Web views](#web-views)
+    - [Mobile](#mobile)
 - [Implementations](#implementations)
 - [JSON](#json)
 - [YAML](#yaml)
@@ -650,13 +651,13 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
 * [cl-cffi-gtk ![GitHub Repo Stars](https://img.shields.io/github/stars/crategus/cl-cffi-gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/crategus/cl-cffi-gtk)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1][11].
   - a tutorial: [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
 * [cl-gtk2 ![GitHub Repo Stars](https://img.shields.io/github/stars/dmitryvk/cl-gtk2) ![GitHub last commit](https://img.shields.io/github/last-commit/dmitryvk/cl-gtk2)](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL][8].
+* [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT][200].
+  * not a wrapper of another toolkit. Allows incremental GUI development.
+  * new as of April, 2025.
 
 But that's not all.
 
-* for Electron, see:
-  * [Electron-lisp-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/mikelevins/electron-lisp-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mikelevins/electron-lisp-boilerplate)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
-  * [ceramic](https://ceramic.github.io/) - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.
-  * NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron's `main.js` file, and to point the Electron window to the localhost URL. That's it.
+
 * [CocoaInterface ![GitHub Repo Stars](https://img.shields.io/github/stars/plkrueger/CocoaInterface) ![GitHub last commit](https://img.shields.io/github/last-commit/plkrueger/CocoaInterface)](https://github.com/plkrueger/CocoaInterface/) -
 Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
 windows dynamically using Lisp code and bypass the typical Xcode
@@ -677,6 +678,24 @@ Other utilities:
 * [file-select ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/file-select) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/file-select)](https://github.com/Shinmera/file-select) -  A library to invoke the native system file dialog to select or create files. Zlib.
 
 See also this [demo to use Java Swing from ABCL ![GitHub Repo Stars](https://img.shields.io/github/stars/defunkydrummer/abcl-jazz) ![GitHub last commit](https://img.shields.io/github/last-commit/defunkydrummer/abcl-jazz)](https://github.com/defunkydrummer/abcl-jazz).
+
+Web views
+-----------
+
+For Electron, see:
+
+* [Electron-lisp-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/mikelevins/electron-lisp-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mikelevins/electron-lisp-boilerplate)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
+* [ceramic](https://ceramic.github.io/) - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.
+* NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron's `main.js` file, and to point the Electron window to the localhost URL. That's it.
+
+Read: [Three web views for Common Lisp](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/).
+
+For other web views, see:
+
+* [cl-webui ![GitHub Repo Stars](https://img.shields.io/github/stars/garlic0x1/cl-webui) ![GitHub last commit](https://img.shields.io/github/last-commit/garlic0x1/cl-webui)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
+* [clogframe ![GitHub Repo Stars](https://img.shields.io/github/stars/rabbibotton/clog) ![GitHub last commit](https://img.shields.io/github/last-commit/rabbibotton/clog)](https://github.com/rabbibotton/clog/tree/main/clogframe) - an executable wrapper for webview.h, allowing to display any web application served by a Common Lisp server.
+  * clogframe does *not* induce the use of the whole CLOG framework.
+
 
 Mobile
 ------
