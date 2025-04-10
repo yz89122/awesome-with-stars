@@ -1,6 +1,6 @@
 # Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/sindresorhus/awesome-electron/raw/main/electron-logo.svg" align="right" width="100">](https://electronjs.org)
+[<img src="https://github.com/sindresorhus/awesome-electron/raw/master/electron-logo.svg" align="right" width="100">](https://electronjs.org)
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
