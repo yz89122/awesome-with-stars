@@ -400,7 +400,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [It's Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) - “It's harder to be kind than clever”, or put another way by Abraham Joshua Heschel: “When I was young, I used to admire intelligent people; as I grow older, I admire kind people.”
 
-- “It is not your job to protect people (particularly senior management) from the consequences of their decisions. Make your decisions in your own best interest; it is up to the organization to make sure that your interest aligns with theirs.” ([source](https://news.ycombinator.com/item?id=7179946)).
+- ��It is not your job to protect people (particularly senior management) from the consequences of their decisions. Make your decisions in your own best interest; it is up to the organization to make sure that your interest aligns with theirs.” ([source](https://news.ycombinator.com/item?id=7179946)).
 
 - “If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.” ([source](https://news.ycombinator.com/item?id=20914779)) - At one point, even with the most unselfish of intentions, your attempts to elevate the culture might stall. It is not fair, but it's probably the time to leave.
 
