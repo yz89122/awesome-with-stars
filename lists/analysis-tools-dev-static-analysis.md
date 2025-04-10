@@ -548,7 +548,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
 `gofumpt` will never add rules which disagree with `gofmt` formatting. So we extend `gofmt` rather than compete with it.
 
-- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
+- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) ��� Checks missing or unreferenced package imports.
 
 - [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
@@ -1241,7 +1241,7 @@ Kani verifies:
 
 - [pgspot ![GitHub Repo Stars](https://img.shields.io/github/stars/timescale/pgspot) ![GitHub last commit](https://img.shields.io/github/last-commit/timescale/pgspot)](https://github.com/timescale/pgspot) — Spot vulnerabilities in postgres extension scripts. Finds unsafe search_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.
 
-- [sleek ![GitHub Repo Stars](https://img.shields.io/github/stars/nrempel/sleek) ![GitHub last commit](https://img.shields.io/github/last-commit/nrempel/sleek)](https://github.com/nrempel/sleek) �� Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
+- [sleek ![GitHub Repo Stars](https://img.shields.io/github/stars/nrempel/sleek) ![GitHub last commit](https://img.shields.io/github/last-commit/nrempel/sleek)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 
 - [sqlcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/jarulraj/sqlcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jarulraj/sqlcheck)](https://github.com/jarulraj/sqlcheck) :warning: — Automatically identify anti-patterns in SQL queries.
 
