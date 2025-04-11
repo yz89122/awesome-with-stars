@@ -125,7 +125,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
 <!--lint ignore no-undefined-references-->
 
-[^1]: https://github.com/rickstaa/awesome-adsb/raw/main/Adheres to the [FAA](https://www.faa.gov/)'s [Aircraft Tail Number Blocking/Unblocking list](https://www.faa.gov/pilots/ladd/request) list. Therefore, the data found on this platform is filtered and may not include all data found on other aggregators.
+[^1]: https://github.com/rickstaa/awesome-adsb/raw/master/Adheres to the [FAA](https://www.faa.gov/)'s [Aircraft Tail Number Blocking/Unblocking list](https://www.faa.gov/pilots/ladd/request) list. Therefore, the data found on this platform is filtered and may not include all data found on other aggregators.
 
 ### Other
 

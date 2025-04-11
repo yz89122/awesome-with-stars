@@ -1538,6 +1538,7 @@ to simplify usage and allow quick customization.
 * [ng-simple-sidebar ![GitHub Repo Stars](https://img.shields.io/github/stars/secanis/ng-simple-sidebar) ![GitHub last commit](https://img.shields.io/github/last-commit/secanis/ng-simple-sidebar)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 * [ngx-bladex ![GitHub Repo Stars](https://img.shields.io/github/stars/karnavpargi/ngx-bladex) ![GitHub last commit](https://img.shields.io/github/last-commit/karnavpargi/ngx-bladex)](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 * [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/blidblid/berg-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/blidblid/berg-layout)](https://github.com/blidblid/berg-layout).
+* [static-columns ![GitHub Repo Stars](https://img.shields.io/github/stars/darekf77/static-columns) ![GitHub last commit](https://img.shields.io/github/last-commit/darekf77/static-columns)](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 
 #### Loaders
 
@@ -1618,6 +1619,7 @@ to simplify usage and allow quick customization.
 * [ngx-cam-shoot ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-cam-shoot) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-cam-shoot)](https://github.com/RzoDev/ngx-cam-shoot) - A streamlined Angular component that simplifies using your device's camera and accelerates image capture and saving.
 * [velt](https://velt.dev/) - Add AI powered collaboration features ridiculously fast.
 * [cometchat-uikit-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cometchat/cometchat-uikit-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/cometchat/cometchat-uikit-angular)](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
+* [@poseclop/ngx-video-player](https://www.npmjs.com/package/@poseclop/ngx-video-player) - A lightweight video player component that emulates YouTube.
 
 #### Mixed utilities
 
@@ -1662,6 +1664,7 @@ to simplify usage and allow quick customization.
 * [ngx-oneforall ![GitHub Repo Stars](https://img.shields.io/github/stars/love1024/ngx-oneforall) ![GitHub last commit](https://img.shields.io/github/last-commit/love1024/ngx-oneforall)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 * [angular-signal-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/DDtMM/angular-signal-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/DDtMM/angular-signal-generators)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 * [mmstack ![GitHub Repo Stars](https://img.shields.io/github/stars/mihajm/mmstack) ![GitHub last commit](https://img.shields.io/github/last-commit/mihajm/mmstack)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
+* [@tomaszatoo/ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/tomaszatoo/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/tomaszatoo/ngx-libs)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 
 #### Modals
 
@@ -2111,6 +2114,7 @@ for the creation of web applications developed with Angular.
 > These repositories showcase a variety of projects and tools inspired by Angular, demonstrating how its foundational concepts can drive innovative and adaptable solutions across diverse applications.
 
 * [css-fx-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/philmtd/css-fx-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/philmtd/css-fx-layout)](https://github.com/philmtd/css-fx-layout) - A responsive SCSS flexbox library inspired by Angular [Flex-Layout ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/flex-layout)](https://github.com/angular/flex-layout).
+* [flexdi ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreyShashlovDev/flexdi) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreyShashlovDev/flexdi)](https://github.com/AndreyShashlovDev/flexdi) - A flexible, efficient, and lightweight dependency injection library for React / React Native / Vue3 applications. The library is inspired by the principles and architectural approach of NestJS and Angular.
 * [fornax ![GitHub Repo Stars](https://img.shields.io/github/stars/TBosak/fornax) ![GitHub last commit](https://img.shields.io/github/last-commit/TBosak/fornax)](https://github.com/TBosak/fornax) - A lightweight, opinionated, and highly customizable Bun-powered full-stack web framework designed to simplify building single-page applications with custom components, routing, and flexible styling options.
 * [friendly-di ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexSergey/friendly-di) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexSergey/friendly-di)](https://github.com/AlexSergey/friendly-di) - A lightweight and high-performance inversion of control (IoC) container inspired by NestJS and Angular.
 * [GameEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/gandolphinnn/GameEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/gandolphinnn/GameEngine)](https://github.com/gandolphinnn/GameEngine) - A Typescript game engine inspired by Angular.
