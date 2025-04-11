@@ -150,7 +150,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 * [CraftCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/craftcms/cms) ![GitHub last commit](https://img.shields.io/github/last-commit/craftcms/cms)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-* [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [Drupal](https://new.drupal.org/) - An enterprise level CMS.
 * [Grav ![GitHub Repo Stars](https://img.shields.io/github/stars/getgrav/grav) ![GitHub last commit](https://img.shields.io/github/last-commit/getgrav/grav)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
@@ -170,7 +170,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
-* [Symfony Components](https://symfony.com/components) - The components that make Symfony.
+* [Symfony Components](https://symfony.com/packages) - The components that make Symfony.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
 ### Micro Frameworks
@@ -266,7 +266,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [PHPMailer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPMailer/PHPMailer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPMailer/PHPMailer)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [PHP IMAP ![GitHub Repo Stars](https://img.shields.io/github/stars/barbushin/php-imap) ![GitHub last commit](https://img.shields.io/github/last-commit/barbushin/php-imap)](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 * [Stampie ![GitHub Repo Stars](https://img.shields.io/github/stars/Stampie/Stampie) ![GitHub last commit](https://img.shields.io/github/last-commit/Stampie/Stampie)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
-* [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
+* [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
 * [Symfony Mailer ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/mailer) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/mailer)](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Files
@@ -294,7 +294,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Container ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/container) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/container)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/disco) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/disco)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
-* [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
+* [Pimple ![GitHub Repo Stars](https://img.shields.io/github/stars/silexphp/Pimple) ![GitHub last commit](https://img.shields.io/github/last-commit/silexphp/Pimple)](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 * [Symfony DI ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/dependency-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/dependency-injection)](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Imagery
@@ -975,7 +975,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
 * [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
