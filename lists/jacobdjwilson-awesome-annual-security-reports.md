@@ -11,9 +11,12 @@
 
 **Disclaimer:** The reports in this collection are limited to content which does not require a paid subscription, membership, or service contract. There are a variety of different business models and drivers that would cause information to be put behind a paywall, I would like to respect those companies and individuals. Consult the original authors for licensing of any report content.
 
-**Limitations:** This is **not** a collection of project based information such as white papers, intelligence reports, technical specifications, or standards. I welcome all user submitted uploads or report requests, but we should draw a box around this _awesome_ list. All reports will be sourced from the original author when possible and uploaded to [Hybrid Analysis](https://www.hybrid-analysis.com/) for an additional level of confidence, the result link will be included in the PDF commit notes. All PDF reports will also be converted to Markdown using AI, leveraging the [AI Prompt](AI_PROMPT_MARKDOWN_CONVERT.md) found in this repository.
+**Limitations:** This is **not** a repository for project-specific documents such as white papers, intelligence reports, technical specifications, or standards. While all user-submitted uploads or report requests are welcome, we should draw a box around this _awesome_ list. 
 
-**Acknowledgement:** I would like to give recognition for other works that inspired this collection. [Richard Stiennon](https://it-harvest.com/about/) and his annual analysis of the cybersecurity industry is significantly more comprehensive than this repository and deserves recognition. Additionally, [Rick Howard](https://www.linkedin.com/in/rickhoward/)'s cyber cannon list of must-read books is an invaluable resource, catering to both leadership and practitioner levels within the field.
+**Accessibility**
+When possible, all reports will be sourced from their original authors and uploaded to [Hybrid Analysis](https://www.hybrid-analysis.com/) to provide an added level of confidence. The resulting analysis link will be included in the PDF commit notes. Additionally, all PDF reports will be converted to Markdown using AI, based on the [AI Prompt](AI_PROMPT_MARKDOWN_CONVERT.md) defined in this repository.
+
+**Acknowledgement:** I would like to give recognition for other works that inspired this collection. [Richard Stiennon](https://it-harvest.com/about/) produces an annual, comprehensive industry analysis that surpasses the scope of this list and deserves attention. Additionally, [Rick Howard](https://www.linkedin.com/in/rickhoward/)'s cyber cannon list of must-read books is an invaluable resource, catering to both leadership and practitioner levels within the field.
 
 **Annual Report Counts:** 
 
@@ -57,13 +60,13 @@
 
 ## Overview
 
-Reports have been classified into two categories by the source of data:
-- **Analysis:** Reports generated from quantifying and qualifying intelligence from sensor networks or services.
-- **Survey:** Reports generated from observations and feedback from surveys or consulting engagements.
+Reports are organized into two main categories based on their data sources:
+- **Analysis:** Generated through quantification and qualification of data from sensor networks or cybersecurity services.
+- **Survey:** Derived from surveys, interviews, or consulting engagements that capture industry sentiment and practices.
 
-The reports listed below are the most recent iteration, while past versions are stored in their corresponding yearly folders. After three years, if a source has not updated a report it will no longer be featured in the ReadMe.md file but will still be accessible within the repository directory corresponding to its respective year.
+The most recent versions of reports are listed below. Older editions are preserved in their corresponding yearly directories. Reports from sources that have not been updated in the last three years will no longer appear in this `README.md` but will remain accessible in the respective year’s directory.
 
-Reports will be classified by a header that describes their primary content or emphasis. While each report may discuss multiple topics, this categorization will help organize them. Under this header they will be sorted alphabetically.
+Reports are organized by their primary focus. Although many reports span multiple topics, this classification provides a clearer structure. Within each topic, reports are listed alphabetically.
 
 ## Analysis Reports
 
@@ -213,6 +216,7 @@ Reports will be classified by a header that describes their primary content or e
 - [Astrix](https://astrix.security/learn/whitepapers/the-state-of-non-human-identity-security/) - [State of Non Human Identity](Annual%20Security%20Reports/2024/Astrix-The-State-of-Non-Human-Identity-Security-2024.pdf) (2024) - Highlights growing concerns over non-human identities as attack vectors, limited automation and visibility into API and third-party connections, and an increasing investment in NHI security.
 - [ConductorOne](https://www.conductorone.com/resources/2024-identity-security/) - [Identity Security Outlook Report](Annual%20Security%20Reports/2024/ConductorOne-Identity-Security-Outlook-Report-2024.pdf) (2024)  
   Highlights how increasing technological and organizational complexity are driving new identity risks.
+- [CyberArk](https://www.cyberark.com/state-of-machine-identity-security-report/) - [State of Machine Identity Security Report](Annual%20Security%20Reports/2025/CyberArk-State-of-Machine-Identity-Security-Report-2025.pdf) (2025) - Focuses on the critical and often-overlooked area of machine identity security. Key findings reveal that a significant percentage of organizations are concerned about risks stemming from compromised machine identities (37%) and expired certificates (36%), highlighting a lack of visibility and control over secrets management.
 - [CyberArk](https://www.cyberark.com/threat-landscape/) - [Identity Security Threat Landscape Report](Annual%20Security%20Reports/2024/CyberArk-Identity-Security-Threat-Landscape-2024.pdf) (2024)  
   Examines the impact of cyberattacks on identity, including cyber debt, GenAI, machine identities, and third- and fourth-party risks.
 - [IDS Alliance](https://www.idsalliance.org/white-paper/2024-trends-in-securing-digital-identities/) - [2024 Trends in Securing Digital Identities](Annual%20Security%20Reports/2024/AICD-Directors-Introduction-to-AI-2024.pdf) (2024) - Provides insights into current plans, historical trends, and approaches to cybersecurity and identity management.
