@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Haxe-Blockly ![GitHub Repo Stars](https://img.shields.io/github/stars/nickmain/haxe-blockly) ![GitHub last commit](https://img.shields.io/github/last-commit/nickmain/haxe-blockly)](https://github.com/nickmain/haxe-blockly) - Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 
 ### Lua
-- ��� [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
+- 📚 [Awesome Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/LewisJEllis/awesome-lua)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
 - Lua: Game Framework
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]

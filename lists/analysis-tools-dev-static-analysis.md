@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -1241,7 +1241,7 @@ Kani verifies:
 
 - [pgspot ![GitHub Repo Stars](https://img.shields.io/github/stars/timescale/pgspot) ![GitHub last commit](https://img.shields.io/github/last-commit/timescale/pgspot)](https://github.com/timescale/pgspot) — Spot vulnerabilities in postgres extension scripts. Finds unsafe search_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.
 
-- [sleek ![GitHub Repo Stars](https://img.shields.io/github/stars/nrempel/sleek) ![GitHub last commit](https://img.shields.io/github/last-commit/nrempel/sleek)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
+- [sleek ![GitHub Repo Stars](https://img.shields.io/github/stars/nrempel/sleek) ![GitHub last commit](https://img.shields.io/github/last-commit/nrempel/sleek)](https://github.com/nrempel/sleek) ��� Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 
 - [sqlcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/jarulraj/sqlcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jarulraj/sqlcheck)](https://github.com/jarulraj/sqlcheck) :warning: — Automatically identify anti-patterns in SQL queries.
 
@@ -1459,7 +1459,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: — Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 
-- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) �� A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
+- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
 
 - [cqc ![GitHub Repo Stars](https://img.shields.io/github/stars/xcatliu/cqc) ![GitHub last commit](https://img.shields.io/github/last-commit/xcatliu/cqc)](https://github.com/xcatliu/cqc) :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 
