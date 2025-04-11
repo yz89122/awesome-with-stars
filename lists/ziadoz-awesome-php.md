@@ -150,7 +150,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 * [CraftCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/craftcms/cms) ![GitHub last commit](https://img.shields.io/github/last-commit/craftcms/cms)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-* [Drupal](https://new.drupal.org/) - An enterprise level CMS.
+* [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
 * [Grav ![GitHub Repo Stars](https://img.shields.io/github/stars/getgrav/grav) ![GitHub last commit](https://img.shields.io/github/last-commit/getgrav/grav)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
@@ -170,7 +170,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
-* [Symfony Components](https://symfony.com/packages) - The components that make Symfony.
+* [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
 ### Micro Frameworks
