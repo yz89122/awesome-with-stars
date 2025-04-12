@@ -258,7 +258,7 @@ _For a more complete list see [Awesome Serverless ![GitHub Repo Stars](https://i
 - [Ghost on the Jamstack](https://blog.ghost.org/jamstack/)
 - [Jamstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
 - [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
-- [Getting Started with Gatsby and Cockpit��— Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
+- [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
