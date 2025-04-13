@@ -623,7 +623,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) 💠🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
 
 
-[The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) ��🟪 - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
+[The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) 💠🟪 - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
 
 
 [Design Oriented Topic Wheel](https://designoriented.net/wheel) 💠 - Short descriptions of many major design topics and concepts, categorized neatly in an approachable wheel interface.
