@@ -22,7 +22,6 @@ A curated list of fonts and typography resources.
 ## Free fonts
 
 #### Collections
-* [Crella](https://crella.net/free-fonts/) - Fonts offered for free for commercial use.
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
@@ -64,7 +63,7 @@ A curated list of fonts and typography resources.
 ## Emojis
 * [alfred-emoji-workflow ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosgaldino/alfred-emoji-workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosgaldino/alfred-emoji-workflow)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
 * [Crypto Puzzles ![GitHub Repo Stars](https://img.shields.io/github/stars/2d4d/crypto_puzzles) ![GitHub last commit](https://img.shields.io/github/last-commit/2d4d/crypto_puzzles)](https://github.com/2d4d/crypto_puzzles) - Includes e
-moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: http://rupp.de/crypto_puzzles/crypto_puzzles_web.py)
+moji font: ᵺ ༐ 💰     ༐ ���     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: http://rupp.de/crypto_puzzles/crypto_puzzles_web.py)
 * [emoji-cheat-sheet.com ![GitHub Repo Stars](https://img.shields.io/github/stars/WebpageFX/emoji-cheat-sheet.com) ![GitHub last commit](https://img.shields.io/github/last-commit/WebpageFX/emoji-cheat-sheet.com)](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [emoji-data-js ![GitHub Repo Stars](https://img.shields.io/github/stars/mroth/emoji-data-js) ![GitHub last commit](https://img.shields.io/github/last-commit/mroth/emoji-data-js)](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
 * [emoji-minesweeper ![GitHub Repo Stars](https://img.shields.io/github/stars/muan/emoji-minesweeper) ![GitHub last commit](https://img.shields.io/github/last-commit/muan/emoji-minesweeper)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
