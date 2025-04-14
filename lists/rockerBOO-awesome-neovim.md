@@ -485,6 +485,7 @@
 - [echasnovski/mini.nvim#mini.extra ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 - [fdschmidt93/telescope-egrepify.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fdschmidt93/telescope-egrepify.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fdschmidt93/telescope-egrepify.nvim)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 - [crispgm/telescope-heading.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/crispgm/telescope-heading.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/crispgm/telescope-heading.nvim)](https://github.com/crispgm/telescope-heading.nvim) - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
+- [bassamsdata/namu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bassamsdata/namu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bassamsdata/namu.nvim)](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed. 
 
 <!--lint disable double-link -->
 
