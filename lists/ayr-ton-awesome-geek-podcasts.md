@@ -225,7 +225,7 @@ A curated list of podcasts we like to listen to.
 ## In Portuguese
 
 * [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organizações a se transformarem em organizações de alto desempenho.
-* [99Vidas](http://99vidas.com.br/) - Nostalgia, diversão e muita opini��o sobre videogames.
+* [99Vidas](http://99vidas.com.br/) - Nostalgia, diversão e muita opinião sobre videogames.
 * [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - Podcast sobre desenvolvimento de sistemas e tecnologia do ArchCode.
 * [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
 * [Amarelo Criativo](https://soundcloud.com/amarelocriativo) - Todos os podcasts da Amarelo criativo. Programas diferentes ao longo da semana para trazer informação sobre o mercado criativo, mundo geek e com o humor bem Amarelo.
@@ -344,7 +344,7 @@ A curated list of podcasts we like to listen to.
 
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [Les Cast Codeurs](https://lescastcodeurs.com) - Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
-* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d��AWS en français.
+* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
