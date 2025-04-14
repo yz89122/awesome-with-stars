@@ -266,7 +266,7 @@
 - [neolooong/whichpy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 - [nvim-java/nvim-java ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-java/nvim-java) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-java/nvim-java)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 - [kiyoon/python-import.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/python-import.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/python-import.nvim)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
-- [kiyoon/haskell-scope-highlighting.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford. 
+- [kiyoon/haskell-scope-highlighting.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 
 ### Golang
 
@@ -282,6 +282,7 @@
 - [Snikimonkd/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Snikimonkd/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Snikimonkd/cmp-go-pkgs)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
 - [Yu-Leo/gosigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 - [Yu-Leo/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/cmp-go-pkgs)](https://github.com/Yu-Leo/cmp-go-pkgs) - Cmp source providing the names of Go packages to import.
+- [fredrikaverpil/godoc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fredrikaverpil/godoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fredrikaverpil/godoc.nvim)](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs.
 
 ### YAML
 
@@ -351,6 +352,7 @@
 - [niuiic/translate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/translate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/translate.nvim)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 - [tanloong/interlaced.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tanloong/interlaced.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tanloong/interlaced.nvim)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 - [kiyoon/Korean-IME.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/Korean-IME.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/Korean-IME.nvim)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
+- [doodleEsc/translator.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/doodleEsc/translator.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/doodleEsc/translator.nvim)](https://github.com/doodleEsc/translator.nvim) - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 
 <!--lint disable double-link -->
 
@@ -705,6 +707,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 - [m15a/nvim-srcerite ![GitHub Repo Stars](https://img.shields.io/github/stars/m15a/nvim-srcerite) ![GitHub last commit](https://img.shields.io/github/last-commit/m15a/nvim-srcerite)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 - [neko-night/nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neko-night/nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neko-night/nvim)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
+- [ptdewey/monalisa-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/monalisa-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/monalisa-nvim)](https://github.com/ptdewey/monalisa-nvim) - A dark and colorful Mona Lisa inspired colorscheme.
 
 ### Lua Colorscheme
 
@@ -891,6 +894,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [backdround/global-note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/global-note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/global-note.nvim)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 - [2KAbhishek/tdo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/tdo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/tdo.nvim)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 - [slugbyte/whip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/slugbyte/whip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/slugbyte/whip.nvim)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
+- [y3owk1n/dotmd.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim)](https://github.com/y3owk1n/dotmd.nvim) - Managing notes, todos, journal entries and inbox all with markdown.
 - [athar-qadri/scratchpad.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/athar-qadri/scratchpad.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/athar-qadri/scratchpad.nvim)](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
 
 <!--lint disable double-link -->
