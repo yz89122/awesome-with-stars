@@ -548,7 +548,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
 `gofumpt` will never add rules which disagree with `gofmt` formatting. So we extend `gofmt` rather than compete with it.
 
-- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
+- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) �� Checks missing or unreferenced package imports.
 
 - [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
@@ -1459,7 +1459,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: — Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 
-- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) �� A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
+- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
 
 - [cqc ![GitHub Repo Stars](https://img.shields.io/github/stars/xcatliu/cqc) ![GitHub last commit](https://img.shields.io/github/last-commit/xcatliu/cqc)](https://github.com/xcatliu/cqc) :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 
