@@ -548,7 +548,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
 `gofumpt` will never add rules which disagree with `gofmt` formatting. So we extend `gofmt` rather than compete with it.
 
-- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) �� Checks missing or unreferenced package imports.
+- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — Checks missing or unreferenced package imports.
 
 - [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
@@ -723,7 +723,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [hegel](https://hegel.js.org) :warning: — A static type checker for JavaScript with a bias on type inference and strong type systems.
 
-- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
+- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) �� Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
 
 - [JSLint ![GitHub Repo Stars](https://img.shields.io/github/stars/douglascrockford/JSLint) ![GitHub last commit](https://img.shields.io/github/last-commit/douglascrockford/JSLint)](https://github.com/douglascrockford/JSLint) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — The JavaScript Code Quality Tool.
 
