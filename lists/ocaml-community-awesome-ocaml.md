@@ -258,7 +258,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Foreign Function Interface**:
   - [ctypes ![GitHub Repo Stars](https://img.shields.io/github/stars/ocamllabs/ocaml-ctypes) ![GitHub last commit](https://img.shields.io/github/last-commit/ocamllabs/ocaml-ctypes)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
-  - [ocaml-main-program-in-c ![GitHub Repo Stars](https://img.shields.io/github/stars/johnwhitington/ocaml-main-program-in-c) ![GitHub last commit](https://img.shields.io/github/last-commit/johnwhitington/ocaml-main-program-in-c)](https://github.com/johnwhitington/ocaml-main-program-in-c) �� Example build system for making mixed C/Ocaml binaries where the main program is in C.
+  - [ocaml-main-program-in-c ![GitHub Repo Stars](https://img.shields.io/github/stars/johnwhitington/ocaml-main-program-in-c) ![GitHub last commit](https://img.shields.io/github/last-commit/johnwhitington/ocaml-main-program-in-c)](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
   - [Py.ml ![GitHub Repo Stars](https://img.shields.io/github/stars/thierry-martinez/pyml) ![GitHub last commit](https://img.shields.io/github/last-commit/thierry-martinez/pyml)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 - **Editor Integration**:
