@@ -60,6 +60,7 @@ GeoJSON utilities that will make your life easier.
 * [gjf ![GitHub Repo Stars](https://img.shields.io/github/stars/yazeed44/gjf) ![GitHub last commit](https://img.shields.io/github/last-commit/yazeed44/gjf)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 * [Jest-GeoJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/M-Scott-Lassiter/jest-geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/M-Scott-Lassiter/jest-geojson)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 * [antimeridian ![GitHub Repo Stars](https://img.shields.io/github/stars/gadomski/antimeridian) ![GitHub last commit](https://img.shields.io/github/last-commit/gadomski/antimeridian)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
+* [geojson-pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/developmentseed/geojson-pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/developmentseed/geojson-pydantic)](https://github.com/developmentseed/geojson-pydantic): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 
 ### services
 
