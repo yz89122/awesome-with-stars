@@ -545,7 +545,7 @@ https://twitter.com/sonniesedge
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/HernanMagrini" height="70px" width="70px" align="left" alt="" />
 
-**Hernán Magrini**\
+**Hern��n Magrini**\
 Topics: Web Performance, Service Workers\
 https://twitter.com/HernanMagrini
 
