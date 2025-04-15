@@ -147,7 +147,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Linear Algebra and Its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?ie=UTF8&qid=1455475253&sr=8-1&keywords=Linear+Algebra+and+Its+Applications), by David C. Lay, Steven R. Lay, Judi J. McDonald | The book does a brilliant job at bridging the gap between a physical system (for scientists and engineers) and an abstract system (for mathematicians). |
 | ★★☆ | [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell | This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License). |
 | ★★☆ | [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya | An old-time classic. In this book, the author provides a systematic way to solve problems creatively. |
-| ★★☆ | [Intermediate Counting & Probability](https://artofproblemsolving.com/store/item/intermediate-counting), by David Patrick | Topics in counting and probability byformer USA Mathematical Olympiad winner David Patrick , topics  include inclusion-exclusion, 1-1 correspondences, the Pigeonhole Principle, constructive expectation, Fibonacci and Catalan numbers, recursion, conditional probability, generating functions, graph theory, and much more.. |
+| ★★��� | [Intermediate Counting & Probability](https://artofproblemsolving.com/store/item/intermediate-counting), by David Patrick | Topics in counting and probability byformer USA Mathematical Olympiad winner David Patrick , topics  include inclusion-exclusion, 1-1 correspondences, the Pigeonhole Principle, constructive expectation, Fibonacci and Catalan numbers, recursion, conditional probability, generating functions, graph theory, and much more.. |
 
 
 ## Sites for Practice
@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
