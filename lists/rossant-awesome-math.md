@@ -251,7 +251,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
 * 📝 [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
 * 📝 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
-* 📝 [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)
+* ���� [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)
 
 ### Type Theory
 * 📝 [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
@@ -304,7 +304,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (1911)
 * 📝 [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (1904)
 * 📝 [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (1900)
-* 📝 [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
+* �� [Understanding Algebra](https://jamesbrennan.org/algebra) - James W. Brennan
 
 ### Abstract Algebra
 
@@ -550,7 +550,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
 * 📝 [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * 📝 [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
-* 📝 [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
+* ��� [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 * 📝 [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * 📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * 📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
