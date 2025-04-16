@@ -543,6 +543,7 @@ become an Angular expert.
 * [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
 * [@badisi/ngx-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/Badisi/auth-js) ![GitHub last commit](https://img.shields.io/github/last-commit/Badisi/auth-js)](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
 * [@melody-auth/angular](https://www.npmjs.com/package/@melody-auth/angular) - [Melody Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/ValueMelody/melody-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/ValueMelody/melody-auth)](https://github.com/ValueMelody/melody-auth) Angular SDK facilitates seamless interaction between Angular applications and the melody auth server. It silently handles authentication state management, redirect flows, token exchange, and authentication validation for you.
+* [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - A powerful NPM library designed to simplify session management and authentication in web applications. Whether you're working with React, Angular, or Vue, [HexaEight Sessions](https://docs.hexaeight.com/HexaEight-Sessions/003-HexaEightSessions/) provides an intuitive interface for managing user sessions efficiently.
 
 #### Builders
 
@@ -666,6 +667,7 @@ become an Angular expert.
 * [@configcat/js-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/configcat/js-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/configcat/js-sdk)](https://github.com/configcat/js-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
 * [@configcat-labs/feature-flags-in-angular-sample-app ![GitHub Repo Stars](https://img.shields.io/github/stars/configcat-labs/feature-flags-in-angular-sample-app) ![GitHub last commit](https://img.shields.io/github/last-commit/configcat-labs/feature-flags-in-angular-sample-app)](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [angular-sdk-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/splitio/angular-sdk-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/splitio/angular-sdk-plugin)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
+* [featurit-sdk-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/featurit/featurit-sdk-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/featurit/featurit-sdk-angular)](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the Javascript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 
 #### Generators
 
@@ -1457,6 +1459,7 @@ to simplify usage and allow quick customization.
 * [ngx-reactive-form-class-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/abarghoud/ngx-reactive-form-class-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/abarghoud/ngx-reactive-form-class-validator)](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/typestack/class-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/typestack/class-validator)](https://github.com/typestack/class-validator) library.
 * [ng-error-tooltips ![GitHub Repo Stars](https://img.shields.io/github/stars/mkeller1992/ng-error-tooltips) ![GitHub last commit](https://img.shields.io/github/last-commit/mkeller1992/ng-error-tooltips)](https://github.com/mkeller1992/ng-error-tooltips) - An Angular library for reactive forms that displays tooltips on form inputs with errors, providing a user-friendly way to visualize validation messages.
 * [ngx-forms-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/apalaciosdev/ngx-forms-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/apalaciosdev/ngx-forms-validator)](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
+* [ngx-control-message ![GitHub Repo Stars](https://img.shields.io/github/stars/chawkitariq/ngx-control-message) ![GitHub last commit](https://img.shields.io/github/last-commit/chawkitariq/ngx-control-message)](https://github.com/chawkitariq/ngx-control-message) - A library for binding a message to a synchronous or asynchronous form control validator.
 
 #### Icons
 
@@ -1997,6 +2000,7 @@ for the creation of web applications developed with Angular.
 * [ngx-imageviewer ![GitHub Repo Stars](https://img.shields.io/github/stars/viobui/ngx-imageviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/viobui/ngx-imageviewer)](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
 * [ngx-json-schema-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/jy95/ngx-json-schema-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/jy95/ngx-json-schema-viewer)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
 * [ngx-gist ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/ngx-gist) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/ngx-gist)](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
+* [ngx-json-treeview ![GitHub Repo Stars](https://img.shields.io/github/stars/MichaelDoyle/ngx-json-treeview) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelDoyle/ngx-json-treeview)](https://github.com/MichaelDoyle/ngx-json-treeview) - A collapsible JSON tree view for Angular.
 
 #### Misc Components
 
