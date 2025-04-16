@@ -1,6 +1,6 @@
 # Awesome Game Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production/raw/master/media/production_team.jpg)](https://github.com/vhladiienko/awesome-game-production)
+[![Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production/raw/main/media/production_team.jpg)](https://github.com/vhladiienko/awesome-game-production)
 
 > A curated list of **awesome** resources, related to game production process - books, articles, tools, project management, methodologies - aimed to help game producers deliver their games.
 
