@@ -535,7 +535,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
 - [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
 
-## Blogs �� Websites
+## Blogs • Websites
 
 - [CreativeApplications.Net [CAN]](http://creativeapplications.net/) - Famous digital art blog.
 - [iquilezles.org](https://iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
