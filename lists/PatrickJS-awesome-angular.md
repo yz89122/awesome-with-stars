@@ -1314,7 +1314,6 @@ become an Angular expert.
 
 #### Editor Components
 
-* [@ctrl/ngx-codemirror ![GitHub Repo Stars](https://img.shields.io/github/stars/TypeCtrl/ngx-codemirror) ![GitHub last commit](https://img.shields.io/github/last-commit/TypeCtrl/ngx-codemirror)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
 * [acrodata/code-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/code-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/code-editor)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 * [@instechnologies/ng-rooster ![GitHub Repo Stars](https://img.shields.io/github/stars/insurance-technologies/ng-rooster) ![GitHub last commit](https://img.shields.io/github/last-commit/insurance-technologies/ng-rooster)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
 * [angular2-froala-wysiwyg ![GitHub Repo Stars](https://img.shields.io/github/stars/froala/angular-froala-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/froala/angular-froala-wysiwyg)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
@@ -1387,7 +1386,7 @@ become an Angular expert.
 
 ##### Form Controls
 
-* [ngx-emoji-mart ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-emoji-mart) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-emoji-mart)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
+* [ngx-emoji-mart-next ![GitHub Repo Stars](https://img.shields.io/github/stars/arturovt/ngx-emoji-mart-next) ![GitHub last commit](https://img.shields.io/github/last-commit/arturovt/ngx-emoji-mart-next)](https://github.com/arturovt/ngx-emoji-mart-next) - Customizable Slack-like emoji picker.
 * [ngx-color ![GitHub Repo Stars](https://img.shields.io/github/stars/scttcper/ngx-color) ![GitHub last commit](https://img.shields.io/github/last-commit/scttcper/ngx-color)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
 * [ngx-colors ![GitHub Repo Stars](https://img.shields.io/github/stars/KroneCorylus/ngx-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/KroneCorylus/ngx-colors)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
 * [ngx-color-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-color-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-color-picker)](https://github.com/zefoy/ngx-color-picker) - Color picker widget.
