@@ -1049,7 +1049,7 @@ _Related: [Games](#games)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Generative Artificial Intelligence (GenAI)] is a subset of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that uses generative models to produce text, images, videos, or other forms of data.
+[Generative Artificial Intelligence (GenAI)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) is a subset of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that uses generative models to produce text, images, videos, or other forms of data.
 
 - [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
 - [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/open-webui/open-webui) ![GitHub last commit](https://img.shields.io/github/last-commit/open-webui/open-webui)](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
