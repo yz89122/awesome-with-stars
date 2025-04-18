@@ -95,7 +95,7 @@ The most complete boilerplate for production-ready PWAs. With focus on performan
 
 An ever-evolving and opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [�� ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 - [Vuex](https://vuex.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vuex) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vuex)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 - [Vue Router](https://router.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-router)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 - [Vue CLI](https://cli.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
@@ -409,7 +409,7 @@ The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 Self-hosted open source devops and collaboration tools, suitable for enterprise.
 
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [���� ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
+- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
 - [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hubotio/hubot) ![GitHub last commit](https://img.shields.io/github/last-commit/hubotio/hubot)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
