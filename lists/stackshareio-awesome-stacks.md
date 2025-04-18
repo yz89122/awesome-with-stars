@@ -95,7 +95,7 @@ The most complete boilerplate for production-ready PWAs. With focus on performan
 
 An ever-evolving and opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [�� ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+- [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 - [Vuex](https://vuex.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vuex) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vuex)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 - [Vue Router](https://router.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-router)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 - [Vue CLI](https://cli.vuejs.org/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-cli)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
