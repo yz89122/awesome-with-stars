@@ -289,6 +289,7 @@ This list is a collection of the best Deno modules and resources.
   - [opine-http-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/asos-craigmorten/opine-http-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/asos-craigmorten/opine-http-proxy)](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [wren ![GitHub Repo Stars](https://img.shields.io/github/stars/zaiste/wren) ![GitHub last commit](https://img.shields.io/github/last-commit/zaiste/wren)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 - [primate](https://primatejs.com) - A polymorphic development platform
+- [Yelix](https://docs.yelix.dev/) - Yelix is a [Hono ![GitHub Repo Stars](https://img.shields.io/github/stars/honojs/hono) ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)](https://github.com/honojs/hono) based Deno web server framework that simplifies backend development with built-in tools and automation.
 
 ### WebSocket
 - [deno-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/deno-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/deno-websocket)](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
@@ -480,7 +481,7 @@ This list is a collection of the best Deno modules and resources.
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
-- [Dive into Deno：��ロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
+- [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
 ### Korean
 
