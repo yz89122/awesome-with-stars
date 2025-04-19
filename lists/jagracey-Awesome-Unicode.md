@@ -135,7 +135,7 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **���� Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
  var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
@@ -454,7 +454,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FC6](https://codepoints.net/U+1FC6?lang=en) | `ῆ`       | GREEK SMALL LETTER ETA WITH PERISPOMENI                                  | `η`, `͂`          | U+03B7, U+0342         |
 | [U+1FC7](https://codepoints.net/U+1FC7?lang=en) | `ῇ`       | GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI                | `η`, `͂`, `ι`     | U+03B7, U+0342, U+03B9 |
 | [U+1FCC](https://codepoints.net/U+1FCC?lang=en) | `ῌ`       | GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI                             | `η`, `ι`         | U+03B7, U+03B9         |
-| [U+1FD2](https://codepoints.net/U+1FD2?lang=en) | `ῒ`       | GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA                         | `ι`, `��`, `̀`      | U+03B9, U+0308, U+0300 |
+| [U+1FD2](https://codepoints.net/U+1FD2?lang=en) | `ῒ`       | GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA                         | `ι`, `̈`, `̀`      | U+03B9, U+0308, U+0300 |
 | [U+1FD3](https://codepoints.net/U+1FD3?lang=en) | `ΐ`       | GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA                          | `ι`, `̈`, `́`      | U+03B9, U+0308, U+0301 |
 | [U+1FD6](https://codepoints.net/U+1FD6?lang=en) | `ῖ`       | GREEK SMALL LETTER IOTA WITH PERISPOMENI                                 | `ι`, `͂`          | U+03B9, U+0342         |
 | [U+1FD7](https://codepoints.net/U+1FD7?lang=en) | `ῗ`       | GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI                   | `ι`, `̈`, `͂`      | U+03B9, U+0308, U+0342 |
