@@ -233,6 +233,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
+- [Erik Moqvist ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/eerimoq) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/eerimoq)](https://github.com/sponsors/eerimoq) - Moblin, iOS app for IRL streaming and many other libraries.
 - [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
 - [Ethan Lee ![GitHub Repo Stars](https://img.shields.io/github/stars/users/flibitijibibo) ![GitHub last commit](https://img.shields.io/github/last-commit/users/flibitijibibo)](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
