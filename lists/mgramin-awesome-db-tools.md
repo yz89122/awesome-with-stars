@@ -382,7 +382,7 @@ Low-code and no-code platforms for application building
 - [sqlparse ![GitHub Repo Stars](https://img.shields.io/github/stars/andialbrecht/sqlparse) ![GitHub last commit](https://img.shields.io/github/last-commit/andialbrecht/sqlparse)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 - [SQLGlot ![GitHub Repo Stars](https://img.shields.io/github/stars/tobymao/sqlglot) ![GitHub last commit](https://img.shields.io/github/last-commit/tobymao/sqlglot)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
-### Über SQL
+### ��ber SQL
 Run SQL queries against anything
 - [CloudQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudquery/cloudquery) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudquery/cloudquery)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 - [csvq ![GitHub Repo Stars](https://img.shields.io/github/stars/mithrandie/csvq) ![GitHub last commit](https://img.shields.io/github/last-commit/mithrandie/csvq)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
