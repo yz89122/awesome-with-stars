@@ -538,7 +538,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Blogs • Websites
 
 - [CreativeApplications.Net [CAN]](http://creativeapplications.net/) - Famous digital art blog.
-- [iquilezles.org](https://iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
+- [iquilezles.org](https://iquilezles.org) - Home of Íñigo Qu��lez, specialised in GLSL and math snippets.
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
 - [ibreakdownshaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
 - [adriancourrèges.com](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
