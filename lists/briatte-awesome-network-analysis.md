@@ -294,7 +294,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Annenberg Networks Network (ANN)](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
 -   [Center for Applied Network Analysis (CANA)](https://usccana.github.io/) - Research group based at the University of Southern California School of Medicine.
 -   [Channing Division of Network Medicine](http://www.brighamandwomens.org/research/depts/medicine/channing/default.aspx) - Research division within the Department of Medicine at Brigham and Women’s Hospital.
--   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001–2.
+-   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001���2.
 -   [Duke Network Analysis Center](https://dnac.ssri.duke.edu/).
 -   [Interdependence in Governance and Policy Research Group](https://sites.psu.edu/desmaraisgroup/) - Led by Bruce A. Desmarais at Penn State University.
 -   [Indiana University Network Science Institute (IUNI)](http://iuni.iu.edu/).
@@ -365,7 +365,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (_Programming Historian_, 2015).
 -   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](https://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
 -   [Introduction à la visualisation de données : l’analyse de réseau en histoire](https://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (_Geschichte und Informatik_, 2015).
--   [Introduction : o�� en est l’analyse de réseaux en histoire ? [Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?]](https://doi.org/10.5565/rev/redes.416), in French and Spanish (_REDES_, 2011).
+-   [Introduction : où en est l’analyse de réseaux en histoire ? [Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?]](https://doi.org/10.5565/rev/redes.416), in French and Spanish (_REDES_, 2011).
 -   [Networks and History](https://doi.org/10.1002/cplx.10054) (_Complexity_, 2002).
 -   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) (in _The Historian’s Macroscope_, 2013).
 -   [Networks of Power in Archaeology](https://doi.org/10.1146/annurev-anthro-102313-025901) (_Annual Review of Anthropology_, 2014).
