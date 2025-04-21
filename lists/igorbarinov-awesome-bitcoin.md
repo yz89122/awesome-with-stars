@@ -40,6 +40,7 @@ A curated list of bitcoin services and tools for software developers
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/alexk111/HD-Wallet-Scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/alexk111/HD-Wallet-Scanner)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 * [`<qr-code>` ![GitHub Repo Stars](https://img.shields.io/github/stars/bitjson/qr-code) ![GitHub last commit](https://img.shields.io/github/last-commit/bitjson/qr-code)](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
+* [BTC Tooling ![GitHub Repo Stars](https://img.shields.io/github/stars/douvy/btc-tooling) ![GitHub last commit](https://img.shields.io/github/last-commit/douvy/btc-tooling)](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -176,7 +177,7 @@ A curated list of bitcoin services and tools for software developers
 * [BitcoinDatabaseGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/ladimolnar/BitcoinDatabaseGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/ladimolnar/BitcoinDatabaseGenerator)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 * [Blockparser+SQL ![GitHub Repo Stars](https://img.shields.io/github/stars/mcdee/blockparser) ![GitHub last commit](https://img.shields.io/github/last-commit/mcdee/blockparser)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 * [BitcoinABE ![GitHub Repo Stars](https://img.shields.io/github/stars/bitcoin-abe/bitcoin-abe) ![GitHub last commit](https://img.shields.io/github/last-commit/bitcoin-abe/bitcoin-abe)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
-* [Chaingraph ![GitHub Repo Stars](https://img.shields.io/github/stars/bitauth/chaingraph) ![GitHub last commit](https://img.shields.io/github/last-commit/bitauth/chaingraph)](https://github.com/bitauth/chaingraph/) �� A multi-node blockchain indexer and GraphQL API.
+* [Chaingraph ![GitHub Repo Stars](https://img.shields.io/github/stars/bitauth/chaingraph) ![GitHub last commit](https://img.shields.io/github/last-commit/bitauth/chaingraph)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## Full nodes
 * [btcd ![GitHub Repo Stars](https://img.shields.io/github/stars/btcsuite/btcd) ![GitHub last commit](https://img.shields.io/github/last-commit/btcsuite/btcd)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
