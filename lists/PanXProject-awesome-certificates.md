@@ -115,7 +115,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [MongoDB Performance](https://university.mongodb.com/courses/M201/about) | MongoDB |Intermediate| 7 | 🏆|
 | [MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about) | MongoDB |Intermediate| 7.5 | 🏆|
 | [MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about) | MongoDB |Intermediate| 6.5 | 🏆|
-| [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about) | MongoDB |Intermediate| 6.5 | ��|
+| [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about) | MongoDB |Intermediate| 6.5 | 🏆|
 | [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
 | [Diagnostics and Debugging for MongoDB](https://university.mongodb.com/courses/M312/about) | MongoDB |Professional| 6.5 | 🏆|
 | [MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) | MongoDB |Professional| 7 | 🏆|
