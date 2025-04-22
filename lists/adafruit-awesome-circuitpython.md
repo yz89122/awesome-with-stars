@@ -73,7 +73,7 @@
 
 ## Books
 
-- [Getting Started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the Adafruit store](https://www.adafruit.com/product/3944)) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
+- [Getting Started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/) - This book helps you to get started with CircuitPython development. This book uses the Adafruit ItsyBitsy M0 Express board for development.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://steam-tokyo.com/product/cpbook1/) - In Japanese by author [Aoyama_PROD](https://twitter.com/AoyamaProd), September, 2019 from [TechBookFest](https://techbookfest.org/).
 - [Python for Microcontrollers: Getting Started with MicroPython - by Donald Norris](https://www.adafruit.com/product/3325) - Program your own MicroPython projects with ease—no prior programming experience necessary.
@@ -86,7 +86,7 @@
 
 ## Code
 
-- CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads). The source for each is also on [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/adafruit/circuitpython) ![GitHub last commit](https://img.shields.io/github/last-commit/adafruit/circuitpython)](https://github.com/adafruit/circuitpython/releases).
+- CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads).
 - [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/README.html) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
 - [Circuit Playground Express CircuitPython API Reference](https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
@@ -103,13 +103,12 @@
 - [code.circuitpython.org - the online CircuitPython code editor](https://code.circuitpython.org/) - edit code and download to your device via WiFi, Bluetooth or USB.
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended offline Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](https://mu.readthedocs.io/en/latest/) - The documentation for Mu.
-- [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - Blog post discussing the process.
-- - [Glider: An app for editing Python on mobile devices wirelessly ![GitHub Repo Stars](https://img.shields.io/github/stars/adafruit/glider) ![GitHub last commit](https://img.shields.io/github/last-commit/adafruit/glider)](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
+- [Using Microsoft VSCode for CircuitPython ![GitHub Repo Stars](https://img.shields.io/github/stars/wmerkens/vscode-circuitpython) ![GitHub last commit](https://img.shields.io/github/last-commit/wmerkens/vscode-circuitpython)](https://github.com/wmerkens/vscode-circuitpython) (GitHub) and [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=wmerkens.vscode-circuitpython-v2).
+- [Glider: An app for editing Python on mobile devices wirelessly ![GitHub Repo Stars](https://img.shields.io/github/stars/adafruit/glider) ![GitHub last commit](https://img.shields.io/github/last-commit/adafruit/glider)](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
 - [A helper for CircuitPython development with Atom ![GitHub Repo Stars](https://img.shields.io/github/stars/s-light/CircuitPython_Atom_helper) ![GitHub last commit](https://img.shields.io/github/last-commit/s-light/CircuitPython_Atom_helper)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
-- [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
 - [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
 - The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
 
