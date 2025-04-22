@@ -34,7 +34,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Clocks & Studio Screens
 * [OnAirScreen ![GitHub Repo Stars](https://img.shields.io/github/stars/saschaludwig/OnAirScreen) ![GitHub last commit](https://img.shields.io/github/last-commit/saschaludwig/OnAirScreen)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 * [PiClock ![GitHub Repo Stars](https://img.shields.io/github/stars/simonhyde/PiClock) ![GitHub last commit](https://img.shields.io/github/last-commit/simonhyde/PiClock)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
-* [PiClock Advanced ![GitHub Repo Stars](https://img.shields.io/github/stars/ael/piclock_advanced) ![GitHub last commit](https://img.shields.io/github/last-commit/ael/piclock_advanced)](https://github.com/ael/piclock_advanced) Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
+* [PiClock Advanced ![GitHub Repo Stars](https://img.shields.io/github/stars/ael/piclock_advanced) ![GitHub last commit](https://img.shields.io/github/last-commit/ael/piclock_advanced)](https://github.com/ael/piclock_advanced) - Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
 * [PiRSClock-Full ![GitHub Repo Stars](https://img.shields.io/github/stars/jdgwarren/pirsclockfull) ![GitHub last commit](https://img.shields.io/github/last-commit/jdgwarren/pirsclockfull)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
 ## Codecs
@@ -236,6 +236,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [gPodder ![GitHub Repo Stars](https://img.shields.io/github/stars/gpodder/gpodder) ![GitHub last commit](https://img.shields.io/github/last-commit/gpodder/gpodder)](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
 * [Podlove Publisher ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-publisher) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-publisher)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher)).
 * [Podlove Web Player ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-ui)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player)).
+* [Ultraschall](https://github.com/Ultraschall) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
 
 ## Radio Production
 
@@ -248,6 +249,10 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [OpenBroadcaster](https://openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR ![GitHub Repo Stars](https://img.shields.io/github/stars/radiorabe/raar) ![GitHub last commit](https://img.shields.io/github/last-commit/radiorabe/raar)](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell ![GitHub Repo Stars](https://img.shields.io/github/stars/ElvishArtisan/rivendell) ![GitHub last commit](https://img.shields.io/github/last-commit/ElvishArtisan/rivendell)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+
+## Rundown automation
+* [OnTime ![GitHub Repo Stars](https://img.shields.io/github/stars/cpvalente/ontime) ![GitHub last commit](https://img.shields.io/github/last-commit/cpvalente/ontime)](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
+* [SuperConductor ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperFlyTV/SuperConductor) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperFlyTV/SuperConductor)](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
 ## Software-defined radio
 
