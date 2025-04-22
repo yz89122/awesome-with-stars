@@ -580,7 +580,7 @@ Game Development
 * [Trial ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/trial) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/trial)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. Custom: [zlib][33] with a political clause added.
   * the [Kandria](https://kandria.com/) game is built with Trial.
 * [claw-raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/claw-raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/claw-raylib)](https://github.com/bohonghuang/claw-raylib) (2023) - Fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
-* [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/raylib)](https://github.com/fosskers/raylib/) (2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. MPL-2.
+* [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/raylib)](https://github.com/fosskers/raylib/) (2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. [MPL-2.0][211].
 * [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – With this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
 * [virality ![GitHub Repo Stars](https://img.shields.io/github/stars/bufferswap/ViralityEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/bufferswap/ViralityEngine)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT][200].
 * [Xelf](https://gitlab.com/dto/xelf/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
@@ -1085,7 +1085,7 @@ Library Manager
 * [Roswell ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/roswell)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
 * [Qlot ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/qlot) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/qlot)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat][14].
   * how to [use it from the Lisp REPL ![GitHub Repo Stars](https://img.shields.io/github/stars/svetlyak40wt/qlot-without-roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/svetlyak40wt/qlot-without-roswell)](https://github.com/svetlyak40wt/qlot-without-roswell) without Roswell.
-* [vend ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/vend) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/vend)](https://github.com/fosskers/vend) - Just vendor your dependencies! MPL-2.0.
+* [vend ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/vend) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/vend)](https://github.com/fosskers/vend) - Just vendor your dependencies! [MPL-2.0][211].
 
 see also:
 
@@ -1099,7 +1099,7 @@ see also:
 might help:
 
 * [redist ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/redist) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/redist)](https://github.com/shirakumo/redist) - facilities to produce Quicklisp distributions.
-* [quick-patch ![GitHub Repo Stars](https://img.shields.io/github/stars/tdrhq/quick-patch) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/quick-patch)](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. MPL-2.0.
+* [quick-patch ![GitHub Repo Stars](https://img.shields.io/github/stars/tdrhq/quick-patch) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/quick-patch)](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. [MPL-2.0][211].
 * [print-licenses ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/print-licenses) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/print-licenses)](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT][200].
 * [asdf-dependency-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/asdf-dependency-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/asdf-dependency-graph)](https://github.com/digikar99/asdf-dependency-graph/) - A minimal wrapper around `dot` to generate an image of the dependencies graph.
 
@@ -1820,6 +1820,7 @@ Text and binary parsers
 * [cl-shlex ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/cl-shlex) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/cl-shlex)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT][200].
 * [smug ![GitHub Repo Stars](https://img.shields.io/github/stars/drewc/smug) ![GitHub last commit](https://img.shields.io/github/last-commit/drewc/smug)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT][200].
 * [lisp-binary ![GitHub Repo Stars](https://img.shields.io/github/stars/j3pic/lisp-binary) ![GitHub last commit](https://img.shields.io/github/last-commit/j3pic/lisp-binary)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3][2].
+* [parcom ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/parcom) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/parcom)](https://github.com/fosskers/parcom) -  Simple parser combinators for Common Lisp, in the style of Haskell’s `parsec` and Rust’s `nom`. [MPL-2.0][211].
 
 see also:
 
@@ -2256,3 +2257,4 @@ The rules we (try to) respect are the followings:
 [209]: http://www.eclipse.org/legal/epl-v10.html
 [210]: https://common-lisp.net/project/linedit/license.html
 [agpl3]: https://directory.fsf.org/wiki/License:AGPL-3.0
+[211]: http://mozilla.org/MPL/2.0/
