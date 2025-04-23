@@ -10,6 +10,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Clothing](#clothing)
 - [Consumer Products](#consumer-products)
 - [Cooking](#cooking)
+- [Development](#development)
 - [Documentaries](#documentaries)
 - [Finance](#finance)
 - [Food](#food)
@@ -108,6 +109,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar) - A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) or make your own. Food drying is a method of preserving fruit, vegetables, and animal proteins that has been practiced since antiquity.
 - [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.
 
+## Development
+- [Step CI](https://docs.stepci.com/guides/co2-testing.html) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
+
 ## Documentaries
 
 - [Artifishial](https://www.patagonia.com/artifishal.html) - Artifishal is a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmon’s slide toward extinction, threats posed by fish hatcheries and fish farms, and our continued loss of faith in nature.
@@ -142,7 +146,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Food
 
 - [Able & Cole](https://www.abelandcole.co.uk/) - Get fruit, veg, pantry staples, and other organic food delivered in returnable, reusable, recyclable packaging. Seasonal boxes of veg so its not traveling around the world, sustainably sourced fish, they've even got beer.
-- [Agricool - Local, healthy, sustainable food](https://www.agricool.co/fr) - Des fruits et légumes, cultivés au coeur des villes, �� moins de 15km de leur lieu de consommation. Frais, locaux, sans pesticides.
+- [Agricool - Local, healthy, sustainable food](https://www.agricool.co/fr) - Des fruits et légumes, cultivés au coeur des villes, à moins de 15km de leur lieu de consommation. Frais, locaux, sans pesticides.
 - [CrowdFarming.com] - Buying food directly from farmers is the most powerful everyday act available to anyone to create a positive social and environmental impact.
 - [NotCo](https://notco.com) - The Not Company is a Foodtech, that reinvents animal-based foods using only plants. Unlike traditional food businesses, the company uses technology to recreate the same products we love to eat in a natural, sustainable and affordable way, keeping it functional, easy to use and mouthwateringly delicious. They use Artificial Intelligence to build a library of thousands of Plants and find how to use them, to recreate the same taste, smell, function, look and feel of the products we love. ALL PLANT-BASED.
 - [All Plants - Vegan Prepared Meals](https://allplants.com/) - Get super tasty and 100% plant-based meals cooked by chefs and delivered straight to your door. Two people getting six meals works out at £5 a meal, which is amazing. Use [this referral link](https://allplants.mention-me.com/me/referee/registerko/48827185/206943008/er/796b4fb5d581862f565aa73f01fe733b8576831c/fe/cw?epr=1) to get £10 off your first box. We'll get £10 off our next box, so we'll spend that saving on trees on [Offset Earth](https://offset.earth/philsturgeon). 🥳
@@ -375,7 +379,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Citizens Climate Lobby](https://citizensclimatelobby.org/) - If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
 - [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands. We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
 - [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
-- [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions. Help discover how the climate could look by running software on your computer.
+- [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
+- [Earth Hero Climate Action App](https://www.earthhero.org/get-involved/) - Join the volunteer team behind the free climate action app that makes it easy for people to act on climate change. Made up of developers, designers, researchers, writers, marketers, translators, and project managers from around the world.
 - [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
 - [Extinction Rebellion](https://rebellion.global/) - Extinction Rebellion is a decentralised, international and politically non-partisan movement using non-violent direct action and civil disobedience to persuade governments to act justly on the Climate and Ecological Emergency.
 - [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
