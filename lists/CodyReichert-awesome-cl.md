@@ -1819,11 +1819,14 @@ Text and binary parsers
 * [cl-yacc ![GitHub Repo Stars](https://img.shields.io/github/stars/jech/cl-yacc) ![GitHub last commit](https://img.shields.io/github/last-commit/jech/cl-yacc)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
 * [cl-shlex ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/cl-shlex) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/cl-shlex)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT][200].
 * [smug ![GitHub Repo Stars](https://img.shields.io/github/stars/drewc/smug) ![GitHub last commit](https://img.shields.io/github/last-commit/drewc/smug)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT][200].
-* [lisp-binary ![GitHub Repo Stars](https://img.shields.io/github/stars/j3pic/lisp-binary) ![GitHub last commit](https://img.shields.io/github/last-commit/j3pic/lisp-binary)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3][2].
+* [MaxPC ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneia/maxpc) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneia/maxpc)](https://github.com/eugeneia/maxpc) - a simple and pragmatic library for writing parsers and lexers based on combinatory parsing.
+  * MaxPC is capable of parsing deterministic, context-free languages, provides powerful tools for parse tree transformation and error handling, and can operate on sequences and streams.
+  * excellent documentation.
 * [parcom ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/parcom) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/parcom)](https://github.com/fosskers/parcom) -  Simple parser combinators for Common Lisp, in the style of Haskell’s `parsec` and Rust’s `nom`. [MPL-2.0][211].
 
 see also:
 
+* [lisp-binary ![GitHub Repo Stars](https://img.shields.io/github/stars/j3pic/lisp-binary) ![GitHub last commit](https://img.shields.io/github/last-commit/j3pic/lisp-binary)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3][2].
 * [texp ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneia/texp) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneia/texp)](https://github.com/eugeneia/texp/) - A DSL to generate TeX. [AGPL-3.0][agpl3].
 
 Text Processing
