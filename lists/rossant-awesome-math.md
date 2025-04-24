@@ -353,7 +353,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
 * 📝 [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * 📝 [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
-* ���� [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
+* 📝 [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
 * 📝 [Galois Theory](https://arxiv.org/pdf/2408.07499) — Tom Leinster (University of Edinburgh)
 
 ### Lie Algebras
@@ -478,7 +478,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 * 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
-* ��� [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
+* 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
 * 📝 [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
 * 📝 [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
