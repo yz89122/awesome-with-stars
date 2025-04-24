@@ -199,6 +199,8 @@ Zero trust network security operates under the principle “never trust, always 
 
 - [Pomerium ![GitHub Repo Stars](https://img.shields.io/github/stars/pomerium/pomerium) ![GitHub last commit](https://img.shields.io/github/last-commit/pomerium/pomerium)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
 
+- [heimdall ![GitHub Repo Stars](https://img.shields.io/github/stars/dadrus/heimdall) ![GitHub last commit](https://img.shields.io/github/last-commit/dadrus/heimdall)](https://github.com/dadrus/heimdall) - A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
+
 ## Authentication
 
 Protocols and technologies to verify that you are who you pretend to be.
