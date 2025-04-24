@@ -518,7 +518,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 - [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
 
-## Museums ��� Galleries
+## Museums �� Galleries
 
 - [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) - ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
 - [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
