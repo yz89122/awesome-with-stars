@@ -408,7 +408,7 @@ This is Zinit 4 from the [original author](https://github.com/psprint), who once
 
 - AppImage distribution (release link),
 - Action complete – press Alt-Shift-A and Alt-Shift-C to complete plugin names and ice modifiers,
-- Themes – set $ZITHEME to one of default, blue and gold to set a color set to use for Zinit 4 messages,
+- Themes ��� set $ZITHEME to one of default, blue and gold to set a color set to use for Zinit 4 messages,
 - New ice `build` which is equivalent of three other ices: `null`, `configure` and `make install` and simply builds the project from sources, with support for autotools/CMake/Meson/Scons.
 
 These are the most visible changes, but there are more (like e.g.: support for compiling with libraries from previously built projects/`$ZPFX`).
