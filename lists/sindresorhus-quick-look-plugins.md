@@ -130,9 +130,17 @@ Run `brew install qlvideo` or [download manually ![GitHub Repo Stars](https://im
 
 > Peek allows you to copy and find text, jump to line numbers, render Github-flavored Markdown with a generated table of contents, restore scroll positions, highlight syntax, & more in the Quick Look previews of over 300 file extensions.
 
-Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898)
+Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898).
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Peek.png)](https://bigzlabs.com/peek)
+
+### [Folder Preview](https://anybox.ltd/folder-preview) 💰
+
+> Preview folders and ZIP files with the familiar experience of Finder.
+
+Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
 ### [ProvisionQL ![GitHub Repo Stars](https://img.shields.io/github/stars/ealeksandrov/ProvisionQL) ![GitHub last commit](https://img.shields.io/github/last-commit/ealeksandrov/ProvisionQL)](https://github.com/ealeksandrov/ProvisionQL)
 
