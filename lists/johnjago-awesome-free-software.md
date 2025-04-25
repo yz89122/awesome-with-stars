@@ -257,7 +257,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Organizations
 
-- [April](https://www.april.org/) - Promouvoir et d��fendre le logiciel libre.
+- [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
 - [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) - Promotes access to knowledge via technology.
 - [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
