@@ -581,7 +581,7 @@ Game Development
   * the [Kandria](https://kandria.com/) game is built with Trial.
 * [claw-raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/claw-raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/claw-raylib)](https://github.com/bohonghuang/claw-raylib) (2023) - Fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
 * [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/raylib)](https://github.com/fosskers/raylib/) (2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. [MPL-2.0][211].
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) ��� With this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – With this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
 * [virality ![GitHub Repo Stars](https://img.shields.io/github/stars/bufferswap/ViralityEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/bufferswap/ViralityEngine)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT][200].
 * [Xelf](https://gitlab.com/dto/xelf/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
 
