@@ -123,7 +123,7 @@
 - [Hiccups ![GitHub Repo Stars](https://img.shields.io/github/stars/teropa/hiccups) ![GitHub last commit](https://img.shields.io/github/last-commit/teropa/hiccups)](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory ![GitHub Repo Stars](https://img.shields.io/github/stars/davidsantiago/hickory) ![GitHub last commit](https://img.shields.io/github/last-commit/davidsantiago/hickory)](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 - [json-html ![GitHub Repo Stars](https://img.shields.io/github/stars/yogthos/json-html) ![GitHub last commit](https://img.shields.io/github/last-commit/yogthos/json-html)](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
-- [Kioo ![GitHub Repo Stars](https://img.shields.io/github/stars/ckirkendall/kioo) ![GitHub last commit](https://img.shields.io/github/last-commit/ckirkendall/kioo)](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
+- [Kioo ![GitHub Repo Stars](https://img.shields.io/github/stars/ckirkendall/kioo) ![GitHub last commit](https://img.shields.io/github/last-commit/ckirkendall/kioo)](https://github.com/ckirkendall/kioo) ��� DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 - [Respo ![GitHub Repo Stars](https://img.shields.io/github/stars/mvc-works/respo) ![GitHub last commit](https://img.shields.io/github/last-commit/mvc-works/respo)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 - [Sablono ![GitHub Repo Stars](https://img.shields.io/github/stars/r0man/sablono) ![GitHub last commit](https://img.shields.io/github/last-commit/r0man/sablono)](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
@@ -194,7 +194,7 @@
 
 ### Routing
 - [Bidi ![GitHub Repo Stars](https://img.shields.io/github/stars/juxt/bidi) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/bidi)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
-- [Router ![GitHub Repo Stars](https://img.shields.io/github/stars/darkleaf/router) ![GitHub last commit](https://img.shields.io/github/last-commit/darkleaf/router)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
+- [Router ![GitHub Repo Stars](https://img.shields.io/github/stars/darkleaf/router) ![GitHub last commit](https://img.shields.io/github/last-commit/darkleaf/router)](https://github.com/darkleaf/router) ��� Bidirectional Ring router for Clojure/Script. REST oriented.
 - [Secretary ![GitHub Repo Stars](https://img.shields.io/github/stars/gf3/secretary) ![GitHub last commit](https://img.shields.io/github/last-commit/gf3/secretary)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 - [Silk ![GitHub Repo Stars](https://img.shields.io/github/stars/DomKM/silk) ![GitHub last commit](https://img.shields.io/github/last-commit/DomKM/silk)](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
