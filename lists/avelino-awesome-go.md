@@ -1283,7 +1283,7 @@ _Geographic tools and servers_
 - [Web-Mercator-Projection ![GitHub Repo Stars](https://img.shields.io/github/stars/jorelosorio/web-mercator-projection) ![GitHub last commit](https://img.shields.io/github/last-commit/jorelosorio/web-mercator-projection)](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
 - [WGS84 ![GitHub Repo Stars](https://img.shields.io/github/stars/wroge/wgs84) ![GitHub last commit](https://img.shields.io/github/last-commit/wroge/wgs84)](https://github.com/wroge/wgs84) - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Go Compilers
 
