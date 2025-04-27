@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Wicked Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/turanszkij/WickedEngine)](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
 - C++: Gui
     - 🎉 [Crazy Eddie's GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/cegui/cegui) ![GitHub last commit](https://img.shields.io/github/last-commit/cegui/cegui)](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
-    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
+    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) ��� - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
@@ -583,7 +583,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Flat Red Ball ![GitHub Repo Stars](https://img.shields.io/github/stars/vchelaru/FlatRedBall) ![GitHub last commit](https://img.shields.io/github/last-commit/vchelaru/FlatRedBall)](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Gui Editor](http://vchelaru.github.io/Gum/) | [Website](https://flatredball.com/)]
     - 🎉 [Murder ![GitHub Repo Stars](https://img.shields.io/github/stars/isadorasophia/murder) ![GitHub last commit](https://img.shields.io/github/last-commit/isadorasophia/murder)](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
     - 🎉 [Stride ![GitHub Repo Stars](https://img.shields.io/github/stars/stride3d/stride) ![GitHub last commit](https://img.shields.io/github/last-commit/stride3d/stride)](https://github.com/stride3d/stride) - Game engine for realistic rendering and VR. Formerly _Xenko_. [[Website](https://www.stride3d.net/)]
-    - ���� [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
+    - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 - C#: Game Framework
     - 🎉 [FNA ![GitHub Repo Stars](https://img.shields.io/github/stars/FNA-XNA/FNA) ![GitHub last commit](https://img.shields.io/github/last-commit/FNA-XNA/FNA)](https://github.com/FNA-XNA/FNA) - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
     - 🎉 [Monofoxe ![GitHub Repo Stars](https://img.shields.io/github/stars/Martenfur/Monofoxe) ![GitHub last commit](https://img.shields.io/github/last-commit/Martenfur/Monofoxe)](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with _MonoGame_.
@@ -635,7 +635,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Go: Audio
     - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
-    - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
+    - ���� [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
     - 🎉 [Ebitengine ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/ebiten) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/ebiten)](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library.
     - 🎉 [Engo ![GitHub Repo Stars](https://img.shields.io/github/stars/EngoEngine/engo) ![GitHub last commit](https://img.shields.io/github/last-commit/EngoEngine/engo)](https://github.com/EngoEngine/engo) - A 2D game framework.
