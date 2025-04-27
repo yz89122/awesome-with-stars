@@ -703,7 +703,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>JavaScript</h2>
 
 
-- [aether](http://aetherjs.com) :warning: ��� Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
+- [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 
 - [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
