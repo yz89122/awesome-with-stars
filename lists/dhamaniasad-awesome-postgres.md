@@ -43,6 +43,7 @@
 * [Slony-I](https://slony.info/) - "Master to multiple slaves" replication system with cascading and failover.
 * [PAF ![GitHub Repo Stars](https://img.shields.io/github/stars/ClusterLabs/PAF) ![GitHub last commit](https://img.shields.io/github/last-commit/ClusterLabs/PAF)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 * [SkyTools ![GitHub Repo Stars](https://img.shields.io/github/stars/pgq/skytools-legacy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgq/skytools-legacy)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+* [pg_auto_failover ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_auto_failover) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_auto_failover)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
@@ -67,6 +68,7 @@
 * [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
+* [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 * [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
@@ -83,9 +85,11 @@ For Database Management
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [temBoard ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/temboard) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/temboard)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+* [Teable ![GitHub Repo Stars](https://img.shields.io/github/stars/teableio/teable) ![GitHub last commit](https://img.shields.io/github/last-commit/teableio/teable)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 * [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 * [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
+* [WebDB](https://webdb.app) – Efficient Database IDE.
 
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
@@ -95,6 +99,7 @@ For Database Management
 ### CLI
 * [atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/ariga/atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/ariga/atlas)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 * [pgcli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/pgcli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/pgcli)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+* [pg-schema-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/pg-schema-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/pg-schema-diff)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 * [pgsh ![GitHub Repo Stars](https://img.shields.io/github/stars/sastraxi/pgsh) ![GitHub last commit](https://img.shields.io/github/last-commit/sastraxi/pgsh)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/fphilipe/psql2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/fphilipe/psql2csv)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
@@ -125,6 +130,7 @@ For Database Management
 * [pg_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/Vonng/pg_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/Vonng/pg_exporter)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Extensions
+* [AGE ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/age) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/age)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
 * [Citus ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/citus) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/citus)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/cstore_fdw) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/cstore_fdw)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
@@ -168,6 +174,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
+* [bemi ![GitHub Repo Stars](https://img.shields.io/github/stars/BemiHQ/bemi) ![GitHub last commit](https://img.shields.io/github/last-commit/BemiHQ/bemi)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 * [ERAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexis-benoist/eralchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexis-benoist/eralchemy)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [Hasura GraphQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 * [ldap2pg ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/ldap2pg) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/ldap2pg)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
@@ -224,6 +231,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Ruby: [pg ![GitHub Repo Stars](https://img.shields.io/github/stars/ged/ruby-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/ged/ruby-pg)](https://github.com/ged/ruby-pg)
 * Rust: [rust-postgresql ![GitHub Repo Stars](https://img.shields.io/github/stars/sfackler/rust-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/sfackler/rust-postgres)](https://github.com/sfackler/rust-postgres), [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/tcdi/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/tcdi/pgx)](https://github.com/tcdi/pgx), [wtx ![GitHub Repo Stars](https://img.shields.io/github/stars/c410-f3r/wtx) ![GitHub last commit](https://img.shields.io/github/last-commit/c410-f3r/wtx)](https://github.com/c410-f3r/wtx)
 * Lua: [luapgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/arcapos/luapgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/arcapos/luapgsql)](https://github.com/arcapos/luapgsql)
+* Zig: [pg.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/pg.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/pg.zig)](https://github.com/karlseguin/pg.zig)
 
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
