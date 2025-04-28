@@ -83,6 +83,8 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 - JavaScript: [RegViz](http://regviz.org/).
 - .NET: [Regex Storm](http://regexstorm.net/tester) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/lonekorean/regex-storm) ![GitHub last commit](https://img.shields.io/github/last-commit/lonekorean/regex-storm)](https://github.com/lonekorean/regex-storm)].
 - PCRE: [PHP Live Regex](https://www.phpliveregex.com/).
+- PCRE2: [pcre2test](https://pcre2project.github.io/pcre2/doc/pcre2test/) - CLI test program for the PCRE2 library.
+- Perl: [rxrx](https://metacpan.org/dist/Regexp-Debugger/view/bin/rxrx) - Visually debug Perl regexes in a REPL.
 - Python: [Pythex](https://pythex.org/).
 - Ruby: [Rubular](https://rubular.com/).
 - sed: [GNU sed REPL](https://sed.js.org/).

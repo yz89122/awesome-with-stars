@@ -72,6 +72,7 @@
 * [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
 For Database Management
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
+* [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb ![GitHub Repo Stars](https://img.shields.io/github/stars/sosedoff/pgweb) ![GitHub last commit](https://img.shields.io/github/last-commit/sosedoff/pgweb)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/phppgadmin/phppgadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/phppgadmin/phppgadmin)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
@@ -104,6 +105,7 @@ For Database Management
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
 * [Greenplum Database ![GitHub Repo Stars](https://img.shields.io/github/stars/greenplum-db/gpdb) ![GitHub last commit](https://img.shields.io/github/last-commit/greenplum-db/gpdb)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+* [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 * [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
 ### Monitoring
@@ -151,6 +153,7 @@ For Database Management
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 
 ### Optimization
+* [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [pg_flame ![GitHub Repo Stars](https://img.shields.io/github/stars/mgartner/pg_flame) ![GitHub last commit](https://img.shields.io/github/last-commit/mgartner/pg_flame)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/pghero) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/pghero)](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
@@ -233,6 +236,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 * [OVHcloud Cloud Databases](https://www.ovhcloud.com/en/public-cloud/databases/) - Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.
 * [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
+* [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 * [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
