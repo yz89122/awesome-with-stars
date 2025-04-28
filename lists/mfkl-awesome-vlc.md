@@ -32,13 +32,14 @@ This is a list of awesome resources about VLC and LibVLC.
 - [vlc-win10smtc ![GitHub Repo Stars](https://img.shields.io/github/stars/spmn/vlc-win10smtc) ![GitHub last commit](https://img.shields.io/github/last-commit/spmn/vlc-win10smtc)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 - [vlc-mixer ![GitHub Repo Stars](https://img.shields.io/github/stars/lachie/vlc-mixer) ![GitHub last commit](https://img.shields.io/github/last-commit/lachie/vlc-mixer)](https://github.com/lachie/vlc-mixer) - Audio mixer VLC plugin written in Zig.
 
-## VLC lua extensions
+## VLC web & lua extensions
 
 - [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
 - [vlc-delete ![GitHub Repo Stars](https://img.shields.io/github/stars/surrim/vlc-delete) ![GitHub last commit](https://img.shields.io/github/last-commit/surrim/vlc-delete)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
 - [TraktForVLC ![GitHub Repo Stars](https://img.shields.io/github/stars/XaF/TraktForVLC) ![GitHub last commit](https://img.shields.io/github/last-commit/XaF/TraktForVLC)](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
 - [playlist-youtube-vlc ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstraxt-AA/playlist-youtube-vlc) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstraxt-AA/playlist-youtube-vlc)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 - [vlc-super-skipper ![GitHub Repo Stars](https://img.shields.io/github/stars/Trevelopment/vlc-super-skipper) ![GitHub last commit](https://img.shields.io/github/last-commit/Trevelopment/vlc-super-skipper)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
+- [vlc-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/piebro/vlc-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/piebro/vlc-mcp-server)](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 
 ## Apps
 
