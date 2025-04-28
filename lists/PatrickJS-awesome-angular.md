@@ -1033,7 +1033,8 @@ become an Angular expert.
 * [vitest](https://vitest.dev/) - A Vite-native testing framework.
 * [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.  Works with Jest and Vitest.
 * [swc-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
-* [swc-angular-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.  
+* [swc-angular-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/jscutlery/devkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jscutlery/devkit)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
+* [wdio-harness ![GitHub Repo Stars](https://img.shields.io/github/stars/badisi/wdio-harness) ![GitHub last commit](https://img.shields.io/github/last-commit/badisi/wdio-harness)](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 
 ##### Guides
 
@@ -1449,6 +1450,7 @@ become an Angular expert.
 * [DynamicAngularForm ![GitHub Repo Stars](https://img.shields.io/github/stars/Brrake/DynamicAngularForm) ![GitHub last commit](https://img.shields.io/github/last-commit/Brrake/DynamicAngularForm)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 * [dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/dynamic-forms/dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/dynamic-forms/dynamic-forms)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 * [json-forms-zorro-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/wojtek1150/json-forms-zorro-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/wojtek1150/json-forms-zorro-wrapper)](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
+* [ngx-formwork ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formwork) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNordicOne/ngx-formwork)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
 
 ##### Validation
 
