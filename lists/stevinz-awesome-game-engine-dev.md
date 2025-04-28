@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Chipmunk ![GitHub Repo Stars](https://img.shields.io/github/stars/slembcke/Chipmunk2D) ![GitHub last commit](https://img.shields.io/github/last-commit/slembcke/Chipmunk2D)](https://github.com/slembcke/Chipmunk2D) - Fast, lightweight 2D game physics library. [[Docs](https://chipmunk-physics.net/documentation.php)]
 - C: Scripting
     - 🎉 [Duktape ![GitHub Repo Stars](https://img.shields.io/github/stars/svaarala/duktape) ![GitHub last commit](https://img.shields.io/github/last-commit/svaarala/duktape)](https://github.com/svaarala/duktape) - Embeddable JavaScript engine with a focus on portability and compact footprint.
-    - ���� [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
+    - 🎉 [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
     - 🎉 [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
     - 🎉 [QuickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/bellard/quickjs) ![GitHub last commit](https://img.shields.io/github/last-commit/bellard/quickjs)](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
 
