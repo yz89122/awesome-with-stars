@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Chipmunk ![GitHub Repo Stars](https://img.shields.io/github/stars/slembcke/Chipmunk2D) ![GitHub last commit](https://img.shields.io/github/last-commit/slembcke/Chipmunk2D)](https://github.com/slembcke/Chipmunk2D) - Fast, lightweight 2D game physics library. [[Docs](https://chipmunk-physics.net/documentation.php)]
 - C: Scripting
     - 🎉 [Duktape ![GitHub Repo Stars](https://img.shields.io/github/stars/svaarala/duktape) ![GitHub last commit](https://img.shields.io/github/last-commit/svaarala/duktape)](https://github.com/svaarala/duktape) - Embeddable JavaScript engine with a focus on portability and compact footprint.
-    - 🎉 [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
+    - ���� [JerryScript ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryscript-project/jerryscript) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryscript-project/jerryscript)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
     - 🎉 [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/lua/lua) ![GitHub last commit](https://img.shields.io/github/last-commit/lua/lua)](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
     - 🎉 [QuickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/bellard/quickjs) ![GitHub last commit](https://img.shields.io/github/last-commit/bellard/quickjs)](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
 
@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: App Framework
     - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
-    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) ��� - Cross-platform access to windowing, graphics, audio and networking.
+    - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -483,7 +483,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Wicked Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/turanszkij/WickedEngine)](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
 - C++: Gui
     - 🎉 [Crazy Eddie's GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/cegui/cegui) ![GitHub last commit](https://img.shields.io/github/last-commit/cegui/cegui)](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
-    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
+    - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) �� - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
