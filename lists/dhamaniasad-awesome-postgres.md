@@ -65,8 +65,8 @@
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
 * [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
-
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
+* [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
@@ -103,7 +103,6 @@
 * [pgsh ![GitHub Repo Stars](https://img.shields.io/github/stars/sastraxi/pgsh) ![GitHub last commit](https://img.shields.io/github/last-commit/sastraxi/pgsh)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/fphilipe/psql2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/fphilipe/psql2csv)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
-* [nancy](https://gitlab.com/postgres-ai/nancy) - The Nancy CLI is a unified way to manage automated database experiments either in clouds or on-premise
 * [schemaspy ![GitHub Repo Stars](https://img.shields.io/github/stars/schemaspy/schemaspy) ![GitHub last commit](https://img.shields.io/github/last-commit/schemaspy/schemaspy)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Server
@@ -119,6 +118,8 @@
 ### Monitoring
 * [check\_pgactivity ![GitHub Repo Stars](https://img.shields.io/github/stars/OPMDG/check_pgactivity) ![GitHub last commit](https://img.shields.io/github/last-commit/OPMDG/check_pgactivity)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
 * [Check\_postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/bucardo/check_postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/bucardo/check_postgres)](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
+* [coroot ![GitHub Repo Stars](https://img.shields.io/github/stars/coroot/coroot) ![GitHub last commit](https://img.shields.io/github/last-commit/coroot/coroot)](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Powered by eBPF for rapid insights into system performance.
+* [Datadog](https://www.datadoghq.com/product/database-monitoring/) - SaaS monitoring that collects and visualizes metrics, queries, and explain plans, and sends alerts when problems are encountered (Commercial Software).
 * [Instrumental ![GitHub Repo Stars](https://img.shields.io/github/stars/Instrumental/instrumentald) ![GitHub last commit](https://img.shields.io/github/last-commit/Instrumental/instrumentald)](https://github.com/Instrumental/instrumentald) - Real-time performance monitoring, including [pre-made graphs](https://instrumentalapp.com/docs/instrumentald/postgresql#suggested-graphs) for ease of setup (Commercial Software)
 * [libzbxpgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/cavaliercoder/libzbxpgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/cavaliercoder/libzbxpgsql)](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
 * [PMM ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/pmm) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/pmm)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
@@ -135,6 +136,7 @@
 
 ### Extensions
 * [AGE ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/age) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/age)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+* [OrioleDB](https://www.orioledb.com/) - The cloud-native storage engine for PostgreSQL. OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines.
 * [Citus ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/citus) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/citus)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/cstore_fdw) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/cstore_fdw)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
@@ -163,6 +165,7 @@
 * [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
+* [ParadeDB ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
@@ -182,6 +185,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
 * [bemi ![GitHub Repo Stars](https://img.shields.io/github/stars/BemiHQ/bemi) ![GitHub last commit](https://img.shields.io/github/last-commit/BemiHQ/bemi)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 * [ERAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexis-benoist/eralchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexis-benoist/eralchemy)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
+* [GatewayD ![GitHub Repo Stars](https://img.shields.io/github/stars/gatewayd-io/gatewayd) ![GitHub last commit](https://img.shields.io/github/last-commit/gatewayd-io/gatewayd)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 * [Hasura GraphQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 * [ldap2pg ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/ldap2pg) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/ldap2pg)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [migra ![GitHub Repo Stars](https://img.shields.io/github/stars/djrobstep/migra) ![GitHub last commit](https://img.shields.io/github/last-commit/djrobstep/migra)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
@@ -258,6 +262,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 * [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+* [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
@@ -329,9 +334,10 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Community
 * [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.
 * [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with over 12000 users
-* [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with over 7000 users
+* [Slack](https://pgtreats.info/slack-invite) - Slack workspace for Postgres with over 20k members
 * Telegram - Several groups for PostgreSQL in different languages: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) ~1000 people, [English](https://t.me/postgreschat) >750 people
 * [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
+* [Discord](https://discord.gg/bW2hsax8We) - A Discord server for Postgres with over 6k members
 
 ### Roadmaps
 * [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
