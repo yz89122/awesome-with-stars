@@ -67,15 +67,12 @@
 * [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
 
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
-* [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 * [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
-* [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
-For Database Management
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
@@ -116,6 +113,9 @@ For Database Management
 * [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 * [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
+### Security
+* [Acra ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/acra) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/acra)](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+
 ### Monitoring
 * [check\_pgactivity ![GitHub Repo Stars](https://img.shields.io/github/stars/OPMDG/check_pgactivity) ![GitHub last commit](https://img.shields.io/github/last-commit/OPMDG/check_pgactivity)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
 * [Check\_postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/bucardo/check_postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/bucardo/check_postgres)](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
@@ -146,6 +146,7 @@ For Database Management
 * [pg\_partman ![GitHub Repo Stars](https://img.shields.io/github/stars/pgpartman/pg_partman) ![GitHub last commit](https://img.shields.io/github/last-commit/pgpartman/pg_partman)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_paxos) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_paxos)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 * [pg\_shard ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_shard) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_shard)](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
+* [pg\_stat\_monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/pg_stat_monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/pg_stat_monitor)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions
 * [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
@@ -229,7 +230,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Elixir: [postgrex ![GitHub Repo Stars](https://img.shields.io/github/stars/elixir-ecto/postgrex) ![GitHub last commit](https://img.shields.io/github/last-commit/elixir-ecto/postgrex)](https://github.com/elixir-ecto/postgrex)
 * Go: [pq ![GitHub Repo Stars](https://img.shields.io/github/stars/lib/pq) ![GitHub last commit](https://img.shields.io/github/last-commit/lib/pq)](https://github.com/lib/pq), [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/jackc/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/jackc/pgx)](https://github.com/jackc/pgx)
 * Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
-* Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+* Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/), [Vert.x PostgreSQL Client](https://vertx.io/docs/vertx-pg-client/java/)
 * .Net/.Net Core: [Npgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/npgsql/npgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/npgsql/npgsql)](https://github.com/npgsql/npgsql)
 * Node: [node-postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/brianc/node-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/brianc/node-postgres)](https://github.com/brianc/node-postgres), [pg-promise ![GitHub Repo Stars](https://img.shields.io/github/stars/vitaly-t/pg-promise) ![GitHub last commit](https://img.shields.io/github/last-commit/vitaly-t/pg-promise)](https://github.com/vitaly-t/pg-promise), [pogi ![GitHub Repo Stars](https://img.shields.io/github/stars/holdfenytolvaj/pogi) ![GitHub last commit](https://img.shields.io/github/last-commit/holdfenytolvaj/pogi)](https://github.com/holdfenytolvaj/pogi), [slonik ![GitHub Repo Stars](https://img.shields.io/github/stars/gajus/slonik) ![GitHub last commit](https://img.shields.io/github/last-commit/gajus/slonik)](https://github.com/gajus/slonik), [postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/porsager/postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/porsager/postgres)](https://github.com/porsager/postgres)
 * Perl: [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
@@ -283,6 +284,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) - Set of posts on PostgreSQL cool features, tips and tricks.
 * [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog.
 * [Michael Paquier's blog](https://paquier.xyz/)
+* [Percona's PostgreSQL blog posts](https://www.percona.com/blog/category/postgresql/)
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
