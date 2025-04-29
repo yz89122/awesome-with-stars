@@ -1,6 +1,6 @@
 # Awesome QR Code [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/make-github-pseudonymous-again/awesome-qr-code/raw/main/repo-link.svg" align="right" width="100"> ![GitHub Repo Stars](https://img.shields.io/github/stars/make-github-pseudonymous-again/awesome-qr-code) ![GitHub last commit](https://img.shields.io/github/last-commit/make-github-pseudonymous-again/awesome-qr-code)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme)
+[<img src="https://github.com/make-github-pseudonymous-again/awesome-qr-code/raw/master/repo-link.svg" align="right" width="100"> ![GitHub Repo Stars](https://img.shields.io/github/stars/make-github-pseudonymous-again/awesome-qr-code) ![GitHub last commit](https://img.shields.io/github/last-commit/make-github-pseudonymous-again/awesome-qr-code)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme)
 
 A curated list of awesome QR code libraries, software and resources.
 
