@@ -132,6 +132,8 @@ Run `brew install qlvideo` or [download manually ![GitHub Repo Stars](https://im
 
 Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898).
 
+*The app is abandoned and buggy, but still functional.*
+
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Peek.png)](https://bigzlabs.com/peek)
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰
