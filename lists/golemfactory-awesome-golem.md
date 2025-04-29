@@ -1,6 +1,6 @@
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/golemfactory/awesome-golem) ![GitHub last commit](https://img.shields.io/github/last-commit/golemfactory/awesome-golem)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
-[<img src="https://github.com/golemfactory/awesome-golem/raw/master/golem-logo.svg" align="right" width="150">](https://golem.network/)
+[<img src="https://github.com/golemfactory/awesome-golem/raw/main/golem-logo.svg" align="right" width="150">](https://golem.network/)
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem!
 
