@@ -131,6 +131,7 @@ For Database Management
 * [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 * [dexter ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/dexter) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/dexter)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 * [pg_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/Vonng/pg_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/Vonng/pg_exporter)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+* [postgres_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/wrouesnel/postgres_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/wrouesnel/postgres_exporter)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Extensions
 * [AGE ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/age) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/age)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
@@ -181,6 +182,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ERAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexis-benoist/eralchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexis-benoist/eralchemy)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [Hasura GraphQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 * [ldap2pg ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/ldap2pg) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/ldap2pg)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+* [migra ![GitHub Repo Stars](https://img.shields.io/github/stars/djrobstep/migra) ![GitHub last commit](https://img.shields.io/github/last-commit/djrobstep/migra)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
 * [mysql-postgresql-converter ![GitHub Repo Stars](https://img.shields.io/github/stars/lanyrd/mysql-postgresql-converter) ![GitHub last commit](https://img.shields.io/github/last-commit/lanyrd/mysql-postgresql-converter)](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/pg_activity) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/pg_activity)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
@@ -210,13 +212,16 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ZSON ![GitHub Repo Stars](https://img.shields.io/github/stars/postgrespro/zson) ![GitHub last commit](https://img.shields.io/github/last-commit/postgrespro/zson)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 * [pg_migrate ![GitHub Repo Stars](https://img.shields.io/github/stars/jwdeitch/pg_migrate) ![GitHub last commit](https://img.shields.io/github/last-commit/jwdeitch/pg_migrate)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+* [pg_timetable ![GitHub Repo Stars](https://img.shields.io/github/stars/cybertec-postgresql/pg_timetable) ![GitHub last commit](https://img.shields.io/github/last-commit/cybertec-postgresql/pg_timetable)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
 * [sqitch ![GitHub Repo Stars](https://img.shields.io/github/stars/sqitchers/sqitch) ![GitHub last commit](https://img.shields.io/github/last-commit/sqitchers/sqitch)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate ![GitHub Repo Stars](https://img.shields.io/github/stars/yandex/pgmigrate) ![GitHub last commit](https://img.shields.io/github/last-commit/yandex/pgmigrate)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp ![GitHub Repo Stars](https://img.shields.io/github/stars/cbbrowne/pgcmp) ![GitHub last commit](https://img.shields.io/github/last-commit/cbbrowne/pgcmp)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [pg-differ ![GitHub Repo Stars](https://img.shields.io/github/stars/multum/pg-differ) ![GitHub last commit](https://img.shields.io/github/last-commit/multum/pg-differ)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
 * [sqlcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/jarulraj/sqlcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jarulraj/sqlcheck)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
+* [Pyrseas ![GitHub Repo Stars](https://img.shields.io/github/stars/perseas/Pyrseas) ![GitHub last commit](https://img.shields.io/github/last-commit/perseas/Pyrseas)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software). 
+* [planter][https://github.com/achiku/planter] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ### Language bindings
 * Common Lisp: [Postmodern ![GitHub Repo Stars](https://img.shields.io/github/stars/marijnh/Postmodern) ![GitHub last commit](https://img.shields.io/github/last-commit/marijnh/Postmodern)](https://github.com/marijnh/Postmodern)
@@ -269,6 +274,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [postgresDBSamples ![GitHub Repo Stars](https://img.shields.io/github/stars/morenoh149/postgresDBSamples) ![GitHub last commit](https://img.shields.io/github/last-commit/morenoh149/postgresDBSamples)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 * [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - A collection of the most common commands used in PostgreSQL
 * [pg-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/dataegret/pg-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/dataegret/pg-utils)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+* [pagila ![GitHub Repo Stars](https://img.shields.io/github/stars/xzilla/pagila) ![GitHub last commit](https://img.shields.io/github/last-commit/xzilla/pagila)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
