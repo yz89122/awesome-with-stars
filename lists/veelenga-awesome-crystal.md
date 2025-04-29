@@ -161,6 +161,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Code Analysis and Metrics
  * [ameba ![GitHub Repo Stars](https://img.shields.io/github/stars/crystal-ameba/ameba) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-ameba/ameba)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+ * [cruml ![GitHub Repo Stars](https://img.shields.io/github/stars/tamdaz/cruml) ![GitHub last commit](https://img.shields.io/github/last-commit/tamdaz/cruml)](https://github.com/tamdaz/cruml) - A tool that provides an UML class diagram generator for any Crystal projects
  * [linguist.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/microgit-com/linguist.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/microgit-com/linguist.cr)](https://github.com/microgit-com/linguist.cr) - Using multiple ways to find programming language used in files, based on Github's Linguist
 
 ## Compression
