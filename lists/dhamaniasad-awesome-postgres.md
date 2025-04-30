@@ -33,8 +33,10 @@
     - [Videos](#videos)
     - [Community](#community)
     - [Roadmaps](#roadmaps)
+    - [External lists](#external-lists)
 
 ### High-Availability
+* [autobase ![GitHub Repo Stars](https://img.shields.io/github/stars/vitabaks/autobase) ![GitHub last commit](https://img.shields.io/github/last-commit/vitabaks/autobase)](https://github.com/vitabaks/autobase) - Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 * [BDR ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndQuadrant/bdr) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndQuadrant/bdr)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 * [Patroni ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/patroni) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/patroni)](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
 * [Stolon ![GitHub Repo Stars](https://img.shields.io/github/stars/sorintlab/stolon) ![GitHub last commit](https://img.shields.io/github/last-commit/sorintlab/stolon)](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration.
@@ -55,6 +57,7 @@
 * [wal-e ![GitHub Repo Stars](https://img.shields.io/github/stars/wal-e/wal-e) ![GitHub last commit](https://img.shields.io/github/last-commit/wal-e/wal-e)](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
 * [wal-g ![GitHub Repo Stars](https://img.shields.io/github/stars/wal-g/wal-g) ![GitHub last commit](https://img.shields.io/github/last-commit/wal-g/wal-g)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 * [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
+* [pgbackup-sidecar ![GitHub Repo Stars](https://img.shields.io/github/stars/Musab520/pgbackup-sidecar) ![GitHub last commit](https://img.shields.io/github/last-commit/Musab520/pgbackup-sidecar)](https://github.com/Musab520/pgbackup-sidecar) - `pgbackup-sidecar` is a lightweight Docker sidecar container designed to automate regular backups of a PostgreSQL database using `pg_dump`, `cron`, and bash scripts while also sending output to a webhook.
 
 ### GUI
 * [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
@@ -140,7 +143,7 @@
 * [Citus ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/citus) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/citus)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/cstore_fdw) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/cstore_fdw)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
-* [pg_analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+* [pg_analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/pg_analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/pg_analytics)](https://github.com/paradedb/pg_analytics) - pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 * [pg_lakehouse ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) - pg_lakehouse is an extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
 * [pg_search ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [pg_cron ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_cron) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_cron)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
@@ -207,6 +210,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgMonitor ![GitHub Repo Stars](https://img.shields.io/github/stars/CrunchyData/pgmonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/CrunchyData/pgmonitor)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgspot ![GitHub Repo Stars](https://img.shields.io/github/stars/timescale/pgspot) ![GitHub last commit](https://img.shields.io/github/last-commit/timescale/pgspot)](https://github.com/timescale/pgspot) - Spot vulnerabilities in PostgreSQL extension scripts.
+* [pg-spot-operator ![GitHub Repo Stars](https://img.shields.io/github/stars/pg-spot-ops/pg-spot-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/pg-spot-ops/pg-spot-operator)](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
 * [pgsync ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/pgsync) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/pgsync)](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client ![GitHub Repo Stars](https://img.shields.io/github/stars/pgxn/pgxnclient) ![GitHub last commit](https://img.shields.io/github/last-commit/pgxn/pgxnclient)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/postgresql-metrics) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/postgresql-metrics)](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
@@ -228,6 +232,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Pyrseas ![GitHub Repo Stars](https://img.shields.io/github/stars/perseas/Pyrseas) ![GitHub last commit](https://img.shields.io/github/last-commit/perseas/Pyrseas)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software). 
 * [planter][https://github.com/achiku/planter] - Generate PlantUML ER diagram textual description from PostgreSQL tables
+* [pgroll ![GitHub Repo Stars](https://img.shields.io/github/stars/xataio/pgroll) ![GitHub last commit](https://img.shields.io/github/last-commit/xataio/pgroll)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 
 ### Language bindings
 * Common Lisp: [Postmodern ![GitHub Repo Stars](https://img.shields.io/github/stars/marijnh/Postmodern) ![GitHub last commit](https://img.shields.io/github/last-commit/marijnh/Postmodern)](https://github.com/marijnh/Postmodern)
@@ -241,7 +246,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Perl: [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ![GitHub Repo Stars](https://img.shields.io/github/stars/m6w6/ext-pq) ![GitHub last commit](https://img.shields.io/github/last-commit/m6w6/ext-pq)](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-* R: [RPostgreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/tomoakin/RPostgreSQL) ![GitHub last commit](https://img.shields.io/github/last-commit/tomoakin/RPostgreSQL)](https://github.com/tomoakin/RPostgreSQL)
+* R: [RPostgres ![GitHub Repo Stars](https://img.shields.io/github/stars/r-dbi/RPostgres) ![GitHub last commit](https://img.shields.io/github/last-commit/r-dbi/RPostgres)](https://github.com/r-dbi/RPostgres), [RPostgreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/tomoakin/RPostgreSQL) ![GitHub last commit](https://img.shields.io/github/last-commit/tomoakin/RPostgreSQL)](https://github.com/tomoakin/RPostgreSQL)
 * Ruby: [pg ![GitHub Repo Stars](https://img.shields.io/github/stars/ged/ruby-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/ged/ruby-pg)](https://github.com/ged/ruby-pg)
 * Rust: [rust-postgresql ![GitHub Repo Stars](https://img.shields.io/github/stars/sfackler/rust-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/sfackler/rust-postgres)](https://github.com/sfackler/rust-postgres), [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/tcdi/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/tcdi/pgx)](https://github.com/tcdi/pgx), [wtx ![GitHub Repo Stars](https://img.shields.io/github/stars/c410-f3r/wtx) ![GitHub last commit](https://img.shields.io/github/last-commit/c410-f3r/wtx)](https://github.com/c410-f3r/wtx)
 * Lua: [luapgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/arcapos/luapgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/arcapos/luapgsql)](https://github.com/arcapos/luapgsql)
@@ -341,3 +346,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Roadmaps
 * [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
+
+### External lists
+* [Wikipedia admin tools list](https://en.wikipedia.org/wiki/Comparison_of_database_tools) - Comparison of database administration tools on Wikipedia
+* [PostgreSQL Wiki GUI tools list](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - Community Guide to PostgreSQL GUI Tools
