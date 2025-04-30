@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="605" height="495" src="https://github.com/stevesong/awesome-connectivity-info/raw/master/images/awesome-connectivity-logo.svg" alt="Awesome Connectivity Logo">
+  <img width="605" height="495" src="https://github.com/stevesong/awesome-connectivity-info/raw/main/images/awesome-connectivity-logo.svg" alt="Awesome Connectivity Logo">
   <br>
   <sup>Inspired by Sindre Sorhus's <a href="https://awesome.re">awesome list</a> of awesome lists</sup>
   <br>
