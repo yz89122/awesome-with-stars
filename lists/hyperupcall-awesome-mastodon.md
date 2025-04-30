@@ -1,6 +1,6 @@
 # Awesome Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit from toc -->
 
-[<img src="https://github.com/hyperupcall/awesome-mastodon/raw/master/assets/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org/)
+[<img src="https://github.com/hyperupcall/awesome-mastodon/raw/main/assets/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org/)
 
 Mastodon is the world's largest free, open-source, decentralized microblogging network.
 
