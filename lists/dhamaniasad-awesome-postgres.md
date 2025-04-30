@@ -24,6 +24,7 @@
     - [Language bindings](#language-bindings)
     - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
     - [Docker images](#docker-images)
+    - [Kubernetes](#kubernetes)
 - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
@@ -173,6 +174,7 @@
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
+* [PEV2 ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/pev2) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/pev2)](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
 * [pg_flame ![GitHub Repo Stars](https://img.shields.io/github/stars/mgartner/pg_flame) ![GitHub last commit](https://img.shields.io/github/last-commit/mgartner/pg_flame)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/pghero) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/pghero)](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
@@ -244,6 +246,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Go: [pq ![GitHub Repo Stars](https://img.shields.io/github/stars/lib/pq) ![GitHub last commit](https://img.shields.io/github/last-commit/lib/pq)](https://github.com/lib/pq), [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/jackc/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/jackc/pgx)](https://github.com/jackc/pgx), [go-pg ![GitHub Repo Stars](https://img.shields.io/github/stars/go-pg/pg) ![GitHub last commit](https://img.shields.io/github/last-commit/go-pg/pg)](https://github.com/go-pg/pg)
 * Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/), [Vert.x PostgreSQL Client](https://vertx.io/docs/vertx-pg-client/java/)
+* Lua: [luapgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/arcapos/luapgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/arcapos/luapgsql)](https://github.com/arcapos/luapgsql)
 * .Net/.Net Core: [Npgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/npgsql/npgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/npgsql/npgsql)](https://github.com/npgsql/npgsql)
 * Node: [node-postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/brianc/node-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/brianc/node-postgres)](https://github.com/brianc/node-postgres), [pg-promise ![GitHub Repo Stars](https://img.shields.io/github/stars/vitaly-t/pg-promise) ![GitHub last commit](https://img.shields.io/github/last-commit/vitaly-t/pg-promise)](https://github.com/vitaly-t/pg-promise), [pogi ![GitHub Repo Stars](https://img.shields.io/github/stars/holdfenytolvaj/pogi) ![GitHub last commit](https://img.shields.io/github/last-commit/holdfenytolvaj/pogi)](https://github.com/holdfenytolvaj/pogi), [slonik ![GitHub Repo Stars](https://img.shields.io/github/stars/gajus/slonik) ![GitHub last commit](https://img.shields.io/github/last-commit/gajus/slonik)](https://github.com/gajus/slonik), [postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/porsager/postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/porsager/postgres)](https://github.com/porsager/postgres)
 * Perl: [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
@@ -252,7 +255,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * R: [RPostgres ![GitHub Repo Stars](https://img.shields.io/github/stars/r-dbi/RPostgres) ![GitHub last commit](https://img.shields.io/github/last-commit/r-dbi/RPostgres)](https://github.com/r-dbi/RPostgres), [RPostgreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/tomoakin/RPostgreSQL) ![GitHub last commit](https://img.shields.io/github/last-commit/tomoakin/RPostgreSQL)](https://github.com/tomoakin/RPostgreSQL)
 * Ruby: [pg ![GitHub Repo Stars](https://img.shields.io/github/stars/ged/ruby-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/ged/ruby-pg)](https://github.com/ged/ruby-pg)
 * Rust: [rust-postgresql ![GitHub Repo Stars](https://img.shields.io/github/stars/sfackler/rust-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/sfackler/rust-postgres)](https://github.com/sfackler/rust-postgres), [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/tcdi/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/tcdi/pgx)](https://github.com/tcdi/pgx), [wtx ![GitHub Repo Stars](https://img.shields.io/github/stars/c410-f3r/wtx) ![GitHub last commit](https://img.shields.io/github/last-commit/c410-f3r/wtx)](https://github.com/c410-f3r/wtx)
-* Lua: [luapgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/arcapos/luapgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/arcapos/luapgsql)](https://github.com/arcapos/luapgsql)
+* TypeScript: [zapatos ![GitHub Repo Stars](https://img.shields.io/github/stars/jawj/zapatos) ![GitHub last commit](https://img.shields.io/github/last-commit/jawj/zapatos)](https://github.com/jawj/zapatos)
 * Zig: [pg.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/pg.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/pg.zig)](https://github.com/karlseguin/pg.zig)
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -277,6 +280,15 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
 * [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg_search and pg_analytics Postgres extensions.
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
+
+### Kubernetes
+* [Crunchy Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/CrunchyData/postgres-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/CrunchyData/postgres-operator)](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+* [Fujitsu Enterprise Postgres for Kubernetes](https://www.postgresql.fastware.com/) - Enterprise-grade PostgreSQL on OpenShift Container Platform (Commercial Software).
+* [Kubegres Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/reactive-tech/kubegres) ![GitHub last commit](https://img.shields.io/github/last-commit/reactive-tech/kubegres)](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
+* [StackGres Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/ongres/stackgres) ![GitHub last commit](https://img.shields.io/github/last-commit/ongres/stackgres)](https://github.com/ongres/stackgres/) -  Full Stack PostgreSQL on Kubernetes.
+* [Zalando Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/postgres-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/postgres-operator)](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
+* [CloudNativePG operator ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnative-pg/cloudnative-pg)](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
+* [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
 
 ## Resources
 
@@ -353,3 +365,4 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### External lists
 * [Wikipedia admin tools list](https://en.wikipedia.org/wiki/Comparison_of_database_tools) - Comparison of database administration tools on Wikipedia
 * [PostgreSQL Wiki GUI tools list](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - Community Guide to PostgreSQL GUI Tools
+* [PostgreSQL Wiki Foreign Data Wrappers list](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign data wrappers

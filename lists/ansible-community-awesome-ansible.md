@@ -1,6 +1,6 @@
 # Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable double-link-->
-[<img src="https://github.com/ansible-community/awesome-ansible/raw/master/ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
+[<img src="https://github.com/ansible-community/awesome-ansible/raw/main/ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
 This is a collaborative community curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
