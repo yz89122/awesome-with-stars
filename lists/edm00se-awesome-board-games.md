@@ -1,6 +1,6 @@
 <!--lint disable no-repeat-punctuation match-punctuation awesome-heading awesome-github awesome-git-repo-age-->
 <div align="center">
-  <img src="https://github.com/edm00se/awesome-board-games/raw/master/assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
+  <img src="https://github.com/edm00se/awesome-board-games/raw/main/assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
   <br />
   <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>
 </div>
@@ -2918,4 +2918,4 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
 
-[contrib-guide]: https://github.com/edm00se/awesome-board-games/raw/master/contributing.md
+[contrib-guide]: https://github.com/edm00se/awesome-board-games/raw/main/contributing.md
