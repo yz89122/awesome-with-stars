@@ -150,6 +150,7 @@
 * [pg_search ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [pg_cron ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_cron) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_cron)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndQuadrant/pglogical) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndQuadrant/pglogical)](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
+* [pg\_barcode ![GitHub Repo Stars](https://img.shields.io/github/stars/btouchard/pg_barcode) ![GitHub last commit](https://img.shields.io/github/last-commit/btouchard/pg_barcode)](https://github.com/btouchard/pg_barcode/) - PostgreSQL SVG QRcode & Datamatrix generator.
 * [pg\_partman ![GitHub Repo Stars](https://img.shields.io/github/stars/pgpartman/pg_partman) ![GitHub last commit](https://img.shields.io/github/last-commit/pgpartman/pg_partman)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_paxos) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_paxos)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 * [pg\_shard ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_shard) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_shard)](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
@@ -294,6 +295,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
+* [Operations cheat sheet](https://wiki.postgresql.org/wiki/Operations_cheat_sheet) - Operations cheat sheet from PostgreSQL Wiki.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
@@ -328,6 +330,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
+* [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - A free e-book by Hironobu Suzuki
+* [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) - A free e-book by Egor Rogov
 
 
 ### Documentation

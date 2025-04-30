@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -216,7 +216,7 @@
 - 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
 - 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
-- �� [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
+- 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
@@ -263,7 +263,7 @@
 - 🚀 [Tailwind CSS Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/michelegera/create-tailwindcss-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/michelegera/create-tailwindcss-boilerplate)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/tailwind-jekyll) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/tailwind-jekyll)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/mhanberg/jekyll-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/mhanberg/jekyll-tailwind-starter)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
-- ��� [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
+- 🚀 [Jekyll Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/shenlu89/jekyll-tailwindcss-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/shenlu89/jekyll-tailwindcss-starter)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
 - 🚀 [Gulp Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/simonswiss/tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/simonswiss/tailwind-starter)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
 - 🚀 [Gatsby Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/taylorbryant/gatsby-starter-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/taylorbryant/gatsby-starter-tailwind)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
 - 🚀 [Gatsby Starter Simplicity ![GitHub Repo Stars](https://img.shields.io/github/stars/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
