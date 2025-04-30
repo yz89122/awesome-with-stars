@@ -1,6 +1,6 @@
 # Awesome BLE [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-![](https://github.com/dotintent/awesome-ble/raw/master/.github/awesome-ble.png)
+![](https://github.com/dotintent/awesome-ble/raw/main/.github/awesome-ble.png)
 
 **Bluetooth Low Energy (BLE)**: Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
 
