@@ -443,7 +443,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [sweet-monads ![GitHub Repo Stars](https://img.shields.io/github/stars/JSMonk/sweet-monads) ![GitHub last commit](https://img.shields.io/github/last-commit/JSMonk/sweet-monads)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 
 ## Reactive Programming
-*Reactive programming libraries to extend JavaScript��s capabilities.*
+*Reactive programming libraries to extend JavaScript’s capabilities.*
 
 * [RxJS ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/rxjs) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/rxjs)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 * [Bacon ![GitHub Repo Stars](https://img.shields.io/github/stars/baconjs/bacon.js) ![GitHub last commit](https://img.shields.io/github/last-commit/baconjs/bacon.js)](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for JavaScript.
