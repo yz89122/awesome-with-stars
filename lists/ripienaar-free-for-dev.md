@@ -1031,7 +1031,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/tutao/tutanota) ![GitHub last commit](https://img.shields.io/github/last-commit/tutao/tutanota)](https://github.com/tutao/tutanota), so you can self-host.
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
-  * [verimail.io](https://verimail.io/) �� Bulk and API email verification service. 100 free verifications/month
+  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
   * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
      - [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
      - [Zoho Assist](https://www.zoho.com/assist) — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.
@@ -1555,7 +1555,7 @@ Update Time, five active automations, webhooks.
   * [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
   * [Gradientos](https://www.gradientos.app) - Makes choosing a gradient fast and easy.
   * [Icon Horse](https://icon.horse) – Get the highest resolution favicon for any website from our simple API.
-  * [Iconoir](https://iconoir.com) ��� An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+  * [Iconoir](https://iconoir.com) – An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
   * [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
   * [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
   * [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
