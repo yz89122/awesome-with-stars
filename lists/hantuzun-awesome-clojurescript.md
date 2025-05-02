@@ -194,7 +194,7 @@
 
 ### Routing
 - [Bidi ![GitHub Repo Stars](https://img.shields.io/github/stars/juxt/bidi) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/bidi)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
-- [Router ![GitHub Repo Stars](https://img.shields.io/github/stars/darkleaf/router) ![GitHub last commit](https://img.shields.io/github/last-commit/darkleaf/router)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
+- [Router ![GitHub Repo Stars](https://img.shields.io/github/stars/darkleaf/router) ![GitHub last commit](https://img.shields.io/github/last-commit/darkleaf/router)](https://github.com/darkleaf/router) ��� Bidirectional Ring router for Clojure/Script. REST oriented.
 - [Secretary ![GitHub Repo Stars](https://img.shields.io/github/stars/gf3/secretary) ![GitHub last commit](https://img.shields.io/github/last-commit/gf3/secretary)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 - [Silk ![GitHub Repo Stars](https://img.shields.io/github/stars/DomKM/silk) ![GitHub last commit](https://img.shields.io/github/last-commit/DomKM/silk)](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
