@@ -506,6 +506,7 @@ Complete and open source games.
 - [FX Hammer ![GitHub Repo Stars](https://img.shields.io/github/stars/DevEd2/FXHammer-Disasm) ![GitHub last commit](https://img.shields.io/github/last-commit/DevEd2/FXHammer-Disasm)](https://github.com/DevEd2/FXHammer-Disasm)
 - [Harvest Moon 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/sanqui/hm3) ![GitHub last commit](https://img.shields.io/github/last-commit/sanqui/hm3)](https://github.com/sanqui/hm3)
 - [Final Fantasy Adventure ![GitHub Repo Stars](https://img.shields.io/github/stars/daid/FFA-disassembly) ![GitHub last commit](https://img.shields.io/github/last-commit/daid/FFA-disassembly)](https://github.com/daid/FFA-disassembly)
+- [The Jungle Book ![GitHub Repo Stars](https://img.shields.io/github/stars/not-chciken/jungle-book-gb-disassembly) ![GitHub last commit](https://img.shields.io/github/last-commit/not-chciken/jungle-book-gb-disassembly)](https://github.com/not-chciken/jungle-book-gb-disassembly)
 
 ## Game Boy Camera
 
