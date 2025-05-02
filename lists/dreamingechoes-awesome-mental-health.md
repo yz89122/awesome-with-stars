@@ -6,8 +6,6 @@
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
 </p>
 
-Here’s an improved version of your **About** section. I've refined the language for clarity, expanded a few ideas for depth, and aligned the tone to balance care, professionalism, and inclusivity:
-
 ---
 
 ## About
