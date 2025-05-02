@@ -422,8 +422,6 @@ become an Angular expert.
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
 * [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 * [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
-* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
-* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
@@ -432,6 +430,9 @@ become an Angular expert.
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Code Step By Step](https://www.youtube.com/@codestepbystep)
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
+* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
+* [Code with Keys](https://www.youtube.com/@codewithkeys) - (Persian)
 
 ##### Style Guides
 
@@ -568,6 +569,7 @@ become an Angular expert.
 * [angular-env-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/igorissen/angular-env-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/igorissen/angular-env-builder)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 * [angular-rspack ![GitHub Repo Stars](https://img.shields.io/github/stars/nrwl/angular-rspack) ![GitHub last commit](https://img.shields.io/github/last-commit/nrwl/angular-rspack)](https://github.com/nrwl/angular-rspack) - [Rspack ![GitHub Repo Stars](https://img.shields.io/github/stars/web-infra-dev/rspack) ![GitHub last commit](https://img.shields.io/github/last-commit/web-infra-dev/rspack)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
 * [ngx-devkit-builders ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-devkit-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-devkit-builders)](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
+* [angular-static-assets-hash ![GitHub Repo Stars](https://img.shields.io/github/stars/sitelint/angular-static-assets-hash) ![GitHub last commit](https://img.shields.io/github/last-commit/sitelint/angular-static-assets-hash)](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 
 #### CLI
 
@@ -1137,6 +1139,7 @@ become an Angular expert.
 * [angular-calendar-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/oOps1627/angular-calendar-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/oOps1627/angular-calendar-timeline)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 * [ngx-resource-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/by-pinja/ngx-resource-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/by-pinja/ngx-resource-calendar)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
+* [ngx-calendar-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/ngx-calendar-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/ngx-calendar-widget)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 
 #### Captcha
 
