@@ -1140,6 +1140,7 @@ become an Angular expert.
 * [ngx-resource-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/by-pinja/ngx-resource-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/by-pinja/ngx-resource-calendar)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 * [ngx-calendar-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/ngx-calendar-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/ngx-calendar-widget)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+* [ngx-calendario ![GitHub Repo Stars](https://img.shields.io/github/stars/roquemacia/ngx-calendario) ![GitHub last commit](https://img.shields.io/github/last-commit/roquemacia/ngx-calendario)](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
 
 #### Captcha
 
@@ -1404,6 +1405,7 @@ become an Angular expert.
 * [ngx-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/nncl/ngx-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/nncl/ngx-forms)](https://github.com/nncl/ngx-forms) - Collection of Angular form functions, that will help you build your applications.
 * [@klubinskak/ngx-smart-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/klubinskak/ngx-smart-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/klubinskak/ngx-smart-forms)](https://github.com/klubinskak/ngx-smart-forms) - Smart, Signal-powered form state utilities for Angular 17+.
 * [@pixelbyaj/ngx-form ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelbyaj/ngx-form) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelbyaj/ngx-form)](https://github.com/pixelbyaj/ngx-form) - ISO20022 Angular Forms utilizing XSD and XML to facilitate the design of ISO20022 XSD in HTML forms. Additionally, these forms aid in structuring MX messages for HTML representation.
+* [ngx-custom-controls ![GitHub Repo Stars](https://img.shields.io/github/stars/kapilkumar0037/ngx-custom-controls) ![GitHub last commit](https://img.shields.io/github/last-commit/kapilkumar0037/ngx-custom-controls)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
 
 ##### Form Controls
 
