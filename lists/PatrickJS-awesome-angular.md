@@ -1999,6 +1999,7 @@ for the creation of web applications developed with Angular.
 * [FlyonUI ![GitHub Repo Stars](https://img.shields.io/github/stars/themeselection/flyonui) ![GitHub last commit](https://img.shields.io/github/last-commit/themeselection/flyonui)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 * [angular-tailwind-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/quedicesebas/angular-tailwind-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/quedicesebas/angular-tailwind-ui)](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
+* [simui ![GitHub Repo Stars](https://img.shields.io/github/stars/dofu-lab/simui) ![GitHub last commit](https://img.shields.io/github/last-commit/dofu-lab/simui)](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 
 ##### Node Based
 
@@ -2009,6 +2010,7 @@ for the creation of web applications developed with Angular.
 * [ng-primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-primitives/ng-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-primitives/ng-primitives)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 * [primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/primitives)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [ngbase ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-base/ngbase) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-base/ngbase)](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
+* [vacui-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielAlcaraz/vacui-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielAlcaraz/vacui-ui)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 
 #### UX Components
 
