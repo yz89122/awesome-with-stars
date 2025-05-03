@@ -327,7 +327,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw-based research group that studies, among many things, complex networks and other network-related topics.
 -   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
--   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) ��� French research group with funds to support training and workshops on network analysis for social scientists.
+-   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) – French research group with funds to support training and workshops on network analysis for social scientists.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
     -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
     -   [HNR Talks](https://vimeo.com/user11811027) - Videos, in German.
