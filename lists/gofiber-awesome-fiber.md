@@ -116,6 +116,7 @@ List of middlewares that are created by the Fiber community.
 - [zeiss/fiber-htmx ![GitHub Repo Stars](https://img.shields.io/github/stars/ZEISS/fiber-htmx) ![GitHub last commit](https://img.shields.io/github/last-commit/ZEISS/fiber-htmx)](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
 - [jsorb84/ssefiber ![GitHub Repo Stars](https://img.shields.io/github/stars/jsorb84/ssefiber) ![GitHub last commit](https://img.shields.io/github/last-commit/jsorb84/ssefiber)](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
 - [streamerd/fibergun ![GitHub Repo Stars](https://img.shields.io/github/stars/streamerd/fibergun) ![GitHub last commit](https://img.shields.io/github/last-commit/streamerd/fibergun)](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
+- [apitally/apitally-go ![GitHub Repo Stars](https://img.shields.io/github/stars/apitally/apitally-go) ![GitHub last commit](https://img.shields.io/github/last-commit/apitally/apitally-go)](https://github.com/apitally/apitally-go) - Simple API monitoring tool for Fiber. Tracks API usage, errors, and performance, and includes request logging and alerting features.
 
 ## 🚧 Boilerplates
 
