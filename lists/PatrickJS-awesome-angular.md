@@ -1222,6 +1222,7 @@ become an Angular expert.
 * [cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/orestbida/cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 * [ngx-cookiebot ![GitHub Repo Stars](https://img.shields.io/github/stars/halloverden/ngx-cookiebot) ![GitHub last commit](https://img.shields.io/github/last-commit/halloverden/ngx-cookiebot)](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
 * [ngx-cookie-ssr ![GitHub Repo Stars](https://img.shields.io/github/stars/Ask-786/ngx-cookie-ssr) ![GitHub last commit](https://img.shields.io/github/last-commit/Ask-786/ngx-cookie-ssr)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
+* [ngx-gdpr-cookie-consent ![GitHub Repo Stars](https://img.shields.io/github/stars/KoblerS/ngx-gdpr-cookie-consent) ![GitHub last commit](https://img.shields.io/github/last-commit/KoblerS/ngx-gdpr-cookie-consent)](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 
 #### Data Grids
 
