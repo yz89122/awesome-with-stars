@@ -316,7 +316,7 @@ Here is a [CSS in JS techniques comparison ![GitHub Repo Stars](https://img.shie
 * [Kitty Giraudel](https://twitter.com/KittyGiraudel) - Non-binary accessibility & diversity advocate, frontend developer, author.
 * [L. David Baron](https://twitter.com/davidbaron) - Mozilla developer, CSS and W3C standards diplomat.
 * [Lea Verou](https://twitter.com/LeaVerou) - Research Assistant @MIT_CSAIL, @CSSWG IE, @OReillyMedia author, Ex @W3C staff.
-* [Manoela Ilic](https://twitter.com/crnacura) - ...aka Mary Lou @codrops ༶ CSS & HTML are my crayons ༶ Interested in Cognitive Science, AI, HCI, UI Design & Astrophysics �� Digital nomad.
+* [Manoela Ilic](https://twitter.com/crnacura) - ...aka Mary Lou @codrops ༶ CSS & HTML are my crayons ༶ Interested in Cognitive Science, AI, HCI, UI Design & Astrophysics ༶ Digital nomad.
 * [Mark Otto](https://twitter.com/mdo) - GitHub and Bootstrap. Formerly at Twitter. Huge nerd.
 * [Maxime Thirouin](https://twitter.com/MoOx) - Freelance front-end vigilante, UI/UX developer.
 * [Natalie Weizenbaum](https://twitter.com/nex3) - Trans coder lady. Lead designer/developer of @SassCSS, working for @google on @dart_lang.
