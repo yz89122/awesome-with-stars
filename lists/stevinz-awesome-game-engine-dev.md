@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-- ��� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -282,7 +282,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [cgltf ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/cgltf) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/cgltf)](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer in C99.
     - ⭐ [dr_libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/dr_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/dr_libs)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
-    - 🎉 [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
+    - ��� [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
     - 🎉 [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
     - 🎉 [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     - 🎉 [QOI ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/qoi) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/qoi)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
@@ -1032,7 +1032,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Zig: App Framework
     - 🎉 [Upaya ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/zig-upaya) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/zig-upaya)](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.
 - Zig: File System
-    - ���� [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+    - 🎉 [Known Folders ![GitHub Repo Stars](https://img.shields.io/github/stars/ziglibs/known-folders) ![GitHub last commit](https://img.shields.io/github/last-commit/ziglibs/known-folders)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - Zig: Game Engine w/Editor
     - 🎉 [Mach ![GitHub Repo Stars](https://img.shields.io/github/stars/hexops/mach) ![GitHub last commit](https://img.shields.io/github/last-commit/hexops/mach)](https://github.com/hexops/mach) - Game engine & graphics toolkit. [[Examples](https://machengine.org/gpu/)]
 - Zig: Game Framework
