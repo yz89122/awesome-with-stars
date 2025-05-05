@@ -810,6 +810,7 @@ become an Angular expert.
 * [ngx-react ![GitHub Repo Stars](https://img.shields.io/github/stars/ngeenx/ngx-react) ![GitHub last commit](https://img.shields.io/github/last-commit/ngeenx/ngx-react)](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
 * [Bloomreach Angular SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomreach/spa-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomreach/spa-sdk)](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
+* [zero-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sscholle/zero-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sscholle/zero-angular)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
 
 #### Internationalization
 
@@ -2086,6 +2087,7 @@ for the creation of web applications developed with Angular.
 * [angular-compile ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-compile) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-compile)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 * [ngx-error-handling ![GitHub Repo Stars](https://img.shields.io/github/stars/gonzalad/ngx-error-handling) ![GitHub last commit](https://img.shields.io/github/last-commit/gonzalad/ngx-error-handling)](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
+* [ngx-voyage ![GitHub Repo Stars](https://img.shields.io/github/stars/mschn/ngx-voyage) ![GitHub last commit](https://img.shields.io/github/last-commit/mschn/ngx-voyage)](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 
 ---
 
