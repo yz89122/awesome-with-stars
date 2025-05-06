@@ -63,10 +63,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Official Docs
 
-- [Official Site](https://deno.land)
-- [Deno Manual](https://deno.land/manual)
-- [Deno API Reference](https://deno.land/api)
-- [Deno Standard Modules](https://deno.land/std)
+- [Official Site](https://deno.com)
+- [Deno Manual](https://docs.deno.com)
+- [Deno API Reference](https://docs.deno.com/api)
+- [Deno Standard Library](https://jsr.io/@std)
 
 ### External Docs
 
@@ -257,7 +257,6 @@ This list is a collection of the best Deno modules and resources.
 - [rubico ![GitHub Repo Stars](https://img.shields.io/github/stars/richytong/rubico) ![GitHub last commit](https://img.shields.io/github/last-commit/richytong/rubico)](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [solc ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-web3/solc) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-web3/solc)](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 - [switcher4deno ![GitHub Repo Stars](https://img.shields.io/github/stars/switcherapi/switcher-client-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/switcherapi/switcher-client-deno)](https://github.com/switcherapi/switcher-client-deno) - Feature Flag Deno SDK client for Switcher-API.
-- [tryify ![GitHub Repo Stars](https://img.shields.io/github/stars/twilsoft/tryify) ![GitHub last commit](https://img.shields.io/github/last-commit/twilsoft/tryify)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
 - [type-fest ![GitHub Repo Stars](https://img.shields.io/github/stars/denoserverless/type-fest) ![GitHub last commit](https://img.shields.io/github/last-commit/denoserverless/type-fest)](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unified-deno-lock ![GitHub Repo Stars](https://img.shields.io/github/stars/yooneskh/unified-deno-lock) ![GitHub last commit](https://img.shields.io/github/last-commit/yooneskh/unified-deno-lock)](https://github.com/yooneskh/unified-deno-lock) - Powerful and simple lock (mutex) library to handle race conditions with zero dependencies
 - [wasm-gzip ![GitHub Repo Stars](https://img.shields.io/github/stars/manyuanrong/wasm_gzip) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/wasm_gzip)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
@@ -386,13 +385,13 @@ This list is a collection of the best Deno modules and resources.
 - [udd ![GitHub Repo Stars](https://img.shields.io/github/stars/hayd/deno-udd) ![GitHub last commit](https://img.shields.io/github/last-commit/hayd/deno-udd)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [velociraptor ![GitHub Repo Stars](https://img.shields.io/github/stars/umbopepato/velociraptor) ![GitHub last commit](https://img.shields.io/github/last-commit/umbopepato/velociraptor)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 - [vscode-deno ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/vscode_deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/vscode_deno)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
-- [vscode-deno-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/twilsoft/vscode-deno-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/twilsoft/vscode-deno-starter)](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 - [denofn-selfhosted ![GitHub Repo Stars](https://img.shields.io/github/stars/denofn/denofn-selfhosted) ![GitHub last commit](https://img.shields.io/github/last-commit/denofn/denofn-selfhosted)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
 ## Integrations
 
-- [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+- [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+- [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
@@ -452,7 +451,7 @@ This list is a collection of the best Deno modules and resources.
 ### Chinese
 
 - [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
-- [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
+- [玩 Deno 遇到问题的解���方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
