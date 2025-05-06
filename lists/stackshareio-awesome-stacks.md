@@ -332,7 +332,7 @@ The best way to create a versatile and scalable PHP Web Application! It sure wil
 - [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-### FReMP: Flask ReactJS MongoDB Python [���](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
+### FReMP: Flask ReactJS MongoDB Python [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
 
 FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
@@ -386,7 +386,7 @@ Tools to use to monitor your Rails app in production.
 Hosted tools to use to analyze user behavior for a web app.
 
 - [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
-- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [��️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
 - [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 - [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
