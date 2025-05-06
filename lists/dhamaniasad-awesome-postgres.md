@@ -19,6 +19,7 @@
     - [Server](#server)
     - [Monitoring](#monitoring)
     - [Extensions](#extensions)
+    - [Work Queues](#work-queues)
     - [Optimization](#optimization)
     - [Utilities](#utilities)
     - [Language bindings](#language-bindings)
@@ -99,7 +100,6 @@
 
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
-* [PostgreSql.Binaries.Lite ![GitHub Repo Stars](https://img.shields.io/github/stars/mihasic/PostgreSql.Binaries.Lite) ![GitHub last commit](https://img.shields.io/github/last-commit/mihasic/PostgreSql.Binaries.Lite)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 * [Pigsty ![GitHub Repo Stars](https://img.shields.io/github/stars/Vonng/pigsty) ![GitHub last commit](https://img.shields.io/github/last-commit/Vonng/pigsty)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### CLI
@@ -112,10 +112,10 @@
 * [schemaspy ![GitHub Repo Stars](https://img.shields.io/github/stars/schemaspy/schemaspy) ![GitHub last commit](https://img.shields.io/github/last-commit/schemaspy/schemaspy)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Server
-* [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
-* [Greenplum Database ![GitHub Repo Stars](https://img.shields.io/github/stars/greenplum-db/gpdb) ![GitHub last commit](https://img.shields.io/github/last-commit/greenplum-db/gpdb)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+* [Apache Cloudberry ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cloudberry) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cloudberry)](https://github.com/apache/cloudberry) - And MPP PostgreSQL fork. Open source alternative to Greenplum Database.
 * [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
+* [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
 ### Security
@@ -174,6 +174,11 @@
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 * [ParadeDB ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
+
+### Work Queues
+* [BeanQueue ![GitHub Repo Stars](https://img.shields.io/github/stars/LaunchPlatform/bq) ![GitHub last commit](https://img.shields.io/github/last-commit/LaunchPlatform/bq)](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
+* [pgmq ![GitHub Repo Stars](https://img.shields.io/github/stars/pgmq/pgmq) ![GitHub last commit](https://img.shields.io/github/last-commit/pgmq/pgmq)](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+* [river ![GitHub Repo Stars](https://img.shields.io/github/stars/riverqueue/river) ![GitHub last commit](https://img.shields.io/github/last-commit/riverqueue/river)](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
@@ -240,7 +245,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 * [Pyrseas ![GitHub Repo Stars](https://img.shields.io/github/stars/perseas/Pyrseas) ![GitHub last commit](https://img.shields.io/github/last-commit/perseas/Pyrseas)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software). 
-* [planter][https://github.com/achiku/planter] - Generate PlantUML ER diagram textual description from PostgreSQL tables
+* [planter ![GitHub Repo Stars](https://img.shields.io/github/stars/achiku/planter) ![GitHub last commit](https://img.shields.io/github/last-commit/achiku/planter)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 * [pgroll ![GitHub Repo Stars](https://img.shields.io/github/stars/xataio/pgroll) ![GitHub last commit](https://img.shields.io/github/last-commit/xataio/pgroll)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/regresql) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/regresql)](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 
@@ -323,8 +328,6 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Articles
 
-* [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
-* [What PostgreSQL has over other open source SQL databases: Part II](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
 * [the ultimate postgres vs mysql blog post](https://di.nmfay.com/postgres-vs-mysql)
 * [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
