@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -222,6 +222,7 @@
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 - 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
+- 🧩 [8bitcn UI](https://8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 - 🧩 [Indie UI](https://ui.indie-starter.dev) - Rich styled UI components.
 - 🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
 - 🧩 [Motion Primitives](https://motion-primitives.com) - React motion components built with Tailwind CSS and Framer Motion.
