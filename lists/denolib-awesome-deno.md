@@ -112,10 +112,10 @@ This list is a collection of the best Deno modules and resources.
 - [dongoose ![GitHub Repo Stars](https://img.shields.io/github/stars/roonie007/dongoose) ![GitHub last commit](https://img.shields.io/github/last-commit/roonie007/dongoose)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 - [dsddb ![GitHub Repo Stars](https://img.shields.io/github/stars/MaximilianHeidenreich/DsDDB) ![GitHub last commit](https://img.shields.io/github/last-commit/MaximilianHeidenreich/DsDDB)](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso ![GitHub Repo Stars](https://img.shields.io/github/stars/manyuanrong/dso) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/dso)](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+- [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
 - [maxminddb ![GitHub Repo Stars](https://img.shields.io/github/stars/josh-hemphill/maxminddb-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/josh-hemphill/maxminddb-deno)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 - [nessie ![GitHub Repo Stars](https://img.shields.io/github/stars/halvardssm/deno-nessie) ![GitHub last commit](https://img.shields.io/github/last-commit/halvardssm/deno-nessie)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/postgres)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
-- [r2d2 ![GitHub Repo Stars](https://img.shields.io/github/stars/iuioiua/r2d2) ![GitHub last commit](https://img.shields.io/github/last-commit/iuioiua/r2d2)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/redis) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/redis)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/manyuanrong/sql-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/sql-builder)](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [yongo ![GitHub Repo Stars](https://img.shields.io/github/stars/yooneskh/yongo) ![GitHub last commit](https://img.shields.io/github/last-commit/yooneskh/yongo)](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
@@ -451,7 +451,7 @@ This list is a collection of the best Deno modules and resources.
 ### Chinese
 
 - [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
-- [玩 Deno 遇到问题的解���方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
+- [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
