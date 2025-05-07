@@ -506,8 +506,8 @@ _Libraries for configuration parsing._
 - [uConfig ![GitHub Repo Stars](https://img.shields.io/github/stars/omeid/uconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/omeid/uconfig)](https://github.com/omeid/uconfig) - Lightweight, zero-dependency, and extendable configuration management.
 - [viper ![GitHub Repo Stars](https://img.shields.io/github/stars/spf13/viper) ![GitHub last commit](https://img.shields.io/github/last-commit/spf13/viper)](https://github.com/spf13/viper) - Go configuration with fangs.
 - [xdg ![GitHub Repo Stars](https://img.shields.io/github/stars/adrg/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/adrg/xdg)](https://github.com/adrg/xdg) - Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/latest/) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories).
-- [xdg ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenPeeDeeP/xdg) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenPeeDeeP/xdg)](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://specifications.freedesktop.org/basedir-spec/latest/).
 - [yamagiconf ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/yamagiconf) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/yamagiconf)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
+- [zerocfg ![GitHub Repo Stars](https://img.shields.io/github/stars/chaindead/zerocfg) ![GitHub last commit](https://img.shields.io/github/last-commit/chaindead/zerocfg)](https://github.com/chaindead/zerocfg) - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
 
 **[⬆ back to top](#contents)**
 
