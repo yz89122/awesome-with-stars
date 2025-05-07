@@ -134,6 +134,7 @@
 ### Helpers
 
 - [terratag ![GitHub Repo Stars](https://img.shields.io/github/stars/env0/terratag) ![GitHub last commit](https://img.shields.io/github/last-commit/env0/terratag)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+- [tfupdate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfupdate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfupdate)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
 ## Learning
 
