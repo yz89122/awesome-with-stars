@@ -696,6 +696,7 @@ become an Angular expert.
 * [generator-jhipster-ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster-ionic) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster-ionic)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [create-tauri-app ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/create-tauri-app) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/create-tauri-app)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 * [skulljs](https://skulljs.github.io/) - Skulljs aims to give a standardized file structure to create web applications based on popular Javascript / Typescript frameworks.
+* [Node Initializr](https://start.nodeinit.dev/) - Node Initializr offers a fast way to pull in all the dependencies you need for your application and does a lot of the setup for you.
 
 ##### Spring Boot
 
@@ -1332,6 +1333,7 @@ become an Angular expert.
 * [ngx-drag-resize ![GitHub Repo Stars](https://img.shields.io/github/stars/dmytro-parfenov/ngx-drag-resize) ![GitHub last commit](https://img.shields.io/github/last-commit/dmytro-parfenov/ngx-drag-resize)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 * [ng-keyboard-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/johnhwhite/ng-keyboard-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/johnhwhite/ng-keyboard-sort)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
 * [ngx-draggable-widget-kama ![GitHub Repo Stars](https://img.shields.io/github/stars/KAMAELUA/ngx-draggable-widget-kama) ![GitHub last commit](https://img.shields.io/github/last-commit/KAMAELUA/ngx-draggable-widget-kama)](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/arup-banerjee/ngx-draggable-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/arup-banerjee/ngx-draggable-widget)](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
+* [angular-mixed-cdk-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/rosejoe47/angular-mixed-cdk-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/rosejoe47/angular-mixed-cdk-drag-drop)](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 
 #### Editor Components
 
