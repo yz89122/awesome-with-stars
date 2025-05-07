@@ -228,7 +228,7 @@ Add search to your JAMStack website, through a static site integration or by cra
 
 - [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
 
-### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node)
+### MEVN: Mongo Express Vue Node [��](https://awesomestacks.dev/mevn-mongo-express-vue-node)
 
 This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoDB.
 
