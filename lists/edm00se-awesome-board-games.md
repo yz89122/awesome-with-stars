@@ -431,7 +431,7 @@
 
 ### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg)
 
-> In The Quacks of Quedlinburg, players are charlatans �� or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
+> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
 > 
 > Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
 > 
@@ -523,7 +523,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2 – 4 |        8 | 30���45m |
+|   2 – 4 |        8 | 30–45m |
 
 ### [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
 
