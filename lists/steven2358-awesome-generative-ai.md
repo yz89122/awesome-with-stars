@@ -118,6 +118,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT for Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/TiesdeKok/chat-gpt-jupyter-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/TiesdeKok/chat-gpt-jupyter-extension)](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
+- [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
 
 ### Productivity
 
