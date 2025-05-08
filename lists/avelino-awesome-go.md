@@ -538,7 +538,6 @@ _Tools for help with continuous integration._
 
 _Libraries for preprocessing CSS files._
 
-- [gcss ![GitHub Repo Stars](https://img.shields.io/github/stars/yosssi/gcss) ![GitHub last commit](https://img.shields.io/github/last-commit/yosssi/gcss)](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
 - [go-libsass ![GitHub Repo Stars](https://img.shields.io/github/stars/wellington/go-libsass) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/go-libsass)](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
 **[⬆ back to top](#contents)**
