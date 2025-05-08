@@ -1944,9 +1944,12 @@ CSV
 ---
 
 * ⭐ [cl-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/AccelerationNet/cl-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/AccelerationNet/cl-csv)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD][15].
+  * [example blog post](https://dev.to/vindarel/read-csv-files-in-common-lisp-cl-csv-data-table-3c9n).
 * [cl-decimals ![GitHub Repo Stars](https://img.shields.io/github/stars/tlikonen/cl-decimals) ![GitHub last commit](https://img.shields.io/github/last-commit/tlikonen/cl-decimals)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
 * [auto-text ![GitHub Repo Stars](https://img.shields.io/github/stars/defunkydrummer/auto-text) ![GitHub last commit](https://img.shields.io/github/last-commit/defunkydrummer/auto-text)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT][200]. See also [inquisitor ![GitHub Repo Stars](https://img.shields.io/github/stars/t-sin/inquisitor) ![GitHub last commit](https://img.shields.io/github/last-commit/t-sin/inquisitor)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
 * [csv-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/KoenvdBerg/csv-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/KoenvdBerg/csv-validator)](https://github.com/KoenvdBerg/csv-validator) - Validates tabular CSV data using predefined validations, inspired from its Python homologue "Great Expectations". [BSD_3Clause][15].
+
+see also: cl-duckdb (below) for fast parsing.
 
 
 Date and time
