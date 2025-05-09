@@ -588,6 +588,7 @@ become an Angular expert.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx ![GitHub Repo Stars](https://img.shields.io/github/stars/marmotz-dev/codx) ![GitHub last commit](https://img.shields.io/github/last-commit/marmotz-dev/codx)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 * [ngx-create ![GitHub Repo Stars](https://img.shields.io/github/stars/maran-t/ngx-create) ![GitHub last commit](https://img.shields.io/github/last-commit/maran-t/ngx-create)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 * [rafacli ![GitHub Repo Stars](https://img.shields.io/github/stars/rafa00716/rafacli) ![GitHub last commit](https://img.shields.io/github/last-commit/rafa00716/rafacli)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
+* [mcp-angular-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/talzach/mcp-angular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/talzach/mcp-angular-cli)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
 
 #### Deployment
 
@@ -1999,6 +2000,7 @@ for the creation of web applications developed with Angular.
 * [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
+* [ez-nav ![GitHub Repo Stars](https://img.shields.io/github/stars/pSkywalker/ez-nav) ![GitHub last commit](https://img.shields.io/github/last-commit/pSkywalker/ez-nav)](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
 ##### Tailwind CSS Based
 
