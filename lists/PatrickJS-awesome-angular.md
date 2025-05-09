@@ -1249,6 +1249,8 @@ become an Angular expert.
 * [ngx-tabulator-tables ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-tabulator-tables) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-tabulator-tables)](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 * [ngx-simple-material-table ![GitHub Repo Stars](https://img.shields.io/github/stars/holographic-blockchain/ngx-simple-material-table) ![GitHub last commit](https://img.shields.io/github/last-commit/holographic-blockchain/ngx-simple-material-table)](https://github.com/holographic-blockchain/ngx-simple-material-table) - Angular library to simplify usage of the Angular Material table component.
 * [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
+* [ngx-s-data-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Samuel-Pinheiro-C-Lopes/ngx-s-data-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Samuel-Pinheiro-C-Lopes/ngx-s-data-table)](https://github.com/Samuel-Pinheiro-C-Lopes/ngx-s-data-table) - An Angular module for a data table that automatically maps data from a specified class. It also allows users to provide custom mappings for greater flexibility in rendering data.
+* [mat-datatable ![GitHub Repo Stars](https://img.shields.io/github/stars/BePo65/mat-datatable) ![GitHub last commit](https://img.shields.io/github/last-commit/BePo65/mat-datatable)](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
 
 #### Dates
 
@@ -1317,6 +1319,7 @@ become an Angular expert.
 * [mTruncate ![GitHub Repo Stars](https://img.shields.io/github/stars/MomenWalid/Truncate) ![GitHub last commit](https://img.shields.io/github/last-commit/MomenWalid/Truncate)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
 * [ngx-autofocus ![GitHub Repo Stars](https://img.shields.io/github/stars/eurusik/ngx-autofocus) ![GitHub last commit](https://img.shields.io/github/last-commit/eurusik/ngx-autofocus)](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ng-dynamic-component ![GitHub Repo Stars](https://img.shields.io/github/stars/gund/ng-dynamic-component) ![GitHub last commit](https://img.shields.io/github/last-commit/gund/ng-dynamic-component)](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
+* [ngx-pipe-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/mofirojean/ngx-pipe-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/mofirojean/ngx-pipe-lib)](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
 
 #### Drag and Drop
 
