@@ -118,7 +118,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT for Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/TiesdeKok/chat-gpt-jupyter-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/TiesdeKok/chat-gpt-jupyter-extension)](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
-- [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
 
 ### Productivity
 
@@ -350,7 +349,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/thewh1teagle/vibe)](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ggerganov/whisper.cpp)](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 
-
 ### Music
 
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
@@ -386,6 +384,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/courses) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/courses)](https://github.com/anthropics/courses) - Anthropic's educational courses.
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
 
 ## More lists
 
