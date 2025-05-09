@@ -1070,6 +1070,7 @@ become an Angular expert.
 * [stryker-js ![GitHub Repo Stars](https://img.shields.io/github/stars/stryker-mutator/stryker-js) ![GitHub last commit](https://img.shields.io/github/last-commit/stryker-mutator/stryker-js)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 * [msw ![GitHub Repo Stars](https://img.shields.io/github/stars/mswjs/msw) ![GitHub last commit](https://img.shields.io/github/last-commit/mswjs/msw)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 * [shallow-render ![GitHub Repo Stars](https://img.shields.io/github/stars/getsaf/shallow-render) ![GitHub last commit](https://img.shields.io/github/last-commit/getsaf/shallow-render)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
+* [@storybookjs/testing-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/storybookjs/testing-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/storybookjs/testing-angular)](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 
 #### Updating
 
