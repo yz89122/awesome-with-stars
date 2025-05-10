@@ -92,6 +92,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Unicorn ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/eslint-plugin-unicorn)](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 - [@mysticatea/eslint-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/mysticatea/eslint-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/mysticatea/eslint-plugin)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 - [@brettz9/eslint-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/brettz9/eslint-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/brettz9/eslint-plugin)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
+- [De Morgan ![GitHub Repo Stars](https://img.shields.io/github/stars/azat-io/eslint-plugin-de-morgan) ![GitHub last commit](https://img.shields.io/github/last-commit/azat-io/eslint-plugin-de-morgan)](https://github.com/azat-io/eslint-plugin-de-morgan) - Transforms logical expressions in code to make them easier to understand.
 
 ### Compatibility
 
@@ -249,6 +250,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [filenames ![GitHub Repo Stars](https://img.shields.io/github/stars/selaux/eslint-plugin-filenames) ![GitHub last commit](https://img.shields.io/github/last-commit/selaux/eslint-plugin-filenames)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 - [Simple import sort ![GitHub Repo Stars](https://img.shields.io/github/stars/lydell/eslint-plugin-simple-import-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/lydell/eslint-plugin-simple-import-sort)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [perfectionist sorting ![GitHub Repo Stars](https://img.shields.io/github/stars/azat-io/eslint-plugin-perfectionist) ![GitHub last commit](https://img.shields.io/github/last-commit/azat-io/eslint-plugin-perfectionist)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+- [split-and-sort-imports ![GitHub Repo Stars](https://img.shields.io/github/stars/sngn/eslint-plugin-split-and-sort-imports) ![GitHub last commit](https://img.shields.io/github/last-commit/sngn/eslint-plugin-split-and-sort-imports)](https://github.com/sngn/eslint-plugin-split-and-sort-imports) - Sorts imports and splits 'multiple' imports into single line imports.
 - [Switch case ![GitHub Repo Stars](https://img.shields.io/github/stars/lukeapage/eslint-plugin-switch-case) ![GitHub last commit](https://img.shields.io/github/last-commit/lukeapage/eslint-plugin-switch-case)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 - [padding ![GitHub Repo Stars](https://img.shields.io/github/stars/mu-io/eslint-plugin-padding) ![GitHub last commit](https://img.shields.io/github/last-commit/mu-io/eslint-plugin-padding)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 - [paths ![GitHub Repo Stars](https://img.shields.io/github/stars/vitonsky/eslint-plugin-paths) ![GitHub last commit](https://img.shields.io/github/last-commit/vitonsky/eslint-plugin-paths)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
@@ -340,6 +342,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - Article on how to write a plugin as a node module containing modular mixin configuration.
 - [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
+- [Dear Old ESLint](https://adropincalm.com/blog/dear-old-eslint/) - Quick intro article on ESLint.
 
 ## Installation and Setup
 
