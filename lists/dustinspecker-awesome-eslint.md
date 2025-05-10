@@ -109,6 +109,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Styled Components
   - [Better Styled Components ![GitHub Repo Stars](https://img.shields.io/github/stars/tinloof/eslint-plugin-better-styled-components) ![GitHub last commit](https://img.shields.io/github/last-commit/tinloof/eslint-plugin-better-styled-components)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
   - [styled-components-a11y ![GitHub Repo Stars](https://img.shields.io/github/stars/brendanmorrell/eslint-plugin-styled-components-a11y) ![GitHub last commit](https://img.shields.io/github/last-commit/brendanmorrell/eslint-plugin-styled-components-a11y)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+- [vanilla-extract ![GitHub Repo Stars](https://img.shields.io/github/stars/antebudimir/eslint-plugin-vanilla-extract) ![GitHub last commit](https://img.shields.io/github/last-commit/antebudimir/eslint-plugin-vanilla-extract)](https://github.com/antebudimir/eslint-plugin-vanilla-extract) - An ESLint plugin for enforcing CSS property ordering in [vanilla-extract CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/vanilla-extract-css/vanilla-extract) ![GitHub last commit](https://img.shields.io/github/last-commit/vanilla-extract-css/vanilla-extract)](https://github.com/vanilla-extract-css/vanilla-extract) styles.
 
 ### Deprecation
 
@@ -254,6 +255,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Switch case ![GitHub Repo Stars](https://img.shields.io/github/stars/lukeapage/eslint-plugin-switch-case) ![GitHub last commit](https://img.shields.io/github/last-commit/lukeapage/eslint-plugin-switch-case)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 - [padding ![GitHub Repo Stars](https://img.shields.io/github/stars/mu-io/eslint-plugin-padding) ![GitHub last commit](https://img.shields.io/github/last-commit/mu-io/eslint-plugin-padding)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 - [paths ![GitHub Repo Stars](https://img.shields.io/github/stars/vitonsky/eslint-plugin-paths) ![GitHub last commit](https://img.shields.io/github/last-commit/vitonsky/eslint-plugin-paths)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
+- [@gitbutler/no-relative-imports](https://www.npmjs.com/package/@gitbutler/no-relative-imports) - Use paths from tsconfig and auto fix relative paths to aliases. Observes tsconfig inheritance.
 
 ### Testing Tools
 
