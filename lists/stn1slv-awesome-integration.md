@@ -897,7 +897,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
   - [The Forrester Wave: Robotic Process Automation](https://www.forrester.com/go?objectid=RES161538)
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 <!--lint enable-->
 ### Protocols
 - [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - A message queuing protocol that enables the exchange of messages between applications or systems. AMQP 0-9-1 provides reliability, security, and flexibility to handle complex messaging scenarios.
