@@ -463,6 +463,7 @@
 * [Voxelman ![GitHub Repo Stars](https://img.shields.io/github/stars/MrSmith33/voxelman) ![GitHub last commit](https://img.shields.io/github/last-commit/MrSmith33/voxelman)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 * [PolyplexEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/PolyplexEngine/libpp) ![GitHub last commit](https://img.shields.io/github/last-commit/PolyplexEngine/libpp)](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
 * [rengfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bmchtech/rengfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bmchtech/rengfx)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+* [Parin ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/parin) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/parin)](https://github.com/Kapendev/parin) - A delightfully simple and lightweight 2D game engine.
 
 ## Games
 
