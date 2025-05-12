@@ -668,7 +668,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [forbidden-apis ![GitHub Repo Stars](https://img.shields.io/github/stars/policeman-tools/forbidden-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/policeman-tools/forbidden-apis)](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 
-- [google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format) — Reformats Java source code to comply with Google Java Style
+- [google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format) ��� Reformats Java source code to comply with Google Java Style
 
 - [HuntBugs ![GitHub Repo Stars](https://img.shields.io/github/stars/amaembo/huntbugs) ![GitHub last commit](https://img.shields.io/github/last-commit/amaembo/huntbugs)](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 
