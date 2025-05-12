@@ -80,7 +80,7 @@
 - 💼 [Brand Colors ![GitHub Repo Stars](https://img.shields.io/github/stars/praveenjuge/tailwindcss-brand-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/praveenjuge/tailwindcss-brand-colors)](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
 - 💼 [Bootstrap Grid ![GitHub Repo Stars](https://img.shields.io/github/stars/karolis-sh/tailwind-bootstrap-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/karolis-sh/tailwind-bootstrap-grid)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 - 💼 [Dot & Grid Backgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNaubit/tailwind-dot-grid-backgrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNaubit/tailwind-dot-grid-backgrounds)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
-- �� [Leading Trim ![GitHub Repo Stars](https://img.shields.io/github/stars/stormwarning/tailwindcss-capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/stormwarning/tailwindcss-capsize)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/capsize)](https://github.com/seek-oss/capsize).
+- 💼 [Leading Trim ![GitHub Repo Stars](https://img.shields.io/github/stars/stormwarning/tailwindcss-capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/stormwarning/tailwindcss-capsize)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/capsize) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/capsize)](https://github.com/seek-oss/capsize).
 - 💼 [Scrollbar Hide ![GitHub Repo Stars](https://img.shields.io/github/stars/reslear/tailwind-scrollbar-hide) ![GitHub last commit](https://img.shields.io/github/last-commit/reslear/tailwind-scrollbar-hide)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 - 💼 [Fluid Type ![GitHub Repo Stars](https://img.shields.io/github/stars/davidhellmann/tailwindcss-fluid-type) ![GitHub last commit](https://img.shields.io/github/last-commit/davidhellmann/tailwindcss-fluid-type)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 - 💼 [Grid Areas ![GitHub Repo Stars](https://img.shields.io/github/stars/SavvyWombat/tailwindcss-grid-areas) ![GitHub last commit](https://img.shields.io/github/last-commit/SavvyWombat/tailwindcss-grid-areas)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -236,7 +236,7 @@
 - 📁 [Simple Light ![GitHub Repo Stars](https://img.shields.io/github/stars/cruip/tailwind-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/cruip/tailwind-landing-page-template)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 - 📁 [V-Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/v-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-dashboard)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - 📁 [Petra ![GitHub Repo Stars](https://img.shields.io/github/stars/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template)](https://github.com/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
-- �� [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
+- 📁 [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 - 📁 [OhMySMTP Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmysmtp/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmysmtp/templates)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
@@ -301,7 +301,7 @@
 
 ## Learning
 
-**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · ���� Cast
+**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
 - 💙🧪 [Plugin Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-plugin-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-plugin-examples)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 - 🧪 [Tailwind Dark Mode Theme Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/huphtur/tailwind-theme-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/huphtur/tailwind-theme-switcher)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
