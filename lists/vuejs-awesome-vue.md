@@ -178,6 +178,7 @@
 - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
 - [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
 - [Vue-FAQ](https://vue-faq.org/) - FAQ about frontend in general and Vue.js in particular.
+- [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
 
 ### Job Portal
 
@@ -441,6 +442,7 @@
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+- [Getting Started Internationalizing (i18n) with Intlayer and Vite and Vue](https://intlayer.org/doc/environment/vite-and-vue)
 
 ### Examples
 
@@ -470,6 +472,7 @@
 - [Vitesse Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 - [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 - [Vue Tic Tac Toe | Cerito Cruz ![GitHub Repo Stars](https://img.shields.io/github/stars/EduardoProfe666/cerito-cruz-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/EduardoProfe666/cerito-cruz-vue)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
+- [i18n boilerplate Intlayer + Vue 3 + Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer-vite-vue-template) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer-vite-vue-template)](https://github.com/aymericzip/intlayer-vite-vue-template)
 
 ### Books
 
@@ -586,8 +589,6 @@
 - [MQTTX ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/MQTTX) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/MQTTX)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 - [Pychat ![GitHub Repo Stars](https://img.shields.io/github/stars/akoidan/pychat) ![GitHub last commit](https://img.shields.io/github/last-commit/akoidan/pychat)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 - [CodeceptJS UI ![GitHub Repo Stars](https://img.shields.io/github/stars/codecept-js/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/codecept-js/ui)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
-- [Vue Pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/Seungwoo321/vue-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/Seungwoo321/vue-pivottable)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
-- [Vue Datamaps ![GitHub Repo Stars](https://img.shields.io/github/stars/Seungwoo321/vue-datamaps) ![GitHub last commit](https://img.shields.io/github/last-commit/Seungwoo321/vue-datamaps)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 - [LeagueStats ![GitHub Repo Stars](https://img.shields.io/github/stars/vkaelin/LeagueStats) ![GitHub last commit](https://img.shields.io/github/last-commit/vkaelin/LeagueStats)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 - [Savycart ![GitHub Repo Stars](https://img.shields.io/github/stars/itsalb3rt/savycart-app) ![GitHub last commit](https://img.shields.io/github/last-commit/itsalb3rt/savycart-app)](https://github.com/itsalb3rt/savycart-app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 - [Afterman ![GitHub Repo Stars](https://img.shields.io/github/stars/itsalb3rt/afterman) ![GitHub last commit](https://img.shields.io/github/last-commit/itsalb3rt/afterman)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
@@ -1029,6 +1030,8 @@ _Tables / data grids_
 - [vuetify-drilldown-table ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-drilldown-table) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vuetify-drilldown-table)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vxe-table ![GitHub Repo Stars](https://img.shields.io/github/stars/x-extends/vxe-table) ![GitHub last commit](https://img.shields.io/github/last-commit/x-extends/vxe-table)](https://github.com/x-extends/vxe-table) - Vue form/table solution.
 - [hy-vue-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/Xeyos88/HyVueGantt) ![GitHub last commit](https://img.shields.io/github/last-commit/Xeyos88/HyVueGantt)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
+- [Vue Pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/Seungwoo321/vue-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/Seungwoo321/vue-pivottable)](https://github.com/Seungwoo321/vue-pivottable) – A Vue 2 port of the jQuery-based PivotTable.js.
+- [Vue3 Pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-pivottable/vue3-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-pivottable/vue3-pivottable)](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
 
 #### Notification
 
@@ -1084,7 +1087,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 #### Icons
 
-- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
 - [vue-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/vue-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/vue-fontawesome)](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [vue-country-flag ![GitHub Repo Stars](https://img.shields.io/github/stars/P3trur0/vue-country-flag) ![GitHub last commit](https://img.shields.io/github/last-commit/P3trur0/vue-country-flag)](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vue-fa ![GitHub Repo Stars](https://img.shields.io/github/stars/Cweili/vue-fa) ![GitHub last commit](https://img.shields.io/github/last-commit/Cweili/vue-fa)](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
@@ -1156,6 +1159,7 @@ _Display non-editable events in a Calendar_
 - [vue3-openlayers ![GitHub Repo Stars](https://img.shields.io/github/stars/MelihAltintas/vue3-openlayers) ![GitHub last commit](https://img.shields.io/github/last-commit/MelihAltintas/vue3-openlayers)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 - [vue-mars3d ![GitHub Repo Stars](https://img.shields.io/github/stars/marsgis/mars3d-vue-template) ![GitHub last commit](https://img.shields.io/github/last-commit/marsgis/mars3d-vue-template)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 - [vue-maplibre-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/razorness/vue-maplibre-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/razorness/vue-maplibre-gl)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+- [Vue Datamaps ![GitHub Repo Stars](https://img.shields.io/github/stars/Seungwoo321/vue-datamaps) ![GitHub last commit](https://img.shields.io/github/last-commit/Seungwoo321/vue-datamaps)](https://github.com/Seungwoo321/vue-datamaps) - Vue 2 port of the javascript-based DataMaps
 
 #### Audio / Video
 
@@ -1283,6 +1287,7 @@ _Date / datetime / time Picker_
 
 ##### Drag and Drop
 
+- [Vue DnD Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/zizigy/vue-dnd-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/zizigy/vue-dnd-kit)](https://github.com/zizigy/vue-dnd-kit) - A lightweight, performant drag and drop toolkit for Vue 3 with composable API, keyboard navigation, accessibility support, and advanced customization options. Supports any cases, and touch devices. Inspired by React DnD Kit
 - [vuedraggable-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/Alfred-Skyblue/vue-draggable-plus)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 - [vue-draggable-resizable ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricius/vue-draggable-resizable) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricius/vue-draggable-resizable)](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
 - [vue-smooth-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/kutlugsahin/vue-smooth-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/kutlugsahin/vue-smooth-dnd)](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.
@@ -1409,6 +1414,8 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-tiny-validate ![GitHub Repo Stars](https://img.shields.io/github/stars/FrontLabsOfficial/vue-tiny-validate) ![GitHub last commit](https://img.shields.io/github/last-commit/FrontLabsOfficial/vue-tiny-validate)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [vorms ![GitHub Repo Stars](https://img.shields.io/github/stars/Mini-ghost/vorms) ![GitHub last commit](https://img.shields.io/github/last-commit/Mini-ghost/vorms)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+- [regle ![GitHub Repo Stars](https://img.shields.io/github/stars/victorgarciaesgi/regle) ![GitHub last commit](https://img.shields.io/github/last-commit/victorgarciaesgi/regle)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
+
 
 #### Resize
 
@@ -1536,6 +1543,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-next-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/Aaronlamz/vue-next-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/Aaronlamz/vue-next-i18n)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
 - [tolgee/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 - [intlify/vue-i18n-next ![GitHub Repo Stars](https://img.shields.io/github/stars/intlify/vue-i18n-next) ![GitHub last commit](https://img.shields.io/github/last-commit/intlify/vue-i18n-next)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
+- [vue-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 
 #### Custom Events
 
@@ -1726,7 +1734,9 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 ### Prerendering
 
 - [vue-genesis ![GitHub Repo Stars](https://img.shields.io/github/stars/fmfe/genesis) ![GitHub last commit](https://img.shields.io/github/last-commit/fmfe/genesis)](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+
   <!-- md-parser-end -->
+
   <br/>
   <br/>
   <br/>
