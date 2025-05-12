@@ -395,7 +395,7 @@ Network Programming with Go will help you leverage Go to write secure, readable,
 
 <img src="https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/rggo-250.jpg" width="120px"/>
 
-Write your own fast, reliable, and cross-platform command-line tools with the Go programming language. Go might be the fastest—and perhaps the most fun—way to automate tasks, analyze data, parse logs, talk to network services, or address other systems requirements. Create all kinds of command-line tools that work with files, connect to services, and manage external processes, all while using tests and benchmarks to ensure your programs are fast and correct.
+Write your own fast, reliable, and cross-platform command-line tools with the Go programming language. Go might be the fastest—and perhaps the most fun��way to automate tasks, analyze data, parse logs, talk to network services, or address other systems requirements. Create all kinds of command-line tools that work with files, connect to services, and manage external processes, all while using tests and benchmarks to ensure your programs are fast and correct.
 
 ### 2021 - [Go by Example](https://www.manning.com/books/go-by-example)
 
