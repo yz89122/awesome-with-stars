@@ -1747,7 +1747,7 @@ Update Time, five active automations, webhooks.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
   
 
-**[��️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Analytics, Events and Statistics
 
