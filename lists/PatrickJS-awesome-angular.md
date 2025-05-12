@@ -746,6 +746,7 @@ become an Angular expert.
 * [simply-direct ![GitHub Repo Stars](https://img.shields.io/github/stars/fvilli/simply-direct) ![GitHub last commit](https://img.shields.io/github/last-commit/fvilli/simply-direct)](https://github.com/fvilli/simply-direct) - A fullstack communication library that bridges Angular and NestJS through real-time, bidirectional communication powered by WebSockets.
 * [ng-error-handling ![GitHub Repo Stars](https://img.shields.io/github/stars/ressurectit/ng-error-handling) ![GitHub last commit](https://img.shields.io/github/last-commit/ressurectit/ng-error-handling)](https://github.com/ressurectit/ng-error-handling) - An Angular module designed for managing HTTP API error responses.
 * [active-connect ![GitHub Repo Stars](https://img.shields.io/github/stars/HiptJo/active-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/HiptJo/active-connect)](https://github.com/HiptJo/active-connect) - A powerful connection framework designed for smart web-based projects using Node.js, Angular, and WebSockets. It provides decorators and utilities to simplify the integration of Angular with a WebSocket server, making it easier to handle real-time communication between clients and the server.
+* [ngx-drupal8-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-drupal8-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-drupal8-rest)](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
 
 #### Integrations
 
@@ -1712,6 +1713,7 @@ to simplify usage and allow quick customization.
 * [angular-signal-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/DDtMM/angular-signal-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/DDtMM/angular-signal-generators)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 * [mmstack ![GitHub Repo Stars](https://img.shields.io/github/stars/mihajm/mmstack) ![GitHub last commit](https://img.shields.io/github/last-commit/mihajm/mmstack)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
 * [@tomaszatoo/ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/tomaszatoo/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/tomaszatoo/ngx-libs)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
+* [@shanieMoonlight/moonlight-repo ![GitHub Repo Stars](https://img.shields.io/github/stars/shanieMoonlight/moonlight-repo) ![GitHub last commit](https://img.shields.io/github/last-commit/shanieMoonlight/moonlight-repo)](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
 
 #### Modals
 
