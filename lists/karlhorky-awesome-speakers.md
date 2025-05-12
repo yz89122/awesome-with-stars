@@ -1547,7 +1547,7 @@ https://twitter.com/svensauleau
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
-**Inayaili de Le��n**\
+**Inayaili de León**\
 Topics: Design Systems, Responsive Web Design, Design Leadership, UI\
 https://twitter.com/yaili
 
