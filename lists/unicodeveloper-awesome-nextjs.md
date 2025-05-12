@@ -82,6 +82,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 ## Boilerplates
 
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
+- [Next.js, Strapi Portfolio Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/PictureElement/nextjs-strapi-portfolio-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/PictureElement/nextjs-strapi-portfolio-starter)](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 - [NextJS Headless CMS Powered Blog Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/ButterCMS/react-cms-blog-with-next-js) ![GitHub last commit](https://img.shields.io/github/last-commit/ButterCMS/react-cms-blog-with-next-js)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 - [Next.js App with AWS Lambda ![GitHub Repo Stars](https://img.shields.io/github/stars/mattdamon108/nextjs-with-lambda) ![GitHub last commit](https://img.shields.io/github/last-commit/mattdamon108/nextjs-with-lambda)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.

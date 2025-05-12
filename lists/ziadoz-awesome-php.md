@@ -156,6 +156,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2) - The most popular e-commerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [OpenMage ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMage/magento-lts) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMage/magento-lts)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
