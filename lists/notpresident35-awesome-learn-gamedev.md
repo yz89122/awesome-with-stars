@@ -1,4 +1,4 @@
-[<img src="https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
+[<img src="https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
 
 # Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -40,7 +40,7 @@
 <br />
 
 
-![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/KittyIcon.png 'Check out my portfolio below!')
+![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/KittyIcon.png 'Check out my portfolio below!')
 
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
@@ -441,7 +441,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### VFX
 
 
-[Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) 💠🟪 - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
+[Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) ����🟪 - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
 
 
 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) 🟪 - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
@@ -920,5 +920,5 @@ Royalty free music! Don't forget to check the license.
 <br />
 <br />
   
-![A cute drawing of Asriel from Undertale reaching for a heart](https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/Asriel.png 'Thanks for reading!')
+![A cute drawing of Asriel from Undertale reaching for a heart](https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/Asriel.png 'Thanks for reading!')
 

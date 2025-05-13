@@ -323,4 +323,4 @@ Compute:
 
 Please support this open source project by checking out our sponsors:
 
-<a href="https://testdriven.io/courses/tdd-fastapi/?ref=awesome-fastapi" target="_blank" title="Learn to build high-quality web apps with best practices"><img src="https://github.com/mjhea0/awesome-fastapi/raw/master/images/testdriven.svg"></a>
+<a href="https://testdriven.io/courses/tdd-fastapi/?ref=awesome-fastapi" target="_blank" title="Learn to build high-quality web apps with best practices"><img src="https://github.com/mjhea0/awesome-fastapi/raw/main/images/testdriven.svg"></a>
