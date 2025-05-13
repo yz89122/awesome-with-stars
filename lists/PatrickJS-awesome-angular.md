@@ -380,6 +380,7 @@ become an Angular expert.
 * [lowgular](https://courses.lowgular.edu.pl/) - The best courses for your career path as an Angular Frontend Developer.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 * [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
+* [Tech OS](https://tech-os.org/) - Tech OS offers high-level Angular training designed for demanding developers and ambitious teams.
 
 ##### On-Site Training
 
@@ -651,6 +652,7 @@ become an Angular expert.
 * [madge ![GitHub Repo Stars](https://img.shields.io/github/stars/pahen/madge) ![GitHub last commit](https://img.shields.io/github/last-commit/pahen/madge)](https://github.com/pahen/madge) - A developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and giving you other useful info.
 * [manifest ![GitHub Repo Stars](https://img.shields.io/github/stars/mnfst/manifest) ![GitHub last commit](https://img.shields.io/github/last-commit/mnfst/manifest)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 * [zed-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/nathansbradshaw/zed-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/nathansbradshaw/zed-angular)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
+* [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - Powerful Angular internationalization (i18n) extension for VS Code that displays translations inline, provides autocompletion for i18n keys in TypeScript and HTML files, and offers quick access to translation files. Streamline your multilingual development workflow.
 
 #### Documentation tools
 
