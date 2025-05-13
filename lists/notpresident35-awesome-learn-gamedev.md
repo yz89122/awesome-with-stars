@@ -1,4 +1,4 @@
-[<img src="https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
+[<img src="https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
 
 # Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -40,7 +40,7 @@
 <br />
 
 
-![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/KittyIcon.png 'Check out my portfolio below!')
+![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/KittyIcon.png 'Check out my portfolio below!')
 
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
@@ -920,5 +920,5 @@ Royalty free music! Don't forget to check the license.
 <br />
 <br />
   
-![A cute drawing of Asriel from Undertale reaching for a heart](https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/Asriel.png 'Thanks for reading!')
+![A cute drawing of Asriel from Undertale reaching for a heart](https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/Asriel.png 'Thanks for reading!')
 

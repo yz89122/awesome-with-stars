@@ -115,7 +115,7 @@ This curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/
 
 ## Overview
 
-<img align="right" width="50%" src="https://github.com/kdeldycke/awesome-iam/raw/main/assets/cloud-software-stack-iam.jpg"/>
+<img align="right" width="50%" src="https://github.com/kdeldycke/awesome-iam/raw/master/assets/cloud-software-stack-iam.jpg"/>
 
 In a Stanford class providing an [overview of cloud computing](http://web.stanford.edu/class/cs349d/docs/L01_overview.pdf), the software architecture of the platform is described as in the right diagram →
 
