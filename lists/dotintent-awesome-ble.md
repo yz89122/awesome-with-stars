@@ -55,6 +55,7 @@ _Framework useful to develop your BLE peripherals._
 _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices._
 
 - [bluepy ![GitHub Repo Stars](https://img.shields.io/github/stars/IanHarvey/bluepy) ![GitHub last commit](https://img.shields.io/github/last-commit/IanHarvey/bluepy)](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
+- [Bluetooth ![GitHub Repo Stars](https://img.shields.io/github/stars/PureSwift/Bluetooth) ![GitHub last commit](https://img.shields.io/github/last-commit/PureSwift/Bluetooth)](https://github.com/PureSwift/Bluetooth) - Bluetooth is a Swift multiplatform package with multiple libraries supporting the Bluetooth SIG specifications.
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
 - [bumble ![GitHub Repo Stars](https://img.shields.io/github/stars/google/bumble) ![GitHub last commit](https://img.shields.io/github/last-commit/google/bumble)](https://github.com/google/bumble) - Bumble is a full-featured Bluetooth stack written entirely in Python.
 - [pygatt ![GitHub Repo Stars](https://img.shields.io/github/stars/peplin/pygatt) ![GitHub last commit](https://img.shields.io/github/last-commit/peplin/pygatt)](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
