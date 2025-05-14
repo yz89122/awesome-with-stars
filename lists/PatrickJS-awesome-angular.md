@@ -488,6 +488,7 @@ become an Angular expert.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [ai-friendly-docs ![GitHub Repo Stars](https://img.shields.io/github/stars/gergelyszerovay/ai-friendly-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/gergelyszerovay/ai-friendly-docs)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 * [@angular/examples ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/examples)](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
+* [agent-rules-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnomanu/agent-rules-kit)](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 
 #### Analytics
 
@@ -1717,6 +1718,7 @@ to simplify usage and allow quick customization.
 * [mmstack ![GitHub Repo Stars](https://img.shields.io/github/stars/mihajm/mmstack) ![GitHub last commit](https://img.shields.io/github/last-commit/mihajm/mmstack)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
 * [@tomaszatoo/ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/tomaszatoo/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/tomaszatoo/ngx-libs)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 * [@shanieMoonlight/moonlight-repo ![GitHub Repo Stars](https://img.shields.io/github/stars/shanieMoonlight/moonlight-repo) ![GitHub last commit](https://img.shields.io/github/last-commit/shanieMoonlight/moonlight-repo)](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
+* [@jchpro/ng ![GitHub Repo Stars](https://img.shields.io/github/stars/jchpro/ng) ![GitHub last commit](https://img.shields.io/github/last-commit/jchpro/ng)](https://github.com/jchpro/ng) - Monorepo of various libraries for Angular.  Visit [example page](https://ng.jchpro.pl/) for more info.
 
 #### Modals
 
