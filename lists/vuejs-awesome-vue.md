@@ -473,6 +473,7 @@
 - [Vitesse-lite Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vitesse-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vitesse-lite)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 - [Vue Tic Tac Toe | Cerito Cruz ![GitHub Repo Stars](https://img.shields.io/github/stars/EduardoProfe666/cerito-cruz-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/EduardoProfe666/cerito-cruz-vue)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 - [i18n boilerplate Intlayer + Vue 3 + Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer-vite-vue-template) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer-vite-vue-template)](https://github.com/aymericzip/intlayer-vite-vue-template)
+- [tab-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/mioe/tab-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/mioe/tab-toolkit)](https://github.com/mioe/tab-toolkit) - very small app-tool for beginner guitarists 🎸 (PWA | Pinia | UnoCSS) by [@mioe](https://github.com/mioe)
 
 ### Books
 
