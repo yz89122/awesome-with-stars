@@ -463,6 +463,7 @@ Apps people use when taking transit.
 - [Moovit](http://moovitapp.com/)
 - [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 - [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
+- [ÖPNV Navigator](https://navigatorapp.net/)
 
 ### Hardware
 
@@ -472,7 +473,7 @@ Experimental and production transit hardware.
 - [Train departure Display ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisys/train-departure-display) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisys/train-departure-display)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### SDKs
-- [Citymapper SDK](https://citymapper.com/powers) - Allows you to add journey planning and turn-by-turn navigation for walking, cycling, scooting and transit into native iOS and Android apps.
+- [TripKit ![GitHub Repo Stars](https://img.shields.io/github/stars/alexander-albers/tripkit) ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-albers/tripkit)](https://github.com/alexander-albers/tripkit) - TripKit is a Swift-library to get data from public transport providers.
 
 ### Visualizations
 #### GTFS Based Visualizations
