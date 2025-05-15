@@ -328,7 +328,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## Open Source
 
-- [BSD Weekly](https://bsdweekly.com/). A free, once���weekly e-mail round-up of BSD news and articles.
+- [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
 - [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 - [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
 - [FOSS Weekly](https://fossweekly.beehiiv.com/). The easiest way to keep up with Open Source Software.
