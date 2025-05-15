@@ -273,6 +273,7 @@
 - [Zig ![GitHub Repo Stars](https://img.shields.io/github/stars/catdevnull/awesome-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/catdevnull/awesome-zig)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move ![GitHub Repo Stars](https://img.shields.io/github/stars/MystenLabs/awesome-move) ![GitHub last commit](https://img.shields.io/github/last-commit/MystenLabs/awesome-move)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs ![GitHub Repo Stars](https://img.shields.io/github/stars/angrykoala/awesome-esolangs) ![GitHub last commit](https://img.shields.io/github/last-commit/angrykoala/awesome-esolangs)](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [VBA ![GitHub Repo Stars](https://img.shields.io/github/stars/sancarn/awesome-vba) ![GitHub last commit](https://img.shields.io/github/last-commit/sancarn/awesome-vba)](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 
 <br>
 <hr>
@@ -647,6 +648,7 @@
 - [Prompt Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/FonduAI/awesome-prompt-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/FonduAI/awesome-prompt-injection)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering ![GitHub Repo Stars](https://img.shields.io/github/stars/infosecB/awesome-detection-engineering) ![GitHub last commit](https://img.shields.io/github/last-commit/infosecB/awesome-detection-engineering)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports ![GitHub Repo Stars](https://img.shields.io/github/stars/jacobdjwilson/awesome-annual-security-reports) ![GitHub last commit](https://img.shields.io/github/last-commit/jacobdjwilson/awesome-annual-security-reports)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
+- [CI/CD Attacks ![GitHub Repo Stars](https://img.shields.io/github/stars/TupleType/awesome-cicd-attacks) ![GitHub last commit](https://img.shields.io/github/last-commit/TupleType/awesome-cicd-attacks)](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 
 ## Content Management Systems
 
@@ -730,6 +732,7 @@
 - [ZeroNet ![GitHub Repo Stars](https://img.shields.io/github/stars/zolagonano/awesome-zeronet) ![GitHub last commit](https://img.shields.io/github/last-commit/zolagonano/awesome-zeronet)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmos/awesome-cosmos) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmos/awesome-cosmos)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 - [Tor ![GitHub Repo Stars](https://img.shields.io/github/stars/polycarbohydrate/awesome-tor) ![GitHub last commit](https://img.shields.io/github/last-commit/polycarbohydrate/awesome-tor)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+- [ATProto ![GitHub Repo Stars](https://img.shields.io/github/stars/atblueprints/awesome-atproto) ![GitHub last commit](https://img.shields.io/github/last-commit/atblueprints/awesome-atproto)](https://github.com/atblueprints/awesome-atproto#readme) - Open, decentralized network for building social apps.
 
 ## Health and Social Science
 
