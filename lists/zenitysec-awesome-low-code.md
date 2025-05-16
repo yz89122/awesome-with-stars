@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="250" height="175" src="https://github.com/zenitysec/awesome-low-code/raw/main/media/repo_logo.png" alt="Awesome Low Code">
+	<img width="250" height="175" src="https://github.com/zenitysec/awesome-low-code/raw/master/media/repo_logo.png" alt="Awesome Low Code">
 	<br>
 	<br>
 	<hr>
@@ -8,7 +8,7 @@
 		<br>
 		<br>
 		<a href="https://www.zenity.io">
-			<img src="https://github.com/zenitysec/awesome-low-code/raw/main/media/zenity_logo.svg"/>
+			<img src="https://github.com/zenitysec/awesome-low-code/raw/master/media/zenity_logo.svg"/>
 		</a>
         <p>
         Secure and govern your Low Code No Code applications without disrupting the business

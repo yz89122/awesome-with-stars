@@ -1,6 +1,6 @@
 # Awesome WebXR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/msub2/awesome-webxr/raw/main/webxr-logo.svg" align="right" width="100">](https://immersiveweb.dev/)
+[<img src="https://github.com/msub2/awesome-webxr/raw/master/webxr-logo.svg" align="right" width="100">](https://immersiveweb.dev/)
 
 > A curated list of WebXR links and resources.
 
