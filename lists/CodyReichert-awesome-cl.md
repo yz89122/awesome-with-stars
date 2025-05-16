@@ -2145,6 +2145,9 @@ PDF
 Plotting
 --------
 
+* lisp-stat's [plot (vega-lite) ![GitHub Repo Stars](https://img.shields.io/github/stars/Lisp-Stat/plot) ![GitHub last commit](https://img.shields.io/github/last-commit/Lisp-Stat/plot)](https://github.com/Lisp-Stat/plot) - a Vega-lite DSL. MS-PL.
+  * includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
+  * [emacs-vega-view ![GitHub Repo Stars](https://img.shields.io/github/stars/applied-science/emacs-vega-view) ![GitHub last commit](https://img.shields.io/github/last-commit/applied-science/emacs-vega-view)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
 * [vgplot ![GitHub Repo Stars](https://img.shields.io/github/stars/volkers/vgplot) ![GitHub last commit](https://img.shields.io/github/last-commit/volkers/vgplot)](https://github.com/volkers/vgplot) - an interface to the
   gnuplot plotting utility with the intention to resemble some of
   the plot commands of octave or matlab. [GPL3][2].
