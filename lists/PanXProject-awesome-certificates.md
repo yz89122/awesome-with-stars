@@ -322,7 +322,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [���](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
+| [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 
@@ -445,7 +445,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Service Hub Software Certification ](https://academy.hubspot.com/courses/hubspot-service-software)| HubSpot | Beginner | 2.1 | 🏆 |
-| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
+| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | �� |
 | [Customer Relationship Management](https://www.life-global.org/course/35-customer-relationship-management)| HP / Life Global | Beginner | 1 | 🏅 |
 | [Customer Service Test](https://www.testdome.com/tests/customer-service-test/91)| Test Dome | Intermediate | 0.15 | 🏆  |
 
