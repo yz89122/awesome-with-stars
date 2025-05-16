@@ -76,7 +76,7 @@
 * [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software][oss]](https://github.com/usebruno/bruno)
 * [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software][oss]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software][oss]](https://github.com/httptoolkit)
-* [Insomnia](https://insomnia.rest) - Tests APIs with GraphQL support. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Insomnia](https://insomnia.rest) - Tests APIs with GraphQL support. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 * [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software][oss]](https://github.com/mountain-loop/yaak) ![star]
 
@@ -118,7 +118,7 @@
 * [Librewolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
 * [Orion](https://kagi.com/orion/) - Lightweight WebKit browser with Chrome/Firefox extension support.
 * [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
-* [Ungoogled Chromium ![GitHub Repo Stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium) ![GitHub last commit](https://img.shields.io/github/last-commit/ungoogled-software/ungoogled-chromium)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Ungoogled Chromium ![GitHub Repo Stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium) ![GitHub last commit](https://img.shields.io/github/last-commit/ungoogled-software/ungoogled-chromium)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
 
 ## Cloud Storage
@@ -135,12 +135,12 @@
 
 ## Command Line Tools
 
-* [btop4win ![GitHub Repo Stars](https://img.shields.io/github/stars/aristocratos/btop4win) ![GitHub last commit](https://img.shields.io/github/last-commit/aristocratos/btop4win)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [btop4win ![GitHub Repo Stars](https://img.shields.io/github/stars/aristocratos/btop4win) ![GitHub last commit](https://img.shields.io/github/last-commit/aristocratos/btop4win)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
-* [gallery-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/mikf/gallery-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/mikf/gallery-dl)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
-* [Scoop ![GitHub Repo Stars](https://img.shields.io/github/stars/lukesampson/scoop) ![GitHub last commit](https://img.shields.io/github/last-commit/lukesampson/scoop)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [gallery-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/mikf/gallery-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/mikf/gallery-dl)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
+* [Scoop ![GitHub Repo Stars](https://img.shields.io/github/stars/lukesampson/scoop) ![GitHub last commit](https://img.shields.io/github/last-commit/lukesampson/scoop)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
-* [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 
 ## Communication
 
@@ -169,16 +169,16 @@
 ## Customization
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Modifies Windows taskbar behavior.
-* [Classic Start ![GitHub Repo Stars](https://img.shields.io/github/stars/passionate-coder/Classic-Start) ![GitHub last commit](https://img.shields.io/github/last-commit/passionate-coder/Classic-Start)](https://github.com/passionate-coder/Classic-Start) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Classic Start ![GitHub Repo Stars](https://img.shields.io/github/stars/passionate-coder/Classic-Start) ![GitHub last commit](https://img.shields.io/github/last-commit/passionate-coder/Classic-Start)](https://github.com/passionate-coder/Classic-Start) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 * [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 * [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
 * [Sucrose Wallpaper Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Taiizor/Sucrose) ![GitHub last commit](https://img.shields.io/github/last-commit/Taiizor/Sucrose)](https://github.com/Taiizor/Sucrose) - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
-* [TranslucentTB ![GitHub Repo Stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB) ![GitHub last commit](https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [TranslucentTB ![GitHub Repo Stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB) ![GitHub last commit](https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
 * [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
-* [YASB ![GitHub Repo Stars](https://img.shields.io/github/stars/amnweb/yasb) ![GitHub last commit](https://img.shields.io/github/last-commit/amnweb/yasb)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [YASB ![GitHub Repo Stars](https://img.shields.io/github/stars/amnweb/yasb) ![GitHub last commit](https://img.shields.io/github/last-commit/amnweb/yasb)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
 
 ## Data Recovery
@@ -194,7 +194,7 @@
 * [Another Redis Desktop Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager) ![GitHub last commit](https://img.shields.io/github/last-commit/qishibo/AnotherRedisDesktopManager)](https://github.com/qishibo/AnotherRedisDesktopManager) - Fast and stable Redis GUI client with cluster, sentinel, SSH support. [![Open-Source Software][oss]](https://github.com/qishibo/AnotherRedisDesktopManager)
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio)
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
-* [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 
 ## Developer Utilities
 
@@ -234,7 +234,7 @@
 * [Awesome Games ![GitHub Repo Stars](https://img.shields.io/github/stars/leereilly/games) ![GitHub last commit](https://img.shields.io/github/last-commit/leereilly/games)](https://github.com/leereilly/games) - List of games hosted on GitHub.
 * [Epic Games](https://www.epicgames.com/store/) - Digital game storefront for PC and Mac.
 * [Freeciv](https://www.freeciv.org/) - Free empire-building strategy game inspired by human civilization. [![Open-Source Software][oss]](https://github.com/freeciv/)
-* [Gale ![GitHub Repo Stars](https://img.shields.io/github/stars/Kesomannen/gale) ![GitHub last commit](https://img.shields.io/github/last-commit/Kesomannen/gale)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Gale ![GitHub Repo Stars](https://img.shields.io/github/stars/Kesomannen/gale) ![GitHub last commit](https://img.shields.io/github/last-commit/Kesomannen/gale)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 * [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
 * [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
@@ -255,7 +255,7 @@
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][oss]](https://gitlab.com/inkscape/inkscape)
 * [Krita](https://krita.org/) - Professional digital painting program. [![Open-Source Software][oss]](https://krita.org/en/download/krita-desktop/)
 * [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources. ![star]
-* [Oculante ![GitHub Repo Stars](https://img.shields.io/github/stars/woelper/oculante) ![GitHub last commit](https://img.shields.io/github/last-commit/woelper/oculante)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg) ![star]
+* [Oculante ![GitHub Repo Stars](https://img.shields.io/github/stars/woelper/oculante) ![GitHub last commit](https://img.shields.io/github/last-commit/woelper/oculante)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg) ![star]
 * [Paint.NET](https://www.getpaint.net/index.html) - Feature-rich image editing tool.
 * [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
 
@@ -311,7 +311,7 @@
 
 ## Productivity
 
-* [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 * [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
@@ -319,13 +319,13 @@
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
 * [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software][oss]](https://github.com/laurent22/joplin)
-* [Kaas ![GitHub Repo Stars](https://img.shields.io/github/stars/0xfrankz/Kaas) ![GitHub last commit](https://img.shields.io/github/last-commit/0xfrankz/Kaas)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Kaas ![GitHub Repo Stars](https://img.shields.io/github/stars/0xfrankz/Kaas) ![GitHub last commit](https://img.shields.io/github/last-commit/0xfrankz/Kaas)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
-* [STranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/ZGGSONG/STranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/ZGGSONG/STranslate)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg) ![star]
+* [STranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/ZGGSONG/STranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/ZGGSONG/STranslate)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg) ![star]
 * [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 * [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
@@ -355,7 +355,7 @@
 ## Screen Capture
 
 * [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
-* [Greenshot ![GitHub Repo Stars](https://img.shields.io/github/stars/greenshot/greenshot) ![GitHub last commit](https://img.shields.io/github/last-commit/greenshot/greenshot)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Greenshot ![GitHub Repo Stars](https://img.shields.io/github/stars/greenshot/greenshot) ![GitHub last commit](https://img.shields.io/github/last-commit/greenshot/greenshot)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio)
 * [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
@@ -402,7 +402,7 @@
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb ![GitHub Repo Stars](https://img.shields.io/github/stars/Tyrrrz/LightBulb) ![GitHub last commit](https://img.shields.io/github/last-commit/Tyrrrz/LightBulb)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 * [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
-* [neohtop ![GitHub Repo Stars](https://img.shields.io/github/stars/Abdenasser/neohtop) ![GitHub last commit](https://img.shields.io/github/last-commit/Abdenasser/neohtop)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg) ![star]
+* [neohtop ![GitHub Repo Stars](https://img.shields.io/github/stars/Abdenasser/neohtop) ![GitHub last commit](https://img.shields.io/github/last-commit/Abdenasser/neohtop)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg) ![star]
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
 * [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker)
@@ -418,14 +418,14 @@
 
 ## Terminal
 
-* [Alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/jwilm/alacritty) ![GitHub last commit](https://img.shields.io/github/last-commit/jwilm/alacritty)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/jwilm/alacritty) ![GitHub last commit](https://img.shields.io/github/last-commit/jwilm/alacritty)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder)
 * [ConEmu ![GitHub Repo Stars](https://img.shields.io/github/stars/Maximus5/ConEmu) ![GitHub last commit](https://img.shields.io/github/last-commit/Maximus5/ConEmu)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
 * [FluentTerminal ![GitHub Repo Stars](https://img.shields.io/github/stars/felixse/FluentTerminal) ![GitHub last commit](https://img.shields.io/github/last-commit/felixse/FluentTerminal)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
 * [Hyper](https://hyper.is) - Terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/vercel/hyper) ![star]
 * [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
-* [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/terminus)
@@ -439,7 +439,7 @@
 * [LazyVim](https://www.lazyvim.org/) - Customizable Neovim configuration framework. [![Open-Source Software][oss]](https://github.com/LazyVim/LazyVim)
 * [Neovim](https://neovim.io/) - Modern, extensible terminal-based editor. [![Open-Source Software][oss]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - Feature-rich source code editor. [![Open-Source Software][oss]](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Sublime Text](https://www.sublimetext.com/3) - Advanced text editor with extensive plugin ecosystem.
 
 ## Version Control
@@ -449,7 +449,7 @@
 * [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions)
 * [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client with intuitive interface.
-* [GitLight ![GitHub Repo Stars](https://img.shields.io/github/stars/colinlienard/gitlight) ![GitHub last commit](https://img.shields.io/github/last-commit/colinlienard/gitlight)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [GitLight ![GitHub Repo Stars](https://img.shields.io/github/stars/colinlienard/gitlight) ![GitHub last commit](https://img.shields.io/github/last-commit/colinlienard/gitlight)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg)
 * [Meld](https://meldmerge.org/) - Visual diff and merge tool. [![Open-Source Software][oss]](https://gitlab.gnome.org/GNOME/meld/)
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
 * [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/)
@@ -493,6 +493,6 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 
 <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
-[oss]: https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg
-[paid]: https://github.com/0pandadev/awesome-windows/raw/main/assets/paid.svg
-[star]: https://github.com/0pandadev/awesome-windows/raw/main/assets/star.svg
+[oss]: https://github.com/0pandadev/awesome-windows/raw/master/assets/opensource.svg
+[paid]: https://github.com/0pandadev/awesome-windows/raw/master/assets/paid.svg
+[star]: https://github.com/0pandadev/awesome-windows/raw/master/assets/star.svg
