@@ -19,7 +19,6 @@ Because of the nature of VBA, many libraries do not work on all Operating System
   - [Parsers / Interpreters](#parsers--interpreters)
   - [Web tools](#web-tools)
 - [Developer tools](#developer-tools)
-- [Miscellaneous](#miscellaneous)
 - [Examples](#examples)
   - [Algorithms, code optimisation, and performance testing](#algorithms-code-optimisation-and-performance-testing)
   - [UI Ribbon](#ui-ribbon)
@@ -185,11 +184,6 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [JSON Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/sancarn/stdVBA-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/sancarn/stdVBA-examples)](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-JSON) - An inspector for JSON data, can be called on demand too as a dev tool for inspecting API responses.
 
 
-## Miscellaneous
-
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Excel Name Manager](https://jkp-ads.com/excel-name-manager.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Excel Flex Find](https://jkp-ads.com/excel-flexfind.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
-
 ## Examples
 
 ### Algorithms, code optimisation, and performance testing
@@ -218,6 +212,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Excel Name Manager](https://jkp-ads.com/excel-name-manager.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Excel Flex Find](https://jkp-ads.com/excel-flexfind.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
+- [![p_win]](#-) [![p_mac]](#-) [![a_wd]](#-) [Word VBA Syntax Highlighter ![GitHub Repo Stars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight) ![GitHub last commit](https://img.shields.io/github/last-commit/joey-melo/vba-syntax-higlight)](https://github.com/joey-melo/vba-syntax-higlight/tree/main) - Custom built Syntax Highlight tool for Word Documents.
 
 ### Games / Fun projects
 
@@ -235,6 +232,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "VSCode") [vscode-vba ![GitHub Repo Stars](https://img.shields.io/github/stars/serkonda7/vscode-vba) ![GitHub last commit](https://img.shields.io/github/last-commit/serkonda7/vscode-vba)](https://github.com/serkonda7/vscode-vba) - Extension that adds VBA editor support to Visual Studio Code.
 - [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer) ![GitHub last commit](https://img.shields.io/github/last-commit/SSlinky/VBA-LanguageServer)](https://github.com/SSlinky/VBA-LanguageServer).
 - [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "Github") [VBA Build ![GitHub Repo Stars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build) ![GitHub last commit](https://img.shields.io/github/last-commit/DecimalTurn/VBA-Build)](https://github.com/DecimalTurn/VBA-Build) - Github action to automatically build a VBA project on commit.
+- [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "Python") [VBA Project Compiler ![GitHub Repo Stars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA) ![GitHub last commit](https://img.shields.io/github/last-commit/Beakerboy/MS-OVBA)](https://github.com/Beakerboy/MS-OVBA) - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Beakerboy/Excel-Addin-Generator) ![GitHub last commit](https://img.shields.io/github/last-commit/Beakerboy/Excel-Addin-Generator)](https://github.com/Beakerboy/Excel-Addin-Generator) made by the same author! You can see a list of related projects by the author [here ![GitHub Repo Stars](https://img.shields.io/github/stars/sancarn/awesome-vba) ![GitHub last commit](https://img.shields.io/github/last-commit/sancarn/awesome-vba)](https://github.com/sancarn/awesome-vba/issues/35).
 
 ## Style Guides
 
