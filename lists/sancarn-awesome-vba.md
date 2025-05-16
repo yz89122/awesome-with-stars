@@ -1,4 +1,4 @@
-# Awesome VBA ![VBALogo](https://github.com/sancarn/awesome-vba/raw/main/resources/VBALogo.png) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome VBA ![VBALogo](https://github.com/sancarn/awesome-vba/raw/master/resources/VBALogo.png) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 Visual Basic for Applications (VBA) is an implementation of Microsoft's event-driven programming language Visual Basic 6.0 (VB6) built into most desktop Microsoft Office applications.
 
@@ -319,11 +319,11 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Platform Compatibility
 
-[p_all]: https://github.com/sancarn/awesome-vba/raw/main/resources/Crown.svg 'Compatible on all platforms'
-[p_mac]: https://github.com/sancarn/awesome-vba/raw/main/resources/AppleLogo.svg 'macOS'
-[p_win]: https://github.com/sancarn/awesome-vba/raw/main/resources/WindowsLogo.svg 'Windows OS'
-[p_now]: https://github.com/sancarn/awesome-vba/raw/main/resources/NotApplicable.svg 'Not Windows OS'
-[p_nom]: https://github.com/sancarn/awesome-vba/raw/main/resources/NotApplicable.svg 'Not macOS'
+[p_all]: https://github.com/sancarn/awesome-vba/raw/master/resources/Crown.svg 'Compatible on all platforms'
+[p_mac]: https://github.com/sancarn/awesome-vba/raw/master/resources/AppleLogo.svg 'macOS'
+[p_win]: https://github.com/sancarn/awesome-vba/raw/master/resources/WindowsLogo.svg 'Windows OS'
+[p_now]: https://github.com/sancarn/awesome-vba/raw/master/resources/NotApplicable.svg 'Not Windows OS'
+[p_nom]: https://github.com/sancarn/awesome-vba/raw/master/resources/NotApplicable.svg 'Not macOS'
 
 - [![p_win]](#-) [![p_mac]](#-) - Available on all platforms
 - [![p_win]](#-) [![p_nom]](#-) - Available on Windows OS only
@@ -331,13 +331,13 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Application compatibility
 
-[a_all]: https://github.com/sancarn/awesome-vba/raw/main/resources/Star.svg 'All applications'
-[a_wd]: https://github.com/sancarn/awesome-vba/raw/main/resources/WordLogo.svg 'Word'
-[a_xl]: https://github.com/sancarn/awesome-vba/raw/main/resources/ExcelLogo.svg 'Excel'
-[a_ac]: https://github.com/sancarn/awesome-vba/raw/main/resources/AccessLogo.svg 'Access'
-[a_ol]: https://github.com/sancarn/awesome-vba/raw/main/resources/OutlookLogo.svg 'Outlook'
-[a_pp]: https://github.com/sancarn/awesome-vba/raw/main/resources/PowerPointLogo.svg 'PowerPoint'
-[a_misc]: https://github.com/sancarn/awesome-vba/raw/main/resources/Duck.svg
+[a_all]: https://github.com/sancarn/awesome-vba/raw/master/resources/OfficeLogoPlus.svg 'All applications'
+[a_wd]: https://github.com/sancarn/awesome-vba/raw/master/resources/WordLogo.svg 'Word'
+[a_xl]: https://github.com/sancarn/awesome-vba/raw/master/resources/ExcelLogo.svg 'Excel'
+[a_ac]: https://github.com/sancarn/awesome-vba/raw/master/resources/AccessLogo.svg 'Access'
+[a_ol]: https://github.com/sancarn/awesome-vba/raw/master/resources/OutlookLogo.svg 'Outlook'
+[a_pp]: https://github.com/sancarn/awesome-vba/raw/master/resources/PowerPointLogo.svg 'PowerPoint'
+[a_misc]: https://github.com/sancarn/awesome-vba/raw/master/resources/Duck.svg
 
 - [![a_all]](#-) - All applications
 - [![a_wd]](#-) - Word
@@ -349,11 +349,11 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Other important information
 
-[o_32]: https://github.com/sancarn/awesome-vba/raw/main/resources/32-Bit.svg '32-bit only'
-[o_pass]: https://github.com/sancarn/awesome-vba/raw/main/resources/Padlock.svg 'VBA is password protected'
-[o_dll]: https://github.com/sancarn/awesome-vba/raw/main/resources/Dependencies.svg
-[o_inst]: https://github.com/sancarn/awesome-vba/raw/main/resources/Installation.svg 'Requires installation'
-[o_paid]: https://github.com/sancarn/awesome-vba/raw/main/resources/Money.svg
+[o_32]: https://github.com/sancarn/awesome-vba/raw/master/resources/32-Bit.svg '32-bit only'
+[o_pass]: https://github.com/sancarn/awesome-vba/raw/master/resources/Padlock.svg 'VBA is password protected'
+[o_dll]: https://github.com/sancarn/awesome-vba/raw/master/resources/Dependencies.svg
+[o_inst]: https://github.com/sancarn/awesome-vba/raw/master/resources/Installation.svg 'Requires installation'
+[o_paid]: https://github.com/sancarn/awesome-vba/raw/master/resources/Money.svg
 
 - [![o_32]](#-) - 32-bit only
 - [![o_pass]](#-) - Written in VBA but the code is password protected
