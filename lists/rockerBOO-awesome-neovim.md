@@ -1464,6 +1464,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Formatting
 
+- [TheLazyCat00/simple-format ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLazyCat00/simple-format) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLazyCat00/simple-format)](https://github.com/TheLazyCat00/simple-format) - Replace text using custom regex and highlight group rules, useful for formatting whitespace.
 - [gpanders/editorconfig.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gpanders/editorconfig.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gpanders/editorconfig.nvim)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 - [mhartington/formatter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mhartington/formatter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mhartington/formatter.nvim)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
 - [lukas-reineke/lsp-format.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lukas-reineke/lsp-format.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lukas-reineke/lsp-format.nvim)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
