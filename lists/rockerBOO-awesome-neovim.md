@@ -713,6 +713,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [m15a/nvim-srcerite ![GitHub Repo Stars](https://img.shields.io/github/stars/m15a/nvim-srcerite) ![GitHub last commit](https://img.shields.io/github/last-commit/m15a/nvim-srcerite)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 - [neko-night/nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neko-night/nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neko-night/nvim)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
 - [ptdewey/monalisa-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/monalisa-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/monalisa-nvim)](https://github.com/ptdewey/monalisa-nvim) - A dark and colorful Mona Lisa inspired colorscheme.
+- [ntk148v/slack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ntk148v/slack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ntk148v/slack.nvim)](https://github.com/ntk148v/slack.nvim) - A ported Slack colorscheme.
 
 ### Lua Colorscheme
 
