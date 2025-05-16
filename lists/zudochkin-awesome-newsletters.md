@@ -362,7 +362,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ### NoSQL
 
-- [mongoDB Weekly](https://mongodb.email/). A free, once���weekly e-mail round-up of MongoDB news and articles.
+- [mongoDB Weekly](https://mongodb.email/). A free, once–weekly e-mail round-up of MongoDB news and articles.
 
 ## Backend Development
 
