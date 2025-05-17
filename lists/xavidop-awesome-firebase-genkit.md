@@ -22,7 +22,7 @@ A collection of awesome things regarding the Genkit ecosystem.
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="/assets/genkit-logo.png">
   <source media="(prefers-color-scheme: dark)" srcset="/assets/genkit-logo-dark.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/xavidop/awesome-firebase-genkit/raw/master/assets/genkit-logo.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/xavidop/awesome-firebase-genkit/raw/main/assets/genkit-logo.png">
 </picture>
 
 <!-- description -->

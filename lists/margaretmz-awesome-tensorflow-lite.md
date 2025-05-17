@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/margaretmz/awesome-tensorflow-lite/raw/master/images/awesome-tflite.png" alt="awesome tflite" width="500">
+    <img src="https://github.com/margaretmz/awesome-tensorflow-lite/raw/main/images/awesome-tflite.png" alt="awesome tflite" width="500">
 </p>
 
 <!-- omit in toc -->
