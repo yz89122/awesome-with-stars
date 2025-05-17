@@ -1,7 +1,7 @@
 <!--lint ignore no-dead-urls-->
 
 <div align="center">
-    <a href="https://github.com/stevinz/awesome-game-engine-dev"><img width="1100" src="https://github.com/stevinz/awesome-game-engine-dev/raw/master/aged-title.png" alt="Awesome Game Engine Dev Logo"/></a>
+    <a href="https://github.com/stevinz/awesome-game-engine-dev"><img width="1100" src="https://github.com/stevinz/awesome-game-engine-dev/raw/main/aged-title.png" alt="Awesome Game Engine Dev Logo"/></a>
 </div>
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme)
