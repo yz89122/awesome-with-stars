@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    <img width="300" src="https://github.com/hallvaaw/awesome-biological-image-analysis/raw/master/awesome-biological-image-analysis.svg" alt="Awesome Biological Image Analysis">
+    <img width="300" src="https://github.com/hallvaaw/awesome-biological-image-analysis/raw/main/awesome-biological-image-analysis.svg" alt="Awesome Biological Image Analysis">
  <br>
  <br>
 </p>
