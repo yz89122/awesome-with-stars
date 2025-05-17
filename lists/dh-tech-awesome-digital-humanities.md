@@ -1,6 +1,6 @@
 # Awesome Digital Humanities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/dh-tech/awesome-digital-humanities/raw/master/android-chrome-512x512.png" align="right" width="100"> ![GitHub Repo Stars](https://img.shields.io/github/stars/dh-tech/awesome-digital-humanities) ![GitHub last commit](https://img.shields.io/github/last-commit/dh-tech/awesome-digital-humanities)](https://github.com/dh-tech/awesome-digital-humanities/)
+[<img src="https://github.com/dh-tech/awesome-digital-humanities/raw/main/android-chrome-512x512.png" align="right" width="100"> ![GitHub Repo Stars](https://img.shields.io/github/stars/dh-tech/awesome-digital-humanities) ![GitHub last commit](https://img.shields.io/github/last-commit/dh-tech/awesome-digital-humanities)](https://github.com/dh-tech/awesome-digital-humanities/)
 
 > Software for humanities scholars using quantitative or computational methods.
 
