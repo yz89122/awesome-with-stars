@@ -1,15 +1,15 @@
 # Awesome PowerToys Run Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
 <!--lint disable double-link-->
-[<img src="https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/master/powertoys-logo.png" align="right" width="100">](https://learn.microsoft.com/en-us/windows/powertoys/run)
+[<img src="https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/main/powertoys-logo.png" align="right" width="100">](https://learn.microsoft.com/en-us/windows/powertoys/run)
 
 > A curated list of [PowerToys Run](https://learn.microsoft.com/en-us/windows/powertoys/run) community plugins and resources
 <!--lint enable double-link-->
 
 PowerToys Run is a quick launcher for Windows. It is open-source and modular for additional plugins.
 
-![PowerToys Run](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/master/launcher-dark.png)
-![PowerToys Run](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/master/launcher-light.png)
+![PowerToys Run](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/main/launcher-dark.png)
+![PowerToys Run](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/raw/main/launcher-light.png)
 
 ## Contents<!-- omit in toc -->
 
