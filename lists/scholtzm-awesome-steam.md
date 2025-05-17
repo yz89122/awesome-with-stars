@@ -129,6 +129,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steampy ![GitHub Repo Stars](https://img.shields.io/github/stars/bukson/steampy) ![GitHub last commit](https://img.shields.io/github/last-commit/bukson/steampy)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 - [SteamAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/smiley/steamapi) ![GitHub last commit](https://img.shields.io/github/last-commit/smiley/steamapi)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 - [Steam-Trade ![GitHub Repo Stars](https://img.shields.io/github/stars/Zwork101/steam-trade) ![GitHub last commit](https://img.shields.io/github/last-commit/Zwork101/steam-trade)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
+- [aiosteampy ![GitHub Repo Stars](https://img.shields.io/github/stars/somespecialone/aiosteampy) ![GitHub last commit](https://img.shields.io/github/last-commit/somespecialone/aiosteampy)](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
 
 #### Game Interaction
 
