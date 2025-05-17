@@ -151,7 +151,7 @@ Recipes for Fiber.
 - [alpody/golang-fiber-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/alpody/golang-fiber-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/alpody/golang-fiber-realworld-example-app)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
 - [paundraP/golang-starter-template ![GitHub Repo Stars](https://img.shields.io/github/stars/paundraP/Go-Starter-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/paundraP/Go-Starter-Template)](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
-## 🛠️ Tools
+## 🛠�� Tools
 
 Several tools to make Fiber usage easier.
 
