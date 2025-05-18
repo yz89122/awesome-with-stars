@@ -3,7 +3,7 @@
 > A curated list of awesome Prometheus resources, projects and tools.
 
 <!--lint ignore double-link-->
-[![Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/roaldnefs/awesome-prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/roaldnefs/awesome-prometheus)](https://github.com/roaldnefs/awesome-prometheus/raw/master/media/prometheus.png)](https://prometheus.io/)
+[![Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/roaldnefs/awesome-prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/roaldnefs/awesome-prometheus)](https://github.com/roaldnefs/awesome-prometheus/raw/main/media/prometheus.png)](https://prometheus.io/)
 
 Prometheus is an open-source systems monitoring and alerting toolkit.
 

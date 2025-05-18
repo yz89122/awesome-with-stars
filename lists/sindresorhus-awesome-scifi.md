@@ -254,7 +254,7 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt)
 
-> The second novel in Lewis’s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
+> The second novel in Lewis��s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
 
 #### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) _by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)_ [4.3]
 
