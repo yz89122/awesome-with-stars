@@ -44,7 +44,7 @@ xattr -d -r com.apple.quarantine ~/Library/QuickLook
 
 Run `brew install qlcolorcode` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/anthonygelibert/QLColorCode) ![GitHub last commit](https://img.shields.io/github/last-commit/anthonygelibert/QLColorCode)](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
 ### [QLStephen ![GitHub Repo Stars](https://img.shields.io/github/stars/whomwah/qlstephen) ![GitHub last commit](https://img.shields.io/github/last-commit/whomwah/qlstephen)](https://github.com/whomwah/qlstephen)
 
@@ -52,7 +52,7 @@ Run `brew install qlcolorcode` or [download manually ![GitHub Repo Stars](https:
 
 Run `brew install qlstephen` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/whomwah/qlstephen) ![GitHub last commit](https://img.shields.io/github/last-commit/whomwah/qlstephen)](https://github.com/whomwah/qlstephen/releases/latest)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
 ### [QLMarkdown ![GitHub Repo Stars](https://img.shields.io/github/stars/toland/qlmarkdown) ![GitHub last commit](https://img.shields.io/github/last-commit/toland/qlmarkdown)](https://github.com/toland/qlmarkdown)
 
@@ -60,7 +60,7 @@ Run `brew install qlstephen` or [download manually ![GitHub Repo Stars](https://
 
 Run `brew install qlmarkdown` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/downloads/toland) ![GitHub last commit](https://img.shields.io/github/last-commit/downloads/toland)](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
 
@@ -68,7 +68,7 @@ Run `brew install qlmarkdown` or [download manually ![GitHub Repo Stars](https:/
 
 Run `brew install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
 
@@ -80,7 +80,7 @@ Run `brew install betterzip` to install the BetterZip app and its Quick Look plu
 
 The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 ### [qlImageSize ![GitHub Repo Stars](https://img.shields.io/github/stars/Nyx0uf/qlImageSize) ![GitHub last commit](https://img.shields.io/github/last-commit/Nyx0uf/qlImageSize)](https://github.com/Nyx0uf/qlImageSize)
 
@@ -88,7 +88,7 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 Run `brew install qlimagesize` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/Nyx0uf/qlImageSize) ![GitHub last commit](https://img.shields.io/github/last-commit/Nyx0uf/qlImageSize)](https://github.com/Nyx0uf/qlImageSize#installation)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 ### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
 
@@ -96,7 +96,7 @@ Run `brew install qlimagesize` or [download manually ![GitHub Repo Stars](https:
 
 Run `brew install suspicious-package` or [download manually](https://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
 
 ### [Apparency](https://www.mothersruin.com/software/Apparency/)
 
@@ -104,7 +104,7 @@ Run `brew install suspicious-package` or [download manually](https://www.mothers
 
 Run `brew install apparency` or [download manually](https://mothersruin.com/software/downloads/Apparency.dmg)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
 
 ### [QuickLookASE ![GitHub Repo Stars](https://img.shields.io/github/stars/rsodre/QuickLookASE) ![GitHub last commit](https://img.shields.io/github/last-commit/rsodre/QuickLookASE)](https://github.com/rsodre/QuickLookASE)
 
@@ -112,7 +112,7 @@ Run `brew install apparency` or [download manually](https://mothersruin.com/soft
 
 Run `brew install quicklookase` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/rsodre/QuickLookASE) ![GitHub last commit](https://img.shields.io/github/last-commit/rsodre/QuickLookASE)](https://github.com/rsodre/QuickLookASE/releases/latest)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
 ### [QLVideo ![GitHub Repo Stars](https://img.shields.io/github/stars/Marginal/QLVideo) ![GitHub last commit](https://img.shields.io/github/last-commit/Marginal/QLVideo)](https://github.com/Marginal/QLVideo)
 
@@ -120,7 +120,7 @@ Run `brew install quicklookase` or [download manually ![GitHub Repo Stars](https
 
 Run `brew install qlvideo` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/Marginal/QLVideo) ![GitHub last commit](https://img.shields.io/github/last-commit/Marginal/QLVideo)](https://github.com/Marginal/QLVideo/releases/latest)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
 ## More
 
@@ -134,7 +134,7 @@ Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension
 
 *The app is abandoned and buggy, but still functional.*
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/Peek.png)](https://bigzlabs.com/peek)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Peek.png)](https://bigzlabs.com/peek)
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰
 
@@ -142,7 +142,7 @@ Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension
 
 Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
 ### [ProvisionQL ![GitHub Repo Stars](https://img.shields.io/github/stars/ealeksandrov/ProvisionQL) ![GitHub last commit](https://img.shields.io/github/last-commit/ealeksandrov/ProvisionQL)](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -150,7 +150,7 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 Run `brew install provisionql` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/ealeksandrov/ProvisionQL) ![GitHub last commit](https://img.shields.io/github/last-commit/ealeksandrov/ProvisionQL)](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 ### [QuickLookAPK ![GitHub Repo Stars](https://img.shields.io/github/stars/hezi/QuickLookAPK) ![GitHub last commit](https://img.shields.io/github/last-commit/hezi/QuickLookAPK)](https://github.com/hezi/QuickLookAPK)
 
@@ -158,7 +158,7 @@ Run `brew install provisionql` or [download manually ![GitHub Repo Stars](https:
 
 Run `brew install quicklookapk` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/hezi/QuickLookAPK) ![GitHub last commit](https://img.shields.io/github/last-commit/hezi/QuickLookAPK)](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
 ### [quicklook-pat ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelrowdies/quicklook-pat) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelrowdies/quicklook-pat)](https://github.com/pixelrowdies/quicklook-pat)
 
@@ -166,7 +166,7 @@ Run `brew install quicklookapk` or [download manually ![GitHub Repo Stars](https
 
 Run `brew install quicklook-pat` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelrowdies/quicklook-pat) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelrowdies/quicklook-pat)](https://github.com/pixelrowdies/quicklook-pat/releases)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
 ### [WebP ![GitHub Repo Stars](https://img.shields.io/github/stars/dchest/webp-quicklook) ![GitHub last commit](https://img.shields.io/github/last-commit/dchest/webp-quicklook)](https://github.com/dchest/webp-quicklook)
 
@@ -176,7 +176,7 @@ Run `brew install quicklook-pat` or [download manually ![GitHub Repo Stars](http
 
 Run `brew install webpquicklook` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/dchest/webp-quicklook) ![GitHub last commit](https://img.shields.io/github/last-commit/dchest/webp-quicklook)](https://github.com/dchest/webp-quicklook/releases/latest)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/master/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 ### [SourceCodeSyntaxHighlight ![GitHub Repo Stars](https://img.shields.io/github/stars/sbarex/SourceCodeSyntaxHighlight) ![GitHub last commit](https://img.shields.io/github/last-commit/sbarex/SourceCodeSyntaxHighlight)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 

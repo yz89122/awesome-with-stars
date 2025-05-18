@@ -10,7 +10,7 @@
 	<br />
 	<div>
 		<a href="https://github.com/JoseDeFreitas/awesome-youtubers">
-			<img width="428" src="https://github.com/JoseDeFreitas/awesome-youtubers/raw/main/logo.svg" alt="Awesome YouTubers logo">
+			<img width="428" src="https://github.com/JoseDeFreitas/awesome-youtubers/raw/master/logo.svg" alt="Awesome YouTubers logo">
 		</a>
 	</div>
 </div>

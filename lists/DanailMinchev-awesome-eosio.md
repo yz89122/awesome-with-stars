@@ -1,6 +1,6 @@
 # Awesome EOSIO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/DanailMinchev/awesome-eosio/raw/master/eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
+[<img src="https://github.com/DanailMinchev/awesome-eosio/raw/main/eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
 
 > A curated list of awesome **EOSIO** resources for users and developers.
 
