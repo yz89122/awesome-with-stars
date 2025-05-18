@@ -290,7 +290,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [JSON Serve](https://jsonserve.com/) — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.
-  * [JSONing](https://jsoning.com/api/) �� Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
+  * [JSONing](https://jsoning.com/api/) — Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
   * [konghq.com](https://konghq.com/) — API Marketplace and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.
   * [Kreya](https://kreya.app) — Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
   * [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
@@ -1309,7 +1309,7 @@ Update Time, five active automations, webhooks.
   * [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [Dynv6.com](https://dynv6.com/) — Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting. Also, provide free subdomains based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from the "Subdomains" menu after signing up.
-  * [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
+  * [luadns.com](https://www.luadns.com/) ��� Free DNS hosting, three domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on the number of domains
   * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
   * [noip.at](https://noip.at/) — Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
