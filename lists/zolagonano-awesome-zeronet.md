@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://zeronet.io"><img width="100" src="https://github.com/zolagonano/awesome-zeronet/raw/master/assets/logo.png" alt="ZeroNet's logo"></a>
+  <a href="https://zeronet.io"><img width="100" src="https://github.com/zolagonano/awesome-zeronet/raw/main/assets/logo.png" alt="ZeroNet's logo"></a>
   <br>
 </p>
 
