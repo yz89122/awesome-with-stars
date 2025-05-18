@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://tdengine.com"><img width="240" src="https://github.com/taosdata/awesome-tdengine/raw/master/assets/logo.svg" alt="logo of awesome-tdengine repository"></a>
+  <a href="https://tdengine.com"><img width="240" src="https://github.com/taosdata/awesome-tdengine/raw/main/assets/logo.svg" alt="logo of awesome-tdengine repository"></a>
   <br>
   <br>
 </p>
