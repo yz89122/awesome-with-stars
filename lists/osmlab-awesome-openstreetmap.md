@@ -1,6 +1,6 @@
 # Awesome OpenStreetMap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/osmlab/awesome-openstreetmap/raw/main/osm-logo.svg" align="right" width="100">](https://www.openstreetmap.org/about)
+[<img src="https://github.com/osmlab/awesome-openstreetmap/raw/master/osm-logo.svg" align="right" width="100">](https://www.openstreetmap.org/about)
 
 > A curated list of awesome [OpenStreetMap](https://www.openstreetmap.org)-projects.
 
@@ -298,4 +298,4 @@ OpenStreetMap and the OpenStreetMap Logo are a trademark of the OpenStreetMap Fo
 
 The OpenStreetMap Logo by Ken Vermette is used under the Creative Commons Attribution-ShareAlike 3.0 License.
 
-[^selfhosted-only]: https://github.com/osmlab/awesome-openstreetmap/raw/main/This project does not provide a hosted instance and has to be self-deployed. Refer to the project's website for instructions.
+[^selfhosted-only]: https://github.com/osmlab/awesome-openstreetmap/raw/master/This project does not provide a hosted instance and has to be self-deployed. Refer to the project's website for instructions.
