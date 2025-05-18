@@ -4,7 +4,7 @@
 	<div>
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.svg">
-			<img alt="Awesome ChatGPT" width="500px" src="https://github.com/sindresorhus/awesome-chatgpt/raw/master/media/logo.svg">
+			<img alt="Awesome ChatGPT" width="500px" src="https://github.com/sindresorhus/awesome-chatgpt/raw/main/media/logo.svg">
 		</picture>
 		<br>
 	</div>
