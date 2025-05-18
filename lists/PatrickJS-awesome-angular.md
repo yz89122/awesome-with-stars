@@ -1826,6 +1826,7 @@ to simplify usage and allow quick customization.
 * [ng-mat-select-infinite-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/HaidarZ/ng-mat-select-infinite-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/HaidarZ/ng-mat-select-infinite-scroll)](https://github.com/HaidarZ/ng-mat-select-infinite-scroll) - Infinite Scroll directive for Angular Material select component.
 * [horizontal-scroller ![GitHub Repo Stars](https://img.shields.io/github/stars/miminerd/horizontal-scroller) ![GitHub last commit](https://img.shields.io/github/last-commit/miminerd/horizontal-scroller)](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
 * [simplebar ![GitHub Repo Stars](https://img.shields.io/github/stars/Grsmto/simplebar) ![GitHub last commit](https://img.shields.io/github/last-commit/Grsmto/simplebar)](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
+* [ngx-responsive-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/dcbeck/ngx-responsive-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/dcbeck/ngx-responsive-virtual-scroll)](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, responsive grid lists, and view caching.
 
 #### State Management
 
