@@ -449,6 +449,7 @@ _Libraries that facilitate functional programming._
 - [Fugue](https://bitbucket.org/atlassian/fugue) - Functional extensions to Guava.
 - [Functional Java](http://www.functionaljava.org) - Implements numerous basic and advanced programming abstractions that assist composition-oriented development.
 - [jOOλ ![GitHub Repo Stars](https://img.shields.io/github/stars/jOOQ/jOOL) ![GitHub last commit](https://img.shields.io/github/last-commit/jOOQ/jOOL)](https://github.com/jOOQ/jOOL) - Extension to Java 8 that aims to fix gaps in lambda by providing numerous missing types and a rich set of sequential Stream API additions.
+- [Packrat ![GitHub Repo Stars](https://img.shields.io/github/stars/jhspetersson/packrat) ![GitHub last commit](https://img.shields.io/github/last-commit/jhspetersson/packrat)](https://github.com/jhspetersson/packrat) - Gatherers library for Java Stream API. Gatherers can enhance streams with custom intermediate operations.
 - [protonpack ![GitHub Repo Stars](https://img.shields.io/github/stars/poetix/protonpack) ![GitHub last commit](https://img.shields.io/github/last-commit/poetix/protonpack)](https://github.com/poetix/protonpack) - Collection of stream utilities.
 - [StreamEx ![GitHub Repo Stars](https://img.shields.io/github/stars/amaembo/streamex) ![GitHub last commit](https://img.shields.io/github/last-commit/amaembo/streamex)](https://github.com/amaembo/streamex) - Enhances Java 8 Streams.
 - [Vavr](https://www.vavr.io) - Functional component library that provides persistent data types and functional control structures.
@@ -1106,6 +1107,7 @@ _Everything related to the creation and handling of random data._
 _Provide environments to run tests for a specific use case._
 
 - [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
+- [JMeter DSL.java](https://abstracta.github.io/jmeter-java-dsl/) - Load tests with JMeter as simple as a Junit test.
 - [Arquillian](http://arquillian.org) - Integration and functional testing platform for Java EE containers.
 - [cdi-test ![GitHub Repo Stars](https://img.shields.io/github/stars/guhilling/cdi-test) ![GitHub last commit](https://img.shields.io/github/last-commit/guhilling/cdi-test)](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
 - [Citrus](https://citrusframework.org) - Integration testing framework that focuses on both client- and server-side messaging.
