@@ -99,6 +99,7 @@ _Frameworks and libraries that help implementing and verifying design and archit
 _Frameworks that help you to leverage LLMs and AI._
 
 - [LangChain4j ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain4j/langchain4j) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain4j/langchain4j)](https://github.com/langchain4j/langchain4j) - Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
+- [MCP Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/java-sdk)](https://github.com/modelcontextprotocol/java-sdk) -  Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
 - [Spring AI](https://spring.io/projects/spring-ai) - Application framework for AI engineering for Spring.
 
 ### Bean Mapping
