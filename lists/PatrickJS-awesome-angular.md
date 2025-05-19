@@ -655,6 +655,7 @@ become an Angular expert.
 * [manifest ![GitHub Repo Stars](https://img.shields.io/github/stars/mnfst/manifest) ![GitHub last commit](https://img.shields.io/github/last-commit/mnfst/manifest)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 * [zed-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/nathansbradshaw/zed-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/nathansbradshaw/zed-angular)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 * [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - Powerful Angular internationalization (i18n) extension for VS Code that displays translations inline, provides autocompletion for i18n keys in TypeScript and HTML files, and offers quick access to translation files. Streamline your multilingual development workflow.
+* [ngx-unused ![GitHub Repo Stars](https://img.shields.io/github/stars/wgrabowski/ngx-unused) ![GitHub last commit](https://img.shields.io/github/last-commit/wgrabowski/ngx-unused)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 
 #### Documentation tools
 
@@ -1908,6 +1909,7 @@ to simplify usage and allow quick customization.
 * [signaldb ![GitHub Repo Stars](https://img.shields.io/github/stars/maxnowack/signaldb) ![GitHub last commit](https://img.shields.io/github/last-commit/maxnowack/signaldb)](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
 * [dexie ![GitHub Repo Stars](https://img.shields.io/github/stars/dexie/Dexie.js) ![GitHub last commit](https://img.shields.io/github/last-commit/dexie/Dexie.js)](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB.
 * [angular-web-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/angular-web-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/angular-web-storage)](https://github.com/cipchk/angular-web-storage) - Angular decorator to save and restore of HTML5 Local & Session Storage.
+* [indexeddb-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/AshenHiroshana/indexeddb-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/AshenHiroshana/indexeddb-helper)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
 
 #### Tooltips
 

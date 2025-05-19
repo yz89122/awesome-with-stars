@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="500" src="https://github.com/sindresorhus/awesome-nodejs/raw/master/media/logo.svg" alt="Awesome Node.js">
+		<img width="500" src="https://github.com/sindresorhus/awesome-nodejs/raw/main/media/logo.svg" alt="Awesome Node.js">
 		<br>
 	</div>
 	<br>

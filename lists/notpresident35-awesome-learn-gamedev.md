@@ -184,7 +184,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
 
-[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) ���� - An extensive tutorial series.
+[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) 💠 - An extensive tutorial series.
 
 
 [Game Engine Architecture](https://www.gameenginebook.com/) 🟪 - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
@@ -441,7 +441,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### VFX
 
 
-[Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) 💠🟪 - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
+[Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) ���🟪 - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
 
 
 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) 🟪 - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
