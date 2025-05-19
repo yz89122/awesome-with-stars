@@ -364,7 +364,7 @@ This book is not just filled to the brim with interesting and novel ideas about 
 <details>
   <summary>Description</summary>
 
-  > In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion �� four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
+  > In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
 </details>
 
 ##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.4]

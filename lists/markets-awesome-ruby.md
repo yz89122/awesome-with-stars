@@ -401,6 +401,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## Configuration
 
+* [AnywayConfig ![GitHub Repo Stars](https://img.shields.io/github/stars/palkan/anyway_config) ![GitHub last commit](https://img.shields.io/github/last-commit/palkan/anyway_config)](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications, supporting multiple sources (yml, secrets) and environments.
 * [Chamber ![GitHub Repo Stars](https://img.shields.io/github/stars/thekompanee/chamber) ![GitHub last commit](https://img.shields.io/github/last-commit/thekompanee/chamber)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 * [Configatron ![GitHub Repo Stars](https://img.shields.io/github/stars/markbates/configatron) ![GitHub last commit](https://img.shields.io/github/last-commit/markbates/configatron)](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
 * [Configus ![GitHub Repo Stars](https://img.shields.io/github/stars/kaize/configus) ![GitHub last commit](https://img.shields.io/github/last-commit/kaize/configus)](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
@@ -600,7 +601,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Documentation
 
-* [AnnotateRb ![GitHub Repo Stars](https://img.shields.io/github/stars/drwl/annotaterb) ![GitHub last commit](https://img.shields.io/github/last-commit/drwl/annotaterb)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate. 
+* [AnnotateRb ![GitHub Repo Stars](https://img.shields.io/github/stars/drwl/annotaterb) ![GitHub last commit](https://img.shields.io/github/last-commit/drwl/annotaterb)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
 * [Apipie ![GitHub Repo Stars](https://img.shields.io/github/stars/Apipie/apipie-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/Apipie/apipie-rails)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/adamcooke/documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/adamcooke/documentation)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
@@ -969,7 +970,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## ORM/ODM Extensions
 
 * Auditing and Versioning
-  * [active_snapshot ![GitHub Repo Stars](https://img.shields.io/github/stars/westonganger/active_snapshot) ![GitHub last commit](https://img.shields.io/github/last-commit/westonganger/active_snapshot)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation 
+  * [active_snapshot ![GitHub Repo Stars](https://img.shields.io/github/stars/westonganger/active_snapshot) ![GitHub last commit](https://img.shields.io/github/last-commit/westonganger/active_snapshot)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
   * [acts_as_archival ![GitHub Repo Stars](https://img.shields.io/github/stars/expectedbehavior/acts_as_archival) ![GitHub last commit](https://img.shields.io/github/last-commit/expectedbehavior/acts_as_archival)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
   * [ActsAsParanoid ![GitHub Repo Stars](https://img.shields.io/github/stars/ActsAsParanoid/acts_as_paranoid) ![GitHub last commit](https://img.shields.io/github/last-commit/ActsAsParanoid/acts_as_paranoid)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited ![GitHub Repo Stars](https://img.shields.io/github/stars/collectiveidea/audited) ![GitHub last commit](https://img.shields.io/github/last-commit/collectiveidea/audited)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
