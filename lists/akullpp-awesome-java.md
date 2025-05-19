@@ -12,6 +12,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Bytecode Manipulation](#bytecode-manipulation)
   - [Caching](#caching)
   - [CLI](#cli)
+  - [Cloud](#cloud)
   - [Code Analysis](#code-analysis)
   - [Code Coverage](#code-coverage)
   - [Code Generators](#code-generators)
@@ -167,6 +168,13 @@ _Libraries that provide TUI frameworks, or building blocks related functions._
 - [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [Text-IO ![GitHub Repo Stars](https://img.shields.io/github/stars/beryx/text-io) ![GitHub last commit](https://img.shields.io/github/last-commit/beryx/text-io)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 - [Lanterna ![GitHub Repo Stars](https://img.shields.io/github/stars/mabe02/lanterna) ![GitHub last commit](https://img.shields.io/github/last-commit/mabe02/lanterna)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
+
+### Cloud
+
+_Libraries to integrate or use cloud-specific features._
+
+- [AWS SDK for Java ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-java) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-java)](https://github.com/aws/aws-sdk-java) - Provides Java APIs for interacting with Amazon Web Services.
+- [Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java) - Client libraries for accessing Google Cloud services from Java applications.
 
 ### Code Analysis
 
@@ -695,7 +703,6 @@ _Tools for creating and managing microservices._
 
 _Everything else._
 
-- [AWS SDK for Java 2.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-java-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-java-v2)](https://github.com/aws/aws-sdk-java-v2) - Wrapper around AWS' API.
 - [CQEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/npgall/cqengine) ![GitHub last commit](https://img.shields.io/github/last-commit/npgall/cqengine)](https://github.com/npgall/cqengine) - Ultra-fast, SQL-like queries on Java collections.
 - [Design Patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/iluwatar/java-design-patterns)](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
 - [FF4J ![GitHub Repo Stars](https://img.shields.io/github/stars/ff4j/ff4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ff4j/ff4j)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
@@ -744,6 +751,7 @@ _Tools for creating or managing mobile applications._
 
 _Tools that observe/monitor applications in production by providing telemetry._
 
+- [Apitally ![GitHub Repo Stars](https://img.shields.io/github/stars/apitally/apitally-java) ![GitHub last commit](https://img.shields.io/github/last-commit/apitally/apitally-java)](https://github.com/apitally/apitally-java) - Simple, privacy-focused API monitoring, analytics and request logging for Spring Boot apps.
 - [Automon ![GitHub Repo Stars](https://img.shields.io/github/stars/stevensouza/automon) ![GitHub last commit](https://img.shields.io/github/last-commit/stevensouza/automon)](https://github.com/stevensouza/automon) - Combines the power of AOP with monitoring and/or logging tools.
 - [Datadog ![c]](https://github.com/DataDog/dd-trace-java) - Modern monitoring & analytics.
 - [Dropwizard Metrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dropwizard/metrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dropwizard/metrics)](https://github.com/dropwizard/metrics) - Expose metrics via JMX or HTTP and send them to a database.
@@ -777,7 +785,7 @@ _For working with platform-specific native libraries._
 - [JavaCPP ![GitHub Repo Stars](https://img.shields.io/github/stars/bytedeco/javacpp) ![GitHub last commit](https://img.shields.io/github/last-commit/bytedeco/javacpp)](https://github.com/bytedeco/javacpp) - Provides efficient and easy access to native C++.
 - [JNA ![GitHub Repo Stars](https://img.shields.io/github/stars/java-native-access/jna) ![GitHub last commit](https://img.shields.io/github/last-commit/java-native-access/jna)](https://github.com/java-native-access/jna) - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
 - [JNR ![GitHub Repo Stars](https://img.shields.io/github/stars/jnr/jnr-ffi) ![GitHub last commit](https://img.shields.io/github/last-commit/jnr/jnr-ffi)](https://github.com/jnr/jnr-ffi) - Work with native libraries without writing JNI. Also provides interfaces to common system libraries. Same goals as JNA, but faster, and serves as the basis for the upcoming [Project Panama](http://openjdk.java.net/projects/panama).
-- [native-lib-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/scijava/native-lib-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/scijava/native-lib-loader)](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java. 
+- [native-lib-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/scijava/native-lib-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/scijava/native-lib-loader)](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java.
 
 ### Natural Language Processing
 
@@ -818,7 +826,7 @@ _APIs that handle the persistence of objects._
 - [EclipseLink](https://www.eclipse.org/eclipselink/) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
 - [Hibernate](http://hibernate.org/orm/) - Robust and widely used, with an active community. (LGPL-2.1-only)
 - [MyBatis ![GitHub Repo Stars](https://img.shields.io/github/stars/mybatis/mybatis-3) ![GitHub last commit](https://img.shields.io/github/last-commit/mybatis/mybatis-3)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
-- [MyBatis-Plus ![GitHub Repo Stars](https://img.shields.io/github/stars/baomidou/mybatis-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/baomidou/mybatis-plus)](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development.
+- [MyBatis-Plus ![GitHub Repo Stars](https://img.shields.io/github/stars/baomidou/mybatis-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/baomidou/mybatis-plus)](https://github.com/baomidou/mybatis-plus) - A powerful enhanced toolkit of MyBatis for simplifying development.
 - [ObjectiveSql ![GitHub Repo Stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql) ![GitHub last commit](https://img.shields.io/github/last-commit/braisdom/ObjectiveSql)](https://github.com/braisdom/ObjectiveSql) - ActiveRecord ORM for rapid development and convention over configuration.
 - [Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 - [SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper) - Simple database and CSV mapper.
@@ -944,7 +952,7 @@ _Libraries for developing reactive applications._
 
 - [Akka](https://akka.io) - Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
 - [Reactive Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/reactive-streams/reactive-streams-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/reactive-streams/reactive-streams-jvm)](https://github.com/reactive-streams/reactive-streams-jvm) - Provides a standard for asynchronous stream processing with non-blocking backpressure.
-- [Reactor ![GitHub Repo Stars](https://img.shields.io/github/stars/reactor/reactor-core) ![GitHub last commit](https://img.shields.io/github/last-commit/reactor/reactor-core)](https://github.com/reactor/reactor-core) - Library for building reactive fast-data applications.
+- [Reactor ![GitHub Repo Stars](https://img.shields.io/github/stars/reactor/reactor) ![GitHub last commit](https://img.shields.io/github/last-commit/reactor/reactor)](https://github.com/reactor/reactor) - A framework for building non-blocking applications on the JVM, providing support for reactive programming.
 - [RxJava ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/RxJava) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/RxJava)](https://github.com/ReactiveX/RxJava) - Allows for composing asynchronous and event-based programs using observable sequences.
 - [vert.x](https://vertx.io) - Polyglot event-driven application framework.
 
@@ -1233,6 +1241,7 @@ _Awesome Lists related to the Java & JVM ecosystem._
 - [Awesome Annotation Processing ![GitHub Repo Stars](https://img.shields.io/github/stars/gunnarmorling/awesome-annotation-processing) ![GitHub last commit](https://img.shields.io/github/last-commit/gunnarmorling/awesome-annotation-processing)](https://github.com/gunnarmorling/awesome-annotation-processing)
 - [Awesome Graal ![GitHub Repo Stars](https://img.shields.io/github/stars/neomatrix369/awesome-graal) ![GitHub last commit](https://img.shields.io/github/last-commit/neomatrix369/awesome-graal)](https://github.com/neomatrix369/awesome-graal)
 - [Awesome Gradle Plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/ksoichiro/awesome-gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/ksoichiro/awesome-gradle)](https://github.com/ksoichiro/awesome-gradle)
+- [Awesome Java libraries and hidden gems](https://libs.tech/java)
 - [Awesome J2ME ![GitHub Repo Stars](https://img.shields.io/github/stars/hstsethi/awesome-j2me) ![GitHub last commit](https://img.shields.io/github/last-commit/hstsethi/awesome-j2me)](https://github.com/hstsethi/awesome-j2me)
 - [AwesomeJavaFX ![GitHub Repo Stars](https://img.shields.io/github/stars/mhrimaz/AwesomeJavaFX) ![GitHub last commit](https://img.shields.io/github/last-commit/mhrimaz/AwesomeJavaFX)](https://github.com/mhrimaz/AwesomeJavaFX)
 - [Awesome JVM ![GitHub Repo Stars](https://img.shields.io/github/stars/deephacks/awesome-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/deephacks/awesome-jvm)](https://github.com/deephacks/awesome-jvm)
