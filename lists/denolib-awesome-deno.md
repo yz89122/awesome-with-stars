@@ -1,6 +1,6 @@
 # Awesome Deno [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/denolib/awesome-deno/raw/main/deno-logo.png" align="right" width="100">](https://deno.land)
+[<img src="https://github.com/denolib/awesome-deno/raw/master/deno-logo.png" align="right" width="100">](https://deno.land)
 
 Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
@@ -500,7 +500,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Darija
 
-- [A first look at Deno | BlaBlaConf 2021 🇲��](https://www.youtube.com/watch?v=Y_etUvzAa4s)
+- [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
 
 ### Kurdish (Central)
 
