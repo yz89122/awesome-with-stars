@@ -4,7 +4,7 @@
 A curated collection of resources covering [Apache JMeter](https://jmeter.apache.org/) and related stuff and shiny things: plugins, integrations, testing techniques, DevOps practices, etc.
 
 <!--lint ignore double-link-->
-[<img src="https://github.com/aliesbelik/awesome-jmeter/raw/master/assets/images/jmeter-logo.svg" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
+[<img src="https://github.com/aliesbelik/awesome-jmeter/raw/main/assets/images/jmeter-logo.svg" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
 
 <!--lint ignore double-link-->
 > [Apache JMeter](https://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.

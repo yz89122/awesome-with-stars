@@ -9,7 +9,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/tomodachi94/awesome-computercraft/raw/master/assets/cc-tweaked-logo.png" align="right" width="100">](https://computercraft.cc)
+[<img src="https://github.com/tomodachi94/awesome-computercraft/raw/main/assets/cc-tweaked-logo.png" align="right" width="100">](https://computercraft.cc)
 
 > Useful programs, libraries, literature, and mods for [ComputerCraft](https://computercraft.info) and [its forks](https://computercraft.cc).
 
