@@ -345,7 +345,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 * [ESP32 Drone](https://hackaday.io/project/188578-esp32-drone) - no traditional FPV, but low cost quad using ESP32 board, 2022.
 * [Wifree-copter](https://open-diy-projects.com/wifree-copter/) - Easy 3D printed copter that uses RPI as WIFI remote control with App, 2016.
 
-## Security & Safety ��
+## Security & Safety 🪂
 
 ### Simulators 🌐
 
@@ -436,7 +436,7 @@ Free and useful applications to use on your mobile device. Might be not nessesar
 Depending on the country you live in, the laws and legal rules of airspace may vary.
 
 * [Luftfahrt Bundesamt](https://www.lba.de/DE/Drohnen/Drohnen_node.html) - 🇩🇪 Rechtlicher Rahmen.
-* [Deutsche Flugsicherung GmbH](https://www.dfs.de/homepage/de/drohnenflug/) - 🇩🇪 Durchführung von Prüfungen und Zulassungen.
+* [Deutsche Flugsicherung GmbH](https://www.dfs.de/homepage/de/drohnenflug/) - 🇩🇪 Durchf��hrung von Prüfungen und Zulassungen.
 * [Digitale Plattform Unbemannte Luftfahrt](https://www.dipul.de/homepage/de/) - 🇩🇪 Kartenplattform, mit alternativ [Droniq App](https://play.google.com/store/apps/details?id=de.droniq.droniqapp&hl=de&gl=US).
 * [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Grundlagen/Frequenzplan/frequenzplan-node.html) - 🇩🇪 Zulässige Sendefrequenzen und -Leistungen.
 
