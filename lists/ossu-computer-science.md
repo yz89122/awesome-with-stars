@@ -447,7 +447,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 ## How to show your progress
 
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo ![GitHub Repo Stars](https://img.shields.io/github/stars/ossu/computer-science) ![GitHub last commit](https://img.shields.io/github/last-commit/ossu/computer-science)](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
+[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo ![GitHub Repo Stars](https://img.shields.io/github/stars/ossu/computer-science) ![GitHub last commit](https://img.shields.io/github/last-commit/ossu/computer-science)](https://github.com/ossu/computer-science) into your own GitHub account and put ��� next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
 
 # Team
 
