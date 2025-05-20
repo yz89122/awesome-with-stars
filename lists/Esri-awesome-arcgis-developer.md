@@ -1,6 +1,6 @@
 # Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="https://github.com/Esri/awesome-arcgis-developer/raw/main/esri-logo.png" align="right" width="100">
+<img src="https://github.com/Esri/awesome-arcgis-developer/raw/master/esri-logo.png" align="right" width="100">
 
 > An awesome set of resources to help you [develop with ArcGIS Products](https://www.esri.com/en-us/arcgis/products/develop-with-arcgis/overview).
 
