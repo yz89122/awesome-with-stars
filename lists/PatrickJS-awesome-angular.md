@@ -1632,6 +1632,7 @@ to simplify usage and allow quick customization.
 * [pretty-html-log ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-extensions/pretty-html-log) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-extensions/pretty-html-log)](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
 * [log4ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/secondbounce/log4ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/secondbounce/log4ngx)](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 * [ngx-wlog ![GitHub Repo Stars](https://img.shields.io/github/stars/w5g-wywiwyg/ngx-wlog) ![GitHub last commit](https://img.shields.io/github/last-commit/w5g-wywiwyg/ngx-wlog)](https://github.com/w5g-wywiwyg/ngx-wlog) - A logger for Angular applications, drawing inspiration from the .NET [NLog](https://nlog-project.org/).
+* [ng-route-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/souravion/ng-route-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/souravion/ng-route-logger)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
 
 #### Maps
 
@@ -2114,6 +2115,7 @@ for the creation of web applications developed with Angular.
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
 * [ngx-voyage ![GitHub Repo Stars](https://img.shields.io/github/stars/mschn/ngx-voyage) ![GitHub last commit](https://img.shields.io/github/last-commit/mschn/ngx-voyage)](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [ngx-offline-indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/thdang1009/ngx-offline-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/thdang1009/ngx-offline-indicator)](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
+* [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
 ---
 
