@@ -192,7 +192,7 @@ MERN stands for MongoDB, Express, React, Node. The four key technologies that ma
 
 Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.
 
-- [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
+- [GraphCMS](https://graphcms.com/) - [����️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
 - [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
 
@@ -449,7 +449,7 @@ Build a simple and robust RESTful API.
 Connect to various datasources and combine the data into a real-time GraphQL API and AdminUI. Useful stack when you have multiple datasources such as Postgres, MySql, Sqlite, Rest, etc.
 
 - [Graphweaver](https://graphweaver.com/) - [🛠️](https://stackshare.io/graphweaver) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/exogee-technology/graphweaver) ![GitHub last commit](https://img.shields.io/github/last-commit/exogee-technology/graphweaver)](https://github.com/exogee-technology/graphweaver) - Data Everywhere - Instant GraphQL.
-- [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - The adminUI is built in React and can be extended.
+- [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [���� ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - The adminUI is built in React and can be extended.
 - [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
 - [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
 
