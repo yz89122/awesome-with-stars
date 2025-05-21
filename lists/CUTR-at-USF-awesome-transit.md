@@ -474,6 +474,7 @@ Experimental and production transit hardware.
 
 ### SDKs
 - [TripKit ![GitHub Repo Stars](https://img.shields.io/github/stars/alexander-albers/tripkit) ![GitHub last commit](https://img.shields.io/github/last-commit/alexander-albers/tripkit)](https://github.com/alexander-albers/tripkit) - TripKit is a Swift-library to get data from public transport providers.
+- [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
 
 ### Visualizations
 #### GTFS Based Visualizations

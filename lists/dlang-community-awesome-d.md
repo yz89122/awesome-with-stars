@@ -30,6 +30,7 @@
 		- [IDEs & Editors](#ides--editors)
 		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
 		- [Preprocessors](#preprocessors)
+  		- [Version Manager](#version-manager)
 	- Compiler for other languages
 		- [Javascript](#javascript)
 	- Common/Utilities
@@ -255,6 +256,10 @@
 ## Preprocesors
 
 * [warp ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookarchive/warp) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookarchive/warp)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+
+## Version Manager
+* [dvm ![GitHub Repo Stars](https://img.shields.io/github/stars/jacob-carlborg/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/jacob-carlborg/dvm)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
+* [ldcup ![GitHub Repo Stars](https://img.shields.io/github/stars/kassane/ldcup) ![GitHub last commit](https://img.shields.io/github/last-commit/kassane/ldcup)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
 ## Javascript
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
