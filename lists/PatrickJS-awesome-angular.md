@@ -382,6 +382,7 @@ become an Angular expert.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 * [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
 * [Tech OS](https://tech-os.org/) - Tech OS offers high-level Angular training designed for demanding developers and ambitious teams.
+* [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
 
 ##### On-Site Training
 
@@ -914,6 +915,7 @@ become an Angular expert.
 * [ngx-seo ![GitHub Repo Stars](https://img.shields.io/github/stars/samvloeberghs/kwerri-oss) ![GitHub last commit](https://img.shields.io/github/last-commit/samvloeberghs/kwerri-oss)](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [angular-react-seo ![GitHub Repo Stars](https://img.shields.io/github/stars/ganatan/angular-react-seo) ![GitHub last commit](https://img.shields.io/github/last-commit/ganatan/angular-react-seo)](https://github.com/ganatan/angular-react-seo) - Angular 17 & React 18 Examples SEO (Search engine optimization).
 * [@unhead/angular](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
+* [seo-manager-pro ![GitHub Repo Stars](https://img.shields.io/github/stars/mbsh-code/seo-manager-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/mbsh-code/seo-manager-pro)](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
 
 #### Server-Side Rendering
 
