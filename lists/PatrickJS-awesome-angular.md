@@ -350,6 +350,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 * [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React & Vue all at once.
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
+* [angular-interview-questions ![GitHub Repo Stars](https://img.shields.io/github/stars/Devinterview-io/angular-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/Devinterview-io/angular-interview-questions)](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview in 2025.
 
 ##### Exercises
 
@@ -753,6 +754,7 @@ become an Angular expert.
 * [ng-error-handling ![GitHub Repo Stars](https://img.shields.io/github/stars/ressurectit/ng-error-handling) ![GitHub last commit](https://img.shields.io/github/last-commit/ressurectit/ng-error-handling)](https://github.com/ressurectit/ng-error-handling) - An Angular module designed for managing HTTP API error responses.
 * [active-connect ![GitHub Repo Stars](https://img.shields.io/github/stars/HiptJo/active-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/HiptJo/active-connect)](https://github.com/HiptJo/active-connect) - A powerful connection framework designed for smart web-based projects using Node.js, Angular, and WebSockets. It provides decorators and utilities to simplify the integration of Angular with a WebSocket server, making it easier to handle real-time communication between clients and the server.
 * [ngx-drupal8-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-drupal8-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-drupal8-rest)](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
+* [ngx-signal-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/JPtenBerge/ngx-signal-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/JPtenBerge/ngx-signal-pagination)](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
 
 #### Integrations
 
@@ -1349,6 +1351,7 @@ become an Angular expert.
 * [ng-keyboard-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/johnhwhite/ng-keyboard-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/johnhwhite/ng-keyboard-sort)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
 * [ngx-draggable-widget-kama ![GitHub Repo Stars](https://img.shields.io/github/stars/KAMAELUA/ngx-draggable-widget-kama) ![GitHub last commit](https://img.shields.io/github/last-commit/KAMAELUA/ngx-draggable-widget-kama)](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/arup-banerjee/ngx-draggable-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/arup-banerjee/ngx-draggable-widget)](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
 * [angular-mixed-cdk-drag-drop ![GitHub Repo Stars](https://img.shields.io/github/stars/rosejoe47/angular-mixed-cdk-drag-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/rosejoe47/angular-mixed-cdk-drag-drop)](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
+* [cdk-drag-snap-to-point ![GitHub Repo Stars](https://img.shields.io/github/stars/shhdharmen/cdk-drag-snap-to-point) ![GitHub last commit](https://img.shields.io/github/last-commit/shhdharmen/cdk-drag-snap-to-point)](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
 
 #### Editor Components
 
@@ -1724,6 +1727,7 @@ to simplify usage and allow quick customization.
 * [@tomaszatoo/ngx-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/tomaszatoo/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/tomaszatoo/ngx-libs)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 * [@shanieMoonlight/moonlight-repo ![GitHub Repo Stars](https://img.shields.io/github/stars/shanieMoonlight/moonlight-repo) ![GitHub last commit](https://img.shields.io/github/last-commit/shanieMoonlight/moonlight-repo)](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
 * [@jchpro/ng ![GitHub Repo Stars](https://img.shields.io/github/stars/jchpro/ng) ![GitHub last commit](https://img.shields.io/github/last-commit/jchpro/ng)](https://github.com/jchpro/ng) - Monorepo of various libraries for Angular.  Visit [example page](https://ng.jchpro.pl/) for more info.
+* [rxap](https://gitlab.com/rxap/packages) - Reactive Application Platform, or RxAP for short, is a collection of software modules and tools. With the help of RxAP, the development effort of web and cloud applications can be significantly reduced.
 
 #### Modals
 
