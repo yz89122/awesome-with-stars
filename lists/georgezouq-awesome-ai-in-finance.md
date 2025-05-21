@@ -121,6 +121,7 @@ Price and Volume process with Technology Analysis Indices
 
 ### Technical Analysis
 
+- [QTradeX ![GitHub Repo Stars](https://img.shields.io/github/stars/squidKid-deluxe/QTradeX-Algo-Trading-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/squidKid-deluxe/QTradeX-Algo-Trading-SDK)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
 - [quant-trading ![GitHub Repo Stars](https://img.shields.io/github/stars/je-suis-tm/quant-trading) ![GitHub last commit](https://img.shields.io/github/last-commit/je-suis-tm/quant-trading)](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies.
 - [Gekko-Bot-Resources ![GitHub Repo Stars](https://img.shields.io/github/stars/cloggy45/Gekko-Bot-Resources) ![GitHub last commit](https://img.shields.io/github/last-commit/cloggy45/Gekko-Bot-Resources)](https://github.com/cloggy45/Gekko-Bot-Resources) - Gekko bot resources.
 - [gekko_tools ![GitHub Repo Stars](https://img.shields.io/github/stars/tommiehansen/gekko_tools) ![GitHub last commit](https://img.shields.io/github/last-commit/tommiehansen/gekko_tools)](https://github.com/tommiehansen/gekko_tools) - Gekko strategies, tools etc.
