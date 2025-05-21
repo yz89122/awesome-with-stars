@@ -267,7 +267,7 @@ Meteo
 
 - [GeoCoder ![GitHub Repo Stars](https://img.shields.io/github/stars/aloisdeniel/flutter_geocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/aloisdeniel/flutter_geocoder)](https://github.com/aloisdeniel/flutter_geocoder) [185⭐] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [AMap ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttify-project/amap_map_fluttify) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttify-project/amap_map_fluttify)](https://github.com/fluttify-project/amap_map_fluttify) [538⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
-- [Map ![GitHub Repo Stars](https://img.shields.io/github/stars/xclud/flutter_map) ![GitHub last commit](https://img.shields.io/github/last-commit/xclud/flutter_map)](https://github.com/xclud/flutter_map) [129��] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
+- [Map ![GitHub Repo Stars](https://img.shields.io/github/stars/xclud/flutter_map) ![GitHub last commit](https://img.shields.io/github/last-commit/xclud/flutter_map)](https://github.com/xclud/flutter_map) [129⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ### Charts
 
