@@ -1472,6 +1472,7 @@ become an Angular expert.
 * [ngx-cron ![GitHub Repo Stars](https://img.shields.io/github/stars/swimlane/ngx-cron) ![GitHub last commit](https://img.shields.io/github/last-commit/swimlane/ngx-cron)](https://github.com/swimlane/ngx-cron) - User-friendly cron input...
 * [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
 * [ngx-pwd ![GitHub Repo Stars](https://img.shields.io/github/stars/noelitocalma/ngx-pwd) ![GitHub last commit](https://img.shields.io/github/last-commit/noelitocalma/ngx-pwd)](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
+* [ng-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/code-farmz/ng-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/code-farmz/ng-otp-input)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
 
 ##### JSON Forms
 
