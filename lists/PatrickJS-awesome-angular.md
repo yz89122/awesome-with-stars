@@ -697,6 +697,7 @@ become an Angular expert.
 
 * [abp ![GitHub Repo Stars](https://img.shields.io/github/stars/abpframework/abp) ![GitHub last commit](https://img.shields.io/github/last-commit/abpframework/abp)](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
 * [LymeStack](https://www.lymestack.com/) - LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps.
+* [spiderly ![GitHub Repo Stars](https://img.shields.io/github/stars/filiptrivan/spiderly) ![GitHub last commit](https://img.shields.io/github/last-commit/filiptrivan/spiderly)](https://github.com/filiptrivan/spiderly) - .NET (C#) code generator that transforms an EF Core model into a fully customizable .NET (C#) + Angular web app.
 
 ##### Node
 
@@ -878,6 +879,7 @@ become an Angular expert.
 * [mfe-crossframework ![GitHub Repo Stars](https://img.shields.io/github/stars/igorhms/mfe-crossframework) ![GitHub last commit](https://img.shields.io/github/last-commit/igorhms/mfe-crossframework)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 * [backbase-micro-frontends ![GitHub Repo Stars](https://img.shields.io/github/stars/Backbase/backbase-micro-frontends) ![GitHub last commit](https://img.shields.io/github/last-commit/Backbase/backbase-micro-frontends)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
 * [ngx-mfe ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-mfe) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-mfe)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
+* [npm-mfe-live-reload](https://www.npmjs.com/package/npm-mfe-live-reload) - This tool is designed to work in development mode and helps automatically reload the shell application when changes are detected in remote microfrontend applications.
 
 #### Monorepos
 
@@ -1473,6 +1475,7 @@ become an Angular expert.
 * [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
 * [ngx-pwd ![GitHub Repo Stars](https://img.shields.io/github/stars/noelitocalma/ngx-pwd) ![GitHub last commit](https://img.shields.io/github/last-commit/noelitocalma/ngx-pwd)](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 * [ng-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/code-farmz/ng-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/code-farmz/ng-otp-input)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
+* [ngx-np-datepicker](https://www.npmjs.com/package/ngx-np-datepicker) - An Angular datepicker component that supports the Nepali calendar (Bikram Sambat). It allows users to pick Nepali dates easily, supports form integrations, and is ideal for applications needing a native Nepali date experience.
 
 ##### JSON Forms
 
@@ -1510,6 +1513,7 @@ to simplify usage and allow quick customization.
 * [safari-numfix ![GitHub Repo Stars](https://img.shields.io/github/stars/algrith/safari-numfix) ![GitHub last commit](https://img.shields.io/github/last-commit/algrith/safari-numfix)](https://github.com/algrith/safari-numfix) - A lightweight utility to safely handle paste and keydown events on number input fields in Safari.
 * [ngx-input-errors ![GitHub Repo Stars](https://img.shields.io/github/stars/aks1376/ngx-input-errors) ![GitHub last commit](https://img.shields.io/github/last-commit/aks1376/ngx-input-errors)](https://github.com/aks1376/ngx-input-errors) - This project was developed for Angular Reactive Forms to automatically extract and display input validation error messages. This library supports multiple languages and allows for custom error messages for both standard form validations and user-defined validations.
 * [error-message ![GitHub Repo Stars](https://img.shields.io/github/stars/LuEsc/error-message) ![GitHub last commit](https://img.shields.io/github/last-commit/LuEsc/error-message)](https://github.com/LuEsc/error-message) - A lightweight, flexible error handling library for Angular applications that provides standardized validation error display and management.
+* [ng-reactive-form-validate ![GitHub Repo Stars](https://img.shields.io/github/stars/vbnr/ng-reactive-form-validate) ![GitHub last commit](https://img.shields.io/github/last-commit/vbnr/ng-reactive-form-validate)](https://github.com/vbnr/ng-reactive-form-validate) - This library streamlines form control validation, displaying error messages based on rules, supporting customizable messages via static strings or observables, integrating with Transloco for translations, and applying default styles for smooth validation label transitions.
 
 #### Icons
 
@@ -2076,6 +2080,7 @@ for the creation of web applications developed with Angular.
 * [ngx-json-schema-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/jy95/ngx-json-schema-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/jy95/ngx-json-schema-viewer)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
 * [ngx-gist ![GitHub Repo Stars](https://img.shields.io/github/stars/ProAngular/ngx-gist) ![GitHub last commit](https://img.shields.io/github/last-commit/ProAngular/ngx-gist)](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
 * [ngx-json-treeview ![GitHub Repo Stars](https://img.shields.io/github/stars/MichaelDoyle/ngx-json-treeview) ![GitHub last commit](https://img.shields.io/github/last-commit/MichaelDoyle/ngx-json-treeview)](https://github.com/MichaelDoyle/ngx-json-treeview) - A collapsible JSON tree view for Angular.
+* [ngx-json-diff-viewer](https://www.npmjs.com/package/ngx-json-diff-viewer) - Angular component for visually displaying the differences between two JSON objects.
 
 #### Misc Components
 
