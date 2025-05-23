@@ -1802,7 +1802,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [cfn-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/cfn-python-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/cfn-python-lint)](https://github.com/awslabs/cfn-python-lint) — AWS Labs CloudFormation linter.
 
-- [cfn_nag ![GitHub Repo Stars](https://img.shields.io/github/stars/stelligent/cfn_nag) ![GitHub last commit](https://img.shields.io/github/last-commit/stelligent/cfn_nag)](https://github.com/stelligent/cfn_nag) ��� A linter for AWS CloudFormation templates.
+- [cfn_nag ![GitHub Repo Stars](https://img.shields.io/github/stars/stelligent/cfn_nag) ![GitHub last commit](https://img.shields.io/github/last-commit/stelligent/cfn_nag)](https://github.com/stelligent/cfn_nag) — A linter for AWS CloudFormation templates.
 
 - [checkov](https://www.checkov.io) — Static analysis tool for Terraform files (tf>=v0.12), preventing cloud misconfigs at build time.
 
