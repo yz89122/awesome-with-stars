@@ -160,7 +160,7 @@ This project lists books and other resources grouped by genres:
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
-+ [Telugu / తెలు���ు](courses/free-courses-te.md)
++ [Telugu / తెలుగు](courses/free-courses-te.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
@@ -174,7 +174,7 @@ This project lists books and other resources grouped by genres:
 + [English](more/free-programming-interactive-tutorials-en.md)
 + [German / Deutsch](more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
-+ [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
++ [Russian / Русский язы��](more/free-programming-interactive-tutorials-ru.md)
 
 
 ### Problem Sets and Competitive Programming
