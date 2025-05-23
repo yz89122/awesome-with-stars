@@ -21,6 +21,8 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
   - [Passwords](#passwords)
   - [Privacy](#privacy)
   - [Redirection](#redirection)
+  - [Text-to-speech](#text-to-speech)
+  - [Translation](#translation)
   - [YouTube](#youtube)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -150,6 +152,17 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
+### Text-to-speech
+
+* [ChatGPT Auto-Talk ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-talk) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/chatgpt-auto-talk)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
+
+
+### Translation
+
+* [Google Translate Keyboard Shortcut ![GitHub Repo Stars](https://img.shields.io/github/stars/Greenek/google-translate-keyboard-shortcut-userscript) ![GitHub last commit](https://img.shields.io/github/last-commit/Greenek/google-translate-keyboard-shortcut-userscript)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
+* [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+
+
 ### YouTube
 
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
@@ -195,4 +208,4 @@ To the extent possible under law, [Bruno Candido Volpato da Cunha](mailto:brunoc
 
 #
 
-[Back to top ↑](#awesome-userscripts---)
+[Back to top ↑](#awesome-userscripts--)
