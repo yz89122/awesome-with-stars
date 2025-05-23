@@ -153,7 +153,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 ## CLI & Editor
 
 - 📖 [Firebase Tools UI ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase/firebase-tools-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase/firebase-tools-ui)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
-- 📖 [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - Emulator suite is now complete!
+- ���� [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - Emulator suite is now complete!
 - 🔧 [VSCode Firebase Explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/jsayol/vscode-firebase-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/jsayol/vscode-firebase-explorer)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase/firebase-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase/firebase-tools)](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 - 🔧 [Firebase CI ![GitHub Repo Stars](https://img.shields.io/github/stars/prescottprue/firebase-ci) ![GitHub last commit](https://img.shields.io/github/last-commit/prescottprue/firebase-ci)](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
