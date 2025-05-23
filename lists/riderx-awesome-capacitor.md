@@ -141,6 +141,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Social Login ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-social-login) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-social-login)](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
 - [JW Player ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-jw-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-jw-player)](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
 - [Ricoh360 Camera ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-ricoh360-camera-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-ricoh360-camera-plugin)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
+- [Autofill save password ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-autofill-save-password) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-autofill-save-password)](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
 
 
 ## [Capawesome plugins](https://capawesome.io/)
