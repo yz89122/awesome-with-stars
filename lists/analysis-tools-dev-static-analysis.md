@@ -668,7 +668,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [forbidden-apis ![GitHub Repo Stars](https://img.shields.io/github/stars/policeman-tools/forbidden-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/policeman-tools/forbidden-apis)](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 
-- [google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format) ��� Reformats Java source code to comply with Google Java Style
+- [google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format) — Reformats Java source code to comply with Google Java Style
 
 - [HuntBugs ![GitHub Repo Stars](https://img.shields.io/github/stars/amaembo/huntbugs) ![GitHub last commit](https://img.shields.io/github/last-commit/amaembo/huntbugs)](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 
@@ -723,7 +723,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [hegel](https://hegel.js.org) :warning: — A static type checker for JavaScript with a bias on type inference and strong type systems.
 
-- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
+- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) �� Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
 
 - [JSLint ![GitHub Repo Stars](https://img.shields.io/github/stars/douglascrockford/JSLint) ![GitHub last commit](https://img.shields.io/github/last-commit/douglascrockford/JSLint)](https://github.com/douglascrockford/JSLint) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — The JavaScript Code Quality Tool.
 

@@ -2,7 +2,7 @@
 
 A curated list of Awesome Userscripts.
 
-User scripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
+Userscripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
 
 
 # Contents
@@ -33,7 +33,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 
 ## Compatibility
 
-Greasemonkey userscripts can be used w/ the following browsers:
+Userscripts can be used w/ the following browsers:
 
 <details>
     <summary>Show compatibility table</summary><br>
@@ -607,7 +607,7 @@ Greasemonkey userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/stars/brunocvcunha/awesome-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/brunocvcunha/awesome-userscripts)](https://github.com/brunocvcunha/awesome-userscripts/blob/master/CONTRIBUTING.md) for guidelines.
+Please have a look at [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-scripts/awesome-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-scripts/awesome-userscripts)](https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md) for guidelines.
 
 
 ## License
