@@ -185,7 +185,7 @@ Organizations bringing mental health awareness to the software industry.
 Podcast episodes and series focused on mental health awareness in the software industry, including burnout, self-care, stress, and emotional resilience for developers and tech teams.
 
 * [Destigmatizing Mental Health in the Tech Industry](https://hanselminutes.com/728) – On Hanselminutes (Ep. 728). Scott Hanselman interviews Dr. Jennifer Akullian about breaking the stigma around therapy, stress, and emotional struggles in the software industry.
-* [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) �� By April Wensel on the Happy Porch podcast. A conversation about compassionate coding and building emotionally intelligent engineering cultures.
+* [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) – By April Wensel on the Happy Porch podcast. A conversation about compassionate coding and building emotionally intelligent engineering cultures.
 * [Mental Health in Tech](https://anchor.fm/mental-health-in-tech) – Hosted by Schalk Neethling and Schalk Venter. A monthly podcast sharing real stories from developers about mental health, burnout, vulnerability, and resilience in tech.
 * [Soft Skills Engineering](https://softskills.audio) – Hosted by Jamison Dance and Dave Smith. A humorous advice show for developers tackling topics like burnout, imposter syndrome, performance anxiety, and career balance.
 * [Valarie Regas’s Story](https://devjourney.info/Guests/284-ValarieRegas.html) – On Software Developer’s Journey. A heartfelt episode where Valarie discusses her experience with depression, anxiety, and the need for empathy in tech workplaces.
