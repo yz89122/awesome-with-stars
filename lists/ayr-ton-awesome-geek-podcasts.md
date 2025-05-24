@@ -150,6 +150,7 @@ A curated list of podcasts we like to listen to.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [Podcast.\__init__](https://www.pythonpodcast.com/) - A podcast about Python and the people who make it great.
 * [Practical AI](https://changelog.com/practicalai) – Making artificial intelligence practical, productive, and accessible to everyone.
+* [pragmatism In Practice](https://www.thoughtworks.com/insights/podcasts/pragmatism-in-practice) - Pragmatism In Practice is a podcast series for business and technology leaders.
 * [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
@@ -158,7 +159,7 @@ A curated list of podcasts we like to listen to.
 * [Reply All](https://www.gimletmedia.com/reply-all) - Reply All is a show about the internet.
 * [Risky Business](https://risky.biz/netcasts/risky-business/) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) - Official podcast from NASA’s Kennedy Space Center.
-* [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
+* [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com���s award winning short fiction.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
