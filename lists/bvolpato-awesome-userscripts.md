@@ -487,7 +487,7 @@ Greasemonkey userscripts can be used w/ the following browsers:
 ### ChatGPT
 
 * [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
-* [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+* [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
 * [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave, powered by the latest LLMs.
 * [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
@@ -509,7 +509,6 @@ Greasemonkey userscripts can be used w/ the following browsers:
 * [GitHub Commit Labels ![GitHub Repo Stars](https://img.shields.io/github/stars/nazdridoy/github-commit-labels) ![GitHub last commit](https://img.shields.io/github/last-commit/nazdridoy/github-commit-labels)](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
 * [GitHub PR Approvals ![GitHub Repo Stars](https://img.shields.io/github/stars/stowball/github-pr-approvals) ![GitHub last commit](https://img.shields.io/github/last-commit/stowball/github-pr-approvals)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
-* [GitHub Pull Request From Link ![GitHub Repo Stars](https://img.shields.io/github/stars/jerone/UserScripts) ![GitHub last commit](https://img.shields.io/github/last-commit/jerone/UserScripts)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
 * [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 * [GitHub sort content ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
 * [GitHub Star History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/github-star-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/github-star-history)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
@@ -550,7 +549,7 @@ Greasemonkey userscripts can be used w/ the following browsers:
 
 ### Privacy
 
-* [Autoclear ChatGPT History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/autoclear-chatgpt-history)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+* [Autoclear ChatGPT History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/autoclear-chatgpt-history)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 
 
