@@ -1431,7 +1431,7 @@ Update Time, five active automations, webhooks.
   * [GraphQL Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/graphql-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/graphql-inspector)](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector outputs a list of changes between two GraphQL schemas. Every difference is precisely explained and marked as breaking, non-breaking, or dangerous.
   * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
   * [Hygger](https://hygger.io) — Project management platform. The free plan offers unlimited users, projects & boards with 100 MB of Storage.
-  * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
+  * [Instabug](https://instabug.com) ��  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
   * [WishKit](https://wishkit.io) —  Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.
   * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Charts can be expressed in code. The free tier has unlimited private diagrams with up to 3 viewers.
   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan for up to 10 users.
@@ -1742,7 +1742,7 @@ Update Time, five active automations, webhooks.
   * [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
   * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
   * [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
-  * [WebComponents.dev](https://webcomponents.dev/) �� In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
+  * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
   * [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
   * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
   * [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
