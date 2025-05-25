@@ -17,10 +17,10 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [GitHub](#github)
   - [Google](#google)
   - [Just Eat (UK only)](#just-eat-uk-only)
+  - [Links](#links)
   - [Media](#media)
   - [Passwords](#passwords)
   - [Privacy](#privacy)
-  - [Redirection](#redirection)
   - [Text-to-speech](#text-to-speech)
   - [Translation](#translation)
   - [YouTube](#youtube)
@@ -536,6 +536,14 @@ Userscripts can be used w/ the following browsers:
 * [Just Eat Userscript ![GitHub Repo Stars](https://img.shields.io/github/stars/S4N-T0S/JustEat-userscript) ![GitHub last commit](https://img.shields.io/github/last-commit/S4N-T0S/JustEat-userscript)](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk).
 
 
+### Links
+
+* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
+* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
+* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
+
+
 ### Media
 
 * [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
@@ -553,14 +561,6 @@ Userscripts can be used w/ the following browsers:
 
 * [Autoclear ChatGPT History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/autoclear-chatgpt-history)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
-
-
-### Redirection
-
-* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
-* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
-* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
 ### Text-to-speech
