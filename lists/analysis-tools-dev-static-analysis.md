@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -1802,7 +1802,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [cfn-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/cfn-python-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/cfn-python-lint)](https://github.com/awslabs/cfn-python-lint) — AWS Labs CloudFormation linter.
 
-- [cfn_nag ![GitHub Repo Stars](https://img.shields.io/github/stars/stelligent/cfn_nag) ![GitHub last commit](https://img.shields.io/github/last-commit/stelligent/cfn_nag)](https://github.com/stelligent/cfn_nag) — A linter for AWS CloudFormation templates.
+- [cfn_nag ![GitHub Repo Stars](https://img.shields.io/github/stars/stelligent/cfn_nag) ![GitHub last commit](https://img.shields.io/github/last-commit/stelligent/cfn_nag)](https://github.com/stelligent/cfn_nag) ��� A linter for AWS CloudFormation templates.
 
 - [checkov](https://www.checkov.io) — Static analysis tool for Terraform files (tf>=v0.12), preventing cloud misconfigs at build time.
 
