@@ -177,7 +177,7 @@
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/knipferrc/tails-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/knipferrc/tails-ui)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails ![GitHub Repo Stars](https://img.shields.io/github/stars/thedevdojo/tails) ![GitHub last commit](https://img.shields.io/github/last-commit/thedevdojo/tails)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
-- 📚 [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
+- ��� [Svelte Headless UI ![GitHub Repo Stars](https://img.shields.io/github/stars/rgossiaux/svelte-headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/rgossiaux/svelte-headlessui)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
 - 📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -236,7 +236,7 @@
 - 📁 [Simple Light ![GitHub Repo Stars](https://img.shields.io/github/stars/cruip/tailwind-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/cruip/tailwind-landing-page-template)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 - 📁 [V-Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/v-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-dashboard)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - 📁 [Petra ![GitHub Repo Stars](https://img.shields.io/github/stars/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template) ![GitHub last commit](https://img.shields.io/github/last-commit/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template)](https://github.com/Smuice-com/free-nuxtjs-tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
-- 📁 [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
+- �� [Tailmin ![GitHub Repo Stars](https://img.shields.io/github/stars/otezz/tailmin) ![GitHub last commit](https://img.shields.io/github/last-commit/otezz/tailmin)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 - 📁 [OhMySMTP Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmysmtp/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmysmtp/templates)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
@@ -281,7 +281,7 @@
 - 🚀 [Eleventy Web Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/scottishstoater/jamstack-web-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/scottishstoater/jamstack-web-starter)](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, webpack and PostCSS.
 - 🚀 [Nanoc Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/arkency/nanoc-parcel-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/arkency/nanoc-parcel-tailwind-starter)](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
 - 🚀 [PostCSS and Browsersync Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-postcss-browsersync-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-postcss-browsersync-boilerplate)](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate using CSS Nano.
-- ��� [ParcelJS + TypeScript Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-parceljs-typescript-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-parceljs-typescript-boilerplate)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
+- 🚀 [ParcelJS + TypeScript Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-parceljs-typescript-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-parceljs-typescript-boilerplate)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🚀 [VuePress Tailwind CSS Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaoluoboding/vuepress-tailwind-theme-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoluoboding/vuepress-tailwind-theme-starter)](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🚀 [Gatsby Serif ![GitHub Repo Stars](https://img.shields.io/github/stars/windedge/gatsby-tailwind-serif) ![GitHub last commit](https://img.shields.io/github/last-commit/windedge/gatsby-tailwind-serif)](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🚀 [Eleventy Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Eleventy-Starter-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Eleventy-Starter-Boilerplate)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
@@ -301,7 +301,7 @@
 
 ## Learning
 
-**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+**Legend**: 💙 Official resource · 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · ���� Component or Page Tutorial · 🎥 Cast
 
 - 💙🧪 [Plugin Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss-plugin-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss-plugin-examples)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 - 🧪 [Tailwind Dark Mode Theme Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/huphtur/tailwind-theme-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/huphtur/tailwind-theme-switcher)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
@@ -323,7 +323,7 @@
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
 - 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
-- ���� [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
+- 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
