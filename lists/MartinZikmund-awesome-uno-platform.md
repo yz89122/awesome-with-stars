@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="160" src="https://github.com/MartinZikmund/awesome-uno-platform/raw/master/media/logo.png" alt="Uno Platform">
+		<img width="160" src="https://github.com/MartinZikmund/awesome-uno-platform/raw/main/media/logo.png" alt="Uno Platform">
 	</div>
 	<br>
 </div>
