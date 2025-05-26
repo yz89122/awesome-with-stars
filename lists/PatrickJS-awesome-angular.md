@@ -2182,6 +2182,7 @@ for the creation of web applications developed with Angular.
 * [rxjs-common ![GitHub Repo Stars](https://img.shields.io/github/stars/paddls/rxjs-common) ![GitHub last commit](https://img.shields.io/github/last-commit/paddls/rxjs-common)](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
 * [fork-join-settled ![GitHub Repo Stars](https://img.shields.io/github/stars/DKozachenko/fork-join-settled) ![GitHub last commit](https://img.shields.io/github/last-commit/DKozachenko/fork-join-settled)](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
 * [rxjs-conduit ![GitHub Repo Stars](https://img.shields.io/github/stars/Fasteroid/rxjs-conduit) ![GitHub last commit](https://img.shields.io/github/last-commit/Fasteroid/rxjs-conduit)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
+* [ngx-device-permission ![GitHub Repo Stars](https://img.shields.io/github/stars/PhilipSh/ngx-device-permission) ![GitHub last commit](https://img.shields.io/github/last-commit/PhilipSh/ngx-device-permission)](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
 
 #### TypeScript
 
