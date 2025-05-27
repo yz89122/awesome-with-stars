@@ -1020,6 +1020,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [javascript-sdk-design ![GitHub Repo Stars](https://img.shields.io/github/stars/huei90/javascript-sdk-design) ![GitHub last commit](https://img.shields.io/github/last-commit/huei90/javascript-sdk-design)](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience.
 * [Spotify SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/loverajoel/spotify-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/loverajoel/spotify-sdk)](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/square/connect-nodejs-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/square/connect-nodejs-sdk)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
+* [OpenAI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-node) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-node)](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
 
 ## Full Text Search
 
@@ -1041,6 +1042,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## WebSockets
 
 * [Socket.io ![GitHub Repo Stars](https://img.shields.io/github/stars/socketio/socket.io) ![GitHub last commit](https://img.shields.io/github/last-commit/socketio/socket.io)](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
+* [ws ![GitHub Repo Stars](https://img.shields.io/github/stars/websockets/ws) ![GitHub last commit](https://img.shields.io/github/last-commit/websockets/ws)](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
 
 ## Misc
 
