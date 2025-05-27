@@ -154,7 +154,8 @@ _UI frameworks for mobile._
 - [Smelte ![GitHub Repo Stars](https://img.shields.io/github/stars/matyunya/smelte) ![GitHub last commit](https://img.shields.io/github/last-commit/matyunya/smelte)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
 - [SVAR Core for Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/core) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/core)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 - [AgnosticUI ![GitHub Repo Stars](https://img.shields.io/github/stars/agnosticui/agnosticui) ![GitHub last commit](https://img.shields.io/github/last-commit/agnosticui/agnosticui)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-
+- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates 
+- [Svelte Marketing Blocks](https://sv-blocks.vercel.app) - A powerful library of 100+ marketing and UI blocks built using Shadcn Svelte, Tailwind CSS v4, and Svelte 5.
 ## UI Components
 
 ### Table
@@ -268,7 +269,8 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [svelte-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/arabdevelop/svelte-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/arabdevelop/svelte-formly)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. _(pre-v5)_
-- [svelte-form-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/pragmatic-engineering/svelte-form-builder-community) ![GitHub last commit](https://img.shields.io/github/last-commit/pragmatic-engineering/svelte-form-builder-community)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+- [svelte-form-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/pragmatic-engineering/svelte-form-builder-community) ![GitHub last commit](https://img.shields.io/github/last-commit/pragmatic-engineering/svelte-form-builder-community)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte.
+- [Svelte Form Builder](https://svelte-form-builder.vercel.app) - Create forms with Shadcn Svelte, Superforms and ZOD | Valibot Schema within minutes.
 
 #### Form Components
 
