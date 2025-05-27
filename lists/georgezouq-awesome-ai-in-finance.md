@@ -29,6 +29,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## LLMs
 
+- 🌟 [FinRobot ![GitHub Repo Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot) ![GitHub last commit](https://img.shields.io/github/last-commit/AI4Finance-Foundation/FinRobot)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - 🌟 [AI Hedge Fund ![GitHub Repo Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund) ![GitHub last commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund)](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
 - 🌟🌟 [MarS ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/MarS) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/MarS)](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 - 🌟🌟 [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) - GPT-4 can outperform professional financial analysts in predicting future earnings changes, generating useful narrative insights, and resulting in superior trading strategies with higher Sharpe ratios and alphas, thereby suggesting a potential central role for LLMs in financial decision-making.
