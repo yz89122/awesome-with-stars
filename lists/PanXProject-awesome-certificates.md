@@ -486,7 +486,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [How to Create shapes in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes) | UMaine New Media | Beginner| 0.11 | 🏅 |
 | [How to Wrap shapes in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_wrap_shapes) | UMaine New Media | intermediate| 0.11 | 🏅 |
 | [Manage color in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_manage_color) | UMaine New Media | Beginner| 0.11 | 🏅 |
-| [Apply strokes and fills in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills) | UMaine New Media | Beginner| 0.1 | �� |
+| [Apply strokes and fills in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills) | UMaine New Media | Beginner| 0.1 | 🏅 |
 | [Apply gradient in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient) | UMaine New Media | intermediate| 0.1 | 🏅 |
 | [How to make an Infographic in Illustrator 1](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1) | UMaine New Media | Beginner| 0.22 | 🏅 |
 | [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | 🏅 |
