@@ -190,7 +190,7 @@
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- �� [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
@@ -216,7 +216,7 @@
 - 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
 - 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
-- ���� [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
+- 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
@@ -281,7 +281,7 @@
 - 🚀 [Eleventy Web Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/scottishstoater/jamstack-web-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/scottishstoater/jamstack-web-starter)](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, webpack and PostCSS.
 - 🚀 [Nanoc Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/arkency/nanoc-parcel-tailwind-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/arkency/nanoc-parcel-tailwind-starter)](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
 - 🚀 [PostCSS and Browsersync Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-postcss-browsersync-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-postcss-browsersync-boilerplate)](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate using CSS Nano.
-- 🚀 [ParcelJS + TypeScript Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-parceljs-typescript-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-parceljs-typescript-boilerplate)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
+- ��� [ParcelJS + TypeScript Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/saadeghi/tailwindcss-parceljs-typescript-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/tailwindcss-parceljs-typescript-boilerplate)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🚀 [VuePress Tailwind CSS Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaoluoboding/vuepress-tailwind-theme-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoluoboding/vuepress-tailwind-theme-starter)](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🚀 [Gatsby Serif ![GitHub Repo Stars](https://img.shields.io/github/stars/windedge/gatsby-tailwind-serif) ![GitHub last commit](https://img.shields.io/github/last-commit/windedge/gatsby-tailwind-serif)](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🚀 [Eleventy Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/ixartz/Eleventy-Starter-Boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ixartz/Eleventy-Starter-Boilerplate)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
