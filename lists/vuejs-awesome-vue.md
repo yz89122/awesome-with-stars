@@ -1734,7 +1734,7 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 
 ### Prerendering
 
-- [vue-genesis ![GitHub Repo Stars](https://img.shields.io/github/stars/fmfe/genesis) ![GitHub last commit](https://img.shields.io/github/last-commit/fmfe/genesis)](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+- [vue-genesis ![GitHub Repo Stars](https://img.shields.io/github/stars/fmfe/genesis) ![GitHub last commit](https://img.shields.io/github/last-commit/fmfe/genesis)](https://github.com/fmfe/genesis) - ����Micro front end, micro service and lightweight solution based on Vue SSR🔥
 
   <!-- md-parser-end -->
 
