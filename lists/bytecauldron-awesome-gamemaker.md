@@ -323,7 +323,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Pixel Perfect Smooth Camera ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/pixel-perfect-smooth-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/pixel-perfect-smooth-camera)](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) - An example of pixel-perfect yet smooth camera.
 - [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
 - [STANNcam ![GitHub Repo Stars](https://img.shields.io/github/stars/jack27121/STANNcam) ![GitHub last commit](https://img.shields.io/github/last-commit/jack27121/STANNcam)](https://github.com/jack27121/STANNcam) - Camera and resolution manager.
-- [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) - Editor, screenshake, view-resizing, follow modes, screen effects, etc. ���
+- [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) - Editor, screenshake, view-resizing, follow modes, screen effects, etc. 💸
 
 ## Sequences
 
