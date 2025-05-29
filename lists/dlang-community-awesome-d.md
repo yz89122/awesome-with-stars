@@ -1,83 +1,75 @@
 # Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
----
 
-  A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ![GitHub Repo Stars](https://img.shields.io/github/stars/vinta/awesome-python) ![GitHub last commit](https://img.shields.io/github/last-commit/vinta/awesome-python)](https://github.com/vinta/awesome-python).
-  
-  I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
-  
-  If you know an interesting lib/app in D, please tell us through [GitHub issues ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/awesome-d) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/awesome-d)](https://github.com/dlang-community/awesome-d/issues) or [edit this file ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/awesome-d) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/awesome-d)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
-  
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ![GitHub Repo Stars](https://img.shields.io/github/stars/vinta/awesome-python) ![GitHub last commit](https://img.shields.io/github/last-commit/vinta/awesome-python)](https://github.com/vinta/awesome-python).
+
+Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/awesome-d) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/awesome-d)](https://github.com/dlang-community/awesome-d/issues) or by [editing this file ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/awesome-d) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/awesome-d)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
+
 # Contents 
 
-- [Awesome D](#awesome-d)
-	- Basic Information
-		- [Official Website](#official-website)
-		- [Getting Help](#getting-help)
-		- [People](#people)
-		- [Events](#events)
-		- [Organizations](#organizations)
-	- Documents
-		- [Books](#books)
-		- [Tutorials](#tutorials)
-		- [Blogs](#blogs)
-		- [Articles](#articles)
-	- Language Related 
-		- [Package Management](#package-management)
-		- [Compilers](#compilers)
-		- [WIP Compilers](#wip-compilers)
-		- [Dev Tools](#dev-tools)
-		- [Build Tools](#build-tools)
-		- [IDEs & Editors](#ides--editors)
-		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-		- [Preprocessors](#preprocessors)
-  		- [Version Manager](#version-manager)
-	- Compiler for other languages
-		- [Javascript](#javascript)
-	- Common/Utilities
-		- [Basic](#basic)
-		- [Containers](#containers)
-	- Continuous Integration
-		- [GitHub Actions](#github-actions)
-		- [Testing Frameworks](#testing-frameworks)
-	- Networking/Web Related
-		- [Networking](#networking-library)
-		- [Web Frameworks](#web-frameworks)
-		- [Data&Serialization](#data-serialization)
-	- Database
-		- [Database clients](#database-clients)
-	- GUI
-		- [GUI Libs](#gui-libs)
-	- OS
-		- [Operating Systems](#os)
-	- Gaming
-		- [Bindings](#game-bindings)
-		- [Game Engine Bindings](#game-engine-bindings)
-		- [Frameworks](#game-frameworks)
-		- [Games](#games)
-	- Internationalization (i18n) / Globalization
-		- [Internationalization](#internationalization)
-	- Video
-		- [Applications](#video-applications)
-	- Image Processing
-		- [Applications](#image-processing)
-	- End-user applications (AppImages, Flatpaks, Snaps...)
-		- [Applications](#end-user-applications)
-	- Scientific
-		- [Scientific](#scientific)
-		- [Language Processing](#language-processing)
-	- Machine Learning
-		- [Machine Learning](#machine-learning)
-	- [Parallel computing](#parallel-computing)
-	- Others
-		- [Text Processing](#text-processing)
-		- [Command Line](#command-line)
-		- [Logging](#logging)
-		- [Configuration](#configuration)
-		- [BlogEngine](#blog-engine)
-		- [Dependency Injection](#dependency-injection)
-		
-- [Other Awesome Lists](#other-awesome-lists)
-
+- Basic Information
+	- [Official Website](#official-website)
+	- [Getting Help](#getting-help)
+	- [People](#people)
+	- [Events](#events)
+	- [Organizations](#organizations)
+- Documents
+	- [Books](#books)
+	- [Tutorials](#tutorials)
+	- [Blogs](#blogs)
+	- [Articles](#articles)
+- Language Related 
+	- [Package Management](#package-management)
+	- [Compilers](#compilers)
+	- [WIP Compilers](#wip-compilers)
+	- [Dev Tools](#dev-tools)
+	- [Build Tools](#build-tools)
+	- [IDEs & Editors](#ides--editors)
+	- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
+	- [Preprocessors](#preprocessors)
+	- [Version Manager](#version-manager)
+- Compiler for Other Languages
+	- [Javascript](#javascript)
+- Common/Utilities
+	- [Basic](#basic)
+	- [Containers](#containers)
+- Continuous Integration
+	- [GitHub Actions](#github-actions)
+	- [Testing Frameworks](#testing-frameworks)
+- Networking/Web Related
+	- [Networking](#networking-library)
+	- [Web Frameworks](#web-frameworks)
+	- [Data&Serialization](#data-serialization)
+- Database
+	- [Database clients](#database-clients)
+- GUI
+	- [GUI Libs](#gui-libs)
+- OS
+	- [Operating Systems](#os)
+- Game Development
+	- [Bindings](#game-bindings)
+	- [Frameworks](#game-frameworks)
+	- [Games](#games)
+- Internationalization (i18n) / Globalization
+	- [Internationalization](#internationalization)
+- Video
+	- [Applications](#video-applications)
+- Image Processing
+	- [Applications](#image-processing)
+- End-user applications (AppImages, Flatpaks, Snaps...)
+	- [Applications](#end-user-applications)
+- Scientific
+	- [Scientific](#scientific)
+	- [Language Processing](#language-processing)
+- Machine Learning
+	- [Machine Learning](#machine-learning)
+- [Parallel computing](#parallel-computing)
+- Others
+	- [Text Processing](#text-processing)
+	- [Command Line](#command-line)
+	- [Logging](#logging)
+	- [Configuration](#configuration)
+	- [BlogEngine](#blog-engine)
+	- [Dependency Injection](#dependency-injection)
 
 ## Official Website
 
@@ -237,9 +229,6 @@
 * [Dutyl ![GitHub Repo Stars](https://img.shields.io/github/stars/idanarye/vim-dutyl) ![GitHub last commit](https://img.shields.io/github/last-commit/idanarye/vim-dutyl)](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
 * [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
-
-<br/>
-
 * [DCD ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/DCD) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/DCD)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/DCD) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/DCD)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [serve-d ![GitHub Repo Stars](https://img.shields.io/github/stars/Pure-D/serve-d) ![GitHub last commit](https://img.shields.io/github/last-commit/Pure-D/serve-d)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
@@ -291,7 +280,8 @@
 
 ## Web Frameworks
 
-*Networking library*
+*Networking libraries*
+
 * [hunt-net ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-net) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-net)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
 * [hunt-http ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-http) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-http)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 * [hunt-stomp ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-stomp) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-stomp)](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
@@ -302,13 +292,15 @@
 * [Handy-Httpd ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewlalis/handy-httpd) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewlalis/handy-httpd)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 * [serverino ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/serverino) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/serverino)](https://github.com/trikko/serverino) - Small and ready-to-go http server, in D
 
-*Full stack web frameworks.*
+*Full stack web frameworks*
+
 * [Hunt Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-framework)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed ![GitHub Repo Stars](https://img.shields.io/github/stars/rikkimax/Cmsed) ![GitHub last commit](https://img.shields.io/github/last-commit/rikkimax/Cmsed)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
-*RPC library*
+*RPC libraries*
+
 * [grpc ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/grpc-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/grpc-dlang)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
 * [kissrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/kissrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/kissrpc)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 * [Hprose ![GitHub Repo Stars](https://img.shields.io/github/stars/hprose/hprose-d) ![GitHub last commit](https://img.shields.io/github/last-commit/hprose/hprose-d)](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
@@ -348,6 +340,7 @@
 * [orange ![GitHub Repo Stars](https://img.shields.io/github/stars/jacob-carlborg/orange) ![GitHub last commit](https://img.shields.io/github/last-commit/jacob-carlborg/orange)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml ![GitHub Repo Stars](https://img.shields.io/github/stars/lodo1995/experimental.xml) ![GitHub last commit](https://img.shields.io/github/last-commit/lodo1995/experimental.xml)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 * arsd [dom.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
+* [newxml ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/newxml) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/newxml)](https://github.com/ZILtoid1991/newxml) - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
 
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
@@ -396,7 +389,7 @@
 
 ## OS
 
-*Operating Systems written in D*
+*Operating Systems written in D.*
 
 * [PowerNex ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerNex/PowerNex) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerNex/PowerNex)](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
 * [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
@@ -405,7 +398,7 @@
 
 ## Game Bindings
 
-*Bindings to game development related C libraries.*
+*Bindings to game development related libraries in C, C++, and other languages.*
 
 * BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-loader)](https://github.com/BindBC/bindbc-loader):
 	* OpenGL - [bindbc-opengl ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-opengl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-opengl)](https://github.com/BindBC/bindbc-opengl)
@@ -452,23 +445,21 @@
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
-
-## Game Engine Bindings
-
 * [Godot-D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-d/godot-d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-d/godot-d)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+* [DAllegro5 ![GitHub Repo Stars](https://img.shields.io/github/stars/SiegeLord/DAllegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/SiegeLord/DAllegro5)](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+* [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
 ## Game Frameworks
 
-* [DGame ![GitHub Repo Stars](https://img.shields.io/github/stars/Dgame/Dgame) ![GitHub last commit](https://img.shields.io/github/last-commit/Dgame/Dgame)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+*D libraries for game development.*
+
 * [gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/drug007/gfm7) ![GitHub last commit](https://img.shields.io/github/last-commit/drug007/gfm7)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Dagon ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dagon) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dagon)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-* [Dash ![GitHub Repo Stars](https://img.shields.io/github/stars/Circular-Studios/Dash) ![GitHub last commit](https://img.shields.io/github/last-commit/Circular-Studios/Dash)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
-* [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
-* [DAllegro5 ![GitHub Repo Stars](https://img.shields.io/github/stars/SiegeLord/DAllegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/SiegeLord/DAllegro5)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [Voxelman ![GitHub Repo Stars](https://img.shields.io/github/stars/MrSmith33/voxelman) ![GitHub last commit](https://img.shields.io/github/last-commit/MrSmith33/voxelman)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
-* [PolyplexEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/PolyplexEngine/libpp) ![GitHub last commit](https://img.shields.io/github/last-commit/PolyplexEngine/libpp)](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
+* [Voxelman ![GitHub Repo Stars](https://img.shields.io/github/stars/MrSmith33/voxelman) ![GitHub last commit](https://img.shields.io/github/last-commit/MrSmith33/voxelman)](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language
 * [rengfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bmchtech/rengfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bmchtech/rengfx)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
-* [Parin ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/parin) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/parin)](https://github.com/Kapendev/parin) - A delightfully simple and lightweight 2D game engine.
+* [Parin ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/parin) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/parin)](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
+* [PixelPerfectEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/pixelperfectengine) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/pixelperfectengine)](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
+* [HipremeEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/MrcSnm/HipremeEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/MrcSnm/HipremeEngine)](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
 
 ## Games
 
@@ -554,6 +545,3 @@
 *Apply inversion of control*
 
 - [Poodinis ![GitHub Repo Stars](https://img.shields.io/github/stars/mbierlee/poodinis) ![GitHub last commit](https://img.shields.io/github/last-commit/mbierlee/poodinis)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
-
-## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/emijrp/awesome-awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/emijrp/awesome-awesome)](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ![GitHub Repo Stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness) ![GitHub last commit](https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness)](https://github.com/bayandin/awesome-awesomeness) projects.
