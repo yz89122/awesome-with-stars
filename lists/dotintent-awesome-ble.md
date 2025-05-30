@@ -106,6 +106,7 @@ _Development and testing tools for Bluetooth Low Energy (BLE) applications, incl
 - [Bettercap ![GitHub Repo Stars](https://img.shields.io/github/stars/bettercap/bettercap) ![GitHub last commit](https://img.shields.io/github/last-commit/bettercap/bettercap)](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
 - [nRF Connect ![GitHub Repo Stars](https://img.shields.io/github/stars/NordicSemiconductor/pc-nrfconnect-core) ![GitHub last commit](https://img.shields.io/github/last-commit/NordicSemiconductor/pc-nrfconnect-core)](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 - [BLE Simulator](https://play.google.com/store/apps/details?id=com.withintent.ble.simulator&hl=en) - A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.
+- [PacketLogger](https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/) - A macOS tool to capture BLE packets and HCI logs from iOS devices, useful for debugging Bluetooth communication and protocol issues.
 
 ## Web
 
