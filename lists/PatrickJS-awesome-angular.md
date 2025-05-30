@@ -164,6 +164,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 * [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
+* [Angular talents](https://www.angulartalents.com/) - Angular talents empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
 
 ##### Newsletters
 
@@ -492,6 +493,7 @@ become an Angular expert.
 * [ai-friendly-docs ![GitHub Repo Stars](https://img.shields.io/github/stars/gergelyszerovay/ai-friendly-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/gergelyszerovay/ai-friendly-docs)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 * [@angular/examples ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/examples)](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [agent-rules-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnomanu/agent-rules-kit)](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
+* [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
 
 #### Analytics
 
@@ -688,6 +690,7 @@ become an Angular expert.
 * [@configcat-labs/feature-flags-in-angular-sample-app ![GitHub Repo Stars](https://img.shields.io/github/stars/configcat-labs/feature-flags-in-angular-sample-app) ![GitHub last commit](https://img.shields.io/github/last-commit/configcat-labs/feature-flags-in-angular-sample-app)](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [angular-sdk-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/splitio/angular-sdk-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/splitio/angular-sdk-plugin)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
 * [featurit-sdk-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/featurit/featurit-sdk-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/featurit/featurit-sdk-angular)](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the Javascript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
+* [@flagpole/angular](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system. Provides real-time feature flag updates, A/B testing capabilities, and seamless integration with Angular applications.
 
 #### Generators
 
@@ -1295,6 +1298,8 @@ become an Angular expert.
 * [ngx-prayertimes-api ![GitHub Repo Stars](https://img.shields.io/github/stars/WurshaApps/ngx-prayertimes-api) ![GitHub last commit](https://img.shields.io/github/last-commit/WurshaApps/ngx-prayertimes-api)](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
 * [frxjs-Ngx-Timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/emanuelefricano93/frxjs-Ngx-Timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/emanuelefricano93/frxjs-Ngx-Timeline)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 * [angular-wheel-date-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/maryland09/angular-wheel-date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/maryland09/angular-wheel-date-picker)](https://github.com/maryland09/angular-wheel-date-picker) - A date picker component for Angular applications that features a scrollable wheel interface similar to native mobile date pickers.
+* [ngx-daterangepicker-pro ![GitHub Repo Stars](https://img.shields.io/github/stars/Abhinavgaur01/ngx-daterangepicker-pro-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/Abhinavgaur01/ngx-daterangepicker-pro-demo)](https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo) - A powerful, customizable Angular date range picker built with Angular 17+ and [Day.js ![GitHub Repo Stars](https://img.shields.io/github/stars/iamkun/dayjs) ![GitHub last commit](https://img.shields.io/github/last-commit/iamkun/dayjs)](https://github.com/iamkun/dayjs).
+* [ngx-custom-daterangepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/nedpuganti/ngx-custom-daterangepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/nedpuganti/ngx-custom-daterangepicker)](https://github.com/nedpuganti/ngx-custom-daterangepicker) - An Angular date range picker component with advanced functionality and Material Design support. It allows for easy date range selection with customizable options and is simple to integrate.
 
 #### DOM
 
@@ -1852,6 +1857,7 @@ to simplify usage and allow quick customization.
 * [simplebar ![GitHub Repo Stars](https://img.shields.io/github/stars/Grsmto/simplebar) ![GitHub last commit](https://img.shields.io/github/last-commit/Grsmto/simplebar)](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 * [ngx-responsive-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/dcbeck/ngx-responsive-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/dcbeck/ngx-responsive-virtual-scroll)](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, responsive grid lists, and view caching.
 * [ngx-virtual-scroller-flexible ![GitHub Repo Stars](https://img.shields.io/github/stars/onexip/ngx-virtual-scroller-flexible) ![GitHub last commit](https://img.shields.io/github/last-commit/onexip/ngx-virtual-scroller-flexible)](https://github.com/onexip/ngx-virtual-scroller-flexible) - A ultra-fast and flexible virtual scroller, which can render an unlimited set of items with different heights perfectly.
+* [ngx-perfect-scrollbar-portable ![GitHub Repo Stars](https://img.shields.io/github/stars/brakmic/ngx-perfect-scrollbar-portable) ![GitHub last commit](https://img.shields.io/github/last-commit/brakmic/ngx-perfect-scrollbar-portable)](https://github.com/brakmic/ngx-perfect-scrollbar-portable) - Angular wrapper library for Perfect Scrollbar.
 
 #### State Management
 
