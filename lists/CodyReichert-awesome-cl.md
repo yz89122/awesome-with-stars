@@ -1866,6 +1866,7 @@ Unit Testing
 ============
 
 * ⭐ [FiveAM ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/fiveam) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/fiveam)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
+  * [FiveAM documentation](https://fiveam.common-lisp.dev/docs/index.html)
   * [fiveam-matchers ![GitHub Repo Stars](https://img.shields.io/github/stars/tdrhq/fiveam-matchers) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/fiveam-matchers)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0][89].
 * [Parachute ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/parachute) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/parachute)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib][33].
 * [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT][200].
