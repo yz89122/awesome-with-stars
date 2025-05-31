@@ -147,6 +147,12 @@ Free
 
 Free
 
+### Start Now
+
+> Draw inspiration from great minds every time you wake up your Mac
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/Ventuss-OvO/start-now-saver) ![GitHub last commit](https://img.shields.io/github/last-commit/Ventuss-OvO/start-now-saver)](https://github.com/Ventuss-OvO/start-now-saver/raw/main/Resources/Now.png)](https://github.com/Ventuss-OvO/start-now-saver)
+
 ## MusaicFM
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
