@@ -226,7 +226,7 @@ This book will teach you to stretch your imagination and see things in a differe
 <details>
   <summary>Description</summary>
 
-  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines���are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+  > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines—are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
   >
   > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 </details>
@@ -499,7 +499,7 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
   > Gene Wolfe’s _The Fifth Head of Cerberus_ is a universally acknowledged masterpiece of science fiction by one of the field’s most brilliant writers. Far out from Earth, two sister planets, Saint Anne and Saint Croix, circle each other in an eternal dance. It is said a race of shapeshifters once lived here, only to perish when men came. But one man believes they can still be found, somewhere in the back of the beyond.
   >
-  > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man’s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
+  > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man���s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
 </details>
 
 #### [The First Fifteen Lives of Harry August](https://www.goodreads.com/book/show/35066358-the-first-fifteen-lives-of-harry-august) (2014) _by [Claire North](https://en.wikipedia.org/wiki/Catherine_Webb) [4.01]
