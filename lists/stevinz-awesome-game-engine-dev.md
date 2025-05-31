@@ -684,7 +684,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Sparkler ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreiRudenko/sparkler) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreiRudenko/sparkler)](https://github.com/AndreiRudenko/sparkler) - Modular macro-powered particle system.
 - Haxe: Gui
     - 🎉 [HaxeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/haxeui/haxeui-core) ![GitHub last commit](https://img.shields.io/github/last-commit/haxeui/haxeui-core)](https://github.com/haxeui/haxeui-core) - Cross-platform set of styleable gui components.
-    - ���� [Zui ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/zui) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/zui)](https://github.com/armory3d/zui) - Immediate mode user interface, used in _ArmorPaint_.
+    - 🎉 [Zui ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/zui) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/zui)](https://github.com/armory3d/zui) - Immediate mode user interface, used in _ArmorPaint_.
 - Haxe: Libraries
     - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
