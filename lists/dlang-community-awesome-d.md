@@ -258,13 +258,15 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Basic
 
+* [NuMem ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/numem) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/numem)](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+* [Joka ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/joka) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/joka)](https://github.com/Kapendev/joka) - A nogc utility library.
 * [hunt ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 * [hunt-time ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-time) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-time)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
 * [hunt-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-validation)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ## Containers
 
-* [EMSI containers ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/containers) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/containers)](https://github.com/dlang-community/containers) -  Containers that do not use the GC 
+* [EMSI containers ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/containers) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/containers)](https://github.com/dlang-community/containers) - Containers that do not use the GC 
 - [memutils ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/memutils) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/memutils)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 - [dlib.container ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dlib) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dlib)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 - [std.rcstring ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/std.rcstring) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/std.rcstring)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
@@ -287,11 +289,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [dlang-requests ![GitHub Repo Stars](https://img.shields.io/github/stars/ikod/dlang-requests) ![GitHub last commit](https://img.shields.io/github/last-commit/ikod/dlang-requests)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 * [Handy-Httpd ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewlalis/handy-httpd) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewlalis/handy-httpd)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 * [serverino ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/serverino) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/serverino)](https://github.com/trikko/serverino) - Small and ready-to-go http server, in D
-* [hunt-net ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-net) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-net)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
-* [hunt-http ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-http) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-http)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 * [libasync ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/libasync) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/libasync)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2 ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/libhttp2) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/libhttp2)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 * [collie ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/collie) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/collie)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+* [hunt-net ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-net) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-net)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
+* [hunt-http ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-http) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-http)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 
 *Full stack web frameworks*
 
@@ -349,17 +351,17 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
-* [hunt-entity ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-entity) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-entity)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-* [hunt-database ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-database) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-database)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 * [vibe.d ![GitHub Repo Stars](https://img.shields.io/github/stars/vibe-d/vibe.d) ![GitHub last commit](https://img.shields.io/github/last-commit/vibe-d/vibe.d)](https://github.com/vibe-d/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
+* [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+* [hibernated ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/hibernated) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/hibernated)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 * [mysql-native ![GitHub Repo Stars](https://img.shields.io/github/stars/mysql-d/mysql-native) ![GitHub last commit](https://img.shields.io/github/last-commit/mysql-d/mysql-native)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 * [ddb ![GitHub Repo Stars](https://img.shields.io/github/stars/pszturmaj/ddb) ![GitHub last commit](https://img.shields.io/github/last-commit/pszturmaj/ddb)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
-* [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [ddbc ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/ddbc) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/ddbc)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
-* [hibernated ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/hibernated) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/hibernated)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 * [dvorm ![GitHub Repo Stars](https://img.shields.io/github/stars/rikkimax/Dvorm) ![GitHub last commit](https://img.shields.io/github/last-commit/rikkimax/Dvorm)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 * [libpb ![GitHub Repo Stars](https://img.shields.io/github/stars/Hax-io/libpb) ![GitHub last commit](https://img.shields.io/github/last-commit/Hax-io/libpb)](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
+* [hunt-entity ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-entity) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-entity)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+* [hunt-database ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-database) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-database)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
 ## Command Line
 
@@ -457,12 +459,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* ALURE (DerelictALURE).
 * [Godot-D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-d/godot-d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-d/godot-d)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 * [DAllegro5 ![GitHub Repo Stars](https://img.shields.io/github/stars/SiegeLord/DAllegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/SiegeLord/DAllegro5)](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
+* [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
+* [raylib-d ![GitHub Repo Stars](https://img.shields.io/github/stars/schveiguy/raylib-d) ![GitHub last commit](https://img.shields.io/github/last-commit/schveiguy/raylib-d)](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
 
 ## Game Frameworks
 
 *D libraries for game development.*
 
+* [InMath ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inmath)](https://github.com/Inochi2D/inmath) - Games math library for D.
 * [gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/drug007/gfm7) ![GitHub last commit](https://img.shields.io/github/last-commit/drug007/gfm7)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Dagon ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dagon) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dagon)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 * [Voxelman ![GitHub Repo Stars](https://img.shields.io/github/stars/MrSmith33/voxelman) ![GitHub last commit](https://img.shields.io/github/last-commit/MrSmith33/voxelman)](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language
