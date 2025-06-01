@@ -29,6 +29,11 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Talks and videos](#talks-and-videos)
 - [Supported editors](#supported-editors)
 - [Libraries/Packages/Scripts](#librariespackagesscripts)
+  - [R](#r)
+  - [Julia](#julia)
+  - [Python](#python)
+  - [Editors](#editors)
+  - [Miscellaneous](#miscellaneous)
 - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Real-life examples](#real-life-examples)
@@ -121,27 +126,42 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Neovim ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim)](https://github.com/quarto-dev/quarto-nvim) - [Neovim](https://neovim.io/) tools to work with Quarto.
 - [Sublime Text ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-sublime) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-sublime)](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
 - [Vim ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-vim) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-vim)](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
-- [Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-vscode)](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
+- [Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto)](https://github.com/quarto-dev/quarto) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
 - [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support to [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
 - [RStudio](https://posit.co/products/open-source/rstudio/) - RStudio IDE by [Posit PBC](https://posit.co/) natively supports Quarto.
-- [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC.
+- [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto)](https://github.com/quarto-dev/quarto)).
 
 ## Libraries/Packages/Scripts
 
-- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-julia) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-julia)](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
-- [Python ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-python) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-python)](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
+### R
+
 - [R ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-r) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-r)](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
-- [ecodown ![GitHub Repo Stars](https://img.shields.io/github/stars/edgararuiz/ecodown) ![GitHub last commit](https://img.shields.io/github/last-commit/edgararuiz/ecodown)](https://github.com/edgararuiz/ecodown) - Turn R package documentation `pkgdown` website into a Quarto website.
-- [Simulate colorblindness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
 - [quartostamp ![GitHub Repo Stars](https://img.shields.io/github/stars/matt-dray/quartostamp) ![GitHub last commit](https://img.shields.io/github/last-commit/matt-dray/quartostamp)](https://github.com/matt-dray/quartostamp) - An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` document.
-- [ohq2quarto ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/ohq2quarto) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/ohq2quarto)](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
-- [Quartize ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/reveal-qmd) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/reveal-qmd)](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
-- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
-- [matrix BOT ![GitHub Repo Stars](https://img.shields.io/github/stars/rgomez90/matrix-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/rgomez90/matrix-bot)](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
-- [quartodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/machow/quartodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/machow/quartodoc)](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 - [altdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/etiennebacher/altdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/etiennebacher/altdoc)](https://github.com/etiennebacher/altdoc) - Alternative to pkgdown to document R packages.
 - [surveydown](https://surveydown.org/) - A platform for making markdown-based surveys with Quarto, Shiny, and Supabase.
+
+### Julia
+
+- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-julia) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-julia)](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
+- [DocumenterQuarto ![GitHub Repo Stars](https://img.shields.io/github/stars/cadojo/DocumenterQuarto.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/cadojo/DocumenterQuarto.jl)](https://github.com/cadojo/DocumenterQuarto.jl) - A Julia package to generate documentation for Julia packages using Quarto and Documenter.
+
+### Python
+
+- [Python ![GitHub Repo Stars](https://img.shields.io/github/stars/quarto-dev/quarto-python) ![GitHub last commit](https://img.shields.io/github/last-commit/quarto-dev/quarto-python)](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
+- [quartodoc ![GitHub Repo Stars](https://img.shields.io/github/stars/machow/quartodoc) ![GitHub last commit](https://img.shields.io/github/last-commit/machow/quartodoc)](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
+
+### Editors
+
+- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
+- [Quarto Wizard ![GitHub Repo Stars](https://img.shields.io/github/stars/mcanouil/quarto-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/mcanouil/quarto-wizard)](https://github.com/mcanouil/quarto-wizard) - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
+- [Quarto Wingman ![GitHub Repo Stars](https://img.shields.io/github/stars/ntluong95/quarto-wingman) ![GitHub last commit](https://img.shields.io/github/last-commit/ntluong95/quarto-wingman)](https://github.com/ntluong95/quarto-wingman) - A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.
+
+### Miscellaneous
+
+- [ohq2quarto ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/ohq2quarto) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/ohq2quarto)](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
+- [Quartize ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/reveal-qmd) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/reveal-qmd)](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
+- [matrix BOT ![GitHub Repo Stars](https://img.shields.io/github/stars/rgomez90/matrix-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/rgomez90/matrix-bot)](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 
 ## Continuous integration / Continuous deployment
 

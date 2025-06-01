@@ -494,6 +494,7 @@ become an Angular expert.
 * [@angular/examples ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/examples)](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [agent-rules-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnomanu/agent-rules-kit)](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 * [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
+* [CodeSage AI ![GitHub Repo Stars](https://img.shields.io/github/stars/kd-akshay/code-quality-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-akshay/code-quality-analyzer)](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 
 #### Analytics
 
@@ -830,6 +831,7 @@ become an Angular expert.
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
 * [Bloomreach Angular SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomreach/spa-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomreach/spa-sdk)](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
 * [zero-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sscholle/zero-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sscholle/zero-angular)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+* [ngx-xyflow ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-xyflow) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-xyflow)](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow ![GitHub Repo Stars](https://img.shields.io/github/stars/xyflow/xyflow) ![GitHub last commit](https://img.shields.io/github/last-commit/xyflow/xyflow)](https://github.com/xyflow/xyflow).
 
 #### Internationalization
 
@@ -872,6 +874,7 @@ become an Angular expert.
 * [locale-translator ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/locale-translator) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/locale-translator)](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
 * [tldraw-web-component ![GitHub Repo Stars](https://img.shields.io/github/stars/neosh11/tldraw-web-component) ![GitHub last commit](https://img.shields.io/github/last-commit/neosh11/tldraw-web-component)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw ![GitHub Repo Stars](https://img.shields.io/github/stars/tldraw/tldraw) ![GitHub last commit](https://img.shields.io/github/last-commit/tldraw/tldraw)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 * [signal-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/NGneers/signal-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/NGneers/signal-translate)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
+* [ngx-translate-cut ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-translate-cut) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-translate-cut)](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
 
 #### Module Federation
 
@@ -1354,6 +1357,7 @@ become an Angular expert.
 * [ngx-autofocus ![GitHub Repo Stars](https://img.shields.io/github/stars/eurusik/ngx-autofocus) ![GitHub last commit](https://img.shields.io/github/last-commit/eurusik/ngx-autofocus)](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ng-dynamic-component ![GitHub Repo Stars](https://img.shields.io/github/stars/gund/ng-dynamic-component) ![GitHub last commit](https://img.shields.io/github/last-commit/gund/ng-dynamic-component)](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
 * [ngx-pipe-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/mofirojean/ngx-pipe-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/mofirojean/ngx-pipe-lib)](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
+* [pyno-date ![GitHub Repo Stars](https://img.shields.io/github/stars/amirhsnf/pyno-date) ![GitHub last commit](https://img.shields.io/github/last-commit/amirhsnf/pyno-date)](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
 
 #### Drag and Drop
 
