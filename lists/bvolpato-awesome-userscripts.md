@@ -509,11 +509,8 @@ Userscripts can be used w/ the following browsers:
 
 ### GitHub
 
-* [Gist to dabblet ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels ![GitHub Repo Stars](https://img.shields.io/github/stars/nazdridoy/github-commit-labels) ![GitHub last commit](https://img.shields.io/github/last-commit/nazdridoy/github-commit-labels)](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub PR Approvals ![GitHub Repo Stars](https://img.shields.io/github/stars/stowball/github-pr-approvals) ![GitHub last commit](https://img.shields.io/github/last-commit/stowball/github-pr-approvals)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
-* [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 * [GitHub sort content ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
 * [GitHub Star History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/github-star-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/github-star-history)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 * [GitHub static time ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
