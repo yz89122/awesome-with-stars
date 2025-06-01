@@ -199,6 +199,7 @@ Other places you can look for MicroPython Libraries:
 
 #### IoT
 
+* [aiomqttc ![GitHub Repo Stars](https://img.shields.io/github/stars/Tangerino/aiomqttc.git) ![GitHub last commit](https://img.shields.io/github/last-commit/Tangerino/aiomqttc.git)](https://github.com/Tangerino/aiomqttc.git) - Asynchronous MQTT Client for Micropython AND CPython. 
 * [microhomie ![GitHub Repo Stars](https://img.shields.io/github/stars/microhomie/microhomie) ![GitHub last commit](https://img.shields.io/github/last-commit/microhomie/microhomie)](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
 * [uPyEcho ![GitHub Repo Stars](https://img.shields.io/github/stars/lemariva/uPyEcho) ![GitHub last commit](https://img.shields.io/github/last-commit/lemariva/uPyEcho)](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
 * [SonosRemote ![GitHub Repo Stars](https://img.shields.io/github/stars/foosel/SonosRemote) ![GitHub last commit](https://img.shields.io/github/last-commit/foosel/SonosRemote)](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
