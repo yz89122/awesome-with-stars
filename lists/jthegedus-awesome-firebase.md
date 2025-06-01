@@ -199,7 +199,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 ### Official
 
 - 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
-- �� [Firebase Blog](https://firebase.googleblog.com/)
+- 📝 [Firebase Blog](https://firebase.googleblog.com/)
 - 🐦 [@firebase](https://twitter.com/firebase)
 - 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 - 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
