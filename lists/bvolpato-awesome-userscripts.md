@@ -15,7 +15,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 - [Compatibility](#compatibility)
 - [Scripts](#scripts)
-  - [Ads](#ads)
+  - [Ad blockers](#ad-blockers)
   - [Amazon](#amazon)
   - [Brave](#brave)
   - [ChatGPT](#chatgpt)
@@ -471,10 +471,9 @@ Userscripts can be used w/ the following browsers:
 ## Scripts
 
 
-### Ads
+### Ad blockers
 
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
-* [AntiAdware ![GitHub Repo Stars](https://img.shields.io/github/stars/handyuserscripts/antiadware) ![GitHub last commit](https://img.shields.io/github/last-commit/handyuserscripts/antiadware)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [ChatGPT Widescreen](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
 
