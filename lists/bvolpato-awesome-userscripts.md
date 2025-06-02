@@ -727,7 +727,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
         <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=6a5a2b9"></a>
+            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=dfd722e"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.ddgpt.com">
@@ -766,7 +766,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
         <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=6a5a2b9"></a>
+            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=dfd722e"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.ddgpt.com">
@@ -805,7 +805,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://greasyfork.org/scripts/22194">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
     <blockquote>
         <a href="https://greasyfork.org/scripts/22194">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/make-tooltips.png"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-make-tooltips.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/22194/GitHub%20Make%20Tooltips.user.js">
@@ -868,7 +868,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/Mottie/GitHub-userscripts/discussions">
             Discuss</a> /
-        ��� <a href="https://github.com/Mottie/GitHub-userscripts/issues">
+        🐛 <a href="https://github.com/Mottie/GitHub-userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -983,7 +983,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/linkify-plus-plus/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/linkify-plus-plus/issues">
+        📢 <a href="https://github.com/eight04/linkify-plus-plus/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/linkify-plus-plus/issues">
             Report bug</a>
@@ -1001,7 +1001,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
+        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
             Report bug</a>
@@ -1024,9 +1024,9 @@ Userscripts can be used w/ the following browsers:
             Install Dev Build</a> /
         📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/qsniyg/maxurl/issues">
+        📢 <a href="https://github.com/qsniyg/maxurl/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/qsniyg/maxurl/discussions">
+        🐛 <a href="https://github.com/qsniyg/maxurl/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1044,9 +1044,9 @@ Userscripts can be used w/ the following browsers:
             Install Dev Build</a> /
         📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/qsniyg/maxurl/issues">
+        📢 <a href="https://github.com/qsniyg/maxurl/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/qsniyg/maxurl/discussions">
+        🐛 <a href="https://github.com/qsniyg/maxurl/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1062,9 +1062,9 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/hoothin/UserScripts/issues">
+        📢 <a href="https://github.com/hoothin/UserScripts/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/hoothin/UserScripts/discussions">
+        🐛 <a href="https://github.com/hoothin/UserScripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1080,7 +1080,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/show-and-reload-broken-images/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
+        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
             Report bug</a>
@@ -1221,7 +1221,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://github.com/RobertWesner/YouTube-Play-All/raw/main/script.user.js">
             Install</a> /
-        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
+        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
             Report bug</a>
@@ -1269,7 +1269,20 @@ Please have a look at [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/
 To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
 
 
+## ⭐ Star History
 
+<div align="center">
+
+<a href="https://github.com/awesome-scripts/awesome-userscripts/stargazers">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=awesome-scripts/awesome-userscripts&type=Timeline&theme=dark" />
+        <img width=665 src="https://api.star-history.com/svg?repos=awesome-scripts/awesome-userscripts&type=Timeline" />
+    </picture>
+</a>
+
+<br>
+
+</div>
 
 
 #
