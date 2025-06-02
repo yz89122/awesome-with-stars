@@ -1499,6 +1499,7 @@ become an Angular expert.
 * [ngx-pwd ![GitHub Repo Stars](https://img.shields.io/github/stars/noelitocalma/ngx-pwd) ![GitHub last commit](https://img.shields.io/github/last-commit/noelitocalma/ngx-pwd)](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 * [ng-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/code-farmz/ng-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/code-farmz/ng-otp-input)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
 * [ngx-np-datepicker](https://www.npmjs.com/package/ngx-np-datepicker) - An Angular datepicker component that supports the Nepali calendar (Bikram Sambat). It allows users to pick Nepali dates easily, supports form integrations, and is ideal for applications needing a native Nepali date experience.
+* [ngx-multi-select-input ![GitHub Repo Stars](https://img.shields.io/github/stars/noredinebahri/ngx-multi-select-input) ![GitHub last commit](https://img.shields.io/github/last-commit/noredinebahri/ngx-multi-select-input)](https://github.com/noredinebahri/ngx-multi-select-input) - A modern, customizable Angular standalone component for multi-term input with chips, autocomplete dropdown, and beautiful color support. Perfect for tag editors, search bars, and more!
 
 ##### JSON Forms
 
