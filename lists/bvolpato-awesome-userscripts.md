@@ -520,11 +520,7 @@ Userscripts can be used w/ the following browsers:
 ### Google
 
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
-* [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
-* [Google Translate Keyboard Shortcut ![GitHub Repo Stars](https://img.shields.io/github/stars/Greenek/google-translate-keyboard-shortcut-userscript) ![GitHub last commit](https://img.shields.io/github/last-commit/Greenek/google-translate-keyboard-shortcut-userscript)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
-* [Reddit Search On Google ![GitHub Repo Stars](https://img.shields.io/github/stars/marioortizmanero/reddit-search-on-google) ![GitHub last commit](https://img.shields.io/github/last-commit/marioortizmanero/reddit-search-on-google)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
-* [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Share Google Slides Control ![GitHub Repo Stars](https://img.shields.io/github/stars/LostInBrittany/share-google-slides-control) ![GitHub last commit](https://img.shields.io/github/last-commit/LostInBrittany/share-google-slides-control)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
 
@@ -557,7 +553,6 @@ Userscripts can be used w/ the following browsers:
 ### Privacy
 
 * [Autoclear ChatGPT History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/autoclear-chatgpt-history)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
-* [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 
 
 ### Text-to-speech
@@ -567,7 +562,6 @@ Userscripts can be used w/ the following browsers:
 
 ### Translation
 
-* [Google Translate Keyboard Shortcut ![GitHub Repo Stars](https://img.shields.io/github/stars/Greenek/google-translate-keyboard-shortcut-userscript) ![GitHub last commit](https://img.shields.io/github/last-commit/Greenek/google-translate-keyboard-shortcut-userscript)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
 
 
