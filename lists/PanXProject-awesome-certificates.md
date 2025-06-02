@@ -122,7 +122,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3     | 🏆     |
 | [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4     | 🏆     |
 
-[��️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Blockchain
