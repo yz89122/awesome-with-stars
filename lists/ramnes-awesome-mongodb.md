@@ -93,7 +93,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Scaling MongoDB on Amazon Web Services (Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
- - [Kubernetes examples ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes/examples)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
  - [Sharded Cluster with Docker Compose ![GitHub Repo Stars](https://img.shields.io/github/stars/minhhungit/mongodb-cluster-docker-compose) ![GitHub last commit](https://img.shields.io/github/last-commit/minhhungit/mongodb-cluster-docker-compose)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
@@ -265,15 +264,15 @@ Services:
  - [Mongolastic ![GitHub Repo Stars](https://img.shields.io/github/stars/ozlerhakan/mongolastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ozlerhakan/mongolastic)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster ![GitHub Repo Stars](https://img.shields.io/github/stars/rick446/mmm) ![GitHub last commit](https://img.shields.io/github/last-commit/rick446/mmm)](https://github.com/rick446/mmm) - Multi-master replication
 
+Services:
+ - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
+
 ### Deployment
  - [ansible-role-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/UnderGreen/ansible-role-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/UnderGreen/ansible-role-mongodb)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/edelight/chef-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/edelight/chef-mongodb)](https://github.com/edelight/chef-mongodb) - Chef cookbook
  - [DockerHub Official Docker Image](https://hub.docker.com/_/mongo/)
  - [Helm Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/helm/charts) ![GitHub last commit](https://img.shields.io/github/last-commit/helm/charts)](https://github.com/helm/charts/tree/master/stable/mongodb)
  - [puppet-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/voxpupuli/puppet-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/voxpupuli/puppet-mongodb)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
-
-Services:
- - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
 
 ### Desktop
  - [Compass ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/compass) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/compass)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
