@@ -470,105 +470,763 @@ Userscripts can be used w/ the following browsers:
 
 ## Scripts
 
+> [!TIP]  
+> To show screenshots/links, click the ▸ or userscript descriptions.
+
 
 ### Ad blockers
 
-* [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
-* [ChatGPT Widescreen](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
-* [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
+<details> <!-- AdsBypasser -->
+    <summary><a href="https://adsbypasser.github.io">AdsBypasser</a> - Bypass Ads, Popups and count-down ads.</summary><br>
+    <blockquote>
+        <a href="https://adsbypasser.github.io">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/adsbypasser.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js">
+            Install Full Edition</a> /
+        💾 <a href="https://adsbypasser.github.io/releases/adsbypasser.lite.es7.user.js">
+            Install Lite Edition</a> /
+        📖 <a href="https://github.com/adsbypasser/adsbypasser/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adsbypasser/adsbypasser/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adsbypasser/adsbypasser/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- ChatGPT Widescreen -->
+    <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptwidescreen.com">
+            <img width=600 src="https://assets.chatgptwidescreen.com/images/tiles/marquee/tile-625x250.png?v=91656d3"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptwidescreen.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptwidescreen.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- YouTube Classic -->
+    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
+    <blockquote>
+        <a href="https://www.ytclassic.com">
+            <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.ytclassic.com">
+            Install</a> /
+        📖 <a href="https://docs.ytclassic.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/youtube-classic/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/youtube-classic/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Amazon
 
-* [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.
+<details> <!-- AmazonGPT -->
+    <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://amazongpt.kudoai.com">
+            <img width=511 src="https://amazongpt.kudoai.com/assets/images/screenshots/desktop/mice-md-reply-darkmode.png?v=80bceab"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/KudoAI/amazongpt/main/greasemonkey/amazongpt.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Brave
 
-* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave, powered by the latest LLMs.
+<details> <!-- BraveGPT -->
+    <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://www.bravegpt.com">
+            <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.bravegpt.com">
+            Install</a> /
+        📖 <a href="https://docs.bravegpt.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/bravegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### ChatGPT
 
-* [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
-* [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
-* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave, powered by the latest LLMs.
-* [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
-* [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
-* [ChatGPT Auto-Talk ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-talk) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/chatgpt-auto-talk)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
-* [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (on any topic!)
-* [ChatGPT Widescreen](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
-* [DuckDuckGPT](https://duckduckgpt.com) - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.
-* [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
+<details> <!-- AmazonGPT -->
+    <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://amazongpt.kudoai.com">
+            <img width=511 src="https://amazongpt.kudoai.com/assets/images/screenshots/desktop/mice-md-reply-darkmode.png?v=80bceab"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/KudoAI/amazongpt/main/greasemonkey/amazongpt.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Autoclear ChatGPT History -->
+    <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
+    <blockquote>
+        <a href="https://www.autoclearchatgpt.com">
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=d6e2060"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.autoclearchatgpt.com">
+            Install</a> /
+        📖 <a href="https://docs.autoclearchatgpt.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- BraveGPT -->
+    <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://www.bravegpt.com">
+            <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.bravegpt.com">
+            Install</a> /
+        📖 <a href="https://docs.bravegpt.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/bravegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- ChatGPT Auto-Continue -->
+    <summary><a href="https://www.chatgptautocontinue.com">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptautocontinue.com">
+            <img width=600 src="https://assets.chatgptautocontinue.com/images/tiles/marquee/tile625x250.png?v=eb96a05"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptautocontinue.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptautocontinue.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-auto-continue/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- ChatGPT Auto Refresh -->
+    <summary><a href="https://www.chatgptautorefresh.com">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptautorefresh.com">
+            <img width=600 src="https://assets.chatgptautorefresh.com/images/screenshots/gm-toggle%2Bnotification.png?v=1406eb7"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptautorefresh.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptautorefresh.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-auto-refresh/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-auto-refresh/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- ChatGPT Auto-Talk -->
+    <summary><a href="https://www.chatgptautotalk.com">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptautotalk.com">
+            <img width=300 src="https://assets.chatgptautotalk.com/images/screenshots/auto-talk-sidebar-toggle-enabled.png?v=4ff7545"></a>
+        <a href="https://www.chatgptautotalk.com">
+            <img width=300 src="https://assets.chatgptautotalk.com/images/screenshots/auto-talk-on-notif.png?v=4ff7545"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptautotalk.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptautotalk.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- ChatGPT Infinity -->
+    <summary><a href="https://www.chatgptinfinity.com">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptinfinity.com">
+            <img width=600 src="https://assets.chatgptinfinity.com/images/tiles/marquee/tile-625x250.png?v=4a7bac9"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptinfinity.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptinfinity.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-infinity/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-infinity/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- ChatGPT Widescreen -->
+    <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptwidescreen.com">
+            <img width=600 src="https://assets.chatgptwidescreen.com/images/tiles/marquee/tile-625x250.png?v=91656d3"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptwidescreen.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptwidescreen.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- DuckDuckGPT -->
+    <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://www.duckduckgpt.com">
+            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=6a5a2b9"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.ddgpt.com">
+            Install</a> /
+        📖 <a href="https://docs.ddgpt.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GoogleGPT -->
+    <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://www.googlegpt.io">
+            <img width=511 src="https://assets.googlegpt.io/images/screenshots/desktop/javascript-arrays-query/darkmode.png?v=a363ecf"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.googlegpt.io">
+            Install</a> /
+        📖 <a href="https://docs.googlegpt.io/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### DuckDuckGo
 
-* [DuckDuckGPT](https://duckduckgpt.com) - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.
+<details> <!-- DuckDuckGPT -->
+    <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://www.duckduckgpt.com">
+            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=6a5a2b9"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.ddgpt.com">
+            Install</a> /
+        📖 <a href="https://docs.ddgpt.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### GitHub
 
-* [GitHub Commit Labels ![GitHub Repo Stars](https://img.shields.io/github/stars/nazdridoy/github-commit-labels) ![GitHub last commit](https://img.shields.io/github/last-commit/nazdridoy/github-commit-labels)](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
-* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub sort content ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
-* [GitHub Star History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/github-star-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/github-star-history)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
-* [GitHub static time ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
-* [GitHub toggle wiki sidebar ![GitHub Repo Stars](https://img.shields.io/github/stars/Mottie/GitHub-userscripts) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottie/GitHub-userscripts)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
+<details> <!-- GitHub Commit Labels -->
+    <summary><a href="https://github.com/nazdridoy/github-commit-labels">GitHub Commit Labels</a> - Add beautiful labels to conventional commits on GitHub.</summary><br>
+    <blockquote>
+        <a href="https://github.com/nazdridoy/github-commit-labels">
+            <img width=600 src="https://cdn.jsdelivr.net/gh/nazdridoy/github-commit-labels@fa5457b/previews/commit-history.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/526153/GitHub%20Commit%20Labels.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/nazdridoy/github-commit-labels/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/nazdridoy/github-commit-labels/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/nazdridoy/github-commit-labels/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GitHub Make Tooltips -->
+    <summary><a href="https://greasyfork.org/scripts/22194">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/22194">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/make-tooltips.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/22194/GitHub%20Make%20Tooltips.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/en/scripts/22194-github-make-tooltips">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/en/scripts/22194-github-make-tooltips/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/en/scripts/22194-github-make-tooltips/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GitHub sort content -->
+    <summary><a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content">GitHub sort content</a> - Sort lists and tables on GitHub.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content">
+            <img width=411 src="https://cdn.jsdelivr.net/gh/Mottie/GitHub-userscripts@575e466/images/github-sort-content-table.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-sort-content.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content">
+            Readme</a> /
+        📢 <a href="https://github.com/Mottie/GitHub-userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Mottie/GitHub-userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GitHub Star History -->
+    <summary><a href="https://github.com/adamlui/github-star-history">GitHub Star History</a> - Adds star history chart to every repo's sidebar.</summary><br>
+    <blockquote>
+        <a href="https://github.com/adamlui/github-star-history">
+            <img width=555 src="https://cdn.jsdelivr.net/gh/adamlui/github-star-history@c7bbf09/assets/images/screenshots/star-history-in-sidebar.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/adamlui/github-star-history/main/greasemonkey/github-star-history.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/adamlui/github-star-history/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/github-star-history/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/github-star-history/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GitHub static time -->
+    <summary><a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time">GitHub static time</a> - Convert time ago into a time format of your choice.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time">
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-static-time.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-static-time.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time">
+            Readme</a> /
+        📢 <a href="https://github.com/Mottie/GitHub-userscripts/discussions">
+            Discuss</a> /
+        ��� <a href="https://github.com/Mottie/GitHub-userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GitHub toggle wiki sidebar -->
+    <summary><a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar">GitHub toggle wiki sidebar</a> - Toggle wiki sidebar view.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar">
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-toggle-wiki-sidebar.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-toggle-wiki-sidebar.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar">
+            Readme</a> /
+        📢 <a href="https://github.com/Mottie/GitHub-userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Mottie/GitHub-userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Google
 
-* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
-* [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
-* [Share Google Slides Control ![GitHub Repo Stars](https://img.shields.io/github/stars/LostInBrittany/share-google-slides-control) ![GitHub last commit](https://img.shields.io/github/last-commit/LostInBrittany/share-google-slides-control)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
+<details> <!-- Endless Google -->
+    <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
+    <blockquote>
+        <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
+            Install</a> /
+        📖 <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
+            Readme</a> /
+        📢 <a href="https://github.com/tumpio/gmscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/tumpio/gmscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- GoogleGPT -->
+    <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <blockquote>
+        <a href="https://www.googlegpt.io">
+            <img width=511 src="https://assets.googlegpt.io/images/screenshots/desktop/javascript-arrays-query/darkmode.png?v=a363ecf"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.googlegpt.io">
+            Install</a> /
+        📖 <a href="https://docs.googlegpt.io/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Share Google Slides controls -->
+    <summary><a href="https://github.com/LostInBrittany/share-google-slides-control">Share Google Slides controls</a> - Remotely share the control of a Google Slides presentation.</summary><br>
+    <blockquote>
+        <a href="https://github.com/LostInBrittany/share-google-slides-control">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/share-google-slides-controls.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/LostInBrittany/share-google-slides-control/raw/refs/heads/main/userscript/shared-google-slides-control.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/LostInBrittany/share-google-slides-control/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/LostInBrittany/share-google-slides-control/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Just Eat (UK only)
 
-* [Just Eat Userscript ![GitHub Repo Stars](https://img.shields.io/github/stars/S4N-T0S/JustEat-userscript) ![GitHub last commit](https://img.shields.io/github/last-commit/S4N-T0S/JustEat-userscript)](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk).
+<details> <!-- Just Eat Userscript -->
+    <summary><a href="https://github.com/S4N-T0S/JustEat-userscript">Just Eat Userscript</a> - Adds dark mode and advanced filters to Just Eat UK.</summary><br>
+    <blockquote>
+        <a href="https://github.com/S4N-T0S/JustEat-userscript">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/S4N-T0S/JustEat-userscript@7905e8b/example.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/LostInBrittany/share-google-slides-control/raw/refs/heads/main/userscript/shared-google-slides-control.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/LostInBrittany/share-google-slides-control/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/LostInBrittany/share-google-slides-control/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Links
 
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
-* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
+<details> <!-- Linkify Plus Plus -->
+    <summary><a href="https://github.com/eight04/linkify-plus-plus">Linkify Plus Plus</a> - Turn plain text URLs into links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/eight04/linkify-plus-plus">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/linkify-plus-plus.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/4255/Linkify%20Plus%20Plus.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/eight04/linkify-plus-plus/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/eight04/linkify-plus-plus/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/eight04/linkify-plus-plus/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Select text inside a link like Opera -->
+    <summary><a href="https://github.com/eight04/select-text-inside-a-link-like-opera">Select text inside a link like Opera</a> - Disable link dragging and select text.</summary><br>
+    <blockquote>
+        <a href="https://github.com/eight04/select-text-inside-a-link-like-opera">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/select-text-inside-a-link-like-opera.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Media
 
-* [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
-* [Mouseover Popup Image Viewer (updated fork)](https://greasyfork.org/scripts/394820-mouseover-popup-image-viewer) - An updated fork of MPIV, maintained by one of Violentmonkey's developers.
-* [Picviewer CE+](https://greasyfork.org/scripts/24204-picviewer-ce) - Powerful picture viewing tool which can popup/scale/rotate/batch save pictures automatically.
-* [Show and reload broken images](https://greasyfork.org/scripts/790-show-and-reload-broken-images) - Show and reload broken images, even when it contains "alt" tag.
+<details> <!-- Image Max URL -->
+    <summary><a href="https://github.com/qsniyg/maxurl">Image Max URL</a> - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.</summary><br>
+    <blockquote>
+        <a href="https://github.com/qsniyg/maxurl">
+            <img width=511 src="https://i.imgur.com/cGtifHN.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript_smaller.user.js?raw=true">
+            Install Stable Build</a> /
+        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript.user.js?raw=true">
+            Install Dev Build</a> /
+        📖 <a href="https://github.com/qsniyg/maxurl/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/qsniyg/maxurl/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/qsniyg/maxurl/discussions">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Mouseover Popup Image Viewer -->
+    <summary><a href="https://github.com/tophf/mpiv">Mouseover Popup Image Viewer</a> - An updated fork of MPIV, maintained by one of Violentmonkey's developers.</summary><br>
+    <blockquote>
+        <a href="https://github.com/tophf/mpiv">
+            <img width=311 src="https://i.imgur.com/A7hplWg.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript_smaller.user.js?raw=true">
+            Install Stable Build</a> /
+        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript.user.js?raw=true">
+            Install Dev Build</a> /
+        📖 <a href="https://github.com/qsniyg/maxurl/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/qsniyg/maxurl/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/qsniyg/maxurl/discussions">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Picviewer CE+ -->
+    <summary><a href="https://greasyfork.org/scripts/24204-picviewer-ce">Picviewer CE+</a> - Powerful picture viewing tool which can popup/scale/rotate/batch save pictures automatically.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/24204-picviewer-ce">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/picviewer-ce+.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/24204/Picviewer%20CE%2B.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/hoothin/UserScripts/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/hoothin/UserScripts/discussions">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Show and reload broken images -->
+    <summary><a href="https://greasyfork.org/scripts/790-show-and-reload-broken-images">Show and reload broken images</a> - Show and reload broken images, even when it contains "alt" tag.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/790-show-and-reload-broken-images">
+            <img width=411 src="https://i.imgur.com/EwrhEpi.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/790/Show%20and%20reload%20broken%20images.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/eight04/show-and-reload-broken-images/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Passwords
 
-* [Show Password onMouseOver](https://greasyfork.org/scripts/32-show-password-onmouseover) - Show password when mouseover on password field.
+<details> <!-- Show Password onMouseOver -->
+    <summary><a href="https://greasyfork.org/scripts/32-show-password-onmouseover">Show Password onMouseOver</a> - Show password when mouseover on password field.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/32-show-password-onmouseover">
+            <img width=311 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/show-password-onmouseover.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/32/Show%20Password%20onMouseOver.user.js">
+            Install</a> /
+        📢 <a href="https://greasyfork.org/scripts/32-show-password-onmouseover/feedback#post-discussion">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/scripts/32-show-password-onmouseover/feedback#post-discussion">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Privacy
 
-* [Autoclear ChatGPT History ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/autoclear-chatgpt-history)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
+<details> <!-- Autoclear ChatGPT History -->
+    <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
+    <blockquote>
+        <a href="https://www.autoclearchatgpt.com">
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=d6e2060"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.autoclearchatgpt.com">
+            Install</a> /
+        📖 <a href="https://docs.autoclearchatgpt.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Text-to-speech
 
-* [ChatGPT Auto-Talk ![GitHub Repo Stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-talk) ![GitHub last commit](https://img.shields.io/github/last-commit/adamlui/chatgpt-auto-talk)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
+<details> <!-- ChatGPT Auto-Talk -->
+    <summary><a href="https://www.chatgptautotalk.com">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
+    <blockquote>
+        <a href="https://www.chatgptautotalk.com">
+            <img width=300 src="https://assets.chatgptautotalk.com/images/screenshots/auto-talk-sidebar-toggle-enabled.png?v=4ff7545"></a>
+        <a href="https://www.chatgptautotalk.com">
+            <img width=300 src="https://assets.chatgptautotalk.com/images/screenshots/auto-talk-on-notif.png?v=4ff7545"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptautotalk.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptautotalk.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### Translation
 
-* [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+<details> <!-- Immersive Translate -->
+    <summary><a href="https://immersivetranslate.com/">Immersive Translate</a> - Translates text on any page.</summary><br>
+    <blockquote>
+        <a href="https://immersivetranslate.com/">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/immersive-translate.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.chatgptautotalk.com">
+            Install</a> /
+        📖 <a href="https://docs.chatgptautotalk.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ### YouTube
 
-* [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
-* [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
-* [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a YouTube link from almost any website.
-* [YouTube Play All ![GitHub Repo Stars](https://img.shields.io/github/stars/RobertWesner/YouTube-Play-All) ![GitHub last commit](https://img.shields.io/github/last-commit/RobertWesner/YouTube-Play-All)](https://github.com/RobertWesner/YouTube-Play-All) - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.
+<details> <!-- YouTube Classic -->
+    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
+    <blockquote>
+        <a href="https://www.ytclassic.com">
+            <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gm.ytclassic.com">
+            Install</a> /
+        📖 <a href="https://docs.ytclassic.com/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/youtube-classic/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/youtube-classic/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- YouTube Commenter Names -->
+    <summary><a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">YouTube Commenter Names</a> - Make YouTube display the names of commenters instead of their handles.</summary><br>
+    <blockquote>
+        <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/youtube-commenter-names.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d/raw/0afe05e43cf196de7f95a735a8251a012b399214/youtube-commenter-names.user.js">
+            Install</a> /
+        📢 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">
+            Discuss</a> /
+        🐛 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- YouTube Play All -->
+    <summary><a href="https://github.com/RobertWesner/YouTube-Play-All">YouTube Play All</a> - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.</summary><br>
+    <blockquote>
+        <a href="https://github.com/RobertWesner/YouTube-Play-All">
+            <picture>
+                <source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RobertWesner/YouTube-Play-All@213bbb8/readme/screenshot_dark.png">
+                <img width=511 src="https://cdn.jsdelivr.net/gh/RobertWesner/YouTube-Play-All@213bbb8/readme/screenshot.png">
+            </picture>
+        </a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/RobertWesner/YouTube-Play-All/raw/main/script.user.js">
+            Install</a> /
+        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ## Tutorials
