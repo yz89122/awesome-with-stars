@@ -312,7 +312,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Python Playground](<https://tryhackme.com/room/pythonplayground>) - Use python to pwn this room.
 
 <!--lint disable double-link-->
-[��](#contents)<!--lint enable double-link-->
+[↑](#contents)<!--lint enable double-link-->
 
 ## Footnotes
 

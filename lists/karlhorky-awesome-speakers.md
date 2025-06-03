@@ -1189,7 +1189,7 @@ https://twitter.com/chicoxyzzy
 Topics: HTML, CSS, Web Standards, Accessibility\
 [https://twitter.com/pepelsbey\_](https://twitter.com/pepelsbey_)
 
-## Serbia ���🇸
+## Serbia 🇷🇸
 
 ### Belgrade
 
