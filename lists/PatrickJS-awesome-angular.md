@@ -2084,6 +2084,7 @@ for the creation of web applications developed with Angular.
 * [primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/primitives)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [ngbase ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-base/ngbase) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-base/ngbase)](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
 * [vacui-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielAlcaraz/vacui-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielAlcaraz/vacui-ui)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
+* [ngx-headless ![GitHub Repo Stars](https://img.shields.io/github/stars/fawadtariq/ngx-headless) ![GitHub last commit](https://img.shields.io/github/last-commit/fawadtariq/ngx-headless)](https://github.com/fawadtariq/ngx-headless) - A collection of Headless Libraries for Angular — fully standalone, accessible, and style-agnostic primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
 
 #### UX Components
 
