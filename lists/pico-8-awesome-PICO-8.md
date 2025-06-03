@@ -16,6 +16,7 @@
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
+- [Libraries](#libraries)
 - [Assets](#assets)
 - [Text Editors Language Support](#text-editors-language-support)
 - [Hacks](#hacks---undocumented-pico-8-features)
@@ -82,15 +83,10 @@
 - [p8 responsive webplayer transform ![GitHub Repo Stars](https://img.shields.io/github/stars/benwiley4000/pico8-responsive-webplayer-transform) ![GitHub last commit](https://img.shields.io/github/last-commit/benwiley4000/pico8-responsive-webplayer-transform)](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 - [Color Palette](https://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://www.lexaloffle.com/bbs/?tid=3760) - by [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
-- [pico-test ![GitHub Repo Stars](https://img.shields.io/github/stars/jozanza/pico-test) ![GitHub last commit](https://img.shields.io/github/last-commit/jozanza/pico-test)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-- [Lib-Pico8 ![GitHub Repo Stars](https://img.shields.io/github/stars/clowerweb/Lib-Pico8) ![GitHub last commit](https://img.shields.io/github/last-commit/clowerweb/Lib-Pico8)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
-- [pico8-missing-builtins ![GitHub Repo Stars](https://img.shields.io/github/stars/adamscott/pico8-missing-builtins) ![GitHub last commit](https://img.shields.io/github/last-commit/adamscott/pico8-missing-builtins)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 - [P8Coder ![GitHub Repo Stars](https://img.shields.io/github/stars/movAX13h/P8Coder) ![GitHub last commit](https://img.shields.io/github/last-commit/movAX13h/P8Coder)](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
-- [Pico-Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/outkine/pico-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/outkine/pico-kit)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
 - [picoDeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/torch2424/picoDeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/torch2424/picoDeploy)](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
 - [pico8Grunt ![GitHub Repo Stars](https://img.shields.io/github/stars/TeamNoComplyGames/pico8Grunt) ![GitHub last commit](https://img.shields.io/github/last-commit/TeamNoComplyGames/pico8Grunt)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 - [PICO-EC ![GitHub Repo Stars](https://img.shields.io/github/stars/JoebRogers/PICO-EC) ![GitHub last commit](https://img.shields.io/github/last-commit/JoebRogers/PICO-EC)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
-- [PICO-Tween ![GitHub Repo Stars](https://img.shields.io/github/stars/JoebRogers/PICO-Tween) ![GitHub last commit](https://img.shields.io/github/last-commit/JoebRogers/PICO-Tween)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 - [p8 ![GitHub Repo Stars](https://img.shields.io/github/stars/jozanza/p8) ![GitHub last commit](https://img.shields.io/github/last-commit/jozanza/p8)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 - [MIDI to PICO-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/andmatand/midi-to-pico8) ![GitHub last commit](https://img.shields.io/github/last-commit/andmatand/midi-to-pico8)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 - [midi2pico ![GitHub Repo Stars](https://img.shields.io/github/stars/gamax92/midi2pico) ![GitHub last commit](https://img.shields.io/github/last-commit/gamax92/midi2pico)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
@@ -103,6 +99,14 @@
 - [yap8b ![GitHub Repo Stars](https://img.shields.io/github/stars/Enerccio/yap8b) ![GitHub last commit](https://img.shields.io/github/last-commit/Enerccio/yap8b)](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 - [TS-PICO-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/tmountain/pico-8-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/tmountain/pico-8-typescript)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 - [Shrinko8 ![GitHub Repo Stars](https://img.shields.io/github/stars/thisismypassport/shrinko8) ![GitHub last commit](https://img.shields.io/github/last-commit/thisismypassport/shrinko8)](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+
+### Libraries
+
+- [pico-test ![GitHub Repo Stars](https://img.shields.io/github/stars/jozanza/pico-test) ![GitHub last commit](https://img.shields.io/github/last-commit/jozanza/pico-test)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
+- [Lib-Pico8 ![GitHub Repo Stars](https://img.shields.io/github/stars/clowerweb/Lib-Pico8) ![GitHub last commit](https://img.shields.io/github/last-commit/clowerweb/Lib-Pico8)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+- [pico8-missing-builtins ![GitHub Repo Stars](https://img.shields.io/github/stars/adamscott/pico8-missing-builtins) ![GitHub last commit](https://img.shields.io/github/last-commit/adamscott/pico8-missing-builtins)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
+- [Pico-Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/outkine/pico-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/outkine/pico-kit)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
+- [PICO-Tween ![GitHub Repo Stars](https://img.shields.io/github/stars/JoebRogers/PICO-Tween) ![GitHub last commit](https://img.shields.io/github/last-commit/JoebRogers/PICO-Tween)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 - [parens-8 ![GitHub Repo Stars](https://img.shields.io/github/stars/Siapran/parens-8) ![GitHub last commit](https://img.shields.io/github/last-commit/Siapran/parens-8)](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 - [p8-canvas ![GitHub Repo Stars](https://img.shields.io/github/stars/Siapran/p8-canvas) ![GitHub last commit](https://img.shields.io/github/last-commit/Siapran/p8-canvas)](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
 
