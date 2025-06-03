@@ -48,6 +48,7 @@
 * [PAF ![GitHub Repo Stars](https://img.shields.io/github/stars/ClusterLabs/PAF) ![GitHub last commit](https://img.shields.io/github/last-commit/ClusterLabs/PAF)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 * [SkyTools ![GitHub Repo Stars](https://img.shields.io/github/stars/pgq/skytools-legacy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgq/skytools-legacy)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 * [pg_auto_failover ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_auto_failover) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_auto_failover)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+* [pgrwl ![GitHub Repo Stars](https://img.shields.io/github/stars/hashmap-kz/pgrwl) ![GitHub last commit](https://img.shields.io/github/last-commit/hashmap-kz/pgrwl)](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg_receivewal.
 
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
@@ -61,6 +62,7 @@
 * [wal-g ![GitHub Repo Stars](https://img.shields.io/github/stars/wal-g/wal-g) ![GitHub last commit](https://img.shields.io/github/last-commit/wal-g/wal-g)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 * [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 * [pgbackup-sidecar ![GitHub Repo Stars](https://img.shields.io/github/stars/Musab520/pgbackup-sidecar) ![GitHub last commit](https://img.shields.io/github/last-commit/Musab520/pgbackup-sidecar)](https://github.com/Musab520/pgbackup-sidecar) - `pgbackup-sidecar` is a lightweight Docker sidecar container designed to automate regular backups of a PostgreSQL database using `pg_dump`, `cron`, and bash scripts while also sending output to a webhook.
+* [pg-backups-to-s3 ![GitHub Repo Stars](https://img.shields.io/github/stars/Saicheg/pg-backups-to-s3) ![GitHub last commit](https://img.shields.io/github/last-commit/Saicheg/pg-backups-to-s3)](https://github.com/Saicheg/pg-backups-to-s3) - Docker-first solution on top of pg_dump with support for environment-based configuration for scheduled PostgreSQL backups with optional compression, GPG encryption, webhooks, automatic upload to Amazon S3.
 
 ### GUI
 * [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
@@ -201,7 +203,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
 * [bemi ![GitHub Repo Stars](https://img.shields.io/github/stars/BemiHQ/bemi) ![GitHub last commit](https://img.shields.io/github/last-commit/BemiHQ/bemi)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 * [ERAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexis-benoist/eralchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexis-benoist/eralchemy)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
-* [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others. 
+* [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others.
 * [GatewayD ![GitHub Repo Stars](https://img.shields.io/github/stars/gatewayd-io/gatewayd) ![GitHub last commit](https://img.shields.io/github/last-commit/gatewayd-io/gatewayd)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 * [Hasura GraphQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 * [ldap2pg ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/ldap2pg) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/ldap2pg)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
@@ -245,7 +247,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [sqlcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/jarulraj/sqlcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jarulraj/sqlcheck)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 * [Pyrseas ![GitHub Repo Stars](https://img.shields.io/github/stars/perseas/Pyrseas) ![GitHub last commit](https://img.shields.io/github/last-commit/perseas/Pyrseas)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
-* [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software). 
+* [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
 * [planter ![GitHub Repo Stars](https://img.shields.io/github/stars/achiku/planter) ![GitHub last commit](https://img.shields.io/github/last-commit/achiku/planter)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 * [pgroll ![GitHub Repo Stars](https://img.shields.io/github/stars/xataio/pgroll) ![GitHub last commit](https://img.shields.io/github/last-commit/xataio/pgroll)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/regresql) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/regresql)](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
@@ -326,6 +328,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
+* [Digoal's PostgreSQL and Technical blog(Chinese Language) ![GitHub Repo Stars](https://img.shields.io/github/stars/digoal/blog) ![GitHub last commit](https://img.shields.io/github/last-commit/digoal/blog)](https://github.com/digoal/blog/blob/master/README.md) 
 
 ### Articles
 
