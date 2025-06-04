@@ -32,9 +32,9 @@
 ## PlayCanvas Products
 
 - [PlayCanvas Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/engine)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [PlayCanvas React ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/react) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/react)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
 - [PlayCanvas Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/web-components)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
-- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 - [Texture Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/texture-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/texture-tool)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
