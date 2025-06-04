@@ -445,7 +445,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## ETL
 
 * [Cinchoo ETL ![GitHub Repo Stars](https://img.shields.io/github/stars/Cinchoo/ChoETL) ![GitHub last commit](https://img.shields.io/github/last-commit/Cinchoo/ChoETL)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
-
+* [EtlBox.Classic ![GitHub Repo Stars](https://img.shields.io/github/stars/rpsft/etlbox) ![GitHub last commit](https://img.shields.io/github/last-commit/rpsft/etlbox)](https://github.com/rpsft/etlbox) - Lightweight ETL (extract, transform, load) library and data integration toolbox for .NET built on top of Microsoft TPL.Dataflow library.
 
 ## Event aggregator and messenger
 
@@ -882,7 +882,6 @@ metadata in media files, including video, audio, and photo formats
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
 * [SlimMessageBus ![GitHub Repo Stars](https://img.shields.io/github/stars/zarusz/SlimMessageBus) ![GitHub last commit](https://img.shields.io/github/last-commit/zarusz/SlimMessageBus)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 * [AsyncMonolith ![GitHub Repo Stars](https://img.shields.io/github/stars/Timmoth/AsyncMonolith) ![GitHub last commit](https://img.shields.io/github/last-commit/Timmoth/AsyncMonolith)](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
-
 ## RPC
 
 * [gRPC ![GitHub Repo Stars](https://img.shields.io/github/stars/grpc/grpc-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/grpc/grpc-dotnet)](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
@@ -908,6 +907,8 @@ metadata in media files, including video, audio, and photo formats
 * [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
 * [DurableTask ![GitHub Repo Stars](https://img.shields.io/github/stars/Azure/durabletask) ![GitHub last commit](https://img.shields.io/github/last-commit/Azure/durabletask)](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Workflow Core ![GitHub Repo Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core) ![GitHub last commit](https://img.shields.io/github/last-commit/danielgerlag/workflow-core)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+* [Occurify ![GitHub Repo Stars](https://img.shields.io/github/stars/Occurify/Occurify) ![GitHub last commit](https://img.shields.io/github/last-commit/Occurify/Occurify)](https://github.com/Occurify/Occurify) - A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.
+* [TickerQ ![GitHub Repo Stars](https://img.shields.io/github/stars/Arcenox-co/TickerQ) ![GitHub last commit](https://img.shields.io/github/last-commit/Arcenox-co/TickerQ)](https://github.com/Arcenox-co/TickerQ) - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [NCronJob ![GitHub Repo Stars](https://img.shields.io/github/stars/NCronJob-Dev/NCronJob) ![GitHub last commit](https://img.shields.io/github/last-commit/NCronJob-Dev/NCronJob)](https://github.com/NCronJob-Dev/NCronJob) - A Job Scheduler sitting on top of IHostedService in dotnet.
 
 ## SDK and API Clients
