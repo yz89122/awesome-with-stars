@@ -227,7 +227,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 * [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
 * [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
 * [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
-* [Programming the Universal Future with Next.js - Guillermo Rauch �� JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
+* [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
 * [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
 * [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
 * [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
