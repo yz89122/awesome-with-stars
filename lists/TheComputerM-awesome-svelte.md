@@ -116,6 +116,7 @@ _Studies and research on the Svelte framework._
 - [modular-css ![GitHub Repo Stars](https://img.shields.io/github/stars/tivac/modular-css) ![GitHub last commit](https://img.shields.io/github/last-commit/tivac/modular-css)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 - [svelte-preprocess-sass ![GitHub Repo Stars](https://img.shields.io/github/stars/ls-age/svelte-preprocess-sass) ![GitHub last commit](https://img.shields.io/github/last-commit/ls-age/svelte-preprocess-sass)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 - [svelte-preprocess-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexxNB/svelte-preprocess-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxNB/svelte-preprocess-markdown)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
+- [@nvl/sveltex ![GitHub Repo Stars](https://img.shields.io/github/stars/nvlang/sveltex) ![GitHub last commit](https://img.shields.io/github/last-commit/nvlang/sveltex)](https://github.com/nvlang/sveltex) - Svelte + Markdown + LaTeX.
 
 ### Mobile
 
