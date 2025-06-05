@@ -398,6 +398,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## GUI Apps
 
 * [tilix ![GitHub Repo Stars](https://img.shields.io/github/stars/gnunn1/tilix) ![GitHub last commit](https://img.shields.io/github/last-commit/gnunn1/tilix)](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
+* [Inochi Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-creator) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-creator)](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
+* [Inochi Session ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-session) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-session)](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
 
 ## OS
 
@@ -412,7 +414,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Bindings to game development related libraries in C, C++, and other languages.*
 
-* BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-loader)](https://github.com/BindBC/bindbc-loader):
+* [raylib-d ![GitHub Repo Stars](https://img.shields.io/github/stars/schveiguy/raylib-d) ![GitHub last commit](https://img.shields.io/github/last-commit/schveiguy/raylib-d)](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
+* [sokol-d ![GitHub Repo Stars](https://img.shields.io/github/stars/kassane/sokol-d) ![GitHub last commit](https://img.shields.io/github/last-commit/kassane/sokol-d)](https://github.com/kassane/sokol-d) - D bindings for the sokol headers.
+* [DAllegro5 ![GitHub Repo Stars](https://img.shields.io/github/stars/SiegeLord/DAllegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/SiegeLord/DAllegro5)](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+* [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
+* [Godot-D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-d/godot-d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-d/godot-d)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+* [BindBC](https://github.com/BindBC) - A set of bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-loader)](https://github.com/BindBC/bindbc-loader):
 	* OpenGL - [bindbc-opengl ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-opengl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-opengl)](https://github.com/BindBC/bindbc-opengl)
 	* GLFW 3 - [bindbc-glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-glfw)](https://github.com/BindBC/bindbc-glfw)
 	* SDL 2 - [bindbc-sdl ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-sdl)](https://github.com/BindBC/bindbc-sdl)
@@ -457,10 +464,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
-* [Godot-D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-d/godot-d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-d/godot-d)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
-* [DAllegro5 ![GitHub Repo Stars](https://img.shields.io/github/stars/SiegeLord/DAllegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/SiegeLord/DAllegro5)](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
-* [raylib-d ![GitHub Repo Stars](https://img.shields.io/github/stars/schveiguy/raylib-d) ![GitHub last commit](https://img.shields.io/github/last-commit/schveiguy/raylib-d)](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
 
 ## Game Frameworks
 
