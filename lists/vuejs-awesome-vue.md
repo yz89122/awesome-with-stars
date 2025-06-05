@@ -276,7 +276,7 @@
 - [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
-- [**讲解 Vue.js 2 官网 中文-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs2-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs2-learn)](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
+- [**讲��� Vue.js 2 官网 中文-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs2-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs2-learn)](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 - [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on `Metric Loop`
 - [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex) on `Metric Loop`
