@@ -339,7 +339,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 * 📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
-* ��� [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
+* 📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 * 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 * 📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
@@ -477,7 +477,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 * 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
-* 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
+* ���� [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
 * 📝 [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
