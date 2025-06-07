@@ -531,7 +531,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Wurfel Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/BSVogler/WurfelEngineSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/BSVogler/WurfelEngineSDK)](https://github.com/BSVogler/WurfelEngineSDK) - An isometric game engine for games with an open world made of blocks or voxels.
 - [XLE ![GitHub Repo Stars](https://img.shields.io/github/stars/xlgames-inc/XLE) ![GitHub last commit](https://img.shields.io/github/last-commit/xlgames-inc/XLE)](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 
-## Maps/Hacks/Plugins/Utilities/All of the Things™
+## Maps/Hacks/Plugins/Utilities/All of the Things���
 
 - [Bfxr ![GitHub Repo Stars](https://img.shields.io/github/stars/increpare/bfxr) ![GitHub last commit](https://img.shields.io/github/last-commit/increpare/bfxr)](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 - [Brood War API ![GitHub Repo Stars](https://img.shields.io/github/stars/bwapi/bwapi) ![GitHub last commit](https://img.shields.io/github/last-commit/bwapi/bwapi)](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
