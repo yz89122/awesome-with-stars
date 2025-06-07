@@ -85,7 +85,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 <img align="right" width="50%" src="https://github.com/kdeldycke/awesome-billing/raw/main/assets/cloud-software-stack-billing.jpg"/>
 
-In a Stanford class providing an [overview of cloud computing](http://web.stanford.edu/class/cs349d/docs/L01_overview.pdf), the software architecture of the platform is described as in the right diagram →
+In a Stanford class providing an [overview of cloud computing](https://web.stanford.edu/class/cs349d/docs/L01_overview.pdf), the software architecture of the platform is described as in the right diagram →
 
 <!--lint disable double-link-->
 
@@ -95,15 +95,13 @@ Billing is one of the transversal pillar of the ecosystem, where customers, prod
 
 This highlight the strategic importance of the domain, not only for cloud providers but virtually any business, especially those who are software-centric.
 
-- [Pricing, my only growth hack at Qonto](https://web.archive.org/web/20250514163833/https://getlago.substack.com/p/pricing-my-only-growth-hack-at-qonto) - Most businesses don't know how to iterate over pricing: sales teams dictates them without involvement of the people in charge of implementation, which ends up in frustration for all. That's why you need to recognize billing as a critical function of your organization.
-
 - [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/) - A great introduction on all the various aspects of a billing system, from currency to invoices, including great illustrations on the logic of changing plans. All these topics are detailed in dedicated sections below.
 
 - [Open guide to AWS ![GitHub Repo Stars](https://img.shields.io/github/stars/open-guides/og-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/open-guides/og-aws)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
 
 - [Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000](https://xunroll.com/thread/1668082843728367616) - [Get rid of integers and floats for monetary values](https://xunroll.com/thread/1599113889093890049). Use decimals. Or face the risks of anomalous x100 charges.
 
-- How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” ([source](https://twitter.com/kdeldycke/status/1422564355799924736))
+- How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” ([source](https://x.com/kdeldycke/status/1422564355799924736))
 
 ## Pricing
 
@@ -119,7 +117,7 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 
 - [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
 
-- [SaaS pricing explorer](https://explorer.hyperline.co) - A collection of 1000+ pricing pages for inspiration.
+- [SaaS pricing explorer](https://saaspricingexplorer.hyperline.co) - A collection of 1000+ pricing pages for inspiration.
 
 ### Usage-based Pricing
 
@@ -133,7 +131,7 @@ The dynamic scheme for elastic resources.
 
 - [A Survey of Profit Optimization Techniques for Cloud Providers](http://www.cs.newpaltz.edu/~lik/publications/Peijin-Cong-ACM-CS-a-2020.pdf) - “The strategy of improving user service quality is discussed first, followed by the pricing strategy for cloud resources to maximize revenue.”
 
-- “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
+- “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://x.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
 
 - [Riemann sum](https://en.wikipedia.org/wiki/Riemann_sum) - The starting point about quantization of usage.
 
@@ -173,7 +171,7 @@ Uncommon pricing schemes.
 
 Theory and practical insight to help you choose the right pricing tactics.
 
-- "There are two ways to make money. You can bundle, or you can unbundle." - [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#transcript-section).
+- "There are two ways to make money. You can bundle, or you can unbundle." - [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#:~:text=in%20business%2C%20there%20are%20two%20ways%20to%20make%20money.%20You%20can%20bundle%2C%20or%20you%20can%20unbundle.).
 
 - [Pricing Psychology](https://www.nickkolenda.com/psychological-pricing-strategies/) - Which numbers should you use? How high should it be? Should it be rounded? This guide has 42 tricks to help you choose the best price.
 
@@ -209,15 +207,13 @@ The central repository of all available services, products, variants, options an
 
 - [Pimcore ![GitHub Repo Stars](https://img.shields.io/github/stars/pimcore/pimcore) ![GitHub last commit](https://img.shields.io/github/last-commit/pimcore/pimcore)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 
-- [OpenPIM](https://www.openpim.org) - A streamlined open-source project, focusing on PIM-only features.
+- [OpenPIM](https://github.com/openpim) - A streamlined open-source project, focusing on PIM-only features.
 
 - [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - Comparative study of the 3 projects above.
 
 ## Calculator
 
 Simulate a virtual invoice depending on the resource you plan to use.
-
-- [Cloud Cost Calculator ![GitHub Repo Stars](https://img.shields.io/github/stars/scalyr/cloud-costs) ![GitHub last commit](https://img.shields.io/github/last-commit/scalyr/cloud-costs)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
 
 - [Cloudorado](https://www.cloudorado.com) - A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit.
 
@@ -397,7 +393,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 
 - [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - The reason you have to add an time limit on credits: unused ones accounts as liabilities on our balance sheet.
 
-- [Hacking Scooters: How I Created \$100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
+- [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
 
 - [China's Pinduoduo reports theft of online discount vouchers to police](https://web.archive.org/web/20230404113232/https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - The next level of fraud: “an online collective exploited a loophole on its platform to ‘steal’ tens of millions of yuan worth of discount vouchers”.
 
@@ -491,7 +487,7 @@ Once issued, an invoice must be immutable.
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944) - The root cause? People wearing a lot of wool in low humidity air, generating a lot of static.
 
-- How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
+- How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2-7a890638c4dd), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3-cd98728cf31f), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4-718a48cb8d2c), [part 5](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-5-1d998bbcd82c).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox's experience trying to account for an unreliable payment provider.
 
@@ -513,7 +509,7 @@ A receipt materialize the payment transaction.
 
 The most popular payment device.
 
-- ['Is that even legal?': Companies may be sharing new credit or debit card information without you knowing](https://www.cbc.ca/news/business/banking-information-shared-with-third-parties-1.5102931) - Some credit and debit card companies have "updating service" that allows new account numbers and expiry dates to be shared with merchants. Visa's implementation is called [VAU](https://developer.visa.com/capabilities/vau) and Mastercard's is [ABU](https://developer.mastercard.com/product/automatic-billing-updater).
+- ['Is that even legal?': Companies may be sharing new credit or debit card information without you knowing](https://www.cbc.ca/news/business/banking-information-shared-with-third-parties-1.5102931) - Some credit and debit card companies have "updating service" that allows new account numbers and expiry dates to be shared with merchants. Visa's implementation is called [VAU](https://developer.visa.com/capabilities/vau) and Mastercard's is [ABU](https://developer.mastercard.com/product/automatic-billing-updater-abu/).
 
 - [Strong Customer Authentication](https://stripe.com/guides/strong-customer-authentication) - [Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive) 2, explained.
 
@@ -537,7 +533,7 @@ The old-fashioned way of payment: by the way of banks.
 
 The usual money transfer services.
 
-- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
+- [UPI 101: The Basics](https://blog.setu.co/articles/upi-101-the-basics) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everything that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
 
@@ -659,7 +655,7 @@ How much net value do you produce per customer? The Customer Lifetime Value (CLV
 
 - [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
-- [Lifetimes ![GitHub Repo Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes) ![GitHub last commit](https://img.shields.io/github/last-commit/CamDavidsonPilon/lifetimes)](https://github.com/CamDavidsonPilon/lifetimes) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
+- [PyMC-Marketing ![GitHub Repo Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing) ![GitHub last commit](https://img.shields.io/github/last-commit/pymc-labs/pymc-marketing)](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
 
 - [`retentionizer` ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisclark/retentionizer) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisclark/retentionizer)](https://github.com/chrisclark/retentionizer) - Python package to show the projected retention rates for each cohort and calculate the LTV of a given customer in that cohort.
 
@@ -693,11 +689,7 @@ Software to build visualizations, dashboards, SQL queries and drill down into da
 
 - [Apache Superset ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-superset) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-superset)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 
-- [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
-
-- [`insights` ![GitHub Repo Stars](https://img.shields.io/github/stars/mariusandra/insights) ![GitHub last commit](https://img.shields.io/github/last-commit/mariusandra/insights)](https://github.com/mariusandra/insights) - Insights is a tool to visually explore a PostgreSQL database, with an emphasis on generating graphs that show business performance over time.
-
-- [`falcon` ![GitHub Repo Stars](https://img.shields.io/github/stars/plotly/falcon) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/falcon)](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac with builtin graphs.
+- [Meltano ![GitHub Repo Stars](https://img.shields.io/github/stars/meltano/meltano) ![GitHub last commit](https://img.shields.io/github/last-commit/meltano/meltano)](https://github.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 
 ## Competitive Analysis
 

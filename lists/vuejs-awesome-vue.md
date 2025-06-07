@@ -1173,6 +1173,8 @@ _Display non-editable events in a Calendar_
 
 - [@egjs/vue-infinitegrid ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-infinitegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-infinitegrid)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [virtua ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/virtua) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/virtua)](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
+- [vue-infinity ![GitHub Repo Stars](https://img.shields.io/github/stars/isaact/vue-infinity) ![GitHub last commit](https://img.shields.io/github/last-commit/isaact/vue-infinity)](https://github.com/isaact/vue-infinity) - An  easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
+
 
 #### Markdown
 
@@ -1545,6 +1547,7 @@ _Internationalization / L10n / localization / translation_
 - [tolgee/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 - [intlify/vue-i18n-next ![GitHub Repo Stars](https://img.shields.io/github/stars/intlify/vue-i18n-next) ![GitHub last commit](https://img.shields.io/github/last-commit/intlify/vue-i18n-next)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 - [vue-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
+- [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
 
 #### Custom Events
 
