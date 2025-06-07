@@ -1547,6 +1547,7 @@ _Internationalization / L10n / localization / translation_
 - [tolgee/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 - [intlify/vue-i18n-next ![GitHub Repo Stars](https://img.shields.io/github/stars/intlify/vue-i18n-next) ![GitHub last commit](https://img.shields.io/github/last-commit/intlify/vue-i18n-next)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 - [vue-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
+- [vue-tiny-translation ![GitHub Repo Stars](https://img.shields.io/github/stars/makio64/vue-tiny-translation) ![GitHub last commit](https://img.shields.io/github/last-commit/makio64/vue-tiny-translation)](https://github.com/makio64/vue-tiny-translation) - Super lightweight (0.32KB) reactive translation plugin for Vue 3. [Demo](https://vue-tiny-translation.netlify.app/)
 - [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
 
 #### Custom Events
