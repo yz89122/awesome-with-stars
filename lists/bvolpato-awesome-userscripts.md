@@ -25,28 +25,28 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 - [Compatibility](#compatibility)
 - [Scripts](#scripts)
-  - [Ad blockers](#ad-blockers)
-  - [Amazon](#amazon)
-  - [Brave](#brave)
-  - [ChatGPT](#chatgpt)
-  - [Discord](#discord)
-  - [DuckDuckGo](#duckduckgo)
-  - [GitHub](#github)
-  - [Google](#google)
-  - [Just Eat (UK)](#just-eat-uk)
-  - [Links](#links)
-  - [Media](#media)
-  - [Navigation](#navigation)
-  - [Passwords](#passwords)
-  - [Privacy](#privacy)
-  - [Text-to-speech](#text-to-speech)
-  - [Translation](#translation)
-  - [YouTube](#youtube)
-- [Tutorials](#tutorials)
-- [Community](#community)
-- [Additional Catalogues](#additional-catalogues)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Ad blockers](#-ad-blockers)
+  - [Amazon](#-amazon)
+  - [Brave](#-brave)
+  - [ChatGPT](#-chatgpt)
+  - [Discord](#-discord)
+  - [DuckDuckGo](#-duckduckgo)
+  - [GitHub](#-github)
+  - [Google](#-google)
+  - [Just Eat (UK)](#-just-eat-uk)
+  - [Links](#-links)
+  - [Media](#-media)
+  - [Navigation](#-navigation)
+  - [Passwords](#-passwords)
+  - [Privacy](#-privacy)
+  - [Text-to-speech](#-text-to-speech)
+  - [Translation](#-translation)
+  - [YouTube](#-youtube)
+- [Tutorials](#-tutorials)
+- [Community](#-community)
+- [Additional Catalogues](#-additional-catalogues)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1156,7 +1156,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
+### <img height=13 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
 
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
