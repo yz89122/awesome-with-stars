@@ -29,6 +29,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Amazon](#amazon)
   - [Brave](#brave)
   - [ChatGPT](#chatgpt)
+  - [Discord](#discord)
   - [DuckDuckGo](#duckduckgo)
   - [GitHub](#github)
   - [Google](#google)
@@ -772,6 +773,27 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
+### Discord
+
+<details> <!-- Undiscord -->
+    <summary><a href="https://victornpb.github.io/undiscord/">Undiscord</a> - Delete all messages in a Discord channel or DM.</summary><br>
+    <blockquote>
+        <a href="https://victornpb.github.io/undiscord/">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@14311cb/assets/images/screenshots/scripts/undiscord.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/406540/Undiscord.user.js">
+            Install</a> /
+        📖 <a href="https://victornpb.github.io/undiscord/">
+            Readme</a> /
+        📢 <a href="https://github.com/victornpb/undiscord/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/victornpb/undiscord/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+
 ### DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
@@ -906,6 +928,24 @@ Userscripts can be used w/ the following browsers:
 
 ### Google
 
+<details> <!-- Don't track me Google -->
+    <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Rob--W/dont-track-me-google">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/Rob--W/dont-track-me-google@a73ab8b/screenshot.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Endless Google -->
     <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
     <blockquote>
@@ -983,6 +1023,24 @@ Userscripts can be used w/ the following browsers:
 
 
 ### Links
+
+<details> <!-- Don't track me Google -->
+    <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Rob--W/dont-track-me-google">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/Rob--W/dont-track-me-google@a73ab8b/screenshot.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- Linkify Plus Plus -->
     <summary><a href="https://github.com/eight04/linkify-plus-plus">Linkify Plus Plus</a> - Turn plain text URLs into links.</summary><br>
@@ -1101,7 +1159,7 @@ Userscripts can be used w/ the following browsers:
 ### Navigation
 
 <details> <!-- Pagetual -->
-    <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Seamless infinite scrolling for paginated sites.</summary><br>
+    <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
     <blockquote>
         <a href="https://pagetual.hoothin.com">
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@04d117d/assets/images/screenshots/scripts/pagetual.png"></a>
@@ -1154,6 +1212,42 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Don't track me Google -->
+    <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Rob--W/dont-track-me-google">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/Rob--W/dont-track-me-google@a73ab8b/screenshot.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Undiscord -->
+    <summary><a href="https://victornpb.github.io/undiscord/">Undiscord</a> - Delete all messages in a Discord channel or DM.</summary><br>
+    <blockquote>
+        <a href="https://victornpb.github.io/undiscord/">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@14311cb/assets/images/screenshots/scripts/undiscord.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/406540/Undiscord.user.js">
+            Install</a> /
+        📖 <a href="https://victornpb.github.io/undiscord/">
+            Readme</a> /
+        📢 <a href="https://github.com/victornpb/undiscord/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/victornpb/undiscord/issues">
             Report bug</a>
     </blockquote>
 </details>
