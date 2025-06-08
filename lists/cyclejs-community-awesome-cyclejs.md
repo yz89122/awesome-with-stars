@@ -96,7 +96,7 @@ http://oleg.fi/graafi/
 
 ### CLI
 
-* [cyclejs-community/create-cycle-app ★160 ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclejs-community/create-cycle-app) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs-community/create-cycle-app)](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration.
+* [cyclejs-community/create-cycle-app ���160 ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclejs-community/create-cycle-app) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs-community/create-cycle-app)](https://github.com/cyclejs-community/create-cycle-app) - Create Cycle.js apps with no build configuration.
 
 ## Libraries
 

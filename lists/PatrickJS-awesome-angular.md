@@ -1285,6 +1285,7 @@ become an Angular expert.
 * [mat-datatable ![GitHub Repo Stars](https://img.shields.io/github/stars/BePo65/mat-datatable) ![GitHub last commit](https://img.shields.io/github/last-commit/BePo65/mat-datatable)](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
 * [@Trixwell/data-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/Trixwell/data-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/Trixwell/data-grid)](https://github.com/Trixwell/data-grid) - An Angular component that renders data in a highly customizable and interactive data table. It supports features such as filtering, sorting, pagination, CSV export, expandable sub-grids, and integration with Angular Material components.
 * [ngx-multi-sort-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Maxl94/ngx-multi-sort-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Maxl94/ngx-multi-sort-table)](https://github.com/Maxl94/ngx-multi-sort-table) - This library features a multiple sortable table based on Angular Material Design, with a focus on server-side loaded and sorted data.
+* [angular2-smart-table ![GitHub Repo Stars](https://img.shields.io/github/stars/dj-fiorex/angular2-smart-table) ![GitHub last commit](https://img.shields.io/github/last-commit/dj-fiorex/angular2-smart-table)](https://github.com/dj-fiorex/angular2-smart-table) - Angular Smart Data Table component.
 
 #### Dates
 
