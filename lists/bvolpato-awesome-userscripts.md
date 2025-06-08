@@ -1,17 +1,22 @@
 <div id="top" align="center">
 
-<a href="#"><img width=333 height=auto src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@1ca33ae/assets/images/icons/awesome/shades/400x200.png"></a>
+<a href="#">
+    <picture>
+        <source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/awesome/shades/white/400x200.png">
+        <img width=333 height=auto src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/awesome/shades/400x200.png">
+    </picture>
+</a>
 
 <h1>Awesome Userscripts</h1>
 
 <!-- Shields -->
 
 <a href="https://github.com/sindresorhus/awesome">
-    <img height=23 alt="Awesome" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+    <img height=31 alt="Awesome" src="https://img.shields.io/badge/Awesome-fc60a9.svg?logo=awesomelists&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="https://github.com/awesome-scripts/awesome-userscripts/pulls">
-    <img height=23 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=github&logoColor=white"></a>
+    <img height=31 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=github&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="https://www.jsdelivr.com/package/gh/awesome-scripts/awesome-userscripts">
-    <img height=23 alt="jsDelivr stats" src="https://img.shields.io/jsdelivr/gh/hm/awesome-scripts/awesome-userscripts?logo=jsdelivr&logoColor=white&label=jsDelivr+requests&color=7bb7fc"></a>
+    <img height=31 alt="jsDelivr stats" src="https://img.shields.io/jsdelivr/gh/hm/awesome-scripts/awesome-userscripts?logo=jsdelivr&logoColor=white&label=jsDelivr+requests&color=7bb7fc&labelColor=464646&style=for-the-badge"></a>
 
 <h3>A curated list of Awesome Userscripts.</h3>
 
