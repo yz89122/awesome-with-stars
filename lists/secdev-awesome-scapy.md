@@ -27,6 +27,9 @@ Wi-Fi.
 - [trackerjacker ![GitHub Repo Stars](https://img.shields.io/github/stars/calebmadrigal/trackerjacker) ![GitHub last commit](https://img.shields.io/github/last-commit/calebmadrigal/trackerjacker)](https://github.com/calebmadrigal/trackerjacker) - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 - [wifiphisher ![GitHub Repo Stars](https://img.shields.io/github/stars/wifiphisher/wifiphisher) ![GitHub last commit](https://img.shields.io/github/last-commit/wifiphisher/wifiphisher)](https://github.com/wifiphisher/wifiphisher) - Create rogue access point.
 
+Wireless
+- [WHAD ![GitHub Repo Stars](https://img.shields.io/github/stars/whad-team/whad-client) ![GitHub last commit](https://img.shields.io/github/last-commit/whad-team/whad-client)](https://github.com/whad-team/whad-client) - A powerful framework to perform various kinds of Wireless attacks.
+
 IPv6
 - [Chiron ![GitHub Repo Stars](https://img.shields.io/github/stars/aatlasis/Chiron) ![GitHub last commit](https://img.shields.io/github/last-commit/aatlasis/Chiron)](https://github.com/aatlasis/Chiron) - An IPv6 security assessment framework.
 - [mitm6 ![GitHub Repo Stars](https://img.shields.io/github/stars/fox-it/mitm6) ![GitHub last commit](https://img.shields.io/github/last-commit/fox-it/mitm6)](https://github.com/fox-it/mitm6) - Performs MiTM for IPv6.
@@ -75,6 +78,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
+- [CVE-2024-20674 ![GitHub Repo Stars](https://img.shields.io/github/stars/gpotter2/CVE-2024-20674) ![GitHub last commit](https://img.shields.io/github/last-commit/gpotter2/CVE-2024-20674)](https://github.com/gpotter2/CVE-2024-20674) - Windows Kerberos Bypass leading to RCE.
 - [PPPwn (CVE-2006-4304) ![GitHub Repo Stars](https://img.shields.io/github/stars/TheOfficialFloW/PPPwn) ![GitHub last commit](https://img.shields.io/github/last-commit/TheOfficialFloW/PPPwn)](https://github.com/TheOfficialFloW/PPPwn) - Playstation 4 PPPoE RCE.
 
 2022
