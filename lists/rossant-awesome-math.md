@@ -574,7 +574,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
-* ��� [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
+* 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
@@ -597,7 +597,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
 * 📝 [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
-* 📝 [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
+* �� [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 * 📝 [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey
 * 📝 [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
 

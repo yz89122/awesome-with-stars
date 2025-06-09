@@ -290,7 +290,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [ArchUnitNET ![GitHub Repo Stars](https://img.shields.io/github/stars/TNG/ArchUnitNET) ![GitHub last commit](https://img.shields.io/github/last-commit/TNG/ArchUnitNET)](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 
-- [code-cracker](https://code-cracker.github.io) — An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
+- [code-cracker](https://code-cracker.github.io) ��� An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 
 - [CSharpEssentials ![GitHub Repo Stars](https://img.shields.io/github/stars/DustinCampbell/CSharpEssentials) ![GitHub last commit](https://img.shields.io/github/last-commit/DustinCampbell/CSharpEssentials)](https://github.com/DustinCampbell/CSharpEssentials) :warning: — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 
@@ -1538,7 +1538,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [oxc ![GitHub Repo Stars](https://img.shields.io/github/stars/web-infra-dev/oxc) ![GitHub last commit](https://img.shields.io/github/last-commit/web-infra-dev/oxc)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
-- [parasoft](https://www.parasoft.com/) :copyright: — Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
+- [parasoft](https://www.parasoft.com/) :copyright: ��� Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
 
 - [pfff ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookarchive/pfff) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookarchive/pfff)](https://github.com/facebookarchive/pfff/wiki/Main) :warning: — Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
 
