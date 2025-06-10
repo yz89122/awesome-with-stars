@@ -615,7 +615,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Dart: App Framework
     - 🎉 [Flutter](https://flutter.dev) - Open source app framework by _Google_. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Solido/awesome-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/Solido/awesome-flutter)](https://github.com/Solido/awesome-flutter) | [GitHub](https://github.com/flutter)]
 - Dart: File Formats
-    - 🎉 [image ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/image) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/image)](https://github.com/brendan-duncan/image) - Library for decoding / encoding image formats and image processing.
+    - ��� [image ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/image) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/image)](https://github.com/brendan-duncan/image) - Library for decoding / encoding image formats and image processing.
 - Dart: Game Framework
     - 🎉 [Flame ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/flame)](https://github.com/flame-engine/flame) - Minimalist _Flutter_ based 2D game engine. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/flame-engine/awesome-flame) ![GitHub last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame)](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
 
