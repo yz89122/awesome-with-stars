@@ -99,7 +99,7 @@ Free
 
 ### Death Counter
 
-> A simple counter screensaver that counts down to your death. 
+> A simple counter screensaver that counts down to your death.
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
 
@@ -124,6 +124,12 @@ Free
 Free
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
+
+### Digital Electric
+
+> A vintage screensaver inspired by old-fashioned alarm clocks.
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
 
 ## Apple Inspired
 
@@ -223,7 +229,7 @@ $0.99
 
 ### Matrix
 
->  One interpretation of The Matrix.
+> One interpretation of The Matrix.
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
