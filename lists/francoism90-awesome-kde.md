@@ -84,7 +84,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Konsole](https://apps.kde.org/konsole/) - Terminal emulator included in the KDE desktop 📌.
 - [Krusader](https://krusader.org/) - An advanced twin panel (commander style) file manager for KDE 📌.
 - [KSystemLog](https://apps.kde.org/ksystemlog/) - A system log viewer tool 📌.
-- [Kup](https://apps.kde.org/kup/) - A backup scheduler for KDE's Plasma desktop 📌.
+- [Kup](https://apps.kde.org/kup/) - A backup scheduler for KDE's Plasma desktop ��.
 - [Sweeper](https://apps.kde.org/sweeper/) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
 - [Yakuake](https://apps.kde.org/yakuake/) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
 
