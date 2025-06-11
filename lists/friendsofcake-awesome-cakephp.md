@@ -83,6 +83,7 @@ Additional lists you might find useful:
 
 - [AssetCompress plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/markstory/asset_compress) ![GitHub last commit](https://img.shields.io/github/last-commit/markstory/asset_compress)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 - [AssetMix plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/asset-mix) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/asset-mix)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+- [ViteHelper plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/brandcom/cakephp-vite) ![GitHub last commit](https://img.shields.io/github/last-commit/brandcom/cakephp-vite)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
 
 ## Auditing / Logging
 *Plugins for auditing and logging.*
