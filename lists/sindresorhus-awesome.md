@@ -864,6 +864,7 @@
 - [Event-Driven Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/lutzh/awesome-event-driven-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/lutzh/awesome-event-driven-architecture)](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing ![GitHub Repo Stars](https://img.shields.io/github/stars/idematos/awesome-permacomputing) ![GitHub last commit](https://img.shields.io/github/last-commit/idematos/awesome-permacomputing)](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards ![GitHub Repo Stars](https://img.shields.io/github/stars/donBarbos/awesome-standards) ![GitHub last commit](https://img.shields.io/github/last-commit/donBarbos/awesome-standards)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
+- [Claude Code ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
 
 ## Related
 
