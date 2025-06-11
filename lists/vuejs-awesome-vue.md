@@ -440,7 +440,7 @@
 - [Developing a web application with Vue.js 3 and Vite.js (French)](https://mickael-baron.fr/web/vuejs-miseenoeuvre-part2) par Mickael Baron
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
-- [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
+- [Türk��e Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 - [Getting Started Internationalizing (i18n) with Intlayer and Vite and Vue](https://intlayer.org/doc/environment/vite-and-vue)
@@ -1089,7 +1089,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 #### Icons
 
-- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 - [vue-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/vue-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/vue-fontawesome)](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [vue-country-flag ![GitHub Repo Stars](https://img.shields.io/github/stars/P3trur0/vue-country-flag) ![GitHub last commit](https://img.shields.io/github/last-commit/P3trur0/vue-country-flag)](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vue-fa ![GitHub Repo Stars](https://img.shields.io/github/stars/Cweili/vue-fa) ![GitHub last commit](https://img.shields.io/github/last-commit/Cweili/vue-fa)](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
@@ -1174,8 +1174,7 @@ _Display non-editable events in a Calendar_
 
 - [@egjs/vue-infinitegrid ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/egjs-infinitegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/egjs-infinitegrid)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [virtua ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/virtua) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/virtua)](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
-- [vue-infinity ![GitHub Repo Stars](https://img.shields.io/github/stars/isaact/vue-infinity) ![GitHub last commit](https://img.shields.io/github/last-commit/isaact/vue-infinity)](https://github.com/isaact/vue-infinity) - An  easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
-
+- [vue-infinity ![GitHub Repo Stars](https://img.shields.io/github/stars/isaact/vue-infinity) ![GitHub last commit](https://img.shields.io/github/last-commit/isaact/vue-infinity)](https://github.com/isaact/vue-infinity) - An easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
 
 #### Markdown
 
@@ -1407,6 +1406,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [FormKit ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/formkit) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/formkit)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 - [vrf ![GitHub Repo Stars](https://img.shields.io/github/stars/dimailn/vrf) ![GitHub last commit](https://img.shields.io/github/last-commit/dimailn/vrf)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 - [tracked-instance ![GitHub Repo Stars](https://img.shields.io/github/stars/rudnik275/tracked-instance) ![GitHub last commit](https://img.shields.io/github/last-commit/rudnik275/tracked-instance)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
+- [Vorm ![GitHub Repo Stars](https://img.shields.io/github/stars/Flo0806/vorm) ![GitHub last commit](https://img.shields.io/github/last-commit/Flo0806/vorm)](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
 
 ##### Validation
 
@@ -1419,7 +1419,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [vorms ![GitHub Repo Stars](https://img.shields.io/github/stars/Mini-ghost/vorms) ![GitHub last commit](https://img.shields.io/github/last-commit/Mini-ghost/vorms)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [regle ![GitHub Repo Stars](https://img.shields.io/github/stars/victorgarciaesgi/regle) ![GitHub last commit](https://img.shields.io/github/last-commit/victorgarciaesgi/regle)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
-
 
 #### Resize
 
