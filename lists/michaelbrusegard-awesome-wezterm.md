@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/wez/wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wez/wezterm)](https://github.com/wez/wezterm/commit/e4ae8a844d8feaa43e1de34c5cc8b4f07ce525dd). Found something cool? Please [contribute](CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/wezterm/wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wezterm/wezterm)](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md). Found something cool? Please [contribute](CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -14,6 +14,7 @@ To enhance your WezTerm configuration experience:
 
 ## Contents
 
+- [AI](#ai)
 - [Keybinding](#keybinding)
 - [Media](#media)
 - [Neovim](#neovim)
@@ -22,6 +23,10 @@ To enhance your WezTerm configuration experience:
 - [Tab bar](#tab-bar)
 - [Themes](#themes)
 - [Utility](#utility)
+
+## AI
+
+- [Michal1993r/ai-helper.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/Michal1993r/ai-helper.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/Michal1993r/ai-helper.wezterm)](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
 
 ## Keybinding
 
