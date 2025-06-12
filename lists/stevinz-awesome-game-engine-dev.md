@@ -333,7 +333,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Libraries
     - ⭐ [Cute Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/cute_headers) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/cute_headers)](https://github.com/RandyGaul/cute_headers) - Single-file libraries primarily used for games, by [Randy Gaul](https://github.com/RandyGaul).
     - ⭐ [Libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mattiasgustavsson/libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mattiasgustavsson/libs)](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
-    - ⭐ [Pico Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/empyreanx/pico_headers) ![GitHub last commit](https://img.shields.io/github/last-commit/empyreanx/pico_headers)](https://github.com/empyreanx/pico_headers) - Single-file, cross-platform libraries for game development.
+    - ��� [Pico Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/empyreanx/pico_headers) ![GitHub last commit](https://img.shields.io/github/last-commit/empyreanx/pico_headers)](https://github.com/empyreanx/pico_headers) - Single-file, cross-platform libraries for game development.
     - 📚 [Single-file Libs ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/single_file_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/single_file_libs)](https://github.com/nothings/single_file_libs) - Amazing collection of single-file C/C++ libraries compiled from many authors.
     - ⭐ [stb ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb) 🔥 - Single-file public domain libraries for C/C++, by [Sean Barrett](https://github.com/nothings).
 - C: Lighting
@@ -1198,7 +1198,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
     - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
-    - ���� [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
+    - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
     - 🎉 [WebGL Noise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/webgl-noise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/webgl-noise)](https://github.com/stegu/webgl-noise/) - Maintained branch of the original _Ashima Arts_ 2D, 3D and 4D noise functions.
