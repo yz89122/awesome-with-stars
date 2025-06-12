@@ -1538,7 +1538,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [oxc ![GitHub Repo Stars](https://img.shields.io/github/stars/web-infra-dev/oxc) ![GitHub last commit](https://img.shields.io/github/last-commit/web-infra-dev/oxc)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
-- [parasoft](https://www.parasoft.com/) :copyright: ��� Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
+- [parasoft](https://www.parasoft.com/) :copyright: — Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
 
 - [pfff ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookarchive/pfff) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookarchive/pfff)](https://github.com/facebookarchive/pfff/wiki/Main) :warning: — Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
 
