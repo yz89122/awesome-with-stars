@@ -320,7 +320,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Tilengine ![GitHub Repo Stars](https://img.shields.io/github/stars/megamarc/Tilengine) ![GitHub last commit](https://img.shields.io/github/last-commit/megamarc/Tilengine)](https://github.com/megamarc/Tilengine) - 2D graphics with raster effects for retro style game development.
 - C: Graphics - 3D
     - 🎉 [Sokol Gfx ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/)]
-    - �� [Sokol Graphics Painter ![GitHub Repo Stars](https://img.shields.io/github/stars/edubart/sokol_gp) ![GitHub last commit](https://img.shields.io/github/last-commit/edubart/sokol_gp)](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with _Sokol_.
+    - 🎉 [Sokol Graphics Painter ![GitHub Repo Stars](https://img.shields.io/github/stars/edubart/sokol_gp) ![GitHub last commit](https://img.shields.io/github/last-commit/edubart/sokol_gp)](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with _Sokol_.
 - C: Gui
     - 🎉 [cImgui ![GitHub Repo Stars](https://img.shields.io/github/stars/cimgui/cimgui) ![GitHub last commit](https://img.shields.io/github/last-commit/cimgui/cimgui)](https://github.com/cimgui/cimgui) - Thin C wrapper generated for Dear ImGui.
     - 🎉 [lvgl ![GitHub Repo Stars](https://img.shields.io/github/stars/lvgl/lvgl) ![GitHub last commit](https://img.shields.io/github/last-commit/lvgl/lvgl)](https://github.com/lvgl/lvgl) 🔥 - Embedded gui library, many widgets and advanced visual effects.
@@ -362,7 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Learn C++](https://www.learncpp.com) 🔥 - Walks you through all the steps to write, compile, and debug C++.
 - 📚 [Modern Cpp Features ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyCalandra/modern-cpp-features)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
 - C++: App Framework
-    - ���� [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
+    - 🎉 [Cinder ![GitHub Repo Stars](https://img.shields.io/github/stars/cinder/Cinder) ![GitHub last commit](https://img.shields.io/github/last-commit/cinder/Cinder)](https://github.com/cinder/Cinder) - App / graphics library for macOS, Windows, Linux, iOS. [[Website](https://libcinder.org)]
     - 🎉 [Cross Window ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossWindow) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossWindow)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
     - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
