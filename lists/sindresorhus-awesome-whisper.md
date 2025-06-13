@@ -70,6 +70,7 @@
 - [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
 - [Audio Note](https://audionote.app) - Real-time audio transcription on macOS and Windows. (Freemium · Electron)
 - [Whisper ![GitHub Repo Stars](https://img.shields.io/github/stars/woheller69/whisperIME) ![GitHub last commit](https://img.shields.io/github/last-commit/woheller69/whisperIME)](https://github.com/woheller69/whisperIME) - Android app for transcription and translation. (FOSS)
+- [VoiceInk ![GitHub Repo Stars](https://img.shields.io/github/stars/Beingpax/VoiceInk) ![GitHub last commit](https://img.shields.io/github/last-commit/Beingpax/VoiceInk)](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 
 ## Web apps
 
