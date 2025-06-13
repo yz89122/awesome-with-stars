@@ -184,7 +184,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
 
-[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) 💠 - An extensive tutorial series.
+[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) ���� - An extensive tutorial series.
 
 
 [Game Engine Architecture](https://www.gameenginebook.com/) 🟪 - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
@@ -812,7 +812,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) ���� - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
+[Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) 🟪 - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
 
 
 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
