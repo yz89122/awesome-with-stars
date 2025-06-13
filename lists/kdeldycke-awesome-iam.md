@@ -305,7 +305,7 @@ Part of the [FIDO2 project](https://en.wikipedia.org/wiki/FIDO_Alliance#FIDO2), 
 
 ### Security key
 
-- [Webauthn and security keys](https://www.imperialviolet.org/2018/03/27/webauthn.html) - Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”
+- [Webauthn and security keys](https://www.imperialviolet.org/2018/03/27/webauthn.html) - Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: ��There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”
 
 - [Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.
 
