@@ -468,7 +468,7 @@ Contributions are always welcome!
 * [Notes on Site Reliability Engineering](http://danluu.com/google-sre-book/)
 * [Adventures in SRE-land: Welcome to Google Mission Control](https://cloudplatform.googleblog.com/2016/07/adventures-in-SRE-land-welcome-to-Google-Mission-Control.html)
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
-* [Site Reliability Engineers: “We solve cooler problems���](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
+* [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 * [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
 * [Open AWS guide ![GitHub Repo Stars](https://img.shields.io/github/stars/open-guides/og-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/open-guides/og-aws)](https://github.com/open-guides/og-aws)
 * [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)

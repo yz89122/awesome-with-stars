@@ -1097,7 +1097,7 @@ Userscripts can be used w/ the following browsers:
             Install Stable Build</a> /
         💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript.user.js?raw=true">
             Install Dev Build</a> /
-        ��� <a href="https://github.com/qsniyg/maxurl/#readme">
+        📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
         📢 <a href="https://github.com/qsniyg/maxurl/discussions">
             Discuss</a> /
