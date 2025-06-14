@@ -115,7 +115,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [MongoDB Performance](https://university.mongodb.com/courses/M201/about) | MongoDB |Intermediate| 7 | 🏆|
 | [MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about) | MongoDB |Intermediate| 7.5 | 🏆|
 | [MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about) | MongoDB |Intermediate| 6.5 | 🏆|
-| [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about) | MongoDB |Intermediate| 6.5 | ��|
+| [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about) | MongoDB |Intermediate| 6.5 | 🏆|
 | [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
 | [Diagnostics and Debugging for MongoDB](https://university.mongodb.com/courses/M312/about) | MongoDB |Professional| 6.5 | 🏆|
 | [MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) | MongoDB |Professional| 7 | 🏆|
@@ -364,7 +364,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | ���|
+| [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | 🏆|
 | [JavaScript](https://www.hackerrank.com/skills-verification/javascript_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
