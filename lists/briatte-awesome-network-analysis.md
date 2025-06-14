@@ -357,7 +357,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### Archeological and Historical Networks
 
-> See also the bibliographies [by Claire Lemercier and Claire Zalc](http://www.quanti.ihmc.ens.fr/Analyse-de-reseaux-bibliographie.html) (section on ‘_études structurales_’), [by the Historical Network Research Group](http://historicalnetworkresearch.org/resources/bibliography/), and [by Tom Brughmans](https://archaeologicalnetworks.wordpress.com/network-science-bibliography/).
+> See also the bibliographies [by Claire Lemercier and Claire Zalc](http://www.quanti.ihmc.ens.fr/Analyse-de-reseaux-bibliographie.html) (section on ‘_études structurales_���), [by the Historical Network Research Group](http://historicalnetworkresearch.org/resources/bibliography/), and [by Tom Brughmans](https://archaeologicalnetworks.wordpress.com/network-science-bibliography/).
 
 -   [Analyse de réseaux et histoire](https://doi.org/10.3917/rhmc.522.0088), in French (_Revue d’histoire moderne et contemporaine_, 2005).
 -   [Analyser les réseaux du passé en archéologie et en histoire](https://doi.org/10.4000/nda.2300), in French (_Les Nouvelles de l’Archéologie_, 2014).
@@ -850,7 +850,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova).
 -   [The Networks Network](https://groups.google.com/forum/?hl=en-GB#!forum/the-networks-network) - Mailing-list (mostly historians from the HNR network).
 -   [New Perspectives for Relational Learning](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos) - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
--   [Open Graph protocol](http://ogp.me/) - A proposed standard to turn any Web page into a “social graph object.”
+-   [Open Graph protocol](http://ogp.me/) - A proposed standard to turn any Web page into a ���social graph object.”
 -   [Periodic Table of Network Centrality](http://schochastics.net/sna/periodic.html) - Interactive periodic table of centrality indices.
 -   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the political network of Middle Eastern alliances between various state and nonstate powers ([updated version](https://gist.github.com/briatte/c6df2f855afb4eb142e6)).
 <!-- -   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - Interactive visualization of the Paris metro network, drawn with d3.js, in French. -->
