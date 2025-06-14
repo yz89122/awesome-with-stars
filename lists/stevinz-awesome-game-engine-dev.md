@@ -388,7 +388,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TinyDNG ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinydng) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinydng)](https://github.com/syoyo/tinydng) - Header-only DNG / TIFF loader and writer.
     - 🎉 [TinyEXR ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinyexr) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinyexr)](https://github.com/syoyo/tinyexr) - Tiny OpenEXR image loader / saver library.
     - 🎉 [TinyGLTF ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinygltf) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinygltf)](https://github.com/syoyo/tinygltf) - Header-only C++11 tiny glTF 2.0 library.
-    - 🎉 [TinyOBJLoader ![GitHub Repo Stars](https://img.shields.io/github/stars/tinyobjloader/tinyobjloader) ![GitHub last commit](https://img.shields.io/github/last-commit/tinyobjloader/tinyobjloader)](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single-file wavefront obj loader.
+    - ��� [TinyOBJLoader ![GitHub Repo Stars](https://img.shields.io/github/stars/tinyobjloader/tinyobjloader) ![GitHub last commit](https://img.shields.io/github/last-commit/tinyobjloader/tinyobjloader)](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single-file wavefront obj loader.
 - C++: File System
     - 🎉 [Imgui-Filebrowser ![GitHub Repo Stars](https://img.shields.io/github/stars/AirGuanZ/imgui-filebrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/AirGuanZ/imgui-filebrowser)](https://github.com/AirGuanZ/imgui-filebrowser) - Header-only file browser implementation for _Dear ImGui_ in C++17.
 - C++: Game Engine w/Editor
@@ -1198,7 +1198,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
     - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
-    - ��� [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
+    - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
     - 🎉 [WebGL Noise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/webgl-noise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/webgl-noise)](https://github.com/stegu/webgl-noise/) - Maintained branch of the original _Ashima Arts_ 2D, 3D and 4D noise functions.
