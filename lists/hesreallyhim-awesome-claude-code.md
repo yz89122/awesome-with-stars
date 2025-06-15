@@ -54,7 +54,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc. \[DISCLAIMER: Keep an eye on the Issues if you are relying on this tool for anything business-critical - the logs that track usage appear to suffer from some "double-counting" problems - this may have been resolved by the time you are reading this, but I wanted to raise awareness - it is not something only affecting this application\].
 
 [`ClaudeLog`](https://claudelog.com) by [InventorBlack](https://www.reddit.com/user/inventor_black/)  
-A comprehensive knowledge repository featuring detailed breakdowns of advanced Claude Code mechanics, practical technique guides and hands-on tutorials. Based on real-world experiences and community insights from [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/). Discover best practices, new feature breakdowns and optimization strategies for agentic workflows, productivity enhancements and MCPs.
+A comprehensive knowledge repository that features detailed breakdowns of advanced Claude Code mechanics including [CLAUDE.md best practices](https://claudelog.com/mechanics/claude-md-supremacy), practical technique guides like [plan mode](https://claudelog.com/mechanics/plan-mode), and a [configuration guide](https://claudelog.com/configuration).
 
 <br>
 
