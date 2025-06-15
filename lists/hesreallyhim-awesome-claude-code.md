@@ -353,6 +353,26 @@ A set of commands that provide a comprehensive workflow system for managing proj
 [Simone ![GitHub Repo Stars](https://img.shields.io/github/stars/Helmi/claude-simone) ![GitHub last commit](https://img.shields.io/github/last-commit/Helmi/claude-simone)](https://github.com/Helmi/claude-simone) by [Helmi](https://github.com/Helmi)  
 A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
 
+## Tooling
+
+- [Claude Code Flow ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) - This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
+
+- [Claude Code Router ![GitHub Repo Stars](https://img.shields.io/github/stars/musistudio/claude-code-router) ![GitHub last commit](https://img.shields.io/github/last-commit/musistudio/claude-code-router)](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+
+- [Claude Composer ![GitHub Repo Stars](https://img.shields.io/github/stars/possibilities/claude-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/possibilities/claude-composer)](https://github.com/possibilities/claude-composer) - A tool that adds small enhancements to Claude Code.
+
+- [Claude Hub ![GitHub Repo Stars](https://img.shields.io/github/stars/claude-did-this/claude-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/claude-did-this/claude-hub)](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.
+
+- [Claude Squad ![GitHub Repo Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad) ![GitHub last commit](https://img.shields.io/github/last-commit/smtg-ai/claude-squad)](https://github.com/smtg-ai/claude-squad) - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
+
+- [Claude Swarm ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) - Launch Claude Code session that is connected to a swarm of Claude Code Agents.
+
+- [Claude Task Master ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+
+- [Container Use ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+
+## Additional Resources
+
 [wcygan's slash-commands megalist ![GitHub Repo Stars](https://img.shields.io/github/stars/wcygan/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/wcygan/dotfiles)](https://github.com/wcygan/dotfiles/tree/d8ab6b9f5a7a81007b7f5fa3025d4f83ce12cc02/claude/commands) by [wcygan](https://github.com/wcygan)
 A pretty stunning list (88 at the time of this post!) of slash-commands ranging from agent orchestration, code review, project management, security, documentation, self-assessment, almost anything you can dream of.
 
@@ -374,6 +394,13 @@ Offers comprehensive development guides for three distinct AI-powered demo proje
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-Regarding content, we especially welcome proven, effective resources that follow best practices and may even be in use in production; innovative, creative, or experimental workflows that perhaps are still being iterated upon, but have high potential value, and push the boundaries of Claude Code's documented capabilities and use cases; Claude Code "magic spells" - commands or workflows that seem to be especially effective; and applications of Claude Code outside of the traditional "coding assistant" context, e.g., CI/CD integration, testing, documentation, dev-ops, etc.
+Regarding content, we especially welcome:
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to this project.
+- Proven, effective resources that follow best practices and may even be in use in production.
+- Innovative, creative, or experimental workflows that perhaps are still being iterated upon, but have high potential value, and push the boundaries of Claude Code's documented capabilities and use cases.
+- Additional libraries and tooling that are built on top of Claude Code and offer enhanced functionality.
+- Applications of Claude Code outside of the traditional "coding assistant" context, e.g., CI/CD integration, testing, documentation, dev-ops, etc.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to this project. Or, fire up Claude Code and invoke the `/project:add-new-resource` command and let Claude walk you through it!
+
+If you have any suggestions or thoughts on how to improve the repo, or how to best organize the list, feel free to start a Discussion topic. This is meant to be for the Claude Code community, and in general I prefer not to act on sole authority.
