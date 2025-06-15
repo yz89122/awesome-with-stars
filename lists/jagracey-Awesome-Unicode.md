@@ -404,7 +404,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1F87](https://codepoints.net/U+1F87?lang=en) | `ᾇ`       | GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI    | `ἇ`, `ι`         | U+1F07, U+03B9         |
 | [U+1F88](https://codepoints.net/U+1F88?lang=en) | `ᾈ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI                 | `ἀ`, `ι`         | U+1F00, U+03B9         |
 | [U+1F89](https://codepoints.net/U+1F89?lang=en) | `ᾉ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI                 | `ἁ`, `ι`         | U+1F01, U+03B9         |
-| [U+1F8A](https://codepoints.net/U+1F8A?lang=en) | `��`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI       | `ἂ`, `ι`         | U+1F02, U+03B9         |
+| [U+1F8A](https://codepoints.net/U+1F8A?lang=en) | `ᾊ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI       | `ἂ`, `ι`         | U+1F02, U+03B9         |
 | [U+1F8B](https://codepoints.net/U+1F8B?lang=en) | `ᾋ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI       | `ἃ`, `ι`         | U+1F03, U+03B9         |
 | [U+1F8C](https://codepoints.net/U+1F8C?lang=en) | `ᾌ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI        | `ἄ`, `ι`         | U+1F04, U+03B9         |
 | [U+1F8D](https://codepoints.net/U+1F8D?lang=en) | `ᾍ`       | GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI        | `ἅ`, `ι`         | U+1F05, U+03B9         |
@@ -469,7 +469,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FF6](https://codepoints.net/U+1FF6?lang=en) | `ῶ`       | GREEK SMALL LETTER OMEGA WITH PERISPOMENI                                | `ω`, `͂`          | U+03C9, U+0342         |
 | [U+1FF7](https://codepoints.net/U+1FF7?lang=en) | `ῷ`       | GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI              | `ω`, `͂`, `ι`     | U+03C9, U+0342, U+03B9 |
 | [U+1FFC](https://codepoints.net/U+1FFC?lang=en) | `ῼ`       | GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI                           | `ω`, `ι`         | U+03C9, U+03B9         |
-| [U+FB00](https://codepoints.net/U+FB00?lang=en) | `ﬀ`       | LATIN SMALL LIGATURE FF                                                  | `f`, `f`         | U+0066, U+0066         |
+| [U+FB00](https://codepoints.net/U+FB00?lang=en) | `���`       | LATIN SMALL LIGATURE FF                                                  | `f`, `f`         | U+0066, U+0066         |
 | [U+FB01](https://codepoints.net/U+FB01?lang=en) | `ﬁ`       | LATIN SMALL LIGATURE FI                                                  | `f`, `i`         | U+0066, U+0069         |
 | [U+FB02](https://codepoints.net/U+FB02?lang=en) | `ﬂ`       | LATIN SMALL LIGATURE FL                                                  | `f`, `l`         | U+0066, U+006C         |
 | [U+FB03](https://codepoints.net/U+FB03?lang=en) | `ﬃ`       | LATIN SMALL LIGATURE FFI                                                 | `f`, `f`, `i`    | U+0066, U+0066, U+0069 |
@@ -512,7 +512,7 @@ Emojis of mixed gender situations are now available, such as same sex families, 
 
 | Code Points | Recipe   | Combined |
 |-------------|----------|----------|
-| U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469 | <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/apple/apple_2764.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png"> <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png"> | <img height="36" width="auto" alt="couple with heart: woman, woman" src="http://unicode.org/reports/tr51/images/apple/apple_1f469_200d_2764_fe0f_200d_1f469.png"> |
+| U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469 | <img height="36" width="auto" alt="���" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/apple/apple_2764.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png"> <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png"> | <img height="36" width="auto" alt="couple with heart: woman, woman" src="http://unicode.org/reports/tr51/images/apple/apple_1f469_200d_2764_fe0f_200d_1f469.png"> |
 |U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466|<img height="36" width="auto" src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/c575db618a89c88624a8c3bdfe57eada064cbf14/resources/family%3B%20man%2C%20man%2C%20girl%2C%20boy%20-%20fallback%20-%20ZWJ.jpg">|<img height="36" width="auto" src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/family%3B%20man%2C%20man%2C%20girl%2C%20boy.png">|
 
 Further, emojis now support skin color modifiers.
