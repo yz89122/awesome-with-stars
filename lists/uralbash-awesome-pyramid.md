@@ -352,7 +352,7 @@ provide new storage backends.*
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/pyramid_handlers) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid_handlers)](https://github.com/Pylons/pyramid_handlers) - analogue of
-  Pylons-style “controllers” for Pyramid.
+  Pylons-style “controllers�� for Pyramid.
 * [pyramid_rpc ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/pyramid_rpc) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid_rpc)](https://github.com/Pylons/pyramid_rpc) - RPC service add-on for
   Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc
   with support for JSON-RPC and AMF.

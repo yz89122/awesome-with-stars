@@ -224,7 +224,7 @@ Meteo
 #### Material Design
 
 - [Slidable ![GitHub Repo Stars](https://img.shields.io/github/stars/letsar/flutter_slidable) ![GitHub last commit](https://img.shields.io/github/last-commit/letsar/flutter_slidable)](https://github.com/letsar/flutter_slidable) [2690⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
-- [Backdrop ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/backdrop) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/backdrop)](https://github.com/fluttercommunity/backdrop) [331⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
+- [Backdrop ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/backdrop) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/backdrop)](https://github.com/fluttercommunity/backdrop) [331��] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 
 #### Effect
 
