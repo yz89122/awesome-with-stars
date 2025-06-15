@@ -289,7 +289,7 @@ Sensor values and control information are shared via common serial protocols whi
 * [openXsensor ![GitHub Repo Stars](https://img.shields.io/github/stars/openXsensor/openXsensor) ![GitHub last commit](https://img.shields.io/github/last-commit/openXsensor/openXsensor)](https://github.com/openXsensor/openXsensor) - Convert and alter telemetry protocols.
 * [OpenLog ![GitHub Repo Stars](https://img.shields.io/github/stars/sparkfun/OpenLog) ![GitHub last commit](https://img.shields.io/github/last-commit/sparkfun/OpenLog)](https://github.com/sparkfun/OpenLog) - With [blackbox ![GitHub Repo Stars](https://img.shields.io/github/stars/thenickdude/blackbox) ![GitHub last commit](https://img.shields.io/github/last-commit/thenickdude/blackbox)](https://github.com/thenickdude/blackbox/) firmware for blackbox data recorder (today usually part of main FC).
 
-## Mission Control & Basestation 🗺️
+## Mission Control & Basestation ��️
 
 Ground Control Stations (GCS) on laptops / tablets allow better overview of flight parameters and position for mission control during long range / time flights. Also see [Ardupilot.org - Choosing GCS](https://ardupilot.org/copter/docs/common-choosing-a-ground-station.html).
 
@@ -443,7 +443,7 @@ Depending on the country you live in, the laws and legal rules of airspace may v
 * [Urząd Lotnictwa Cywilnego](https://drony.ulc.gov.pl) - 🇵🇱 Urząd Lotnictwa Cywilnego - allows to apply for license in Poland and EU
 * [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - 🇵🇱 List of regulations regarding operations of UAV in Poland
 
-## Communities 🗣️
+## Communities ����️
 
 Every hobby makes more fun and progress if you share your ideas and questions to others. Beside the UAV pilot communities there are plenty of modder and hackers out there.
 

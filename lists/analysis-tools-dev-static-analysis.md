@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -375,7 +375,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SVF](https://svf-tools.github.io/SVF) — A static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.
 
-- [TrustInSoft Analyzer](https://trust-in-soft.com) :copyright: — Exhaustive detection of coding errors and their associated security vulnerabilities. This encompasses a sound undefined behavior detection (buffer overflows, out-of-bounds array accesses, null-pointer dereferences, use-after-free, divide-by-zeros, uninitialized memory accesses, signed overflows, invalid pointer arithmetic, etc.), data flow and control flow verification as well as full functional verification of formal specifications. All versions of C up to C18 and C++ up to C++20 are supported. TrustInSoft Analyzer will acquire ISO 26262 qualification in Q2'2023 (TCL3). A MISRA C checker is also bundled.
+- [TrustInSoft Analyzer](https://trust-in-soft.com) :copyright: ��� Exhaustive detection of coding errors and their associated security vulnerabilities. This encompasses a sound undefined behavior detection (buffer overflows, out-of-bounds array accesses, null-pointer dereferences, use-after-free, divide-by-zeros, uninitialized memory accesses, signed overflows, invalid pointer arithmetic, etc.), data flow and control flow verification as well as full functional verification of formal specifications. All versions of C up to C18 and C++ up to C++20 are supported. TrustInSoft Analyzer will acquire ISO 26262 qualification in Q2'2023 (TCL3). A MISRA C checker is also bundled.
 
 - [vera++](https://bitbucket.org/verateam/vera/wiki/Introduction) :warning: — Vera++ is a programmable tool for verification, analysis and transformation of C++ source code.
 
@@ -2290,7 +2290,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [slim-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/sds/slim-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/sds/slim-lint)](https://github.com/sds/slim-lint) — Configurable tool for analyzing Slim templates.
 
-- [yamllint](https://yamllint.readthedocs.io) ��� Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+- [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
 
 
 <a name="terraform" />
