@@ -138,7 +138,7 @@ Commercial LiPo battery packs are common in RC, but can be replaced with custom 
 * [diyBMS v4 ![GitHub Repo Stars](https://img.shields.io/github/stars/stuartpittaway/diyBMSv4) ![GitHub last commit](https://img.shields.io/github/last-commit/stuartpittaway/diyBMSv4)](https://github.com/stuartpittaway/diyBMSv4) - Battery management PCB and firmware for LiIon packs.
 
 
-## Motor Control ⚙️
+## Motor Control ��️
 
 Usually brushless DC motors (BLDC) are used for their power and precision. They require Electronic Speed Controller (ESC) per motor.
 
