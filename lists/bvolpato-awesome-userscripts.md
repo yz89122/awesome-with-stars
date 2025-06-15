@@ -1090,7 +1090,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/select-text-inside-a-link-like-opera.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
+        �� <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
             Install</a> /
         📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
             Readme</a> /
