@@ -1407,6 +1407,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vrf ![GitHub Repo Stars](https://img.shields.io/github/stars/dimailn/vrf) ![GitHub last commit](https://img.shields.io/github/last-commit/dimailn/vrf)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 - [tracked-instance ![GitHub Repo Stars](https://img.shields.io/github/stars/rudnik275/tracked-instance) ![GitHub last commit](https://img.shields.io/github/last-commit/rudnik275/tracked-instance)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 - [Vorm ![GitHub Repo Stars](https://img.shields.io/github/stars/Flo0806/vorm) ![GitHub last commit](https://img.shields.io/github/last-commit/Flo0806/vorm)](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
+- [VueFormify ![GitHub Repo Stars](https://img.shields.io/github/stars/mateenagy/vue-formify) ![GitHub last commit](https://img.shields.io/github/last-commit/mateenagy/vue-formify)](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
 
 ##### Validation
 
