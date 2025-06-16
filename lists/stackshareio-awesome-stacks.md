@@ -394,7 +394,7 @@ Hosted tools to use to analyze user behavior for a web app.
 
 The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 
-- [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
+- [Kafka](http://kafka.apache.org/) - [���](https://stackshare.io/kafka) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
 - [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
 - [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cassandra) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cassandra)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
@@ -466,7 +466,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
 - [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/expo)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-- [Digital Ocean](https://www.digitalocean.com/) - [��️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
+- [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 - [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 ##### Resources
