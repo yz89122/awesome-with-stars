@@ -172,6 +172,7 @@
 - [alexpasmantier/pymple.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpasmantier/pymple.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpasmantier/pymple.nvim)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
 - [esmuellert/nvim-eslint ![GitHub Repo Stars](https://img.shields.io/github/stars/esmuellert/nvim-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/esmuellert/nvim-eslint)](https://github.com/esmuellert/nvim-eslint) - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
 - [Fildo7525/pretty_hover ![GitHub Repo Stars](https://img.shields.io/github/stars/Fildo7525/pretty_hover) ![GitHub last commit](https://img.shields.io/github/last-commit/Fildo7525/pretty_hover)](https://github.com/Fildo7525/pretty_hover) - Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers.
+- [yarospace/dev-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yarospace/dev-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yarospace/dev-tools.nvim)](https://github.com/yarospace/dev-tools.nvim) - In-process LSP server of custom code actions, enhanced actions picker, community actions library and a convenient interface for customization and enhancement of your code actions.
 
 #### LSP Installer
 
