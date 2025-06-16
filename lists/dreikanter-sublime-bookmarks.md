@@ -118,7 +118,7 @@ Plugins:
 
 ### LaTeX Profile
 
-- [LaTeXing ![GitHub Repo Stars](https://img.shields.io/github/stars/LaTeXing/LaTeXing) ![GitHub last commit](https://img.shields.io/github/last-commit/LaTeXing/LaTeXing)](https://github.com/LaTeXing/LaTeXing) ��� an extension for which makes your life easier and more comfortable while creating your documents.
+- [LaTeXing ![GitHub Repo Stars](https://img.shields.io/github/stars/LaTeXing/LaTeXing) ![GitHub last commit](https://img.shields.io/github/last-commit/LaTeXing/LaTeXing)](https://github.com/LaTeXing/LaTeXing) — an extension for which makes your life easier and more comfortable while creating your documents.
 - [LaTeXTools ![GitHub Repo Stars](https://img.shields.io/github/stars/SublimeText/LaTeXTools) ![GitHub last commit](https://img.shields.io/github/last-commit/SublimeText/LaTeXTools)](https://github.com/SublimeText/LaTeXTools) — an open-source plugin that simplifies working with LaTeX files.
 
 ### Markdown Editing Profile

@@ -436,7 +436,8 @@
 - [SOREL ![GitHub Repo Stars](https://img.shields.io/github/stars/sophos-ai/SOREL-20M) ![GitHub last commit](https://img.shields.io/github/last-commit/sophos-ai/SOREL-20M)](https://github.com/sophos-ai/SOREL-20M) - Sophos-ReversingLabs 20 Million dataset.
 - [theZoo ![GitHub Repo Stars](https://img.shields.io/github/stars/ytisf/theZoo) ![GitHub last commit](https://img.shields.io/github/last-commit/ytisf/theZoo)](https://github.com/ytisf/theZoo) - Project created to make the possibility of malware analysis open and available to the public.
 - [ViruSign](https://www.virusign.com) - Another online malware database.
-- [VirusSamples](https://www.virussamples.com)
+- [VirusSign](https://www.virussign.com/) - VirusSign.com is a platform that serves as a large malware sample repository for cybersecurity researchers.
+- [VirusSamples](https://www.virussamples.com) - Collection of malware developed organized by Threat Reports from CISA, FBI, Antivirus companies and others.
 - [VirusShare](https://virusshare.com) - Virus online database with more than 44 millions of samples.
 - [VirusTotal](https://www.virustotal.com/gui/) - File analysis Web service for detecting malware.
 - [VX Heaven](https://web.archive.org/web/20170817143838/http://vxheaven.org/) - Site dedicated to providing information about computer viruses.
