@@ -109,6 +109,7 @@
 
 ### (requires Neovim 0.5)
 
+- [romus204/referencer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/romus204/referencer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/romus204/referencer.nvim)](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 - [Dan7h3x/signup.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Dan7h3x/signup.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Dan7h3x/signup.nvim)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 - [neovim/nvim-lspconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/neovim/nvim-lspconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/neovim/nvim-lspconfig)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
 - [nvim-lua/lsp-status.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-lua/lsp-status.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-lua/lsp-status.nvim)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
