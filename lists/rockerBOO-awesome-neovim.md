@@ -23,6 +23,7 @@
   - [Web Development](#web-development)
   - [Markdown and LaTeX](#markdown-and-latex)
   - [PHP](#php)
+  - [Powershell](#powershell)
 - [Language](#language)
 - [Syntax](#syntax)
 - [Snippet](#snippet)
@@ -213,6 +214,7 @@
 
 ## AI
 
+- [blob42/codegpt-ng.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim)](https://github.com/blob42/codegpt-ng.nvim) - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
 - [Aaronik/GPTModels.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Aaronik/GPTModels.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Aaronik/GPTModels.nvim)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 - [Robitx/gp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Robitx/gp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Robitx/gp.nvim)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
 - [jackMort/ChatGPT.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
@@ -240,6 +242,8 @@
 - [claudius.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
 - [heilgar/nochat.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/heilgar/nochat.nvim)](https://github.com/heilgar/nochat.nvim) - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
 - [julwrites/llm-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/julwrites/llm-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/julwrites/llm-nvim)](https://github.com/julwrites/llm-nvim) - Comprehensive integration with the [llm ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/llm) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/llm)](https://github.com/simonw/llm) tool.
+- [azorng/goose.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/azorng/goose.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/azorng/goose.nvim)](https://github.com/azorng/goose.nvim) - Seamless Neovim integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
+- [mozanunal/sllm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mozanunal/sllm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mozanunal/sllm.nvim)](https://github.com/mozanunal/sllm.nvim) - In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats.
 
 <!--lint disable double-link -->
 
@@ -270,9 +274,11 @@
 - [jinzhogjia/zig-lamp ![GitHub Repo Stars](https://img.shields.io/github/stars/jinzhongjia/zig-lamp) ![GitHub last commit](https://img.shields.io/github/last-commit/jinzhongjia/zig-lamp)](https://github.com/jinzhongjia/zig-lamp) - Improve the Zig experience.
 - [kiyoon/python-import.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/python-import.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/python-import.nvim)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
 - [kiyoon/haskell-scope-highlighting.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+- [apyra/nvim-unity.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/apyra/nvim-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/apyra/nvim-unity)](https://github.com/apyra/nvim-unity) - Use Neovim as your default Unity editor with full LSP support via OmniSharp.
 
 ### Golang
 
+- [romus204/go-tagger.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/romus204/go-tagger.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/romus204/go-tagger.nvim)](https://github.com/romus204/go-tagger.nvim) - A lightweight plugin to manage struct field tags in Go files.
 - [ray-x/go.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-x/go.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-x/go.nvim)](https://github.com/ray-x/go.nvim) - Golang plugin based on LSP and Tree-sitter.
 - [crusj/structrue-go.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/crusj/structrue-go.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/crusj/structrue-go.nvim)](https://github.com/crusj/structrue-go.nvim) - A better structured display of Golang symbols information.
 - [crispgm/nvim-go ![GitHub Repo Stars](https://img.shields.io/github/stars/crispgm/nvim-go) ![GitHub last commit](https://img.shields.io/github/last-commit/crispgm/nvim-go)](https://github.com/crispgm/nvim-go) - A minimal implementation of Golang development plugin.
@@ -335,6 +341,7 @@
 - [OXY2DEV/markview.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/markview.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/markview.nvim)](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, typst, LaTeX, html(inline) & YAML renderer.
 - [Kicamon/markdown-table-mode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kicamon/markdown-table-mode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kicamon/markdown-table-mode.nvim)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 - [SCJangra/table-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SCJangra/table-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SCJangra/table-nvim)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+- [timantipov/md-table-tidy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/timantipov/md-table-tidy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/timantipov/md-table-tidy.nvim)](https://github.com/timantipov/md-table-tidy.nvim) - Simple markdown tables formatting.
 - [nvim-telescope/telescope-bibtex.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-telescope/telescope-bibtex.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-telescope/telescope-bibtex.nvim)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 - [Thiago4532/mdmath.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Thiago4532/mdmath.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Thiago4532/mdmath.nvim)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
 
@@ -342,6 +349,16 @@
 
 - [gbprod/phpactor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gbprod/phpactor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gbprod/phpactor.nvim)](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 - [ta-tikoma/php.easy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ta-tikoma/php.easy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ta-tikoma/php.easy.nvim)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
+
+<!--lint disable double-link -->
+
+**[⬆ back to top](#contents)**
+
+<!--lint enable double-link -->
+
+### Powershell
+
+- [TheLeoP/powershell.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLeoP/powershell.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLeoP/powershell.nvim)](https://github.com/TheLeoP/powershell.nvim) - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
 
 <!--lint disable double-link -->
 
@@ -435,7 +452,7 @@
 - [tristone13th/lspmark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tristone13th/lspmark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tristone13th/lspmark.nvim)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 - [EvWilson/spelunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/EvWilson/spelunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/EvWilson/spelunk.nvim)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 - [2KAbhishek/markit.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/markit.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/markit.nvim)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
-- [you-n-g/navigate-note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/navigate-note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/navigate-note.nvim)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+- [you-n-g/navigate-note.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/you-n-g/navigate-note.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/you-n-g/navigate-note.nvim)](https://github.com/you-n-g/navigate-note.nvim) - Integrating note-taking capabilities with navigation/marking.
 - [zongben/navimark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/navimark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/navimark.nvim)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
 - [francescarpi/buffon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/francescarpi/buffon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/francescarpi/buffon.nvim)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 - [Beargruug/skipper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Beargruug/skipper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Beargruug/skipper.nvim)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
@@ -488,7 +505,7 @@
 - [echasnovski/mini.nvim#mini.extra ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 - [fdschmidt93/telescope-egrepify.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fdschmidt93/telescope-egrepify.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fdschmidt93/telescope-egrepify.nvim)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 - [crispgm/telescope-heading.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/crispgm/telescope-heading.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/crispgm/telescope-heading.nvim)](https://github.com/crispgm/telescope-heading.nvim) - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
-- [bassamsdata/namu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bassamsdata/namu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bassamsdata/namu.nvim)](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed. 
+- [bassamsdata/namu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bassamsdata/namu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bassamsdata/namu.nvim)](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed.
 
 <!--lint disable double-link -->
 
@@ -530,7 +547,7 @@
 
 ## Project
 
-- [pluffie/neoproj ![GitHub Repo Stars](https://img.shields.io/github/stars/pluffie/neoproj) ![GitHub last commit](https://img.shields.io/github/last-commit/pluffie/neoproj)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+- [sukineco/neoproj ![GitHub Repo Stars](https://img.shields.io/github/stars/sukineco/neoproj) ![GitHub last commit](https://img.shields.io/github/last-commit/sukineco/neoproj)](https://github.com/sukineco/neoproj) - Small yet powerful project (and session) manager.
 - [Abstract-IDE/penvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstract-IDE/penvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstract-IDE/penvim)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 - [windwp/nvim-projectconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/windwp/nvim-projectconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/windwp/nvim-projectconfig)](https://github.com/windwp/nvim-projectconfig) - Load Neovim config depend on project directory.
 - [ahmedkhalf/project.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ahmedkhalf/project.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ahmedkhalf/project.nvim)](https://github.com/ahmedkhalf/project.nvim) - An all in one Neovim plugin that provides superior project management.
@@ -587,6 +604,8 @@
 
 Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses your code into a tree that works, even with errors in your syntax. These colorschemes have specifically set colors for Tree-sitter highlight groups. Vim colorschemes will work with the new groups out of the box.
 
+- [datsfilipe/min-theme.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/datsfilipe/min-theme.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/datsfilipe/min-theme.nvim)](https://github.com/datsfilipe/min-theme.nvim) - It's a port of Min, a minimal theme for VSCode, written in Lua.
+- [github-main-user/lytmode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/github-main-user/lytmode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/github-main-user/lytmode.nvim)](https://github.com/github-main-user/lytmode.nvim) - A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 - [datsfilipe/vesper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/datsfilipe/vesper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/datsfilipe/vesper.nvim)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VS Code theme Vesper, written in Lua.
 - [sontungexpt/witch ![GitHub Repo Stars](https://img.shields.io/github/stars/sontungexpt/witch) ![GitHub last commit](https://img.shields.io/github/last-commit/sontungexpt/witch)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 - [Abstract-IDE/Abstract-cs ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstract-IDE/Abstract-cs) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstract-IDE/Abstract-cs)](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
@@ -913,6 +932,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Utility
 
+- [Cih2001/pikchr.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Cih2001/pikchr.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Cih2001/pikchr.nvim)](https://github.com/Cih2001/pikchr.nvim) - Render [Pikchr](https://pikchr.org/) diagrams live in Neovim.
 - [gaborvecsei/usage-tracker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 - [mateuszwieloch/automkdir.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mateuszwieloch/automkdir.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuszwieloch/automkdir.nvim)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 - [jghauser/mkdir.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jghauser/mkdir.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jghauser/mkdir.nvim)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
@@ -1005,7 +1025,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [MisanthropicBit/decipher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 - [philosofonusus/ecolog.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/philosofonusus/ecolog.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/philosofonusus/ecolog.nvim)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 - [theKnightsOfRohan/hexer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/theKnightsOfRohan/hexer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/theKnightsOfRohan/hexer.nvim)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
-- [rachartier/tiny-glimmer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.  
+- [rachartier/tiny-glimmer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
 - [neanvo/buben.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neanvo/buben.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neanvo/buben.nvim)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 - [josephburgess/nvumi ![GitHub Repo Stars](https://img.shields.io/github/stars/josephburgess/nvumi) ![GitHub last commit](https://img.shields.io/github/last-commit/josephburgess/nvumi)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 - [redoxahmii/json-to-types.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/redoxahmii/json-to-types.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/redoxahmii/json-to-types.nvim)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
@@ -1016,6 +1036,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [BibekBhusal0/bufstack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/BibekBhusal0/bufstack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/BibekBhusal0/bufstack.nvim)](https://github.com/BibekBhusal0/bufstack.nvim) - Track recently visited buffers and reopen recently closed buffers.
 - [OXY2DEV/ui.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/ui.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/ui.nvim)](https://github.com/OXY2DEV/ui.nvim) - A blueprint/template/guide for customizing the UI.
 - [athar-qadri/weather.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/athar-qadri/weather.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/athar-qadri/weather.nvim)](https://github.com/athar-qadri/weather.nvim) - Realtime Weather and Earthquake alerts with support for lualine integration (no api key required).
+- [penaz91/MiniDYM ![GitHub Repo Stars](https://img.shields.io/github/stars/Penaz91/MiniDYM) ![GitHub last commit](https://img.shields.io/github/last-commit/Penaz91/MiniDYM)](https://github.com/Penaz91/MiniDYM) - A very small "Did you mean" plugin, suggesting files the user might have wanted to open instead of creating a new one.
+- [attilarepka/header.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/attilarepka/header.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/attilarepka/header.nvim)](https://github.com/attilarepka/header.nvim) - Add or update copyright and license headers in any source file.
 
 ### CSV Files
 
@@ -1060,6 +1082,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [laktak/tome ![GitHub Repo Stars](https://img.shields.io/github/stars/laktak/tome) ![GitHub last commit](https://img.shields.io/github/last-commit/laktak/tome)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
 - [Axot017/multiterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Axot017/multiterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Axot017/multiterm.nvim)](https://github.com/Axot017/multiterm.nvim) - A lightweight manager of multiple terminal instances with key bindings.
 - [da-moon/telescope-toggleterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/da-moon/telescope-toggleterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/da-moon/telescope-toggleterm.nvim)](https://github.com/da-moon/telescope-toggleterm.nvim) - Telescope picker for terminal buffers.
+- [benoror/gpg.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/benoror/gpg.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/benoror/gpg.nvim)](https://github.com/benoror/gpg.nvim) - Edit GPG encrypted files symmetrically.
 
 <!--lint disable double-link -->
 
@@ -1082,6 +1105,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [chrisgrieser/nvim-chainsaw ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-chainsaw) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-chainsaw)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 - [Willem-J-an/visidata.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Willem-J-an/visidata.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Willem-J-an/visidata.nvim)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
 - [igorlfs/nvim-dap-view ![GitHub Repo Stars](https://img.shields.io/github/stars/igorlfs/nvim-dap-view) ![GitHub last commit](https://img.shields.io/github/last-commit/igorlfs/nvim-dap-view)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
+- [Carcuis/dap-breakpoints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Carcuis/dap-breakpoints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Carcuis/dap-breakpoints.nvim)](https://github.com/Carcuis/dap-breakpoints.nvim) - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
 
 ### Quickfix
 
@@ -1117,6 +1141,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nvim-neotest/neotest ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-neotest/neotest) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-neotest/neotest)](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within Neovim.
 - [andythigpen/nvim-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/andythigpen/nvim-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/andythigpen/nvim-coverage)](https://github.com/andythigpen/nvim-coverage) - Displays coverage information in the sign column.
 - [quolpr/quicktest.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
+- [tdd.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zkucekovic/tdd.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zkucekovic/tdd.nvim)](https://github.com/zkucekovic/tdd.nvim) - Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings.
 
 <!--lint disable double-link -->
 
@@ -1266,6 +1291,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Motion
 
+- [HawkinsT/pathfinder.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/HawkinsT/pathfinder.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/HawkinsT/pathfinder.nvim)](https://github.com/HawkinsT/pathfinder.nvim) - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
 - [tris203/precognition.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tris203/precognition.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tris203/precognition.nvim)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
 - [smoka7/hop.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/smoka7/hop.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/smoka7/hop.nvim)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 - [ggandor/lightspeed.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ggandor/lightspeed.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ggandor/lightspeed.nvim)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
@@ -1296,6 +1322,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Aaronik/Treewalker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronik/Treewalker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronik/Treewalker.nvim)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 - [sphamba/smear-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 - [timseriakov/spamguard.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/timseriakov/spamguard.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/timseriakov/spamguard.nvim)](https://github.com/timseriakov/spamguard.nvim) - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.
+- [millerjason/neovimacs.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/millerjason/neovimacs.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/millerjason/neovimacs.nvim)](https://github.com/millerjason/neovimacs.nvim) - Provides emacs movement and buffer keybindings while in insert mode.
 
 ### Tree-sitter Based
 
@@ -1576,6 +1603,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [altermo/nwm ![GitHub Repo Stars](https://img.shields.io/github/stars/altermo/nwm) ![GitHub last commit](https://img.shields.io/github/last-commit/altermo/nwm)](https://github.com/altermo/nwm) - X11 window manager.
 - [MisanthropicBit/winmove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 - [ycdzj/win-mover.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ycdzj/win-mover.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ycdzj/win-mover.nvim)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
+- [mkajsjo/windowcolumns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mkajsjo/windowcolumns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mkajsjo/windowcolumns.nvim)](https://github.com/mkajsjo/windowcolumns.nvim) - Column-first window management.
 
 ### Tmux
 
@@ -1608,6 +1636,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [alanfortlink/blackjack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alanfortlink/blackjack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alanfortlink/blackjack.nvim)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
 - [jim-fx/sudoku.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jim-fx/sudoku.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jim-fx/sudoku.nvim)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 - [csessh/aoc.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/csessh/aoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/csessh/aoc.nvim)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
+- [seandewar/actually-doom.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/seandewar/actually-doom.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/seandewar/actually-doom.nvim)](https://github.com/seandewar/actually-doom.nvim) - Editing text is boring; play DOOM instead!.
 
 ### Competitive Programming
 
