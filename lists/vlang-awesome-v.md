@@ -340,6 +340,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Web
 
 - [pico.v ![GitHub Repo Stars](https://img.shields.io/github/stars/S-YOU/pico.v) ![GitHub last commit](https://img.shields.io/github/last-commit/S-YOU/pico.v)](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
+- [sessions ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/sessions)](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 - [v-jsonrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/nedpals/v-jsonrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/nedpals/v-jsonrpc)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [v-tiktok ![GitHub Repo Stars](https://img.shields.io/github/stars/walkingdevel/v-tiktok) ![GitHub last commit](https://img.shields.io/github/last-commit/walkingdevel/v-tiktok)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 - [validate ![GitHub Repo Stars](https://img.shields.io/github/stars/endeveit/v-validate) ![GitHub last commit](https://img.shields.io/github/last-commit/endeveit/v-validate)](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
