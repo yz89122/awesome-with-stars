@@ -4,73 +4,72 @@ A curated list of awesome D frameworks, libraries and software. Inspired by [awe
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/awesome-d) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/awesome-d)](https://github.com/dlang-community/awesome-d/issues) or by [editing this file ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/awesome-d) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/awesome-d)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
 
-# Contents 
+# Contents
 
-- Basic Information
-	- [Official Website](#official-website)
-	- [Getting Help](#getting-help)
-	- [People](#people)
-	- [Events](#events)
-	- [Organizations](#organizations)
-- Documents
-	- [Books](#books)
-	- [Tutorials](#tutorials)
-	- [Blogs](#blogs)
-	- [Articles](#articles)
-- Language Related 
-	- [Package Management](#package-management)
-	- [Compilers](#compilers)
-	- [WIP Compilers](#wip-compilers)
-	- [Dev Tools](#dev-tools)
-	- [Build Tools](#build-tools)
-	- [IDEs & Editors](#ides--editors)
-	- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-	- [Preprocessors](#preprocessors)
-	- [Version Manager](#version-manager)
-- Compiler for Other Languages
-	- [Javascript](#javascript)
-- Common/Utilities
-	- [Basic](#basic)
-	- [Containers](#containers)
-- Continuous Integration
-	- [GitHub Actions](#github-actions)
-	- [Testing Frameworks](#testing-frameworks)
-- Networking/Web Related
-	- [Networking](#networking-library)
-	- [Web Frameworks](#web-frameworks)
-	- [Data&Serialization](#data-serialization)
-- Database
-	- [Database clients](#database-clients)
-- GUI
-	- [GUI Libraries](#gui-libraries)
-	- [GUI Apps](#gui-apps)
-- OS
-	- [Operating Systems](#os)
-- Game Development
-	- [Bindings](#game-bindings)
-	- [Frameworks](#game-frameworks)
-	- [Games](#games)
-- Internationalization (i18n) / Globalization
-	- [Internationalization](#internationalization)
-- Video
-	- [Applications](#video-applications)
-- Image Processing
-	- [Applications](#image-processing)
-- End-user applications (AppImages, Flatpaks, Snaps...)
-	- [Applications](#end-user-applications)
-- Scientific
-	- [Scientific](#scientific)
-	- [Language Processing](#language-processing)
-- Machine Learning
-	- [Machine Learning](#machine-learning)
-- [Parallel computing](#parallel-computing)
-- Others
-	- [Text Processing](#text-processing)
-	- [Command Line](#command-line)
-	- [Logging](#logging)
-	- [Configuration](#configuration)
-	- [BlogEngine](#blog-engine)
-	- [Dependency Injection](#dependency-injection)
+* Basic Information
+	* [Official Website](#official-website)
+	* [Getting Help](#getting-help)
+	* [People](#people)
+	* [Events](#events)
+	* [Organizations](#organizations)
+* Documents
+	* [Books](#books)
+	* [Tutorials](#tutorials)
+	* [Blogs](#blogs)
+	* [Articles](#articles)
+* Language Related
+	* [Package Management](#package-management)
+	* [Compilers](#compilers)
+	* [WIP Compilers](#wip-compilers)
+	* [Dev Tools](#dev-tools)
+	* [Build Tools](#build-tools)
+	* [IDEs & Editors](#ides--editors)
+	* [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
+	* [Preprocessors](#preprocessors)
+	* [Version Manager](#version-manager)
+* Compiler for Other Languages
+	* [Javascript](#javascript)
+* OS
+	* [Operating Systems](#operating-systems)
+	* [Bare Metal/Kernel Development](#bare-metalkernel-development)
+* Common/Utilities
+	* [Basic](#basic)
+	* [Containers](#containers)
+* Continuous Integration
+	* [GitHub Actions](#github-actions)
+	* [Testing Frameworks](#testing-frameworks)
+* Networking/Web Related
+	* [Web Frameworks](#web-frameworks)
+	* [Data&Serialization](#data-serialization)
+* Database
+	* [Database clients](#database-clients)
+* CLI
+	* [CLI Libraries](#cli-libraries)
+	* [CLI Applications](#cli-applications)
+* GUI
+	* [GUI Libraries](#gui-libraries)
+	* [GUI Applications](#gui-applications)
+* Game Development
+	* [Bindings](#game-bindings)
+	* [Frameworks](#game-frameworks)
+	* [Games](#games)
+* Internationalization (i18n) / Globalization
+	* [Internationalization](#internationalization)
+* Image Processing
+	* [Image Processing](#image-processing)
+* Machine Learning
+	* [Machine Learning](#machine-learning)
+	* [Parallel Computing](#parallel-computing)
+* Scientific
+	* [Scientific](#scientific)
+	* [Language Processing](#language-processing)
+* Others
+	* [Text Processing](#text-processing)
+	* [Logging](#logging)
+	* [Configuration](#configuration)
+	* [BlogEngine](#blog-engine)
+	* [Dependency Injection](#dependency-injection)
+	* [Unmaintained](#unmaintained)
 
 ## Official Website
 
@@ -148,13 +147,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D metaprogramming tutorial series
 * [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-&ab_channel=KiRill) - A video series on learning game development with D from Ki Rill. [His channel](https://www.youtube.com/@rillki-dev/) also posts other videos related to D programming.
 * [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
-
-### Bare metal / kernel development
-
-* [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
-* [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
-* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb)](https://github.com/xomboverlord/xomb/tree/unborn).
-* [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ## Blogs
 
@@ -256,68 +248,67 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Javascript
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
+## Operating Systems
+
+*Operating Systems written in D.*
+
+* [PowerNex ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerNex/PowerNex) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerNex/PowerNex)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
+* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
+* [Trinix ![GitHub Repo Stars](https://img.shields.io/github/stars/Rikarin/Trinix) ![GitHub last commit](https://img.shields.io/github/last-commit/Rikarin/Trinix)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
+* [XOmB ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+
+## Bare Metal/Kernel Development
+
+* [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
+* [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
+* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb)](https://github.com/xomboverlord/xomb/tree/unborn).
+* [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
+
 ## Basic
 
 * [NuMem ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/numem) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/numem)](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+* [NuLib ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/nulib) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/nulib)](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
 * [Joka ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/joka) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/joka)](https://github.com/Kapendev/joka) - A nogc utility library.
-* [hunt ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
-* [hunt-time ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-time) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-time)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
-* [hunt-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-validation)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ## Containers
 
 * [EMSI containers ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/containers) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/containers)](https://github.com/dlang-community/containers) - Containers that do not use the GC 
-- [memutils ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/memutils) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/memutils)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-- [dlib.container ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dlib) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dlib)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
-- [std.rcstring ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/std.rcstring) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/std.rcstring)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
+* [memutils ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/memutils) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/memutils)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+* [dlib.container ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dlib) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dlib)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+* [std.rcstring ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/std.rcstring) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/std.rcstring)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## GitHub Actions
 
-- [setup-dlang ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/setup-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/setup-dlang)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
-- [dub-upgrade ![GitHub Repo Stars](https://img.shields.io/github/stars/WebFreak001/dub-upgrade) ![GitHub last commit](https://img.shields.io/github/last-commit/WebFreak001/dub-upgrade)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+* [setup-dlang ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/setup-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/setup-dlang)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+* [dub-upgrade ![GitHub Repo Stars](https://img.shields.io/github/stars/WebFreak001/dub-upgrade) ![GitHub last commit](https://img.shields.io/github/last-commit/WebFreak001/dub-upgrade)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
 
 ## Testing Frameworks
 
-- [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
-- [dunit ![GitHub Repo Stars](https://img.shields.io/github/stars/nomad-software/dunit) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad-software/dunit)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-- [unit-threaded ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+* [unit-threaded ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
 
 ## Web Frameworks
 
-*Networking libraries*
+*Networking libraries.*
 
 * [dlang-requests ![GitHub Repo Stars](https://img.shields.io/github/stars/ikod/dlang-requests) ![GitHub last commit](https://img.shields.io/github/last-commit/ikod/dlang-requests)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 * [Handy-Httpd ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewlalis/handy-httpd) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewlalis/handy-httpd)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 * [serverino ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/serverino) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/serverino)](https://github.com/trikko/serverino) - Small and ready-to-go http server, in D
 * [libasync ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/libasync) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/libasync)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2 ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/libhttp2) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/libhttp2)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
-* [collie ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/collie) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/collie)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
-* [hunt-net ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-net) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-net)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
-* [hunt-http ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-http) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-http)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 
-*Full stack web frameworks*
+*Full stack web frameworks.*
 
 * [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed ![GitHub Repo Stars](https://img.shields.io/github/stars/rikkimax/Cmsed) ![GitHub last commit](https://img.shields.io/github/last-commit/rikkimax/Cmsed)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
-* [Hunt Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-framework)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 
-*RPC libraries*
+*RPC libraries.*
 
-* [grpc ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/grpc-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/grpc-dlang)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
-* [kissrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/kissrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/kissrpc)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
-* [Hprose ![GitHub Repo Stars](https://img.shields.io/github/stars/hprose/hprose-d) ![GitHub last commit](https://img.shields.io/github/last-commit/hprose/hprose-d)](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
 * [Apache Thrift](https://code.dlang.org/packages/apache-thrift) - A lightweight, language-independent, featureful RPC framework.  Thrift provides clean abstractions for data transport, data serialization, code generation, and application level processing. [Apache Thrift Page](https://thrift.apache.org/)
+* [Hprose ![GitHub Repo Stars](https://img.shields.io/github/stars/hprose/hprose-d) ![GitHub last commit](https://img.shields.io/github/last-commit/hprose/hprose-d)](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
 
-*Gossip*
-
-* [hunt-gossip ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-gossip) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-gossip)](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
-
-*Cache*
-
-* [hunt-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-cache)](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
-
-*Static Site Generator*
+*Static Site Generator.*
 
 * [DSSG ![GitHub Repo Stars](https://img.shields.io/github/stars/kambrium/dssg) ![GitHub last commit](https://img.shields.io/github/last-commit/kambrium/dssg)](https://github.com/kambrium/dssg) - A static site generator with a different approach.
 
@@ -327,7 +318,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ### Binary Serilization
 
-* [flatbuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/flatbuffers)](https://github.com/huntlabs/flatbuffers) - D Programming Language implementation of the google flatbuffers library.
 * [cerealed ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/cerealed) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/cerealed)](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto ![GitHub Repo Stars](https://img.shields.io/github/stars/msoucy/dproto) ![GitHub last commit](https://img.shields.io/github/last-commit/msoucy/dproto)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
@@ -360,24 +350,26 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [dvorm ![GitHub Repo Stars](https://img.shields.io/github/stars/rikkimax/Dvorm) ![GitHub last commit](https://img.shields.io/github/last-commit/rikkimax/Dvorm)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 * [libpb ![GitHub Repo Stars](https://img.shields.io/github/stars/Hax-io/libpb) ![GitHub last commit](https://img.shields.io/github/last-commit/Hax-io/libpb)](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
-* [hunt-entity ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-entity) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-entity)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-* [hunt-database ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-database) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-database)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
-## Command Line
+## CLI Libraries
 
 * [terminal.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 * [commandr ![GitHub Repo Stars](https://img.shields.io/github/stars/robik/commandr) ![GitHub last commit](https://img.shields.io/github/last-commit/robik/commandr)](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
 * [argsd ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/argsd) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/argsd)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 * [luneta ![GitHub Repo Stars](https://img.shields.io/github/stars/fbeline/luneta) ![GitHub last commit](https://img.shields.io/github/last-commit/fbeline/luneta)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 * [argparse](https://code.dlang.org/packages/argparse) - Flexible parser of command line arguments.
-* [dlog ![GitHub Repo Stars](https://img.shields.io/github/stars/deavmi/dlog) ![GitHub last commit](https://img.shields.io/github/last-commit/deavmi/dlog)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 * [gogga ![GitHub Repo Stars](https://img.shields.io/github/stars/deavmi/gogga) ![GitHub last commit](https://img.shields.io/github/last-commit/deavmi/gogga)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
-* [hunt-console ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-console) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-console)](https://github.com/huntlabs/hunt-console) - Hunt console creation easier to create powerful command-line applications. 
 * [scriptlike ![GitHub Repo Stars](https://img.shields.io/github/stars/Abscissa/scriptlike) ![GitHub last commit](https://img.shields.io/github/last-commit/Abscissa/scriptlike)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-* [todod ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackEdder/todod) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackEdder/todod)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/linenoise) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/linenoise)](https://github.com/antirez/linenoise).
 * [d-colorize](https://code.dlang.org/packages/colorize) - A port of the ruby library [colorize ![GitHub Repo Stars](https://img.shields.io/github/stars/fazibear/colorize) ![GitHub last commit](https://img.shields.io/github/last-commit/fazibear/colorize)](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 * [dexpect ![GitHub Repo Stars](https://img.shields.io/github/stars/grogancolin/dexpect) ![GitHub last commit](https://img.shields.io/github/last-commit/grogancolin/dexpect)](https://github.com/grogancolin/dexpect/) -  A D implementation of the expect framework. Handy for bash emulation.
 * [Argon ![GitHub Repo Stars](https://img.shields.io/github/stars/markuslaker/Argon) ![GitHub last commit](https://img.shields.io/github/last-commit/markuslaker/Argon)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
+
+## CLI Applications
+
+* [Literate ![GitHub Repo Stars](https://img.shields.io/github/stars/zyedidia/Literate) ![GitHub last commit](https://img.shields.io/github/last-commit/zyedidia/Literate)](https://github.com/zyedidia/Literate) - A literate programming tool for any language.
+* [onedrive ![GitHub Repo Stars](https://img.shields.io/github/stars/abraunegg/onedrive) ![GitHub last commit](https://img.shields.io/github/last-commit/abraunegg/onedrive)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux.
+* [tshare ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/tshare) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/tshare)](https://github.com/trikko/tshare) - Fast file sharing from cli, using transfer.sh.
+* [todod ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackEdder/todod) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackEdder/todod)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/linenoise) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/linenoise)](https://github.com/antirez/linenoise).
 
 ## GUI Libraries
 
@@ -387,28 +379,17 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Fluid](https://git.samerion.com/Samerion/Fluid) - A declarative cross-platform user interface library for D.
 * [DLangUI ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/dlangui) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/dlangui)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/dlangide) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/dlangide)](https://github.com/buggins/dlangide).
 * [GtkD ![GitHub Repo Stars](https://img.shields.io/github/stars/gtkd-developers/GtkD) ![GitHub last commit](https://img.shields.io/github/last-commit/gtkd-developers/GtkD)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-* [DWT ![GitHub Repo Stars](https://img.shields.io/github/stars/d-widget-toolkit/dwt) ![GitHub last commit](https://img.shields.io/github/last-commit/d-widget-toolkit/dwt)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
 * [tkD ![GitHub Repo Stars](https://img.shields.io/github/stars/nomad-software/tkd) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad-software/tkd)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml ![GitHub Repo Stars](https://img.shields.io/github/stars/filcuc/dqml) ![GitHub last commit](https://img.shields.io/github/last-commit/filcuc/dqml)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 * [Sciter-Dport ![GitHub Repo Stars](https://img.shields.io/github/stars/sciter-sdk/Sciter-Dport) ![GitHub last commit](https://img.shields.io/github/last-commit/sciter-sdk/Sciter-Dport)](https://github.com/sciter-sdk/Sciter-Dport) - D bindings for the [Sciter](https://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Extrawurst/DerelictLibui) ![GitHub last commit](https://img.shields.io/github/last-commit/Extrawurst/DerelictLibui)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ![GitHub Repo Stars](https://img.shields.io/github/stars/andlabs/libui) ![GitHub last commit](https://img.shields.io/github/last-commit/andlabs/libui)](https://github.com/andlabs/libui)
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](https://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
-## GUI Apps
+## GUI Applications
 
 * [tilix ![GitHub Repo Stars](https://img.shields.io/github/stars/gnunn1/tilix) ![GitHub last commit](https://img.shields.io/github/last-commit/gnunn1/tilix)](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
 * [Inochi Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-creator) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-creator)](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
 * [Inochi Session ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-session) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-session)](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
-
-## OS
-
-*Operating Systems written in D.*
-
-* [PowerNex ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerNex/PowerNex) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerNex/PowerNex)](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
-* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
-* [Trinix ![GitHub Repo Stars](https://img.shields.io/github/stars/Rikarin/Trinix) ![GitHub last commit](https://img.shields.io/github/last-commit/Rikarin/Trinix)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
-* [XOmB ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## Game Bindings
 
@@ -493,10 +474,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [bindbc-icu ![GitHub Repo Stars](https://img.shields.io/github/stars/shoo/bindbc-icu) ![GitHub last commit](https://img.shields.io/github/last-commit/shoo/bindbc-icu)](https://github.com/shoo/bindbc-icu) - bindbc bindings for the unicode ICU library.
 
-## Video applications
-
-* [DerelictGL3 ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictGL3) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictGL3)](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
-
 ## Image Processing
 
 * [ArmageddonEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/CyberShadow/ae) ![GitHub last commit](https://img.shields.io/github/last-commit/CyberShadow/ae)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
@@ -505,14 +482,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [color.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 * [opencvd ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/opencvd) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/opencvd)](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
 
-## End-user applications
-
-* [Cryptic-Resolver ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptic-resolver/cr_D) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptic-resolver/cr_D)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
-* [Inochi Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-creator) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-creator)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
-* [Literate ![GitHub Repo Stars](https://img.shields.io/github/stars/zyedidia/Literate) ![GitHub last commit](https://img.shields.io/github/last-commit/zyedidia/Literate)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
-* [onedrive ![GitHub Repo Stars](https://img.shields.io/github/stars/abraunegg/onedrive) ![GitHub last commit](https://img.shields.io/github/last-commit/abraunegg/onedrive)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
-* [tshare ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/tshare) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/tshare)](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
-
 ## Machine Learning
 
 * [vectorflow ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/vectorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/vectorflow)](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
@@ -520,7 +489,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [grain2 ![GitHub Repo Stars](https://img.shields.io/github/stars/ShigekiKarita/grain2) ![GitHub last commit](https://img.shields.io/github/last-commit/ShigekiKarita/grain2)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
 * [tfd ![GitHub Repo Stars](https://img.shields.io/github/stars/ShigekiKarita/tfd) ![GitHub last commit](https://img.shields.io/github/last-commit/ShigekiKarita/tfd)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D 
 
-## Parallel computing
+## Parallel Computing
 
 * [DCompute ![GitHub Repo Stars](https://img.shields.io/github/stars/libmir/dcompute) ![GitHub last commit](https://img.shields.io/github/last-commit/libmir/dcompute)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
 * [DerelictCUDA ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictCUDA) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictCUDA)](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
@@ -528,7 +497,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Scientific
 
-*Scientific programming*
+*Scientific programming.*
 
 * [scid ![GitHub Repo Stars](https://img.shields.io/github/stars/DlangScience/scid) ![GitHub last commit](https://img.shields.io/github/last-commit/DlangScience/scid)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 * [dstats ![GitHub Repo Stars](https://img.shields.io/github/stars/DlangScience/dstats) ![GitHub last commit](https://img.shields.io/github/last-commit/DlangScience/dstats)](https://github.com/DlangScience/dstats) -  A statistics library for D. 
@@ -550,25 +519,49 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Print with care.*
 
-- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility
-- [dlogg ![GitHub Repo Stars](https://img.shields.io/github/stars/NCrashed/dlogg) ![GitHub last commit](https://img.shields.io/github/last-commit/NCrashed/dlogg)](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](https://linux.die.net/man/8/logrotate) support.
+* [dlog ![GitHub Repo Stars](https://img.shields.io/github/stars/deavmi/dlog) ![GitHub last commit](https://img.shields.io/github/last-commit/deavmi/dlog)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
+* [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility.
+* [dlogg ![GitHub Repo Stars](https://img.shields.io/github/stars/NCrashed/dlogg) ![GitHub last commit](https://img.shields.io/github/last-commit/NCrashed/dlogg)](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](https://linux.die.net/man/8/logrotate) support.
 
 ## Configuration
 
-*Parsing configuration files*
+*Parsing configuration files.*
 
-- [sdlang ![GitHub Repo Stars](https://img.shields.io/github/stars/Abscissa/SDLang-D) ![GitHub last commit](https://img.shields.io/github/last-commit/Abscissa/SDLang-D)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
-- [D:YAML ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/D-YAML) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/D-YAML)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
-- [inifile-D ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/inifiled) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/inifiled)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+* [sdlang ![GitHub Repo Stars](https://img.shields.io/github/stars/Abscissa/SDLang-D) ![GitHub last commit](https://img.shields.io/github/last-commit/Abscissa/SDLang-D)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+* [D:YAML ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/D-YAML) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/D-YAML)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
+* [inifile-D ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/inifiled) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/inifiled)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## Blog Engine
 
-*Hosting blogs yourself*
+*Hosting blogs yourself.*
 
-- [mood ![GitHub Repo Stars](https://img.shields.io/github/stars/mihails-strasuns/mood) ![GitHub last commit](https://img.shields.io/github/last-commit/mihails-strasuns/mood)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
+* [mood ![GitHub Repo Stars](https://img.shields.io/github/stars/mihails-strasuns/mood) ![GitHub last commit](https://img.shields.io/github/last-commit/mihails-strasuns/mood)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
 ## Dependency Injection
 
-*Apply inversion of control*
+*Apply inversion of control.*
 
-- [Poodinis ![GitHub Repo Stars](https://img.shields.io/github/stars/mbierlee/poodinis) ![GitHub last commit](https://img.shields.io/github/last-commit/mbierlee/poodinis)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+* [Poodinis ![GitHub Repo Stars](https://img.shields.io/github/stars/mbierlee/poodinis) ![GitHub last commit](https://img.shields.io/github/last-commit/mbierlee/poodinis)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+
+## Unmaintained
+
+*Old or archived projects saved for reference.*
+
+* [dunit ![GitHub Repo Stars](https://img.shields.io/github/stars/nomad-software/dunit) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad-software/dunit)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+* [hunt ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+* [hunt-time ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-time) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-time)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
+* [hunt-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-validation)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
+* [collie ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/collie) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/collie)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+* [hunt-net ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-net) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-net)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
+* [hunt-http ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-http) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-http)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
+* [Hunt Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-framework)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
+* [grpc ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/grpc-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/grpc-dlang)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
+* [kissrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/kissrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/kissrpc)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
+* [hunt-gossip ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-gossip) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-gossip)](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
+* [hunt-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-cache)](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
+* [flatbuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/flatbuffers)](https://github.com/huntlabs/flatbuffers) - D Programming Language implementation of the google flatbuffers library.
+* [hunt-entity ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-entity) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-entity)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+* [hunt-database ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-database) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-database)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
+* [hunt-console ![GitHub Repo Stars](https://img.shields.io/github/stars/huntlabs/hunt-console) ![GitHub last commit](https://img.shields.io/github/last-commit/huntlabs/hunt-console)](https://github.com/huntlabs/hunt-console) - Hunt console creation easier to create powerful command-line applications. 
+* [DWT ![GitHub Repo Stars](https://img.shields.io/github/stars/d-widget-toolkit/dwt) ![GitHub last commit](https://img.shields.io/github/last-commit/d-widget-toolkit/dwt)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+* [LibUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Extrawurst/DerelictLibui) ![GitHub last commit](https://img.shields.io/github/last-commit/Extrawurst/DerelictLibui)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ![GitHub Repo Stars](https://img.shields.io/github/stars/andlabs/libui) ![GitHub last commit](https://img.shields.io/github/last-commit/andlabs/libui)](https://github.com/andlabs/libui)
