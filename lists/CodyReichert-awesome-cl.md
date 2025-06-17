@@ -492,7 +492,7 @@ XML
 ---
 
 * [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL][8].
-  - 👍 has an incremental parser, allowing to parse big files.
+  - �� has an incremental parser, allowing to parse big files.
   - see the [FXML ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/FXML) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/FXML)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 * [Plump][71] - A lenient XML parser. [zlib][33].
 * [parcom/xml ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/parcom) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/parcom)](https://github.com/fosskers/parcom) - An extension to `parcom` for simple, fast XML parsing.
