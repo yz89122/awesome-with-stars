@@ -1275,6 +1275,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Yu-Leo/blame-column.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/blame-column.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/blame-column.nvim)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 - [yutkat/git-rebase-auto-diff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim)](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
 - [Kohei-Wada/yadm-git.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kohei-Wada/yadm-git.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kohei-Wada/yadm-git.nvim)](https://github.com/Kohei-Wada/yadm-git.nvim) - Seamless Git plugin support for yadm dotfiles.
+- [axkirillov/unified.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/axkirillov/unified.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/axkirillov/unified.nvim)](https://github.com/axkirillov/unified.nvim) - Displaying inline unified diffs directly in your buffer.
 
 ### GitHub
 
