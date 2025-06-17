@@ -877,7 +877,7 @@ Royalty free music! Don't forget to check the license.
 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
-[The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) ��� - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
+[The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
 
 
 [So, you want to make a TTRPG?](https://thecoppercompendium.co.uk/so-you-want-to-make-a-ttrpg) 💠🟪 - A collection of resources for creating a TTRPG. Paper prototyping, anyone?
