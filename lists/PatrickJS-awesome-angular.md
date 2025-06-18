@@ -165,6 +165,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
 * [Angular talents](https://www.angulartalents.com/) - Angular talents empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
+* [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
 
 ##### Newsletters
 
@@ -767,6 +768,7 @@ become an Angular expert.
 * [active-connect ![GitHub Repo Stars](https://img.shields.io/github/stars/HiptJo/active-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/HiptJo/active-connect)](https://github.com/HiptJo/active-connect) - A powerful connection framework designed for smart web-based projects using Node.js, Angular, and WebSockets. It provides decorators and utilities to simplify the integration of Angular with a WebSocket server, making it easier to handle real-time communication between clients and the server.
 * [ngx-drupal8-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-drupal8-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-drupal8-rest)](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
 * [ngx-signal-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/JPtenBerge/ngx-signal-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/JPtenBerge/ngx-signal-pagination)](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
+* [ngx-http ![GitHub Repo Stars](https://img.shields.io/github/stars/OGS-GmbH/ngx-http) ![GitHub last commit](https://img.shields.io/github/last-commit/OGS-GmbH/ngx-http)](https://github.com/OGS-GmbH/ngx-http) - A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions.
 
 #### Integrations
 
