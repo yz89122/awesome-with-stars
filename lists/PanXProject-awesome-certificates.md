@@ -364,7 +364,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | ����|
+| [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | 🏆|
 | [JavaScript](https://www.hackerrank.com/skills-verification/javascript_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
