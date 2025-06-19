@@ -187,7 +187,7 @@ ______________________________________________________________________
 - [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
 - [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
 - [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
-- [Pok��mon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
+- [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
 - [Pokémon GO Pokédex ![GitHub Repo Stars](https://img.shields.io/github/stars/Biuni/PokemonGO-Pokedex) ![GitHub last commit](https://img.shields.io/github/last-commit/Biuni/PokemonGO-Pokedex)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
 - [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.

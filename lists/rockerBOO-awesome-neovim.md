@@ -540,7 +540,7 @@
 - [prichrd/netrw.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/prichrd/netrw.nvim)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 - [neotree-file-nesting-config ![GitHub Repo Stars](https://img.shields.io/github/stars/saifulapm/neotree-file-nesting-config) ![GitHub last commit](https://img.shields.io/github/last-commit/saifulapm/neotree-file-nesting-config)](https://github.com/saifulapm/neotree-file-nesting-config) - Pre-defined file nesting rules for `neo-tree.nvim`.
 - [Enigama/miss.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Enigama/miss.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Enigama/miss.nvim)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
-
+- [vodchella/hodur.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vodchella/hodur.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vodchella/hodur.nvim)](https://github.com/vodchella/hodur.nvim) - Allows you to quickly open a file or copy URL located under cursor.
 <!--lint disable double-link -->
 
 **[⬆ back to top](#contents)**
