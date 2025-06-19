@@ -103,7 +103,7 @@ AIMv2 is a family of generalist vision encoders that autoregressively generates 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.14402-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.14402)
 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/apple/ml-aim)
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/apple/aimv2-large-patch14-224)  
-Enrico Fini, Mustafa Shukor, David Haldimann, Sai Aitharaju, Alexander Toshev, Marcin Eichner, Moin Nabi, Xiujun Li, Philipp Dufter, Michal Klein, Victor G. Turrisi da Costa, Louis B��thune, Zhe Gan, Alaaeldin El-Nouby
+Enrico Fini, Mustafa Shukor, David Haldimann, Sai Aitharaju, Alexander Toshev, Marcin Eichner, Moin Nabi, Xiujun Li, Philipp Dufter, Michal Klein, Victor G. Turrisi da Costa, Louis Béthune, Zhe Gan, Alaaeldin El-Nouby
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c89a0be9-8743-4800-8d3c-ec51a4c99f4d" width="600"/> <!-- Replace with the actual URL -->
