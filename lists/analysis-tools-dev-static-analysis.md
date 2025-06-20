@@ -723,7 +723,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [hegel](https://hegel.js.org) :warning: — A static type checker for JavaScript with a bias on type inference and strong type systems.
 
-- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
+- [jshint](https://jshint.com/about) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) �� Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
 
 - [JSLint ![GitHub Repo Stars](https://img.shields.io/github/stars/douglascrockford/JSLint) ![GitHub last commit](https://img.shields.io/github/last-commit/douglascrockford/JSLint)](https://github.com/douglascrockford/JSLint) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — The JavaScript Code Quality Tool.
 
@@ -2290,7 +2290,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [slim-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/sds/slim-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/sds/slim-lint)](https://github.com/sds/slim-lint) — Configurable tool for analyzing Slim templates.
 
-- [yamllint](https://yamllint.readthedocs.io) ��� Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+- [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
 
 
 <a name="terraform" />
