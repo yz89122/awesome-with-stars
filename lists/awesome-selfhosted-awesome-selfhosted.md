@@ -1348,7 +1348,7 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 - [Rygel](https://gnome.pages.gitlab.gnome.org/rygel/) - UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `LGPL-2.1` `C`
 - [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/stashapp/stash) ![GitHub last commit](https://img.shields.io/github/last-commit/stashapp/stash)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 - [µStreamer ![GitHub Repo Stars](https://img.shields.io/github/stars/pikvm/ustreamer) ![GitHub last commit](https://img.shields.io/github/last-commit/pikvm/ustreamer)](https://github.com/pikvm/ustreamer) - Lightweight and very quick server to stream MJPEG video from any V4L2 device to the net. `GPL-3.0` `C/deb`
-- [üWave](https://u-wave.net/) `⚠` - Self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
+- [üWave](https://u-wave.net/) `⚠` - Self-hosted collaborative listening platform. Users take turns playing media���songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
 
 
 ### Media Streaming - Video Streaming
