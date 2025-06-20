@@ -255,7 +255,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Segment](https://segment.com) | [@segment](https://twitter.com/segment) | $29/mo - $349/mo | The right way to manage your tools. The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration. |
 | [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data. |
 | [Inspectlet](https://inspectlet.com) | - | $0/mo - $499/mo | Inspectlet records videos of your visitors as they use your site, allowing you to see everything they do. See every mouse movement, scroll, click, and keypress on your site. You never need to wonder how visitors are using your site again. |
-| [Plausible](https://plausible.io) | - | £6/mo - £150/mo / Free | Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Available as either a hosted SaaS version or self-hosted. |
+| [Plausible](https://plausible.io) | - | £6/mo - ��150/mo / Free | Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Available as either a hosted SaaS version or self-hosted. |
 
 ## Conversion Optimization & A/B Testing
 
