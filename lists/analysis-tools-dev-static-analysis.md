@@ -552,7 +552,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
-- [GolangCI-Lint](https://golangci-lint.run) — Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
+- [GolangCI-Lint](https://golangci-lint.run) ��� Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
 
 - [golint ![GitHub Repo Stars](https://img.shields.io/github/stars/golang/lint) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/lint)](https://github.com/golang/lint) — Prints out coding style mistakes in Go source code.
 
