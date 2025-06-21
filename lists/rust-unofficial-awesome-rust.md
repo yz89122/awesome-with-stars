@@ -1179,6 +1179,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * Science
   * [Axect/Peroxide ![GitHub Repo Stars](https://img.shields.io/github/stars/Axect/Peroxide) ![GitHub last commit](https://img.shields.io/github/last-commit/Axect/Peroxide)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
   * [cpmech/russell ![GitHub Repo Stars](https://img.shields.io/github/stars/cpmech/russell) ![GitHub last commit](https://img.shields.io/github/last-commit/cpmech/russell)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
+  * [Ryan-D-Gast/differential-equations ![GitHub Repo Stars](https://img.shields.io/github/stars/Ryan-D-Gast/differential-equations) ![GitHub last commit](https://img.shields.io/github/last-commit/Ryan-D-Gast/differential-equations)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations
 * Statrs
   * [statrs-dev/statrs ![GitHub Repo Stars](https://img.shields.io/github/stars/statrs-dev/statrs) ![GitHub last commit](https://img.shields.io/github/last-commit/statrs-dev/statrs)](https://github.com/statrs-dev/statrs) - Robust statistical computation library
 
