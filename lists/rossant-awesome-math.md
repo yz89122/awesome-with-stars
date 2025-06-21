@@ -339,7 +339,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 * 📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
-* ��� [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
+* 📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 * 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 * 📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
@@ -461,7 +461,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
 * 📝 [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 * 📝 [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
-* 📝 [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
+* �� [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
 * 📝 [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
 * 📝 [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
 
