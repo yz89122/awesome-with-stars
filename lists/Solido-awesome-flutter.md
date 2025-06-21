@@ -291,7 +291,7 @@ Meteo
 - [Firebase Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/FirebaseExtended/flutterfire) ![GitHub last commit](https://img.shields.io/github/last-commit/FirebaseExtended/flutterfire)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/Clancey/simple_auth) ![GitHub last commit](https://img.shields.io/github/last-commit/Clancey/simple_auth)](https://github.com/Clancey/simple_auth) [352⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
-- [Flutter AppAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_appauth) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_appauth)](https://github.com/MaikuB/flutter_appauth) [271���] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
+- [Flutter AppAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_appauth) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_appauth)](https://github.com/MaikuB/flutter_appauth) [271⭐] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### Text & Rich Content
 

@@ -1,6 +1,16 @@
-# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="NixOS">](https://nixos.org)
+# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<a href="https://nixos.org">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-white.png">
+    <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos.svg" align="right" width="250" alt="NixOS logo">
+  </picture>
+</a>
 
 > A curated list of the best resources in the Nix community.
+
+<br>
 
 [Nix ![GitHub Repo Stars](https://img.shields.io/github/stars/nixos/nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nixos/nix)](https://github.com/nixos/nix) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
@@ -120,7 +130,7 @@
 * [deadnix ![GitHub Repo Stars](https://img.shields.io/github/stars/astro/deadnix) ![GitHub last commit](https://img.shields.io/github/last-commit/astro/deadnix)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv ![GitHub Repo Stars](https://img.shields.io/github/stars/cachix/devenv) ![GitHub last commit](https://img.shields.io/github/last-commit/cachix/devenv)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 * [manix ![GitHub Repo Stars](https://img.shields.io/github/stars/mlvzk/manix) ![GitHub last commit](https://img.shields.io/github/last-commit/mlvzk/manix)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
-* [nh ![GitHub Repo Stars](https://img.shields.io/github/stars/viperML/nh) ![GitHub last commit](https://img.shields.io/github/last-commit/viperML/nh)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
+* [nh ![GitHub Repo Stars](https://img.shields.io/github/stars/viperML/nh) ![GitHub last commit](https://img.shields.io/github/last-commit/viperML/nh)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manager CLI using `nvd` and `nix-output-monitor`.
 * [nixfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixfmt)](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 * [nixpkgs-hammering ![GitHub Repo Stars](https://img.shields.io/github/stars/jtojnar/nixpkgs-hammering) ![GitHub last commit](https://img.shields.io/github/last-commit/jtojnar/nixpkgs-hammering)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 * [nix-alien ![GitHub Repo Stars](https://img.shields.io/github/stars/thiagokokada/nix-alien) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagokokada/nix-alien)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
