@@ -561,6 +561,8 @@ become an Angular expert.
 * [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - A powerful NPM library designed to simplify session management and authentication in web applications. Whether you're working with React, Angular, or Vue, [HexaEight Sessions](https://docs.hexaeight.com/HexaEight-Sessions/003-HexaEightSessions/) provides an intuitive interface for managing user sessions efficiently.
 * [frontegg-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/frontegg/frontegg-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/frontegg/frontegg-angular)](https://github.com/frontegg/frontegg-angular) - [Frontegg](https://frontegg.com) is a web platform where SaaS companies can set up their fully managed, scalable, and brand-aware SaaS features and integrate them into their SaaS portals in up to 5 lines of code. Quickly integrate Frontegg’s login box with this [quickstart guide](https://developers.frontegg.com/sdks/frontend/angular/hosted-login).
 * [witspry-auth-ng-client ![GitHub Repo Stars](https://img.shields.io/github/stars/satya-jugran/witspry-auth-ng-client) ![GitHub last commit](https://img.shields.io/github/last-commit/satya-jugran/witspry-auth-ng-client)](https://github.com/satya-jugran/witspry-auth-ng-client) - A comprehensive Angular library for OAuth2 authentication with PKCE (Proof Key for Code Exchange) support.
+* [otp-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/subha-patra/otp-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/subha-patra/otp-angular)](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
+* [@serhiisol/ngx-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/serhiisol/ngx-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/serhiisol/ngx-auth)](https://github.com/serhiisol/ngx-auth) - Angular 20+ Authentication Module.
 
 #### Builders
 
@@ -673,6 +675,7 @@ become an Angular expert.
 * [angular-http-server ![GitHub Repo Stars](https://img.shields.io/github/stars/simonh1000/angular-http-server) ![GitHub last commit](https://img.shields.io/github/last-commit/simonh1000/angular-http-server)](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
 * [angular file generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation. Create components, services, modules, and more with just a few clicks - compatible with Angular 16-20.
 * [sonda ![GitHub Repo Stars](https://img.shields.io/github/stars/filipsobol/sonda) ![GitHub last commit](https://img.shields.io/github/last-commit/filipsobol/sonda)](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
+* [angular schematics pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
 
 #### Documentation tools
 
@@ -774,6 +777,7 @@ become an Angular expert.
 * [ngx-drupal8-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-drupal8-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-drupal8-rest)](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
 * [ngx-signal-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/JPtenBerge/ngx-signal-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/JPtenBerge/ngx-signal-pagination)](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
 * [ngx-http ![GitHub Repo Stars](https://img.shields.io/github/stars/OGS-GmbH/ngx-http) ![GitHub last commit](https://img.shields.io/github/last-commit/OGS-GmbH/ngx-http)](https://github.com/OGS-GmbH/ngx-http) - A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions.
+* [@angular-experts-io/resource ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/resource) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/resource)](https://github.com/angular-experts-io/resource) - The missing create, update, delete (CUD) support for Angular resource.
 
 #### Integrations
 
