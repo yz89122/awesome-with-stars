@@ -672,6 +672,7 @@ become an Angular expert.
 * [ngx-unused ![GitHub Repo Stars](https://img.shields.io/github/stars/wgrabowski/ngx-unused) ![GitHub last commit](https://img.shields.io/github/last-commit/wgrabowski/ngx-unused)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 * [angular-http-server ![GitHub Repo Stars](https://img.shields.io/github/stars/simonh1000/angular-http-server) ![GitHub last commit](https://img.shields.io/github/last-commit/simonh1000/angular-http-server)](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
 * [angular file generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation. Create components, services, modules, and more with just a few clicks - compatible with Angular 16-20.
+* [sonda ![GitHub Repo Stars](https://img.shields.io/github/stars/filipsobol/sonda) ![GitHub last commit](https://img.shields.io/github/last-commit/filipsobol/sonda)](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
 
 #### Documentation tools
 
@@ -887,6 +888,7 @@ become an Angular expert.
 * [ngx-translate-cut ![GitHub Repo Stars](https://img.shields.io/github/stars/bartholomej/ngx-translate-cut) ![GitHub last commit](https://img.shields.io/github/last-commit/bartholomej/ngx-translate-cut)](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
 * [ngx-signal-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/yagcioe/ngx-signal-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/yagcioe/ngx-signal-i18n)](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. It is compatible with zoneless Angular.
 * [@OGS-GmbH/ngx-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/OGS-GmbH/ngx-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/OGS-GmbH/ngx-translate)](https://github.com/OGS-GmbH/ngx-translate) - A lightweight, REST-based Angular i18n library designed for seamless internationalization with minimal setup. It supports dynamic language switching & flexible translation management via RESTful APIs.
+* [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
 
 #### Module Federation
 
@@ -1376,6 +1378,7 @@ become an Angular expert.
 * [ng-dynamic-component ![GitHub Repo Stars](https://img.shields.io/github/stars/gund/ng-dynamic-component) ![GitHub last commit](https://img.shields.io/github/last-commit/gund/ng-dynamic-component)](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
 * [ngx-pipe-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/mofirojean/ngx-pipe-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/mofirojean/ngx-pipe-lib)](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
 * [pyno-date ![GitHub Repo Stars](https://img.shields.io/github/stars/amirhsnf/pyno-date) ![GitHub last commit](https://img.shields.io/github/last-commit/amirhsnf/pyno-date)](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
+* [ngx-fittext ![GitHub Repo Stars](https://img.shields.io/github/stars/7kasper/ngx-fittext) ![GitHub last commit](https://img.shields.io/github/last-commit/7kasper/ngx-fittext)](https://github.com/7kasper/ngx-fittext) - An Angular library that allows you fit text in a box or a line.
 
 #### Drag and Drop
 
@@ -1622,6 +1625,7 @@ to simplify usage and allow quick customization.
 * [red-zoom-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/scompiler/red-zoom-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/scompiler/red-zoom-angular)](https://github.com/scompiler/red-zoom-angular) - A sleek and user-friendly image zoom library, designed as an Angular directive and fully customizable with CSS and SCSS.
 * [ngx-pinch-zoom ![GitHub Repo Stars](https://img.shields.io/github/stars/medDV-GmbH/ngx-pinch-zoom) ![GitHub last commit](https://img.shields.io/github/last-commit/medDV-GmbH/ngx-pinch-zoom)](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
 * [ngx-broken-img ![GitHub Repo Stars](https://img.shields.io/github/stars/andreagrossetti/ngx-broken-img) ![GitHub last commit](https://img.shields.io/github/last-commit/andreagrossetti/ngx-broken-img)](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
+* [ngx-lightbox ![GitHub Repo Stars](https://img.shields.io/github/stars/jjmhalew/ngx-lightbox) ![GitHub last commit](https://img.shields.io/github/last-commit/jjmhalew/ngx-lightbox)](https://github.com/jjmhalew/ngx-lightbox) - A [lightbox2 ![GitHub Repo Stars](https://img.shields.io/github/stars/lokesh/lightbox2) ![GitHub last commit](https://img.shields.io/github/last-commit/lokesh/lightbox2)](https://github.com/lokesh/lightbox2) implementation port to use with Angular >= 18 (zoneless).
 
 #### Keyboard Mouse
 
@@ -1740,6 +1744,7 @@ to simplify usage and allow quick customization.
 * [velt](https://velt.dev/) - Add AI powered collaboration features ridiculously fast.
 * [cometchat-uikit-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/cometchat/cometchat-uikit-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/cometchat/cometchat-uikit-angular)](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
 * [@poseclop/ngx-video-player](https://www.npmjs.com/package/@poseclop/ngx-video-player) - A lightweight video player component that emulates YouTube.
+* [ngx-lite-video-v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/KSmp/ngx-lite-video) ![GitHub last commit](https://img.shields.io/github/last-commit/KSmp/ngx-lite-video)](https://github.com/KSmp/ngx-lite-video) - An updated fork of [ngx-lite-video ![GitHub Repo Stars](https://img.shields.io/github/stars/karim-mamdouh/ngx-lite-video) ![GitHub last commit](https://img.shields.io/github/last-commit/karim-mamdouh/ngx-lite-video)](https://github.com/karim-mamdouh/ngx-lite-video), an Angular package that provides lazy loading capabilities for embedded iframes from popular video-sharing platforms like YouTube and Vimeo.
 
 #### Mixed utilities
 
