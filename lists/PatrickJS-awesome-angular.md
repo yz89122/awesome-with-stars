@@ -2065,6 +2065,7 @@ to simplify usage and allow quick customization.
 * [Blueprint UI](https://blueprintui.dev/) - Accelerate your development with flexible UI components and tools that work everywhere.
 * [@jean-merelis/angular-components ![GitHub Repo Stars](https://img.shields.io/github/stars/jean-merelis/angular-components) ![GitHub last commit](https://img.shields.io/github/last-commit/jean-merelis/angular-components)](https://github.com/jean-merelis/angular-components) - A library of reusable Angular components and utilities that provides high-quality UI elements for your applications.
 * [mantic-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/KY-Programming/mantic-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/KY-Programming/mantic-ui)](https://github.com/KY-Programming/mantic-ui) - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
+* [kage-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/sanjib-kumar-mandal/kage-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/sanjib-kumar-mandal/kage-ui)](https://github.com/sanjib-kumar-mandal/kage-ui) - A lightweight, flexible Angular component library inspired by border-first design systems. It offers a clean set of reusable UI components to help developers build scalable and consistent user interfaces effortlessly.
 
 ##### Material Based
 
