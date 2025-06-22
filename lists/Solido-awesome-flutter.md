@@ -304,7 +304,7 @@ Meteo
 
 ### Forms
 - [Form Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/danvick/flutter_form_builder) ![GitHub last commit](https://img.shields.io/github/last-commit/danvick/flutter_form_builder)](https://github.com/danvick/flutter_form_builder) [1480⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
-- [Reactive Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/joanpablo/reactive_forms) ![GitHub last commit](https://img.shields.io/github/last-commit/joanpablo/reactive_forms)](https://github.com/joanpablo/reactive_forms) [467⭐] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
+- [Reactive Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/joanpablo/reactive_forms) ![GitHub last commit](https://img.shields.io/github/last-commit/joanpablo/reactive_forms)](https://github.com/joanpablo/reactive_forms) [467��] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ### Analytics
 
