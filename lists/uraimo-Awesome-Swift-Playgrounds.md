@@ -233,7 +233,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Metal
 
 * [Metalbrot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtbandes/metalbrot-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jtbandes/metalbrot-playground)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
-* [METAL Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/haawa799/METAL_Playground) ![GitHub last commit](https://img.shields.io/github/last-commit/haawa799/METAL_Playground)](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟 ⏳
+* [METAL Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/haawa799/METAL_Playground) ![GitHub last commit](https://img.shields.io/github/last-commit/haawa799/METAL_Playground)](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟 ���
 
 ### Animations
 

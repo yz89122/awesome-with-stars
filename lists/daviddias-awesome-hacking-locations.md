@@ -972,7 +972,7 @@ Webpage: http://www.novaarcada.pt/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
+��� | ✔ | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
 
 ## Guimarães
 
@@ -1052,7 +1052,7 @@ Webpage: http://4sq.com/1dQaY6h
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
+✘ | ��� | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
 #### Montana Lisboa Café
 
@@ -1333,7 +1333,7 @@ See https://github.com/otobrglez/awesome-workplaces-slovenia
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# South Korea 🇰🇷
+# South Korea 🇰���
 
 ## Seoul
 
