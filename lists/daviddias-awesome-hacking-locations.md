@@ -589,7 +589,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# India 🇮🇳
+# India 🇮��
 
 ## Hyderabad
 
@@ -704,7 +704,7 @@ Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9��21
+✔ | ✔ | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9–21
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1333,7 +1333,7 @@ See https://github.com/otobrglez/awesome-workplaces-slovenia
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# South Korea 🇰🇷
+# South Korea 🇰����
 
 ## Seoul
 
