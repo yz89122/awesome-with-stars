@@ -259,6 +259,7 @@
 - [lakeFS ![GitHub Repo Stars](https://img.shields.io/github/stars/treeverse/lakeFS) ![GitHub last commit](https://img.shields.io/github/last-commit/treeverse/lakeFS)](https://github.com/treeverse/lakeFS) - lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes.
 - [Project Nessie ![GitHub Repo Stars](https://img.shields.io/github/stars/projectnessie/nessie) ![GitHub last commit](https://img.shields.io/github/last-commit/projectnessie/nessie)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
 - [Ilum](https://ilum.cloud/) - Ilum is a modular Data Lakehouse platform that simplifies the management and monitoring of Apache Spark clusters across Kubernetes and Hadoop environments.
+- [Gravitino ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/gravitino) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/gravitino)](https://github.com/apache/gravitino) - Gravitino is an open-source, unified metadata management for data lakes, data warehouses, and external catalogs. 
 
 ## ELK Elastic Logstash Kibana
 
