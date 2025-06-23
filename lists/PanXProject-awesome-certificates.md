@@ -236,7 +236,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco Networking Academy |Intermediate| 70 |🏆|
 | [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) | Saylor Academy |Professional|120 | 🏆|
 
-[���️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Electrical Engineering
