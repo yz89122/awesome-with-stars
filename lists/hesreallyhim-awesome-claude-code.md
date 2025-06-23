@@ -115,6 +115,14 @@ A task management system for AI-driven development with Claude, designed to work
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) by [dagger](https://github.com/dagger)  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
+### IDE Integrations
+
+[`claude-code.el` ![GitHub Repo Stars](https://img.shields.io/github/stars/stevemolitor/claude-code.el) ![GitHub last commit](https://img.shields.io/github/last-commit/stevemolitor/claude-code.el)](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor)  
+An Emacs interface for Claude Code CLI.
+
+[`claude-code.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/greggh/claude-code.nvim)](https://github.com/greggh/claude-code.nvim) by [greggh](https://github.com/greggh)  
+A seamless integration between Claude Code AI assistant and Neovim.
+
 <br>
 
 ## Slash-Commands
