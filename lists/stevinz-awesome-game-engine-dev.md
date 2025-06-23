@@ -342,7 +342,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Cglm ![GitHub Repo Stars](https://img.shields.io/github/stars/recp/cglm) ![GitHub last commit](https://img.shields.io/github/last-commit/recp/cglm)](https://github.com/recp/cglm) - Highly optimized OpenGL math.
     - ⭐ [Handmade Math ![GitHub Repo Stars](https://img.shields.io/github/stars/HandmadeMath/Handmade-Math) ![GitHub last commit](https://img.shields.io/github/last-commit/HandmadeMath/Handmade-Math)](https://github.com/HandmadeMath/Handmade-Math) 🔥 - Simple, public domain math library for games and computer graphics.
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
-    - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
+    - ���� [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
 - C: Physics
@@ -568,7 +568,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### C#
 - 📚 [Dot Net Perls](https://www.dotnetperls.com) - Reference for the C# language.
 - C#: App Framework
-    - 🎉 [ATF ![GitHub Repo Stars](https://img.shields.io/github/stars/SonyWWS/ATF) ![GitHub last commit](https://img.shields.io/github/last-commit/SonyWWS/ATF)](https://github.com/SonyWWS/ATF) - Components for making tools on Windows, started in 2005.
+    - ���� [ATF ![GitHub Repo Stars](https://img.shields.io/github/stars/SonyWWS/ATF) ![GitHub last commit](https://img.shields.io/github/last-commit/SonyWWS/ATF)](https://github.com/SonyWWS/ATF) - Components for making tools on Windows, started in 2005.
 - C#: Audio
     - 🎉 [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
