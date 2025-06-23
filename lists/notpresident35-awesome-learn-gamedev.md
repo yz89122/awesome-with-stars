@@ -499,7 +499,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) 💠🟪 - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
-[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) 🟪 - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
+[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) �� - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
