@@ -1831,7 +1831,7 @@ Revision:  v1.0
 gitu://ŪĪАϔEäḝЃȣϟṈӛŀї
 
 $ git url -q -p lib/common.sh	# -q - quiet, -p - path
-gitu://eḶȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
+gitu://e���ȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
 
 $ git url //eḶȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
 Decoding... OUTPUT is:
