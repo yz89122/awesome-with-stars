@@ -205,7 +205,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - [GMEXT-FMOD ![GitHub Repo Stars](https://img.shields.io/github/stars/YoYoGames/GMEXT-FMOD) ![GitHub last commit](https://img.shields.io/github/last-commit/YoYoGames/GMEXT-FMOD)](https://github.com/YoYoGames/GMEXT-FMOD) - Official support for FMOD in GameMaker.
 - [FML ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikkilae/fml) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikkilae/fml)](https://github.com/Nikkilae/fml) - GameMaker bindings for the FMOD Studio API.
-- [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. ���
+- [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
 - [wavload ![GitHub Repo Stars](https://img.shields.io/github/stars/nkrapivin/wavload) ![GitHub last commit](https://img.shields.io/github/last-commit/nkrapivin/wavload)](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 - [audioExt ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/audioExt) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/audioExt)](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
 - [ExternalAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/NuxiiGit/ExternalAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/NuxiiGit/ExternalAudio)](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
