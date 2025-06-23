@@ -1374,7 +1374,7 @@ Webpage: http://federalcafe.es/barcelona-gotic/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
-✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+✔ | ��� | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
 
 #### Frenesi Cafe
 
