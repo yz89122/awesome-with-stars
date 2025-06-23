@@ -465,7 +465,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [esy ![GitHub Repo Stars](https://img.shields.io/github/stars/esy/esy) ![GitHub last commit](https://img.shields.io/github/last-commit/esy/esy)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 - **Build Tools**:
-  - [dune ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml/dune) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml/dune)](https://github.com/ocaml/dune) ��� A composable and opinionated build system for OCaml (former jbuilder)
+  - [dune ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml/dune) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml/dune)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
     - [oasis2opam ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml/oasis2opam) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml/oasis2opam)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
   - [obuild ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-obuild/obuild) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-obuild/obuild)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
