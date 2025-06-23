@@ -181,7 +181,7 @@ http://oleg.fi/graafi/
 
 ### Debugging
 
-* [**cyclejs/cycle-time-travel ���213** ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclejs/cycle-time-travel) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs/cycle-time-travel)](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time.
+* [**cyclejs/cycle-time-travel ★213** ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclejs/cycle-time-travel) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs/cycle-time-travel)](https://github.com/cyclejs/cycle-time-travel) - A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time.
 
 ### Components
 

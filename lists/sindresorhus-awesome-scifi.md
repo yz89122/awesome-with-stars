@@ -231,7 +231,7 @@ This book will teach you to stretch your imagination and see things in a differe
   > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 </details>
 
-#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) _by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)_ [4.0] �� 🔥
+#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) _by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)_ [4.0] 🌟 🔥
 
 This book is often given to high school students, but stands up well as an adult read. I think the best part about it is what Charlie does once he starts being intelligent; he suddenly likes art and making things and scientific theory. I think the altruism and openness of that time shows that the experiment, such as it was, didn't change everything. It's fun to think about. Also, this book made me cry the first time I read it. I was 25. - [@RichardLitt](https://github.com/RichardLitt)
 

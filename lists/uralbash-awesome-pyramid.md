@@ -421,7 +421,7 @@ provide new storage backends.*
 * [cluegun ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/cluegun) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/cluegun)](https://github.com/Pylons/cluegun) - A simple pastebin application
   based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
   the use of ZODB within a Pyramid application.
-* [shootout ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/shootout) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/shootout)](https://github.com/Pylons/shootout) - An example “idea
+* [shootout ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/shootout) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/shootout)](https://github.com/Pylons/shootout) - An example ���idea
   competition” application by Carlos de la Guardia and Lukasz Fidosz. It
   demonstrates URL dispatch, simple authentication, integration with SQLAlchemy
   and pyramid_simpleform.

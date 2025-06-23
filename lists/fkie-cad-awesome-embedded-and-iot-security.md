@@ -174,7 +174,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 <!--lint ignore no-repeat-punctuation-->
 
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
-- [Cracking Linksys “Encryption���](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
+- [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
 - [Dumping firmware from a device's SPI flash with a buspirate](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
