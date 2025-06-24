@@ -497,6 +497,7 @@ become an Angular expert.
 * [agent-rules-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnomanu/agent-rules-kit)](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 * [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
 * [CodeSage AI ![GitHub Repo Stars](https://img.shields.io/github/stars/kd-akshay/code-quality-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-akshay/code-quality-analyzer)](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
+* [angular-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/SAIPRANAY-GANGULA/angular-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/SAIPRANAY-GANGULA/angular-mcp-server)](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - A Model Context Protocol (MCP) server that provides comprehensive access to Angular documentation, enabling AI assistants to search and retrieve Angular-related information with intelligent relevance scoring.
 
 #### Analytics
 
@@ -610,6 +611,7 @@ become an Angular expert.
 * [nest-schematics ![GitHub Repo Stars](https://img.shields.io/github/stars/lcasass3/nest-schematics) ![GitHub last commit](https://img.shields.io/github/last-commit/lcasass3/nest-schematics)](https://github.com/lcasass3/nest-schematics) - A powerful Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules following hexagonal architecture principles in NestJS applications.
 * [dotairc ![GitHub Repo Stars](https://img.shields.io/github/stars/elecash/dotairc) ![GitHub last commit](https://img.shields.io/github/last-commit/elecash/dotairc)](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [lin ![GitHub Repo Stars](https://img.shields.io/github/stars/yuo-app/lin) ![GitHub last commit](https://img.shields.io/github/last-commit/yuo-app/lin)](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
+* [ngx-i18n-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/pratiksonone/ngx-i18n-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/pratiksonone/ngx-i18n-scan)](https://github.com/pratiksonone/ngx-i18n-scan) - A powerful CLI tool for scanning Angular source code and managing i18n translation keys. It automatically extracts keys from your project and keeps your translation files (like en.json) clean and updated.
 
 #### Deployment
 
@@ -780,6 +782,7 @@ become an Angular expert.
 * [ngx-http ![GitHub Repo Stars](https://img.shields.io/github/stars/OGS-GmbH/ngx-http) ![GitHub last commit](https://img.shields.io/github/last-commit/OGS-GmbH/ngx-http)](https://github.com/OGS-GmbH/ngx-http) - A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions.
 * [@angular-experts-io/resource ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/resource) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/resource)](https://github.com/angular-experts-io/resource) - The missing create, update, delete (CUD) support for Angular resource.
 * [ng-speed-test ![GitHub Repo Stars](https://img.shields.io/github/stars/jrquick17/ng-speed-test) ![GitHub last commit](https://img.shields.io/github/last-commit/jrquick17/ng-speed-test)](https://github.com/jrquick17/ng-speed-test) - A light weight Angular 2+ library for checking internet speed.
+* [ngx-http-resilience ![GitHub Repo Stars](https://img.shields.io/github/stars/ebh/ngx-http-resilience) ![GitHub last commit](https://img.shields.io/github/last-commit/ebh/ngx-http-resilience)](https://github.com/ebh/ngx-http-resilience) - Angular HttpInterceptors that provide resiliency capabilities.
 
 #### Integrations
 
