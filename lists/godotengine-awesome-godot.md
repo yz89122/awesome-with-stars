@@ -269,7 +269,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 3
 
-- [2D Day/Night Cycle ![GitHub Repo Stars](https://img.shields.io/github/stars/hiulit/Godot-3-2D-Day-Night-Cycle) ![GitHub last commit](https://img.shields.io/github/last-commit/hiulit/Godot-3-2D-Day-Night-Cycle)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / �� Night cycle for 2D.
+- [2D Day/Night Cycle ![GitHub Repo Stars](https://img.shields.io/github/stars/hiulit/Godot-3-2D-Day-Night-Cycle) ![GitHub last commit](https://img.shields.io/github/last-commit/hiulit/Godot-3-2D-Day-Night-Cycle)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
 - [2D Destructible Objects ![GitHub Repo Stars](https://img.shields.io/github/stars/hiulit/Godot-3-2D-Destructible-Objects) ![GitHub last commit](https://img.shields.io/github/last-commit/hiulit/Godot-3-2D-Destructible-Objects)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥.
 - [Anima ![GitHub Repo Stars](https://img.shields.io/github/stars/ceceppa/anima) ![GitHub last commit](https://img.shields.io/github/last-commit/ceceppa/anima)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween.
 - [AutoColliders ![GitHub Repo Stars](https://img.shields.io/github/stars/graycastle/godot-AutoColliders) ![GitHub last commit](https://img.shields.io/github/last-commit/graycastle/godot-AutoColliders)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future.
