@@ -635,7 +635,7 @@ Webpage: http://www.trunkcoffee.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月��木／9:30-21:00　金／9:30-22:00
+✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
 　土／9:00-22:00　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
@@ -1259,7 +1259,7 @@ Webpage: http://www.cafevitoria.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm ��� 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 

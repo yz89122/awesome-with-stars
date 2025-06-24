@@ -26,7 +26,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 - [Compatibility](#compatibility)
 - [Scripts](#scripts)
-  - [Ad blockers](#-ad-blockers)
+  - [Ad blocking](#-ad-blocking)
   - [Amazon](#-amazon)
   - [Brave](#-brave)
   - [ChatGPT](#-chatgpt)
@@ -489,7 +489,27 @@ Userscripts can be used w/ the following browsers:
 > [!TIP]  
 > To show screenshots/links, click the ▸ or userscript descriptions.
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blockers
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blocking
+
+<details> <!-- AdGuard Extra -->
+    <summary><a href="https://github.com/AdguardTeam/AdGuardExtra">AdGuard Extra</a> - Fight ad blocking circumvention attempts.</summary><br>
+    <blockquote>
+        <a href="https://github.com/AdguardTeam/AdGuardExtra">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@5d22849/assets/images/screenshots/scripts/adguard-extra.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js">
+            Install Stable Build</a> /
+        💾 <a href="https://userscripts.adtidy.org/beta/adguard-extra/1.0/adguard-extra.user.js">
+            Install Beta Build</a> /
+        📖 <a href="https://github.com/AdguardTeam/AdGuardExtra/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/AdguardTeam/AdGuardExtra/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/AdguardTeam/AdGuardExtra/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- AdsBypasser -->
     <summary><a href="https://adsbypasser.github.io">AdsBypasser</a> - Bypass Ads, Popups and count-down ads.</summary><br>
@@ -525,6 +545,24 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Simple Sponsor Skipper -->
+    <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors and filler using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/screenshots/scripts/simple-sponsor-skipper.png?v=96092ef"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            Readme</a> /
+        📢 <a href="https://codeberg.org/mthsk/userscripts/issues">
+            Discuss</a> /
+        🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -614,7 +652,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
         <a href="https://www.autoclearchatgpt.com">
-            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=69b726a"></a>
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=a5284cb"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.autoclearchatgpt.com">
@@ -1263,7 +1301,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
         <a href="https://www.autoclearchatgpt.com">
-            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=69b726a"></a>
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=a5284cb"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.autoclearchatgpt.com">
@@ -1359,6 +1397,24 @@ Userscripts can be used w/ the following browsers:
 
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
+
+<details> <!-- Simple Sponsor Skipper -->
+    <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors & filler using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/screenshots/scripts/simple-sponsor-skipper.png?v=96092ef"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            Readme</a> /
+        📢 <a href="https://codeberg.org/mthsk/userscripts/issues">
+            Discuss</a> /
+        🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- YouTube Classic -->
     <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
