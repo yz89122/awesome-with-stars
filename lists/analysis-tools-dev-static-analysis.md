@@ -339,7 +339,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
 
-- [ENRE-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/xjtu-enre/ENRE-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/xjtu-enre/ENRE-cpp)](https://github.com/xjtu-enre/ENRE-cpp) — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-cpp is a ENtity Relationship Extractor for C/C++ based on @eclipse/CDT. (Under development)
+- [ENRE-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/xjtu-enre/ENRE-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/xjtu-enre/ENRE-cpp)](https://github.com/xjtu-enre/ENRE-cpp) ��� ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-cpp is a ENtity Relationship Extractor for C/C++ based on @eclipse/CDT. (Under development)
 
 - [ESBMC](http://esbmc.org) — ESBMC is an open source, permissively licensed, context-bounded model checker based on satisfiability modulo theories for the verification of single- and multi-threaded C/C++ programs.
 
