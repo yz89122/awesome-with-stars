@@ -58,6 +58,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [legit](https://morr.cc/legit) - Programs defined entirely by the graph of the git repository instead of its contents.
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 * [Malbolge](https://esolangs.org/wiki/Malbolge) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
+* [Mindfck ![GitHub Repo Stars](https://img.shields.io/github/stars/angrykoala/mindfck) ![GitHub last commit](https://img.shields.io/github/last-commit/angrykoala/mindfck)](https://github.com/angrykoala/mindfck) - High level language that transpiles to Brainfuck.
 * [Monicelli ![GitHub Repo Stars](https://img.shields.io/github/stars/esseks/monicelli) ![GitHub last commit](https://img.shields.io/github/last-commit/esseks/monicelli)](https://github.com/esseks/monicelli) - Programming using Italian-like gibberish.
 * [Ni ![GitHub Repo Stars](https://img.shields.io/github/stars/DeybisMelendez/ni) ![GitHub last commit](https://img.shields.io/github/last-commit/DeybisMelendez/ni)](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
@@ -68,6 +69,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [reMorse](http://esolangs.org/wiki/reMorse) - Morse-styled language.
 * [Rockstar ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanbeattie/rockstar) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanbeattie/rockstar)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
+* [Schoenberg](https://tomeraberba.ch/schoenberg) - The MIDI Esoteric Programming Language.
 * [Spooky](https://spookylang.com) - The scariest programming language  :jack_o_lantern: :skull:.
 * [Suzy ![GitHub Repo Stars](https://img.shields.io/github/stars/gvx/suzy) ![GitHub last commit](https://img.shields.io/github/last-commit/gvx/suzy)](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 * [Technologic](https://esolangs.org/wiki/Technologic) - Language in which programs look like the lyrics to the Daft Punk song Technologic.
