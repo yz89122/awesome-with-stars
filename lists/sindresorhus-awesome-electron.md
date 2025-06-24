@@ -293,7 +293,7 @@ Made with Electron.
 
 ## Books
 
-- [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) ����
+- [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
 - [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
 - [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
@@ -309,7 +309,7 @@ Made with Electron.
 - [Building Desktop Apps with Node.js and Electron](https://www.youtube.com/watch?v=rbSvc8_BHaw)
 - [Electron Fundamentals course - Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals) 💲
 - [Electron: Building Cross Platform Desktop Apps - Lynda](https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html) 💲
-- [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) ��
+- [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 💲
 - [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - Includes some good talks on improving app startup time, debugging crashes, etc.
 - [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - Tips on making your app feel more native on macOS, Windows, and Linux without sacrificing your own style.

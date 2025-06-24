@@ -1358,7 +1358,7 @@ $ git my
 ```
 $ git ink
 
-��� enqueue-gpt ........................................... 2015-08-31
+• enqueue-gpt ........................................... 2015-08-31
 • factor-bundles ........................................ 2015-10-14
     - Pull out more modules into node_modules
     - Works but does not provide any gains

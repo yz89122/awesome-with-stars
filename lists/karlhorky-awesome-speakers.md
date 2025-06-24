@@ -1569,7 +1569,7 @@ https://twitter.com/ninjanails
 
 # North America
 
-## Canada 🇨���
+## Canada 🇨🇦
 
 ### Hamilton
 
