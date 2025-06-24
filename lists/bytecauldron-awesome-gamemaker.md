@@ -123,6 +123,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [ArrayList ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/ArrayList.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/ArrayList.gml)](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [GM Sysinfo ![GitHub Repo Stars](https://img.shields.io/github/stars/SpikeHD/gm-sysinfo) ![GitHub last commit](https://img.shields.io/github/last-commit/SpikeHD/gm-sysinfo)](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
 - [BSONGML ![GitHub Repo Stars](https://img.shields.io/github/stars/LAGameStudio/BSONGML) ![GitHub last commit](https://img.shields.io/github/last-commit/LAGameStudio/BSONGML)](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
+- [GML-Multiprocessing ![GitHub Repo Stars](https://img.shields.io/github/stars/tinkerer-red/GML-Multiprocessing) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkerer-red/GML-Multiprocessing)](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 
 ## Debugging
 
