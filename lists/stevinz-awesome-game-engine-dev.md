@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - �� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -310,7 +310,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
     - 🎉 [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
 - C: Geometry
-    - 🎉 [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
+    - �� [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
     - 🎉 [Marching Squares ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_msquares.h) - Convert images into triangles. [[Info](https://prideout.net/marching-squares)]
     - 🎉 [Octasphere ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_octasphere.h) - Generates triangle meshes for spheres, boxes, and capsules. [[Info](https://prideout.net/blog/octasphere/)]
     - 🎉 [Par_Shapes ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_shapes.h) - Triangle meshes including solids, spheres and more. [[Info](https://prideout.net/shapes)]
@@ -472,7 +472,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/strah19/Ember) ![GitHub last commit](https://img.shields.io/github/last-commit/strah19/Ember)](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
     - 🎉 [Filament ![GitHub Repo Stars](https://img.shields.io/github/stars/google/filament) ![GitHub last commit](https://img.shields.io/github/last-commit/google/filament)](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by _Google_.
     - 🎉 [Forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ConfettiFX/The-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ConfettiFX/The-Forge)](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
-    - ���� [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.
+    - 🎉 [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.
     - 🎉 [Intermediate Graphics Library (IGL) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/igl) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/igl)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/LLGL) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/LLGL)](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mosra/magnum) ![GitHub last commit](https://img.shields.io/github/last-commit/mosra/magnum)](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
