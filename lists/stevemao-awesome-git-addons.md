@@ -1358,14 +1358,14 @@ $ git my
 ```
 $ git ink
 
-• enqueue-gpt ........................................... 2015-08-31
+��� enqueue-gpt ........................................... 2015-08-31
 • factor-bundles ........................................ 2015-10-14
     - Pull out more modules into node_modules
     - Works but does not provide any gains
 • hbsfy ................................................. 2015-10-21
 ✓ master ................................................ 2015-10-22
 • nda-ads4 .............................................. 2015-10-22
-�� remove-equalize_content_height ........................ 2015-10-21
+• remove-equalize_content_height ........................ 2015-10-21
 • remove-exorcise ....................................... 2015-10-21
     - Need to DRY up exorcise function
     - Does not map properly when uglified
