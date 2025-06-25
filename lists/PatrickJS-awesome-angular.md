@@ -565,6 +565,7 @@ become an Angular expert.
 * [witspry-auth-ng-client ![GitHub Repo Stars](https://img.shields.io/github/stars/satya-jugran/witspry-auth-ng-client) ![GitHub last commit](https://img.shields.io/github/last-commit/satya-jugran/witspry-auth-ng-client)](https://github.com/satya-jugran/witspry-auth-ng-client) - A comprehensive Angular library for OAuth2 authentication with PKCE (Proof Key for Code Exchange) support.
 * [otp-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/subha-patra/otp-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/subha-patra/otp-angular)](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
 * [@serhiisol/ngx-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/serhiisol/ngx-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/serhiisol/ngx-auth)](https://github.com/serhiisol/ngx-auth) - Angular 20+ Authentication Module.
+* [ngx-smart-permissions ![GitHub Repo Stars](https://img.shields.io/github/stars/rami-sheikha-dev/ngx-smart-permissions) ![GitHub last commit](https://img.shields.io/github/last-commit/rami-sheikha-dev/ngx-smart-permissions)](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight library for managing role-based and permission-based access control in Angular applications. Supports both standalone components and NgModules.
 
 #### Builders
 
