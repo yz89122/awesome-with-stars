@@ -79,7 +79,7 @@ This project lists books and other resources grouped by genres:
 
 #### Other Languages
 
-+ [Arabic / al arabiya / ال��ربية](books/free-programming-books-ar.md)
++ [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
 + [Armenian / Հայերեն](books/free-programming-books-hy.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
 + [Bengali / বাংলা](books/free-programming-books-bn.md)
@@ -160,7 +160,7 @@ This project lists books and other resources grouped by genres:
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
-+ [Telugu / తెలుగు](courses/free-courses-te.md)
++ [Telugu / తెలు���ు](courses/free-courses-te.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
