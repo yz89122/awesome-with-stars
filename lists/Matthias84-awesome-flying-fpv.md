@@ -236,7 +236,7 @@ Global Navigation Systems like GPS allow to determine the current position of yo
 * [rtklib](https://www.rtklib.com) - Software toolchain to increase precision of GNSS signals by applying realtime or post-processing to eliminate interferences. Signals recorded by SDR or some commercial GPS modules.
 * [Vicon MavLink ![GitHub Repo Stars](https://img.shields.io/github/stars/bo-rc/ViconMAVLink) ![GitHub last commit](https://img.shields.io/github/last-commit/bo-rc/ViconMAVLink)](https://github.com/bo-rc/ViconMAVLink) - Get indoor positioning via commercial optical systems for a whole drone swarm.
 
-## Sensors 🌡️
+## Sensors 🌡���
 
 A drone uses more sensors like compass, barometer, airspeed or current to increase position estimation, or to show the system performance
 
@@ -464,7 +464,7 @@ Every hobby makes more fun and progress if you share your ideas and questions to
 * [OscarLiang.com](https://OscarLiang.com) - Important blog with builds and configurations and knowledge.
 * [intofpv.com](https://intofpv.com) - Forum with helpful information about anything FPV related.
 * [INAV fixed wing group](https://inavfixedwinggroup.com/) - Forum, Blog, Builds on fixed wing esp. with INAV compatible autopilot.
-* [fpv-community.de](https://fpv-community.de) - 🇩��� Auch Selbstbau.
+* [fpv-community.de](https://fpv-community.de) - 🇩🇪 Auch Selbstbau.
 * [RC-Network.de](https://RC-Network.de) - 🇩🇪 Über Selbstbau auch von Schiffen und Autos. Sehr umfangreiches [Wiki](https://wiki.rc-network.de/wiki/Hauptseite).
 * [kopterforum.de](https://kopterforum.de) - 🇩🇪 Auch Selbstbau.
 

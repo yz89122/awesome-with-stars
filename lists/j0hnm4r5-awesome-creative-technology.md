@@ -178,7 +178,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Studio TheGreenEyl**](https:&#x2F;&#x2F;thegreeneyl.com&#x2F;) | [Berlin] [NYC] | exhibitions, installations, objects, images, interactions and algorithms | 
 | [**Super A-OK**](https:&#x2F;&#x2F;superaok.com&#x2F;) | [NYC] | A multi-modal service bureau for the 21st century, fabrication, electronics | 
 | [**SUPERBIEN**](https:&#x2F;&#x2F;www.superbien.studio) | [Paris] [NYC] [Dubai] | Creative studio for visually extended experiences, merging digital &amp; physical environments. | [🌐](https:&#x2F;&#x2F;www.superbien.studio&#x2F;career)
-| [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects | [����](https:&#x2F;&#x2F;superflypresents.applytojob.com&#x2F;apply)
+| [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects | [🌐](https:&#x2F;&#x2F;superflypresents.applytojob.com&#x2F;apply)
 | [**TAD**](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;) | [NYC] [London] | digital experiences, technology and architecture, designed to inspire people. | [🌐](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;home&#x2F;opportunities)
 | [**tamschick**](https:&#x2F;&#x2F;tamschick.com&#x2F;) | [Berlin] | media and architectural narrative design, exhibitions, branded space, musuems | [🌐](https:&#x2F;&#x2F;tamschick.factorialhr.com&#x2F;)
 | [**Team Epiphany**](https:&#x2F;&#x2F;www.teamepiphany.com&#x2F;) | [NYC] [LA] | influencer marketing, IRL, vertical integration | [📧](mailto:info@teamepiphany.com)
@@ -192,7 +192,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Tool**](https:&#x2F;&#x2F;www.toolofna.com&#x2F;) | [LA] | help brands and agencies with ideation, content, and experience production that generate buzz | 
 | [**Trivium Interactive**](https:&#x2F;&#x2F;www.triviuminteractive.com&#x2F;) | [Boston] | experience design and production | [🌐](https:&#x2F;&#x2F;www.triviuminteractive.com&#x2F;careers)
 | [**Two Goats**](https:&#x2F;&#x2F;www.twogoats.us&#x2F;) | [NYC] [LA] [London] | AR, interactive branded experiences | 
-| [**Unified Field**](https:&#x2F;&#x2F;www.unifiedfield.com&#x2F;) | [NYC] | content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces | [����](mailto:career@unifiedfield.com)
+| [**Unified Field**](https:&#x2F;&#x2F;www.unifiedfield.com&#x2F;) | [NYC] | content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces | [📧](mailto:career@unifiedfield.com)
 | [**UNIT9**](https:&#x2F;&#x2F;www.unit9.com&#x2F;) | [London] [LA] [NYC] [Berlin] | innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors | [🌐](https:&#x2F;&#x2F;www.unit9.com&#x2F;jobs)
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](mailto:jobs@vtprodesign.com)
