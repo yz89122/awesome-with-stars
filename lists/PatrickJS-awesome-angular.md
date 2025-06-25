@@ -1391,6 +1391,8 @@ become an Angular expert.
 * [ngx-pipe-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/mofirojean/ngx-pipe-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/mofirojean/ngx-pipe-lib)](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
 * [pyno-date ![GitHub Repo Stars](https://img.shields.io/github/stars/amirhsnf/pyno-date) ![GitHub last commit](https://img.shields.io/github/last-commit/amirhsnf/pyno-date)](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
 * [ngx-fittext ![GitHub Repo Stars](https://img.shields.io/github/stars/7kasper/ngx-fittext) ![GitHub last commit](https://img.shields.io/github/last-commit/7kasper/ngx-fittext)](https://github.com/7kasper/ngx-fittext) - An Angular library that allows you fit text in a box or a line.
+* [ngx-optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/Bilal-Abubakari/ngx-optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/Bilal-Abubakari/ngx-optimus)](https://github.com/Bilal-Abubakari/ngx-optimus) - An Angular library dedicated to providing a collection of useful custom pipes to transform data in your templates. This library aims to simplify common data formatting tasks and keep your component logic cleaner.
+* [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - An Angular library that provides a simple and effective pipe to convert numbers into their respective word representations. This is particularly useful for applications that need to display numbers in words, such as invoices, reports, or financial applications.
 
 #### Drag and Drop
 
@@ -1459,6 +1461,7 @@ become an Angular expert.
 * [ngx-image-upload ![GitHub Repo Stars](https://img.shields.io/github/stars/osmanabdelsalam/ngx-image-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/osmanabdelsalam/ngx-image-upload)](https://github.com/osmanabdelsalam/ngx-image-upload) - A lightweight, customizable library for image uploads with preview, validation, and smooth animations. Supports Reactive Forms and `ngTemplate` for full flexibility.
 * [filestack-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/filestack/filestack-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/filestack/filestack-angular)](https://github.com/filestack/filestack-angular) - Integrate [Filestack](https://www.filestack.com/) into your Angular app for a faster, safer, and more reliable file upload experience.
 * [ngx-uploader-file ![GitHub Repo Stars](https://img.shields.io/github/stars/IsaiasCardenasM/ngx-uploader-file) ![GitHub last commit](https://img.shields.io/github/last-commit/IsaiasCardenasM/ngx-uploader-file)](https://github.com/IsaiasCardenasM/ngx-uploader-file) - A versatile Angular library for file uploads, offering features like file upload and preview (including image previews with a lightbox), validation, an image cropper, drag-and-drop functionality, and multi-language support.
+* [ngx-filesize-pipe](https://www.npmjs.com/package/ngx-filesize-pipe) - An Angular pipe that converts a file size (in bytes) into a human-readable format. Perfect for file uploaders, media managers, or storage apps.
 
 #### Forms
 
