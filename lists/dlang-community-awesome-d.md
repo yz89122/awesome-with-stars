@@ -26,23 +26,23 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [IDEs & Editors](#ides--editors)
 	* [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
 	* [Preprocessors](#preprocessors)
-	* [Version Manager](#version-manager)
+	* [Version Managers](#version-managers)
+* Continuous Integration
+	* [GitHub Actions](#github-actions)
+	* [Testing Frameworks](#testing-frameworks)
 * Compiler for Other Languages
 	* [Javascript](#javascript)
 * OS
 	* [Operating Systems](#operating-systems)
 	* [Bare Metal/Kernel Development](#bare-metalkernel-development)
-* Common/Utilities
-	* [Basic](#basic)
-	* [Containers](#containers)
-* Continuous Integration
-	* [GitHub Actions](#github-actions)
-	* [Testing Frameworks](#testing-frameworks)
-* Networking/Web Related
+* Common
+	* [General Containers](#general-containers)
+	* [Core Utilities](#core-utilities)
+* Networking/Web
 	* [Web Frameworks](#web-frameworks)
-	* [Data&Serialization](#data-serialization)
+	* [Data Serialization](#data-serialization)
 * Database
-	* [Database clients](#database-clients)
+	* [Database Clients](#database-clients)
 * CLI
 	* [CLI Libraries](#cli-libraries)
 	* [CLI Applications](#cli-applications)
@@ -50,8 +50,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [GUI Libraries](#gui-libraries)
 	* [GUI Applications](#gui-applications)
 * Game Development
-	* [Bindings](#game-bindings)
-	* [Frameworks](#game-frameworks)
+	* [Game Bindings](#game-bindings)
+	* [Game Libraries](#game-libraries)
 	* [Games](#games)
 * Internationalization (i18n) / Globalization
 	* [Internationalization](#internationalization)
@@ -240,12 +240,24 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [warp ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookarchive/warp) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookarchive/warp)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
-## Version Manager
+## Version Managers
 
 * [dvm ![GitHub Repo Stars](https://img.shields.io/github/stars/jacob-carlborg/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/jacob-carlborg/dvm)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
 * [ldcup ![GitHub Repo Stars](https://img.shields.io/github/stars/kassane/ldcup) ![GitHub last commit](https://img.shields.io/github/last-commit/kassane/ldcup)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
+
+## GitHub Actions
+
+* [setup-dlang ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/setup-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/setup-dlang)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+* [dub-upgrade ![GitHub Repo Stars](https://img.shields.io/github/stars/WebFreak001/dub-upgrade) ![GitHub last commit](https://img.shields.io/github/last-commit/WebFreak001/dub-upgrade)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+
+## Testing Frameworks
+
+* [unit-threaded ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+
 ## Javascript
+
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 ## Operating Systems
@@ -264,28 +276,22 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb)](https://github.com/xomboverlord/xomb/tree/unborn).
 * [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
-## Basic
+## General Containers
 
-* [NuMem ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/numem) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/numem)](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
-* [NuLib ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/nulib) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/nulib)](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
-* [Joka ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/joka) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/joka)](https://github.com/Kapendev/joka) - A nogc utility library.
-
-## Containers
+*Data structures and container libraries.*
 
 * [EMSI containers ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/containers) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/containers)](https://github.com/dlang-community/containers) - Containers that do not use the GC 
 * [memutils ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/memutils) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/memutils)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 * [dlib.container ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dlib) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dlib)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 * [std.rcstring ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/std.rcstring) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/std.rcstring)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
-## GitHub Actions
+## Core Utilities
 
-* [setup-dlang ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/setup-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/setup-dlang)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
-* [dub-upgrade ![GitHub Repo Stars](https://img.shields.io/github/stars/WebFreak001/dub-upgrade) ![GitHub last commit](https://img.shields.io/github/last-commit/WebFreak001/dub-upgrade)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+*General-purpose utility libraries.*
 
-## Testing Frameworks
-
-* [unit-threaded ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
-* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+* [NuMem ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/numem) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/numem)](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+* [NuLib ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/nulib) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/nulib)](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
+* [Joka ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/joka) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/joka)](https://github.com/Kapendev/joka) - A nogc utility library.
 
 ## Web Frameworks
 
@@ -312,16 +318,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [DSSG ![GitHub Repo Stars](https://img.shields.io/github/stars/kambrium/dssg) ![GitHub last commit](https://img.shields.io/github/last-commit/kambrium/dssg)](https://github.com/kambrium/dssg) - A static site generator with a different approach.
 
-## Data serialization
+## Data Serialization
 
-*Json, XML, protobuf and other data serialization libs.*
-
-### Binary Serilization
+*JSON, XML, protobuf and other data serialization libraries.*
 
 * [cerealed ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/cerealed) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/cerealed)](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto ![GitHub Repo Stars](https://img.shields.io/github/stars/msoucy/dproto) ![GitHub last commit](https://img.shields.io/github/last-commit/msoucy/dproto)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
-### JSON
+*JSON libraries.*
 
 * [vibe.data.json](https://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 * [fast.json ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/fast) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/fast)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
@@ -330,14 +334,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [std.data.json ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/std_data_json) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/std_data_json)](https://github.com/dlang-community/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf ![GitHub Repo Stars](https://img.shields.io/github/stars/libmir/asdf) ![GitHub last commit](https://img.shields.io/github/last-commit/libmir/asdf)](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
 
-### XML
+*XML libraries.*
 
 * [orange ![GitHub Repo Stars](https://img.shields.io/github/stars/jacob-carlborg/orange) ![GitHub last commit](https://img.shields.io/github/last-commit/jacob-carlborg/orange)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml ![GitHub Repo Stars](https://img.shields.io/github/stars/lodo1995/experimental.xml) ![GitHub last commit](https://img.shields.io/github/last-commit/lodo1995/experimental.xml)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 * arsd [dom.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 * [newxml ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/newxml) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/newxml)](https://github.com/ZILtoid1991/newxml) - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
 
-## Database clients
+## Database Clients
 
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
@@ -399,65 +403,64 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [sokol-d ![GitHub Repo Stars](https://img.shields.io/github/stars/kassane/sokol-d) ![GitHub last commit](https://img.shields.io/github/last-commit/kassane/sokol-d)](https://github.com/kassane/sokol-d) - D bindings for the sokol headers.
 * [DAllegro5 ![GitHub Repo Stars](https://img.shields.io/github/stars/SiegeLord/DAllegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/SiegeLord/DAllegro5)](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [DSFML ![GitHub Repo Stars](https://img.shields.io/github/stars/Jebbs/DSFML) ![GitHub last commit](https://img.shields.io/github/last-commit/Jebbs/DSFML)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
-* [Godot-D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-d/godot-d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-d/godot-d)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
-* [BindBC](https://github.com/BindBC) - A set of bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-loader)](https://github.com/BindBC/bindbc-loader):
-	* OpenGL - [bindbc-opengl ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-opengl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-opengl)](https://github.com/BindBC/bindbc-opengl)
-	* GLFW 3 - [bindbc-glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-glfw)](https://github.com/BindBC/bindbc-glfw)
-	* SDL 2 - [bindbc-sdl ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-sdl)](https://github.com/BindBC/bindbc-sdl)
-	* SDL2_gfx - [bindbc-sdlgfx ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/bindbc-sdlgfx) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/bindbc-sdlgfx)](https://github.com/aferust/bindbc-sdlgfx)
-	* SFML 2 - [bindbc-sfml ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-sfml) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-sfml)](https://github.com/BindBC/bindbc-sfml)
-	* Imgui - immediate UI - [bindbc-imgui ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/bindbc-imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/bindbc-imgui)](https://github.com/Inochi2D/bindbc-imgui)
-	* Nuklear - immediate UI - [bindbc-nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/Timu5/bindbc-nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/Timu5/bindbc-nuklear)](https://github.com/Timu5/bindbc-nuklear)
-	* raylib3 - [bindbc-raylib3 ![GitHub Repo Stars](https://img.shields.io/github/stars/o3o/bindbc-raylib3) ![GitHub last commit](https://img.shields.io/github/last-commit/o3o/bindbc-raylib3)](https://github.com/o3o/bindbc-raylib3)
-	* bgfx - [bindbc-bgfx ![GitHub Repo Stars](https://img.shields.io/github/stars/GoaLitiuM/bindbc-bgfx) ![GitHub last commit](https://img.shields.io/github/last-commit/GoaLitiuM/bindbc-bgfx)](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WebGPU - [bindbc-wgpu ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/bindbc-wgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/bindbc-wgpu)](https://github.com/gecko0307/bindbc-wgpu)
-	* Zstandard - compression - [bindbc-zstandard ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/bindbc-zstandard) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/bindbc-zstandard)](https://github.com/ZILtoid1991/bindbc-zstandard)
-	* nanomsg-next-gen - [bindbc-nng ![GitHub Repo Stars](https://img.shields.io/github/stars/darkridder/bindbc-nng) ![GitHub last commit](https://img.shields.io/github/last-commit/darkridder/bindbc-nng)](https://github.com/darkridder/bindbc-nng)
-	* OpenAL - audio engine - [bindbc-openal ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-openal) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-openal)](https://github.com/BindBC/bindbc-openal)
-	* SoLoud - audio engine - [bindbc-soloud ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/bindbc-soloud) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/bindbc-soloud)](https://github.com/gecko0307/bindbc-soloud)
-	* KiWi - widget library - [bindbc-kiwi ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/bindbc-kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/bindbc-kiwi)](https://github.com/aferust/bindbc-kiwi)
-	* NanoVG - vector drawing engine - [bindbc-nanovg ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/bindbc-nanovg) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/bindbc-nanovg)](https://github.com/aferust/bindbc-nanovg)
-	* Blend2D - 2D Vector Graphics Powered by a JIT Compiler - [bindbc-blend2d ![GitHub Repo Stars](https://img.shields.io/github/stars/kdmult/bindbc-blend2d) ![GitHub last commit](https://img.shields.io/github/last-commit/kdmult/bindbc-blend2d)](https://github.com/kdmult/bindbc-blend2d)
-	* Lua - [bindbc-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-lua)](https://github.com/BindBC/bindbc-lua)
-	* JoyShockLibrary - [bindbc-jsl ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/bindbc-JSL) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/bindbc-JSL)](https://github.com/ZILtoid1991/bindbc-JSL)
-	* Newton Dynamics - physics engine - [bindbc-newton ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/bindbc-newton) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/bindbc-newton)](https://github.com/gecko0307/bindbc-newton)
-	* FreeImage - [bindbc-freeimage ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-freeimage) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-freeimage)](https://github.com/BindBC/bindbc-freeimage)
-	* Assimp5 - [bindbc-assimp ![GitHub Repo Stars](https://img.shields.io/github/stars/Sobaya007/bindbc-assimp) ![GitHub last commit](https://img.shields.io/github/last-commit/Sobaya007/bindbc-assimp)](https://github.com/Sobaya007/bindbc-assimp)
-	* Freetype - [bindbc-freetype ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-freetype) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-freetype)](https://github.com/BindBC/bindbc-freetype)
-	* Harfbuzz - text shaping engine - [bindbc-harfbuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/DlangGraphicsWG/bindbc-harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/DlangGraphicsWG/bindbc-harfbuzz)](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
-* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-	* OpenGL 3 (DerelictGL3), 
-	* Bgfx (DerelictBgfx), 
-	* ENet (DerelictENet),  
-	* SDL 2 (DerelictSDL2), 
-	* GLFW 3 (DerelictGLFW3), 
-	* OpenGLES (DerelictGLES), 
-	* Free Image (DerelictFI), 
-	* Assimp3 (DerelictASSIMP3), 
-	* libtheora (DerelictTheora),  
-	* libogg (DerelictOgg), 
-	* libvorbis (DerelictVorbis), 
-	* SFML 2 (DerelictSFML2), 
-	* libpq (DerelictPQ), 
-	* PhysicsFS (DerelictPHYSFS), 
-	* Open Dynamics Engine (DerelictODE), 
-	* Lua (DerelictLua), 
-	* DevIL (DerelictIL), 
-	* OpenAL (DerelictAL), 
-	* ALURE (DerelictALURE).
+* [Godot-D ![GitHub Repo Stars](https://img.shields.io/github/stars/godot-d/godot-d) ![GitHub last commit](https://img.shields.io/github/last-commit/godot-d/godot-d)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API.
+* [BindBC](https://github.com/BindBC) - Bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-loader)](https://github.com/BindBC/bindbc-loader).
+	* [OpenGL ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-opengl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-opengl)](https://github.com/BindBC/bindbc-opengl) - Graphics API
+	* [GLFW 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-glfw)](https://github.com/BindBC/bindbc-glfw) - Window/Input library
+	* [SDL 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-sdl)](https://github.com/BindBC/bindbc-sdl) - Multimedia library
+	* [SDL2_gfx ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/bindbc-sdlgfx) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/bindbc-sdlgfx)](https://github.com/aferust/bindbc-sdlgfx) - Drawing primitives for SDL2
+	* [SFML 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-sfml) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-sfml)](https://github.com/BindBC/bindbc-sfml) - Multimedia library
+	* [Imgui ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/bindbc-imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/bindbc-imgui)](https://github.com/Inochi2D/bindbc-imgui) - Immediate mode GUI
+	* [Nuklear ![GitHub Repo Stars](https://img.shields.io/github/stars/Timu5/bindbc-nuklear) ![GitHub last commit](https://img.shields.io/github/last-commit/Timu5/bindbc-nuklear)](https://github.com/Timu5/bindbc-nuklear) - Immediate mode GUI
+	* [raylib3 ![GitHub Repo Stars](https://img.shields.io/github/stars/o3o/bindbc-raylib3) ![GitHub last commit](https://img.shields.io/github/last-commit/o3o/bindbc-raylib3)](https://github.com/o3o/bindbc-raylib3) - Game library
+	* [bgfx ![GitHub Repo Stars](https://img.shields.io/github/stars/GoaLitiuM/bindbc-bgfx) ![GitHub last commit](https://img.shields.io/github/last-commit/GoaLitiuM/bindbc-bgfx)](https://github.com/GoaLitiuM/bindbc-bgfx) - Cross-Platform renderer
+	* [WebGPU ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/bindbc-wgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/bindbc-wgpu)](https://github.com/gecko0307/bindbc-wgpu) - Modern GPU API
+	* [Zstandard ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/bindbc-zstandard) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/bindbc-zstandard)](https://github.com/ZILtoid1991/bindbc-zstandard) - Fast compression
+	* [nanomsg-next-gen ![GitHub Repo Stars](https://img.shields.io/github/stars/darkridder/bindbc-nng) ![GitHub last commit](https://img.shields.io/github/last-commit/darkridder/bindbc-nng)](https://github.com/darkridder/bindbc-nng) - Messaging library
+	* [OpenAL ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-openal) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-openal)](https://github.com/BindBC/bindbc-openal) - Audio library
+	* [SoLoud ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/bindbc-soloud) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/bindbc-soloud)](https://github.com/gecko0307/bindbc-soloud) - Audio library
+	* [KiWi ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/bindbc-kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/bindbc-kiwi)](https://github.com/aferust/bindbc-kiwi) - UI widget toolkit
+	* [NanoVG ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/bindbc-nanovg) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/bindbc-nanovg)](https://github.com/aferust/bindbc-nanovg) - Vector graphics
+	* [Blend2D ![GitHub Repo Stars](https://img.shields.io/github/stars/kdmult/bindbc-blend2d) ![GitHub last commit](https://img.shields.io/github/last-commit/kdmult/bindbc-blend2d)](https://github.com/kdmult/bindbc-blend2d) - Vector graphics
+	* [Lua ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-lua)](https://github.com/BindBC/bindbc-lua) - Scripting language
+	* [JoyShockLibrary ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/bindbc-JSL) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/bindbc-JSL)](https://github.com/ZILtoid1991/bindbc-JSL) - Gamepad/Gyro input
+	* [Newton Dynamics ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/bindbc-newton) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/bindbc-newton)](https://github.com/gecko0307/bindbc-newton) - Physics library
+	* [FreeImage ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-freeimage) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-freeimage)](https://github.com/BindBC/bindbc-freeimage) - Image loading
+	* [FreeType ![GitHub Repo Stars](https://img.shields.io/github/stars/BindBC/bindbc-freetype) ![GitHub last commit](https://img.shields.io/github/last-commit/BindBC/bindbc-freetype)](https://github.com/BindBC/bindbc-freetype) - Font rendering
+	* [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/DlangGraphicsWG/bindbc-harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/DlangGraphicsWG/bindbc-harfbuzz)](https://github.com/DlangGraphicsWG/bindbc-harfbuzz) - Text shaping
+* [DerelictOrg](https://github.com/DerelictOrg) - Bindings, now largely outdated. BindBC is its modern successor.
+	* [OpenGLES ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictGLES) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictGLES)](https://github.com/DerelictOrg/DerelictGLES) - Graphics API
+	* [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictENet) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictENet)](https://github.com/DerelictOrg/DerelictENet) - Networking library
+	* [libtheora ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictTheora) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictTheora)](https://github.com/DerelictOrg/DerelictTheora) - Video codec
+	* [libogg ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictOgg) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictOgg)](https://github.com/DerelictOrg/DerelictOgg) - Audio codec
+	* [libvorbis ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictVorbis) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictVorbis)](https://github.com/DerelictOrg/DerelictVorbis) - Audio codec
+	* [libpq ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictPQ) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictPQ)](https://github.com/DerelictOrg/DerelictPQ) - PostgreSQL library
+	* [PhysicsFS ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictPHYSFS) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictPHYSFS)](https://github.com/DerelictOrg/DerelictPHYSFS) - Virtual file system
+	* [Open Dynamics Engine (ODE) ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictODE) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictODE)](https://github.com/DerelictOrg/DerelictODE) - Physics library
+	* [ALURE ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictALURE) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictALURE)](https://github.com/DerelictOrg/DerelictALURE) - Audio library
+	* [DevIL ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictIL) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictIL)](https://github.com/DerelictOrg/DerelictIL) - Image library
 
-## Game Frameworks
+## Game Libraries
 
 *D libraries for game development.*
 
 * [InMath ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inmath)](https://github.com/Inochi2D/inmath) - Games math library for D.
+
+*Libraries for 2D-related projects.*
+
 * [gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/drug007/gfm7) ![GitHub last commit](https://img.shields.io/github/last-commit/drug007/gfm7)](https://github.com/drug007/gfm7) - D gamedev toolkit.
-* [Dagon ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dagon) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dagon)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-* [Voxelman ![GitHub Repo Stars](https://img.shields.io/github/stars/MrSmith33/voxelman) ![GitHub last commit](https://img.shields.io/github/last-commit/MrSmith33/voxelman)](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language
-* [rengfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bmchtech/rengfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bmchtech/rengfx)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 * [Parin ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/parin) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/parin)](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/pixelperfectengine) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/pixelperfectengine)](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
 * [HipremeEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/MrcSnm/HipremeEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/MrcSnm/HipremeEngine)](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
+
+*Libraries for 2D/3D-related projects.*
+
+* [rengfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bmchtech/rengfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bmchtech/rengfx)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+
+*Libraries for 3D-related projects.*
+
+* [Dagon ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dagon) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dagon)](https://github.com/gecko0307/dagon) - 3D game engine for D. See: <https://gecko0307.github.io/dagon/>
+* [Voxelman ![GitHub Repo Stars](https://img.shields.io/github/stars/MrSmith33/voxelman) ![GitHub last commit](https://img.shields.io/github/last-commit/MrSmith33/voxelman)](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language.
 
 ## Games
 
