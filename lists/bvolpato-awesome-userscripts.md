@@ -805,7 +805,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.googlegpt.io/#readme">
             Readme</a> /
-        ���� <a href="https://github.com/KudoAI/googlegpt/discussions">
+        📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
             Report bug</a>
