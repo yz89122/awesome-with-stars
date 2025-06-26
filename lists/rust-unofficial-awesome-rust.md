@@ -1052,6 +1052,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Bioinformatics
 
+* [polars-bio ![GitHub Repo Stars](https://img.shields.io/github/stars/biodatageeks/polars-bio) ![GitHub last commit](https://img.shields.io/github/last-commit/biodatageeks/polars-bio)](https://github.com/biodatageeks/polars-bio) - Blazing-Fast Bioinformatic Operations on Python DataFrames ![PyPI - Version](https://img.shields.io/pypi/v/polars-bio)
 * [Rust-Bio](https://github.com/rust-bio) - bioinformatics libraries.
 
 ### Caching
