@@ -1129,6 +1129,7 @@ become an Angular expert.
 * [msw ![GitHub Repo Stars](https://img.shields.io/github/stars/mswjs/msw) ![GitHub last commit](https://img.shields.io/github/last-commit/mswjs/msw)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 * [shallow-render ![GitHub Repo Stars](https://img.shields.io/github/stars/getsaf/shallow-render) ![GitHub last commit](https://img.shields.io/github/last-commit/getsaf/shallow-render)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 * [@storybookjs/testing-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/storybookjs/testing-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/storybookjs/testing-angular)](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
+* [ngx-testbox ![GitHub Repo Stars](https://img.shields.io/github/stars/kirill-kolomin/ngx-testbox) ![GitHub last commit](https://img.shields.io/github/last-commit/kirill-kolomin/ngx-testbox)](https://github.com/kirill-kolomin/ngx-testbox) - A comprehensive testing utility library for Angular applications that simplifies test writing and improves test reliability. You will find this library useful for unit, integration, and e2e testing.
 
 #### Updating
 
@@ -1677,6 +1678,7 @@ to simplify usage and allow quick customization.
 * [ngx-bladex ![GitHub Repo Stars](https://img.shields.io/github/stars/karnavpargi/ngx-bladex) ![GitHub last commit](https://img.shields.io/github/last-commit/karnavpargi/ngx-bladex)](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 * [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/blidblid/berg-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/blidblid/berg-layout)](https://github.com/blidblid/berg-layout).
 * [static-columns ![GitHub Repo Stars](https://img.shields.io/github/stars/darekf77/static-columns) ![GitHub last commit](https://img.shields.io/github/last-commit/darekf77/static-columns)](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
+* [ngx-flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/jtc10005/ngx-flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/jtc10005/ngx-flex-layout)](https://github.com/jtc10005/ngx-flex-layout) - Port of [@angular/flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/flex-layout)](https://github.com/angular/flex-layout) to provide support after EOL.
 
 #### Loaders
 
@@ -1848,6 +1850,7 @@ to simplify usage and allow quick customization.
 * [ng-toast-service ![GitHub Repo Stars](https://img.shields.io/github/stars/nhusby/ng-toast-service) ![GitHub last commit](https://img.shields.io/github/last-commit/nhusby/ng-toast-service)](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 * [grand-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/rishi-rj-s/grand-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/rishi-rj-s/grand-notifications)](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 * [ngx-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/pascaliske/ngx-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/pascaliske/ngx-notifications)](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
+* [ngx-toastr-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/Mazen-Embaby/ngx-toastr-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/Mazen-Embaby/ngx-toastr-notifier)](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable toast notifications for Angular 20+. A modern replacement for toastr with Angular Material design and flexible APIs.
 
 #### Printing
 
