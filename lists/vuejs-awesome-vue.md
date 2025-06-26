@@ -1395,7 +1395,7 @@ _Display images_
 _Handling of user events (scroll, click, key strike, ...)_
 
 - [vue-global-events ![GitHub Repo Stars](https://img.shields.io/github/stars/shentao/vue-global-events) ![GitHub last commit](https://img.shields.io/github/last-commit/shentao/vue-global-events)](https://github.com/shentao/vue-global-events/) – A component to handle global events (like shortcuts) using Vue’s event modifiers
-- [vue-tabevents ![GitHub Repo Stars](https://img.shields.io/github/stars/Almoullim/vue-tabevents) ![GitHub last commit](https://img.shields.io/github/last-commit/Almoullim/vue-tabevents)](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
+- [vue-tabevents ![GitHub Repo Stars](https://img.shields.io/github/stars/Almoullim/vue-tabevents) ![GitHub last commit](https://img.shields.io/github/last-commit/Almoullim/vue-tabevents)](https://github.com/Almoullim/vue-tabevents) ��� Easy communication between other opened tabs
 - [vue-exit-intent ![GitHub Repo Stars](https://img.shields.io/github/stars/nickap/vue-exit-intent) ![GitHub last commit](https://img.shields.io/github/last-commit/nickap/vue-exit-intent)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
 
 #### Responsive Design
