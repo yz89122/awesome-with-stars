@@ -198,6 +198,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [TimescaleDB Tune ![GitHub Repo Stars](https://img.shields.io/github/stars/timescale/timescaledb-tune) ![GitHub last commit](https://img.shields.io/github/last-commit/timescale/timescaledb-tune)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 * [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
 * [aqo ![GitHub Repo Stars](https://img.shields.io/github/stars/postgrespro/aqo) ![GitHub last commit](https://img.shields.io/github/last-commit/postgrespro/aqo)](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
+* [pgassistant ![GitHub Repo Stars](https://img.shields.io/github/stars/nexsol-technologies/pgassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/nexsol-technologies/pgassistant)](https://github.com/nexsol-technologies/pgassistant) - A DB optimization dashboard for PostgreSQL with LLM and pgTune integration.
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
