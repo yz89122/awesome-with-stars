@@ -200,7 +200,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 
-- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopifys-vpe-to-get-it-right/) - “*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
+- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopifys-vpe-to-get-it-right/) - ���*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
 
 - [“That's usually about the time I nope right out of the interview”](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 
@@ -324,7 +324,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 
 - [The Horrifically Dystopian World of Software Engineering Interviews](https://web.archive.org/web/20210911031845/https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
 
-- [Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest) - “Designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.���
+- [Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest) - “Designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.”
 
 - [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://web.archive.org/web/20211020130141/https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Five multiple-choice questions to easily separate the real software engineers from the rest.
 
