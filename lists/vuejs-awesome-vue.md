@@ -969,6 +969,7 @@ _Set of admin template_
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 - [soybean-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin)](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
 - [AirPower4T ![GitHub Repo Stars](https://img.shields.io/github/stars/AirPowerTeam/AirPower4T) ![GitHub last commit](https://img.shields.io/github/last-commit/AirPowerTeam/AirPower4T)](https://github.com/AirPowerTeam/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+- [YummyAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/doroudi/YummyAdmin) ![GitHub last commit](https://img.shields.io/github/last-commit/doroudi/YummyAdmin)](https://github.com/doroudi/YummyAdmin) - 📈 Free Vue Admin Panel based on Naive UI and TailwindCSS. fairly completed with beautiful design, RTL support, and multilingual. (MSW, Pinia, TS, UnoCss, Vite)
 
 #### Server-side rendering
 
@@ -1411,6 +1412,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [tracked-instance ![GitHub Repo Stars](https://img.shields.io/github/stars/rudnik275/tracked-instance) ![GitHub last commit](https://img.shields.io/github/last-commit/rudnik275/tracked-instance)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 - [Vorm ![GitHub Repo Stars](https://img.shields.io/github/stars/Flo0806/vorm) ![GitHub last commit](https://img.shields.io/github/last-commit/Flo0806/vorm)](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
 - [VueFormify ![GitHub Repo Stars](https://img.shields.io/github/stars/mateenagy/vue-formify) ![GitHub last commit](https://img.shields.io/github/last-commit/mateenagy/vue-formify)](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
+- [Enforma](https://encolajs.com/enforma/) - UI agnostic, schema-ready form library for Vue 3. 30+ built-in validation rules. UI presets for Vuetify, PrimeVue and Quasar
 
 ##### Validation
 
