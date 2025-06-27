@@ -89,13 +89,10 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
 [`CC Usage` ![GitHub Repo Stars](https://img.shields.io/github/stars/ryoppippi/ccusage) ![GitHub last commit](https://img.shields.io/github/last-commit/ryoppippi/ccusage)](https://github.com/ryoppippi/ccusage) by [ryoppippi](https://github.com/ryoppippi)  
-Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.  
+Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet)  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
-
-[`Claude Code Router` ![GitHub Repo Stars](https://img.shields.io/github/stars/musistudio/claude-code-router) ![GitHub last commit](https://img.shields.io/github/last-commit/musistudio/claude-code-router)](https://github.com/musistudio/claude-code-router) by [musistudio](https://github.com/musistudio)  
-Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
 [`Claude Composer` ![GitHub Repo Stars](https://img.shields.io/github/stars/possibilities/claude-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/possibilities/claude-composer)](https://github.com/possibilities/claude-composer) by [Mike Bannister](https://github.com/possibilities)  
 A tool that adds small enhancements to Claude Code.
