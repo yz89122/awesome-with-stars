@@ -601,7 +601,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
     - 🎉 [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
-    - �� [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
+    - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D) ![GitHub last commit](https://img.shields.io/github/last-commit/tainicom/Aether.Physics2D)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
     - 🎉 [Box2D.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/Box2D.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/Box2D.NET)](https://github.com/ikpil/Box2D.NET) - C# port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
@@ -1198,7 +1198,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
     - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
-    - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
+    - �� [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
     - 🎉 [WebGL Noise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/webgl-noise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/webgl-noise)](https://github.com/stegu/webgl-noise/) - Maintained branch of the original _Ashima Arts_ 2D, 3D and 4D noise functions.
