@@ -78,6 +78,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Carousels](#carousels)
   * [Charts](#charts)
   * [Cookies](#cookies)
+  * [CSV](#csv)
   * [Data Grids](#data-grids)
   * [Dates](#dates)
   * [DOM](#dom)
@@ -1294,6 +1295,13 @@ become an Angular expert.
 * [ngx-cookie-ssr ![GitHub Repo Stars](https://img.shields.io/github/stars/Ask-786/ngx-cookie-ssr) ![GitHub last commit](https://img.shields.io/github/last-commit/Ask-786/ngx-cookie-ssr)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 * [ngx-gdpr-cookie-consent ![GitHub Repo Stars](https://img.shields.io/github/stars/KoblerS/ngx-gdpr-cookie-consent) ![GitHub last commit](https://img.shields.io/github/last-commit/KoblerS/ngx-gdpr-cookie-consent)](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 
+#### CSV
+
+* [ngx-export-as ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-export-as) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-export-as)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+* [ng2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ng2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ng2csv)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
+* [ngx-csv-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/tofiqquadri/ngx-csv-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/tofiqquadri/ngx-csv-parser)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
+* [rm-ng-export-to-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-export-to-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-export-to-csv)](https://github.com/malikrajat/rm-ng-export-to-csv) - A lightweight and customizable Angular library to export JSON data to CSV files with auto-download support. Ideal for charts, tables, reports, and dashboards.
+
 #### Data Grids
 
 * [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
@@ -1305,7 +1313,6 @@ become an Angular expert.
 * [ui-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-ui/ui-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-ui/ui-grid)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
 * [jspreadsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/jspreadsheet/ce) ![GitHub last commit](https://img.shields.io/github/last-commit/jspreadsheet/ce)](https://github.com/jspreadsheet/ce) - [Jspreadsheet](https://bossanova.uk/jspreadsheet/docs/getting-started) is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
-* [ngx-export-as ![GitHub Repo Stars](https://img.shields.io/github/stars/wnabil/ngx-export-as) ![GitHub last commit](https://img.shields.io/github/last-commit/wnabil/ngx-export-as)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-ng/datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ng/datagrid)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 * [angular-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/l-lin/angular-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/l-lin/angular-datatables)](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
 * [angular-slickgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghiscoding/Angular-Slickgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/ghiscoding/Angular-Slickgrid)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mleibman/SlickGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mleibman/SlickGrid)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
@@ -2194,8 +2201,6 @@ for the creation of web applications developed with Angular.
 * [runtime-config-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/runtime-config-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/runtime-config-loader)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [ng-polymorpheus ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-polymorpheus) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-polymorpheus)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 * [gui ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/gui) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/gui)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
-* [ng2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/rars/ng2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/rars/ng2csv)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
-* [ngx-csv-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/tofiqquadri/ngx-csv-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/tofiqquadri/ngx-csv-parser)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 * [angular-tag-cloud-module ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/angular-tag-cloud-module) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/angular-tag-cloud-module)](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ngx-lipsum ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/ngx-lipsum) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/ngx-lipsum)](https://github.com/d-koppenhagen/ngx-lipsum) - Easily use lorem-ipsum dummy texts in your Angular app as directive, component or by using a service.
 * [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
