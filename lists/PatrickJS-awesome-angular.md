@@ -325,8 +325,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Design Patterns and Best Practices ![GitHub Repo Stars](https://img.shields.io/github/stars/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) ![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Angular-Design-Patterns-and-Best-Practices)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
-* [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
+* [Angular Signals Masterclass](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
 * [Learn With: Angular 17 with Modules and Bootstrap](https://www.learn-with.com/) - `Jeffry Houser`
+* [Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration](https://www.amazon.com/dp/B0FF9LSHJN/) - `Muhammad Ahsan Ayaz`
 * [Angular Book ![GitHub Repo Stars](https://img.shields.io/github/stars/DenysVuika/angular-book) ![GitHub last commit](https://img.shields.io/github/last-commit/DenysVuika/angular-book)](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
@@ -498,6 +499,7 @@ become an Angular expert.
 * [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
 * [CodeSage AI ![GitHub Repo Stars](https://img.shields.io/github/stars/kd-akshay/code-quality-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-akshay/code-quality-analyzer)](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [angular-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/SAIPRANAY-GANGULA/angular-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/SAIPRANAY-GANGULA/angular-mcp-server)](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - A Model Context Protocol (MCP) server that provides comprehensive access to Angular documentation, enabling AI assistants to search and retrieve Angular-related information with intelligent relevance scoring.
+* [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 
 #### Analytics
 
