@@ -345,6 +345,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [scikit-image ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-image/scikit-image) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-image/scikit-image)](https://github.com/scikit-image/scikit-image)
 * [scikit-opt ![GitHub Repo Stars](https://img.shields.io/github/stars/guofei9987/scikit-opt) ![GitHub last commit](https://img.shields.io/github/last-commit/guofei9987/scikit-opt)](https://github.com/guofei9987/scikit-opt)
 * [scikit-posthocs ![GitHub Repo Stars](https://img.shields.io/github/stars/maximtrp/scikit-posthocs) ![GitHub last commit](https://img.shields.io/github/last-commit/maximtrp/scikit-posthocs)](https://github.com/maximtrp/scikit-posthocs)
+* [feature-engine](https://feature-engine.trainindata.com/)
 * [pystruct ![GitHub Repo Stars](https://img.shields.io/github/stars/pystruct/pystruct) ![GitHub last commit](https://img.shields.io/github/last-commit/pystruct/pystruct)](https://github.com/pystruct/pystruct)
 * [Shogun](https://www.shogun-toolbox.org/)
 * [xLearn ![GitHub Repo Stars](https://img.shields.io/github/stars/aksnzhy/xlearn) ![GitHub last commit](https://img.shields.io/github/last-commit/aksnzhy/xlearn)](https://github.com/aksnzhy/xlearn)
