@@ -181,7 +181,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
-[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆�� ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Machine and Deep Learning
