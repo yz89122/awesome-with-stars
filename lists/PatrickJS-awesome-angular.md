@@ -683,6 +683,7 @@ become an Angular expert.
 * [angular file generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation. Create components, services, modules, and more with just a few clicks - compatible with Angular 16-20.
 * [sonda ![GitHub Repo Stars](https://img.shields.io/github/stars/filipsobol/sonda) ![GitHub last commit](https://img.shields.io/github/last-commit/filipsobol/sonda)](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
 * [angular schematics pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
+* [vscode-angular-auto-import ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-rock/vscode-angular-auto-import) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-rock/vscode-angular-auto-import)](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
 
 #### Documentation tools
 
@@ -1224,6 +1225,7 @@ become an Angular expert.
 * [ng-cloudflare-turnstile ![GitHub Repo Stars](https://img.shields.io/github/stars/pangz-lab/ng-cloudflare-turnstile) ![GitHub last commit](https://img.shields.io/github/last-commit/pangz-lab/ng-cloudflare-turnstile)](https://github.com/pangz-lab/ng-cloudflare-turnstile) - An intuitive, lightweight and easy to integrate [Cloudflare turnstile](https://developers.cloudflare.com/turnstile/) component for Angular.
 * [trustcaptcha-angular](https://www.npmjs.com/package/@trustcaptcha/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
 * [altcha ![GitHub Repo Stars](https://img.shields.io/github/stars/altcha-org/altcha) ![GitHub last commit](https://img.shields.io/github/last-commit/altcha-org/altcha)](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+* [yandex-smart-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-rock/yandex-smart-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-rock/yandex-smart-captcha)](https://github.com/ngx-rock/yandex-smart-captcha) - An Angular library for integrating [Yandex SmartCaptcha](https://yandex.cloud/en/services/smartcaptcha) into your applications. This package provides Angular components that wrap the Yandex SmartCaptcha JavaScript library, supporting both standard and invisible captchas. It leverages Angular’s reactive forms (via ControlValueAccessor and Validator) and modern features like signals and effects (with zoneless support).
 
 #### Carousels
 
@@ -1408,6 +1410,7 @@ become an Angular expert.
 * [ngx-fittext ![GitHub Repo Stars](https://img.shields.io/github/stars/7kasper/ngx-fittext) ![GitHub last commit](https://img.shields.io/github/last-commit/7kasper/ngx-fittext)](https://github.com/7kasper/ngx-fittext) - An Angular library that allows you fit text in a box or a line.
 * [ngx-optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/Bilal-Abubakari/ngx-optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/Bilal-Abubakari/ngx-optimus)](https://github.com/Bilal-Abubakari/ngx-optimus) - An Angular library dedicated to providing a collection of useful custom pipes to transform data in your templates. This library aims to simplify common data formatting tasks and keep your component logic cleaner.
 * [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - An Angular library that provides a simple and effective pipe to convert numbers into their respective word representations. This is particularly useful for applications that need to display numbers in words, such as invoices, reports, or financial applications.
+* [memoize-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-rock/memoize-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-rock/memoize-pipe)](https://github.com/ngx-rock/memoize-pipe) - A universal pipe for memoizing computations in Angular templates.
 
 #### Drag and Drop
 
@@ -1557,6 +1560,7 @@ become an Angular expert.
 * [ng-otp-input ![GitHub Repo Stars](https://img.shields.io/github/stars/code-farmz/ng-otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/code-farmz/ng-otp-input)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
 * [ngx-np-datepicker](https://www.npmjs.com/package/ngx-np-datepicker) - An Angular datepicker component that supports the Nepali calendar (Bikram Sambat). It allows users to pick Nepali dates easily, supports form integrations, and is ideal for applications needing a native Nepali date experience.
 * [ngx-multi-select-input ![GitHub Repo Stars](https://img.shields.io/github/stars/noredinebahri/ngx-multi-select-input) ![GitHub last commit](https://img.shields.io/github/last-commit/noredinebahri/ngx-multi-select-input)](https://github.com/noredinebahri/ngx-multi-select-input) - A modern, customizable Angular standalone component for multi-term input with chips, autocomplete dropdown, and beautiful color support. Perfect for tag editors, search bars, and more!
+* [rm-ng-star-rating ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-star-rating) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-star-rating)](https://github.com/malikrajat/rm-ng-star-rating) - A fully customizable and feature-rich Angular standalone component for advanced star ratings with precision and responsive design.
 
 ##### JSON Forms
 
@@ -1596,6 +1600,7 @@ to simplify usage and allow quick customization.
 * [error-message ![GitHub Repo Stars](https://img.shields.io/github/stars/LuEsc/error-message) ![GitHub last commit](https://img.shields.io/github/last-commit/LuEsc/error-message)](https://github.com/LuEsc/error-message) - A lightweight, flexible error handling library for Angular applications that provides standardized validation error display and management.
 * [ng-reactive-form-validate ![GitHub Repo Stars](https://img.shields.io/github/stars/vbnr/ng-reactive-form-validate) ![GitHub last commit](https://img.shields.io/github/last-commit/vbnr/ng-reactive-form-validate)](https://github.com/vbnr/ng-reactive-form-validate) - This library streamlines form control validation, displaying error messages based on rules, supporting customizable messages via static strings or observables, integrating with Transloco for translations, and applying default styles for smooth validation label transitions.
 * [angular-password-checker ![GitHub Repo Stars](https://img.shields.io/github/stars/akehir/angular-password-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/akehir/angular-password-checker)](https://github.com/akehir/angular-password-checker) - Protect your users from re-using a password known to be hacked with this simple Angular directive.
+* [translation-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/RiskChallenger/translation-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/RiskChallenger/translation-validation)](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language.
 
 #### Icons
 
