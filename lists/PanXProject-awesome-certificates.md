@@ -81,6 +81,8 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
 | [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
 | [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | [🏅](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc) |
+| [Fortinet Certified Fundamentals in Cybersecurity](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity) | Fortinet Training Institute | Beginner | 10 | [🏆](https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity) |
+| [Fortinet Certified Associate in Cybersecurity](https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity) | Fortinet Training Institute | Beginner | 6 | [🏆](https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1) | 
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
@@ -93,7 +95,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Front-End Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Selenium 101](https://www.lambdatest.com/certifications/selenium-101) | LambdaTest | Beginner | 4 |🏆|
 | [Angular](https://www.hackerrank.com/skills-verification/angular_basic) | HackerRank | Beginner | 1 |🏆|
-| [React](https://www.hackerrank.com/skills-verification/react_basic) | HackerRank | Beginner | 1.5 |🏆|
+| [React](https://www.hackerrank.com/skills-verification/react_basic) | HackerRank | Beginner | 1.5 |���|
 | [Node.js](https://www.hackerrank.com/skills-verification/nodejs_intermediate) | HackerRank | Intermediate | 1 |🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
@@ -179,7 +181,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
-[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆�� ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Machine and Deep Learning
