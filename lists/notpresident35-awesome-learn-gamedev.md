@@ -653,7 +653,7 @@ Royalty Free Game Art! Don't forget to check the license.
 ### Level Design
 
 
-[Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) 💠 - A gentle introduction to level design.
+[Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) �� - A gentle introduction to level design.
 
 
 [Tiled](https://www.mapeditor.org/) - A free and open source map editor 
