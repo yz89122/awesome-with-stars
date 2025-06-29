@@ -42,9 +42,20 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Workflows & Knowledge Guides](#workflows--knowledge-guides)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tooling](#tooling)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[IDE Integrations](#ide-integrations)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slash-Commands](#slash-commands)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Version Control & Git](#version-control--git)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code Analysis & Testing](#code-analysis--testing)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Context Loading & Priming](#context-loading--priming)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Documentation & Changelogs](#documentation--changelogs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CI / Deployment](#ci--deployment)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project & Task Management](#project--task-management)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Miscellaneous](#miscellaneous)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CLAUDE.md Files](#claudemd-files)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Language-Specific](#language-specific)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Domain-Specific](#domain-specific)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Scaffolding & MCP](#project-scaffolding--mcp)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation)  
 
 <br>
 
@@ -124,12 +135,16 @@ A seamless integration between Claude Code AI assistant and Neovim.
 
 ## Slash-Commands
 
-> **Slash-commands** are part of Claude Code's built-in API - they enable users to present customized instructions to Claude Code via a handy auto-complete-style interface
-
 ### Version Control & Git
 
 [`/2-commit-fast` ![GitHub Repo Stars](https://img.shields.io/github/stars/steadycursor/steadystart) ![GitHub last commit](https://img.shields.io/github/last-commit/steadycursor/steadystart)](https://github.com/steadycursor/steadystart/blob/main/.claude/commands/2-commit-fast.md) by [steadycursor](https://github.com/steadycursor)  
 Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer
+
+[`/analyze-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jerseycheese/Narraitor) ![GitHub last commit](https://img.shields.io/github/last-commit/jerseycheese/Narraitor)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/analyze-issue.md) by [jerseycheese](https://github.com/jerseycheese)  
+Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.
+
+[`/bug-fix` ![GitHub Repo Stars](https://img.shields.io/github/stars/danielscholl/mvn-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/danielscholl/mvn-mcp-server)](https://github.com/danielscholl/mvn-mcp-server/blob/main/.claude/commands/bug-fix.md) by [danielscholl](https://github.com/danielscholl)  
+Streamlines bug fixing by creating a GitHub issue first, then a feature branch for implementing and thoroughly testing the solution before merging.
 
 [`/commit` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/commit.md) by [evmts](https://github.com/evmts)  
 Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.
@@ -155,12 +170,6 @@ Fetches and fixes unresolved PR comments by automatically retrieving feedback, a
 [`/husky` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/husky.md) by [evmts](https://github.com/evmts)  
 Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ensuring code quality on commits.
 
-[`/analyze-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jerseycheese/Narraitor) ![GitHub last commit](https://img.shields.io/github/last-commit/jerseycheese/Narraitor)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/analyze-issue.md) by [jerseycheese](https://github.com/jerseycheese)  
-Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.
-
-[`/bug-fix` ![GitHub Repo Stars](https://img.shields.io/github/stars/danielscholl/mvn-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/danielscholl/mvn-mcp-server)](https://github.com/danielscholl/mvn-mcp-server/blob/main/.claude/commands/bug-fix.md) by [danielscholl](https://github.com/danielscholl)  
-Streamlines bug fixing by creating a GitHub issue first, then a feature branch for implementing and thoroughly testing the solution before merging.
-
 [`/pr-review` ![GitHub Repo Stars](https://img.shields.io/github/stars/arkavo-org/opentdf-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/arkavo-org/opentdf-rs)](https://github.com/arkavo-org/opentdf-rs/blob/main/.claude/commands/pr-review.md) by [arkavo-org](https://github.com/arkavo-org)  
 Reviews pull request changes to provide feedback, check for issues, and suggest improvements before merging into the main codebase.
 
@@ -168,9 +177,6 @@ Reviews pull request changes to provide feedback, check for issues, and suggest 
 Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.
 
 ### Code Analysis & Testing
-
-[`/analyze-code` ![GitHub Repo Stars](https://img.shields.io/github/stars/Hkgstax/VALUGATOR) ![GitHub last commit](https://img.shields.io/github/last-commit/Hkgstax/VALUGATOR)](https://github.com/Hkgstax/VALUGATOR/blob/main/.claude/commands/analyze-code.md) by [Hkgstax](https://github.com/Hkgstax)  
-Reviews code structure and identifies key components, mapping relationships between elements and suggesting targeted improvements for better architecture and performance.
 
 [`/check` ![GitHub Repo Stars](https://img.shields.io/github/stars/rygwdn/slack-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/rygwdn/slack-tools)](https://github.com/rygwdn/slack-tools/blob/main/.claude/commands/check.md) by [rygwdn](https://github.com/rygwdn)  
 Performs comprehensive code quality and security checks, featuring static analysis integration, security vulnerability scanning, code style enforcement, and detailed reporting.
@@ -187,15 +193,6 @@ Analyzes code performance to identify bottlenecks, proposing concrete optimizati
 [`/repro-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/rzykov/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rzykov/metabase)](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) by [rzykov](https://github.com/rzykov)  
 Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.
 
-[`/implement-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/cmxela/thinkube) ![GitHub last commit](https://img.shields.io/github/last-commit/cmxela/thinkube)](https://github.com/cmxela/thinkube/blob/main/.claude/commands/implement-issue.md) by [cmxela](https://github.com/cmxela)  
-Implements GitHub issues following strict project guidelines, complete implementation checklists, variable naming conventions, testing procedures, and documentation requirements.
-
-[`/implement-task` ![GitHub Repo Stars](https://img.shields.io/github/stars/Hkgstax/VALUGATOR) ![GitHub last commit](https://img.shields.io/github/last-commit/Hkgstax/VALUGATOR)](https://github.com/Hkgstax/VALUGATOR/blob/main/.claude/commands/implement-task.md) by [Hkgstax](https://github.com/Hkgstax)  
-Approaches task implementation methodically by thinking through strategy step-by-step, evaluating different approaches, considering tradeoffs, and implementing the best solution.
-
-[`/task-breakdown` ![GitHub Repo Stars](https://img.shields.io/github/stars/Hkgstax/VALUGATOR) ![GitHub last commit](https://img.shields.io/github/last-commit/Hkgstax/VALUGATOR)](https://github.com/Hkgstax/VALUGATOR/blob/main/.claude/commands/task-breakdown.md) by [Hkgstax](https://github.com/Hkgstax)  
-Analyzes feature requirements, identifies components and dependencies, creates manageable tasks, and sets priorities for efficient feature implementation.
-
 [`/tdd` ![GitHub Repo Stars](https://img.shields.io/github/stars/zscott/pane) ![GitHub last commit](https://img.shields.io/github/last-commit/zscott/pane)](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) by [zscott](https://github.com/zscott)  
 Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
 
@@ -209,9 +206,6 @@ Creates inline Rust-style tests, suggests refactoring for testability, analyzes 
 
 [`/context-prime` ![GitHub Repo Stars](https://img.shields.io/github/stars/elizaOS/elizaos.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/elizaOS/elizaos.github.io)](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) by [elizaOS](https://github.com/elizaOS)  
 Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.
-
-[`/context_prime` (NeuroVis-GoDot) ![GitHub Repo Stars](https://img.shields.io/github/stars/laportagm/NeruroVis-GoDot) ![GitHub last commit](https://img.shields.io/github/last-commit/laportagm/NeruroVis-GoDot)](https://github.com/laportagm/NeruroVis-GoDot/blob/TheDefaultBranch/.claude/commands/context_prime.md) by [laportagm](https://github.com/laportagm)  
-Establishes specialized context for Godot Engine development projects by setting up AI as a Godot expert, defining project structure, referencing key documentation, and structuring collaboration workflow.
 
 [`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) by [okuvshynov](https://github.com/okuvshynov)  
 Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
@@ -227,9 +221,6 @@ Sets context for model training by referencing pipeline files, establishing work
 
 [`/prime` ![GitHub Repo Stars](https://img.shields.io/github/stars/yzyydev/AI-Engineering-Structure) ![GitHub last commit](https://img.shields.io/github/last-commit/yzyydev/AI-Engineering-Structure)](https://github.com/yzyydev/AI-Engineering-Structure/blob/main/.claude/commands/prime.md) by [yzyydev](https://github.com/yzyydev)  
 Sets up initial project context by viewing directory structure and reading key files, creating standardized context with directory visualization and key documentation focus.
-
-[`/reminder` ![GitHub Repo Stars](https://img.shields.io/github/stars/cmxela/thinkube) ![GitHub last commit](https://img.shields.io/github/last-commit/cmxela/thinkube)](https://github.com/cmxela/thinkube/blob/main/.claude/commands/reminder.md) by [cmxela](https://github.com/cmxela)  
-Re-establishes project context after conversation breaks or compaction, restoring context and fixing guideline inconsistencies for complex implementations.
 
 [`/rsi` ![GitHub Repo Stars](https://img.shields.io/github/stars/ddisisto/si) ![GitHub last commit](https://img.shields.io/github/last-commit/ddisisto/si)](https://github.com/ddisisto/si/blob/main/.claude/commands/rsi.md) by [ddisisto](https://github.com/ddisisto)  
 Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
@@ -253,20 +244,11 @@ Reviews current documentation status, updates implementation progress, reviews p
 
 ### CI / Deployment
 
-[`/build-react-app` ![GitHub Repo Stars](https://img.shields.io/github/stars/wmjones/wyatt-personal-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/wmjones/wyatt-personal-aws)](https://github.com/wmjones/wyatt-personal-aws/blob/main/.claude/commands/build-react-app.md) by [wmjones](https://github.com/wmjones)  
-Builds React applications locally with intelligent error handling, creating specific tasks for build failures and providing appropriate server commands based on build results.
-
-[`/deploy` ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudartisan/cloudartisan.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudartisan/cloudartisan.github.io)](https://github.com/cloudartisan/cloudartisan.github.io/blob/main/.claude/commands/site/deploy.md) by [cloudartisan](https://github.com/cloudartisan)  
-Builds site with production settings, verifies build success, commits and pushes changes, and performs deployment checks for website publishing.
-
 [`/release` ![GitHub Repo Stars](https://img.shields.io/github/stars/kelp/webdown) ![GitHub last commit](https://img.shields.io/github/last-commit/kelp/webdown)](https://github.com/kelp/webdown/blob/main/.claude/commands/release.md) by [kelp](https://github.com/kelp)  
 Manages software releases by updating changelogs, reviewing README changes, evaluating version increments, and documenting release changes for better version tracking.
 
 [`/run-ci` ![GitHub Repo Stars](https://img.shields.io/github/stars/hackdays-io/toban-contribution-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/hackdays-io/toban-contribution-viewer)](https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/run-ci.md) by [hackdays-io](https://github.com/hackdays-io)  
 Activates virtual environments, runs CI-compatible check scripts, iteratively fixes errors, and ensures all tests pass before completion.
-
-[`/run-pre-commit` ![GitHub Repo Stars](https://img.shields.io/github/stars/wmjones/wyatt-personal-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/wmjones/wyatt-personal-aws)](https://github.com/wmjones/wyatt-personal-aws/blob/main/.claude/commands/run-pre-commit.md) by [wmjones](https://github.com/wmjones)  
-Runs pre-commit checks with intelligent results handling, analyzing outputs, creating tasks for issue fixing, and integrating with task management systems.
 
 ### Project & Task Management
 
@@ -285,20 +267,11 @@ Creates product requirement plans by reading PRP methodology, following template
 [`/do-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jerseycheese/Narraitor) ![GitHub last commit](https://img.shields.io/github/last-commit/jerseycheese/Narraitor)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/do-issue.md) by [jerseycheese](https://github.com/jerseycheese)  
 Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.
 
-[`/new` ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudartisan/cloudartisan.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudartisan/cloudartisan.github.io)](https://github.com/cloudartisan/cloudartisan.github.io/blob/main/.claude/commands/projects/new.md) by [cloudartisan](https://github.com/cloudartisan)  
-Creates new blog posts with proper front matter, enforcing structure, generating standardized metadata, and following site conventions for content workflow.
-
-[`/next-task` ![GitHub Repo Stars](https://img.shields.io/github/stars/wmjones/wyatt-personal-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/wmjones/wyatt-personal-aws)](https://github.com/wmjones/wyatt-personal-aws/blob/main/.claude/commands/next-task.md) by [wmjones](https://github.com/wmjones)  
-Gets the next task from TaskMaster and creates a branch for it, integrating with task management systems, automating branch creation, and enforcing naming conventions.
-
 [`/project_hello_w_name` ![GitHub Repo Stars](https://img.shields.io/github/stars/disler/just-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/disler/just-prompt)](https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md) by [disler](https://github.com/disler)  
 Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.
 
 [`/todo` ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisleyva/todo-slash-command) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisleyva/todo-slash-command)](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) by [chrisleyva](https://github.com/chrisleyva)  
 A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.
-
-[`/view_commands` ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudartisan/cloudartisan.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudartisan/cloudartisan.github.io)](https://github.com/cloudartisan/cloudartisan.github.io/blob/main/.claude/commands/view_commands.md) by [cloudartisan](https://github.com/cloudartisan)  
-Provides an organized directory of available project commands categorized by function, detailing post management commands, site management tools, and content creation capabilities.
 
 ### Miscellaneous
 
@@ -308,7 +281,7 @@ Generates React components with proper accessibility, creating ARIA-compliant co
 [`/dump`](https://gist.github.com/fumito-ito/77c308e0382e06a9c16b22619f8a2f83#file-dump-md) by [fumito-ito](https://github.com/fumito-ito)  
 Dumps the current Claude Code conversation to a markdown file in `.claude/logs/` with timestamped files that include session details and preserve full conversation history.
 
-[`/five` ![GitHub Repo Stars](https://img.shields.io/github/stars/TuckerTucker/tkr-agent-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/TuckerTucker/tkr-agent-chat)](https://github.com/TuckerTucker/tkr-agent-chat/blob/main/.claude/commands/five.md) by [TuckerTucker](https://github.com/TuckerTucker)  
+[`/five` ![GitHub Repo Stars](https://img.shields.io/github/stars/TuckerTucker/tkr-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/TuckerTucker/tkr-portfolio)](https://github.com/TuckerTucker/tkr-portfolio/blob/main/.claude/commands/five.md) by [TuckerTucker](https://github.com/TuckerTucker)  
 Applies the "five whys" methodology to perform root cause analysis, identify underlying issues, and create solution approaches for complex problems.
 
 [`/fixing_go_in_graph` ![GitHub Repo Stars](https://img.shields.io/github/stars/Mjvolk3/torchcell) ![GitHub last commit](https://img.shields.io/github/last-commit/Mjvolk3/torchcell)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/fixing_go_in_graph.md) by [Mjvolk3](https://github.com/Mjvolk3)  
@@ -410,9 +383,6 @@ Presents an innovative AI-human collaboration framework with Model Context Proto
 [`claude-code-mcp-enhanced` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-code-mcp-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-code-mcp-enhanced)](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/66328d6bcc960c81ff24f6213ce5614000858698/CLAUDE.md) by [grahama1970](https://github.com/grahama1970)  
 Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.
 
-[`MCP Engine` ![GitHub Repo Stars](https://img.shields.io/github/stars/featureform/mcp-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/featureform/mcp-engine)](https://github.com/featureform/mcp-engine/blob/main/CLAUDE.md) by [featureform](https://github.com/featureform)  
-Enforces strict package management with comprehensive type checking rules, explicit PR description guidelines, and systematic approach to resolving CI failures.
-
 [`Perplexity MCP` ![GitHub Repo Stars](https://img.shields.io/github/stars/Family-IT-Guy/perplexity-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/Family-IT-Guy/perplexity-mcp)](https://github.com/Family-IT-Guy/perplexity-mcp/blob/main/CLAUDE.md) by [Family-IT-Guy](https://github.com/Family-IT-Guy)  
 Offers clear step-by-step installation instructions with multiple configuration options, detailed troubleshooting guidance, and concise architecture overview of the MCP protocol.
 
@@ -431,6 +401,7 @@ The official documentation for Claude Code, including installation instructions,
 Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
 
 <br>
+
 
 ## Contributing
 
