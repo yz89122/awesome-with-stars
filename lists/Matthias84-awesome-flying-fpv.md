@@ -347,7 +347,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 
 ## Security & Safety 🪂
 
-### Simulators ���
+### Simulators 🌐
 
 Before you damage any hardware you can learn to avoid common pitfalls and train by virtual flights using your handhelt TX. Other allow to test / benchmark autopilots to work in controlled environments.
 

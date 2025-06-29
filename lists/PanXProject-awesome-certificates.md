@@ -267,7 +267,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
+| [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | ���|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
