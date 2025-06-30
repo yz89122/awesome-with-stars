@@ -226,7 +226,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 ## Twitter Accounts
 
 - [IBM](https://twitter.com/IBM) - Together with our clients, we're using technologies like AI, cloud, blockchain & IoT to transform business, industries and the world. Let’s put smart to work.
-- [IBMorg](https://twitter.com/IBMorg) - IBM’s approach to corporate responsibility reflects our business �� applied technology, continuous transformation, and sustainable change. #GoodTechIBM.
+- [IBMorg](https://twitter.com/IBMorg) - IBM’s approach to corporate responsibility reflects our business — applied technology, continuous transformation, and sustainable change. #GoodTechIBM.
 - [IBM Accessibility](https://twitter.com/IBMAccess) - Official IBM Accessibility Twitter account. This account follows the IBM Social Computing Guidelines.
 - [IBM Blockchain](https://twitter.com/IBMBlockchain) - Official Twitter of #IBM #Blockchain. All blockchain all the time. DMs are open. Run by Kyle Schlapkohl & Bret Bardeli.
 - [IBM Cloud](https://twitter.com/IBMcloud) - Built for your business, #IBMCloud has the tools, data & APIs to make AI real now. Follows IBM Social Computing Guidelines.
