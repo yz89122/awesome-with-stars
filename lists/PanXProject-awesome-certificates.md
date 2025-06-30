@@ -95,7 +95,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Front-End Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Selenium 101](https://www.lambdatest.com/certifications/selenium-101) | LambdaTest | Beginner | 4 |🏆|
 | [Angular](https://www.hackerrank.com/skills-verification/angular_basic) | HackerRank | Beginner | 1 |🏆|
-| [React](https://www.hackerrank.com/skills-verification/react_basic) | HackerRank | Beginner | 1.5 |🏆|
+| [React](https://www.hackerrank.com/skills-verification/react_basic) | HackerRank | Beginner | 1.5 |���|
 | [Node.js](https://www.hackerrank.com/skills-verification/nodejs_intermediate) | HackerRank | Intermediate | 1 |🏆|
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
@@ -144,7 +144,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python)|
 | [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
-| [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [����](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
+| [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4     | 🏆     |
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
@@ -181,7 +181,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
-[⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+[⬆�� ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Machine and Deep Learning
