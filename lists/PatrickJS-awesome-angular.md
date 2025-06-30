@@ -501,6 +501,7 @@ become an Angular expert.
 * [CodeSage AI ![GitHub Repo Stars](https://img.shields.io/github/stars/kd-akshay/code-quality-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-akshay/code-quality-analyzer)](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [angular-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/SAIPRANAY-GANGULA/angular-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/SAIPRANAY-GANGULA/angular-mcp-server)](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - A Model Context Protocol (MCP) server that provides comprehensive access to Angular documentation, enabling AI assistants to search and retrieve Angular-related information with intelligent relevance scoring.
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+* [context7 ![GitHub Repo Stars](https://img.shields.io/github/stars/upstash/context7) ![GitHub last commit](https://img.shields.io/github/last-commit/upstash/context7)](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors.
 
 #### Analytics
 
@@ -524,6 +525,7 @@ become an Angular expert.
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [opentelemetry-angular-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/jufab/opentelemetry-angular-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/jufab/opentelemetry-angular-interceptor)](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 * [ng-webdatarocks ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDataRocks/ng-webdatarocks) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDataRocks/ng-webdatarocks)](https://github.com/WebDataRocks/ng-webdatarocks) - This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/).  Follow this [example ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDataRocks/pivot-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDataRocks/pivot-angular)](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
+* [ngx-amplitude ![GitHub Repo Stars](https://img.shields.io/github/stars/th3n00bc0d3r/ngx-amplitude) ![GitHub last commit](https://img.shields.io/github/last-commit/th3n00bc0d3r/ngx-amplitude)](https://github.com/th3n00bc0d3r/ngx-amplitude) - A library that provides an easy-to-use interface for integrating [Amplitude](https://amplitude.com/) analytics into your Angular 18+ standalone applications. It includes a global initialization module and a service for logging events.
 
 #### Authentication
 
