@@ -618,6 +618,7 @@ become an Angular expert.
 * [dotairc ![GitHub Repo Stars](https://img.shields.io/github/stars/elecash/dotairc) ![GitHub last commit](https://img.shields.io/github/last-commit/elecash/dotairc)](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [lin ![GitHub Repo Stars](https://img.shields.io/github/stars/yuo-app/lin) ![GitHub last commit](https://img.shields.io/github/last-commit/yuo-app/lin)](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
 * [ngx-i18n-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/pratiksonone/ngx-i18n-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/pratiksonone/ngx-i18n-scan)](https://github.com/pratiksonone/ngx-i18n-scan) - A powerful CLI tool for scanning Angular source code and managing i18n translation keys. It automatically extracts keys from your project and keeps your translation files (like en.json) clean and updated.
+* [ns-gc ![GitHub Repo Stars](https://img.shields.io/github/stars/th3n00bc0d3r/ns-gc) ![GitHub last commit](https://img.shields.io/github/last-commit/th3n00bc0d3r/ns-gc)](https://github.com/th3n00bc0d3r/ns-gc) - A lightweight command-line tool to generate standalone NativeScript Angular components and Angular services with clean structure and zero config.
 
 #### Deployment
 

@@ -141,6 +141,7 @@
 
 - [OpenTofu Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/tofu-ls) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/tofu-ls)](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server.
 - [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
+- [zed Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/ashpool37/zed-extension-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/ashpool37/zed-extension-opentofu)](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 - [terratag ![GitHub Repo Stars](https://img.shields.io/github/stars/env0/terratag) ![GitHub last commit](https://img.shields.io/github/last-commit/env0/terratag)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfupdate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfupdate)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
