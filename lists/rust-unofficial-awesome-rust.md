@@ -333,6 +333,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Payments](#payments) applications.
 
+* [klirr ![GitHub Repo Stars](https://img.shields.io/github/stars/Sajjon/klirr) ![GitHub last commit](https://img.shields.io/github/last-commit/Sajjon/klirr)](https://github.com/Sajjon/klirr) [[klirr](https://crates.io/crates/klirr)] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
 * [tackler ![GitHub Repo Stars](https://img.shields.io/github/stars/tackler-ng/tackler) ![GitHub last commit](https://img.shields.io/github/last-commit/tackler-ng/tackler)](https://github.com/tackler-ng/tackler) [[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge ![GitHub Repo Stars](https://img.shields.io/github/stars/tackler-ng/tackler) ![GitHub last commit](https://img.shields.io/github/last-commit/tackler-ng/tackler)](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml)
 * [tarkah/tickrs ![GitHub Repo Stars](https://img.shields.io/github/stars/tarkah/tickrs) ![GitHub last commit](https://img.shields.io/github/last-commit/tarkah/tickrs)](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal
 
