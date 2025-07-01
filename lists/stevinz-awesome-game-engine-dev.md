@@ -507,7 +507,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Boost Libraries](https://github.com/boostorg) - Wide range of C++ libraries, many end up as part of the STL. [[Website](https://www.boost.org)]
     - 📚 [Gamedev Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/raizam/gamedev_libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/raizam/gamedev_libraries)](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
     - 📚 [Inqlude](https://inqlude.org) - List of libraries for developers of _Qt_-based apps.
-    - �� [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
+    - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
