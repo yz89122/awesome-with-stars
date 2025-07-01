@@ -461,6 +461,8 @@ Once issued, an invoice must be immutable.
 
 - [Ruby Invoicing Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/code-mancers/invoicing) ![GitHub last commit](https://img.shields.io/github/last-commit/code-mancers/invoicing)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
+- [klirr ![GitHub Repo Stars](https://img.shields.io/github/stars/sajjon/klirr) ![GitHub last commit](https://img.shields.io/github/last-commit/sajjon/klirr)](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS CLI tool for generating beautiful invoices for services and expenses.
+
 ### Extractors
 
 - [InvoiceNet ![GitHub Repo Stars](https://img.shields.io/github/stars/naiveHobo/InvoiceNet) ![GitHub last commit](https://img.shields.io/github/last-commit/naiveHobo/InvoiceNet)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
