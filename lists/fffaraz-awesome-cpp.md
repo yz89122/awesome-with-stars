@@ -651,6 +651,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TinySpline ![GitHub Repo Stars](https://img.shields.io/github/stars/msteinbeck/tinyspline) ![GitHub last commit](https://img.shields.io/github/last-commit/msteinbeck/tinyspline)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. [MIT]
 * [urho3d ![GitHub Repo Stars](https://img.shields.io/github/stars/urho3d/Urho3D) ![GitHub last commit](https://img.shields.io/github/last-commit/urho3d/Urho3D)](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 * [Yocto/GL ![GitHub Repo Stars](https://img.shields.io/github/stars/xelatihy/yocto-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/xelatihy/yocto-gl)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. [MIT]
+* [olive.c ![GitHub Repo Stars](https://img.shields.io/github/stars/tsoding/olive.c) ![GitHub last commit](https://img.shields.io/github/last-commit/tsoding/olive.c)](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library. [MIT]
 
 ## Image Processing
 
