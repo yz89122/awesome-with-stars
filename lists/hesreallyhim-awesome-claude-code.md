@@ -336,7 +336,7 @@ Serves as a development reference for E2E-encrypted messaging applications with 
 [`Course Builder` ![GitHub Repo Stars](https://img.shields.io/github/stars/badass-courses/course-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/badass-courses/course-builder)](https://github.com/badass-courses/course-builder/blob/main/CLAUDE.md) by [badass-courses](https://github.com/badass-courses) ⚖️ MIT  
 Enables real-time multiplayer capabilities for collaborative course creation with diverse tech stack integration and monorepo architecture using Turborepo.
 
-[`Cursor Tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/eastlondoner/cursor-tools)](https://github.com/eastlondoner/cursor-tools/blob/main/CLAUDE.md) by [eastlondoner](https://github.com/eastlondoner) ⚖️ MIT  
+[`Cursor Tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/eastlondoner/cursor-tools)](https://github.com/eastlondoner/cursor-tools/blob/main/CLAUDE.md) by [eastlondoner](https://github.com/eastlondoner) ⚖�� MIT  
 Creates a versatile AI command interface supporting multiple providers and models with flexible command options and browser automation through "Stagehand" feature.
 
 [`Guitar` ![GitHub Repo Stars](https://img.shields.io/github/stars/soramimi/Guitar) ![GitHub last commit](https://img.shields.io/github/last-commit/soramimi/Guitar)](https://github.com/soramimi/Guitar/blob/master/CLAUDE.md) by [soramimi](https://github.com/soramimi) ⚖️ GPL-2.0  
