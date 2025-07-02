@@ -310,7 +310,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
     - 🎉 [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
 - C: Geometry
-    - 🎉 [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
+    - �� [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
     - 🎉 [Marching Squares ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_msquares.h) - Convert images into triangles. [[Info](https://prideout.net/marching-squares)]
     - 🎉 [Octasphere ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_octasphere.h) - Generates triangle meshes for spheres, boxes, and capsules. [[Info](https://prideout.net/blog/octasphere/)]
     - 🎉 [Par_Shapes ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_shapes.h) - Triangle meshes including solids, spheres and more. [[Info](https://prideout.net/shapes)]
@@ -1198,7 +1198,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D/3D line rendering.
 - Noise
     - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
-    - �� [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
+    - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
     - 🎉 [Psrdnoise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/psrdnoise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/psrdnoise)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D/3D.
     - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) - Analysis of Perlin Noise, written in C#. [[Source](https://gist.github.com/Flafla2/f0260a861be0ebdeef76)]
     - 🎉 [WebGL Noise ![GitHub Repo Stars](https://img.shields.io/github/stars/stegu/webgl-noise) ![GitHub last commit](https://img.shields.io/github/last-commit/stegu/webgl-noise)](https://github.com/stegu/webgl-noise/) - Maintained branch of the original _Ashima Arts_ 2D, 3D and 4D noise functions.
