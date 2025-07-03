@@ -90,6 +90,7 @@
 ### CI
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
+- [Burrito](https://docs.burrito.tf/overview/) - Burrito is a TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
 - [TF-via-PR ![GitHub Repo Stars](https://img.shields.io/github/stars/OP5dev/TF-via-PR) ![GitHub last commit](https://img.shields.io/github/last-commit/OP5dev/TF-via-PR)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 - [pre-commit-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/tofuutils/pre-commit-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/tofuutils/pre-commit-opentofu)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 - [setup-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/setup-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/setup-opentofu)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
