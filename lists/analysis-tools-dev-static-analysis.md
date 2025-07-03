@@ -739,7 +739,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [RSLint](http://rslint.org/) :warning: — A (WIP) JavaScript linter written in Rust designed to be as fast as possible, customizable, and easy to use.
 
-- [standard](http://standardjs.com) �� An npm module that checks for Javascript Styleguide issues.
+- [standard](http://standardjs.com) — An npm module that checks for Javascript Styleguide issues.
 
 - [tern](https://ternjs.net) — A JavaScript code analyzer for deep, cross-editor language support.
 
