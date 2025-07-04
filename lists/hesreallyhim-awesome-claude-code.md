@@ -55,7 +55,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Language-Specific](#language-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Domain-Specific](#domain-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Scaffolding & MCP](#project-scaffolding--mcp)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation)
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation)  
 
 <br>
 
@@ -102,7 +102,7 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet) ⚖️ MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
-[`Claude Composer` ![GitHub Repo Stars](https://img.shields.io/github/stars/possibilities/claude-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/possibilities/claude-composer)](https://github.com/possibilities/claude-composer) by [Mike Bannister](https://github.com/possibilities)  
+[`Claude Composer` ![GitHub Repo Stars](https://img.shields.io/github/stars/possibilities/claude-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/possibilities/claude-composer)](https://github.com/possibilities/claude-composer) by [Mike Bannister](https://github.com/possibilities) ⚖️ Unlicense  
 A tool that adds small enhancements to Claude Code.
 
 [`Claude Hub` ![GitHub Repo Stars](https://img.shields.io/github/stars/claude-did-this/claude-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/claude-did-this/claude-hub)](https://github.com/claude-did-this/claude-hub) by [Claude Did This](https://github.com/claude-did-this)  
@@ -114,7 +114,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 [`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) by [parruda](https://github.com/parruda) ⚖️ MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
-[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) by [eyaltoledano](https://github.com/eyaltoledano) ⚖️ MIT  
+[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) by [eyaltoledano](https://github.com/eyaltoledano) ⚖️ NOASSERTION  
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) by [dagger](https://github.com/dagger) ⚖️ Apache-2.0  
@@ -181,11 +181,14 @@ Addresses code formatting and quality issues by fixing black formatting problems
 [`/code_analysis` ![GitHub Repo Stars](https://img.shields.io/github/stars/kingler/n8n_agent) ![GitHub last commit](https://img.shields.io/github/last-commit/kingler/n8n_agent)](https://github.com/kingler/n8n_agent/blob/main/.claude/commands/code_analysis.md) by [kingler](https://github.com/kingler)  
 Provides a menu of advanced code analysis commands for deep inspection, including knowledge graph generation, optimization suggestions, and quality evaluation.
 
-[`/tdd-implement` ![GitHub Repo Stars](https://img.shields.io/github/stars/jerseycheese/Narraitor) ![GitHub last commit](https://img.shields.io/github/last-commit/jerseycheese/Narraitor)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) by [jerseycheese](https://github.com/jerseycheese) ⚖️ MIT  
-Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
+[`/optimize` ![GitHub Repo Stars](https://img.shields.io/github/stars/to4iki/ai-project-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/to4iki/ai-project-rules)](https://github.com/to4iki/ai-project-rules/blob/main/.claude/commands/optimize.md) by [to4iki](https://github.com/to4iki) ⚖️ MIT  
+Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
 
-[`/testing_plan_integration` ![GitHub Repo Stars](https://img.shields.io/github/stars/buster-so/buster) ![GitHub last commit](https://img.shields.io/github/last-commit/buster-so/buster)](https://github.com/buster-so/buster/blob/main/api/.claude/commands/testing_plan_integration.md) by [buster-so](https://github.com/buster-so) ⚖️ MIT  
-Creates inline Rust-style tests, suggests refactoring for testability, analyzes code challenges, and creates comprehensive test coverage for robust code.
+[`/repro-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/rzykov/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rzykov/metabase)](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) by [rzykov](https://github.com/rzykov) ⚖️ NOASSERTION  
+Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.
+
+[`/tdd` ![GitHub Repo Stars](https://img.shields.io/github/stars/zscott/pane) ![GitHub last commit](https://img.shields.io/github/last-commit/zscott/pane)](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) by [zscott](https://github.com/zscott)  
+Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
 
 ### Context Loading & Priming
 
@@ -373,13 +376,14 @@ Offers clear step-by-step installation instructions with multiple configuration 
 
 <!--lint disable double-link-->
 
-[`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) by [Anthropic](https://github.com/anthropics)  &copy;  
+[`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) by [Anthropic](https://github.com/anthropics) ⚖️ &copy;  
 The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
 
 [`Anthropic Quickstarts` ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/anthropic-quickstarts)](https://github.com/anthropics/anthropic-quickstarts/blob/main/CLAUDE.md) by [Anthropic](https://github.com/anthropics) ⚖️ MIT  
 Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
 
 <br>
+
 
 ## Contributing
 
