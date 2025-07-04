@@ -156,6 +156,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Blogs
 
+- [Aardling Blog](https://aardling.eu/en/insights) - DDD and software design articles from Mathias Verraes and others.
 - [Nick Chamberlain](https://buildplease.com) - Helpful development and design advice for .NET developers.
 - [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnWeb) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnWeb)](https://github.com/dotnet-architecture/eShopOnWeb).
 - [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
@@ -270,6 +271,7 @@ The term was coined by Eric Evans in his book of the same title.
 ### PHP
 - [CodefyPHP Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/codefyphp/codefy) ![GitHub last commit](https://img.shields.io/github/last-commit/codefyphp/codefy)](https://github.com/codefyphp/codefy) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [DDD CQRS Todo Sample ![GitHub Repo Stars](https://img.shields.io/github/stars/ferrius/ddd-cqrs-example) ![GitHub last commit](https://img.shields.io/github/last-commit/ferrius/ddd-cqrs-example)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+- [DDD Modulith ![GitHub Repo Stars](https://img.shields.io/github/stars/janikredpandadev/ddd-modulith) ![GitHub last commit](https://img.shields.io/github/last-commit/janikredpandadev/ddd-modulith)](https://github.com/janikredpandadev/ddd-modulith) - A DDD Onion Architecture implementation with Symfony 7 as modulith. 
 - [DDD Wish List ![GitHub Repo Stars](https://img.shields.io/github/stars/franzose/symfony-ddd-wishlist) ![GitHub last commit](https://img.shields.io/github/last-commit/franzose/symfony-ddd-wishlist)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [DDD Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/jorge07/ddd-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jorge07/ddd-playground)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
 - [Eric Evans DDD Cargo Sample ![GitHub Repo Stars](https://img.shields.io/github/stars/codeliner/php-ddd-cargo-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/codeliner/php-ddd-cargo-sample)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
