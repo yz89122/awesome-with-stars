@@ -404,7 +404,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Quality Assurance Certification](https://www.freecodecamp.org/learn/quality-assurance/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) | Saylor Academy |Professional|52 | 🏆|
-| [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) | Saylor Academy |Professional|42 | ��|
+| [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) | Saylor Academy |Professional|42 | 🏆|
 | [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) | Saylor Academy |Professional|38 | 🏆|
 | [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67) | Saylor Academy |Professional|44 | 🏆|
 | [CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) | Saylor Academy |Professional|48 | 🏆|
@@ -435,7 +435,7 @@ Report it [here ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXPro
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [KICKOFF](https://www.pmi.org/kickoff)<!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
-| [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
+| [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | ���� |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
 
 [⬆️ ![GitHub Repo Stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/PanXProject/awesome-certificates)](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)

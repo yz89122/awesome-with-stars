@@ -674,7 +674,7 @@ additional ordered map implementations.
 - [pipeline ![GitHub Repo Stars](https://img.shields.io/github/stars/hyfather/pipeline) ![GitHub last commit](https://img.shields.io/github/last-commit/hyfather/pipeline)](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 - [pipelines ![GitHub Repo Stars](https://img.shields.io/github/stars/nxdir-s/pipelines) ![GitHub last commit](https://img.shields.io/github/last-commit/nxdir-s/pipelines)](https://github.com/nxdir-s/pipelines) - Generic pipeline functions for concurrent processing.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Database
 
