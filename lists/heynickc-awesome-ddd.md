@@ -271,7 +271,6 @@ The term was coined by Eric Evans in his book of the same title.
 - [https://github.com/felipexw/clean-arch-ddd-intro ![GitHub Repo Stars](https://img.shields.io/github/stars/felipexw/clean-arch-ddd-intro) ![GitHub last commit](https://img.shields.io/github/last-commit/felipexw/clean-arch-ddd-intro)](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
 
 ### PHP
-- [CodefyPHP Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/codefyphp/codefy) ![GitHub last commit](https://img.shields.io/github/last-commit/codefyphp/codefy)](https://github.com/codefyphp/codefy) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [DDD CQRS Todo Sample ![GitHub Repo Stars](https://img.shields.io/github/stars/ferrius/ddd-cqrs-example) ![GitHub last commit](https://img.shields.io/github/last-commit/ferrius/ddd-cqrs-example)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 - [DDD Modulith ![GitHub Repo Stars](https://img.shields.io/github/stars/janikredpandadev/ddd-modulith) ![GitHub last commit](https://img.shields.io/github/last-commit/janikredpandadev/ddd-modulith)](https://github.com/janikredpandadev/ddd-modulith) - A DDD Onion Architecture implementation with Symfony 7 as modulith. 
 - [DDD Wish List ![GitHub Repo Stars](https://img.shields.io/github/stars/franzose/symfony-ddd-wishlist) ![GitHub last commit](https://img.shields.io/github/last-commit/franzose/symfony-ddd-wishlist)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
@@ -352,6 +351,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### PHP
 - [Broadway ![GitHub Repo Stars](https://img.shields.io/github/stars/broadway/broadway) ![GitHub last commit](https://img.shields.io/github/last-commit/broadway/broadway)](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
+- [CodefyPHP Framework](https://github.com/codefyphp/) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 - [PHP Glossary ![GitHub Repo Stars](https://img.shields.io/github/stars/javanile/php-glossary) ![GitHub last commit](https://img.shields.io/github/last-commit/javanile/php-glossary)](https://github.com/javanile/php-glossary) - Apply a Term Analysis to extract domain terms vs out-of-scope terms in a DDD manner.
 
