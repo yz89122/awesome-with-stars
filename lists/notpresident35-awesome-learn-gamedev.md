@@ -252,7 +252,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Study Reference Sheet for Gameplay Engineers](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc) 🟪 - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview. Note: this is currently being migrated. It is incomplete at time of writing, but I have also included [the future-proof link](https://www.mrventures.net/get-into-gamedev.html).
 
 
-[Game AI Pro](http://www.gameaipro.com/) ���� - Three (3) free books (or more accurately, volumes of short papers) on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
+[Game AI Pro](http://www.gameaipro.com/) 🟪 - Three (3) free books (or more accurately, volumes of short papers) on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
 
 
 [AI Game Dev.com](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/) - An AI development community with lots of resources. It only exists on the internet archive, so be wary of outdated knowledge and broken links.
