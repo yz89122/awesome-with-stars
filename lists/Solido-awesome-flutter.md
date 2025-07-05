@@ -400,7 +400,7 @@ Meteo
 - [WebView ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-flitter/flutter_webview_plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-flitter/flutter_webview_plugin)](https://github.com/dart-flitter/flutter_webview_plugin) [1479⭐] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [Location ![GitHub Repo Stars](https://img.shields.io/github/stars/Lyokone/flutterlocation) ![GitHub last commit](https://img.shields.io/github/last-commit/Lyokone/flutterlocation)](https://github.com/Lyokone/flutterlocation) [1104⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
-- [Local Notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_local_notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_local_notifications)](https://github.com/MaikuB/flutter_local_notifications) [2441⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+- [Local Notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/MaikuB/flutter_local_notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/MaikuB/flutter_local_notifications)](https://github.com/MaikuB/flutter_local_notifications) [2441��] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/builttoroam/device_calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/builttoroam/device_calendar)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Badger ![GitHub Repo Stars](https://img.shields.io/github/stars/g123k/flutter_app_badger) ![GitHub last commit](https://img.shields.io/github/last-commit/g123k/flutter_app_badger)](https://github.com/g123k/flutter_app_badger) [308⭐] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID ![GitHub Repo Stars](https://img.shields.io/github/stars/GigaDroid/flutter_udid) ![GitHub last commit](https://img.shields.io/github/last-commit/GigaDroid/flutter_udid)](https://github.com/GigaDroid/flutter_udid) [245⭐] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
@@ -507,7 +507,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### Rendering
 
-- [Graphx ![GitHub Repo Stars](https://img.shields.io/github/stars/roipeker/graphx) ![GitHub last commit](https://img.shields.io/github/last-commit/roipeker/graphx)](https://github.com/roipeker/graphx) [491⭐] - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+- [Graphx ![GitHub Repo Stars](https://img.shields.io/github/stars/roipeker/graphx) ![GitHub last commit](https://img.shields.io/github/last-commit/roipeker/graphx)](https://github.com/roipeker/graphx) [491���] - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game
 
