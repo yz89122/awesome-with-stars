@@ -335,6 +335,7 @@
 - [Tiny JS ![GitHub Repo Stars](https://img.shields.io/github/stars/thoughtspile/awesome-tiny-js) ![GitHub last commit](https://img.shields.io/github/last-commit/thoughtspile/awesome-tiny-js)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 - [Frontend GIS ![GitHub Repo Stars](https://img.shields.io/github/stars/joewdavies/awesome-frontend-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/joewdavies/awesome-frontend-gis)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU ![GitHub Repo Stars](https://img.shields.io/github/stars/mikbry/awesome-webgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/mikbry/awesome-webgpu)](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
+- [WebAssembly ![GitHub Repo Stars](https://img.shields.io/github/stars/idematos/awesome-webassembly) ![GitHub last commit](https://img.shields.io/github/last-commit/idematos/awesome-webassembly)](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
 
 ## Back-End Development
 
