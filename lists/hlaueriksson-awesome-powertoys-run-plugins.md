@@ -77,6 +77,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [QuickNotes ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes)](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) - Create, manage, and search notes directly from PowerToys Run.
 - [SpeedTest ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanlap/PowerToysRun-SpeedTest) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanlap/PowerToysRun-SpeedTest)](https://github.com/ruslanlap/PowerToysRun-SpeedTest) - Test your internet connection speed directly from PowerToys Run.
 - [VideoDownloader ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanlap/PowerToysRun-VideoDownloader) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanlap/PowerToysRun-VideoDownloader)](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) - Download videos from various platforms directly from PowerToys Run.
+- [Definition ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanlap/PowerToysRun-Definition) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanlap/PowerToysRun-Definition)](https://github.com/ruslanlap/PowerToysRun-Definition) - Lookup word definitions, phonetics, and synonyms directly from PowerToys Run.
 
 ## Resources
 
