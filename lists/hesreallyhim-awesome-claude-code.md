@@ -260,7 +260,7 @@ Activates virtual environments, runs CI-compatible check scripts, iteratively fi
 [`/create-command` ![GitHub Repo Stars](https://img.shields.io/github/stars/scopecraft/command) ![GitHub last commit](https://img.shields.io/github/last-commit/scopecraft/command)](https://github.com/scopecraft/command/blob/main/.claude/commands/create-command.md) by [scopecraft](https://github.com/scopecraft)  
 Guides Claude through creating new custom commands with proper structure by analyzing requirements, templating commands by category, enforcing command standards, and creating supporting documentation.
 
-[`/create-jtbd` ![GitHub Repo Stars](https://img.shields.io/github/stars/taddyorg/inkverse) ![GitHub last commit](https://img.shields.io/github/last-commit/taddyorg/inkverse)](https://github.com/taddyorg/inkverse/blob/main/.claude/commands/create-jtbd.md) by [taddyorg](https://github.com/taddyorg) ⚖️ AGPL-3.0  
+[`/create-jtbd` ![GitHub Repo Stars](https://img.shields.io/github/stars/taddyorg/inkverse) ![GitHub last commit](https://img.shields.io/github/last-commit/taddyorg/inkverse)](https://github.com/taddyorg/inkverse/blob/main/.claude/commands/create-jtbd.md) by [taddyorg](https://github.com/taddyorg) ⚖�� AGPL-3.0  
 Creates Jobs-to-be-Done frameworks that outline user needs with structured format, focusing on specific user problems and organizing by job categories for product development.
 
 [`/create-prd` ![GitHub Repo Stars](https://img.shields.io/github/stars/taddyorg/inkverse) ![GitHub last commit](https://img.shields.io/github/last-commit/taddyorg/inkverse)](https://github.com/taddyorg/inkverse/blob/main/.claude/commands/create-prd.md) by [taddyorg](https://github.com/taddyorg) ⚖️ AGPL-3.0  
