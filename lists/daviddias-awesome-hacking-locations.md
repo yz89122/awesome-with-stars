@@ -804,7 +804,7 @@ Webpage: https://facebook.com/lugar34
 
 Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
-��   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
+✔   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
 
 ## Ålesund
 
