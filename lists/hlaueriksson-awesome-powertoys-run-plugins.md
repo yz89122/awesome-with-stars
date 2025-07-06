@@ -75,6 +75,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Twitch ![GitHub Repo Stars](https://img.shields.io/github/stars/hlaueriksson/Community.PowerToys.Run.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/hlaueriksson/Community.PowerToys.Run.Plugins)](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.<!--lint enable double-link-->
 - [SVGL ![GitHub Repo Stars](https://img.shields.io/github/stars/SameerJS6/powertoys-svgl) ![GitHub last commit](https://img.shields.io/github/last-commit/SameerJS6/powertoys-svgl)](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy SVG logos via svgl.
 - [QuickNotes ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes)](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) - Create, manage, and search notes directly from PowerToys Run.
+- [SpeedTest ![GitHub Repo Stars](https://img.shields.io/github/stars/ruslanlap/PowerToysRun-SpeedTest) ![GitHub last commit](https://img.shields.io/github/last-commit/ruslanlap/PowerToysRun-SpeedTest)](https://github.com/ruslanlap/PowerToysRun-SpeedTest) - Test your internet connection speed directly from PowerToys Run.
 
 ## Resources
 
