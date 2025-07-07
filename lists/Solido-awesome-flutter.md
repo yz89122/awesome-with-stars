@@ -425,7 +425,7 @@ Meteo
 
 ### Storage
 
-- [Sqflite ![GitHub Repo Stars](https://img.shields.io/github/stars/tekartik/sqflite) ![GitHub last commit](https://img.shields.io/github/last-commit/tekartik/sqflite)](https://github.com/tekartik/sqflite) [2856���] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+- [Sqflite ![GitHub Repo Stars](https://img.shields.io/github/stars/tekartik/sqflite) ![GitHub last commit](https://img.shields.io/github/last-commit/tekartik/sqflite)](https://github.com/tekartik/sqflite) [2856⭐] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [Drift ![GitHub Repo Stars](https://img.shields.io/github/stars/simolus3/drift) ![GitHub last commit](https://img.shields.io/github/last-commit/simolus3/drift)](https://github.com/simolus3/drift) - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
 Simon Binder](https://github.com/simolus3)
 - [ObjectBox ![GitHub Repo Stars](https://img.shields.io/github/stars/objectbox/objectbox-dart) ![GitHub last commit](https://img.shields.io/github/last-commit/objectbox/objectbox-dart)](https://github.com/objectbox/objectbox-dart) - On-device database for fast cross-platform Dart object persistence by [ObjectBox](https://github.com/objectbox)
