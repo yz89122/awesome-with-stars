@@ -202,6 +202,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [lucide-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
 - [svelte-icons-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/leshak/svelte-icons-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/leshak/svelte-icons-pack)](https://github.com/leshak/svelte-icons-pack) - Based on <https://github.com/react-icons/react-icons>.
 - [svesome ![GitHub Repo Stars](https://img.shields.io/github/stars/pouchlabs/svesome) ![GitHub last commit](https://img.shields.io/github/last-commit/pouchlabs/svesome)](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
+- [moving icons ![GitHub Repo Stars](https://img.shields.io/github/stars/jis3r/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/jis3r/icons)](https://github.com/jis3r/icons) - A collection of beautifully crafted, animated Lucide icons.
 
 ### Calendar
 
