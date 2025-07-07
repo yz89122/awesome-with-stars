@@ -501,6 +501,12 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 - [Authgear ![GitHub Repo Stars](https://img.shields.io/github/stars/authgear/authgear-server) ![GitHub last commit](https://img.shields.io/github/last-commit/authgear/authgear-server)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
 
+- [Azure Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) - Microsoft's cloud-based identity and access management service for employees and external partners that supports OIDC, OAuth 2.0, and SAML.
+
+- [Ping Identity](https://www.pingidentity.com) - Enterprise Identity and Access Management platform supporting OpenID Connect protocol.
+
+- [FusionAuth](https://fusionauth.io/) - Customer Identity and Access Management solution supporting OIDC.
+
 ## SAML
 
 Security Assertion Markup Language (SAML) 2.0 is a means to exchange authorization and authentication between services, like OAuth/OpenID protocols above.
