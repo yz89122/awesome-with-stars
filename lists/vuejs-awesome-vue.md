@@ -1353,6 +1353,7 @@ _Edit images_
 _Display images_
 
 - [TwicPics ![GitHub Repo Stars](https://img.shields.io/github/stars/TwicPics/components) ![GitHub last commit](https://img.shields.io/github/last-commit/TwicPics/components)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
+- [hevue-img-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/heyongsheng/hevue-img-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/heyongsheng/hevue-img-preview)](https://github.com/heyongsheng/hevue-img-preview) - Image preview for Vue 2 & 3, supports mobile and desktop. [(demo)](https://heyongsheng.github.io/en/guide/profile.html)
 
 ##### File Upload
 
