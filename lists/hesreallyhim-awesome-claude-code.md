@@ -327,7 +327,7 @@ Structures development workflow using pnpm with emphasis on TypeScript and Vue 3
 [`JSBeeb` ![GitHub Repo Stars](https://img.shields.io/github/stars/mattgodbolt/jsbeeb) ![GitHub last commit](https://img.shields.io/github/last-commit/mattgodbolt/jsbeeb)](https://github.com/mattgodbolt/jsbeeb/blob/main/CLAUDE.md) by [mattgodbolt](https://github.com/mattgodbolt) ⚖️ GPL-3.0  
 Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.
 
-[`Lamoom Python` ![GitHub Repo Stars](https://img.shields.io/github/stars/LamoomAI/lamoom-python) ![GitHub last commit](https://img.shields.io/github/last-commit/LamoomAI/lamoom-python)](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md) by [LamoomAI](https://github.com/LamoomAI) ⚖�� Apache-2.0  
+[`Lamoom Python` ![GitHub Repo Stars](https://img.shields.io/github/stars/LamoomAI/lamoom-python) ![GitHub last commit](https://img.shields.io/github/last-commit/LamoomAI/lamoom-python)](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md) by [LamoomAI](https://github.com/LamoomAI) ⚖️ Apache-2.0  
 Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.
 
 [`LangGraphJS` ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraphjs)](https://github.com/langchain-ai/langgraphjs/blob/main/CLAUDE.md) by [langchain-ai](https://github.com/langchain-ai) ⚖️ MIT  

@@ -101,6 +101,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Like-my-GF ![GitHub Repo Stars](https://img.shields.io/github/stars/cyandterry/Like-My-GF) ![GitHub last commit](https://img.shields.io/github/last-commit/cyandterry/Like-My-GF)](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 - [RoastBot ![GitHub Repo Stars](https://img.shields.io/github/stars/Tylersuard/RoastBot) ![GitHub last commit](https://img.shields.io/github/last-commit/Tylersuard/RoastBot)](https://github.com/Tylersuard/RoastBot) - A chatbot that insults its user.
 - [ErrorFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/SudoPseudo/ErrorFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/SudoPseudo/ErrorFlow)](https://github.com/SudoPseudo/ErrorFlow) - Lightweight version of TensorFlow with the same functionality: It never works and only outputs errors.
+- [gremllm ![GitHub Repo Stars](https://img.shields.io/github/stars/awwaiid/gremllm) ![GitHub last commit](https://img.shields.io/github/last-commit/awwaiid/gremllm)](https://github.com/awwaiid/gremllm) - Always a good idea to add gremlins to your code in a modern fashion.
 
 ## Ruby
 

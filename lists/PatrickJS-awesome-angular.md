@@ -803,7 +803,7 @@ become an Angular expert.
 
 #### Internationalization
 
-* [transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/jsverse/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/jsverse/transloco)](https://github.com/jsverse/transloco/) - 🚀 ���� The internationalization (i18n) library for Angular.
+* [transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/jsverse/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/jsverse/transloco)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
 * [transloco-keys-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/jsverse/transloco-keys-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/jsverse/transloco-keys-manager)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 * [ngx-tolgee ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [localess ![GitHub Repo Stars](https://img.shields.io/github/stars/Lessify/localess) ![GitHub last commit](https://img.shields.io/github/last-commit/Lessify/localess)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
