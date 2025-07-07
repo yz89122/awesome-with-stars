@@ -663,6 +663,7 @@
 - [better-queue ![GitHub Repo Stars](https://img.shields.io/github/stars/diamondio/better-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/diamondio/better-queue)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 - [bullmq ![GitHub Repo Stars](https://img.shields.io/github/stars/taskforcesh/bullmq) ![GitHub last commit](https://img.shields.io/github/last-commit/taskforcesh/bullmq)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 - [bree ![GitHub Repo Stars](https://img.shields.io/github/stars/breejs/bree) ![GitHub last commit](https://img.shields.io/github/last-commit/breejs/bree)](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
+- [graphile-worker ![GitHub Repo Stars](https://img.shields.io/github/stars/graphile/worker) ![GitHub last commit](https://img.shields.io/github/last-commit/graphile/worker)](https://github.com/graphile/worker) - High performance PostgreSQL job queue.
 
 ### Node.js management
 
