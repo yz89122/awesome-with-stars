@@ -99,6 +99,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## C#
 
 - [ORM and code generator ![GitHub Repo Stars](https://img.shields.io/github/stars/iluvadev/PocketBaseClient-csharp) ![GitHub last commit](https://img.shields.io/github/last-commit/iluvadev/PocketBaseClient-csharp)](https://github.com/iluvadev/PocketBaseClient-csharp) - An ORM to manage your PocketBase Application. ![GitHub Repo stars](https://img.shields.io/github/stars/iluvadev/PocketBaseClient-csharp)
+- [C# SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/PSCourtney/PocketBaseSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/PSCourtney/PocketBaseSharp)](https://github.com/PSCourtney/PocketBaseSharp) - C# SDK for PocketBase and demo Blazor WASM webapp. ![GitHub Repo stars](https://img.shields.io/github/stars/PSCourtney/PocketBaseSharp)
 
 ## D
 
