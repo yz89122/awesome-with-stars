@@ -383,7 +383,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Self-Citations, Co-Authorships and Keywords: A New Approach to Scientists’ Field Mobility?](https://doi.org/10.1007/s11192-007-1680-5) (_Scientometrics_, 2007).
 -   [Socio-Semantic Frameworks](https://doi.org/10.1142/S0219525913500136) ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); _Advances in Complex Systems_, 2013).
 -   [Socio-Semantic Modeling of Epistemic Communities](https://ssrn.com/abstract=2452614) (APSA, 2014).
--   [Tradition and Innovation in Scientists��� Research Strategies](https://doi.org/10.1177/0003122415601618) (_Annual Review of Sociology_, 2015).
+-   [Tradition and Innovation in Scientists’ Research Strategies](https://doi.org/10.1177/0003122415601618) (_Annual Review of Sociology_, 2015).
 
 ### Biological, Ecological and Disease Networks
 
