@@ -368,7 +368,7 @@ See also:
 ORMs
 ----
 
-* �� [mito ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [BSD_3Clause][15].
+* ��� [mito ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [BSD_3Clause][15].
   * [mitho-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito-auth)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
   * [mito-attachment ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito-attachment) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito-attachment)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
