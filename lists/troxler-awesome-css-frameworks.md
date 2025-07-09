@@ -42,6 +42,13 @@ Feel free to [contribute ![GitHub Repo Stars](https://img.shields.io/github/star
 
 Frameworks that use semantic HTML and do not rely on classes.
 
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/picocss/pico) ![GitHub last commit](https://img.shields.io/github/last-commit/picocss/pico)](https://github.com/picocss/pico)
+  | #SCSS
+
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
   [Docs](https://andybrewer.github.io/mvp/#docs),
@@ -127,13 +134,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://primer.style/css/),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/primer/css) ![GitHub last commit](https://img.shields.io/github/last-commit/primer/css)](https://github.com/primer/css)
-  | #SCSS
-
-- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/picocss/pico) ![GitHub last commit](https://img.shields.io/github/last-commit/picocss/pico)](https://github.com/picocss/pico)
   | #SCSS
 
 - [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.  
