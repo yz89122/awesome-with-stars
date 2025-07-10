@@ -81,7 +81,7 @@
 ### Productivity and Time
 
 - [Solanum](https://apps.gnome.org/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
-- [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
+- [Khronos](https://flathub.org/apps/io.github.lainsce.Khronos) - Log the time it took to do tasks.
 - [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
@@ -115,6 +115,7 @@
 - [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 - [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
+- [Drum Machine](https://apps.gnome.org/DrumMachine/) - Create and play drum beats. ![GNOME Circle][GNOME Circle]
 
 ### Graphics
 
@@ -156,7 +157,7 @@
 - [Ptyxis](https://flathub.org/apps/app.devsuite.Ptyxis) - Terminal with first-class support for containers.
 - [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
 - [Luminance ![GitHub Repo Stars](https://img.shields.io/github/stars/sidevesh/Luminance) ![GitHub last commit](https://img.shields.io/github/last-commit/sidevesh/Luminance)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
-- [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
+- [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences. ![GNOME Circle][GNOME Circle]
 - [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
 - [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle][GNOME Circle]
 
@@ -172,6 +173,7 @@
 - [Lan Mouse ![GitHub Repo Stars](https://img.shields.io/github/stars/feschber/lan-mouse) ![GitHub last commit](https://img.shields.io/github/last-commit/feschber/lan-mouse)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 - [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
+- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
 
 ### Security and Privacy
 

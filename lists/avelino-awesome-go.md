@@ -1000,6 +1000,7 @@ _Packages that help with building Distributed Systems._
 - [NATS ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats-server) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats-server)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
   performant communications system for digital systems, services, and devices.
 - [opentelemetry-go-auto-instrumentation ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/opentelemetry-go-auto-instrumentation) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/opentelemetry-go-auto-instrumentation)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - OpenTelemetry Compile-Time Instrumentation for Golang.
+- [outbox ![GitHub Repo Stars](https://img.shields.io/github/stars/oagudo/outbox) ![GitHub last commit](https://img.shields.io/github/last-commit/oagudo/outbox)](https://github.com/oagudo/outbox) - Lightweight library for the transactional outbox pattern in Go, not tied to any specific relational database or broker.
 - [outboxer ![GitHub Repo Stars](https://img.shields.io/github/stars/italolelis/outboxer) ![GitHub last commit](https://img.shields.io/github/last-commit/italolelis/outboxer)](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
 - [pglock](https://cirello.io/pglock) - PostgreSQL-backed distributed locking implementation.
 - [pjrpc](https://gitlab.com/pjrpc/pjrpc) - Golang JSON-RPC Server-Client with Protobuf spec.
@@ -2927,6 +2928,7 @@ _Libraries for working with UUIDs._
 - [fastuuid ![GitHub Repo Stars](https://img.shields.io/github/stars/rekby/fastuuid) ![GitHub last commit](https://img.shields.io/github/last-commit/rekby/fastuuid)](https://github.com/rekby/fastuuid) - Fast generate UUIDv4 as string or bytes.
 - [goid ![GitHub Repo Stars](https://img.shields.io/github/stars/jakehl/goid) ![GitHub last commit](https://img.shields.io/github/last-commit/jakehl/goid)](https://github.com/jakehl/goid) - Generate and Parse RFC4122 compliant V4 UUIDs.
 - [gouid ![GitHub Repo Stars](https://img.shields.io/github/stars/twharmon/gouid) ![GitHub last commit](https://img.shields.io/github/last-commit/twharmon/gouid)](https://github.com/twharmon/gouid) - Generate cryptographically secure random string IDs with just one allocation.
+- [guid ![GitHub Repo Stars](https://img.shields.io/github/stars/sdrapkin/guid) ![GitHub last commit](https://img.shields.io/github/last-commit/sdrapkin/guid)](https://github.com/sdrapkin/guid) - Fast cryptographically safe Guid generator for Go (~10x faster than `uuid`).
 - [nanoid ![GitHub Repo Stars](https://img.shields.io/github/stars/aidarkhanov/nanoid) ![GitHub last commit](https://img.shields.io/github/last-commit/aidarkhanov/nanoid)](https://github.com/aidarkhanov/nanoid) - A tiny and efficient Go unique string ID generator.
 - [sno ![GitHub Repo Stars](https://img.shields.io/github/stars/muyo/sno) ![GitHub last commit](https://img.shields.io/github/last-commit/muyo/sno)](https://github.com/muyo/sno) - Compact, sortable and fast unique IDs with embedded metadata.
 - [ulid ![GitHub Repo Stars](https://img.shields.io/github/stars/oklog/ulid) ![GitHub last commit](https://img.shields.io/github/last-commit/oklog/ulid)](https://github.com/oklog/ulid) - Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier).
@@ -3749,6 +3751,7 @@ _Add the group of your city/country here (send **PR**)_
 ### Guided Learning
 
 - [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
+- [The Go Interview Practice ![GitHub Repo Stars](https://img.shields.io/github/stars/RezaSi/go-interview-practice) ![GitHub last commit](https://img.shields.io/github/last-commit/RezaSi/go-interview-practice)](https://github.com/RezaSi/go-interview-practice) - A GitHub repository offering coding challenges for Go technical interview preparation.
 - [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
 - [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
