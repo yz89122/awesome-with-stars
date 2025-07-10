@@ -25,7 +25,6 @@
   - [Security and Privacy](#security-and-privacy)
   - [Development and Design](#development-and-design)
   - [Others](#others)
-- [Third-party Apps Plugins](#third-party-apps-plugins)
 - [Extensions](#extensions)
   - [Docks and Panels](#docks-and-panels)
   - [Customization and Tweaks](#customization-and-tweaks)
@@ -67,6 +66,7 @@
 - [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
 - [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client.
 - [Netsleuth ![GitHub Repo Stars](https://img.shields.io/github/stars/vmkspv/netsleuth) ![GitHub last commit](https://img.shields.io/github/last-commit/vmkspv/netsleuth)](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values.
+- [Turn On](https://codeberg.org/swsnr/turnon) - Utility to send Wake On LAN (WoL) magic packets to devices in a network.
 
 ### Office
 
@@ -220,10 +220,6 @@
 
 - [Boxes](https://apps.gnome.org/Boxes) - View, access, and manage remote and virtual systems.
 
-## Third-party Apps Plugins
-
-- [Nautilus Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/flozz/nautilus-terminal) ![GitHub last commit](https://img.shields.io/github/last-commit/flozz/nautilus-terminal)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
-
 ## Extensions
 
 ### Docks and Panels
@@ -338,6 +334,11 @@
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
+
+### Other lists
+
+- [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
+- [Awesome-GTK ![GitHub Repo Stars](https://img.shields.io/github/stars/valpackett/awesome-gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/valpackett/awesome-gtk)](https://github.com/valpackett/awesome-gtk) - Collections of awesome native open-source GTK (4 and 3) applications.
 
 ## Developer Resources
 
