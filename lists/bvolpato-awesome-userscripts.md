@@ -42,6 +42,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Passwords](#-passwords)
   - [Privacy](#-privacy)
   - [Reddit](#-reddit)
+  - [Stremio](#-stremio)
   - [Text-to-speech](#-text-to-speech)
   - [Translation](#-translation)
   - [YouTube](#-youtube)
@@ -1352,7 +1353,7 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-### <img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@66d5192/assets/images/icons/sites/reddit/icon32.png"> Reddit
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@66d5192/assets/images/icons/sites/reddit/icon32.png"> Reddit
 
 <details> <!-- Reddit Tab Icons & Title Prefix -->
     <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">Reddit Tab Icons & Title Prefix</a> - Adds subreddit icons to Reddit tabs and prefixes the tab title with the subreddit name (e.g., `r/SubredditName`) for easier tab identification and navigation.</summary><br>
@@ -1364,6 +1365,44 @@ Userscripts can be used w/ the following browsers:
         💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Reddit_Tab_Icons_Title_Prefix.user.js">
             Install</a> /
         📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">
+            Readme</a> /
+        📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/sinazadeh/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@ec34eea/assets/images/icons/sites/stremio/icon32.png"> Stremio
+
+<details> <!-- Google Search: Stremio Links -->
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">Google Search: Stremio Links</a> - Adds convenient "Watch on Stremio" buttons (App & Web) next to IMDb links in Google search results.</summary><br>
+    <blockquote>
+        <a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">
+            <img src="https://github.com/user-attachments/assets/106e9aeb-b649-4096-b3c6-ffc3ad23490f"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Google_Search_Stremio_Links.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">
+            Readme</a> /
+        📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/sinazadeh/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Letterboxd Link Badges -->
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
+    <blockquote>
+        <a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">
+            <img src="https://github.com/user-attachments/assets/c389af0c-6dd7-41d6-8695-d1bbfc7c5004"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Letterboxd_Link_Badges.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">
             Readme</a> /
         📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
             Discuss</a> /
