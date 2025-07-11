@@ -1098,7 +1098,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+        �� <a href="https://github.com/Rob--W/dont-track-me-google/issues">
             Discuss</a> /
         🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
             Report bug</a>
