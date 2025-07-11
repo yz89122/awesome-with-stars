@@ -90,14 +90,14 @@ Really comprehensive set of commands for all aspects of SDLC.
 [`Project Workflow System` ![GitHub Repo Stars](https://img.shields.io/github/stars/harperreed/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/harperreed/dotfiles)](https://github.com/harperreed/dotfiles/tree/master/.claude/commands) &nbsp; by &nbsp; [harperreed](https://github.com/harperreed)    
 A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.
 
+[`Shipping Real Code w/ Claude`](https://diwank.space/field-notes-from-shipping-real-code-with-claude) &nbsp; by &nbsp; [Diwank](https://github.com/creatorrr)    
+A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
+
 [`Simone` ![GitHub Repo Stars](https://img.shields.io/github/stars/Helmi/claude-simone) ![GitHub last commit](https://img.shields.io/github/last-commit/Helmi/claude-simone)](https://github.com/Helmi/claude-simone) &nbsp; by &nbsp; [Helmi](https://github.com/Helmi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
 
 [`Slash-commands megalist` ![GitHub Repo Stars](https://img.shields.io/github/stars/wcygan/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/wcygan/dotfiles)](https://github.com/wcygan/dotfiles/tree/d8ab6b9f5a7a81007b7f5fa3025d4f83ce12cc02/claude/commands) &nbsp; by &nbsp; [wcygan](https://github.com/wcygan)    
 A pretty stunning list (88 at the time of this post!) of slash-commands ranging from agent orchestration, code review, project management, security, documentation, self-assessment, almost anything you can dream of.
-
-[`Shipping Real Code w/ Claude`](https://diwank.space/field-notes-from-shipping-real-code-with-claude) &nbsp; by &nbsp; [Diwank](https://github.com/creatorrr)    
-A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
 
 <br>
 
@@ -152,20 +152,23 @@ A seamless integration between Claude Code AI assistant and Neovim.
 [`claude-code-hooks-sdk` ![GitHub Repo Stars](https://img.shields.io/github/stars/beyondcode/claude-hooks-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/beyondcode/claude-hooks-sdk)](https://github.com/beyondcode/claude-hooks-sdk) &nbsp; by &nbsp; [beyondcode](https://github.com/beyondcode)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.
 
+[`Linting, testing, and notifications (in go)` ![GitHub Repo Stars](https://img.shields.io/github/stars/Veraticus/nix-config) ![GitHub last commit](https://img.shields.io/github/last-commit/Veraticus/nix-config)](https://github.com/Veraticus/nix-config/tree/main/home-manager/claude-code/hooks) &nbsp; by &nbsp; [Josh Symonds](https://github.com/Veraticus)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Nice set of hooks for enforcing code quality (linting, testing, notifications), with a nice configuration setup as well.
+
 <br>
 
 ## Slash-Commands 🔪
 
 ### Version Control & Git
 
-[`/commit-fast` ![GitHub Repo Stars](https://img.shields.io/github/stars/steadycursor/steadystart) ![GitHub last commit](https://img.shields.io/github/last-commit/steadycursor/steadystart)](https://github.com/steadycursor/steadystart/blob/main/.claude/commands/2-commit-fast.md) &nbsp; by &nbsp; [steadycursor](https://github.com/steadycursor)    
-Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer
-
 [`/bug-fix` ![GitHub Repo Stars](https://img.shields.io/github/stars/danielscholl/mvn-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/danielscholl/mvn-mcp-server)](https://github.com/danielscholl/mvn-mcp-server/blob/main/.claude/commands/bug-fix.md) &nbsp; by &nbsp; [danielscholl](https://github.com/danielscholl)    
 Streamlines bug fixing by creating a GitHub issue first, then a feature branch for implementing and thoroughly testing the solution before merging.
 
 [`/commit` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/commit.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.
+
+[`/commit-fast` ![GitHub Repo Stars](https://img.shields.io/github/stars/steadycursor/steadystart) ![GitHub last commit](https://img.shields.io/github/last-commit/steadycursor/steadystart)](https://github.com/steadycursor/steadystart/blob/main/.claude/commands/2-commit-fast.md) &nbsp; by &nbsp; [steadycursor](https://github.com/steadycursor)    
+Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer
 
 [`/create-pr` ![GitHub Repo Stars](https://img.shields.io/github/stars/toyamarinyon/giselle) ![GitHub last commit](https://img.shields.io/github/last-commit/toyamarinyon/giselle)](https://github.com/toyamarinyon/giselle/blob/main/.claude/commands/create-pr.md) &nbsp; by &nbsp; [toyamarinyon](https://github.com/toyamarinyon)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.

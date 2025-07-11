@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Build ![GitHub Repo Stars](https://img.shields.io/github/stars/dend/awesome-product-management) ![GitHub last commit](https://img.shields.io/github/last-commit/dend/awesome-product-management)](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml)
 [![Link Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/dend/awesome-product-management) ![GitHub last commit](https://img.shields.io/github/last-commit/dend/awesome-product-management)](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml)
-![GitHub Repo stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)](https://github.com/dend/awesome-product-management/stargazers)
 
 *A curated list of awesome resources for product/program managers to learn and grow.*
 
