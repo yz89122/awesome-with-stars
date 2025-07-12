@@ -1116,7 +1116,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/linkify-plus-plus/#readme">
             Readme</a> /
-        ���� <a href="https://github.com/eight04/linkify-plus-plus/discussions">
+        📢 <a href="https://github.com/eight04/linkify-plus-plus/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/linkify-plus-plus/issues">
             Report bug</a>
