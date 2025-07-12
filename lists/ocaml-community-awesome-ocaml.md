@@ -340,7 +340,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - [lablgtk](https://garrigue.github.io/lablgtk/) — GTK2 and GTK3 bindings for OCaml with various higher-level facilities to define GUIs.
 - [lablqml ![GitHub Repo Stars](https://img.shields.io/github/stars/Kakadu/lablqml) ![GitHub last commit](https://img.shields.io/github/last-commit/Kakadu/lablqml)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
-- [labltk](https://forge.ocamlcore.org/projects/labltk/) ��� Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
+- [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 - [Lambda-Term ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/lambda-term) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/lambda-term)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
 - [Notty ![GitHub Repo Stars](https://img.shields.io/github/stars/pqwy/notty) ![GitHub last commit](https://img.shields.io/github/last-commit/pqwy/notty)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.

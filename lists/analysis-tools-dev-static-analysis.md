@@ -310,7 +310,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Vannevelj/VSDiagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Vannevelj/VSDiagnostics)](https://github.com/Vannevelj/VSDiagnostics) :warning: �� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -595,7 +595,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
-- [structslop ![GitHub Repo Stars](https://img.shields.io/github/stars/orijtech/structslop) ![GitHub last commit](https://img.shields.io/github/last-commit/orijtech/structslop)](https://github.com/orijtech/structslop) ��� Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
+- [structslop ![GitHub Repo Stars](https://img.shields.io/github/stars/orijtech/structslop) ![GitHub last commit](https://img.shields.io/github/last-commit/orijtech/structslop)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
 
 - [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
@@ -660,7 +660,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Doop](https://plast-lab.github.io/doop-pldi15-tutorial/) — Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 
-- [ENRE-java ![GitHub Repo Stars](https://img.shields.io/github/stars/xjtu-enre/ENRE-java) ![GitHub last commit](https://img.shields.io/github/last-commit/xjtu-enre/ENRE-java)](https://github.com/xjtu-enre/ENRE-java) :warning: �� ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-java is a ENtity Relationship Extractor for Java projects based on @Eclipse JDT/parser.
+- [ENRE-java ![GitHub Repo Stars](https://img.shields.io/github/stars/xjtu-enre/ENRE-java) ![GitHub last commit](https://img.shields.io/github/last-commit/xjtu-enre/ENRE-java)](https://github.com/xjtu-enre/ENRE-java) :warning: — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-java is a ENtity Relationship Extractor for Java projects based on @Eclipse JDT/parser.
 
 - [Error Prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 
