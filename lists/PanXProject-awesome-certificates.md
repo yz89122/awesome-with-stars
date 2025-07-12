@@ -73,7 +73,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">Cybersecurity Essentials</a>| Cisco Networking Academy | Intermediate | 30 | <a href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
+| <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | ��|
 | <a href="https://tryhackme.com/path/outline/jrpenetrationtester" target="_blank" rel="noopener noreferrer">JR Penetration Tester</a> | TryHackMe |Intermediate| 64 | 🏆|
 | <a href="https://tryhackme.com/path/outline/blueteam" target="_blank" rel="noopener noreferrer">Cyber Defense</a> | TryHackMe | Intermediate | 48 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/redteaming" target="_blank" rel="noopener noreferrer">Red Teaming</a> | TryHackMe | Intermediate | 48 | 🏆 |
@@ -248,7 +248,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/" target="_blank" rel="noopener noreferrer">Introduction to Electronics</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/" target="_blank" rel="noopener noreferrer">Electronic Applications</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/" target="_blank" rel="noopener noreferrer">Embedded Systems</a> | Academy Europe |Intermediate| 30 |🏆|
-| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | 🏆|
+| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | ��|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -305,7 +305,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://codehs.com/playlist/hour-of-code-3111" target="_blank" rel="noopener noreferrer">React Native</a> | CodeHS | Beginner | 1 | 🏅 |
 | <a href="https://cursa.app/en/free-online-courses/react-native" target="_blank" rel="noopener noreferrer">React Native for Beginners</a> | Cursa | Beginner | 5 | 🏆 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx" target="_blank" rel="noopener noreferrer">React Native HTML to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
+| <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | ��� |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -423,7 +423,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing" target="_blank" rel="noopener noreferrer">Digital Marketing</a> | Google | Beginner | 40 | ���� |
+| <a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing" target="_blank" rel="noopener noreferrer">Digital Marketing</a> | Google | Beginner | 40 | 🏅 |
 | <a href="https://academy.sendinblue.com/course/email-marketing-course-english" target="_blank" rel="noopener noreferrer">Email Marketing</a> | SendinBlue | Beginner | 4 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
