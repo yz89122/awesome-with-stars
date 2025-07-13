@@ -1116,7 +1116,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/linkify-plus-plus/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/linkify-plus-plus/discussions">
+        ���� <a href="https://github.com/eight04/linkify-plus-plus/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/linkify-plus-plus/issues">
             Report bug</a>
@@ -1382,7 +1382,7 @@ Userscripts can be used w/ the following browsers:
             <img src="https://github.com/user-attachments/assets/106e9aeb-b649-4096-b3c6-ffc3ad23490f"></a>
     </blockquote>
     <blockquote>
-        �� <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Google_Search_Stremio_Links.user.js">
+        💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Google_Search_Stremio_Links.user.js">
             Install</a> /
         📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">
             Readme</a> /
