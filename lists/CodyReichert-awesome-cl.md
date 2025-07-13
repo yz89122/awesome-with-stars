@@ -679,7 +679,7 @@ Graphics
 
 These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
 
-* ⭐ [Sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/vydd/sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/vydd/sketch)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
+* �� [Sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/vydd/sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/vydd/sketch)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
 * [cl-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/wmannis/cl-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/wmannis/cl-svg)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat][14].
 * [dufy ![GitHub Repo Stars](https://img.shields.io/github/stars/privet-kitty/dufy) ![GitHub last commit](https://img.shields.io/github/last-commit/privet-kitty/dufy)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT][200].
 * [opticl ![GitHub Repo Stars](https://img.shields.io/github/stars/slyrus/opticl) ![GitHub last commit](https://img.shields.io/github/last-commit/slyrus/opticl)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD_2Clause][17].
