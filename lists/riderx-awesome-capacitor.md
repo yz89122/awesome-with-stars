@@ -10,9 +10,9 @@
 <br />
 Capacitor is an open-source native runtime for building Web Native apps. Create cross-platform iOS, Android, and Progressive Web Apps with JavaScript, HTML, and CSS.
 <br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
+  <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/></a>
   <h2><a href="https://capgo.app/?ref=awesomelist"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
   <h2><a href="https://capgo.app/consulting/?ref=awesomelist"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
@@ -227,6 +227,7 @@ Independents plugins are listed here.
 - [Screenshot ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-screenshot) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-screenshot)](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 - [Send intent ![GitHub Repo Stars](https://img.shields.io/github/stars/tavosansal/capacitor-plugin-send-intent) ![GitHub last commit](https://img.shields.io/github/last-commit/tavosansal/capacitor-plugin-send-intent)](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
 - [Sentry ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry-capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry-capacitor)](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
+- [Shamir ![GitHub Repo Stars](https://img.shields.io/github/stars/vault12/capacitor-shamir) ![GitHub last commit](https://img.shields.io/github/last-commit/vault12/capacitor-shamir)](https://github.com/vault12/capacitor-shamir) - Shamir's Secret Sharing cryptographic algorithm.
 - [Stripe terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/eventOneHQ/capacitor-stripe-terminal) ![GitHub last commit](https://img.shields.io/github/last-commit/eventOneHQ/capacitor-stripe-terminal)](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
 - [Sprig ![GitHub Repo Stars](https://img.shields.io/github/stars/crabbydavis/sprig) ![GitHub last commit](https://img.shields.io/github/last-commit/crabbydavis/sprig)](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 - [Square Payments ![GitHub Repo Stars](https://img.shields.io/github/stars/jbrown0824/capacitor-square-payments) ![GitHub last commit](https://img.shields.io/github/last-commit/jbrown0824/capacitor-square-payments)](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
@@ -239,6 +240,9 @@ Independents plugins are listed here.
 - [Bing Translator ![GitHub Repo Stars](https://img.shields.io/github/stars/sabereen/capacitor-bing-translator) ![GitHub last commit](https://img.shields.io/github/last-commit/sabereen/capacitor-bing-translator)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 - [Capacitor Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ebarooni/capacitor-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ebarooni/capacitor-calendar)](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
 - [Capacitor voice recorder ![GitHub Repo Stars](https://img.shields.io/github/stars/tchvu3/capacitor-voice-recorder) ![GitHub last commit](https://img.shields.io/github/last-commit/tchvu3/capacitor-voice-recorder)](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
+- [capacitor-app-attest ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-app-attest) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-app-attest)](https://github.com/ludufre/capacitor-app-attest) - Apple Attest with Ionic Capacitor
+- [capacitor-live-activities ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-live-activities) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-live-activities)](https://github.com/ludufre/capacitor-live-activities) - Capacitor plugin to use Live Activities on iOS 16.2+.
+- [capacitor-lottie-splash-screen ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-lottie-splash-screen) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-lottie-splash-screen)](https://github.com/ludufre/capacitor-lottie-splash-screen) - Capacitor plugin to use Lottie animations as splash screen.
 
 
 ## Cordova plugins
