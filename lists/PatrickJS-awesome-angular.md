@@ -959,6 +959,7 @@ become an Angular expert.
 * [ngx-app-starter-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/r3zafa/ngx-app-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/r3zafa/ngx-app-starter-kit)](https://github.com/r3zafa/ngx-app-starter-kit) - A modern Angular 18+ starter kit with Docker, devcontainer, and Angular Material integration for rapid, scalable web app development.
 * [signal-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/codebangla/signal-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/codebangla/signal-admin)](https://github.com/codebangla/signal-admin) - A modern admin panel built with Angular 20, Angular Material, and TailwindCSS. Features a responsive design with collapsible sidebar, user management, forms, and UI components.
 * [ngXpress ![GitHub Repo Stars](https://img.shields.io/github/stars/angularcafe/ngXpress) ![GitHub last commit](https://img.shields.io/github/last-commit/angularcafe/ngXpress)](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
+* [spartan-stack-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/thatsamsonkid/spartan-stack-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/thatsamsonkid/spartan-stack-starter)](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
 
 ##### Paid
 
