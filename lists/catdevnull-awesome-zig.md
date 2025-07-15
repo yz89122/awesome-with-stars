@@ -180,6 +180,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [donpdonp/zootdeck ![GitHub Repo Stars](https://img.shields.io/github/stars/donpdonp/zootdeck) ![GitHub last commit](https://img.shields.io/github/last-commit/donpdonp/zootdeck)](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint ![GitHub Repo Stars](https://img.shields.io/github/stars/MasterQ32/ZigPaint) ![GitHub last commit](https://img.shields.io/github/last-commit/MasterQ32/ZigPaint)](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
 * [olexij-christian/zgtk3 ![GitHub Repo Stars](https://img.shields.io/github/stars/olexij-christian/zgtk3) ![GitHub last commit](https://img.shields.io/github/last-commit/olexij-christian/zgtk3)](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
+* [rcalixte/libqt6zig ![GitHub Repo Stars](https://img.shields.io/github/stars/rcalixte/libqt6zig) ![GitHub last commit](https://img.shields.io/github/last-commit/rcalixte/libqt6zig)](https://github.com/rcalixte/libqt6zig) - Qt 6 bindings.
 
 ## Linters
 
