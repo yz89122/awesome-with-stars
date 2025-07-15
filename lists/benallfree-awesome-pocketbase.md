@@ -127,6 +127,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/kdpuvvadi/pocketbase)](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)
 - [PocketBase on Dokku ![GitHub Repo Stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase) ![GitHub last commit](https://img.shields.io/github/last-commit/blockshiftnetwork/dokku-pocketbase)](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
+- [PBLauncher ![GitHub Repo Stars](https://img.shields.io/github/stars/user0608/pb_launcher) ![GitHub last commit](https://img.shields.io/github/last-commit/user0608/pb_launcher)](https://github.com/user0608/pb_launcher) - Manage PocketBase instances — fast, lightweight, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/user0608/pb_launcher)
 
 ## TypeScript tools
 
