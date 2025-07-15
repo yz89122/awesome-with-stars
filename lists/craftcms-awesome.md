@@ -171,7 +171,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md). If you see
 
 ##### Security
 - [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) by Ben Croker/PutYourLightsOn - `4 May 2021`
-- [Securing Your Craft Site in 2022—Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) by Ben Croker/PutYourLightsOn - `24 May 2022`
+- [Securing Your Craft Site in 2022��Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) by Ben Croker/PutYourLightsOn - `24 May 2022`
 - [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) by Ben Croker/PutYourLightsOn - `26 Jan 2021`
 - [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) by Ben Croker/PutYourLightsOn - `13 Jan 2021`
 - [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
