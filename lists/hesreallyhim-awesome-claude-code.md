@@ -389,6 +389,9 @@ Creates a versatile AI command interface supporting multiple providers and model
 [`Guitar` ![GitHub Repo Stars](https://img.shields.io/github/stars/soramimi/Guitar) ![GitHub last commit](https://img.shields.io/github/last-commit/soramimi/Guitar)](https://github.com/soramimi/Guitar/blob/master/CLAUDE.md) &nbsp; by &nbsp; [soramimi](https://github.com/soramimi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-2.0  
 Serves as development guide for Guitar Git GUI Client with build commands for various platforms, code style guidelines for contributing, and project structure explanation.
 
+[`Network Chronicles` ![GitHub Repo Stars](https://img.shields.io/github/stars/Fimeg/NetworkChronicles) ![GitHub last commit](https://img.shields.io/github/last-commit/Fimeg/NetworkChronicles)](https://github.com/Fimeg/NetworkChronicles/blob/legacy-v1/CLAUDE.md) &nbsp; by &nbsp; [Fimeg](https://github.com/Fimeg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Presents detailed implementation plan for AI-driven game characters with technical specifications for LLM integration, character guidelines, and service discovery mechanics.
+
 [`Note Companion` ![GitHub Repo Stars](https://img.shields.io/github/stars/different-ai/note-companion) ![GitHub last commit](https://img.shields.io/github/last-commit/different-ai/note-companion)](https://github.com/different-ai/note-companion/blob/master/CLAUDE.md) &nbsp; by &nbsp; [different-ai](https://github.com/different-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Provides detailed styling isolation techniques for Obsidian plugins using Tailwind with custom prefix to prevent style conflicts and practical troubleshooting steps.
 
@@ -404,7 +407,7 @@ Clear and direct instructives about style, permissions, Claude's "role", communi
 [`Basic Memory` ![GitHub Repo Stars](https://img.shields.io/github/stars/basicmachines-co/basic-memory) ![GitHub last commit](https://img.shields.io/github/last-commit/basicmachines-co/basic-memory)](https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md) &nbsp; by &nbsp; [basicmachines-co](https://github.com/basicmachines-co)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
 Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.
 
-[`claude-code-mcp-enhanced` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-code-mcp-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-code-mcp-enhanced)](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/66328d6bcc960c81ff24f6213ce5614000858698/CLAUDE.md) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`claude-code-mcp-enhanced` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-code-mcp-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-code-mcp-enhanced)](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/main/CLAUDE.md) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.
 
 [`Perplexity MCP` ![GitHub Repo Stars](https://img.shields.io/github/stars/Family-IT-Guy/perplexity-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/Family-IT-Guy/perplexity-mcp)](https://github.com/Family-IT-Guy/perplexity-mcp/blob/main/CLAUDE.md) &nbsp; by &nbsp; [Family-IT-Guy](https://github.com/Family-IT-Guy)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;ISC  
