@@ -143,6 +143,7 @@ Online editors that allow you to edit documents collaboratively.
 - [WebLaTeX ![GitHub Repo Stars](https://img.shields.io/github/stars/sanjib-sen/weblatex) ![GitHub last commit](https://img.shields.io/github/last-commit/sanjib-sen/weblatex)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 - [Papeeria](https://papeeria.com) - Online editor with built-in git support.
 - [JaxEdit](https://zohooo.GitHub.io/jaxedit/) - Online LaTeX editor with Live Preview and nice presentation mode.
+- [Vexlio](https://vexlio.com/) - Online diagram editor with built-in LaTeX equation support including live preview and easy exports. 
 
 ## Bibliography tools
 
@@ -251,6 +252,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
 - [Ultimate Beamer Theme List ![GitHub Repo Stars](https://img.shields.io/github/stars/martinbjeldbak/ultimate-beamer-theme-list) ![GitHub last commit](https://img.shields.io/github/last-commit/martinbjeldbak/ultimate-beamer-theme-list)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 - [LaTeX Beamer Theme Overview ![GitHub Repo Stars](https://img.shields.io/github/stars/UweZiegenhagen/LaTeX-Beamer-Theme-Overview) ![GitHub last commit](https://img.shields.io/github/last-commit/UweZiegenhagen/LaTeX-Beamer-Theme-Overview)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+- [TeXtured ![GitHub Repo Stars](https://img.shields.io/github/stars/jdujava/TeXtured) ![GitHub last commit](https://img.shields.io/github/last-commit/jdujava/TeXtured)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 
 ## Symbols
 
