@@ -200,7 +200,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [neovim](https://neovim.io) - Literally the future of vim.
 * [vis ![GitHub Repo Stars](https://img.shields.io/github/stars/martanne/vis) ![GitHub last commit](https://img.shields.io/github/last-commit/martanne/vis)](https://github.com/martanne/vis) - Highly efficient text editor.
 
-**[��� back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Tools and Plugins
 
