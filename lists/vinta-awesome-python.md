@@ -792,6 +792,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
     * [PyPI](https://pypi.org/)
 * [conda ![GitHub Repo Stars](https://img.shields.io/github/stars/conda/conda) ![GitHub last commit](https://img.shields.io/github/last-commit/conda/conda)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 * [poetry ![GitHub Repo Stars](https://img.shields.io/github/stars/sdispater/poetry) ![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/poetry)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+* [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
 ## Package Repositories
 
