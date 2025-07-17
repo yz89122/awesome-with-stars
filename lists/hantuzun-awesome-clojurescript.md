@@ -217,7 +217,7 @@
 
 
 ### Validation
-- [Bouncer ![GitHub Repo Stars](https://img.shields.io/github/stars/leonardoborges/bouncer) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardoborges/bouncer)](https://github.com/leonardoborges/bouncer) �� A validation DSL for Clojure & Clojurescript applications.
+- [Bouncer ![GitHub Repo Stars](https://img.shields.io/github/stars/leonardoborges/bouncer) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardoborges/bouncer)](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
 - [form-validator-cljs ![GitHub Repo Stars](https://img.shields.io/github/stars/kwladyka/form-validator-cljs) ![GitHub last commit](https://img.shields.io/github/last-commit/kwladyka/form-validator-cljs)](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
 - [Validateur](http://clojurevalidations.info/) – A Clojure validation library inspired by Ruby's ActiveModel.
 

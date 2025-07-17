@@ -416,7 +416,7 @@ Self-hosted open source devops and collaboration tools, suitable for enterprise.
 - [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
 
-### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker)
+### Production Ready Django + Docker [���](https://awesomestacks.dev/production-ready-django-docker)
 
 Bleeding edge Django template focused on code quality and security.
 
