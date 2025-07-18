@@ -485,7 +485,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc ![GitHub Repo Stars](https://img.shields.io/github/stars/MyLifeLabs/nproc) ![GitHub last commit](https://img.shields.io/github/last-commit/MyLifeLabs/nproc)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
   - [Parany ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/parany) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/parany)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
-  - [Sklml](http://sklml.inria.fr) ��� Functional parallel skeleton compiler and programming system for OCaml programs.
+  - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
   - [SPOC ![GitHub Repo Stars](https://img.shields.io/github/stars/mathiasbourgoin/SPOC) ![GitHub last commit](https://img.shields.io/github/last-commit/mathiasbourgoin/SPOC)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
 - **Articles**:
