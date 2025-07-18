@@ -69,6 +69,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
 - [gatling-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/mnogu/gatling-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/mnogu/gatling-mqtt)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 - [gatling-kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/mnogu/gatling-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/mnogu/gatling-kafka)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
+- [gatling-kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/Amerousful/gatling-kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/Amerousful/gatling-kafka)](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
 - [gatling-kafka-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-kafka-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-kafka-plugin)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
 - [gatling-amqp-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-amqp-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-amqp-plugin)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 - [gatling-jdbc-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-jdbc-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-jdbc-plugin)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
@@ -79,6 +80,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-bolt ![GitHub Repo Stars](https://img.shields.io/github/stars/sarmbruster/gatling-bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/sarmbruster/gatling-bolt)](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 - [gatling-zeromq ![GitHub Repo Stars](https://img.shields.io/github/stars/softwaremill/gatling-zeromq) ![GitHub last commit](https://img.shields.io/github/last-commit/softwaremill/gatling-zeromq)](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
 - [gatling-dubbo ![GitHub Repo Stars](https://img.shields.io/github/stars/youzan/gatling-dubbo) ![GitHub last commit](https://img.shields.io/github/last-commit/youzan/gatling-dubbo)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+- [gatling-wait ![GitHub Repo Stars](https://img.shields.io/github/stars/Amerousful/gatling-wait) ![GitHub last commit](https://img.shields.io/github/last-commit/Amerousful/gatling-wait)](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 
 ### Frameworks
 
@@ -91,6 +93,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [gatling-report ![GitHub Repo Stars](https://img.shields.io/github/stars/nuxeo/gatling-report) ![GitHub last commit](https://img.shields.io/github/last-commit/nuxeo/gatling-report)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [gatling2allure ![GitHub Repo Stars](https://img.shields.io/github/stars/biski/gatling2allure) ![GitHub last commit](https://img.shields.io/github/last-commit/biski/gatling2allure)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
+- [gatling-elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/Amerousful/gatling-elasticsearch-logs) ![GitHub last commit](https://img.shields.io/github/last-commit/Amerousful/gatling-elasticsearch-logs)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 
 ### Sandbox
 
