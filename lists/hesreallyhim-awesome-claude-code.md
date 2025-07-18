@@ -38,9 +38,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 
 ### Announcements
 
-- 2025-07-15: Finalizing the fully optimized, fully managed submission workflow and CI system, apologies for any delays in submission reviews.
-- 2025-07-10: Pushed the updated CI/CD and submission code - all submissions are managed through `THE_RESOURCES_TABLE.csv`, which is used to generate the `README`. Also, planning to add an "Experimental" section for tools/applications that are very new and exciting but which I have not had the chance to personally explore. ALSO: Send in your HOOKS! This is a very powerful addition to Claude Code and we want to see what everyone is experimenting with!
-- 2025-07-04: Added new section for Claude Code _hooks_!
+- 2025-07-18 - I ended up over-engineering the submission workflow, but I think it's done, I just have to smoke test it and update the docs. For anyone with existing PR's, don't worry about updating them (for formatting purposes, that is), I can take care of it myself. For anoyne with new PR's, you _should_ be able to run `make submit` from the root directory of your fork for an interactive experience (as I said, needs smoke testing) - alternatively, add your entry to the bottom of [`THE_RESOURCES_TABLE`](../THE_RESOURCES_TABLE.csv) and run `make generate` to automatically update the `README.md` based on the information you filled in. If it's not working, just open a PR with the relevant information and I'll deal with it, I created this mess anyway 😃.
 
 <br>
 
@@ -302,9 +300,6 @@ A convenient command to quickly manage project todo items without leaving the Cl
 
 
 ### Miscellaneous
-
-[`/act` ![GitHub Repo Stars](https://img.shields.io/github/stars/sotayamashita/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/sotayamashita/dotfiles)](https://github.com/sotayamashita/dotfiles/blob/main/.claude/commands/act.md) &nbsp; by &nbsp; [sotayamashita](https://github.com/sotayamashita)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Generates React components with proper accessibility, creating ARIA-compliant components with keyboard navigation that follow React best practices and include comprehensive accessibility testing.
 
 [`/five` ![GitHub Repo Stars](https://img.shields.io/github/stars/TuckerTucker/tkr-portfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/TuckerTucker/tkr-portfolio)](https://github.com/TuckerTucker/tkr-portfolio/blob/main/.claude/commands/five.md) &nbsp; by &nbsp; [TuckerTucker](https://github.com/TuckerTucker)    
 Applies the "five whys" methodology to perform root cause analysis, identify underlying issues, and create solution approaches for complex problems.
