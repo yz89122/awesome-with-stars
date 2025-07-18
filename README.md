@@ -711,6 +711,7 @@
 - [Digital Humanities ![GitHub Repo Stars](https://img.shields.io/github/stars/dh-tech/awesome-digital-humanities) ![GitHub last commit](https://img.shields.io/github/last-commit/dh-tech/awesome-digital-humanities)](./lists/dh-tech-awesome-digital-humanities.md) [*Origin*](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 - [Lucid Dreams ![GitHub Repo Stars](https://img.shields.io/github/stars/IAmCoder/awesome-lucid-dreams) ![GitHub last commit](https://img.shields.io/github/last-commit/IAmCoder/awesome-lucid-dreams)](./lists/IAmCoder-awesome-lucid-dreams.md) [*Origin*](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging ![GitHub Repo Stars](https://img.shields.io/github/stars/NPACore/awesome-neuroimaging) ![GitHub last commit](https://img.shields.io/github/last-commit/NPACore/awesome-neuroimaging)](./lists/NPACore-awesome-neuroimaging.md) [*Origin*](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
+- [Transgender ![GitHub Repo Stars](https://img.shields.io/github/stars/cvyl/awesome-transgender) ![GitHub last commit](https://img.shields.io/github/last-commit/cvyl/awesome-transgender)](./lists/cvyl-awesome-transgender.md) [*Origin*](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
 
 ## Events
 
