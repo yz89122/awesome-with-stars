@@ -3226,7 +3226,7 @@ _Plugin for text editors and IDEs._
 - [vscode-go ![GitHub Repo Stars](https://img.shields.io/github/stars/golang/vscode-go) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/vscode-go)](https://github.com/golang/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
 - [Watch ![GitHub Repo Stars](https://img.shields.io/github/stars/eaburns/Watch) ![GitHub last commit](https://img.shields.io/github/last-commit/eaburns/Watch)](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Go Generate Tools
 
