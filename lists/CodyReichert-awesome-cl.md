@@ -1235,7 +1235,7 @@ Web frameworks
 
 REST-focused frameworks:
 
-* ��� [Snooze ![GitHub Repo Stars](https://img.shields.io/github/stars/joaotavora/snooze) ![GitHub last commit](https://img.shields.io/github/last-commit/joaotavora/snooze)](https://github.com/joaotavora/snooze) - A RESTful web framework. Web server agnostic. Currently has support for Hunchentoot and Clack. Routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL][8].
+* 👍 [Snooze ![GitHub Repo Stars](https://img.shields.io/github/stars/joaotavora/snooze) ![GitHub last commit](https://img.shields.io/github/last-commit/joaotavora/snooze)](https://github.com/joaotavora/snooze) - A RESTful web framework. Web server agnostic. Currently has support for Hunchentoot and Clack. Routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL][8].
 * [cl-rest-server ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/cl-rest-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/cl-rest-server)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT][200].
 
 See OpenAPI, OData and other libraries below.
