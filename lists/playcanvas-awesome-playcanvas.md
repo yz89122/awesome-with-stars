@@ -70,6 +70,7 @@
 ## Extensions and Utilities
 
 - [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
+- [Kinematic Character Controller ![GitHub Repo Stars](https://img.shields.io/github/stars/tatelax/playcanvas-kinematic-character-controller) ![GitHub last commit](https://img.shields.io/github/last-commit/tatelax/playcanvas-kinematic-character-controller)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 - [playcanvas-ar ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/playcanvas-ar) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/playcanvas-ar)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node ![GitHub Repo Stars](https://img.shields.io/github/stars/yushimatenjin/playcanvas-node) ![GitHub last commit](https://img.shields.io/github/last-commit/yushimatenjin/playcanvas-node)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/playcanvas-p2.js) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/playcanvas-p2.js)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
