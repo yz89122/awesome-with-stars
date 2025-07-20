@@ -78,7 +78,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### System Administration
 
 - [Discover](https://apps.kde.org/discover/) - Intended for users and distros where the terminal isn't the optimal solution for installation of apps and add-ons or updates 📌.
-- [Dolphin](https://apps.kde.org/dolphin/) - File manager included in the KDE desktop ���.
+- [Dolphin](https://apps.kde.org/dolphin/) - File manager included in the KDE desktop 📌.
 - [KDiskFree](https://apps.kde.org/kdf/) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point 📌.
 - [KInfoCenter](https://userbase.kde.org/KInfoCenter) - A utility that provides detailed information about a computer system 📌.
 - [Konsole](https://apps.kde.org/konsole/) - Terminal emulator included in the KDE desktop 📌.
