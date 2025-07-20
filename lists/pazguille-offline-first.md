@@ -306,7 +306,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 [Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b#.sdp7iqxc3)
 (Maximiliano Firtman - Apr 11, 2016)
 
-[Progressive Web Apps — Offline And Add To Home Screen](https://medium.com/@greenido/progressive-web-apps-offline-and-add-to-home-screen-2187a2487a5c#.7m52kq892)
+[Progressive Web Apps���— Offline And Add To Home Screen](https://medium.com/@greenido/progressive-web-apps-offline-and-add-to-home-screen-2187a2487a5c#.7m52kq892)
 (Ido Green - Mar 28, 2016)
 
 [The web on my phone](https://adactio.com/journal/10410)
