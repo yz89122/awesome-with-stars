@@ -248,7 +248,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/" target="_blank" rel="noopener noreferrer">Introduction to Electronics</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/" target="_blank" rel="noopener noreferrer">Electronic Applications</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/" target="_blank" rel="noopener noreferrer">Embedded Systems</a> | Academy Europe |Intermediate| 30 |🏆|
-| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | ��|
+| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -474,7 +474,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.mindluster.com/certificate/1568/Adobe-Photoshop" target="_blank" rel="noopener noreferrer">Adobe Photoshop</a> | Mind Luster |Beginner| 1.4 | 🏆 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_erase_shape" target="_blank" rel="noopener noreferrer">How to Erase a shape in Photoshop</a> | UMaine New Media | intermediate| 0.13 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?photoshop_select_shape" target="_blank" rel="noopener noreferrer">How to Select a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
+| <a href="https://tutorials.nmdprojects.net/play.html?photoshop_select_shape" target="_blank" rel="noopener noreferrer">How to Select a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | �� |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape" target="_blank" rel="noopener noreferrer">How to Insert a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
