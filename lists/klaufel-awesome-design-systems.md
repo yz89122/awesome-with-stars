@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/klaufel/awesome-design-systems#readme">
-    <img src="https://github.com/klaufel/awesome-design-systems/raw/master/media/awesome-design-systems-cover.svg" alt="Awesome Design Systems"/>
+    <img src="https://github.com/klaufel/awesome-design-systems/raw/main/media/awesome-design-systems-cover.svg" alt="Awesome Design Systems"/>
   </a>
 </p>
 
