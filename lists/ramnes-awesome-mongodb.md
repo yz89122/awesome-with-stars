@@ -354,6 +354,7 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
+ - [BookCars ![GitHub Repo Stars](https://img.shields.io/github/stars/aelassas/bookcars) ![GitHub last commit](https://img.shields.io/github/last-commit/aelassas/bookcars)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
  - [Builder Book App ![GitHub Repo Stars](https://img.shields.io/github/stars/async-labs/builderbook) ![GitHub last commit](https://img.shields.io/github/last-commit/async-labs/builderbook)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
  - [CodeCombat ![GitHub Repo Stars](https://img.shields.io/github/stars/codecombat/codecombat) ![GitHub last commit](https://img.shields.io/github/last-commit/codecombat/codecombat)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly ![GitHub Repo Stars](https://img.shields.io/github/stars/countly/countly-server) ![GitHub last commit](https://img.shields.io/github/last-commit/countly/countly-server)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
