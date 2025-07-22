@@ -8,7 +8,8 @@
 <!--lint disable double-link-->
 Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Read about history of Awesome J2ME in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian ![GitHub Repo Stars](https://img.shields.io/github/stars/hstsethi/awesome-symbian) ![GitHub last commit](https://img.shields.io/github/last-commit/hstsethi/awesome-symbian)](https://github.com/hstsethi/awesome-symbian).
 
-
+<!--lint disable double-link-->
+Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome), [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java ![GitHub Repo Stars](https://img.shields.io/github/stars/akullpp/awesome-java) ![GitHub last commit](https://img.shields.io/github/last-commit/akullpp/awesome-java)](https://github.com/akullpp/awesome-java) and more.
 
 ## Contents
 

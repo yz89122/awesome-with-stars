@@ -110,7 +110,7 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 [`ccexp` ![GitHub Repo Stars](https://img.shields.io/github/stars/nyatinte/ccexp) ![GitHub last commit](https://img.shields.io/github/last-commit/nyatinte/ccexp)](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
-[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
 [`Claude Composer` ![GitHub Repo Stars](https://img.shields.io/github/stars/possibilities/claude-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/possibilities/claude-composer)](https://github.com/possibilities/claude-composer) &nbsp; by &nbsp; [Mike Bannister](https://github.com/possibilities)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Unlicense  
@@ -363,7 +363,7 @@ Details workflow for REPL-driven development in Clojure/ClojureScript with empha
 [`SG Cars Trends Backend` ![GitHub Repo Stars](https://img.shields.io/github/stars/sgcarstrends/backend) ![GitHub last commit](https://img.shields.io/github/last-commit/sgcarstrends/backend)](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) &nbsp; by &nbsp; [sgcarstrends](https://github.com/sgcarstrends)    
 Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.
 
-[`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.
 
 [`TPL` ![GitHub Repo Stars](https://img.shields.io/github/stars/KarpelesLab/tpl) ![GitHub last commit](https://img.shields.io/github/last-commit/KarpelesLab/tpl)](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md) &nbsp; by &nbsp; [KarpelesLab](https://github.com/KarpelesLab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
