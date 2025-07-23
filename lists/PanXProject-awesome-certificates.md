@@ -248,7 +248,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/" target="_blank" rel="noopener noreferrer">Introduction to Electronics</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/" target="_blank" rel="noopener noreferrer">Electronic Applications</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/" target="_blank" rel="noopener noreferrer">Embedded Systems</a> | Academy Europe |Intermediate| 30 |🏆|
-| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | ��|
+| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -485,7 +485,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_select_shapes" target="_blank" rel="noopener noreferrer">How to Select shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes" target="_blank" rel="noopener noreferrer">How to Create shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
+| <a href="https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes" target="_blank" rel="noopener noreferrer">How to Create shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | ��� |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_wrap_shapes" target="_blank" rel="noopener noreferrer">How to Wrap shapes in Illustrator</a> | UMaine New Media | intermediate| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
