@@ -2077,7 +2077,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [Rust in Action](https://www.manning.com/books/rust-in-action) - A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) - A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
   * [Rust Language Cheat Sheet](https://cheats.rs/) - Rust Language Cheat Sheet
-  * [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
+  * [Rust Ti���ng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
   * [rust-how-do-i-start ![GitHub Repo Stars](https://img.shields.io/github/stars/jondot/rust-how-do-i-start) ![GitHub last commit](https://img.shields.io/github/last-commit/jondot/rust-how-do-i-start)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
   * [rust-learning ![GitHub Repo Stars](https://img.shields.io/github/stars/ctjhoa/rust-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/ctjhoa/rust-learning)](https://github.com/ctjhoa/rust-learning) - A collection of useful resources to learn Rust
   * [Rustfinity](https://www.rustfinity.com) - Interactive platform for practicing Rust through hands-on exercises and challenges
