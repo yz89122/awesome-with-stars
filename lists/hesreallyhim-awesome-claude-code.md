@@ -12,7 +12,7 @@
 ██│  ██│└███┌███┌┘███████┐███████│└██████┌┘██│ └─┘ ██│███████┐
 └─┘  └─┘ └──┘└──┘ └──────┘└──────┘ └─────┘ └─┘     └─┘└──────┘
 
- ────────────────────────────────────────────────────────────────────────────────────
+ ─────────────────────────────────────────────────────��──────────────────────────────
 
  ██████┐██┐      █████┐ ██┐   ██┐██████┐ ███████┐     ██████┐ ██████┐ ██████┐ ███████┐
 ██┌────┘██│     ██┌──██┐██│   ██│██┌──██┐██┌────┘    ██┌────┘██┌───██┐██┌──██┐██┌────┘
@@ -157,7 +157,7 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 
 **[Experimental]** - The resources listed in this section have not been fully vetted and may not work as expected, given the bleeding-edge nature of Claude Code hooks. Nevertheless, I wished to include them at least as a source of inspiration and to explore this unknown terrain. YMMV!
 
-[`claude-code-hooks-sdk` ![GitHub Repo Stars](https://img.shields.io/github/stars/beyondcode/claude-hooks-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/beyondcode/claude-hooks-sdk)](https://github.com/beyondcode/claude-hooks-sdk) &nbsp; by &nbsp; [beyondcode](https://github.com/beyondcode)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`claude-code-hooks-sdk` ![GitHub Repo Stars](https://img.shields.io/github/stars/beyondcode/claude-hooks-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/beyondcode/claude-hooks-sdk)](https://github.com/beyondcode/claude-hooks-sdk) &nbsp; by &nbsp; [beyondcode](https://github.com/beyondcode)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
 A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.
 
 [`claude-hooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/johnlindquist/claude-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/johnlindquist/claude-hooks)](https://github.com/johnlindquist/claude-hooks) &nbsp; by &nbsp; [John Lindquist](https://github.com/johnlindquist)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
