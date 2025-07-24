@@ -376,7 +376,7 @@ Malfunction can have dramatic consequences, as well as your drone can cause mass
 
 * [Ardupilot Copter Checklist](https://ardupilot.org/copter/docs/checklist.html).
 
-### ID Systems ���
+### ID Systems 🛂
 
 We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.
 
@@ -426,7 +426,7 @@ Free and useful applications to use on your mobile device. Might be not nessesar
 * [UAV Forecast](https://www.uavforecast.com) - See the weather forecast, GPS satellites, solar activity (Kp), No-Fly Zones and flight restrictions [Android](https://play.google.com/store/apps/details?id=com.uavforecast), [iOS](https://apps.apple.com/us/app/uav-forecast/id1050023752).
 * [Go FPV](https://play.google.com/store/apps/details?id=com.vertile.fpv3d) - A UVC Video Camera display and capture app, built for my DIY First Person View goggles.
 
-### Workbench 🧰
+### Workbench ��
 
 * [smoke stopper](https://oscarliang.com/smoke-stopper/) - Avoid damaging your expensive components during build up.
 * [4AxisFoamCutter ![GitHub Repo Stars](https://img.shields.io/github/stars/rahulsarchive/4AxisFoamCutter) ![GitHub last commit](https://img.shields.io/github/last-commit/rahulsarchive/4AxisFoamCutter)](https://github.com/rahulsarchive/4AxisFoamCutter) - Create aerodynamic wings from foam.
