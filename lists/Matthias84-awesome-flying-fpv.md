@@ -236,7 +236,7 @@ Global Navigation Systems like GPS allow to determine the current position of yo
 * [rtklib](https://www.rtklib.com) - Software toolchain to increase precision of GNSS signals by applying realtime or post-processing to eliminate interferences. Signals recorded by SDR or some commercial GPS modules.
 * [Vicon MavLink ![GitHub Repo Stars](https://img.shields.io/github/stars/bo-rc/ViconMAVLink) ![GitHub last commit](https://img.shields.io/github/last-commit/bo-rc/ViconMAVLink)](https://github.com/bo-rc/ViconMAVLink) - Get indoor positioning via commercial optical systems for a whole drone swarm.
 
-## Sensors 🌡️
+## Sensors ��️
 
 A drone uses more sensors like compass, barometer, airspeed or current to increase position estimation, or to show the system performance
 
@@ -436,7 +436,7 @@ Free and useful applications to use on your mobile device. Might be not nessesar
 Depending on the country you live in, the laws and legal rules of airspace may vary.
 
 * [Luftfahrt Bundesamt](https://www.lba.de/DE/Drohnen/Drohnen_node.html) - 🇩🇪 Rechtlicher Rahmen.
-* [Deutsche Flugsicherung GmbH](https://www.dfs.de/homepage/de/drohnenflug/) - 🇩🇪 Durchführung von Pr��fungen und Zulassungen.
+* [Deutsche Flugsicherung GmbH](https://www.dfs.de/homepage/de/drohnenflug/) - 🇩🇪 Durchführung von Prüfungen und Zulassungen.
 * [Digitale Plattform Unbemannte Luftfahrt](https://www.dipul.de/homepage/de/) - 🇩🇪 Kartenplattform, mit alternativ [Droniq App](https://play.google.com/store/apps/details?id=de.droniq.droniqapp&hl=de&gl=US).
 * [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Grundlagen/Frequenzplan/frequenzplan-node.html) - 🇩🇪 Zulässige Sendefrequenzen und -Leistungen.
 
