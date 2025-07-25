@@ -310,21 +310,26 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Compilers, Transpilers and Languages
 
-* [ClojureCLR ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojure-clr) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojure-clr)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
-* [F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsharp/fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/fsharp/fsharp)](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
-* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#) to CUDA compiler. **[$]**
+* [ClojureCLR ![GitHub Repo Stars](https://img.shields.io/github/stars/clojure/clojure-clr) ![GitHub last commit](https://img.shields.io/github/last-commit/clojure/clojure-clr)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR in C#
+* [ClojureCLR Next ![GitHub Repo Stars](https://img.shields.io/github/stars/dmiller/clojure-clr-next) ![GitHub last commit](https://img.shields.io/github/last-commit/dmiller/clojure-clr-next)](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Rewrite of Clojure CLR in F#
+* [F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsharp/fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/fsharp/fsharp)](https://github.com/fsharp/fsharp/) - The F# programming language empowers everyone to write succinct, robust, and performant code
+* [Fable ![GitHub Repo Stars](https://img.shields.io/github/stars/fable-compiler/Fable) ![GitHub last commit](https://img.shields.io/github/last-commit/fable-compiler/Fable)](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
+* [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel for .NET is the Eiffel programming language made available in the .NET environment.
+* [Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/FractalFir/rustc_codegen_clr) ![GitHub last commit](https://img.shields.io/github/last-commit/FractalFir/rustc_codegen_clr)](https://github.com/FractalFir/rustc_codegen_clr) - Experimental Rust compiler for .NET.
+* [Wrapped Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/FractalFir/wrapped_mono) ![GitHub last commit](https://img.shields.io/github/last-commit/FractalFir/wrapped_mono)](https://github.com/FractalFir/wrapped_mono) - Mono runtime embedded in Rust. 
+* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#, ClojureCLR, ...) to CUDA compiler. **[$]**
 * [IronScheme ![GitHub Repo Stars](https://img.shields.io/github/stars/IronScheme/IronScheme) ![GitHub last commit](https://img.shields.io/github/last-commit/IronScheme/IronScheme)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-* [Mond ![GitHub Repo Stars](https://img.shields.io/github/stars/Rohansi/Mond) ![GitHub last commit](https://img.shields.io/github/last-commit/Rohansi/Mond)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
-* [Nemerle ![GitHub Repo Stars](https://img.shields.io/github/stars/rsdn/nemerle) ![GitHub last commit](https://img.shields.io/github/last-commit/rsdn/nemerle)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+* [Mond ![GitHub Repo Stars](https://img.shields.io/github/stars/Rohansi/Mond) ![GitHub last commit](https://img.shields.io/github/last-commit/Rohansi/Mond)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API
+* [Lua-C# ![GitHub Repo Stars](https://img.shields.io/github/stars/nuskey8/Lua-CSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/nuskey8/Lua-CSharp)](https://github.com/nuskey8/Lua-CSharp) - A Lua implementation on .NET in C#
+* [Nemerle ![GitHub Repo Stars](https://img.shields.io/github/stars/rsdn/nemerle) ![GitHub last commit](https://img.shields.io/github/last-commit/rsdn/nemerle)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented, and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [P ![GitHub Repo Stars](https://img.shields.io/github/stars/p-org/P) ![GitHub last commit](https://img.shields.io/github/last-commit/p-org/P)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
 * [PeachPie ![GitHub Repo Stars](https://img.shields.io/github/stars/peachpiecompiler/peachpie) ![GitHub last commit](https://img.shields.io/github/last-commit/peachpiecompiler/peachpie)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 * [Roslyn ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/roslyn) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/roslyn)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
-* [FSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/fsharp)](https://github.com/dotnet/fsharp) - The F# compiler and tools
-* [Fable ![GitHub Repo Stars](https://img.shields.io/github/stars/fable-compiler/Fable) ![GitHub last commit](https://img.shields.io/github/last-commit/fable-compiler/Fable)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
-* [Iron python ![GitHub Repo Stars](https://img.shields.io/github/stars/IronLanguages/ironpython3) ![GitHub last commit](https://img.shields.io/github/last-commit/IronLanguages/ironpython3)](https://github.com/IronLanguages/ironpython3) - A python 3 implementation that is integrated with the dot net framework.
-* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
-* [Lib.Harmony ![GitHub Repo Stars](https://img.shields.io/github/stars/pardeike/Harmony) ![GitHub last commit](https://img.shields.io/github/last-commit/pardeike/Harmony)](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
-* [dotnet-repl ![GitHub Repo Stars](https://img.shields.io/github/stars/jonsequitur/dotnet-repl) ![GitHub last commit](https://img.shields.io/github/last-commit/jonsequitur/dotnet-repl)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
+* [PascalABC.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/pascalabcnet/pascalabcnet) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalabcnet/pascalabcnet)](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
+* [Iron Python ![GitHub Repo Stars](https://img.shields.io/github/stars/IronLanguages/ironpython3) ![GitHub last commit](https://img.shields.io/github/last-commit/IronLanguages/ironpython3)](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
+* [Lib.Harmony ![GitHub Repo Stars](https://img.shields.io/github/stars/pardeike/Harmony) ![GitHub last commit](https://img.shields.io/github/last-commit/pardeike/Harmony)](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.  
+* [dotnet-repl ![GitHub Repo Stars](https://img.shields.io/github/stars/jonsequitur/dotnet-repl) ![GitHub last commit](https://img.shields.io/github/last-commit/jonsequitur/dotnet-repl)](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive 
 
 ## Compression
 
@@ -711,6 +716,7 @@ metadata in media files, including video, audio, and photo formats
 * [LibVLCSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/videolan/libvlcsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/videolan/libvlcsharp)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 * [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 * [Xabe.FFmpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/tomaszzmuda/Xabe.FFmpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/tomaszzmuda/Xabe.FFmpeg)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **[$]**
+* [Sonora ![GitHub Repo Stars](https://img.shields.io/github/stars/ImAxel0/Sonora) ![GitHub last commit](https://img.shields.io/github/last-commit/ImAxel0/Sonora)](https://github.com/ImAxel0/Sonora) - .NET Audio Framework for audio and MIDI playback, editing, and plugin integration.
 
 ## Metrics
 
@@ -915,6 +921,8 @@ metadata in media files, including video, audio, and photo formats
 * [Occurify ![GitHub Repo Stars](https://img.shields.io/github/stars/Occurify/Occurify) ![GitHub last commit](https://img.shields.io/github/last-commit/Occurify/Occurify)](https://github.com/Occurify/Occurify) - A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.
 * [TickerQ ![GitHub Repo Stars](https://img.shields.io/github/stars/Arcenox-co/TickerQ) ![GitHub last commit](https://img.shields.io/github/last-commit/Arcenox-co/TickerQ)](https://github.com/Arcenox-co/TickerQ) - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [NCronJob ![GitHub Repo Stars](https://img.shields.io/github/stars/NCronJob-Dev/NCronJob) ![GitHub last commit](https://img.shields.io/github/last-commit/NCronJob-Dev/NCronJob)](https://github.com/NCronJob-Dev/NCronJob) - A Job Scheduler sitting on top of IHostedService in dotnet.
+* [NaturalCron ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoj0s3/NaturalCron) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoj0s3/NaturalCron)](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
+
 
 ## SDK and API Clients
 
@@ -1077,7 +1085,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [EmbedIO ![GitHub Repo Stars](https://img.shields.io/github/stars/unosquare/embedio) ![GitHub last commit](https://img.shields.io/github/last-commit/unosquare/embedio)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
 * [GenHTTP ![GitHub Repo Stars](https://img.shields.io/github/stars/Kaliumhexacyanoferrat/GenHTTP) ![GitHub last commit](https://img.shields.io/github/last-commit/Kaliumhexacyanoferrat/GenHTTP)](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
-* [SimpleW ![GitHub Repo Stars](https://img.shields.io/github/stars/stratdev3/SimpleW) ![GitHub last commit](https://img.shields.io/github/last-commit/stratdev3/SimpleW)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform. 
+* [SimpleW](https://stratdev3.github.io/SimpleW) - Web server Library in .NET Core. Powerfully Simple, Blazingly Fast and Build-in components (API REST, JWT, Websockets, self-serialization, Opentelemetry).
 
 ## WebSocket
 
@@ -1111,6 +1119,8 @@ metadata in media files, including video, audio, and photo formats
 * [Supernova.Enum.Generators ![GitHub Repo Stars](https://img.shields.io/github/stars/EngRajabi/Enum.Source.Generator) ![GitHub last commit](https://img.shields.io/github/last-commit/EngRajabi/Enum.Source.Generator)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 * [Vogan ![GitHub Repo Stars](https://img.shields.io/github/stars/SteveDunn/Vogen) ![GitHub last commit](https://img.shields.io/github/last-commit/SteveDunn/Vogen)](https://github.com/SteveDunn/Vogen) - A value object generator with analizers.
 * [Dunet ![GitHub Repo Stars](https://img.shields.io/github/stars/domn1995/dunet) ![GitHub last commit](https://img.shields.io/github/last-commit/domn1995/dunet)](https://github.com/domn1995/dunet) - A simple source generator for discriminated unions in C#.
+* [SyncMethodGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/zompinc/sync-method-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/zompinc/sync-method-generator)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
+
 
 # Other Lists
 
