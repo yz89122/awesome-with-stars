@@ -1250,7 +1250,7 @@ Kani verifies:
 
 - [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) — Simple SQL linter.
 
-- [squawk](https://squawkhq.com) �� Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
+- [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
 - [tsqllint ![GitHub Repo Stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 
