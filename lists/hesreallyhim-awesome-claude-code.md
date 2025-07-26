@@ -274,7 +274,7 @@ Generates comprehensive documentation that follows project structure, documentin
 [`/explain-issue-fix` ![GitHub Repo Stars](https://img.shields.io/github/stars/hackdays-io/toban-contribution-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/hackdays-io/toban-contribution-viewer)](https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/explain-issue-fix.md) &nbsp; by &nbsp; [hackdays-io](https://github.com/hackdays-io)    
 Documents solution approaches for GitHub issues, explaining technical decisions, detailing challenges overcome, and providing implementation context for better understanding.
 
-[`/update-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/Consiliency/Flutter-Structurizr) ![GitHub last commit](https://img.shields.io/github/last-commit/Consiliency/Flutter-Structurizr)](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
+[`/update-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/Consiliency/Flutter-Structurizr) ![GitHub last commit](https://img.shields.io/github/last-commit/Consiliency/Flutter-Structurizr)](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.
 
 
