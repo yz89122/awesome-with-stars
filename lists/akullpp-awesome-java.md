@@ -57,6 +57,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Networking](#networking)
   - [ORM](#orm)
   - [PaaS](#paas)
+  - [Pathfinding](#pathfinding)
   - [PDF](#pdf)
   - [Performance analysis](#performance-analysis)
   - [Platform](#platform)
@@ -100,6 +101,7 @@ _Frameworks that help you to leverage LLMs and AI._
 
 - [LangChain4j ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain4j/langchain4j) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain4j/langchain4j)](https://github.com/langchain4j/langchain4j) - Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
 - [MCP Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/java-sdk)](https://github.com/modelcontextprotocol/java-sdk) -  Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
+- [simple-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/sashirestela/simple-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/sashirestela/simple-openai)](https://github.com/sashirestela/simple-openai) - Library to use the OpenAI API (and compatible ones) in the simplest possible way.
 - [Spring AI](https://spring.io/projects/spring-ai) - Application framework for AI engineering for Spring.
 
 ### Bean Mapping
@@ -210,6 +212,7 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 - [Auto ![GitHub Repo Stars](https://img.shields.io/github/stars/google/auto) ![GitHub last commit](https://img.shields.io/github/last-commit/google/auto)](https://github.com/google/auto) - Generates factory, service, and value classes.
 - [Avaje Http Server](https://avaje.io/http/) - Generates Lightweight JAX-RS style http servers using Javalin or Helidon (Nima) SE.
 - [Bootify ![c]](https://bootify.io) - Browser-based Spring Boot app generation with JPA model and REST API.
+- [EasyEntityToDTO ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcel091004/EasyEntityToDTO) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcel091004/EasyEntityToDTO)](https://github.com/Marcel091004/EasyEntityToDTO) - Annotation processor for automatic DTO and Mapper generation with zero boilerplate.
 - [FreeBuilder ![GitHub Repo Stars](https://img.shields.io/github/stars/inferred/FreeBuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/inferred/FreeBuilder)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 - [Geci ![GitHub Repo Stars](https://img.shields.io/github/stars/verhas/javageci) ![GitHub last commit](https://img.shields.io/github/last-commit/verhas/javageci)](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
 - [Immutables](https://immutables.github.io) - Annotation processors to generate simple, safe and consistent value objects.
@@ -714,6 +717,7 @@ _Everything else._
 - [JBake](https://jbake.org) - Static website generator.
 - [JBot ![GitHub Repo Stars](https://img.shields.io/github/stars/rampatra/jbot) ![GitHub last commit](https://img.shields.io/github/last-commit/rampatra/jbot)](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
 - [JCuda](http://jcuda.org) - JCuda offers Java bindings for CUDA and CUDA-related libraries.
+- [JEmoji ![GitHub Repo Stars](https://img.shields.io/github/stars/felldo/JEmoji) ![GitHub last commit](https://img.shields.io/github/last-commit/felldo/JEmoji)](https://github.com/felldo/JEmoji) - An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
 - [Jimfs ![GitHub Repo Stars](https://img.shields.io/github/stars/google/jimfs) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jimfs)](https://github.com/google/jimfs) - In-memory file system.
 - [JObfuscator![c]](https://www.pelock.com/products/jobfuscator) - Source code obfuscator.
 - [Joda-Money](https://www.joda.org/joda-money/) - Basic currency and money classes and algorithms not provided by the JDK.
@@ -795,6 +799,7 @@ _Libraries that specialize in processing text._
 - [CogCompNLP ![GitHub Repo Stars](https://img.shields.io/github/stars/CogComp/cogcomp-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/CogComp/cogcomp-nlp)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 - [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 - [DKPro](https://dkpro.github.io) - Collection of reusable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
+- [Hypherator ![GitHub Repo Stars](https://img.shields.io/github/stars/ejossev/hypherator-java) ![GitHub last commit](https://img.shields.io/github/last-commit/ejossev/hypherator-java)](https://github.com/ejossev/hypherator-java) - Java hyphenation library with iterator-like interface. Can be used out-of-the box - dictionaries for multiple languages are bundled in. 
 - [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for tasks ranging from POS tagging to sentiment analysis.
 
 ### Networking
@@ -842,6 +847,12 @@ _Java platform as a service._
 - [Heroku ![c]](https://www.heroku.com) - Abstract computing environments.
 - [Microsoft Azure ![c]](https://azure.microsoft.com/en-us/) - Microsoft's cloud infrastructure.
 - [OpenShift ![c]](https://www.openshift.com) - Provides additionally an on-premise solution.
+
+### Pathfinding
+
+_Algorithms and libraries for finding routes in graphs and spatial environments._
+
+- [Pathetic ![GitHub Repo Stars](https://img.shields.io/github/stars/bsommerfeld/pathetic) ![GitHub last commit](https://img.shields.io/github/last-commit/bsommerfeld/pathetic)](https://github.com/bsommerfeld/pathetic) - A highly configurable 3D A* pathfinding library that uses specific optimizations for high performance.
 
 ### PDF
 
@@ -1110,6 +1121,7 @@ _Everything related to the creation and handling of random data._
 - [Randomized Testing ![GitHub Repo Stars](https://img.shields.io/github/stars/randomizedtesting/randomizedtesting) ![GitHub last commit](https://img.shields.io/github/last-commit/randomizedtesting/randomizedtesting)](https://github.com/randomizedtesting/randomizedtesting) - JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
 - [Java Faker ![GitHub Repo Stars](https://img.shields.io/github/stars/DiUS/java-faker) ![GitHub last commit](https://img.shields.io/github/last-commit/DiUS/java-faker)](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
 - [Mockneat ![GitHub Repo Stars](https://img.shields.io/github/stars/nomemory/mockneat) ![GitHub last commit](https://img.shields.io/github/last-commit/nomemory/mockneat)](https://github.com/nomemory/mockneat) - Another fake data generator.
+- [JMock ![GitHub Repo Stars](https://img.shields.io/github/stars/xcancloud/JMock) ![GitHub last commit](https://img.shields.io/github/last-commit/xcancloud/JMock)](https://github.com/xcancloud/JMock) - JMock is a high-performance data generation and simulation component library implemented in Java.
 
 #### Frameworks
 
@@ -1150,6 +1162,7 @@ _Other stuff related to testing._
 - [pojo-tester](https://www.pojo.pl) - Automatically performs tests on basic POJO methods. (LGPL-3.0-only)
 - [raml-tester ![GitHub Repo Stars](https://img.shields.io/github/stars/nidi3/raml-tester) ![GitHub last commit](https://img.shields.io/github/last-commit/nidi3/raml-tester)](https://github.com/nidi3/raml-tester) - Tests if a request/response matches a given RAML definition.
 - [Selfie ![GitHub Repo Stars](https://img.shields.io/github/stars/diffplug/selfie) ![GitHub last commit](https://img.shields.io/github/last-commit/diffplug/selfie)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+- [Stebz ![GitHub Repo Stars](https://img.shields.io/github/stars/stebz/stebz) ![GitHub last commit](https://img.shields.io/github/last-commit/stebz/stebz)](https://github.com/stebz/stebz) - Multi-approach framework for test steps managing.
 - [Testcontainers ![GitHub Repo Stars](https://img.shields.io/github/stars/testcontainers/testcontainers-java) ![GitHub last commit](https://img.shields.io/github/last-commit/testcontainers/testcontainers-java)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 #### Mocking
@@ -1180,6 +1193,7 @@ _Libraries which provide general utility functions._
 - [Gephi ![GitHub Repo Stars](https://img.shields.io/github/stars/gephi/gephi) ![GitHub last commit](https://img.shields.io/github/last-commit/gephi/gephi)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 - [Guava ![GitHub Repo Stars](https://img.shields.io/github/stars/google/guava) ![GitHub last commit](https://img.shields.io/github/last-commit/google/guava)](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
 - [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
+- [Javadoc Publisher ![GitHub Repo Stars](https://img.shields.io/github/stars/MathieuSoysal/Javadoc-publisher.yml) ![GitHub last commit](https://img.shields.io/github/last-commit/MathieuSoysal/Javadoc-publisher.yml)](https://github.com/MathieuSoysal/Javadoc-publisher.yml) - Generate Javadoc from your maven/gradle project and deploy it automatically on GitHub Page.
 - [Java Diff Utils](https://java-diff-utils.github.io/java-diff-utils/) - Utilities for text or data comparison and patching.
 - [JavaVerbalExpressions ![GitHub Repo Stars](https://img.shields.io/github/stars/VerbalExpressions/JavaVerbalExpressions) ![GitHub last commit](https://img.shields.io/github/last-commit/VerbalExpressions/JavaVerbalExpressions)](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Library that helps with constructing difficult regular expressions.
 - [JGit](https://www.eclipse.org/jgit/) - Lightweight, pure Java library implementing the Git version control system.
