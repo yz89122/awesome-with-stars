@@ -152,7 +152,7 @@ An Emacs interface for Claude Code CLI.
 [`claude-code.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/greggh/claude-code.nvim)](https://github.com/greggh/claude-code.nvim) &nbsp; by &nbsp; [greggh](https://github.com/greggh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A seamless integration between Claude Code AI assistant and Neovim.
 
-[`crystal` ![GitHub Repo Stars](https://img.shields.io/github/stars/stravu/crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/stravu/crystal)](https://github.com/stravu/crystal) &nbsp; by &nbsp; [stravu](https://github.com/stravu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`crystal` ![GitHub Repo Stars](https://img.shields.io/github/stars/stravu/crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/stravu/crystal)](https://github.com/stravu/crystal) &nbsp; by &nbsp; [stravu](https://github.com/stravu)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
 
 <br>
