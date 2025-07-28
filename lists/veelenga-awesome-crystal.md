@@ -203,6 +203,7 @@ described in [RFC 8032]
  * [geoip2.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/delef/geoip2.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/delef/geoip2.cr)](https://github.com/delef/geoip2.cr) - GeoIP2 reader
  * [HAR ![GitHub Repo Stars](https://img.shields.io/github/stars/NeuraLegion/har) ![GitHub last commit](https://img.shields.io/github/last-commit/NeuraLegion/har)](https://github.com/NeuraLegion/har) - HAR (HTTP Archive) parser
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
+ * [jmespath.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/qequ/jmespath.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/qequ/jmespath.cr)](https://github.com/qequ/jmespath.cr) - Crystal implementation of JMESPath, a query language for JSON
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
  * [json-schema ![GitHub Repo Stars](https://img.shields.io/github/stars/spider-gazelle/json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/spider-gazelle/json-schema)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
  * [JSON::OnSteroids ![GitHub Repo Stars](https://img.shields.io/github/stars/anykeyh/json_on_steroids) ![GitHub last commit](https://img.shields.io/github/last-commit/anykeyh/json_on_steroids)](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
