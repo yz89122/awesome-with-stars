@@ -239,7 +239,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [FakeRest ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/FakeRest) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/FakeRest)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
 * [json-server ![GitHub Repo Stars](https://img.shields.io/github/stars/typicode/json-server) ![GitHub last commit](https://img.shields.io/github/last-commit/typicode/json-server)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
-* [Mocky.io](https://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
 * [Request Baskets ![GitHub Repo Stars](https://img.shields.io/github/stars/darklynx/request-baskets) ![GitHub last commit](https://img.shields.io/github/last-commit/darklynx/request-baskets)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 * [DuckRails ![GitHub Repo Stars](https://img.shields.io/github/stars/iridakos/duckrails) ![GitHub last commit](https://img.shields.io/github/last-commit/iridakos/duckrails)](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
@@ -268,6 +267,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [ReDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/Rebilly/ReDoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Rebilly/ReDoc)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 * [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/lord/slate) ![GitHub last commit](https://img.shields.io/github/last-commit/lord/slate)](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 * [Optic ![GitHub Repo Stars](https://img.shields.io/github/stars/opticdev/optic) ![GitHub last commit](https://img.shields.io/github/last-commit/opticdev/optic)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+* [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
 
 ## API Gateway
 
@@ -278,6 +278,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Express Gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/ExpressGateway/express-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/ExpressGateway/express-gateway)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 * [KrakenD ![GitHub Repo Stars](https://img.shields.io/github/stars/devopsfaith/krakend) ![GitHub last commit](https://img.shields.io/github/last-commit/devopsfaith/krakend)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
+* [Zuplo](https://zuplo.com/) - OpenAPI-Powered API & MCP Management platform for Security, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API or MCP Server in minutes, written in TypeScript & Go.
 
 ## SaaS Tools
 
@@ -295,10 +296,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## Miscellaneous
 
+* [shadcn-admin-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/shadcn-admin-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/shadcn-admin-kit)](https://github.com/marmelab/shadcn-admin-kit) - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
 * [react-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/react-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 * [ng-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/ng-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/ng-admin)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 * [swagger-codegen ![GitHub Repo Stars](https://img.shields.io/github/stars/swagger-api/swagger-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/swagger-api/swagger-codegen)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
-* [Lumber ![GitHub Repo Stars](https://img.shields.io/github/stars/ForestAdmin/lumber) ![GitHub last commit](https://img.shields.io/github/last-commit/ForestAdmin/lumber)](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application.
 * [Linx](https://linx.software) - Low-code API platform. Build, debug and host REST APIs 
 
 
