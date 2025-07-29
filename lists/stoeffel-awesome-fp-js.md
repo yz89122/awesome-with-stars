@@ -235,7 +235,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Examples and Exercises
 
-* [FPJS-Class ![GitHub Repo Stars](https://img.shields.io/github/stars/loop-recur/FPJS-Class) ![GitHub last commit](https://img.shields.io/github/last-commit/loop-recur/FPJS-Class)](https://github.com/loop-recur/FPJS-Class) �� Functional Programming learned through JavaScript.
+* [FPJS-Class ![GitHub Repo Stars](https://img.shields.io/github/stars/loop-recur/FPJS-Class) ![GitHub last commit](https://img.shields.io/github/last-commit/loop-recur/FPJS-Class)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 * [functional-javascript-workshop ![GitHub Repo Stars](https://img.shields.io/github/stars/timoxley/functional-javascript-workshop) ![GitHub last commit](https://img.shields.io/github/last-commit/timoxley/functional-javascript-workshop)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 * [functional-frontend-architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/paldepind/functional-frontend-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/paldepind/functional-frontend-architecture)](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [cube-composer ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/cube-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/cube-composer)](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
@@ -249,7 +249,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Related Lists
 
-* [Awesome FRP JS ![GitHub Repo Stars](https://img.shields.io/github/stars/stoeffel/awesome-frp-js) ![GitHub last commit](https://img.shields.io/github/last-commit/stoeffel/awesome-frp-js)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
+* [Awesome FRP JS ![GitHub Repo Stars](https://img.shields.io/github/stars/stoeffel/awesome-frp-js) ![GitHub last commit](https://img.shields.io/github/last-commit/stoeffel/awesome-frp-js)](https://github.com/stoeffel/awesome-frp-js) �� A curated list of awesome (functional) reactive programming stuff in JavaScript.
 * [lucasviola/Awesome Functional Programming ![GitHub Repo Stars](https://img.shields.io/github/stars/lucasviola/awesome-functional-programming) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasviola/awesome-functional-programming)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 * [xgrommx/Awesome Functional Programming ![GitHub Repo Stars](https://img.shields.io/github/stars/xgrommx/awesome-functional-programming) ![GitHub last commit](https://img.shields.io/github/last-commit/xgrommx/awesome-functional-programming)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 * [Functional Programming Resources In JavaScript ![GitHub Repo Stars](https://img.shields.io/github/stars/busypeoples/functional-programming-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/busypeoples/functional-programming-javascript)](https://github.com/busypeoples/functional-programming-javascript)
@@ -257,7 +257,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Talk
 
-* [Functional Programming Slack channel](https://fpslack.com/) ��� Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
+* [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
 
 ## Contribution
