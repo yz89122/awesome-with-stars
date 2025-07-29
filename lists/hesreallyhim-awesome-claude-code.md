@@ -140,6 +140,9 @@ A specialized tool to manage context isolation and focused task execution with C
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
+[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Command-line tool to customize your Claude Code styling.
+
 
 ### IDE Integrations
 
@@ -348,7 +351,7 @@ Features multiple Python environment setup options with detailed code style guid
 [`DroidconKotlin` ![GitHub Repo Stars](https://img.shields.io/github/stars/touchlab/DroidconKotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/touchlab/DroidconKotlin)](https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [touchlab](https://github.com/touchlab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.
 
-[`EDSL` ![GitHub Repo Stars](https://img.shields.io/github/stars/expectedparrot/edsl) ![GitHub last commit](https://img.shields.io/github/last-commit/expectedparrot/edsl)](https://github.com/expectedparrot/edsl/blob/main/CLAUDE.md) &nbsp; by &nbsp; [expectedparrot](https://github.com/expectedparrot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`EDSL` ![GitHub Repo Stars](https://img.shields.io/github/stars/expectedparrot/edsl) ![GitHub last commit](https://img.shields.io/github/last-commit/expectedparrot/edsl)](https://github.com/expectedparrot/edsl/blob/main/CLAUDE.md) &nbsp; by &nbsp; [expectedparrot](https://github.com/expectedparrot)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.
 
 [`Giselle` ![GitHub Repo Stars](https://img.shields.io/github/stars/giselles-ai/giselle) ![GitHub last commit](https://img.shields.io/github/last-commit/giselles-ai/giselle)](https://github.com/giselles-ai/giselle/blob/main/CLAUDE.md) &nbsp; by &nbsp; [giselles-ai](https://github.com/giselles-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
