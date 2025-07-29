@@ -2,7 +2,7 @@
 
 <div align="center">
 	<div>
-		<img width="500" src="https://github.com/AppImage/awesome-appimage/raw/master/media/logo.svg" alt="Awesome AppImage">
+		<img width="500" src="https://github.com/AppImage/awesome-appimage/raw/main/media/logo.svg" alt="Awesome AppImage">
 	</div>
 	<a href="https://awesome.re">
 		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
