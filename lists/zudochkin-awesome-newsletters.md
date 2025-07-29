@@ -223,7 +223,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ### Swift
 
-- [Swift Newsletter](https://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple��s new programming language.
+- [Swift Newsletter](https://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
 - [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week. [Archive](https://iosdevweekly.com/issues).
 - [Swift Weekly Brief](https://swiftweekly.github.io). A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday.
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
