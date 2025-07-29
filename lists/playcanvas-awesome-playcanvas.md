@@ -1,6 +1,6 @@
 # Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> <img src="https://github.com/playcanvas/awesome-playcanvas/raw/master/playcanvas-logo.png" align="right" width="100">
+> <img src="https://github.com/playcanvas/awesome-playcanvas/raw/main/playcanvas-logo.png" align="right" width="100">
 >
 > PlayCanvas is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
 >
