@@ -166,6 +166,9 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 
 **[Experimental]** - The resources listed in this section have not been fully vetted and may not work as expected, given the bleeding-edge nature of Claude Code hooks. Nevertheless, I wished to include them at least as a source of inspiration and to explore this unknown terrain. YMMV!
 
+[`CC Notify` ![GitHub Repo Stars](https://img.shields.io/github/stars/dazuiba/CCNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/dazuiba/CCNotify)](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
+
 [`cchooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/GowayLee/cchooks) ![GitHub last commit](https://img.shields.io/github/last-commit/GowayLee/cchooks)](https://github.com/GowayLee/cchooks) &nbsp; by &nbsp; [GowayLee](https://github.com/GowayLee)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.
 
@@ -351,7 +354,7 @@ Features multiple Python environment setup options with detailed code style guid
 [`DroidconKotlin` ![GitHub Repo Stars](https://img.shields.io/github/stars/touchlab/DroidconKotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/touchlab/DroidconKotlin)](https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [touchlab](https://github.com/touchlab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.
 
-[`EDSL` ![GitHub Repo Stars](https://img.shields.io/github/stars/expectedparrot/edsl) ![GitHub last commit](https://img.shields.io/github/last-commit/expectedparrot/edsl)](https://github.com/expectedparrot/edsl/blob/main/CLAUDE.md) &nbsp; by &nbsp; [expectedparrot](https://github.com/expectedparrot)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`EDSL` ![GitHub Repo Stars](https://img.shields.io/github/stars/expectedparrot/edsl) ![GitHub last commit](https://img.shields.io/github/last-commit/expectedparrot/edsl)](https://github.com/expectedparrot/edsl/blob/main/CLAUDE.md) &nbsp; by &nbsp; [expectedparrot](https://github.com/expectedparrot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.
 
 [`Giselle` ![GitHub Repo Stars](https://img.shields.io/github/stars/giselles-ai/giselle) ![GitHub last commit](https://img.shields.io/github/last-commit/giselles-ai/giselle)](https://github.com/giselles-ai/giselle/blob/main/CLAUDE.md) &nbsp; by &nbsp; [giselles-ai](https://github.com/giselles-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
