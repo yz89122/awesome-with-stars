@@ -126,6 +126,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [ixm ![GitHub Repo Stars](https://img.shields.io/github/stars/slurps-mad-rips/ixm) ![GitHub last commit](https://img.shields.io/github/last-commit/slurps-mad-rips/ixm)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [```[MIT]```][MIT]
 * [CMakeCooking ![GitHub Repo Stars](https://img.shields.io/github/stars/hakuch/CMakeCooking) ![GitHub last commit](https://img.shields.io/github/last-commit/hakuch/CMakeCooking)](https://github.com/hakuch/CMakeCooking) - Flexible development environments for CMake projects with external dependencies
 . [```[APACHE2]```][APACHE2]
+* [fetch_paths.cmake ![GitHub Repo Stars](https://img.shields.io/github/stars/XiaoLey/fetch_paths.cmake) ![GitHub last commit](https://img.shields.io/github/last-commit/XiaoLey/fetch_paths.cmake)](https://github.com/XiaoLey/fetch_paths.cmake) - Lightweight utility to simplify file/directory path retrieval in CMake, supporting dynamic searches and flexible output formats. [```[MIT]```](https://github.com/XiaoLey/fetch_paths.cmake/blob/main/LICENSE)
 
 ## Toolchains
 
