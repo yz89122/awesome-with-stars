@@ -2280,7 +2280,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [slither ![GitHub Repo Stars](https://img.shields.io/github/stars/trailofbits/slither) ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/slither)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
 
-- [solhint](https://protofire.github.io/solhint) — Solhint is an open source project created by https://protofire.io. Its goal is to provide a linting utility for Solidity code.
+- [solhint](https://protofire.github.io/solhint) �� Solhint is an open source project created by https://protofire.io. Its goal is to provide a linting utility for Solidity code.
 
 - [solium](https://ethlint.readthedocs.io/en/latest) — Solium is a linter to identify and fix style and security issues in Solidity smart contracts.
 
