@@ -243,9 +243,9 @@ _Libraries for manipulating audio._
 
 **[⬆ back to top](#contents)**
 
-## Authentication and OAuth
+## Authentication and Authorization
 
-_Libraries for implementing authentication schemes._
+_Libraries for implementing authentication and authorization._
 
 - [authboss ![GitHub Repo Stars](https://img.shields.io/github/stars/volatiletech/authboss) ![GitHub last commit](https://img.shields.io/github/last-commit/volatiletech/authboss)](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
 - [branca ![GitHub Repo Stars](https://img.shields.io/github/stars/essentialkaos/branca) ![GitHub last commit](https://img.shields.io/github/last-commit/essentialkaos/branca)](https://github.com/essentialkaos/branca) - branca token [specification implementation ![GitHub Repo Stars](https://img.shields.io/github/stars/tuupola/branca-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/tuupola/branca-spec)](https://github.com/tuupola/branca-spec) for Golang 1.15+.
@@ -281,6 +281,7 @@ _Libraries for implementing authentication schemes._
 - [sessions ![GitHub Repo Stars](https://img.shields.io/github/stars/adam-hanna/sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/adam-hanna/sessions)](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers.
 - [sessionup ![GitHub Repo Stars](https://img.shields.io/github/stars/swithek/sessionup) ![GitHub last commit](https://img.shields.io/github/last-commit/swithek/sessionup)](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
 - [sjwt ![GitHub Repo Stars](https://img.shields.io/github/stars/brianvoe/sjwt) ![GitHub last commit](https://img.shields.io/github/last-commit/brianvoe/sjwt)](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
+- [spicedb ![GitHub Repo Stars](https://img.shields.io/github/stars/authzed/spicedb) ![GitHub last commit](https://img.shields.io/github/last-commit/authzed/spicedb)](https://github.com/authzed/spicedb) - A Zanzibar-inspired database that enables fine-grained authorization.
 - [x509proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/vkuznet/x509proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/vkuznet/x509proxy)](https://github.com/vkuznet/x509proxy) - Library to handle X509 proxy certificates.
 
 **[⬆ back to top](#contents)**
@@ -2753,7 +2754,7 @@ _General utilities and tools to make your life easier._
 - [chyle ![GitHub Repo Stars](https://img.shields.io/github/stars/antham/chyle) ![GitHub last commit](https://img.shields.io/github/last-commit/antham/chyle)](https://github.com/antham/chyle) - Changelog generator using a git repository with multiple configuration possibilities.
 - [circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/cep21/circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/cep21/circuit)](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [circuitbreaker ![GitHub Repo Stars](https://img.shields.io/github/stars/rubyist/circuitbreaker) ![GitHub last commit](https://img.shields.io/github/last-commit/rubyist/circuitbreaker)](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go.
-- [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-design/clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-design/clipboard)](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package in Go.
+- [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-design/clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-design/clipboard)](https://github.com/golang-design/clipboard) - ��� cross-platform clipboard package in Go.
 - [clockwork ![GitHub Repo Stars](https://img.shields.io/github/stars/jonboulle/clockwork) ![GitHub last commit](https://img.shields.io/github/last-commit/jonboulle/clockwork)](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 - [cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonBaeumer/cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonBaeumer/cmd)](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 - [command ![GitHub Repo Stars](https://img.shields.io/github/stars/txgruppi/command) ![GitHub last commit](https://img.shields.io/github/last-commit/txgruppi/command)](https://github.com/txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher.
