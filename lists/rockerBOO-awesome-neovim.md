@@ -24,6 +24,7 @@
   - [Markdown and LaTeX](#markdown-and-latex)
   - [PHP](#php)
   - [Powershell](#powershell)
+  - [Assembly](#assembly)
 - [Language](#language)
 - [Syntax](#syntax)
 - [Snippet](#snippet)
@@ -371,6 +372,16 @@
 
 <!--lint enable double-link -->
 
+### Assembly
+
+- [Who5673/who5673-nasm ![GitHub Repo Stars](https://img.shields.io/github/stars/Who5673/who5673-nasm) ![GitHub last commit](https://img.shields.io/github/last-commit/Who5673/who5673-nasm)](https://github.com/Who5673/who5673-nasm) - Helps people program Netwide Assembler language faster and more convenient using snippets.
+
+<!--lint disable double-link -->
+
+**[⬆ back to top](#contents)**
+
+<!--lint enable double-link -->
+
 ## Language
 
 - [potamides/pantran.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/potamides/pantran.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/potamides/pantran.nvim)](https://github.com/potamides/pantran.nvim) - Translate your text with an interactive translation window.
@@ -419,7 +430,6 @@
 - [cvigilv/esqueleto.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cvigilv/esqueleto.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cvigilv/esqueleto.nvim)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
 - [chrisgrieser/nvim-scissors ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-scissors) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-scissors)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [guilherme-puida/tesoura.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/guilherme-puida/tesoura.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/guilherme-puida/tesoura.nvim)](https://github.com/guilherme-puida/tesoura.nvim) - A flexible snippet system using Neovim's new snippet API.
-- [Who5673/who5673-nasm ![GitHub Repo Stars](https://img.shields.io/github/stars/Who5673/who5673-nasm) ![GitHub last commit](https://img.shields.io/github/last-commit/Who5673/who5673-nasm)](https://github.com/Who5673/who5673-nasm) - Helps people program Netwide Assembler language faster and more convenient using snippets.
 
 <!--lint disable double-link -->
 
@@ -1340,6 +1350,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [gsuuon/tshjkl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gsuuon/tshjkl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gsuuon/tshjkl.nvim)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select Tree-sitter nodes with hjkl.
 - [backdround/neowords.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/neowords.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/neowords.nvim)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 - [backdround/improved-ft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/improved-ft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/improved-ft.nvim)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+- [jinh0/eyeliner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jinh0/eyeliner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jinh0/eyeliner.nvim)](https://github.com/jinh0/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
 - [Mr-LLLLL/treesitter-outer ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/treesitter-outer) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/treesitter-outer)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 - [DanilaMihailov/beacon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DanilaMihailov/beacon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DanilaMihailov/beacon.nvim)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
 - [Aaronik/Treewalker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronik/Treewalker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronik/Treewalker.nvim)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
@@ -1602,6 +1613,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Remote Development
 
+- [inhesrom/remote-ssh.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/inhesrom/remote-ssh.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/inhesrom/remote-ssh.nvim)](https://github.com/inhesrom/remote-ssh.nvim) - Duplicates the basic ground level functionality of VSCode's Remote-SSH plugin, with a focus on a local editing experience to avoid remote "lag". Browse remote files, edit "remote buffers" with a full local editing experience (LSP, Tree-sitter, Telescope integration, and a file watcher).
 - [chipsenkbeil/distant.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chipsenkbeil/distant.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chipsenkbeil/distant.nvim)](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 - [jamestthompson3/nvim-remote-containers ![GitHub Repo Stars](https://img.shields.io/github/stars/jamestthompson3/nvim-remote-containers) ![GitHub last commit](https://img.shields.io/github/last-commit/jamestthompson3/nvim-remote-containers)](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode.
 - [esensar/nvim-dev-container ![GitHub Repo Stars](https://img.shields.io/github/stars/esensar/nvim-dev-container) ![GitHub last commit](https://img.shields.io/github/last-commit/esensar/nvim-dev-container)](https://github.com/esensar/nvim-dev-container) - Neovim devcontainer.json and general development container support.
