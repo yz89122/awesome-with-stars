@@ -236,7 +236,7 @@ Global Navigation Systems like GPS allow to determine the current position of yo
 * [rtklib](https://www.rtklib.com) - Software toolchain to increase precision of GNSS signals by applying realtime or post-processing to eliminate interferences. Signals recorded by SDR or some commercial GPS modules.
 * [Vicon MavLink ![GitHub Repo Stars](https://img.shields.io/github/stars/bo-rc/ViconMAVLink) ![GitHub last commit](https://img.shields.io/github/last-commit/bo-rc/ViconMAVLink)](https://github.com/bo-rc/ViconMAVLink) - Get indoor positioning via commercial optical systems for a whole drone swarm.
 
-## Sensors 🌡️
+## Sensors ��️
 
 A drone uses more sensors like compass, barometer, airspeed or current to increase position estimation, or to show the system performance
 
@@ -305,7 +305,7 @@ Ground Control Stations (GCS) on laptops / tablets allow better overview of flig
 
 Your FC is focused on realtime control for maneuvers, while additional computers add ressources for more complex data processing, see also [Arudpilot.org - Companion Computers](https://ardupilot.org/dev/docs/companion-computers.html) and digital VTX systems above.
 
-* [öch��n CM4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ochin-space/ochin-CM4) ![GitHub last commit](https://img.shields.io/github/last-commit/ochin-space/ochin-CM4)](https://github.com/ochin-space/ochin-CM4) - RPI Compute Module carrier board dedicated for FC
+* [öchìn CM4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ochin-space/ochin-CM4) ![GitHub last commit](https://img.shields.io/github/last-commit/ochin-space/ochin-CM4)](https://github.com/ochin-space/ochin-CM4) - RPI Compute Module carrier board dedicated for FC
 * [APsync](https://ardupilot.org/dev/docs/apsync-intro.html) - Mavlink focused OS for different SBCs.
 * [RPanion](https://www.docs.rpanion.com/software/rpanion-server) - Mavlink focused RPI image.
 * [ROS ![GitHub Repo Stars](https://img.shields.io/github/stars/ros/ros) ![GitHub last commit](https://img.shields.io/github/last-commit/ros/ros)](https://github.com/ros/ros) - Robot Operating System, to handle more complex and interactive flights.
