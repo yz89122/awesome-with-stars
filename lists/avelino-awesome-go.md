@@ -58,7 +58,7 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
   - [Actor Model](#actor-model)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Audio and Music](#audio-and-music)
-  - [Authentication and OAuth](#authentication-and-oauth)
+  - [Authentication and Authorization](#authentication-and-authorization)
   - [Blockchain](#blockchain)
   - [Bot Building](#bot-building)
   - [Build Automation](#build-automation)
@@ -2754,7 +2754,7 @@ _General utilities and tools to make your life easier._
 - [chyle ![GitHub Repo Stars](https://img.shields.io/github/stars/antham/chyle) ![GitHub last commit](https://img.shields.io/github/last-commit/antham/chyle)](https://github.com/antham/chyle) - Changelog generator using a git repository with multiple configuration possibilities.
 - [circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/cep21/circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/cep21/circuit)](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [circuitbreaker ![GitHub Repo Stars](https://img.shields.io/github/stars/rubyist/circuitbreaker) ![GitHub last commit](https://img.shields.io/github/last-commit/rubyist/circuitbreaker)](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go.
-- [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-design/clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-design/clipboard)](https://github.com/golang-design/clipboard) - ��� cross-platform clipboard package in Go.
+- [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-design/clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-design/clipboard)](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package in Go.
 - [clockwork ![GitHub Repo Stars](https://img.shields.io/github/stars/jonboulle/clockwork) ![GitHub last commit](https://img.shields.io/github/last-commit/jonboulle/clockwork)](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 - [cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonBaeumer/cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonBaeumer/cmd)](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 - [command ![GitHub Repo Stars](https://img.shields.io/github/stars/txgruppi/command) ![GitHub last commit](https://img.shields.io/github/last-commit/txgruppi/command)](https://github.com/txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher.
