@@ -1764,7 +1764,7 @@ _Libraries for working with Microsoft Word._
 
 - [godocx ![GitHub Repo Stars](https://img.shields.io/github/stars/gomutex/godocx) ![GitHub last commit](https://img.shields.io/github/last-commit/gomutex/godocx)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Miscellaneous
 
