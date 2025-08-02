@@ -142,7 +142,7 @@ A collection of Android security-related resources.
 1. [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
 1. [AndBug ![GitHub Repo Stars](https://img.shields.io/github/stars/swdunlop/AndBug) ![GitHub last commit](https://img.shields.io/github/last-commit/swdunlop/AndBug)](https://github.com/swdunlop/AndBug)
 1. [Androguard ![GitHub Repo Stars](https://img.shields.io/github/stars/androguard/androguard) ![GitHub last commit](https://img.shields.io/github/last-commit/androguard/androguard)](https://github.com/androguard/androguard) – powerful, integrates well with other tools
-1. [Apktool](https://ibotpeaches.github.io/Apktool/) �� really useful for compilation/decompilation (uses smali)
+1. [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
 1. [Android Framework for Exploitation ![GitHub Repo Stars](https://img.shields.io/github/stars/appknox/AFE) ![GitHub last commit](https://img.shields.io/github/last-commit/appknox/AFE)](https://github.com/appknox/AFE)
 1. [Bypass signature and permission checks for IPCs ![GitHub Repo Stars](https://img.shields.io/github/stars/iSECPartners/Android-KillPermAndSigChecks) ![GitHub last commit](https://img.shields.io/github/last-commit/iSECPartners/Android-KillPermAndSigChecks)](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 1. [Android OpenDebug ![GitHub Repo Stars](https://img.shields.io/github/stars/iSECPartners/Android-OpenDebug) ![GitHub last commit](https://img.shields.io/github/last-commit/iSECPartners/Android-OpenDebug)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using cydia substrate).
