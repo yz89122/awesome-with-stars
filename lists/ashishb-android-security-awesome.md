@@ -29,6 +29,7 @@ A collection of Android security-related resources.
 1. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast Android application security testing for developers
 1. [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules.
 1. [Immuniweb](https://www.immuniweb.com/mobile/). Does an "OWASP Mobile Top 10 Test", "Mobile App Privacy Check", and an application permissions test. The free tier is 4 tests per day, including report after registration
+1. [ANY.RUN](https://app.any.run/) - An interactive cloud-based malware analysis platform with support for Android application analysis. Limited free plan available.
 1. ~~[BitBaan](https://malab.bitbaan.com/)~~
 1. ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
 1. ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
@@ -97,7 +98,6 @@ A collection of Android security-related resources.
 1. [Androl4b ![GitHub Repo Stars](https://img.shields.io/github/stars/sh4hin/Androl4b) ![GitHub last commit](https://img.shields.io/github/last-commit/sh4hin/Androl4b)](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 1. [House ![GitHub Repo Stars](https://img.shields.io/github/stars/nccgroup/house) ![GitHub last commit](https://img.shields.io/github/last-commit/nccgroup/house)](https://github.com/nccgroup/house)- House: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 1. [Mobile-Security-Framework MobSF ![GitHub Repo Stars](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF) ![GitHub last commit](https://img.shields.io/github/last-commit/MobSF/Mobile-Security-Framework-MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
-1. [AppUse](https://appsec-labs.com/AppUse/) – custom build for penetration testing
 1. [Droidbox ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlantz/droidbox) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlantz/droidbox)](https://github.com/pjlantz/droidbox)
 1. [Drozer ![GitHub Repo Stars](https://img.shields.io/github/stars/mwrlabs/drozer) ![GitHub last commit](https://img.shields.io/github/last-commit/mwrlabs/drozer)](https://github.com/mwrlabs/drozer)
 1. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub-based code injection but without any modifications to the binary
@@ -127,6 +127,7 @@ A collection of Android security-related resources.
 1. [friTap ![GitHub Repo Stars](https://img.shields.io/github/stars/fkie-cad/friTap) ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/friTap)](https://github.com/fkie-cad/friTap)- Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
 1. [HacknDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/RaffaDNDM/HacknDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/RaffaDNDM/HacknDroid)](https://github.com/RaffaDNDM/HacknDroid) - A tool designed to automate various Mobile Application Penetration Testing (MAPT) tasks and facilitate interaction with Android devices.
 1. [adbsploit ![GitHub Repo Stars](https://img.shields.io/github/stars/mesquidar/adbsploit) ![GitHub last commit](https://img.shields.io/github/last-commit/mesquidar/adbsploit)](https://github.com/mesquidar/adbsploit) - tools for exploiting device via ADB
+1. ~~[AppUse](https://appsec-labs.com/AppUse/) – custom build for penetration testing~~
 1. ~~[Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.~~
 1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 1. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier, it used to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
@@ -152,7 +153,6 @@ A collection of Android security-related resources.
 1. [Fino ![GitHub Repo Stars](https://img.shields.io/github/stars/sysdream/fino) ![GitHub last commit](https://img.shields.io/github/last-commit/sysdream/fino)](https://github.com/sysdream/fino)
 1. [Frida](https://www.frida.re/) - inject JavaScript to explore applications and a [GUI tool ![GitHub Repo Stars](https://img.shields.io/github/stars/antojoseph/diff-gui) ![GitHub last commit](https://img.shields.io/github/last-commit/antojoseph/diff-gui)](https://github.com/antojoseph/diff-gui) for it
 1. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-1. [IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)
 1. [Introspy ![GitHub Repo Stars](https://img.shields.io/github/stars/iSECPartners/Introspy-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/iSECPartners/Introspy-Android)](https://github.com/iSECPartners/Introspy-Android)
 1. [Jad]( https://varaneckas.com/jad/) - Java decompiler
 1. [JD-GUI ![GitHub Repo Stars](https://img.shields.io/github/stars/java-decompiler/jd-gui) ![GitHub last commit](https://img.shields.io/github/last-commit/java-decompiler/jd-gui)](https://github.com/java-decompiler/jd-gui) - Java decompiler
@@ -175,6 +175,7 @@ A collection of Android security-related resources.
 1. [odex-patcher ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomoferretti/odex-patcher) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomoferretti/odex-patcher)](https://github.com/giacomoferretti/odex-patcher) - Run arbitrary code by patching OAT files
 1. [PhoneSpolit-Pro ![GitHub Repo Stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro)](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit Framework to get a Meterpreter session.
 1. [APKLab ![GitHub Repo Stars](https://img.shields.io/github/stars/APKLab/APKLab) ![GitHub last commit](https://img.shields.io/github/last-commit/APKLab/APKLab)](https://github.com/APKLab/APKLab) - plugin for VS code to analyze APKs
+1. ~~[IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)~~
 1. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 1. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 1. ~~[ZjDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/BaiduSecurityLabs/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/BaiduSecurityLabs/ZjDroid)](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/yangbean9/ZjDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/yangbean9/ZjDroid)](https://github.com/yangbean9/ZjDroid)~~
