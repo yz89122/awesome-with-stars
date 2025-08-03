@@ -1045,6 +1045,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngXpress ![GitHub Repo Stars](https://img.shields.io/github/stars/angularcafe/ngXpress) ![GitHub last commit](https://img.shields.io/github/last-commit/angularcafe/ngXpress)](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-stack-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/thatsamsonkid/spartan-stack-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/thatsamsonkid/spartan-stack-starter)](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
 * [jet ![GitHub Repo Stars](https://img.shields.io/github/stars/karmasakshi/jet) ![GitHub last commit](https://img.shields.io/github/last-commit/karmasakshi/jet)](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
+* [serene ![GitHub Repo Stars](https://img.shields.io/github/stars/ClaudioAlcantaraR/serene) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudioAlcantaraR/serene)](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
 
 ### Paid Templates
 
