@@ -141,7 +141,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Lenses
 
-* [lenses ![GitHub Repo Stars](https://img.shields.io/github/stars/DrBoolean/lenses) ![GitHub last commit](https://img.shields.io/github/last-commit/DrBoolean/lenses)](https://github.com/DrBoolean/lenses) ��� Composable [kmett ![GitHub Repo Stars](https://img.shields.io/github/stars/ekmett/lens) ![GitHub last commit](https://img.shields.io/github/last-commit/ekmett/lens)](https://github.com/ekmett/lens) style lenses.
+* [lenses ![GitHub Repo Stars](https://img.shields.io/github/stars/DrBoolean/lenses) ![GitHub last commit](https://img.shields.io/github/last-commit/DrBoolean/lenses)](https://github.com/DrBoolean/lenses) – Composable [kmett ![GitHub Repo Stars](https://img.shields.io/github/stars/ekmett/lens) ![GitHub last commit](https://img.shields.io/github/last-commit/ekmett/lens)](https://github.com/ekmett/lens) style lenses.
 * [optics ![GitHub Repo Stars](https://img.shields.io/github/stars/flunc/optics) ![GitHub last commit](https://img.shields.io/github/last-commit/flunc/optics)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
 * [ramda-lens ![GitHub Repo Stars](https://img.shields.io/github/stars/ramda/ramda-lens) ![GitHub last commit](https://img.shields.io/github/last-commit/ramda/ramda-lens)](https://github.com/ramda/ramda-lens) – :ram: :mag_right: Lens library built on Ramda.
 * [fantasy-lenses ![GitHub Repo Stars](https://img.shields.io/github/stars/fantasyland/fantasy-lenses) ![GitHub last commit](https://img.shields.io/github/last-commit/fantasyland/fantasy-lenses)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
