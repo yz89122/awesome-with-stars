@@ -276,7 +276,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) 💠🟪 - An overview of graphics programming and a collection of resources tailored to beginners learning graphics programming. 
 
 
-[WebGLFundamentals](https://webglfundamentals.org) 💠🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
+[WebGLFundamentals](https://webglfundamentals.org) ���🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
 
 
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
@@ -327,7 +327,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) 💠🟪 - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
 
 
-[GafferOnGames](https://gafferongames.com) 🟪 - A bunch of articles on netcode for games.
+[GafferOnGames](https://gafferongames.com) ���� - A bunch of articles on netcode for games.
 
 
 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Technical documentation from Valve about the netcode of source games.
@@ -780,7 +780,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[What is a Games Producer?](https://www.screenskills.com/job-profiles/browse/games/production/games-producer-games/) 💠 - An explanation of the production role, and resources on how to become a producer.
+[What is a Games Producer?](https://www.screenskills.com/job-profiles/browse/games/production/games-producer-games/) ���� - An explanation of the production role, and resources on how to become a producer.
 
 
 [Video Game Production Resources](https://www.breakingthewheel.com/video-game-production-resources/) 🟪 - A collection of resources for producers, categorized by purpose. Targets soft skills such as entrepreneurship, management, and marketing.

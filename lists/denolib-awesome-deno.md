@@ -341,7 +341,7 @@ This list is a collection of the best Deno modules and resources.
 - [GitHub Profile Trophy ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [Saleor Deno Merch ![GitHub Repo Stars](https://img.shields.io/github/stars/saleor/deno-merch) ![GitHub last commit](https://img.shields.io/github/last-commit/saleor/deno-merch)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor ![GitHub Repo Stars](https://img.shields.io/github/stars/saleor/saleor) ![GitHub last commit](https://img.shields.io/github/last-commit/saleor/saleor)](https://github.com/saleor/saleor).
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
-- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno ����.
+- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 
@@ -481,7 +481,7 @@ This list is a collection of the best Deno modules and resources.
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
-- [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
+- [Dive into Deno：プロセス起動からTypeScriptが実行さ��るまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
 ### Korean
 
