@@ -453,7 +453,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * 📝 [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
-* 📝 [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
+* ��� [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
 * 📝 [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * 📝 [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 * 📝 [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
