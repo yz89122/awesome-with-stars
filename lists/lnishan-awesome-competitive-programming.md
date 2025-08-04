@@ -133,7 +133,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein | Also known as CLRS (taken from name initials), this book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail. The writing is more rigorous and can be difficult to some. |
 | ★★☆ | [Algorithm Design](http://amzn.to/VjhioK), by Jon Kleinberg and Éva Tardos | This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots. ... The lecture slides that accompany the textbook are available on its [official website](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/). |
 | ★★☆ | [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena | The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](http://www.algorist.com). |
-| ★★★ | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne | This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It is used in some IOI training camps as a textbook. |
+| ★���★ | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne | This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It is used in some IOI training camps as a textbook. |
 |     | [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures), by Marcello La Rocca | This book provides a different approach to algorithms, balancing theory with a more practical angle, with a section per-chapter focusing on how to apply algorithms to real-world use cases that can be found in your daily work, or in competitive programming; it also presents a blend of classic, advanced, and new algorithms. |
 | ★★★ | [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), by Jeff Erickson | A free electronic version of a self-published textbook licensed under CC by 4.0. This is a well written book from lecture notes of theoretical computer science courses at the University of Illinois. Covers the main paradigms of backtracking, dynamic programming, greedy, and particularly graphs in depth. |
 |     | [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures), by Marcello La Rocca | Grokking Data Structures carefully guides you from the most basic data structures like arrays or linked lists all the way to powerful structures like graphs. It’s perfect for beginners, and you won’t need anything more than high school math to get started. Each data structure you encounter comes with its own complete Python implementation so you can start experimenting with what you learn right away. |
@@ -187,7 +187,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset?tags=dp) | CF (DP) |
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
-| ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
+| ★★☆ | [Lucky��的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
 ### Contest Calendars
@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
