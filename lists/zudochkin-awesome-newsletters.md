@@ -457,7 +457,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 - [High Growth Engineer](https://read.highgrowthengineer.com/)
 - [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
 - [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
-- [Engineer��s Codex](https://open.substack.com/pub/engineercodex)
+- [Engineer’s Codex](https://open.substack.com/pub/engineercodex)
 - [Coding Challenges](https://open.substack.com/pub/codingchallenges)
 - [EcZachly Data Engineering Newsletter](https://open.substack.com/pub/eczachly)
 - [Techlead Mentor](https://open.substack.com/pub/ravirajachar)
