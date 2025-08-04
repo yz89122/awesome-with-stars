@@ -565,6 +565,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-microfrontend-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/gioboa/angular-microfrontend-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/gioboa/angular-microfrontend-demo)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 * [backbase-micro-frontends ![GitHub Repo Stars](https://img.shields.io/github/stars/Backbase/backbase-micro-frontends) ![GitHub last commit](https://img.shields.io/github/last-commit/Backbase/backbase-micro-frontends)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
+* [micro-frontends-mindmaps ![GitHub Repo Stars](https://img.shields.io/github/stars/santoshshinde2012/micro-frontends-mindmaps) ![GitHub last commit](https://img.shields.io/github/last-commit/santoshshinde2012/micro-frontends-mindmaps)](https://github.com/santoshshinde2012/micro-frontends-mindmaps) - A mindmap summarizing micro-frontends concepts.
 * [ngx-mfe ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-mfe) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-mfe)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
 * [ngx-mf-remote-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/eurusik/ngx-mf-remote-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/eurusik/ngx-mf-remote-loader)](https://github.com/eurusik/ngx-mf-remote-loader) - SSR-compatible dynamic remote module loader for Angular + Nx Micro Frontends.
 
@@ -615,11 +616,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### AI
 
-* [Official web page](https://angular.dev/ai)
+* [Official AI docs](https://angular.dev/ai)
+* [Official Angular CLI MCP Server Setup](https://angular.dev/ai/mcp)
 * [Official llms.txt file](https://angular.dev/llms.txt)
 * [Official llms-full.txt file](https://angular.dev/context/llm-files/llms-full.txt)
 * [@angular/examples ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/examples)](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [abbi-ng-ai-image-descriptor ![GitHub Repo Stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor) ![GitHub last commit](https://img.shields.io/github/last-commit/slsfi/abbi-ng-ai-image-descriptor)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+* [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The Universal Agent Configuration File.
 * [agent-rules-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnomanu/agent-rules-kit)](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 * [ai-friendly-docs ![GitHub Repo Stars](https://img.shields.io/github/stars/gergelyszerovay/ai-friendly-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/gergelyszerovay/ai-friendly-docs)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
@@ -628,6 +631,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodeSage AI ![GitHub Repo Stars](https://img.shields.io/github/stars/kd-akshay/code-quality-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-akshay/code-quality-analyzer)](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [context7 ![GitHub Repo Stars](https://img.shields.io/github/stars/upstash/context7) ![GitHub last commit](https://img.shields.io/github/last-commit/upstash/context7)](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors.
+* [cursor.directory](https://cursor.directory/?q=angular) - The home for Cursor enthusiasts.
 * [deep-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/OvidijusParsiunas/deep-chat)](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 * [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert designs to clean Angular code in a click.
@@ -729,6 +733,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
 * [jangular-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/nathangtg/jangular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/nathangtg/jangular-cli)](https://github.com/nathangtg/jangular-cli) - Comprehensive Full-Stack Starter Kit: Powered by Spring Boot and Angular, featuring JWT-based authentication, seamless Flyway migrations, robust route protection, and a command-line interface for quick project initialization.
 * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular.
+* [ng-openapi ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-openapi/ng-openapi) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-openapi/ng-openapi)](https://github.com/ng-openapi/ng-openapi) - Angular OpenAPI Client Generator.
 
 ### Internationalization
 
