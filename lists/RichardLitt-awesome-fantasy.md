@@ -392,7 +392,7 @@ Books:
 - [The Skull Throne](https://www.goodreads.com/book/show/24516043-the-skull-throne)
 - [The Core](https://www.goodreads.com/book/show/36179561-the-core)
 
-> As darkness falls after sunset, the corelings rise—demons who possess supernatural powers and burn with a consuming hatred of humanity. For hundreds of years the demons have terrorized the night, slowly culling the human herd that shelters behind magical wards—symbols of power whose origins are lost in myth and whose protection is terrifyingly fragile.
+> As darkness falls after sunset, the corelings rise—demons who possess supernatural powers and burn with a consuming hatred of humanity. For hundreds of years the demons have terrorized the night, slowly culling the human herd that shelters behind magical wards��symbols of power whose origins are lost in myth and whose protection is terrifyingly fragile.
 >
 >It was not always this way. Once, men and women battled the corelings on equal terms, but those days are gone. Night by night the demons grow stronger, while human numbers dwindle under their relentless assault.
 >
