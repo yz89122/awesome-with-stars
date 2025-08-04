@@ -665,7 +665,6 @@ additional ordered map implementations.
 - [merkle ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/merkle) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/merkle)](https://github.com/bobg/merkle) - Space-efficient computation of Merkle root hashes and inclusion proofs.
 - [skiplist ![GitHub Repo Stars](https://img.shields.io/github/stars/MauriceGit/skiplist) ![GitHub last commit](https://img.shields.io/github/last-commit/MauriceGit/skiplist)](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
 - [skiplist ![GitHub Repo Stars](https://img.shields.io/github/stars/gansidui/skiplist) ![GitHub last commit](https://img.shields.io/github/last-commit/gansidui/skiplist)](https://github.com/gansidui/skiplist) - Skiplist implementation in Go.
-- [treap ![GitHub Repo Stars](https://img.shields.io/github/stars/perdata/treap) ![GitHub last commit](https://img.shields.io/github/last-commit/perdata/treap)](https://github.com/perdata/treap) - Persistent, fast ordered map using tree heaps.
 - [treemap ![GitHub Repo Stars](https://img.shields.io/github/stars/igrmk/treemap) ![GitHub last commit](https://img.shields.io/github/last-commit/igrmk/treemap)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
 
 ### Pipes
