@@ -341,7 +341,7 @@ System integration is the process of linking together different IT systems (com
 - [TIBCO EBX](https://www.tibco.com/products/ebx) - Comprehensive platform for governing and managing shared data assets, ensuring consistency and enabling smarter decisions.
 
 <!--lint disable-->
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 <!--lint enable-->
 ### Messaging
 *Message brokers are a type of middleware that allows communication between different applications or systems by facilitating the exchange of messages. They can handle different messaging patterns, such as point-to-point, publish-subscribe, and request-reply, and provide features such as message transformation, routing, and filtering.*
