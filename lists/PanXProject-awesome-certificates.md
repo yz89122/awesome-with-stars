@@ -307,7 +307,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx" target="_blank" rel="noopener noreferrer">React Native HTML to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">��️</a>
 
 
 ### Native Development

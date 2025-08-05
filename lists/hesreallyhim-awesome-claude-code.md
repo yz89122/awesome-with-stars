@@ -145,6 +145,9 @@ A task management system for AI-driven development with Claude, designed to work
 [`Claude Task Runner` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-task-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-task-runner)](https://github.com/grahama1970/claude-task-runner) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)    
 A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.
 
+[`claude-code-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pchalasani/claude-code-tools)](https://github.com/pchalasani/claude-code-tools) &nbsp; by &nbsp; [Prasad Chalasani](https://github.com/pchalasani)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A collection of awesome tools, including tmux integrations, better session management, hooks that enhance security - a really well-done set of Claude Code enhancers, especially for tmux users.
+
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
