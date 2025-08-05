@@ -145,6 +145,9 @@ A specialized tool to manage context isolation and focused task execution with C
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
+[`TSK - AI Agent Task Manager and Sandbox` ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/tsk) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/tsk)](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
+
 [`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
 
@@ -416,7 +419,7 @@ Presents detailed implementation plan for AI-driven game characters with technic
 [`Note Companion` ![GitHub Repo Stars](https://img.shields.io/github/stars/different-ai/note-companion) ![GitHub last commit](https://img.shields.io/github/last-commit/different-ai/note-companion)](https://github.com/different-ai/note-companion/blob/master/CLAUDE.md) &nbsp; by &nbsp; [different-ai](https://github.com/different-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Provides detailed styling isolation techniques for Obsidian plugins using Tailwind with custom prefix to prevent style conflicts and practical troubleshooting steps.
 
-[`Pareto Mac` ![GitHub Repo Stars](https://img.shields.io/github/stars/ParetoSecurity/pareto-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/ParetoSecurity/pareto-mac)](https://github.com/ParetoSecurity/pareto-mac/blob/main/CLAUDE.md) &nbsp; by &nbsp; [ParetoSecurity](https://github.com/ParetoSecurity)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
+[`Pareto Mac` ![GitHub Repo Stars](https://img.shields.io/github/stars/ParetoSecurity/pareto-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/ParetoSecurity/pareto-mac)](https://github.com/ParetoSecurity/pareto-mac/blob/main/CLAUDE.md) &nbsp; by &nbsp; [ParetoSecurity](https://github.com/ParetoSecurity)  &nbsp;&nbsp;���️&nbsp;&nbsp;GPL-3.0  
 Serves as development guide for Mac security audit tool with build instructions, contribution guidelines, testing procedures, and workflow documentation.
 
 [`SteadyStart` ![GitHub Repo Stars](https://img.shields.io/github/stars/steadycursor/steadystart) ![GitHub last commit](https://img.shields.io/github/last-commit/steadycursor/steadystart)](https://github.com/steadycursor/steadystart/blob/main/CLAUDE.md) &nbsp; by &nbsp; [steadycursor](https://github.com/steadycursor)    
