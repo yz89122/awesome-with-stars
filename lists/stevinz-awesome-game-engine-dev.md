@@ -272,7 +272,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [SDL ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
     - 🎉 [Sokol ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol) 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
 - C: Audio
-    - ��� [Miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/miniaudio)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
+    - ⭐ [Miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/miniaudio)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
     - 🎉 [SDL_mixer ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL_mixer) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL_mixer)](https://github.com/libsdl-org/SDL_mixer) - Audio mixer that supports various file formats for SDL.
     - 🎉 [SoLoud ![GitHub Repo Stars](https://img.shields.io/github/stars/jarikomppa/soloud) ![GitHub last commit](https://img.shields.io/github/last-commit/jarikomppa/soloud)](https://github.com/jarikomppa/soloud) 🔥 - Free, easy, portable audio engine for games.
 - C: Cross-Platform
