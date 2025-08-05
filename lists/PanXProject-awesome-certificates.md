@@ -248,7 +248,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/" target="_blank" rel="noopener noreferrer">Introduction to Electronics</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/" target="_blank" rel="noopener noreferrer">Electronic Applications</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/" target="_blank" rel="noopener noreferrer">Embedded Systems</a> | Academy Europe |Intermediate| 30 |🏆|
-| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | ��|
+| <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -378,7 +378,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/r-101" target="_blank" rel="noopener noreferrer">R 101</a> | IBM / Cognitive Class |Beginner|3| <a href="https://www.youracclaim.com/org/ibm/badge/r-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/using-r-with-databases/" target="_blank" rel="noopener noreferrer">Using R with Databases</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | 🏆|
+| <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | ����|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 

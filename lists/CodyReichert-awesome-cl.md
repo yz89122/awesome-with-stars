@@ -2116,6 +2116,10 @@ i18n
 
 * [cl-i18n](https://notabug.org/cage/cl-i18n) - an i18n library. Load translations from GNU gettext text or binary files or from its native format. Localisation helpers of plural forms. [LLGPL][8].
 * [gettext ![GitHub Repo Stars](https://img.shields.io/github/stars/rotatef/gettext) ![GitHub last commit](https://img.shields.io/github/last-commit/rotatef/gettext)](https://github.com/rotatef/gettext) -  a port of the gettext runtime to Common Lisp. [GPL3][2].
+* [fluent ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/fluent) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/fluent)](https://github.com/fosskers/fluent) - implementation of [Fluent ![GitHub Repo Stars](https://img.shields.io/github/stars/projectfluent/fluent) ![GitHub last commit](https://img.shields.io/github/last-commit/projectfluent/fluent)](https://github.com/projectfluent/fluent/), a modern localisation system. MPL-2.0.
+
+See also:
+
 * [translate ![GitHub Repo Stars](https://img.shields.io/github/stars/dkochmanski/translate) ![GitHub last commit](https://img.shields.io/github/last-commit/dkochmanski/translate)](https://github.com/dkochmanski/translate) - seamless language localization. LLGPL.
 * [enchant ![GitHub Repo Stars](https://img.shields.io/github/stars/tlikonen/cl-enchant) ![GitHub last commit](https://img.shields.io/github/last-commit/tlikonen/cl-enchant)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
 * [oxenfurt ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/oxenfurt) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/oxenfurt)](https://github.com/Shinmera/oxenfurt) - A  client library for the Oxford dictionary API. [zlib][33].
