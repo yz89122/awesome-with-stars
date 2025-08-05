@@ -118,6 +118,9 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 [`ccexp` ![GitHub Repo Stars](https://img.shields.io/github/stars/nyatinte/ccexp) ![GitHub last commit](https://img.shields.io/github/last-commit/nyatinte/ccexp)](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
+[`cclogviewer` ![GitHub Repo Stars](https://img.shields.io/github/stars/Brads3290/cclogviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Brads3290/cclogviewer)](https://github.com/Brads3290/cclogviewer) &nbsp; by &nbsp; [Brad S.](https://github.com/Brads3290)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
+
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
@@ -457,18 +460,22 @@ Official GitHub Actions integration for Claude Code with examples and documentat
 
 ## Contributing 🌻
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+### 🚀 **[Submit a new resource here! ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
 
-Regarding content, we especially welcome:
+It's easy! Just click the link above and fill out the form. No Git knowledge required - our automated system handles everything for you.
 
-- Proven, effective resources that follow best practices and may even be in use in production.
-- Innovative, creative, or experimental workflows that perhaps are still being iterated upon, but have high potential value, and push the boundaries of Claude Code's documented capabilities and use cases.
-- Additional libraries and tooling that are built on top of Claude Code and offer enhanced functionality.
-- Applications of Claude Code outside of the traditional "coding assistant" context, e.g., CI/CD integration, testing, documentation, dev-ops, etc.
+**We especially welcome:**
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to this project. Or, fire up Claude Code and invoke the `/project:add-new-resource` command and let Claude walk you through it!
+- Proven, effective resources that follow best practices and may even be in use in production
+- Innovative, creative, or experimental workflows that push the boundaries of Claude Code's capabilities
+- Additional libraries and tooling that are built on top of Claude Code
+- Applications of Claude Code outside of the traditional "coding assistant" context (CI/CD, testing, documentation, dev-ops, etc.)
 
-If you have any suggestions or thoughts on how to improve the repo, or how to best organize the list, feel free to start a Discussion topic. This is meant to be for the Claude Code community, and in general I prefer not to act on sole authority.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the complete submission guide and review process.
+
+For suggestions about the repository itself, please [open a general issue ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/issues/new).
+
+This project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating, you agree to abide by its terms.
 
 ### A note about licenses
 
