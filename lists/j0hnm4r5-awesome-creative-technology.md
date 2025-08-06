@@ -100,7 +100,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
-| [**Gallagher &amp; Associates**](https:&#x2F;&#x2F;www.gallagherdesign.com&#x2F;) | [DC] [NYC] [Portland] [Singapore] | harmony between technology, narrative, and physical design | [��](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
+| [**Gallagher &amp; Associates**](https:&#x2F;&#x2F;www.gallagherdesign.com&#x2F;) | [DC] [NYC] [Portland] [Singapore] | harmony between technology, narrative, and physical design | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
 | [**Game Seven**](https:&#x2F;&#x2F;www.gamesevenmktg.com&#x2F;) | [NYC] [LA] | intersection of sport and culture, brand stories | [🌐](https:&#x2F;&#x2F;www.gameseven.agency&#x2F;careers)
 | [**Geeksart**](http:&#x2F;&#x2F;geeks-art.com&#x2F;) | [Guangzhou] [Shanghai] | media sculptures, new media exhibition | [🌐](http:&#x2F;&#x2F;geeks-art.com&#x2F;join-us&#x2F;)
 | [**Giant Spoon**](https:&#x2F;&#x2F;giantspoon.com&#x2F;) | [NYC] [LA] | translate cultural trends into big ideas, experiential, gaming | [🌐](https:&#x2F;&#x2F;giantspoon.com&#x2F;#careers)
