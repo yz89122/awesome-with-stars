@@ -228,7 +228,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Engineering Manager Resources ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanburgess/engineer-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanburgess/engineer-manager)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
-- [A vitally important part of the job: being a crap shield](https://news.ycombinator.com/item?id=24802483) - “A lot of the work of an EM is wading into the slurry pit with a shovel so your team are free to get the job done���.
+- [A vitally important part of the job: being a crap shield](https://news.ycombinator.com/item?id=24802483) - “A lot of the work of an EM is wading into the slurry pit with a shovel so your team are free to get the job done”.
 
 ### Engineers
 
