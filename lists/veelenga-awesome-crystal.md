@@ -439,6 +439,7 @@ described in [RFC 8032]
  * [werk ![GitHub Repo Stars](https://img.shields.io/github/stars/marghidanu/werk) ![GitHub last commit](https://img.shields.io/github/last-commit/marghidanu/werk)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## Project Generators
+ * [crygen ![GitHub Repo Stars](https://img.shields.io/github/stars/tamdaz/crygen) ![GitHub last commit](https://img.shields.io/github/last-commit/tamdaz/crygen)](https://github.com/tamdaz/crygen) - A library that allows to generate the Crystal code
  * [crystal_lib ![GitHub Repo Stars](https://img.shields.io/github/stars/crystal-lang/crystal_lib) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-lang/crystal_lib)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez ![GitHub Repo Stars](https://img.shields.io/github/stars/jwoertink/fez) ![GitHub last commit](https://img.shields.io/github/last-commit/jwoertink/fez)](https://github.com/jwoertink/fez) - A Kemal application generator
  * [libgen ![GitHub Repo Stars](https://img.shields.io/github/stars/olbat/libgen) ![GitHub last commit](https://img.shields.io/github/last-commit/olbat/libgen)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
