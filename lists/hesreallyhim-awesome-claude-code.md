@@ -416,7 +416,7 @@ Enables real-time multiplayer capabilities for collaborative course creation wit
 [`Cursor Tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/eastlondoner/cursor-tools)](https://github.com/eastlondoner/cursor-tools/blob/main/CLAUDE.md) &nbsp; by &nbsp; [eastlondoner](https://github.com/eastlondoner)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Creates a versatile AI command interface supporting multiple providers and models with flexible command options and browser automation through "Stagehand" feature.
 
-[`Guitar` ![GitHub Repo Stars](https://img.shields.io/github/stars/soramimi/Guitar) ![GitHub last commit](https://img.shields.io/github/last-commit/soramimi/Guitar)](https://github.com/soramimi/Guitar/blob/master/CLAUDE.md) &nbsp; by &nbsp; [soramimi](https://github.com/soramimi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-2.0  
+[`Guitar` ![GitHub Repo Stars](https://img.shields.io/github/stars/soramimi/Guitar) ![GitHub last commit](https://img.shields.io/github/last-commit/soramimi/Guitar)](https://github.com/soramimi/Guitar/blob/master/CLAUDE.md) &nbsp; by &nbsp; [soramimi](https://github.com/soramimi)  &nbsp;&nbsp;���️&nbsp;&nbsp;GPL-2.0  
 Serves as development guide for Guitar Git GUI Client with build commands for various platforms, code style guidelines for contributing, and project structure explanation.
 
 [`Network Chronicles` ![GitHub Repo Stars](https://img.shields.io/github/stars/Fimeg/NetworkChronicles) ![GitHub last commit](https://img.shields.io/github/last-commit/Fimeg/NetworkChronicles)](https://github.com/Fimeg/NetworkChronicles/blob/legacy-v1/CLAUDE.md) &nbsp; by &nbsp; [Fimeg](https://github.com/Fimeg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
