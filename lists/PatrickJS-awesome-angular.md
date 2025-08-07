@@ -929,6 +929,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-simple-state-management ![GitHub Repo Stars](https://img.shields.io/github/stars/LionMarc/ng-simple-state-management) ![GitHub last commit](https://img.shields.io/github/last-commit/LionMarc/ng-simple-state-management)](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
 * [ngx-statewise ![GitHub Repo Stars](https://img.shields.io/github/stars/Pierre-MarieMarchio/ngx-statewise) ![GitHub last commit](https://img.shields.io/github/last-commit/Pierre-MarieMarchio/ngx-statewise)](https://github.com/Pierre-MarieMarchio/ngx-statewise) - A state management solution for Angular applications, offering a lighter and easier-to-use alternative to libraries like NgRx or NGXS, while maintaining a clear and predictable architecture for managing your application's state.
 * [fsm-state-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/NikitaTopchii/fsm-state-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/NikitaTopchii/fsm-state-manager)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
+* [signal-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/JBorgia/signal-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/JBorgia/signal-tree)](https://github.com/JBorgia/signal-tree) - An Angular 16+ store built around signals that focuses on simplicity.
 
 ## Testing
 
@@ -2053,6 +2054,7 @@ for the creation of web applications developed with Angular.
 * [angular-rsocket ![GitHub Repo Stars](https://img.shields.io/github/stars/saleweaver/angular-rsocket) ![GitHub last commit](https://img.shields.io/github/last-commit/saleweaver/angular-rsocket)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [angular-twitter-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/angular-twitter-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/angular-twitter-timeline)](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
+* [ngx-signalr-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/yurivoronin/ngx-signalr-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/yurivoronin/ngx-signalr-websocket)](https://github.com/yurivoronin/ngx-signalr-websocket) - A lightweight ASP.NET SignalR client for Angular.
 
 ### Wrappers
 
