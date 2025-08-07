@@ -3538,6 +3538,7 @@ _Where to discover new Go libraries._
 - [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/)
 - [The Go Programming Language](https://www.gopl.io/)
 - [The Golang Standard Library by Example (Chinese) ![GitHub Repo Stars](https://img.shields.io/github/stars/polaris1119/The-Golang-Standard-Library-by-Example) ![GitHub last commit](https://img.shields.io/github/last-commit/polaris1119/The-Golang-Standard-Library-by-Example)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+- [The Little Go Book ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/the-little-go-book) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/the-little-go-book)](https://github.com/karlseguin/the-little-go-book)
 - [Web Application with Go the Anti-Textbook ![GitHub Repo Stars](https://img.shields.io/github/stars/thewhitetulip/web-dev-golang-anti-textbook) ![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
 **[⬆ back to top](#contents)**
