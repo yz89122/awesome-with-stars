@@ -1,5 +1,5 @@
 <p align="center">
-  <img id="awesome-audio-visualization" src="https://github.com/willianjusten/awesome-audio-visualization/raw/master/logo-aav.gif" alt="Logo AAV">
+  <img id="awesome-audio-visualization" src="https://github.com/willianjusten/awesome-audio-visualization/raw/main/logo-aav.gif" alt="Logo AAV">
 </p>
 
 - [What is Audio Visualization?](https://en.wikipedia.org/wiki/Music_visualization)

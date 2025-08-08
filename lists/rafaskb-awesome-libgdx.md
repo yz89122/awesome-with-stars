@@ -1,4 +1,4 @@
-[![Awesome libGDX Logo ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaskb/awesome-libgdx) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaskb/awesome-libgdx)](https://github.com/rafaskb/awesome-libgdx/raw/master/logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
+[![Awesome libGDX Logo ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaskb/awesome-libgdx) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaskb/awesome-libgdx)](https://github.com/rafaskb/awesome-libgdx/raw/main/logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
 
 # Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Latest libGDX Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)](https://search.maven.org/artifact/com.badlogicgames.gdx/gdx)
 

@@ -2,7 +2,7 @@
 
 > A curated list of awesome downloadable SVG/PNG/Font icon projects
 
-![Banner](https://github.com/notlmn/awesome-icons/raw/master/media/banner.png)
+![Banner](https://github.com/notlmn/awesome-icons/raw/main/media/banner.png)
 
 ## Contents
 

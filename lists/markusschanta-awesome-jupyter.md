@@ -4,7 +4,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 <div align="center" style="border-bottom: 0px;">
 	<br>
-	<img width="400" src="https://github.com/markusschanta/awesome-jupyter/raw/main/assets/logo.png" alt="Jupyter logo">
+	<img width="400" src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="Jupyter logo">
 	<br>
 	<br>
 </div>
@@ -15,7 +15,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 	<sub>Awesome Jupyter is proudly supported by our sponsor:</sub>
 	<br>
 	<br>
-	<a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter"><img width="300" src="https://github.com/markusschanta/awesome-jupyter/raw/main/assets/deepnote.jpeg" alt="Deepnote logo"></a>
+	<a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter"><img width="300" src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/deepnote.jpeg" alt="Deepnote logo"></a>
 	<br>
 	<br>
 	<b>Deepnote is a collaborative data science notebook built for teams.</b>
