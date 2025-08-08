@@ -20,7 +20,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 <p align="center">
   <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img src="https://github.com/Solido/awesome-flutter/raw/master/assets/images/stream-logo.png" width="450" alt="Stream Chat" style="margin: 20px auto;" />
+    <img src="https://github.com/Solido/awesome-flutter/raw/main/assets/images/stream-logo.png" width="450" alt="Stream Chat" style="margin: 20px auto;" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 [Instant Chat Integration](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
 
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-<img alt="Stream" src="https://github.com/Solido/awesome-flutter/raw/master/.github/stream-animation.gif" />
+<img alt="Stream" src="https://github.com/Solido/awesome-flutter/raw/main/.github/stream-animation.gif" />
 </a>
 
 [with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
@@ -219,7 +219,7 @@ Meteo
 
 #### UI Helpers
 
-- [Offline ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/flutter_offline) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/flutter_offline)](https://github.com/jogboms/flutter_offline) [1054��] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Offline ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/flutter_offline) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/flutter_offline)](https://github.com/jogboms/flutter_offline) [1054⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [ShowCaseView ![GitHub Repo Stars](https://img.shields.io/github/stars/simformsolutions/flutter_showcaseview) ![GitHub last commit](https://img.shields.io/github/last-commit/simformsolutions/flutter_showcaseview)](https://github.com/simformsolutions/flutter_showcaseview) [1488⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Mix ![GitHub Repo Stars](https://img.shields.io/github/stars/leoafarias/mix) ![GitHub last commit](https://img.shields.io/github/last-commit/leoafarias/mix)](https://github.com/leoafarias/mix) [561⭐] - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
 - [Blurhash ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/flutter_blurhash) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/flutter_blurhash)](https://github.com/fluttercommunity/flutter_blurhash) [520⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)

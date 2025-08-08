@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/academic/awesome-datascience/raw/master/assets/head.jpg"></div>
+<div align="center"><img src="https://github.com/academic/awesome-datascience/raw/main/assets/head.jpg"></div>
 
 # AWESOME DATA SCIENCE
 
