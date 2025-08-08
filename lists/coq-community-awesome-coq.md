@@ -1,6 +1,6 @@
 # Awesome Coq [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/coq-community/awesome-coq/raw/main/coq-logo.svg" align="right" width="100" alt="coq-community logo" title="Awesome Coq is a coq-community project"> ![GitHub Repo Stars](https://img.shields.io/github/stars/coq-community/manifesto) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/manifesto)](https://github.com/coq-community/manifesto)
+[<img src="https://github.com/coq-community/awesome-coq/raw/master/coq-logo.svg" align="right" width="100" alt="coq-community logo" title="Awesome Coq is a coq-community project"> ![GitHub Repo Stars](https://img.shields.io/github/stars/coq-community/manifesto) ![GitHub last commit](https://img.shields.io/github/last-commit/coq-community/manifesto)](https://github.com/coq-community/manifesto)
 
 > A curated list of awesome Coq libraries, plugins, tools, and resources.
 

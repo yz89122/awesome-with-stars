@@ -1,6 +1,6 @@
 # Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Godot Engine logo ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/awesome-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/awesome-godot)](https://github.com/godotengine/awesome-godot/raw/main/godot-logo.svg)](https://godotengine.org)
+[![Godot Engine logo ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/awesome-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/awesome-godot)](https://github.com/godotengine/awesome-godot/raw/master/godot-logo.svg)](https://godotengine.org)
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
 

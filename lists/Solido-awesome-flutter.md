@@ -20,7 +20,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 <p align="center">
   <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img src="https://github.com/Solido/awesome-flutter/raw/main/assets/images/stream-logo.png" width="450" alt="Stream Chat" style="margin: 20px auto;" />
+    <img src="https://github.com/Solido/awesome-flutter/raw/master/assets/images/stream-logo.png" width="450" alt="Stream Chat" style="margin: 20px auto;" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 [Instant Chat Integration](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
 
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-<img alt="Stream" src="https://github.com/Solido/awesome-flutter/raw/main/.github/stream-animation.gif" />
+<img alt="Stream" src="https://github.com/Solido/awesome-flutter/raw/master/.github/stream-animation.gif" />
 </a>
 
 [with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
