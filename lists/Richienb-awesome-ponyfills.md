@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Richienb/awesome-ponyfills/raw/main/media/Title.svg"/>
+  <img src="https://github.com/Richienb/awesome-ponyfills/raw/master/media/Title.svg"/>
   <br>
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
