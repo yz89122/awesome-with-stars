@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/simskij/awesome-software-architecture/raw/master/banner.png" />
+<img src="https://github.com/simskij/awesome-software-architecture/raw/main/banner.png" />
 
 # Awesome Software Architecture<br/>
   
