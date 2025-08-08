@@ -769,6 +769,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, admin panel on top of GraphQL data in minutes
 - [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI.
 - [gqlhash ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/gqlhash) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/gqlhash)](https://github.com/romshark/gqlhash) - Lightning fast query hasher that ignores formatting diffs and comments and supports multiple hashing functions.
+- [Apollo APQ Debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/rookieInTraining/apq-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/rookieInTraining/apq-debugger)](https://github.com/rookieInTraining/apq-debugger) - Reveal full GraphQL queries behind Apollo APQ hashes. Inspect fallback flow and debug Automatic Persisted Queries in DevTools.
   <a name="databases" />
 
 ## Databases
