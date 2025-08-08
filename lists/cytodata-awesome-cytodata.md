@@ -2,7 +2,7 @@
 
 > A curated list of awesome cytodata resources.
 
-![cytodata logo](https://github.com/cytodata/awesome-cytodata/raw/master/cytodata-logo.png)
+![cytodata logo](https://github.com/cytodata/awesome-cytodata/raw/main/cytodata-logo.png)
 
 [Cytodata](https://cytodata.org/) refers to a community of researchers and resources involved in the **image-based profiling** of **biological phenotypes**.
 These **biological phenotypes** are typically induced by genetic or chemical perturbations and often represent disease states.

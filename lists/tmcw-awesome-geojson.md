@@ -2,7 +2,7 @@
 
 GeoJSON utilities that will make your life easier.
 
-<a href='https://www.placemark.io/'><i><img src='https://github.com/tmcw/awesome-geojson/raw/master/.github/placemark.png' width='16' alt='Placemark' height='16' /> Sponsored by Placemark, a collaborative editor for maps with great support for GeoJSON</i></a>
+<a href='https://www.placemark.io/'><i><img src='https://github.com/tmcw/awesome-geojson/raw/main/.github/placemark.png' width='16' alt='Placemark' height='16' /> Sponsored by Placemark, a collaborative editor for maps with great support for GeoJSON</i></a>
 
 ### operations
 

@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-    <img alt="awesome" src="https://github.com/jondot/awesome-react-native/raw/master/arn.svg" width="480" />
+    <img alt="awesome" src="https://github.com/jondot/awesome-react-native/raw/main/arn.svg" width="480" />
 </p><br/>
 <br/>
 <br/>

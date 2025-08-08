@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg"/>
-    <img alt="awesome-cross-platform-nodejs logo" src="https://github.com/bcoe/awesome-cross-platform-nodejs/raw/master/logo.svg" width="500"/>
+    <img alt="awesome-cross-platform-nodejs logo" src="https://github.com/bcoe/awesome-cross-platform-nodejs/raw/main/logo.svg" width="500"/>
   </picture>
   <br>
   <a href="https://awesome.re">

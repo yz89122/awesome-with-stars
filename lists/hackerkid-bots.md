@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hackerkid/bots/raw/master/bots3d.png" />
+  <img src="https://github.com/hackerkid/bots/raw/main/bots3d.png" />
 </p>
 <br>
 

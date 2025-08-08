@@ -21,7 +21,7 @@ Before we [dive in](#dive-into-machine-learning), here are some notable projects
 
 ----
 
-[![Dive Into Machine Learning ![GitHub Repo Stars](https://img.shields.io/github/stars/hangtwenty/dive-into-machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/hangtwenty/dive-into-machine-learning)](https://github.com/hangtwenty/dive-into-machine-learning/raw/master/banner.png)](#dive-into-machine-learning)
+[![Dive Into Machine Learning ![GitHub Repo Stars](https://img.shields.io/github/stars/hangtwenty/dive-into-machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/hangtwenty/dive-into-machine-learning)](https://github.com/hangtwenty/dive-into-machine-learning/raw/main/banner.png)](#dive-into-machine-learning)
 
 # Dive into Machine Learning
 

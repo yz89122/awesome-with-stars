@@ -26,24 +26,24 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Why Invest in Application Security?](#why-invest-in-application-security-2015) (2015)
       * [Be wary of one-time pads and other crypto unicorns](#be-wary-of-one-time-pads-and-other-crypto-unicorns-2015) (2015)
     * [Books](#books)
-      * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Securing DevOps](#-securing-devops-2018) (2018) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Gray Hat Python: Programming for Hackers and Reverse Engineers](#-gray-hat-python-programming-for-hackers-and-reverse-engineers-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](#-the-art-of-software-security-assessment-identifying-and-preventing-software-vulnerabilities-2006) (2006) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [C Interfaces and Implementations: Techniques for Creating Reusable Software](#-c-interfaces-and-implementations-techniques-for-creating-reusable-software-1996) (1996) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Reversing: Secrets of Reverse Engineering](#-reversing-secrets-of-reverse-engineering-2005) (2005) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [JavaScript: The Good parts](#-javascript-the-good-parts-2008) (2008) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](#-windows-internals-including-windows-server-2008-and-windows-vista-fifth-edition-2007) (2007) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [The Mac Hacker's Handbook](#-the-mac-hackers-handbook-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](#-the-ida-pro-book-the-unofficial-guide-to-the-worlds-most-popular-disassembler-2008) (2008) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](#-internetworking-with-tcpip-vol-ii-ansi-c-version-design-implementation-and-internals-3rd-edition-1998) (1998) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](#-network-algorithmics-an-interdisciplinary-approach-to-designing-fast-networked-devices-2004) (2004) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Securing DevOps](#-securing-devops-2018) (2018) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Gray Hat Python: Programming for Hackers and Reverse Engineers](#-gray-hat-python-programming-for-hackers-and-reverse-engineers-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](#-the-art-of-software-security-assessment-identifying-and-preventing-software-vulnerabilities-2006) (2006) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [C Interfaces and Implementations: Techniques for Creating Reusable Software](#-c-interfaces-and-implementations-techniques-for-creating-reusable-software-1996) (1996) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Reversing: Secrets of Reverse Engineering](#-reversing-secrets-of-reverse-engineering-2005) (2005) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [JavaScript: The Good parts](#-javascript-the-good-parts-2008) (2008) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](#-windows-internals-including-windows-server-2008-and-windows-vista-fifth-edition-2007) (2007) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [The Mac Hacker's Handbook](#-the-mac-hackers-handbook-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](#-the-ida-pro-book-the-unofficial-guide-to-the-worlds-most-popular-disassembler-2008) (2008) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](#-internetworking-with-tcpip-vol-ii-ansi-c-version-design-implementation-and-internals-3rd-edition-1998) (1998) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](#-network-algorithmics-an-interdisciplinary-approach-to-designing-fast-networked-devices-2004) (2004) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
       * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
       * [Security Engineering - Third Edition](#security-engineering-third-edition-2020) (2020)
-      * [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
       * [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
       * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
     * [Classes](#classes)
@@ -92,7 +92,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
   * [C Sharp](#c-sharp)
     * [Books and ebooks](#books-and-ebooks-3)
-      * [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
   * [Clojure](#clojure)
     * [Repositories](#repositories)
       * [Clojure OWASP](#clojure-owasp-2020) (2020)
@@ -108,10 +108,10 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
       * [Awesome Electron.js hacking & pentesting resources](#awesome-electron-js-hacking-pentesting-resources-2020) (2020)
     * [Books and ebooks](#books-and-ebooks-5)
-      * [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
     * [Training](#training)
-      * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
   * [PHP](#php)
     * [Articles](#articles-3)
       * [It's All About Time](#its-all-about-time-2014) (2014)
@@ -124,7 +124,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
       * [The 2018 Guide to Building Secure PHP Software](#the-2018-guide-to-building-secure-php-software-2017) (2017)
     * [Books and ebooks](#books-and-ebooks-6)
-      * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
       * [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
     * [Useful libraries](#useful-libraries)
       * [defuse/php-encryption](#defusephp-encryption)
@@ -148,8 +148,8 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Python](#python)
     * [Books and ebooks](#books-and-ebooks-8)
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
-      * [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
-      * [Violent Python](#-violent-python) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
+      * [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
+      * [Violent Python](#-violent-python) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
@@ -197,91 +197,91 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ## Books
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
 
 **Released**: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
 
 **Released**: March 15, 2010
 
 Develops a sense of professional paranoia while presenting crypto design techniques.
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) (2018)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) (2018)
 
 **Released**: March 1, 2018
 
 Securing DevOps explores how the techniques of DevOps and Security should be applied together to make cloud services safer. This introductory book reviews state of the art practices used in securing web applications and their infrastructure, and teaches you techniques to integrate security directly into your product.
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
 
 **Released**: May 3, 2009
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006)
 
 **Released**: November 30, 2006
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [C Interfaces and Implementations: Techniques for Creating Reusable Software](http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/) (1996)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [C Interfaces and Implementations: Techniques for Creating Reusable Software](http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/) (1996)
 
 **Released**: August 30, 1996
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Reversing: Secrets of Reverse Engineering](http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) (2005)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Reversing: Secrets of Reverse Engineering](http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) (2005)
 
 **Released**: April 15, 2005
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [JavaScript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) (2008)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [JavaScript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) (2008)
 
 **Released**: May 1, 2008
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301) (2007)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301) (2007)
 
 **Released**: June 17, 2007
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [The Mac Hacker's Handbook](http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362) (2009)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [The Mac Hacker's Handbook](http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362) (2009)
 
 **Released**: March 3, 2009
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786) (2008)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786) (2008)
 
 **Released**: August 22, 2008
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436) (1998)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436) (1998)
 
 **Released**: June 25, 1998
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771) (2004)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771) (2004)
 
 **Released**: December 29, 2004
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Computation Structures (MIT Electrical Engineering and Computer Science)](http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395) (1989)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Computation Structures (MIT Electrical Engineering and Computer Science)](http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395) (1989)
 
 **Released**: December 13, 1989
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252) (2009)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252) (2009)
 
 **Released**: August 3, 2009
 
@@ -299,7 +299,7 @@ Securing DevOps explores how the techniques of DevOps and Security should be app
 
 
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (2014)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (2014)
 
 **Released**: August 1, 2014
 
@@ -481,7 +481,7 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 
 ## Books and ebooks
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Security Driven .NET](http://securitydriven.net/) (2015)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Security Driven .NET](http://securitydriven.net/) (2015)
 
 **Released**: July 14, 2015
 
@@ -541,7 +541,7 @@ A curated list of resources to secure Electron.js-based applications.
 
 ## Books and ebooks
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity) (2017)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity) (2017)
 
 **Released**: July 19, 2017
 
@@ -549,11 +549,11 @@ Hands-on and abundant with source code for a practical guide to Securing Node.js
 
 ## Training
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
 
 Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Security Training from BinaryMist](https://blog.binarymist.net/presentations-publications/)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Security Training from BinaryMist](https://blog.binarymist.net/presentations-publications/)
 
 We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
 
@@ -619,7 +619,7 @@ This guide should serve as a complement to the e-book, [PHP: The Right Way](http
 
 ## Books and ebooks
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
 
 *Securing PHP: Core Concepts* acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
 
@@ -701,11 +701,11 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.nostarch.com/blackhatpython)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.nostarch.com/blackhatpython)
 
 Black Hat Python by Justin Seitz from NoStarch Press is a great book for the offensive security minds
 
-### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/main/img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 

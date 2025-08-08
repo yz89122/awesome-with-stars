@@ -3,7 +3,7 @@
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
 
-![](https://github.com/jaredthecoder/awesome-vehicle-security/raw/master/assets/car_hacking_jeep.gif)
+![](https://github.com/jaredthecoder/awesome-vehicle-security/raw/main/assets/car_hacking_jeep.gif)
 
 ---
 

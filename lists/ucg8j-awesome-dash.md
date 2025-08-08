@@ -1,6 +1,6 @@
 # Awesome Dash [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/ucg8j/awesome-dash/raw/master/logo.webp" align="right" width="250">](https://plot.ly/products/dash/)
+[<img src="https://github.com/ucg8j/awesome-dash/raw/main/logo.webp" align="right" width="250">](https://plot.ly/products/dash/)
 
 A curated list of awesome Dash (plotly) resources
 
