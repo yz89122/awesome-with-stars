@@ -1,5 +1,5 @@
 # Awesome Löve [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Awesome Löve](https://github.com/love2d-community/awesome-love2d/raw/master/logo.png)
+![Awesome Löve](https://github.com/love2d-community/awesome-love2d/raw/main/logo.png)
 
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 

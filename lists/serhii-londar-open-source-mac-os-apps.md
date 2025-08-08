@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" />
   </a>
   
-  <img src="https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/icon.png">
+  <img src="https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/icon.png">
   <h1>Awesome macOS Open Source Applications</h1>
   <p>A curated list of open source applications for macOS</p>
   <p>
@@ -960,23 +960,23 @@ Thanks to all the people who contribute:
 
 <a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
 
-[app_store]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png 'App Store.'
-[c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png 'C language.'
-[cpp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png 'C++ language.'
-[c_sharp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png 'C# Language'
-[clojure_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-16.png 'Clojure Language'
-[coffee_script_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-16.png 'CoffeeScript language.'
-[css_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png 'CSS language.'
-[go_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png 'Go language.'
-[elm_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-16.png 'Elm Language'
-[haskell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-16.png 'Haskell language.'
-[java_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png 'Java language.'
-[javascript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png 'JavaScript language.'
-[lua_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png 'Lua language.'
-[objective_c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png 'Objective-C language.'
-[python_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png 'Python language.'
-[ruby_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png 'Ruby language.'
-[rust_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png 'Rust language.'
-[shell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png 'Shell language.'
-[swift_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png 'Swift language.'
-[typescript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png 'TypeScript language.'
+[app_store]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/app_store-16.png 'App Store.'
+[c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/c-16.png 'C language.'
+[cpp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/cpp-16.png 'C++ language.'
+[c_sharp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/csharp-16.png 'C# Language'
+[clojure_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/clojure-16.png 'Clojure Language'
+[coffee_script_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/coffeescript-16.png 'CoffeeScript language.'
+[css_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/css-16.png 'CSS language.'
+[go_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/golang-16.png 'Go language.'
+[elm_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/elm-16.png 'Elm Language'
+[haskell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/haskell-16.png 'Haskell language.'
+[java_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/java-16.png 'Java language.'
+[javascript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/javascript-16.png 'JavaScript language.'
+[lua_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/Lua-16.png 'Lua language.'
+[objective_c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/objective-c-16.png 'Objective-C language.'
+[python_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/python-16.png 'Python language.'
+[ruby_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/ruby-16.png 'Ruby language.'
+[rust_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/rust-16.png 'Rust language.'
+[shell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/shell-16.png 'Shell language.'
+[swift_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/swift-16.png 'Swift language.'
+[typescript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/main/icons/typescript-16.png 'TypeScript language.'
