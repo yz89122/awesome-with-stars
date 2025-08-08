@@ -1,7 +1,7 @@
 Awesome OCaml
 =============
 
-<img src="https://github.com/ocaml-community/awesome-ocaml/raw/master/colour-logo.png" width="70%" />
+<img src="https://github.com/ocaml-community/awesome-ocaml/raw/main/colour-logo.png" width="70%" />
 
 > _**Everything you'll ever need on the road to mastering OCaml.**_
 

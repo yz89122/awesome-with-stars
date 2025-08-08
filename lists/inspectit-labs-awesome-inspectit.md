@@ -2,7 +2,7 @@
 
 > A curated list of awesome inspectIT documentations and resources.
 
-[![inspectIT ![GitHub Repo Stars](https://img.shields.io/github/stars/inspectit-labs/awesome-inspectit) ![GitHub last commit](https://img.shields.io/github/last-commit/inspectit-labs/awesome-inspectit)](https://github.com/inspectit-labs/awesome-inspectit/raw/main/media/inspectit.png)](http://www.inspectit.rocks/)
+[![inspectIT ![GitHub Repo Stars](https://img.shields.io/github/stars/inspectit-labs/awesome-inspectit) ![GitHub last commit](https://img.shields.io/github/last-commit/inspectit-labs/awesome-inspectit)](https://github.com/inspectit-labs/awesome-inspectit/raw/master/media/inspectit.png)](http://www.inspectit.rocks/)
 
 inspectIT is an open source APM (Application Performance Management) tool for analyzing Java (EE) applications.
 

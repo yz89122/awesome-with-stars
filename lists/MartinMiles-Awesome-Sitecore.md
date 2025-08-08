@@ -1,6 +1,6 @@
 # Awesome Sitecore [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/MartinMiles/Awesome-Sitecore/raw/master/sitecore-logo.png" align="right" width="80">](https://sitecore.com)
+[<img src="https://github.com/MartinMiles/Awesome-Sitecore/raw/main/sitecore-logo.png" align="right" width="80">](https://sitecore.com)
 
 > A curated list of Sitecore-related projects on GitHub. Please contribute!
 
