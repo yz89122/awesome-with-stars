@@ -608,7 +608,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
 | The Time Machine | H.G Wells | [3.89](https://www.goodreads.com/book/show/2493.The_Time_Machine?from_search=true&from_srp=true&qid=UOQqEw4cz3&rank=1) | 1895 |
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-��-blue"/></a>
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |

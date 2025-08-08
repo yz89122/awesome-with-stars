@@ -210,7 +210,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [SQLite3 ![GitHub Repo Stars](https://img.shields.io/github/stars/mmottl/sqlite3-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/mmottl/sqlite3-ocaml)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
   - [ocaml-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/0xffea/ocaml-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/0xffea/ocaml-redis)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
-  - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
+  - [mariadb ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/ocaml-mariadb) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/ocaml-mariadb)](https://github.com/ocaml-community/ocaml-mariadb) - Bindings to MariaDB/MySQL, supporting the nonblocking API
   - [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/arenadotio/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/arenadotio/pgx)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
   - [mysql_protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/slegrand45/mysql_protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/slegrand45/mysql_protocol)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 - **New Implementations**
