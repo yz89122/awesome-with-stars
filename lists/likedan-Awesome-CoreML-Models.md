@@ -6,7 +6,7 @@ Description: A curated list of machine learning models in Core ML format.
 Author: Kedan Li
 -->
 <p align="center">
-<img src="https://github.com/likedan/Awesome-CoreML-Models/raw/main/images/coreml.png" width="329" height="295"/>
+<img src="https://github.com/likedan/Awesome-CoreML-Models/raw/master/images/coreml.png" width="329" height="295"/>
 </p>
 
 

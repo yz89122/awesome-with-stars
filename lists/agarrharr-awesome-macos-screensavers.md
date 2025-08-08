@@ -25,43 +25,43 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 > A flip clock screensaver.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/fliqlo.png)](http://fliqlo.com/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fliqlo.png)](http://fliqlo.com/)
 
 ### Today
 
 > Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/today.png)](http://www.gingerbeardman.com/today/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/today.png)](http://www.gingerbeardman.com/today/)
 
 ### Word Clock
 
 > A clock made of words. It switches between a circular and a paragraph layout.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
 
 ### Fractal Clock
 
 > A clock that produces a fractal tree pattern around it as it moves.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
 
 ### Epoch Flip Clock
 
 > Unix Time (epoch) flip clock.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
 
 ### Word Clock
 
 > A super simple word clock, like your computer is typing the time for you.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
 ### Simple Clock
 
@@ -69,19 +69,19 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/)
 
 ### ColorClock
 
 > Displays a solid color corresponding to the current time.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
 ### ScreenMazer
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
 ### Evangelion Clock
 
@@ -89,19 +89,19 @@ Free
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
 ### Predator
 
 > A predator-inspired clock screensaver.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
 
 ### Death Counter
 
 > A simple counter screensaver that counts down to your death.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
 
 ### MinimalClock
 
@@ -109,13 +109,13 @@ Free
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
 ### MultiClock
 
 > Displays the time (and animations) using 24 individual clocks
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
 
 ### Flip Clock Screensaver
 
@@ -123,13 +123,13 @@ Free
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
 
 ### Digital Electric
 
 > A vintage screensaver inspired by old-fashioned alarm clocks.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
 
 ## Apple Inspired
 
@@ -137,19 +137,19 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
 
 ### Apple Watch
 
 > A screensaver that looks like an Apple Watch.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
 ### Brooklyn
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
 
 Free
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
 Free
 
@@ -171,7 +171,7 @@ Free
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
 
 ### October 30
 
@@ -179,13 +179,13 @@ Free
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/october30.png)](https://github.com/lekevicius/october30)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ### Fruit
 
 > Animated vintage Apple logo
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/fruit.png)](https://github.com/ppamorim/fruit)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fruit.png)](https://github.com/ppamorim/fruit)
 
 Free
 
@@ -193,7 +193,7 @@ Free
 
 > Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
 
 Free (Open Source)
 
@@ -203,7 +203,7 @@ Free (Open Source)
 
 > PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
 ### Textify Me
 
@@ -211,7 +211,7 @@ Free (Open Source)
 
 $0.99
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/textifyMe.png)](https://itunes.apple.com/us/app/textify-me/id470453599)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/textifyMe.png)](https://itunes.apple.com/us/app/textify-me/id470453599)
 
 ## Sci-Fi
 
@@ -219,19 +219,19 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
 
 ### StarWarsScroll
 
 > Recreates the opening titles of the first 6 Star Wars movies.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
 
 ### Matrix
 
 > One interpretation of The Matrix.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
 ## Video Game
 
@@ -239,7 +239,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
 
 ## Aquarium
 
@@ -247,7 +247,7 @@ $0.99
 
 > Video of aquariums.
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
 
 ## Developer
 
@@ -255,7 +255,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
 ### MacOS Kernel Panic
 
@@ -263,7 +263,7 @@ $0.99
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
 
 ### Windows Kernel Panic
 
@@ -271,7 +271,7 @@ Free
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
 
 ### octoscreen
 
@@ -279,7 +279,7 @@ Free
 
 Free (Open Source)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
 
 ## Graphics
 
@@ -289,7 +289,7 @@ Free (Open Source)
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/electricSheep.png)](http://electricsheep.org/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/electricSheep.png)](http://electricsheep.org/)
 
 ### Screensson
 
@@ -297,7 +297,7 @@ Free
 
 Donationware
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
 
 ### Emoji Saver
 
@@ -305,7 +305,7 @@ Donationware
 
 Lite Version (Free) and Full Version ($3)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
 
 ### Life Saver
 
@@ -313,7 +313,7 @@ Lite Version (Free) and Full Version ($3)
 
 Free (Open Source)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
 
 ### ElectropaintOSX
 
@@ -329,7 +329,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
 
 ## Other
 
@@ -339,7 +339,7 @@ Free (Open Source)
 
 Free
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
 ### Last Statement
 
@@ -347,7 +347,7 @@ Free
 
 Free (Open Source)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
 
 ## Collections
 
@@ -357,7 +357,7 @@ Free (Open Source)
 
 Free (pay what you want)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/main/screenshots/johansson.png)](https://johansson.design/projects/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/johansson.png)](https://johansson.design/projects/)
 
 ---
 

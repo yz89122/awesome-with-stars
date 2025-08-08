@@ -1,7 +1,7 @@
 # Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div align="center">
-  <a href="https://emberjs.com"><img width="300" src="https://github.com/ember-community-russia/awesome-ember/raw/main/media/ember-logo.svg" alt="Ember.js"></a>
+  <a href="https://emberjs.com"><img width="300" src="https://github.com/ember-community-russia/awesome-ember/raw/master/media/ember-logo.svg" alt="Ember.js"></a>
   <br>
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<img src="https://github.com/ossu/computer-science/raw/main/images/ossu-logo.webp" alt="Open Source Society logo"/>
+<img src="https://github.com/ossu/computer-science/raw/master/images/ossu-logo.webp" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
 <p>
   Path to a free self-taught education in Computer Science!
@@ -440,7 +440,7 @@ What is next for you? The possibilities are boundless and overlapping:
   + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
-![keep learning](https://github.com/ossu/computer-science/raw/main/images/keep-learning.webp)
+![keep learning](https://github.com/ossu/computer-science/raw/master/images/keep-learning.webp)
 
 # Code of conduct
 [OSSU's code of conduct ![GitHub Repo Stars](https://img.shields.io/github/stars/ossu/code-of-conduct) ![GitHub last commit](https://img.shields.io/github/last-commit/ossu/code-of-conduct)](https://github.com/ossu/code-of-conduct).
