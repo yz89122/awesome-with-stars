@@ -539,7 +539,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
-- [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+- [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) �� Finds repeated strings that could be replaced by a constant.
 
 - [gocyclo ![GitHub Repo Stars](https://img.shields.io/github/stars/fzipp/gocyclo) ![GitHub last commit](https://img.shields.io/github/last-commit/fzipp/gocyclo)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
 
