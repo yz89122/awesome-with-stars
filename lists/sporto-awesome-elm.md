@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/sporto/awesome-elm/raw/main/assets/elm-logo.svg" height="180" width="180" />
+    <img src="https://github.com/sporto/awesome-elm/raw/master/assets/elm-logo.svg" height="180" width="180" />
     <h1>Awesome Elm</h1>
     <br />
 </div>
