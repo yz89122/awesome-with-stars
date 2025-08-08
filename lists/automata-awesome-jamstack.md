@@ -2,7 +2,7 @@
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
-  <img width="500" src="https://github.com/automata/awesome-jamstack/raw/main/media/jamstack-full-logo.svg" alt="Jamstack">
+  <img width="500" src="https://github.com/automata/awesome-jamstack/raw/master/media/jamstack-full-logo.svg" alt="Jamstack">
   <br /><br /><br />
   <p>
     <strong>Jamstack</strong>: noun \’jam-stak’\<br />

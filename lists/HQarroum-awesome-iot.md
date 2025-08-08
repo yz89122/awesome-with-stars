@@ -1,6 +1,6 @@
 # Awesome IoT
 
-<img src="https://github.com/HQarroum/awesome-iot/raw/main/iot-logo.png" align="right" width="100">
+<img src="https://github.com/HQarroum/awesome-iot/raw/master/iot-logo.png" align="right" width="100">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
