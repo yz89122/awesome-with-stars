@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/dreamingechoes/awesome-mental-health/raw/main/media/logo.png"></p>
+<p align="center"><img src="https://github.com/dreamingechoes/awesome-mental-health/raw/master/media/logo.png"></p>
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg"/></a>

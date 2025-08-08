@@ -1,6 +1,6 @@
 <!--lint disable no-dead-urls-->
 
-<p align="center"><img src="https://github.com/vlang/awesome-v/raw/main/media/awesome-v-logo.svg" width="400"/></p>
+<p align="center"><img src="https://github.com/vlang/awesome-v/raw/master/media/awesome-v-logo.svg" width="400"/></p>
 
 # Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
