@@ -229,7 +229,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fast-facts/ng-update ![GitHub Repo Stars](https://img.shields.io/github/stars/fast-facts/ng-update) ![GitHub last commit](https://img.shields.io/github/last-commit/fast-facts/ng-update)](https://github.com/fast-facts/ng-update) - A GitHub Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 * [npx-app-updater ![GitHub Repo Stars](https://img.shields.io/github/stars/DSI-HUG/ngx-app-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/DSI-HUG/ngx-app-updater)](https://github.com/DSI-HUG/ngx-app-updater) - When a new version of your application is deployed, this library will trigger a user notification to inform them that updates are available.
 * [ngx-update-app ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-update-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-update-app)](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
-* [Angular Caniuse](https://www.angular.courses/caniuse) - Track Angular features from preview to stable stages.
+* [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
 * [ngx-boomer ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/ngx-boomer) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/ngx-boomer)](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
 
 ## Angular Pulse
@@ -253,6 +253,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
 * [Angular talents](https://www.angulartalents.com/) - Angular talents empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
+* [Good First Issues](https://www.dolmen.tools/en/angular/good-first-issues/explorer) - Find beginner-friendly issues and start contributing to Angular open-source projects.
 
 ### Newsletters
 
@@ -1944,16 +1945,17 @@ for the creation of web applications developed with Angular.
 
 ### Visual Effects
 
-* [ngx-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/ashish-chopra/ngx-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/ashish-chopra/ngx-gauge)](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
-* [ngx-neon-underline ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-neon-underline) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-neon-underline)](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
-* [ngx-lamp ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-lamp) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-lamp)](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
-* [ngx-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-globe)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
-* [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
-* [ngx-gooey ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ngx-gooey) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ngx-gooey)](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
-* [ngx-font-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-font-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-font-picker)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
-* [ngx-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [angular-tag-cloud-module ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/angular-tag-cloud-module) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/angular-tag-cloud-module)](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ng-whiteboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mostafazke/ng-whiteboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mostafazke/ng-whiteboard)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+* [ngx-color-scheme ![GitHub Repo Stars](https://img.shields.io/github/stars/rbalet/ngx-color-scheme) ![GitHub last commit](https://img.shields.io/github/last-commit/rbalet/ngx-color-scheme)](https://github.com/rbalet/ngx-color-scheme) - Add dark mode to your Angular applications with ease.
+* [ngx-countdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cipchk/ngx-countdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cipchk/ngx-countdown)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
+* [ngx-font-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/zefoy/ngx-font-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/zefoy/ngx-font-picker)](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
+* [ngx-gauge ![GitHub Repo Stars](https://img.shields.io/github/stars/ashish-chopra/ngx-gauge) ![GitHub last commit](https://img.shields.io/github/last-commit/ashish-chopra/ngx-gauge)](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
+* [ngx-globe ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-globe)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
+* [ngx-gooey ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ngx-gooey) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ngx-gooey)](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
+* [ngx-lamp ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-lamp) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-lamp)](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
+* [ngx-neon-underline ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-neon-underline) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-neon-underline)](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
+* [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
 
 ## Underlying Technologies
 
