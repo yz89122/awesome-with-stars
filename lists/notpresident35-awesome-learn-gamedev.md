@@ -845,7 +845,7 @@ Royalty free music! Don't forget to check the license.
 [Career Advice Collected](https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9) - Advice on writing resumes and cover letters. Primarily written for producers and entry-level job seekers, but generally applicable.
 
 
-[Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) ��� - A list of questions for you to ask a potential employer in an interview.
+[Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) 🟪 - A list of questions for you to ask a potential employer in an interview.
 
 
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
@@ -854,7 +854,7 @@ Royalty free music! Don't forget to check the license.
 [Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
 
-[The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
+[The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) ��� - A massive collection of career resources for game audio.
 
 
 [How to Get an Internship](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84) - Tips on getting an internship for college students.
