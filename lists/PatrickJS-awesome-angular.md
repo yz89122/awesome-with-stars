@@ -1248,6 +1248,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-material-jalali-datepicker-adapter](https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter) - A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.
 * [date-interceptors ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaskoTheBeAsT/date-interceptors) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaskoTheBeAsT/date-interceptors)](https://github.com/AdaskoTheBeAsT/date-interceptors) - This library provides a robust solution for converting date and duration strings from JSON payloads into native Date objects and Duration objects, respectively.
 * [@asadi/angular-date-components](https://www.npmjs.com/package/@asadi/angular-date-components) - A comprehensive Angular library of date-related components designed to meet the needs of applications that require localization based on various calendar systems.
+* [ngx-vertical-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/callyafiune/ngx-vertical-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/callyafiune/ngx-vertical-timeline)](https://github.com/callyafiune/ngx-vertical-timeline) - An Angular component for creating a responsive vertical timeline.
 
 ### Directives
 
@@ -1649,6 +1650,7 @@ to simplify usage and allow quick customization.
 * [ng-util ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-util/ng-util) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-util/ng-util)](https://github.com/ng-util/ng-util) - A set of Angular utilities.
 * [reactive-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/max-scopp/reactive-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/max-scopp/reactive-kit)](https://github.com/max-scopp/reactive-kit) - A lightweight set of utilities that make reactive Angular apps more enjoyable and less boilerplate-heavy. Works great alongside `ngxtension`.
 * [fireng ![GitHub Repo Stars](https://img.shields.io/github/stars/BhanukaDev/fireng) ![GitHub last commit](https://img.shields.io/github/last-commit/BhanukaDev/fireng)](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
+* [xprng ![GitHub Repo Stars](https://img.shields.io/github/stars/ziv/xprng) ![GitHub last commit](https://img.shields.io/github/last-commit/ziv/xprng)](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
 
 ### Modals
 
