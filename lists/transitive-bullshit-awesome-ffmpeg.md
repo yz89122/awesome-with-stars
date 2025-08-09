@@ -63,6 +63,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [Learn FFmpeg libav the Hard Way ![GitHub Repo Stars](https://img.shields.io/github/stars/leandromoreira/ffmpeg-libav-tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/leandromoreira/ffmpeg-libav-tutorial)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 - [A Beginner's FFmpeg Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/talwrii/ffmpeg-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/talwrii/ffmpeg-cookbook)](https://github.com/talwrii/ffmpeg-cookbook)
+- [FFmpeg Cheatsheet for Video Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/rendi-api/ffmpeg-cheatsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/rendi-api/ffmpeg-cheatsheet)](https://github.com/rendi-api/ffmpeg-cheatsheet)
 
 
 ## Community
