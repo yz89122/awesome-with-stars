@@ -493,7 +493,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [SciPy](https://scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization. |
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course |
 | [Data Science Toolbox](https://datasciencetoolbox.org/) | Blog |
-| [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generate rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
+| [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generate rich interactive reports��all powered by the revolutionary knowledge-based Wolfram Language. |
 | [Datadog](https://www.datadoghq.com/) | Solutions, code, and devops for high-scale data science. |
 | [Variance](https://variancecharts.com/) | Build powerful data visualizations for the web without writing JavaScript |
 | [Kite Development Kit](http://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
