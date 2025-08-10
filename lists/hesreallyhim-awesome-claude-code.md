@@ -148,7 +148,7 @@ A specialized tool to manage context isolation and focused task execution with C
 [`claude-code-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pchalasani/claude-code-tools)](https://github.com/pchalasani/claude-code-tools) &nbsp; by &nbsp; [Prasad Chalasani](https://github.com/pchalasani)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A collection of awesome tools, including tmux integrations, better session management, hooks that enhance security - a really well-done set of Claude Code enhancers, especially for tmux users.
 
-[`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;���️&nbsp;&nbsp;Apache-2.0  
+[`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
 [`TSK - AI Agent Task Manager and Sandbox` ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/tsk) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/tsk)](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -261,7 +261,7 @@ Provides a menu of advanced code analysis commands for deep inspection, includin
 [`/optimize` ![GitHub Repo Stars](https://img.shields.io/github/stars/to4iki/ai-project-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/to4iki/ai-project-rules)](https://github.com/to4iki/ai-project-rules/blob/main/.claude/commands/optimize.md) &nbsp; by &nbsp; [to4iki](https://github.com/to4iki)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
 
-[`/repro-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/rzykov/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rzykov/metabase)](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) &nbsp; by &nbsp; [rzykov](https://github.com/rzykov)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;NOASSERTION  
+[`/repro-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/rzykov/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/rzykov/metabase)](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) &nbsp; by &nbsp; [rzykov](https://github.com/rzykov)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
 Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.
 
 [`/tdd` ![GitHub Repo Stars](https://img.shields.io/github/stars/zscott/pane) ![GitHub last commit](https://img.shields.io/github/last-commit/zscott/pane)](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) &nbsp; by &nbsp; [zscott](https://github.com/zscott)    
