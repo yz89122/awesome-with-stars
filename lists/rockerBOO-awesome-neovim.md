@@ -1085,6 +1085,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Animation
 
+- [LuxVim/nvim-luxmotion ![GitHub Repo Stars](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxVim/nvim-luxmotion)](https://github.com/LuxVim/nvim-luxmotion) - Smooth, high‑performance motion & scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
 - [sphamba/smear-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 - [echasnovski/mini.nvim#mini.animate ![GitHub Repo Stars](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echasnovski/mini.nvim)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 - [rachartier/tiny-glimmer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
