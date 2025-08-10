@@ -582,7 +582,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Game Engine w/Editor
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
     - 🎉 [Flat Red Ball ![GitHub Repo Stars](https://img.shields.io/github/stars/vchelaru/FlatRedBall) ![GitHub last commit](https://img.shields.io/github/last-commit/vchelaru/FlatRedBall)](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Website](https://flatredball.com/)]
-    - �� [Murder ![GitHub Repo Stars](https://img.shields.io/github/stars/isadorasophia/murder) ![GitHub last commit](https://img.shields.io/github/last-commit/isadorasophia/murder)](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
+    - 🎉 [Murder ![GitHub Repo Stars](https://img.shields.io/github/stars/isadorasophia/murder) ![GitHub last commit](https://img.shields.io/github/last-commit/isadorasophia/murder)](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
     - 🎉 [Stride ![GitHub Repo Stars](https://img.shields.io/github/stars/stride3d/stride) ![GitHub last commit](https://img.shields.io/github/last-commit/stride3d/stride)](https://github.com/stride3d/stride) - Game engine for realistic rendering and VR. Formerly _Xenko_. [[Website](https://www.stride3d.net/)]
     - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 - C#: Game Framework
