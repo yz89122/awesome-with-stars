@@ -17,6 +17,7 @@ _The foundations — these will still be valuable five years from now, even if t
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).
 - [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — End-to-end AI product building (Chip Huyen).
+- [100 Page Language Models Book](https://www.thelmbook.com/) — This book guides you through the evolution of language models, starting from machine learning fundamentals.
 
 **Foundational**
 - [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Comprehensive AI theory (Russell & Norvig).
@@ -29,20 +30,22 @@ _The foundations — these will still be valuable five years from now, even if t
 _Frameworks and design patterns for building robust, production-grade AI systems._  
 _Personal note: you don't need tons of frameworks — start with simple LLM calls and work up._
 
-#### 📦 Retrieval-Augmented Generation (RAG)
-- [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
-- [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
-- [Docling ![GitHub Repo Stars](https://img.shields.io/github/stars/docling-project/docling) ![GitHub last commit](https://img.shields.io/github/last-commit/docling-project/docling)](https://github.com/docling-project/docling) - Great library for ingesting any kind of document for RAG ⭐
+#### 📖 Guides & Playbooks
+- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+- [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
 
-#### 🤖 Orchestration & Agents
+#### 🤖 Frameworks 
+- [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
+- [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
 - [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
 
-#### 📖 Guides & Playbooks
-- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — �� Patterns, pitfalls, and tradeoffs for designing AI agents.
-- [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
+#### 📦 Retrieval-Augmented Generation (RAG)
+- [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
+- [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
+- [Docling ![GitHub Repo Stars](https://img.shields.io/github/stars/docling-project/docling) ![GitHub last commit](https://img.shields.io/github/last-commit/docling-project/docling)](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
 
 ---
 
@@ -61,7 +64,7 @@ _Learn from the best — structured content for every level._
 **Beginner**
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
-- [fast.ai — Practical Deep Learning](https://course.fast.ai/)
+- [Fast.ai — Practical Deep Learning](https://course.fast.ai/)
 
 **Intermediate / Advanced**
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
@@ -85,8 +88,7 @@ _Stay current with AI developments without drowning in noise._
 
 Tools for building and deploying AI applications. 
 
-### 💬 LLM Assistants
-### 💬 LLM Assistants
+### 💬 Models
 - [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
 - [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
 - [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.
