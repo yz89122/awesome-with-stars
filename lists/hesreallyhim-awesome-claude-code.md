@@ -163,7 +163,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 
 ### IDE Integrations
 
-[`Claude Code Chat`](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) &nbsp; by &nbsp; [andrepimenta](https://github.com/andrepimenta)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Claude Code Chat`](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) &nbsp; by &nbsp; [andrepimenta](https://github.com/andrepimenta)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;&copy;  
 An elegant and user-friendly Claude Code chat interface for VS Code.
 
 [`claude-code-ide.el` ![GitHub Repo Stars](https://img.shields.io/github/stars/manzaltu/claude-code-ide.el) ![GitHub last commit](https://img.shields.io/github/last-commit/manzaltu/claude-code-ide.el)](https://github.com/manzaltu/claude-code-ide.el) &nbsp; by &nbsp; [manzaltu](https://github.com/manzaltu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
