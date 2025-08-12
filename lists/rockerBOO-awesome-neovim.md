@@ -1191,6 +1191,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [quolpr/quicktest.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
 - [tdd.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zkucekovic/tdd.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zkucekovic/tdd.nvim)](https://github.com/zkucekovic/tdd.nvim) - Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings.
 - [neotest-jest ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-neotest/neotest-jest) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-neotest/neotest-jest)](https://github.com/nvim-neotest/neotest-jest) - Neotest adapter for running jest tests.
+- [neotest-busted ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/neotest-busted) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/neotest-busted)](https://github.com/MisanthropicBit/neotest-busted) - Neotest adapter for running busted tests using Neovim as a Lua interpreter.
 
 <!--lint disable double-link -->
 
@@ -1710,7 +1711,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 <!--lint disable double-link -->
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 <!--lint enable double-link -->
 
