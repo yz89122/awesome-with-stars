@@ -1780,6 +1780,7 @@ to simplify usage and allow quick customization.
 * [indexeddb-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/AshenHiroshana/indexeddb-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/AshenHiroshana/indexeddb-helper)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
 * [ng-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/edisonaugusthy/ng-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/edisonaugusthy/ng-storage)](https://github.com/edisonaugusthy/ng-storage) - A modern, reactive Angular service for browser storage management with AES-GCM encryption, TTL, change notifications, and Apollo-style providers.
 * [convex-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/azhukau-dev/convex-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/azhukau-dev/convex-angular)](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
+* [secure-client-store ![GitHub Repo Stars](https://img.shields.io/github/stars/msaadart/secure-client-store) ![GitHub last commit](https://img.shields.io/github/last-commit/msaadart/secure-client-store)](https://github.com/msaadart/secure-client-store) - Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).
 
 ### Tooltips
 
