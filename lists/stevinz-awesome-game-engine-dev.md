@@ -1375,7 +1375,7 @@ _Resources to help bring video games and game engines alive._
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 - Sound Effects
     - 🆓 [Freesound](https://freesound.org/browse/) - Community-based archive of free sound effects.
-    - ���� [Free Sound Effects](https://www.freesoundeffects.com/) - Large collection of sound effects.
+    - ��� [Free Sound Effects](https://www.freesoundeffects.com/) - Large collection of sound effects.
     - 💰 [Soundsnap](https://www.soundsnap.com) - Subscription-based professional sound effects library.
 
 ### Graphic Assets
