@@ -120,6 +120,7 @@
 - Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - Vim: [vim-pico8-syntax ![GitHub Repo Stars](https://img.shields.io/github/stars/justinj/vim-pico8-syntax) ![GitHub last commit](https://img.shields.io/github/last-commit/justinj/vim-pico8-syntax)](https://github.com/justinj/vim-pico8-syntax)
 - Emacs: [pico8-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/Kaali/pico8-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/Kaali/pico8-mode)](https://github.com/Kaali/pico8-mode)
+- Visual Studio Code / NeoVim / JetBrains / Others： [pico8-definitions ![GitHub Repo Stars](https://img.shields.io/github/stars/ahai64/pico8-definitions) ![GitHub last commit](https://img.shields.io/github/last-commit/ahai64/pico8-definitions)](https://github.com/ahai64/pico8-definitions) - An add-on for sumneko/lua to provide PICO-8 language support.
 
 ### Programming Fonts
 
