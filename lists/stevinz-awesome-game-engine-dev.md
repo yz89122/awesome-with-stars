@@ -45,6 +45,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [Rust](#rust)
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
+    - [Awesome Collections](#awesome-collections-1)
     - [C](#c-3)
     - [C++](#c-4)
     - [Java](#java-1)
@@ -373,6 +374,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
     - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
+    - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
     - 🌎 [emscripten ![GitHub Repo Stars](https://img.shields.io/github/stars/emscripten-core/emscripten) ![GitHub last commit](https://img.shields.io/github/last-commit/emscripten-core/emscripten)](https://github.com/emscripten-core/emscripten) - The C/C++ to JavaScript (as WebAssembly) compiler. [[Website](https://emscripten.org/)]
 - C++: Entity Component System
@@ -455,7 +457,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PolyPartition ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanfratric/polypartition) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanfratric/polypartition)](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
     - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
     - 🎉 [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
-    - 🎉 [Seam-aware Decimater ![GitHub Repo Stars](https://img.shields.io/github/stars/songrun/SeamAwareDecimater) ![GitHub last commit](https://img.shields.io/github/last-commit/songrun/SeamAwareDecimater)](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs, based on [Seamless](https://cragl.cs.gmu.edu/seamless/).
+    - 🎉 [Seam-aware Decimater ![GitHub Repo Stars](https://img.shields.io/github/stars/songrun/SeamAwareDecimater) ![GitHub last commit](https://img.shields.io/github/last-commit/songrun/SeamAwareDecimater)](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs.
     - 🎉 [Spheres ![GitHub Repo Stars](https://img.shields.io/github/stars/caosdoar/spheres) ![GitHub last commit](https://img.shields.io/github/last-commit/caosdoar/spheres)](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
     - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Utilities for input, output, and manipulation of 3D triangle meshes.
     - 🎉 [V-HACD ![GitHub Repo Stars](https://img.shields.io/github/stars/kmammou/v-hacd) ![GitHub last commit](https://img.shields.io/github/last-commit/kmammou/v-hacd)](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
@@ -759,6 +761,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Chroma.js ![GitHub Repo Stars](https://img.shields.io/github/stars/gka/chroma.js) ![GitHub last commit](https://img.shields.io/github/last-commit/gka/chroma.js)](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations.
 - JavaScript: Cross-Platform
     - 🎉 [Apache Cordova](https://cordova.apache.org) - Mobile apps (iOS / Android) with with JavaScript, HTML, and CSS.
+    - 🎉 [Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/capacitor)](https://github.com/ionic-team/capacitor) - Run web apps natively on iOS, Android, Web, and more. [[Website](https://capacitorjs.com/)]
     - 🎉 [Electron ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) - Cross-platform desktop apps with JavaScript, HTML, and CSS. [[Website](https://www.electronjs.org/)]
     - 📚 [Electron Alternatives ![GitHub Repo Stars](https://img.shields.io/github/stars/sudhakar3697/electron-alternatives) ![GitHub last commit](https://img.shields.io/github/last-commit/sudhakar3697/electron-alternatives)](https://github.com/sudhakar3697/electron-alternatives) - Cross-platform gui app development options.
     - 🎉 [Ejecta ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/Ejecta) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/Ejecta)](https://github.com/phoboslab/Ejecta) - JavaScript / canvas / audio implementation for iOS. App store compatible.
@@ -1057,6 +1060,9 @@ _Language specific game engine development libraries / frameworks / code._
 
 ## Open Source Games
 _Successful open source video games to pick apart and gain knowledge._
+
+### Awesome Collections
+- 📚 [Quake Engines](https://quakeengines.github.io/) - List of repositories of idTech engines, it's derivatives and sourceports.
 
 ### C
 - 🔒 [Doom ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM)](https://github.com/id-Software/DOOM) - The original 1993 3D masterpiece by _id Software_.
