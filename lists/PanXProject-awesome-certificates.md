@@ -214,7 +214,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering" target="_blank" rel="noopener noreferrer">Foundations of Prompt Engineering</a> | Amazon | Intermediate | 4 | 🏆 |
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers" target="_blank" rel="noopener noreferrer">Generative AI for Decision Makers</a> | Amazon | Beginner| 3 | 🏆 |
 | <a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals" target="_blank" rel="noopener noreferrer">Generative AI Fundamentals</a> | Data Bricks |Beginner|0.5 | 🏅 |
-| <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | ��� |
+| <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 | <a href="https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/" target="_blank" rel="noopener noreferrer">Prompt Engineering for Vision Models</a> | DeepLearning.AI & Comet | Beginner | 1.5 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
