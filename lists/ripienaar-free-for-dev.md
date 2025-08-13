@@ -829,7 +829,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
   * [Lingo.dev](https://lingo.dev) – Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆�� Back to Top](#table-of-contents)**
 
 ## Monitoring
 
