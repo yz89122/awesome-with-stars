@@ -414,7 +414,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://memgraph.com/learn-graph-modeling" target="_blank" rel="noopener noreferrer">Graph Modeling Email Course</a> | Memgraph |Beginner| 1 | 🏅|
 | <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank" rel="noopener noreferrer">Geospatial Analysis</a>             | Kaggle          | Intermediate | 4     | 🏆     |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
 
 
 ## Business
