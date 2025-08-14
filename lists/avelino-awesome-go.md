@@ -2737,7 +2737,7 @@ _Libraries for accessing third party APIs._
 - [ynab ![GitHub Repo Stars](https://img.shields.io/github/stars/brunomvsouza/ynab.go) ![GitHub last commit](https://img.shields.io/github/last-commit/brunomvsouza/ynab.go)](https://github.com/brunomvsouza/ynab.go) - Go wrapper for the YNAB API.
 - [zooz ![GitHub Repo Stars](https://img.shields.io/github/stars/gojuno/go-zooz) ![GitHub last commit](https://img.shields.io/github/last-commit/gojuno/go-zooz)](https://github.com/gojuno/go-zooz) - Go client for the Zooz API.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Utilities
 
