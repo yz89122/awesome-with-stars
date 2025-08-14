@@ -507,7 +507,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
-* ���� [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
+* 📝 [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
 * 📝 [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
 
 ### Ordinary Differential Equations
@@ -607,7 +607,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 * 📝 [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
-* 📝 [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
+* ���� [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * 📝 [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 * 📝 [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
 

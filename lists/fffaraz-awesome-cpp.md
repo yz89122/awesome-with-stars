@@ -421,6 +421,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rapidcsv ![GitHub Repo Stars](https://img.shields.io/github/stars/d99kris/rapidcsv) ![GitHub last commit](https://img.shields.io/github/last-commit/d99kris/rapidcsv)](https://github.com/d99kris/rapidcsv) - An easy-to-use, header-only C++ CSV parser library. [BSD-3-Clause]
 * [ssp ![GitHub Repo Stars](https://img.shields.io/github/stars/red0124/ssp) ![GitHub last commit](https://img.shields.io/github/last-commit/red0124/ssp)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. [MIT]
 * [Vince's CSV Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/vincentlaucsb/csv-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/vincentlaucsb/csv-parser)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
+* [zsv ![GitHub Repo Stars](https://img.shields.io/github/stars/liquidaty/zsv) ![GitHub last commit](https://img.shields.io/github/last-commit/liquidaty/zsv)](https://github.com/liquidaty/zsv) - The world's fastest (simd) CSV parser, with an extensible CLI. [MIT]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
