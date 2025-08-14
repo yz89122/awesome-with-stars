@@ -1880,7 +1880,7 @@ Update Time, five active automations, webhooks.
 ## Screenshot APIs
 
   * [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, captures timing, and viewport dimensions.
-  * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 250 requests/day every day free.
+  * [microlink.io](https://microlink.io/) �� It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 250 requests/day every day free.
   * [ScreenshotAPI.net](https://screenshotapi.net/) - Screenshot API uses a straightforward API call to generate screenshots of any website. Built to scale and hosted on Google Cloud. Offers 100 free screenshots per month.
   * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
   * [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
