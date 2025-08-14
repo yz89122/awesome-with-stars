@@ -1018,7 +1018,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Rust: Game Engine w/Editor
     - 🎉 [Fyrox ![GitHub Repo Stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox) ![GitHub last commit](https://img.shields.io/github/last-commit/FyroxEngine/Fyrox)](https://github.com/FyroxEngine/Fyrox) - 2D/3D game engine with editor. Formerly _Rg3d_. [[Website](https://fyrox.rs/)]
 - Rust: Game Framework
-    - 🎉 [Ambient ![GitHub Repo Stars](https://img.shields.io/github/stars/AmbientRun/Ambient) ![GitHub last commit](https://img.shields.io/github/last-commit/AmbientRun/Ambient)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
+    - ���� [Ambient ![GitHub Repo Stars](https://img.shields.io/github/stars/AmbientRun/Ambient) ![GitHub last commit](https://img.shields.io/github/last-commit/AmbientRun/Ambient)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
     - 🎉 [Amethyst ![GitHub Repo Stars](https://img.shields.io/github/stars/amethyst/amethyst) ![GitHub last commit](https://img.shields.io/github/last-commit/amethyst/amethyst)](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
     - 🎉 [Bevy ![GitHub Repo Stars](https://img.shields.io/github/stars/bevyengine/bevy) ![GitHub last commit](https://img.shields.io/github/last-commit/bevyengine/bevy)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. [[Website](https://bevyengine.org)]
     - 🎉 [Macroquad ![GitHub Repo Stars](https://img.shields.io/github/stars/not-fl3/macroquad) ![GitHub last commit](https://img.shields.io/github/last-commit/not-fl3/macroquad)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by _RayLib_.
