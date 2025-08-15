@@ -249,7 +249,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 - [Johann-S ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/Johann-S) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/Johann-S)](https://github.com/sponsors/Johann-S) - Bootstrap JavaScript developer and various plugins and projects.
 - [Jorge Bucaran ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/jorgebucaran) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/jorgebucaran)](https://github.com/sponsors/jorgebucaran) - Hyperapp and many other JavaScript projects.
-- [Jonathan M��ller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
+- [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.
 - [Kévin Dunglas ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/dunglas) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/dunglas)](https://github.com/sponsors/dunglas) - API Platform, Vulcain, Mercure and Symfony contributions.
 - [Khoa Pham ![GitHub Repo Stars](https://img.shields.io/github/stars/users/onmyway133) ![GitHub last commit](https://img.shields.io/github/last-commit/users/onmyway133)](https://github.com/users/onmyway133/sponsorship) - A multitude of libraries, applications and articles about iOS/Cocoa,
