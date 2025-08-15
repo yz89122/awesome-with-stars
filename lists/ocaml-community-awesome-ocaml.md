@@ -417,7 +417,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ppx_monad ![GitHub Repo Stars](https://img.shields.io/github/stars/rizo/ppx_monad) ![GitHub last commit](https://img.shields.io/github/last-commit/rizo/ppx_monad)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
-  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) �� an OCaml dialect for multi-stage programming.
+  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
   - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
@@ -442,7 +442,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocurl ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocurl) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocurl)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
   - [httpaf ![GitHub Repo Stars](https://img.shields.io/github/stars/inhabitedtype/httpaf) ![GitHub last commit](https://img.shields.io/github/last-commit/inhabitedtype/httpaf)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
   - [piaf ![GitHub Repo Stars](https://img.shields.io/github/stars/anmonteiro/piaf) ![GitHub last commit](https://img.shields.io/github/last-commit/anmonteiro/piaf)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
-- [ocaml-dns ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-dns) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-dns)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+- [ocaml-dns ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-dns) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-dns)](https://github.com/mirage/ocaml-dns) ��� A pure OCaml implementation of the DNS protocol.
 - [fluent-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/fluent/fluent-logger-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/fluent/fluent-logger-ocaml)](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix ![GitHub Repo Stars](https://img.shields.io/github/stars/haesbaert/charrua-unix) ![GitHub last commit](https://img.shields.io/github/last-commit/haesbaert/charrua-unix)](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core ![GitHub Repo Stars](https://img.shields.io/github/stars/haesbaert/charrua-core) ![GitHub last commit](https://img.shields.io/github/last-commit/haesbaert/charrua-core)](https://github.com/haesbaert/charrua-core).
 
