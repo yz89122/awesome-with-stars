@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Metal](https://developer.apple.com/metal/) - API for developing 3D apps on _Apple_ platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Metal at _RayWenderlich.com_.
 - Graphics API: OpenGL
-    - �� [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
+    - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
@@ -415,7 +415,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Rootex ![GitHub Repo Stars](https://img.shields.io/github/stars/sdslabs/rootex) ![GitHub last commit](https://img.shields.io/github/last-commit/sdslabs/rootex)](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
     - 🎉 [Skylicht ![GitHub Repo Stars](https://img.shields.io/github/stars/skylicht-lab/skylicht-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/skylicht-lab/skylicht-engine)](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/PanosK92/SpartanEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/PanosK92/SpartanEngine)](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
-    - 🎉 [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
+    - ���� [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
     - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from _Blender_.
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
