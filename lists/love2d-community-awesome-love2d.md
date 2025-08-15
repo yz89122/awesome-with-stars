@@ -264,7 +264,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE Potion ![GitHub Repo Stars](https://img.shields.io/github/stars/lovebrew/lovepotion) ![GitHub last commit](https://img.shields.io/github/last-commit/lovebrew/lovepotion)](https://github.com/lovebrew/lovepotion) - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LOVE-WrapLua ![GitHub Repo Stars](https://img.shields.io/github/stars/LukeZGD/LOVE-WrapLua) ![GitHub last commit](https://img.shields.io/github/last-commit/LukeZGD/LOVE-WrapLua)](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
 * [Love.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Davidobot/love.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Davidobot/love.js)](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten.
-* [LÖVR ![GitHub Repo Stars](https://img.shields.io/github/stars/bjornbytes/lovr) ![GitHub last commit](https://img.shields.io/github/last-commit/bjornbytes/lovr)](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices.
+* [L��VR ![GitHub Repo Stars](https://img.shields.io/github/stars/bjornbytes/lovr) ![GitHub last commit](https://img.shields.io/github/last-commit/bjornbytes/lovr)](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices.
 
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
@@ -319,7 +319,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## UI
 *User Interface Libraries*
 
-* [CatUI ![GitHub Repo Stars](https://img.shields.io/github/stars/wilhantian/catui) ![GitHub last commit](https://img.shields.io/github/last-commit/wilhantian/catui)](https://github.com/wilhantian/catui) - A very light-weight GUI library for L��VE.
+* [CatUI ![GitHub Repo Stars](https://img.shields.io/github/stars/wilhantian/catui) ![GitHub last commit](https://img.shields.io/github/last-commit/wilhantian/catui)](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [GOOi ![GitHub Repo Stars](https://img.shields.io/github/stars/tavuntu/gooi) ![GitHub last commit](https://img.shields.io/github/last-commit/tavuntu/gooi)](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
