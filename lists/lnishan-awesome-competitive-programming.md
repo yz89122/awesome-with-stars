@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
@@ -276,7 +276,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 | ☆ | Name | Platform | Description |
 | --- | --- | --- | --- |
-| ★★★ | [Vim](https://www.vim.org/download.php) | CLI / Cross-Platform | Vim is one of the most popular text editors among advanced programmers. It allows text-editing to be done very efficiently with solely keystrokes. Vim is also highly configurable, extensible and integrates with shells (command lines) really well. The only setback about Vim is that it has a high learning curve for beginners. |
+| ���★★ | [Vim](https://www.vim.org/download.php) | CLI / Cross-Platform | Vim is one of the most popular text editors among advanced programmers. It allows text-editing to be done very efficiently with solely keystrokes. Vim is also highly configurable, extensible and integrates with shells (command lines) really well. The only setback about Vim is that it has a high learning curve for beginners. |
 | ★★★ | [Emacs](https://www.gnu.org/software/emacs/download.html) | CLI / Cross-Platform | Emacs is another popular text editor (or development environment to be more precise). The debate on "Vim vs. Emacs" is constantly brought up due to their popularity. Basically Emacs is more than just a text editor. It has plugins like file managers, web browsers, mail clients and news clients that allows users to performs these tasks directly inside Emacs. Emacs is "heavier" because of this, but it arguably has a relatively easier learning curve for beginners. |
 | ★★★ | [Far Manager](https://www.farmanager.com/download.php?l=en) | Hybrid / Windows | Far Manager is the most widely-used editor in the RU/CIS competitive programming community. It's actually a file manager in its bare bones, but you can install [FarColorer](http://colorer.sourceforge.net/farplugin.html) - a syntax highlighter plugin to program on it. Properly configured, Far Manager allows you to navigate between files very efficiently while writing your codes. |
 | ★★★ | [Code::Blocks](http://codeblocks.org/downloads) | GUI / Cross-Platform | Code::Blocks is the go-to IDE for C/C++. It's a full-fledged, versatile IDE with numerous great features. Code::Blocks is usually provided along with Vim in programming contests. |
