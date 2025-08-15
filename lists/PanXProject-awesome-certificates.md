@@ -166,7 +166,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/data-science-methodology-2" target="_blank" rel="noopener noreferrer">Data Science Methodologies</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-methodologies" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">��</a>|
 | <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2" target="_blank" rel="noopener noreferrer">Data Science Tools</a> | IBM / Cognitive Class |Beginner|4| <a href="https://www.youracclaim.com/org/ibm/badge/data-science-tools" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/python-for-data-science" target="_blank" rel="noopener noreferrer">Python for Data Science</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/python-for-data-science" target="_blank" rel="noopener noreferrer">🏅</a>|
 
@@ -392,7 +392,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | ���     |
 | <a href="https://www.kaggle.com/learn/intro-to-programming" target="_blank" rel="noopener noreferrer">Intro to Programming</a>           | Kaggle          | Beginner      | 5     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
