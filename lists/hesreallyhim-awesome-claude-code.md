@@ -186,7 +186,7 @@ claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code
 [`claude-code.el` ![GitHub Repo Stars](https://img.shields.io/github/stars/stevemolitor/claude-code.el) ![GitHub last commit](https://img.shields.io/github/last-commit/stevemolitor/claude-code.el)](https://github.com/stevemolitor/claude-code.el) &nbsp; by &nbsp; [stevemolitor](https://github.com/stevemolitor)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 An Emacs interface for Claude Code CLI.
 
-[`claude-code.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/greggh/claude-code.nvim)](https://github.com/greggh/claude-code.nvim) &nbsp; by &nbsp; [greggh](https://github.com/greggh)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
+[`claude-code.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/greggh/claude-code.nvim)](https://github.com/greggh/claude-code.nvim) &nbsp; by &nbsp; [greggh](https://github.com/greggh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A seamless integration between Claude Code AI assistant and Neovim.
 
 [`crystal` ![GitHub Repo Stars](https://img.shields.io/github/stars/stravu/crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/stravu/crystal)](https://github.com/stravu/crystal) &nbsp; by &nbsp; [stravu](https://github.com/stravu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
