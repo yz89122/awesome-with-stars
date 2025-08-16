@@ -466,7 +466,7 @@ Clear and direct instructives about style, permissions, Claude's "role", communi
 
 ### Project Scaffolding & MCP
 
-[`Basic Memory` ![GitHub Repo Stars](https://img.shields.io/github/stars/basicmachines-co/basic-memory) ![GitHub last commit](https://img.shields.io/github/last-commit/basicmachines-co/basic-memory)](https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md) &nbsp; by &nbsp; [basicmachines-co](https://github.com/basicmachines-co)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;AGPL-3.0  
+[`Basic Memory` ![GitHub Repo Stars](https://img.shields.io/github/stars/basicmachines-co/basic-memory) ![GitHub last commit](https://img.shields.io/github/last-commit/basicmachines-co/basic-memory)](https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md) &nbsp; by &nbsp; [basicmachines-co](https://github.com/basicmachines-co)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
 Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.
 
 [`claude-code-mcp-enhanced` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-code-mcp-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-code-mcp-enhanced)](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/main/CLAUDE.md) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
