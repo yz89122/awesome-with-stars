@@ -362,7 +362,7 @@ Creates product requirement plans by reading PRP methodology, following template
 [`/project_hello_w_name` ![GitHub Repo Stars](https://img.shields.io/github/stars/disler/just-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/disler/just-prompt)](https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md) &nbsp; by &nbsp; [disler](https://github.com/disler)    
 Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.
 
-[`/todo` ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisleyva/todo-slash-command) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisleyva/todo-slash-command)](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) &nbsp; by &nbsp; [chrisleyva](https://github.com/chrisleyva)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/todo` ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisleyva/todo-slash-command) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisleyva/todo-slash-command)](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) &nbsp; by &nbsp; [chrisleyva](https://github.com/chrisleyva)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.
 
 
