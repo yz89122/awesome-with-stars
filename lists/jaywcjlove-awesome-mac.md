@@ -874,7 +874,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Touch Emoji ![GitHub Repo Stars](https://img.shields.io/github/stars/lessmess-dev/touch-emoji) ![GitHub last commit](https://img.shields.io/github/last-commit/lessmess-dev/touch-emoji)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV.
 * [betterglobekey ![GitHub Repo Stars](https://img.shields.io/github/stars/Serpentiel/betterglobekey) ![GitHub last commit](https://img.shields.io/github/last-commit/Serpentiel/betterglobekey)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
-* [InputSourcePro](https://inputsource.pro/) - A tool for multi-language users. Automatically switch input language for different applications.
+* [InputSourcePro](https://inputsource.pro/) - A tool for multilingual users that automatically switches the input source across applications and websites. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 
 ## Browsers
 
