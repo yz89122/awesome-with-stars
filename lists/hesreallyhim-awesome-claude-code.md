@@ -362,7 +362,7 @@ Creates product requirement plans by reading PRP methodology, following template
 [`/project_hello_w_name` ![GitHub Repo Stars](https://img.shields.io/github/stars/disler/just-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/disler/just-prompt)](https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md) &nbsp; by &nbsp; [disler](https://github.com/disler)    
 Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.
 
-[`/todo` ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisleyva/todo-slash-command) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisleyva/todo-slash-command)](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) &nbsp; by &nbsp; [chrisleyva](https://github.com/chrisleyva)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`/todo` ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisleyva/todo-slash-command) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisleyva/todo-slash-command)](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) &nbsp; by &nbsp; [chrisleyva](https://github.com/chrisleyva)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.
 
 
@@ -418,7 +418,7 @@ Provides development guide for JavaScript BBC Micro emulator with build and test
 [`Lamoom Python` ![GitHub Repo Stars](https://img.shields.io/github/stars/LamoomAI/lamoom-python) ![GitHub last commit](https://img.shields.io/github/last-commit/LamoomAI/lamoom-python)](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md) &nbsp; by &nbsp; [LamoomAI](https://github.com/LamoomAI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.
 
-[`LangGraphJS` ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraphjs)](https://github.com/langchain-ai/langgraphjs/blob/main/CLAUDE.md) &nbsp; by &nbsp; [langchain-ai](https://github.com/langchain-ai)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`LangGraphJS` ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraphjs)](https://github.com/langchain-ai/langgraphjs/blob/main/CLAUDE.md) &nbsp; by &nbsp; [langchain-ai](https://github.com/langchain-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Offers comprehensive build and test commands with detailed TypeScript style guidelines, layered library architecture, and monorepo structure using yarn workspaces.
 
 [`Metabase` ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase/blob/master/CLAUDE.md) &nbsp; by &nbsp; [metabase](https://github.com/metabase)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
