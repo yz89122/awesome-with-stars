@@ -56,6 +56,9 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Laravel TALL Stack AI Development Starter Kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/tott/laravel-tall-claude-ai-configs) ![GitHub last commit](https://img.shields.io/github/last-commit/tott/laravel-tall-claude-ai-configs)](https://github.com/tott/laravel-tall-claude-ai-configs) &nbsp; by &nbsp; [tott](https://github.com/tott)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
+
 [`claude-powerline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/claude-powerline) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/claude-powerline)](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
 
@@ -98,6 +101,9 @@ A comprehensive knowledge base with detailed breakdowns of advanced [mechanics](
 
 [`Context Priming` ![GitHub Repo Stars](https://img.shields.io/github/stars/disler/just-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/disler/just-prompt)](https://github.com/disler/just-prompt/tree/main/.claude/commands) &nbsp; by &nbsp; [disler](https://github.com/disler)    
 Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
+
+[`Laravel TALL Stack AI Development Starter Kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/tott/laravel-tall-claude-ai-configs) ![GitHub last commit](https://img.shields.io/github/last-commit/tott/laravel-tall-claude-ai-configs)](https://github.com/tott/laravel-tall-claude-ai-configs) &nbsp; by &nbsp; [tott](https://github.com/tott)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
 
 [`n8n_agent` ![GitHub Repo Stars](https://img.shields.io/github/stars/kingler/n8n_agent) ![GitHub last commit](https://img.shields.io/github/last-commit/kingler/n8n_agent)](https://github.com/kingler/n8n_agent/tree/main/.claude/commands) &nbsp; by &nbsp; [kingler](https://github.com/kingler)    
 Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
