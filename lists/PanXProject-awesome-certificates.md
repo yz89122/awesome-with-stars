@@ -166,7 +166,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/data-science-methodology-2" target="_blank" rel="noopener noreferrer">Data Science Methodologies</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-methodologies" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">��</a>|
 | <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2" target="_blank" rel="noopener noreferrer">Data Science Tools</a> | IBM / Cognitive Class |Beginner|4| <a href="https://www.youracclaim.com/org/ibm/badge/data-science-tools" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/python-for-data-science" target="_blank" rel="noopener noreferrer">Python for Data Science</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/python-for-data-science" target="_blank" rel="noopener noreferrer">🏅</a>|
 
@@ -292,7 +292,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/mobile-ar-development" target="_blank" rel="noopener noreferrer">Mobile AR Development</a> | Unity | Beginner | 1344 | <a href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development" target="_blank" rel="noopener noreferrer">🏅</a>
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ## Mobile App Development
@@ -407,7 +407,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.saylor.org/course/view.php?id=64" target="_blank" rel="noopener noreferrer">CS102: Introduction to Computer Science II</a> | Saylor Academy |Professional|42 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=66" target="_blank" rel="noopener noreferrer">CS201: Elementary Data Structures</a> | Saylor Academy |Professional|38 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=67" target="_blank" rel="noopener noreferrer">CS202: Discrete Structures</a> | Saylor Academy |Professional|44 | 🏆|
-| <a href="https://learn.saylor.org/course/view.php?id=71" target="_blank" rel="noopener noreferrer">CS301: Computer Architecture</a> | Saylor Academy |Professional|48 | ���|
+| <a href="https://learn.saylor.org/course/view.php?id=71" target="_blank" rel="noopener noreferrer">CS301: Computer Architecture</a> | Saylor Academy |Professional|48 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=73" target="_blank" rel="noopener noreferrer">CS302: Software Engineering</a> | Saylor Academy |Professional|45 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/problem_solving_basic" target="_blank" rel="noopener noreferrer">Problem Solving</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/problem_solving_intermediate" target="_blank" rel="noopener noreferrer">Problem Solving</a> | HackerRank |Intermediate| 1.5 | 🏆|
