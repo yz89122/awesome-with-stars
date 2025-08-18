@@ -36,6 +36,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 4
 
+- [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
 - [A Dark Forest ![GitHub Repo Stars](https://img.shields.io/github/stars/TinyTakinTeller/GodotProjectZero) ![GitHub last commit](https://img.shields.io/github/last-commit/TinyTakinTeller/GodotProjectZero)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/poder-solar) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/poder-solar)](https://github.com/antimundo/poder-solar) - Simple resource management game.
