@@ -1232,6 +1232,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-smartgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/prashantd-17/ngx-smartgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/prashantd-17/ngx-smartgrid)](https://github.com/prashantd-17/ngx-smartgrid) - A lightweight and flexible Angular table/grid component designed to work seamlessly across Angular 10 to 20+.
 * [ngx-flamegraph ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-flamegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-flamegraph)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [ng-virtual-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/DjonnyX/ng-virtual-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/DjonnyX/ng-virtual-grid)](https://github.com/DjonnyX/ng-virtual-grid) - Maximum performance for extremely large grids.
+* [ngx-simple-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/rinturaj/ngx-simple-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/rinturaj/ngx-simple-datatables)](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
 
 ### Dates
 
