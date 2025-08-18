@@ -299,7 +299,7 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 
 ##### Resources
 
-- [Vue.js & Electron: The easy way. �� Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
+- [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
 - [How to use Vue.js with Electron and Vuex](https://alligator.io/vuejs/vue-electron/)
 
 ### Code Coverage & CI [↗](https://awesomestacks.dev/code-coverage-and-ci)
