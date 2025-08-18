@@ -207,7 +207,7 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 [`ccstatusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline) ![GitHub last commit](https://img.shields.io/github/last-commit/sirmalloc/ccstatusline)](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 
-[`claude-powerline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/claude-powerline) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/claude-powerline)](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`claude-powerline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/claude-powerline) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/claude-powerline)](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
 
 <br>
