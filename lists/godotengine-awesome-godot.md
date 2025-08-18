@@ -51,7 +51,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Flappy Race ![GitHub Repo Stars](https://img.shields.io/github/stars/Jibby-Games/Flappy-Race) ![GitHub last commit](https://img.shields.io/github/last-commit/Jibby-Games/Flappy-Race)](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
 - [Haldric ![GitHub Repo Stars](https://img.shields.io/github/stars/wesnoth/haldric) ![GitHub last commit](https://img.shields.io/github/last-commit/wesnoth/haldric)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 - [Memory Game ![GitHub Repo Stars](https://img.shields.io/github/stars/Tzoop/MemoryGame) ![GitHub last commit](https://img.shields.io/github/last-commit/Tzoop/MemoryGame)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
-- [Pocket Broomball ![GitHub Repo Stars](https://img.shields.io/github/stars/dulvui/pocket-broomball) ![GitHub last commit](https://img.shields.io/github/last-commit/dulvui/pocket-broomball)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+- [Pocket Broomball](https://codeberg.org/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D ![GitHub Repo Stars](https://img.shields.io/github/stars/JulianWels/portal2d) ![GitHub last commit](https://img.shields.io/github/last-commit/JulianWels/portal2d)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 - [ROTA ![GitHub Repo Stars](https://img.shields.io/github/stars/HarmonyHoney/ROTA) ![GitHub last commit](https://img.shields.io/github/last-commit/HarmonyHoney/ROTA)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
@@ -91,7 +91,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 3
 
-- [Ball2Box ![GitHub Repo Stars](https://img.shields.io/github/stars/dulvui/ball2box) ![GitHub last commit](https://img.shields.io/github/last-commit/dulvui/ball2box)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+- [Ball2Box](https://codeberg.org/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 - [Boom ![GitHub Repo Stars](https://img.shields.io/github/stars/FelicePollano/Boom) ![GitHub last commit](https://img.shields.io/github/last-commit/FelicePollano/Boom)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 - [Broken Seals ![GitHub Repo Stars](https://img.shields.io/github/stars/Relintai/broken_seals) ![GitHub last commit](https://img.shields.io/github/last-commit/Relintai/broken_seals)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 - [Meteorite ![GitHub Repo Stars](https://img.shields.io/github/stars/Bauxitedev/meteorite) ![GitHub last commit](https://img.shields.io/github/last-commit/Bauxitedev/meteorite)](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
