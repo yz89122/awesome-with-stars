@@ -1541,6 +1541,7 @@ to simplify usage and allow quick customization.
 * [ngx-flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/jtc10005/ngx-flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/jtc10005/ngx-flex-layout)](https://github.com/jtc10005/ngx-flex-layout) - Port of [@angular/flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/flex-layout)](https://github.com/angular/flex-layout) to provide support after EOL.
 * [ng-polymorpheus ![GitHub Repo Stars](https://img.shields.io/github/stars/taiga-family/ng-polymorpheus) ![GitHub last commit](https://img.shields.io/github/last-commit/taiga-family/ng-polymorpheus)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 * [gui ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/gui) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/gui)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
+* [ngx-zoomable ![GitHub Repo Stars](https://img.shields.io/github/stars/json-k/ngx-zoomable) ![GitHub last commit](https://img.shields.io/github/last-commit/json-k/ngx-zoomable)](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 
 ### Loaders
 
