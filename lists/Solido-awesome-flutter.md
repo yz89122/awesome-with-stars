@@ -219,7 +219,7 @@ Meteo
 
 #### UI Helpers
 
-- [Offline ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/flutter_offline) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/flutter_offline)](https://github.com/jogboms/flutter_offline) [1054��] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Offline ![GitHub Repo Stars](https://img.shields.io/github/stars/jogboms/flutter_offline) ![GitHub last commit](https://img.shields.io/github/last-commit/jogboms/flutter_offline)](https://github.com/jogboms/flutter_offline) [1054⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [ShowCaseView ![GitHub Repo Stars](https://img.shields.io/github/stars/simformsolutions/flutter_showcaseview) ![GitHub last commit](https://img.shields.io/github/last-commit/simformsolutions/flutter_showcaseview)](https://github.com/simformsolutions/flutter_showcaseview) [1488⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Mix ![GitHub Repo Stars](https://img.shields.io/github/stars/leoafarias/mix) ![GitHub last commit](https://img.shields.io/github/last-commit/leoafarias/mix)](https://github.com/leoafarias/mix) [561⭐] - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
 - [Blurhash ![GitHub Repo Stars](https://img.shields.io/github/stars/fluttercommunity/flutter_blurhash) ![GitHub last commit](https://img.shields.io/github/last-commit/fluttercommunity/flutter_blurhash)](https://github.com/fluttercommunity/flutter_blurhash) [520⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
@@ -777,7 +777,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Facebook Group](https://web.facebook.com/groups/flutterphilippines/)
 - [Github](https://github.com/flutterph)
 
-### 🇵��� Poland
+### 🇵🇱 Poland
 - [Flutter Developers Poland Facebook Group](https://www.facebook.com/groups/2228619364094561/about/)
 - [Flutter Poland Slack workspace](http://bit.ly/flutter-pl-slack)
 - [Flutter Warsaw Meetup](https://www.meetup.com/Flutter-Warsaw/)
