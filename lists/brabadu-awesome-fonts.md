@@ -135,6 +135,7 @@ moji font: ᵺ ༐ 💰     ༐ ���     🅰️ И     € ❎ ㏂ 𝔭 �
   * [Source Serif Pro ![GitHub Repo Stars](https://img.shields.io/github/stars/adobe-fonts/source-serif-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/adobe-fonts/source-serif-pro)](https://github.com/adobe-fonts/source-serif-pro)
 * [agave ![GitHub Repo Stars](https://img.shields.io/github/stars/blobject/agave) ![GitHub last commit](https://img.shields.io/github/last-commit/blobject/agave)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Berkeley Mono](https://usgraphics.com/products/berkeley-mono) - a love letter to the golden era of computing
 * [Codeface ![GitHub Repo Stars](https://img.shields.io/github/stars/chrissimpkins/codeface) ![GitHub last commit](https://img.shields.io/github/last-commit/chrissimpkins/codeface)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/belluzj/fantasque-sans) ![GitHub last commit](https://img.shields.io/github/last-commit/belluzj/fantasque-sans)](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
