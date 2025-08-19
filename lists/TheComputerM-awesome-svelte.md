@@ -321,6 +321,7 @@ _Individual form components._
 - [@tolgee/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/tolgee/tolgee-js) ![GitHub last commit](https://img.shields.io/github/last-commit/tolgee/tolgee-js)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 - [@i18n-pro/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/i18n-pro/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/i18n-pro/svelte)](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
 - [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
+- [wuchale ![GitHub Repo Stars](https://img.shields.io/github/stars/K1DV5/wuchale) ![GitHub last commit](https://img.shields.io/github/last-commit/K1DV5/wuchale)](https://github.com/K1DV5/wuchale) - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
 
 ## Routers
 
