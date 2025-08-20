@@ -161,7 +161,7 @@ System integration is the process of linking together different IT systems (com
    - [Taurus (⭐2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/Blazemeter/taurus) ![GitHub last commit](https://img.shields.io/github/last-commit/Blazemeter/taurus)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 <!--lint enable-->
 ### BRE
 *Business Rules Engines and Business Rules Management Systems (BRMS) are software systems that allow organizations to define, manage, and execute business rules. These rules are used to automate decision-making processes, enforce business policies, and ensure regulatory compliance. A BRMS provides a way for organizations to centrally manage their business rules and make changes to them quickly and easily, without requiring changes to the underlying code. It is a valuable tool for businesses that need to be agile and respond quickly to changing market conditions.*
@@ -260,7 +260,7 @@ System integration is the process of linking together different IT systems (com
 - [Spring Integration (⭐1.5k) ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-integration) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-integration)](https://github.com/spring-projects/spring-integration) - Extension of the Spring ecosystem that provides out-of-the-box integration capabilities using proven Enterprise Integration Patterns.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable-->
 ### iPaaS
 *Integration Platform as a Service (iPaaS) is a cloud-based platform that enables businesses to integrate different systems, applications, and data sources with ease. It provides a unified platform for managing data flows between various systems, simplifying the process of integrating different systems and automating workflows. iPaaS tools typically provide a visual interface for designing, deploying, and managing integrations, as well as pre-built connectors and APIs for integrating with popular systems and services.*
