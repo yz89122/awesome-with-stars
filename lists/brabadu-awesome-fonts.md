@@ -62,8 +62,7 @@ A curated list of fonts and typography resources.
 
 ## Emojis
 * [alfred-emoji-workflow ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosgaldino/alfred-emoji-workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosgaldino/alfred-emoji-workflow)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
-* [Crypto Puzzles ![GitHub Repo Stars](https://img.shields.io/github/stars/2d4d/crypto_puzzles) ![GitHub last commit](https://img.shields.io/github/last-commit/2d4d/crypto_puzzles)](https://github.com/2d4d/crypto_puzzles) - Includes e
-moji font: ᵺ ༐ 💰     ༐ ���     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: http://rupp.de/crypto_puzzles/crypto_puzzles_web.py)
+* [Crypto Puzzles ![GitHub Repo Stars](https://img.shields.io/github/stars/2d4d/crypto_puzzles) ![GitHub last commit](https://img.shields.io/github/last-commit/2d4d/crypto_puzzles)](https://github.com/2d4d/crypto_puzzles)
 * [emoji-cheat-sheet.com ![GitHub Repo Stars](https://img.shields.io/github/stars/WebpageFX/emoji-cheat-sheet.com) ![GitHub last commit](https://img.shields.io/github/last-commit/WebpageFX/emoji-cheat-sheet.com)](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [emoji-data-js ![GitHub Repo Stars](https://img.shields.io/github/stars/mroth/emoji-data-js) ![GitHub last commit](https://img.shields.io/github/last-commit/mroth/emoji-data-js)](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
 * [emoji-minesweeper ![GitHub Repo Stars](https://img.shields.io/github/stars/muan/emoji-minesweeper) ![GitHub last commit](https://img.shields.io/github/last-commit/muan/emoji-minesweeper)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
@@ -148,6 +147,7 @@ moji font: ᵺ ༐ 💰     ༐ ���     🅰️ И     € ❎ ㏂ 𝔭 �
 * [Nerd Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 * [Recursive Sans & Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/arrowtype/recursive) ![GitHub last commit](https://img.shields.io/github/last-commit/arrowtype/recursive)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
+* [Victor Mono](https://rubjo.github.io/victor-mono/)
 * [Iconic Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/iconicFonts/if) ![GitHub last commit](https://img.shields.io/github/last-commit/iconicFonts/if)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 #### Programming fonts with ligatures

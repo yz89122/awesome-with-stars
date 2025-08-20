@@ -539,7 +539,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
         <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@f1c0c7b/block-quora-poe/assets/images/screenshots/demo.png"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
@@ -564,7 +564,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.chatgptwidescreen.com/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+        ��� <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
@@ -805,7 +805,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.ddgpt.com">
+        ��� <a href="https://gm.ddgpt.com">
             Install</a> /
         📖 <a href="https://docs.ddgpt.com/#readme">
             Readme</a> /
@@ -1379,7 +1379,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
         <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@f1c0c7b/block-quora-poe/assets/images/screenshots/demo.png"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
