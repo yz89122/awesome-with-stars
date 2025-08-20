@@ -1665,6 +1665,7 @@ to simplify usage and allow quick customization.
 * [reactive-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/max-scopp/reactive-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/max-scopp/reactive-kit)](https://github.com/max-scopp/reactive-kit) - A lightweight set of utilities that make reactive Angular apps more enjoyable and less boilerplate-heavy. Works great alongside `ngxtension`.
 * [fireng ![GitHub Repo Stars](https://img.shields.io/github/stars/BhanukaDev/fireng) ![GitHub last commit](https://img.shields.io/github/last-commit/BhanukaDev/fireng)](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
 * [xprng ![GitHub Repo Stars](https://img.shields.io/github/stars/ziv/xprng) ![GitHub last commit](https://img.shields.io/github/last-commit/ziv/xprng)](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
+* [ngx-primeng-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/saiful-70/ngx-primeng-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/saiful-70/ngx-primeng-toolkit)](https://github.com/saiful-70/ngx-primeng-toolkit) - A comprehensive TypeScript utility library for Angular component state management, including PrimeNG table helpers, `ng-select` integration, data storage, and HTTP caching utilities with NgRx signals.
 
 ### Modals
 
