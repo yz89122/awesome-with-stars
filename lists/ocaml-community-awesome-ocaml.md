@@ -417,7 +417,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ppx_monad ![GitHub Repo Stars](https://img.shields.io/github/stars/rizo/ppx_monad) ![GitHub last commit](https://img.shields.io/github/last-commit/rizo/ppx_monad)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson ![GitHub Repo Stars](https://img.shields.io/github/stars/whitequark/ppx_deriving_yojson) ![GitHub last commit](https://img.shields.io/github/last-commit/whitequark/ppx_deriving_yojson)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
-  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
+  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) ��� an OCaml dialect for multi-stage programming.
   - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
@@ -432,7 +432,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [OCaml on iOS 7 Released](http://psellos.com/2014/08/2014.08.ocamlxarm-402.html)
   - [OCaml + Cordova = more secured, typed and hybrid mobile applications](https://dannywillems.github.io/2016/07/14/ocaml-cordova-secured-typed-hybrid-mobile-applications.html)
 - **Bindings**:
-  - [Cordova plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/dannywillems/ocaml-cordova-plugin-list) ![GitHub last commit](https://img.shields.io/github/last-commit/dannywillems/ocaml-cordova-plugin-list)](https://github.com/dannywillems/ocaml-cordova-plugin-list) �� List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
+  - [Cordova plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/dannywillems/ocaml-cordova-plugin-list) ![GitHub last commit](https://img.shields.io/github/last-commit/dannywillems/ocaml-cordova-plugin-list)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
 
 ## Networking
