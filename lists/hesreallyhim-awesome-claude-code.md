@@ -180,7 +180,7 @@ Development environments for coding agents. Enable multiple agents to work safel
 [`TSK - AI Agent Task Manager and Sandbox` ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/tsk) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/tsk)](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
 
-[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
 
 [`viberank` ![GitHub Repo Stars](https://img.shields.io/github/stars/sculptdotfun/viberank) ![GitHub last commit](https://img.shields.io/github/last-commit/sculptdotfun/viberank)](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -368,7 +368,7 @@ Creates Jobs-to-be-Done frameworks that outline user needs with structured forma
 [`/create-prd` ![GitHub Repo Stars](https://img.shields.io/github/stars/taddyorg/inkverse) ![GitHub last commit](https://img.shields.io/github/last-commit/taddyorg/inkverse)](https://github.com/taddyorg/inkverse/blob/main/.claude/commands/create-prd.md) &nbsp; by &nbsp; [taddyorg](https://github.com/taddyorg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
 Generates comprehensive product requirement documents outlining detailed specifications, requirements, and features following standardized document structure and format.
 
-[`/create-prp` ![GitHub Repo Stars](https://img.shields.io/github/stars/Wirasm/claudecode-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Wirasm/claudecode-utils)](https://github.com/Wirasm/claudecode-utils/blob/main/.claude/commands/create-prp.md) &nbsp; by &nbsp; [Wirasm](https://github.com/Wirasm)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`/create-prp` ![GitHub Repo Stars](https://img.shields.io/github/stars/Wirasm/claudecode-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/Wirasm/claudecode-utils)](https://github.com/Wirasm/claudecode-utils/blob/main/.claude/commands/create-prp.md) &nbsp; by &nbsp; [Wirasm](https://github.com/Wirasm)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Creates product requirement plans by reading PRP methodology, following template structure, creating comprehensive requirements, and structuring product definitions for development.
 
 [`/project_hello_w_name` ![GitHub Repo Stars](https://img.shields.io/github/stars/disler/just-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/disler/just-prompt)](https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md) &nbsp; by &nbsp; [disler](https://github.com/disler)    
