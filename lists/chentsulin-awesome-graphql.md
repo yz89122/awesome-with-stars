@@ -739,6 +739,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [gqldoc ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
 - [spectaql ![GitHub Repo Stars](https://img.shields.io/github/stars/anvilco/spectaql) ![GitHub last commit](https://img.shields.io/github/last-commit/anvilco/spectaql)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 - [graphql-markdown](https://graphql-markdown.github.io/) - Flexible documentation for GraphQL powered with Docusaurus.
+- [xyd](https://xyd.dev) - Generate GraphQL API docs.
 
 ### Tools - Editor Plugins
 
