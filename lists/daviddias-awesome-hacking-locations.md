@@ -29,8 +29,9 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Estonia 🇪🇪](#estonia-)
   - [Tallinn](#tallinn)
 - [France 🇫🇷](#france-)
-  - [Paris](#paris)
   - [Lille](#lille)
+  - [Nice](#nice)
+  - [Paris](#paris)
 - [Germany 🇩🇪](#germany-)
   - [Berlin](#berlin)
   - [Dresden](#dresden)
@@ -397,6 +398,31 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 # France 🇫🇷
 
+## Lille
+
+#### Café Citoyen
+
+Community-owned (see their website for details of their organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers. 
+
+Webpage: https://cafecitoyen.org/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ? | ? | [7 Pl. du Vieux Marché aux Chevaux, 59000 Lille](https://goo.gl/maps/DC4ge4iJMVLaS7vt7) | Mon-Tues 11:02 AM-10:01 PM, Wed-Fri 11:00 AM-11:58PM, Sat 14:00 PM-11:58 PM
+
+## Nice
+
+#### Copenhagen Coffee Lab
+
+Copenhagen Coffee Lab is a coffee shop chain that provides a functional environment for remote work. Its locations are equipped with Wi-Fi and power outlets. The interiors feature a minimalist design, and the menu includes coffee roasted in-house, as well as a selection of food. It is a suitable option for individuals seeking a place to work.
+
+Webpage: https://copenhagencoffeelab.com/cafes/cafes-france/nice
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ✔ | [47 Rue de France, 06000 Nice](https://goo.gl/maps/MPnAWDPEmm2zTC3c9) | Mon-Sun 7AM - 7PM
+✔ | ✔ | ✔ | [16 Bd Jean Jaurès, 06300 Nice](https://goo.gl/maps/T9nTCLzJfKpxD6NLA) | Mon-Sun 7AM - 7PM
+
 ## Paris
 
 #### KB CafeShop
@@ -463,17 +489,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
 
-## Lille
-
-#### Café Citoyen
-
-Community-owned (see their website for details of their organisation organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers. 
-
-Webpage: https://cafecitoyen.org/
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ? | [7 Pl. du Vieux Marché aux Chevaux, 59000 Lille](https://goo.gl/maps/DC4ge4iJMVLaS7vt7) | Mon-Tues 11:02 AM-10:01 PM, Wed-Fri 11:00 AM-11:58PM, Sat 14:00 PM-11:58 PM
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1259,7 +1274,7 @@ Webpage: http://www.cafevitoria.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm ��� 1:00am, Friday 12:00pm – 2:00am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 
