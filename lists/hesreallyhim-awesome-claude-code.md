@@ -180,7 +180,7 @@ Development environments for coding agents. Enable multiple agents to work safel
 [`TSK - AI Agent Task Manager and Sandbox` ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/tsk) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/tsk)](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
 
-[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
 
 [`viberank` ![GitHub Repo Stars](https://img.shields.io/github/stars/sculptdotfun/viberank) ![GitHub last commit](https://img.shields.io/github/last-commit/sculptdotfun/viberank)](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -439,7 +439,7 @@ Details workflow for REPL-driven development in Clojure/ClojureScript with empha
 [`SG Cars Trends Backend` ![GitHub Repo Stars](https://img.shields.io/github/stars/sgcarstrends/backend) ![GitHub last commit](https://img.shields.io/github/last-commit/sgcarstrends/backend)](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) &nbsp; by &nbsp; [sgcarstrends](https://github.com/sgcarstrends)    
 Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.
 
-[`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.
 
 [`TPL` ![GitHub Repo Stars](https://img.shields.io/github/stars/KarpelesLab/tpl) ![GitHub last commit](https://img.shields.io/github/last-commit/KarpelesLab/tpl)](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md) &nbsp; by &nbsp; [KarpelesLab](https://github.com/KarpelesLab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
