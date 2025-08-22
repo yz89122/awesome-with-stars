@@ -322,7 +322,7 @@ Services:
 
 ### Low-Code
 
-> ���� These tools are not necessarily made for MongoDB in particular, but support it.
+> 💡 These tools are not necessarily made for MongoDB in particular, but support it.
 
  - [Appsmith ![GitHub Repo Stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
  - [Appwrite ![GitHub Repo Stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
