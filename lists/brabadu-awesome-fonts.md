@@ -16,12 +16,14 @@ A curated list of fonts and typography resources.
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
+* [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
 
 ## Free fonts
 
 #### Collections
+* [Apple Fonts](https://developer.apple.com/fonts/) - Fonts for Apple platforms
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
@@ -42,18 +44,18 @@ A curated list of fonts and typography resources.
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 * [USWDS](https://github.com/uswds) - U.S. Web Design System
   * [Public Sans](https://public-sans.digital.gov/)
-* [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
+* [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering
 
 #### Fonts
 * [Amstelvar ![GitHub Repo Stars](https://img.shields.io/github/stars/TypeNetwork/Amstelvar) ![GitHub last commit](https://img.shields.io/github/last-commit/TypeNetwork/Amstelvar)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 * [AtF Spark ![GitHub Repo Stars](https://img.shields.io/github/stars/aftertheflood/sparks) ![GitHub last commit](https://img.shields.io/github/last-commit/aftertheflood/sparks)](https://github.com/aftertheflood/sparks) - Font designed to create sparklines
 * [Barlow ![GitHub Repo Stars](https://img.shields.io/github/stars/jpt/barlow) ![GitHub last commit](https://img.shields.io/github/last-commit/jpt/barlow)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 * [Inter ![GitHub Repo Stars](https://img.shields.io/github/stars/rsms/inter) ![GitHub last commit](https://img.shields.io/github/last-commit/rsms/inter)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
-* [Libre Franklin ![GitHub Repo Stars](https://img.shields.io/github/stars/impallari/Libre-Franklin) ![GitHub last commit](https://img.shields.io/github/last-commit/impallari/Libre-Franklin)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
-* [Manrope ![GitHub Repo Stars](https://img.shields.io/github/stars/sharanda/manrope) ![GitHub last commit](https://img.shields.io/github/last-commit/sharanda/manrope)](https://github.com/sharanda/manrope) - Modern geometric sans-serif
+* [Libre Franklin ![GitHub Repo Stars](https://img.shields.io/github/stars/impallari/Libre-Franklin) ![GitHub last commit](https://img.shields.io/github/last-commit/impallari/Libre-Franklin)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 * [Martian Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/evilmartians/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/evilmartians/mono)](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 * [Monaspace ![GitHub Repo Stars](https://img.shields.io/github/stars/githubnext/monaspace) ![GitHub last commit](https://img.shields.io/github/last-commit/githubnext/monaspace)](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
+* [Optician Sans](https://optician-sans.com) - A free font based on the historical eye charts and optotypes used by opticians world wide
 * [Redacted ![GitHub Repo Stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font) ![GitHub last commit](https://img.shields.io/github/last-commit/christiannaths/Redacted-Font)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans ![GitHub Repo Stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans) ![GitHub last commit](https://img.shields.io/github/last-commit/RoelN/SansBullshitSans)](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist ![GitHub Repo Stars](https://img.shields.io/github/stars/coreyhu/Urbanist) ![GitHub last commit](https://img.shields.io/github/last-commit/coreyhu/Urbanist)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
@@ -136,18 +138,19 @@ A curated list of fonts and typography resources.
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Berkeley Mono](https://usgraphics.com/products/berkeley-mono) - a love letter to the golden era of computing
 * [Codeface ![GitHub Repo Stars](https://img.shields.io/github/stars/chrissimpkins/codeface) ![GitHub last commit](https://img.shields.io/github/last-commit/chrissimpkins/codeface)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Classic Console](https://webdraft.hu/fonts/classic-console/)
 * [Fantasque Sans Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/belluzj/fantasque-sans) ![GitHub last commit](https://img.shields.io/github/last-commit/belluzj/fantasque-sans)](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
+* [JGS Font](https://adelfaure.net/tools/jgs/)
 * [Hack ![GitHub Repo Stars](https://img.shields.io/github/stars/source-foundry/Hack) ![GitHub last commit](https://img.shields.io/github/last-commit/source-foundry/Hack)](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-* [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Lab Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/hatsumatsu/Lab-Mono) ![GitHub last commit](https://img.shields.io/github/last-commit/hatsumatsu/Lab-Mono)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 * [Meslo-Font ![GitHub Repo Stars](https://img.shields.io/github/stars/andreberg/Meslo-Font) ![GitHub last commit](https://img.shields.io/github/last-commit/andreberg/Meslo-Font)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Miracode ![GitHub Repo Stars](https://img.shields.io/github/stars/IdreesInc/Miracode) ![GitHub last commit](https://img.shields.io/github/last-commit/IdreesInc/Miracode)](https://github.com/IdreesInc/Miracode)
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 * [Recursive Sans & Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/arrowtype/recursive) ![GitHub last commit](https://img.shields.io/github/last-commit/arrowtype/recursive)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
-* [Victor Mono](https://rubjo.github.io/victor-mono/)
 * [Iconic Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/iconicFonts/if) ![GitHub last commit](https://img.shields.io/github/last-commit/iconicFonts/if)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 #### Programming fonts with ligatures
@@ -161,7 +164,6 @@ A curated list of fonts and typography resources.
 * [Lilex ![GitHub Repo Stars](https://img.shields.io/github/stars/mishamyrt/Lilex) ![GitHub last commit](https://img.shields.io/github/last-commit/mishamyrt/Lilex)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 * [Monoid ![GitHub Repo Stars](https://img.shields.io/github/stars/larsenwork/monoid) ![GitHub last commit](https://img.shields.io/github/last-commit/larsenwork/monoid)](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
-* [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 * [Victor Mono](https://rubjo.github.io/victor-mono/) - A free programming font with semi-connected cursive italics, symbol ligatures and Latin, Cyrillic and Greek characters
 
 ## JavaScript libs
@@ -173,7 +175,6 @@ A curated list of fonts and typography resources.
 * [Lettering.js ![GitHub Repo Stars](https://img.shields.io/github/stars/davatron5000/Lettering.js) ![GitHub last commit](https://img.shields.io/github/last-commit/davatron5000/Lettering.js)](https://github.com/davatron5000/Lettering.js)
 * [localFont ![GitHub Repo Stars](https://img.shields.io/github/stars/jaicab/localFont) ![GitHub last commit](https://img.shields.io/github/last-commit/jaicab/localFont)](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js ![GitHub Repo Stars](https://img.shields.io/github/stars/nodebox/opentype.js) ![GitHub last commit](https://img.shields.io/github/last-commit/nodebox/opentype.js)](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-* [Typefont ![GitHub Repo Stars](https://img.shields.io/github/stars/Sir-Vasile/Typefont) ![GitHub last commit](https://img.shields.io/github/last-commit/Sir-Vasile/Typefont)](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 * [Typeset.js ![GitHub Repo Stars](https://img.shields.io/github/stars/davidmerfield/typeset) ![GitHub last commit](https://img.shields.io/github/last-commit/davidmerfield/typeset)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 * [Typr.js ![GitHub Repo Stars](https://img.shields.io/github/stars/photopea/Typr.js) ![GitHub last commit](https://img.shields.io/github/last-commit/photopea/Typr.js)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
