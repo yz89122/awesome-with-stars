@@ -248,6 +248,7 @@
 - [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
 - [HMCL ![GitHub Repo Stars](https://img.shields.io/github/stars/huanghongxun/HMCL) ![GitHub last commit](https://img.shields.io/github/last-commit/huanghongxun/HMCL)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 - [XMCL ![GitHub Repo Stars](https://img.shields.io/github/stars/Voxelum/x-minecraft-launcher) ![GitHub last commit](https://img.shields.io/github/last-commit/Voxelum/x-minecraft-launcher)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+- [Polymerium ![GitHub Repo Stars](https://img.shields.io/github/stars/d3ara1n/Polymerium) ![GitHub last commit](https://img.shields.io/github/last-commit/d3ara1n/Polymerium)](https://github.com/d3ara1n/Polymerium) - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
 
 ## Development
 

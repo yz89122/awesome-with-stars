@@ -518,6 +518,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [organize-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ManrajGrover/organize-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/organize-cli)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/foxido/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/RecoverPy) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/RecoverPy)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+- [f2 ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoisaiah/f2) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoisaiah/f2)](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 
 ### File Sync/Sharing
 
