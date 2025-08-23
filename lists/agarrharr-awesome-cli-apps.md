@@ -355,6 +355,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [acmetool ![GitHub Repo Stars](https://img.shields.io/github/stars/hlandau/acmetool) ![GitHub last commit](https://img.shields.io/github/last-commit/hlandau/acmetool)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/certificate-ripper)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/neoss) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/neoss)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+- [sshuttle ![GitHub Repo Stars](https://img.shields.io/github/stars/sshuttle/sshuttle) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuttle/sshuttle)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
 
@@ -562,6 +563,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rare ![GitHub Repo Stars](https://img.shields.io/github/stars/zix99/rare) ![GitHub last commit](https://img.shields.io/github/last-commit/zix99/rare)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 - [skim ![GitHub Repo Stars](https://img.shields.io/github/stars/lotabout/skim) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 - [ast-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/ast-grep/ast-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/ast-grep/ast-grep)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
+- [television ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpasmantier/television) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpasmantier/television)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ## Version Control
 
@@ -642,6 +644,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ponysay ![GitHub Repo Stars](https://img.shields.io/github/stars/erkin/ponysay) ![GitHub last commit](https://img.shields.io/github/last-commit/erkin/ponysay)](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay ![GitHub Repo Stars](https://img.shields.io/github/stars/yeoman/yosay) ![GitHub last commit](https://img.shields.io/github/last-commit/yeoman/yosay)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat ![GitHub Repo Stars](https://img.shields.io/github/stars/busyloop/lolcat) ![GitHub last commit](https://img.shields.io/github/last-commit/busyloop/lolcat)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [terminaltexteffects ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisBuilds/terminaltexteffects) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisBuilds/terminaltexteffects)](https://github.com/ChrisBuilds/terminaltexteffects) - Plays elaborate animations of text input.
 - [text-meme ![GitHub Repo Stars](https://img.shields.io/github/stars/beatfreaker/text-meme-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/beatfreaker/text-meme-cli)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli ![GitHub Repo Stars](https://img.shields.io/github/stars/sggts04/dankcli) ![GitHub last commit](https://img.shields.io/github/last-commit/sggts04/dankcli)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay ![GitHub Repo Stars](https://img.shields.io/github/stars/roma-guru/ricksay) ![GitHub last commit](https://img.shields.io/github/last-commit/roma-guru/ricksay)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
