@@ -351,7 +351,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
 - [JEval ![GitHub Repo Stars](https://img.shields.io/github/stars/QAInsights/JEval) ![GitHub last commit](https://img.shields.io/github/last-commit/QAInsights/JEval)](https://github.com/QAInsights/JEval) - A Python-based utility which evaluates JMeter test plan and provides recommendations and best practices by analyzing each element.
 - [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
-- [jmx.js](https://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files ����.
+- [jmx.js](https://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files 💀.
 
 ### Utilities
 
