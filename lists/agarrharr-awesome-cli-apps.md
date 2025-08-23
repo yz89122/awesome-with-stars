@@ -205,6 +205,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [ipfs-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/agentofuser/ipfs-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/agentofuser/ipfs-deploy)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/ipfs)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge ![GitHub Repo Stars](https://img.shields.io/github/stars/brandonweiss/discharge) ![GitHub last commit](https://img.shields.io/github/last-commit/brandonweiss/discharge)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli ![GitHub Repo Stars](https://img.shields.io/github/stars/updatecli/updatecli) ![GitHub last commit](https://img.shields.io/github/last-commit/updatecli/updatecli)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+- [s5cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/peak/s5cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/peak/s5cmd)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
 ### Docker
 
