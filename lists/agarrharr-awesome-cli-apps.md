@@ -501,6 +501,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rename-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jhotmann/node-rename-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jhotmann/node-rename-cli)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 - [diskonaut ![GitHub Repo Stars](https://img.shields.io/github/stars/imsnif/diskonaut) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/diskonaut)](https://github.com/imsnif/diskonaut) - Disk space navigator.
+- [dua-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Byron/dua-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Byron/dua-cli)](https://github.com/Byron/dua-cli) - Disk usage analizer.  View disk space usage and delete unwanted data, fast.
 
 ### Files
 
