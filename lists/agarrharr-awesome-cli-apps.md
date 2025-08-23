@@ -212,6 +212,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [dockly ![GitHub Repo Stars](https://img.shields.io/github/stars/lirantal/dockly) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/dockly)](https://github.com/lirantal/dockly) - Interactively manage containers.
 - [lazydocker ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazydocker) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazydocker)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm ![GitHub Repo Stars](https://img.shields.io/github/stars/christian-korneck/docker-pushrm) ![GitHub last commit](https://img.shields.io/github/last-commit/christian-korneck/docker-pushrm)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+- [ctop ![GitHub Repo Stars](https://img.shields.io/github/stars/bcicen/ctop) ![GitHub last commit](https://img.shields.io/github/last-commit/bcicen/ctop)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 
 ### Release
 
