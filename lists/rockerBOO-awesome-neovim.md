@@ -1074,6 +1074,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [mahyarmirrashed/famous-quotes.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mahyarmirrashed/famous-quotes.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mahyarmirrashed/famous-quotes.nvim)](https://github.com/mahyarmirrashed/famous-quotes.nvim) - Get famous quotes from history to display on startup.
 - [toggleword.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iquzart/toggleword.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iquzart/toggleword.nvim)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 - [johannww/tts.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/johannww/tts.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/johannww/tts.nvim)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
+- [piersolenski/brewfile.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/brewfile.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/brewfile.nvim)](https://github.com/piersolenski/brewfile.nvim) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 
 ### CSV Files
 
