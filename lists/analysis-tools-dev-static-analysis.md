@@ -730,7 +730,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [JSPrime](https://dpnishant.github.io/jsprime) :warning: — Static security analysis tool.
 
-- [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+- [NodeJSScan](https://opensecurity.in) ��� A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 - [plato ![GitHub Repo Stars](https://img.shields.io/github/stars/es-analysis/plato) ![GitHub last commit](https://img.shields.io/github/last-commit/es-analysis/plato)](https://github.com/es-analysis/plato) :warning: — Visualize JavaScript source complexity.
 
