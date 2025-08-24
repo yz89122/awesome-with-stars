@@ -1,26 +1,15 @@
 <!--lint disable remark-lint:awesome-badge-->
 
-#
-
-<!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
-
-<pre style="display: inline-block; text-align: left;">
- █████┐ ██┐    ██┐███████┐███████┐ ██████┐ ███┐   ███┐███████┐
-██┌──██┐██│    ██│██┌────┘██┌────┘██┌───██┐████┐ ████│██┌────┘
-███████│██│ █┐ ██│█████┐  ███████┐██│   ██│██┌████┌██│█████┐
-██┌──██│██│███┐██│██┌──┘  └────██│██│   ██│██│└██┌┘██│██┌──┘
-██│  ██│└███┌███┌┘███████┐███████│└██████┌┘██│ └─┘ ██│███████┐
-└─┘  └─┘ └──┘└──┘ └──────┘└──────┘ └─────┘ └─┘     └─┘└──────┘
-
- ────────────────────────────────────────────────────────────────────────────────────
-
- ██████┐██┐      █████┐ ██┐   ██┐██████┐ ███████┐     ██████┐ ██████┐ ██████┐ ███████┐
-██┌────┘██│     ██┌──██┐██│   ██│██┌──██┐██┌────┘    ██┌────┘██┌───██┐██┌──██┐██┌────┘
-██│     ██│     ███████│██│   ██│██│  ██│█████┐      ██│     ██│   ██│██│  ██│█████┐
-██│     ██│     ██┌──██│██│   ██│██│  ██│██┌──┘      ██│     ██│   ██│██│  ██│██┌──┘
-└██████┐███████┐██│  ██│└██████┌┘██████┌┘███████┐    └██████┐└██████┌┘██████┌┘███████┐
- └─────┘└──────┘└─┘  └─┘ └─────┘ └─────┘ └──────┘     └─────┘ └─────┘ └─────┘ └──────┘
-</pre>
+<!-- Responsive Logo with Theme Support -->
+<div align="center">
+  
+  <!-- Same ASCII art for all screen sizes, just scales down on mobile -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/logo-light.svg" alt="Awesome Claude Code" width="100%" style="max-width: 900px;">
+  </picture>
+  
+</div>
 
 <!--lint enable remark-lint:awesome-badge-->
 
@@ -200,7 +189,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 [`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
-[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
+[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;��️&nbsp;&nbsp;NOASSERTION  
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 [`Claude Task Runner` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-task-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-task-runner)](https://github.com/grahama1970/claude-task-runner) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)    
@@ -316,7 +305,7 @@ Guides development using Test-Driven Development principles, enforcing Red-Green
 
 ### Context Loading & Priming
 
-[`/context-prime` ![GitHub Repo Stars](https://img.shields.io/github/stars/elizaOS/elizaos.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/elizaOS/elizaos.github.io)](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) &nbsp; by &nbsp; [elizaOS](https://github.com/elizaOS)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/context-prime` ![GitHub Repo Stars](https://img.shields.io/github/stars/elizaOS/elizaos.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/elizaOS/elizaos.github.io)](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) &nbsp; by &nbsp; [elizaOS](https://github.com/elizaOS)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.
 
 [`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) &nbsp; by &nbsp; [okuvshynov](https://github.com/okuvshynov)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
