@@ -760,7 +760,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
 
-#### Spółdzielnia Ogniwo
+#### Sp��łdzielnia Ogniwo
 
 > Friendly cooperative bookstore cafe in the Kazimierz district. On offer coffees and teas from independed producents from all around the world.
 
