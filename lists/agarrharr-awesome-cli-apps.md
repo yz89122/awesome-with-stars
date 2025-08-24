@@ -599,6 +599,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [bash-git-prompt ![GitHub Repo Stars](https://img.shields.io/github/stars/magicmonty/bash-git-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/magicmonty/bash-git-prompt)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 
 ### GitHub
@@ -645,7 +646,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Graphics
 
 - [cli-mandelbrot ![GitHub Repo Stars](https://img.shields.io/github/stars/danyshaanan/cli-mandelbrot) ![GitHub last commit](https://img.shields.io/github/last-commit/danyshaanan/cli-mandelbrot)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-- [sparkly-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sparkly-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sparkly-cli)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂���..
+- [sparkly-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/sparkly-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/sparkly-cli)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/pastel) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/pastel)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 - [lowcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/juan-leon/lowcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/juan-leon/lowcharts)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
