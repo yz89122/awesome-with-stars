@@ -920,6 +920,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Rits1272/riff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Rits1272/riff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Rits1272/riff.nvim)](https://github.com/Rits1272/riff.nvim) - Search and stream songs right inside your editor — discoverable with Telescope, played through mpv, and managed with simple commands. Fast, minimal, and theme-agnostic.
 - [neo451/feed.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neo451/feed.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neo451/feed.nvim)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, atom, json feed).
 - [vyfor/cord.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vyfor/cord.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vyfor/cord.nvim)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
+- [iamt4nk/smm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iamt4nk/smm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iamt4nk/smm.nvim)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
 
 <!--lint disable double-link -->
 
