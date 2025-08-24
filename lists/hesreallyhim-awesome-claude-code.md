@@ -56,17 +56,14 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`TypeScript Quality Hooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/bartolli/claude-code-typescript-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/bartolli/claude-code-typescript-hooks)](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
+
 [`ccflare` ![GitHub Repo Stars](https://img.shields.io/github/stars/snipeship/ccflare) ![GitHub last commit](https://img.shields.io/github/last-commit/snipeship/ccflare)](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 
 [`Laravel TALL Stack AI Development Starter Kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/tott/laravel-tall-claude-ai-configs) ![GitHub last commit](https://img.shields.io/github/last-commit/tott/laravel-tall-claude-ai-configs)](https://github.com/tott/laravel-tall-claude-ai-configs) &nbsp; by &nbsp; [tott](https://github.com/tott)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
-
-[`claude-powerline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/claude-powerline) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/claude-powerline)](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
-
-[`ccstatusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline) ![GitHub last commit](https://img.shields.io/github/last-commit/sirmalloc/ccstatusline)](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 
 
 ## Contents
@@ -88,7 +85,7 @@ A highly customizable status line formatter for Claude Code CLI that displays mo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Language-Specific](#language-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Domain-Specific](#domain-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Scaffolding & MCP](#project-scaffolding--mcp)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation-)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation-%EF%B8%8F)  
 
 <br>
 
@@ -242,6 +239,9 @@ Nice set of hooks for enforcing code quality (linting, testing, notifications), 
 [`TDD Guard` ![GitHub Repo Stars](https://img.shields.io/github/stars/nizos/tdd-guard) ![GitHub last commit](https://img.shields.io/github/last-commit/nizos/tdd-guard)](https://github.com/nizos/tdd-guard) &nbsp; by &nbsp; [Nizar Selander](https://github.com/nizos)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.
 
+[`TypeScript Quality Hooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/bartolli/claude-code-typescript-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/bartolli/claude-code-typescript-hooks)](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
+
 <br>
 
 ## Slash-Commands 🔪
@@ -260,7 +260,7 @@ Automates git commit process by selecting the first suggested message, generatin
 [`/create-pr` ![GitHub Repo Stars](https://img.shields.io/github/stars/toyamarinyon/giselle) ![GitHub last commit](https://img.shields.io/github/last-commit/toyamarinyon/giselle)](https://github.com/toyamarinyon/giselle/blob/main/.claude/commands/create-pr.md) &nbsp; by &nbsp; [toyamarinyon](https://github.com/toyamarinyon)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.
 
-[`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
+[`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;��️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
 [`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -439,7 +439,7 @@ Details workflow for REPL-driven development in Clojure/ClojureScript with empha
 [`SG Cars Trends Backend` ![GitHub Repo Stars](https://img.shields.io/github/stars/sgcarstrends/backend) ![GitHub last commit](https://img.shields.io/github/last-commit/sgcarstrends/backend)](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) &nbsp; by &nbsp; [sgcarstrends](https://github.com/sgcarstrends)    
 Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.
 
-[`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.
 
 [`TPL` ![GitHub Repo Stars](https://img.shields.io/github/stars/KarpelesLab/tpl) ![GitHub last commit](https://img.shields.io/github/last-commit/KarpelesLab/tpl)](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md) &nbsp; by &nbsp; [KarpelesLab](https://github.com/KarpelesLab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
