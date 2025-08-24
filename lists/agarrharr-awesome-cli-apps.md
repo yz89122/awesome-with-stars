@@ -254,6 +254,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [HTTP Prompt ![GitHub Repo Stars](https://img.shields.io/github/stars/eliangcs/http-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/eliangcs/http-prompt)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain ![GitHub Repo Stars](https://img.shields.io/github/stars/jonaslu/ain) ![GitHub last commit](https://img.shields.io/github/last-commit/jonaslu/ain)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie ![GitHub Repo Stars](https://img.shields.io/github/stars/rs/curlie) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/curlie)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+- [ATAC ![GitHub Repo Stars](https://img.shields.io/github/stars/Julien-cpsn/ATAC) ![GitHub last commit](https://img.shields.io/github/last-commit/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
 
 ## Productivity
 

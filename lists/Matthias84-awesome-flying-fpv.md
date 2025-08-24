@@ -236,7 +236,7 @@ Global Navigation Systems like GPS allow to determine the current position of yo
 * [rtklib](https://www.rtklib.com) - Software toolchain to increase precision of GNSS signals by applying realtime or post-processing to eliminate interferences. Signals recorded by SDR or some commercial GPS modules.
 * [Vicon MavLink ![GitHub Repo Stars](https://img.shields.io/github/stars/bo-rc/ViconMAVLink) ![GitHub last commit](https://img.shields.io/github/last-commit/bo-rc/ViconMAVLink)](https://github.com/bo-rc/ViconMAVLink) - Get indoor positioning via commercial optical systems for a whole drone swarm.
 
-## Sensors ����️
+## Sensors 🌡️
 
 A drone uses more sensors like compass, barometer, airspeed or current to increase position estimation, or to show the system performance
 
@@ -376,7 +376,7 @@ Malfunction can have dramatic consequences, as well as your drone can cause mass
 
 * [Ardupilot Copter Checklist](https://ardupilot.org/copter/docs/checklist.html).
 
-### ID Systems ��
+### ID Systems 🛂
 
 We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.
 
