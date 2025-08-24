@@ -49,6 +49,9 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`claudekit` ![GitHub Repo Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit) ![GitHub last commit](https://img.shields.io/github/last-commit/carlrannaberg/claudekit)](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
+
 [`TypeScript Quality Hooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/bartolli/claude-code-typescript-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/bartolli/claude-code-typescript-hooks)](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
 
@@ -141,6 +144,9 @@ A webhook service that connects Claude Code to GitHub repositories, enabling AI-
 
 [`claude-code-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pchalasani/claude-code-tools)](https://github.com/pchalasani/claude-code-tools) &nbsp; by &nbsp; [Prasad Chalasani](https://github.com/pchalasani)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A collection of awesome tools, including tmux integrations, better session management, hooks that enhance security - a really well-done set of Claude Code enhancers, especially for tmux users.
+
+[`claudekit` ![GitHub Repo Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit) ![GitHub last commit](https://img.shields.io/github/last-commit/carlrannaberg/claudekit)](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
 
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
@@ -264,7 +270,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 [`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
-[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
+[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
 
 [`/fix-github-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremymailen/kotlinter-gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremymailen/kotlinter-gradle)](https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md) &nbsp; by &nbsp; [jeremymailen](https://github.com/jeremymailen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
