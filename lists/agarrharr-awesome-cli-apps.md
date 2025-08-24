@@ -495,6 +495,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clifm ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-arch/clifm) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-arch/clifm)](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l ![GitHub Repo Stars](https://img.shields.io/github/stars/elfmz/far2l) ![GitHub last commit](https://img.shields.io/github/last-commit/elfmz/far2l)](https://github.com/elfmz/far2l) - Orthodox file manager.
 - [yazi ![GitHub Repo Stars](https://img.shields.io/github/stars/sxyazi/yazi) ![GitHub last commit](https://img.shields.io/github/last-commit/sxyazi/yazi)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+- [xplr ![GitHub Repo Stars](https://img.shields.io/github/stars/sayanarijit/xplr) ![GitHub last commit](https://img.shields.io/github/last-commit/sayanarijit/xplr)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Deleting, Copying, and Renaming
 
@@ -505,7 +506,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rename-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jhotmann/node-rename-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jhotmann/node-rename-cli)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 - [diskonaut ![GitHub Repo Stars](https://img.shields.io/github/stars/imsnif/diskonaut) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/diskonaut)](https://github.com/imsnif/diskonaut) - Disk space navigator.
-- [dua-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Byron/dua-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Byron/dua-cli)](https://github.com/Byron/dua-cli) - Disk usage analizer.  View disk space usage and delete unwanted data, fast.
+- [dua-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Byron/dua-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Byron/dua-cli)](https://github.com/Byron/dua-cli) - Disk usage analyzer.
 
 ### Files
 
@@ -591,6 +592,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
 
 ### GitHub
 

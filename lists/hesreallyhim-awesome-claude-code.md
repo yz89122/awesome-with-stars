@@ -11,6 +11,10 @@
   
 </div>
 
+<!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7080D&random=true&width=435&lines=Fumigating...;Gallivanting...;Matriculating...;Toodleedoodling...;Goo-goo-g'joob-ing...;Excaliburating...;Canoodling...;Doing+the+humpty+dance...;Shiver-me-timbers-ing...;Becoming+sentient...;Opening+the+pod+bay+doors...;Rimraf-ing;23-skidoo-ing)](https://git.io/typing-svg)
+
 <!--lint enable remark-lint:awesome-badge-->
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -189,7 +193,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 [`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
-[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;��️&nbsp;&nbsp;NOASSERTION  
+[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 [`Claude Task Runner` ![GitHub Repo Stars](https://img.shields.io/github/stars/grahama1970/claude-task-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/grahama1970/claude-task-runner)](https://github.com/grahama1970/claude-task-runner) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)    
@@ -260,7 +264,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 [`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
-[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
 Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
 
 [`/fix-github-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremymailen/kotlinter-gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremymailen/kotlinter-gradle)](https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md) &nbsp; by &nbsp; [jeremymailen](https://github.com/jeremymailen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
@@ -305,7 +309,7 @@ Guides development using Test-Driven Development principles, enforcing Red-Green
 
 ### Context Loading & Priming
 
-[`/context-prime` ![GitHub Repo Stars](https://img.shields.io/github/stars/elizaOS/elizaos.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/elizaOS/elizaos.github.io)](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) &nbsp; by &nbsp; [elizaOS](https://github.com/elizaOS)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`/context-prime` ![GitHub Repo Stars](https://img.shields.io/github/stars/elizaOS/elizaos.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/elizaOS/elizaos.github.io)](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) &nbsp; by &nbsp; [elizaOS](https://github.com/elizaOS)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.
 
 [`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) &nbsp; by &nbsp; [okuvshynov](https://github.com/okuvshynov)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
