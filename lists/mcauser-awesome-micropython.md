@@ -291,6 +291,9 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ntpclient ![GitHub Repo Stars](https://img.shields.io/github/stars/wieck/micropython-ntpclient) ![GitHub last commit](https://img.shields.io/github/last-commit/wieck/micropython-ntpclient)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 * [micropython-ntp ![GitHub Repo Stars](https://img.shields.io/github/stars/ekondayan/micropython-ntp) ![GitHub last commit](https://img.shields.io/github/last-commit/ekondayan/micropython-ntp)](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
 
+#### Object Storage
+* [uminio ![GitHub Repo Stars](https://img.shields.io/github/stars/paluigi/uminio) ![GitHub last commit](https://img.shields.io/github/last-commit/paluigi/uminio)](https://github.com/paluigi/uminio) - MicroPython library to upload files into a MinIO object storage server.
+
 #### OneWire
 
 * [Official OneWire ![GitHub Repo Stars](https://img.shields.io/github/stars/micropython/micropython-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/micropython/micropython-lib)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) - For devices using the OneWire bus, eg Dallas DS18x20.
@@ -973,6 +976,7 @@ Other places you can look for MicroPython Libraries:
 * [veml7700 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/veml7700) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/veml7700)](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 * [opt3001 ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/opt3001) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/opt3001)](https://github.com/octaprog7/opt3001) - MicroPython module for OPT3001, external lighting sensor from Texas Instruments.
 * [ltr390uv ![GitHub Repo Stars](https://img.shields.io/github/stars/octaprog7/ltr390uv) ![GitHub last commit](https://img.shields.io/github/last-commit/octaprog7/ltr390uv)](https://github.com/octaprog7/ltr390uv) - MicroPython module for LTR390UV, ambient light sensor in the visible and ultraviolet ranges.
+* [bh1750.py ![GitHub Repo Stars](https://img.shields.io/github/stars/adyavanapalli/bh1750.py) ![GitHub last commit](https://img.shields.io/github/last-commit/adyavanapalli/bh1750.py)](https://github.com/adyavanapalli/bh1750.py) - MicroPython BH1750 ambient light sensor driver.
 
 #### Load Cell
 
