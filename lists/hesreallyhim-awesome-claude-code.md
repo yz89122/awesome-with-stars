@@ -49,6 +49,9 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Claude Code Templates` ![GitHub Repo Stars](https://img.shields.io/github/stars/davila7/claude-code-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/davila7/claude-code-templates)](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
+
 [`claudekit` ![GitHub Repo Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit) ![GitHub last commit](https://img.shields.io/github/last-commit/carlrannaberg/claudekit)](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
 
@@ -136,6 +139,9 @@ Interactive CLI tool for discovering and managing Claude Code configuration file
 [`cclogviewer` ![GitHub Repo Stars](https://img.shields.io/github/stars/Brads3290/cclogviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Brads3290/cclogviewer)](https://github.com/Brads3290/cclogviewer) &nbsp; by &nbsp; [Brad S.](https://github.com/Brads3290)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
 
+[`Claude Code Templates` ![GitHub Repo Stars](https://img.shields.io/github/stars/davila7/claude-code-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/davila7/claude-code-templates)](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
+
 [`Claude Composer` ![GitHub Repo Stars](https://img.shields.io/github/stars/possibilities/claude-composer) ![GitHub last commit](https://img.shields.io/github/last-commit/possibilities/claude-composer)](https://github.com/possibilities/claude-composer) &nbsp; by &nbsp; [Mike Bannister](https://github.com/possibilities)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Unlicense  
 A tool that adds small enhancements to Claude Code.
 
@@ -190,7 +196,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 
 ### Orchestrators
 
-[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
 [`Claude Squad` ![GitHub Repo Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad) ![GitHub last commit](https://img.shields.io/github/last-commit/smtg-ai/claude-squad)](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
