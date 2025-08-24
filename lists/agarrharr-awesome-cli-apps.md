@@ -64,6 +64,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Files and Directories](#files-and-directories)
   - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
+  - [Disk Usage](#disk-usage)
   - [Files](#files)
   - [File Sync/Sharing](#file-syncsharing)
   - [Directory Listing](#directory-listing)
@@ -505,15 +506,21 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cpy-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/cpy-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/cpy-cli)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jhotmann/node-rename-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jhotmann/node-rename-cli)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+
+### Disk Usage
+
 - [diskonaut ![GitHub Repo Stars](https://img.shields.io/github/stars/imsnif/diskonaut) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/diskonaut)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 - [dua-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Byron/dua-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Byron/dua-cli)](https://github.com/Byron/dua-cli) - Disk usage analyzer.
+- [duf ![GitHub Repo Stars](https://img.shields.io/github/stars/muesli/duf) ![GitHub last commit](https://img.shields.io/github/last-commit/muesli/duf)](https://github.com/muesli/duf) - A better `df` alternative.
+- [dust ![GitHub Repo Stars](https://img.shields.io/github/stars/bootandy/dust) ![GitHub last commit](https://img.shields.io/github/last-commit/bootandy/dust)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
+- [dutree ![GitHub Repo Stars](https://img.shields.io/github/stars/nachoparker/dutree) ![GitHub last commit](https://img.shields.io/github/last-commit/nachoparker/dutree)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Files
 
 - [chokidar-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/open-cli-tools/chokidar-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/open-cli-tools/chokidar-cli)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/file-type-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/file-type-cli)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 - [bat ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/bat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
-- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [unix-permissions ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/unix-permissions) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/unix-permissions)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [webtorrent-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/webtorrent-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/webtorrent-cli)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
@@ -565,7 +572,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fd ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkdp/fd) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/fd)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot ![GitHub Repo Stars](https://img.shields.io/github/stars/Canop/broot) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare ![GitHub Repo Stars](https://img.shields.io/github/stars/zix99/rare) ![GitHub last commit](https://img.shields.io/github/last-commit/zix99/rare)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
-- [skim ![GitHub Repo Stars](https://img.shields.io/github/stars/lotabout/skim) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+- [skim ![GitHub Repo Stars](https://img.shields.io/github/stars/lotabout/skim) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim)](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 - [ast-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/ast-grep/ast-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/ast-grep/ast-grep)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 - [television ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpasmantier/television) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpasmantier/television)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
@@ -592,7 +599,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
-- [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
+- [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 
 ### GitHub
 
