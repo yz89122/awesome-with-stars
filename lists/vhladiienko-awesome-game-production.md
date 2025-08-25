@@ -138,7 +138,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [Altshift Steam Market Study template](https://docs.google.com/spreadsheets/d/1tcfsNVI4x-T-Fq8gNCjiNVutB-pol2Awn6fscoZ2c-Q/edit?gid=0#gid=0) - Another template to help you analyze your competitors and calculate your potential sales numbers. Ideally, use this in combination with other templates mentioned aboe to refine your guesstimations.
 - [Statistical PERT](https://www.statisticalpert.com/) - A <a name="pert"></a>set of Excel templates to help estimate and forecast a project, and hopefully make an educated decision when needed.
 
-## �� Subscriptions
+## ��� Subscriptions
 
 To stay up-to-date, consider subscribing to all or some of the below resources. These are not production related (as in Project Management), but as a producer, you kinda want to know a little bit about everything in gamedev. So pick your poison.
 
