@@ -411,7 +411,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Algebraic Statistics
 * 📝 [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
-* �� [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
+* 📝 [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
 * 📝 [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
 * 📝 [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - Pachter, and Sturmfels.
 
@@ -507,7 +507,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
-* 📝 [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
+* ���� [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
 * 📝 [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
 
 ### Ordinary Differential Equations
@@ -578,7 +578,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
-* �� [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
+* 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * 📝 [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 * 📝 [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
