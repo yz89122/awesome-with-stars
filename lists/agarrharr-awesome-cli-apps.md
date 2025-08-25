@@ -368,6 +368,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [JackPaper ![GitHub Repo Stars](https://img.shields.io/github/stars/jackel27/jackpaper) ![GitHub last commit](https://img.shields.io/github/last-commit/jackel27/jackpaper)](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
 - [QuickWall ![GitHub Repo Stars](https://img.shields.io/github/stars/deepjyoti30/QuickWall) ![GitHub last commit](https://img.shields.io/github/last-commit/deepjyoti30/QuickWall)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
+- [starship ![GitHub Repo Stars](https://img.shields.io/github/stars/starship/starship) ![GitHub last commit](https://img.shields.io/github/last-commit/starship/starship)](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
 
 ### Shell Utilities
 
