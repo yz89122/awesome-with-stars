@@ -507,7 +507,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
-* 📝 [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
+* ���� [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
 * 📝 [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
 
 ### Ordinary Differential Equations
@@ -600,7 +600,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
 * 📝 [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 * 📝 [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey
-* 📝 [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - ��yvind Ryan (University of Oslo)
+* 📝 [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
 
 
 ## Mathematics for Computer Science
