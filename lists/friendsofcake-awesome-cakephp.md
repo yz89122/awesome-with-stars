@@ -128,7 +128,7 @@ Additional lists you might find useful:
 - [DebugKit plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/debug_kit) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/debug_kit)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [Execution order ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/executionorder) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/executionorder)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Sentry plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lordsimal/cakephp-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/lordsimal/cakephp-sentry)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
-- [Setup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+- [Setup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
 ## Email
 *Plugins for sending and parsing email.*
