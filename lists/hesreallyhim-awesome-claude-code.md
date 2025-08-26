@@ -196,7 +196,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 
 ### Orchestrators
 
-[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
 [`Claude Squad` ![GitHub Repo Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad) ![GitHub last commit](https://img.shields.io/github/last-commit/smtg-ai/claude-squad)](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
@@ -518,7 +518,7 @@ Offers comprehensive development guides for three distinct AI-powered demo proje
 Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
 
 
-## Contributing 🌻
+## Contributing ���
 
 ### 🚀 **[Submit a new resource here! ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
 
