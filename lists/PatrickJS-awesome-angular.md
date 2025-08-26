@@ -1866,6 +1866,7 @@ to simplify usage and allow quick customization.
 * [kage-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/sanjib-kumar-mandal/kage-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/sanjib-kumar-mandal/kage-ui)](https://github.com/sanjib-kumar-mandal/kage-ui) - A lightweight, flexible Angular component library inspired by border-first design systems. It offers a clean set of reusable UI components to help developers build scalable and consistent user interfaces effortlessly.
 * [quix-quang ![GitHub Repo Stars](https://img.shields.io/github/stars/quix-it/quix-quang) ![GitHub last commit](https://img.shields.io/github/last-commit/quix-it/quix-quang)](https://github.com/quix-it/quix-quang) - Angular component and utility library developed by [Quix Srl](https://www.quixconsulting.com/).
 * [ngx-vflow ![GitHub Repo Stars](https://img.shields.io/github/stars/artem-mangilev/ngx-vflow) ![GitHub last commit](https://img.shields.io/github/last-commit/artem-mangilev/ngx-vflow)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+* [ship-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shipuicom/core) ![GitHub last commit](https://img.shields.io/github/last-commit/shipuicom/core)](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
 
 ### UI Libraries built on Bootstrap
 
