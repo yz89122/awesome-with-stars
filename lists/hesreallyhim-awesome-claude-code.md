@@ -518,7 +518,7 @@ Offers comprehensive development guides for three distinct AI-powered demo proje
 Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
 
 
-## Contributing ���
+## Contributing 🌻
 
 ### 🚀 **[Submit a new resource here! ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
 
