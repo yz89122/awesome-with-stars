@@ -277,7 +277,7 @@
 - [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
-- [**讲解 Vue.js 2 官网 中文-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs2-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs2-learn)](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
+- [**讲解 Vue.js 2 官网 中��-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs2-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs2-learn)](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 - [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on `Metric Loop`
 - [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex) on `Metric Loop`
@@ -439,7 +439,7 @@
 - [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) - Free course on Vue 3 with intuitive explanations from Vue Mastery
 - [Developing a web application with Vue.js 3 and Vite.js (French)](https://mickael-baron.fr/web/vuejs-miseenoeuvre-part2) par Mickael Baron
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
-- [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
+- [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sar��
 - [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
