@@ -273,7 +273,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Python CMS Framework Review: Wagtail vs Django-CMS](https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/) - Talk about the difference between Django-CMS and Wagtail, the two most popular CMS framework in Python world.
 - [Deploying Wagtail In Production](https://vix.digital/insights/deploying-wagtail-production/)
 - [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
-- [Upgrading to Wagtail 2.0](https://wagtail.org/blog/upgrading-to-wagtail-2/) �� Wagtail 2.0 is one of our biggest releases to date.
+- [Upgrading to Wagtail 2.0](https://wagtail.org/blog/upgrading-to-wagtail-2/) – Wagtail 2.0 is one of our biggest releases to date.
 - [Getting started with Draftail extensions](https://thib.me/getting-started-with-draftail-extensions) – Do you want to write extensions for Draftail? This is a good place to start.
 - [Amplify a Wagtail/Django site](https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html) - Prepare you Wagtail site for Accelerated Mobile Pages (AMP).
 - [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
@@ -344,12 +344,12 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) by Chris Adams.
 - [[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067) by Thibaud Colas.
 - [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
-- [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
+- [Slack2Wagtail ��� Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
 - [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
 - [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/fourdigits/wagtail_textract) ![GitHub last commit](https://img.shields.io/github/last-commit/fourdigits/wagtail_textract)](https://github.com/fourdigits/wagtail_textract).
 - [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
 - [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/LUKKIEN/wagtail-marketing-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/LUKKIEN/wagtail-marketing-addons)](https://github.com/LUKKIEN/wagtail-marketing-addons).
-- [My First Wagtail Contribution �� More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
+- [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) by Brian Smith & Eric Sherman. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
@@ -367,7 +367,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [A New Approach to Multitenant Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=WN0L4YNrWes) by Stephanie C. Smith and Addison Hardy.
 - [The Wagtail Marketplace for Games-based Courses - Wagtail Space 2022](https://www.youtube.com/watch?v=ueou6CxiR3Y) by Sarah Toms.
 - [The Wagtail Ecosystem - Wagtail Space US 2022](https://www.youtube.com/watch?v=4Qd43nsxmoc) by Vince Salvino.
-- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.
+- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) by Sævar Öfj��rð Magnússon & Arnar Tumi Þorsteinsson.
 - [Wagtail as a headless CMS for JavaScript frontends - Wagtail Space US 2022](https://www.youtube.com/watch?v=bYRQ492BED0) by Tommaso Amici.
 - [Adding a GraphQL API to Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=_O5isU354vg) by Patrick Arminio.
 - [Bringing JSONField into Wagtail Core - Wagtail Space US 2022](https://www.youtube.com/watch?v=XtazMDNdlK8) by Sage Abdullah.
