@@ -196,7 +196,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 
 ### Orchestrators
 
-[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
 [`Claude Squad` ![GitHub Repo Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad) ![GitHub last commit](https://img.shields.io/github/last-commit/smtg-ai/claude-squad)](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
@@ -422,7 +422,7 @@ Provides comprehensive Gradle commands for IntelliJ plugin development with plat
 [`AWS MCP Server` ![GitHub Repo Stars](https://img.shields.io/github/stars/alexei-led/aws-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/alexei-led/aws-mcp-server)](https://github.com/alexei-led/aws-mcp-server/blob/main/CLAUDE.md) &nbsp; by &nbsp; [alexei-led](https://github.com/alexei-led)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Features multiple Python environment setup options with detailed code style guidelines, comprehensive error handling recommendations, and security considerations for AWS CLI interactions.
 
-[`DroidconKotlin` ![GitHub Repo Stars](https://img.shields.io/github/stars/touchlab/DroidconKotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/touchlab/DroidconKotlin)](https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [touchlab](https://github.com/touchlab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
+[`DroidconKotlin` ![GitHub Repo Stars](https://img.shields.io/github/stars/touchlab/DroidconKotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/touchlab/DroidconKotlin)](https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [touchlab](https://github.com/touchlab)  &nbsp;&nbsp;��️&nbsp;&nbsp;Apache-2.0  
 Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.
 
 [`EDSL` ![GitHub Repo Stars](https://img.shields.io/github/stars/expectedparrot/edsl) ![GitHub last commit](https://img.shields.io/github/last-commit/expectedparrot/edsl)](https://github.com/expectedparrot/edsl/blob/main/CLAUDE.md) &nbsp; by &nbsp; [expectedparrot](https://github.com/expectedparrot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
