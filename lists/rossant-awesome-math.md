@@ -124,6 +124,7 @@ All resources are freely available except those with a 💲 icon.
 * [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
+* [MathFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/Nonanti/MathFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/Nonanti/MathFlow)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
 * [Unit Converter](https://unitconverters.net)
 * [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
@@ -404,7 +405,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * 📝 [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
 * 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
-* 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
+* ��� [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * 📝 [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
 * 📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
