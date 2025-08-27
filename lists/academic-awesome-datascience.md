@@ -583,6 +583,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [LIME ![GitHub Repo Stars](https://img.shields.io/github/stars/marcotcr/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/marcotcr/lime)](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [zasper ![GitHub Repo Stars](https://img.shields.io/github/stars/zasper-io/zasper) ![GitHub last commit](https://img.shields.io/github/last-commit/zasper-io/zasper)](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
 | [skrub ![GitHub Repo Stars](https://img.shields.io/github/stars/skrub-data/skrub) ![GitHub last commit](https://img.shields.io/github/last-commit/skrub-data/skrub)](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
+| [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
+
 
 
 
