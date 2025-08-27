@@ -346,7 +346,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
   * [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
   * [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
-  * [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.
+  * [Supportivekoala](https://supportivekoala.com/) �� Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.
   * [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
   * [Tavily AI](https://tavily.com/) - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
   * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
