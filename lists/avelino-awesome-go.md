@@ -512,7 +512,7 @@ _Libraries for configuration parsing._
 - [yamagiconf ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/yamagiconf) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/yamagiconf)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 - [zerocfg ![GitHub Repo Stars](https://img.shields.io/github/stars/chaindead/zerocfg) ![GitHub last commit](https://img.shields.io/github/last-commit/chaindead/zerocfg)](https://github.com/chaindead/zerocfg) - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Continuous Integration
 
