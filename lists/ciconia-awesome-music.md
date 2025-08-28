@@ -45,6 +45,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## Audio Tools
 
+* [Auralytics ![GitHub Repo Stars](https://img.shields.io/github/stars/WengYiNing/Auralytics) ![GitHub last commit](https://img.shields.io/github/last-commit/WengYiNing/Auralytics)](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia ![GitHub Repo Stars](https://img.shields.io/github/stars/belangeo/cecilia5) ![GitHub last commit](https://img.shields.io/github/last-commit/belangeo/cecilia5)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 * [cyanrip ![GitHub Repo Stars](https://img.shields.io/github/stars/atomnuker/cyanrip) ![GitHub last commit](https://img.shields.io/github/last-commit/atomnuker/cyanrip)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
