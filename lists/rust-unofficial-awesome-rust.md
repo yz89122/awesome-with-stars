@@ -1572,7 +1572,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [Pumpkin ![GitHub Repo Stars](https://img.shields.io/github/stars/pumpkin-mc/pumpkin) ![GitHub last commit](https://img.shields.io/github/last-commit/pumpkin-mc/pumpkin)](https://github.com/pumpkin-mc/pumpkin) - A high-performance Minecraft server Software fully written in Rust
 * [Raylib](https://www.raylib.com/)
   * [deltaphc/raylib-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/deltaphc/raylib-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/deltaphc/raylib-rs)](https://github.com/deltaphc/raylib-rs) [[raylib](https://crates.io/crates/raylib)] - Bindings for raylib
-* [SDL](http://www.libsdl.org/) [[sdl](https://crates.io/keywords/sdl)]
+* [SDL](https://www.libsdl.org/) [[sdl](https://crates.io/keywords/sdl)]
   * [brson/rust-sdl ![GitHub Repo Stars](https://img.shields.io/github/stars/brson/rust-sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/brson/rust-sdl)](https://github.com/brson/rust-sdl) - SDL1 bindings
   * [Rust-SDL2/rust-sdl2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Rust-SDL2/rust-sdl2) ![GitHub last commit](https://img.shields.io/github/last-commit/Rust-SDL2/rust-sdl2)](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings
 * SFML
