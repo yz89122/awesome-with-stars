@@ -350,6 +350,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp ![GitHub Repo Stars](https://img.shields.io/github/stars/spolu/warp) ![GitHub last commit](https://img.shields.io/github/last-commit/spolu/warp)](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [xxh ![GitHub Repo Stars](https://img.shields.io/github/stars/xxh/xxh) ![GitHub last commit](https://img.shields.io/github/last-commit/xxh/xxh)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### Network Utilities
 
@@ -384,6 +385,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fastfetch ![GitHub Repo Stars](https://img.shields.io/github/stars/fastfetch-cli/fastfetch) ![GitHub last commit](https://img.shields.io/github/last-commit/fastfetch-cli/fastfetch)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 - [battery-level-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/gillstrom/battery-level-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/gillstrom/battery-level-cli)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/brightness-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/brightness-cli)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows ![GitHub Repo Stars](https://img.shields.io/github/stars/sondreb/win-brightness) ![GitHub last commit](https://img.shields.io/github/last-commit/sondreb/win-brightness)](https://github.com/sondreb/win-brightness)).
+- [Clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Slackadays/Clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Slackadays/Clipboard)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
 - [yank ![GitHub Repo Stars](https://img.shields.io/github/stars/mptre/yank) ![GitHub last commit](https://img.shields.io/github/last-commit/mptre/yank)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver ![GitHub Repo Stars](https://img.shields.io/github/stars/gillstrom/screensaver) ![GitHub last commit](https://img.shields.io/github/last-commit/gillstrom/screensaver)](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer ![GitHub Repo Stars](https://img.shields.io/github/stars/lordgiotto/google-font-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/lordgiotto/google-font-installer)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
