@@ -2145,19 +2145,10 @@ _Official tooling for dependency and package management_
 
 _Unofficial libraries for package and dependency management._
 
-- [glide ![GitHub Repo Stars](https://img.shields.io/github/stars/Masterminds/glide) ![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/glide)](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
-- [godep ![GitHub Repo Stars](https://img.shields.io/github/stars/tools/godep) ![GitHub last commit](https://img.shields.io/github/last-commit/tools/godep)](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
-- [goop ![GitHub Repo Stars](https://img.shields.io/github/stars/nitrous-io/goop) ![GitHub last commit](https://img.shields.io/github/last-commit/nitrous-io/goop)](https://github.com/nitrous-io/goop) - Simple dependency manager for Go (golang), inspired by Bundler.
-- [gop ![GitHub Repo Stars](https://img.shields.io/github/stars/lunny/gop) ![GitHub last commit](https://img.shields.io/github/last-commit/lunny/gop)](https://github.com/lunny/gop) - Build and manage your Go applications out of GOPATH.
-- [gopm ![GitHub Repo Stars](https://img.shields.io/github/stars/gpmgo/gopm) ![GitHub last commit](https://img.shields.io/github/last-commit/gpmgo/gopm)](https://github.com/gpmgo/gopm) - Go Package Manager.
-- [govendor ![GitHub Repo Stars](https://img.shields.io/github/stars/kardianos/govendor) ![GitHub last commit](https://img.shields.io/github/last-commit/kardianos/govendor)](https://github.com/kardianos/govendor) - Go Package Manager. Go vendor tool that works with the standard vendor file.
-- [gpm ![GitHub Repo Stars](https://img.shields.io/github/stars/pote/gpm) ![GitHub last commit](https://img.shields.io/github/last-commit/pote/gpm)](https://github.com/pote/gpm) - Barebones dependency manager for Go.
 - [gup ![GitHub Repo Stars](https://img.shields.io/github/stars/nao1215/gup) ![GitHub last commit](https://img.shields.io/github/last-commit/nao1215/gup)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
-- [johnny-deps ![GitHub Repo Stars](https://img.shields.io/github/stars/VividCortex/johnny-deps) ![GitHub last commit](https://img.shields.io/github/last-commit/VividCortex/johnny-deps)](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
-- [modgv ![GitHub Repo Stars](https://img.shields.io/github/stars/lucasepe/modgv) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasepe/modgv)](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language.
+- [modup ![GitHub Repo Stars](https://img.shields.io/github/stars/chaindead/modup) ![GitHub last commit](https://img.shields.io/github/last-commit/chaindead/modup)](https://github.com/chaindead/modup) - Terminal UI for Go dependency updates with outdated module detection and selective upgrading.
 - [mvn-golang ![GitHub Repo Stars](https://img.shields.io/github/stars/raydac/mvn-golang) ![GitHub last commit](https://img.shields.io/github/last-commit/raydac/mvn-golang)](https://github.com/raydac/mvn-golang) - plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure.
 - [syft ![GitHub Repo Stars](https://img.shields.io/github/stars/anchore/syft) ![GitHub last commit](https://img.shields.io/github/last-commit/anchore/syft)](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
-- [VenGO ![GitHub Repo Stars](https://img.shields.io/github/stars/DamnWidget/VenGO) ![GitHub last commit](https://img.shields.io/github/last-commit/DamnWidget/VenGO)](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
 **[⬆ back to top](#contents)**
 
