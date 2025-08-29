@@ -248,7 +248,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive, and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
-- [Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/ocaml-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/ocaml-jupyter)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
+- [Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/akabe/ocaml-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/akabe/ocaml-jupyter)](https://github.com/akabe/ocaml-jupyter) �� An OCaml kernel for the Jupyter notebook.
 - [utop ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-community/utop) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-community/utop)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
 - [ocamlformat ![GitHub Repo Stars](https://img.shields.io/github/stars/ocaml-ppx/ocamlformat) ![GitHub last commit](https://img.shields.io/github/last-commit/ocaml-ppx/ocamlformat)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
@@ -485,7 +485,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc ![GitHub Repo Stars](https://img.shields.io/github/stars/MyLifeLabs/nproc) ![GitHub last commit](https://img.shields.io/github/last-commit/MyLifeLabs/nproc)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
   - [Parany ![GitHub Repo Stars](https://img.shields.io/github/stars/UnixJunkie/parany) ![GitHub last commit](https://img.shields.io/github/last-commit/UnixJunkie/parany)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
-  - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
+  - [Sklml](http://sklml.inria.fr) ��� Functional parallel skeleton compiler and programming system for OCaml programs.
   - [SPOC ![GitHub Repo Stars](https://img.shields.io/github/stars/mathiasbourgoin/SPOC) ![GitHub last commit](https://img.shields.io/github/last-commit/mathiasbourgoin/SPOC)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
 - **Articles**:
