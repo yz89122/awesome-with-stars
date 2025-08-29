@@ -671,7 +671,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format) — Reformats Java source code to comply with Google Java Style
 
-- [HuntBugs ![GitHub Repo Stars](https://img.shields.io/github/stars/amaembo/huntbugs) ![GitHub last commit](https://img.shields.io/github/last-commit/amaembo/huntbugs)](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
+- [HuntBugs ![GitHub Repo Stars](https://img.shields.io/github/stars/amaembo/huntbugs) ![GitHub last commit](https://img.shields.io/github/last-commit/amaembo/huntbugs)](https://github.com/amaembo/huntbugs) :warning: �� Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — Comes bundled with a lot of inspections for Java and Kotlin and includes tools for refactoring, formatting and more.
 
@@ -771,7 +771,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [ktfmt](https://facebook.github.io/ktfmt/) — A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
 A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.
 
-- [ktlint](https://ktlint.github.io) — An anti-bikeshedding Kotlin linter with built-in formatter.
+- [ktlint](https://ktlint.github.io) �� An anti-bikeshedding Kotlin linter with built-in formatter.
 
 
 <a name="lua" />
