@@ -359,6 +359,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [acmetool ![GitHub Repo Stars](https://img.shields.io/github/stars/hlandau/acmetool) ![GitHub last commit](https://img.shields.io/github/last-commit/hlandau/acmetool)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/certificate-ripper)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/neoss) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/neoss)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+- [gg ![GitHub Repo Stars](https://img.shields.io/github/stars/mzz2017/gg) ![GitHub last commit](https://img.shields.io/github/last-commit/mzz2017/gg)](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
 - [sshuttle ![GitHub Repo Stars](https://img.shields.io/github/stars/sshuttle/sshuttle) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuttle/sshuttle)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
