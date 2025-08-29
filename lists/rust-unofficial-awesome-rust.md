@@ -124,6 +124,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Applications
 
 * [alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/alacritty/alacritty) ![GitHub last commit](https://img.shields.io/github/last-commit/alacritty/alacritty)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+* [Andromeda ![GitHub Repo Stars](https://img.shields.io/github/stars/tryandromeda/andromeda) ![GitHub last commit](https://img.shields.io/github/last-commit/tryandromeda/andromeda)](https://github.com/tryandromeda/andromeda) - JavaScript & TypeScript runtime built from the ground up in Rust 🦀 and powered by The Nova Engine.
 * [Arti](https://gitlab.torproject.org/tpo/core/arti) - An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 * [asm-cli-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/cch123/asm-cli-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/cch123/asm-cli-rust)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
 * [clash-verge-rev/clash-verge-rev ![GitHub Repo Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev) ![GitHub last commit](https://img.shields.io/github/last-commit/clash-verge-rev/clash-verge-rev)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
