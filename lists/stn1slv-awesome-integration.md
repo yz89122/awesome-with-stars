@@ -161,7 +161,7 @@ System integration is the process of linking together different IT systems (com
    - [Taurus (⭐2k) ![GitHub Repo Stars](https://img.shields.io/github/stars/Blazemeter/taurus) ![GitHub last commit](https://img.shields.io/github/last-commit/Blazemeter/taurus)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 <!--lint enable-->
 ### BRE
 *Business Rules Engines and Business Rules Management Systems (BRMS) are software systems that allow organizations to define, manage, and execute business rules. These rules are used to automate decision-making processes, enforce business policies, and ensure regulatory compliance. A BRMS provides a way for organizations to centrally manage their business rules and make changes to them quickly and easily, without requiring changes to the underlying code. It is a valuable tool for businesses that need to be agile and respond quickly to changing market conditions.*
