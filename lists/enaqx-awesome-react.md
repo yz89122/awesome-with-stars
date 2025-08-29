@@ -55,21 +55,23 @@ A collection of awesome things regarding the React ecosystem.
 #### React Frameworks
 
 - [next ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js) - The React Framework
-- [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [gatsby ![GitHub Repo Stars](https://img.shields.io/github/stars/gatsbyjs/gatsby) ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
+- [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [react-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/react-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine ![GitHub Repo Stars](https://img.shields.io/github/stars/refinedev/refine) ![GitHub last commit](https://img.shields.io/github/last-commit/refinedev/refine)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+- [vike ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike)](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative 
 
 #### React Component Libraries
 
 - [material-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/mui/material-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mui/material-ui)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [ant-design ![GitHub Repo Stars](https://img.shields.io/github/stars/ant-design/ant-design) ![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [shadcn-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn-ui/ui)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [chakra-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui)](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
+- [mantine ![GitHub Repo Stars](https://img.shields.io/github/stars/mantinedev/mantine) ![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine)](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [fluentui ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/fluentui) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7 ![GitHub Repo Stars](https://img.shields.io/github/stars/framework7io/framework7) ![GitHub last commit](https://img.shields.io/github/last-commit/framework7io/framework7)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit ![GitHub Repo Stars](https://img.shields.io/github/stars/ariakit/ariakit) ![GitHub last commit](https://img.shields.io/github/last-commit/ariakit/ariakit)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [mantine ![GitHub Repo Stars](https://img.shields.io/github/stars/mantinedev/mantine) ![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine)](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-email ![GitHub Repo Stars](https://img.shields.io/github/stars/resend/react-email) ![GitHub last commit](https://img.shields.io/github/last-commit/resend/react-email)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 
 #### React State Management and Data Fetching
@@ -102,7 +104,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Development Tools
 
-- [create-react-app ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel ![GitHub Repo Stars](https://img.shields.io/github/stars/parcel-bundler/parcel) ![GitHub last commit](https://img.shields.io/github/last-commit/parcel-bundler/parcel)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [million ![GitHub Repo Stars](https://img.shields.io/github/stars/aidenybai/million) ![GitHub last commit](https://img.shields.io/github/last-commit/aidenybai/million)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
@@ -155,10 +156,9 @@ A collection of awesome things regarding the React ecosystem.
 #### React Forms
 
 - [react-hook-form ![GitHub Repo Stars](https://img.shields.io/github/stars/react-hook-form/react-hook-form) ![GitHub last commit](https://img.shields.io/github/last-commit/react-hook-form/react-hook-form)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
-- [formik ![GitHub Repo Stars](https://img.shields.io/github/stars/jaredpalmer/formik) ![GitHub last commit](https://img.shields.io/github/last-commit/jaredpalmer/formik)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
 - [react-jsonschema-form ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla-services/react-jsonschema-form) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla-services/react-jsonschema-form)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/formily) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/formily)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-- [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - Declarative validations framework
+- [tanstack-form ![GitHub Repo Stars](https://img.shields.io/github/stars/TanStack/form) ![GitHub last commit](https://img.shields.io/github/last-commit/TanStack/form)](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
 #### React Tables and Grids
 
@@ -216,6 +216,7 @@ A collection of awesome things regarding the React ecosystem.
 - [webamp ![GitHub Repo Stars](https://img.shields.io/github/stars/captbaritone/webamp) ![GitHub last commit](https://img.shields.io/github/last-commit/captbaritone/webamp)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted ![GitHub Repo Stars](https://img.shields.io/github/stars/gaearon/overreacted.io) ![GitHub last commit](https://img.shields.io/github/last-commit/gaearon/overreacted.io)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave ![GitHub Repo Stars](https://img.shields.io/github/stars/wavetermdev/waveterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wavetermdev/waveterm)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [readest ![GitHub Repo Stars](https://img.shields.io/github/stars/readest/readest) ![GitHub last commit](https://img.shields.io/github/last-commit/readest/readest)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 
 ### React Native
 
