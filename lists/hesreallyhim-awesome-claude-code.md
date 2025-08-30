@@ -49,6 +49,9 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`cchistory` ![GitHub Repo Stars](https://img.shields.io/github/stars/eckardt/cchistory) ![GitHub last commit](https://img.shields.io/github/last-commit/eckardt/cchistory)](https://github.com/eckardt/cchistory) &nbsp; by &nbsp; [eckardt](https://github.com/eckardt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.
+
 [`Happy Coder` ![GitHub Repo Stars](https://img.shields.io/github/stars/slopus/happy) ![GitHub last commit](https://img.shields.io/github/last-commit/slopus/happy)](https://github.com/slopus/happy) &nbsp; by &nbsp; [GrocerPublishAgent](https://peoplesgrocers.com/en/projects)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.
 
@@ -133,6 +136,9 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 [`ccexp` ![GitHub Repo Stars](https://img.shields.io/github/stars/nyatinte/ccexp) ![GitHub last commit](https://img.shields.io/github/last-commit/nyatinte/ccexp)](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
+[`cchistory` ![GitHub Repo Stars](https://img.shields.io/github/stars/eckardt/cchistory) ![GitHub last commit](https://img.shields.io/github/last-commit/eckardt/cchistory)](https://github.com/eckardt/cchistory) &nbsp; by &nbsp; [eckardt](https://github.com/eckardt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.
+
 [`cclogviewer` ![GitHub Repo Stars](https://img.shields.io/github/stars/Brads3290/cclogviewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Brads3290/cclogviewer)](https://github.com/Brads3290/cclogviewer) &nbsp; by &nbsp; [Brad S.](https://github.com/Brads3290)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
 
@@ -199,7 +205,7 @@ This mode serves as a code-first orchestration layer, enabling Claude to write, 
 [`Claude Squad` ![GitHub Repo Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad) ![GitHub last commit](https://img.shields.io/github/last-commit/smtg-ai/claude-squad)](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
 Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 
-[`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
 [`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
@@ -327,7 +333,7 @@ Primes Claude with comprehensive project understanding by loading repository str
 [`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) &nbsp; by &nbsp; [okuvshynov](https://github.com/okuvshynov)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
 
-[`/load-llms-txt` ![GitHub Repo Stars](https://img.shields.io/github/stars/ethpandaops/xatu-data) ![GitHub last commit](https://img.shields.io/github/last-commit/ethpandaops/xatu-data)](https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md) &nbsp; by &nbsp; [ethpandaops](https://github.com/ethpandaops)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`/load-llms-txt` ![GitHub Repo Stars](https://img.shields.io/github/stars/ethpandaops/xatu-data) ![GitHub last commit](https://img.shields.io/github/last-commit/ethpandaops/xatu-data)](https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md) &nbsp; by &nbsp; [ethpandaops](https://github.com/ethpandaops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.
 
 [`/load_coo_context` ![GitHub Repo Stars](https://img.shields.io/github/stars/Mjvolk3/torchcell) ![GitHub last commit](https://img.shields.io/github/last-commit/Mjvolk3/torchcell)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_coo_context.md) &nbsp; by &nbsp; [Mjvolk3](https://github.com/Mjvolk3)    
