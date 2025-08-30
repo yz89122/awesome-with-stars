@@ -171,6 +171,7 @@ _Tables and data grids._
 - [svelte-generic-table-pager ![GitHub Repo Stars](https://img.shields.io/github/stars/ivosdc/svelte-generic-table-pager) ![GitHub last commit](https://img.shields.io/github/last-commit/ivosdc/svelte-generic-table-pager)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 - [powertable ![GitHub Repo Stars](https://img.shields.io/github/stars/muonw/powertable) ![GitHub last commit](https://img.shields.io/github/last-commit/muonw/powertable)](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
 - [svelte-pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/jjagielka/svelte-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/jjagielka/svelte-pivottable)](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
+- [SVAR DataGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/grid) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/grid)](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling. 
 - [svelte-datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/svelte-datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/svelte-datagrid)](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview ![GitHub Repo Stars](https://img.shields.io/github/stars/WJSoftware/wjfe-dataview) ![GitHub last commit](https://img.shields.io/github/last-commit/WJSoftware/wjfe-dataview)](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
 
@@ -226,6 +227,7 @@ _Display non-editable events in a calendar._
 - [svelte-frappe-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/himynameisdave/svelte-frappe-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/himynameisdave/svelte-frappe-charts)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 - [Layer Cake ![GitHub Repo Stars](https://img.shields.io/github/stars/mhkeller/layercake) ![GitHub last commit](https://img.shields.io/github/last-commit/mhkeller/layercake)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart ![GitHub Repo Stars](https://img.shields.io/github/stars/techniq/layerchart) ![GitHub last commit](https://img.shields.io/github/last-commit/techniq/layerchart)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+- [SVAR Gantt Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/gantt) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/gantt)](https://github.com/svar-widgets/gantt) - An interactive, customizable Gantt chart component written in Svelte
 
 ### Graphs
 
@@ -233,6 +235,7 @@ _Display non-editable events in a calendar._
 
 ### Miscellaneous
 
+- [number-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/barvian/number-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/barvian/number-flow)](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
 - [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
 - [svelte-tree-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/kpulkit29/svelte-tree-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/kpulkit29/svelte-tree-viewer)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright ![GitHub Repo Stars](https://img.shields.io/github/stars/himynameisdave/svelte-copyright) ![GitHub last commit](https://img.shields.io/github/last-commit/himynameisdave/svelte-copyright)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
@@ -255,6 +258,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/code-gio/svelte-docs-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/code-gio/svelte-docs-starter)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/phaserjs/template-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/phaserjs/template-svelte)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
+- [generic-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GantonL/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/GantonL/templates)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more. 
 
 ## Utilities
 
@@ -262,10 +266,12 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter ![GitHub Repo Stars](https://img.shields.io/github/stars/henriquehbr/svelte-typewriter) ![GitHub last commit](https://img.shields.io/github/last-commit/henriquehbr/svelte-typewriter)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+- [moving-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/jis3r/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/jis3r/icons)](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
 
 ### Drag & Drop
 
 - [neodrag ![GitHub Repo Stars](https://img.shields.io/github/stars/PuruVJ/neodrag) ![GitHub last commit](https://img.shields.io/github/last-commit/PuruVJ/neodrag)](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍.
+- sveltednd(https://github.com/thisuxhq/sveltednd) - A lightweight, flexible drag and drop library for Svelte 5 applications.
 
 ### Forms
 
