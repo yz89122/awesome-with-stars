@@ -518,7 +518,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Digital Art Museum - Berlin/Germany](http://dam.org) - Digital Art Museum is an **online** resource for the history and practice of digital fine art.
 - [NXT Museum - Amsterdam/Netherlands](https://nxtmuseum.com) - The first museum in the Netherlands dedicated to new media art.
 
-## Schools ��� Workshops
+## Schools • Workshops
 
 - [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - Graduate program in London which develops your arts practice through the expressive world of creative computation
 - [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - school in London working at the intersection of creativity and computational technologies
