@@ -1870,6 +1870,7 @@ to simplify usage and allow quick customization.
 * [quix-quang ![GitHub Repo Stars](https://img.shields.io/github/stars/quix-it/quix-quang) ![GitHub last commit](https://img.shields.io/github/last-commit/quix-it/quix-quang)](https://github.com/quix-it/quix-quang) - Angular component and utility library developed by [Quix Srl](https://www.quixconsulting.com/).
 * [ngx-vflow ![GitHub Repo Stars](https://img.shields.io/github/stars/artem-mangilev/ngx-vflow) ![GitHub last commit](https://img.shields.io/github/last-commit/artem-mangilev/ngx-vflow)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 * [ship-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shipuicom/core) ![GitHub last commit](https://img.shields.io/github/last-commit/shipuicom/core)](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
+* [slateui ![GitHub Repo Stars](https://img.shields.io/github/stars/angularcafe/slateui) ![GitHub last commit](https://img.shields.io/github/last-commit/angularcafe/slateui)](https://github.com/angularcafe/slateui) - A modern, accessible UI component library that provides directive-based components built with Angular primitives, Tailwind CSS, and signals.
 
 ### UI Libraries built on Bootstrap
 
