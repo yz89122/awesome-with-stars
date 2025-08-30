@@ -199,7 +199,7 @@ This mode serves as a code-first orchestration layer, enabling Claude to write, 
 [`Claude Squad` ![GitHub Repo Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad) ![GitHub last commit](https://img.shields.io/github/last-commit/smtg-ai/claude-squad)](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
 Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 
-[`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
 [`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
@@ -327,7 +327,7 @@ Primes Claude with comprehensive project understanding by loading repository str
 [`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) &nbsp; by &nbsp; [okuvshynov](https://github.com/okuvshynov)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
 
-[`/load-llms-txt` ![GitHub Repo Stars](https://img.shields.io/github/stars/ethpandaops/xatu-data) ![GitHub last commit](https://img.shields.io/github/last-commit/ethpandaops/xatu-data)](https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md) &nbsp; by &nbsp; [ethpandaops](https://github.com/ethpandaops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/load-llms-txt` ![GitHub Repo Stars](https://img.shields.io/github/stars/ethpandaops/xatu-data) ![GitHub last commit](https://img.shields.io/github/last-commit/ethpandaops/xatu-data)](https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md) &nbsp; by &nbsp; [ethpandaops](https://github.com/ethpandaops)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.
 
 [`/load_coo_context` ![GitHub Repo Stars](https://img.shields.io/github/stars/Mjvolk3/torchcell) ![GitHub last commit](https://img.shields.io/github/last-commit/Mjvolk3/torchcell)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_coo_context.md) &nbsp; by &nbsp; [Mjvolk3](https://github.com/Mjvolk3)    
