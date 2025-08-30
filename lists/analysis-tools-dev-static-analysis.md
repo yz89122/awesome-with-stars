@@ -254,7 +254,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Helix QAC](https://www.perforce.com/products/helix-qac) :copyright: — Enterprise-grade static analysis for embedded software. Supports MISRA, CERT, and AUTOSAR coding standards.
 
-- [IKOS ![GitHub Repo Stars](https://img.shields.io/github/stars/nasa-sw-vnv/ikos) ![GitHub last commit](https://img.shields.io/github/last-commit/nasa-sw-vnv/ikos)](https://github.com/nasa-sw-vnv/ikos) — A sound static analyzer for C/C++ code based on LLVM.
+- [IKOS ![GitHub Repo Stars](https://img.shields.io/github/stars/nasa-sw-vnv/ikos) ![GitHub last commit](https://img.shields.io/github/last-commit/nasa-sw-vnv/ikos)](https://github.com/nasa-sw-vnv/ikos) ��� A sound static analyzer for C/C++ code based on LLVM.
 
 - [Joern](https://joern.io) — Open-source code analysis platform for C/C++ based on code property graphs
 
