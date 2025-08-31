@@ -109,7 +109,6 @@ Choose what you find more suitable for you:
 - [bsnes ![GitHub Repo Stars](https://img.shields.io/github/stars/bsnes-emu/bsnes) ![GitHub last commit](https://img.shields.io/github/last-commit/bsnes-emu/bsnes)](https://github.com/bsnes-emu/bsnes) - SNES Emulator.
 - [Dolphin ![GitHub Repo Stars](https://img.shields.io/github/stars/dolphin-emu/dolphin) ![GitHub last commit](https://img.shields.io/github/last-commit/dolphin-emu/dolphin)](https://github.com/dolphin-emu/dolphin) - Gamecube/Wii Emulator.
 - [DeSmuME ![GitHub Repo Stars](https://img.shields.io/github/stars/TASEmulators/desmume) ![GitHub last commit](https://img.shields.io/github/last-commit/TASEmulators/desmume)](https://github.com/TASEmulators/desmume) - Nintendo DS Emulator.
-- [Ryujinx ![GitHub Repo Stars](https://img.shields.io/github/stars/Ryujinx/Ryujinx) ![GitHub last commit](https://img.shields.io/github/last-commit/Ryujinx/Ryujinx)](https://github.com/Ryujinx/Ryujinx) - Nintendo Switch Emulator.
 - [xemu ![GitHub Repo Stars](https://img.shields.io/github/stars/xemu-project/xemu) ![GitHub last commit](https://img.shields.io/github/last-commit/xemu-project/xemu)](https://github.com/xemu-project/xemu) - Xbox Emulator.
 
 ## Launcher
@@ -158,7 +157,6 @@ Choose what you find more suitable for you:
 - [Steam Deck Group](https://t.me/steamdecktalk) - Telegram chinese community.
 - [Steam Deck Чат](https://t.me/steamdeckschat) - Telegram russian community.
 - [protondb.com](https://protondb.com) - Official ProtonDB site with games reviews and compatibility lists.
-- [Steam Deck Community](https://steamdeck.community/) - An independent community.
 - [Steam Deck Discord](https://discord.com/channels/865611969661632521/) - A Discord community.
 - [Steam Deck Italia](https://www.facebook.com/groups/340493584341055/) - Facebook italian group.
 - [Steam Deck](https://www.facebook.com/groups/steamdeck/) - Facebook english group.
