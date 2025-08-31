@@ -275,7 +275,7 @@ Meteo
 
 ### Charts
 
-- [Circular Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/xqwzts/flutter_circular_chart) ![GitHub last commit](https://img.shields.io/github/last-commit/xqwzts/flutter_circular_chart)](https://github.com/xqwzts/flutter_circular_chart) [398⭐] - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
+- [Circular Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/xqwzts/flutter_circular_chart) ![GitHub last commit](https://img.shields.io/github/last-commit/xqwzts/flutter_circular_chart)](https://github.com/xqwzts/flutter_circular_chart) [398���] - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
 - [FL Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/imaNNeoFighT/fl_chart) ![GitHub last commit](https://img.shields.io/github/last-commit/imaNNeoFighT/fl_chart)](https://github.com/imaNNeoFighT/fl_chart) [6741⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 - [Bezier Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/aeyrium/bezier-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/aeyrium/bezier-chart)](https://github.com/aeyrium/bezier-chart) [446⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 - [Echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/entronad/flutter_echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/entronad/flutter_echarts)](https://github.com/entronad/flutter_echarts) [739⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
