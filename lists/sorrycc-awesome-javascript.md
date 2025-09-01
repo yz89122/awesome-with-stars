@@ -77,6 +77,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [SDK](#sdk)
   * [ORM](#orm)
   * [WebSockets](#websockets)
+  * [Generative AI](#generative-ai) 
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -1044,6 +1045,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Socket.io ![GitHub Repo Stars](https://img.shields.io/github/stars/socketio/socket.io) ![GitHub last commit](https://img.shields.io/github/last-commit/socketio/socket.io)](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
 * [ws ![GitHub Repo Stars](https://img.shields.io/github/stars/websockets/ws) ![GitHub last commit](https://img.shields.io/github/last-commit/websockets/ws)](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+
+## Generative AI
+
+* [KaibanJS ![GitHub Repo Stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS) ![GitHub last commit](https://img.shields.io/github/last-commit/kaiban-ai/KaibanJS)](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
 
 ## Misc
 
