@@ -573,7 +573,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### C#
 - 📚 [Dot Net Perls](https://www.dotnetperls.com) - Reference for the C# language.
 - C#: App Framework
-    - ��� [ATF ![GitHub Repo Stars](https://img.shields.io/github/stars/SonyWWS/ATF) ![GitHub last commit](https://img.shields.io/github/last-commit/SonyWWS/ATF)](https://github.com/SonyWWS/ATF) - Components for making tools on Windows, started in 2005.
+    - 🎉 [ATF ![GitHub Repo Stars](https://img.shields.io/github/stars/SonyWWS/ATF) ![GitHub last commit](https://img.shields.io/github/last-commit/SonyWWS/ATF)](https://github.com/SonyWWS/ATF) - Components for making tools on Windows, started in 2005.
 - C#: Audio
     - 🎉 [NAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/naudio/NAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/naudio/NAudio)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
@@ -724,7 +724,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
     - 🎉 [INSTEAD ![GitHub Repo Stars](https://img.shields.io/github/stars/instead-hub/instead) ![GitHub last commit](https://img.shields.io/github/last-commit/instead-hub/instead)](https://github.com/instead-hub/instead) - Simple Text Adventure Interpreter.
-    - 🎉 [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
+    - ��� [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
 
 ### Java
 - 📚 [Awesome Java ![GitHub Repo Stars](https://img.shields.io/github/stars/akullpp/awesome-java) ![GitHub last commit](https://img.shields.io/github/last-commit/akullpp/awesome-java)](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
