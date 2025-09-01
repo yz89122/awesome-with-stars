@@ -1079,7 +1079,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Profiler and Optimization
 
-* [batch-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/exaspark/batch-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/exaspark/batch-loader)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+* [batch-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/exaspark/batch-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/exaspark/batch-loader)](https://github.com/exaspark/batch-loader) ��� A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips ![GitHub Repo Stars](https://img.shields.io/github/stars/evanphx/benchmark-ips) ![GitHub last commit](https://img.shields.io/github/last-commit/evanphx/benchmark-ips)](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/flyerhzm/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/flyerhzm/bullet)](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ![GitHub Repo Stars](https://img.shields.io/github/stars/schneems/derailed_benchmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/schneems/derailed_benchmarks)](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
