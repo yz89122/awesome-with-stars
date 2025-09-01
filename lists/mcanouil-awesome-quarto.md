@@ -94,6 +94,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/) - This blog post explains which settings to use to compile an Epub for Leanpub and a print-ready PDF for Amazon's self-publishing service (KDP).
 - [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
 - [Seven Tips for Creating Quarto Reveal.js Presentations](https://remlapmot.github.io/post/2025/quarto-revealjs-tips/) - A blog post showing few tips on how to customise Reveal.js slides with R/knitr, HTML/CSS, and Quarto native options.
+- [Creating effectively multi-engine Quarto documents using Quarto's embed shortcode](https://remlapmot.github.io/post/2025/multi-engine-quarto/) - A blog post describing how to use the embed shortcode to show code and execute its output from different languages/engines in the same document.
 
 ## Talks and videos
 
@@ -218,6 +219,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [mlr3book ![GitHub Repo Stars](https://img.shields.io/github/stars/mlr-org/mlr3book) ![GitHub last commit](https://img.shields.io/github/last-commit/mlr-org/mlr3book)](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 - [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
 - [Python for Data Analysis, 3E ![GitHub Repo Stars](https://img.shields.io/github/stars/wesm/pydata-book) ![GitHub last commit](https://img.shields.io/github/last-commit/wesm/pydata-book)](https://github.com/wesm/pydata-book) - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+- [Network Science: Models, Mathematics, and Computation ![GitHub Repo Stars](https://img.shields.io/github/stars/network-science-notes/network-science-notes.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/network-science-notes/network-science-notes.github.io)](https://github.com/network-science-notes/network-science-notes.github.io) - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 
 ### Other formats
 

@@ -230,7 +230,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - �� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -475,7 +475,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Diligent Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/DiligentGraphics/DiligentEngine)](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform graphics API abstraction library.
     - 🎉 [Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/strah19/Ember) ![GitHub last commit](https://img.shields.io/github/last-commit/strah19/Ember)](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
     - 🎉 [Filament ![GitHub Repo Stars](https://img.shields.io/github/stars/google/filament) ![GitHub last commit](https://img.shields.io/github/last-commit/google/filament)](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by _Google_.
-    - ��� [Forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ConfettiFX/The-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ConfettiFX/The-Forge)](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
+    - 🎉 [Forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ConfettiFX/The-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ConfettiFX/The-Forge)](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
     - 🎉 [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.
     - 🎉 [Intermediate Graphics Library (IGL) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/igl) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/igl)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/LLGL) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/LLGL)](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
@@ -698,7 +698,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [HaxeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/haxeui/haxeui-core) ![GitHub last commit](https://img.shields.io/github/last-commit/haxeui/haxeui-core)](https://github.com/haxeui/haxeui-core) - Cross-platform set of styleable gui components.
     - 🎉 [Zui ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/zui) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/zui)](https://github.com/armory3d/zui) - Immediate mode user interface, used in _ArmorPaint_.
 - Haxe: Libraries
-    - ���� [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
+    - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
     - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: Physics
@@ -724,7 +724,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
     - 🎉 [INSTEAD ![GitHub Repo Stars](https://img.shields.io/github/stars/instead-hub/instead) ![GitHub last commit](https://img.shields.io/github/last-commit/instead-hub/instead)](https://github.com/instead-hub/instead) - Simple Text Adventure Interpreter.
-    - 🎉 [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
+    - ��� [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
 
 ### Java
 - 📚 [Awesome Java ![GitHub Repo Stars](https://img.shields.io/github/stars/akullpp/awesome-java) ![GitHub last commit](https://img.shields.io/github/last-commit/akullpp/awesome-java)](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
