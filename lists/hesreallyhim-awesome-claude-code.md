@@ -49,20 +49,14 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Claude Code PM` ![GitHub Repo Stars](https://img.shields.io/github/stars/automazeio/ccpm) ![GitHub last commit](https://img.shields.io/github/last-commit/automazeio/ccpm)](https://github.com/automazeio/ccpm) &nbsp; by &nbsp; [Ran Aroussi](https://github.com/ranaroussi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.
+
 [`cchistory` ![GitHub Repo Stars](https://img.shields.io/github/stars/eckardt/cchistory) ![GitHub last commit](https://img.shields.io/github/last-commit/eckardt/cchistory)](https://github.com/eckardt/cchistory) &nbsp; by &nbsp; [eckardt](https://github.com/eckardt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.
 
 [`Happy Coder` ![GitHub Repo Stars](https://img.shields.io/github/stars/slopus/happy) ![GitHub last commit](https://img.shields.io/github/last-commit/slopus/happy)](https://github.com/slopus/happy) &nbsp; by &nbsp; [GrocerPublishAgent](https://peoplesgrocers.com/en/projects)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.
-
-[`Claude Code Templates` ![GitHub Repo Stars](https://img.shields.io/github/stars/davila7/claude-code-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/davila7/claude-code-templates)](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
-
-[`claudekit` ![GitHub Repo Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit) ![GitHub last commit](https://img.shields.io/github/last-commit/carlrannaberg/claudekit)](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
-
-[`TypeScript Quality Hooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/bartolli/claude-code-typescript-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/bartolli/claude-code-typescript-hooks)](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
 
 
 ## Contents
@@ -96,6 +90,9 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 
 [`Blogging Platform Instructions` ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudartisan/cloudartisan.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudartisan/cloudartisan.github.io)](https://github.com/cloudartisan/cloudartisan.github.io/tree/main/.claude/commands) &nbsp; by &nbsp; [cloudartisan](https://github.com/cloudartisan)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;CC-BY-SA-4.0  
 Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.
+
+[`Claude Code PM` ![GitHub Repo Stars](https://img.shields.io/github/stars/automazeio/ccpm) ![GitHub last commit](https://img.shields.io/github/last-commit/automazeio/ccpm)](https://github.com/automazeio/ccpm) &nbsp; by &nbsp; [Ran Aroussi](https://github.com/ranaroussi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.
 
 [`ClaudeLog`](https://claudelog.com) &nbsp; by &nbsp; [InventorBlack](https://www.reddit.com/user/inventor_black/)    
 A comprehensive knowledge base with detailed breakdowns of advanced [mechanics](https://claudelog.com/mechanics/you-are-the-main-thread/) including [CLAUDE.md best practices](https://claudelog.com/mechanics/claude-md-supremacy), practical technique guides like [plan mode](https://claudelog.com/mechanics/plan-mode), [ultrathink](https://claudelog.com/faqs/what-is-ultrathink/), [sub-agents](https://claudelog.com/mechanics/task-agent-tools/), [agent-first design](https://claudelog.com/mechanics/agent-first-design/) and [configuration guides](https://claudelog.com/configuration).
