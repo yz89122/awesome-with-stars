@@ -453,7 +453,7 @@
 
 <!--lint disable double-link -->
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 <!--lint enable double-link -->
 
@@ -480,6 +480,7 @@
 - [Beargruug/skipper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Beargruug/skipper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Beargruug/skipper.nvim)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
 - [mohseenrm/marko.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mohseenrm/marko.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mohseenrm/marko.nvim)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 - [y3owk1n/warp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/y3owk1n/warp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/y3owk1n/warp.nvim)](https://github.com/y3owk1n/warp.nvim) - Simple harpoon alternative that focuses on marking & navigating between files.
+- [walkersumida/fusen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/walkersumida/fusen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/walkersumida/fusen.nvim)](https://github.com/walkersumida/fusen.nvim) - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 <!--lint disable double-link -->
 
 **[⬆ back to top](#contents)**
