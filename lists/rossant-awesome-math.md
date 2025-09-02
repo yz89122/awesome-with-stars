@@ -242,7 +242,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Category Theory
 
-* 📝 [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
+* ��� [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
 * 📝 [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
 * 📝 [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (Carnegie Mellon University)
 * 📝 [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
