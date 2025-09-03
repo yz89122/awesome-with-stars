@@ -218,7 +218,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Julia
 
-- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners ��� Easy Ideas to Get Started Coding in Julia
+- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
 - [Julia Language: Good first issue ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Help wanted ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
