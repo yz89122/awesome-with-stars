@@ -639,7 +639,7 @@ https://twitter.com/aemkei
 Topics: CSS, JavaScript\
 https://twitter.com/PalmaSwell
 
-### H��chst im Odenwald
+### Höchst im Odenwald
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/TimPietrusky" height="70px" width="70px" align="left" alt="" />
 
