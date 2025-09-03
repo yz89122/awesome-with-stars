@@ -166,7 +166,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/data-science-methodology-2" target="_blank" rel="noopener noreferrer">Data Science Methodologies</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-methodologies" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">��</a>|
 | <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2" target="_blank" rel="noopener noreferrer">Data Science Tools</a> | IBM / Cognitive Class |Beginner|4| <a href="https://www.youracclaim.com/org/ibm/badge/data-science-tools" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/python-for-data-science" target="_blank" rel="noopener noreferrer">Python for Data Science</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/python-for-data-science" target="_blank" rel="noopener noreferrer">🏅</a>|
 
@@ -209,12 +209,12 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.elementsofai.com/" target="_blank" rel="noopener noreferrer">Elements of AI</a> | University of Helsinki | Beginner |30 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-ai-ethics" target="_blank" rel="noopener noreferrer">Intro to AI Ethics</a> | Kaggle | Intermediate | 4 | 🏆  |
-| <a href="https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning" target="_blank" rel="noopener noreferrer">Intro to Game AI and Reinforcement Learning</a> | Kaggle | Intermediate | 4 | 🏆 |
+| <a href="https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning" target="_blank" rel="noopener noreferrer">Intro to Game AI and Reinforcement Learning</a> | Kaggle | Intermediate | 4 | �� |
 | <a href="https://www.cloudskillsboost.google/course_templates/536" target="_blank" rel="noopener noreferrer">Introduction to Generative AI</a> | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
 | <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering" target="_blank" rel="noopener noreferrer">Foundations of Prompt Engineering</a> | Amazon | Intermediate | 4 | 🏆 |
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers" target="_blank" rel="noopener noreferrer">Generative AI for Decision Makers</a> | Amazon | Beginner| 3 | 🏆 |
 | <a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals" target="_blank" rel="noopener noreferrer">Generative AI Fundamentals</a> | Data Bricks |Beginner|0.5 | 🏅 |
-| <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | �� |
+| <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 | <a href="https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/" target="_blank" rel="noopener noreferrer">Prompt Engineering for Vision Models</a> | DeepLearning.AI & Comet | Beginner | 1.5 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -324,7 +324,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">Containers, K8s and Istio on IBM cloud</a> | IBM / Cognitive Class |Beginner|9 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">���</a>|
+| <a href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">Containers, K8s and Istio on IBM cloud</a> | IBM / Cognitive Class |Beginner|9 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/kubernetes-course" target="_blank" rel="noopener noreferrer">Introduction to Containers, Kubernetes, and OpenShift</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 
