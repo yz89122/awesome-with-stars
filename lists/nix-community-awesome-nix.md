@@ -79,22 +79,22 @@
 
 ### Discovery
 
+* [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
 * [nix-search-tv ![GitHub Repo Stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv) ![GitHub last commit](https://img.shields.io/github/last-commit/3timeslazy/nix-search-tv)](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
-* [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 * [NüschtOS Search ![GitHub Repo Stars](https://img.shields.io/github/stars/NuschtOS/search) ![GitHub last commit](https://img.shields.io/github/last-commit/NuschtOS/search)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
 * [Searchix](https://searchix.ovh/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
 
 ## Installation Media
 
+* [nix-installer-scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/dnkmmr69420/nix-installer-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/dnkmmr69420/nix-installer-scripts)](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
+* [nix-installer ![GitHub Repo Stars](https://img.shields.io/github/stars/DeterminateSystems/nix-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/DeterminateSystems/nix-installer)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 * [nixos-anywhere ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixos-anywhere) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixos-anywhere)](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH.
 * [nixos-generators ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixos-generators) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixos-generators)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 * [nixos-infect ![GitHub Repo Stars](https://img.shields.io/github/stars/elitak/nixos-infect) ![GitHub last commit](https://img.shields.io/github/last-commit/elitak/nixos-infect)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 * [nixos-up ![GitHub Repo Stars](https://img.shields.io/github/stars/samuela/nixos-up) ![GitHub last commit](https://img.shields.io/github/last-commit/samuela/nixos-up)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
-* [nix-installer ![GitHub Repo Stars](https://img.shields.io/github/stars/DeterminateSystems/nix-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/DeterminateSystems/nix-installer)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
-* [nix-installer-scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/dnkmmr69420/nix-installer-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/dnkmmr69420/nix-installer-scripts)](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
 
 ## Channel History
 
@@ -124,9 +124,10 @@
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## Virtualisation
-* [nixos-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/Mic92/nixos-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/Mic92/nixos-shell)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+
 * [extra-container ![GitHub Repo Stars](https://img.shields.io/github/stars/erikarvstedt/extra-container) ![GitHub last commit](https://img.shields.io/github/last-commit/erikarvstedt/extra-container)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
 * [microvm ![GitHub Repo Stars](https://img.shields.io/github/stars/microvm-nix/microvm.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/microvm-nix/microvm.nix)](https://github.com/microvm-nix/microvm.nix) - NixOS-based MicroVMs.
+* [nixos-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/Mic92/nixos-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/Mic92/nixos-shell)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## Command-Line Tools
 
@@ -138,8 +139,6 @@
 * [dix ![GitHub Repo Stars](https://img.shields.io/github/stars/faukah/dix) ![GitHub last commit](https://img.shields.io/github/last-commit/faukah/dix)](https://github.com/faukah/dix) - Diff Nix; a super-fast tool to diff Nix related things.
 * [manix ![GitHub Repo Stars](https://img.shields.io/github/stars/mlvzk/manix) ![GitHub last commit](https://img.shields.io/github/last-commit/mlvzk/manix)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nh ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nh) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nh)](https://github.com/nix-community/nh) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
-* [nixfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixfmt)](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
-* [nixpkgs-hammering ![GitHub Repo Stars](https://img.shields.io/github/stars/jtojnar/nixpkgs-hammering) ![GitHub last commit](https://img.shields.io/github/last-commit/jtojnar/nixpkgs-hammering)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 * [nix-alien ![GitHub Repo Stars](https://img.shields.io/github/stars/thiagokokada/nix-alien) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagokokada/nix-alien)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 * [nix-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/Gabriella439/nix-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/Gabriella439/nix-diff)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 * [nix-du ![GitHub Repo Stars](https://img.shields.io/github/stars/symphorien/nix-du) ![GitHub last commit](https://img.shields.io/github/last-commit/symphorien/nix-du)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
@@ -149,14 +148,16 @@
 * [nix-output-monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/maralorn/nix-output-monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/maralorn/nix-output-monitor)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 * [nix-prefetch ![GitHub Repo Stars](https://img.shields.io/github/stars/msteen/nix-prefetch) ![GitHub last commit](https://img.shields.io/github/last-commit/msteen/nix-prefetch)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/utdemir/nix-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/utdemir/nix-tree)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+* [nixfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixfmt)](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+* [nixpkgs-hammering ![GitHub Repo Stars](https://img.shields.io/github/stars/jtojnar/nixpkgs-hammering) ![GitHub last commit](https://img.shields.io/github/last-commit/jtojnar/nixpkgs-hammering)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 * [nurl ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nurl) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nurl)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 * [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix ![GitHub Repo Stars](https://img.shields.io/github/stars/oppiliappan/statix) ![GitHub last commit](https://img.shields.io/github/last-commit/oppiliappan/statix)](https://github.com/oppiliappan/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ## Development
 
-* [attic ![GitHub Repo Stars](https://img.shields.io/github/stars/zhaofengli/attic) ![GitHub last commit](https://img.shields.io/github/last-commit/zhaofengli/attic)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 * [Arion ![GitHub Repo Stars](https://img.shields.io/github/stars/hercules-ci/arion) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/arion)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
+* [attic ![GitHub Repo Stars](https://img.shields.io/github/stars/zhaofengli/attic) ![GitHub last commit](https://img.shields.io/github/last-commit/zhaofengli/attic)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 * [cached-nix-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/xzfc/cached-nix-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/xzfc/cached-nix-shell)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 * [Cachix](https://www.cachix.org) - Hosted binary cache service; free for open-source projects.
 * [compose2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/aksiksi/compose2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/aksiksi/compose2nix)](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
@@ -164,9 +165,9 @@
 * [Devbox ![GitHub Repo Stars](https://img.shields.io/github/stars/jetify-com/devbox) ![GitHub last commit](https://img.shields.io/github/last-commit/jetify-com/devbox)](https://github.com/jetify-com/devbox) - Instant, portable, and predictable development environments.
 * [devshell ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/devshell) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/devshell)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 * [dream2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/dream2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/dream2nix)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-* [flake.parts ![GitHub Repo Stars](https://img.shields.io/github/stars/hercules-ci/flake-parts) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/flake-parts)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
-* [flake-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/flake-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/flake-utils)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 * [flake-utils-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/gytis-ivaskevicius/flake-utils-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/gytis-ivaskevicius/flake-utils-plus)](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
+* [flake-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/flake-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/flake-utils)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+* [flake.parts ![GitHub Repo Stars](https://img.shields.io/github/stars/hercules-ci/flake-parts) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/flake-parts)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 * [flakelight ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/flakelight) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/flakelight)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
 * [flox ![GitHub Repo Stars](https://img.shields.io/github/stars/flox/flox) ![GitHub last commit](https://img.shields.io/github/last-commit/flox/flox)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
 * [gitignore.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/hercules-ci/gitignore.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/hercules-ci/gitignore.nix)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
@@ -196,8 +197,8 @@
 ## DevOps
 
 * [Makes ![GitHub Repo Stars](https://img.shields.io/github/stars/fluidattacks/makes) ![GitHub last commit](https://img.shields.io/github/last-commit/fluidattacks/makes)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
-* [nixidy ![GitHub Repo Stars](https://img.shields.io/github/stars/arnarg/nixidy) ![GitHub last commit](https://img.shields.io/github/last-commit/arnarg/nixidy)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 * [Nix GitLab CI](https://gitlab.com/TECHNOFAB/nix-gitlab-ci) - Define GitLab CI pipelines in pure Nix with full access to all Nix packages (incl. caching).
+* [nixidy ![GitHub Repo Stars](https://img.shields.io/github/stars/arnarg/nixidy) ![GitHub last commit](https://img.shields.io/github/last-commit/arnarg/nixidy)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 * [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/divnix/std) ![GitHub last commit](https://img.shields.io/github/last-commit/divnix/std)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## Programming Languages
@@ -250,8 +251,8 @@
 
 ### PHP
 
-* [composer2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/svanderburg/composer2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/svanderburg/composer2nix)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 * [composer-plugin-nixify ![GitHub Repo Stars](https://img.shields.io/github/stars/stephank/composer-plugin-nixify) ![GitHub last commit](https://img.shields.io/github/last-commit/stephank/composer-plugin-nixify)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
+* [composer2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/svanderburg/composer2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/svanderburg/composer2nix)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 * [composition-c4 ![GitHub Repo Stars](https://img.shields.io/github/stars/fossar/composition-c4) ![GitHub last commit](https://img.shields.io/github/last-commit/fossar/composition-c4)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
 * [nix-phps ![GitHub Repo Stars](https://img.shields.io/github/stars/fossar/nix-phps) ![GitHub last commit](https://img.shields.io/github/last-commit/fossar/nix-phps)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 * [nix-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/loophp/nix-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/loophp/nix-shell)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
@@ -293,25 +294,25 @@
 
 * [base16.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/SenchoPens/base16.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/SenchoPens/base16.nix)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 ![GitHub Repo Stars](https://img.shields.io/github/stars/chriskempson/base16) ![GitHub last commit](https://img.shields.io/github/last-commit/chriskempson/base16)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 * [Home Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/home-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/home-manager)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
-* [nix-darwin ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-darwin/nix-darwin) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-darwin/nix-darwin)](https://github.com/nix-darwin/nix-darwin) - Manage macOS configuration just like on NixOS.
-* [NixOS-WSL ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixOS-WSL) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixOS-WSL)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
+* [impermanence ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/impermanence) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/impermanence)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 * [musnix ![GitHub Repo Stars](https://img.shields.io/github/stars/musnix/musnix) ![GitHub last commit](https://img.shields.io/github/last-commit/musnix/musnix)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
+* [nix-bitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/fort-nix/nix-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/fort-nix/nix-bitcoin)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
+* [nix-darwin ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-darwin/nix-darwin) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-darwin/nix-darwin)](https://github.com/nix-darwin/nix-darwin) - Manage macOS configuration just like on NixOS.
+* [nix-mineral ![GitHub Repo Stars](https://img.shields.io/github/stars/cynicsketch/nix-mineral) ![GitHub last commit](https://img.shields.io/github/last-commit/cynicsketch/nix-mineral)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+* [nix-topology ![GitHub Repo Stars](https://img.shields.io/github/stars/oddlama/nix-topology) ![GitHub last commit](https://img.shields.io/github/last-commit/oddlama/nix-topology)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+* [NixOS hardware ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixos-hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixos-hardware)](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
+* [NixOS-WSL ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixOS-WSL) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixOS-WSL)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [NixVim ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixvim)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks ![GitHub Repo Stars](https://img.shields.io/github/stars/ibizaman/selfhostblocks) ![GitHub last commit](https://img.shields.io/github/last-commit/ibizaman/selfhostblocks)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/stylix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/stylix)](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
-* [nix-bitcoin ![GitHub Repo Stars](https://img.shields.io/github/stars/fort-nix/nix-bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/fort-nix/nix-bitcoin)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
-* [nix-mineral ![GitHub Repo Stars](https://img.shields.io/github/stars/cynicsketch/nix-mineral) ![GitHub last commit](https://img.shields.io/github/last-commit/cynicsketch/nix-mineral)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
-* [nix-topology ![GitHub Repo Stars](https://img.shields.io/github/stars/oddlama/nix-topology) ![GitHub last commit](https://img.shields.io/github/last-commit/oddlama/nix-topology)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
-* [impermanence ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/impermanence) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/impermanence)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
-* [NixOS hardware ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixos-hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixos-hardware)](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 
 ## NixOS Configuration Editors
 
 ### Desktop apps
 
-* [NixOS Configuration Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/snowfallorg/nixos-conf-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/snowfallorg/nixos-conf-editor)](https://github.com/snowfallorg/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
 * [Nix Software Center ![GitHub Repo Stars](https://img.shields.io/github/stars/snowfallorg/nix-software-center) ![GitHub last commit](https://img.shields.io/github/last-commit/snowfallorg/nix-software-center)](https://github.com/snowfallorg/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
+* [NixOS Configuration Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/snowfallorg/nixos-conf-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/snowfallorg/nixos-conf-editor)](https://github.com/snowfallorg/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
 
 ### Webinterface
 
