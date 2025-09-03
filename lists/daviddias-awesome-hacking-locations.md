@@ -883,7 +883,7 @@ Webpage: http://www.lerdevagar.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [Desenvolvimento e PatrocínioRua Rodrigues Faria,n. 103 - Ed. G - 0.3, 1300-501 LISBOA](https://goo.gl/maps/AgAc47QqSts) |
+✔ | ✔ | [Desenvolvimento e PatrocínioRua Rodrigues Faria,n. 103 - Ed. G - 0.3, 1300-501 LISBOA](https://goo.gl/maps/AgAc47QqSts) |
 
 ![](http://www.speedtest.net/result/6152715433.png)
 
