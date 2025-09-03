@@ -1069,6 +1069,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jet ![GitHub Repo Stars](https://img.shields.io/github/stars/karmasakshi/jet) ![GitHub last commit](https://img.shields.io/github/last-commit/karmasakshi/jet)](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
 * [serene ![GitHub Repo Stars](https://img.shields.io/github/stars/ClaudioAlcantaraR/serene) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudioAlcantaraR/serene)](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
 * [free-angular-tailwind-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/TailAdmin/free-angular-tailwind-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/TailAdmin/free-angular-tailwind-dashboard)](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source Angular + Tailwind CSS admin dashboard with essential UI components and pre-built pages for a sleek, modern interface.
+* [hanko-angular-express-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/teamhanko/hanko-angular-express-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/teamhanko/hanko-angular-express-starter)](https://github.com/teamhanko/hanko-angular-express-starter) - Starter integrating Hanko authentication with Angular and Express.
 
 ### Paid Templates
 
