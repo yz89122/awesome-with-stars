@@ -42,7 +42,7 @@ document**.
   - [Markdown All in One ![GitHub Repo Stars](https://img.shields.io/github/stars/yzhang-gh/vscode-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/yzhang-gh/vscode-markdown)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
   - [Markdown Preview Enhanced ![GitHub Repo Stars](https://img.shields.io/github/stars/shd101wyy/markdown-preview-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/shd101wyy/markdown-preview-enhanced)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
-    integration and utilities.  
+    integration and utilities.
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
@@ -135,10 +135,12 @@ Reusable minimalist examples.
    how to integrate Pandoc with an existing LaTeX template which
    requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
    `latexmk` dependency.
+- [Paper Templates for GitHub Pages ![GitHub Repo Stars](https://img.shields.io/github/stars/dev-onejun/paper-templates-for-github-pages) ![GitHub last commit](https://img.shields.io/github/last-commit/dev-onejun/paper-templates-for-github-pages)](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
 - [scientific-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/JensErat/scientific-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/JensErat/scientific-markdown)](https://github.com/JensErat/scientific-markdown/#readme) - Example
    for use of Markdown for scientific publications using Pandoc and
    `latexmk`.
 - [Steve's R Markdown Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/svmiller/svm-r-markdown-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/svmiller/svm-r-markdown-templates)](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
+
 
 ### Presentations
 
@@ -162,7 +164,7 @@ Reusable minimalist examples.
 
 How to generate articles and presentations for scientific purposes.
 
-- [3 frameworks into one — Write your next paper with R Studio!](https://blog.devgenius.io/write-your-whole-paper-in-r-it-is-better-77e1843f0c09) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers. 
+- [3 frameworks into one — Write your next paper with R Studio!](https://blog.devgenius.io/write-your-whole-paper-in-r-it-is-better-77e1843f0c09) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers.
 - [Book on Riemann solvers ![GitHub Repo Stars](https://img.shields.io/github/stars/clawpack/riemann_book) ![GitHub last commit](https://img.shields.io/github/last-commit/clawpack/riemann_book)](https://github.com/clawpack/riemann_book/#readme) - This
    example uses a custom `nbconvert` template and shows how to store your
    notebooks with no output (for version control) while automatically executing
