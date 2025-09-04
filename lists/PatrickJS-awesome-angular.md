@@ -565,6 +565,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@angular-experts-io/resource ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/resource) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/resource)](https://github.com/angular-experts-io/resource) - The missing create, update, delete (CUD) support for Angular resource.
 * [ng-speed-test ![GitHub Repo Stars](https://img.shields.io/github/stars/jrquick17/ng-speed-test) ![GitHub last commit](https://img.shields.io/github/last-commit/jrquick17/ng-speed-test)](https://github.com/jrquick17/ng-speed-test) - A light weight Angular 2+ library for checking internet speed.
 * [ngx-http-resilience ![GitHub Repo Stars](https://img.shields.io/github/stars/ebh/ngx-http-resilience) ![GitHub last commit](https://img.shields.io/github/last-commit/ebh/ngx-http-resilience)](https://github.com/ebh/ngx-http-resilience) - Angular HttpInterceptors that provide resiliency capabilities.
+* [ngx-interceptors ![GitHub Repo Stars](https://img.shields.io/github/stars/SebaRenner/ngx-interceptors) ![GitHub last commit](https://img.shields.io/github/last-commit/SebaRenner/ngx-interceptors)](https://github.com/SebaRenner/ngx-interceptors) - Library with common HTTP interceptors for Angular applications.
 
 ### Micro-Frontends
 
