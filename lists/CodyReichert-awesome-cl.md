@@ -1791,7 +1791,7 @@ This contains plugins and other goodies for various text editors.
 
 ## Emacs ##
 
-* ��� [Slime ![GitHub Repo Stars](https://img.shields.io/github/stars/slime/slime) ![GitHub last commit](https://img.shields.io/github/last-commit/slime/slime)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
+* ⭐ [Slime ![GitHub Repo Stars](https://img.shields.io/github/stars/slime/slime) ![GitHub last commit](https://img.shields.io/github/last-commit/slime/slime)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
 * 👍 [Sly ![GitHub Repo Stars](https://img.shields.io/github/stars/joaotavora/sly) ![GitHub last commit](https://img.shields.io/github/last-commit/joaotavora/sly)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.
 
 Starter kits:
