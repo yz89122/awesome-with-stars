@@ -1475,11 +1475,21 @@ Others
 ### Email
 
 * [trivial-imap ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/trivial-imap) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/trivial-imap)](https://github.com/40ants/trivial-imap) - tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (which is a fork of Franz's cl-imap). [BSD][15].
-* [Postmaster ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/postmaster) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/postmaster)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [cl-smtp](https://gitlab.common-lisp.net/cl-smtp/cl-smtp) - CL-SMTP is a simple lisp smtp client.
+* [Postmaster ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/postmaster) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/postmaster)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library, based on cl-smtp. [Expat][14].
+
+Sending emails with a third-party provider:
+
 * [sendgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-sendgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-sendgrid)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT][200].
 * [mailgun ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/mailgun) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/mailgun)](https://github.com/40ants/mailgun) - A thin wrapper to post HTML emails through mailgun.com. [unlicence][5].
-* [cl-ses ![GitHub Repo Stars](https://img.shields.io/github/stars/CodyReichert/cl-ses) ![GitHub last commit](https://img.shields.io/github/last-commit/CodyReichert/cl-ses)](https://github.com/CodyReichert/cl-ses/) - Library for AWS SES. [Expat][14].
+
+Parsing email addresses:
+
+* [darts.lib.email.address ![GitHub Repo Stars](https://img.shields.io/github/stars/deterministic-arts/DartsCLEmailAddress) ![GitHub last commit](https://img.shields.io/github/last-commit/deterministic-arts/DartsCLEmailAddress)](https://github.com/deterministic-arts/DartsCLEmailAddress) for RFC 5322 parsing
+  * *last commit 9 years ago*
+* try [email-parse ![GitHub Repo Stars](https://img.shields.io/github/stars/pyramidi0n/email-parse) ![GitHub last commit](https://img.shields.io/github/last-commit/pyramidi0n/email-parse)](https://github.com/pyramidi0n/email-parse) or [email-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/mtha790/email-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/mtha790/email-validator)](https://github.com/mtha790/email-validator) for RFC 5321.
+  * *new as of 2025*
+
 
 ### OpenAPI, OData, OpenRPC
 
