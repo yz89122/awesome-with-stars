@@ -34,6 +34,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [Omnitone ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChrome/omnitone) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChrome/omnitone)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
 - [Mach1Spatial ![GitHub Repo Stars](https://img.shields.io/github/stars/Mach1Studios/m1-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Mach1Studios/m1-sdk)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 - [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
+- [React Native Audio API ![GitHub Repo Stars](https://img.shields.io/github/stars/software-mansion-labs/react-native-audio-api) ![GitHub last commit](https://img.shields.io/github/last-commit/software-mansion-labs/react-native-audio-api)](https://github.com/software-mansion-labs/react-native-audio-api) - Web Audio API implementation for native apps based on react-native.
 
 ### Libraries
 

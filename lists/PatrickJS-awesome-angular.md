@@ -505,6 +505,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+* [Daniil Rabizo](https://www.youtube.com/@daniilrabizo)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - In Japanese.
 * [Code with Keys](https://www.youtube.com/@codewithkeys) - In Persian.
 
@@ -1249,6 +1250,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-flamegraph ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/ngx-flamegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/ngx-flamegraph)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [ng-virtual-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/DjonnyX/ng-virtual-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/DjonnyX/ng-virtual-grid)](https://github.com/DjonnyX/ng-virtual-grid) - Maximum performance for extremely large grids.
 * [ngx-simple-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/rinturaj/ngx-simple-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/rinturaj/ngx-simple-datatables)](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
+* [ngx-list-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-list-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-list-manager)](https://github.com/RzoDev/ngx-list-manager) - An Angular service tool to manage lists efficiently.
 
 ### Dates
 
@@ -1923,6 +1925,7 @@ for the creation of web applications developed with Angular.
 * [FlyonUI ![GitHub Repo Stars](https://img.shields.io/github/stars/themeselection/flyonui) ![GitHub last commit](https://img.shields.io/github/last-commit/themeselection/flyonui)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [koala-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/igordrangel/koala-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/igordrangel/koala-ui)](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
+* [ngx-tw ![GitHub Repo Stars](https://img.shields.io/github/stars/bugMaker-237/ngx-tw) ![GitHub last commit](https://img.shields.io/github/last-commit/bugMaker-237/ngx-tw)](https://github.com/bugMaker-237/ngx-tw) - A comprehensive component library built with Tailwind CSS, providing a modern and customizable set of UI components for Angular applications.
 * [nicacoder-ng](https://ng.nicacoder.com/) - A centralized library of customizable Angular components designed to speed up development and maintain consistency across internal projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline ![GitHub Repo Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline) ![GitHub last commit](https://img.shields.io/github/last-commit/htmlstreamofficial/preline)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [Rectangle UI ![GitHub Repo Stars](https://img.shields.io/github/stars/jarretthuang/rectangle-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/jarretthuang/rectangle-ui)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
