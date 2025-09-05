@@ -232,7 +232,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [CppDepend](https://www.cppdepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
-- [cpplint ![GitHub Repo Stars](https://img.shields.io/github/stars/google/styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/google/styleguide)](https://github.com/google/styleguide/tree/gh-pages/cpplint) — Automated C++ checker that follows Google's style guide.
+- [cpplint ![GitHub Repo Stars](https://img.shields.io/github/stars/cpplint/cpplint) ![GitHub last commit](https://img.shields.io/github/last-commit/cpplint/cpplint)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
 
 - [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) — Quality metrics for C code.
 
@@ -334,7 +334,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [CppDepend](https://www.cppdepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
-- [cpplint ![GitHub Repo Stars](https://img.shields.io/github/stars/google/styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/google/styleguide)](https://github.com/google/styleguide/tree/gh-pages/cpplint) — Automated C++ checker that follows Google's style guide.
+- [cpplint ![GitHub Repo Stars](https://img.shields.io/github/stars/cpplint/cpplint) ![GitHub last commit](https://img.shields.io/github/last-commit/cpplint/cpplint)](https://github.com/cpplint/cpplint) — Automated C++ checker that follows Google's style guide.
 
 - [cqmetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) — Quality metrics for C code.
 
@@ -421,7 +421,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [lint ![GitHub Repo Stars](https://img.shields.io/github/stars/passsy/dart-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/passsy/dart-lint)](https://github.com/passsy/dart-lint) — An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter
 
-- [Linter for dart](https://dart-lang.github.io/linter) — Style linter for Dart.
+- [Linter for dart ![GitHub Repo Stars](https://img.shields.io/github/stars/dart-lang/linter) ![GitHub last commit](https://img.shields.io/github/last-commit/dart-lang/linter)](https://github.com/dart-lang/linter) — Style linter for Dart.
 
 
 <a name="delphi" />
@@ -484,7 +484,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 - [fantomas](https://fsprojects.github.io/fantomas/) — F# source code formatter.
 
-- [FSharpLint](https://fsprojects.github.io/FSharpLint) — Lint tool for F#.
+- [FSharpLint ![GitHub Repo Stars](https://img.shields.io/github/stars/fsprojects/FSharpLint) ![GitHub last commit](https://img.shields.io/github/last-commit/fsprojects/FSharpLint)](https://github.com/fsprojects/FSharpLint) — Lint tool for F#.
 
 - [ionide-analyzers](https://ionide.io/ionide-analyzers/) — A collection of F# analyzers, built with the FSharp.Analyzers.SDK.
 
@@ -695,7 +695,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [SpotBugs](https://spotbugs.github.io) — SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 
-- [steady](https://eclipse.github.io/steady/) — Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.
+- [steady](https://eclipse.github.io/steady/) :warning: — Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.
 
 - [Violations Lib ![GitHub Repo Stars](https://img.shields.io/github/stars/tomasbjerre/violations-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/tomasbjerre/violations-lib)](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 
@@ -1211,7 +1211,7 @@ Kani verifies:
 
 - [lockbud ![GitHub Repo Stars](https://img.shields.io/github/stars/BurtonQin/lockbud) ![GitHub last commit](https://img.shields.io/github/last-commit/BurtonQin/lockbud)](https://github.com/BurtonQin/lockbud) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
-- [MIRAI ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookexperimental/MIRAI) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/MIRAI)](https://github.com/facebookexperimental/MIRAI) — And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.
+- [MIRAI ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookexperimental/MIRAI) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookexperimental/MIRAI)](https://github.com/facebookexperimental/MIRAI) :warning: — And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.
 
 - [prae ![GitHub Repo Stars](https://img.shields.io/github/stars/teenjuna/prae) ![GitHub last commit](https://img.shields.io/github/last-commit/teenjuna/prae)](https://github.com/teenjuna/prae) :warning: — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified. 
 
@@ -1288,7 +1288,7 @@ Kani verifies:
 
 - [shellcheck](https://www.shellcheck.net) — ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts.
 
-- [shellharden ![GitHub Repo Stars](https://img.shields.io/github/stars/anordal/shellharden) ![GitHub last commit](https://img.shields.io/github/last-commit/anordal/shellharden)](https://github.com/anordal/shellharden) — A syntax highlighter and a tool to semi-automate the rewriting of scripts to ShellCheck conformance, mainly focused on quoting.
+- [shellharden ![GitHub Repo Stars](https://img.shields.io/github/stars/anordal/shellharden) ![GitHub last commit](https://img.shields.io/github/last-commit/anordal/shellharden)](https://github.com/anordal/shellharden) :warning: — A syntax highlighter and a tool to semi-automate the rewriting of scripts to ShellCheck conformance, mainly focused on quoting.
 
 
 <a name="swift" />
@@ -1367,7 +1367,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 <h2>WebAssembly</h2>
 
 
-- [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
+- [Twiggy ![GitHub Repo Stars](https://img.shields.io/github/stars/rustwasm/twiggy) ![GitHub last commit](https://img.shields.io/github/last-commit/rustwasm/twiggy)](https://github.com/rustwasm/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 - [wasm-language-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/g-plane/wasm-language-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/g-plane/wasm-language-tools)](https://github.com/g-plane/wasm-language-tools) — WebAssembly Language Tools aims to provide and improve the editing experience of WebAssembly Text Format. It also provides an out-of-the-box formatter (a.k.a. pretty printer) for WebAssembly Text Format.
 
@@ -1400,11 +1400,11 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
 
-- [Betterscan CE ![GitHub Repo Stars](https://img.shields.io/github/stars/tcosolutions/betterscan-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/tcosolutions/betterscan-ce)](https://github.com/tcosolutions/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
+- [Betterscan CE ![GitHub Repo Stars](https://img.shields.io/github/stars/tcosolutions/betterscan-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/tcosolutions/betterscan-ce)](https://github.com/tcosolutions/betterscan-ce) :warning: — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
 
 - [biome](https://biomejs.dev) — A toolchain for web projects, aimed to provide functionalities to maintain them. Biome formats and lints code in a fraction of a second. It is the successor to Rome. It is designed to eventually replace Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and others.
 
-- [BugProve](https://www.bugprove.com) :copyright: — BugProve is a firmware analysis platform featuring both static and dynamic analysis techniques to discover memory corruptions, command injections and other classes or common weaknesses in binary code. It also detects vulnerable dependencies, weak cryptographic parameters, misconfigurations, and more.
+- [BugProve](https://www.bugprove.com) :warning: :copyright: — BugProve is a firmware analysis platform featuring both static and dynamic analysis techniques to discover memory corruptions, command injections and other classes or common weaknesses in binary code. It also detects vulnerable dependencies, weak cryptographic parameters, misconfigurations, and more.
 
 - [callGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/koknat/callGraph) ![GitHub last commit](https://img.shields.io/github/last-commit/koknat/callGraph)](https://github.com/koknat/callGraph) — Statically generates a call graph image and displays it on screen.
 
@@ -1583,7 +1583,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [SAST Online](https://sast.online/) :copyright: — Check the Android Source code thoroughly to uncover and address potential security concerns and vulnerabilities. Static application security testing (Static Code Analysis) tool Online
 
-- [Scrutinizer](https://scrutinizer-ci.com) :copyright: — A proprietary code quality checker that can be integrated with GitHub.
+- [Scrutinizer](https://scrutinizer-ci.com) :warning: :copyright: — A proprietary code quality checker that can be integrated with GitHub.
 
 - [Security Code Scan](https://security-code-scan.github.io) — Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. Integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 
@@ -1617,7 +1617,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [StaticReviewer](https://securityreviewer.atlassian.net/wiki/spaces/KC/pages/196633/Static+Reviewer) :copyright: — Static Reviewer executes code checks according to the most relevant Secure Coding Standards, OWASP, CWE, CVE, CVSS, MISRA, CERT, for 40+ programming languages, using 1000+ built-in validation rules for Security, Deadcode & Best Practices Available a module for Software Composition Analysis (SCA) to find vulnerabilities in open source and third party libraries.
 
-- [Super-Linter ![GitHub Repo Stars](https://img.shields.io/github/stars/github/super-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/github/super-linter)](https://github.com/github/super-linter) — Combination of multiple linters to install as a GitHub Action.
+- [Super-Linter ![GitHub Repo Stars](https://img.shields.io/github/stars/github/super-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/github/super-linter)](https://github.com/github/super-linter) :warning: — Combination of multiple linters to install as a GitHub Action.
 
 - [Svace](https://www.ispras.ru/en/technologies/svace/) :copyright: — Static code analysis tool for Java,C,C++,C#,Go.
 
@@ -1737,7 +1737,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [rust-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/Shnatsel/rust-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/Shnatsel/rust-audit)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
-- [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
+- [Twiggy ![GitHub Repo Stars](https://img.shields.io/github/stars/rustwasm/twiggy) ![GitHub last commit](https://img.shields.io/github/last-commit/rustwasm/twiggy)](https://github.com/rustwasm/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 - [VMware chap ![GitHub Repo Stars](https://img.shields.io/github/stars/vmware/chap) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware/chap)](https://github.com/vmware/chap) — chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption.  It is sufficiently reliable that it can be used in automation to catch leaks before  they are committed. As an interactive tool, it helps explain memory growth,  can identify some forms of corruption, and supplements a debugger  by giving the status of various memory locations. 
 
@@ -1777,7 +1777,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [scsslint ![GitHub Repo Stars](https://img.shields.io/github/stars/brigade/scss-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/brigade/scss-lint)](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 
-- [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS Specificity Graph Generator.
+- [Specificity Graph ![GitHub Repo Stars](https://img.shields.io/github/stars/pocketjoso/specificity-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/pocketjoso/specificity-graph)](https://github.com/pocketjoso/specificity-graph) — CSS Specificity Graph Generator.
 
 - [Stylelint](http://stylelint.io) — Linter for SCSS/CSS files.
 
@@ -2024,7 +2024,7 @@ but with the following improvements:
 
 - [KubeLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/stackrox/kube-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/stackrox/kube-linter)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
-- [kubeval](https://kubeval.instrumenta.dev) — Validates your Kubernetes configuration files and supports multiple Kubernetes versions.
+- [kubeval](https://kubeval.instrumenta.dev) :warning: — Validates your Kubernetes configuration files and supports multiple Kubernetes versions.
 
 
 <a name="latex" />
@@ -2123,7 +2123,7 @@ but with the following improvements:
 
 - [deadnix ![GitHub Repo Stars](https://img.shields.io/github/stars/astro/deadnix) ![GitHub last commit](https://img.shields.io/github/last-commit/astro/deadnix)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
 
-- [statix](https://git.peppe.rs/languages/statix/about/) — Lints and suggestions for the Nix programming language. "statix check" highlights antipatterns in Nix code. "statix fix" can fix several such occurrences.
+- [statix ![GitHub Repo Stars](https://img.shields.io/github/stars/nerdypepper/statix) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdypepper/statix)](https://github.com/nerdypepper/statix) — Lints and suggestions for the Nix programming language. "statix check" highlights antipatterns in Nix code. "statix fix" can fix several such occurrences.
 
 
 <a name="nodejs" />
@@ -2245,6 +2245,8 @@ Kani verifies:
 - [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 - [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
+
+- [OWASP Noir](https://owasp-noir.github.io/noir/) — Attack surface detector that identifies endpoints by static analysis.
 
 - [PT Application Inspector](https://www.ptsecurity.com) :copyright: — Identifies code flaws and detects vulnerabilities to prevent web attacks. Demonstrates remote code execution by presenting possible exploits.
 
