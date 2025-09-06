@@ -1032,7 +1032,7 @@ Webpage: http://4sq.com/14xZ71H
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Mari�� Aguiló, 99, 08005 Barcelona Catalonia](https://maps.app.goo.gl/WVBgtn3eNFsdvKuEA) |
+✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://maps.app.goo.gl/WVBgtn3eNFsdvKuEA) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
