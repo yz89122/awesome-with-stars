@@ -718,6 +718,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng2-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/moribvndvs/ng2-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/moribvndvs/ng2-idle)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng-lens ![GitHub Repo Stars](https://img.shields.io/github/stars/MerrittMelker/ng-lens) ![GitHub last commit](https://img.shields.io/github/last-commit/MerrittMelker/ng-lens)](https://github.com/MerrittMelker/ng-lens) - This Node.js utility uses `ts-morph` to statically analyze Angular TypeScript components and identify service usage patterns from any specified API library.
 * [ngx-json-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/Verbalman/ngx-json-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/Verbalman/ngx-json-reader)](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
+* [ngx-compare-object ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-compare-object) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-compare-object)](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 
 ### Documentation Tools
 
