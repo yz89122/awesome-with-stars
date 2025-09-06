@@ -531,7 +531,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Newton Dynamics ![GitHub Repo Stars](https://img.shields.io/github/stars/MADEAPPS/newton-dynamics) ![GitHub last commit](https://img.shields.io/github/last-commit/MADEAPPS/newton-dynamics)](https://github.com/MADEAPPS/newton-dynamics/) - Real-time simulation of 3D environments.
     - 🎉 [ODE](http://www.ode.org/) - Open Dynamics Engine, 3D rigid body physics.
     - 🎉 [Qu3e ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/qu3e) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/qu3e)](https://github.com/RandyGaul/qu3e) - Fast 3D physics engine, created to be used in games.
-    - ��� [ReactPhysics3D ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielChappuis/reactphysics3d) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielChappuis/reactphysics3d)](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
+    - 🎉 [ReactPhysics3D ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielChappuis/reactphysics3d) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielChappuis/reactphysics3d)](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
     - 🎉 [Slingshot ![GitHub Repo Stars](https://img.shields.io/github/stars/Slingshot-Physics/slingshot-community) ![GitHub last commit](https://img.shields.io/github/last-commit/Slingshot-Physics/slingshot-community)](https://github.com/Slingshot-Physics/slingshot-community) - Constraint-based physics engine for 3D rigid body dynamics.
 - C++: Reflection
     - 🎉 [Boost.PFR ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/pfr) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/pfr)](https://github.com/boostorg/pfr) - Basic reflection C++14 library, part of the Boost Libraries.
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
 ### Voxel
-- 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+- �� [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
 - 💰 [Qubicle](https://www.getqubicle.com) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
