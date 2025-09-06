@@ -26,6 +26,7 @@ Additional lists you might find useful:
 	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Caching](#caching)
 	- [Code Analysis](#code-analysis)
+    - [Console](#console)
 	- [Debugging](#debugging)
 	- [Email](#email)
 	- [File Manipulation](#file-manipulation)
@@ -119,6 +120,11 @@ Additional lists you might find useful:
 - [IdeHelperExtra plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ide-helper-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ide-helper-extra)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
 - [lordsimal/cakephp-psalm ![GitHub Repo Stars](https://img.shields.io/github/stars/LordSimal/cakephp-psalm) ![GitHub last commit](https://img.shields.io/github/last-commit/LordSimal/cakephp-psalm)](https://github.com/LordSimal/cakephp-psalm) - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
 - [TestHelper plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-test-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-test-helper)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+
+## Console
+*Plugins for console enhancements.*
+
+- [SignalHandler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/SignalHandler) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/SignalHandler)](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
 
 ## Debugging
 *Plugins for debugging and local development.*
