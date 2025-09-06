@@ -394,7 +394,7 @@ Hosted tools to use to analyze user behavior for a web app.
 
 The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 
-- [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
+- [Kafka](http://kafka.apache.org/) - [����](https://stackshare.io/kafka) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
 - [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
 - [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cassandra) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cassandra)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
