@@ -33,17 +33,9 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 ### Announcements
 
-- 2025-08-16  
+- 2025-09-07
 
-(i) So much happening with Claude Code these days, it is genuinely hard to keep up! Since my last post, let's see... Opus 4.1; status lines; output styles; more sub agents; (plugins??); background shells; lions; tigers... wait sorry that's something else. Anyway, I'm glad to announce that besides some annoying bot messages and small glitches, the new resource submission workflow seems to be working really solidly. It's so much easier for everyone, so if you'd like to contribute to this community resource, make sure you are up to date on [`CONTRIBUTING.md`](../CONTRIBUTING.md) - I will no longer be accepting _resource submission_ PRs (there may be other cases where a PR is appropriate), but you can now submit something to the list without even cloning the repo or knowing how to spell "git". Just head over to the new resource submission [Issue Template ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml) and you'll be done in no time. If you have a PR open, please try to open it as an issue instead, although I will of course get through existing PR's before switching over entirely.
-
-(ii) I started a new section for Status Lines, and will soon open up another one for Output Styles hopefully. *WE WANT TO SEE YOUR STATUS LINES!* Definitely will be prioritizing those items in the short term. I've sadly been neglecting the awesome-claude-code-agents repo due to Claude Code's impressively rapid release cycle, but I haven't forgotten about it, rest assured.
-
-(iii) Still hoping to organize some friendly competition as soon as time allows.
-
-(iv) Considering imposing some more constraints on submissions, in particular I may decide to have your repo (if it is a repo) evaluated by a State-of-the-art language model, primarily for security, and not for awesomeness, as it's getting hard to keep up with all the great stuff coming in while still doing due diligence to make sure that this is not a home for malware or otherwise insecure resources.
-
-(v) Check out some of the latest entries below, and start shipping your status lines! Even small entries are totally welcome, it doesn't have to be a Picasso - if it fits on a single line, that makes it even easier to compose it with another awesome resource.
+Just a quick update to let folks know that I'm going to be working through the backlog of submissions as soon as I can, as I've been unable to attend much to the repo this past week, so thanks to everyone who is contributing and apologies for any delays. Also, I'll be adding GitHub stats to the GitHub resources in the list, since some people have requested the ability to see "star counts", but I want to do it in a a way that is mindful of the fact that I'm often adding very new repositories, so star count alone is not always a super strong signal with respect to quality (to put it one way, part of the purpose of this repo is to highlight projects that are awesome but don't have visibility). Also, keep in mind this is a _curated_ list of Claude Code resources, so although I don't often reject proposals because I don't think they're awesome, I also do take time to vet the resources for quality and security (which also means I have to take the time to test-drive every submission, otherwise it would just be a mega-list). So, hopefully more updates and more additions to come soon - and another reminder to please use the **Issues** tab to submit resources - moving forward, I'll ask anyone who submits a resource via a Pull Request to re-submit using the Issue - Resource Submission Form, which is in decent working order and 100x simpler for all parties. See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for more details. Thanks! Keep flibbertidaddling!
 
 ## This Week's Additions ✨
 
@@ -54,12 +46,6 @@ Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP s
 
 [`Claude Code PM` ![GitHub Repo Stars](https://img.shields.io/github/stars/automazeio/ccpm) ![GitHub last commit](https://img.shields.io/github/last-commit/automazeio/ccpm)](https://github.com/automazeio/ccpm) &nbsp; by &nbsp; [Ran Aroussi](https://github.com/ranaroussi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.
-
-[`cchistory` ![GitHub Repo Stars](https://img.shields.io/github/stars/eckardt/cchistory) ![GitHub last commit](https://img.shields.io/github/last-commit/eckardt/cchistory)](https://github.com/eckardt/cchistory) &nbsp; by &nbsp; [eckardt](https://github.com/eckardt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.
-
-[`Happy Coder` ![GitHub Repo Stars](https://img.shields.io/github/stars/slopus/happy) ![GitHub last commit](https://img.shields.io/github/last-commit/slopus/happy)](https://github.com/slopus/happy) &nbsp; by &nbsp; [GrocerPublishAgent](https://peoplesgrocers.com/en/projects)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.
 
 
 ## Contents
@@ -288,7 +274,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 [`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
-[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
 
 [`/fix-github-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremymailen/kotlinter-gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremymailen/kotlinter-gradle)](https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md) &nbsp; by &nbsp; [jeremymailen](https://github.com/jeremymailen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
