@@ -855,7 +855,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [CopperLicht](https://ambiera.com/copperlicht/) - A 3D library for WebGL. [[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
     - 🎉 [Filament for Web ![GitHub Repo Stars](https://img.shields.io/github/stars/google/filament) ![GitHub last commit](https://img.shields.io/github/last-commit/google/filament)](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, _Filament_.
     - 🎉 [Four ![GitHub Repo Stars](https://img.shields.io/github/stars/CodyJasonBennett/four) ![GitHub last commit](https://img.shields.io/github/last-commit/CodyJasonBennett/four)](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative.
-    - ��� [Hilo3d ![GitHub Repo Stars](https://img.shields.io/github/stars/hiloteam/Hilo3d) ![GitHub last commit](https://img.shields.io/github/last-commit/hiloteam/Hilo3d)](https://github.com/hiloteam/Hilo3d) - WebGL 3D rendering engine by _Alibaba_.
+    - 🎉 [Hilo3d ![GitHub Repo Stars](https://img.shields.io/github/stars/hiloteam/Hilo3d) ![GitHub last commit](https://img.shields.io/github/last-commit/hiloteam/Hilo3d)](https://github.com/hiloteam/Hilo3d) - WebGL 3D rendering engine by _Alibaba_.
     - 🎉 [Litescene.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jagenjo/litescene.js) ![GitHub last commit](https://img.shields.io/github/last-commit/jagenjo/litescene.js)](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by WebGLStudio.
     - 🎉 [LUME ![GitHub Repo Stars](https://img.shields.io/github/stars/lume/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lume/lume)](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
     - ⭐ [OGL ![GitHub Repo Stars](https://img.shields.io/github/stars/oframe/ogl) ![GitHub last commit](https://img.shields.io/github/last-commit/oframe/ogl)](https://github.com/oframe/ogl) 🔥 - Fast, powerful, minimal WebGL library. [[Examples](https://oframe.github.io/ogl/examples)]
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
 ### Voxel
-- 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+- �� [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
 - 💰 [Qubicle](https://www.getqubicle.com) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
