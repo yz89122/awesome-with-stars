@@ -379,6 +379,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [onedrive ![GitHub Repo Stars](https://img.shields.io/github/stars/abraunegg/onedrive) ![GitHub last commit](https://img.shields.io/github/last-commit/abraunegg/onedrive)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux.
 * [tshare ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/tshare) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/tshare)](https://github.com/trikko/tshare) - Fast file sharing from cli, using transfer.sh.
 * [todod ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackEdder/todod) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackEdder/todod)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/linenoise) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/linenoise)](https://github.com/antirez/linenoise).
+* [Soulfind ![GitHub Repo Stars](https://img.shields.io/github/stars/soulfind-dev/soulfind) ![GitHub last commit](https://img.shields.io/github/last-commit/soulfind-dev/soulfind)](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D.
 
 ## GUI Libraries
 
