@@ -390,7 +390,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
     - 🎉 [TinyDNG ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinydng) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinydng)](https://github.com/syoyo/tinydng) - Header-only DNG / TIFF loader and writer.
-    - ���� [TinyEXR ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinyexr) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinyexr)](https://github.com/syoyo/tinyexr) - Tiny OpenEXR image loader / saver library.
+    - 🎉 [TinyEXR ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinyexr) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinyexr)](https://github.com/syoyo/tinyexr) - Tiny OpenEXR image loader / saver library.
     - 🎉 [TinyGLTF ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinygltf) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinygltf)](https://github.com/syoyo/tinygltf) - Header-only C++11 tiny glTF 2.0 library.
     - 🎉 [TinyOBJLoader ![GitHub Repo Stars](https://img.shields.io/github/stars/tinyobjloader/tinyobjloader) ![GitHub last commit](https://img.shields.io/github/last-commit/tinyobjloader/tinyobjloader)](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single-file wavefront obj loader.
 - C++: File System
@@ -451,7 +451,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Delaunator-Cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/soerendd/delaunator-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/soerendd/delaunator-cpp)](https://github.com/soerendd/delaunator-cpp) - Really fast library for Delaunay triangulation of 2D points.
     - 🔒 [Easy3D ![GitHub Repo Stars](https://img.shields.io/github/stars/LiangliangNan/Easy3D) ![GitHub last commit](https://img.shields.io/github/last-commit/LiangliangNan/Easy3D)](https://github.com/LiangliangNan/Easy3D) - Easy-to-use library for 3D modeling, geometry processing, and rendering.
     - 🎉 [Extrude ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/extrude) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/extrude)](https://github.com/stevinz/extrude) - Converts 2D images into 3D extruded meshes.
-    - �� [Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ilmola/generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ilmola/generator)](https://github.com/ilmola/generator) - Procedural geometry generation library for C++11.
+    - 🔒 [Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ilmola/generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ilmola/generator)](https://github.com/ilmola/generator) - Procedural geometry generation library for C++11.
     - 🎉 [Geometric Tools](https://www.geometrictools.com/index.html) - Mathematics, geometry, graphics, image analysis and physics in C++14.
     - 🎉 [GeometronLib ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/GeometronLib) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/GeometronLib)](https://github.com/LukasBanana/GeometronLib) - Meshes for 3D shapes (cube, sphere, etc.) and ray / geometry intersection.
     - 🔒 [Libigl ![GitHub Repo Stars](https://img.shields.io/github/stars/libigl/libigl) ![GitHub last commit](https://img.shields.io/github/last-commit/libigl/libigl)](https://github.com/libigl/libigl) - Simple geometry processing library.
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
 ### Voxel
-- ��� [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+- 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
 - 💰 [Qubicle](https://www.getqubicle.com) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
