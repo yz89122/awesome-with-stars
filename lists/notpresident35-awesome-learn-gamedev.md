@@ -677,7 +677,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) 💠🟪 - A huge list of UI/UX resources!
 
 
-[Game UI Database](https://www.gameuidatabase.com/index.php) 💠�� - A searchable repository of UI designs from many different games to use as reference.
+[Game UI Database](https://www.gameuidatabase.com/index.php) 💠🟪 - A searchable repository of UI designs from many different games to use as reference.
 
 
 [Laws of UX](https://lawsofux.com/en/) - Best practices of UX design.

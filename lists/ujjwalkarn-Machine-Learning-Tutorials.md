@@ -634,7 +634,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
         
-        - [Beginner��s Guide to LSTM](http://deeplearning4j.org/lstm.html)
+        - [Beginner’s Guide to LSTM](http://deeplearning4j.org/lstm.html)
         
         - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code ![GitHub Repo Stars](https://img.shields.io/github/stars/dennybritz/rnn-tutorial-gru-lstm) ![GitHub last commit](https://img.shields.io/github/last-commit/dennybritz/rnn-tutorial-gru-lstm)](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
         
