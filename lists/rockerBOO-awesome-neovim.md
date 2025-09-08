@@ -959,8 +959,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [y3owk1n/dotmd.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim)](https://github.com/y3owk1n/dotmd.nvim) - Managing notes, todos, journal entries and inbox all with markdown.
 - [athar-qadri/scratchpad.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/athar-qadri/scratchpad.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/athar-qadri/scratchpad.nvim)](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
 - [echaya/neowiki.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/echaya/neowiki.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/echaya/neowiki.nvim)](https://github.com/echaya/neowiki.nvim) - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
-- [phrmendes/todotxt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/phrmendes/todotxt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/phrmendes/todotxt.nvim)](https://github.com/phrmendes/todotxt.nvim) -  A minimal `todo.txt` implementation in Lua.
-
+- [phrmendes/todotxt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/phrmendes/todotxt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/phrmendes/todotxt.nvim)](https://github.com/phrmendes/todotxt.nvim) - A minimal `todo.txt` implementation in Lua.
+- [happyeric77/joplin.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/happyeric77/joplin.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/happyeric77/joplin.nvim)](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 <!--lint disable double-link -->
 
 **[⬆ back to top](#contents)**
