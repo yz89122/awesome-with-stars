@@ -194,14 +194,14 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Languages
 *Programming language interpreters implemented in Swift*
 
-* [Introduction to Compilers ![GitHub Repo Stars](https://img.shields.io/github/stars/ahoppen/introduction-to-compilers) ![GitHub last commit](https://img.shields.io/github/last-commit/ahoppen/introduction-to-compilers)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. ���🌟
+* [Introduction to Compilers ![GitHub Repo Stars](https://img.shields.io/github/stars/ahoppen/introduction-to-compilers) ![GitHub last commit](https://img.shields.io/github/last-commit/ahoppen/introduction-to-compilers)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🍁🌟
 * [Pascal Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/igorkulman/SwiftPascalInterpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/igorkulman/SwiftPascalInterpreter)](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Write your own language: Mu ![GitHub Repo Stars](https://img.shields.io/github/stars/marciok/Mu) ![GitHub last commit](https://img.shields.io/github/last-commit/marciok/Mu)](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟
 * [ASM Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/NSExceptional/ASM-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/NSExceptional/ASM-Swift)](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟
 * [Let's build a compiler in Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/mkchoi212/LBAC-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/mkchoi212/LBAC-Swift)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟 
 * [Register VM ![GitHub Repo Stars](https://img.shields.io/github/stars/brianhill/register-vm-in-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/brianhill/register-vm-in-swift)](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dimsumthinking/TurtlePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dimsumthinking/TurtlePlayground)](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳
-* [Swift Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/xavieryao/Swift-Brainfuck) ![GitHub last commit](https://img.shields.io/github/last-commit/xavieryao/Swift-Brainfuck)](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳
+* [Swift Brainfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/xavieryao/Swift-Brainfuck) ![GitHub last commit](https://img.shields.io/github/last-commit/xavieryao/Swift-Brainfuck)](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ��
 
 ### Machine Learning
 
