@@ -1983,7 +1983,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 _Libraries for working with various layers of the network._
 
 - [arp ![GitHub Repo Stars](https://img.shields.io/github/stars/mdlayher/arp) ![GitHub last commit](https://img.shields.io/github/last-commit/mdlayher/arp)](https://github.com/mdlayher/arp) - Package arp implements the ARP protocol, as described in RFC 826.
-- [bart ![GitHub Repo Stars](https://img.shields.io/github/stars/gaissmai/bart) ![GitHub last commit](https://img.shields.io/github/last-commit/gaissmai/bart)](https://github.com/gaissmai/bart) - Package bart provides a fast routing table algorithm.
+- [bart ![GitHub Repo Stars](https://img.shields.io/github/stars/gaissmai/bart) ![GitHub last commit](https://img.shields.io/github/last-commit/gaissmai/bart)](https://github.com/gaissmai/bart) - Package bart provides a Balanced-Routing-Table (BART) for very fast IP to CIDR lookups and more.
 - [buffstreams ![GitHub Repo Stars](https://img.shields.io/github/stars/stabbycutyou/buffstreams) ![GitHub last commit](https://img.shields.io/github/last-commit/stabbycutyou/buffstreams)](https://github.com/stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy.
 - [canopus ![GitHub Repo Stars](https://img.shields.io/github/stars/zubairhamed/canopus) ![GitHub last commit](https://img.shields.io/github/last-commit/zubairhamed/canopus)](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
 - [cidranger ![GitHub Repo Stars](https://img.shields.io/github/stars/yl2chen/cidranger) ![GitHub last commit](https://img.shields.io/github/last-commit/yl2chen/cidranger)](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
