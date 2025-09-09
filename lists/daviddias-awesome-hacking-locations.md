@@ -553,7 +553,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Japan 🇯🇵
+# Japan ��🇵
 
 ## Nagoya
 
@@ -861,7 +861,7 @@ Webpage: http://4sq.com/1JRQG4q
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨�� | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
 
 #### Copenhagen Coffee Lab, Lisboa
 
@@ -942,7 +942,7 @@ Webpage: embaixadaporto.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
+✔ | ��� | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
 
 ![](http://www.speedtest.net/result/5456704202.png)
 
