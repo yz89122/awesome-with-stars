@@ -523,7 +523,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
-- [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+- [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) ��� Finds repeated strings that could be replaced by a constant.
 
 - **gocyclo** :warning: — Calculate cyclomatic complexities of functions in Go source code.
 
@@ -582,7 +582,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [structslop ![GitHub Repo Stars](https://img.shields.io/github/stars/orijtech/structslop) ![GitHub last commit](https://img.shields.io/github/last-commit/orijtech/structslop)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
 
-- [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
+- [test](https://pkg.go.dev/testing) �� Show location of test failures from the stdlib testing module.
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
