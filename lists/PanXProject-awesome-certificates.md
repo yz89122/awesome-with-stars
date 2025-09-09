@@ -405,7 +405,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/quality-assurance/" target="_blank" rel="noopener noreferrer">Quality Assurance Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=6" target="_blank" rel="noopener noreferrer">CS101: Introduction to Computer Science I</a> | Saylor Academy |Professional|52 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=64" target="_blank" rel="noopener noreferrer">CS102: Introduction to Computer Science II</a> | Saylor Academy |Professional|42 | 🏆|
-| <a href="https://learn.saylor.org/course/view.php?id=66" target="_blank" rel="noopener noreferrer">CS201: Elementary Data Structures</a> | Saylor Academy |Professional|38 | 🏆|
+| <a href="https://learn.saylor.org/course/view.php?id=66" target="_blank" rel="noopener noreferrer">CS201: Elementary Data Structures</a> | Saylor Academy |Professional|38 | ��|
 | <a href="https://learn.saylor.org/course/view.php?id=67" target="_blank" rel="noopener noreferrer">CS202: Discrete Structures</a> | Saylor Academy |Professional|44 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=71" target="_blank" rel="noopener noreferrer">CS301: Computer Architecture</a> | Saylor Academy |Professional|48 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=73" target="_blank" rel="noopener noreferrer">CS302: Software Engineering</a> | Saylor Academy |Professional|45 | 🏆|
