@@ -9,7 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Awesome Vue.js ](#awesome-vuejs--)
+- [Awesome Vue.js  ](#awesome-vuejs--)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -75,7 +75,6 @@
         - [Date Picker](#date-picker)
       - [Select](#select)
       - [Drag and Drop](#drag-and-drop)
-      - [Autocomplete](#autocomplete)
       - [Type Select](#type-select)
       - [Color Picker](#color-picker)
       - [Switch](#switch)
@@ -619,6 +618,7 @@
 - [douyin ![GitHub Repo Stars](https://img.shields.io/github/stars/zyronon/douyin) ![GitHub last commit](https://img.shields.io/github/last-commit/zyronon/douyin)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 - [MyIP ![GitHub Repo Stars](https://img.shields.io/github/stars/jason5ng32/MyIP) ![GitHub last commit](https://img.shields.io/github/last-commit/jason5ng32/MyIP)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 - [fylepad ![GitHub Repo Stars](https://img.shields.io/github/stars/imrofayel/fylepad) ![GitHub last commit](https://img.shields.io/github/last-commit/imrofayel/fylepad)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+- [fresfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/dkioroglou/fresfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/dkioroglou/fresfolio)](https://github.com/dkioroglou/fresfolio) - a browser-based note-taking app for managing personal and research projects. The app uses Flask as backend and Vue.js as frontend leveraging the Quasar framework for UI components and responsive design.
 
 ### Commercial Products
 
@@ -642,6 +642,8 @@
 - [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
+- [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
+
 
 ### Apps/Websites
 
@@ -872,7 +874,7 @@
 
 _Set of components + responsive layout system_
 
-- [quasar-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/quasarframework/quasar) ![GitHub last commit](https://img.shields.io/github/last-commit/quasarframework/quasar)](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.
+- [quasar-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/quasarframework/quasar) ![GitHub last commit](https://img.shields.io/github/last-commit/quasarframework/quasar)](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with Vue.js 3.
 - [vue-material ![GitHub Repo Stars](https://img.shields.io/github/stars/vuematerial/vue-material) ![GitHub last commit](https://img.shields.io/github/last-commit/vuematerial/vue-material)](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
 - [vuetify ![GitHub Repo Stars](https://img.shields.io/github/stars/vuetifyjs/vuetify) ![GitHub last commit](https://img.shields.io/github/last-commit/vuetifyjs/vuetify)](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
 - [buefy ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelpimpa/buefy) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelpimpa/buefy)](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
@@ -1036,6 +1038,7 @@ _Tables / data grids_
 - [hy-vue-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/Xeyos88/HyVueGantt) ![GitHub last commit](https://img.shields.io/github/last-commit/Xeyos88/HyVueGantt)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
 - [Vue Pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/Seungwoo321/vue-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/Seungwoo321/vue-pivottable)](https://github.com/Seungwoo321/vue-pivottable) – A Vue 2 port of the jQuery-based PivotTable.js.
 - [Vue3 Pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-pivottable/vue3-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-pivottable/vue3-pivottable)](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
+- [GridSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/walkframe/gridsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/walkframe/gridsheet)](https://github.com/walkframe/gridsheet) - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
 
 #### Notification
 
@@ -1114,6 +1117,8 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-awesome-sidebar ![GitHub Repo Stars](https://img.shields.io/github/stars/amirkian007/vue-awesome-sidebar) ![GitHub last commit](https://img.shields.io/github/last-commit/amirkian007/vue-awesome-sidebar)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
 - [vue-use-fixed-header ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/vue-use-fixed-header) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/vue-use-fixed-header)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 - [navpress ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronlamz/navpress) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronlamz/navpress)](https://github.com/aaronlamz/navpress) - NavPress is a CLI tool for generating static navigation websites. It allows you to quickly build a navigation site through a configuration file.
+- [vue-my-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/david-cm-dev/vue-my-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/david-cm-dev/vue-my-dropdown)](https://github.com/david-cm-dev/vue-my-dropdown) - A customizable dropdown component for Vue 3 with TypeScript support.
+
 
 #### Carousel
 
@@ -1415,6 +1420,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Vorm ![GitHub Repo Stars](https://img.shields.io/github/stars/Flo0806/vorm) ![GitHub last commit](https://img.shields.io/github/last-commit/Flo0806/vorm)](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
 - [VueFormify ![GitHub Repo Stars](https://img.shields.io/github/stars/mateenagy/vue-formify) ![GitHub last commit](https://img.shields.io/github/last-commit/mateenagy/vue-formify)](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
 - [Enforma](https://encolajs.com/enforma/) - UI agnostic, schema-ready form library for Vue 3. 30+ built-in validation rules. UI presets for Vuetify, PrimeVue and Quasar
+- [piying-view ![GitHub Repo Stars](https://img.shields.io/github/stars/piying-org/piying-view) ![GitHub last commit](https://img.shields.io/github/last-commit/piying-org/piying-view)](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Vue 3
 
 ##### Validation
 
@@ -1427,6 +1433,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [vorms ![GitHub Repo Stars](https://img.shields.io/github/stars/Mini-ghost/vorms) ![GitHub last commit](https://img.shields.io/github/last-commit/Mini-ghost/vorms)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [regle ![GitHub Repo Stars](https://img.shields.io/github/stars/victorgarciaesgi/regle) ![GitHub last commit](https://img.shields.io/github/last-commit/victorgarciaesgi/regle)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
+- [validation-composable ![GitHub Repo Stars](https://img.shields.io/github/stars/nexxtmove/validation-composable) ![GitHub last commit](https://img.shields.io/github/last-commit/nexxtmove/validation-composable)](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
 
 #### Resize
 
@@ -1477,7 +1484,7 @@ _Detect when components enter viewport_
 - [@formkit/auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/auto-animate)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [blottie ![GitHub Repo Stars](https://img.shields.io/github/stars/Applelo/blottie) ![GitHub last commit](https://img.shields.io/github/last-commit/Applelo/blottie)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/jizai1125/vue-countup-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/jizai1125/vue-countup-v3)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
-- [vue-to-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/siaikin/vue-to-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/siaikin/vue-to-counter)](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
+- [timered-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/siaikin/timered-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/siaikin/timered-counter)](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
 
 #### Meta Tags
 
@@ -1671,6 +1678,7 @@ _Integrate with services or other frameworks_
 - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
 - [Bit ![GitHub Repo Stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 - [Vue Mess Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/rrd108/vue-mess-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/rrd108/vue-mess-detector)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
+- [Vue Log Arsenal ![GitHub Repo Stars](https://img.shields.io/github/stars/MvdZon/Vue3-log-arsenal) ![GitHub last commit](https://img.shields.io/github/last-commit/MvdZon/Vue3-log-arsenal)](https://github.com/MvdZon/Vue3-log-arsenal) - Lightweight Vue 3 plugin providing logging directives for easier debugging
 
 #### Inspect
 
@@ -1678,6 +1686,7 @@ _Inspecting & debugging_
 
 - [devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/devtools)](https://github.com/vuejs/devtools) - Chrome devtools extension for debugging Vue.js applications.
 - [vite-plugin-vue-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/webfansplz/vite-plugin-vue-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/webfansplz/vite-plugin-vue-inspector)](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
+- [vue-flow-vis ![GitHub Repo Stars](https://img.shields.io/github/stars/MiloradFilipovic/vue-flow-vis) ![GitHub last commit](https://img.shields.io/github/last-commit/MiloradFilipovic/vue-flow-vis)](https://github.com/MiloradFilipovic/vue-flow-vis) - real-time monitoring of component renders and reactive dependency tracking
 
 #### Docs
 

@@ -294,7 +294,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
 * 📝 [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * 📝 [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
+* ���� [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
 
 ## Algebra
