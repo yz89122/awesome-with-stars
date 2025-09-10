@@ -531,7 +531,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Newton Dynamics ![GitHub Repo Stars](https://img.shields.io/github/stars/MADEAPPS/newton-dynamics) ![GitHub last commit](https://img.shields.io/github/last-commit/MADEAPPS/newton-dynamics)](https://github.com/MADEAPPS/newton-dynamics/) - Real-time simulation of 3D environments.
     - 🎉 [ODE](http://www.ode.org/) - Open Dynamics Engine, 3D rigid body physics.
     - 🎉 [Qu3e ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/qu3e) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/qu3e)](https://github.com/RandyGaul/qu3e) - Fast 3D physics engine, created to be used in games.
-    - ���� [ReactPhysics3D ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielChappuis/reactphysics3d) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielChappuis/reactphysics3d)](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
+    - 🎉 [ReactPhysics3D ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielChappuis/reactphysics3d) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielChappuis/reactphysics3d)](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
     - 🎉 [Slingshot ![GitHub Repo Stars](https://img.shields.io/github/stars/Slingshot-Physics/slingshot-community) ![GitHub last commit](https://img.shields.io/github/last-commit/Slingshot-Physics/slingshot-community)](https://github.com/Slingshot-Physics/slingshot-community) - Constraint-based physics engine for 3D rigid body dynamics.
 - C++: Reflection
     - 🎉 [Boost.PFR ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/pfr) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/pfr)](https://github.com/boostorg/pfr) - Basic reflection C++14 library, part of the Boost Libraries.
@@ -1036,7 +1036,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Rust: Gui
     - 🔒 [Azul ![GitHub Repo Stars](https://img.shields.io/github/stars/fschutt/azul) ![GitHub last commit](https://img.shields.io/github/last-commit/fschutt/azul)](https://github.com/fschutt/azul) - Desktop gui framework.
     - 🎉 [Dioxus ![GitHub Repo Stars](https://img.shields.io/github/stars/dioxuslabs/dioxus) ![GitHub last commit](https://img.shields.io/github/last-commit/dioxuslabs/dioxus)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
-    - 🎉 [Druid ![GitHub Repo Stars](https://img.shields.io/github/stars/linebender/druid) ![GitHub last commit](https://img.shields.io/github/last-commit/linebender/druid)](https://github.com/linebender/druid) - Data-first gui design toolkit.
+    - ���� [Druid ![GitHub Repo Stars](https://img.shields.io/github/stars/linebender/druid) ![GitHub last commit](https://img.shields.io/github/last-commit/linebender/druid)](https://github.com/linebender/druid) - Data-first gui design toolkit.
     - 🎉 [egui ![GitHub Repo Stars](https://img.shields.io/github/stars/emilk/egui) ![GitHub last commit](https://img.shields.io/github/last-commit/emilk/egui)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. [[Demo](https://www.egui.rs/)]
     - 🔒 [Slint ![GitHub Repo Stars](https://img.shields.io/github/stars/slint-ui/slint) ![GitHub last commit](https://img.shields.io/github/last-commit/slint-ui/slint)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly _SixtyFPS_. [[Website](https://slint-ui.com/)]
 - Rust: Physics
