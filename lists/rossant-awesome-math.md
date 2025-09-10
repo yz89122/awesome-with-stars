@@ -405,7 +405,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * 📝 [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
 * 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
-* 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
+* ��� [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * 📝 [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
 * 📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
@@ -488,7 +488,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * 📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 * 📝 [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
-* ���� [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
+* 📝 [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
 ### Functional Analysis
 
