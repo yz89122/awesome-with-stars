@@ -565,7 +565,7 @@ Webpage: http://www.trunkcoffee.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
+✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | ��～木／9:30-21:00　金／9:30-22:00
 　土／9:00-22:00　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
@@ -1145,7 +1145,7 @@ Webpage: https://www.facebook.com/cafelinne/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
+✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1199,7 +1199,7 @@ Webpage: https://london.hackspace.org.uk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-�� | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
