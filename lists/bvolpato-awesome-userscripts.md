@@ -564,7 +564,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.chatgptwidescreen.com/#readme">
             Readme</a> /
-        ��� <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
@@ -663,7 +663,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
+        �� <a href="https://github.com/KudoAI/amazongpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
             Report bug</a>
@@ -805,7 +805,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
-        ��� <a href="https://gm.ddgpt.com">
+        💾 <a href="https://gm.ddgpt.com">
             Install</a> /
         📖 <a href="https://docs.ddgpt.com/#readme">
             Readme</a> /
