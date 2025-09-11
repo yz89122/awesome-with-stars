@@ -41,11 +41,8 @@ Just a quick update to let folks know that I'm going to be working through the b
 
 > Resources added in the past 7 days
 
-[`claude-code-statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/rz1989s/claude-code-statusline) ![GitHub last commit](https://img.shields.io/github/last-commit/rz1989s/claude-code-statusline)](https://github.com/rz1989s/claude-code-statusline) &nbsp; by &nbsp; [rz1989s](https://github.com/rz1989s)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
-
-[`Claude Code PM` ![GitHub Repo Stars](https://img.shields.io/github/stars/automazeio/ccpm) ![GitHub last commit](https://img.shields.io/github/last-commit/automazeio/ccpm)](https://github.com/automazeio/ccpm) &nbsp; by &nbsp; [Ran Aroussi](https://github.com/ranaroussi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.
+[`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
 
 ## Contents
@@ -145,6 +142,9 @@ Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, sp
 
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+
+[`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
 [`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
@@ -274,7 +274,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 [`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
-[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`/create-worktrees` ![GitHub Repo Stars](https://img.shields.io/github/stars/evmts/tevm-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/evmts/tevm-monorepo)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) &nbsp; by &nbsp; [evmts](https://github.com/evmts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
 
 [`/fix-github-issue` ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremymailen/kotlinter-gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremymailen/kotlinter-gradle)](https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md) &nbsp; by &nbsp; [jeremymailen](https://github.com/jeremymailen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
