@@ -504,7 +504,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Data Mechanics](https://www.datamechanics.co) | A data science and engineering platform making Apache Spark more developer-friendly and cost-effective. |
 | [Caffe](https://caffe.berkeleyvision.org/) | Deep Learning Framework |
 | [Torch](http://torch.ch/) | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT |
-| [Nervana's python based Deep Learning Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/NervanaSystems/neon) ![GitHub last commit](https://img.shields.io/github/last-commit/NervanaSystems/neon)](https://github.com/NervanaSystems/neon) | Intel�� Nervana™ reference deep learning framework committed to best performance on all hardware. |
+| [Nervana's python based Deep Learning Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/NervanaSystems/neon) ![GitHub last commit](https://img.shields.io/github/last-commit/NervanaSystems/neon)](https://github.com/NervanaSystems/neon) | Intel® Nervana™ reference deep learning framework committed to best performance on all hardware. |
 | [Skale ![GitHub Repo Stars](https://img.shields.io/github/stars/skale-me/skale) ![GitHub last commit](https://img.shields.io/github/last-commit/skale-me/skale)](https://github.com/skale-me/skale) | High performance distributed data processing in NodeJS |
 | [Aerosolve](https://airbnb.io/aerosolve/) | A machine learning package built for humans. |
 | [Intel framework ![GitHub Repo Stars](https://img.shields.io/github/stars/intel/idlf) ![GitHub last commit](https://img.shields.io/github/last-commit/intel/idlf)](https://github.com/intel/idlf) | Intel® Deep Learning Framework |
