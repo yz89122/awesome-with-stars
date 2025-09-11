@@ -112,7 +112,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 💡 [Flutter Calendar App ![GitHub Repo Stars](https://img.shields.io/github/stars/mattgraham1/FlutterCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/mattgraham1/FlutterCalendar)](https://github.com/mattgraham1/FlutterCalendar) -
   New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 - 🔧 [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) - Distribute pre-release versions of your app to your trusted testers.
-- 🔌 [Flamingo ![GitHub Repo Stars](https://img.shields.io/github/stars/hukusuke1007/flamingo) ![GitHub last commit](https://img.shields.io/github/last-commit/hukusuke1007/flamingo)](https://github.com/hukusuke1007/flamingo) - A Firebase Firestore model framework for Dart.
+- ��� [Flamingo ![GitHub Repo Stars](https://img.shields.io/github/stars/hukusuke1007/flamingo) ![GitHub last commit](https://img.shields.io/github/last-commit/hukusuke1007/flamingo)](https://github.com/hukusuke1007/flamingo) - A Firebase Firestore model framework for Dart.
 
 ### Android
 
