@@ -41,6 +41,9 @@ Just a quick update to let folks know that I'm going to be working through the b
 
 > Resources added in the past 7 days
 
+[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
+
 [`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
@@ -85,6 +88,9 @@ A comprehensive knowledge base with detailed breakdowns of advanced [mechanics](
 
 [`Context Priming` ![GitHub Repo Stars](https://img.shields.io/github/stars/disler/just-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/disler/just-prompt)](https://github.com/disler/just-prompt/tree/main/.claude/commands) &nbsp; by &nbsp; [disler](https://github.com/disler)    
 Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
+
+[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
 
 [`Laravel TALL Stack AI Development Starter Kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/tott/laravel-tall-claude-ai-configs) ![GitHub last commit](https://img.shields.io/github/last-commit/tott/laravel-tall-claude-ai-configs)](https://github.com/tott/laravel-tall-claude-ai-configs) &nbsp; by &nbsp; [tott](https://github.com/tott)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
@@ -441,7 +447,7 @@ Features comprehensive repository structure breakdown with strong emphasis on co
 [`Inkline` ![GitHub Repo Stars](https://img.shields.io/github/stars/inkline/inkline) ![GitHub last commit](https://img.shields.io/github/last-commit/inkline/inkline)](https://github.com/inkline/inkline/blob/main/CLAUDE.md) &nbsp; by &nbsp; [inkline](https://github.com/inkline)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
 Structures development workflow using pnpm with emphasis on TypeScript and Vue 3 Composition API, detailed component creation process, and comprehensive testing recommendations.
 
-[`JSBeeb` ![GitHub Repo Stars](https://img.shields.io/github/stars/mattgodbolt/jsbeeb) ![GitHub last commit](https://img.shields.io/github/last-commit/mattgodbolt/jsbeeb)](https://github.com/mattgodbolt/jsbeeb/blob/main/CLAUDE.md) &nbsp; by &nbsp; [mattgodbolt](https://github.com/mattgodbolt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
+[`JSBeeb` ![GitHub Repo Stars](https://img.shields.io/github/stars/mattgodbolt/jsbeeb) ![GitHub last commit](https://img.shields.io/github/last-commit/mattgodbolt/jsbeeb)](https://github.com/mattgodbolt/jsbeeb/blob/main/CLAUDE.md) &nbsp; by &nbsp; [mattgodbolt](https://github.com/mattgodbolt)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;GPL-3.0  
 Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.
 
 [`Lamoom Python` ![GitHub Repo Stars](https://img.shields.io/github/stars/LamoomAI/lamoom-python) ![GitHub last commit](https://img.shields.io/github/last-commit/LamoomAI/lamoom-python)](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md) &nbsp; by &nbsp; [LamoomAI](https://github.com/LamoomAI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
