@@ -5,7 +5,7 @@
   
   <!-- Same ASCII art for all screen sizes, just scales down on mobile -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
     <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/logo-light.svg" alt="Awesome Claude Code" width="100%" style="max-width: 900px;">
   </picture>
   
@@ -13,13 +13,14 @@
 
 <!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7080D&random=true&width=435&lines=Fumigating...;Gallivanting...;Matriculating...;Toodleedoodling...;Goo-goo-g'joob-ing...;Excaliburating...;Canoodling...;Doing+the+humpty+dance...;Shiver-me-timbers-ing...;Becoming+sentient...;Opening+the+pod+bay+doors...;Rimraf-ing;23-skidoo-ing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7080D&random=true&width=435&lines=Fumigating...;Gallivanting...;Matriculating...;Toodleedoodling...;Goo-goo-g'joob-ing...;Excaliburating...;Canoodling...;Doing+the+humpty+dance...;Shiver-me-timbers-ing...;Becoming+sentient...;Opening+the+pod+bay+doors...;Rimraf-ing...;23-skidoo-ing...;Skip-to-my-loo'ing...;High-falutin'...;Disambiguating...;Coagulating...;Undulating...;Just+Clauding+around...)](https://git.io/typing-svg)
 
 <!--lint enable remark-lint:awesome-badge-->
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![FREEDOM FUNDER ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/freedom-funder-badge.svg)](https://bailproject.org)
 
-# [Awesome Claude Code ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code) 🤝 [Awesome Claude Code Agents ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code-agents)](https://github.com/hesreallyhim/awesome-claude-code-agents)
+
+# Awesome Claude Code
 
 <!--lint enable remark-lint:awesome-badge-->
 
@@ -33,9 +34,11 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 ### Announcements
 
-- 2025-09-07
+#### 2025-09-12 - 💰💰💰 DONATIONS 💰💰💰
 
-Just a quick update to let folks know that I'm going to be working through the backlog of submissions as soon as I can, as I've been unable to attend much to the repo this past week, so thanks to everyone who is contributing and apologies for any delays. Also, I'll be adding GitHub stats to the GitHub resources in the list, since some people have requested the ability to see "star counts", but I want to do it in a a way that is mindful of the fact that I'm often adding very new repositories, so star count alone is not always a super strong signal with respect to quality (to put it one way, part of the purpose of this repo is to highlight projects that are awesome but don't have visibility). Also, keep in mind this is a _curated_ list of Claude Code resources, so although I don't often reject proposals because I don't think they're awesome, I also do take time to vet the resources for quality and security (which also means I have to take the time to test-drive every submission, otherwise it would just be a mega-list). So, hopefully more updates and more additions to come soon - and another reminder to please use the **Issues** tab to submit resources - moving forward, I'll ask anyone who submits a resource via a Pull Request to re-submit using the Issue - Resource Submission Form, which is in decent working order and 100x simpler for all parties. See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for more details. Thanks! Keep flibbertidaddling!
+- We've got a few new resources this week, and I've made some good progress on the backlog.
+
+- I've created a [DONATING](DONATING.md) page in case anyone want to support this repository. This is _not_ a GitHub sponsorship or a "Buy Me a Coffee" link - I'm trying something a little different. Hopefully it will work out. See the very bottom of the README for an overview, and check out the [DONATING](DONATING.md) page for details. **We get a lot of visitors here at Awesome Claude Code (currently about 100 new stars a day) - can we raise $100 for a good cause by the end of next week??** Let's see what this community can do! ���
 
 ## This Week's Additions ✨
 
@@ -50,6 +53,14 @@ A tailored workflow for enabling automated UI/UX design review, including specia
 [`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
+
+## Awesome Claude Code Freedom Funders
+
+- hesreallyhim (repository maintainer)
+
+### Total Amount Raised:
+
+**$???** (Will be disclosed once a non-trivial amount has been raised.)
 
 ## Contents
 
@@ -241,7 +252,7 @@ A vim-style powerline statusline for Claude Code with real-time usage tracking, 
 
 **[Experimental]** - The resources listed in this section have not been fully vetted and may not work as expected, given the bleeding-edge nature of Claude Code hooks. Nevertheless, I wished to include them at least as a source of inspiration and to explore this unknown terrain. YMMV!
 
-[`CC Notify` ![GitHub Repo Stars](https://img.shields.io/github/stars/dazuiba/CCNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/dazuiba/CCNotify)](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)    
+[`CC Notify` ![GitHub Repo Stars](https://img.shields.io/github/stars/dazuiba/CCNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/dazuiba/CCNotify)](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
 
 [`cchooks` ![GitHub Repo Stars](https://img.shields.io/github/stars/GowayLee/cchooks) ![GitHub last commit](https://img.shields.io/github/last-commit/GowayLee/cchooks)](https://github.com/GowayLee/cchooks) &nbsp; by &nbsp; [GowayLee](https://github.com/GowayLee)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -465,7 +476,7 @@ Offers comprehensive build and test commands with detailed TypeScript style guid
 [`Metabase` ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase/blob/master/CLAUDE.md) &nbsp; by &nbsp; [metabase](https://github.com/metabase)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
 Details workflow for REPL-driven development in Clojure/ClojureScript with emphasis on incremental development, testing, and step-by-step approach for feature implementation.
 
-[`SG Cars Trends Backend` ![GitHub Repo Stars](https://img.shields.io/github/stars/sgcarstrends/backend) ![GitHub last commit](https://img.shields.io/github/last-commit/sgcarstrends/backend)](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) &nbsp; by &nbsp; [sgcarstrends](https://github.com/sgcarstrends)    
+[`SG Cars Trends Backend` ![GitHub Repo Stars](https://img.shields.io/github/stars/sgcarstrends/backend) ![GitHub last commit](https://img.shields.io/github/last-commit/sgcarstrends/backend)](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) &nbsp; by &nbsp; [sgcarstrends](https://github.com/sgcarstrends)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.
 
 [`SPy` ![GitHub Repo Stars](https://img.shields.io/github/stars/spylang/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/spylang/spy)](https://github.com/spylang/spy/blob/main/CLAUDE.md) &nbsp; by &nbsp; [spylang](https://github.com/spylang)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -547,11 +558,20 @@ It's easy! Just click the link above and fill out the form. No Git knowledge req
 - Additional libraries and tooling that are built on top of Claude Code
 - Applications of Claude Code outside of the traditional "coding assistant" context (CI/CD, testing, documentation, dev-ops, etc.)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the complete submission guide and review process.
+See [CONTRIBUTING.md](/CONTRIBUTING.md) for the complete submission guide and review process.
 
 For suggestions about the repository itself, please [open a general issue ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/issues/new).
 
-This project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating, you agree to abide by its terms.
+This project is released with a [Contributor Code of Conduct](/code-of-conduct.md). By participating, you agree to abide by its terms.
+
+## Donations 💰
+
+I like drinking coffee, but I _really_ like bail relief.
+
+If you want to support this repository, you can do so by making a donation in my name to [The Bail Project](https://bailproject.org/), which helps pay for people's cash bail, so that people who are presumed innocent don't have to sit in a cage waiting for a court appearance. Although that doesn't directly compensate any of my work here, it would motivate me to continue to devote my time, energy, and resources, and any reader or project that donates will receive recognition (including one of these badass badges). Please check out the [DONATING](/DONATING.md) page for detailed information.
+
+**FREEDOM FUNDER BADGE**
+![FREEDOM FUNDER](https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/freedom-funder-badge.svg)
 
 ### A note about licenses
 
