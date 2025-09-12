@@ -1434,6 +1434,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vorms ![GitHub Repo Stars](https://img.shields.io/github/stars/Mini-ghost/vorms) ![GitHub last commit](https://img.shields.io/github/last-commit/Mini-ghost/vorms)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [regle ![GitHub Repo Stars](https://img.shields.io/github/stars/victorgarciaesgi/regle) ![GitHub last commit](https://img.shields.io/github/last-commit/victorgarciaesgi/regle)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
 - [validation-composable ![GitHub Repo Stars](https://img.shields.io/github/stars/nexxtmove/validation-composable) ![GitHub last commit](https://img.shields.io/github/last-commit/nexxtmove/validation-composable)](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
+- [vue-uform ![GitHub Repo Stars](https://img.shields.io/github/stars/tu6ge/vue-uform) ![GitHub last commit](https://img.shields.io/github/last-commit/tu6ge/vue-uform)](https://github.com/tu6ge/vue-uform) - an component-first, unstyled, flexible form validation library for Vue 3
 
 #### Resize
 
