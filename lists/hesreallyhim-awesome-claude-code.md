@@ -345,7 +345,7 @@ Creates reproducible test cases for GitHub issues, ensuring tests fail reliably 
 [`/tdd` ![GitHub Repo Stars](https://img.shields.io/github/stars/zscott/pane) ![GitHub last commit](https://img.shields.io/github/last-commit/zscott/pane)](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) &nbsp; by &nbsp; [zscott](https://github.com/zscott)    
 Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
 
-[`/tdd-implement` ![GitHub Repo Stars](https://img.shields.io/github/stars/jerseycheese/Narraitor) ![GitHub last commit](https://img.shields.io/github/last-commit/jerseycheese/Narraitor)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) &nbsp; by &nbsp; [jerseycheese](https://github.com/jerseycheese)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`/tdd-implement` ![GitHub Repo Stars](https://img.shields.io/github/stars/jerseycheese/Narraitor) ![GitHub last commit](https://img.shields.io/github/last-commit/jerseycheese/Narraitor)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) &nbsp; by &nbsp; [jerseycheese](https://github.com/jerseycheese)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
 
 
