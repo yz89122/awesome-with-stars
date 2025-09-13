@@ -402,7 +402,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [AMQP ![GitHub Repo Stars](https://img.shields.io/github/stars/andersfugmann/amqp-client) ![GitHub last commit](https://img.shields.io/github/last-commit/andersfugmann/amqp-client)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
 - [MPI ![GitHub Repo Stars](https://img.shields.io/github/stars/xavierleroy/ocamlmpi) ![GitHub last commit](https://img.shields.io/github/last-commit/xavierleroy/ocamlmpi)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 - [MQTT ![GitHub Repo Stars](https://img.shields.io/github/stars/j0sh/ocaml-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/j0sh/ocaml-mqtt)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
-- [capnp-ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/capnproto/capnp-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/capnproto/capnp-ocaml)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+- [capnp-ocaml ![GitHub Repo Stars](https://img.shields.io/github/stars/capnproto/capnp-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/capnproto/capnp-ocaml)](https://github.com/capnproto/capnp-ocaml) �� OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ## Metaprogramming
 
@@ -440,7 +440,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **HTTP Tools**:
   - [ocaml-cohttp ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-cohttp) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-cohttp)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocurl) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocurl)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-  - [httpaf ![GitHub Repo Stars](https://img.shields.io/github/stars/inhabitedtype/httpaf) ![GitHub last commit](https://img.shields.io/github/last-commit/inhabitedtype/httpaf)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+  - [httpaf ![GitHub Repo Stars](https://img.shields.io/github/stars/inhabitedtype/httpaf) ![GitHub last commit](https://img.shields.io/github/last-commit/inhabitedtype/httpaf)](https://github.com/inhabitedtype/httpaf) ��� A high performance, memory efficient, and scalable web server written in OCaml.
   - [piaf ![GitHub Repo Stars](https://img.shields.io/github/stars/anmonteiro/piaf) ![GitHub last commit](https://img.shields.io/github/last-commit/anmonteiro/piaf)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 - [ocaml-dns ![GitHub Repo Stars](https://img.shields.io/github/stars/mirage/ocaml-dns) ![GitHub last commit](https://img.shields.io/github/last-commit/mirage/ocaml-dns)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [fluent-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/fluent/fluent-logger-ocaml) ![GitHub last commit](https://img.shields.io/github/last-commit/fluent/fluent-logger-ocaml)](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
