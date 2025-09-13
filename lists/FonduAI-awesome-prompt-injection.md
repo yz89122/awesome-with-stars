@@ -46,6 +46,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 
 - [Token Turbulenz ![GitHub Repo Stars](https://img.shields.io/github/stars/wunderwuzzi23/token-turbulenz) ![GitHub last commit](https://img.shields.io/github/last-commit/wunderwuzzi23/token-turbulenz)](https://github.com/wunderwuzzi23/token-turbulenz) - A fuzzer to automate looking for possible Prompt Injections.
 - [Garak ![GitHub Repo Stars](https://img.shields.io/github/stars/leondz/garak) ![GitHub last commit](https://img.shields.io/github/last-commit/leondz/garak)](https://github.com/leondz/garak) - Automate looking for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses in LLM's.
+- [InjectLab ![GitHub Repo Stars](https://img.shields.io/github/stars/ahow2004/injectlab) ![GitHub last commit](https://img.shields.io/github/last-commit/ahow2004/injectlab)](https://github.com/ahow2004/injectlab) - A MITRE-style matrix of adversarial prompt injection techniques with mitigations and real-world examples
 
 ## CTF
 
