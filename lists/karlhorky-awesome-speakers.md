@@ -2093,7 +2093,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 Topics: CSS, Animations\
 https://twitter.com/evaferreira92
 
-## Brazil 🇧🇷
+## Brazil ��🇷
 
 ### Belo Horizonte
 
