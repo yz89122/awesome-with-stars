@@ -565,7 +565,7 @@ Webpage: http://www.trunkcoffee.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
+✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | ���～木／9:30-21:00　金／9:30-22:00
 　土／9:00-22:00　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
@@ -1329,7 +1329,7 @@ Webpage: http://www.perfectcupchicago.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-�� | ✔ | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00
+✔ | ✔ | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00
 
 ## Maryland <a id="maryland"></a>
 ### Baltimore, MD <a id="baltimore-md"></a>
