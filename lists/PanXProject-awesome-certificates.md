@@ -453,7 +453,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆��</a>
 
 
 ### Business Analytics
