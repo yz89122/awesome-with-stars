@@ -136,6 +136,7 @@
 - [Google Sheets ETL ![GitHub Repo Stars](https://img.shields.io/github/stars/fulldecent/google-sheets-etl) ![GitHub last commit](https://img.shields.io/github/last-commit/fulldecent/google-sheets-etl)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
 - [CsvPath Framework](https://www.csvpath.org/) - A delimited data preboarding framework that fills the gap between MFT and the data lake.
 - [Estuary Flow](https://estuary.dev) - No/low-code data pipeline platform that handles both batch and real-time data ingestion.
+- [db2lake ![GitHub Repo Stars](https://img.shields.io/github/stars/bahador-r/db2lake) ![GitHub last commit](https://img.shields.io/github/last-commit/bahador-r/db2lake)](https://github.com/bahador-r/db2lake) – Lightweight Node.js ETL framework for databases → data lakes/warehouses.
 
 ## File System
 
