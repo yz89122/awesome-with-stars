@@ -1215,7 +1215,7 @@ Kani verifies:
 
 - [RustViz ![GitHub Repo Stars](https://img.shields.io/github/stars/rustviz/rustviz) ![GitHub last commit](https://img.shields.io/github/last-commit/rustviz/rustviz)](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
 
-- [warnalyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/est31/warnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/est31/warnalyzer)](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
+- **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 
 
 <a name="sql" />
