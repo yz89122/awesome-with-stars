@@ -210,7 +210,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [CMetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/MetricsGrimoire/CMetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/MetricsGrimoire/CMetrics)](https://github.com/MetricsGrimoire/CMetrics) — Measures size and complexity for C files.
 
-- [CPAchecker](https://cpachecker.sosy-lab.org) — A tool for configurable software verification of C programs.  The name CPAchecker was chosen to reflect that the tool is based on the CPA concepts and is used for checking software programs.
+- [CPAchecker](https://cpachecker.sosy-lab.org) �� A tool for configurable software verification of C programs.  The name CPAchecker was chosen to reflect that the tool is based on the CPA concepts and is used for checking software programs.
 
 - [cppcheck](https://cppcheck.sourceforge.io) — Static analysis of C/C++ code.
 
@@ -564,7 +564,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nakedret ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nakedret) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nakedret)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 
-- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) �� Finds unused arguments in function declarations.
+- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
 - [prealloc ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/prealloc) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/prealloc)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
