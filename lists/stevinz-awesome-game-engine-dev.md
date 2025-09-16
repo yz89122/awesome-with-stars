@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Metal](https://developer.apple.com/metal/) - API for developing 3D apps on _Apple_ platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Metal at _RayWenderlich.com_.
 - Graphics API: OpenGL
-    - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
+    - ��� [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
@@ -275,7 +275,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Audio
     - ⭐ [Miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/miniaudio)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
     - 🎉 [SDL_mixer ![GitHub Repo Stars](https://img.shields.io/github/stars/libsdl-org/SDL_mixer) ![GitHub last commit](https://img.shields.io/github/last-commit/libsdl-org/SDL_mixer)](https://github.com/libsdl-org/SDL_mixer) - Audio mixer that supports various file formats for SDL.
-    - 🎉 [SoLoud ![GitHub Repo Stars](https://img.shields.io/github/stars/jarikomppa/soloud) ![GitHub last commit](https://img.shields.io/github/last-commit/jarikomppa/soloud)](https://github.com/jarikomppa/soloud) 🔥 - Free, easy, portable audio engine for games.
+    - ���� [SoLoud ![GitHub Repo Stars](https://img.shields.io/github/stars/jarikomppa/soloud) ![GitHub last commit](https://img.shields.io/github/last-commit/jarikomppa/soloud)](https://github.com/jarikomppa/soloud) 🔥 - Free, easy, portable audio engine for games.
 - C: Cross-Platform
     - 🎉 [Cosmopolitan ![GitHub Repo Stars](https://img.shields.io/github/stars/jart/cosmopolitan) ![GitHub last commit](https://img.shields.io/github/last-commit/jart/cosmopolitan)](https://github.com/jart/cosmopolitan) - Build-once run-anywhere C library.
 - C: Entity Component System
@@ -724,7 +724,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
     - 🎉 [INSTEAD ![GitHub Repo Stars](https://img.shields.io/github/stars/instead-hub/instead) ![GitHub last commit](https://img.shields.io/github/last-commit/instead-hub/instead)](https://github.com/instead-hub/instead) - Simple Text Adventure Interpreter.
-    - ��� [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
+    - 🎉 [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
 
 ### Java
 - 📚 [Awesome Java ![GitHub Repo Stars](https://img.shields.io/github/stars/akullpp/awesome-java) ![GitHub last commit](https://img.shields.io/github/last-commit/akullpp/awesome-java)](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
