@@ -63,10 +63,9 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Component Libraries
 
-- [material-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/mui/material-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mui/material-ui)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
-- [ant-design ![GitHub Repo Stars](https://img.shields.io/github/stars/ant-design/ant-design) ![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems.
 - [shadcn-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn-ui/ui)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [ant-design ![GitHub Repo Stars](https://img.shields.io/github/stars/ant-design/ant-design) ![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [material-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/mui/material-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/mui/material-ui)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [chakra-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui)](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
 - [mantine ![GitHub Repo Stars](https://img.shields.io/github/stars/mantinedev/mantine) ![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine)](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-bootstrap ![GitHub Repo Stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap) ![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
