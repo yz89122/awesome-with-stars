@@ -74,6 +74,7 @@ A collection of awesome things regarding the React ecosystem.
 - [framework7 ![GitHub Repo Stars](https://img.shields.io/github/stars/framework7io/framework7) ![GitHub last commit](https://img.shields.io/github/last-commit/framework7io/framework7)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit ![GitHub Repo Stars](https://img.shields.io/github/stars/ariakit/ariakit) ![GitHub last commit](https://img.shields.io/github/last-commit/ariakit/ariakit)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-email ![GitHub Repo Stars](https://img.shields.io/github/stars/resend/react-email) ![GitHub last commit](https://img.shields.io/github/last-commit/resend/react-email)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
+- [8bitcn-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TheOrcDev/8bitcn-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TheOrcDev/8bitcn-ui)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 
 #### React State Management and Data Fetching
 
@@ -146,6 +147,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kbar ![GitHub Repo Stars](https://img.shields.io/github/stars/timc1/kbar) ![GitHub last commit](https://img.shields.io/github/last-commit/timc1/kbar)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/yairEO/tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/yairEO/tagify)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck ![GitHub Repo Stars](https://img.shields.io/github/stars/measuredco/puck) ![GitHub last commit](https://img.shields.io/github/last-commit/measuredco/puck)](https://github.com/measuredco/puck) - The visual editor for React
+- [json-edit-react ![GitHub Repo Stars](https://img.shields.io/github/stars/CarlosNZ/json-edit-react) ![GitHub last commit](https://img.shields.io/github/last-commit/CarlosNZ/json-edit-react)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
 
 #### React Components Sandboxes
 
@@ -193,6 +195,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs ![GitHub Repo Stars](https://img.shields.io/github/stars/formatjs/formatjs) ![GitHub last commit](https://img.shields.io/github/last-commit/formatjs/formatjs)](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/i18next/react-i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/i18next/react-i18next)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [react-inltayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React 
 
 #### React Graphics and Animations
 
