@@ -1653,7 +1653,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 <h2>.env</h2>
 
 
-- [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
+- [GitGuardian ggshield](https://www.gitguardian.com/ggshield) ��� ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
 
 <a name="ansible" />
