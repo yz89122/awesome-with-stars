@@ -127,6 +127,7 @@ A collection of awesome things regarding the React ecosystem.
 - [jest ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/jest) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/jest)](https://github.com/facebook/jest) - Delightful JavaScript Testing
 - [react-testing-library ![GitHub Repo Stars](https://img.shields.io/github/stars/testing-library/react-testing-library) ![GitHub last commit](https://img.shields.io/github/last-commit/testing-library/react-testing-library)](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [cypress ![GitHub Repo Stars](https://img.shields.io/github/stars/cypress-io/cypress) ![GitHub last commit](https://img.shields.io/github/last-commit/cypress-io/cypress)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+- [playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 #### React Awesome Components
 
@@ -159,7 +160,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Forms
 
 - [react-hook-form ![GitHub Repo Stars](https://img.shields.io/github/stars/react-hook-form/react-hook-form) ![GitHub last commit](https://img.shields.io/github/last-commit/react-hook-form/react-hook-form)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
-- [react-jsonschema-form ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla-services/react-jsonschema-form) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla-services/react-jsonschema-form)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
+- [react-jsonschema-form ![GitHub Repo Stars](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form) ![GitHub last commit](https://img.shields.io/github/last-commit/rjsf-team/react-jsonschema-form)](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/formily) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/formily)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form ![GitHub Repo Stars](https://img.shields.io/github/stars/TanStack/form) ![GitHub last commit](https://img.shields.io/github/last-commit/TanStack/form)](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
@@ -221,6 +222,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted ![GitHub Repo Stars](https://img.shields.io/github/stars/gaearon/overreacted.io) ![GitHub last commit](https://img.shields.io/github/last-commit/gaearon/overreacted.io)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave ![GitHub Repo Stars](https://img.shields.io/github/stars/wavetermdev/waveterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wavetermdev/waveterm)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [readest ![GitHub Repo Stars](https://img.shields.io/github/stars/readest/readest) ![GitHub last commit](https://img.shields.io/github/last-commit/readest/readest)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+- [bookcars ![GitHub Repo Stars](https://img.shields.io/github/stars/aelassas/bookcars) ![GitHub last commit](https://img.shields.io/github/last-commit/aelassas/bookcars)](https://github.com/aelassas/bookcars) - Car rental platform
 
 ### React Native
 
@@ -245,9 +247,10 @@ A collection of awesome things regarding the React ecosystem.
 
 - [realm-js ![GitHub Repo Stars](https://img.shields.io/github/stars/realm/realm-js) ![GitHub last commit](https://img.shields.io/github/last-commit/realm/realm-js)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info ![GitHub Repo Stars](https://img.shields.io/github/stars/react-native-device-info/react-native-device-info) ![GitHub last commit](https://img.shields.io/github/last-commit/react-native-device-info/react-native-device-info)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+- [react-native-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/react-native-maps/react-native-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/react-native-maps/react-native-maps)](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component
 
 ### Contribution
 
-This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
+This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
