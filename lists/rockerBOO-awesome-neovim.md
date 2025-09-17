@@ -1079,6 +1079,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [toggleword.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iquzart/toggleword.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iquzart/toggleword.nvim)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 - [johannww/tts.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/johannww/tts.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/johannww/tts.nvim)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
 - [piersolenski/brewfile.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/brewfile.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/brewfile.nvim)](https://github.com/piersolenski/brewfile.nvim) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
+- [ravsii/timers.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/timers.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/timers.nvim)](https://github.com/ravsii/timers.nvim) - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 
 ### CSV Files
 
@@ -1273,6 +1274,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [niuiic/omega.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/omega.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/omega.nvim)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
 - [2KAbhishek/utils.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/utils.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/utils.nvim)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 - [YaroSpace/lua-console.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/YaroSpace/lua-console.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/YaroSpace/lua-console.nvim)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
+- [DrKJeff16/wezterm-types ![GitHub Repo Stars](https://img.shields.io/github/stars/DrKJeff16/wezterm-types) ![GitHub last commit](https://img.shields.io/github/last-commit/DrKJeff16/wezterm-types)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server.
 
 <!--lint disable double-link -->
 
@@ -1337,6 +1339,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [yutkat/git-rebase-auto-diff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim)](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
 - [Kohei-Wada/yadm-git.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kohei-Wada/yadm-git.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kohei-Wada/yadm-git.nvim)](https://github.com/Kohei-Wada/yadm-git.nvim) - Seamless Git plugin support for yadm dotfiles.
 - [axkirillov/unified.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/axkirillov/unified.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/axkirillov/unified.nvim)](https://github.com/axkirillov/unified.nvim) - Displaying inline unified diffs directly in your buffer.
+- [StackInTheWild/headhunter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StackInTheWild/headhunter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StackInTheWild/headhunter.nvim)](https://github.com/StackInTheWild/headhunter.nvim) - Hunt and resolve merge conflicts directly in Neovim — fast and simple.
 
 ### GitHub
 
