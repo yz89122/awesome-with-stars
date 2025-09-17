@@ -175,7 +175,7 @@ A push-to-talk speech transcription setup for Linux using a Python MCP server. R
 [`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
-[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
 
 
