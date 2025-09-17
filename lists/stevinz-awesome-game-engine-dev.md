@@ -162,7 +162,7 @@ _Info on topics necessary for designing and developing game engines._
 - Books
     - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
     - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
-    - �� [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by _NVIDIA_.
+    - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by _NVIDIA_.
     - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - Top down approach to computer graphics.
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
@@ -405,7 +405,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/etherealengine-archive) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/etherealengine-archive)](https://github.com/ir-engine/etherealengine-archive) - Cross-platform game engine and editor.
     - 🎉 [ezEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ezEngine/ezEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ezEngine/ezEngine)](https://github.com/ezEngine/ezEngine) - Game engine in active development.
     - 🎉 [FIFE ![GitHub Repo Stars](https://img.shields.io/github/stars/fifengine/fifengine) ![GitHub last commit](https://img.shields.io/github/last-commit/fifengine/fifengine)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
-    - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
+    - ���� [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
     - 🎉 [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     - 🎉 [Lina Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/inanevin/LinaEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/inanevin/LinaEngine)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
     - 🎉 [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorton06/Lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorton06/Lumos)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
