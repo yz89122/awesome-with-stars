@@ -7,6 +7,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Contents
 
 - [Open-Source Projects](#open-source-projects)
+- [Lucid Dreaming Devices](#lucid-dreaming-devices)
 - [Forums](#forums)
 - [Discord Servers](#discord-servers)
 - [YouTube Channels](#youtube-channels)
@@ -25,13 +26,16 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Open-Source Projects
 
 - [Dreamento ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamento/dreamento) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamento/dreamento)](https://github.com/dreamento/dreamento) - DReam ENgenieering TOolbox is Python-based program for dream engineering while monitoring/analyzing real-time EEG data.
-- [INSPEC ![GitHub Repo Stars](https://img.shields.io/github/stars/lucidcode/Halovision-INSPEC) ![GitHub last commit](https://img.shields.io/github/last-commit/lucidcode/Halovision-INSPEC)](https://github.com/lucidcode/Halovision-INSPEC) - A night-vision smart camera that detects eye movements during REM sleep and triggers audio and visual alerts to promote lucidity.
 - [Fitbit Lucid Trainer ![GitHub Repo Stars](https://img.shields.io/github/stars/lucid-trainer/fit-lucid-trainer) ![GitHub last commit](https://img.shields.io/github/last-commit/lucid-trainer/fit-lucid-trainer)](https://github.com/lucid-trainer/fit-lucid-trainer) - A Fitbit SDK 5.0 App to capture sleep related data and send to an external REST service.
 - [Dream Journal App ![GitHub Repo Stars](https://img.shields.io/github/stars/gitbrent/dream-journal-app) ![GitHub last commit](https://img.shields.io/github/last-commit/gitbrent/dream-journal-app)](https://github.com/gitbrent/dream-journal-app) - A Dream Journal that uses Google Drive.
 - [lucidsourcekit ![GitHub Repo Stars](https://img.shields.io/github/stars/BitFlaker/lucidsourcekit) ![GitHub last commit](https://img.shields.io/github/last-commit/BitFlaker/lucidsourcekit)](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream ![GitHub Repo Stars](https://img.shields.io/github/stars/lucidcode/Lightened-Dream) ![GitHub last commit](https://img.shields.io/github/last-commit/lucidcode/Lightened-Dream)](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
 - [Dormio](https://christinatchen.github.io/dormio/) - Dormio influences the semi-lucid state of mind known as hypnagogia, which occurs just before falling asleep, by playing audio cues.
 - [SSILD Trainer ![GitHub Repo Stars](https://img.shields.io/github/stars/rochismo/ssild-react) ![GitHub last commit](https://img.shields.io/github/last-commit/rochismo/ssild-react)](https://github.com/rochismo/ssild-react) - A SSILD (Senses Initiated Lucid Dream) training web app designed to help you practice the SSILD cycles.
+
+## Lucid Dreaming Devices
+
+- [INSPEC](https://inspec.me) - A night-vision smart camera that detects eye movements during REM sleep and triggers audio and visual alerts to promote lucidity.
 
 ## Forums
 
