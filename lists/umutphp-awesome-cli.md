@@ -61,7 +61,7 @@ You can use "random" option to go a random awesome repository under a random cat
 
 ```bash
 > $ awesome-cli random
-aweome-cli Version 0.3.0
+awesome-cli Version 0.3.0
 ✔ Programming Languages
 ✔ Eta
 ✔ Community
@@ -75,7 +75,7 @@ When you use "surprise" option, awesome-cli will use your previous selections in
 
 ```bash
 > $ awesome-cli surprise
-aweome-cli Version 0.3.0
+awesome-cli Version 0.3.0
 ✔ Back-End Development
 ✔ Docker
 ✔ Videos
@@ -136,7 +136,7 @@ Options of awesome-cli:
 
 ```bash
 > $ awesome-cli random
-aweome-cli Version 0.2.0
+awesome-cli Version 0.2.0
 ✔ Platforms
 ✔ Linux
 ✔ Applications
