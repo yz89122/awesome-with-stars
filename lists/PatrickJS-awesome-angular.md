@@ -170,7 +170,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official website](https://angular.dev/tools/cli)
 * [Official GitHub repository ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular-cli)](https://github.com/angular/angular-cli)
 * [angular-cli-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-diff)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
-* [angular-cli-ssr-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-ssr-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-ssr-diff)](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another ����.
+* [angular-cli-ssr-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-ssr-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-ssr-diff)](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx ![GitHub Repo Stars](https://img.shields.io/github/stars/marmotz-dev/codx) ![GitHub last commit](https://img.shields.io/github/last-commit/marmotz-dev/codx)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 * [angular-parallel-test-runner ![GitHub Repo Stars](https://img.shields.io/github/stars/mahdi-hajian/angular-parallel-test-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/mahdi-hajian/angular-parallel-test-runner)](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
 * [angular-serve-and-run ![GitHub Repo Stars](https://img.shields.io/github/stars/dot-build/angular-serve-and-run) ![GitHub last commit](https://img.shields.io/github/last-commit/dot-build/angular-serve-and-run)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
@@ -878,13 +878,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Security Best Practices
 
+* [Aikido](https://www.aikido.dev/) - Secure your code, cloud, and runtime in one central system. Find and fix vulnerabilities automatically.
 * [Angular Security](https://angular.dev/best-practices/security) - Best Practices.
 * [GitHub](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
 * [GitHub Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 * [HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular) - Angular Security  Checklist.
 * [SafeDep](https://safedep.io/) - SafeDep continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.
-* [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
 * [Snyk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+* [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
 
 ## State Management
 
@@ -1941,6 +1942,7 @@ for the creation of web applications developed with Angular.
 * [ngx-tw ![GitHub Repo Stars](https://img.shields.io/github/stars/bugMaker-237/ngx-tw) ![GitHub last commit](https://img.shields.io/github/last-commit/bugMaker-237/ngx-tw)](https://github.com/bugMaker-237/ngx-tw) - A comprehensive component library built with Tailwind CSS, providing a modern and customizable set of UI components for Angular applications.
 * [nicacoder-ng](https://ng.nicacoder.com/) - A centralized library of customizable Angular components designed to speed up development and maintain consistency across internal projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline ![GitHub Repo Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline) ![GitHub last commit](https://img.shields.io/github/last-commit/htmlstreamofficial/preline)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+* [PrimeBlocks](https://primeblocks.org/) - Professionally designed UI blocks tailored for rapid application development.
 * [Rectangle UI ![GitHub Repo Stars](https://img.shields.io/github/stars/jarretthuang/rectangle-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/jarretthuang/rectangle-ui)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 * [seacotools ![GitHub Repo Stars](https://img.shields.io/github/stars/Seacotec/seacotools) ![GitHub last commit](https://img.shields.io/github/last-commit/Seacotec/seacotools)](https://github.com/Seacotec/seacotools) - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
 * [simui ![GitHub Repo Stars](https://img.shields.io/github/stars/dofu-lab/simui) ![GitHub last commit](https://img.shields.io/github/last-commit/dofu-lab/simui)](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
