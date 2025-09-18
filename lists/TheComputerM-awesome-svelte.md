@@ -155,7 +155,7 @@ _UI frameworks for mobile._
 - [Smelte ![GitHub Repo Stars](https://img.shields.io/github/stars/matyunya/smelte) ![GitHub last commit](https://img.shields.io/github/last-commit/matyunya/smelte)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
 - [SVAR Core for Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/core) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/core)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 - [AgnosticUI ![GitHub Repo Stars](https://img.shields.io/github/stars/agnosticui/agnosticui) ![GitHub last commit](https://img.shields.io/github/last-commit/agnosticui/agnosticui)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates 
+- [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates
 - [Svelte Marketing Blocks](https://sv-blocks.vercel.app) - A powerful library of 100+ marketing and UI blocks built using Shadcn Svelte, Tailwind CSS v4, and Svelte 5.
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
 
@@ -171,7 +171,7 @@ _Tables and data grids._
 - [svelte-generic-table-pager ![GitHub Repo Stars](https://img.shields.io/github/stars/ivosdc/svelte-generic-table-pager) ![GitHub last commit](https://img.shields.io/github/last-commit/ivosdc/svelte-generic-table-pager)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 - [powertable ![GitHub Repo Stars](https://img.shields.io/github/stars/muonw/powertable) ![GitHub last commit](https://img.shields.io/github/last-commit/muonw/powertable)](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
 - [svelte-pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/jjagielka/svelte-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/jjagielka/svelte-pivottable)](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
-- [SVAR DataGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/grid) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/grid)](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling. 
+- [SVAR DataGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/svar-widgets/grid) ![GitHub last commit](https://img.shields.io/github/last-commit/svar-widgets/grid)](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling.
 - [svelte-datagrid ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/svelte-datagrid) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/svelte-datagrid)](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview ![GitHub Repo Stars](https://img.shields.io/github/stars/WJSoftware/wjfe-dataview) ![GitHub last commit](https://img.shields.io/github/last-commit/WJSoftware/wjfe-dataview)](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
 
@@ -246,6 +246,7 @@ _Display non-editable events in a calendar._
 - [svelte-speedometer ![GitHub Repo Stars](https://img.shields.io/github/stars/palerdot/svelte-speedometer) ![GitHub last commit](https://img.shields.io/github/last-commit/palerdot/svelte-speedometer)](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 - [embedz ![GitHub Repo Stars](https://img.shields.io/github/stars/embedz/embedz) ![GitHub last commit](https://img.shields.io/github/last-commit/embedz/embedz)](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
+- [svelte-streamdown ![GitHub Repo Stars](https://img.shields.io/github/stars/beynar/svelte-streamdown) ![GitHub last commit](https://img.shields.io/github/last-commit/beynar/svelte-streamdown)](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 
 ## Scaffold
 
@@ -258,7 +259,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/code-gio/svelte-docs-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/code-gio/svelte-docs-starter)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/phaserjs/template-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/phaserjs/template-svelte)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
-- [generic-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GantonL/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/GantonL/templates)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more. 
+- [generic-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GantonL/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/GantonL/templates)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 
 ## Utilities
 
@@ -354,6 +355,10 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-document ![GitHub Repo Stars](https://img.shields.io/github/stars/mblouka/svelte-document) ![GitHub last commit](https://img.shields.io/github/last-commit/mblouka/svelte-document)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
+
+### Adapters
+
+- [JesterKit EXE ![GitHub Repo Stars](https://img.shields.io/github/stars/Hugo-Dz/exe) ![GitHub last commit](https://img.shields.io/github/last-commit/Hugo-Dz/exe)](https://github.com/Hugo-Dz/exe) - An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.
 
 ### Lint
 
