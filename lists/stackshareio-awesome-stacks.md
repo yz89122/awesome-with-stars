@@ -424,7 +424,7 @@ Build, test, and deploy pipelines are configured by default.
 
 - [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 - [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+- [Docker](https://www.docker.com/) - [����](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
 - [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/mholt/caddy) ![GitHub last commit](https://img.shields.io/github/last-commit/mholt/caddy)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
 
@@ -449,7 +449,7 @@ Build a simple and robust RESTful API.
 Connect to various datasources and combine the data into a real-time GraphQL API and AdminUI. Useful stack when you have multiple datasources such as Postgres, MySql, Sqlite, Rest, etc.
 
 - [Graphweaver](https://graphweaver.com/) - [🛠️](https://stackshare.io/graphweaver) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/exogee-technology/graphweaver) ![GitHub last commit](https://img.shields.io/github/last-commit/exogee-technology/graphweaver)](https://github.com/exogee-technology/graphweaver) - Data Everywhere - Instant GraphQL.
-- [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [���� ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - The adminUI is built in React and can be extended.
+- [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - The adminUI is built in React and can be extended.
 - [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
 - [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
 
