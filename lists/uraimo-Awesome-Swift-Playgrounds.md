@@ -139,7 +139,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Functional Reactive Programming
 
 * [ReactiveCocoa Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/nikita-leonov/ReactiveCocoaPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/nikita-leonov/ReactiveCocoaPlayground)](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa. ⏳ 
-* [Swift Reactive Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/SwiftReactivePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/SwiftReactivePlayground)](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift. ⏳ 
+* [Swift Reactive Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/SwiftReactivePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/SwiftReactivePlayground)](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift. ��� 
 
 
 ## Apple's Playgrounds
