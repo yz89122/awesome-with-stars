@@ -34,6 +34,7 @@ sellers who aren't evil for physical resources.
 
 - [Artificial Intelligence (AI, LLMs)](#artificial-intelligence-ai-llms)
   - [Machine Learning](#machine-learning)
+  - [MCP servers](#mcp-servers)
   - [Natural Language Processing](#natural-language-processing)
 - [Audio](#audio)
 - [Build Systems](#build-systems)
@@ -115,6 +116,7 @@ sellers who aren't evil for physical resources.
   - [URI and IP handling](#uri-and-ip-handling)
   - [Javascript](#javascript)
   - [Deployment](#deployment)
+    - [Hosting platforms](#hosting-platforms)
   - [Monitoring](#monitoring)
   - [Websockets](#websockets)
   - [Web development utilities](#web-development-utilities)
@@ -488,6 +490,10 @@ JSON tools:
 * [cl-json-pointer ![GitHub Repo Stars](https://img.shields.io/github/stars/y2q-actionman/cl-json-pointer) ![GitHub last commit](https://img.shields.io/github/last-commit/y2q-actionman/cl-json-pointer)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT][200].
 * [cl-jwk ![GitHub Repo Stars](https://img.shields.io/github/stars/dnaeon/cl-jwk) ![GitHub last commit](https://img.shields.io/github/last-commit/dnaeon/cl-jwk)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 * [JOSE ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/jose) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/jose)](https://github.com/fukamachi/jose) - A JSON Object Signing and Encryption (JOSE) implementation for Common Lisp. BSD_2Clause.
+
+JSON online services:
+
+* [pantry ![GitHub Repo Stars](https://img.shields.io/github/stars/dotemacs/pantry) ![GitHub last commit](https://img.shields.io/github/last-commit/dotemacs/pantry)](https://github.com/dotemacs/pantry) - client library for the [Pantry JSON storage service](https://getpantry.cloud/). BSD.
 
 and search for JSON RPC below.
 
@@ -1025,6 +1031,7 @@ Typing
   * [tokyo-tojo-json ![GitHub Repo Stars](https://img.shields.io/github/stars/tojoqk/tokyo.tojo.json) ![GitHub last commit](https://img.shields.io/github/last-commit/tojoqk/tokyo.tojo.json)](https://github.com/tojoqk/tokyo.tojo.json) - a JSON parser implemented in Coalton.
   * [coalton-threads ![GitHub Repo Stars](https://img.shields.io/github/stars/garlic0x1/coalton-threads) ![GitHub last commit](https://img.shields.io/github/last-commit/garlic0x1/coalton-threads)](https://github.com/garlic0x1/coalton-threads) - primitive thread and concurrency operations for Coalton.
   * [Lem editor mode for Coalton](https://lem-project.github.io/modes/coalton-lang/) - syntax highlighting, code completion, autodoc, interactive compilation commands (`coalton-compile-defun`, `C-c C-c`).
+  * [Coalton.app playground](https://coalton.app/) - a web-based REPL for Coalton. [blog post announce](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/).
 * 👍 [trivial-types ![GitHub Repo Stars](https://img.shields.io/github/stars/m2ym/trivial-types) ![GitHub last commit](https://img.shields.io/github/last-commit/m2ym/trivial-types)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types ![GitHub Repo Stars](https://img.shields.io/github/stars/stylewarning/cl-algebraic-data-type) ![GitHub last commit](https://img.shields.io/github/last-commit/stylewarning/cl-algebraic-data-type)](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
@@ -1395,9 +1402,18 @@ Deployment
 
 See also:
 
-- [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
-- [Heliohost](https://www.heliohost.org/) for a free hosting solution.
 - [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
+
+### Hosting platforms
+
+We can host Common Lisp services on any server. These services offer
+out of the box availability for CL:
+
+- [Heliohost](https://www.heliohost.org/) for a free hosting solution.
+- [Nearly Free Speech](https://www.nearlyfreespeech.net/) - 25+ programming languages, pay for what you use.
+  - SBCL and GNU CLISP
+- [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
+
 
 Monitoring
 ----------
@@ -1492,9 +1508,7 @@ Sending emails with a third-party provider:
 
 Parsing email addresses:
 
-* [darts.lib.email.address ![GitHub Repo Stars](https://img.shields.io/github/stars/deterministic-arts/DartsCLEmailAddress) ![GitHub last commit](https://img.shields.io/github/last-commit/deterministic-arts/DartsCLEmailAddress)](https://github.com/deterministic-arts/DartsCLEmailAddress) for RFC 5322 parsing
-  * *last commit 9 years ago*
-* try [email-parse ![GitHub Repo Stars](https://img.shields.io/github/stars/pyramidi0n/email-parse) ![GitHub last commit](https://img.shields.io/github/last-commit/pyramidi0n/email-parse)](https://github.com/pyramidi0n/email-parse) or [email-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/mtha790/email-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/mtha790/email-validator)](https://github.com/mtha790/email-validator) for RFC 5321.
+* [parcom/email ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/parcom) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/parcom)](https://github.com/fosskers/parcom/?tab=readme-ov-file#email-addresses) - types and parsers for RFC5322 email addresses. The implementation is RFC-compliant and particularly memory-efficient for well-behaved addresses.
   * *NEW As of 2025*
 
 
