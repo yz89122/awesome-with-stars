@@ -88,24 +88,41 @@ A principled, spec-driven workflow that transforms large problems into focused, 
 <details open>
 <summary>Table of Contents</summary>
 
-- [Workflows & Knowledge Guides](#workflows--knowledge-guides-)
+- <details open>
+  <summary><a href="#workflows--knowledge-guides-">Workflows & Knowledge Guides</a></summary>
+
+  - [General](#general)
+
+  </details>
 
 - <details open>
   <summary><a href="#tooling-">Tooling</a></summary>
 
+  - [General](#general)
   - [IDE Integrations](#ide-integrations)
   - [Usage Monitors](#usage-monitors)
   - [Orchestrators](#orchestrators)
 
   </details>
 
-- [Status Lines](#status-lines-)
+- <details open>
+  <summary><a href="#status-lines-">Status Lines</a></summary>
 
-- [Hooks](#hooks-)
+  - [General](#general)
+
+  </details>
+
+- <details open>
+  <summary><a href="#hooks-">Hooks</a></summary>
+
+  - [General](#general)
+
+  </details>
 
 - <details open>
   <summary><a href="#slash-commands-">Slash-Commands</a></summary>
 
+  - [General](#general)
   - [Version Control & Git](#version-control--git)
   - [Code Analysis & Testing](#code-analysis--testing)
   - [Context Loading & Priming](#context-loading--priming)
@@ -119,22 +136,30 @@ A principled, spec-driven workflow that transforms large problems into focused, 
 - <details open>
   <summary><a href="#claudemd-files-">CLAUDE.md Files</a></summary>
 
+  - [General](#general)
   - [Language-Specific](#language-specific)
   - [Domain-Specific](#domain-specific)
   - [Project Scaffolding & MCP](#project-scaffolding--mcp)
 
   </details>
 
-- [Official Documentation](#official-documentation-%EF%B8%8F)
+- <details open>
+  <summary><a href="#official-documentation-%EF%B8%8F">Official Documentation</a></summary>
+
+  - [General](#general)
+
+  </details>
 
 </details>
 
 <br>
 
-<details open>
-<summary><h2>Workflows & Knowledge Guides 🧠 <a href="#awesome-claude-code">🔝</a></h2></summary>
+## Workflows & Knowledge Guides 🧠 [🔝](#awesome-claude-code)
 
 > A **workflow** is a tightly coupled set of Claude Code-native resources that facilitate specific projects
+
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.
@@ -186,6 +211,9 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+
 [`ccexp` ![GitHub Repo Stars](https://img.shields.io/github/stars/nyatinte/ccexp) ![GitHub last commit](https://img.shields.io/github/last-commit/nyatinte/ccexp)](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
@@ -222,6 +250,7 @@ A versatile configuration framework that enhances Claude Code with specialized c
 [`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
 
+</details>
 
 <details open>
 <summary><h3>IDE Integrations <a href="#awesome-claude-code">🔝</a></h3></summary>
@@ -288,10 +317,12 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 
 <br>
 
-<details open>
-<summary><h2>Status Lines 📊 <a href="#awesome-claude-code">🔝</a></h2></summary>
+## Status Lines 📊 [🔝](#awesome-claude-code)
 
 > **Status lines** - Configurations and customizations for Claude Code's status bar functionality
+
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`ccstatusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline) ![GitHub last commit](https://img.shields.io/github/last-commit/sirmalloc/ccstatusline)](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
@@ -306,10 +337,12 @@ A vim-style powerline statusline for Claude Code with real-time usage tracking, 
 
 <br>
 
-<details open>
-<summary><h2>Hooks 🪝 <a href="#awesome-claude-code">🔝</a></h2></summary>
+## Hooks 🪝 [🔝](#awesome-claude-code)
 
 > **Hooks** are a powerful API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.
+
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`CC Notify` ![GitHub Repo Stars](https://img.shields.io/github/stars/dazuiba/CCNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/dazuiba/CCNotify)](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
@@ -612,12 +645,14 @@ Offers clear step-by-step installation instructions with multiple configuration 
 
 <br>
 
-<details open>
-<summary><h2>Official Documentation 🏛️ <a href="#awesome-claude-code">🔝</a></h2></summary>
+## Official Documentation 🏛️ [🔝](#awesome-claude-code)
 
 > Links to some of Anthropic's terrific documentation and resources regarding Claude Code
 
 <!--lint disable double-link-->
+
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
