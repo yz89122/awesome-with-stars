@@ -405,7 +405,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/etherealengine-archive) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/etherealengine-archive)](https://github.com/ir-engine/etherealengine-archive) - Cross-platform game engine and editor.
     - 🎉 [ezEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ezEngine/ezEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ezEngine/ezEngine)](https://github.com/ezEngine/ezEngine) - Game engine in active development.
     - 🎉 [FIFE ![GitHub Repo Stars](https://img.shields.io/github/stars/fifengine/fifengine) ![GitHub last commit](https://img.shields.io/github/last-commit/fifengine/fifengine)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
-    - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
+    - ���� [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
     - 🎉 [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     - 🎉 [Lina Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/inanevin/LinaEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/inanevin/LinaEngine)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
     - 🎉 [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorton06/Lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorton06/Lumos)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
 ### Voxel
-- ��� [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+- 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
 - 💰 [Qubicle](https://www.getqubicle.com) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
