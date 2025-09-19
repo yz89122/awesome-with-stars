@@ -85,6 +85,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 
 **By flavor**
 
+- fancy-regex (Rust library): [fancy-regex playground](https://fancy-regex.github.io/fancy-regex/) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/fancy-regex/fancy-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/fancy-regex/fancy-regex)](https://github.com/fancy-regex/fancy-regex/tree/main/playground)].
 - JavaScript: [RegViz](http://regviz.org/).
 - .NET: [Regex Storm](http://regexstorm.net/tester) \[[*GitHub* ![GitHub Repo Stars](https://img.shields.io/github/stars/lonekorean/regex-storm) ![GitHub last commit](https://img.shields.io/github/last-commit/lonekorean/regex-storm)](https://github.com/lonekorean/regex-storm)].
 - PCRE: [PHP Live Regex](https://www.phpliveregex.com/).
@@ -330,6 +331,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - Find regex mistakes and improvements: [eslint-plugin-regexp ![GitHub Repo Stars](https://img.shields.io/github/stars/ota-meshi/eslint-plugin-regexp) ![GitHub last commit](https://img.shields.io/github/last-commit/ota-meshi/eslint-plugin-regexp)](https://github.com/ota-meshi/eslint-plugin-regexp) \[[*home*](https://ota-meshi.github.io/eslint-plugin-regexp/)], [eslint-plugin-optimize-regex ![GitHub Repo Stars](https://img.shields.io/github/stars/BrainMaestro/eslint-plugin-optimize-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/BrainMaestro/eslint-plugin-optimize-regex)](https://github.com/BrainMaestro/eslint-plugin-optimize-regex).
 - Generate strings that match a given regex: [randexp.js ![GitHub Repo Stars](https://img.shields.io/github/stars/fent/randexp.js) ![GitHub last commit](https://img.shields.io/github/last-commit/fent/randexp.js)](https://github.com/fent/randexp.js), [regex-to-strings ![GitHub Repo Stars](https://img.shields.io/github/stars/wimpyprogrammer/regex-to-strings) ![GitHub last commit](https://img.shields.io/github/last-commit/wimpyprogrammer/regex-to-strings)](https://github.com/wimpyprogrammer/regex-to-strings).
 - Generate a regex from given strings: [regexgen ![GitHub Repo Stars](https://img.shields.io/github/stars/devongovett/regexgen) ![GitHub last commit](https://img.shields.io/github/last-commit/devongovett/regexgen)](https://github.com/devongovett/regexgen).
+- [regex-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/gruhn/regex-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/gruhn/regex-utils)](https://github.com/gruhn/regex-utils) - Check regex equivalence, build regex intersections, and other meta utilities.
 
 ## JavaScript regex evolution
 
@@ -411,12 +413,12 @@ Awesome Regex was created by [Steven Levithan](https://github.com/slevithan) and
 
 ### Sponsors and backers
 
-[<img src="https://github.com/brc-dd.png" width="40" height="40">](https://github.com/brc-dd)
 [<img src="https://github.com/roboflow.png" width="40" height="40">](https://github.com/roboflow)
 
 ### Past sponsors
 
 [<img src="https://github.com/antfu.png" width="40" height="40">](https://github.com/antfu)
+[<img src="https://github.com/brc-dd.png" width="40" height="40">](https://github.com/brc-dd)
 
 If you want to support this project, I'd love your help by contributing improvements, sharing it with others, or [sponsoring ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/slevithan) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/slevithan)](https://github.com/sponsors/slevithan) ongoing development.
 
