@@ -74,12 +74,6 @@ A push-to-talk speech transcription setup for Linux using a Python MCP server. R
 [`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.
 
-[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
-
-[`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
-
 
 ## Awesome Claude Code Freedom Funders
 
@@ -261,7 +255,7 @@ Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoro
 [`Claude Code Usage Monitor` ![GitHub Repo Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/Maciek-roboblog/Claude-Code-Usage-Monitor)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) &nbsp; by &nbsp; [Maciek-roboblog](https://github.com/Maciek-roboblog)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.
 
-[`viberank` ![GitHub Repo Stars](https://img.shields.io/github/stars/sculptdotfun/viberank) ![GitHub last commit](https://img.shields.io/github/last-commit/sculptdotfun/viberank)](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`viberank` ![GitHub Repo Stars](https://img.shields.io/github/stars/sculptdotfun/viberank) ![GitHub last commit](https://img.shields.io/github/last-commit/sculptdotfun/viberank)](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
 A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
 
 </details>
