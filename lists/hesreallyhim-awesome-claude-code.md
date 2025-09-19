@@ -660,7 +660,7 @@ The official documentation for Claude Code, including installation instructions,
 [`Anthropic Quickstarts` ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/anthropic-quickstarts)](https://github.com/anthropics/anthropic-quickstarts/blob/main/CLAUDE.md) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
 
-[`Claude Code GitHub Actions` ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-code-action) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-code-action)](https://github.com/anthropics/claude-code-action/tree/main/examples) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`Claude Code GitHub Actions` ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-code-action) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-code-action)](https://github.com/anthropics/claude-code-action/tree/main/examples) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
 
 </details>
