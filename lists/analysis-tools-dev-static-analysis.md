@@ -566,6 +566,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
+- [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
+
 - [prealloc ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/prealloc) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/prealloc)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
 - [Reviewdog ![GitHub Repo Stars](https://img.shields.io/github/stars/haya14busa/reviewdog) ![GitHub last commit](https://img.shields.io/github/last-commit/haya14busa/reviewdog)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
@@ -772,6 +774,8 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 <a name="matlab" />
 <h2>MATLAB</h2>
 
+
+- **MISS_HIT** :warning: — MISS_HIT is a free, open-source code quality toolset for MATLAB, Simulink, and Octave. It includes MH Style (style checker and formatter), MH Metrics (complexity metrics), MH Lint (static analysis), MH Trace (requirements traceability), and MH Copyright (copyright management). Designed to work standalone without requiring MATLAB/Octave installation.
 
 - [mlint](https://www.mathworks.com/help/matlab/ref/mlint.html) :copyright: — Check MATLAB code files for possible problems.
 
@@ -992,6 +996,8 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [mypy](http://www.mypy-lang.org) — A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType ![GitHub Repo Stars](https://img.shields.io/github/stars/Instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/Instagram/MonkeyType)](https://github.com/Instagram/MonkeyType).
 
+- [pip-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pip-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pip-audit)](https://github.com/pypa/pip-audit) — Tool for scanning Python packages for known vulnerabilities. Developed by the Python Packaging Authority (PyPA) and supported by Trail of Bits and Google. Scans Python environments and requirements files to identify vulnerable packages and suggests remediation. Supports GitHub Actions, pre-commit hooks, and multiple vulnerability service integrations.
+
 - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/prospector)](https://github.com/PyCQA/prospector) — A wrapper around `pylint`, `pep8`, `mccabe` and others.
 
 - **py-find-injection** :warning: — Find SQL injection vulnerabilities in Python code.
@@ -1029,6 +1035,8 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 - [refurb ![GitHub Repo Stars](https://img.shields.io/github/stars/dosisod/refurb) ![GitHub last commit](https://img.shields.io/github/last-commit/dosisod/refurb)](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
 
 - [ruff](https://astral.sh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
+
+- [Safety](https://safetycli.com/) — Python dependency vulnerability scanner designed to enhance software supply chain security by detecting packages with known vulnerabilities. Checks Python dependencies against a database of known security vulnerabilities and provides detailed reports. Supports CI/CD integration and multiple output formats.
 
 - [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 
@@ -1238,7 +1246,7 @@ Kani verifies:
 
 - [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
-- [tsqllint ![GitHub Repo Stars](https://img.shields.io/github/stars/tsqllint/tsqllint) ![GitHub last commit](https://img.shields.io/github/last-commit/tsqllint/tsqllint)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+- **tsqllint** :warning: — T-SQL-specific linter.
 
 - **TSqlRules** :warning: — TSQL Static Code Analysis Rules for SQL Server.
 
@@ -1599,7 +1607,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: — Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 
-- [sqlvet ![GitHub Repo Stars](https://img.shields.io/github/stars/houqp/sqlvet) ![GitHub last commit](https://img.shields.io/github/last-commit/houqp/sqlvet)](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
+- **sqlvet** :warning: — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
 
 - [StaticReviewer](https://securityreviewer.atlassian.net/wiki/spaces/KC/pages/196633/Static+Reviewer) :copyright: — Static Reviewer executes code checks according to the most relevant Secure Coding Standards, OWASP, CWE, CVE, CVSS, MISRA, CERT, for 40+ programming languages, using 1000+ built-in validation rules for Security, Deadcode & Best Practices Available a module for Software Composition Analysis (SCA) to find vulnerabilities in open source and third party libraries.
 
@@ -1714,6 +1722,8 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [JEB Decompiler](https://www.pnfsoftware.com/) :copyright: — Decompile and debug binary code. Break down and analyze document files. Android Dalvik, MIPS, ARM, Intel x86, Java, WebAssembly & Ethereum Decompilers.
 
 - **ktool** :warning: — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
+
+- [Malcat](https://malcat.fr/) :copyright: — Hexadecimal editor and disassembler for malware analysis and binary file inspection. Supports over 50 file formats and multiple CPU architectures (x86/x64, MIPS, .NET, Python, VB p-code). Features rapid analysis, embedded file extraction, Yara signature scanning, anomaly detection, and Python scripting. Designed for malware analysts, SOC operators, incident responders, and CTF players.
 
 - **Manalyze** :warning: — A static analyzer, which checks portable executables for malicious content.
 
@@ -1830,13 +1840,17 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - **Docker Label Inspector** :warning: — Lint and validate Dockerfile labels.
 
+- [Dockle ![GitHub Repo Stars](https://img.shields.io/github/stars/goodwithtech/dockle) ![GitHub last commit](https://img.shields.io/github/last-commit/goodwithtech/dockle)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
+
+- [Grype ![GitHub Repo Stars](https://img.shields.io/github/stars/anchore/grype) ![GitHub last commit](https://img.shields.io/github/last-commit/anchore/grype)](https://github.com/anchore/grype) — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
 
 - [Haskell Dockerfile Linter ![GitHub Repo Stars](https://img.shields.io/github/stars/lukasmartinelli/hadolint) ![GitHub last commit](https://img.shields.io/github/last-commit/lukasmartinelli/hadolint)](https://github.com/lukasmartinelli/hadolint) — A smarter Dockerfile linter that helps you build best practice Docker images.
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
-- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
+- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) ��� Krane is a simple Kubernetes RBAC static analysis tool.
 It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 
 - [OpenSCAP](https://www.open-scap.org/) — Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
@@ -1909,6 +1923,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 
 - [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
+
+- [Dockle ![GitHub Repo Stars](https://img.shields.io/github/stars/goodwithtech/dockle) ![GitHub last commit](https://img.shields.io/github/last-commit/goodwithtech/dockle)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
 
 
 <a name="embedded" />
@@ -2193,6 +2209,8 @@ but with the following improvements:
 - [detect-secrets ![GitHub Repo Stars](https://img.shields.io/github/stars/Yelp/detect-secrets) ![GitHub last commit](https://img.shields.io/github/last-commit/Yelp/detect-secrets)](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
 It does this by running periodic diff outputs against heuristically crafted regex statements,  to identify whether any new secret has been committed. This way, it avoids the overhead of digging  through all git history, as well as the need to scan the entire repository every time.
 
+- [Dockle ![GitHub Repo Stars](https://img.shields.io/github/stars/goodwithtech/dockle) ![GitHub last commit](https://img.shields.io/github/last-commit/goodwithtech/dockle)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+
 - **Enlightn** :warning: — A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
@@ -2200,6 +2218,8 @@ It does this by running periodic diff outputs against heuristically crafted rege
 - [Gitleaks ![GitHub Repo Stars](https://img.shields.io/github/stars/zricethezav/gitleaks) ![GitHub last commit](https://img.shields.io/github/last-commit/zricethezav/gitleaks)](https://github.com/zricethezav/gitleaks) — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 
 - [gokart ![GitHub Repo Stars](https://img.shields.io/github/stars/praetorian-inc/gokart) ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
+
+- [Grype ![GitHub Repo Stars](https://img.shields.io/github/stars/anchore/grype) ![GitHub last commit](https://img.shields.io/github/last-commit/anchore/grype)](https://github.com/anchore/grype) — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
 
 - [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 
@@ -2226,13 +2246,19 @@ Kani verifies:
 
 - **LunaSec** :warning: — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 
+- [Malcat](https://malcat.fr/) :copyright: — Hexadecimal editor and disassembler for malware analysis and binary file inspection. Supports over 50 file formats and multiple CPU architectures (x86/x64, MIPS, .NET, Python, VB p-code). Features rapid analysis, embedded file extraction, Yara signature scanning, anomaly detection, and Python scripting. Designed for malware analysts, SOC operators, incident responders, and CTF players.
+
 - [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 
 - [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
+- [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
+
 - [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
 
 - [OWASP Noir](https://owasp-noir.github.io/noir/) — Attack surface detector that identifies endpoints by static analysis.
+
+- [pip-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pip-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pip-audit)](https://github.com/pypa/pip-audit) — Tool for scanning Python packages for known vulnerabilities. Developed by the Python Packaging Authority (PyPA) and supported by Trail of Bits and Google. Scans Python environments and requirements files to identify vulnerable packages and suggests remediation. Supports GitHub Actions, pre-commit hooks, and multiple vulnerability service integrations.
 
 - [PT Application Inspector](https://www.ptsecurity.com) :copyright: — Identifies code flaws and detects vulnerabilities to prevent web attacks. Demonstrates remote code execution by presenting possible exploits.
 
@@ -2241,6 +2267,8 @@ Kani verifies:
 - **QuantifiedCode** :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
 - [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
+
+- [Safety](https://safetycli.com/) — Python dependency vulnerability scanner designed to enhance software supply chain security by detecting packages with known vulnerabilities. Checks Python dependencies against a database of known security vulnerabilities and provides detailed reports. Supports CI/CD integration and multiple output formats.
 
 - [scorecard ![GitHub Repo Stars](https://img.shields.io/github/stars/ossf/scorecard) ![GitHub last commit](https://img.shields.io/github/last-commit/ossf/scorecard)](https://github.com/ossf/scorecard) — Security Scorecards - Security health metrics for Open Source
 
