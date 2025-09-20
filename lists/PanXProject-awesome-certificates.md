@@ -267,7 +267,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://cognitiveclass.ai/courses/chatbot-course" target="_blank" rel="noopener noreferrer">How to Build Chatbots</a> | IBM / Cognitive Class |Beginner|5 | ����|
+| <a href="https://cognitiveclass.ai/courses/chatbot-course" target="_blank" rel="noopener noreferrer">How to Build Chatbots</a> | IBM / Cognitive Class |Beginner|5 | 🏅|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
