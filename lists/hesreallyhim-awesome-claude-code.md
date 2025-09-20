@@ -456,7 +456,7 @@ claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code
 An Emacs interface for Claude Code CLI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for claude-code.el](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code.el&username=stevemolitor&all_stats=true&stats_only=true)
 
@@ -572,7 +572,7 @@ Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 </details>
 <br>
 
-[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
+[`Claude Task Master` ![GitHub Repo Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master) ![GitHub last commit](https://img.shields.io/github/last-commit/eyaltoledano/claude-task-master)](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;��️&nbsp;&nbsp;NOASSERTION  
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 <details>
