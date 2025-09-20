@@ -663,7 +663,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
+        ���� <a href="https://github.com/KudoAI/amazongpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
             Report bug</a>
