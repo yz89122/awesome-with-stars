@@ -241,7 +241,7 @@ Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, sp
 [`Container Use` ![GitHub Repo Stars](https://img.shields.io/github/stars/dagger/container-use) ![GitHub last commit](https://img.shields.io/github/last-commit/dagger/container-use)](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
-[`stt-mcp-server-linux` ![GitHub Repo Stars](https://img.shields.io/github/stars/marcindulak/stt-mcp-server-linux) ![GitHub last commit](https://img.shields.io/github/last-commit/marcindulak/stt-mcp-server-linux)](https://github.com/marcindulak/stt-mcp-server-linux) &nbsp; by &nbsp; [marcindulak](https://github.com/marcindulak)  &nbsp;&nbsp;���️&nbsp;&nbsp;Apache-2.0  
+[`stt-mcp-server-linux` ![GitHub Repo Stars](https://img.shields.io/github/stars/marcindulak/stt-mcp-server-linux) ![GitHub last commit](https://img.shields.io/github/last-commit/marcindulak/stt-mcp-server-linux)](https://github.com/marcindulak/stt-mcp-server-linux) &nbsp; by &nbsp; [marcindulak](https://github.com/marcindulak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 A push-to-talk speech transcription setup for Linux using a Python MCP server. Runs locally in Docker with no external API calls. Your speech is recorded, transcribed into text, and then sent to Claude running in a Tmux session.
 
 [`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -290,7 +290,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 </details>
 
 <details open>
-<summary><h3>Orchestrators <a href="#awesome-claude-code">��</a></h3></summary>
+<summary><h3>Orchestrators <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
