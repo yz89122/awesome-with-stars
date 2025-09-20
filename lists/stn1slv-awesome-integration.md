@@ -246,7 +246,7 @@ System integration is the process of linking together different IT systems (com
 - [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - Cloud-native integration platform that delivers distributed integration capabilities for agile, scalable connectivity.
 - [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Enterprise-grade integration platform implementing proven hybrid integration patterns for reliable data exchange.
 - [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - High-performance ESB engineered for extreme throughput with zero-copy proxying and non-blocking IO techniques.
-- [WSO2 Enterprise Integrator (⭐389) ![GitHub Repo Stars](https://img.shields.io/github/stars/wso2/product-ei) ![GitHub last commit](https://img.shields.io/github/last-commit/wso2/product-ei)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+- [WSO2 Enterprise Integrator (���389) ![GitHub Repo Stars](https://img.shields.io/github/stars/wso2/product-ei) ![GitHub last commit](https://img.shields.io/github/last-commit/wso2/product-ei)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
 
 <!--lint disable-->
 **[⬆ back to top](#contents)**
