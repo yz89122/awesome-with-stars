@@ -273,7 +273,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Python CMS Framework Review: Wagtail vs Django-CMS](https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/) - Talk about the difference between Django-CMS and Wagtail, the two most popular CMS framework in Python world.
 - [Deploying Wagtail In Production](https://vix.digital/insights/deploying-wagtail-production/)
 - [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
-- [Upgrading to Wagtail 2.0](https://wagtail.org/blog/upgrading-to-wagtail-2/) – Wagtail 2.0 is one of our biggest releases to date.
+- [Upgrading to Wagtail 2.0](https://wagtail.org/blog/upgrading-to-wagtail-2/) ��� Wagtail 2.0 is one of our biggest releases to date.
 - [Getting started with Draftail extensions](https://thib.me/getting-started-with-draftail-extensions) – Do you want to write extensions for Draftail? This is a good place to start.
 - [Amplify a Wagtail/Django site](https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html) - Prepare you Wagtail site for Accelerated Mobile Pages (AMP).
 - [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
@@ -311,7 +311,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=24m9s) by Simon de Haan.
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
 - [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) by Thibaud Colas. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
-- [Let It Go �� Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) by Matt Wescott.
+- [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) by Matt Wescott.
 - [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
 - [Wagtail’s first hatch – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) by Bertrand Bordage.
 - [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) by Tom Dyson.
@@ -349,7 +349,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/fourdigits/wagtail_textract) ![GitHub last commit](https://img.shields.io/github/last-commit/fourdigits/wagtail_textract)](https://github.com/fourdigits/wagtail_textract).
 - [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
 - [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/LUKKIEN/wagtail-marketing-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/LUKKIEN/wagtail-marketing-addons)](https://github.com/LUKKIEN/wagtail-marketing-addons).
-- [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
+- [My First Wagtail Contribution ��� More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) by Brian Smith & Eric Sherman. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
