@@ -319,7 +319,7 @@ Groups that generally focus on designing museums and similar experiences using c
 | [**Grumpy Sailor**](https:&#x2F;&#x2F;www.grumpysailor.com&#x2F;) | [Sydney] [Melbourne] | digital experiences, exhibit design, brands | 
 | [**GSM Project**](https:&#x2F;&#x2F;gsmproject.com&#x2F;en&#x2F;) | [Montreal] [Singapore] [Dubai] | content first, exhibitions | 
 | [**Ideum**](https:&#x2F;&#x2F;www.ideum.com&#x2F;) | [Albuquerque] | interactive exhibits and exhibitions, integrated hardware products | 
-| [**Iglhaut + von Grote**](http:&#x2F;&#x2F;iglhaut-vongrote.de&#x2F;en&#x2F;) | [Berlin] | scenography, spatial mise-en-sc��ne | 
+| [**Iglhaut + von Grote**](http:&#x2F;&#x2F;iglhaut-vongrote.de&#x2F;en&#x2F;) | [Berlin] | scenography, spatial mise-en-scène | 
 | [**Local Projects**](https:&#x2F;&#x2F;localprojects.com&#x2F;) | [NYC] | experience Designers pushing the boundaries of human interaction | 
 | [**Monadnock Media**](https:&#x2F;&#x2F;monadnock.org&#x2F;) | [Massachusetts] | multimedia experiences for museums, historic sites and public places | 
 | [**Northern Light Productions**](https:&#x2F;&#x2F;nlprod.com&#x2F;) | [Boston] | immersive media environments, interactive experiences, or documentary films. | 
