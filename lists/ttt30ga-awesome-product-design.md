@@ -116,14 +116,12 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Google Design](https://design.google.com/) - Google Design is a cooperative effort led by a group of designers, writers, and developers at Google.
 - [Facebook Design](https://facebook.design/) - Collection of articles, videos, and resources made by designers at Facebook.
 - [UsTwo](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/) - Pixel Perfect Precision Handbook 3.
-- [Vinsol](https://vinsol.com/blog/2014/11/20/tips-for-designers-from-a-developer/) - Tips for Designers: from a Developer.
 #### Inspiration
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 - [Call To Idea](https://www.calltoidea.com/) - Light up your imagination!.
 - [Android Niceties](https://androidniceties.tumblr.com/) - Aiming to provide inspiration and insight into Android UI conventions.
 - [Lovely UI](https://www.lovelyui.com/) - Collection of mobile UI elements.
 - [Brian Lovin](https://www.brianlovin.com/) - Visual exploration of the best products.
-- [Inspired UI](https://inspired-ui.com/) - iOS Mobile Apps Design Patterns.
 - [Sloppy UI](https://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
 #### Tools
 - [Pattern Lab](https://patternlab.io/) - Create atomic design systems with Pattern Lab.
@@ -137,7 +135,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Awesome Design Systems ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpate/awesome-design-systems) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpate/awesome-design-systems)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
 - [Awesome Sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/diessica/awesome-sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/diessica/awesome-sketch)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 #### Icons
-- [Use Iconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
 - [Icon Finder](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
 - [We Love Icon Font](https://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
 - [The Noun Project](https://thenounproject.com/) - Icons for everything.
@@ -148,14 +145,12 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Font Fabric](https://www.fontfabric.com/) - Fontfabric is an independent type foundry.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free Font Utopia.
 - [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
-- [Identyfont](https://www.identifont.com/index.html) - Identify a font by answering questions about key features.
 #### Typography
 - [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
 #### Colors
 - [Coolors](https://coolors.co/) - The super fast color schemes generator!.
 - [Colour Lovers](https://www.colourlovers.com/) - Creative community.
 - [Color Hunt](https://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
-- [Brand Colors](https://brand-colors.com/) - 1100+ color collection available in sass, less, stylus and css.
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
 
