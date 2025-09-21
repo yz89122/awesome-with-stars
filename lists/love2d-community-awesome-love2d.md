@@ -319,7 +319,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## UI
 *User Interface Libraries*
 
-* [CatUI ![GitHub Repo Stars](https://img.shields.io/github/stars/wilhantian/catui) ![GitHub last commit](https://img.shields.io/github/last-commit/wilhantian/catui)](https://github.com/wilhantian/catui) - A very light-weight GUI library for L��VE.
+* [CatUI ![GitHub Repo Stars](https://img.shields.io/github/stars/wilhantian/catui) ![GitHub last commit](https://img.shields.io/github/last-commit/wilhantian/catui)](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [GOOi ![GitHub Repo Stars](https://img.shields.io/github/stars/tavuntu/gooi) ![GitHub last commit](https://img.shields.io/github/last-commit/tavuntu/gooi)](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
