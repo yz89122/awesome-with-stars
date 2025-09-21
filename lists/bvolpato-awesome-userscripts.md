@@ -564,7 +564,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.chatgptwidescreen.com/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+        �� <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
@@ -809,7 +809,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.ddgpt.com/#readme">
             Readme</a> /
-        �� <a href="https://github.com/KudoAI/duckduckgpt/discussions">
+        📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
             Report bug</a>

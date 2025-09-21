@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
 ### Voxel
-- 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+- ��� [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
 - 💰 [Qubicle](https://www.getqubicle.com) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
