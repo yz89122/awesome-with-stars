@@ -905,7 +905,7 @@ Performs comprehensive code quality and security checks, featuring static analys
 </details>
 <br>
 
-[`/clean` ![GitHub Repo Stars](https://img.shields.io/github/stars/Graphlet-AI/eridu) ![GitHub last commit](https://img.shields.io/github/last-commit/Graphlet-AI/eridu)](https://github.com/Graphlet-AI/eridu/blob/main/.claude/commands/clean.md) &nbsp; by &nbsp; [Graphlet-AI](https://github.com/Graphlet-AI)  &nbsp;&nbsp;���️&nbsp;&nbsp;Apache-2.0  
+[`/clean` ![GitHub Repo Stars](https://img.shields.io/github/stars/Graphlet-AI/eridu) ![GitHub last commit](https://img.shields.io/github/last-commit/Graphlet-AI/eridu)](https://github.com/Graphlet-AI/eridu/blob/main/.claude/commands/clean.md) &nbsp; by &nbsp; [Graphlet-AI](https://github.com/Graphlet-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Addresses code formatting and quality issues by fixing black formatting problems, organizing imports with isort, resolving flake8 linting issues, and correcting mypy type errors.
 
 <details>
