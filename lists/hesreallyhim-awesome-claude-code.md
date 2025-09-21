@@ -111,6 +111,13 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
   </details>
 
 - <details open>
+  <summary><a href="#output-styles-">Output Styles</a></summary>
+
+  - [General](#general)
+
+  </details>
+
+- <details open>
   <summary><a href="#slash-commands-">Slash-Commands</a></summary>
 
   - [General](#general)
@@ -738,6 +745,12 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 <br>
 
 </details>
+
+<br>
+
+## Output Styles 💬 [🔝](#awesome-claude-code)
+
+> **Output styles** allow you to use Claude Code as any type of agent while keeping its core capabilities, such as running local scripts, reading/writing files, and tracking TODOs.
 
 <br>
 
@@ -1602,16 +1615,16 @@ Offers clear step-by-step installation instructions with multiple configuration 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Anthropic Documentation`](https://docs.claude.com/en/home) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
 
-[`Anthropic Quickstarts` ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/anthropic-quickstarts)](https://github.com/anthropics/anthropic-quickstarts/blob/main/CLAUDE.md) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Anthropic Quickstarts` ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-quickstarts) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-quickstarts)](https://github.com/anthropics/claude-quickstarts) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
 
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![GitHub Stats for anthropic-quickstarts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=anthropic-quickstarts&username=anthropics&all_stats=true&stats_only=true)
+![GitHub Stats for claude-quickstarts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-quickstarts&username=anthropics&all_stats=true&stats_only=true)
 
 </details>
 <br>
