@@ -861,7 +861,7 @@ Webpage: http://4sq.com/1JRQG4q
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄���/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
 
 #### Copenhagen Coffee Lab, Lisboa
 
@@ -1218,7 +1218,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# United States 🇺🇸
+# United States ��🇸
 
 ## Arizona <a id="arizona"></a>
 

@@ -522,7 +522,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
 * 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
 * 📝 [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
-* 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
+* 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiř�� Lebl
 * 📝 [Differential Equations](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (1922)
 
 ### Partial Differential Equations
