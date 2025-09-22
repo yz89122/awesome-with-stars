@@ -1,7 +1,7 @@
 <!--lint ignore awesome-heading-->
 <div align="center">
 
-[![Awesome Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/awesome-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/awesome-regex)](https://github.com/slevithan/awesome-regex/raw/main/media/awesome-regex-banner.svg)](https://github.com/slevithan/awesome-regex)
+[![Awesome Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/slevithan/awesome-regex) ![GitHub last commit](https://img.shields.io/github/last-commit/slevithan/awesome-regex)](https://github.com/slevithan/awesome-regex/raw/master/media/awesome-regex-banner.svg)](https://github.com/slevithan/awesome-regex)
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) &nbsp;<sup>Shortcut URL: [`regex.cool`](https://regex.cool/)</sup>
 </div>

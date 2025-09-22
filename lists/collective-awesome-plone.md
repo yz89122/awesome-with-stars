@@ -1,7 +1,7 @@
 # Awesome Plone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
-[<img align="right" src="https://github.com/collective/awesome-plone/raw/main/logo.png" height="64">](https://plone.org)
+[<img align="right" src="https://github.com/collective/awesome-plone/raw/master/logo.png" height="64">](https://plone.org)
 
 > A community-curated list of _awesome_ Plone add-ons.
 

@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-    <img alt="Git" src="https://github.com/arslanbilal/git-cheat-sheet/raw/main/Img/git-logo.png" height="190" width="455">
+    <img alt="Git" src="https://github.com/arslanbilal/git-cheat-sheet/raw/master/Img/git-logo.png" height="190" width="455">
 </p>
 
 ---
@@ -544,7 +544,7 @@ git mergetool
 
 ### Rebase Operations
 
-> ⚠��� **Warning:** Don't rebase published commits!
+> ⚠️ **Warning:** Don't rebase published commits!
 
 **Rebase current HEAD onto branch:**
 ```bash
@@ -803,13 +803,13 @@ git flow hotfix finish VERSION
 ### 📊 Commands Overview
 
 <p align="center">
-    <img alt="Git Flow Commands" src="https://github.com/arslanbilal/git-cheat-sheet/raw/main/Img/git-flow-commands.png" height="270" width="460">
+    <img alt="Git Flow Commands" src="https://github.com/arslanbilal/git-cheat-sheet/raw/master/Img/git-flow-commands.png" height="270" width="460">
 </p>
 
 ### 🌊 Git Flow Schema
 
 <p align="center">
-    <img alt="Git Flow Schema" src="https://github.com/arslanbilal/git-cheat-sheet/raw/main/Img/git-flow-commands-without-flow.png">
+    <img alt="Git Flow Schema" src="https://github.com/arslanbilal/git-cheat-sheet/raw/master/Img/git-flow-commands-without-flow.png">
 </p>
 
 ---
