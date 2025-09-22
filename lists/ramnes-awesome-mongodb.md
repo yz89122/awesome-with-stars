@@ -142,6 +142,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Go
  - [Bongo ![GitHub Repo Stars](https://img.shields.io/github/stars/go-bongo/bongo) ![GitHub last commit](https://img.shields.io/github/last-commit/go-bongo/bongo)](https://github.com/go-bongo/bongo) - ODM based on mgo
+ - [bsonic ![GitHub Repo Stars](https://img.shields.io/github/stars/kyle-williams-1/bsonic) ![GitHub last commit](https://img.shields.io/github/last-commit/kyle-williams-1/bsonic)](https://github.com/kyle-williams-1/bsonic) - Parse Lucene-style query syntax into BSON filters for MongoDB
  - [mgo ![GitHub Repo Stars](https://img.shields.io/github/stars/globalsign/mgo) ![GitHub last commit](https://img.shields.io/github/last-commit/globalsign/mgo)](https://github.com/globalsign/mgo) - Community Go driver
  - [minquery ![GitHub Repo Stars](https://img.shields.io/github/stars/icza/minquery) ![GitHub last commit](https://img.shields.io/github/last-commit/icza/minquery)](https://github.com/icza/minquery) - MongoDB cursor that paginates
  - [mongo-go-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-go-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-go-driver)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
