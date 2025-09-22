@@ -239,7 +239,7 @@ Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack develo
 Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for n8n_agent](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=n8n_agent&username=kingler&all_stats=true&stats_only=true)
 

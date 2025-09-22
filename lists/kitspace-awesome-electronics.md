@@ -188,6 +188,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Language PCB ![GitHub Repo Stars](https://img.shields.io/github/stars/Alhadis/language-pcb) ![GitHub last commit](https://img.shields.io/github/last-commit/Alhadis/language-pcb)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 - [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 - [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
+- [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -265,6 +266,6 @@ This list is for websites, services, software, tools and more: everything that y
  - [Complete EE Course](https://youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei&si=4Whr8h-_9kGdUN3_) - دورة الالكترونيات العملية
  - [Complete Digital Electronics Course](https://youtube.com/playlist?list=PLww54WQ2wa5obq6IbRbIiql8oHaTUp3T_&si=I4mqjy3JUZ8xmElT) - دورة الالكترونيات الرقمية
  - [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
- - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دو��ة تصميم اللوحات المطبوعة (PCB)
+ - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
 
 
