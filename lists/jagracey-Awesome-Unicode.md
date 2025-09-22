@@ -277,7 +277,7 @@ I'm not yet sure why U+3164 was specified to behave this way. Interestingly, U+3
 ```javascript
 > var ᅟ = 'foo';
 undefined
-> ��
+> ᅟ
 'foo'
 
 

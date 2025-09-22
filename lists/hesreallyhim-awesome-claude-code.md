@@ -6,7 +6,7 @@
   <!-- Same ASCII art for all screen sizes, just scales down on mobile -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/master/assets/logo-light.svg" alt="Awesome Claude Code" width="100%" style="max-width: 900px;">
+    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/logo-light.svg" alt="Awesome Claude Code" width="100%" style="max-width: 900px;">
   </picture>
   
 </div>
@@ -17,7 +17,7 @@
 
 <!--lint enable remark-lint:awesome-badge-->
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![FREEDOM FUNDER ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/raw/master/assets/freedom-funder-badge.svg)](https://bailproject.org)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![FREEDOM FUNDER ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/freedom-funder-badge.svg)](https://bailproject.org)
 
 
 # Awesome Claude Code
@@ -656,7 +656,7 @@ A highly customizable status line formatter for Claude Code CLI that displays mo
 Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
 
 <details>
-<summary>��� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-code-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-statusline&username=rz1989s&all_stats=true&stats_only=true)
 
@@ -1692,7 +1692,7 @@ I like drinking coffee, but I _really_ like bail relief.
 If you want to support this repository, you can do so by making a donation in my name to [The Bail Project](https://bailproject.org/), which helps pay for people's cash bail, so that people who are presumed innocent don't have to sit in a cage waiting for a court appearance. Although that doesn't directly compensate any of my work here, it would motivate me to continue to devote my time, energy, and resources, and any reader or project that donates will receive recognition (including one of these badass badges). Please check out the [DONATING](/DONATING.md) page for detailed information.
 
 **FREEDOM FUNDER BADGE**
-![FREEDOM FUNDER](https://github.com/hesreallyhim/awesome-claude-code/raw/master/assets/freedom-funder-badge.svg)
+![FREEDOM FUNDER](https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/freedom-funder-badge.svg)
 
 ### A note about licenses [🔝](#awesome-claude-code)
 

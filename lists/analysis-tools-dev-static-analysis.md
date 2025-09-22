@@ -2364,7 +2364,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
-- **misspell-fixer** :warning: — Quick tool for fixing common misspellings, typos in source code.
+- [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
 
 - [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 
