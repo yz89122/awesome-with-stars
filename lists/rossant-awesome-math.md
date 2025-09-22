@@ -373,7 +373,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - Christopher Griffin
 * 📝 [Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf) - Reinhard Diestel
-* ���� [Graph Theory : Interactive Algorithm Visualizer | Graph Theory Learning Platform](https://learngraphtheory.org/) - Hadjoudj Mohammed Islam 
+* 📝 [Graph Theory : Interactive Algorithm Visualizer | Graph Theory Learning Platform](https://learngraphtheory.org/) - Hadjoudj Mohammed Islam 
 
 
 ## Geometry and Topology
@@ -391,7 +391,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Differential Geometry
 
-* ���� [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
+* 📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
 * 📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
 * 📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 * 📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
