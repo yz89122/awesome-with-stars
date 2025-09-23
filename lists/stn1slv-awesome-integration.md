@@ -389,7 +389,7 @@ System integration is the process of linking together different IT systems (com
 - [IFTTT](https://ifttt.com/) - Easy-to-use platform that connects web services with simple conditional statements, empowering custom workflow creation.
 - [Make (Integromat)](https://www.make.com) - Low-code automation tool with a visual interface, advanced data transformation, and modular workflow execution.
 - [Microsoft Power Automate](https://powerautomate.microsoft.com) - Cloud-based service with an intuitive interface for creating automated workflows that seamlessly integrate diverse apps.
-- [n8n (⭐139k) ![GitHub Repo Stars](https://img.shields.io/github/stars/n8n-io/n8n) ![GitHub last commit](https://img.shields.io/github/last-commit/n8n-io/n8n)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+- [n8n (��139k) ![GitHub Repo Stars](https://img.shields.io/github/stars/n8n-io/n8n) ![GitHub last commit](https://img.shields.io/github/last-commit/n8n-io/n8n)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 - [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Streamlined tool that automates tasks between cloud applications, making integration accessible for non-developers.
 - [Zapier](https://zapier.com/) - Intuitive platform that connects hundreds of web services to create efficient, code-free automations.
 
