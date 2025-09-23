@@ -50,7 +50,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications ![GitHub Repo Stars](https://img.shields.io/github/stars/alan2207/bulletproof-react) ![GitHub last commit](https://img.shields.io/github/last-commit/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/typescript-cheatsheets/react-typescript-cheatsheet)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [The Fullstack Tutorial for GraphQL ![GitHub Repo Stars](https://img.shields.io/github/stars/howtographql/howtographql) ![GitHub last commit](https://img.shields.io/github/last-commit/howtographql/howtographql)](https://github.com/howtographql/howtographql)
 
 #### React Frameworks
 
@@ -100,14 +99,12 @@ A collection of awesome things regarding the React ecosystem.
 #### React Routing
 
 - [react-router ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/react-router) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/react-router)](https://github.com/remix-run/react-router) - Declarative routing for React
-- [wouter ![GitHub Repo Stars](https://img.shields.io/github/stars/molefrog/wouter) ![GitHub last commit](https://img.shields.io/github/last-commit/molefrog/wouter)](https://github.com/molefrog/wouter) - A minimalist-friendly routing
 - [tanstack-router ![GitHub Repo Stars](https://img.shields.io/github/stars/TanStack/router) ![GitHub last commit](https://img.shields.io/github/last-commit/TanStack/router)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 #### React Development Tools
 
 - [vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel ![GitHub Repo Stars](https://img.shields.io/github/stars/parcel-bundler/parcel) ![GitHub last commit](https://img.shields.io/github/last-commit/parcel-bundler/parcel)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
-- [million ![GitHub Repo Stars](https://img.shields.io/github/stars/aidenybai/million) ![GitHub last commit](https://img.shields.io/github/last-commit/aidenybai/million)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 - [reactotron ![GitHub Repo Stars](https://img.shields.io/github/stars/skellock/reactotron) ![GitHub last commit](https://img.shields.io/github/last-commit/skellock/reactotron)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickcr/eslint-plugin-react) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickcr/eslint-plugin-react)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render ![GitHub Repo Stars](https://img.shields.io/github/stars/welldone-software/why-did-you-render) ![GitHub last commit](https://img.shields.io/github/last-commit/welldone-software/why-did-you-render)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
@@ -134,15 +131,12 @@ A collection of awesome things regarding the React ecosystem.
 - [react-select ![GitHub Repo Stars](https://img.shields.io/github/stars/JedWatson/react-select) ![GitHub last commit](https://img.shields.io/github/last-commit/JedWatson/react-select)](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-big-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/jquense/react-big-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/jquense/react-big-calendar)](https://github.com/jquense/react-big-calendar) - Calendar component
 - [react-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/Hacker0x01/react-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/Hacker0x01/react-datepicker)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
-- [react-loading-skeleton ![GitHub Repo Stars](https://img.shields.io/github/stars/dvtng/react-loading-skeleton) ![GitHub last commit](https://img.shields.io/github/last-commit/dvtng/react-loading-skeleton)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 - [react-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/zpao/qrcode.react) ![GitHub last commit](https://img.shields.io/github/last-commit/zpao/qrcode.react)](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer ![GitHub Repo Stars](https://img.shields.io/github/stars/pierpo/react-archer) ![GitHub last commit](https://img.shields.io/github/last-commit/pierpo/react-archer)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
-- [react-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/react-icons/react-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/react-icons/react-icons)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 - [react-complex-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/lukasbach/react-complex-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/lukasbach/react-complex-tree)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories ![GitHub Repo Stars](https://img.shields.io/github/stars/mohitk05/react-insta-stories) ![GitHub last commit](https://img.shields.io/github/last-commit/mohitk05/react-insta-stories)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [swiper ![GitHub Repo Stars](https://img.shields.io/github/stars/nolimits4web/swiper) ![GitHub last commit](https://img.shields.io/github/last-commit/nolimits4web/swiper)](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 - [keen-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/rcbyr/keen-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/rcbyr/keen-slider)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
-- [cookie-consent-banner ![GitHub Repo Stars](https://img.shields.io/github/stars/porscheofficial/cookie-consent-banner) ![GitHub last commit](https://img.shields.io/github/last-commit/porscheofficial/cookie-consent-banner)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch ![GitHub Repo Stars](https://img.shields.io/github/stars/anatoliygatt/heart-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/anatoliygatt/heart-switch)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [kbar ![GitHub Repo Stars](https://img.shields.io/github/stars/timc1/kbar) ![GitHub last commit](https://img.shields.io/github/last-commit/timc1/kbar)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/yairEO/tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/yairEO/tagify)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
@@ -152,7 +146,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Components Sandboxes
 
 - [storybook ![GitHub Repo Stars](https://img.shields.io/github/stars/storybookjs/storybook) ![GitHub last commit](https://img.shields.io/github/last-commit/storybookjs/storybook)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
-- [react-styleguidist ![GitHub Repo Stars](https://img.shields.io/github/stars/styleguidist/react-styleguidist) ![GitHub last commit](https://img.shields.io/github/last-commit/styleguidist/react-styleguidist)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos ![GitHub Repo Stars](https://img.shields.io/github/stars/react-cosmos/react-cosmos) ![GitHub last commit](https://img.shields.io/github/last-commit/react-cosmos/react-cosmos)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [bit ![GitHub Repo Stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - A build system for development of composable software
 
@@ -209,9 +202,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Integration
 
 - [rescript-compiler ![GitHub Repo Stars](https://img.shields.io/github/stars/rescript-lang/rescript-compiler) ![GitHub last commit](https://img.shields.io/github/last-commit/rescript-lang/rescript-compiler)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
-- [react-rails ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/reactjs/react-rails)](https://github.com/reactjs/react-rails) - Integrate React with Rails
 - [fulcro ![GitHub Repo Stars](https://img.shields.io/github/stars/fulcrologic/fulcro) ![GitHub last commit](https://img.shields.io/github/last-commit/fulcrologic/fulcro)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
-- [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
 #### React Real Apps
 
@@ -231,7 +222,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React Native GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native)
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
-- [Expo Snack Playground](https://snack.expo.dev/)
 
 #### React Native Navigation
 
