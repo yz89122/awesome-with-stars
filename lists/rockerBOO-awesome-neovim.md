@@ -453,7 +453,7 @@
 
 <!--lint disable double-link -->
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 <!--lint enable double-link -->
 
@@ -799,6 +799,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [BrunoCiccarino/gardenal ![GitHub Repo Stars](https://img.shields.io/github/stars/BrunoCiccarino/gardenal) ![GitHub last commit](https://img.shields.io/github/last-commit/BrunoCiccarino/gardenal)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 - [LmanTW/themify.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LmanTW/themify.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LmanTW/themify.nvim)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 - [nishu-murmu/ThemeSwitch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nishu-murmu/ThemeSwitch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nishu-murmu/ThemeSwitch.nvim)](https://github.com/nishu-murmu/ThemeSwitch.nvim) - Light weight color scheme switcher.
+- [Erl-koenig/theme-hub.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Erl-koenig/theme-hub.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Erl-koenig/theme-hub.nvim)](https://github.com/Erl-koenig/theme-hub.nvim) - Manage and install colorschemes via telescope-pickers.
 
 <!--lint disable double-link -->
 
