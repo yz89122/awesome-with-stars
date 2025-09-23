@@ -805,7 +805,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.ddgpt.com">
+        ��� <a href="https://gm.ddgpt.com">
             Install</a> /
         📖 <a href="https://docs.ddgpt.com/#readme">
             Readme</a> /
