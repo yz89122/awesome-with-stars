@@ -149,6 +149,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TypL ![GitHub Repo Stars](https://img.shields.io/github/stars/getify/TypL) ![GitHub last commit](https://img.shields.io/github/last-commit/getify/TypL)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions ![GitHub Repo Stars](https://img.shields.io/github/stars/xodio/hm-def) ![GitHub last commit](https://img.shields.io/github/last-commit/xodio/hm-def)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 * [Zod ![GitHub Repo Stars](https://img.shields.io/github/stars/colinhacks/zod) ![GitHub last commit](https://img.shields.io/github/last-commit/colinhacks/zod)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
+* [Yup ![GitHub Repo Stars](https://img.shields.io/github/stars/jquense/yup) ![GitHub last commit](https://img.shields.io/github/last-commit/jquense/yup)](https://github.com/jquense/yup) - JavaScript schema builder and validator.
 
 ## Testing Frameworks
 
@@ -675,6 +676,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Highlight.js ![GitHub Repo Stars](https://img.shields.io/github/stars/isagalaev/highlight.js) ![GitHub last commit](https://img.shields.io/github/last-commit/isagalaev/highlight.js)](https://github.com/isagalaev/highlight.js) - JavaScript syntax highlighter.
 * [PrismJS ![GitHub Repo Stars](https://img.shields.io/github/stars/PrismJS/prism) ![GitHub last commit](https://img.shields.io/github/last-commit/PrismJS/prism)](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+* [shiki ![GitHub Repo Stars](https://img.shields.io/github/stars/shikijs/shiki) ![GitHub last commit](https://img.shields.io/github/last-commit/shikijs/shiki)](https://github.com/shikijs/shiki) - Code highlighter powered by VS Code TextMate grammars. Accurate, themeable, works in Node or browser, great for JS and TS.
 
 ## Loading Status
 *Libraries for indicate load status.*
