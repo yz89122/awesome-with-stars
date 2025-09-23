@@ -656,7 +656,7 @@ A highly customizable status line formatter for Claude Code CLI that displays mo
 Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>��� GitHub Stats</summary>
 
 ![GitHub Stats for claude-code-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-statusline&username=rz1989s&all_stats=true&stats_only=true)
 
@@ -689,7 +689,7 @@ A vim-style powerline statusline for Claude Code with real-time usage tracking, 
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for CCNotify](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCNotify&username=dazuiba&all_stats=true&stats_only=true)
 
