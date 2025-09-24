@@ -347,7 +347,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 
 ## Security & Safety 🪂
 
-### Simulators 🌐
+### Simulators ����
 
 Before you damage any hardware you can learn to avoid common pitfalls and train by virtual flights using your handhelt TX. Other allow to test / benchmark autopilots to work in controlled environments.
 
@@ -376,7 +376,7 @@ Malfunction can have dramatic consequences, as well as your drone can cause mass
 
 * [Ardupilot Copter Checklist](https://ardupilot.org/copter/docs/checklist.html).
 
-### ID Systems ���
+### ID Systems 🛂
 
 We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.
 
