@@ -1026,6 +1026,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Spotify SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/loverajoel/spotify-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/loverajoel/spotify-sdk)](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/square/connect-nodejs-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/square/connect-nodejs-sdk)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 * [OpenAI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-node) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-node)](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
+* [Stripe Node.js SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-node) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-node)](https://github.com/stripe/stripe-node) - Stripe Node.js SDK lets you integrate payments, subscriptions, and billing into your JavaScript/TypeScript apps.
 
 ## Full Text Search
 
@@ -1043,6 +1044,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Kysely ![GitHub Repo Stars](https://img.shields.io/github/stars/kysely-org/kysely) ![GitHub last commit](https://img.shields.io/github/last-commit/kysely-org/kysely)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
 * [Knex ![GitHub Repo Stars](https://img.shields.io/github/stars/knex/knex) ![GitHub last commit](https://img.shields.io/github/last-commit/knex/knex)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 * [MikroORM ![GitHub Repo Stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/mikro-orm/mikro-orm)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+* [Objection.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Vincit/objection.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Vincit/objection.js)](https://github.com/Vincit/objection.js) A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.
+
 
 ## WebSockets
 
