@@ -440,7 +440,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FAB](https://codepoints.net/U+1FAB?lang=en) | `ᾫ`       | GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI       | `ὣ`, `ι`         | U+1F63, U+03B9         |
 | [U+1FAC](https://codepoints.net/U+1FAC?lang=en) | `ᾬ`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI        | `ὤ`, `ι`         | U+1F64, U+03B9         |
 | [U+1FAD](https://codepoints.net/U+1FAD?lang=en) | `ᾭ`       | GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI        | `ὥ`, `ι`         | U+1F65, U+03B9         |
-| [U+1FAE](https://codepoints.net/U+1FAE?lang=en) | `ᾮ`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI | `ὦ`, `ι`         | U+1F66, U+03B9         |
+| [U+1FAE](https://codepoints.net/U+1FAE?lang=en) | `��`       | GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI | `ὦ`, `ι`         | U+1F66, U+03B9         |
 | [U+1FAF](https://codepoints.net/U+1FAF?lang=en) | `ᾯ`       | GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI | `ὧ`, `ι`         | U+1F67, U+03B9         |
 | [U+1FB2](https://codepoints.net/U+1FB2?lang=en) | `ᾲ`       | GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI                    | `ὰ`, `ι`         | U+1F70, U+03B9         |
 | [U+1FB3](https://codepoints.net/U+1FB3?lang=en) | `ᾳ`       | GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI                              | `α`, `ι`         | U+03B1, U+03B9         |
@@ -470,7 +470,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+1FF7](https://codepoints.net/U+1FF7?lang=en) | `ῷ`       | GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI              | `ω`, `͂`, `ι`     | U+03C9, U+0342, U+03B9 |
 | [U+1FFC](https://codepoints.net/U+1FFC?lang=en) | `ῼ`       | GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI                           | `ω`, `ι`         | U+03C9, U+03B9         |
 | [U+FB00](https://codepoints.net/U+FB00?lang=en) | `ﬀ`       | LATIN SMALL LIGATURE FF                                                  | `f`, `f`         | U+0066, U+0066         |
-| [U+FB01](https://codepoints.net/U+FB01?lang=en) | `���`       | LATIN SMALL LIGATURE FI                                                  | `f`, `i`         | U+0066, U+0069         |
+| [U+FB01](https://codepoints.net/U+FB01?lang=en) | `ﬁ`       | LATIN SMALL LIGATURE FI                                                  | `f`, `i`         | U+0066, U+0069         |
 | [U+FB02](https://codepoints.net/U+FB02?lang=en) | `ﬂ`       | LATIN SMALL LIGATURE FL                                                  | `f`, `l`         | U+0066, U+006C         |
 | [U+FB03](https://codepoints.net/U+FB03?lang=en) | `ﬃ`       | LATIN SMALL LIGATURE FFI                                                 | `f`, `f`, `i`    | U+0066, U+0066, U+0069 |
 | [U+FB04](https://codepoints.net/U+FB04?lang=en) | `ﬄ`       | LATIN SMALL LIGATURE FFL                                                 | `f`, `f`, `l`    | U+0066, U+0066, U+006C |

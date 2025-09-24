@@ -777,7 +777,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Facebook Group](https://web.facebook.com/groups/flutterphilippines/)
 - [Github](https://github.com/flutterph)
 
-### 🇵🇱 Poland
+### 🇵���� Poland
 - [Flutter Developers Poland Facebook Group](https://www.facebook.com/groups/2228619364094561/about/)
 - [Flutter Poland Slack workspace](http://bit.ly/flutter-pl-slack)
 - [Flutter Warsaw Meetup](https://www.meetup.com/Flutter-Warsaw/)
