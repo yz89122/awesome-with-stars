@@ -116,6 +116,7 @@
   - [kafka-node ![GitHub Repo Stars](https://img.shields.io/github/stars/SOHU-Co/kafka-node) ![GitHub last commit](https://img.shields.io/github/last-commit/SOHU-Co/kafka-node)](https://github.com/SOHU-Co/kafka-node) - Node.js client for Apache Kafka 0.8.
   - [Secor ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/secor) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/secor)](https://github.com/pinterest/secor) - Pinterest's Kafka to S3 distributed consumer.
   - [Kafka-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/kafka-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/kafka-logger)](https://github.com/uber/kafka-logger) - Kafka-winston logger for Node.js from Uber.
+  - [Kroxylicious ![GitHub Repo Stars](https://img.shields.io/github/stars/kroxylicious/kroxylicious) ![GitHub last commit](https://img.shields.io/github/last-commit/kroxylicious/kroxylicious)](https://github.com/kroxylicious/kroxylicious) - A Kafka Proxy, solving problems like encrypting your Kafka data at rest.
 - [AWS Kinesis](https://aws.amazon.com/kinesis/) - A fully managed, cloud-based service for real-time data processing over large, distributed data streams.
 - [RabbitMQ](https://www.rabbitmq.com/) - Robust messaging for applications.
 - [dlt](https://www.dlthub.com) - A fast&simple pipeline building library for python data devs, runs in notebooks, cloud functions, airflow, etc.
