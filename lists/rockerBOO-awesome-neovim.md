@@ -147,6 +147,7 @@
 - [mfussenegger/nvim-jdtls ![GitHub Repo Stars](https://img.shields.io/github/stars/mfussenegger/nvim-jdtls) ![GitHub last commit](https://img.shields.io/github/last-commit/mfussenegger/nvim-jdtls)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 - [Kasama/nvim-custom-diagnostic-highlight ![GitHub Repo Stars](https://img.shields.io/github/stars/Kasama/nvim-custom-diagnostic-highlight) ![GitHub last commit](https://img.shields.io/github/last-commit/Kasama/nvim-custom-diagnostic-highlight)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 - [mrcjkb/haskell-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcjkb/haskell-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcjkb/haskell-tools.nvim)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+- [p00f/clangd_extensions.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/p00f/clangd_extensions.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/p00f/clangd_extensions.nvim)](https://github.com/p00f/clangd_extensions.nvim) - Off-spec clangd features for Neovim's LSP client.
 - [ranjithshegde/ccls.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ranjithshegde/ccls.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ranjithshegde/ccls.nvim)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 - [idanarye/nvim-buffls ![GitHub Repo Stars](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![GitHub last commit](https://img.shields.io/github/last-commit/idanarye/nvim-buffls)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 - [DNLHC/glance.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DNLHC/glance.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DNLHC/glance.nvim)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
@@ -453,7 +454,7 @@
 
 <!--lint disable double-link -->
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 <!--lint enable double-link -->
 
