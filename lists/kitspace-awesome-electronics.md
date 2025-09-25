@@ -180,9 +180,9 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Inventory Management and Purchasing
 - [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
-- [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB ![GitHub Repo Stars](https://img.shields.io/github/stars/Part-DB/Part-DB) ![GitHub last commit](https://img.shields.io/github/last-commit/Part-DB/Part-DB)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
-
+- [InvenTree](https://inventree.org) - Open source web service for managing part inventory with parametric search, extensive API and plugin system
+- 
 ## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 - [Language PCB ![GitHub Repo Stars](https://img.shields.io/github/stars/Alhadis/language-pcb) ![GitHub last commit](https://img.shields.io/github/last-commit/Alhadis/language-pcb)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
