@@ -20,6 +20,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Containers](#containers)
 - [Content Hub](#content-hub)
 - [Content Hub One](#content-hub-one)
+- [Content SDK](#content-sdk)
 - [Content Search](#content-search)
 - [Data](#data)
 - [Data Exchange Framework](#data-exchange-framework)
@@ -41,7 +42,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Item Resource Files](#item-resource-files)
 - [Languages](#languages)
 - [Logging](#logging)
-- [Maintenance](#maintenance) 
+- [Maintenance](#maintenance)
+- [Marketplace](#marketplace)
 - [Media](#media)
 - [NET Core Headless](#net-core-headless)
 - [ORM](#orm) 
@@ -169,6 +171,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Content Hub ONE examples ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/contenthubone-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/contenthubone-examples)](https://github.com/Sitecore/contenthubone-examples) - A set of various examples using Content Hub One.
 - [Sitecore.Demo.CHONE ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/Sitecore.Demo.CHONE) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/Sitecore.Demo.CHONE)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
 - [Content Hub ONE Next.JS Starter Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/content-hub-one-nextjs-starterkit) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/content-hub-one-nextjs-starterkit)](https://github.com/Sitecore/content-hub-one-nextjs-starterkit) - The starter kit contains helping functionalities such as handling GraphQL JSON output conversion to HTML for Rich Text, Media Fields, and References. It also contains a small example implementation that Developers can use to start their customer projects.
+
+## Content SDK
+
+- [Sitecore Content SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/content-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/content-sdk)](https://github.com/Sitecore/content-sdk) - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+- [XM Cloud Front End Application Starter Kits ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/xmcloud-starter-js) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/xmcloud-starter-js)](https://github.com/Sitecore/xmcloud-starter-js) - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
 
@@ -339,6 +346,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Admin Scripts for Development and Deploying ![GitHub Repo Stars](https://img.shields.io/github/stars/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) ![GitHub last commit](https://img.shields.io/github/last-commit/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
 - [Sitecore Instance Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/Sitecore-Instance-Manager) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/Sitecore-Instance-Manager)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
 - [Sifon ![GitHub Repo Stars](https://img.shields.io/github/stars/MartinMiles/Sifon) ![GitHub last commit](https://img.shields.io/github/last-commit/MartinMiles/Sifon)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities.
+
+## Marketplace
+- [Sitecore Marketplace Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/marketplace-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/marketplace-starter)](https://github.com/Sitecore/marketplace-starter) - the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
+- [Google Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/marketplace-google-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/marketplace-google-analytics)](https://github.com/Sitecore/marketplace-google-analytics) - Seamless Google Analytics integration within the XM Cloud environment. This module provides real-time analytics data visualization, including page views and active user metrics, directly within your Sitecore experience.
+- [Icon Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/Sitecore/marketplace-icon-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/Sitecore/marketplace-icon-picker)](https://github.com/Sitecore/marketplace-icon-picker) - Marketplace Icon picker - a sample application showingcasing how to create a custom field extension.
 
 ## Media
 
