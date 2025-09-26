@@ -62,6 +62,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`run-claude-docker` ![GitHub Repo Stars](https://img.shields.io/github/stars/icanhasjonas/run-claude-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/icanhasjonas/run-claude-docker)](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker&username=icanhasjonas&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`ClaudoPro Directory` ![GitHub Repo Stars](https://img.shields.io/github/stars/JSONbored/claudepro-directory) ![GitHub last commit](https://img.shields.io/github/last-commit/JSONbored/claudepro-directory)](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
 
@@ -436,6 +447,17 @@ Development environments for coding agents. Enable multiple agents to work safel
 </details>
 <br>
 
+[`run-claude-docker` ![GitHub Repo Stars](https://img.shields.io/github/stars/icanhasjonas/run-claude-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/icanhasjonas/run-claude-docker)](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker&username=icanhasjonas&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`stt-mcp-server-linux` ![GitHub Repo Stars](https://img.shields.io/github/stars/marcindulak/stt-mcp-server-linux) ![GitHub last commit](https://img.shields.io/github/last-commit/marcindulak/stt-mcp-server-linux)](https://github.com/marcindulak/stt-mcp-server-linux) &nbsp; by &nbsp; [marcindulak](https://github.com/marcindulak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 A push-to-talk speech transcription setup for Linux using a Python MCP server. Runs locally in Docker with no external API calls. Your speech is recorded, transcribed into text, and then sent to Claude running in a Tmux session.
 
@@ -573,7 +595,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 </details>
 
 <details open>
-<summary><h3>Orchestrators <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>Orchestrators <a href="#awesome-claude-code">��</a></h3></summary>
 
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
