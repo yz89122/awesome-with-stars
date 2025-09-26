@@ -453,7 +453,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
-* ���� [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
+* 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * 📝 [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
 * 📝 [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
@@ -462,7 +462,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
 * 📝 [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
 * 📝 [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
-* 📝 [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
+* �� [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 * 📝 [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 * 📝 [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
 * 📝 [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
